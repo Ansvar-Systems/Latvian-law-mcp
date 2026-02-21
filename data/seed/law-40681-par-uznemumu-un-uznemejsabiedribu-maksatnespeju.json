@@ -1,0 +1,1275 @@
+{
+  "id": "lv-law-40681",
+  "type": "statute",
+  "title": "Par uzņēmumu un uzņēmējsabiedrību maksātnespēju",
+  "short_name": "TA-40681",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/40681-par-uznemumu-un-uznemejsabiedribu-maksatnespeju",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) administrators — tiesas iecelta persona, kura piedalās maksātnespējas procesā, realizē šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā;\n2) bankrots — maksātnespējas stāvokļa risinājums, kas izpaužas kā parādnieka likvidācija un kreditoru prasījumu apmierināšana no līdzekļiem, kuri iegūti likvidācijas procesā, atsavinot parādnieka mantu šajā likumā noteiktajā kārtībā;\n3) faktiskā maksātnespēja — parādnieka stāvoklis, kurā tas nespēj nokārtot savas parādu saistības līdz maksātnespējas lietas ierosināšanai;\n4) kapitāla daļu turētājs — šā likuma izpratnē: akcionārs, cita persona, arī valsts, pašvaldība vai līgumsabiedrības dalībnieks, kura ieguldījums ir uzņēmuma vai uzņēmējsabiedrības pamatkapitālā;\n5) kompetentas valsts institūcijas — šā likuma izpratnē: prokuratūra, nodokļu administrācija, Privatizācijas aģentūra, pilsētas dome, rajona vai pagasta padome vai Zemkopības ministrija, kā arī Finanšu un kapitāla tirgus komisija (apdrošināšanas sabiedrību un apdrošināšanas brokeru sabiedrību maksātnespējas procesā);\n6) kreditors — šā likuma izpratnē: valsts, pašvaldība, juridiskā persona, fiziskā persona vai ar līgumu saistīta fizisko personu grupa, kurai ir prasījuma tiesības pret parādnieku;\n7) kreditoru komiteja — kreditoru sapulces ievēlēta institūcija, kura pārstāv kreditoru sapulci šajā likumā noteiktajos gadījumos un atbilstoši noteiktajam pilnvaru apjomam;\n8) kreditoru sapulce — saskaņā ar šā likuma noteikumiem organizēta kreditoru kopīgas darbības forma;\n9) kriminālsodāms bankrots — ar tiesas nolēmumu konstatēts maksātnespējas stāvoklis, līdz kuram parādnieks ir novests apzināti (ļaunprātīgs bankrots) vai nolaidības dēļ;\n10) maksātnespēja — ar tiesas spriedumu konstatēts parādnieka stāvoklis, kurā tas nespēj nokārtot savas parādu saistības;\n11) maksātnespējas pieteikums — parādnieka, tā likvidatora (likvidācijas komisijas), kreditora (kreditoru grupas), kompetentu valsts institūciju vai Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk — Padomes regula Nr. 1346/2000 ) 29.panta \"a\" punktā norādītās personas pieteikums tiesā, uz kura pamata var ierosināt lietu par maksātnespēju;\n12) maksātnespējas process — process, kas risinās uzņēmumā vai uzņēmējsabiedrībā no maksātnespējas pieteikuma iesniegšanas dienas līdz dienai, kad tiesa pieņem lēmumu par maksātnespējas procesa izbeigšanu;\n13) mierizlīgums — maksātnespējas stāvokļa risinājums, kas izpaužas kā vienošanās starp kreditoriem un parādnieku par parādnieka saistību izpildi šajā likumā paredzētajos gadījumos un kārtībā;\n14) nenodrošinātais kreditors — kreditors, kura prasījuma tiesība (prasījums) nav nodrošināta ar ķīlu;\n15) nodrošinātais kreditors - kreditors, kura prasījuma tiesība (prasījums) ir nodrošināta ar rokas ķīlu, komercķīlu, zemesgrāmatā vai kuģu reģistrā ierakstītu hipotēku;\n16) parādnieka pārstāvji — parādnieka kapitāla daļu turētāji, parādnieka pārvaldes institūciju locekļi un amatpersonas, kuras saskaņā ar parādnieka statūtiem vai līgumiem ir tiesīgas pieņemt lēmumus attiecībā uz parādnieku vai pārstāvēt parādnieku;\n17) parādnieks — uzņēmums, uzņēmējsabiedrība, komercreģistrā reģistrēts komersants, kā arī ārvalstī reģistrēta persona, kas veic pastāvīgu saimniecisko darbību, bet nespēj nokārtot savas parādu saistības;\n18) sanācija — maksātnespējas stāvokļa risinājums, kas izpaužas kā plānveidīgu pasākumu veikšana nolūkā novērst parādnieka iespējamo bankrotu, atjaunot maksātspēju un apmierināt kreditoru prasījumus;\n19) Aģentūra — valsts aģentūra \"Maksātnespējas administrācija\", kura šajā likumā noteiktajā kārtībā uzrauga administratoru darbību maksātnespējas procesā un veic citas šajā likumā noteiktās funkcijas;\n20) sertifikāts — šā likuma izpratnē: Aģentūras izsniegts dokuments, kas apliecina fiziskās personas profesionālo kompetenci veikt maksātnespējas procesa administratora pienākumus."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma subjekti",
+      "content": "(1) Šis likums attiecas uz visiem Uzņēmumu reģistrā reģistrētajiem uzņēmumiem un uzņēmējsabiedrībām, kā arī piemērojams komercreģistrā reģistrētajiem komersantiem.\n(2) Kredītiestāžu maksātnespējas procesā nav piemērojami šā likuma noteikumi.\n(3) Apdrošināšanas sabiedrību un apdrošināšanas brokeru sabiedrību maksātnespējas procesā piemērojami šā likuma noteikumi, ievērojot tos izņēmumus un papildu noteikumus, kas norādīti Apdrošināšanas sabiedrību un to uzraudzības likumā.\n(3 1 ) Ieguldījumu brokeru sabiedrību maksātnespējas procesā piemērojami šā likuma noteikumi, ievērojot tos izņēmumus un papildu noteikumus, kuri norādīti likumā \"Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās\".\n(4) Ja Saeimas apstiprinātajos starptautiskajos līgumos ir paredzēta citāda kārtība nekā šajā likumā, tiek piemērotas starptautisko līgumu normas.\n(5) Finanšu nodrošinājuma līguma subjektu maksātnespējas procesā piemērojami šā likuma noteikumi, ievērojot tos izņēmumus un papildu noteikumus, kuri norādīti Finanšu nodrošinājuma likumā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Maksātnespējas pazīmes",
+      "content": "(1) Parādnieku atzīst par maksātnespējīgu, ja tiesa konstatē vismaz vienu no šādām pazīmēm:\n1) parādnieks nespēj vai sakarā ar pierādāmiem apstākļiem nespēs pienācīgi nokārtot savas parādu saistības;\n2) parādnieks ir pārtraucis kārtot parādu saistības, kurām iestājies izpildes termiņš, un ir ievēroti šā likuma 39.panta 1.punkta noteikumi;\n3) parādnieka parādu saistības pārsniedz tā aktīvus.\n(2) Par apstākļiem, kuru dēļ parādnieks nespēs pienācīgi nokārtot savas parādu saistības, šā likuma izpratnē atzīst vismaz vienu no šādiem apstākļiem:\n1) to trešo personu maksātnespēju, kurām ir parādu saistības pret parādnieku;\n2) faktu, ka ilgstoši nav saņemta samaksa par precēm vai pakalpojumiem;\n3) neapdrošinātas mantas bojāeju;\n4) zaudējumus, kas nodarīti trešo personu nelikumīgu darbību rezultātā.\n(3) Minētie apstākļi pierādāmi ar rakstveida pierādījumiem. Par pierādījumu pietiekamību un ticamību lemj tiesa."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Maksātnespējas procesā iesaistītās institūcijas un personas",
+      "content": "(1) Maksātnespējas procesā ir iesaistīta parādnieka kreditoru sapulce un kreditoru komiteja, administrators, Aģentūra, parādnieks un tā pārstāvji.\n(2) Likumā noteiktajos gadījumos jautājumus, kas saistīti ar maksātnespējas procesu, izlemj tiesa."
+    },
+    {
+      "provision_ref": "Art. 4.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4.1",
+      "title": "4. 1 pants. Administratoru konsultatīvā pārstāvība",
+      "content": "Administratoru konsultatīvo koleģiālo pārstāvību attiecībās ar valsts un pašvaldību institūcijām var īstenot tās administratoru profesionālās biedrības (apvienības), kuras katra apvieno ne mazāk kā vienu ceturto daļu no sertificēto maksātnespējas procesa administratoru kopskaita."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Tiesa kā maksātnespējas procesā iesaistīta institūcija",
+      "section": "5",
+      "title": "Lietu piekritība un tiesvedība",
+      "content": "(1) Lietu par parādnieka maksātnespēju izskata tiesa pēc parādnieka juridiskās adreses. Šī tiesa izskata arī citus ar parādnieka maksātnespēju saistītos jautājumus.\n(1 1 ) Lietu par Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras uzsākšanu izskata tiesa atbilstoši parādnieka galveno interešu centra atrašanās vietai, bet šīs regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanas gadījumā — atbilstoši parādnieka uzņēmuma (Padomes regulas Nr. 1346/2000 2.panta \"h\" punkta izpratnē) atrašanās vietai.\n(2) Tiesvedību maksātnespējas lietās regulē šis likums un Civilprocesa likums."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "6",
+      "title": "Tiesības piedalīties kreditoru sapulcē",
+      "content": "(1) Tiesības piedalīties kreditoru sapulcē ir kreditoriem neatkarīgi no prasījuma apmēra vai to likumiskajiem vai līgumiskajiem pārstāvjiem. Kreditoru sapulcē var būt klāt Aģentūras pārstāvji.\n(2) Ja kreditoru skaits ir lielāks par trim simtiem, kreditoru sapulcē piedalās tie kreditori, kuri pārstāv ne mazāk par vienu procentu no visu prasījumu summas. Šajā gadījumā viena persona pārstāv vairākus kreditorus.\n(3) Balsstiesības kreditoru sapulcē ir tikai nenodrošinātajiem kreditoriem, bet gadījumos, kad notiek balsojums par sanācijas plānu, arī nodrošinātajiem kreditoriem pilnā prasījumu apmērā. Ja sanācijas plāns tiek pieņemts, balsstiesības kreditoru sapulcē sanācijas laikā ir arī tiem nodrošinātajiem kreditoriem, kuru tiesības realizēt ķīlu ir ierobežotas.\n(4) Nodrošinātajiem kreditoriem kreditoru sapulcē ir balsstiesības parāda nenodrošinātās daļas apjomā. Nodrošinātie kreditori var atteikties no nodrošinājuma vai tā daļas un pieteikt prasījumu, attiecīgi iegūstot balsstiesības visa parāda vai tā nenodrošinātās daļas apjomā.\n(5) Uz kreditoru sapulcēm tiek uzaicināti parādnieka pārstāvji ( 33.pants ).\n(6) Ja kreditoru sapulcē piedalās pret parādnieku citā Eiropas Savienības dalībvalstī (turpmāk — cita dalībvalsts) uzsāktajā Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators, viņš kreditoru sapulces vadītājam uzrāda tiesas nolēmuma vai cita apliecinājuma pienācīgi apliecinātu norakstu un noteiktā kārtībā apliecinātu tā tulkojumu valsts valodā par šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatora iecelšanu.\n(7) Ja pret parādnieku citā dalībvalstī uzsāktajā Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators pieteicis kreditoru prasījumus pret parādnieku Latvijā uzsāktajā maksātnespējas procedūrā, tad šīs regulas 3.panta 1. vai 2.punktā noteiktajā maksātnespējas procedūrā iesaistītais likvidators iegūst kreditora tiesības pieteikto kreditoru prasījumu apmērā normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "7",
+      "title": "Kreditoru sapulces pilnvaras",
+      "content": "(1) Kreditoru sapulce:\n1) ievēlē kreditoru komiteju;\n2) izvēlas maksātnespējas stāvokļa risinājumu un nosaka tā pamatnoteikumus;\n3) izskata un pieņem vai noraida iesniegtos maksātnespējas stāvokļa risinājumus (mierizlīguma projektu, sanācijas plānu, lēmumu par bankrotu) un parādu dzēšanas kārtību šajā likumā noteikto prioritāšu secībā;\n4) apstiprina šā likuma 106.pantā paredzētos līgumus;\n5) pieprasa administratoram pārskatus par viņa darbu, noklausās un apstiprina tos;\n6) ja uzskata par nepieciešamu, izsaka neuzticību administratoram;\n7) nosaka atlīdzības apmēru administratoram;\n8) nosaka un kontrolē administratora nodrošinājumu;\n9) apstiprina parādnieka gada pārskatus un izskata citus jautājumus, kas saskaņā ar šo likumu ir tās kompetencē.\n(1 1 ) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, pirmā kreditoru sapulce lemj par iespēju atcelt bankrota procedūru un piemērot citu maksātnespējas procesa stāvokļa risinājumu.\n(2) Ja maksātnespējas procesā piedalās tikai viens kreditors, viņam ir visas šajā likumā paredzētās kreditoru sapulces pilnvaras."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "8",
+      "title": "Kreditoru sapulces procedūra",
+      "content": "(1) Kreditoru sapulci vada administrators, ja kreditoru sapulce nenolemj citādi.\n(2) Kreditoru sapulce ir tiesīga pieņemt lēmumus neatkarīgi no tajā pārstāvēto parādu apmēra, ja par sapulces sasaukšanu šajā likumā paredzētajā termiņā ir izziņots visiem zināmajiem kreditoriem un ja uz to ir uzaicināti parādnieka pārstāvji.\n(3) Administratora vai parādnieka pārstāvju nepiedalīšanās nav šķērslis kreditoru sapulces norisei.\n(4) Kreditoru sapulce pieņem lēmumus ar klātesošo balsstiesīgo kreditoru balsu vienkāršu vairākumu pēc prasījumu summas, ja šajā likumā nav noteikts citādi. Katra kreditora balsu skaits tiek noteikts proporcionāli viņa prasījuma par laika periodu līdz maksātnespējas atzīšanai summai saskaņā ar kreditora pieteikto pretenziju vai parādnieka dokumentos atspoguļoto parādu summu, ja kreditora prasījums nav pieteikts.\n(5) Balsu skaits kreditoru sapulcē tiek noteikts, mazāko zināmo kreditora prasījumu (prasījumu summu) nosakot par vienu balsi; pārējo kreditoru balsu skaits tiek noteikts, dalot katra kreditora prasījumu (prasījumu summu) ar mazāko zināmo prasījumu (prasījumu summu). Katra kreditora balsu skaitu nosaka pirms katras kreditoru sapulces, ņemot vērā izmaiņas nenodrošināto kreditoru sastāvā un prasījumu summās.\n(6) Kreditoru sapulces gaitu protokolē. Protokolēšanu nodrošina kreditoru sapulces vadītājs. Kreditoru sapulces protokolu ne vēlāk kā 10 dienu laikā no kreditoru sapulces dienas paraksta kreditoru sapulces vadītājs un no klātesošo kreditoru vidus ievēlēts kreditoru sapulces pārstāvis, kā arī jebkurš kreditors, kas piedalījies kreditoru sapulcē un izteicis vēlmi parakstīt kreditoru sapulces protokolu. Parakstīto protokolu piecu dienu laikā pēc tā parakstīšanas administrators iesniedz Aģentūrai.\n(7) Kreditoru sapulci ar tās motivētu lēmumu var pārtraukt uz laiku līdz vienam mēnesim, ja par to nobalso vairāk nekā puse klātesošo kreditoru pēc prasījumu summas, norādot sapulces atsākšanas laiku, vietu un darba kārtību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "9",
+      "title": "Kreditoru komitejas izveidošana",
+      "content": "(1) Kreditoru sapulce var ievēlēt kreditoru komiteju.\n(2) Kreditoru sapulcei ir obligāti jāievēlē kreditoru komiteja, ja savus prasījumus maksātnespējas procesā ir pieteikuši vairāk nekā piecdesmit kreditori.\n(3) Kreditoru komiteju ievēlē no kreditoru sapulces balsstiesīgo dalībnieku vidus ne mazāk kā piecu un ne vairāk kā deviņu locekļu sastāvā uz visu maksātnespējas procesa laiku. Kreditoru komitejā jābūt pārstāvētām visām attiecīgajā maksātnespējas procesā iesaistītajām kreditoru kārtām ( 107.pants ) un Aģentūrai ar brīdi, kad tai radušās prasījuma tiesības pret parādnieku.\n(4) Ja kreditoru sapulce apstiprina sanācijas plānu, kreditoru komiteja tiek pārvēlēta un tās sastāvā tiek iekļauti nodrošināto un nenodrošināto kreditoru pārstāvji proporcionāli pārstāvētajai prasījumu summai. Gadījumos, kad parādnieka sanācija tiek pārtraukta saskaņā ar šo likumu, kreditoru komitejā darbību turpina tikai nenodrošināto kreditoru pārstāvji, ja nepieciešams, ievēlot papildu locekļus no nenodrošināto kreditoru vidus."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "10",
+      "title": "Kreditoru komitejas darbība",
+      "content": "(1) Kreditoru komitejai ir šajā likumā noteiktās kreditoru sapulces pilnvaras, izņemot šā likuma 7.panta pirmās daļas 1., 2., 3. un 6.punktā noteiktās pilnvaras. Kreditoru sapulce papildus var noteikt citus ierobežojumus, pieņemot īpašu lēmumu, kurā norādīti šie ierobežojumi.\n(2) Šā likuma 7.panta pirmās daļas 2., 3. un 6.punktā noteiktās pilnvaras kreditoru komitejai ir piešķiramas tikai ar īpašu kreditoru sapulces lēmumu.\n(3) Kreditoru sapulcei ir tiesības atcelt kreditoru komiteju, kā arī izlemt atsevišķus jautājumus tās vietā.\n(4) Kreditoru komiteja pēc tās ievēlēšanas no sava vidus nekavējoties ievēlē kreditoru komitejas priekšsēdētāju. Ja kreditoru sapulce uzskata par nepieciešamu, tā var uzdot kreditoru komitejas priekšsēdētājam, vienam tās loceklim vai vairākiem locekļiem pastāvīgi kontrolēt kreditoru interešu ievērošanu maksātnespējas procesa gaitā. Šādā gadījumā kreditoru sapulce nosaka šo personu atalgojumu, kas tiek iekļauts administrācijas izmaksās.\n(5) Kreditoru komitejas loceklis var atteikties no pienākumu pildīšanas, mēnesi iepriekš par to rakstveidā brīdinot administratoru. Ja kreditoru komitejas locekļu skaits kļūst mazāks par pieciem, administrators sasauc kreditoru sapulci, kas ievēlē jaunus kreditoru komitejas locekļus trūkstošo vietā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "11",
+      "title": "Kreditoru komitejas procedūra",
+      "content": "(1) Kreditoru komitejas darbības forma ir sēdes.\n(2) Kreditoru komitejas sēdes sasauc un vada kreditoru komitejas priekšsēdētājs. Administrators var pieprasīt, lai kreditoru komitejas priekšsēdētājs sasauc kreditoru komitejas sēdi nedēļas laikā no pieprasījuma iesniegšanas dienas.\n(3) Kreditoru komiteja ir tiesīga pieņemt lēmumus, ja ir klāt vairāk nekā puse no kreditoru komitejā ievēlētajiem locekļiem. Lēmumus kreditoru komiteja pieņem ar klātesošo komitejas locekļu vienkāršu balsu vairākumu. Ja balsis sadalās vienādi, izšķirošā ir kreditoru komitejas priekšsēdētāja balss."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Kreditoru sapulce un kreditoru komiteja",
+      "section": "12",
+      "title": "Kreditoru pārstāvji",
+      "content": "(1) Kreditors sevis pārstāvēšanai kreditoru sapulcē var pilnvarot ne vairāk kā vienu personu. Pilnvarotā persona pārstāv kreditoru pilnā kreditora prasījuma apmērā.\n(2) Kreditoru grupa sevis pārstāvēšanai kreditoru sapulcē var pilnvarot ne vairāk kā vienu personu. Pilnvarotā persona pārstāv kreditoru grupu visas kreditoru grupas dalībnieku prasījumu summas apmērā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Administrators",
+      "section": "13",
+      "title": "Administratora kvalifikācija",
+      "content": "Par administratoru var būt tikai tāda fiziskā persona, kurai ir augstākā juridiskā izglītība vai augstākā izglītība ekonomikas, vadības vai finanšu jomā, vai ne mazāk kā triju gadu praktiskā darba pieredze uzņēmumu vai uzņēmējsabiedrību pārraudzības institūcijās un izpildinstitūcijās, kura sekmīgi izpildījusi administratora specializācijas iegūšanai nepieciešamās sertifikācijas prasības un kurai atbilstoši šā likuma noteikumiem Aģentūra izsniegusi sertifikātu."
+    },
+    {
+      "provision_ref": "Art. 13.1",
+      "chapter": "IV nodaļa Administrators",
+      "section": "13.1",
+      "title": "13. 1 pants. Administratora sertifikāts",
+      "content": "(1) Sertifikātu izsniedz personām, kuras ir nokārtojušas administratora kvalifikācijas pārbaudījumu.\n(2) Sertifikāts tiek anulēts, ja administrators:\n1) ir notiesāts par noziedzīgiem nodarījumiem pret īpašumu, par noziedzīgiem nodarījumiem tautsaimniecībā, valsts institūciju dienestā, par noziedzīgiem nodarījumiem pret jurisdikciju vai pret pārvaldes kārtību;\n2) likuma pārkāpumu dēļ vismaz trīs reizes atcelts no administratora pienākumu pildīšanas;\n3) sniedzis nepatiesas ziņas, lai saņemtu sertifikātu;\n4) ar tiesas spriedumu atzīts par rīcībnespējīgu;\n5) iesniedzis iesniegumu par sertifikāta anulēšanu.\n(3) Administratora sertifikāta izsniegšanas, anulēšanas un darbības termiņa pagarināšanas kārtību nosaka Ministru kabinets.\n(3 1 ) Valsts nodevas par pārbaudījuma organizēšanu administratora kvalifikācijas iegūšanai un par administratora sertifikāta darbības termiņa pagarināšanu apmēru un samaksas kārtību nosaka Ministru kabinets.\n(4) Ja administratoram sertifikāts anulēts šā panta otrās daļas 2. vai 3.punktā noteiktajos gadījumos un nav pagājuši pieci gadi no dienas, kad pieņemts lēmums par sertifikāta anulēšanu, šai personai sertifikātu neizsniedz."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Administrators",
+      "section": "14",
+      "title": "Administratoram noteiktie pienākumu veikšanas ierobežojumi",
+      "content": "(1) Administratora pienākumus konkrētajā maksātnespējas procesā administrators nedrīkst veikt šādos gadījumos:\n1) administrators ir tiesājamā, apsūdzētā vai aizdomās turētā persona krimināllietā, kas saistīta ar administratora rīcību konkrētajā maksātnespējas procesā;\n2) administrators saskaņā ar šā likuma 35.pantu atzīstams par ieinteresēto personu attiecībā pret parādnieku;\n3) parādniekam ir prasījuma tiesības pret administratoru vai administratoram ir prasījuma tiesības pret parādnieku.\n(2) Ja uz administratoru attiecas kāds no šā panta pirmajā daļā noteiktajiem gadījumiem, administrators nekavējoties informē par to tiesu un Aģentūru."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Administrators",
+      "section": "15",
+      "title": "Administratora nodrošinājums",
+      "content": "(1) Administratoram ir jābūt šajā likumā paredzētajam nodrošinājumam tiem gadījumiem, ja viņš ar savu rīcību nodara zaudējumu kreditoriem vai citām ieinteresētajām personām.\n(2) Par nodrošinājumu var būt:\n1) administratora darbības civiltiesiskās atbildības apdrošināšana;\n2) drošības nauda.\n(3) Administratora darbības civiltiesiskās atbildības apdrošināšanas noteikumus un drošības naudas iemaksas noteikumus izdod Ministru kabinets.\n(4) Nodrošinājumu nosaka ne mazāku par desmit procentiem no parādnieka aktīvu tirgus vērtības. Kreditoru sapulce var lemt par nodrošinājuma apmēra samazināšanu.\n(5) Nodrošinājuma veidu izvēlas administrators.\n(6) (Izslēgta ar 22.10.1998 . likumu.)\n(7) Ja administrators piedalās vairāk nekā vienā maksātnespējas procesā, viņam ir jābūt atsevišķam nodrošinājumam katrā procesā kreditoru sapulces noteiktajā apmērā.\n(8) Administrators iesniedz pirmajai kreditoru sapulcei dokumentu, kas apstiprina viņa nodrošinājumu desmit procentu apmērā no šā panta ceturtajā daļā minētās summas. Ja kreditoru sapulce noteikusi citu nodrošinājuma apmēru, nodrošinājumu apstiprinošus dokumentus administrators kreditoru sapulces noteiktā termiņā un kārtībā iesniedz papildus.\n(9) (Izslēgta ar 13.06.2002 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Administrators",
+      "section": "16",
+      "title": "Administratora iecelšana",
+      "content": "(1) Administratoru ieceļ tiesa pēc Aģentūras priekšlikuma tūlīt pēc maksātnespējas lietas ierosināšanas. Aģentūras priekšlikumam ir ieteikuma raksturs, un tas nav apstrīdams vai pārsūdzams Administratīvā procesa likumā noteiktajā kārtībā.\n(2) Aģentūra pēc nejaušības principa izvēlas administratora kandidātu no sertificēto administratoru vidus administratora pienākumu veikšanai. Kārtību, kādā Aģentūra izvēlas un iesaka tiesai administratora kandidātu, nosaka Ministru kabinets.\n(3) Ja likumā paredzētajos gadījumos tiesa izvirzīto administratora kandidātu neieceļ, Aģentūra trīs dienu laikā tiesai iesaka citu administratora kandidātu.\n(4) Par administratoru nedrīkst iecelt personu, kura ir tiesājamā, apsūdzētā vai aizdomās turētā krimināllietā par noziedzīgiem nodarījumiem pret īpašumu, par noziedzīgiem nodarījumiem tautsaimniecībā, valsts institūciju dienestā, par noziedzīgiem nodarījumiem pret jurisdikciju vai pret pārvaldes kārtību."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Administrators",
+      "section": "17",
+      "title": "Vairāku administratoru iecelšana",
+      "content": "(Izslēgts ar 22.10.1998 . likumu, kas stājas spēkā 18.12.1998. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Administrators",
+      "section": "18",
+      "title": "Administratora stāšanās pie pienākumu pildīšanas",
+      "content": "(Izslēgts ar 22.10.1998 . likumu, kas stājas spēkā 18.12.1998. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Administrators",
+      "section": "19",
+      "title": "Administratora pienākumi",
+      "content": "(1) Administratoram ir jānodrošina maksātnespējas procesa likumīga un efektīva gaita.\n(2) Administrators pārņem parādnieka mantu, dokumentāciju un zīmogu līdz maksātnespējas procesa izbeigšanai vai mierizlīguma noslēgšanai.\n(3) Administrators maksātnespējas procesa laikā pārvalda parādnieka mantu un nodrošina tās saglabāšanu līdz maksātnespējas procesa izbeigšanai, administrācijas izmaksu un parādu segšanai paredzētās naudas izmaksai vai mierizlīguma noslēgšanai.\n(4) Administrators noskaidro faktiskās maksātnespējas cēloņus un sniedz par tiem atzinumu kreditoru sapulcei un tiesai.\n(5) Administrators sniedz informāciju par maksātnespējas procesa gaitu kreditoru sapulcei, kā arī nosūta tiesai apstiprināšanai kreditoru sapulces pieņemto mierizlīgumu.\n(6) Administratoram ir pienākums sniegt šajā likumā un likumā \"Par Latvijas Republikas Uzņēmumu reģistru\" paredzēto informāciju Uzņēmumu reģistram. Administrators iesniedz notariāli vai Uzņēmumu reģistrā apliecinātu paraksta paraugu.\n(7) Citi administratora pienākumi atsevišķās maksātnespējas procesa stadijās noteikti citos šā likuma pantos.\n(8) Administrators iesniedz savas darbības pārskatu Aģentūrai. Pārskata veidlapas, kā arī iesniegšanas kārtību un termiņus nosaka Ministru kabinets.\n(9) Pēc Aģentūras pieprasījuma administrators sniedz tai ziņas un dokumentus par maksātnespējas procesa gaitu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Administrators",
+      "section": "20",
+      "title": "Administratora tiesības līdz lietas izskatīšanai tiesā",
+      "content": "(1) Līdz maksātnespējas lietas izskatīšanai tiesā administratoram ir tiesības:\n1) iepazīties ar parādnieka finansiālo stāvokli un visiem dokumentiem;\n2) pieprasīt no parādnieka informāciju, kas nepieciešama maksātnespējas procesa gaitā, un saņemt to;\n3) pieaicināt speciālistus.\n(2) Administratoram līdz maksātnespējas lietas izskatīšanai tiesā ir arī šā likuma 21.panta otrās daļas 17.—19.punktā noteiktās administratora tiesības."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Administrators",
+      "section": "21",
+      "title": "Administratora tiesības un pilnvaras pēc parādnieka pasludināšanas par maksātnespējīgu",
+      "content": "(1) Administrators var pieņemt lēmumu turpināt parādnieka darbību pilnā vai ierobežotā apjomā, ja administrators pats vai pieaicinātie speciālisti, balstoties uz parādnieka stāvokļa analīzi, konstatē, ka šīs darbības turpināšana ir ekonomiski pamatota un var palielināt parādnieka aktīvu pieaugumu kreditoru kopuma interesēs.\n(2) Administratoram pēc parādnieka pasludināšanas par maksātnespējīgu ir visas likumos, parādnieka statūtos vai līgumos paredzētās pārvaldes institūciju tiesības un pilnvaras, taču jebkurā gadījumā administrators ir tiesīgs:\n1) ņemt pārvaldījumā visu parādnieka mantu, kā arī trešajām personām piederošo mantu, kas atrodas parādnieka valdījumā vai turējumā;\n2) atsavināt parādnieka mantu šajā likumā noteiktajā kārtībā;\n3) (izslēgts ar 22.10.1998 . likumu) ;\n4) likvidēt parādnieka filiāles vai pārstāvniecības;\n5) nodot tiesai izskatīšanai jebkuru parādnieka prasījumu pret trešajām personām;\n6) pārstāvēt parādnieku tiesā un administratīvajās institūcijās un uzstāties tā vārdā, izņemot šā likuma 85.pantā paredzētos gadījumus;\n7) apdrošināt parādnieka darījumus un parādnieka īpašumā esošo mantu;\n8) bez īpaša pilnvarojuma sastādīt un parakstīt parādnieka vārdā jebkuru dokumentu, izņemot šā likuma 82. un 85.pantā paredzētos gadījumus;\n9) iecelt amatpersonas parādnieka pārvaldes darba veikšanai un noteikt to kompetenci, pieņemt darbā un atlaist darbiniekus, arī tos, kuri pieņemti darbā pirms maksātnespējas lietas ierosināšanas;\n10) pieaicināt speciālistus un palīgus šā likuma 31.pantā noteiktajā kārtībā;\n11) segt administrācijas izmaksas no parādnieka līdzekļiem;\n12) iznomāt (izīrēt) jebkuru parādnieka mantu, kā arī nomāt (īrēt) jebkuru mantu, ja tas ir kreditoru kopuma interesēs;\n13) ar kreditoru sapulces piekrišanu atteikties no jebkura prasījuma vai slēgt jebkuru mierizlīgumu parādnieka vārdā attiecībā uz parādnieka prasījumiem pret trešajām personām;\n14) pieprasīt, lai parādnieka kapitāla daļu turētāji izpilda savas saistības attiecībā uz uzņēmējsabiedrības pamatkapitālu (statūtu fondu) vai citu mantu, vai iesniegt tiesā prasības par šādu saistību izpildi piespiedu kārtā;\n15) iesniegt pieteikumu par jebkuras tās trešās personas pasludināšanu par maksātnespējīgu, kurai ir parādu saistības pret parādnieku, un pārstāvēt parādnieka prasījumus, ja uz šā pieteikuma pamata tiek ierosināta lieta;\n16) mainīt parādnieka reģistrēto juridisko adresi;\n17) pieprasīt un saņemt no valsts iestādēm maksātnespējas procesā nepieciešamo informāciju par parādnieku un tā pārstāvjiem, kā arī no citām kompetentām personām un institūcijām to rīcībā esošo informāciju par maksātnespējas procesu;\n17 1 ) pieprasīt, lai kreditors iesniedz noteiktā kārtībā apliecinātu kreditora prasījuma un to pamatojošo dokumentu tulkojumu valsts valodā;\n18) iesniegt par kriminālprocesa norisi atbildīgajās iestādēs ziņojumus un materiālus par maksātnespējas procesa gaitā atklātajiem faktiem, kuri var būt par pamatu kriminālprocesa uzsākšanai;\n19) pārstāvēt parādnieku kriminālprocesā, ja saistībā ar konkrēto maksātnespējas procesu ir uzsākts kriminālprocess;\n20) apmierināt parādnieka darbinieku, izņemot parādnieka pārvaldes institūciju un kontroles institūciju locekļus, prasības par darba samaksu, par kurām līdz maksātnespējas pasludināšanai ir stājies spēkā tiesas spriedums, un šo darbinieku prasības par darbā nodarītā kaitējuma atlīdzību sakarā ar sakropļojumu vai arodslimību visā maksātnespējas procesa laikā.\n(3) (Izslēgta ar 22.10.1998 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Administrators",
+      "section": "22",
+      "title": "Administratora darbības garantijas",
+      "content": "Valsts iestādes sniedz administratoram to rīcībā esošo informāciju, kura nepieciešama maksātnespējas procesā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Administrators",
+      "section": "23",
+      "title": "Administratora darbības kontrole",
+      "content": "(1) Administratoram ir jāpilda kreditoru sapulces lēmumi un jāsniedz pārskats kreditoru sapulcei.\n(2) (Izslēgta ar 22.10.1998 . likumu.)\n(3) Administratoru darbības uzraudzību šajā likumā un citos normatīvajos aktos paredzētajā kārtībā veic Aģentūra."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Administrators",
+      "section": "24",
+      "title": "Administratora atlīdzība",
+      "content": "(1) Par administratora pienākumu veikšanu administrators saņem atlīdzību. Par administratora atlīdzības apmēru administrators rakstveidā vienojas ar kreditoru sapulci. Ja vienošanās netiek panākta, administrators saņem atlīdzību pēc šajā pantā noteiktās takses.\n(2) Administratora proporcionālā atlīdzības takse tiek noteikta šādā apmērā:\n1) piecpadsmit procenti no faktiski atgūtās summas, kas nepārsniedz pirmos atgūtos trīs tūkstošus latu;\n2) ja atgūtā summa pārsniedz trīs tūkstošus latu, — piecpadsmit procenti no faktiski atgūtās summas, kas nepārsniedz pirmos atgūtos trīs tūkstošus latu, un desmit procenti no faktiski atgūtās summas, kas pārsniedz trīs tūkstošus latu, bet nav lielāka par desmit tūkstošiem latu;\n3) ja atgūtā summa pārsniedz desmit tūkstošus latu, — piecpadsmit procenti no faktiski atgūtās summas, kas nepārsniedz pirmos atgūtos trīs tūkstošus latu, un desmit procenti no faktiski atgūtās summas, kas pārsniedz trīs tūkstošus latu, bet nav lielāka par desmit tūkstošiem latu, plus pieci procenti no faktiski atgūtās summas, kas pārsniedz desmit tūkstošus latu, bet nav lielāka par simts tūkstošiem latu;\n4) ja atgūtā summa pārsniedz simts tūkstošus latu, — piecpadsmit procenti no faktiski atgūtās summas, kas nepārsniedz pirmos atgūtos trīs tūkstošus latu, un desmit procenti no faktiski atgūtās summas, kas pārsniedz trīs tūkstošus latu, bet nav lielāka par desmit tūkstošiem latu, plus pieci procenti no faktiski atgūtās summas, kas pārsniedz desmit tūkstošus latu, bet nav lielāka par simts tūkstošiem latu, plus trīs procenti no faktiski atgūtās summas, kas pārsniedz simts tūkstošus latu, bet nav lielāka par vienu miljonu latu, plus viens procents no faktiski atgūtās summas, kas pārsniedz vienu miljonu latu.\n(3) Administrators saņem atlīdzību pēc fiksētās takses šādos gadījumos un apmērā:\n1) no administratora iecelšanas dienas līdz maksātnespējas lietas izskatīšanai — vienreizēju atlīdzību piecu minimālo mēnešalgu apmērā;\n2) līdz bankrota procedūras pabeigšanai, ja parādnieka aktīvi nesedz administrācijas izmaksas, — vienreizēju atlīdzību piecu minimālo mēnešalgu apmērā;\n3) pirmajā kreditoru sapulcē noslēgtā mierizlīguma gadījumā — vienreizēju atlīdzību trīsdesmit minimālo mēnešalgu apmērā;\n4) sanācijas gadījumā — mēnešalgu piecpadsmit minimālo mēnešalgu apmērā.\n(4) Aprēķinot administratora atlīdzību pēc proporcionālās takses, aprēķināto proporcionālo atlīdzību samazina par summu, kas aprēķināta pēc fiksētās takses.\n(5) (Izslēgta ar 22.10.1998 . likumu.)\n(6) Par atlīdzības izmaksāšanu administratoram Aģentūra lemj Ministru kabineta noteiktajos gadījumos, noteiktajā kārtībā un apmērā to līdzekļu ietvaros, kuri Aģentūrai kārtējam gadam piešķirti šiem mērķiem."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Administrators",
+      "section": "25",
+      "title": "Administratora atbildība",
+      "content": "(1) Administrators ir pilnā apmērā atbildīgs par zaudējumiem, kas viņa vainas dēļ nodarīti kreditoriem.\n(2) (Izslēgta ar 22.10.1998 . likumu.)\n(3) Administrators nav atbildīgs par parādnieka un iepriekšējo administratoru rīcību un darījumiem, kuri slēgti pirms viņa stāšanās pie savu pienākumu pildīšanas."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Administrators",
+      "section": "26",
+      "title": "Prasības pret administratoru",
+      "content": "(1) Prasības pret administratoru kreditori var celt tiesā vispārējā kārtībā.\n(2) Prasības pret administratoru nevar celt vēlāk kā vienu gadu pēc maksātnespējas procesa izbeigšanas.\n(3) Ja administrators ar savu rīcību ir nodarījis zaudējumu kreditoriem vai citām ieinteresētajām personām un tas ir konstatēts ar tiesas spriedumu krimināllietā, uz prasībām pret administratoru attiecināms vispārējais prasības noilguma termiņš.\n(4) Šā panta noteikumi attiecas uz visiem administratoriem, kuri ir piedalījušies attiecīgajā maksātnespējas procesā neatkarīgi no piedalīšanās laika vai ilguma, un katrs administrators ir atbildīgs tikai par savu rīcību."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa Administrators",
+      "section": "27",
+      "title": "Administratora pienākumu izbeigšanās",
+      "content": "(1) Administratora pienākumi izbeidzas:\n1) ja administrators tiek atcelts saskaņā ar šā likuma 28.pantu ;\n2) ja administrators atkāpjas saskaņā ar šā likuma 29.pantu ;\n3) ja tiek izbeigts maksātnespējas process saskaņā ar šā likuma 62.pantu ;\n4) administratora nāves gadījumā;\n(2) (Izslēgta ar 20.11.2003 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Administrators",
+      "section": "28",
+      "title": "Administratora atcelšana",
+      "content": "(1) Administratoru atceļ tiesa, pamatojoties uz kreditoru sapulces lēmumu par neuzticības izteikšanu administratoram vai pēc Aģentūras pieteikuma, ja:\n1) administrators neatbilst šā likuma 13.panta noteikumiem vai uz viņu attiecināmi šā likuma 14.pantā noteiktie ierobežojumi;\n2) administrators neievēro likuma prasības;\n3) administrators ļaunprātīgi izmanto savas pilnvaras;\n4) administratora sertifikāts ir anulēts.\n(2) Kreditoru sapulce var izteikt administratoram neuzticību, ja jautājums par administratora atcelšanu ir bijis iepriekš iekļauts sapulces darba kārtībā. Ja šis jautājums iekļauts darba kārtībā kreditoru sapulces gaitā, tā izskatīšanai divu nedēļu laikā sasaucama cita kreditoru sapulce.\n(3) Ja kreditoru sapulce izsaka neuzticību administratoram, tā lūdz tiesu atcelt šo administratoru un iecelt citu un informē par to Aģentūru. Atcelšanas gadījumā administrators saņem atlīdzību saskaņā ar šā likuma 24.pantu .\n(4) Ja kreditoru sapulce izteikusi neuzticību administratoram, viņam ir tiesības piecpadsmit dienu laikā apstrīdēt šo lēmumu tiesā.\n(5) (Izslēgta ar 22.10.1998 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa Administrators",
+      "section": "29",
+      "title": "Administratora atkāpšanās",
+      "content": "(1) Administrators ir tiesīgs atkāpties no savu pienākumu pildīšanas, iesniedzot tiesā rakstveida iesniegumu par savu atkāpšanos un pārskatu par savu darbību. Iesniegumā jānorāda motīvi, kuru dēļ viņš nevar vai nevēlas turpmāk veikt administratora pienākumus. Par atkāpšanos administrators vienlaikus paziņo Aģentūrai.\n(2) Administrators, kura atkāpšanos tiesa pieņēmusi, saņem atlīdzību saskaņā ar šā likuma 24.pantu ."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa Administrators",
+      "section": "30",
+      "title": "Administratoru maiņa",
+      "content": "(1) Administratora atkāpšanās vai atcelšanas gadījumā tiek iecelts cits administrators šā likuma 16.pantā noteiktajā kārtībā.\n(2) Nākamajam administratoram stājoties pie savu pienākumu pildīšanas 15 dienu laikā no tiesas lēmuma pieņemšanas dienas, tiek sastādīts pieņemšanas un nodošanas akts, kuru paraksta iepriekšējais administrators un nākamais administrators. Aktam pievienojams iepriekšējā administratora darbības pārskats. Līdz šā akta parakstīšanai iepriekšējais administrators turpina realizēt savas pilnvaras un ir atbildīgs saskaņā ar šo likumu.\n(3) Nākamajam administratoram stājoties pie savu pienākumu pildīšanas, iepriekšējā administratora nodrošinājumu apstiprinošs dokuments aizstājams ar nākamā administratora nodrošinājumu apstiprinošu dokumentu.\n(4) Ja pieņemšanas un nodošanas akta un darbības pārskata sastādīšana objektīvi nav iespējama (iepriekšējā administratora nāves gadījumā u.c.), jaunais administrators, stājoties pie savu pienākumu pildīšanas, sastāda ziņojumu par faktisko stāvokli un iesniedz to kreditoru sapulcei."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa Administrators",
+      "section": "31",
+      "title": "Pieaicinātie speciālisti un administratora palīgi",
+      "content": "(1) Administratoram ir tiesības ar kreditoru sapulces piekrišanu pieaicināt speciālistus (grāmatvežus, juristus, ekonomistus u.c.), ja tas nepieciešams maksātnespējas procesa efektivitātes nodrošināšanai.\n(2) Administratoram ir tiesības ar kreditoru sapulces piekrišanu pieņemt darbā vienu vai vairākus administratora palīgus.\n(3) Administrators var rakstveidā pilnvarot pieaicinātos speciālistus un palīgus veikt atsevišķas darbības, kuras saskaņā ar šo likumu ietilpst administratora pilnvarās. Par zaudējumiem, ko nodara administratora pieaicinātie speciālisti un palīgi, darbojoties uz šādas pilnvaras pamata, ir atbildīgs administrators."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Administrators",
+      "section": "32",
+      "title": "Administratora zīmogs",
+      "content": "(Izslēgts ar 20.11.2003 . likumu, kas stājas spēkā 01.01.2004. )"
+    },
+    {
+      "provision_ref": "Art. 32.1",
+      "chapter": "IV 1 nodaļa Aģentūra (Nodaļa 13.06.2002 . likuma redakcijā, kas stājas spēkā 01.07.2002. )",
+      "section": "32.1",
+      "title": "32. 1 pants. Aģentūras juridiskais statuss",
+      "content": "(1) Aģentūra ir saskaņā ar Publisko aģentūru likumu izveidota valsts aģentūra \"Maksātnespējas administrācija\".\n(2) Aģentūru izveido valsts Ministru kabineta personā.\n(3) Aģentūra ir tieslietu ministra pārraudzībā."
+    },
+    {
+      "provision_ref": "Art. 32.2",
+      "chapter": "IV 1 nodaļa Aģentūra (Nodaļa 13.06.2002 . likuma redakcijā, kas stājas spēkā 01.07.2002. )",
+      "section": "32.2",
+      "title": "32. 2 pants. Aģentūras funkcijas, darbība un tiesības",
+      "content": "(1) Aģentūras funkcijas ir šādas:\n1) sagatavot administratorus;\n2) sertificēt administratorus;\n3) ieteikt administratorus tiesai;\n4) uzraudzīt administratoru darbību maksātnespējas procesā;\n5) apmierināt darbinieku prasījumus no darbinieku prasījumu garantiju fonda līdzekļiem atbilstoši likumam \" Par darbinieku aizsardzību darba devēja maksātnespējas gadījumā \";\n6) citas funkcijas, kuras tai uzticētas saskaņā ar citiem normatīvajiem aktiem, Aģentūras nolikumu un pārvaldes līgumu.\n(2) Lai izpildītu savas funkcijas, Aģentūra:\n1) izstrādā administratora kvalifikācijas prasības, administratoru apmācības programmas un iesniedz tās apstiprināšanai Ministru kabinetam;\n2) organizē to personu apmācību, kuras vēlas iegūt administratora kvalifikāciju;\n3) organizē pārbaudījumu kārtošanu administratora kvalifikācijas saņemšanai Ministru kabineta noteiktajā kārtībā;\n4) izsniedz un anulē administratora sertifikātu, kā arī pagarina tā darbības termiņu;\n5) iesaka tiesai sertificētu administratora kandidātu katram konkrētam maksātnespējas procesam;\n6) uzrauga, vai administratora darbība maksātnespējas procesā atbilst likuma prasībām;\n7) izskata sūdzības par administratoru lēmumiem un rīcību;\n8) pieņem un izskata maksātnespējīgo darba devēju administratoru pieteikumus par darbinieku prasījumu apmierināšanu un apstiprina no darbinieku prasījumu garantiju fonda līdzekļiem izmaksājamās summas;\n9) veic citas normatīvajos aktos paredzētas darbības, kas nepieciešamas tās funkciju izpildei.\n(3) Aģentūrai ir tiesības:\n1) pieprasīt un saņemt jebkuru tās funkciju izpildei nepieciešamo ar maksātnespējas procesiem saistīto informāciju no valsts un pašvaldību institūcijām;\n2) pieprasīt no administratora pārskatus par pienākumu veikšanu un maksātnespējas procesa gaitu un dot norādījumus, lai novērstu Aģentūras konstatētos pārkāpumus administratora rīcībā un lēmumos;\n3) šā likuma 28.pantā noteiktajos gadījumos iesniegt tiesā pieteikumu par administratora atcelšanu, kā arī veikt citas šajā likumā un citos likumos paredzētās darbības, kas nepieciešamas tās funkciju izpildei."
+    },
+    {
+      "provision_ref": "Art. 32.3",
+      "chapter": "IV 1 nodaļa Aģentūra (Nodaļa 13.06.2002 . likuma redakcijā, kas stājas spēkā 01.07.2002. )",
+      "section": "32.3",
+      "title": "32. 3 pants. Aģentūras finanšu līdzekļi",
+      "content": "(1) Aģentūras finanšu līdzekļus veido:\n1) uzņēmējdarbības riska valsts nodevas daļa;\n2) valsts piešķirtie līdzekļi;\n3) ieņēmumi no sniegtajiem maksas pakalpojumiem;\n4) ārvalstu finansiālās palīdzības līdzekļi.\n(2) Aģentūras finanšu līdzekļi tiek izmantoti:\n1) maksātnespējas procesa administrācijas izmaksu segšanai šajā likumā paredzētajos gadījumos;\n2) šajā likumā, citos normatīvajos aktos, Aģentūras nolikumā un pārvaldes līgumā paredzēto Aģentūras funkciju izpildes nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 32.4",
+      "chapter": "IV 1 nodaļa Aģentūra (Nodaļa 13.06.2002 . likuma redakcijā, kas stājas spēkā 01.07.2002. )",
+      "section": "32.4",
+      "title": "32. 4 pants. Aģentūras lēmumi, to apstrīdēšana un pārsūdzēšana",
+      "content": "(1) Aģentūra pieņem lēmumus par:\n1) maksātnespējīgo darba devēju darbinieku prasījumu apmierināšanu;\n2) maksātnespējas procesa administrācijas izmaksu segšanu;\n3) administratora rīcību maksātnespējas procesā vai tiesiskā pienākuma uzlikšanu, ja konstatēts pārkāpums;\n4) administratora sertifikāta izsniegšanu, anulēšanu vai tā darbības termiņa pagarināšanu.\n(2) Aģentūras lēmumus attiecībā uz šā panta pirmās daļas 1., 2. un 4.punktā minētajiem gadījumiem var apstrīdēt Administratīvā procesa likumā noteiktajā kārtībā. Iesnieguma iesniegšana par Aģentūras lēmuma apstrīdēšanu neaptur attiecīgā lēmuma darbību.\n(3) Aģentūras lēmumus attiecībā uz šā panta pirmās daļas 3.punktā minēto gadījumu var pārsūdzēt tajā tiesā, kurā ierosināta maksātnespējas lieta. Sūdzības iesniegšana tiesā neaptur Aģentūras lēmuma darbību."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "V nodaļa Parādnieka pārstāvji un ieinteresētās personas attiecībā pret parādnieku",
+      "section": "33",
+      "title": "Parādnieka pārstāvju pienākumi",
+      "content": "(1) Parādnieka pārstāvjus, kuru piedalīšanās maksātnespējas procesā ir obligāta, nosaka tiesa.\n(2) Parādnieka pārstāvju pienākums ir ierasties uz visām kreditoru sapulcēm un tiesas sēdēm, par kurām tiem ir paziņots, kā arī sniegt nepieciešamo informāciju.\n(3) Ja parādnieka pārstāvis maksātnespējas procesa laikā maina dzīvesvietu, tā pienākums ir triju dienu laikā paziņot administratoram jaunās dzīvesvietas adresi.\n(4) Parādnieka pārstāvjus, ja tie izvairās no ierašanās tiesā, var atvest uz tiesu piespiedu kārtā."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "V nodaļa Parādnieka pārstāvji un ieinteresētās personas attiecībā pret parādnieku",
+      "section": "34",
+      "title": "Parādnieka pārstāvju pienākums sniegt informāciju",
+      "content": "(1) Parādnieka pārstāvjiem ir pienākums sniegt administratora un kreditoru sapulces pieprasīto informāciju piecpadsmit dienu laikā no pieprasījuma nosūtīšanas dienas.\n(2) Parādnieka pārstāvji iesniedz pieprasīto informāciju rakstveidā, apliecinot to ar savu parakstu. Par nepatiesas informācijas sniegšanu parādnieka pārstāvji atbild saskaņā ar šo likumu un Krimināllikumu ."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "V nodaļa Parādnieka pārstāvji un ieinteresētās personas attiecībā pret parādnieku",
+      "section": "35",
+      "title": "Ieinteresētās personas attiecībā pret parādnieku",
+      "content": "(1) Par ieinteresētajām personām attiecībā pret parādnieku atzīstamas:\n1) parādnieka pārvaldes institūciju locekļi un revīzijas institūciju locekļi;\n2) personas, kurām ar parādnieku ir darba tiesiskās attiecības;\n3) persona, kura sastāv laulībā, radniecībā līdz trešajai pakāpei vai svainībā līdz otrajai pakāpei ar parādnieka pārvaldes institūciju vai revīzijas institūciju locekļiem.\n(2) Par ieinteresētajām personām attiecībā pret parādnieku atzīstamas arī personas, kuras ir bijušas ieinteresētās personas saskaņā ar šā panta pirmās daļas noteikumiem pēdējo sešu mēnešu laikā līdz maksātnespējas lietas ierosināšanai."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "36",
+      "title": "Maksātnespējas pieteikums",
+      "content": "Maksātnespējas pieteikumu tiesā šajā likumā paredzētajos gadījumos var iesniegt:\n1) parādnieks vai parādnieka likvidatori (likvidācijas komisija);\n2) kreditors vai kreditoru grupa;\n3) administrators maksātnespējas lietā;\n4) kompetentas valsts institūcijas;\n5) Padomes regulas Nr. 1346/2000 29.panta \"a\" punktā norādītā persona."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "37",
+      "title": "Ierobežojumi pieteikuma iesniegšanai",
+      "content": "(1) Maksātnespējas pieteikumu nedrīkst iesniegt nodrošinātie kreditori. Līdz maksātnespējas lietas ierosināšanai nodrošināto kreditoru prasījumi pret parādnieku par parādu piedziņu tiek izskatīti vispārējā kārtībā. Pēc maksātnespējas lietas ierosināšanas nodrošinātie kreditori iesniedz savus prasījumus administratoram.\n(2) Ja prasījums nav nodrošināts pilnībā, maksātnespējas pieteikumu var iesniegt tikai nenodrošinātās prasījuma daļas apjomā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "38",
+      "title": "Parādnieka brīvprātīgs maksātnespējas pieteikums",
+      "content": "(1) Parādnieks var iesniegt tiesā maksātnespējas pieteikumu, ja tas sakarā ar pierādāmiem apstākļiem nespēs pienācīgi nokārtot savas parādu saistības.\n(2) Parādnieka pārvaldes institūcijas pirms maksātnespējas pieteikuma iesniegšanas tiesā informē par to parādnieka kapitāla daļu turētājus."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "39",
+      "title": "Kreditora pieteikums",
+      "content": "Kreditors vai kreditoru grupa var iesniegt tiesā maksātnespējas pieteikumu, ja:\n1) divu nedēļu laikā pēc pretenzijas iesniegšanas kreditora prasījums nav ne apmierināts, ne celti iebildumi un pēc šā termiņa izbeigšanās kreditors rakstveidā ir darījis parādniekam zināmu savu nodomu iesniegt maksātnespējas pieteikumu vismaz vienu nedēļu pirms tā iesniegšanas, turklāt parādnieks nav varējis parādu nokārtot arī šajā termiņā;\n2) triju mēnešu laikā nav bijis iespējams pilnīgi vai daļēji izpildīt tiesas spriedumu par parāda piedziņu sakarā ar to, ka parādnieka aktīvi ir nepietiekami parāda segšanai;\n3) parādnieks ir paziņojis kreditoram vai publiski par savu faktisko maksātnespēju."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "40",
+      "title": "Administratora pieteikums",
+      "content": "(1) Administrators maksātnespējas lietā var iesniegt tiesā maksātnespējas pieteikumu pret trešo personu, kurai ir parādu saistības pret šā administratora pārstāvāmo parādnieku.\n(2) Šādā gadījumā uz administratora pieteikumu attiecas visi tie šā likuma noteikumi, kuri regulē kreditora pieteikumu."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "41",
+      "title": "Kompetentu valsts institūciju pieteikums",
+      "content": "Kompetentas valsts institūcijas var iesniegt tiesā maksātnespējas pieteikumu, ja:\n1) to rīcībā ir pierādījumi par parādnieka nespēju kārtot savas parādu saistības;\n2) triju mēnešu laikā no sprieduma taisīšanas dienas nav bijis iespējams pilnīgi vai daļēji izpildīt tiesas spriedumu par parāda piedziņu sakarā ar parādnieka mantas nepietiekamību vai parādnieka izvairīšanos no piedziņas;\n3) to rīcībā ir pierādījumi tam, ka parādnieka parādu saistības pārsniedz tā aktīvus."
+    },
+    {
+      "provision_ref": "Art. 41.1",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "41.1",
+      "title": "41. 1 pants. Padomes regulā norādītās personas pieteikums",
+      "content": "Padomes regulas Nr. 1346/2000 29.panta \"a\" punktā norādītā persona var iesniegt tiesā maksātnespējas pieteikumu, lai pret parādnieku ierosinātu šīs regulas 3.panta 2.punktā noteikto maksātnespējas procedūru."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "42",
+      "title": "Pienākums iesniegt pieteikumu",
+      "content": "(1) Pienākums iesniegt tiesā maksātnespējas pieteikumu ir likvidatoriem (likvidācijas komisijai), kuri veic uzņēmuma vai uzņēmējsabiedrības brīvprātīgu likvidāciju, ja likvidācijas procesā nav iespējams pilnībā apmierināt visus kreditoru prasījumus.\n(2) Parādniekam ir pienākums iesniegt tiesā maksātnespējas pieteikumu, ja pastāv vismaz viens no šādiem apstākļiem:\n1) parādnieks nespēj nokārtot parādu saistības triju nedēļu laikā no saistību izpildes termiņa iestāšanās dienas un nav panākta rakstveida vienošanās ar kreditoriem par šā parāda nokārtošanu;\n2) parādnieka parādu saistības pārsniedz tā aktīvus.\n(3) Pirms maksātnespējas pieteikuma iesniegšanas šajā pantā noteiktajā kārtībā iesniedzējs informē par to parādnieka kapitāla daļu turētājus. Ja nav iespējams paziņot par maksātnespējas pieteikuma iesniegšanu parādnieka kapitāla daļu turētājiem, pieteikums ir jāiesniedz nekavējoties bez viņu ziņas."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "43",
+      "title": "Parādnieka maksātnespējas pieteikuma saturs",
+      "content": "(1) Parādnieka maksātnespējas pieteikumā jānorāda:\n1) tās tiesas nosaukums, kurai iesniegts pieteikums;\n2) ziņas par iesniedzēju (nosaukums, reģistrācijas numurs, juridiskā adrese, visi norēķinu konti);\n3) faktiskās maksātnespējas vai tās iestāšanās iespējas apstākļi un pierādījumi, kas šos apstākļus apstiprina;\n3 1 ) informācija, vai maksātnespējas procesam piemērojami Padomes regulas Nr. 1346/2000 noteikumi;\n4) maksātnespējas pieteikumam pievienoto dokumentu saraksts saskaņā ar šā panta otro daļu.\n(2) Parādnieka maksātnespējas pieteikumam jāpievieno:\n1) parādnieka pārvaldes institūciju un revīzijas institūciju locekļu un pārstāvju saraksts (vārds, uzvārds, personas kods, adrese un tālruņa numurs);\n2) kreditoru saraksts, kurā ietvertas šādas ziņas: nosaukums (juridiskajām personām), vārds, uzvārds (fiziskajām personām), adrese, parāda summa un termiņš, parāda veids un rašanās pamats;\n3) parādnieka ārkārtas bilance, kas sastādīta ne agrāk kā vienu mēnesi pirms maksātnespējas pieteikuma iesniegšanas dienas, un parādnieka pēdējā gada bilance, kas apstiprināta saskaņā ar likumu \" Par uzņēmumu gada pārskatiem \";\n4) parādnieka valdījumā vai turējumā esošās trešajām personām piederošās mantas uzskaitījums.\n(2 1 ) Ja maksātnespējas procesam piemērojami Padomes regulas Nr. 1346/2000 noteikumi, parādnieks papildus šā panta otrajā daļā minētajiem dokumentiem maksātnespējas pieteikumam pievieno apliecinājumu, kurā norāda:\n1) pamatojumu Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktās maksātnespējas procedūras uzsākšanai un apliecinošus dokumentus, ja parādnieks iesniedz pieteikumu šādas procedūras uzsākšanai;\n2) informāciju par vietu, kur atrodas parādnieka galveno interešu centrs, ja parādnieks iesniedz pieteikumu Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanai;\n3) informāciju par vietu, kur atrodas parādnieka uzņēmums Padomes regulas Nr. 1346/2000 2.panta \"h\" punkta izpratnē, ja parādniekam šāds uzņēmums pieder.\n(3) (Izslēgta ar 22.10.1998 . likumu.)\n(4) Šā panta pirmās, otrās un 2. 1 daļas noteikumi attiecināmi arī uz likvidatora (likvidācijas komisijas) pieteikumu šā likuma 42.panta pirmajā daļā norādītajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "44",
+      "title": "Kreditoru un kompetentu valsts institūciju iesniegtā maksātnespējas pieteikuma saturs",
+      "content": "(1) Maksātnespējas pieteikumā, ko tiesā iesniedz kreditors, kreditoru grupa vai kompetentas valsts institūcijas, jānorāda:\n1) tiesas nosaukums, kurai iesniegts pieteikums;\n2) ziņas par iesniedzēju (nosaukums — juridiskajām personām, vārds, uzvārds — fiziskajām personām, adrese, tālruņa numurs), kā arī ziņas par pārstāvi (vārds, uzvārds, amats, adrese, tālruņa numurs), ja pieteikumu iesniedz pārstāvis;\n3) parādnieka nosaukums un juridiskā adrese;\n4) apstākļi, ar kuriem iesniedzējs pamato savu prasījumu, un pierādījumi, kas šos apstākļus apstiprina;\n5) šā panta otrajā un trešajā daļā minēto pievienoto dokumentu saraksts.\n(2) Pieteikumam jāpievieno pierādījumi par parāda summu, veidu, termiņiem un pamatojumu, kā arī pierādījumi tam, ka parādnieks nav pienācīgi kārtojis savas saistības un ka uz viņu var attiecināt šā likuma 3.pantā norādītās maksātnespējas pazīmes vai pierādījumi par šā likuma 39.panta 3.punktā noteikto parādnieka paziņojumu.\n(3) Ja maksātnespējas pieteikums tiek iesniegts, pamatojoties uz šā likuma 39.panta trešajā punktā un 41.panta 1. un 3.punktā paredzētajiem apstākļiem, pieteikumam jāpievieno pierādījumi, kas šos apstākļus apstiprina.\n(4) Kreditors, kreditoru grupa vai kompetentas valsts institūcijas maksātnespējas pieteikumā par Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktās maksātnespējas procedūras uzsākšanu pret parādnieku norāda pamatojumu šīs regulas 3.panta 1. vai 2.punktā noteiktās maksātnespējas procedūras uzsākšanai. Pieteikumam pievieno apliecinošus dokumentus, ja tādi ir kreditora, kreditoru grupas vai kompetentas valsts institūcijas rīcībā.\n(5) Ja tiek iesniegts maksātnespējas procesa pieteikums par Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanu, kreditors, kreditoru grupa vai kompetentas valsts institūcijas nosūta maksātnespējas pieteikuma kopiju šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatoram."
+    },
+    {
+      "provision_ref": "Art. 44.1",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "44.1",
+      "title": "44. 1 pants. Padomes regulā norādītās personas maksātnespējas pieteikuma saturs",
+      "content": "(1) Padomes regulas Nr. 1346/2000 29.panta \"a\" punktā norādītā persona maksātnespējas pieteikumā norāda:\n1) tās tiesas nosaukumu, kura pret parādnieku uzsākusi Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteikto maksātnespējas procedūru, tiesas nolēmuma pieņemšanas un spēkā stāšanās datumu;\n2) pamatojumu Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras uzsākšanai pret parādnieku;\n3) informāciju, vai citā dalībvalstī pret parādnieku ir uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra.\n(2) Padomes regulas Nr. 1346/2000 29.panta \"a\" punktā norādītā persona maksātnespējas pieteikumam pievieno:\n1) pienācīgi apliecinātu tiesas nolēmuma norakstu par Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras uzsākšanu pret parādnieku un noteiktā kārtībā apliecinātu tā tulkojumu valsts valodā;\n2) pienācīgi apliecinātu tiesas nolēmuma vai cita apliecinājuma norakstu par likvidatora iecelšanu Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktajā maksātnespējas procedūrā un noteiktā kārtībā apliecinātu tā tulkojumu valsts valodā;\n3) dokumentus, kas apliecina, ka konkrētajā vietā Latvijā atrodas parādniekam piederošs uzņēmums Padomes regulas Nr. 1346/2000 2.panta \"h\" punkta izpratnē."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "45",
+      "title": "Maksātnespējas pieteikuma iesniegšana",
+      "content": "Maksātnespējas pieteikumi tiesā iesniedzami personiski vai ar pilnvarota pārstāvja starpniecību."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VI nodaļa Maksātnespējas pieteikums, tā saturs un veidi",
+      "section": "46",
+      "title": "Aizliegums grozīt prasījuma priekšmetu un atsaukt maksātnespējas pieteikumu",
+      "content": "(1) Maksātnespējas lietās nav pieļaujama prasījuma priekšmeta grozīšana.\n(2) Maksātnespējas pieteikuma iesniedzējs nav tiesīgs atsaukt maksātnespējas pieteikumu."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "47",
+      "title": "Kreditora individuālo darbību ierobežošana maksātnespējas procesā",
+      "content": "(1) Līdz ar maksātnespējas lietas ierosināšanu kreditoram ir aizliegts veikt individuālas darbības, ar kurām tiek nodarīti zaudējumi kreditoru kopuma interesēm.\n(2) Mantiskās tiesības, kuras radušās kreditoram vai trešajām personām šā panta pirmajā daļā minēto kreditora darbību rezultātā, uz administratora, parādnieka vai cita kreditora vai kreditoru grupas prasības pamata tiesa atzīst par spēkā neesošām.\n(3) Šā panta noteikumi neattiecas uz darbībām, kuras veiktas šā likuma 21.panta otrās daļas 20.punktā noteiktajos gadījumos, un uz šo darbību rezultātā iegūtajām tiesībām."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "48",
+      "title": "Administratora darbības līdz lietas izskatīšanai",
+      "content": "Pēc iecelšanas un līdz lietas izskatīšanai tiesā administrators veic šādas darbības:\n1) noskaidro parādnieka pārstāvjus ( 1.panta 16.punkts) maksātnespējas lietā un iesniedz to sarakstu tiesā;\n2) sastāda pārskatu par parādnieka norēķinu kontos un kasē esošo naudas līdzekļu apjomu un parādnieka pamatlīdzekļu un apgrozāmo līdzekļu bilances vērtību un iesniedz šo pārskatu tiesā līdz noteiktajam lietas izskatīšanas termiņam;\n3) apzina parādnieka valdījumā vai turējumā esošo trešajām personām piederošo mantu;\n4) sastāda kreditoru sarakstu pēc parādnieka grāmatvedībā esošajiem datiem;\n5) sagatavo atzinumu par to, vai pret parādnieku uzsākama Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra, un iesniedz atzinumu tiesā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "49",
+      "title": "Parādnieka pasludināšana par maksātnespējīgu",
+      "content": "Parādnieku par maksātnespējīgu pasludina tiesa, un tās spriedums ir galīgs."
+    },
+    {
+      "provision_ref": "Art. 49.1",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "49.1",
+      "title": "49. 1 pants. Parādnieka statuss pēc viņa pasludināšanas par maksātnespējīgu",
+      "content": "Pēc tam, kad tiesa pasludinājusi parādnieku par maksātnespējīgu, administrators nodrošina vārda \"maksātnespējīgais\" vai \"maksātnespējīgā\" lietošanu visos parādnieka rekvizītos."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "50",
+      "title": "Maksātnespējas pasludināšanas sekas attiecībā uz parādnieku un tā pārstāvjiem",
+      "content": "(1) Pēc parādnieka pasludināšanas par maksātnespējīgu:\n1) parādnieks zaudē tiesības rīkoties ar savu mantu, kā arī ar viņa valdījumā vai turējumā esošo trešo personu mantu un šīs tiesības iegūst administrators;\n2) parādnieka pārvaldes institūciju darbība tiek apturēta, un parādnieka pārvaldīšanu veic administrators;\n3) apstājas nokavējuma naudas un procentu pieaugums prasījumiem (nodokļu prasījumiem tiek pārtraukta arī pamatparāda palielinājuma naudas aprēķināšana).\n(2) Tiesas spriedums, ar kuru parādnieks pasludināts par maksātnespējīgu, ir pamats tiesvedības apturēšanai civillietās, kas ierosinātas pret parādnieku, un spriedumu izpildīšanas lietvedības izbeigšanai lietās par piespriesto, bet no parādnieka nepiedzīto summu piedziņu."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "51",
+      "title": "Maksātnespējas iestāšanās diena",
+      "content": "Ja parādnieks ar tiesas spriedumu pasludināts par maksātnespējīgu, tas uzskatāms par maksātnespējīgu no maksātnespējas pieteikuma iesniegšanas dienas, ja tiesa nav noteikusi agrāku maksātnespējas iestāšanās dienu."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "52",
+      "title": "Administratora darbības pēc parādnieka pasludināšanas par maksātnespējīgu",
+      "content": "(1) Pēc parādnieka pasludināšanas par maksātnespējīgu administrators veic šādas darbības:\n1) sniedz Uzņēmumu reģistram, bet gadījumos, kad parādniekam pieder nekustamais īpašums, — arī attiecīgajai Zemesgrāmatu nodaļai šā likuma 53.pantā noteikto informāciju par parādnieka pasludināšanu par maksātnespējīgu;\n1 1 ) saskaņā ar normatīvo aktu prasībām sniedz citiem publiskajiem reģistriem informāciju par parādnieka pasludināšanu par maksātnespējīgu;\n2) iesniedz publicēšanai presē paziņojumu par parādnieka maksātnespēju, kā arī triju dienu laikā nosūta tiesas sprieduma norakstu Aģentūrai;\n3) sasauc pirmo kreditoru sapulci;\n4) veic parādnieka mantas un dokumentu pilnu revīziju;\n5) sastāda tās parādnieka mantas sarakstu, uz kuru vēršami kreditoru prasījumi;\n6) pieņem un reģistrē kreditoru prasījumus un pārbauda tos;\n7) pasludina līdzšinējos parādnieka zīmogus par nederīgiem.\n(2) Ja pret parādnieku citā dalībvalstī uzsākta Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktā maksātnespējas procedūra, tad šīs regulas 22.panta 2.punktā norādītā persona, veicot Latvijā darbības, kas saistītas ar parādnieka mantas atgūšanu un atsavināšanu, informē attiecīgos publiskos reģistrus par maksātnespējas procedūras uzsākšanu pret parādnieku. Informācijai pievieno pienācīgi apliecinātu nolēmuma norakstu par maksātnespējas procedūras uzsākšanu pret parādnieku un Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatora iecelšanu un noteiktā kārtībā apliecinātu tā tulkojumu valsts valodā.\n(3) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra, administrators triju dienu laikā pēc parādnieka maksātnespējas pasludināšanas nosūta kreditoriem, kuru dzīvesvieta vai juridiskā adrese ir citā dalībvalstī, paziņojumu par parādnieka maksātnespēju un kreditoru prasījumu iesniegšanu saskaņā ar Padomes regulā Nr. 1346/2000 noteikto kārtību, kurā papildus norāda:\n1) ziņas par parādnieku [firmu (nosaukumu), reģistrācijas numuru];\n2) tiesas nosaukumu un sprieduma pasludināšanas dienu;\n3) administratora vārdu, uzvārdu, darbības vietu un tālruņa numuru;\n4) pret parādnieku uzsāktās maksātnespējas procedūras veidu saskaņā ar Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktu;\n5) valsti, kuras normatīvie akti piemērojami maksātnespējas procedūru sākšanai, izpildei un izbeigšanai;\n6) ka kreditora pieteikumā sniedzama informācija par to, vai prasījums ir nodrošināts ar lietu tiesībām.\n(4) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, tad administrators sadarbojas ar šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatoru, pēc likvidatora pieprasījuma sniedz maksātnespējas procesa administrēšanai nepieciešamo informāciju, arī informāciju par parādnieka mantu, kas atrodas Latvijā, plānotajām vai veicamajām darbībām mantas atgūšanai un atsavināšanai, iesniegtajiem kreditoru prasījumiem, atzītajiem un neatzītajiem kreditoru prasījumiem un sūdzībām prasījumu sakarā, kreditoru grupēšanu, apmierinātajiem kreditoru prasījumiem, kreditoru sapulcēm, Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktās maksātnespējas procedūras norisi, risinājumiem, mantas sadali un naudas pārpalikumu.\n(5) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktā maksātnespējas procedūra, administrators seko līdzi citā dalībvalstī pret parādnieku uzsāktās šīs regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras norisei un, ja nepieciešams, pieprasa informāciju no minētās regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras likvidatora, informē likvidatoru par citām pret parādnieku uzsāktajām Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktajām maksātnespējas procedūrām un šo procedūru norises būtiskajiem aspektiem."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "53",
+      "title": "Informācija Uzņēmumu reģistram un Zemesgrāmatu nodaļai",
+      "content": "(1) Triju dienu laikā pēc parādnieka pasludināšanas par maksātnespējīgu administrators nosūta paziņojumu un tiesas sprieduma norakstu Uzņēmumu reģistram un Zemesgrāmatu nodaļai pēc nekustamā īpašuma atrašanās vietas, pavadrakstā norādot savu vārdu un uzvārdu (nosaukumu un pilnvarotā pārstāvja vārdu un uzvārdu, ja administrators ir juridiskā persona), darbības vietu un tālruņa numuru.\n(2) Uzņēmumu reģistram ir pienākums fiksēt iesniegtās ziņas likumā \"Par Latvijas Republikas Uzņēmumu reģistru\" noteiktajā kārtībā.\n(3) Zemesgrāmatu nodaļai saskaņā ar Zemesgrāmatu likumu ir pienākums ierakstīt zemesgrāmatas attiecīgajā nodalījumā atzīmi par īpašnieka pasludināšanu par maksātnespējīgu."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "54",
+      "title": "Paziņojuma publicēšana presē",
+      "content": "(1) Triju dienu laikā pēc parādnieka pasludināšanas par maksātnespējīgu administrators iesniedz publicēšanai laikrakstā \"Latvijas Vēstnesis\" attiecīgu paziņojumu. Administrators ir tiesīgs iesniegt paziņojumu par maksātnespēju publicēšanai arī citos laikrakstos.\n(2) Paziņojumā:\n1) jānorāda tiesas nosaukums un sprieduma pasludināšanas diena;\n2) jānorāda administratora vārds, uzvārds (nosaukums un pilnvarotā pārstāvja vārds un uzvārds, ja administrators ir juridiskā persona), darbības vieta un tālruņa numurs;\n3) jāuzaicina kreditori pieteikt savus prasījumus, jānorāda kreditoru pieteikumu pieņemšanas vieta un termiņš un termiņa nokavēšanas sekas;\n4) jānorāda, ka līdzšinējie parādnieka zīmogi ir nederīgi.\n(3) Ja pret parādnieku citā dalībvalstī uzsākta Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktā maksātnespējas procedūra un parādniekam Latvijā pieder uzņēmums šīs regulas 2.panta \"h\" punkta izpratnē, tad minētās regulas 21.panta 2.punktā norādītā persona triju dienu laikā no brīža, kad Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators uzsācis darbības, kas saistītas ar parādnieka uzņēmuma mantas atgūšanu un atsavināšanu, iesniedz publicēšanai laikrakstā \"Latvijas Vēstnesis\" paziņojumu par parādnieka maksātnespēju, kurā norāda:\n1) ziņas par parādnieku [firmu (nosaukumu), reģistrācijas numuru];\n2) tiesas nosaukumu un sprieduma pasludināšanas dienu;\n3) Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatora vārdu, uzvārdu, darbības vietu un tālruņa numuru;\n4) ka pret parādnieku uzsākta Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktā maksātnespējas procedūra;\n5) valsti, kuras normatīvie akti piemērojami maksātnespējas procedūru sākšanai, izpildei un izbeigšanai.\n(4) Ja pret parādnieku citā dalībvalstī uzsākta Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktā maksātnespējas procedūra, tad šīs regulas 21.panta 1.punktā norādītajai personai, veicot darbības, kas saistītas ar parādnieka mantas atgūšanu un atsavināšanu Latvijā, ir tiesības iesniegt publicēšanai laikrakstā \"Latvijas Vēstnesis\" paziņojumu par parādnieka maksātnespējas procesu."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "55",
+      "title": "Kreditoru prasījumu reģistrācija",
+      "content": "(1) Kreditoru prasījumi pret parādnieku iesniedzami administratoram triju mēnešu laikā no dienas, kad laikrakstā \"Latvijas Vēstnesis\" publicēts paziņojums par parādnieka pasludināšanu par maksātnespējīgu, ja tiesa nav noteikusi īsāku termiņu. Personas, kuras iegūst kreditora statusu pēc šā termiņa izbeigšanās, iesniedz savus prasījumus administratoram līdz administrācijas izmaksu un parādu segšanas kārtības noteikšanai saskaņā ar šā likuma 107.pantu .\n(1 1 ) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra, tad parādnieka kreditors, kura dzīvesvieta vai juridiskā adrese atrodas citā dalībvalstī, iesniedz kreditora prasījumu. Prasījumā norāda šīs regulas 41. un 42.pantā noteiktās ziņas. Kreditora prasījumu ārvalsts valūtā administrators pārrēķina latos saskaņā ar Latvijas Bankas noteikto valūtas kursu maksātnespējas pasludināšanas dienā.\n(1 2 ) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 1. vai 2.punktā noteiktā maksātnespējas procedūra un administrators šīs procedūras kreditoru interesēs iesniedz kreditoru prasījumus citā dalībvalstī pret parādnieku uzsāktā maksātnespējas procedūrā, tad administrators pirms prasījumu iesniegšanas nosūta katram kreditoram paziņojumu ar lūgumu piekrist kreditora prasījuma iesniegšanai citā procedūrā. Ja kreditors triju nedēļu laikā pēc paziņojuma nosūtīšanas nav sniedzis administratoram rakstveida atbildi, uzskatāms, ka viņš noraidījis piedāvājumu iesniegt viņa prasījumu citā procedūrā. Ja administrators nav informējis kreditoru, kreditoram ir tiesības atsaukt tā interesēs iesniegto prasījumu, iesniedzot atsaukumu administratoram. Administrators atsauc kreditora prasījumu divu nedēļu laikā pēc atsaukuma saņemšanas.\n(2) Aģentūra kļūst par kreditoru brīdī, kad ir apmierināti parādnieka darbinieku prasījumi, un uz to netiek attiecināti šā panta pirmās daļas noteikumi.\n(3) Administrators apkopo pieteiktos un parādnieka grāmatvedībā atspoguļotos kreditoru prasījumus un sastāda nodrošināto kreditoru prasījumu sarakstu, nenodrošināto kreditoru prasījumu sarakstu un trešo personu sarakstu, pret kurām parādniekam ir prasījuma tiesības, norādot katra prasījuma summu. Nenodrošināto kreditoru prasījumu sarakstā administrators norāda prasījumu summai atbilstošo katra nenodrošinātā kreditora balsu skaitu pirmajā kreditoru sapulcē.\n(4) Administrators grupē kreditoru prasījumus šajā likumā noteiktajā parādu segšanas secībā, pārbauda to formāli juridisko atbilstību normatīvo aktu prasībām un, ja nepieciešams, pieprasa prasījuma iesniedzējam pieteikto prasījumu pamatojošas papildu ziņas un dokumentus. Lēmumu par prasījumu atzīšanu vai noraidīšanu pieņem administrators. Administratoram nav tiesību noraidīt kreditoru prasījumus, par kuru apmierināšanu stājies spēkā tiesas nolēmums.\n(4 1 ) Ja kreditors ir pieteicis kreditoru prasījumu noteiktajā termiņā, administrators lēmumu par prasījuma atzīšanu vai noraidīšanu pieņem līdz pirmajai kreditoru sapulcei.\n(4 2 ) Ja kreditors ir pieteicis kreditoru prasījumu pēc noteiktā termiņa vai administrators pieprasījis pieteikto prasījumu pamatojošas papildu ziņas un dokumentus un minētie dokumenti nav iesniegti līdz pirmajai kreditoru sapulcei, administrators lēmumu par prasījuma atzīšanu vai noraidīšanu pieņem līdz nākamajai kreditoru sapulcei.\n(5) Pēc nodrošināto kreditoru prasījumu pamatotības pārbaudes administrators šo prasījumu nodrošināšanai ieķīlāto mantu izslēdz no tās mantas saraksta, uz kuru vēršami kreditoru prasījumi."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "56",
+      "title": "Pirmās kreditoru sapulces sasaukšanas kārtība",
+      "content": "(1) Pirmo kreditoru sapulci sasauc tiesas ieceltais administrators ne vēlāk kā triju nedēļu laikā pēc kreditoru pieteikšanās termiņa beigām.\n(2) Administrators pirmās kreditoru sapulces laiku, vietu un darba kārtību izziņo kreditoriem ne vēlāk kā divas nedēļas pirms noteiktā sapulces datuma. Paziņojums par pirmo kreditoru sapulci publicējams laikrakstā \"Latvijas Vēstnesis\". Administrators ir tiesīgs iesniegt šādu paziņojumu publicēšanai arī citos laikrakstos.\n(3) Ja kreditoru ir vairāk par 300, administrators, izziņojot kreditoru sapulci, uzaicina kreditorus, kuru prasījumi nepārsniedz vienu procentu no visu prasījumu summas, pilnvarot kopīgu pārstāvi."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "57",
+      "title": "Kreditoru prasījumu izskatīšana",
+      "content": "(1) Ar pieteiktajiem prasījumiem ir tiesīgi iepazīties visi kreditori.\n(2) Kreditori ir tiesīgi iesniegt administratoram motivētus iebildumus par citu kreditoru prasījumu pamatotību, izņemot prasījumus, par kuriem ir stājies spēkā tiesas nolēmums.\n(2 1 ) Šā panta pirmajā un otrajā daļā noteiktās tiesības var izmantot pret parādnieku citā dalībvalstī uzsāktās Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators, bet šīs regulas 3.panta 2.punktā noteiktās maksātnespējas procedūras likvidators — tikai gadījumā, ja viņš kreditoru interesēs iesniedzis kreditoru prasījumus.\n(3) Administrators iesniedz apstiprināšanai pirmajā kreditoru sapulcē savu lēmumu par atzītajiem nenodrošināto kreditoru prasījumiem, kā arī savu lēmumu par noraidītajiem nenodrošināto kreditoru prasījumiem.\n(4) Vispirms kreditoru sapulce balso par katru noraidīto prasījumu atsevišķi. Ja kreditoru sapulce atzīst kādu no administratora noraidītajiem prasījumiem, tas tiek iekļauts administratora sastādītā atzīto prasījumu saraksta attiecīgajā grupā.\n(5) Kreditoru sapulce balso par administratora sastādīto atzīto nenodrošināto kreditoru prasījumu sarakstu kopumā. Ja kreditoru sapulce neapstiprina sarakstu kopumā, balsošana notiek pa kreditoru grupām (107. pants). Ja kreditoru sapulce neapstiprina kādas grupas prasījumus, tā balso par katru šīs grupas prasījumu atsevišķi. Kreditoru prasījumi, par kuriem ir stājies spēkā tiesas nolēmums, netiek balsoti.\n(6) Kreditoru sapulce neizskata jautājumu par nodrošināto prasījumu atzīšanu.\n(7) Katrs kreditors ir tiesīgs pārsūdzēt tiesā kreditoru sapulces lēmumu daļā par kāda kreditora prasījuma atzīšanu vai sava prasījuma noraidīšanu.\n(8) Sūdzību var iesniegt divu nedēļu laikā no kreditoru sapulces dienas, bet, ja kreditors nav piedalījies sapulcē, no dienas, kad viņam paziņots kreditoru sapulces lēmums.\n(9) Noraidīto prasījumu iesniedzējs saglabā savas balsstiesības kreditoru sapulcē līdz sūdzības galīgai izskatīšanai tiesā. Ja noraidīto prasījumu iesniedzējs neiesniedz tiesā sūdzību šā panta astotajā daļā noteiktajā termiņā, pēc šā termiņa izbeigšanās viņam zūd balsstiesības."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "58",
+      "title": "Kārtējo kreditoru sapulču sasaukšanas kārtība",
+      "content": "(1) Kārtējās kreditoru sapulces tiek sasauktas pēc nepieciešamības, lai izlemtu atsevišķus jautājumus, kas saskaņā ar šo likumu ir kreditoru sapulces kompetencē.\n(2) Kārtējās kreditoru sapulces var sasaukt administrators pēc savas iniciatīvas, ne vēlāk kā divas nedēļas pirms sapulces izziņojot tās laiku, vietu un darba kārtību visiem zināmajiem kreditoriem un Aģentūrai.\n(3) Administrators sasauc kārtējo kreditoru sapulci divu mēnešu laikā no pieprasījuma saņemšanas dienas, ja to pieprasa citā dalībvalstī pret parādnieku uzsāktās Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators, kreditoru komiteja, kreditors vai kreditoru grupa, kas pārstāv ne mazāk kā vienu ceturtdaļu no parādnieka kopējās parādu summas. Pieprasījumā jāietver pieprasītāju saraksts, viņu prasījumu apjoms, sapulces sasaukšanas iemesli. Ja administrators sapulci nesasauc, kreditori var griezties tiesā, kura pārbauda pieteikuma pamatotību un pieņem lēmumu, ar kuru uzliek administratoram par pienākumu sapulci sasaukt, vai pieteikumu noraida."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "59",
+      "title": "Noslēguma kreditoru sapulces sasaukšanas kārtība",
+      "content": "(1) Noslēguma kreditoru sapulci, izziņojot tās laiku, vietu un darba kārtību visiem zināmajiem kreditoriem un Aģentūrai vismaz divas nedēļas iepriekš, administrators sasauc ne vēlāk kā divas nedēļas pirms kreditoru sapulces noteiktā maksātnespējas risinājuma termiņa beigām.\n(2) Ja uz noslēguma kreditoru sapulci kreditori neierodas, administrators viena mēneša laikā sasauc atkārtotu noslēguma kreditoru sapulci. Ja uz atkārtoto noslēguma kreditoru sapulci kreditori neierodas, tiek uzskatīts, ka kreditoru sapulce piekrīt maksātnespējas procesa izbeigšanai."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "60",
+      "title": "Sūdzību un strīdu izskatīšana maksātnespējas lietā",
+      "content": "(1) Pēc parādnieka pasludināšanas par maksātnespējīgu kreditoru sapulce, kreditoru komiteja, kreditors, parādnieka pārstāvis vai trešā persona, kuras tiesības vai tiesiskās intereses aizskartas, sūdzību par administratora rīcību iesniedz Aģentūrai mēneša laikā no dienas, kad konstatēta rīcība, ar kuru aizskartas kreditoru sapulces, kreditoru komitejas, kreditora, parādnieka pārstāvja vai trešās personas tiesības, bet ne vēlāk kā triju mēnešu laikā no sūdzībā minētā fakta rašanās brīža.\n(2) Administratora sūdzību par kreditoru komitejas lēmumu izskata tiesa, ja pirms tam sūdzība izskatīta kreditoru sapulcē.\n(3) Administratora sūdzību par kreditoru sapulces lēmumu izskata tiesa.\n(4) Kreditori var pārsūdzēt kreditoru sapulces vai kreditoru komitejas lēmumu šajā likumā noteiktajos gadījumos.\n(5) Ja, pamatojoties uz administratora rīcību, kreditoru sapulces vai kreditoru komitejas lēmumu, rodas strīds par tiesībām, kas izšķirams saskaņā ar vispārīgajiem noteikumiem, prasība iesniedzama tiesā atbilstoši normatīvajos aktos noteiktajai lietu piekritībai.\n(6) Sūdzības par citu maksātnespējas procesā iesaistīto personu lēmumiem vai rīcību izskata tā tiesa, kurā ierosināta attiecīgā maksātnespējas lieta."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "61",
+      "title": "Sūdzību izskatīšana Aģentūrā",
+      "content": "(1) Sūdzību par administratora rīcību izskata Aģentūra. Aģentūra pauž savu viedokli, pamatojoties uz koleģiālu lēmumu.\n(2) Lai noskaidrotu pušu viedokli, Aģentūra ir tiesīga no pusēm pieprasīt nepieciešamās ziņas un dokumentus.\n(3) Sūdzību par administratora rīcību Aģentūra izskata viena mēneša laikā no sūdzības saņemšanas dienas.\n(4) Ja objektīvu iemeslu dēļ viena mēneša termiņu nav iespējams ievērot, Aģentūra var termiņu pagarināt uz laiku, ne ilgāku par diviem mēnešiem. Par termiņa pagarinājumu Aģentūra paziņo sūdzības iesniedzējam.\n(5) Aģentūras lēmumu attiecībā uz sūdzību par administratora rīcību var pārsūdzēt 15 dienu laikā tiesā, kurā ierosināta maksātnespējas lieta."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "62",
+      "title": "Maksātnespējas procesa izbeigšana",
+      "content": "(1) Maksātnespējas procesu izbeidz tiesa.\n(2) Administrators iesniedz tiesā pieteikumu par maksātnespējas procesa izbeigšanu, ja ir kāds no šādiem apstākļiem:\n1) parādnieks nokārtojis visas savas saistības;\n2) parādnieks nokārtojis visas savas saistības, kurām iestājies izpildes termiņš, un pēc šo saistību nokārtošanas tā aktīvi pārsniedz atlikušo parādu summu;\n3) līdz izsludinātā termiņa beigām nav pieteicies neviens kreditors;\n4) pabeigta bankrota procedūra.\n(3) Parādnieks iesniedz tiesā pieteikumu par maksātnespējas procesa izbeigšanu šā panta otrās daļas 1.un 2.punktā paredzētajos gadījumos.\n(4) Pieteikumam par maksātnespējas procesa izbeigšanu ir jāpievieno pierādījumi, kuri apliecina šā panta otrajā daļā paredzētos apstākļus. Administratora pieteikumam jāpievieno arī attiecīgs kreditoru sapulces lēmums vai pierādījumi, ka kreditoru sapulces sasaukšana bijusi nesekmīga. Administratora pieteikumam par bankrota procedūras pabeigšanu pievieno apliecinājumu par atlikušo naudas līdzekļu samaksu Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatoram, ja Latvijā pret parādnieku uzsākta šīs regulas 3.panta 2.punktā noteiktā maksātnespējas procedūra.\n(4 1 ) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra un kreditoru sapulce pieņēmusi lēmumu par uzsāktās bankrota procedūras atcelšanu un cita maksātnespējas procesa stāvokļa risinājuma piemērošanu, pirms minētā lēmuma apstiprināšanas jāsaņem šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatora rakstveida piekrišana.\n(5) Maksātnespējas process arī izbeidzams, noraidot maksātnespējas pieteikumu vai izbeidzot tiesā maksātnespējas lietu.\n(6) Ja maksātnespējas process tiek izbeigts sakarā ar to, ka nav konstatētas parādnieka maksātnespējas pazīmes vai tā faktiskā maksātspēja ir atjaunojusies, administrators nosūta tiesas nolēmumu Uzņēmumu reģistram un attiecīgajai Zemesgrāmatu nodaļai izdarīto atzīmju dzēšanai. Ja maksātnespējas process tiek izbeigts sakarā ar parādnieka bankrotu, administrators iznīcina parādnieka zīmogu un nosūta Uzņēmumu reģistram tiesas lēmumu par bankrota procedūras pabeigšanu parādnieka izslēgšanai no Uzņēmumu reģistra."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "VII nodaļa Maksātnespējas process",
+      "section": "63",
+      "title": "Maksātnespējas procesa izbeigšanas sekas",
+      "content": "(1) Ja maksātnespējas process tiek izbeigts sakarā ar parādnieka faktiskās maksātspējas atjaunošanos, administratora pilnvaras attiecīgajā maksātnespējas procesā izbeidzas un atjaunojas parādnieka tiesības pārvaldīt savu mantu, kā arī atjaunojas parādnieka pārvaldes institūciju darbība.\n(2) Ja maksātnespējas process tiek izbeigts sakarā ar parādnieka bankrotu, administratora pilnvaras izbeidzas līdz ar tiesas lēmuma pieņemšanu par bankrota procedūras pabeigšanu.\n(3) (Izslēgta ar 20.11.2003 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "64",
+      "title": "Parādnieka mantas jēdziens",
+      "content": "(1) Parādnieka manta šā likuma izpratnē ir:\n1) parādnieka aktīvi maksātnespējas pieteikuma iesniegšanas brīdī;\n2) saskaņā ar šā likuma 65.pantu atgūtā manta;\n3) augļi, kas iegūti no parādnieka mantas maksātnespējas procesa laikā;\n4) cita maksātnespējas procesa laikā likumīgā ceļā iegūta manta;\n5) manta, kas atrodas tikai Latvijā, ja pret parādnieku uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra.\n(2) Parādnieka manta šā likuma izpratnē ir arī individuālā (ģimenes) uzņēmuma, zemnieka vai zvejnieka saimniecības īpašniekam vai līgumsabiedrības komplementārajam dalībniekam piederošā manta, izņemot to mantu, uz kuru saskaņā ar Civilprocesa likumu nevar vērst piedziņu."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "65",
+      "title": "Atgūtā manta",
+      "content": "Atgūtā manta šā likuma izpratnē ir finanšu līdzekļi, arī cita manta, kuri:\n1) iekļāvušies parādnieka mantā maksātnespējas procesa laikā, pamatojoties uz prasījuma tiesībām pret trešajām personām;\n2) atgūti, atzīstot darījumus par spēkā neesošiem šā likuma 69. — 71.pantā paredzētajos gadījumos;\n3) atgūti, atdodot parādus šā likuma 72.pantā paredzētajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "66",
+      "title": "Neieguldīto daļu piedzīšana",
+      "content": "(1) Administratoram ir jāpiedzen:\n1) pilnībā neieguldītās pamatkapitāla daļas no dalībniekiem, ja parādnieks ir sabiedrība ar ierobežotu atbildību;\n2) ieguldījumi pamatkapitālā pilnā apmērā no akcionāriem, kuri nav pilnībā samaksājuši par savām akcijām, ja parādnieks ir akciju sabiedrība;\n3) pilnībā neiemaksātās, bet līgumā paredzētās līgumsabiedrībā ieguldāmās summas no līgumsabiedrības dalībniekiem, ja parādnieks ir līgumsabiedrība;\n4) dalībnieku neieguldītā manta (paju iemaksas) pamatkapitālā, ja parādnieks ir\npaju sabiedrība.\n(2) Ja kāda uzņēmējsabiedrības dalībnieka ieguldījumam pamatkapitālā uzrādītā vērtība ir augstāka par tā reālo vērtību, pēc administratora prasības starpība starp uzrādīto un reālo vērtību piedzenama no personas (dalībnieka, vērtētāja, eksperta), kuras vainas dēļ radusies šī neatbilstība."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "67",
+      "title": "Trešajām personām piederošā manta",
+      "content": "(1) Parādnieka mantas sarakstā, uz kuru vēršami kreditoru prasījumi, netiek iekļauta parādnieka valdījumā vai turējumā esošā trešajām personām piederošā manta.\n(2) Administrators nodrošina trešajām personām piederošās mantas uzturēšanu līdz tās nodošanai īpašniekam. Administrators ir tiesīgs piedzīt no trešajām personām izdevumus, kas radušies sakarā ar to mantas uzturēšanu.\n(3) Ja trešajām personām piederošā manta ir atsavināta, pirms beidzies kreditoru prasījumu pieteikšanas termiņš, un mantas īpašnieki minētajā termiņā ir pieteikuši savus prasījumus, šīs mantas vērtība tiek atlīdzināta pilnā apmērā pirms citu prasījumu apmierināšanas. Izmaksātā summa piedzenama no personas, kuras vainas dēļ trešās personas manta ir atsavināta.\n(4) (Izslēgta ar 22.10.1998.likumu.)"
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "68",
+      "title": "Ieķīlātās mantas realizācija",
+      "content": "(1) Nodrošinātais kreditors var uzsākt viņa prasījumam par nodrošinājumu kalpojošās (ieķīlātās) parādnieka mantas realizāciju pēc tam, kad pieņemts lēmums par maksātnespējas stāvokļa risinājumu (mierizlīgumu, sanāciju vai bankrotu), ja nav stājušies spēkā šā likuma 90. pantā noteiktie ierobežojumi.\n(2) Ieķīlātās parādnieka mantas labprātīgas izsoles noteikumus un sākumcenu nodrošinātais kreditors saskaņo ar administratoru. Administrators izsolē pārstāv parādnieka intereses, un viņam ir tiesības pieprasīt no izsoles organizētāja izsoles aktu (izsoles protokolu).\n(3) Pārdodot ieķīlāto parādnieka kustamo mantu par brīvu cenu, šis mantas atsavināšanas līgums slēdzams rakstveidā un saskaņojams ar administratoru.\n(4) Pēc nekustamā īpašuma pārdošanas administrators iesniedz tiesā pieteikumu par maksātnespējas atzīmes dzēšanu zemesgrāmatā.\n(5) Ja nav ievēroti šā panta noteikumi, parādnieka ieķīlātās mantas atsavināšanas līgums nav spēkā.\n(6) Ja par ieķīlāto parādnieka mantu saņemta naudas summa, kas pārsniedz nodrošināto prasījumu un izsoles izdevumus, pārpalikums ieskaitāms parādnieka norēķinu kontā."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "69",
+      "title": "Pamats darījumu atzīšanai par spēkā neesošiem",
+      "content": "(1) Tiesa pēc administratora prasības var atzīt par spēkā neesošiem parādnieka darījumus ar trešajām personām neatkarīgi no šo darījumu veida, ja:\n1) tie noslēgti pēc maksātnespējas pieteikuma iesniegšanas dienas un parādnieks ar tiem ir apzināti nodarījis zaudējumus kreditoriem, — neatkarīgi no tā, vai persona, ar kuru vai kurai par labu darījums noslēgts, ir vai nav zinājusi par zaudējumu nodarīšanu kreditoriem;\n2) tie noslēgti piecu gadu laikā pirms maksātnespējas iestāšanās dienas, parādnieks ar tiem apzināti nodarījis zaudējumus kreditoriem un persona, ar kuru vai kurai par labu noslēgts darījums, ir zinājusi par šādu zaudējumu nodarīšanu;\n3) tie noslēgti piecu gadu laikā pirms maksātnespējas iestāšanās dienas un ar tiesas spriedumu krimināllietā ir konstatēts, ka parādnieks novests līdz maksātnespējai ar noziedzīgu nodarījumu un persona, ar kuru vai kurai par labu darījums ir ticis slēgts, ir zinājusi par šo nodarījumu.\n(2) Ja darījumus, ar kuriem radīti zaudējumi kreditoriem, parādnieks noslēdzis ar ieinteresētajām personām attiecībā pret parādnieku vai šo personu labā, tad uzskatāms, ka šīs personas ir zinājušas par zaudējumu nodarīšanu, ja tās nepierāda pretējo.\n(3) Ja darījumi, ar kuriem nodarīti zaudējumi kreditoriem, noslēgti pēc maksātnespējas iestāšanās dienas vai mēneša laikā pirms maksātnespējas iestāšanās dienas, tad uzskatāms, ka parādnieks ir apzināti kaitējis kreditoru interesēm, ja tas nepierāda pretējo.\n(4) Nodrošinātais kreditors var prasīt atzīt par spēkā neesošu administratora noslēgtu darījumu, ja darījums attiecas uz prasījuma nodrošināšanai ieķīlāto mantu un ir aizskartas nodrošinātā kreditora intereses."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "70",
+      "title": "Dāvinājuma līgumu un uztura līgumu atzīšana par spēkā neesošiem",
+      "content": "(1) Parādnieka mantas dāvinājuma līgumu var atzīt par spēkā neesošu atbilstoši Civillikuma 1927.panta noteikumiem.\n(2) Tiesa var atzīt par spēkā neesošiem citus triju gadu laikā pirms maksātnespējas iestāšanās dienas vai pēc tās noslēgtos darījumus, kuros pušu savstarpējo saistību nevienlīdzīgums norāda, ka faktiski izdarīts dāvinājums.\n(3) Nevar atzīt par spēkā neesošiem ziedojumus, kas izdarīti par labu Latvijā reģistrētajām sabiedriskajām organizācijām, kuru darbība ir vērsta uz kultūras, zinātnes, izglītības, sporta, veselības aizsardzības vai sociālās palīdzības veicināšanu. Ziedojumu šādai organizācijai var atzīt par spēkā neesošu un atprasīt, ja ir pierādījumi, ka šis ziedojums ir fiktīvs vai netiek izmantots paredzētajiem mērķiem.\n(4) Administrators var prasīt, lai tiek atzīts par spēkā neesošu uztura līgums, saskaņā ar kuru parādnieks nodevis kādu savu mantu citai personai pret pienākumu dot uzturu, ja šāds līgums noslēgts pēc dienas, kad radušās parādu saistības."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "71",
+      "title": "Ķīlas līgumu atzīšana par spēkā neesošiem",
+      "content": "(1) Ķīlas līgums atzīstams par spēkā neesošu, ja:\n1) ķīlas tiesība, izņemot kredīthipotēku, nodibināta, pirms radusies ar to nodrošinātā saistība, vai arī ķīlas tiesība nodibināta pēc maksātnespējas iestāšanās dienas vai pēdējo sešu mēnešu laikā pirms maksātnespējas iestāšanās dienas tādam prasījumam, kurš līdz tam nav bijis nodrošināts;\n2) tas noslēgts pēc maksātnespējas iestāšanās dienas vai gada laikā pirms tās un ķīlas ņēmējs ir bijis ieinteresētā persona attiecībā pret parādnieku saskaņā ar šā likuma 35.pantu ;\n3) ķīla atsavināta nodrošinātā kreditora prasījuma apmierināšanai pēc maksātnespējas iestāšanās dienas vai sešu mēnešu laikā pirms tās un atsavināšana nav notikusi atklātā izsolē gadījumos, kad ķīla saskaņā ar likumu vai līgumu bija pārdodama šādā izsolē.\n(2) Ja ķīlas līgums tiek atzīts par spēkā neesošu, attiecīgais nodrošinātais kreditors iegūst nenodrošinātā kreditora statusu."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "72",
+      "title": "Parādu segšanai samaksāto summu atdošana",
+      "content": "(1) Naudas summas, ko parādnieks samaksājis parādu segšanai pēdējo sešu mēnešu laikā pirms maksātnespējas iestāšanās dienas, kā arī pēc maksātne­spējas iestāšanās dienas (izņemot naudas summas, ko samaksājis administrators maksātnespējas procesa gaitā), pēc tiesas sprieduma ir atmaksājamas, ja tiek konstatēts vismaz viens no šādiem apstākļiem:\n1) maksājums izdarīts pirms saistību izpildes termiņa iestāšanās;\n2) parāda samaksas rezultātā iestājusies parādnieka faktiskā maksātnespēja;\n3) parāds samaksāts ieinteresētajām personām attiecībā pret parādnieku, kuras par tādām atzīstamas saskaņā ar šā likuma 35.pantu , ja parādnieks vai parāda saņēmējs nepierāda, ka parāda samaksas laikā parādnieks nav bijis faktiski maksātnespējīgs vai parāda samaksa nav bijusi par cēloni parādnieka faktiskajai maksātnespējai.\n(2) Šā panta noteikumi attiecas arī uz tiesu izpildītāju piedzītiem parādiem, no kuriem atskaitīti sprieduma izpildīšanai nepieciešamie izdevumi.\n(3) Ja parādu segšanai samaksātās summas tiek atdotas šā panta pirmajā daļā paredzētajos gadījumos, atjaunojas pušu saistības, kuras bija spēkā līdz parādu segšanai."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "73",
+      "title": "Parādnieka mantas pārvaldīšana",
+      "content": "(1) Pēc parādnieka pasludināšanas par maksātnespējīgu parādnieka mantas pārvaldīšanas tiesības iegūst administrators.\n(2) Administrators pārvalda parādnieka mantu un rīkojas ar to šajā likumā noteikto pilnvaru apjomā."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "74",
+      "title": "Darba līgumu laušana",
+      "content": "(1) Pēc parādnieka pasludināšanas par maksātnespējīgu administratoram ir tiesības lauzt darba līgumus ar parādnieka darbiniekiem. Šādā gadījumā par darba līguma laušanas tiesisko pamatu uzskatāmi Darba likuma 101.panta pirmās daļas 9. un 10.punkta noteikumi, ja nav cita likumiska pamata darba līguma laušanai.\n(2) Darba līguma izbeigšanas gadījumā atlaistie darbinieki iegūst kreditora statusu:\n1) neizmaksātās darba samaksas un ar to saistīto nesaņemto maksājumu apmērā;\n2) kaitējuma atlīdzības apmērā sakarā ar nelaimes gadījumu darbā vai arodslimību par visu nesamaksāto periodu un to maksājumu apmērā, kas izdarāmi par četriem gadiem uz priekšu valsts sociālās apdrošināšanas speciālajā budžetā, ja nelaimes gadījums darbā noticis vai arodslimība iegūta līdz 1997.gada 1.janvārim, kā arī gadījumā, ja bijušajam darbiniekam, kurš nav uzskatāms par apdrošināto personu saskaņā ar likumu \"Par obligāto sociālo apdrošināšanu pret nelaimes gadījumiem darbā un arodslimībām\", arodslimība, kuras cēlonis ir šā darbinieka veiktais darbs veselībai kaitīgos darba apstākļos līdz 1997.gada 1.janvārim, konstatēta pēc 1997.gada 1.janvāra."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "75",
+      "title": "Naudas līdzekļu pārvaldīšana",
+      "content": "(1) Naudas līdzekļi, kurus saņem parādnieka mantas pārvaldīšanas gaitā, noguldāmi atsevišķā norēķinu kontā.\n(2) Administrators var turēt skaidro naudu tādā apmērā, kāds nepieciešams kārtējo izdevumu segšanai."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "VIII nodaļa Parādnieka manta un tās pārvalde",
+      "section": "76",
+      "title": "Administratora pienākums organizēt grāmatvedības uzskaiti",
+      "content": "Administratoram ir pienākums organizēt grāmatvedības uzskaiti visa maksātnespējas procesa laikā atbilstoši likuma \" Par grāmatvedību \" un likuma \" Par uzņēmumu gada pārskatiem \" prasībām."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "77",
+      "title": "Mierizlīguma pieļaujamība",
+      "content": "(1) Mierizlīgums pieļaujams visās maksātnespējas procesa stadijās līdz parādnieka mantas izsoles sākumam.\n(2) Mierizlīguma iespēju obligāti izskata pirmajā kreditoru sapulcē, ja parādnieks vai kreditori piedāvā to noslēgt.\n(3) Turpmākajās kreditoru sapulcēs jautājums par mierizlīgumu izskatāms, ja tas ir ietverts kreditoru sapulces darba kārtībā. Administratora pienākums ir iekļaut mierizlīguma jautājumu kreditoru sapulces darba kārtībā, ja parādnieka, Padomes regulas Nr. 1346/2000 34.panta 1.punktā norādītās personas vai kreditoru piedāvātais mierizlīguma projekts ir nodots administratoram ne vēlāk kā trīs nedēļas pirms kreditoru sapulces."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "78",
+      "title": "Mierizlīguma seku izskaidrošana",
+      "content": "(1) Pirms balsojuma par mierizlīguma risinājuma piemērošanu administratora pienākums ir izskaidrot kreditoru sapulcei mierizlīguma noslēgšanas sekas.\n(2) Mierizlīguma seku izskaidrošanu administrators pirms balsošanas veic arī tad, ja mierizlīguma projekts tiek piedāvāts citā maksātnespējas procesa stadijā."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "79",
+      "title": "Balsojums par mierizlīguma iespēju",
+      "content": "(1) Mierizlīguma risinājuma iespēja ir pieņemta, ja par to nobalso vairāk nekā puse no klātesošajiem kreditoriem pēc prasījumu summas.\n(2) Ja kreditoru sapulce noraida mierizlīguma risinājuma iespēju, tai ir jālemj par sanācijas piemērošanu vai bankrota procedūras uzsākšanu."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "80",
+      "title": "Mierizlīguma pamatprincipi",
+      "content": "(1) Mierizlīgums var izpausties kā:\n1) prasījumu summas samazināšana;\n2) atteikšanās no līgumsoda vai procentiem, arī nokavējuma naudas, vai līgumsoda un procentiem vai arī kā to samazināšana;\n3) saistību izpildes termiņa atlikšana.\n(2) Šā panta pirmajā daļā minētā mierizlīguma noteikumi nav pieļaujami attiecībā uz šā likuma 107.pantā noteikto prioritāro kreditoru prasījumiem bez viņu rakstveida piekrišanas.\n(3) Mierizlīguma gadījumā nedrīkst aizskart nodrošināto kreditoru tiesības un ar likumu aizsargātās intereses bez viņu tiešas un nepārprotamas rakstveida piekrišanas.\n(4) Mierizlīgums slēdzams rakstveidā."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "81",
+      "title": "Mierizlīguma projekts",
+      "content": "Mierizlīguma projektā iekļaujamos noteikumus nosaka kreditoru sapulce. Mierizlīguma noteikumos obligāti norādāms, kādā apmērā apmierināmi katras kreditoru grupas prasījumi. Mierizlīguma projektu, balstoties uz kreditoru sapulces noteiktajiem mierizlīguma noteikumiem, izstrādā administrators."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "82",
+      "title": "Mierizlīguma noslēgšana",
+      "content": "(1) Kreditoru sapulce izskata iesniegto mierizlīguma projektu un lemj par mierizlīguma noslēgšanu.\n(2) Mierizlīgums ir noslēgts, ja par to nobalso vairāk nekā:\n1) trīs ceturtdaļas kreditoru pēc parādu summas, ja projektā paredzēts nokārtot mazāk par pusi no prasījumu kopsummas;\n2) divas trešdaļas kreditoru pēc parādu summas, ja projektā paredzēts nokārtot pusi vai vairāk par pusi no prasījumu kopsummas.\n(3) Ja mierizlīgums netiek noslēgts, kreditoru sapulcei ir jālemj par sanācijas piemērošanu vai bankrota procedūras uzsākšanu.\n(4) Noslēgto mierizlīgumu paraksta parādnieks un viens kreditoru sapulcē ievēlēts pārstāvis.\n(5) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, tad noslēgto mierizlīgumu rakstveidā apstiprina šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators. Ja minētās regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators neapstiprina noslēgto mierizlīgumu, viņš tiesu informē par to, kādā veidā noslēgtais mierizlīgums kaitē minētās regulas 3.panta 1.punktā noteiktās procedūras kreditoru finanšu interesēm.\n(6) Kopā ar mierizlīgumu, ko parakstījis parādnieks un kreditoru sapulcē ievēlēts pārstāvis, kā arī apstiprinājis Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators (ja tiesa pret parādnieku uzsākusi šīs regulas 3.panta 2.punktā noteikto maksātnespējas procedūru), tiesā iesniedzams arī kreditoru sapulces lēmums par mierizlīguma noslēgšanu."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "83",
+      "title": "Mierizlīguma apstiprināšana",
+      "content": "(1) Noslēgto mierizlīgumu apstiprina tiesa.\n(2) Ja tiesa mierizlīgumu neapstiprina, administrators šā likuma 58.panta otrajā daļā paredzētajā kārtībā sasauc kreditoru sapulci cita maksātnespējas stāvokļa risinājuma noteikšanai."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "84",
+      "title": "Kreditoru tiesību ierobežojumi mierizlīguma gadījumā",
+      "content": "(1) Kreditoru sapulce nevar lemt par sanācijas piemērošanu vai bankrota procedūras uzsākšanu, kamēr ir spēkā mierizlīgums.\n(2) Mierizlīguma noteikumi ir obligāti, un tie ir jāievēro arī kreditoriem, kuri balsojuši pret mierizlīgumu vai nav piedalījušies balsošanā.\n(3) Ja mierizlīguma noteikumi ir pieņemti un izpildīti šajā likumā paredzētajā kārtībā, kreditori nevar celt prasības par summām, kuru nokārtošana, slēdzot mierizlīgumu, nav paredzēta."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "85",
+      "title": "Parādnieka pārvalde mierizlīguma noslēgšanas gadījumā",
+      "content": "Pēc mierizlīguma apstiprināšanas tiesā par maksātnespējīgu pasludinātā parādnieka pārvaldi veic parādnieka pārvaldes institūcijas administratora uzraudzībā."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "86",
+      "title": "Mierizlīguma atcelšana",
+      "content": "(1) Administrators, kreditors, kreditoru grupa vai kreditoru sapulce var lūgt tiesu atcelt mierizlīgumu, ja:\n1) mierizlīgumu noslēdzot, ir pārkāpti šā likuma noteikumi;\n2) mierizlīguma noslēgšana panākta, lietojot viltu vai spaidus, vai notikusi maldība;\n3) parādnieks nepilda mierizlīguma noteikumos paredzētās saistības.\n(2) Lēmumu par mierizlīguma atcelšanu pieņem tiesa.\n(3) Ja tiesa atceļ mierizlīgumu, administrators pārņem parādnieka mantas pārvaldīšanu un šā likuma 58.panta otrajā daļā paredzētajā kārtībā sasauc kreditoru sapulci cita maksātnespējas stāvokļa risinājuma noteikšanai."
+    },
+    {
+      "provision_ref": "Art. 86.1",
+      "chapter": "IX nodaļa Mierizlīgums maksātnespējas procesā",
+      "section": "86.1",
+      "title": "86. 1 pants. Mierizlīguma apturēšana",
+      "content": "Mierizlīgums tiek pilnībā vai daļēji apturēts, ja saskaņā ar Padomes regulas Nr. 1346/2000 33.panta 1.punktā norādītās personas pieteikumu tiesa apturējusi pret parādnieku Latvijā uzsākto šīs regulas 3.panta 2.punktā noteikto maksātnespējas procedūru saskaņā ar minētās regulas 33.pantu."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "X nodaļa Sanācija",
+      "section": "87",
+      "title": "Sanācijas pasākumi",
+      "content": "(1) Par sanāciju atzīstami dažāda rakstura likumīgi pasākumi, kuri vērsti uz parādnieka maksātspējas atjaunošanu.\n(2) Par sanāciju nav atzīstami pasākumi, kuri sastāv tikai no šā likuma 80.pantā norādītajām darbībām"
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "X nodaļa Sanācija",
+      "section": "88",
+      "title": "Administratora pilnvaras sanācijas procesā",
+      "content": "(1) Parādnieka sanāciju vada administrators saskaņā ar kreditoru sapulces pieņemtu sanācijas plānu.\n(2) Papildus šā likuma 21.pantā noteiktajām pilnvarām sanācijas gaitā administrators saskaņā ar sanācijas plānu ir tiesīgs:\n1) iegūt vai aizņemties parādnieka vārdā naudas līdzekļus un ieķīlāt parādnieka mantu;\n2) nodibināt parādnieka filiāles vai pārstāvniecības;\n3) nodot parādnieka filiālēm vai pārstāvniecībām parādnieka mantu, uzdot tām pārņemt pilnībā vai daļēji parādnieka uzņēmējdarbību;\n4) iznomāt jebkuru parādnieka mantu, kā arī nomāt jebkuru mantu, ja tas ir izdevīgi parādnieka darbībai.\n(3) Ja mainījušies būtiski apstākļi, kuri ietekmē vai var ietekmēt sanācijas plāna izpildi, administrators ierosina kreditoru sapulcei izdarīt grozījumus sanācijas plānā"
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "X nodaļa Sanācija",
+      "section": "89",
+      "title": "Sanācijas iespējas izlemšana",
+      "content": "Sanācijas iespēju izskata kreditoru sapulce, ja:\n1) pirmajā kreditoru sapulcē nav piedāvāta mierizlīguma iespēja ( 77.pants );\n2) ir noraidīta mierizlīguma iespēja ( 79.pants );\n3) nav noslēgts mierizlīgums ( 82.pants );\n4) mierizlīgums ir atcelts ( 86.pants )."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "X nodaļa Sanācija",
+      "section": "90",
+      "title": "Lēmums par sanācijas piemērošanu",
+      "content": "(1) Kreditoru sapulce lēmumu par sanācijas piemērošanu pieņem balsojot. Lēmums par sanācijas piemērošanu ir pieņemts, ja par to nobalso vairāk nekā puse no klātesošajiem kreditoriem pēc prasījumu summas.\n(2) Ja tiek pieņemts lēmums par sanācijas piemērošanu, nodrošinātie kreditori nedrīkst realizēt savas tiesības attiecībā uz parādnieka mantu, kura kalpo par nodrošinājumu viņu prasījumiem, līdz sanācijas plāna noraidīšanai, bet, ja sanācijas plāns tiek pieņemts un apstiprināts — līdz sanācijas beigām vai tās pārtraukšanai.\n(3) Pēc sanācijas plāna apstiprināšanas nodrošinātie kreditori var realizēt savas tiesības attiecībā uz parādnieka ieķīlāto mantu, kura nav norādīta sanācijas plānā saskaņā ar šā likuma 92. panta trešās daļas 5. punktu.\n(4) Ja kreditoru sapulce noraida sanācijas piemērošanas iespēju un nav piedāvāts mierizlīgums vai piedāvātā mierizlīguma iespēja vai tā projekts ir noraidīts, kreditoru sapulce lemj par bankrota procedūras uzsākšanu."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "X nodaļa Sanācija",
+      "section": "91",
+      "title": "Par sanācijas piemērošanu pieņemtā lēmuma atcelšana",
+      "content": "Administrators, kreditors vai kreditoru grupa var lūgt tiesu atcelt kreditoru sapulces lēmumu par sanāciju, ja lēmuma pieņemšana panākta, lietojot viltu vai spaidus, vai notikusi maldība."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "X nodaļa Sanācija",
+      "section": "92",
+      "title": "Sanācijas plāna izstrādāšana",
+      "content": "(1) Lēmumā par sanācijas piemērošanu norādāma persona vai personu grupa, kurai jāizstrādā sanācijas plāns.\n(2) Sanācijas plānu var izstrādāt:\n1) administrators;\n2) kreditors vai kreditoru grupa;\n3) trešās personas pēc administratora pasūtījuma;\n4) pret parādnieku citā dalībvalstī uzsāktās Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators.\n(3) Sanācijas plānā norādāmi:\n1) konkrētie pasākumi, kuri tiks veikti parādnieka maksātspējas atjaunošanai;\n2) šo pasākumu veikšanas termiņi;\n3) nepieciešamie līdzekļi un to iegūšanas avoti;\n4) paredzētie parādnieka maksātspējas uzlabošanās termiņi un apjoms;\n5) parādnieka ieķīlātās mantas saraksts, kura ir nepieciešama sanācijas realizēšanai un uz kuru attiecināmi šā likuma 90.panta otrajā daļā noteiktie ierobežojumi, kā arī atlīdzība nodrošinātajiem kreditoriem par viņu tiesību ierobežošanu sanācijas laikā un šīs atlīdzības izmaksas kārtību;\n6) termiņi un kārtība, kādā paredzēts veikt maksājumus kreditoru prasījumu apmierināšanai."
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "X nodaļa Sanācija",
+      "section": "93",
+      "title": "Sanācijas plāna izstrādāšanas termiņš",
+      "content": "Sanācijas plāna izstrādāšanas termiņu nosaka kreditoru sapulce. Termiņš nedrīkst būt garāks par diviem mēnešiem no dienas, kad kreditoru sapulce pieņēmusi lēmumu par sanācijas piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "X nodaļa Sanācija",
+      "section": "94",
+      "title": "Sanācijas termiņš",
+      "content": "(1) Sanācijas plāna pasākumu termiņu nosaka kreditoru sapulce.\n(2) Pēc šā panta pirmajā daļā minētā termiņa beigām kreditoru sapulce var termiņu pagarināt.\n(3) Kopējais sanācijas termiņš nedrīkst būt garāks par desmit gadiem."
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "X nodaļa Sanācija",
+      "section": "95",
+      "title": "Sanācijas plāna izskatīšana kreditoru sapulcē",
+      "content": "(1) Administrators sasauc kreditoru sapulci sanācijas plāna izskatīšanai, kā arī paziņo tās vietu un laiku kreditoriem ne vēlāk kā nedēļu pēc tam, kad beidzies kreditoru sapulces noteiktais sanācijas plāna izstrādāšanas termiņš, un ne vēlāk kā divas nedēļas pirms sapulces.\n(2) Balsošana par sanācijas plānu notiek atsevišķi šādās kreditoru grupās:\n1) nodrošinātie kreditori prasījumu nodrošinātajā daļā;\n2) prioritārie kreditori ( 107.pants ), arī nodrošinātie kreditori prasījumu nenodrošinātajā daļā;\n3) pārējie kreditori ( 107.pants ), arī nodrošinātie kreditori prasījumu nenodrošinātajā daļā.\n(3) Sanācijas plāns ir pieņemts kreditoru grupā, ja par to nobalso vairāk nekā puse kreditoru attiecīgajā grupā pēc prasījumu summas.\n(4) Sanācijas plāns ir pieņemts kopumā, ja ir ievēroti šādi nosacījumi:\n1) vismaz divas kreditoru grupas nobalsojušas par sanācijas plāna pieņemšanu;\n2) vismaz viena no tām ir nelabvēlīgi ietekmētā grupa.\n(4 1 ) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, sanācijas plāns ir pieņemts kopumā, ja papildus šā panta ceturtās daļas nosacījumiem ir saņemta šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatora rakstveida piekrišana.\n(5) Par nelabvēlīgi ietekmētu uzskatāma kreditoru grupa, kuras locekļu prasījumi, sanācijas vietā uzsākot bankrota procedūru, nevarētu tikt apmierināti pilnā apmērā.\n(6) Ja kreditoru sapulce noraida sanācijas plānu, tā lemj par jauna sanācijas plāna izstrādāšanu vai par citu maksātnespējas stāvokļa risinājumu."
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "X nodaļa Sanācija",
+      "section": "96",
+      "title": "Nodrošināto kreditoru interešu aizsardzība sanācijas laikā",
+      "content": "(1) Nodrošinātajam kreditoram ir tiesības pēc sanācijas plāna apstiprināšanas prasīt un saņemt atlīdzību par tā tiesību ierobežojumu, kas radies šā likuma 90.panta otrajā daļā norādītajos gadījumos.\n(2) Atlīdzības apmērs tiek noteikts procentos gadā no attiecīgā nodrošinātā prasījuma vai tā nodrošinātās daļas, un tas nedrīkst būt mazāks par Latvijas Bankas noteikto refinansēšanas likmi sanācijas plāna apstiprināšanas dienā.\n(3) Ja ieķīlātā manta sanācijas procesa laikā iet bojā vai samazinās tās vērtība, nodrošinātā kreditora prasījums ieķīlātās mantas vērtībā vai tās samazinājuma apmērā tiek segts no maksātnespējas procesa administrācijas izmaksām. Šeit norādītais ieķīlātās mantas vērtības samazinājums nav attiecināms uz mantas dabisko nolietojumu."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "X nodaļa Sanācija",
+      "section": "97",
+      "title": "Sanācijas plāna reģistrēšana",
+      "content": "(1) Kreditoru sapulces lēmumu ar sanācijas plānu, kā arī lēmumus par grozījumiem sanācijas plānā un par tā termiņa pagarināšanu administrators nosūta reģistrēšanai Uzņēmumu reģistrā. Uzņēmumu reģistra izsniegto lēmumu par minētā dokumenta reģistrāciju administrators nosūta tiesai.\n(2) Sanācijas plāns, tā grozījumi un termiņa pagarinājumi, kuri nav reģistrēti Uzņēmumu reģistrā, nav spēkā."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "X nodaļa Sanācija",
+      "section": "98",
+      "title": "Kreditoru sapulce par sanācijas noslēgumu",
+      "content": "(1) Administrators sasauc kreditoru sapulci par sanācijas noslēgumu ne vēlāk kā mēnesi pēc tam, kad beidzies sanācijas plānā paredzētais termiņš. Administrators sniedz kreditoru sapulcei pārskatu par sanācijas gaitu un rezultātiem. Kreditoru sapulce balso par pārskata apstiprināšanu un par parādnieka saistību pilnīgas izpildes atzīšanu. Ja kreditoru sapulce neapstiprina pārskatu, tā lemj par mierizlīguma slēgšanu vai bankrota procedūras uzsākšanu.\n(1 1 ) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, tad kreditoru sapulces lēmumu par sanācijas noslēgumu rakstveidā apstiprina šīs regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators. Ja minētās regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidators neapstiprina kreditoru sapulces lēmumu par sanācijas noslēgumu, viņš tiesu informē par to, kādā veidā kreditoru sapulces lēmums kaitē Padomes regulas Nr. 1346/2000 3.panta 1.punktā noteiktās maksātnespējas procedūras kreditoru finanšu interesēm.\n(2) Kreditoru sapulces lēmumu administrators nosūta tiesai apstiprināšanai."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "X nodaļa Sanācija",
+      "section": "99",
+      "title": "Sanācijas pārtraukšana",
+      "content": "(1) Kreditoru sapulce var pārtraukt sanāciju, ja:\n1) sanācijas pasākumi nenotiek saskaņā ar sanācijas plānu;\n2) sanācijas plānā paredzētajā termiņā nav sasniegta parādnieka maksātspējas uzlabošanās paredzētajā apjomā;\n3) tiek konstatēts, ka sanācijas plāns nav izpildāms.\n(2) Sanācijas pārtraukšanu var lūgt nodrošinātais kreditors, kura tiesības sanācijas laikā ir ierobežotas, ja viņam netiek laikus izmaksāta sanācijas plānā noteiktā atlīdzība.\n(3) Sanācijas pārtraukšanas gadījumā kreditoru sapulce, pieņemot lēmumu par sanācijas pārtraukšanu, vienlaikus lemj par cita maksātnespējas stāvokļa risinājuma noteikšanu."
+    },
+    {
+      "provision_ref": "Art. 99.1",
+      "chapter": "X nodaļa Sanācija",
+      "section": "99.1",
+      "title": "99. 1 pants. Sanācijas apturēšana",
+      "content": "Sanācija tiek pilnībā vai daļēji apturēta, ja saskaņā ar Padomes regulas Nr. 1346/2000 33.panta 1.punktā norādītās personas pieteikumu tiesa apturējusi pret parādnieku Latvijā uzsākto šīs regulas 3.panta 2.punktā noteikto maksātnespējas procedūru saskaņā ar minētās regulas 33.pantu. Šajā gadījumā nodrošinātie kreditori turpina saņemt atlīdzību par viņu tiesību ierobežojumu sanācijas laikā līdz brīdim, kad tiek mainīts maksātnespējas procesa stāvokļa risinājums."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "100",
+      "title": "Lēmums par bankrota procedūras uzsākšanu",
+      "content": "(1) Lēmumu par bankrota procedūras uzsākšanu pieņem kreditoru sapulce balsojot, izņemot Padomes regulas Nr. 1346/2000 27.pantā noteikto gadījumu. Lēmums par bankrota procedūras uzsākšanu ir pieņemts, ja par to nobalso vairāk nekā puse no klātesošajiem kreditoriem pēc prasījumu summas. Kreditoru sapulce, konstatējot, ka parādniekam nav mantas (64.pants), ir tiesīga pieņemt lēmumu par bankrota procedūras pabeigšanu.\n(2) Lēmums par bankrota procedūras uzsākšanu uzskatāms par pieņemtu, ja nav piedāvāta mierizlīguma vai sanācijas iespēja vai ja piedāvātā mierizlīguma vai sanācijas iespēja, mierizlīguma projekts vai sanācijas plāns ir noraidīts kreditoru sapulcē vai arī sanācija ir pārtraukta, nepieņemot citu maksātnespējas stāvokļa risinājumu.\n(3) Pieņemot lēmumu par bankrota procedūras uzsākšanu, kreditoru sapulce nosaka parādnieka mantas izsoles uzsākšanas dienu. Ja kreditoru sapulce nenobalso par bankrota procedūras uzsākšanu un nenosaka izsoles dienu, to nosaka administrators.\n(4) Administrators triju dienu laikā pēc lēmuma pieņemšanas iesniedz paziņojumu par bankrota procedūras uzsākšanu un noteikto izsoles uzsākšanas dienu publicēšanai laikrakstā \"Latvijas Vēstnesis\" un lēmumu par bankrota procedūras uzsākšanu nosūta reģistrēšanai Uzņēmumu reģistrā. Administrators ir tiesīgs iesniegt paziņojumu par bankrota procedūras uzsākšanu un noteikto izsoles uzsākšanas dienu publicēšanai arī citos laikrakstos.\n(5) Ja noteiktajā termiņā nav iespējams uzsākt izsoli, administrators sasauc kreditoru sapulci, kas lemj par izsoles sākuma pārcelšanu."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "101",
+      "title": "Parādnieka statuss bankrota gadījumā",
+      "content": "(Izslēgts ar 20.11.2003 . likumu, kas stājas spēkā 01.01.2004. )"
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "102",
+      "title": "Bankrota procedūras pamatprincipi",
+      "content": "(1) Bankrota procedūras pamatmērķis ir, gūstot maksimālu ienākumu no parādnieka mantas izpārdošanas, pēc iespējas pilnīgāk apmierināt kreditoru prasījumus.\n(2) Parādnieka aktīvu izpārdošana notiek atklātās izsolēs, kuras organizē administrators, ja attiecībā uz konkrēto mantu likums nenosaka citu atsavināšanas kārtību.\n(3) Ar kreditoru sapulces piekrišanu administrators atsevišķos gadījumos var izmantot citas parādnieka kustamās mantas atsavināšanas formas."
+    },
+    {
+      "provision_ref": "Art. 103",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "103",
+      "title": "Izsolē iekļaujamā manta",
+      "content": "Izsolē tiek iekļauta šā likuma 64.pantā norādītā parādnieka manta, izņemot naudas līdzekļus, kā arī mantu, kura saskaņā ar parādnieka slēgtajiem spēkā esošajiem līgumiem kalpo par ķīlu nodrošinātajiem kreditoriem."
+    },
+    {
+      "provision_ref": "Art. 104",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "104",
+      "title": "Izsoles organizēšana",
+      "content": "Parādnieka mantas ( 103.pants ) izsoli organizē un izsoles noteikumus izstrādā administrators."
+    },
+    {
+      "provision_ref": "Art. 105",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "105",
+      "title": "Izsoles procedūra",
+      "content": "(1) Parādnieka mantas izsole notiek saskaņā ar Civillikumu un Civilprocesa likuma noteikumiem, ievērojot šajā pantā noteiktos izņēmumus.\n(2) Civilprocesa likumā paredzētās tiesu izpildītāja darbības veic administrators.\n(3) Pirmajā izsolē izsolīšana notiek ar augšupejošu soli. Ja manta izsolē netiek pārdota, turpmākajās izsolēs izsolīšana notiek ar lejupejošu soli. Izsole var notikt, ja ir ieradies vismaz viens pircējs, kas sola vairāk par izsoles sākumcenu.\n(4) Pēc tam, kad vairāksolītājs par nekustamo īpašumu (nekustamā īpašuma daļu) ir samaksājis solīto cenu, administrators iesniedz tiesā pieteikumu par nekustamā īpašuma (nekustamā īpašuma daļas) izsoles akta apstiprināšanu un uz šo nekustamo īpašumu (nekustamā īpašuma daļu) attiecinātās maksātnespējas atzīmes dzēšanu zemesgrāmatā.\n(5) Pārdodot parādnieka nekustamo īpašumu izsolē, minimālais izsoles izsludināšanas termiņš ir viens mēnesis."
+    },
+    {
+      "provision_ref": "Art. 106",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "106",
+      "title": "Prasījumu cedēšana un ieskaita nepieļaujamība",
+      "content": "(1) Administrators var cedēt parādnieka prasījumus pret trešajām personām, ja bankrota procedūras laikā nav iestājies parāda samaksas termiņš vai parāda piedziņa nav iespējama. Cesijas līgumi slēdzami pēc šo līgumu noteikumu apstiprināšanas kreditoru sapulcē.\n(2) Nav pieļaujama parādnieka saistību (prasījumu un parādu) pilnīga vai daļēja dzēšana ar ieskaitu."
+    },
+    {
+      "provision_ref": "Art. 107",
+      "chapter": "XI nodaļa Bankrots",
+      "section": "107",
+      "title": "Maksājumu secība",
+      "content": "(1) Administrators nosaka administrācijas izmaksas un parādu segšanas kārtību un tās izskatīšanai sasauc kreditoru sapulci. Kreditoru sapulce lemj par administrācijas izmaksām un parādu segšanas kārtību, kā arī nosaka maksātnespējas risinājuma termiņa beigas.\n(2) No parādnieka naudas līdzekļiem, arī no līdzekļiem, kas iegūti parādnieka mantas atsavināšanas rezultātā, vispirms pilnībā tiek segtas maksātnespējas procesa administrācijas izmaksas, pirmām kārtām atmaksājot Aģentūrai līdzekļus, ko tā piešķīrusi šim mērķim.\n(3) Pēc administrācijas izmaksu segšanas atlikušie līdzekļi pirmajā kārtā tiek sadalīti prioritāro kreditoru prasījumu (tikai parādu pamatsummas bez procentiem) apmierināšanai šādās grupās:\n1) darbinieku prasījumi attiecībā uz darba samaksu par pēdējiem trim darba tiesisko attiecību mēnešiem 12 mēnešu periodā pirms tiesas sprieduma par parādnieka maksātnespēju pasludināšanas; attiecībā uz atlīdzību par ikgadējo apmaksāto atvaļinājumu, uz kuru tiesības iegūtas 12 mēnešu periodā pirms tiesas sprieduma par parādnieka maksātnespēju pasludināšanas; attiecībā uz atlīdzību par cita veida apmaksātu prombūtni pēdējo triju darba tiesisko attiecību mēnešos 12 mēnešu periodā pirms tiesas sprieduma par parādnieka maksātnespēju pasludināšanas; attiecībā uz atlaišanas pabalstu likumā noteiktajā minimālajā apmērā; attiecībā uz kaitējuma atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību par visu nesamaksāto periodu un šīs atlīdzības summu par četriem gadiem uz priekšu, ja nelaimes gadījums darbā noticis vai arodslimība iegūta līdz 1997.gada 1.janvārim, kā arī gadījumos, ja bijušajam darbiniekam, kurš nav uzskatāms par apdrošināto personu saskaņā ar likumu \"Par obligāto sociālo apdrošināšanu pret nelaimes gadījumiem darbā un arodslimībām\", arodslimība, kuras cēlonis ir šā darbinieka veiktais darbs veselībai kaitīgos darba apstākļos līdz 1997.gada 1.janvārim, konstatēta pēc 1997.gada 1.janvāra; valsts sociālās apdrošināšanas obligātās iemaksas un iedzīvotāju ienākuma nodokļa maksājumi, kas saistīti ar šajā punktā minētajām izmaksām vai Aģentūras prasījumi, ja tā ir apmierinājusi iepriekšminētos prasījumus;\n2) maksājumi zemnieku saimniecībām, individuālajiem ražotājiem, kooperatīvām un statūtsabiedrībām par pārstrādes uzņēmumiem piegādāto lauksaimniecības produkciju;\n3) prasījumi par valsts sociālās apdrošināšanas obligāto iemaksu parādu nomaksu par vienu gadu līdz maksātnespējas lietas ierosināšanai;\n4) valsts prasījumi par valsts garantēto kredītu atmaksu;\n5) prasījumi par citu nodokļu un nodevu parādu atmaksu, ieskaitot atlikušos valsts sociālās apdrošināšanas obligāto iemaksu parādus, izņemot atliktos maksājumus.\n(4) Pēc pirmajā kārtā paredzēto prioritāro kreditoru prasījumu pilnīgas apmierināšanas atlikušie līdzekļi otrajā kārtā tiek sadalīti pārējo kreditoru prasījumu apmierināšanai šādās grupās:\n1) pārējo kreditoru prasījumi (tikai parādu pamatsummas bez procentiem), arī to kreditoru prasījumi, kuri kreditora statusu ieguvuši pēc maksātnespējas lietas ierosināšanas un uz kuriem līdz ar to neattiecas vispārējais kreditoru prasījumu pieteikšanas termiņš. Atliktie nodokļu maksājumi, pēc maksājumu veikšanas prioritārajiem kreditoriem atlikušie darba algu parādi un citi no darba tiesiskajām attiecībām izrietoši maksājumi tiek pielīdzināti pārējo kreditoru kategorijai;\n2) prasījumi par procentu maksājumiem gan prioritārajiem, gan pārējiem kreditoriem;\n3) to kreditoru prasījumi, kuri savus prasījumus pieteikuši pēc noteiktā termiņa.\n(5) Katras nākamās kreditoru grupas prasījumi tiek apmierināti tikai pēc iepriekšējās kreditoru grupas prasījumu pilnīgas apmierināšanas. Ja parādnieka naudas līdzekļu nepietiek, lai pilnīgi apmierinātu visus vienas grupas kreditoru prasījumus, šie prasījumi apmierināmi proporcionāli summai, kas pienākas katram kreditoram šīs grupas ietvaros.\n(6) Līdzekļi, kuri paliek pāri pēc šajā pantā norādīto izmaksu un parādu segšanas, tiek sadalīti parādnieka kapitāla daļu turētājiem proporcionāli katra ieguldījuma lielumam.\n(7) Ja pret parādnieku Latvijā uzsākta Padomes regulas Nr. 1346/2000 3.panta 2.punktā noteiktā maksātnespējas procedūra, tad naudas līdzekļus, kas paliek pāri pēc šā panta otrajā, trešajā, ceturtajā un piektajā daļā norādīto izmaksu un parādu segšanas, administrators nodod minētās regulas 3.panta 1.punktā noteiktās maksātnespējas procedūras likvidatoram."
+    },
+    {
+      "provision_ref": "Art. 108",
+      "chapter": "XII nodaļa Maksātnespējas procesa finansēšana",
+      "section": "108",
+      "title": "Maksātnespējas procesa finansēšanas avoti",
+      "content": "(1) Maksātnespējas process tiek finansēts no parādnieka līdzekļiem.\n(2) Administrācijas izmaksas, izņemot šā likuma 109.panta 6. un 7.punktā paredzētos līdzekļus, tiesa var solidāri piedzīt no parādnieka pārvaldes institūciju locekļiem kriminālsodāma bankrota gadījumā un citos likumā paredzētajos gadījumos.\n(3) Ja no parādnieka līdzekļiem nav iespējams segt maksātnespējas procesa administrācijas izmaksas, kreditoru sapulce var lemt par maksātnespējas procesa finansēšanu no kreditoru līdzekļiem.\n(4) To līgumu izpildes turpināšana, kuri nav izbeigti likumā paredzētajos gadījumos, kā arī to līgumu izpilde, kurus maksātnespējas procesa gaitā administrators noslēdzis parādnieka vārdā ar trešajām personām, tiek finansēta pilnā apjomā no parādnieka līdzekļiem. No parādnieka līdzekļiem pilnā apjomā tiek maksāti ar šo līgumu izpildi saistītie nodokļu maksājumi.\n(5) (Izslēgta ar 20.11.2003 . likumu.)\n(6) Par maksātnespējas procesa administrācijas izmaksu segšanu Aģentūra lemj Ministru kabineta noteiktajos gadījumos, noteiktajā kārtībā un apmērā to līdzekļu ietvaros, kuri Aģentūrai kārtējam gadam piešķirti šim mērķim."
+    },
+    {
+      "provision_ref": "Art. 109",
+      "chapter": "XII nodaļa Maksātnespējas procesa finansēšana",
+      "section": "109",
+      "title": "Maksātnespējas procesa administrācijas izmaksas",
+      "content": "Maksātnespējas procesa administrācijas izmaksās tiek iekļauti šādi maksājumi:\n1) administratora atlīdzība;\n2) faktiski izmaksātā atlīdzība pieaicinātajiem speciālistiem atbilstoši viņu sniegto pakalpojumu būtībai, apjomam un vērtībai pakalpojumu sniegšanas laikā, bet ne lielāka kā atlīdzība par analoģiskiem pakalpojumiem līdzīgās sfērās;\n3) faktiski izmaksātā atlīdzība kreditoru komitejas locekļiem šā likuma 10.panta ceturtajā daļā paredzētajos gadījumos;\n4) atlīdzība par faktiskajiem un nepieciešamajiem izdevumiem parādnieka mantas uzturēšanai maksātnespējas procesa laikā;\n5) maksājumi par sludinājumu ievietošanu, izsoļu organizēšanu un citas izmaksas, kas saistītas ar šajā likumā noteikto maksātnespējas procesa nodrošināšanu un realizāciju. Komandējuma izdevumi tiek aprēķināti saskaņā ar Ministru kabineta noteikumiem par izdevumiem, kas saistīti ar komandējumiem un darba braucieniem, ja kreditoru sapulce nav noteikusi citus šo izdevumu apmērus;\n6) līdzekļi, kuri saskaņā ar kreditoru sapulces apstiprināto sanācijas plānu piesaistīti parādnieka sanācijas procesā;\n7) līdzekļi, kuri izlietoti šā likuma 108.panta ceturtajā daļā paredzētajos gadījumos;\n8) izdevumi, kas saistīti ar parādnieka likvidāciju, ieskaitot videi bīstamo atkritumu izvešanu, pārstrādi un apglabāšanu;\n9) (izslēgts ar 13.06.2002 . likumu) ;\n10) maksa par Aģentūras sniegtajiem pakalpojumiem;\n11) kārtējo nodokļu un nodevu maksājumi par laika periodu no dienas, kad parādnieks atzīts par maksātnespējīgu;\n12) Aģentūras līdzekļi, kurus tā piešķīrusi maksātnespējas procesa administrācijas izmaksu segšanai.\n(2) (Izslēgta ar 13.06.2002 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 110",
+      "chapter": "XII nodaļa Maksātnespējas procesa finansēšana",
+      "section": "110",
+      "title": "Administrācijas un darbinieku prasījumu izmaksas mierizlīguma vai sanācijas gadījumā",
+      "content": "(1) Mierizlīguma vai sanācijas gadījumā administrācijas izmaksas iekļaujamas mierizlīguma vai sanācijas plānā un apmaksājamas pirmām kārtām pilnā apmērā pirms kreditoru prasījumu apmierināšanas.\n(2) Mierizlīguma vai sanācijas gadījumā darbinieku prasījumu izmaksu summas, kas segtas no darbinieku prasījumu garantiju fonda līdzekļiem, iekļaujamas mierizlīguma vai sanācijas plānā un apmaksājamas pirmām kārtām pilnā apmērā pēc administrācijas izdevumu segšanas."
+    },
+    {
+      "provision_ref": "Art. 111",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "111",
+      "title": "Kriminālsodāms bankrots",
+      "content": "Personas, kas ar apzinātām darbībām (ļaunprātīgs bankrots) vai nolaidības dēļ novedušas parādnieku līdz maksātnespējai, ir saucamas pie kriminālatbildības saskaņā ar Krimināllikumu ."
+    },
+    {
+      "provision_ref": "Art. 112",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "112",
+      "title": "Maksātnespējas pieteikuma neiesniegšana",
+      "content": "Ja parādnieks vai likvidatori (likvidācijas komisija) šā likuma 42.pantā paredzētajos gadījumos nav iesnieguši maksātnespējas pieteikumu, vainīgās personas saucamas pie kriminālatbildības saskaņā ar Krimināllikumu ."
+    },
+    {
+      "provision_ref": "Art. 113",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "113",
+      "title": "Nepamatots maksātnespējas pieteikums",
+      "content": "(1) Par nepamatotu maksātnespējas pieteikumu atzīstams tāds pieteikums, kura izskatīšanas gaitā nav konstatētas šā likuma 3.pantā paredzētās maksātnespējas pazīmes.\n(2) Par nepamatotu atzīstams arī pieteikums, kura sekas bija parādnieka atzīšana par maksātnespējīgu, ja pēc tam atklājas, ka parādnieks maksātnespējas pieteikuma iesniegšanas dienā nav bijis maksātnespējīgs. Par nepamatotu maksātnespējas pieteikumu nav atzīstams kreditora pieteikums, ja parādnieks, būdams faktiski maksātspējīgs, nav pildījis saistības.\n(3) Ja maksātnespējas pieteikums atzīts par nepamatotu, tā iesniedzējs sedz tiesas izdevumus un maksātnespējas procesa administrācijas izmaksas."
+    },
+    {
+      "provision_ref": "Art. 114",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "114",
+      "title": "Apzināti nepatiess maksātnespējas pieteikums",
+      "content": "1) Par apzināti nepatiesu maksātnespējas pieteikumu atzīstams tāds pieteikums, kura izskatīšanas gaitā ir konstatēta apzināti nepatiesu ziņu sniegšana, dokumentu viltošana vai patiesas informācijas slēpšana, kā rezultātā parādnieks varēja tikt vai tika nepamatoti atzīts par maksātnespējīgu.\n(2) Ja maksātnespējas pieteikums atzīts par apzināti nepatiesu, tā iesniedzējs sedz tiesas izdevumus un maksātnespējas procesa administrācijas izmaksas."
+    },
+    {
+      "provision_ref": "Art. 115",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "115",
+      "title": "Parādnieka atbildība par apzināti nepatiesa maksātnespējas pieteikuma iesniegšanu",
+      "content": "(1) Ja parādnieks iesniedzis apzināti nepatiesu maksātnespējas pieteikumu, tiek atjaunota tiesvedība un piedziņa pret parādnieku. Procenti un nokavējuma nauda, ja to aprēķināšana pārtraukta, tiek aprēķināti arī par nepamatoto pārtraukumu. Parādnieks kreditoriem atlīdzina zaudējumus, kuri radušies apzināti nepatiesa maksātnespējas pieteikuma rezultātā.\n(2) Par apzināti nepatiesa maksātnespējas pieteikuma iesniegšanu nolūkā apturēt piedziņu, nokavējuma naudas vai procentu aprēķinu vai citādi izvairīties no savu saistību izpildes vainīgā persona saucama pie kriminālatbildības saskaņā ar Krimināllikumu ."
+    },
+    {
+      "provision_ref": "Art. 116",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "116",
+      "title": "Kreditora atbildība par apzināti nepatiesa vai nepamatota maksātnespējas pieteikuma iesniegšanu",
+      "content": "(1) Ja kreditors iesniedzis nepamatotu vai apzināti nepatiesu maksātnespējas pieteikumu, viņš ir atbildīgs par nepamatotā vai apzināti nepatiesā pieteikuma iesniegšanas rezultātā parādniekam nodarīto materiālo un morālo kaitējumu.\n(2) Par apzināti nepatiesa maksātnespējas pieteikuma iesniegšanu vainīgā persona saucama pie atbildības saskaņā ar Krimināllikumu ."
+    },
+    {
+      "provision_ref": "Art. 117",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "117",
+      "title": "Kompetentas valsts institūcijas atbildība par nepamatota vai apzināti nepatiesa maksātnespējas pieteikuma iesniegšanu",
+      "content": "(1) Ja kompetenta valsts institūcija iesniegusi nepamatotu vai apzināti nepatiesu maksātnespējas pieteikumu, parādniekam nodarītie zaudējumi tiek atlīdzināti attiecīgi no valsts vai pašvaldības budžeta.\n(2) Ja kompetenta valsts institūcija iesniegusi apzināti nepatiesu maksātnespējas pieteikumu, vainīgā amatpersona saucama pie kriminālatbildības saskaņā ar Krimināllikumu ."
+    },
+    {
+      "provision_ref": "Art. 118",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "118",
+      "title": "Parādnieka pārstāvju atbildība par maksātnespējas procesa kavēšanu",
+      "content": "Parādnieka pārstāvjus var saukt pie kriminālatbildības saskaņā ar Krimināllikumu par maksātnespējas procesa kavēšanu, kas izpaužas kā tiesas, administratora un kreditoru sapulces pieprasītās likumā paredzētās informācijas nesniegšana vai slēpšana, izvairīšanās no piedalīšanās lietas izskatīšanā, pretlikumīga mantas atsavināšana maksātnespējas procesa laikā, mantas un darījumu slēpšana, dokumentu slēpšana, iznīcināšana vai viltošana un citas darbības, kuras kavē maksātnespējas procesa gaitu."
+    },
+    {
+      "provision_ref": "Art. 119",
+      "chapter": "XIII nodaļa Atbildība",
+      "section": "119",
+      "title": "Maksātnespējas procesa noteikumu pārkāpumi",
+      "content": "(1) Administratoru var saukt pie kriminālatbildības saskaņā ar Krimināllikumu par apzinātu informācijas slēpšanu no tiesas, Aģentūras vai kreditoru sapulces, to maldināšanu, par šajā likumā neparedzētu darījumu slēgšanu par labu vienam kreditoram vai kreditoru grupai uz citu kreditoru rēķina.\n(2) Kreditorus un citas maksātnespējas procesā ieinteresētās personas var saukt pie kriminālatbildības saskaņā ar Krimināllikumu par pārkāpumiem, ko tās izdarījušas maksātnespējas procesa gaitā."
+    },
+    {
+      "provision_ref": "Art. 120",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "120",
+      "title": "Vispārīgie noteikumi",
+      "content": "(1) Šīs nodaļas noteikumi tiek piemēroti valsts vai pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesā.\n(2) Citi šā likuma noteikumi tiek piemēroti valsts vai pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesā, ciktāl tie nav pretrunā ar šīs nodaļas noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 121",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "121",
+      "title": "Regulējamā priekšmeta norobežošana",
+      "content": "(1) Darbībām, kuras maksātnespējas procesā tiek veiktas ar valsts vai pašvaldību uzņēmumiem vai uzņēmējsabiedrībām, to īpašuma objektiem un kuras pēc spēkā esošajiem normatīvajiem aktiem atzīstamas par privatizāciju, piemērojami attiecīgie normatīvie akti par privatizāciju, ja šajā likumā nav noteikta īpaša kārtība.\n(2) Šā likuma normas nav pamats tam, lai grozītu spēkā esošajos normatīvajos aktos par privatizāciju noteiktās kārtības piemērošanu maksātnespējīgu uzņēmumu vai uzņēmējsabiedrību privatizācijas procesā.\n(3) Normatīvie akti par privatizāciju maksātnespējas procesā nav piemērojami tām tiesiskajām attiecībām, kuras neregulē attiecīgais normatīvais akts par privatizāciju.\n(4) Ja strīds par piemērojamo normatīvo aktu izvēli starp šo likumu un spēkā esošajiem normatīvajiem aktiem par privatizāciju nav izlemjams, vadoties pēc šā panta pirmās, otrās un trešās daļas noteikumiem, piemērojami attiecīgie normatīvie akti par privatizāciju.\n(5) Šīs nodaļas noteikumi nav pamats apstiprināto valsts vai pašvaldības īpašuma objekta privatizācijas noteikumu (privatizācijas projekta) grozīšanai un privatizācijas procesa apturēšanai."
+    },
+    {
+      "provision_ref": "Art. 122",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "122",
+      "title": "Maksātnespējas pieteikuma iesniegšana",
+      "content": "Maksātnespējas pieteikumu par privatizācijai nodotu valsts vai pašvaldības uzņēmumu vai uzņēmējsabiedrību ir tiesīgi iesniegt attiecīgi tikai Privatizācijas aģentūra, pilsētas dome, rajona vai pagasta padome vai Zemkopības ministrija."
+    },
+    {
+      "provision_ref": "Art. 123",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "123",
+      "title": "Privatizācijai nenodota valsts vai pašvaldības uzņēmuma vai uzņēmējsabiedrības maksātnespējas pasludināšanas sekas",
+      "content": "Privatizācijai nenodota valsts vai pašvaldības uzņēmuma vai uzņēmējsabiedrības maksātnespējas pasludināšana rada visas tās tiesiskās sekas, kuras šim uzņēmumam vai uzņēmējsabiedrībai rada attiecīgās institūcijas (Ministru kabineta, pilsētas domes, rajona vai pagasta padomes vai Zemkopības ministrijas) lēmums par šā uzņēmuma vai uzņēmējsabiedrības nodošanu privatizācijai saskaņā ar spēkā esošajiem normatīvajiem aktiem par privatizāciju."
+    },
+    {
+      "provision_ref": "Art. 124",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "124",
+      "title": "Administrators valsts vai pašvaldības uzņēmuma vai uzņēmējsabiedrības maksātnespējas lietā",
+      "content": "(1) Tiem valsts uzņēmumiem vai uzņēmējsabiedrībām, attiecībā uz kurām piemērojams likums \" Par valsts un pašvaldību īpašuma objektu privatizāciju \", šajā likumā paredzētās administratora funkcijas maksātnespējas procesā var veikt tikai Privatizācijas aģentūra.\n(2) Tiem pašvaldību uzņēmumiem vai uzņēmējsabiedrībām, attiecībā uz kurām piemērojams likums \" Par valsts un pašvaldību īpašuma objektu privatizāciju \", šajā likumā paredzētās administratora funkcijas maksātnespējas procesā var veikt tikai persona, kuru tiesa iecēlusi pēc pilsētas domes, rajona vai pagasta padomes ieteikuma.\n(3) Tiem valsts uzņēmumiem vai uzņēmējsabiedrībām, attiecībā uz kurām piemērojams likums \" Par īpašuma privatizāciju agroservisa uzņēmumos \", šajā likumā paredzētās administratora funkcijas maksātnespējas procesā var veikt tikai persona, kuru tiesa iecēlusi pēc Zemkopības ministrijas ieteikuma."
+    },
+    {
+      "provision_ref": "Art. 125",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "125",
+      "title": "Atsevišķu likuma pantu piemērošanas īpatnības",
+      "content": "Valsts un pašvaldību uzņēmumu vai uzņēmējsabiedrību maksātnespējas procesā nav piemērojamas šā likuma normas, kuras paredz un regulē kreditoru sapulces sasaukšanu un darbību, kā arī kreditoru komitejas izveidošanu. Kreditoru sapulces funkcijas šajā gadījumā pilda Privatizācijas aģentūra vai pašvaldība."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn1",
+      "title": "1. Līdz ar šā likuma spēkā stāšanos spēku zaudē likums \" Par uzņēmumu un uzņēmējsabiedrību maksātnespēju un bankrotu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 2./3.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 3.nr.; 1995, 20.nr.).",
+      "content": "1. Līdz ar šā likuma spēkā stāšanos spēku zaudē likums \" Par uzņēmumu un uzņēmējsabiedrību maksātnespēju un bankrotu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 2./3.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 3.nr.; 1995, 20.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn2",
+      "title": "2. Ministru kabinets izstrādā un līdz 1996.gada 31.decembrim izdod šā likuma 15.pantā minētos noteikumus par administratora nodrošinājuma kārtību.",
+      "content": "2. Ministru kabinets izstrādā un līdz 1996.gada 31.decembrim izdod šā likuma 15.pantā minētos noteikumus par administratora nodrošinājuma kārtību."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn3",
+      "title": "3. Šā likuma normas, kas regulē administratora nodrošinājumu, nav piemērojamas, kamēr spēkā nav stājušies Ministru kabineta noteikumi par administratora nodrošinājumu .",
+      "content": "3. Šā likuma normas, kas regulē administratora nodrošinājumu, nav piemērojamas, kamēr spēkā nav stājušies Ministru kabineta noteikumi par administratora nodrošinājumu ."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn4",
+      "title": "4. Maksātnespējas procesi, kas uzsākti pirms šā likuma spēkā stāšanās, risināmi šajā likumā noteiktajā kārtībā, izņemot gadījumus, kas noteikti turpmākajos punktos.",
+      "content": "4. Maksātnespējas procesi, kas uzsākti pirms šā likuma spēkā stāšanās, risināmi šajā likumā noteiktajā kārtībā, izņemot gadījumus, kas noteikti turpmākajos punktos."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn5",
+      "title": "5. Atalgojums, kas administratoram noteikts uzsāktos maksātnespējas procesos, saglabājams līdzšinējā apmērā, ja kreditoru sapulce nenolemj citādi.",
+      "content": "5. Atalgojums, kas administratoram noteikts uzsāktos maksātnespējas procesos, saglabājams līdzšinējā apmērā, ja kreditoru sapulce nenolemj citādi."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn6",
+      "title": "6. Noslēgtie mierizlīgumi nav atceļami, pamatojoties uz šā likuma 86.panta pirmās daļas 1.punktu.",
+      "content": "6. Noslēgtie mierizlīgumi nav atceļami, pamatojoties uz šā likuma 86.panta pirmās daļas 1.punktu."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn7",
+      "title": "7. Ja konkursa masa ir realizēta un tās vērtības sadalīšana uzsākta, maksātnespējas un bankrota process turpināms un izbeidzams saskaņā ar likumu \" Par uzņēmumu un uzņēmējsabiedrību maksātnespēju un bankrotu \".",
+      "content": "7. Ja konkursa masa ir realizēta un tās vērtības sadalīšana uzsākta, maksātnespējas un bankrota process turpināms un izbeidzams saskaņā ar likumu \" Par uzņēmumu un uzņēmējsabiedrību maksātnespēju un bankrotu \"."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn8",
+      "title": "8. Ja konkursa masā bija iekļauta manta, kas kalpoja par nodrošinājumu kāda kreditora prasījumam, un konkursa masas vērtības sadalīšana nav uzsākta, vispirms apmierināms nodrošinātā kreditora prasījums tādā apmērā, kāds iegūts par pārdoto ķīlu.",
+      "content": "8. Ja konkursa masā bija iekļauta manta, kas kalpoja par nodrošinājumu kāda kreditora prasījumam, un konkursa masas vērtības sadalīšana nav uzsākta, vispirms apmierināms nodrošinātā kreditora prasījums tādā apmērā, kāds iegūts par pārdoto ķīlu."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn9",
+      "title": "9. Kreditoru administrācija vai konkursa valde, ja tāda ir izveidota, iegūst kreditoru komitejas tiesības un pilnvaras saskaņā ar šo likumu.",
+      "content": "9. Kreditoru administrācija vai konkursa valde, ja tāda ir izveidota, iegūst kreditoru komitejas tiesības un pilnvaras saskaņā ar šo likumu."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn10",
+      "title": "10. Pēc 1998.gada 31.decembra uzsāktie valsts un pašvaldību uzņēmumu vai uzņēmējsabiedrību maksātnespējas procesi risināmi šajā likumā noteiktajā vispārējā kārtībā, nepiemērojot šā likuma XIV nodaļas noteikumus. Līdz 1998.gada 31.decembrim uzsāktie valsts un pašvaldību uzņēmumu vai uzņēmējsabiedrību maksātnespējas procesi pabeidzami, piemērojot šā likuma XIV nodaļas noteikumus.",
+      "content": "( 26.02.1998 . likuma redakcijā, kas stājas spēkā 13.03.1998. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn11",
+      "title": "11. Valsts un pašvaldību uzņēmumu vai uzņēmējsabiedrību maksātnespējas un likvidācijas jautājumus, kas nav reglamentēti šajā likumā, līdz 1998.gada 31.decembrim regulē Ministru kabineta noteikumi.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 26.02.1998 . likumu, kas stājas spēkā 13.03.1998. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn12",
+      "title": "12. Šā likuma 107.panta trešās daļas 1.punktā minētie prasījumi, kuri radušies pirms šā likuma spēkā stāšanās, tiek apmierināti pilnā to pamatsummas apmērā par visu nesamaksāto periodu.",
+      "content": "( 17.04.1997 . likuma redakcijā, kas stājas spēkā 08.05.1997. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn13",
+      "title": "13. Lauksaimniecības statūtsabiedrībām, kuras ir likvidētas un līdz 1996.gada 1.janvārim izslēgtas no Latvijas Republikas Uzņēmumu reģistra, bet kurām ir nodokļu parādi, un lauksaimniecības statūtsabiedrībām, kuras pieņēmušas lēmumu par likvidāciju un uzsākušas likvidāciju līdz 1996.gada 1.janvārim, bet kuru likvidācija līdz 1997.gada 1.janvārim nav pabeigta sakarā ar nerealizētajiem pamatlīdzekļiem, maksātnespējīgu debitoru saistībām un nodokļu maksājumu parādiem, kā arī parādiem par saņemto elektroenerģiju, siltumenerģiju un gāzi, likvidāciju pabeidz un to nodokļu parādus un ar tiem saistītās pamatparāda palielinājuma naudas, nokavējuma naudas un soda naudas dzēš Ministru kabineta noteiktajā kārtībā un atbilstoši Ministru kabineta apstiprinātajam lauksaimniecības statūtsabiedrību sarakstam.",
+      "content": "( 04.12.1997 . likuma redakcijā, kas stājas spēkā 31.12.1997. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn14",
+      "title": "14. Šā likuma 109.panta otrajā daļā paredzētā kārtība tiek piemērota tiem 109.panta pirmās daļas 9.punktā minētajiem līdzekļiem, kas piešķirti, sākot ar 2000.gada 2.septembri.",
+      "content": "( 07.12.2000 . likuma redakcijā, kas stājas spēkā 03.01.2001. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn15",
+      "title": "15. (Izslēgts ar 25.05.2006 . likumu, kas stājas spēkā 28.06.2006. )",
+      "content": "15. (Izslēgts ar 25.05.2006 . likumu, kas stājas spēkā 28.06.2006. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn16",
+      "title": "16. (Izslēgts ar 25.05.2006 . likumu, kas stājas spēkā 28.06.2006. )",
+      "content": "16. (Izslēgts ar 25.05.2006 . likumu, kas stājas spēkā 28.06.2006. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn17",
+      "title": "17. Uz personu, kas iecelta par maksātnespējas procesa administratoru pirms 2003.gada 1.janvāra, neattiecas likuma normas, kas paredz Aģentūras pienākumu segt administrācijas izmaksas no līdzekļiem, kuri Aģentūrai piešķirti šiem mērķiem ( 24.panta sestā daļa, 108.panta sestā daļa).",
+      "content": "( 25.05.2006 . likuma redakcijā, kas stājas spēkā 28.06.2006. Sk. pārejas noteikumu 29.punktu.)"
+    },
+    {
+      "provision_ref": "PN 17.1",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn17.1",
+      "title": "17. 1 Ja maksātnespējas procesa administrators iecelts pirms 2003.gada 1.janvāra, bet attiecīgais maksātnespējas process netiek izbeigts līdz 2006.gada 1.jūlijam, tiesa pēc Aģentūras pieteikuma lemj par administratora atcelšanu.",
+      "content": "( 20.10.2005 . likuma redakcijā, kas stājas spēkā 01.01.2006. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn18",
+      "title": "18. Kamēr Ministru kabinets nav noteicis administratoru sertifikācijas kārtību, tiesa administratoru ieceļ un apstiprina atbilstoši šā likuma 13. un 14.pantā noteiktajām kvalifikācijas pazīmēm.",
+      "content": "( 13.06.2002 . likuma redakcijā, kas stājas spēkā 01.07.2002. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn19",
+      "title": "19. Zvērināti advokāti un zvērināti revidenti, kuri līdz 2002.gada 1.jūlijam veikuši administratora pienākumus, līdz 2003.gada 1.jūlijam ir tiesīgi bez kvalifikācijas pārbaudes saņemt maksātnespējas procesa administratora sertifikātu uz trim gadiem.",
+      "content": "( 13.06.2002 . likuma redakcijā, kas stājas spēkā 01.07.2002. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn20",
+      "title": "20. Šā likuma 108.panta sestā daļa piemērojama attiecībā uz maksātnespējas procesiem, kuri uzsākti pēc 2003.gada 1.janvāra, kā arī attiecībā uz maksātnespējas lietām, kurās administrators iecelts un par kurām tiesas spriedums par maksātnespēju taisīts pēc 2003.gada 1.janvāra.",
+      "content": "( 29.05.2003 . likuma redakcijā, kas stājas spēkā 02.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn21",
+      "title": "21. Līdz 2003.gada 31.decembrim summa, ko Aģentūra izmaksā, lai segtu viena maksātnespējas procesa izmaksas, kuras minētas šā likuma 109.pantā , nedrīkst pārsniegt 950 latus.",
+      "content": "( 29.05.2003 . likuma redakcijā, kas stājas spēkā 02.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn22",
+      "title": "22. Nosakot kārtību, kādā sedzami tāda maksātnespējīga uzņēmuma vai uzņēmējsabiedrības parādi, attiecībā uz kuru lēmums par maksātnespējas procesa risinājumu pieņemts līdz 2003.gada 1.janvārim, administrators pirmās kārtas prioritāro kreditoru prasījumu pirmajā grupā iekļauj darbinieku prasījumus attiecībā uz darba samaksu par pirmajiem trim mēnešiem, rēķinot no dienas, kad pārtrauktas algu izmaksas, prasījumus attiecībā uz atvaļinājuma naudu un sociālajiem pabalstiem viena gada laikā pirms maksātnespējas lietas ierosināšanas, prasījumus attiecībā uz kaitējuma atlīdzību sakarā ar nelaimes gadījumu darbā vai arodslimību par visu nesamaksāto periodu un šīs atlīdzības maksājumiem, kas izdarāmi par trim gadiem uz priekšu valsts sociālās apdrošināšanas speciālajā budžetā, ja nelaimes gadījums darbā noticis vai arodslimība iegūta līdz 1997.gada 1.janvārim, kā arī valsts sociālās apdrošināšanas obligātās iemaksas un iedzīvotāju ienākuma nodokļa maksājumus, kas saistīti ar šajā punktā minētajām izmaksām, un valsts sociālās apdrošināšanas obligātās iemaksas, kas nodrošina tiesības uz bezdarbnieka pabalsta saņemšanu.",
+      "content": "( 29.05.2003 . likuma redakcijā, kas stājas spēkā 02.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn23",
+      "title": "23. Šā likuma 15.panta noteikumi par administratora nodrošinājumu nav attiecināmi uz Uzņēmumu reģistru, nodokļu administrāciju, Zemkopības ministrijas vai pašvaldības pārstāvi, kuram tiesa uzlikusi par pienākumu veikt administratora funkcijas maksātnespējas procesā.",
+      "content": "( 29.05.2003 . likuma redakcijā, kas stājas spēkā 02.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn24",
+      "title": "24. (Izslēgts ar 19.05.2005 . likumu, kas stājas spēkā 15.06.2005. )",
+      "content": "24. (Izslēgts ar 19.05.2005 . likumu, kas stājas spēkā 15.06.2005. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn25",
+      "title": "25. Šā likuma 2.panta piektā daļa stājas spēkā vienlaikus ar Finanšu nodrošinājuma likumu.",
+      "content": "( 17.03.2005 . likuma redakcijā, kas stājas spēkā 13.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn26",
+      "title": "26. Šā likuma 16.panta otrās daļas jaunā redakcija, kas nosaka administratora kandidāta izvēli pēc nejaušības principa, stājas spēkā 2005.gada 1.jūnijā.",
+      "content": "( 17.03.2005 . likuma redakcijā, kas stājas spēkā 13.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn27",
+      "title": "27. Ministru kabinets ne vēlāk kā līdz 2005.gada 31.decembrim izdod šā likuma 13. 1 panta trešajā daļā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 31.decembrim ir spēkā Ministru kabineta 2002.gada 29.oktobra noteikumi Nr.492 \" Maksātnespējas procesa administratoru apmācības un sertificēšanas kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 19.05.2005 . likuma redakcijā, kas stājas spēkā 15.06.2005. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn28",
+      "title": "28. Šā likuma 19.panta astotās daļas jaunā redakcija par pārskatu iesniegšanas kārtību un termiņiem atbilstoši Ministru kabineta noteiktajai kārtībai stājas spēkā 2005.gada 1.augustā.",
+      "content": "( 19.05.2005 . likuma redakcijā, kas stājas spēkā 15.06.2005. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "XIV nodaļa Valsts un pašvaldību uzņēmumu un uzņēmējsabiedrību maksātnespējas procesa īpatnības pārejas posmā",
+      "section": "pn29",
+      "title": "29. Šā likuma 19.panta sestās daļas otrais teikums (par Uzņēmumu reģistrā apliecināta paraksta parauga iesniegšanu) un grozījums šā likuma pārejas noteikumu 17.punktā (kas nosaka, ka uz maksātnespējas procesa administratoru, kas iecelts pirms 2003.gada 1.janvāra, neattiecas likuma normas, kas paredz Aģentūras pienākumu segt administrācijas izmaksas) stājas spēkā 2006.gada 1.jūlijā.",
+      "content": "( 25.05.2006 . likuma redakcijā, kas stājas spēkā 28.06.2006. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administrators",
+      "definition": "tiesas iecelta persona, kura piedalās maksātnespējas procesā, realizē šajā likumā noteiktās pilnvaras un ir atbildīga šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "bankrots",
+      "definition": "maksātnespējas stāvokļa risinājums, kas izpaužas kā parādnieka likvidācija un kreditoru prasījumu apmierināšana no līdzekļiem, kuri iegūti likvidācijas procesā, atsavinot parādnieka mantu šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "faktiskā maksātnespēja",
+      "definition": "parādnieka stāvoklis, kurā tas nespēj nokārtot savas parādu saistības līdz maksātnespējas lietas ierosināšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kapitāla daļu turētājs",
+      "definition": "šā likuma izpratnē: akcionārs, cita persona, arī valsts, pašvaldība vai līgumsabiedrības dalībnieks, kura ieguldījums ir uzņēmuma vai uzņēmējsabiedrības pamatkapitālā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kompetentas valsts institūcijas",
+      "definition": "šā likuma izpratnē: prokuratūra, nodokļu administrācija, Privatizācijas aģentūra, pilsētas dome, rajona vai pagasta padome vai Zemkopības ministrija, kā arī Finanšu un kapitāla tirgus komisija (apdrošināšanas sabiedrību un apdrošināšanas brokeru sabiedrību maksātnespējas procesā)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kreditors",
+      "definition": "šā likuma izpratnē: valsts, pašvaldība, juridiskā persona, fiziskā persona vai ar līgumu saistīta fizisko personu grupa, kurai ir prasījuma tiesības pret parādnieku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kreditoru komiteja",
+      "definition": "kreditoru sapulces ievēlēta institūcija, kura pārstāv kreditoru sapulci šajā likumā noteiktajos gadījumos un atbilstoši noteiktajam pilnvaru apjomam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kreditoru sapulce",
+      "definition": "saskaņā ar šā likuma noteikumiem organizēta kreditoru kopīgas darbības forma",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kriminālsodāms bankrots",
+      "definition": "ar tiesas nolēmumu konstatēts maksātnespējas stāvoklis, līdz kuram parādnieks ir novests apzināti (ļaunprātīgs bankrots) vai nolaidības dēļ",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksātnespēja",
+      "definition": "ar tiesas spriedumu konstatēts parādnieka stāvoklis, kurā tas nespēj nokārtot savas parādu saistības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksātnespējas pieteikums",
+      "definition": "parādnieka, tā likvidatora (likvidācijas komisijas), kreditora (kreditoru grupas), kompetentu valsts institūciju vai Padomes 2000.gada 29.maija regulas (EK) Nr. 1346/2000 par maksātnespējas procedūrām (turpmāk — Padomes regula Nr. 1346/2000 ) 29.panta \"a\" punktā norādītās personas pieteikums tiesā, uz kura pamata var ierosināt lietu par maksātnespēju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksātnespējas process",
+      "definition": "process, kas risinās uzņēmumā vai uzņēmējsabiedrībā no maksātnespējas pieteikuma iesniegšanas dienas līdz dienai, kad tiesa pieņem lēmumu par maksātnespējas procesa izbeigšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mierizlīgums",
+      "definition": "maksātnespējas stāvokļa risinājums, kas izpaužas kā vienošanās starp kreditoriem un parādnieku par parādnieka saistību izpildi šajā likumā paredzētajos gadījumos un kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nenodrošinātais kreditors",
+      "definition": "kreditors, kura prasījuma tiesība (prasījums) nav nodrošināta ar ķīlu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodrošinātais kreditors",
+      "definition": "kreditors, kura prasījuma tiesība (prasījums) ir nodrošināta ar rokas ķīlu, komercķīlu, zemesgrāmatā vai kuģu reģistrā ierakstītu hipotēku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "parādnieka pārstāvji",
+      "definition": "parādnieka kapitāla daļu turētāji, parādnieka pārvaldes institūciju locekļi un amatpersonas, kuras saskaņā ar parādnieka statūtiem vai līgumiem ir tiesīgas pieņemt lēmumus attiecībā uz parādnieku vai pārstāvēt parādnieku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "parādnieks",
+      "definition": "uzņēmums, uzņēmējsabiedrība, komercreģistrā reģistrēts komersants, kā arī ārvalstī reģistrēta persona, kas veic pastāvīgu saimniecisko darbību, bet nespēj nokārtot savas parādu saistības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sanācija",
+      "definition": "maksātnespējas stāvokļa risinājums, kas izpaužas kā plānveidīgu pasākumu veikšana nolūkā novērst parādnieka iespējamo bankrotu, atjaunot maksātspēju un apmierināt kreditoru prasījumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Aģentūra",
+      "definition": "valsts aģentūra \"Maksātnespējas administrācija\", kura šajā likumā noteiktajā kārtībā uzrauga administratoru darbību maksātnespējas procesā un veic citas šajā likumā noteiktās funkcijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sertifikāts",
+      "definition": "šā likuma izpratnē: Aģentūras izsniegts dokuments, kas apliecina fiziskās personas profesionālo kompetenci veikt maksātnespējas procesa administratora pienākumus.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

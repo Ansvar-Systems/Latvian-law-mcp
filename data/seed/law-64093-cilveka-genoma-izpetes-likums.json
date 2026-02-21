@@ -1,0 +1,255 @@
+{
+  "id": "lv-law-64093",
+  "type": "statute",
+  "title": "Cilvēka genoma izpētes likums",
+  "title_en": "Human Genome Research Law",
+  "short_name": "TA-64093",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/64093-cilveka-genoma-izpetes-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) atkodēšana — gēnu donora personas identificēšana, izmantojot unikālu kodu, kas piešķirts audu paraugam, DNS aprakstam, veselības stāvokļa aprakstam vai ģenealoģijai, vai arī audu parauga, DNS apraksta, veselības stāvokļa apraksta vai ģenealoģijas identificēšana, pamatojoties uz gēnu donora identitāti;\n2) audu paraugs — šūnas, to DNS, starpšūnu vielas un ķermeņa šķidrumi, kas ņemti no cilvēka ģenētiskās izpētes veikšanai;\n3) DNS — dezoksiribonukleīnskābes molekula, kas satur ģenētisko informāciju;\n4) DNS apraksts — DNS digitālais modelis, kas radīts ģenētiskās izpētes rezultātā;\n5) genoms — organisma gēnu kopums, kas satur ģenētisko informāciju par organisma uzbūvi, dzīvības procesiem tajā un par organisma reakciju uz vidi;\n6) gēns — DNS molekulas daļa, kas satur ģenētisko informāciju par organisma proteīnu sintēzi vai pilda regulējošas funkcijas, nosakot atsevišķas organisma sastāvdaļas uzbūvi vai dzīvības procesa stadiju;\n7) gēnu donors — fiziskā persona, kura nodod audu paraugu ģenētiskai izpētei;\n8) genoma datu bāze — datu kopums, kas satur kodētus DNS aprakstus, kodētus veselības stāvokļa aprakstus, kodētus ģenealoģiskos un ģenētiskos datus, kā arī ģenētiskajā izpētē izmantojamus kodētus DNS paraugus un kodētus audu paraugus;\n9) gēnu donoru datu bāze — dati, kas ļauj identificēt gēnu donora personu un ģenealoģiju genoma datu bāzē;\n10) gēnu pētnieks — fiziskā vai juridiskā persona, kas veic ģenētisko izpēti;\n11) ģenealoģija — informācija par gēnu donora senčiem un pēcnācējiem: vārds, uzvārds, dzimšanas datums un asinsradniecība;\n12) ģenētiskā izpēte — DNS un audu citu sastāvdaļu zinātniska izpēte nolūkā noteikt sakarību starp gēniem, gēnu produktiem un iedzimtajām īpašībām;\n13) ģenētiskā testēšana — personas gēnu analīze, ko veic tās identificēšanas vai slimību diagnosticēšanas nolūkos, kā arī lai izvēlētos profilakses vai ārstēšanas pasākumus;\n14) ģenētiskie dati — dati, kas attiecas uz gēniem, gēnu produktiem un iedzimtajām īpašībām, arī DNS vai tās daļas apraksts, kas sastādīts ģenētiskās izpētes rezultātā;\n15) kodēšana — gēnu donora personas datu aizstāšana ar unikālu kodu, kas ļauj identificēt gēnu donoru pēc audu parauga, DNS apraksta, veselības stāvokļa apraksta vai ģenealoģijas;\n16) veselības stāvokļa apraksts — dati, kas savākti ģenētiskās izpētes veikšanai un sniedz informāciju par gēnu donora veselības stāvokli, slimībām, ar kādām viņš slimojis, viņa dzīvesveidu, fizisko un sociālo vidi un iedzimtajām īpašībām."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un darbība",
+      "content": "(1) Likuma mērķis ir regulēt vienotas valsts iedzīvotāju genoma datu bāzes (turpmāk — genoma datu bāze) izveidošanu un darbību, ģenētisko izpēti, nodrošināt gēnu ziedošanas brīvprātīgumu un konfidencialitāti attiecībā uz gēnu donoru identitāti, kā arī aizsargāt personas no ģenētisko datu ļaunprātīgas izmantošanas un diskriminācijas, kas saistīta ar ģenētiskajiem datiem.\n(2) Likums reglamentē:\n1) audu paraugu apstrādes, DNS apraksta, veselības stāvokļa apraksta un ģenealoģijas sastādīšanas noteikumus saistībā ar genoma datu bāzi;\n2) ģenētiskās izpētes noteikumus un šīs izpētes uzraudzības organizēšanu;\n3) gēnu donoru tiesības un pienākumus, genoma datu bāzes galvenā apstrādātāja, autorizētā apstrādātāja un gēnu pētnieku darbību;\n4) ierobežojumus attiecībā uz audu paraugu izmantošanu, genoma datu bāzē apkopoto DNS aprakstu, veselības stāvokļa aprakstu un ģenealoģiju izmantošanu;\n5) kodēšanas un atkodēšanas noteikumus."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Cilvēka genoma izpētes vispārīgie principi",
+      "content": "(1) Ģenētiskajā izpētē gēnu donora intereses, tiesības un aizsardzība ir vērtējamas augstāk par sabiedrības un zinātnes interesēm.\n(2) Gēnu donors ģenētiskajā izpētē piedalās brīvprātīgi.\n(3) Aizliegta jebkāda personas diskriminācija saistībā ar tās ģenētisko izcelšanos un jebkuriem citiem ģenētiskās izpētes rezultātā iegūtiem datiem, kā arī pamatojoties uz to, ka persona ir vai nav gēnu donors.\n(4) Cilvēka genoma izpēte ir atļauta tikai nolūkā iegūt zinātniski pamatotu informāciju, ko var izmantot personas un visas sabiedrības veselības uzlabošanai.\n(5) Cilvēka genoma izpētei ir jābūt zinātniski pamatotai, tā veicama, ievērojot attiecīgās nozares profesionālos kritērijus un nodrošinājumu.\n(6) Miruša cilvēka genoma izpēti nedrīkst veikt pret viņa dzīves laikā izteikto gribu. Ja šāda griba nav izteikta, miruša cilvēka genoma izpēti aizliegts veikt."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Genoma datu bāzes galvenais apstrādātājs",
+      "content": "(1) Genoma datu bāzes galvenais apstrādātājs (turpmāk arī — galvenais apstrādātājs) ir valsts zinātniska institūcija, ko Ministru kabinets pilnvarojis izveidot un regulāri papildināt genoma datu bāzi. Galvenajam apstrādātājam izvirzāmās prasības un kārtību, kādā izvērtējama valsts zinātnisko institūciju atbilstība minētajām prasībām, nosaka Ministru kabinets.\n(2) Galvenā apstrādātāja uzdevumi ir šādi:\n1) organizēt audu paraugu ņemšanu un glabāšanu, veselības stāvokļa aprakstu un ģenealoģiju sastādīšanu, uzglabāšanu un iznīcināšanu;\n2) veikt kodēšanu;\n3) veikt ģenētisko izpēti un savākt, uzglabāt, iznīcināt vai izsniegt ģenētiskos datus;\n4) sniegt Iedzīvotāju genoma valsts reģistram ģenētiskās izpētes rezultātā iegūtos ģenētiskos datus, kas attiecas uz konkrētu gēnu donoru;\n5) veicināt ģenētiskās izpētes attīstību Latvijā;\n6) veicināt ģenētiskās izpētes rezultātu izmantošanu personas un visas sabiedrības veselības uzlabošanai.\n(3) Galvenais apstrādātājs ik gadu sniedz pārskatu Veselības ministrijai un Izglītības un zinātnes ministrijai par valsts budžeta līdzekļu izlietojumu no valsts budžeta finansētas ģenētiskās izpētes programmas īstenošanai."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Genoma izpētes padome",
+      "content": "(1) Genoma izpētes padome (turpmāk — padome) darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu, un tās galvenie uzdevumi ir šādi:\n1) izskatīt ar ģenētisko izpēti saistītus projektus un koncepcijas, sniegt par tiem atzinumus un koordinēt to īstenošanu;\n2) veicināt sabiedrības informēšanu par ģenētiskās izpētes mērķiem un norisi;\n3) pārstāvēt sabiedrības intereses ģenētiskās izpētes jomā.\n(2) Padomes personālsastāvu pēc veselības ministra priekšlikuma apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Genoma datu bāzes autorizētais apstrādātājs",
+      "content": "Genoma datu bāzes autorizētais apstrādātājs (turpmāk — autorizētais apstrādātājs) ir galvenā apstrādātāja pilnvarota fiziskā vai juridiskā persona, kas veic atsevišķas ar genoma datu bāzi saistītās darbības, izņemot kodēšanu un atkodēšanu. Autorizētajam apstrādātājam izvirzāmās prasības nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Iedzīvotāju genoma valsts reģistrs",
+      "content": "Iedzīvotāju genoma valsts reģistra izveides, papildināšanas un uzturēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Ģenētiskā izpēte un ģenētiskā testēšana",
+      "content": "(1) Ģenētiskā izpēte ir atļauta nolūkā studēt un aprakstīt savstarpējo sakarību starp gēniem, cilvēku veselības stāvokli un dzīvesveidu, viņu fizisko un sociālo vidi, lai, pamatojoties uz šo izpēti, atklātu slimību diagnostikas un ārstēšanas metodes, kas palīdzēs novērtēt indivīdu veselības risku un novērst slimību rašanos.\n(2) Ģenētisko izpēti veic Ministru kabineta noteiktajā kārtībā.\n(3) Ja ģenētisko izpēti veic neatkarīgi no genoma datu bāzes, informāciju par personas veselības stāvokli, audu paraugus un DNS aprakstus iekļauj genoma datu bāzē tikai ar gēnu donora rakstveida piekrišanu. Šādā gadījumā gēnu pētniekam ir tiesības strādāt ar viņa savāktajiem un genoma datu bāzē uzglabātajiem audu paraugiem likumā noteikto pilnvaru ietvaros.\n(4) Ģenētiskajai testēšanai no cilvēkiem ņemtos audu paraugus un attiecīgās izpētes rezultātus neiekļauj genoma datu bāzē.\n(5) Ģenētisko testēšanu veic atbilstoši Ministru kabineta noteiktajā kārtībā apstiprinātajai medicīniskajai tehnoloģijai."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "9",
+      "title": "Personas datu apstrādes noteikumi",
+      "content": "Ģenētiskajā izpētē, genoma datu bāzē un gēnu donoru datu bāzē iekļauto personas datu apstrādes noteikumus reglamentē Fizisko personu datu aizsardzības likums , ciktāl šis likums nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Piekrišana kļūt par gēnu donoru un gēnu donora tiesības",
+      "section": "10",
+      "title": "Piekrišana kļūt par gēnu donoru",
+      "content": "(1) Pirms persona piedalās ģenētiskajā izpētē, ārsts tai izsniedz rakstveida informāciju par:\n1) genoma izpētes projekta mērķi, saturu un ilgumu;\n2) iespējamiem riskiem;\n3) tiesībām brīvi izteikt savu piekrišanu un jebkurā brīdī to atsaukt;\n4) iespēju veikt ģenētisko izpēti ārpus Latvijas.\n(2) Personas piekrišana tās audu paraugu ņemšanai, veselības stāvokļa apraksta vai ģenealoģijas sastādīšanai un papildināšanai, to iekļaušanai genoma datu bāzē, izmantošanai ģenētiskajā izpētē un statistikas nolūkos, izvešanai ārpus Latvijas, kā arī ģenētisko datu izmantošanai tiek dota rakstveidā. Gēnu donora piekrišanas dokuments tiek sastādīts divos eksemplāros, dokumentu paraksta un datē gēnu donors vai nepilngadīgas personas likumiskais pārstāvis un galvenais apstrādātājs vai autorizētais apstrādātājs. Vienu piekrišanas dokumenta eksemplāru glabā Iedzīvotāju genoma valsts reģistrā, otru izsniedz gēnu donoram vai nepilngadīgas personas likumiskajam pārstāvim.\n(3) Gēnu donora piekrišanas dokumentu Iedzīvotāju genoma valsts reģistrs uzglabā 75 gadus pēc pēdējā ieraksta, kas raksturo audu paraugus, veselības stāvokļa aprakstu un DNS aprakstu.\n(4) Piekrišanas dokumenta veidlapas paraugu, tās aizpildīšanas un uzglabāšanas kārtību nosaka Ministru kabinets.\n(5) Ja ģenētisko izpēti veic neatkarīgi no genoma datu bāzes, piekrišanas dokumentu paraksta un datē gēnu pētnieks un gēnu donors vai nepilngadīgas personas likumiskais pārstāvis. Vienu piekrišanas dokumenta eksemplāru izsniedz gēnu donoram vai nepilngadīgas personas likumiskajam pārstāvim, otru — gēnu pētniekam."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Piekrišana kļūt par gēnu donoru un gēnu donora tiesības",
+      "section": "11",
+      "title": "Gēnu donora tiesības",
+      "content": "(1) Gēnu donoram ir šādas tiesības:\n1) iepazīties vai atteikties iepazīties ar datiem, kas par viņu tiek uzglabāti genoma datu bāzē;\n2) aizliegt sava veselības stāvokļa apraksta papildināšanu, atjaunošanu vai pārbaudi genoma datu bāzē;\n3) jebkurā brīdī atsaukt savu piekrišanu būt par gēnu donoru. Šādā gadījumā gēnu donora audu paraugi, veselības stāvokļa apraksts un jebkura ar personas identificēšanu saistīta informācija tiek iznīcināta;\n4) ierobežot sava genoma izpētes apjomu.\n(2) Gēnu donoram nav tiesību pieprasīt maksu par audu paraugu nodošanu, viņa veselības stāvokļa apraksta vai ģenealoģijas sastādīšanu vai izpēti, kā arī par izpētes rezultātu izmantošanu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Piekrišana kļūt par gēnu donoru un gēnu donora tiesības",
+      "section": "12",
+      "title": "Personas ar ierobežotu rīcībspēju un nepilngadīgas personas genoma izpēte",
+      "content": "(1) Personas ar ierobežotu rīcībspēju genoma izpēte pieļaujama tikai izņēmuma gadījumā, ja šī izpēte sniedz tiešu labumu personas veselībai un izpētē pieļaujamais risks ir samērojams ar gūto labumu.\n(2) Personas ar ierobežotu rīcībspēju genoma izpēte veicama tikai ar gēnu donora un Centrālās medicīnas ētikas komitejas rakstveida piekrišanu.\n(3) Nepilngadīgas personas genoma izpēte veicama tikai ar nepilngadīgas personas likumiskā pārstāvja piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Darbības ar audu paraugiem, veselības stāvokļa aprakstiem, ģenealoģijām, DNS aprakstiem un gēnu donora personas datiem (Nodaļas nosaukums 12.06.2003 . likuma redakcijā, kas stājas spēkā 15.07.2003. )",
+      "section": "13",
+      "title": "Audu paraugu ņemšana un veselības stāvokļa aprakstu sastādīšana",
+      "content": "(1) Audu paraugu ņemšanu un veselības stāvokļa apraksta sastādīšanu veic galvenais apstrādātājs vai autorizētais apstrādātājs.\n(2) Galvenais apstrādātājs vai autorizētais apstrādātājs sastāda un papildina veselības stāvokļa aprakstu, pamatojoties uz ziņām, ko sniedzis gēnu donors un kas par gēnu donoru saņemtas no ārstniecības iestādēm.\n(3) Ārsts iesniedz galvenajam apstrādātājam aizpildītu anketu, kurā ir ietverta šāda informācija:\n1) gēnu donora vārds, uzvārds un personas kods, dzimums un dzīvesvieta;\n2) ārstniecības iestāde (nosaukums), kur ņemti audu paraugi;\n3) informācija par audu paraugu un veidu, kādā tas ņemts.\n(4) Galvenais apstrādātājs vai autorizētais apstrādātājs var sastādīt gēnu donora ģenealoģiju, pamatojoties uz viņa sniegtajiem datiem vai ģenētiskās izpētes rezultātiem.\n(5) Ņemot audu paraugus vai sastādot veselības stāvokļa aprakstu, jāievēro konfidencialitāte attiecībā uz gēnu donora identitāti, kā arī viņa audu paraugiem, veselības stāvokļa aprakstu un ģenealoģiju."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Darbības ar audu paraugiem, veselības stāvokļa aprakstiem, ģenealoģijām, DNS aprakstiem un gēnu donora personas datiem (Nodaļas nosaukums 12.06.2003 . likuma redakcijā, kas stājas spēkā 15.07.2003. )",
+      "section": "14",
+      "title": "Ģenealoģiju izmantošana",
+      "content": "(1) Genoma datu bāzes ietvaros ģenealoģijas ir atļauts izmantot tikai audu paraugu, DNS aprakstu un veselības stāvokļa aprakstu sastādīšanai, balstoties uz asinsradniecību.\n(2) Galvenais apstrādātājs var sniegt gēnu pētniekam informāciju par savstarpējo sakarību starp kodētajiem audu paraugiem, kodētajiem DNS paraugiem un kodētajiem veselības stāvokļa aprakstiem, balstoties uz asinsradniecību, saskaņā ar šā likuma 17.panta otro daļu."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Darbības ar audu paraugiem, veselības stāvokļa aprakstiem, ģenealoģijām, DNS aprakstiem un gēnu donora personas datiem (Nodaļas nosaukums 12.06.2003 . likuma redakcijā, kas stājas spēkā 15.07.2003. )",
+      "section": "15",
+      "title": "Audu paraugu, DNS aprakstu un veselības stāvokļa aprakstu uzglabāšana un izvešana ārpus Latvijas",
+      "content": "(1) Kodētos audu paraugus, kodētos DNS aprakstus, kodētos veselības stāvokļa aprakstus un kodētās ģenealoģijas galvenais apstrādātājs uzglabā Latvijā genoma datu bāzē Ministru kabineta noteiktajā kārtībā.\n(2) Padome uz galvenā apstrādātāja, autorizētā apstrādātāja vai gēnu pētnieka iesnieguma pamata var izsniegt atļauju kodēto audu paraugu daļu (alikvotu) un kodēto veselības stāvokļa aprakstu kopiju izvešanai ārpus Latvijas ar gēnu donora rakstveida piekrišanu tikai šādos nolūkos:\n1) ģenētiskās izpētes veikšanai starptautisku medicīnisko, ģenētisko un biofarmaceitisko zinātnisko projektu ietvaros;\n2) starptautiski atzītas ģenētisko datu bāzes izveidošanai medicīniskiem un etnoģenētiskiem pētījumiem, ja par ģenētisko datu bāzu izveidošanu ar Latviju ir noslēgts attiecīgs līgums.\n(3) Kārtību, kādā izsniedzamas atļaujas kodēto audu paraugu daļu (alikvotu) un kodēto veselības stāvokļa aprakstu kopiju izvešanai ārpus Latvijas, kā arī audu paraugu izmantošanas kontroles kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Darbības ar audu paraugiem, veselības stāvokļa aprakstiem, ģenealoģijām, DNS aprakstiem un gēnu donora personas datiem (Nodaļas nosaukums 12.06.2003 . likuma redakcijā, kas stājas spēkā 15.07.2003. )",
+      "section": "16",
+      "title": "Citas ar ģenētisko izpēti saistītās tiesības",
+      "content": "(1) Genoma datu bāzi atļauts izmantot tikai zinātniskai izpētei, gēnu donora slimību izpētei un ārstēšanai, sabiedrības veselības izpētei un statistikas nolūkiem. Izmantot genoma datu bāzi jebkuriem citiem mērķiem ir aizliegts.\n(2) Galvenais apstrādātājs, autorizētais apstrādātājs un gēnu pētnieks ir tiesīgi rīkoties ar kodētajiem audu paraugiem, kodētajiem veselības stāvokļa aprakstiem un kodētajām ģenealoģijām likumā noteikto pilnvaru ietvaros.\n(3) Gēnu donora ārstam ir tiesības saņemt atkodētu genoma datu bāzē iekļauto gēnu donora veselības stāvokļa aprakstu gadījumā, ja tas ir nepieciešams gēnu donora ārstēšanai un saņemta gēnu donora rakstveida atļauja."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Darbības ar audu paraugiem, veselības stāvokļa aprakstiem, ģenealoģijām, DNS aprakstiem un gēnu donora personas datiem (Nodaļas nosaukums 12.06.2003 . likuma redakcijā, kas stājas spēkā 15.07.2003. )",
+      "section": "17",
+      "title": "Audu paraugu, DNS aprakstu, veselības stāvokļa aprakstu un ģenealoģiju izsniegšana",
+      "content": "(1) Genoma datu bāzē uzglabāto kodēto audu paraugu, kodēto DNS aprakstu, kodēto veselības stāvokļa aprakstu un kodēto ģenealoģiju izsniegšanas kārtību, kā arī izsniegšanas akta veidlapas paraugu un tās aizpildīšanas un uzglabāšanas kārtību nosaka Ministru kabinets.\n(2) Galvenais apstrādātājs ar padomes atļauju var izsniegt genoma datu bāzē iekļautos kodētos audu paraugus, kodētos DNS aprakstus, kodētos veselības stāvokļa aprakstus un kodētās ģenealoģijas vai to daļas kā datu kopumu tādai ģenētiskajai izpētei Latvijā, kas nav saistīta ar genoma datu bāzi, ar nosacījumu, ka šajā datu kopumā ietilpst vismaz piecu gēnu donoru audu paraugi, DNS apraksti un veselības stāvokļa apraksti un tiek ievēroti šā likuma 8.panta noteikumi. Šajā gadījumā par kodēto audu paraugu, kodēto DNS aprakstu, kodēto veselības stāvokļa aprakstu un kodēto ģenealoģiju izmantošanu var pieprasīt maksu, taču tā nedrīkst pārsniegt izdevumus, kas saistīti ar attiecīgo paraugu un aprakstu iegūšanu, sagatavošanu un uzglabāšanu genoma datu bāzē, turklāt galvenais apstrādātājs šādas izmantošanas rezultātā nedrīkst gūt peļņu. Šī prasība neattiecas uz datu izsniegšanu gēnu donoram vai gēnu donora ārstam.\n(3) (Izslēgta ar 12.06.2003 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Darbības ar audu paraugiem, veselības stāvokļa aprakstiem, ģenealoģijām, DNS aprakstiem un gēnu donora personas datiem (Nodaļas nosaukums 12.06.2003 . likuma redakcijā, kas stājas spēkā 15.07.2003. )",
+      "section": "18",
+      "title": "Gēnu donora personas datu, audu paraugu, DNS aprakstu un veselības stāvokļa aprakstu iznīcināšana",
+      "content": "Genoma datu bāzē uzglabāto gēnu donora personas datu, audu paraugu, DNS aprakstu un veselības stāvokļa aprakstu iznīcināšanas kārtību, kā arī iznīcināšanas akta veidlapas paraugu un tās aizpildīšanas un uzglabāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Kodēšana un atkodēšana",
+      "section": "19",
+      "title": "Kodēšana",
+      "content": "(1) Tūlīt pēc piekrišanas dokumenta un attiecīgu audu paraugu, DNS aprakstu, veselības stāvokļa aprakstu un ģenealoģiju saņemšanas genoma datu bāzē galvenais apstrādātājs piešķir katram audu paraugam, DNS aprakstam, veselības stāvokļa aprakstam un ģenealoģijai unikālu kodu, kas sastāv no 16 simboliem. Izraudzītās kodu piešķiršanas metodes lietošanai galvenais apstrādātājs saņem atļauju no Datu valsts inspekcijas.\n(2) Galvenais apstrādātājs aizstāj ar kodu visus personas datus attiecībā uz audu paraugiem, DNS aprakstiem, veselības stāvokļa aprakstiem, gēnu donora vārdu, uzvārdu, personas kodu un dzīvesvietu, tādējādi nodrošinot iespēju atkal identificēt gēnu donoru.\n(3) Galvenais apstrādātājs audu paraugam, DNS aprakstam, veselības stāvokļa aprakstam vai ģenealoģijai piešķirto kodu norāda uz gēnu donora piekrišanas dokumenta. Nedēļas laikā pēc kodēšanas galvenais apstrādātājs nodod piekrišanas dokumentu kopā ar tajā norādīto kodu Iedzīvotāju genoma valsts reģistram, un šis kods ir vienīgā iespējamā atkodēšanas atslēga.\n(4) Galvenajam apstrādātājam, autorizētajam apstrādātājam un gēnu pētniekiem ir atļauts audu paraugus, DNS aprakstus, veselības stāvokļa aprakstus un ģenealoģijas apzīmēt tikai ar tiem kodiem, kurus šiem audu paraugiem, DNS aprakstiem, veselības stāvokļa aprakstiem un ģenealoģijām piešķīris galvenais apstrādātājs."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Kodēšana un atkodēšana",
+      "section": "20",
+      "title": "Atkodēšana",
+      "content": "Iedzīvotāju genoma valsts reģistram ir atļauts atkodēt datus tikai šādiem mērķiem:\n1) lai iznīcinātu audu paraugus, DNS aprakstus un veselības stāvokļa aprakstus;\n2) lai nodrošinātu piekļūšanu genoma datu bāzē iekļautajiem gēnu donora datiem, izņemot ģenealoģiju, pēc viņa rakstveida pieprasījuma;\n3) lai atjaunotu, papildinātu vai pārbaudītu gēnu donora veselības stāvokļa aprakstu, izņemot gadījumu, kad gēnu donors rakstveidā aizliedzis papildināt, atjaunot vai pārbaudīt viņa veselības stāvokļa aprakstu;\n4) lai ar gēnu donora rakstveida piekrišanu paņemtu jaunu DNS paraugu, ja audu paraugs ticis iznīcināts vai neietver pietiekamu ģenētisko informāciju;\n5) lai izdarītu grozījumus gēnu donora ģenealoģijā, ja ģenētiskās izpētes rezultāti ir pretrunā ar iepriekš sastādīto ģenealoģiju, vai lai sniegtu jaunu informāciju par šo ģenealoģiju;\n6) lai izsniegtu gēnu donora veselības stāvokļa aprakstu gēnu donora ārstam pēc viņa rakstveida pieprasījuma, kurā pamatota informācijas ieguves nepieciešamība, un ar gēnu donora rakstveida piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa Uzraudzība un sūdzību izskatīšanas kārtība",
+      "section": "21",
+      "title": "Datu aizsardzības uzraudzības iestāde",
+      "content": "Uzraudzību pār veselības stāvokļa aprakstu un ģenealoģisko datu savākšanu, audu paraugu, DNS aprakstu, veselības stāvokļa aprakstu un ģenealoģisko datu kodēšanu un atkodēšanu, kā arī audu paraugu, DNS aprakstu, veselības stāvokļa aprakstu un ģenealoģisko datu apstrādi veic Datu valsts inspekcija."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Uzraudzība un sūdzību izskatīšanas kārtība",
+      "section": "22",
+      "title": "Ētisko principu ievērošana",
+      "content": "Centrālā medicīnas ētikas komiteja izvērtē ētikas principu ievērošanu ģenētiskajā izpētē un genoma datu bāzes izveidošanā un darbībā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Uzraudzība un sūdzību izskatīšanas kārtība",
+      "section": "23",
+      "title": "Sūdzību izskatīšana",
+      "content": "(1) Par šā likuma pārkāpumiem persona var iesniegt sūdzību Datu valsts inspekcijai.\n(2) Datu valsts inspekcijas lēmumus var pārsūdzēt tiesā."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atkodēšana",
+      "definition": "gēnu donora personas identificēšana, izmantojot unikālu kodu, kas piešķirts audu paraugam, DNS aprakstam, veselības stāvokļa aprakstam vai ģenealoģijai, vai arī audu parauga, DNS apraksta, veselības stāvokļa apraksta vai ģenealoģijas identificēšana, pamatojoties uz gēnu donora identitāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "audu paraugs",
+      "definition": "šūnas, to DNS, starpšūnu vielas un ķermeņa šķidrumi, kas ņemti no cilvēka ģenētiskās izpētes veikšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "DNS",
+      "definition": "dezoksiribonukleīnskābes molekula, kas satur ģenētisko informāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "DNS apraksts",
+      "definition": "DNS digitālais modelis, kas radīts ģenētiskās izpētes rezultātā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "genoms",
+      "definition": "organisma gēnu kopums, kas satur ģenētisko informāciju par organisma uzbūvi, dzīvības procesiem tajā un par organisma reakciju uz vidi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gēns",
+      "definition": "DNS molekulas daļa, kas satur ģenētisko informāciju par organisma proteīnu sintēzi vai pilda regulējošas funkcijas, nosakot atsevišķas organisma sastāvdaļas uzbūvi vai dzīvības procesa stadiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gēnu donors",
+      "definition": "fiziskā persona, kura nodod audu paraugu ģenētiskai izpētei",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "genoma datu bāze",
+      "definition": "datu kopums, kas satur kodētus DNS aprakstus, kodētus veselības stāvokļa aprakstus, kodētus ģenealoģiskos un ģenētiskos datus, kā arī ģenētiskajā izpētē izmantojamus kodētus DNS paraugus un kodētus audu paraugus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gēnu donoru datu bāze",
+      "definition": "dati, kas ļauj identificēt gēnu donora personu un ģenealoģiju genoma datu bāzē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gēnu pētnieks",
+      "definition": "fiziskā vai juridiskā persona, kas veic ģenētisko izpēti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģenealoģija",
+      "definition": "informācija par gēnu donora senčiem un pēcnācējiem: vārds, uzvārds, dzimšanas datums un asinsradniecība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģenētiskā izpēte",
+      "definition": "DNS un audu citu sastāvdaļu zinātniska izpēte nolūkā noteikt sakarību starp gēniem, gēnu produktiem un iedzimtajām īpašībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģenētiskā testēšana",
+      "definition": "personas gēnu analīze, ko veic tās identificēšanas vai slimību diagnosticēšanas nolūkos, kā arī lai izvēlētos profilakses vai ārstēšanas pasākumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģenētiskie dati",
+      "definition": "dati, kas attiecas uz gēniem, gēnu produktiem un iedzimtajām īpašībām, arī DNS vai tās daļas apraksts, kas sastādīts ģenētiskās izpētes rezultātā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kodēšana",
+      "definition": "gēnu donora personas datu aizstāšana ar unikālu kodu, kas ļauj identificēt gēnu donoru pēc audu parauga, DNS apraksta, veselības stāvokļa apraksta vai ģenealoģijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "veselības stāvokļa apraksts",
+      "definition": "dati, kas savākti ģenētiskās izpētes veikšanai un sniedz informāciju par gēnu donora veselības stāvokli, slimībām, ar kādām viņš slimojis, viņa dzīvesveidu, fizisko un sociālo vidi un iedzimtajām īpašībām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

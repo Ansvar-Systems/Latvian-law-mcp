@@ -1,0 +1,207 @@
+{
+  "id": "lv-law-38049",
+  "type": "statute",
+  "title": "Par sociālo nodokli",
+  "short_name": "TA-38049",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/38049-par-socialo-nodokli",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) sociāli apdrošinātā persona — persona (darbinieks; pašnodarbinātā persona vai tās ģimenes loceklis; persona, kuras nodarbinātība pielīdzināma darbam; fiziskā persona — rezidents, kas ir darba tiesiskajās attiecībās ar darba devēju — nerezidentu), kas sasniegusi 15 gadu vecumu, ja tā ir izdarījusi vai par to ir izdarīti sociālā nodokļa maksājumi (ja tā ir izdarījusi un par to ir izdarīti sociālā nodokļa maksājumi). Sociāli apdrošinātā persona ir arī tāda persona, kurai ir likumā “Par valsts pensijām” noteiktais apdrošināšanas stāžs;\n2) apdrošināšanas stāžs — periods, par kuru persona pati ir izdarījusi vai par to ir izdarīti sociālā nodokļa maksājumi (persona pati ir izdarījusi un par to ir izdarīti sociālā nodokļa maksājumi), kā arī likumā “Par valsts pensijām” noteiktie periodi;\n3) pašnodarbinātās personas :\na) uzņēmēji, arī personas, kuras veic uzņēmējdarbību individuālajos (ģimenes) uzņēmumos, un uzņēmēji, kas gūst ienākumus ārpus darba tiesiskajām attiecībām ar sava uzņēmuma pārvaldes institūciju un nesaņem no tās darba samaksu,\nb) personas, kuras veic individuālo darbu,\nc) kulta kalpotāji,\nd) personas, kuras saņem autoratlīdzību,\ne) personas, kuras saņem samaksu saskaņā ar graudniecības, uzņēmuma un pārvadājuma līgumiem,\nf) ārsti, advokāti, notāri un citas personas, kuras ir nodarbinātas un gūst ienākumus patstāvīgi;\n4) pašnodarbināto personu ģimenes locekļi — laulātais, vecāki, bērni un citi apgādājamie, kas sasnieguši 15 gadu vecumu un nemācās mācību iestādes dienas nodaļā un netiek nodarbināti šīs ģimenes individuālajā (ģimenes) uzņēmumā uz darba līguma pamata;\n5) valsts sociālās apdrošināšanas fonds — valsts pārvaldes institūcija, kas saskaņā ar likumu “ Par nodokļiem un nodevām ” ir sociālā nodokļa administrācija."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Vispārīgie noteikumi",
+      "content": "Sociālais nodoklis ir obligāts maksājums valsts speciālajā sociālās apdrošināšanas budžetā, kas rada sociāli apdrošinātās personas tiesības uz šādiem pakalpojumiem:\n1) vecuma pensiju;\n2) invaliditātes pensiju;\n3) apgādnieka zaudējuma pensiju;\n4) slimības pabalstu;\n5) maternitātes pabalstu;\n6) maksājumiem bezdarba gadījumā;\n7) apbedīšanas pabalstu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Sociālā nodokļa maksātāji",
+      "content": "Sociālo nodokli maksā:\n1) darba devēji — fiziskās vai juridiskās personas, kuras nodarbina darbiniekus un saskaņā ar likumu “ Par nodokļiem un nodevām ” uzskatāmas par rezidentiem;\n2) personas, kuras saskaņā ar likumu “ Par nodokļiem un nodevām ” uzskatāmas par rezidentiem un ir darba tiesiskajās attiecībās ar darba devēju — rezidentu;\n3) personas, kuras saskaņā ar likumu “ Par nodokļiem un nodevām ” uzskatāmas par rezidentiem un ir darba tiesiskajās attiecībās ar darba devēju — nerezidentu;\n4) pašnodarbinātās personas."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Sociālā nodokļa objekts",
+      "content": "(1) Ar sociālo nodokli apliekamais objekts ir sociāli apdrošinātās personas darba ienākums neatkarīgi no formas, kādā tas tiek saņemts, izņemot šā likuma 6. pantā minētos ar nodokli neapliekamos ienākumu veidus.\n(2) Ja sociāli apdrošinātā persona ir nodarbināta algotā darbā, tās darba ienākums ir jebkurš naudas maksājums un no darba devēja saņemta materiāla vērtība šā darbinieka personīgajām, ģimenes vai saimniecības vajadzībām, neņemot vērā jebkurus ieturējumus.\n(3) Personas, kuras gūst darba ienākumus ārpus darba tiesiskajām attiecībām ar darba devēju, pašas aprēķina šos ienākumus Ministru kabineta noteiktajā kārtībā. Šādā veidā aprēķinātie darba ienākumi nedrīkst pārsniegt Ministru kabineta noteikto sociālajai apdrošināšanai pakļauto gada ienākuma apmēru."
+    },
+    {
+      "provision_ref": "Art. 4.1",
+      "section": "4.1",
+      "title": "4. 1 pants. Darba devēju maksājumi par darbinieku brīvprātīgo apdrošināšanu",
+      "content": "Sociālā nodokļa objekts nav darba devēja samaksātās apdrošināšanas prēmijas par savu darbinieku dzīvības, veselības, nelaimes gadījumu apdrošināšanu, izņemot:\n1) darba devēja prēmiju maksājumus par dzīvības apdrošināšanu, noslēdzot apdrošināšanas līgumu par labu darbiniekam, ja šāds apdrošināšanas līgums tiek noslēgts uz termiņu, kas ir īsāks par pieciem gadiem, vai ja līguma darbības laikā vai to laužot apdrošinātājs veicis iemaksātās prēmijas pilnīgu vai daļēju izmaksu apdrošinātajai personai;\n2) darba devēja prēmiju maksājumus par veselības un nelaimes gadījumu apdrošināšanu, noslēdzot apdrošināšanas līgumu par labu darbiniekam, ja šāds apdrošināšanas līgums tiek noslēgts uz termiņu, kas ir īsāks par vienu gadu, Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Sociālā nodokļa likme",
+      "content": "(1) Sociālā nodokļa likme ir 33 procenti no nodokļa objekta.\n(2) Ja sociāli apdrošinātā persona ir nodarbināta algotā darbā, sociālo nodokli darba devējs un darbinieks (arī ierēdnis un ierēdņa kandidāts) maksā vienādās daļās.\n(3) Sociālā nodokļa maksājumu sadalījumu pa sociālās apdrošināšanas veidiem nosaka Ministru kabinets.\n(4) Ministru kabinets nosaka sociālajai apdrošināšanai pakļautā gada ienākuma apmēra robežas.\n(5) Šā panta pirmajā daļā noteiktajā likmē neieskaita sociālās apdrošināšanas maksājumus pret nelaimes gadījumiem darbā un arodslimībām."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Ar sociālo nodokli neapliekamie ienākumi",
+      "content": "Ar sociālo nodokli nav apliekami šādi ienākumi:\n1) likumos un citos normatīvajos aktos noteiktās valsts pensijas un izmaksas no likumos un citos normatīvajos aktos noteiktajā kārtībā reģistrētajiem pensiju fondiem;\n2) likumos un citos normatīvajos aktos noteiktie pabalsti, kas izmaksāti no valsts budžeta un pašvaldību budžetiem, kā arī Ministru kabineta noteiktajiem fondiem, ieskaitot pārejošas darba nespējas (slimības) pabalstus un maternitātes pabalstus;\n3) likumos un citos normatīvajos aktos noteiktā atlīdzība par aizbildņa pienākumu pildīšanu, kā arī uzturnauda aizbildnībā esošajiem bērniem;\n4) kompensācijas izmaksas Saeimas vai Ministru kabineta noteikto normu ietvaros, izņemot kompensāciju par neizmantoto atvaļinājumu atlaišanas gadījumā;\n5) atlaišanas pabalsts, kas tiek izmaksāts saskaņā ar Latvijas Darba likumu kodeksa 37.pantu ;\n6) atlīdzība par veselībai nodarītu kaitējumu, ja tā rezultātā iestājies darbspēju zudums;\n7) stipendijas, kas normatīvajos aktos noteiktajā apmērā tiek izmaksātas mācību iestāžu audzēkņiem;\n8) autoratlīdzība, kas izmaksāta likumā “Par autortiesībām un blakustiesībām” paredzētajos gadījumos;\n9) palīdzība stihiskas nelaimes gadījumā vai citos ārkārtējos gadījumos, ja to sniedz, pamatojoties uz valsts vai pašvaldību pārvaldes institūciju lēmumiem;\n10) atlīdzība par asins nodošanu vai cita veida donorpalīdzību;\n11) darbinieka vai viņa radinieka nāves gadījumā darba devēja piešķirtais apbedīšanas pabalsts, kura vērtība nepārsniedz 150 latus;\n12) ienākumi, kas pārsniedz Ministru kabineta noteiktā sociālajai apdrošināšanai pakļautā gada ienākuma apmēra robežas."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Sociālā nodokļa maksātāju reģistrācija",
+      "content": "(1) Šā likuma 3.panta 1.,3. un 4.punktā minētie sociālā nodokļa maksātāji tiek reģistrēti Valsts sociālās apdrošināšanas fonda Darba devēju reģistrā, izmantojot Valsts ieņēmumu dienesta Nodokļu maksātāju reģistra datu bāzi.\n(2) Valsts ieņēmumu dienests 10 dienu laikā pēc maksātāja reģistrācijas sniedz Valsts sociālās apdrošināšanas fondam nepieciešamo informāciju Ministru kabineta noteiktajā kārtībā.\n(3) Reģistrācija notiek rajona (republikas pilsētas) sociālās apdrošināšanas pārvaldē pēc sociālā nodokļa maksātāja atrašanās vietas.\n(4) Juridiskās personas tiek reģistrētas pēc to juridiskās adreses, fiziskās personas — pēc pastāvīgās dzīvesvietas adreses.\n(5) Personas, kas ir darba tiesiskajās attiecībās ar darba devēju (darbinieki), tiek reģistrētas Valsts sociālās apdrošināšanas fonda rajona (republikas pilsētas) sociālās apdrošināšanas pārvaldē pēc darba devēja atrašanās vietas (juridiskās personas — pēc to juridiskās adreses, fiziskās personas — pēc pastāvīgās dzīvesvietas adreses) ar darba devēja starpniecību 10 dienu laikā pēc darba līguma noslēgšanas.\n(6) Sociālās apdrošināšanas pārvalde reģistrētajiem sociālā nodokļa maksātājiem izsniedz paziņojumu, kurā ietveramo informāciju nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Kārtība, kādā aprēķina sociālo nodokli un izdara maksājumus par darbiniekiem",
+      "content": "(1) Darba devēji aprēķina sociālo nodokli atbilstoši katra darbinieka darba ienākumam.\n(2) Darba devēji sociālā nodokļa ieturēšanu un maksājumus par visiem darbiniekiem izdara reizi mēnesī termiņos, kuri uzrādīti paziņojumā, kas izsniegts saskaņā ar šā likuma 7.panta sestās daļas noteikumiem.\n(3) Pārskaitot sociālā nodokļa maksājuma summas no darba devēja konta valsts speciālajā sociālās apdrošināšanas budžetā, par maksājuma dienu uzskata dienu, kad banka norakstījusi maksājumu no darba devēja konta."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Sociālā nodokļa maksāšanas kārtība un termiņi pašnodarbinātajām personām",
+      "content": "(1) Pašnodarbinātās personas maksā sociālo nodokli par sevi un par savā saimniecībā vai uzņēmumā nodarbinātajiem savas ģimenes locekļiem.\n(2) Sociālā nodokļa summa par gada ceturksni (trim mēnešiem) jānomaksā līdz 15.datumam ceturksnim sekojošā mēnesī."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Sociālā nodokļa maksāšanas kārtība un termiņi fiziskajām personām — rezidentiem, kuras ir darba tiesiskajās attiecībās ar darba devēju — nerezidentu",
+      "content": "Fiziskās personas — rezidenti, kuras ir darba tiesiskajās attiecībās ar darba devēju — nerezidentu, kārto sociālā nodokļa maksājumus šā likuma 9.panta otrajā daļā noteiktajā kārtībā un termiņos."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Valsts sociālās apdrošināšanas fonda pienākumi",
+      "content": "(1) Valsts sociālās apdrošināšanas fonds uzskaita sociālā nodokļa maksājumus par katru sociāli apdrošināto personu.\n(2) Sociālā nodokļa maksājumi reģistrējami sociāli apdrošināto personu kontos tikai pēc maksājumu apliecinošu dokumentu saņemšanas.\n(3) Visi uzskaitītie sociālā nodokļa maksājumi par katru sociāli apdrošināto personu tiek summēti.\n(4) Valsts sociālās apdrošināšanas fonds reizi gadā Ministru kabineta noteiktajos termiņos izsūta katrai sociāli apdrošinātajai personai paziņojumu par tās apdrošināšanas konta stāvokli.\n(5) Sociāli apdrošināto personu kontu identificēšanai izmantojams saskaņā ar likumu “Par Iedzīvotāju reģistru” piešķirtais personas kods.\n(6) Valsts sociālās apdrošināšanas fonds pārņem un apsaimnieko privatizēto valsts uzņēmumu pensiju fondam nodotās kapitāla daļas. Darbības ar šīm nodotajām kapitāla daļām, apsaimniekošanas un līdzekļu izmantošanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Pārmaksāto sociālā nodokļa summu atmaksāšana",
+      "content": "(1) Gada laikā pārmaksātās sociālā nodokļa summas Valsts sociālās apdrošināšanas fonds atmaksā sociālā nodokļa maksātājam divu mēnešu laikā pēc gada pēdējā pārskata perioda beigām vai — ar maksātāja piekrišanu — ieskaita nākamo periodu sociālā nodokļa maksājumos.\n(2) Ja sociālā nodokļa maksātājs izbeidz savu darbību saskaņā ar spēkā esošajiem likumdošanas aktiem, pārmaksātās sociālā nodokļa summas tiek atmaksātas triju mēnešu laikā pēc tam, kad pieņemts lēmums par darbības izbeigšanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Sociālā nodokļa maksātāju pienākumi",
+      "content": "(1) Darba devēja pienākums ir iesniegt ziņojumu Valsts sociālās apdrošināšanas fondam par:\n1) darba tiesisko attiecību uzsākšanu;\n2) darba tiesisko attiecību izbeigšanu;\n3) katras sociāli apdrošinātās personas sociālā nodokļa maksājumiem.\n(2) Ziņojumu formu, tajos ietveramo informāciju un iesniegšanas termiņu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Atbildība par šā likuma pārkāpšanu",
+      "content": "(1) Nokavēto sociālā nodokļa maksājumu (arī soda naudu) summa (pamatparāds) tiek palielināta atbilstoši Latvijas Bankas noteiktajai refinansēšanas likmei nokavējuma periodā.\n(2) Par sociālā nodokļa maksājumu nokavējumu no maksātāja tiek piedzīta nokavējuma nauda — no laikā nenomaksātā pamatparāda 0,1 procents par katru nokavēto dienu.\n(3) Termiņā nenomaksāto sociālo nodokli, soda naudu un nokavējuma naudu piedzen bezstrīdus kārtībā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Valsts sociālās apdrošināšanas fonda materiālais nodrošinājums",
+      "content": "(1) Valsts sociālās apdrošināšanas fonda darbības attīstībai un veicināšanai saskaņā ar Ministru kabineta noteikumiem izmanto 20 procentus no soda naudas, pamatparāda palielinājuma un nokavējuma naudas, kas:\n1) papildus aprēķināta veikto pārbaužu, revīziju un kontroles darba rezultātā;\n2) ieskaitīta valsts speciālajā sociālās apdrošināšanas budžetā pēc tiesas spriedumiem, kas taisīti lietās, kurās prasītājs ir Valsts sociālās apdrošināšanas fonds.\n(2) Šie līdzekļi ieskaitāmi Labklājības ministrijas Valsts sociālās apdrošināšanas fonda valsts speciālajā budžetā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Līdz Valsts ieņēmumu dienesta Nodokļu maksātāju reģistra izveidošanai un tā darbības uzsākšanai šā likuma 3.panta 1.punktā minētie sociālā nodokļa maksātāji tiek reģistrēti ar Labklājības ministrijas noteikto reģistrācijas numuru.",
+      "content": "1. Līdz Valsts ieņēmumu dienesta Nodokļu maksātāju reģistra izveidošanai un tā darbības uzsākšanai šā likuma 3.panta 1.punktā minētie sociālā nodokļa maksātāji tiek reģistrēti ar Labklājības ministrijas noteikto reģistrācijas numuru."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Līdz likuma par sociālo apdrošināšanu pieņemšanai:",
+      "content": "1) sociālais nodoklis uzskatāms par sociālās apdrošināšanas iemaksu;\n2) iepriekšējā gada sociālā nodokļa ieņēmumu pārsniegums pār sociālās apdrošināšanas izdevumiem tiek ieskaitīts nākamā gada valsts speciālā sociālās apdrošināšanas budžeta ieņēmumos un tiek izmantots saskaņā ar Saeimā apstiprināto ikgadējo valsts speciālo sociālās apdrošināšanas budžetu."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Šā likuma 5.panta pirmā un otrā daļa stājas spēkā ar 2001.gada 1.janvāri.",
+      "content": "( 08.02.1996 . likuma redakcijā, kas stājas spēkā 05.03.1996. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Līdz 5.panta pirmās daļas spēkā stāšanās dienai sociālā nodokļa likme ir šāda:",
+      "content": "ar 1996.gada 1.janvāri — 38 procenti no nodokļa objekta;\nar 1997.gada 1.janvāri — 37 procenti no nodokļa objekta;\nar 1998.gada 1.janvāri — 36 procenti no nodokļa objekta;\nar 1999.gada 1.janvāri — 35 procenti no nodokļa objekta;\nar 2000.gada 1.janvāri — 34 procenti no nodokļa objekta."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Līdz 5.panta pirmās daļas spēkā stāšanās dienai proporcija, kādā sociālo nodokli maksā darba devējs un darbinieks (arī ierēdnis un ierēdņa kandidāts), ir šāda:",
+      "content": "ar 1996.gada 1.janvāri 37 procentus maksā darba devējs, 1 procentu — darbinieks;\nar 1996.gada 1.jūliju 33 procentus maksā darba devējs, 5 procentus — darbinieks;\nar 1997.gada 1.janvāri 28 procentus maksā darba devējs, 9 procentus — darbinieks;\nar 1998.gada 1.janvāri 25 procentus maksā darba devējs, 11 procentus — darbinieks;\nar 1999.gada 1.janvāri 23 procentus maksā darba devējs, 12 procentus — darbinieks;\nar 2000.gada 1.janvāri 20 procentus maksā darba devējs, 14 procentus — darbinieks;\nar 2001.gada 1.janvāri 18 procentus maksā darba devējs, 15 procentus — darbinieks."
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Par personām, kuras nodarbinātas lauksaimniecībā un veic pašu ražotās lauksaimniecības produkcijas pārstrādi (turpmāk — lauksaimniecībā nodarbinātās personas), līdz 1997.gada 1.janvārim sociālo nodokli maksā darba devējs un darbinieks, kā arī par šīm personām tiek veikti maksājumi no valsts pamatbudžetā paredzētajiem līdzekļiem šādā proporcijā:",
+      "content": "ar 1996.gada 1.janvāri 22 procentus maksā darba devējs, 1 procentu — darbinieks, 15 procentus veido maksājumi no valsts pamatbudžeta;\nar 1996.gada 1.jūliju 18 procentus maksā darba devējs, 5 procentus — darbinieks, 15 procentus veido maksājumi no valsts pamatbudžeta."
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Kārtību, kādā izdarāmi sociālā nodokļa maksājumi no valsts budžeta, nosaka Ministru kabinets.",
+      "content": "( 08.02.1996 . likuma redakcijā, kas stājas spēkā 05.03.1996. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Līdz laikam, kamēr turpināsies apdrošināšanas stāža noteikšana, kas dod tiesības uz izdienas pensiju saskaņā ar nolikumu “Par izdienas pensijām” un nolikumu “Par iekšlietu ierindas un komandējošā sastāva darbinieku pensijām (darba devēju pensijām)”, sociālā nodokļa likme personai (par personu), kurai ir tiesības saņemt izdienas pensiju, ir:",
+      "content": "1) 51 procents no nodokļa objekta, ja tiesības uz izdienas pensiju iegūst ar apdrošināšanas stāžu līdz 20 gadiem (ieskaitot). Proporcija, kādā sociālo nodokli maksā darba devējs un darbinieks, ir šāda:\nar 1996.gada 1.janvāri 50 procentus maksā darba devējs : 1 procentu — darbinieks;\nar 1996.gada 1.jūliju 43 procentus maksā darba devējs : 8 procentus — darbinieks;\nar 1997.gada 1.jūliju 42 procentus maksā darba devējs : 9 procentus — darbinieks;\nar 1998.gada 1.jūliju 40 procentus maksā darba devējs : 11 procentus — darbinieks;\nar 1999.gada 1.jūliju 39 procentus maksā darba devējs : 12 procentus — darbinieks;\nar 2000.gada 1.jūliju 37 procentus maksā darba devējs : 14 procentus — darbinieks;\nar 2001.gada 1.jūliju 36 procentus maksā darba devējs : 15 procentus — darbinieks;\n2) 43 procenti no nodokļa objekta, ja tiesības uz izdienas pensiju iegūst ar apdrošināšanas stāžu, kas nav mazāks par 25 gadiem. Proporcija, kādā sociālo nodokli maksā darba devējs un darbinieks, ir šāda:\nar 1996.gada 1.janvāri 42 procentus maksā darba devējs : 1 procentu — darbinieks;\nar 1996.gada 1.jūliju 35 procentus maksā darba devējs : 8 procentus — darbinieks;\nar 1997.gada 1.jūliju 34 procentus maksā darba devējs : 9 procentus — darbinieks;\nar 1998.gada 1.jūliju 32 procentus maksā darba devējs : 11 procentus — darbinieks;\nar 1999.gada 1.jūliju 31 procentus maksā darba devējs : 12 procentus — darbinieks;\nar 2000.gada 1.jūliju 29 procentus maksā darba devējs : 14 procentus — darbinieks;\nar 2001.gada 1.jūliju 28 procentus maksā darba devējs : 15 procentus — darbinieks."
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Ar šā likuma spēkā stāšanos spēku zaudē likums “Par sociālo nodokli” (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 3., 21. un 29.nr.).",
+      "content": "(Ar grozījumiem, kas izdarīti ar 08.02.1996 . likumu, kas stājas spēkā 05.03.1996. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. Līdz 1996.gada l.jūlijam Ministru kabinets apstiprina to lauksaimniecībā nodarbināto personu (arī pašnodarbināto personu) sarakstu, uz kurām attiecas likuma pārejas noteikumu 6.punkts.",
+      "content": "( 05.06.1996 . likuma redakcijā, kas stājas spēkā 05.07.1996. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "section": "pn11",
+      "title": "11. Fiziskā persona, par kuru darba devējs nav samaksājis aprēķināto sociālo nodokli attiecīgā uzņēmuma bankrota vai likvidācijas dēļ, var to samaksāt likuma “Par sociālo nodokli” 9.panta noteiktajā kārtībā.",
+      "content": "( 08.02.1996 . likuma redakcijā, kas stājas spēkā 05.03.1996. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "section": "pn12",
+      "title": "12. Ja sociālā nodokļa maksājuma parāds (pamatparāds, pamatparāda palielinājums, nokavējuma nauda), kas radies līdz 1996.gada 1.janvārim, tiek dzēsts saskaņā ar likuma \" Par nodokļiem un nodevām \" 25.pantu , šā parāda dzēšanai ir tādas pašas juridiskās sekas kā šā parāda nomaksai.",
+      "content": "( 05.06.1996 . likuma redakcijā, kas stājas spēkā 05.07.1996. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "section": "pn13",
+      "title": "13. Lauksaimniecības statūtsabiedrībām, kuru likvidācija tiek pabeigta un kuru nodokļu parādi tiek dzēsti Ministru kabineta noteiktajā kārtībā un atbilstoši Ministru kabineta apstiprinātajam lauksaimniecības statūtsabiedrību sarakstam, saskaņā ar likuma “ Par nodokļiem un nodevām ” pārejas noteikumu 16.punktu tā sociālā nodokļa maksājuma parāda dzēšanai, kas izveidojies līdz 1996.gada 1.janvārim, ir tādas pašas juridiskās sekas kā šā parāda samaksai.",
+      "content": "( 04.12.1997 . likuma redakcijā, kas stājas spēkā 30.12.1997. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "sociāli apdrošinātā persona",
+      "definition": "persona (darbinieks",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas stāžs",
+      "definition": "periods, par kuru persona pati ir izdarījusi vai par to ir izdarīti sociālā nodokļa maksājumi (persona pati ir izdarījusi un par to ir izdarīti sociālā nodokļa maksājumi), kā arī likumā “Par valsts pensijām” noteiktie periodi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pašnodarbināto personu ģimenes locekļi",
+      "definition": "laulātais, vecāki, bērni un citi apgādājamie, kas sasnieguši 15 gadu vecumu un nemācās mācību iestādes dienas nodaļā un netiek nodarbināti šīs ģimenes individuālajā (ģimenes) uzņēmumā uz darba līguma pamata",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts sociālās apdrošināšanas fonds",
+      "definition": "valsts pārvaldes institūcija, kas saskaņā ar likumu “ Par nodokļiem un nodevām ” ir sociālā nodokļa administrācija.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

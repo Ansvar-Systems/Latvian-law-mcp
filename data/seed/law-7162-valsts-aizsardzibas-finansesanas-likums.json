@@ -1,0 +1,24 @@
+{
+  "id": "lv-law-7162",
+  "type": "statute",
+  "title": "Valsts aizsardzības finansēšanas likums",
+  "short_name": "TA-7162",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/7162-valsts-aizsardzibas-finansesanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "1.pants",
+      "content": "Likuma mērķis ir noteikt finansējuma apjomu valsts aizsardzībai, drošībai un integrācijai Ziemeļatlantijas līguma organizācijā (turpmāk — NATO), lai nodrošinātu Nacionālo bruņoto spēku ilglaicīgas attīstības plānošanas sistēmu un veicinātu Latvijas valsts aizsardzības spēju mērķtiecīgu paaugstināšanu, kas būtu virzīta uz NATO standartu ieviešanu, tādējādi radot reālu pamatu Latvijas integrācijai Eiropas un transatlantiskajās drošības struktūrās, kas ir Latvijas ārpolitikas un drošības politikas prioritāte."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "2.pants",
+      "content": "Ministru kabinets, izstrādājot valsts budžeta projektu kārtējam gadam, paredz valsts aizsardzībai, drošībai un integrācijai NATO šādu finansējuma apjomu:\n1) 2002.gadā — 1,75 procentus no iekšzemes kopprodukta;\n2) no 2003. līdz 2012.gadam (ieskaitot) — 2 procentus no iekšzemes kopprodukta."
+    }
+  ],
+  "definitions": []
+}

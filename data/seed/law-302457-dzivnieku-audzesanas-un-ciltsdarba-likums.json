@@ -1,0 +1,161 @@
+{
+  "id": "lv-law-302457",
+  "type": "statute",
+  "title": "Dzīvnieku audzēšanas un ciltsdarba likums",
+  "title_en": "Law On Animal Production And Breeding",
+  "short_name": "TA-302457",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/302457-dzivnieku-audzesanas-un-ciltsdarba-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) apdraudēta šķirne :\na) attiecībā uz liellopiem, cūkām, aitām, kazām, zirgiem — šķirne Eiropas Parlamenta un Padomes 2016. gada 8. jūnija regulas (ES) 2016/1012 par zootehniskajiem un ģenealoģiskajiem nosacījumiem dzīvnieku audzēšanai, tīršķirnes vaislas dzīvnieku, krustojuma vaislas cūku un to reproduktīvo produktu tirdzniecībai Savienībā un ievešanai tajā, un ar ko groza regulu (ES) Nr. 652/2014 , Padomes direktīvas 89/608/EEK un 90/425/EEK un atceļ konkrētus aktus dzīvnieku audzēšanas jomā (Dzīvnieku audzēšanas regula) (Dokuments attiecas uz EEZ) (turpmāk — regula Nr. 2016/1012 ) 2. panta 24. punkta izpratnē,\nb) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šā punkta \"a\" apakšpunktā, un mājas (istabas) dzīvniekiem — vietējā šķirne, kura ģenētiski pielāgojusies videi un vienai vai vairākām Latvijā tradicionālajām audzēšanas sistēmām un kurai apdraudētas šķirnes statusu ar zinātnisku pamatojumu piešķīrusi iestāde, kam ir nepieciešamās prasmes un zināšanas apdraudēto dzīvnieku šķirņu jomā;\n2) audzēšanas programma :\na) attiecībā uz liellopiem, cūkām, aitām, kazām, zirgiem — programma regulas Nr. 2016/1012 2. panta 26. punkta izpratnē,\nb) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šā punkta \"a\" apakšpunktā, un mājas (istabas) dzīvniekiem — sistemātisku darbību, tostarp dzīvnieku un to reproduktīvo produktu dokumentēšanas, selekcijas, audzēšanas un apmaiņas, kopums, kas izstrādāts un īstenots, lai saglabātu vai uzlabotu vēlamās fenotipiskās un genotipiskās īpašības vaislas dzīvnieku mērķpopulācijā;\n3) ciltsdarbs :\na) attiecībā uz lauksaimniecības dzīvniekiem — tāds saskaņā ar audzēšanas programmu īstenojams zootehnisko pasākumu kopums dzīvnieku ģenētisko un saimnieciski derīgo īpašību izkopšanai, kurā ietilpst pareiza uzskaite, snieguma pārbaude, izlase, atlase un ģenētiskās kvalitātes noteikšana,\nb) attiecībā uz mājas (istabas) dzīvniekiem — tāds saskaņā ar šķirnes standartu un ciltsdarba nolikumu vai — vietējām šķirnēm — saskaņā ar audzēšanas programmu īstenojams zootehnisko pasākumu kopums dzīvnieku ģenētisko un saimnieciski derīgo īpašību izkopšanai, kurā ietilpst pareiza uzskaite, dzīvnieku vērtēšana, darbspēju pārbaude un atlase;\n4) lauksaimniecības dzīvnieki — liellopu, cūku, aitu, kazu, zirgu, kažokzvēru, trušu, mājputnu, medus bišu (Apis mellifera L. ) un citu sugu dzīvnieki, kurus audzē un tur dzīvnieku izcelsmes produktu iegūšanai, izņemot akvakultūras dzīvniekus;\n5) mājas (istabas) dzīvnieki — suņi, kaķi, mājas (istabas) seski;\n6) pārraudzība — process, kas nodrošina kvantitatīvus un kvalitatīvus datus par lauksaimniecības dzīvnieku un tā produktivitāti un šo datu reģistrēšanu;\n7) snieguma pārbaude — process audzēšanas programmas īstenošanai, kas nodrošina kvantitatīvus un kvalitatīvus datus par lauksaimniecības dzīvnieku, tā produktivitāti, eksterjeru, kā arī citus ģenētiskās kvalitātes noteikšanai nepieciešamos datus un šo datu reģistrēšanu;\n8) tīršķirnes mājas (istabas) dzīvnieks — mājas (istabas) dzīvnieks, kas atbilst sugas vai šķirnes standartā un ciltsdarba nolikumā vai — vietējām šķirnēm — audzēšanas programmā noteiktajām prasībām;\n9) tīršķirnes vaislas lauksaimniecības dzīvnieks :\na) liellops, cūka, aita, kaza, zirgs regulas Nr. 2016/1012 2. panta 9. punkta izpratnē,\nb) pārējie lauksaimniecības dzīvnieki, kas nav minēti šā punkta \"a\" apakšpunktā un kas atbilst audzēšanas programmā noteiktajām prasībām;\n10) vaislas materiāls — lauksaimniecības dzīvnieka reproduktīvie produkti: sperma, olšūna vai embrijs;\n11) vietējā šķirne — Latvijā izveidota lauksaimniecības vai mājas (istabas) dzīvnieku šķirne ar kultūrvēsturisku, zinātnisku vai saimniecisku vērtību;\n12) virspārraudzība — individuālās lauksaimniecības dzīvnieku snieguma pārbaudes un pārraudzības sistēmas sastāvdaļa, kuras ietvaros tiek pārbaudīta dzīvnieku snieguma pārbaudes, pārraudzības un izcelsmes datu ticamība;\n13) zootehniskais sertifikāts :\na) attiecībā uz liellopiem, cūkām, aitām, kazām, zirgiem — sertifikāts regulas Nr. 2016/1012 2. panta 20. punkta izpratnē,\nb) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šā punkta \"a\" apakšpunktā, — tīršķirnes vaislas lauksaimniecības dzīvnieka, tā vaislas materiāla izcelšanos un ciltsvērtību apliecinošs dokuments;\n14) šķirnes lauksaimniecības dzīvnieku audzētāju biedrība :\na) attiecībā uz liellopiem, cūkām, aitām, kazām, zirgiem — šķirnes dzīvnieku audzētāju biedrība regulas Nr. 2016/1012 2. panta 5. punkta izpratnē,\nb) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šā punkta \"a\" apakšpunktā, — komersants, kooperatīvā sabiedrība, biedrība vai nodibinājums, kas nodarbojas ar noteiktas lauksaimniecības dzīvnieku sugas, šķirnes vai līnijas izkopšanu un selekciju;\n15) šķirnes mājas (istabas) dzīvnieku audzētāju organizācija — komersants, kooperatīvā sabiedrība, biedrība vai nodibinājums, kas nodarbojas ar noteiktas mājas (istabas) dzīvnieku sugas vai šķirnes izkopšanu un selekciju.\n(2) Termins \"akvakultūras dzīvnieks\" šajā likumā lietots Veterinārmedicīnas likuma izpratnē, bet termins \"krustojuma cūku audzētāju organizācija\" — regulas Nr. 2016/1012 2. panta 6. punkta izpratnē."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt dzīvnieku audzēšanas un ciltsdarba attīstību valstī, lai:\n1) veicinātu lopkopības ilgtspējīgu attīstību, sekmētu kvalitatīvu ganāmpulku izaudzēšanu un ekonomisku lopkopības produkcijas ražošanu;\n2) saglabātu un uzlabotu lauksaimniecības dzīvnieku produktivitāti un konkurētspēju, sekmējot augstražīgu ganāmpulku veidošanu;\n3) saglabātu un aizsargātu dzīvnieku šķirņu daudzveidību, tostarp vietējās šķirnes kā nacionālo vērtību;\n4) veicinātu augstvērtīgu mājas (istabas) dzīvnieku iegūšanu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums attiecas uz fiziskajām un juridiskajām personām, kas veic ciltsdarbu un nodarbojas ar lauksaimniecības dzīvnieku, mājas (istabas) dzīvnieku un akvakultūras dzīvnieku audzēšanu, kā arī uz valsts pārvaldes iestādēm, kas pilda ar dzīvnieku audzēšanu un ciltsdarbu saistītus uzdevumus.\n(2) Dzīvnieku audzēšanas un ciltsdarba jautājumus, kas nav regulēti šajā likumā, nosaka regula Nr. 2016/1012 un citi tieši piemērojamie Eiropas Savienības tiesību akti."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Zemkopības ministrijas kompetence",
+      "content": "Zemkopības ministrija koordinē:\n1) vienotu dzīvnieku audzēšanas un ciltsdarba stratēģiju;\n2) finansējuma piesaisti dzīvnieku audzēšanai un ciltsdarbam;\n3) apdraudēto šķirņu saglabāšanu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Lauku atbalsta dienesta kompetence",
+      "content": "(1) Lauku atbalsta dienests:\n1) attiecībā uz liellopiem, cūkām, aitām, kazām un zirgiem ir kompetentā iestāde, kas pilda regulas Nr. 2016/1012 2. panta 8. punkta \"a\" un \"d\" apakšpunktā noteiktos uzdevumus;\n2) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šīs daļas 1. punktā :\na) atzīst šķirnes lauksaimniecības dzīvnieku audzētāju biedrības, kā arī apstiprina to izstrādātās audzēšanas programmas un grozījumus tajās,\nb) uztur un dara publiski pieejamus šķirnes lauksaimniecības dzīvnieku audzētāju biedrību sarakstus,\nc) ja šķirnes lauksaimniecības dzīvnieku audzētāju biedrības darbība neatbilst normatīvajos aktos par dzīvnieku audzēšanu un ciltsdarbu noteiktajām prasībām, īsteno vienu vai vairākas šādas darbības:\n— pieprasa, lai vaislas lauksaimniecības dzīvnieki un to reproduktīvie produkti netiek izmantoti ciltsdarbā,\n— pieprasa, lai šķirnes lauksaimniecības dzīvnieku audzētāju biedrība aptur zootehnisko sertifikātu izsniegšanu,\n— aptur vai atsauc šķirnes lauksaimniecības dzīvnieku audzētāju biedrības īstenotās audzēšanas programmas apstiprinājumu, ja šīs biedrības darbības atkārtoti, pastāvīgi vai kopumā neatbilst tās izstrādātās audzēšanas programmas prasībām,\n— atsauc šķirnes lauksaimniecības dzīvnieku audzētāju biedrības atzīšanu, ja šīs biedrības darbības atkārtoti, pastāvīgi vai kopumā neatbilst normatīvajos aktos par dzīvnieku audzēšanu un ciltsdarbu noteiktajām prasībām vai šī biedrība neatbilst šķirnes lauksaimniecības dzīvnieku audzētāju biedrības atbilstības kritērijiem;\n3) attiecībā uz šīs daļas 1. un 2. punktā minētajiem lauksaimniecības dzīvniekiem un akvakultūras dzīvniekiem:\na) uztur, kārto un uzrauga vienoto elektronisko uzraudzības sistēmu, kurā ietilpst lauksaimniecības dzīvnieku un akvakultūras dzīvnieku, to īpašnieku, ganāmpulku un novietņu reģistrs,\nb) piešķir identifikācijas numurus valstī audzējamiem lauksaimniecības dzīvniekiem,\nc) uztur, kārto un uzrauga lauksaimniecības dzīvnieku ciltsdarba, snieguma pārbaudes un pārraudzības informācijas datubāzi, ja tas noteikts dzīvnieku audzēšanu un ciltsdarbu regulējošos normatīvajos aktos,\nd) veic virspārraudzību, ja tas noteikts attiecīgās sugas lauksaimniecības dzīvnieku snieguma pārbaudi un pārraudzību regulējošos normatīvajos aktos,\ne) izsniedz fiziskajām personām šā likuma 14. panta pirmajā, otrajā, trešajā un ceturtajā daļā minētos sertifikātus un apliecības,\nf) uztur, kārto un uzrauga ciltsdarbā iesaistīto personu reģistru normatīvajos aktos par ciltsdarbu noteiktajā kārtībā,\ng) uztur un kārto lauksaimniecības dzīvnieku, to īpašnieku, ganāmpulku, novietņu arhīvu un ciltsdarba arhīvu,\nh) apstiprina un reģistrē jaunas lauksaimniecības dzīvnieku šķirnes,\ni) ja šā likuma 14. panta pirmajā, otrajā, trešajā vai ceturtajā daļā minētās fiziskās personas darbība neatbilst normatīvajiem aktiem par dzīvnieku audzēšanu un ciltsdarbu, uz laiku līdz pārkāpumu novēršanai aptur tai izsniegtā sertifikāta vai apliecības darbību vai, konstatējot būtisku pārkāpumu, anulē izsniegto sertifikātu vai atsauc apliecību;\n4) attiecībā uz mājas (istabas) dzīvniekiem:\na) reģistrē šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas,\nb) atzīst šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas, kas īsteno vietējo šķirņu mājas (istabas) dzīvnieku audzēšanas programmu, kā arī apstiprina to izstrādāto audzēšanas programmu un grozījumus tajā,\nc) uztur un dara publiski pieejamus šķirnes mājas (istabas) dzīvnieku audzētāju organizāciju sarakstus,\nd) ja šķirnes mājas (istabas) dzīvnieku audzētāju organizācija ir pārkāpusi normatīvajos aktos par ciltsdarbu noteiktās prasības, uz laiku aptur šīs organizācijas darbību vai izslēdz to no šķirnes mājas (istabas) dzīvnieku audzētāju organizāciju reģistra,\ne) ja šķirnes mājas (istabas) dzīvnieku audzētāju organizācija, kas īsteno vietējās šķirnes mājas (istabas) dzīvnieku audzēšanas programmu, ir pārkāpusi normatīvajos aktos par ciltsdarbu noteiktās prasības, īsteno vienu vai vairākas šādas darbības:\n— aptur vai atsauc šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas īstenotās audzēšanas programmas apstiprinājumu, ja šīs organizācijas darbības atkārtoti, pastāvīgi vai kopumā neatbilst tās izstrādātās audzēšanas programmas prasībām,\n— atsauc šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas atzīšanu, ja šīs organizācijas darbības atkārtoti, pastāvīgi vai kopumā neatbilst normatīvajos aktos par ciltsdarbu noteiktajām prasībām vai šī organizācija neatbilst šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas atbilstības kritērijiem.\n(2) Ministru kabinets nosaka:\n1) šķirnes lauksaimniecības dzīvnieku audzētāju biedrības un krustojuma cūku audzētāju organizācijas atbilstības kritērijus, atzīšanas un atzīšanas atsaukšanas kārtību, kā arī audzēšanas programmas apstiprināšanas, apstiprinājuma apturēšanas un atsaukšanas kārtību;\n2) šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas reģistrēšanas kārtību;\n3) to šķirnes mājas (istabas) dzīvnieku audzētāju organizāciju atbilstības kritērijus, atzīšanas un atzīšanas atsaukšanas kārtību, kuras īsteno vietējās šķirnes mājas (istabas) dzīvnieku audzēšanas programmu, kā arī vietējās šķirnes mājas (istabas) dzīvnieku audzēšanas programmas apstiprināšanas, apstiprinājuma apturēšanas un atsaukšanas kārtību;\n4) lauksaimniecības dzīvnieku šķirnes apstiprināšanas un reģistrēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Pārtikas un veterinārā dienesta kompetence",
+      "content": "(1) Šā likuma un citu ar dzīvnieku audzēšanu un ciltsdarbu saistīto normatīvo aktu ievērošanu uzrauga un kontrolē Pārtikas un veterinārais dienests.\n(2) Pārtikas un veterinārais dienests:\n1) attiecībā uz liellopiem, cūkām, aitām, kazām un zirgiem ir kompetentā iestāde, kas pilda regulas Nr. 2016/1012 2. panta 8. punkta \"b\" un \"c\" apakšpunktā noteiktos uzdevumus;\n2) attiecībā uz pārējiem lauksaimniecības dzīvniekiem, kas nav minēti šīs daļas 1. punktā , un mājas (istabas) dzīvniekiem:\na) kontrolē fiziskās un juridiskās personas, kas nodarbojas ar lauksaimniecības un mājas (istabas) dzīvnieku audzēšanu un ciltsdarbu, tostarp lauksaimniecības dzīvnieku īpašniekus, šķirnes lauksaimniecības dzīvnieku audzētāju biedrības un šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas,\nb) sagatavo kontroles plānu un saskaņā ar to regulāri uzrauga šā punkta \"a\" apakšpunktā minētās personas;\n3) attiecībā uz šīs daļas 1. un 2. punktā minētajiem lauksaimniecības dzīvniekiem, akvakultūras dzīvniekiem un mājas (istabas) dzīvniekiem:\na) kontrolē šā likuma 14. panta pirmajā, otrajā, trešajā un ceturtajā daļā minētās personas, kā arī spermas, olšūnu un embriju apritē iesaistītās personas un pieprasa no tām dokumentus un informāciju,\nb) informē Lauku atbalsta dienestu par šajā pantā minēto personu darbībā konstatētajiem pārkāpumiem."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Latvijas Biozinātņu un tehnoloģiju universitātes kompetence",
+      "content": "(1) Latvijas Biozinātņu un tehnoloģiju universitāte piešķir vietējai šķirnei apdraudētas šķirnes statusu un savā tīmekļvietnē publicē apdraudēto šķirņu sarakstu.\n(2) Latvijas Biozinātņu un tehnoloģiju universitāte uztur lauksaimniecības dzīvnieku un vietējo šķirņu mājas (istabas) dzīvnieku gēnu banku bioloģiskās daudzveidības nodrošināšanai. Kārtību, kādā uztur lauksaimniecības dzīvnieku un vietējo šķirņu mājas (istabas) dzīvnieku gēnu banku, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Šķirnes lauksaimniecības dzīvnieku audzētāju biedrības un krustojuma cūku audzētāju organizācijas kompetence",
+      "content": "(1) Šķirnes lauksaimniecības dzīvnieku audzētāju biedrība, kas minēta šā likuma 1. panta 14. punkta \"a\" apakšpunktā, un krustojuma cūku audzētāju organizācija:\n1) pilda regulā Nr. 2016/1012 noteiktos uzdevumus;\n2) sertificē vaisliniekus un vaislas materiālu, kas atbilst audzēšanas programmā noteiktajiem kritērijiem.\n(2) Šķirnes lauksaimniecības dzīvnieku audzētāju biedrība, kas minēta šā likuma 1. panta 14. punkta \"b\" apakšpunktā, pilda šādus ar ciltsdarbu saistītus uzdevumus:\n1) izstrādā un īsteno lauksaimniecības dzīvnieku sugu vai šķirņu, vai līniju audzēšanas programmas;\n2) kārto vaislas dzīvnieku reģistru;\n3) izsniedz zootehnisko sertifikātu tīršķirnes vaislas lauksaimniecības dzīvniekiem un to vaislas materiālam.\n(3) Papildus šā panta pirmajā un otrajā daļā noteiktajiem uzdevumiem šķirnes lauksaimniecības dzīvnieku audzētāju biedrība un krustojuma cūku audzētāju organizācija:\n1) izsniedz izcelsmes apliecinājumu lauksaimniecības dzīvniekiem, kas nav tīršķirnes vaislas lauksaimniecības dzīvnieki vai krustojuma vaislas cūkas;\n2) organizē ciltsvērtības noteikšanas pasākumus, izsoles un līdzdalību lauksaimniecības dzīvnieku izstādēs, kā arī zirgu darbspēju vērtēšanas pasākumus;\n3) pārstāv šķirnes lauksaimniecības dzīvnieku un krustojuma cūku audzētāju intereses dzīvnieku audzēšanas un ciltsdarba jomā Latvijā un ārvalstīs;\n4) kārto un uztur lauksaimniecības dzīvnieku ciltsdarba, snieguma pārbaudes un pārraudzības informācijas datubāzi, ja tas noteikts ciltsdarbu regulējošos normatīvajos aktos;\n5) veic virspārraudzību, ja tas noteikts attiecīgās sugas lauksaimniecības dzīvnieku snieguma pārbaudi un pārraudzību regulējošos normatīvajos aktos.\n(4) Ministru kabinets nosaka:\n1) kārtību, kādā kārto liellopu, cūku, aitu, kazu un zirgu šķirņu ciltsgrāmatu vai krustojuma cūku ciltsreģistru;\n2) tīršķirnes vaislas lauksaimniecības dzīvnieka, krustojuma vaislas cūkas un to vaislas materiāla zootehniskā sertifikāta izsniegšanas kārtību un sertifikātā norādāmos datus;\n3) lauksaimniecības dzīvnieka izcelsmes apliecinājuma izsniegšanas kārtību un apliecinājumā norādāmos datus;\n4) liellopu, cūku, aitu, kazu un zirgu vaislinieku un vaislas materiāla sertifikācijas kārtību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Šķirnes mājas (istabas) dzīvnieku audzētāju organizācijas kompetence",
+      "content": "(1) Šķirnes mājas (istabas) dzīvnieku audzētāju organizācija pilda šādus ar ciltsdarbu saistītus uzdevumus:\n1) kārto ciltsgrāmatu;\n2) izsniedz tīršķirnes mājas (istabas) dzīvnieku ciltsrakstus;\n3) nodarbojas ar šķirnes mājas (istabas) dzīvnieku vērtēšanu, darbspēju pārbaudi un atlasi;\n4) organizē šķirnes mājas (istabas) dzīvnieku līdzdalību dzīvnieku izstādēs;\n5) pārstāv šķirnes mājas (istabas) dzīvnieku audzētāju intereses ciltsdarba jomā Latvijā un ārvalstīs;\n6) kārto un uztur mājas (istabas) dzīvnieku vērtēšanas un darbspēju pārbaudes informācijas datubāzi.\n(2) Papildus šā panta pirmajā daļā noteiktajiem uzdevumiem šķirnes mājas (istabas) dzīvnieku audzētāju organizācija, kas vēlas īstenot vietējās šķirnes mājas (istabas) dzīvnieku audzēšanas programmu, šādu programmu izstrādā.\n(3) Kārtību, kādā šķirnes mājas (istabas) dzīvnieku audzētāju organizācija kārto mājas (istabas) dzīvnieku ciltsgrāmatu un izsniedz šo dzīvnieku ciltsrakstus, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Lauksaimniecības dzīvnieku un akvakultūras dzīvnieku, to ganāmpulku un novietņu reģistrēšana un dzīvnieku apzīmēšana",
+      "content": "(1) Visi lauksaimniecības dzīvnieki un akvakultūras dzīvnieki, to ganāmpulki un novietnes ir reģistrējami, un visi lauksaimniecības dzīvnieki ir apzīmējami. Lauksaimniecības dzīvnieku un akvakultūras dzīvnieku, to ganāmpulku un novietņu reģistrēšanas kārtību, kā arī lauksaimniecības dzīvnieku apzīmēšanas kārtību nosaka Ministru kabinets.\n(2) Šķirnes mājas (istabas) dzīvnieki ir apzīmējami un reģistrējami saskaņā ar normatīvajiem aktiem par mājas (istabas) dzīvnieku reģistrēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Lauksaimniecības dzīvnieku pēcnācēju ieguve",
+      "content": "(1) Liellopu, cūku, aitu, kazu un zirgu pēcnācējus ciltsdarbam iegūst no sertificētiem vaisliniekiem un sertificēta vaislas materiāla.\n(2) Piena liellopu ganāmpulkos, kuros notiek pārraudzība, pēcnācējus iegūst no vaisliniekiem un vaislas materiāla, kam ir vienas šķirņu grupas izcelsme vismaz divās paaudzēs.\n(3) Gaļas liellopu ganāmpulkos, kuros notiek pārraudzība, pēcnācējus iegūst no vaisliniekiem un vaislas materiāla, kam ir vienas šķirnes izcelsme vismaz divās paaudzēs."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Tīršķirnes vaislas lauksaimniecības dzīvnieku, krustojuma vaislas cūku un to vaislas materiāla nodrošināšana ar zootehnisko sertifikātu",
+      "content": "(1) Šā likuma 1. panta pirmās daļas 9. punkta \"a\" apakšpunktā minētos tīršķirnes vaislas lauksaimniecības dzīvniekus, krustojuma vaislas cūkas un to vaislas materiālu nodrošina ar zootehnisko sertifikātu regulā Nr. 2016/1012 noteiktajos gadījumos.\n(2) Šā likuma 1. panta pirmās daļas 9. punkta \"b\" apakšpunktā minētos tīršķirnes vaislas lauksaimniecības dzīvniekus īpašnieks nodrošina ar zootehnisko sertifikātu, ja:\n1) konkrētais dzīvnieks un tā vaislas materiāls paredzēts pārdošanai;\n2) konkrētais dzīvnieks un tā vaislas materiāls ir Latvijā ievests."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Lauksaimniecības dzīvnieku snieguma pārbaude un pārraudzība, zirgu dalība sacensībās",
+      "content": "(1) Lauksaimniecības dzīvnieku snieguma pārbaude un pārraudzība ir brīvprātīgs pasākums, ko ganāmpulkā nodrošina tā īpašnieks. Lauksaimniecības dzīvnieku sugu snieguma pārbaudes un pārraudzības kārtību nosaka Ministru kabinets.\n(2) Ja snieguma pārbaudes dati neatbilst normatīvajos aktos par snieguma pārbaudi un pārraudzību noteiktajām prasībām vai tiek izmantots nesertificēts vaislinieks vai vaislas materiāls, snieguma pārbaudes datus neizmanto ciltsdarbā.\n(3) Kārtību zirgu dalībai sacensībās nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Prasības un uzdevumi personām, kas nodarbojas ar lauksaimniecības dzīvnieku vērtēšanu, snieguma pārbaudi un pārraudzību, mākslīgo apsēklošanu, fertilizāciju in vitro un embriju pārnešanu",
+      "content": "(1) Lauksaimniecības dzīvniekus vērtē fiziskā persona, kas ir saņēmusi sertifikātu attiecīgās sugas vai sugu lauksaimniecības dzīvnieku vērtēšanai un noslēgusi līgumu ar šķirnes lauksaimniecības dzīvnieku audzētāju biedrību vai krustojuma cūku audzētāju organizāciju par lauksaimniecības dzīvnieku vērtēšanu audzēšanas programmas īstenošanai.\n(2) Lauksaimniecības dzīvnieku snieguma pārbaudi (izņemot vērtēšanu) un pārraudzību veic:\n1) fiziskā persona, kas ir saņēmusi sertifikātu attiecīgās sugas vai sugu lauksaimniecības dzīvnieku pārraudzībai, atbilstoši normatīvajiem aktiem par snieguma pārbaudi un pārraudzību apmainoties ar informāciju ar šķirnes lauksaimniecības dzīvnieku audzētāju biedrību vai krustojuma cūku audzētāju organizāciju un ievērojot vienotu datu ieguves metodiku;\n2) fiziskā persona, kas ir saņēmusi apliecību attiecīgās sugas vai sugu lauksaimniecības dzīvnieku pārraudzībai vienā ganāmpulkā, atbilstoši normatīvajiem aktiem par snieguma pārbaudi un pārraudzību apmainoties ar informāciju ar šķirnes lauksaimniecības dzīvnieku audzētāju biedrību vai krustojuma cūku audzētāju organizāciju un ievērojot vienotu datu ieguves metodiku.\n(3) Lauksaimniecības dzīvnieku mākslīgo apsēklošanu, tostarp pajetē sagatavota dziļi saldēta embrija pārnešanu, veic:\n1) fiziskā persona, kas ir saņēmusi sertifikātu attiecīgās sugas vai sugu lauksaimniecības dzīvnieku mākslīgai apsēklošanai;\n2) fiziskā persona, kas ir saņēmusi apliecību attiecīgās sugas vai sugu lauksaimniecības dzīvnieku mākslīgai apsēklošanai vienā ganāmpulkā.\n(4) Lauksaimniecības dzīvnieku fertilizāciju in vitro un embriju pārnešanu veic fiziskā persona, kas ir saņēmusi sertifikātu attiecīgās sugas vai sugu lauksaimniecības dzīvnieku fertilizācijai in vitro un embriju pārnešanai.\n(5) Izglītības un profesionālās kvalifikācijas prasības fiziskajām personām, kas nodarbojas ar lauksaimniecības dzīvnieku vērtēšanu, snieguma pārbaudi un pārraudzību, mākslīgo apsēklošanu, fertilizāciju in vitro un embriju pārnešanu, šo personu apmācības kārtību, kā arī attiecīgo sertifikātu un apliecību izsniegšanas, apturēšanas, anulēšanas un atsaukšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Lēmumu apstrīdēšanas un pārsūdzēšanas kārtība",
+      "content": "Pārtikas un veterinārā dienesta un Lauku atbalsta dienesta lēmumus var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē Ciltsdarba un dzīvnieku audzēšanas likums (Latvijas Vēstnesis, 2011, 21. nr.; 2014, 51. nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē Ciltsdarba un dzīvnieku audzēšanas likums (Latvijas Vēstnesis, 2011, 21. nr.; 2014, 51. nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2019. gada 1. martam izdod šā likuma 5. panta otrajā daļā, 7. panta otrajā daļā, 8. panta ceturtajā daļā, 9. panta trešajā daļā, 10. panta pirmajā daļā, 13. panta pirmajā un trešajā daļā un 14. panta piektajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2019. gada 28. februārim ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2011. gada 21. jūnija noteikumi Nr. 473 \" Šķirnes mājas (istabas) dzīvnieku audzētāju organizāciju reģistrēšanas, šķirnes mājas (istabas) dzīvnieku ciltsgrāmatas kārtošanas un ciltsrakstu izsniegšanas kārtība \";\n2) Ministru kabineta 2011. gada 21. jūnija noteikumi Nr. 475 \" Lauksaimniecības dzīvnieku šķirnes apstiprināšanas un reģistrācijas kārtība \";\n3) Ministru kabineta 2011. gada 21. jūnija noteikumi Nr. 479 \" Cūku pārraudzības kārtība \";\n4) Ministru kabineta 2011. gada 5. jūlija noteikumi Nr. 528 \" Aitu pārraudzības kārtība \";\n5) Ministru kabineta 2011. gada 5. jūlija noteikumi Nr. 548 \"Zirgu pārraudzības un zirgu darbaspēju novērtēšanas kārtība, kā arī kārtība, kādā zirgi piedalās sacensībās\";\n6) Ministru kabineta 2011. gada 12. jūlija noteikumi Nr. 566 \" Kārtība, kādā apmāca fiziskās personas, kas veic lauksaimniecības dzīvnieku vērtēšanu, pārraudzību, mākslīgo apsēklošanu, olšūnu un embriju transplantāciju, un kārtība, kādā šīm personām izsniedz un anulē sertifikātus un apliecības \";\n7) Ministru kabineta 2011. gada 12. jūlija noteikumi Nr. 567 \"Noteikumi par šķirnes lauksaimniecības dzīvnieku audzētāju organizāciju atbilstības kritērijiem un šķirnes lauksaimniecības dzīvnieku audzētāju organizāciju statusa piešķiršanas kārtību\";\n8) Ministru kabineta 2011. gada 16. augusta noteikumi Nr. 637 \" Gaļas kazu pārraudzības kārtība \";\n9) Ministru kabineta 2011. gada 16. augusta noteikumi Nr. 649 \" Trušu un kažokzvēru pārraudzības kārtība \";\n10) Ministru kabineta 2014. gada 1. jūlija noteikumi Nr. 361 \" Liellopu, cūku, aitu, kazu un zirgu ciltsgrāmatas kārtošanas noteikumi \";\n11) Ministru kabineta 2014. gada 15. jūlija noteikumi Nr. 393 \" Lauksaimniecības un akvakultūras dzīvnieku, to ganāmpulku un novietņu reģistrēšanas kārtība, kā arī lauksaimniecības dzīvnieku apzīmēšanas kārtība \";\n12) Ministru kabineta 2014. gada 22. jūlija noteikumi Nr. 419 \" Šķirnes lauksaimniecības dzīvnieka, tā spermas, olšūnas un embrija izcelsmes sertifikāta izsniegšanas kārtība \";\n13) Ministru kabineta 2014. gada 22. jūlija noteikumi Nr. 420 \" Liellopu, cūku, aitu, kazu un zirgu vaislinieku, to spermas, olšūnu un embriju sertifikācijas kārtība \";\n14) Ministru kabineta 2015. gada 8. septembra noteikumi Nr. 514 \" Gaļas liellopu pārraudzības kārtība \";\n15) Ministru kabineta 2016. gada 5. janvāra noteikumi Nr. 13 \" Slaucamo govju un slaucamo kazu pārraudzības kārtība \"."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "lauksaimniecības dzīvnieki",
+      "definition": "liellopu, cūku, aitu, kazu, zirgu, kažokzvēru, trušu, mājputnu, medus bišu (Apis mellifera L. ) un citu sugu dzīvnieki, kurus audzē un tur dzīvnieku izcelsmes produktu iegūšanai, izņemot akvakultūras dzīvniekus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mājas (istabas) dzīvnieki",
+      "definition": "suņi, kaķi, mājas (istabas) seski",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārraudzība",
+      "definition": "process, kas nodrošina kvantitatīvus un kvalitatīvus datus par lauksaimniecības dzīvnieku un tā produktivitāti un šo datu reģistrēšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "snieguma pārbaude",
+      "definition": "process audzēšanas programmas īstenošanai, kas nodrošina kvantitatīvus un kvalitatīvus datus par lauksaimniecības dzīvnieku, tā produktivitāti, eksterjeru, kā arī citus ģenētiskās kvalitātes noteikšanai nepieciešamos datus un šo datu reģistrēšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tīršķirnes mājas (istabas) dzīvnieks",
+      "definition": "mājas (istabas) dzīvnieks, kas atbilst sugas vai šķirnes standartā un ciltsdarba nolikumā vai — vietējām šķirnēm — audzēšanas programmā noteiktajām prasībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vaislas materiāls",
+      "definition": "lauksaimniecības dzīvnieka reproduktīvie produkti: sperma, olšūna vai embrijs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vietējā šķirne",
+      "definition": "Latvijā izveidota lauksaimniecības vai mājas (istabas) dzīvnieku šķirne ar kultūrvēsturisku, zinātnisku vai saimniecisku vērtību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "virspārraudzība",
+      "definition": "individuālās lauksaimniecības dzīvnieku snieguma pārbaudes un pārraudzības sistēmas sastāvdaļa, kuras ietvaros tiek pārbaudīta dzīvnieku snieguma pārbaudes, pārraudzības un izcelsmes datu ticamība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "šķirnes mājas (istabas) dzīvnieku audzētāju organizācija",
+      "definition": "komersants, kooperatīvā sabiedrība, biedrība vai nodibinājums, kas nodarbojas ar noteiktas mājas (istabas) dzīvnieku sugas vai šķirnes izkopšanu un selekciju.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

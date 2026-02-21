@@ -1,0 +1,517 @@
+{
+  "id": "lv-law-269189",
+  "type": "statute",
+  "title": "Šķīrējtiesu likums",
+  "title_en": "Arbitration Law",
+  "short_name": "TA-269189",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/269189-skirejtiesu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likuma mērķis un darbības joma",
+      "content": "(1) Šā likuma mērķis ir noteikt šķīrējtiesu izveidošanas kārtību un darbības pamatprincipus, lai nodrošinātu civiltiesisku strīdu efektīvu un taisnīgu izšķiršanu šķīrējtiesā.\n(2) Šā likuma noteikumus piemēro šķīrējtiesas procesam Latvijā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Šķīrējtiesa un šķīrējtiesas izveidošana",
+      "content": "(1) Civiltiesiskus strīdus šajā likumā noteiktajā kārtībā izskata šķīrējtiesa atbilstoši šķīrējtiesas noteikumiem, kurus pieņēmusi šķīrējtiesas institūcija (turpmāk — pastāvīgā šķīrējtiesa), vai šķīrējtiesa, kas izveidota konkrēta civiltiesiska strīda izšķiršanai (turpmāk — ad hoc šķīrējtiesa).\n(2) Pastāvīgo šķīrējtiesu var izveidot Uzņēmumu reģistrā reģistrēta biedrība (pastāvīgās šķīrējtiesas dibinātājs), kuras darbības mērķis ir pastāvīgās šķīrējtiesas darbība.\n(3) Ad hoc šķīrējtiesu izveido, pamatojoties uz pušu vienošanos."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Šķīrējtiesas tiesiskais regulējums",
+      "content": "(1) Pastāvīgā šķīrējtiesa darbojas saskaņā ar šo likumu un pastāvīgās šķīrējtiesas reglamentu, bet ad hoc šķīrējtiesa — saskaņā ar šo likumu.\n(2) Šķīrējtiesa civiltiesiskos strīdus izskata saskaņā ar pušu vienošanos, ciktāl tas nav pretrunā ar Latvijas Republikas Satversmi , šo likumu, kā arī citiem normatīvajiem aktiem.\n(3) Šķīrējtiesas procesa organizēšana un strīdu izšķiršana šķīrējtiesā nav komercdarbība."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Pastāvīgās šķīrējtiesas darbības organizācija",
+      "content": "(1) Pastāvīgās šķīrējtiesas dibinātājs nodrošina pastāvīgajai šķīrējtiesai:\n1) atsevišķas, šķīrējtiesas darbībai piemērotas telpas;\n2) lietvedībai un apmeklētāju pieņemšanai nepieciešamo personālu;\n3) interneta mājaslapas uzturēšanu.\n(2) Pastāvīgā šķīrējtiesa savā mājaslapā internetā ievieto šādu informāciju:\n1) pastāvīgās šķīrējtiesas nosaukums un atrašanās vieta;\n2) apmeklētāju pieņemšanas kārtība un laiks;\n3) šķīrējtiesas procesa izmaksas un tā konta numurs, kurā ieskaitāmi šķīrējtiesas procesa izdevumi;\n4) pastāvīgās šķīrējtiesas reglaments;\n5) pastāvīgās šķīrējtiesas šķīrējtiesnešu saraksts, kurā ir ne mazāk kā 10 šķīrējtiesnešu, norādot to vārdu un uzvārdu;\n6) kontaktinformācija (atrašanās vietas adrese, tālruņa numurs, e-pasta adrese);\n7) cita aktuāla informācija.\n(3) Pastāvīgās šķīrējtiesas dibinātājs iesniedz Uzņēmumu reģistram nekustamā īpašuma (ēkas vai dzīvokļa īpašuma) īpašnieka izsniegtu piekrišanu šķīrējtiesas atrašanās vietas adreses reģistrācijai attiecīgajā ēkā vai dzīvokļa īpašumā. Piekrišanā norāda nekustamā īpašuma adresi, kadastra numuru, kadastra apzīmējumu (ja nekustamais īpašums sastāv no vairākām ēkām) un īpašnieka vārdu, uzvārdu un personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) vai nosaukumu (firmu) un reģistrācijas numuru. Piekrišana nav jāiesniedz, ja šķīrējtiesas atrašanās vietas adrese tiek reģistrēta šķīrējtiesas dibinātājam piederošās telpās.\n(4) Pastāvīgajai šķīrējtiesai adresētie dokumenti nosūtāmi uz tās atrašanās vietas adresi."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Šķīrējtiesas kompetence",
+      "content": "(1) Šķīrējtiesā izšķir jebkuru civiltiesisku strīdu, ja puses ir brīvprātīgi vienojušās un noslēgušas šķīrējtiesas līgumu, izņemot strīdu:\n1) kura izspriešana varētu aizskart tādas personas tiesības, kas nav šķīrējtiesas līguma dalībniece;\n2) kurā kaut viena puse ir valsts vai pašvaldības iestāde vai par kuru pieņemts šķīrējtiesas nolēmums var skart valsts vai pašvaldības iestādes tiesības;\n3) kurš saistīts ar ierakstiem civilstāvokļa aktu reģistrā;\n4) par aizbildnībā vai aizgādnībā esošu personu tiesībām un pienākumiem vai ar likumu aizsargātām interesēm;\n5) par lietu tiesību nodibināšanu, grozīšanu vai izbeigšanu attiecībā uz nekustamo īpašumu, ja strīda dalībnieks ir persona, kurai ar likumu ir ierobežotas tiesības iegūt nekustamo lietu īpašumā, valdījumā vai lietošanā;\n6) par fiziskās personas izlikšanu no dzīvojamām telpām;\n7) starp darbinieku un darba devēju, ja strīds radies, slēdzot, grozot, izbeidzot vai pildot darba līgumu, kā arī piemērojot vai tulkojot tiesību normas, darba koplīguma vai darba kārtības noteikumus (individuāls darba tiesību strīds);\n8) par to personu tiesībām un pienākumiem, kurām pasludināts maksātnespējas process.\n(2) Šķīrējtiesā netiek izšķirti strīdi, kas saistīti ar sevišķā tiesāšanas kārtībā izskatāmiem jautājumiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Šķīrējtiesas darbība un tās izbeigšanas pamats",
+      "section": "6",
+      "title": "Pastāvīgās šķīrējtiesas reģistrācija",
+      "content": "(1) Pastāvīgā šķīrējtiesa darbību uzsāk pēc reģistrācijas šķīrējtiesu reģistrā, ko ved Uzņēmumu reģistrs.\n(2) Par ieraksta izdarīšanu šķīrējtiesu reģistrā maksājama valsts nodeva. Valsts nodevas apmēru un samaksas kārtību, kā arī kārtību, kādā pastāvīgā šķīrējtiesa reģistrējama un izslēdzama no šķīrējtiesu reģistra, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Šķīrējtiesas darbība un tās izbeigšanas pamats",
+      "section": "7",
+      "title": "Pastāvīgās šķīrējtiesas nosaukums",
+      "content": "(1) Pastāvīgās šķīrējtiesas nosaukumam jāatšķiras no šķīrējtiesu reģistrā jau reģistrētas vai reģistrācijai pieteiktas šķīrējtiesas nosaukuma un Uzņēmumu reģistra vestajos reģistros ierakstīšanai pieteikta vai ierakstīta nosaukuma (firmas), kā arī tas nedrīkst ietvert maldinošas ziņas par pastāvīgās šķīrējtiesas darbības mērķi, veidu un tiesisko formu.\n(2) Uz pastāvīgās šķīrējtiesas nosaukumu attiecas arī citi komersantiem noteiktie nosaukuma (firmas) izvēles ierobežojumi un atšķirības noteikumi.\n(3) Pastāvīgās šķīrējtiesas nosaukums nedrīkst būt pretrunā ar labiem tikumiem.\n(4) Pastāvīgās šķīrējtiesas nosaukuma rakstībā lietojami vienīgi latviešu vai latīņu alfabēta burti."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Šķīrējtiesas darbība un tās izbeigšanas pamats",
+      "section": "8",
+      "title": "Pastāvīgās šķīrējtiesas reglaments",
+      "content": "(1) Pastāvīgās šķīrējtiesas reglamentā norāda:\n1) pastāvīgās šķīrējtiesas dibinātāju;\n2) šķīrējtiesas nosaukumu. Papildus šķīrējtiesas nosaukumam latviešu valodā pastāvīgās šķīrējtiesas reglamentā var norādīt šķīrējtiesas nosaukuma tulkojumu vienā vai vairākās svešvalodās;\n2 1 ) interneta mājaslapas adresi;\n3) šķīrējtiesnešu iecelšanas un pilnvaru izbeigšanās kārtību;\n4) šķīrējtiesas procesa un strīda izšķiršanas kārtību — procesuālos termiņus, pretprasības iesniegšanas kārtību, strīda izskatīšanas, atlikšanas, šķīrējtiesas procesa apturēšanas un atjaunošanas kārtību un pamatu. Pastāvīgās šķīrējtiesas reglamentā var norādīt citus procesuālus jautājumus saskaņā ar šo likumu;\n5) kārtību, kādā apliecināmi šķīrējtiesnešu paraksti uz nolēmuma;\n6) šķīrējtiesas procesa izdevumus, šķīrējtiesnešu honorāru apmēru un maksāšanas kārtību, kā arī šķīrējtiesas procesa izdevumu atlīdzināšanas kārtību;\n7) citus noteikumus, kas regulē šķīrējtiesas darbību vai procesu.\n(2) Pastāvīgās šķīrējtiesas dibinātājs sastāda pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstu, kurā iekļauj ne mazāk kā 10 šķīrējtiesnešus.\n(2 1 ) Pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstā norāda katra tajā iekļautā šķīrējtiesneša vārdu, uzvārdu un personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi). Šķīrējtiesneša personas kods (ja personai nav personas koda, — dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) nav publiski pieejama informācija.\n(3) Uzņēmumu reģistram iesniedz pastāvīgās šķīrējtiesas reglamentu un apliecinājumu tam, ka sarakstā ietvertie šķīrējtiesneši atbilst šā likuma 14.panta otrās un ceturtās daļas prasībām un uz viņiem nav attiecināmi šā likuma 15.pantā noteiktie ierobežojumi, kā arī dokumentus, kas pamato šķīrējtiesnešu kvalifikāciju.\n(4) Pastāvīgās šķīrējtiesas reglamentu paraksta pastāvīgās šķīrējtiesas dibinātājs.\n(5) Ja pastāvīgās šķīrējtiesas reglamentā izdarīti grozījumi, pastāvīgās šķīrējtiesas dibinātājs Uzņēmumu reģistram ne vēlāk kā septiņu dienu laikā pēc grozījumu izdarīšanas iesniedz precizēto reglamentu.\n(5 1 ) Ja grozījumi izdarīti pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstā, pastāvīgās šķīrējtiesas dibinātājs Uzņēmumu reģistram iesniedz pieteikumu par izmaiņām šķīrējtiesu reģistra ierakstos. Ja šķīrējtiesas sarakstā iekļauts jauns šķīrējtiesnesis, pieteikumam pievieno apliecinājumu tam, ka minētais šķīrējtiesnesis atbilst šā likuma 14.panta otrās un ceturtās daļas prasībām un uz viņu nav attiecināmi šā likuma 15.pantā noteiktie ierobežojumi, kā arī dokumentus, kas pamato šķīrējtiesneša kvalifikāciju.\n(6) Pastāvīgās šķīrējtiesas dibinātājs reizi gadā līdz 1.martam Uzņēmumu reģistram iesniedz apliecinājumu tam, ka pastāvīgā šķīrējtiesa un tās šķīrējtiesnešu saraksts atbilst šā likuma 4.panta prasībām.\n(7) Uzņēmumu reģistrs nodrošina, ka tā mājaslapā internetā bez maksas ir pieejami Uzņēmumu reģistra vestajā šķīrējtiesu reģistrā reģistrēto pastāvīgo šķīrējtiesu reglamenti."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Šķīrējtiesas darbība un tās izbeigšanas pamats",
+      "section": "9",
+      "title": "Šķīrējtiesas uzraudzība un darbības izbeigšanas pamati",
+      "content": "(1) Pastāvīgās šķīrējtiesas darbība izbeidzas ar tās dibinātāja vai Uzņēmumu reģistra lēmumu.\n(1 1 ) Uzņēmumu reģistrs uzrauga pastāvīgās šķīrējtiesas atbilstību šā likuma 2.panta otrās daļas, 4.panta pirmās daļas 3.punkta, otrās un ceturtās daļas, 7. un 8.panta un 14.panta pirmās, otrās, trešās un 4. 2 daļas prasībām.\n(2) Uzņēmumu reģistrs pieņem lēmumu par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra, ja:\n1) pastāvīgā šķīrējtiesa neatbilst kādai no šā likuma 2.panta otrajā daļā, 4.panta pirmās daļas 3.punktā un otrajā daļā noteiktajām prasībām;\n2) pastāvīgā šķīrējtiesa nav sasniedzama tās norādītajā atrašanās vietā;\n3) pastāvīgās šķīrējtiesas dibinātājs nav iesniedzis šā likuma 8.panta sestajā daļā minēto apliecinājumu vai ir sniedzis nepatiesu informāciju;\n4) nav ievērota šā likuma 14.panta ceturtās daļas prasība;\n5) pastāvīgās šķīrējtiesas dibinātājs nav izpildījis šā likuma 14.panta 4. 2 daļas prasību.\n(3) Ad hoc šķīrējtiesas darbība izbeidzas, kad ir izskatīts strīds, kura izskatīšanai tā tika izveidota."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Šķīrējtiesas līgums",
+      "section": "10",
+      "title": "Šķīrējtiesas līguma jēdziens",
+      "content": "(1) Šķīrējtiesas līgums ir šajā likumā noteiktajā kārtībā noslēgta pušu vienošanās par civiltiesiskā strīda nodošanu izšķiršanai šķīrējtiesā.\n(2) Puses var vienoties par tāda civiltiesiskā strīda nodošanu izšķiršanai šķīrējtiesā, kas jau radies vai var rasties."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Šķīrējtiesas līgums",
+      "section": "11",
+      "title": "Šķīrējtiesas līguma puses",
+      "content": "Šķīrējtiesas līgumu var noslēgt jebkura rīcībspējīga fiziskā persona, privāto tiesību juridiskā persona vai publisko tiesību juridiskā persona privāttiesību jomā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Šķīrējtiesas līgums",
+      "section": "12",
+      "title": "Šķīrējtiesas līguma forma un saturs",
+      "content": "(1) Šķīrējtiesas līgumu noslēdz rakstveidā. To kā atsevišķu noteikumu var iekļaut jebkurā līgumā (šķīrējtiesas klauzula), kas ietver saistību, kuras sakarā radies vai var rasties civiltiesisks strīds, ņemot vērā šā likuma 5.panta pirmajā daļā noteiktos ierobežojumus. Šķīrējtiesas līgumu groza vai atceļ saskaņā ar pušu rakstveida vienošanos.\n(2) Par rakstveida līgumu uzskatāma arī vienošanās, kas noslēgta, pusēm apmainoties ar:\n1) pasta sūtījumiem;\n2) sūtījumiem, izmantojot elektroniskās saziņas līdzekļus;\n3) prasības pieteikumu un paskaidrojumu par prasību, kuros viena puse apgalvo, ka pastāv šķīrējtiesas līgums, un otra puse to nenoliedz.\n(3) Šķīrējtiesas līgumā puses var vienoties par:\n1) pastāvīgo šķīrējtiesu vai ad hoc šķīrējtiesu;\n2) šķīrējtiesas procesa norises vietu;\n3) šķīrējtiesas procesa valodu;\n4) šķīrējtiesnešu skaitu šķīrējtiesas sastāvā, ievērojot šā likuma 29.panta noteikumus;\n5) šķīrējtiesas izdevumu segšanas kārtību;\n6) citiem jautājumiem, ko puses uzskata par svarīgiem."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Šķīrējtiesas līgums",
+      "section": "13",
+      "title": "Šķīrējtiesas līguma spēks",
+      "content": "(1) Personas, kas noslēgušas šķīrējtiesas līgumu par civiltiesiskā strīda nodošanu izšķiršanai šķīrējtiesā, nav tiesīgas no tā atteikties, ja šķīrējtiesas līgums nav likumā vai līgumā noteiktajā kārtībā grozīts vai atcelts.\n(2) Šķīrējtiesas līgums ir spēkā, kamēr nav izbeigušās tiesiskās attiecības, kuru sakarā tas noslēgts.\n(3) Ja šķīrējtiesas līgums kā atsevišķs noteikums ir ietverts citā pušu noslēgtajā līgumā, šķīrējtiesas līgums uzskatāms par patstāvīgu līgumu. Šķīrējtiesas līgums paliek spēkā arī tad, ja līgums, kurā tas ietverts, ir izbeidzies vai atzīts par spēkā neesošu.\n(4) Cedējot prasību, uz cesionāru pāriet prasījuma tiesības, bet ne līgumā ietvertā šķīrējtiesas klauzula par civiltiesiskā strīda izskatīšanu šķīrējtiesā."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Šķīrējtiesnesis",
+      "section": "14",
+      "title": "Šķīrējtiesnesim izvirzāmās prasības",
+      "content": "(1) Šķīrējtiesnesis ir persona, kas atbilst šā likuma noteikumiem un ir iecelta civiltiesiskā strīda izšķiršanai atbilstoši šķīrējtiesas līguma un šā likuma noteikumiem.\n(2) Par šķīrējtiesnesi var iecelt jebkuru pilngadīgu personu, kas rakstveidā piekritusi būt par šķīrējtiesnesi un atbilst šādām prasībām:\n1) tai nav nodibināta aizgādnība;\n2) tai ir nevainojama reputācija;\n3) tai ir augstākā profesionālā vai akadēmiskā izglītība (izņemot pirmā līmeņa profesionālo izglītību).\n(3) Ja persona, kas saskaņā ar Advokatūras likumu var būt par advokātu, izņemot zvērināta advokāta palīgu, rakstveidā piekritusi būt par pastāvīgās šķīrējtiesas šķīrējtiesnesi un uz to nav attiecināmi šā likuma 15.pantā minētie ierobežojumi, šīs personas atbilstība šā panta otrās daļas prasībām uzskatāma par apliecinātu no brīža, kad tā iekļauta zvērinātu advokātu sarakstā.\n(4) Pastāvīgās šķīrējtiesas šķīrējtiesnesis var būt ne vairāk kā triju pastāvīgo šķīrējtiesu sarakstos.\n(4 1 ) Šķīrējtiesnesis var jebkurā laikā atsaukt savu piekrišanu būt iekļautam pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstā, par to rakstveidā paziņojot pastāvīgajai šķīrējtiesai.\n(4 2 ) Pastāvīgās šķīrējtiesas dibinātājs 14 dienu laikā pēc šā panta 4. 1 daļā minētā paziņojuma saņemšanas izdara grozījumus pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstā un par tiem paziņo Uzņēmumu reģistram šajā likumā noteiktajā kārtībā.\n(5) Šķīrējtiesnesim, izšķirot civiltiesisko strīdu, jābūt neatkarīgam, objektīvam un taisnīgam. Pirms persona izsaka piekrišanu tikt ieceltai par šķīrējtiesnesi, tā rakstveidā atklāj pusēm, pastāvīgajai šķīrējtiesai vai citiem šķīrējtiesnešiem, ja tādi lietā ir, vai rajona (pilsētas) tiesai jebkādus faktus un apstākļus, kuri var izraisīt pamatotas šaubas par šīs personas objektivitāti un neatkarību. Ja šādi apstākļi radušies vai kļuvuši zināmi pēc šķīrējtiesas procesa uzsākšanas, bet pirms šķīrējtiesas procesa beigām, šķīrējtiesnesim tie nekavējoties jāatklāj pusēm."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Šķīrējtiesnesis",
+      "section": "15",
+      "title": "Persona, kuru nevar iecelt par šķīrējtiesnesi",
+      "content": "Pastāvīgā šķīrējtiesa šķīrējtiesnešu sarakstā nevar iekļaut un rajona (pilsētas) tiesa par šķīrējtiesnesi nevar iecelt personu:\n1) kura neatbilst šā likuma 14.panta otrās daļas prasībām;\n2) kura kriminālprocesā par tīša noziedzīga nodarījuma izdarīšanu atzīta par aizdomās turēto vai apsūdzēto;\n3) pret kuru kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu izbeigts uz nereabilitējoša pamata;\n4) kura sodīta par tīša noziedzīga nodarījuma izdarīšanu — neatkarīgi no sodāmības dzēšanas vai noņemšanas;\n5) kura notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas noilguma, apžēlošanas vai amnestijas dēļ;\n6) kurai pēdējo piecu gadu laikā pasludināts fiziskās personas maksātnespējas process."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Šķīrējtiesnesis",
+      "section": "16",
+      "title": "Nepieļaujamība piedalīties lietas izskatīšanā un šķīrējtiesneša atstatīšana",
+      "content": "(1) Šķīrējtiesnesis nav tiesīgs piedalīties lietas izskatīšanā, ja viņš:\n1) ir bijis kādas puses pārstāvis, eksperts vai liecinieks lietā, kurā piedalījušās puses;\n2) ir radniecības attiecībās līdz trešajai pakāpei vai svainības attiecībās līdz otrajai pakāpei ar kādu no strīda dalībniekiem vai to pārstāvjiem;\n3) ir radniecības attiecībās līdz trešajai pakāpei vai svainības attiecībās līdz otrajai pakāpei ar kādu no šķīrējtiesnešiem, kas ir tās šķīrējtiesas sastāvā, kurā civiltiesiskais strīds tiek izskatīts;\n4) ir darba tiesiskajās attiecībās ar kādu no civiltiesiskā strīda dalībniekiem vai to pārstāvjiem vai ja šķīrējtiesnesis sniedz juridisko palīdzību kādai pusei;\n5) vai viņa laulātais, vai radinieks līdz trešajai pakāpei, vai darījumu partneris, vai komercsabiedrība, kura ir civiltiesiskā strīda puse un kuras dalībnieks, akcionārs, biedrs, pārraudzības, kontroles vai izpildinstitūcijas loceklis ir šis šķīrējtiesnesis vai viņa radinieks līdz trešajai pakāpei, ir mantiski ieinteresēti civiltiesiskā strīda iznākumā.\n(2) Šķīrējtiesnesis ne vēlāk kā piecu dienu laikā no dienas, kad tas uzzinājis par savu iecelšanu, vai no dienas, kad tam kļuvis zināms par apstākļiem, kuri var izraisīt pamatotas šaubas par viņa objektivitāti un neatkarību, sevi atstata, norādot atstatīšanas iemeslus.\n(3) Ja šķīrējtiesnesis sevi atstatījis, jauns šķīrējtiesnesis tiek iecelts līgumā vai pastāvīgās šķīrējtiesas reglamentā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Šķīrējtiesnesis",
+      "section": "17",
+      "title": "Šķīrējtiesneša noraidīšana",
+      "content": "(1) Lietas dalībnieks var noraidīt šķīrējtiesnesi, ja:\n1) uz viņu ir attiecināmi šā likuma 16.panta pirmajā daļā noteiktie ierobežojumi šķīrējtiesneša dalībai lietas izskatīšanā un viņš nav sevi atstatījis;\n2) viņš neatbilst šā likuma prasībām;\n3) viņš neatbilst prasībām, par kurām puses ir vienojušās;\n4) citi apstākļi izraisa pamatotas šaubas par viņa objektivitāti un neatkarību.\n(2) (Izslēgta ar 06.06.2024 . likumu)\n(3) Puse var noraidīt šķīrējtiesnesi, kuru tā iecēlusi vai kura iecelšanā piedalījusies, tikai tad, ja noraidījuma pamats tai kļuvis zināms pēc šķīrējtiesneša iecelšanas.\n(4) Puses var vienoties par šķīrējtiesneša noraidīšanas kārtību, bet, ja šādas vienošanās nav, to nosaka saskaņā ar šo likumu.\n(5) Puse var pieteikt noraidījumu šķīrējtiesnesim piecu dienu laikā no dienas, kad tā uzzinājusi par šā šķīrējtiesneša iecelšanu vai tai kļuvis zināms kāds no šā panta pirmajā daļā minētajiem apstākļiem, nosūtot šķīrējtiesai paziņojumu un tajā norādot, kuru šķīrējtiesnesi un uz kāda pamata tā noraida.\n(6) Ja šķīrējtiesnesis, kuram pieteikts noraidījums, neatsakās no savu pienākumu pildīšanas, jautājumu par šā šķīrējtiesneša noraidījumu izlemj šķīrējtiesas sastāvs vai pats šķīrējtiesnesis piecu dienu laikā no paziņojuma saņemšanas dienas, pieņemot motivētu lēmumu.\n(7) Ja šķīrējtiesneša noraidījums pieņemts, jaunu šķīrējtiesnesi ieceļ līgumā vai pastāvīgās šķīrējtiesas reglamentā noteiktajā kārtībā.\n(8) Ja puse pieteikusi šķīrējtiesnesim noraidījumu un tas saskaņā ar kārtību, par kādu puses ir vienojušās, vai saskaņā ar šā panta piektajā un sestajā daļā minēto kārtību netiek pieņemts, puse var lūgt rajona (pilsētas) tiesu lemt par šķīrējtiesneša noraidīšanu Civilprocesa likumā noteiktajā kārtībā.\n(9) Pieteikuma iesniegšana rajona (pilsētas) tiesā par šķīrējtiesneša noraidīšanu nav šķērslis šķīrējtiesas procesa turpināšanai."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Šķīrējtiesnesis",
+      "section": "18",
+      "title": "Šķīrējtiesneša pilnvaru izbeigšanās",
+      "content": "(1) Šķīrējtiesneša pilnvaras izbeidzas:\n1) ja pieņemts šķīrējtiesneša noraidījums;\n2) ja viņš atstatījis sevi no civiltiesiskā strīda izšķiršanas;\n3) ja puses ir vienojušās par viņa atcelšanu;\n4) ja uz viņu ir attiecināmi šā likuma 15.pantā minētie ierobežojumi;\n5) ar viņa nāvi;\n6) citos pastāvīgās šķīrējtiesas reglamentā noteiktajos gadījumos;\n7) ar rajona (pilsētas) tiesas lēmumu par šķīrējtiesneša noraidīšanu vai atcelšanu.\n(2) Puses var brīvi vienoties par šķīrējtiesneša pilnvaru izbeigšanās kārtību. Ja puses par to nav vienojušās un civiltiesisko strīdu izskata pastāvīgā šķīrējtiesa, piemērojami pastāvīgās šķīrējtiesas reglamenta noteikumi.\n(2 1 ) Puse var lūgt rajona (pilsētas) tiesu lemt par šķīrējtiesneša atcelšanu, ja puses nav vienojušās par šķīrējtiesneša pilnvaru izbeigšanas kārtību šā panta otrajā daļā noteiktajā kārtībā un ja šķīrējtiesnesis nespēj veikt savus pienākumus vai citu iemeslu dēļ nerīkojas savlaicīgi.\n(3) Ja šķīrējtiesneša pilnvaras izbeigušās, jaunu šķīrējtiesnesi ieceļ šā likuma 30.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Šķīrējtiesas procesa principi",
+      "section": "19",
+      "title": "Pušu līdztiesība",
+      "content": "Pusēm šķīrējtiesas procesā ir vienlīdzīgas procesuālās tiesības. Šķīrējtiesas sastāvs nodrošina pusēm vienādas iespējas izmantot tām piešķirtās tiesības savu interešu aizsardzībai."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Šķīrējtiesas procesa principi",
+      "section": "20",
+      "title": "Sacīkste",
+      "content": "Puses civiltiesiskā strīda izskatīšanas gaitā īsteno savas procesuālās tiesības sacīkstes formā. Sacīkste izpaužas, pusēm izmantojot savas tiesības iesniegt pierādījumus, dot paskaidrojumus un šķīrējtiesas sastāvam adresētus pieteikumus, piedaloties pierādījumu pārbaudē un novērtēšanā, kā arī veicot citas procesuālās darbības."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa Šķīrējtiesas procesa principi",
+      "section": "21",
+      "title": "Procesa kārtības izvēles brīvība",
+      "content": "Pusēm ir tiesības šā likuma ietvaros brīvi noteikt šķīrējtiesas procesa kārtību. Pastāvīgās šķīrējtiesas process notiek saskaņā ar pastāvīgās šķīrējtiesas reglamentu, ja puses nav šķīrējtiesas līgumā vienojušās par citu šķīrējtiesas procesa kārtību, ciktāl to pieļauj pastāvīgās šķīrējtiesas reglaments."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Šķīrējtiesas procesa principi",
+      "section": "22",
+      "title": "Šķīrējtiesneša neatkarība",
+      "content": "Šķīrējtiesnesis pilda savus pienākumus godprātīgi, nepakļaujoties nekādai ietekmei. Savā darbībā un lēmumu pieņemšanā viņš ir objektīvs un neatkarīgs."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Šķīrējtiesas procesa principi",
+      "section": "23",
+      "title": "Šķīrējtiesas procesa konfidencialitāte",
+      "content": "(1) Ja puses nav vienojušās citādi, šķīrējtiesas process ir konfidenciāls.\n(2) Šķīrējtiesas sēdes ir slēgtas, un šķīrējtiesas sastāvs ziņas par šķīrējtiesas procesu nesniedz citām personām un nepublicē, izņemot gadījumu, kad puses ir vienojušās citādi. Personas, kas nav šķīrējtiesas procesa dalībnieki, var piedalīties šķīrējtiesas sēdē tikai ar pušu piekrišanu.\n(3) Ziņas par šķīrējtiesas procesu sniedz personām, kurām ir tiesības tās saņemt likumā noteikto funkciju veikšanai."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "24",
+      "title": "Strīda pakļautības noteikšana",
+      "content": "(1) Šķīrējtiesas sastāvs lemj par civiltiesiskā strīda pakļautību šķīrējtiesai, tajā skaitā par šķīrējtiesas līguma spēkā esamību. Jautājumu par strīda pakļautību šķīrējtiesas sastāvs var izlemt jebkurā šķīrējtiesas procesa stadijā.\n(2) Iesniegumu par to, ka civiltiesiskais strīds nav pakļauts šķīrējtiesai, puse var iesniegt līdz atsauksmes iesniegšanas termiņa beigām.\n(3) Šķīrējtiesas sastāvs jautājumu par civiltiesiskā strīda pakļautību šķīrējtiesai var izlemt, pieņemot lēmumu vai taisot spriedumu. Puse var lūgt rajona (pilsētas) tiesai Civilprocesa likumā noteiktajā kārtībā lemt par civiltiesiskā strīda pakļautību šķīrējtiesai, ja šķīrējtiesa par to pieņēmusi lēmumu.\n(4) Pieteikuma iesniegšana rajona (pilsētas) tiesā par civiltiesiskā strīda pakļautību šķīrējtiesai nav šķērslis šķīrējtiesas procesa turpināšanai."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "25",
+      "title": "Šķīrējtiesas procesa norises vieta",
+      "content": "Šķīrējtiesas sastāvam ir tiesības brīvi noteikt šķīrējtiesas procesa norises vietu, ievērojot lietderības apsvērumus, ja puses par to nav vienojušās."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "26",
+      "title": "Šķīrējtiesas procesa kārtības noteikšana",
+      "content": "(1) Šķīrējtiesas process notiek atbilstoši šķīrējtiesas līguma noteikumiem, pastāvīgās šķīrējtiesas reglamentam, normatīvajiem aktiem un vispārējiem tiesību principiem.\n(2) Ja puses ir vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, bet nav vienojušās par šķīrējtiesas procesa kārtību, civiltiesisko strīdu izšķir saskaņā ar pastāvīgās šķīrējtiesas reglamentā noteikto kārtību un šo likumu.\n(3) Ja civiltiesisko strīdu izšķir ad hoc šķīrējtiesa un puses nav vienojušās par šķīrējtiesas procesa kārtību, ad hoc šķīrējtiesas sastāvs nosaka šķīrējtiesas procesa kārtību saskaņā ar šo likumu.\n(4) Šķīrējtiesas sastāva priekšsēdētājs var patstāvīgi izlemt procesuālos jautājumus, ja viņam to uzticējušas puses vai pārējie šķīrējtiesneši."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "27",
+      "title": "Šķīrējtiesas procesa valoda",
+      "content": "(1) Pusēm ir tiesības vienoties par šķīrējtiesas procesa valodu. Ja puses nav par to vienojušās, šķīrējtiesas procesa valodu nosaka šķīrējtiesas sastāvs.\n(2) Šķīrējtiesas sastāvs var pieprasīt no pusēm jebkura rakstveida pierādījuma tulkojumu valodā, kurā notiek šķīrējtiesas process."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "28",
+      "title": "Šķīrējtiesas procesa termiņi",
+      "content": "Šķīrējtiesas sastāvs nosaka procesuālos termiņus, to pagarināšanas vai atjaunošanas kārtību šajā likumā vai pastāvīgās šķīrējtiesas reglamentā noteikto termiņu ietvaros. Līdz šķīrējtiesas sastāva apstiprināšanai procesuālos termiņus, to pagarināšanas vai atjaunošanas kārtību nosaka saskaņā ar pastāvīgās šķīrējtiesas reglamentu."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "29",
+      "title": "Šķīrējtiesnešu skaits šķīrējtiesas sastāvā",
+      "content": "(1) Puses var vienoties par šķīrējtiesnešu skaitu šķīrējtiesas sastāvā, bet tam jābūt nepāra skaitlim. Ja puses nav vienojušās par šķīrējtiesnešu skaitu un ja pastāvīgās šķīrējtiesas reglamentā nav noteikts citādi, šķīrējtiesas sastāvā ir trīs šķīrējtiesneši.\n(2) Šķīrējtiesas sastāvā var būt viens šķīrējtiesnesis, ja puses tā vienojušās."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "30",
+      "title": "Šķīrējtiesnešu iecelšana",
+      "content": "(1) Šķīrējtiesnešu iecelšanas kārtību nosaka puses.\n(2) Puses šķīrējtiesnešu iecelšanu var uzticēt jebkurai rīcībspējīgai fiziskajai personai vai juridiskajai personai.\n(3) Puses, kuras vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, šķīrējtiesnešus ieceļ saskaņā ar pastāvīgās šķīrējtiesas reglamentu un pušu vienošanos, ievērojot pušu līdztiesību.\n(4) Ja puses vienojušās par strīda nodošanu izšķiršanai ad hoc šķīrējtiesā, katra puse ieceļ pa vienam šķīrējtiesnesim. Abi šķīrējtiesneši, savstarpēji vienojoties, ieceļ trešo šķīrējtiesnesi, kas ir šķīrējtiesas sastāva priekšsēdētājs. Šķīrējtiesas sastāvā var būt viens šķīrējtiesnesis, ja puses tā vienojušās.\n(5) Ja puse iecēlusi šķīrējtiesnesi un par to ir paziņots otrai pusei, tā nevar atcelt šo šķīrējtiesnesi bez otras puses piekrišanas.\n(6) Puse var lūgt rajona (pilsētas) tiesu iecelt šķīrējtiesnesi Civilprocesa likumā noteiktajā kārtībā, ja otra puse, pušu ieceltie šķīrējtiesneši, pastāvīgā šķīrējtiesa vai cita persona nerīkojas saskaņā ar kārtību, kāda noteikta šajā pantā.\n(7) Latvijas Zvērinātu advokātu padome izveido un uztur to zvērinātu advokātu sarakstu, kuri var tikt iecelti par šķīrējtiesnešiem Civilprocesa likumā noteiktajos gadījumos. Zvērinātu advokātu sarakstā iekļauj, saņemot viņa rakstveida piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "31",
+      "title": "Šķīrējtiesas paziņojumi un sūtījumi",
+      "content": "(1) Šķīrējtiesa sagatavotos dokumentus (spriedumus, lēmumus, paziņojumus u.c.) nosūta pasta vai elektroniskā pasta sūtījumā. Dokumentus, kurus sagatavo un iesniedz šķīrējtiesai puse (prasības pieteikumu, atsauksmi par prasību u.c.), šķīrējtiesa, ja tas noteikts šķīrējtiesas reglamentā, otrai pusei nosūta pasta vai elektroniskā pasta sūtījumā vai paziņo par to saņemšanu šķīrējtiesā un iespējām ar tiem iepazīties.\n(2) Šā panta pirmajā daļā minētos dokumentus fiziskajai personai nosūta ierakstītā pasta sūtījumā uz tās deklarētās dzīvesvietas adresi, bet, ja deklarācijā norādīta papildu adrese, — uz papildu adresi, ja vien fiziskā persona saziņai ar šķīrējtiesu nav norādījusi citu adresi, bet juridiskajai personai — uz tās juridisko adresi.\n(3) Šā panta pirmajā daļā minētos dokumentus elektroniskā pasta sūtījumā nosūta, ja puse ir paziņojusi šķīrējtiesai, ka piekrīt saziņai ar šķīrējtiesu izmantot elektronisko pastu. Šādā gadījumā šķīrējtiesa dokumentus nosūta uz puses norādīto elektroniskā pasta adresi. Ja šķīrējtiesa konstatē tehniskus šķēršļus dokumentu nosūtīšanai elektroniskā pasta sūtījumā, tos nosūta ierakstītā pasta sūtījumā.\n(4) Paziņojumu par pirmo šķīrējtiesas sēdi nosūta pusēm ierakstītā pasta sūtījumā ne vēlāk kā 15 dienas iepriekš, ja puses nav vienojušās par īsāku termiņu. Termiņu un kārtību, kādā nosūtāmi paziņojumi par citām šķīrējtiesas sēdēm, nosaka saskaņā ar pastāvīgās šķīrējtiesas reglamentu.\n(5) Šā panta pirmajā daļā minētie dokumenti uzskatāmi par saņemtiem izsniegšanas dienā, ja tie ir piegādāti un izsniegti adresātam personīgi. Ja tie ir nosūtīti ar pasta sūtījumu, uzskatāms, ka tie saņemti septītajā dienā pēc pasta sūtījuma nosūtīšanas dienas, bet, ja tie nosūtīti elektroniskā pasta sūtījumā, uzskatāms, ka tie saņemti divu darbdienu laikā pēc nosūtīšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Šķīrējtiesas procesa sagatavošana",
+      "section": "32",
+      "title": "Pušu pārstāvība",
+      "content": "(1) Fiziskā persona savu lietu šķīrējtiesā ved pati vai ar pilnvarota pārstāvja starpniecību. Juridiskās personas lietu šķīrējtiesā ved tā amatpersona, kas darbojas likumā, statūtos vai nolikumā piešķirto pilnvaru ietvaros, vai arī juridiskās personas pilnvarots pārstāvis.\n(2) Par pilnvarotu pārstāvi var būt jebkura fiziskā persona, izņemot personu:\n1) kura nav sasniegusi pilngadību;\n2) kurai nodibināta aizgādnība;\n3) kurai ar tiesas spriedumu atņemtas tiesības vest citu personu lietas;\n4) kura ir radniecības attiecībās līdz trešajai pakāpei vai svainības attiecībās līdz otrajai pakāpei ar šķīrējtiesnesi, kas izšķir civiltiesisko strīdu;\n5) kura sniegusi juridisko palīdzību civiltiesiskā strīda otrai pusei šajā vai ar to saistītā citā lietā;\n6) kura piedalījusies mediācijā šajā vai ar to saistītā citā lietā.\n(3) Konstatējot šā panta otrajā daļā minētos apstākļus, šķīrējtiesas sastāvs nepielaiž šādu personu civiltiesiskā strīda izšķiršanā.\n(4) Persona, kas ir vai pēdējo divu gadu laikā ir bijusi attiecīgās pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstā, nevar būt puses pārstāvis un to nevar pieaicināt juridiskās palīdzības sniegšanai šīs pastāvīgās šķīrējtiesas procesos.\n(5) Puses šķīrējtiesas procesā var pieaicināt advokātu juridiskās palīdzības sniegšanai."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "33",
+      "title": "Prasības nodrošinājums un pagaidu aizsardzība strīdos, kas pakļauti izšķiršanai šķīrējtiesā",
+      "content": "(1) Par prasības nodrošinājumu un pagaidu aizsardzību strīdos, kas pakļauti izšķiršanai šķīrējtiesā, lemj rajona (pilsētas) tiesa Civilprocesa likumā noteiktajā kārtībā. Tā pati rajona (pilsētas) tiesa pēc puses motivēta lūguma lemj par prasības nodrošinājuma vai pagaidu aizsardzības atcelšanu vai grozīšanu.\n(2) Pieteikums par prasības nodrošinājumu vai pieteikums par prasības nodrošinājuma grozīšanu nav uzskatāms par šķīrējtiesas līguma neievērošanu un nav šķērslis civiltiesiskā strīda izšķiršanai šķīrējtiesā."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "34",
+      "title": "Šķīrējtiesas procesa uzsākšana",
+      "content": "(1) Pastāvīgajā šķīrējtiesā, kā arī ad hoc šķīrējtiesā, ja puses ir šķīrējtiesas līgumā vienojušās par šķīrējtiesas sastāvu, šķīrējtiesas process sākas ar prasības pieteikuma iesniegšanas brīdi.\n(2) Ad hoc šķīrējtiesā, ja puses nav līgumā vienojušās par šķīrējtiesas sastāvu, šķīrējtiesas process sākas ar brīdi, kad atbildētājs saņem no prasītāja prasības pieteikuma norakstu un paziņojumu par šķīrējtiesneša iecelšanu.\n(3) Pastāvīgajā šķīrējtiesā, ja puses nav līgumā vienojušās par šķīrējtiesas sastāvu, šķīrējtiesas process sākas ar prasības pieteikuma iesniegšanas brīdi."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "35",
+      "title": "Prasības pieteikuma iesniegšana",
+      "content": "(1) Prasības pieteikumu šķīrējtiesai iesniedz rakstveidā.\n(2) Prasības pieteikumā norāda:\n1) prasītāja vārdu, uzvārdu, personas kodu, deklarēto dzīvesvietu, bet, ja tādas nav, — dzīvesvietu; juridiskajai personai — tās nosaukumu, reģistrācijas numuru un juridisko adresi. Prasītājs var norādīt savu tālruņa numuru vai elektroniskā pasta adresi, ja piekrīt saziņai ar šķīrējtiesu izmantot tālruni vai elektronisko pastu;\n2) atbildētāja vārdu, uzvārdu, personas kodu, deklarēto dzīvesvietu un deklarācijā norādīto papildu adresi, bet, ja tādas nav, — dzīvesvietu; juridiskajai personai — tās nosaukumu, reģistrācijas numuru un juridisko adresi. Atbildētāja personas kodu vai reģistrācijas numuru norāda, ja tas ir zināms;\n3) ja prasību ceļ pārstāvis, — prasītāja pārstāvja vārdu, uzvārdu, personas kodu un adresi saziņai ar šķīrējtiesu; juridiskajai personai — tās nosaukumu, reģistrācijas numuru un juridisko adresi;\n4) prasībās par naudas summas piedziņu — kredītiestādes nosaukumu un tā konta numuru, kurā veicama samaksa, ja šāds konts ir;\n5) prasības priekšmetu, summu, prasības summas aprēķinu;\n6) prasības pamatu un pierādījumus, kas to apstiprina;\n7) prasītāja prasījumus;\n8) pievienoto dokumentu sarakstu;\n9) citas ziņas, ja tās nepieciešamas lietas izskatīšanai.\n(3) Prasības pieteikumam pievieno:\n1) šķīrējtiesas līgumu, ja vien tas nav ietverts līgumā, kura sakarā strīds radies;\n2) līgumu, kura sakarā strīds radies;\n3) dokumentus, uz kuriem prasītājs atsaucas prasības pieteikumā.\n(4) Prasības pieteikumu iesniedz šķīrējtiesai, pievienojot tikpat norakstu, cik ir šķīrējtiesas procesa dalībnieku."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "36",
+      "title": "Paziņojums par šķīrējtiesas procesa uzsākšanu",
+      "content": "Pēc šķīrējtiesas procesa uzsākšanas šķīrējtiesa nekavējoties nosūta atbildētājam paziņojumu par šķīrējtiesas procesa uzsākšanu un prasības pieteikuma norakstu, izskaidrojot atbildētāja tiesības iesniegt rakstveida atsauksmi par prasību."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "37",
+      "title": "Atsauksme par prasību",
+      "content": "(1) Atsauksmi par prasību atbildētājs iesniedz pušu vai šķīrējtiesas noteiktajā termiņā. Atsauksmes iesniegšanas termiņš nedrīkst būt īsāks par 15 dienām no dienas, kad prasības pieteikums nosūtīts atbildētājam.\n(2) Atsauksmē atbildētājs norāda:\n1) vai viņš atzīst prasību pilnīgi vai kādā tās daļā;\n2) savus iebildumus pret prasību;\n3) apstākļus, ar kuriem viņš pamato savus iebildumus, un pierādījumus, kas tos apstiprina;\n4) citus apstākļus, kurus viņš uzskata par nozīmīgiem civiltiesiskā strīda izskatīšanai;\n5) savu tālruņa numuru vai elektroniskā pasta adresi, ja viņš piekrīt saziņai ar šķīrējtiesu izmantot tālruni vai elektronisko pastu.\n(3) Atsauksmes neiesniegšana nav šķērslis civiltiesiskā strīda izskatīšanai.\n(4) Atsauksmi iesniedz šķīrējtiesai, pievienojot tikpat norakstu, cik ir šķīrējtiesas procesa dalībnieku."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "38",
+      "title": "Pretprasība",
+      "content": "(1) Puses var brīvi vienoties par pretprasības iesniegšanas kārtību, ja pretprasības priekšmets ir aptverts šķīrējtiesas līgumā. Ja puses ir vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, bet nav vienojušās par pretprasības iesniegšanas kārtību, to nosaka pastāvīgās šķīrējtiesas reglaments. Pretprasību iesniedz atbilstoši prasības pieteikuma iesniegšanas vispārīgajiem noteikumiem.\n(2) Ja strīdu izšķir ad hoc šķīrējtiesa un puses nav vienojušās par pretprasības iesniegšanas kārtību, atbildētājs ir tiesīgs iesniegt pretprasību ne vēlāk par atsauksmes iesniegšanai noteikto termiņu.\n(3) Pretprasību iesniedz šķīrējtiesai, pievienojot tikpat norakstu, cik ir šķīrējtiesas procesa dalībnieku."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "39",
+      "title": "Prasības grozīšana un papildināšana",
+      "content": "(1) Ja puses nav vienojušās citādi, pusei ir tiesības rakstveidā grozīt vai papildināt prasību, kamēr nav uzsākta civiltiesiskā strīda izšķiršana pēc būtības.\n(2) Ja tiek grozīts vai papildināts prasības pamats, atbildētājam ir tiesības šķīrējtiesas sastāva noteiktajā termiņā iesniegt rakstveida atsauksmi. Uz atsauksmes iesniegšanu attiecas šā likuma 37.panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "40",
+      "title": "Šķīrējtiesas sēde",
+      "content": "(1) Ievērojot pušu noslēgto šķīrējtiesas līgumu, šķīrējtiesas sastāvs civiltiesisko strīdu izšķir mutvārdu vai rakstveida procesā.\n(2) Mutvārdu procesā šķīrējtiesas sastāvs rīko šķīrējtiesas sēdi, lai uzklausītu pušu paskaidrojumus un iebildumus, kā arī pārbaudītu pierādījumus.\n(3) Rakstveida procesā šķīrējtiesas sastāvs izšķir strīdu, pamatojoties tikai uz iesniegtajiem rakstveida pierādījumiem un materiāliem.\n(4) Šķīrējtiesas sastāvs izskata civiltiesisko strīdu mutvārdu procesā, ja puses nav šķīrējtiesas līgumā vienojušās par procesa veidu vai ja tās ir vienojušās par rakstveida procesu, bet kāda no pusēm līdz nolēmuma pieņemšanai pieprasa mutvārdu procesu.\n(5) Šķīrējtiesas sastāvs iepazīstina puses ar iesniegumiem, dokumentiem un citu informāciju, kuru tas saņēmis, kā arī ar ekspertu atzinumiem un citiem pierādījumiem."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "41",
+      "title": "Pierādījumi un pierādīšanas līdzekļi",
+      "content": "(1) Pierādījumi ir ziņas, uz kuru pamata šķīrējtiesas sastāvs nosaka tādu faktu esamību vai neesamību, kuriem ir nozīme civiltiesiskā strīda izšķiršanā.\n(2) Pierādījumus iesniedz puses. Katrai pusei jāpierāda tie apstākļi, ar kuriem tā pamato savus prasījumus vai iebildumus.\n(3) Pierādīšanas līdzekļi šķīrējtiesā var būt pušu paskaidrojumi, rakstveida pierādījumi (rakstveida dokumenti, audioieraksti, videomagnetofona lentes, elektronisko datu nesēji, digitālie videodiski u.c.), lietiskie pierādījumi, liecinieku liecības un ekspertu atzinumi.\n(4) Dokumentus iesniedz oriģinālā vai noteiktā kārtībā apliecināta noraksta, kopijas vai izraksta veidā. Ja puse iesniedz dokumentu noraksta, kopijas vai izraksta veidā, šķīrējtiesas sastāvs pats vai pēc otras puses lūguma var pieprasīt, lai tā iesniedz dokumenta oriģinālu. Dokumenta oriģinālu pēc tās personas lūguma, kas šo dokumentu iesniegusi, šķīrējtiesas sastāvs atdod atpakaļ iesniedzējam, pievienojot šķīrējtiesas procesa materiāliem noteiktā kārtībā apliecinātu norakstu, kopiju vai izrakstu.\n(5) Šķīrējtiesas sastāvs nosaka pierādījumu pieļaujamību un attiecināmību."
+    },
+    {
+      "provision_ref": "Art. 41.1",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "41.1",
+      "title": "41. 1 pants. Šķīrējtiesas lūgums par pierādījumu iegūšanu",
+      "content": "(1) Šķīrējtiesa var lūgt rajona (pilsētas) tiesu Civilprocesa likumā noteiktajā kārtībā veikt nepieciešamās procesuālās darbības pierādījumu iegūšanai, ja šķīrējtiesai, kura izskata lietu, nav iespējams iegūt pierādījumus, kuriem var būt būtiska nozīme lietā.\n(2) Lūgumā par pierādījumu iegūšanu norāda šķīrējtiesas procesa puses, izskatāmās lietas būtību un apstākļus, kuri jānoskaidro, kā arī konkrētus pierādījumus, kas jāsavāc tiesai, kura izpilda lūgumu. Ja lūgts nopratināt liecinieku, norāda lieciniekam uzdodamos jautājumus.\n(3) Civilprocesa likumā noteiktos izdevumus, kas saistīti ar lūgumu par pierādījumu iegūšanu šā panta pirmajā daļā noteiktajos gadījumos, šķīrējtiesā iemaksā tā puse, kura izteikusi attiecīgo lūgumu šķīrējtiesai. Ja minēto lūgumu izteikušas abas puses, tās iemaksā ar pierādījumu iegūšanu saistītos izdevumus vienādā apmērā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "42",
+      "title": "Pierādījumu novērtēšana",
+      "content": "(1) Nekādiem pierādījumiem nav iepriekš noteikta spēka, kas saistītu šķīrējtiesas sastāvu.\n(2) Šķīrējtiesas sastāvam sprieduma motivējumā jānorāda, kādēļ tas vienam pierādījumam devis priekšroku salīdzinājumā ar citu pierādījumu un atzinis dažus faktus par pierādītiem, bet citus — par nepierādītiem."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "43",
+      "title": "Rakstveida pierādījumu pieprasīšana",
+      "content": "(1) Šķīrējtiesas sastāvs pēc puses motivēta lūguma ir tiesīgs pieprasīt, lai otra puse izsniedz tās rīcībā esošos rakstveida pierādījumus.\n(2) Pusei, kura lūdz, lai šķīrējtiesas sastāvs pieprasa rakstveida pierādījumu, jāapraksta šis pierādījums un jāmotivē, kāpēc tā uzskata, ka pierādījums atrodas pie pretējās puses.\n(3) Ja puse atsakās iesniegt šķīrējtiesas sastāvam tā norādītajā termiņā pieprasīto rakstveida pierādījumu, nenoliegdama, ka šis pierādījums atrodas pie tās, šķīrējtiesas sastāvs var atzīt par pierādītiem tos faktus, kuru apstiprināšanai pretējā puse atsaukusies uz šo rakstveida pierādījumu."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "44",
+      "title": "Ekspertīze",
+      "content": "(1) Ja šķīrējtiesas līgumā nav noteikts citādi, šķīrējtiesas sastāvs pēc puses lūguma var noteikt ekspertīzi un tās veikšanu uzdot vienam vai vairākiem ekspertiem.\n(2) Puses pēc šķīrējtiesas sastāva pieprasījuma iesniedz ekspertam nepieciešamās ziņas vai dokumentus, uzrāda preces vai citus priekšmetus.\n(3) Pēc puses lūguma šķīrējtiesas sastāvs uzaicina ekspertu piedalīties šķīrējtiesas sēdē. Puses ir tiesīgas uzdot ekspertam jautājumus par atzinumu."
+    },
+    {
+      "provision_ref": "Art. 44.1",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "44.1",
+      "title": "44. 1 pants. Liecinieku liecības",
+      "content": "(1) Liecinieks ir persona, kurai zināmi fakti, kas attiecas uz lietu, un kuru šķīrējtiesa pēc puses motivēta lūguma ir uzaicinājusi uz šķīrējtiesas sēdi.\n(2) Pusei, kura lūdz, lai šķīrējtiesas sastāvs uzklausa liecinieku, jānorāda, kādus lietai nozīmīgus apstākļus liecinieks var apstiprināt.\n(3) Liecinieku var nopratināt vienīgi par šajā lietā noskaidrojamiem faktiem."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "45",
+      "title": "Šķīrējtiesas procesa izdevumi",
+      "content": "(1) Šķīrējtiesas procesa izdevumos ietilpst ar civiltiesiskā strīda izskatīšanu saistītās izmaksas un šķīrējtiesnešu honorārs.\n(2) Šķīrējtiesas procesa izdevumu apmēru, kā arī samaksas termiņus un kārtību nosaka šķīrējtiesa, ievērojot prasības summu, civiltiesiskā strīda sarežģītību, šķīrējtiesas līguma nosacījumus un citus būtiskus apstākļus.\n(3) Ja puses nav šķīrējtiesas līgumā vienojušās citādi, maksu par ekspertīzes veikšanu, par sekretāra, tulka un eksperta piedalīšanos šķīrējtiesas procesā, kā arī citus šķīrējtiesas procesa izdevumus šķīrējtiesas noteiktā kārtībā maksā tā puse, kura iesniegusi lūgumu par sekretāra, tulka un eksperta piedalīšanos, kā arī ekspertīzes veikšanu šķīrējtiesas procesā. Ja šādu lūgumu iesniegušas abas puses, katra iemaksā pusi no izdevumu summas."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "46",
+      "title": "No puses nepiedalīšanās šķīrējtiesas procesā izrietošās sekas",
+      "content": "Ja puse bez attaisnojoša iemesla neierodas uz šķīrējtiesas sēdi vai neiesniedz rakstveida pierādījumus, šķīrējtiesas sastāvs turpina šķīrējtiesas procesu un izšķir civiltiesisko strīdu, pamatojoties uz tā rīcībā esošajiem pierādījumiem."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "47",
+      "title": "Puses izstāšanās procesuālās sekas",
+      "content": "(1) Fakts, ka fiziskā persona, kas ir viena no pusēm, ir mirusi vai juridiskā persona, kas ir viena no pusēm, beigusi pastāvēt, pats par sevi neizbeidz šķīrējtiesas līgumu, ja puses nav vienojušās citādi un apstrīdētās tiesiskās attiecības pieļauj tiesību pārņemšanu.\n(2) Šķīrējtiesas sastāvs aptur šķīrējtiesas procesu līdz puses tiesību pārņēmēja noteikšanai.\n(3) Prasījuma cesija ir pamats šķīrējtiesas procesa izbeigšanai, ja vien puses nav no jauna vienojušās par civiltiesiskā strīda izskatīšanu šķīrējtiesā."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "48",
+      "title": "Tiesības uz iebildumiem",
+      "content": "(1) Pusei ir tiesības iesniegt iebildumus, ja ir pārkāpts vai nav ievērots kāds no šā likuma, pastāvīgās šķīrējtiesas reglamenta vai pušu vienošanās nosacījumiem. Iebildumus puse iesniedz šķīrējtiesas sastāvam un otrai pusei rakstveidā, tiklīdz tai par attiecīgo pārkāpumu ir kļuvis zināms.\n(2) Ja puse neiesniedz iebildumus, uzskatāms, ka tā ir atteikusies no savām tiesībām celt iebildumus, izņemot gadījumu, kad iebildumus puse nav iesniegusi no tās neatkarīgu iemeslu dēļ.\n(3) Par iebildumu pamatotību lemj šķīrējtiesas sastāvs."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "49",
+      "title": "Protokols",
+      "content": "(1) Šķīrējtiesas sēdes protokolē tikai tad, ja kāda no pusēm to pieprasa.\n(2) Protokolu raksta šķīrējtiesas izraudzīts sekretārs.\n(3) Protokolu paraksta visi šķīrējtiesneši un sekretārs. Protokolu paraksta ne vēlāk kā trešajā dienā pēc šķīrējtiesas sēdes pabeigšanas.\n(4) Pusēm ir tiesības iepazīties ar protokolu un piecu dienu laikā pēc tā parakstīšanas iesniegt rakstveida iebildumus, norādot protokolā konstatētās nepilnības. Par iebildumu pamatotību lemj šķīrējtiesas sastāvs."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "VII nodaļa Strīda izšķiršana šķīrējtiesā",
+      "section": "50",
+      "title": "Šķīrējtiesas procesa dokumentu glabāšana pēc procesa pabeigšanas",
+      "content": "(1) Ja strīdu izšķir pastāvīgā šķīrējtiesa, šķīrējtiesas procesa dokumentus tā glabā 10 gadus pēc procesa pabeigšanas saskaņā ar normatīvajos aktos noteikto arhīva dokumentu glabāšanas kārtību.\n(2) Ja pastāvīgā šķīrējtiesa izbeidz savu darbību, tās dibinātājs nodod šķīrējtiesas procesu dokumentus glabāšanā Latvijas Nacionālajam arhīvam. Izdevumus par šķīrējtiesas procesu dokumentu glabāšanu sedz pastāvīgās šķīrējtiesas dibinātājs.\n(3) Ja strīdu izšķir ad hoc šķīrējtiesa, šķīrējtiesas procesa dokumenti tiek noformēti tikpat eksemplāros, cik lietā ir pušu. Pēc šķīrējtiesas procesa pabeigšanas tos izsniedz katrai pusei."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "51",
+      "title": "Šķīrējtiesas nolēmumu pieņemšana",
+      "content": "(1) Visi šķīrējtiesas nolēmumi, ja tās sastāvā ir trīs vai vairāk šķīrējtiesneši, tiek pieņemti ar balsu vairākumu, izņemot šā likuma 26.panta ceturtajā daļā minēto gadījumu.\n(2) Šķīrējtiesas nolēmums stājas spēkā tā pieņemšanas dienā. Šķīrējtiesas nolēmums nav pārsūdzams.\n(3) Šķīrējtiesas spriedumu var apstrīdēt Civilprocesa likuma 66. nodaļā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "52",
+      "title": "Šķīrējtiesas lēmumi",
+      "content": "Šķīrējtiesas sastāvs var pieņemt lēmumus par civiltiesiskā strīda izšķiršanas atlikšanu un citiem procesuāliem jautājumiem, neizspriežot civiltiesisko strīdu pēc būtības."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "53",
+      "title": "Izlīgums",
+      "content": "(1) Izlīgums pieļaujams jebkurā civiltiesiskā strīdā, izņemot šā panta otrajā daļā minēto gadījumu.\n(2) Izlīgums nav pieļaujams, ja tā noteikumi aizskar citas personas tiesības vai ar likumu aizsargātas intereses.\n(3) Ja šķīrējtiesas procesā puses panāk izlīgumu, šķīrējtiesas sastāvs šķīrējtiesas procesu izbeidz un, ja puses to lūdz un šķīrējtiesas sastāvs tam piekrīt, sastāda izlīgumu šķīrējtiesas sprieduma veidā, tajā iekļaujot noteikumus, par kuriem panākta vienošanās.\n(4) Šādam šķīrējtiesas spriedumam ir tāds pats statuss un juridiskais spēks kā jebkuram citam šķīrējtiesas spriedumam, ar kuru civiltiesiskais strīds izšķirts pēc būtības."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "54",
+      "title": "Šķīrējtiesas spriedums",
+      "content": "(1) Šķīrējtiesas sastāvs 14 dienu laikā pēc tam, kad civiltiesisko strīdu izskatījis pēc būtības, taisa spriedumu.\n(2) Šķīrējtiesas sastāvs spriedumu taisa rakstveidā.\n(3) Ja šķīrējtiesas sastāvā ir vairāki šķīrējtiesneši, spriedumu paraksta visi šķīrējtiesneši. Ja kāds no šķīrējtiesnešiem neparaksta spriedumu, šķīrējtiesas spriedumā norādāms iemesls, kāpēc nav viņa paraksta.\n(4) Spriedumā norāda:\n1) šķīrējtiesas sastāvu;\n2) sprieduma taisīšanas datumu un šķīrējtiesas procesa norises vietu;\n3) ziņas par pusēm — fiziskās personas vārdu, uzvārdu, personas kodu, citus personas identifikācijas datus un deklarētās dzīvesvietas adresi vai citu saziņai izmantojamu adresi, juridiskās personas nosaukumu, reģistrācijas numuru, citus personu identificējošus datus un juridisko adresi;\n4) strīda priekšmetu;\n5) sprieduma motivējumu, ja puses nav vienojušās citādi;\n6) secinājumu par prasības pilnīgu vai daļēju apmierināšanu vai par pilnīgu vai daļēju noraidīšanu un sprieduma būtību;\n7) piedzenamo summu, ja spriedums taisīts par naudas piedziņu, atsevišķi norādot galveno parādu un procentus, laiku, par kādu procenti piespriesti, prasītāja tiesības par laiku līdz sprieduma izpildei saņemt procentus un arī šo procentu apmēru;\n8) konkrēto mantu un tās vērtību, kas piedzenama mantas neesības gadījumā, ja spriedums taisīts par mantas atdošanu natūrā;\n9) kam, kādas darbības un kādā termiņā jāizpilda, ja spriedums uzliek par pienākumu izpildīt noteiktas darbības;\n10) kāda sprieduma daļa attiecas uz katru prasītāju, ja spriedums taisīts vairāku prasītāju labā, vai kāda sprieduma daļa jāizpilda katram atbildētājam, ja spriedums taisīts pret vairākiem atbildētājiem;\n11) šķīrējtiesas procesa izdevumus un to sadalījumu starp pusēm;\n12) pušu izdevumus par juridisko palīdzību lietā, ja tādi ir, un to sadalījumu starp pusēm;\n13) citu informāciju, ko tiesas sastāvs uzskata par nepieciešamu.\n(5) Šķīrējtiesas spriedumu nosūta pusēm triju darbdienu laikā no tā taisīšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "55",
+      "title": "Sprieduma labošana, izskaidrošana un papildsprieduma taisīšana",
+      "content": "(1) Šķīrējtiesas sastāvs pēc savas iniciatīvas vai puses lūguma var labot spriedumā pārrakstīšanās un matemātiskā aprēķina kļūdas. Šādas kļūdas var labot bez pušu piedalīšanās.\n(2) Ja vien puses nav vienojušās citādi, tad viena puse, paziņojot par to otrai pusei, 30 dienu laikā pēc sprieduma noraksta nosūtīšanas dienas vai sprieduma noraksta saņemšanas dienas, ja tas izsniegts personiski, var lūgt šķīrējtiesas sastāvu izskaidrot spriedumu, negrozot tā saturu. Sprieduma izskaidrojums no tā pieņemšanas brīža kļūst par sprieduma neatņemamu sastāvdaļu.\n(3) Ja vien puses nav vienojušās citādi, tad viena puse, paziņojot par to otrai pusei, 30 dienu laikā no sprieduma noraksta nosūtīšanas dienas vai sprieduma noraksta saņemšanas dienas, ja tas izsniegts personiski, var lūgt šķīrējtiesas sastāvu taisīt papildspriedumu, ja nav izlemts kāds no pieteiktajiem prasījumiem, par kuru bija iesniegti pierādījumi un par kuru puses devušas paskaidrojumus. Ja šķīrējtiesas sastāvs uzskata lūgumu par pamatotu, tas taisa papildspriedumu.\n(4) Šķīrējtiesas sastāvs ne vēlāk kā 15 dienas iepriekš paziņo pusēm par šķīrējtiesas sēdi, kurā tiks izlemts jautājums par sprieduma labošanu, izskaidrošanu vai papildsprieduma taisīšanu. Ja sprieduma labošanas dēļ var mainīties tā rezolutīvā daļa, bet sprieduma būtība nemainās, šķīrējtiesas sastāvs aicina puses izteikt savu viedokli. Pušu neierašanās nav šķērslis sprieduma labošanai, izskaidrošanai vai papildsprieduma taisīšanai. Papildspriedumu šķīrējtiesas sastāvs taisa saskaņā ar šā likuma 54.pantu ."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "56",
+      "title": "Kārtība, kādā apliecināmi šķīrējtiesnešu paraksti uz nolēmuma",
+      "content": "Pastāvīgajā šķīrējtiesā kārtību, kādā apliecināmi šķīrējtiesnešu paraksti uz nolēmuma, nosaka pastāvīgās šķīrējtiesas reglaments, bet ad hoc šķīrējtiesā pirms nolēmuma izsniegšanas šķīrējtiesnešu parakstus apliecina notariāli."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "57",
+      "title": "Šķīrējtiesas procesa izbeigšana",
+      "content": "(1) Šķīrējtiesas sastāvs pieņem lēmumu par šķīrējtiesas procesa izbeigšanu, ja:\n1) prasītājs atteicies no prasības;\n2) puses vienojas par izlīgumu;\n3) šķīrējtiesas līgums likumā vai līgumā noteiktajā kārtībā zaudējis spēku;\n4) tas atzīst, ka civiltiesiskais strīds nav piekritīgs šķīrējtiesai;\n5) fiziskā persona, kas ir viena no pusēm, ir mirusi vai juridiskā persona, kas ir viena no pusēm, ir beigusi pastāvēt un apstrīdētās tiesiskās attiecības nepieļauj tiesību pārņemšanu vai puses ir vienojušās par to, ka šķīrējtiesas process šādā gadījumā izbeidzams.\n(2) Ja šķīrējtiesas process ir izbeigts šā panta pirmās daļas 1. vai 2.punktā norādīto iemeslu dēļ, atkārtota vēršanās šķīrējtiesā vai vēršanās rajona (pilsētas) tiesā strīdā starp tām pašām pusēm, par to pašu priekšmetu un uz tā paša pamata nav pieļaujama.\n(3) Ja šķīrējtiesas process ir izbeigts šā panta pirmās daļas 3., 4. vai 5.punktā norādīto iemeslu dēļ, prasības pieteikumu var iesniegt rajona (pilsētas) tiesā."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "58",
+      "title": "Šķīrējtiesas sprieduma apstrīdēšanas un izpildīšanas kārtība",
+      "content": "(1) Šķīrējtiesas spriedums pusēm ir obligāts un izpildāms labprātīgi tajā noteiktajā termiņā. Labprātīgai sprieduma izpildei noteiktais termiņš nav īsāks par 10 dienām.\n(2) Puse var Civilprocesa likumā noteiktajā kārtībā vērsties rajona (pilsētas) tiesā ar pieteikumu par šķīrējtiesas sprieduma apstrīdēšanu vai, ja šķīrējtiesas spriedums izpildāms Latvijā, bet netiek labprātīgi pildīts, — ar pieteikumu par izpildu raksta izsniegšanu šķīrējtiesas sprieduma piespiedu izpildei.\n(3) Pastāvīgā šķīrējtiesa pēc rajona (pilsētas) tiesas pieprasījuma izsniedz tās pieprasīto informāciju, kas nepieciešama pieteikuma izskatīšanai par pastāvīgās šķīrējtiesas sprieduma apstrīdēšanu vai izpildu raksta izsniegšanu šķīrējtiesas sprieduma piespiedu izpildei."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn1",
+      "title": "1. Šķīrējtiesu reģistrā reģistrētas pastāvīgās šķīrējtiesas dibinātājs līdz 2015.gada 1.jūnijam Uzņēmumu reģistram iesniedz apliecinājumu par pastāvīgās šķīrējtiesas atbilstību šā likuma 2.panta otrajai daļai, 4. un 7.pantam un iesniedz 8.panta trešajā daļā minētos dokumentus.",
+      "content": "1. Šķīrējtiesu reģistrā reģistrētas pastāvīgās šķīrējtiesas dibinātājs līdz 2015.gada 1.jūnijam Uzņēmumu reģistram iesniedz apliecinājumu par pastāvīgās šķīrējtiesas atbilstību šā likuma 2.panta otrajai daļai, 4. un 7.pantam un iesniedz 8.panta trešajā daļā minētos dokumentus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn2",
+      "title": "2. Ja pastāvīgās šķīrējtiesas dibinātājs šo pārejas noteikumu 1.punktā noteiktajā termiņā nav iesniedzis paredzētos apliecinājumus un dokumentus, Uzņēmumu reģistrs līdz 2015.gada 1.oktobrim saskaņā ar Ministru kabineta noteikumos par šķīrējtiesu reģistru paredzēto kārtību lemj par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.",
+      "content": "2. Ja pastāvīgās šķīrējtiesas dibinātājs šo pārejas noteikumu 1.punktā noteiktajā termiņā nav iesniedzis paredzētos apliecinājumus un dokumentus, Uzņēmumu reģistrs līdz 2015.gada 1.oktobrim saskaņā ar Ministru kabineta noteikumos par šķīrējtiesu reģistru paredzēto kārtību lemj par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn3",
+      "title": "3. Pastāvīgā šķīrējtiesa, kuras dibinātājs noteiktajā termiņā nav iesniedzis šo pārejas noteikumu 1.punktā minētos dokumentus, var pabeigt uzsāktos šķīrējtiesas procesus, bet ne ilgāk kā līdz dienai, kad Uzņēmumu reģistrs pieņēmis lēmumu par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.",
+      "content": "3. Pastāvīgā šķīrējtiesa, kuras dibinātājs noteiktajā termiņā nav iesniedzis šo pārejas noteikumu 1.punktā minētos dokumentus, var pabeigt uzsāktos šķīrējtiesas procesus, bet ne ilgāk kā līdz dienai, kad Uzņēmumu reģistrs pieņēmis lēmumu par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn4",
+      "title": "4. No šķīrējtiesu reģistra izslēgtās pastāvīgās šķīrējtiesas dibinātājs līdz 2015.gada 1.novembrim nodod šķīrējtiesas procesu dokumentus glabāšanā Latvijas Nacionālajam arhīvam, sedzot izdevumus par to glabāšanu.",
+      "content": "4. No šķīrējtiesu reģistra izslēgtās pastāvīgās šķīrējtiesas dibinātājs līdz 2015.gada 1.novembrim nodod šķīrējtiesas procesu dokumentus glabāšanā Latvijas Nacionālajam arhīvam, sedzot izdevumus par to glabāšanu."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn5",
+      "title": "5. Ja puses vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, kas saskaņā ar šo pārejas noteikumu 2.punktu ir izslēgta no šķīrējtiesu reģistra vai izbeigusi darbību, tās vienojas par civiltiesiskā strīda nodošanu izšķiršanai citā šķīrējtiesā. Ja vienošanās netiek panākta, strīds izskatāms tiesā saskaņā ar Civilprocesa likumu .",
+      "content": "5. Ja puses vienojušās par civiltiesiskā strīda nodošanu izšķiršanai pastāvīgajā šķīrējtiesā, kas saskaņā ar šo pārejas noteikumu 2.punktu ir izslēgta no šķīrējtiesu reģistra vai izbeigusi darbību, tās vienojas par civiltiesiskā strīda nodošanu izšķiršanai citā šķīrējtiesā. Ja vienošanās netiek panākta, strīds izskatāms tiesā saskaņā ar Civilprocesa likumu ."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn6",
+      "title": "6. Ministru kabinets līdz 2015.gada 1.jūnijam izdod šā likuma 6.panta otrajā daļā paredzētos noteikumus. Līdz to spēkā stāšanās dienai ir spēkā Ministru kabineta 2005.gada 29.marta noteikumi Nr.205 “ Noteikumi par valsts nodevu ieraksta izdarīšanai šķīrējtiesu reģistrā ” un 2005.gada 29.marta noteikumi Nr.204 “ Noteikumi par šķīrējtiesu reģistru ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "6. Ministru kabinets līdz 2015.gada 1.jūnijam izdod šā likuma 6.panta otrajā daļā paredzētos noteikumus. Līdz to spēkā stāšanās dienai ir spēkā Ministru kabineta 2005.gada 29.marta noteikumi Nr.205 “ Noteikumi par valsts nodevu ieraksta izdarīšanai šķīrējtiesu reģistrā ” un 2005.gada 29.marta noteikumi Nr.204 “ Noteikumi par šķīrējtiesu reģistru ”, ciktāl tie nav pretrunā ar šo likumu."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn7",
+      "title": "7. Uzņēmumu reģistrs līdz 2015.gada 1.jūlijam nodrošina šā likuma 8.panta septītajā daļā minētās informācijas pieejamību savā mājaslapā internetā, publicējot visu to pastāvīgo šķīrējtiesu reglamentus, kuras līdz 2015.gada 1.jūlijam nav izslēgtas no šķīrējtiesu reģistra.",
+      "content": "7. Uzņēmumu reģistrs līdz 2015.gada 1.jūlijam nodrošina šā likuma 8.panta septītajā daļā minētās informācijas pieejamību savā mājaslapā internetā, publicējot visu to pastāvīgo šķīrējtiesu reglamentus, kuras līdz 2015.gada 1.jūlijam nav izslēgtas no šķīrējtiesu reģistra."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn8",
+      "title": "8. Šķīrējtiesu reģistrā reģistrētās pastāvīgās šķīrējtiesas dibinātājs līdz 2017.gada 1.martam iesniedz Uzņēmumu reģistram nekustamā īpašuma īpašnieka piekrišanu, kas minēta šā likuma 4.panta trešajā daļā, nepieciešamo reglamenta grozījumu tekstu, kā arī pilnu reglamenta tekstu jaunā reakcijā, kas atbilst šā likuma 8.panta pirmās un ceturtās daļas prasībām, pastāvīgās šķīrējtiesas šķīrējtiesnešu sarakstu, kas atbilst šā likuma 8.panta 2. 1 daļas prasībām, un apliecinājumu, kas atbilst šā likuma 8.panta sestās daļas prasībām.",
+      "content": "( 06.10.2016 . likuma redakcijā, kas stājas spēkā 03.11.2016. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn9",
+      "title": "9. Ja pastāvīgās šķīrējtiesas dibinātājs šo pārejas noteikumu 8.punktā noteiktajā termiņā nav iesniedzis minētos dokumentus, Uzņēmumu reģistrs līdz 2017.gada 1.jūnijam lemj par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.",
+      "content": "( 06.10.2016 . likuma redakcijā, kas stājas spēkā 03.11.2016. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn10",
+      "title": "10. Grozījumi šā likuma 8.panta otrajā, trešajā un piektajā daļā, kā arī grozījums par panta papildināšanu ar 5. 1 daļu stājas spēkā 2017.gada 1.martā.",
+      "content": "( 06.10.2016 . likuma redakcijā, kas stājas spēkā 03.11.2016. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn11",
+      "title": "11. Šķīrējtiesu reģistrā reģistrētās pastāvīgās šķīrējtiesas dibinātājs līdz 2017.gada 1.jūnijam iesniedz Uzņēmumu reģistram pieteikumu par grozījumu izdarīšanu šķīrējtiesu reģistrā, nodrošinot šķīrējtiesas atbilstību šā likuma 8.panta otrajai daļai, kas stāsies spēkā 2017.gada 1.martā.",
+      "content": "( 06.10.2016 . likuma redakcijā, kas stājas spēkā 03.11.2016. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VIII nodaļa Šķīrējtiesas nolēmumi",
+      "section": "pn12",
+      "title": "12. Ja pastāvīgās šķīrējtiesas dibinātājs šo pārejas noteikumu 11.punktā noteiktajā termiņā nav iesniedzis paredzētos dokumentus, Uzņēmumu reģistrs līdz 2017.gada 1.septembrim lemj par pastāvīgās šķīrējtiesas izslēgšanu no šķīrējtiesu reģistra.",
+      "content": "( 06.10.2016 . likuma redakcijā, kas stājas spēkā 03.11.2016. )"
+    }
+  ],
+  "definitions": []
+}

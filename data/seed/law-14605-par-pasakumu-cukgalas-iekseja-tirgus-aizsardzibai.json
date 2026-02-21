@@ -1,0 +1,30 @@
+{
+  "id": "lv-law-14605",
+  "type": "statute",
+  "title": "Par pasākumu cūkgaļas iekšējā tirgus aizsardzībai",
+  "short_name": "TA-14605",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/14605-par-pasakumu-cukgalas-iekseja-tirgus-aizsardzibai",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "1.pants.",
+      "content": "Šā likuma mērķis ir aizsargāt cūkgaļas iekšējo tirgu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "2.pants.",
+      "content": "(1) Cūkgaļas iekšējā tirgus aizsardzībai saskaņā ar likumu \"Par iekšējā tirgus aizsardzību\" precēm, kas atbilst Preču aprakstīšanas un kodēšanas harmonizētās sistēmas kodam 0203 — svaiga, atdzesēta vai saldēta cūkgaļa, kā aizsardzības pasākums tiek noteikta mainīga muitas nodokļa likme, kas balstīta uz minimālo cenu 1,05 lati par vienu preces kilogramu.\n(2) Mainīgā muitas nodokļa likme ir vienāda ar starpību starp deklarēto preces muitas vērtību un minimālo cenu. Muitas nodokli aprēķina pēc šādas formulas: deklarētā preces muitas vērtība x muitas nodokļa likme + (minimālā cena — deklarētā preces muitas vērtība).\n(3) Ja deklarēta augstāka muitas vērtība par šajā likumā noteikto minimālo cenu, muitas nodokli aprēķina no deklarētās vērtības."
+    },
+    {
+      "provision_ref": "PN 2000",
+      "section": "pn2000",
+      "title": "Ministru kabinets līdz 2000.gada 1.septembrim iesniedz Saeimai likumprojektu par kārtību, kādā atbilstoši likumam \"Par iekšējā tirgus aizsardzību\", sākot ar 2000.gada 18.decembri, tiek liberalizēts iekšējā tirgus aizsardzības pasākums.",
+      "content": "Ministru kabinets līdz 2000.gada 1.septembrim iesniedz Saeimai likumprojektu par kārtību, kādā atbilstoši likumam \"Par iekšējā tirgus aizsardzību\", sākot ar 2000.gada 18.decembri, tiek liberalizēts iekšējā tirgus aizsardzības pasākums."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,186 @@
+{
+  "id": "lv-law-193111",
+  "type": "statute",
+  "title": "Biometrijas datu apstrādes sistēmas likums",
+  "title_en": "Biometric Data Processing System Law",
+  "short_name": "TA-193111",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/193111-biometrijas-datu-apstrades-sistemas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) biometrijas dati — fiziskās personas fizisko īpašību un rādītāju kopums [sejas digitālais attēls, pirkstu (delnu) pēdas vai nospiedumi];\n2) biometrijas datu apstrāde — jebkuras darbības, kas veiktas ar biometrijas datiem, tai skaitā datu iegūšana, reģistrēšana, glabāšana, sakārtošana, pārveidošana, izmantošana, salīdzināšana, nodošana, pārraidīšana, izpaušana, bloķēšana vai dzēšana;\n3) identitāte — fiziskās personas datu, fizisko īpašību un rādītāju kopums, kas ļauj šo fizisko personu precīzi atšķirt no citas fiziskās personas;\n4) pirkstu (delnu) nospiedumi — no personas rokas pirkstiem (delnas) iegūti nospiedumi;\n5) pirkstu (delnu) pēdas — personas rokas pirksta (delnas) atspoguļojums, ko uz objekta virsmas atstāj persona, pieskaroties objektam vai to satverot;\n6) (izslēgts ar 12.09.2013 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Šā likuma mērķis ir nodrošināt vienotas biometrijas datu apstrādes sistēmas izveidi, lai varētu noteikt fizisko personu identitāti, kā arī novērst svešas identitātes izmantošanu.",
+      "content": "2.pants. Šā likuma mērķis ir nodrošināt vienotas biometrijas datu apstrādes sistēmas izveidi, lai varētu noteikt fizisko personu identitāti, kā arī novērst svešas identitātes izmantošanu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "3",
+      "title": "Biometrijas datu apstrādes sistēma ir valsts informācijas sistēma, kuras pārzinis un turētājs ir Iekšlietu ministrijas Informācijas centrs.",
+      "content": "3.pants. Biometrijas datu apstrādes sistēma ir valsts informācijas sistēma, kuras pārzinis un turētājs ir Iekšlietu ministrijas Informācijas centrs."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "4",
+      "title": "Biometrijas datu apstrādes sistēmas izveidošanu, uzturēšanu un pilnveidošanu finansē no valsts budžetā šiem mērķiem paredzētajiem līdzekļiem.",
+      "content": "4.pants. Biometrijas datu apstrādes sistēmas izveidošanu, uzturēšanu un pilnveidošanu finansē no valsts budžetā šiem mērķiem paredzētajiem līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "5",
+      "title": "Biometrijas datu apstrādes sistēmā iekļauj biometrijas datus, kurus iegūst:",
+      "content": "1) izsniedzot personu apliecinošus dokumentus;\n2) (izslēgts ar 12.09.2013 . likumu) ;\n3) (izslēgts ar 12.09.2013 . likumu) ;\n4) izsniedzot jūrnieku identifikācijas dokumentus;\n5) izsniedzot transportlīdzekļu vadītāju apliecības;\n6) (izslēgts ar 12.09.2013 . likumu) ;\n7) (izslēgts ar 12.09.2013 . likumu) ;\n8) (izslēgts ar 12.09.2013 . likumu) ;\n9) no neatpazītiem līķiem;\n10) operatīvās darbības, pretizlūkošanas un izlūkošanas rezultātā. Iegūtos datus iekļauj biometrijas datu apstrādes sistēmā, ja tas nepieciešams, lai novērstu draudus valsts drošībai un sabiedriskajai kārtībai, un ja lēmumu par šo datu ievadīšanu pieņem operatīvās darbības subjekts, kurš attiecīgos datus ieguvis;\n11) izmeklēšanas darbību rezultātā un no aizturētām, aizdomās turētām, apsūdzētām un notiesātām personām;\n12) no personām, kurām nav derīga personu apliecinoša dokumenta, pēc šā fakta konstatēšanas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "6",
+      "title": "Šā likuma 5.panta 1., 4., 5. un 12.punktā paredzētajos gadījumos biometrijas datu apstrādes sistēmā iekļauj šādus datus:",
+      "content": "1) par personām, kuras ir reģistrētas Iedzīvotāju reģistrā:\na) sejas digitālo attēlu,\nb) pirkstu (delnu) nospiedumu digitālo attēlu (ja iespējams to iegūt),\nc) personas vārdu (vārdus) un uzvārdu,\nd) personas kodu,\ne) dzimumu,\nf) valstisko piederību un tās veidu,\ng) personas nāves faktu,\nh) iestādi — biometrijas datu ieguvēju,\ni) biometrijas datu iegūšanas pamatojumu,\nj) biometrijas datu iegūšanas datumu;\n2) par personām, kuras nav reģistrētas Iedzīvotāju reģistrā:\na) sejas digitālo attēlu,\nb) pirkstu (delnu) nospiedumu digitālo attēlu (ja iespējams to iegūt),\nc) personas vārdu (vārdus) un uzvārdu,\nd) personas dzimšanas datumu,\ne) valstisko piederību un tās veidu,\nf) dzimumu,\ng) iestādi — biometrijas datu ieguvēju,\nh) biometrijas datu iegūšanas pamatojumu,\ni) biometrijas datu iegūšanas datumu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "7",
+      "title": "(1) Šā likuma 5.panta 10. un 11.punktā paredzētajos gadījumos biometrijas datu apstrādes sistēmā par personu, no kuras iegūti pirkstu (delnu) nospiedumi, iekļauj šādus datus:",
+      "content": "1) sejas digitālo attēlu;\n2) pirkstu (delnu) nospiedumu digitālo attēlu;\n3) personas vārdu (vārdus) un uzvārdu;\n4) personas dzimšanas datumu;\n5) personas kodu (ja tāds piešķirts);\n6) valstisko piederību un tās veidu;\n7) dzimumu;\n8) noziedzīga nodarījuma vai administratīvā pārkāpuma (ja tāds konstatēts) juridisko kvalifikāciju;\n9) biometrijas datu [pirkstu (delnu) nospiedumu] iegūšanas pamatojumu;\n10) iestādi — biometrijas datu ieguvēju;\n11) biometrijas datu iegūšanas datumu;\n12) notikuma uzskaites reģistrācijas numuru vai operatīvās uzskaites lietas vai krimināllietas numuru.\n(2) Ja persona ir mainījusi vārdu vai uzvārdu, norāda arī iepriekšējo vārdu un uzvārdu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "8",
+      "title": "Šā likuma 5.panta 10. un 11.punktā paredzētajos gadījumos biometrijas datu apstrādes sistēmā par personu pirkstu (delnu) pēdām iekļauj šādus datus:",
+      "content": "1) pirkstu (delnu) pēdu digitālo attēlu;\n2) notikuma uzskaites reģistrācijas numuru vai operatīvās uzskaites lietas vai krimināllietas numuru;\n3) notikuma datumu;\n4) notikuma adresi;\n5) noziedzīga nodarījuma vai administratīvā pārkāpuma (ja tāds konstatēts) juridisko kvalifikāciju;\n6) iestādi — biometrijas datu ieguvēju;\n7) biometrijas datu iegūšanas datumu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "9",
+      "title": "Biometrijas datu apstrādes sistēmā par neatpazītu līķi iekļauj šādus datus:",
+      "content": "1) sejas digitālo attēlu (ja iespējams to iegūt);\n2) pirkstu (delnu) nospiedumu digitālo attēlu (ja iespējams to iegūt);\n3) notikuma uzskaites reģistrācijas numuru vai operatīvās uzskaites lietas vai krimināllietas numuru;\n4) datumu, kad neatpazītais līķis atrasts;\n5) tās vietas adresi vai ģeogrāfiskās koordinātas, kur neatpazītais līķis atrasts;\n6) iestādi — biometrijas datu ieguvēju;\n7) biometrijas datu iegūšanas datumu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "10",
+      "title": "(1) Šā likuma 6. , 7. , 8. un 9.pantā minēto datu iekļaušanu un aktualizāciju biometrijas datu apstrādes sistēmā nodrošina:",
+      "content": "1) Valsts policija;\n2) Finanšu policija;\n3) Militārā policija;\n4) Ieslodzījuma vietu pārvalde;\n5) Korupcijas novēršanas un apkarošanas birojs;\n6) muitas iestādes;\n7) Valsts robežsardze;\n8) valsts drošības iestādes;\n9) Ceļu satiksmes drošības direkcija;\n10) Latvijas Jūras administrācija;\n11) Pilsonības un migrācijas lietu pārvalde;\n12) Iekšējās drošības birojs.\n(2) Šā panta pirmajā daļā minētās iestādes ir atbildīgas par biometrijas datu precīzu iekļaušanu biometrijas datu apstrādes sistēmā, kā arī par iekļauto datu aktualizāciju to glabāšanas laikā.\n(3) Ministru kabinets nosaka kārtību un apjomu, kādā šā panta pirmajā daļā minētās iestādes iekļauj un aktualizē datus biometrijas datu apstrādes sistēmā, kā arī minēto darbību veikšanas nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa. Biometrijas datu apstrādes sistēmas izveide, biometrijas datu ievade, aktualizācija un glabāšana",
+      "section": "11",
+      "title": "(1) Šā likuma 5.panta 1., 4., 5. un 11.punktā paredzētajos gadījumos iegūtos datus (izņemot izmeklēšanas darbību rezultātā iegūtos datus) biometrijas datu apstrādes sistēmā glabā:",
+      "content": "1) 10 gadus pēc personas nāves, ja personas nāves fakts reģistrēts Iedzīvotāju reģistrā;\n2) 75 gadus pēc pirmā ieraksta datuma, ja persona nav reģistrēta Iedzīvotāju reģistrā.\n(2) Šā likuma 5.panta 9.punktā paredzētajā gadījumā iegūtos datus biometrijas datu apstrādes sistēmā glabā piecus gadus pēc to iekļaušanas.\n(3) Šā likuma 5.panta 10.punktā paredzētajos gadījumos iegūtos datus dzēš operatīvās darbības subjekts, kas šos datus ieguvis, tiklīdz zudusi nepieciešamība tos glabāt. Gada laikā pēc datu iekļaušanas biometrijas datu apstrādes sistēmā operatīvās darbības subjekts, kas šos datus ieguvis, izvērtē to turpmākas glabāšanas lietderību un, ja nepieciešams, pieņem lēmumu datu glabāšanas termiņu pagarināt par gadu. Operatīvās darbības subjekts lēmumu par katru nākamo datu glabāšanas termiņa pagarinājumu pieņem gada laikā pēc iepriekšējā lēmuma pieņemšanas. Ja šāds lēmums netiek pieņemts, datus dzēš automātiski.\n(4) Izmeklēšanas darbību rezultātā iegūtos datus biometrijas datu apstrādes sistēmā glabā 75 gadus pēc to iekļaušanas vai arī dzēš ar brīdi, kad tiek noskaidrota šo datu īpašnieka identitāte.\n(5) Šā likuma 5.panta 12.punktā paredzētajā gadījumā iegūtos datus biometrijas datu apstrādes sistēmā glabā līdz brīdim, kad persona saņem personu apliecinošu dokumentu, vai arī šā panta pirmajā daļā noteiktos termiņus, ja persona dzīves laikā personu apliecinošu dokumentu nesaņem.\n(6) Biometrijas datu iznīcināšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "12",
+      "title": "Biometrijas datu apstrādes sistēmā iekļautie dati ir ierobežotas pieejamības informācija.",
+      "content": "12.pants. Biometrijas datu apstrādes sistēmā iekļautie dati ir ierobežotas pieejamības informācija."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "13",
+      "title": "Biometrijas datu apstrādes sistēmā iekļautos datus izmanto, lai nodrošinātu:",
+      "content": "1) svešas personas identitātes izmantošanas novēršanu;\n2) personas identitātes pārbaudi personu apliecinošu dokumentu, kā arī citu šajā likumā minēto dokumentu izsniegšanas procesā vai personas identitātes noskaidrošanu personu apliecinošu dokumentu izsniegšanas procesā;\n3) personas identitātes noteikšanu izlūkošanas, pretizlūkošanas, operatīvās darbības, kā arī iegūtās informācijas analīzes laikā;\n4) noziedzīgu nodarījumu un citu likumpārkāpumu novēršanu;\n5) noziedzīgu nodarījumu atklāšanu un noziedzīgu nodarījumu izdarījušo personu meklēšanu;\n6) aizturēto, aizdomās turēto, apsūdzēto un notiesāto personu identitātes pārbaudi;\n7) personas identitātes pārbaudi, veicot personu robežpārbaudi;\n8) personas identitātes pārbaudi, veicot ārzemnieku uzturēšanās nosacījumu kontroli;\n9) patvēruma meklētāju identitātes pārbaudi;\n10) neatpazītu līķu biometrisko identifikāciju (parauga salīdzināšana ar visiem biometrijas datu apstrādes sistēmā esošajiem biometrijas datu paraugiem, lai noskaidrotu tā sakritību ar vienu no biometrijas datu apstrādes sistēmā esošajiem biometrijas datu paraugiem un, ja šādu sakritību konstatē, noskaidrotu salīdzināmā parauga īpašnieka identitāti);\n11) bezvēsts pazudušo personu meklēšanu;\n12) personas identitātes pārbaudi, sniedzot personai publisko pakalpojumu, kura sniegšanai saskaņā ar normatīvo aktu prasībām ir nepieciešams veikt personas identitātes pārbaudi. Šajā punktā minēto pārbaudi, salīdzinot tās personas datus, kurai tiek sniegts pakalpojums, ar biometrijas datu apstrādes sistēmā jau uzkrātajiem šīs personas datiem, veic tikai ar personas piekrišanu;\n13) personas identitātes noteikšanu, ja tas nepieciešams neatliekamās medicīniskās palīdzības sniegšanai."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "14",
+      "title": "(1) Biometrijas datu apstrādes sistēmu šā likuma 13.pantā minēto funkciju veikšanai ir tiesīgas izmantot šādas iestādes:",
+      "content": "1) Valsts policija;\n2) Finanšu policija;\n3) Militārā policija;\n4) Ieslodzījuma vietu pārvalde;\n5) Korupcijas novēršanas un apkarošanas birojs;\n6) muitas iestādes;\n7) Valsts robežsardze;\n8) valsts drošības iestādes;\n9) Ārlietu ministrija;\n10) Ceļu satiksmes drošības direkcija;\n11) Latvijas Jūras administrācija;\n12) Pilsonības un migrācijas lietu pārvalde;\n13) prokuratūra;\n14) tiesa;\n15) Iekšlietu ministrijas Informācijas centrs;\n16) ārstniecības iestāžu reģistrā iekļautās stacionārās ārstniecības iestādes, kas nodrošina neatliekamās medicīniskās palīdzības sniegšanu;\n17) pašvaldības policija;\n17 1 ) Iekšējās drošības birojs;\n18) citas valsts un pašvaldību iestādes, ja biometrijas datu apstrādes sistēmas izmantošana ir paredzēta ārējā normatīvajā aktā.\n(2) Ministru kabinets nosaka kārtību un apjomu, kādā šā panta pirmajā daļā minētās iestādes izmanto biometrijas datu apstrādes sistēmā iekļautos datus."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "15",
+      "title": "Biometrijas datu apstrādes sistēmā iekļauto datu sniegšana ārvalstu kompetentajām iestādēm pieļaujama, ievērojot Latvijas Republikai saistošus starptautiskos līgumus un Eiropas Savienības tiesību aktus.",
+      "content": "15.pants. Biometrijas datu apstrādes sistēmā iekļauto datu sniegšana ārvalstu kompetentajām iestādēm pieļaujama, ievērojot Latvijas Republikai saistošus starptautiskos līgumus un Eiropas Savienības tiesību aktus."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "16",
+      "title": "Šā likuma ievērošanu uzrauga Datu valsts inspekcija normatīvajos aktos par fizisko personu datu aizsardzību noteiktajā kārtībā.",
+      "content": "16.pants. Šā likuma ievērošanu uzrauga Datu valsts inspekcija normatīvajos aktos par fizisko personu datu aizsardzību noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē 2007.gada 31.maijā pieņemtais Biometrijas datu apstrādes sistēmas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2007, 13.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē 2007.gada 31.maijā pieņemtais Biometrijas datu apstrādes sistēmas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2007, 13.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 10.panta pirmajā daļā, 11.panta trešajā daļā un 14.panta pirmajā un ceturtajā daļā paredzētos Ministru kabineta noteikumus.",
+      "content": "2. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 10.panta pirmajā daļā, 11.panta trešajā daļā un 14.panta pirmajā un ceturtajā daļā paredzētos Ministru kabineta noteikumus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "pn3",
+      "title": "3. Šajā likumā minētās iestādes, izņemot Latvijas Jūras administrāciju, nodrošina biometrijas datu apstrādi likumā noteiktajā kārtībā, sākot ar 2011.gada 1.janvāri.",
+      "content": "3. Šajā likumā minētās iestādes, izņemot Latvijas Jūras administrāciju, nodrošina biometrijas datu apstrādi likumā noteiktajā kārtībā, sākot ar 2011.gada 1.janvāri."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "pn4",
+      "title": "4. Latvijas Jūras administrācija nodrošina biometrijas datu apstrādi šajā likumā noteiktajā kārtībā pēc Starptautiskās darba organizācijas 2003.gada 19.jūnija konvencijas “Jūrnieku identifikācijas dokumentu konvencija” ratifikācijas Latvijas Republikā, bet ne agrāk kā ar 2011.gada 1.janvāri.",
+      "content": "4. Latvijas Jūras administrācija nodrošina biometrijas datu apstrādi šajā likumā noteiktajā kārtībā pēc Starptautiskās darba organizācijas 2003.gada 19.jūnija konvencijas “Jūrnieku identifikācijas dokumentu konvencija” ratifikācijas Latvijas Republikā, bet ne agrāk kā ar 2011.gada 1.janvāri."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "III nodaļa. Biometrijas datu izmantošana un uzraudzība",
+      "section": "pn5",
+      "title": "5. Ministru kabinets līdz 2013.gada 31.decembrim izdod šā likuma 10.panta trešajā daļā, 11.panta sestajā daļā un 14.panta otrajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 31.decembrim ir spēkā Ministru kabineta 2012.gada 3.aprīļa noteikumi Nr.233 \" Biometrijas datu apstrādes sistēmas noteikumi \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 12.09.2013 . likuma redakcijā, kas stājas spēkā 10.10.2013. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "biometrijas dati",
+      "definition": "fiziskās personas fizisko īpašību un rādītāju kopums [sejas digitālais attēls, pirkstu (delnu) pēdas vai nospiedumi]",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "biometrijas datu apstrāde",
+      "definition": "jebkuras darbības, kas veiktas ar biometrijas datiem, tai skaitā datu iegūšana, reģistrēšana, glabāšana, sakārtošana, pārveidošana, izmantošana, salīdzināšana, nodošana, pārraidīšana, izpaušana, bloķēšana vai dzēšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "identitāte",
+      "definition": "fiziskās personas datu, fizisko īpašību un rādītāju kopums, kas ļauj šo fizisko personu precīzi atšķirt no citas fiziskās personas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pirkstu (delnu) nospiedumi",
+      "definition": "no personas rokas pirkstiem (delnas) iegūti nospiedumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pirkstu (delnu) pēdas",
+      "definition": "personas rokas pirksta (delnas) atspoguļojums, ko uz objekta virsmas atstāj persona, pieskaroties objektam vai to satverot",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

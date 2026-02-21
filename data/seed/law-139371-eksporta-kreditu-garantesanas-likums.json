@@ -1,0 +1,263 @@
+{
+  "id": "lv-law-139371",
+  "type": "statute",
+  "title": "Eksporta kredītu garantēšanas likums",
+  "short_name": "TA-139371",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/139371-eksporta-kreditu-garantesanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) apakšuzņēmēja līgums — eksportētāja un apakšuzņēmēja vienošanās par noteiktas eksporta līguma daļas izpildi;\n2) apakšuzņēmējs — Eiropas Savienības dalībvalstu juridiskā persona, ar kuru eksportētājs noslēdzis vienošanos par noteiktas eksporta līguma daļas izpildi;\n3) Eiropas Savienības eksporta kredītu garantētāji — Eiropas Savienības dalībvalstu institūcijas, kas veic eksporta kredītu garantēšanas funkcijas;\n4) eksporta kredīta garantija (turpmāk — garantija) — garantija, kas garantijas ņēmēja labā tiek sniegta zaudējumu segšanai, kuri radušies garantijas ņēmējam, ja pircējs nav veicis samaksu saskaņā ar noslēgto eksporta līgumu eksportētāja kredīta gadījumā vai aizdevuma līgumu pircēja kredīta gadījumā;\n5) eksporta kredīts — eksportētāja vai pircēja kredīts;\n6) eksporta līgums — eksportētāja un pircēja līgums, saskaņā ar kuru eksportētāja pienākums ir izgatavot un piegādāt produktu vai sniegt pakalpojumu pircējam trešajā valstī, savukārt pircēja pienākums ir samaksāt eksportētājam;\n7) eksportētāja kredīts — kredīts, kas izsniegts, pamatojoties uz eksporta līgumu, saskaņā ar kuru pircējs apņemas samaksāt eksportētājam atbilstoši tūlītēja norēķina vai nomaksas pirkuma noteikumiem;\n8) eksportētājs — Latvijā reģistrēts komersants, kurš, pamatojoties uz noslēgto eksporta līgumu, izgatavo un piegādā produktu vai sniedz pakalpojumu pircējiem trešajās valstīs;\n9) eksports — produkta izgatavošana un piegāde vai pakalpojuma sniegšana pircējiem trešajās valstīs;\n10) garantētājs — valsts kapitālsabiedrība, kurai Ministru kabinets uzdevis veikt eksporta kredītu garantēšanas funkcijas;\n11) garantijas ņēmējs — eksportētājs, kā arī kredītiestāde vai cita finanšu institūcija, kas finansē eksporta līgumu;\n12) garantijas polise — dokuments, kas apliecina garantijas līguma noslēgšanu un ietver garantijas līguma noteikumus, kā arī visus līguma grozījumus un papildinājumus, par kuriem garantētājs un garantijas ņēmējs ir vienojušies līguma darbības laikā;\n13) garantijas prēmija — garantijas ņēmēja vienreizējs vai regulārs maksājums, kura apmērs atkarīgs no garantijas veida, līguma termiņa, garantijas summas, garantijas tarifa likmes un garantijas ņēmēja riska;\n14) izgatavošanas zaudējumi — zaudējumi, kas rodas eksportētājam, izgatavojot trešās valsts pircēja pasūtīto produktu;\n15) kopgarantētājs — apakšuzņēmēja kredīta garantētājs, kas ir gatavs segt iespējamos zaudējumus savas valsts garantijas ņēmējam;\n16) moratorijs — valdības noteikta dažu vai visu maksājumu pārtraukšana vai pagarinājums;\n17) pircēja kredīts — kredīts, kas izsniegts, pamatojoties uz aizdevuma līgumu, kuru noslēdzis aizdevējs (kredītiestāde vai cita finanšu institūcija) un pircējs, lai finansētu eksporta līgumu;\n18) pircējs — jebkura trešajā valstī reģistrēta juridiskā persona, kas atbilstoši noslēgtajam eksporta līgumam apņēmusies samaksāt par produktu saskaņā ar eksporta kredīta noteikumiem, vai tās galvotājs;\n19) produkts — Latvijā izgatavota prece, tās izgatavošanas tiesības, kā arī eksportētāja sniegts pakalpojums;\n20) trešā valsts — valsts, kas nav Eiropas Savienības dalībvalsts;\n21) vadošais garantētājs — eksportētāja kredītu garantētājs, kas ir gatavs segt iespējamos zaudējumus savas valsts garantijas ņēmējam;\n22) zaudējumu atlīdzības procents — no eksporta līguma izrietošs zaudējumu segšanas procentuālais apjoms."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir veicināt produktu eksportu uz trešajām valstīm, garantējot to iespējamo zaudējumu segšanu, kas varētu rasties saskaņā ar eksporta līgumiem, kuros noteikts, ka pilna samaksa par piegādātajiem produktiem veicama ne ātrāk kā divu gadu laikā no eksporta produktu izgatavošanas sākuma brīža."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Eksporta kredīta garantijas noteikumu nepiemērošana",
+      "content": "Eksporta kredīta garantijas netiek sniegtas attiecībā uz:\n1) eksporta līgumu, kas noslēgts konkursa rezultātā;\n2) priekšapmaksu;\n3) riskiem, kas saistīti ar būvniecības iekārtām un būvmateriāliem, kurus izmanto, lai izpildītu eksporta līguma noteikumus."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Eksportētāja vai pircēja kredīta garantijas noteikumu piemērošana",
+      "content": "(1) Eksportētāja kredīta garantijas noteikumus piemēro, ja garantiju izsniedz eksportētājam un eksporta līgumu finansē, izmantojot eksportētāja kredītu. Eksportētāja kredīta garantijas noteikumus nosaka garantētājs saskaņā ar šo likumu un citiem normatīvajiem aktiem.\n(2) Pircēja kredīta garantijas noteikumus piemēro, ja garantiju izsniedz kredītiestādei vai citai finanšu institūcijai neatkarīgi no tās dibināšanas un reģistrācijas vietas, ievērojot noteikumu, ka pircēja kredīts rada pircējam beznosacījumu saistības atmaksāt savu parādu neatkarīgi no finansējamā eksporta līguma izpildes un kredītiestādes vai citas finanšu institūcijas rīcībā ir dokumenti, kas pircējam jāapmaksā saskaņā ar vienošanos par eksporta līguma finansēšanu. Pircēja kredīta garantijas noteikumus nosaka garantētājs saskaņā ar šo likumu un citiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Garantijas darbības joma",
+      "section": "5",
+      "title": "Zaudējumi, kurus sedz garantētājs",
+      "content": "(1) Produkta izgatavošanas zaudējumi rodas, ja garantijas ņēmēja līgumsaistību izpilde un pasūtīto produktu izgatavošana tiek pārtraukta ne mazāk kā sešus mēnešus pēc kārtas, ievērojot nosacījumu, ka šāda pārtraukuma pamatā ir viena vai vairāku šā likuma 15. un 16.pantā minēto risku rašanās.\n(2) Pircēja kredīta zaudējumi rodas, ja pircējs nav veicis aizdevuma līgumā noteiktos maksājumus vismaz trīs mēnešus, ievērojot nosacījumu, ka maksājumu saistību neizpildes pamatā ir viena vai vairāku šā likuma 15. un 16.pantā minēto risku rašanās.\n(3) Garantētājs sedz garantijas ņēmēja zaudējumus, kas rodas produkta izgatavošanas un piegādes procesā un pircēja samaksas vai kredīta saistību neizpildes gadījumā.\n(4) Garantētājs sedz pircēja kredīta saistību neizpildi — kredīta summu (pamatsummu un procentus), ko trešās valsts pircējs ir parādā saskaņā ar aizdevuma līgumu, tai skaitā procentus, kas rodas pēc samaksas termiņa beigām (nokavējuma procenti).\n(5) Garantējot pircēja kredīta zaudējumu segšanu bez nosacījumiem, garantētājs ievēro šā likuma 19. un 20.pantā minētos principus un normatīvajos aktos noteiktās procedūras, saskaņā ar kurām garantētājs ziņo Eiropas Komisijai un Eiropas Savienības dalībvalstu eksporta kredītu garantētājiem par izsniegtajām vai izsniedzamajām garantijām."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Garantijas darbības joma",
+      "section": "6",
+      "title": "Zaudējumi, kurus nesedz garantētājs",
+      "content": "(1) Garantētājs nesedz šādus produkta izgatavošanas un piegādes laikā radušos zaudējumus:\n1) zaudējumus, kas jau ir segti kā kredīta zaudējumi;\n2) līgumsodus un zaudējumu atlīdzību, ko garantijas ņēmējs samaksājis parādniekam.\n(2) Garantētājs nesedz summas, kuras pēc samaksas pieprasījuma garantijas ņēmējs saskaņā ar garantijas polisi ir samaksājis par garantēto eksporta līgumu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Garantijas darbības joma",
+      "section": "7",
+      "title": "Eksporta līguma zaudējumu atlīdzības procents",
+      "content": "(1) Maksimālais zaudējumu atlīdzības procents nedrīkst pārsniegt garantijas polisē noteikto apjomu.\n(2) Nosakot zaudējumu atlīdzības procentu (ja tas pārsniedz 95 procentus), tiek ievēroti šā likuma 19.pantā minētie principi un normatīvajos aktos noteiktās procedūras, saskaņā ar kurām garantētājs ziņo Eiropas Komisijai un Eiropas Savienības dalībvalstu eksporta kredītu garantētājiem par izsniegtajām vai izsniedzamajām garantijām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Garantijas darbības joma",
+      "section": "8",
+      "title": "Garantija eksporta līgumiem ārvalstu valūtā",
+      "content": "Ja eksporta līgumi paredz samaksu vienā vai vairākās ārvalstu valūtās, garantiju drīkst piešķirt jebkurā attiecīgajā valūtā, ja to var konvertēt Latvijas Republikā saskaņā ar Latvijas Bankas noteikto valūtas maiņas kursu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Garantijas darbības joma",
+      "section": "9",
+      "title": "Eksporta kredīta garantijas apakšuzņēmēju līgumiem",
+      "content": "(1) Iespējamā garantētā zaudējuma segšana attiecināma arī uz noslēgtajiem apakšuzņēmēju līgumiem.\n(2) Nosacījumi, kas attiecināmi uz eksporta kredīta garantiju piemērošanu apakš­uzņēmēju līgumiem, minēti šā likuma 10. , 11. un 12.pantā ."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Eiropas Savienības eksporta kredītu garantētāju savstarpējās saistības",
+      "section": "10",
+      "title": "Garantētāja savstarpējās saistības ar Eiropas Savienības eksporta kredītu garantētājiem",
+      "content": "Šis likums reglamentē garantētāja un Eiropas Savienības eksporta kredītu garantētāju savstarpējās saistības šādos gadījumos:\n1) starp eksportētāju un apakšuzņēmēju noslēgts apakšuzņēmēja līgums par garantēta eksporta līguma noteiktas daļas izpildi;\n2) eksportētājs ir uzņēmies nodot vai nodevis apakšuzņēmējam pienākošos daļu no summām, kuras pircējs samaksājis eksportētājam;\n3) starp apakšuzņēmēju un pircēju nav juridisku saistību;\n4) vadošais garantētājs un kopgarantētājs ir gatavi segt iespējamos zaudējumus savas valsts garantijas ņēmējiem."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Eiropas Savienības eksporta kredītu garantētāju savstarpējās saistības",
+      "section": "11",
+      "title": "Vadošā garantētāja saistības",
+      "content": "Vadošais garantētājs, vienpersoniski uzņemoties iespējamo zaudējumu segšanu, tai skaitā zaudējumu segšanu par apakšuzņēmējam nodotas eksporta līguma daļas izpildi, apņemas:\n1) izsniegt eksportētājam garantiju tikai par viņam nodoto eksporta līguma daļu;\n2) nepieņemt nekādus grozījumus nevienā eksporta līguma izpildes noteikumā (apjoms, nodošana, samaksa) vai starp eksportētāju un apakšuzņēmēju noslēgtajā līgumā par attiecīgā eksporta līguma izpildi, ja vien ar kopgarantētāju nav citāda vienošanās;\n3) atbildēt saskaņā ar eksportētājam izsniegto garantijas polisi par jebkuru eksportētāja saistību neizpildi, nepaziņojot kopgarantētājam;\n4) nepasludināt garantijas polisi par spēku zaudējušu, nepaziņojot par to kopgarantētājam;\n5) paziņot kopgarantētājam par jebkuru faktu, kas vadošajam garantētājam kļūst zināms un varētu ietekmēt iespējamo zaudējumu rašanos un apjomu;\n6) esošo vai iespējamo zaudējumu gadījumā konsultēties ar kopgarantētāju par veicamajām darbībām un lēmumus par zaudējumu segšanu pieņemt, savstarpēji vienojoties un nosakot atlīdzības summu un samaksas metodi saskaņā ar katru konkrēto garantijas polisi;\n7) zaudējuma gadījumā veikt darbības, lai atgūtu nesamaksātās summas un atmaksātu kopgarantētājam tam pienākošos daļu no atgūtajām summām. Vadošā garantētāja izmaksas, kas saistītas ar zaudēto līdzekļu atgūšanu, sadalāmas starp garantētājiem proporcionāli to garantētajai eksporta līguma daļai;\n8) eksportētājam dotās garantijas anulēšanas gadījumā nodrošināt šajā pantā minēto saistību izpildi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Eiropas Savienības eksporta kredītu garantētāju savstarpējās saistības",
+      "section": "12",
+      "title": "Kopgarantētāja saistības",
+      "content": "Kopgarantētājs apņemas:\n1) izsniegt savas valsts apakšuzņēmējam garantiju tikai par viņam nodoto eksporta līguma daļu;\n2) nepieņemt nekādus grozījumus starp eksportētāju un apakšuzņēmēju noslēgtajā līgumā par eksporta līguma izpildi, nesaskaņojot ar vadošo garantētāju;\n3) atbildēt saskaņā ar apakšuzņēmējam izsniegto garantijas polisi par jebkuru apakšuzņēmēja saistību neizpildi, nepaziņojot par to vadošajam garantētājam;\n4) nepasludināt garantijas polisi par spēku zaudējušu, nepaziņojot par to vadošajam garantētājam;\n5) paziņot vadošajam garantētājam par jebkuru faktu, kas kopgarantētājam kļūst zināms un varētu ietekmēt iespējamo zaudējumu rašanos un apjomu;\n6) apakšuzņēmējam piešķirtās garantijas anulēšanas gadījumā nodrošināt šajā pantā minēto saistību ievērošanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Garantiju izsniegšanas un Eiropas Savienības dalībvalstu eksporta kredītu garantētāju informēšanas noteikumi",
+      "section": "13",
+      "title": "Garantiju izsniegšanas noteikumi",
+      "content": "Eksporta kredītu garantiju izsniegšanas noteikumos Ministru kabinets nosaka:\n1) garantētāju;\n2) valsts nodrošināto garantētāja saistību apjomu;\n3) kopējo spēkā esošo garantiju limitu;\n4) garantiju izsniegšanas kārtību;\n5) garantiju spēkā stāšanās kārtību;\n6) kārtību, kādā garantētājs sedz garantijas ņēmēja zaudējumus;\n7) garantijas prēmiju aprēķināšanas kārtību;\n8) kārtību, kādā risku seguma politika piemērojama trešajām valstīm."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Garantiju izsniegšanas un Eiropas Savienības dalībvalstu eksporta kredītu garantētāju informēšanas noteikumi",
+      "section": "14",
+      "title": "Eiropas Komisijas un citu Eiropas Savienības dalībvalstu eksporta kredītu garantētāju informēšana par izsniegtajām vai izsniedzamajām garantijām",
+      "content": "Procedūras, saskaņā ar kurām garantētājs ziņo Eiropas Komisijai un Eiropas Savienības dalībvalstu eksporta kredītu garantētājiem par izsniegtajām vai izsniedzamajām garantijām, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Riski un garantētāja tiesības atteikt zaudējuma segšanu",
+      "section": "15",
+      "title": "Garantijas segtie komerciālie riski",
+      "content": "Garantijas segtie komerciālie riski ir šādi:\n1) privātā parādnieka un tā galvotāja (ja tāds ir) maksātnespēja;\n2) parādnieka un tā galvotāja (ja tāds ir) saistību neizpilde;\n3) pircēja lēmums par eksporta līguma darbības pārtraukšanu, atkāpšanos no eksporta līguma vai atteikšanās pieņemt produktus, ja tam nav tiesiska pamata."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Riski un garantētāja tiesības atteikt zaudējuma segšanu",
+      "section": "16",
+      "title": "Garantijas segtie politiskie riski",
+      "content": "Garantijas segtie politiskie riski ir šādi:\n1) jebkurš trešās valsts valdības pasākums vai lēmums, kas liedz izpildīt eksporta līgumu;\n2) moratorijs, kuru nosaka pircēja valsts vai citas trešās valsts valdība, ar kuras starpniecību atbilstoši eksporta līgumam būtu jāveic maksājums;\n3) politiskie notikumi, ekonomiskās grūtības, administratīvie pasākumi, kas aizkavē eksporta līgumā paredzēto maksājumu veikšanu;\n4) parādnieka valstī pieņemtās tiesību normas, kas parādnieka veiktos maksājumus vietējā valūtā pasludina par spēkā esošu parāda dzēšanu, lai gan valūtas maiņas kursa svārstību dēļ šādi maksājumi, tos konvertējot eksporta līgumā noteiktajā valūtā, līdzekļu pārskaitīšanas dienā vairs nesedz parāda summu;\n5) jebkurš garantētāja vai garantijas ņēmēja valsts valdības pasākums vai lēmums, tai skaitā Eiropas Savienības pasākumi un lēmumi par tirdzniecību starp Eiropas Savienības dalībvalstīm un trešajām valstīm;\n6) ārpus garantētāja valsts radušies nepārvaramas varas apstākļi — karš, pilsoņkarš, revolūcija, sacelšanās, pilsoņu nemieri, plūdi, zemestrīce, vulkāna izvirdums, paisuma vilnis un kodolavārija, ja šo apstākļu radītie zaudējumi nav apdrošināti citu garantijas vai apdrošināšanas līgumu ietvaros."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Riski un garantētāja tiesības atteikt zaudējuma segšanu",
+      "section": "17",
+      "title": "Garantētāja atbildība",
+      "content": "Garantētājs ir atbildīgs, ja zaudējums ir tieši attiecināms uz vienu vai vairākiem šā likuma 15. un 16.pantā minētajiem riskiem."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Riski un garantētāja tiesības atteikt zaudējuma segšanu",
+      "section": "18",
+      "title": "Garantētāja tiesības atteikt zaudējumu segšanu",
+      "content": "Garantētājam ir tiesības atteikt zaudējumu segšanu garantijas ņēmējam, ja atteikuma iemesls ir šāds:\n1) garantijas ņēmēja vai jebkuras tā vārdā darbojošās personas jebkura darbība vai bezdarbība, kas sekmējusi zaudējumu rašanos;\n2) jebkurš garantijas ņēmēja tiesības ierobežojošs noteikums, kas ietverts eksporta līgumā vai jebkurā ar to saistītā dokumentā;\n3) jebkura pēc aizdevuma līguma vai eksporta līguma noslēgšanas panākta garantijas ņēmēja un parādnieka vienošanās, kas aiztur vai aizkavē parāda atmaksāšanu;\n4) eksportētāja kredīta gadījumā — jebkura apakšuzņēmēju vai citu piegādātāju saistību neizpilde, ja šādas neizpildes pamatā nav šā likuma 16.pantā minētie politiskie riski."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "VI nodaļa Garantijas prēmija un politiskā riska novērtējums",
+      "section": "19",
+      "title": "Vispārīgie garantijas prēmijas noteikšanas principi",
+      "content": "Garantijas prēmijai, kas maksājama par eksporta kredīta garantiju:\n1) jāatbilst segtajam riskam;\n2) jāatbilst izsniegtās garantijas apmēram, zaudējumu atlīdzības procentam, garantijas nosacījumiem un jebkuriem citiem nosacījumiem, kas ietekmē garantijas kvalitāti;\n3) jābūt pietiekamai, lai segtu garantijas izsniegšanas izdevumus un garantētāja ilgtermiņa darbības izdevumus, kas saistīti ar iespējamo zaudējumu un ar garantijas polisi saistīto izmaksu segšanu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VI nodaļa Garantijas prēmija un politiskā riska novērtējums",
+      "section": "20",
+      "title": "Politiskā riska novērtējums",
+      "content": "Attiecībā uz katru valsti vai katru valstu kategoriju maksājamās garantijas prēmijas likme tiek pamatota ar attiecīgās valsts politisko risku novērtējumu, ko veic garantētājs saskaņā ar Ekonomiskās sadarbības un attīstības organizācijas Vienošanos par vadlīnijām attiecībā uz oficiāli atbalstāmiem eksporta kredītiem.\n1) Padomes 1998.gada 7.maija direktīvas 98/29/EK par pamatnoteikumu saskaņošanu attiecībā uz eksporta kredītu apdrošināšanu vidēja termiņa un ilgtermiņa darījumiem;\n2) Padomes 1984.gada 27.novembra direktīvas 84/568/EEK par dalībvalsts vārdā vai ar tās atbalstu darbojošos eksporta kredītu apdrošināšanas organizāciju vai šādu organizāciju vietā darbojošos valsts struktūrvienību savstarpējām saistībām attiecībā uz kopīgām garantijām tāda līguma gadījumā, kurā iesaistīti viens vai vairāki apakšuzņēmēji vienā vai vairākās Eiropas Kopienu dalībvalstīs."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apakšuzņēmēja līgums",
+      "definition": "eksportētāja un apakšuzņēmēja vienošanās par noteiktas eksporta līguma daļas izpildi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apakšuzņēmējs",
+      "definition": "Eiropas Savienības dalībvalstu juridiskā persona, ar kuru eksportētājs noslēdzis vienošanos par noteiktas eksporta līguma daļas izpildi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Eiropas Savienības eksporta kredītu garantētāji",
+      "definition": "Eiropas Savienības dalībvalstu institūcijas, kas veic eksporta kredītu garantēšanas funkcijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eksporta kredīta garantija (turpmāk",
+      "definition": "garantija) — garantija, kas garantijas ņēmēja labā tiek sniegta zaudējumu segšanai, kuri radušies garantijas ņēmējam, ja pircējs nav veicis samaksu saskaņā ar noslēgto eksporta līgumu eksportētāja kredīta gadījumā vai aizdevuma līgumu pircēja kredīta gadījumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eksporta kredīts",
+      "definition": "eksportētāja vai pircēja kredīts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eksporta līgums",
+      "definition": "eksportētāja un pircēja līgums, saskaņā ar kuru eksportētāja pienākums ir izgatavot un piegādāt produktu vai sniegt pakalpojumu pircējam trešajā valstī, savukārt pircēja pienākums ir samaksāt eksportētājam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eksportētāja kredīts",
+      "definition": "kredīts, kas izsniegts, pamatojoties uz eksporta līgumu, saskaņā ar kuru pircējs apņemas samaksāt eksportētājam atbilstoši tūlītēja norēķina vai nomaksas pirkuma noteikumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eksportētājs",
+      "definition": "Latvijā reģistrēts komersants, kurš, pamatojoties uz noslēgto eksporta līgumu, izgatavo un piegādā produktu vai sniedz pakalpojumu pircējiem trešajās valstīs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eksports",
+      "definition": "produkta izgatavošana un piegāde vai pakalpojuma sniegšana pircējiem trešajās valstīs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "garantētājs",
+      "definition": "valsts kapitālsabiedrība, kurai Ministru kabinets uzdevis veikt eksporta kredītu garantēšanas funkcijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "garantijas ņēmējs",
+      "definition": "eksportētājs, kā arī kredītiestāde vai cita finanšu institūcija, kas finansē eksporta līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "garantijas polise",
+      "definition": "dokuments, kas apliecina garantijas līguma noslēgšanu un ietver garantijas līguma noteikumus, kā arī visus līguma grozījumus un papildinājumus, par kuriem garantētājs un garantijas ņēmējs ir vienojušies līguma darbības laikā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "garantijas prēmija",
+      "definition": "garantijas ņēmēja vienreizējs vai regulārs maksājums, kura apmērs atkarīgs no garantijas veida, līguma termiņa, garantijas summas, garantijas tarifa likmes un garantijas ņēmēja riska",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izgatavošanas zaudējumi",
+      "definition": "zaudējumi, kas rodas eksportētājam, izgatavojot trešās valsts pircēja pasūtīto produktu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kopgarantētājs",
+      "definition": "apakšuzņēmēja kredīta garantētājs, kas ir gatavs segt iespējamos zaudējumus savas valsts garantijas ņēmējam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "moratorijs",
+      "definition": "valdības noteikta dažu vai visu maksājumu pārtraukšana vai pagarinājums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pircēja kredīts",
+      "definition": "kredīts, kas izsniegts, pamatojoties uz aizdevuma līgumu, kuru noslēdzis aizdevējs (kredītiestāde vai cita finanšu institūcija) un pircējs, lai finansētu eksporta līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pircējs",
+      "definition": "jebkura trešajā valstī reģistrēta juridiskā persona, kas atbilstoši noslēgtajam eksporta līgumam apņēmusies samaksāt par produktu saskaņā ar eksporta kredīta noteikumiem, vai tās galvotājs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "produkts",
+      "definition": "Latvijā izgatavota prece, tās izgatavošanas tiesības, kā arī eksportētāja sniegts pakalpojums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "trešā valsts",
+      "definition": "valsts, kas nav Eiropas Savienības dalībvalsts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vadošais garantētājs",
+      "definition": "eksportētāja kredītu garantētājs, kas ir gatavs segt iespējamos zaudējumus savas valsts garantijas ņēmējam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zaudējumu atlīdzības procents",
+      "definition": "no eksporta līguma izrietošs zaudējumu segšanas procentuālais apjoms.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lv-law-14945",
+  "type": "statute",
+  "title": "Par Īrestiesu likuma atzīšanu par spēku zaudējušu",
+  "short_name": "TA-14945",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/14945-par-irestiesu-likuma-atzisanu-par-speku-zaudejusu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ministru kabinets paredz Tieslietu ministrijai nepieciešamos līdzekļus, lai realizētu Ministru kabineta akceptēto koncepciju par Īrestiesu likuma īstenošanu.",
+      "content": "1. Ministru kabinets paredz Tieslietu ministrijai nepieciešamos līdzekļus, lai realizētu Ministru kabineta akceptēto koncepciju par Īrestiesu likuma īstenošanu."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Divu mēnešu laikā pēc šā likuma spēkā stāšanās īrestiesu lietvedībā esošās lietas izbeidzamas, izskaidrojot pieteikumu iesniedzējiem viņu tiesības griezties ar prasību attiecīgā rajona (pilsētas) tiesā. Valsts nodevu, kas iemaksāta par pieteikuma iesniegšanu īrestiesai, triju mēnešu laikā pēc iesniedzēja pieteikuma saņemšanas atmaksā tā pašvaldība, kuras budžetā attiecīgā nodeva ieskaitīta.",
+      "content": "2. Divu mēnešu laikā pēc šā likuma spēkā stāšanās īrestiesu lietvedībā esošās lietas izbeidzamas, izskaidrojot pieteikumu iesniedzējiem viņu tiesības griezties ar prasību attiecīgā rajona (pilsētas) tiesā. Valsts nodevu, kas iemaksāta par pieteikuma iesniegšanu īrestiesai, triju mēnešu laikā pēc iesniedzēja pieteikuma saņemšanas atmaksā tā pašvaldība, kuras budžetā attiecīgā nodeva ieskaitīta."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,614 @@
+{
+  "id": "lv-law-58061",
+  "type": "statute",
+  "title": "Par meža apsaimniekošanu un izmantošanu",
+  "short_name": "TA-58061",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/58061-par-meza-apsaimniekosanu-un-izmantosanu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "Likuma uzdevumi",
+      "content": "Likuma «Par meža apsaimniekošanu un izmantošanu» uzdevumi ir šādi:\n1) nodrošināt meža kā ekosistēmas aizsardzību un meža resursu atjaunošanu;\n2) regulēt meža apsaimniekošanas un izmantošanas pamatnoteikumus;\n3) aizsargāt meža apsaimniekotāju un izmantotāju tiesības.\nMeža apsaimniekošana ir zemes lietošana meža audzēšanai lauku apvidu un pilsētu zemēs, kas piešķirtas lietošanā vai nodotas īpašumā mežsaimniecības vajadzībām, vai arī tādu atsevišķu zemes gabalu lietošana mežsaimniecības vajadzībām, kuri atrodas citiem mērķiem piešķirtajos zemes lietojumos vai īpašumos.\nMeža izmantošana ir tā ekoloģisko īpašību izmantošana un meža resursu ieguve."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "Meža fonds",
+      "content": "Meža fondu veido:\n1) meža un nemeža zemes, kas piešķirtas lietošanā vai nodotas īpašumā mežsaimniecības vajadzībām;\n2) meža zemes, kas atrodas citiem mērķiem piešķirtajos zemes lietojumos vai īpašumos.\nLatvijas Republikas valsts mežus veido:\n1) Latvijas Republikas bijušās Zemkopības ministrijas Meža departamenta zemes pēc stāvokļa 1940. gada 21. jūlijā;\n2) meža fonda zemes, uz kurām nav atjaunotas citu personu īpašuma tiesības vai kuras nav nodotas īpašumā fiziskajām personām zemes likumdošanas aktos noteiktajā kārtībā pēc 1990. gada 21. novembra."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "3",
+      "title": "Koki un krūmi, kas neietilpst meža fondā",
+      "content": "Meža fondā neietilpst koki un koku grupas, kas atrodas zemēs, kuras piešķirtas:\n1) elektropārvades, sakaru līniju, transporta un citu komunikāciju, kā arī valsts robežu būvei un uzturēšanai;\n2) ielu, laukumu, skvēru, parku, kapu, sanācijas objektu un citu koplietošanas objektu ierīkošanai un uzturēšanai;\n3) dzīvojamo māju, vasarnīcu un garāžu celtniecībai un uzturēšanai;\n4) dārzkopības sabiedrībām.\nMeža fondā neietilpst arī koki un koku grupas, kuru aizņemtā platība ir mazāka par 0,5 hektāriem; lauku, dzelzceļu un autoceļu aizsargstādījumi un apstādījumi, kā arī krūmi neatkarīgi no to atrašanās vietas un aizņemtās platības.\nMeža fondā neietilpstošo koku apsaimniekošanas kārtību nosaka pašvaldības, saskaņojot ar Valsts meža dienestu, bet izmantošanas (ciršanas) kārtību — Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "4",
+      "title": "Maksa par meža apsaimniekošanu un izmantošanu",
+      "content": "Par meža ekoloģisko īpašību un meža resursu izmantošanu lietošanā piešķirtajos mežos maksu aprēķina saskaņā ar likumu «Par valsts ieņēmumiem no meža resursu realizācijas». Zemes nodoklis nav jāmaksā par lietošanā piešķirtā meža fonda zemēm.\nPar īpašumā nodotajām meža fonda zemēm jāmaksā zemes nodoklis nodokļu likumdošanas aktos noteiktajos apmēros un kārtībā.\nMaksu par meža ekoloģisko īpašību un meža resursu izmantošanu īpašumā nodotajos mežos nosaka attiecīgie īpašnieki vai to pilnvaroti pārstāvji."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "5",
+      "title": "Meža fonda pārvaldīšana",
+      "content": "Meža fondu atbilstoši savai kompetencei pārvalda Saeima, Ministru kabinets un tā institūcijas, kā arī pašvaldības.\nValsts meža lietojumu (īpašumu) pārvalda Valsts meža dienests un tā institūcijas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "6",
+      "title": "Saeimas kompetence meža apsaimniekošanas un izmantošanas attiecību regulēšanā",
+      "content": "Meža apsaimniekošanas un izmantošanas attiecību regulēšanā Saeima:\n1) nosaka vienotas meža apsaimniekošanas un izmantošanas politikas galvenos virzienus;\n2) nosaka meža pārvaldes un kontroles organizācijas kārtību;\n3) pēc Ministru kabineta priekšlikuma apstiprina ciršanas tāmi turpmākajiem pieciem gadiem valstī kopumā;\n4) nosaka meža privatizācijas un īpašuma tiesību maiņas kārtību;\n5) ierobežo meža izmantošanas tiesības, ja tas nepieciešams valsts vai vides aizsardzības interesēs."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "7",
+      "title": "Ministru kabineta kompetence meža apsaimniekošanas un izmantošanas attiecību regulēšanā",
+      "content": "Meža apsaimniekošanas un izmantošanas attiecību regulēšanā Ministru kabinets:\n1) nosaka meža apsaimniekošanas un izmantošanas pasākumus un noteikumus vienotas meža politikas realizācijai;\n2) organizē meža apsaimniekošanas un izmantošanas kontroli un valsts mežu pārvaldīšanu;\n3) nosaka valsts mežierīcības un valsts meža kadastra organizācijas kārtību;\n4) nosaka meža monitoringa organizācijas kārtību;\n5) nosaka kārtību, kādā meži iedalāmi kategorijās;\n6) nosaka, kādos apmēros un kādā kārtībā apmaksājama meža atjaunošana, kopšana, tā ražības un kvalitātes paaugstināšana;\n7) nosaka, kādos apmēros un kādā kārtībā ņemama maksa par katru meža izmantošanas veidu valsts mežos un lietošanā piešķirtajos mežos;\n8) nosaka, kādos apmēros un kādā kārtībā atlīdzināmi zaudējumi un zudumi meža apsaimniekotājiem, izmantotājiem un mežsaimniecībai;\n9) ierobežo valsts mežu izmantošanas tiesības, ja tas nepieciešams valsts vai vides aizsardzības interesēs;\n10) organizē meža apsaimniekošanas un izmantošanas zinātnisko un informatīvo nodrošinājumu, kadru sagatavošanu;\n11) savas kompetences ietvaros slēdz starptautiskos līgumus par valsts mežu apsaimniekošanu vai izmantošanu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "8",
+      "title": "Pilsētu un pagastu pašvaldību kompetence meža apsaimniekošanas un izmantošanas attiecību regulēšanā",
+      "content": "Pilsētu un pagastu pašvaldību kompetenci meža apsaimniekošanas un izmantošanas attiecību regulēšanā nosaka likumi par pašvaldībām."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "9",
+      "title": "Meža fonda zemju nodošana īpašumā vai lietošanā",
+      "content": "Meža fonda zemes nodod īpašumā un piešķir lietošanā zemes likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "10",
+      "title": "Meža fonda zemju iznomāšana",
+      "content": "Tie meža fonda zemju lietotāji, kuriem zeme piešķirta pastāvīgā lietošanā vai pastāvīgā lietošanā ar lietošanas tiesību pāreju citām personām, var savas zemes iznomāt fiziskajām un juridiskajām personām ar meža apsaimniekošanu un izmantošanu saistītiem vai nesaistītiem mērķiem.\nJa meža fonda zemes lietotāji iznomā savas zemes ar meža apsaimniekošanu un izmantošanu saistītiem mērķiem, nomnieks iegūst pirmtiesības uz jebkuru no šā likuma 33. pantā minētajiem meža izmantošanas veidiem, izņemot savvaļas ogu, augļu, riekstu, sēņu un ārstniecības augu ieguvi. Iegūtās pirmtiesības nedrīkst nodot tālāk.\nJa meža fonda zemes lietotāji iznomā savas zemes ar meža apsaimniekošanu un izmantošanu nesaistītiem mērķiem (smilts, grants, kūdras un citu derīgo izrakteņu ieguvei), tad:\n1) zemes var nodot īstermiņa (līdz pieciem gadiem) vai ilgtermiņa (ilgāk par pieciem gadiem) nomā;\n2) nomniekam pirms zemju atdošanas iznomātājam tās jārekultivē un jāapmežo, ja vien nomas līgumā nav noteikts citādi;\n3) zemes lietotājs var izbeigt nomas līgumu, ja nomnieks divus gadus pēc kārtas neapgūst iznomāto zemi vai citādi nepilda nomas līguma saistības.\nZemes lietotāji nevar iznomāt meža fonda zemes ceļu, grāvju, kanālu, cauruļvadu, elektrolīniju un sakaru līniju ierīkošanai, kā arī ražošanas, sabiedrisko un individuālo ēku celtniecībai.\nĪpašnieki meža fonda zemes var iznomāt likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "11",
+      "title": "Meža fonda zemju piešķiršana daļējā lietošanā",
+      "content": "Meža fonda zemes var piešķirt daļējā lietošanā tikai starpsaimniecību novadgrāvju ierīkošanai un uzturēšanai."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "12",
+      "title": "Meža fonda zemju atņemšana un transformēšana citām vajadzībām",
+      "content": "Meža fonda zemes to lietotājiem atņem zemes lietošanas tiesību izbeigšanās gadījumā tādā kārtībā, kāda noteikta likuma «Par zemes lietošanu un zemes ierīcību» 33. pantā .\nMeža zemes tādiem mērķiem, kas nav saistīti ar meža apsaimniekošanu vai izmantošanu, transformē likuma «Par zemes lietošanu un zemes ierīcību» 31. pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "13",
+      "title": "Koku izciršana, ja meža zemes iznomā, atņem vai transformē vajadzībām, kas nav saistītas ar meža apsaimniekošanu vai izmantošanu",
+      "content": "Ja meža zemes iznomā, atņem vai transformē vajadzībām, kas nav saistītas ar meža apsaimniekošanu vai izmantošanu, vietējā valsts virsmežniecība un vides aizsardzības institūcija dod savu atzinumu par koku grupu un atsevišķu koku saglabāšanu vai izciršanu.\nStrīda gadījumā jautājumu izlemj Valsts meža dienests.\nFiziskajām vai juridiskajām personām, kurām zeme piešķirta lietošanā vai iznomāta bez tiesībām izcirst kokus, jānodrošina augošo koku saglabāšana un kopšana atbilstoši šā likuma 3. vai 20. panta prasībām."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "14",
+      "title": "Ar meža apsaimniekošanu saistītu objektu, ēku un būvju celšana un komunikāciju ierīkošana meža fonda zemēs",
+      "content": "Fiziskās un juridiskām personas, kurām mežs nodots apsaimniekošanā, meža fonda zemēs ar Valsts meža dienesta institūciju atļauju var celt meža apsaimniekošanai nepieciešamos objektus, ēkas un būves un ierīkot komunikācijas, neatlīdzinot mežsaimniecībai nodarītos zudumus."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "15",
+      "title": "Meža stāvokli ietekmējošu objektu, ēku, būvju un komunikāciju izvietošana, projektēšana, celšana, ierīkošana un nodošana ekspluatācijā",
+      "content": "Izvietojot, projektējot, ceļot, ierīkojot un nododot ekspluatācijā objektus, ēkas, būves un komunikācijas vai ieviešot jaunas tehnoloģijas, kas var negatīvi ietekmēt meža stāvokli, jāparedz un jāveic pasākumi meža aizsargāšanai pret pārplūšanu un pārpurvošanos, kā arī pret notekūdeņu, dūmgāzu, toksisko vielu, rūpniecības un sadzīves atkritumu, atlieku un sārņu kaitīgo ietekmi. Aizliegts izmantot tehnoloģijas un ekspluatēt objektus, ja nav veikti minētie pasākumi.\nIzvietojot, projektējot, ceļot un ekspluatējot iedzīvotāju atpūtai izmantojamus objektus meža fonda zemēs, jāparedz un jāveic pasākumi meža saglabāšanai.\nMeža stāvokli ietekmējošu objektu, ēku, būvju un komunikāciju izvietojums, celtniecības projekti un būvatļaujas, kā arī objektu nodošana ekspluatācijā jāsaskaņo ar Valsts meža dienesta institūcijām."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "OTRĀ NODAĻA MEŽA FONDA ZEMJU NODOŠANA ĪPAŠUMĀ VAI LIETOŠANĀ, ATŅEMŠANA, TRANSFORMĒŠANA, APBŪVE UN IZMANTOŠANA IZPĒTES DARBIEM",
+      "section": "16",
+      "title": "Izpētes darbu veikšana meža fonda zemēs",
+      "content": "Fizisko un juridisko personu tiesības un pienākumus, kas saistīti ar meža fonda zemēs veicamajiem ģeoloģiskajiem, ģeodēziskajiem un citiem izpētes darbiem, nosaka likuma «Par zemes lietošanu un zemes ierīcību» 34. un 35. pants ."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "TREŠĀ NODAĻA MEŽA KATEGORIJAS",
+      "section": "17",
+      "title": "Mežu iedalījums kategorijās",
+      "content": "Visus mežus pēc to ekoloģiskās un tautsaimnieciskās nozīmes vai galvenā uzdevuma (funkcijas) iedala trīs kategorijās:\nI kategorija — aizsargājamie meži (dabas rezervātu, nacionālo parku, dabas parku, dabas liegumu un preterozijas meži, kā arī zaļo zonu meža parki);\nII kategorija — saudzējamie meži (aizsargājamo ainavu apvidu meži, zaļo zonu mežsaimnieciskie meži un citi meži, kam ir svarīga nozīme vides aizsardzībā);\nIII kategorija — saimnieciskie meži (pārējie meži)."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "TREŠĀ NODAĻA MEŽA KATEGORIJAS",
+      "section": "18",
+      "title": "Kārtība, kādā mežus iedala kategorijās",
+      "content": "Kārtību, kādā mežu ieskaita noteiktā kategorijā, nosaka Ministra! kabinets. Mežu iedalījums kategorijās jāpārskata pirms kārtējo mežierīcības darbu veikšanas.\nĪpaši aizsargājamu dabas teritoriju apsaimniekošanas kārtību reglamentē to aizsardzības un izmantošanas noteikumi un dabas aizsardzības plāni.\nJa Saeima vai Ministru kabinets pieņem lēmumu par jauna dabas, kultūrvēsturiska vai cita īpaši aizsargājama objekta izveidošanu meža fondā, tad lēmumā tiek norādīts, kurā kategorijā ieskaitāmi attiecīgā objekta meži. Meža īpašniekam ir tiesības uz atlīdzību Ministru kabineta noteiktajā kārtībā, ja meža kategorijas maiņa nodara viņam materiālus zaudējumus meža apsaimniekošanā vai izmantošanā.\nMeža kategoriju robežas dabā nosaka valsts mežierīcības dienests."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "TREŠĀ NODAĻA MEŽA KATEGORIJAS",
+      "section": "19",
+      "title": "Īpaši aizsargājami meža iecirkņi",
+      "content": "Saudzējamos un saimnieciskajos mežos var noteikt īpaši aizsargājamus meža iecirkņus ar speciālu apsaimniekošanas un izmantošanas režīmu.\nĪpaši aizsargājamu meža iecirkņu nomenklatūru un izdalīšanas normatīvus nosaka Ministru kabinets.\nĪpaši aizsargājamus meža iecirkņus izdala Valsts meža dienests pēc valsts institūciju, pašvaldību vai Latvijā reģistrēto fizisko un juridisko personu priekšlikumiem, ievērojot Ministru kabineta noteikto nomenklatūru un izdalīšanas normatīvus.\nMeža īpašniekam ir tiesības uz atlīdzību Ministru kabineta-noteiktajā kartība, ja īpaši aizsargājama meža iecirkņa noteikšana nodara viņam materiālus zaudējumus meža apsaimniekošanā vai izmantošanā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "CETURTĀ NODAĻA MEŽA APSAIMNIEKOŠANA. MEŽA APSAIMNIEKOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "20",
+      "title": "Meža apsaimniekošana",
+      "content": "Ievērojot meža ekoloģisko un tautsaimniecisko nozīmi, neatkarīgi no tā, kam tas nodots, meža apsaimniekošana ietver:\n1) ūdens saglabāšanas, klimata regulēšanas un citu meža ekoloģisko īpašību pastiprināšanu vides stāvokļa uzlabošanai;\n2) meža atjaunošanu, kopšanu, tā ražības un kvalitātes paaugstināšanu;\n3) meža aizsardzību pret kaitēkļiem, slimībām un citiem bojātajiem;\n4) meža apsardzību pret ugunsgrēkiem un meža patvaļīgu izmantošanu;\n5) meža apsaimniekošanai nepieciešamo objektu būvi un uzturēšanu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "CETURTĀ NODAĻA MEŽA APSAIMNIEKOŠANA. MEŽA APSAIMNIEKOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "21",
+      "title": "Meža apsaimniekotāji",
+      "content": "Meža fonda apsaimniekotāji ir fiziskās un juridiskās personas, kurām attiecīgā zeme piešķirta lietošanā vai nodota īpašumā saskaņā ar likumu «Par zemes reformu Latvijas Republikas lauku apvidos», likumu «Par zemes lietošanu un zemes ierīcību», likumu «Par zemes reformu Latvijas Republikas pilsētās» un likumu «Par zemes privatizāciju lauku apvidos».\nMežu nevar nodot apsaimniekošanā, nepiešķirot lietošanā vai nenododot īpašumā zemi."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "CETURTĀ NODAĻA MEŽA APSAIMNIEKOŠANA. MEŽA APSAIMNIEKOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "22",
+      "title": "Tiesības un pienākumi meža apsaimniekošanā",
+      "content": "Juridiskajām un fiziskajām personām, kurām mežs nodots apsaimniekošanā, ir pirmtiesības uz visiem šā likuma 33. pantā noteiktajiem meža izmantošanas veidiem, izņemot savvaļas ogu, augļu, riekstu, sēņu un ārstniecības augu ieguvi. Valsts mežu izmantošanas kārtību nosaka Ministru kabinets.\nMeža apsaimniekotāju pienākumi ir šādi:\n1) nodrošināt šā likuma 20. pantā minēto prasību izpildi;\n2) Ministru kabineta noteiktajā kārtībā algot speciālistu mežkopi, ja meža platība pārsniedz 1000 hektāru un ja apsaimniekotajam vai viņa ģimenes locekļiem nav mežsaimniecības izglītības;\n3) apmaksāt Valsts meža dienesta institūciju vai zvērinātu mežkopju sniegtās konsultācijas un pakalpojumus, ja meža platība nepārsniedz 1000 hektāru un ja apsaimniekotajam vai viņa ģimenes locekļiem nav mežsaimniecības izglītības;\n4) Valsts meža dienesta noteiktajā kartība reizi gada ziņot vietējai meža dienesta institūcijai par saviem nodomiem meža apsaimniekošanā un to izpildi.\nJa meža apsaimniekotājs nepilda meža apsaimniekošanas prasības, viņam atņem attiecīgās zemes lietošanas tiesības ar tās institūcijas lēmumu, kas piešķīrusi zemi. Ja mežsaimniecībai vai citiem meža apsaimniekotājiem nodarīti zaudējumi vai zudumi, tie jāatlīdzina šā likuma sešpadsmitajā nodaļā noteiktajā kārtībā.\nValsts un pašvaldību institūcijām aizliegts iejaukties meža apsaimniekotāju darbībā, ja tie nepārkāpj zemes un meža likumdošanas aktus. Valsts meža dienesta darbinieki un zvērināti mežkopji Ministru kabineta noteiktajā kārtībā ir materiāli atbildīgi par kļūdainu konsultāciju vai pakalpojumu sekām trīs gadus pēc to realizēšanas."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "PIEKTĀ NODAĻA MEŽA ATJAUNOŠANA, KOPŠANA, TĀ RAŽĪBAS UN KVALITĀTES PAAUGSTINĀŠANA",
+      "section": "23",
+      "title": "Meža atjaunošanas veidi un paņēmieni",
+      "content": "Izcirtumos un degumos mežs jāatjauno, bet citās zemēs, kas paredzētas jauna meža izveidošanai, mežs jāieaudzē.\nMežs tiek atjaunots un ieaudzēts mākslīgi (ierīkojot meža kultūras) vai atjaunojas un ieaug dabiski (ar mežsaimniecisku pasākumu veikšanu vai bez tās)."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "PIEKTĀ NODAĻA MEŽA ATJAUNOŠANA, KOPŠANA, TĀ RAŽĪBAS UN KVALITĀTES PAAUGSTINĀŠANA",
+      "section": "24",
+      "title": "Meža atjaunošanas mērķi un kārtība",
+      "content": "Ar meža atjaunošanu jāsekmē meža zemju kopējā ražība, izmantojot augšanas apstākļiem vispiemērotākās koku sugas atbilstoši konkrētā meža ekoloģiskajai un tautsaimnieciskajai nozīmei.\nMežsaimnieciskās prasības meža atjaunošanā nosaka Valsts meža dienests.\nReproduktīvā materiāla sagatavošanas, izaudzēšanas, lietošanas un realizācijas kārtību nosaka Valsts meža dienests.\nZemes, kurās paredzēta meža mākslīgā atjaunošana, jāapsēj vai jāapstāda ne vēlāk kā trīs gadu laikā pēc izciršanas (ieskaitot ciršanas gadu).\nMežs ir atjaunots, ja meža kultūras vai dabiskās atjaunošanās platība ir pārskaitīta ar mežu apklātā zemē.\nJa meža apsaimniekotājs nepilda Valsts meža dienesta instrukcijas un ieteikumus meža atjaunošanā un ieaudzēšanā, to izpildi nodrošina Valsts meža dienesta institūcijas uz apsaimniekotāja rēķina Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "PIEKTĀ NODAĻA MEŽA ATJAUNOŠANA, KOPŠANA, TĀ RAŽĪBAS UN KVALITĀTES PAAUGSTINĀŠANA",
+      "section": "25",
+      "title": "Meža izstrādātajā pienākumi meža atjaunošana",
+      "content": "Ja meža apsaimniekotājs nav noteicis citādi, meža kultūru ierīkošana un mežsaimnieciskie pasākumi meža dabiskajai atjaunošanai jāveic meža izstrādātājam.\nLai finansiāli nodrošinātu meža atjaunošanas darbus valsts mežos, no meža izstrādātāju līdzekļiem izveido meža atjaunošanas fondu. Šā fonda izveidošanas un izlietošanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "PIEKTĀ NODAĻA MEŽA ATJAUNOŠANA, KOPŠANA, TĀ RAŽĪBAS UN KVALITĀTES PAAUGSTINĀŠANA",
+      "section": "26",
+      "title": "Jaunaudžu kopšana",
+      "content": "Kopjot jaunaudzes, jāveido tāds koku sugu sastāvs un skaits, kas nodrošina augstvērtīgas audzes atbilstoši meža apsaimniekošanas mērķim.\nJaunaudžu kopšana jāveic ar tādām metodēm un paņēmieniem, kas nekaitē videi.\nJa meža apsaimniekotājs nepilda Valsts meža dienesta instrukcijas un ieteikumus jaunaudžu kopšanā, to izpildi nodrošina Valsts meža dienesta institūcijas uz apsaimniekotāja rēķina Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "PIEKTĀ NODAĻA MEŽA ATJAUNOŠANA, KOPŠANA, TĀ RAŽĪBAS UN KVALITĀTES PAAUGSTINĀŠANA",
+      "section": "27",
+      "title": "Meža ražības un kvalitātes paaugstināšanas pasākumi",
+      "content": "Meža ražības un kvalitātes paaugstināšanas galvenie pasākumi ir šādi:\n1) selekcionēta reproduktīvā materiāla izmantošana meža atjaunošanai un ieaudzēšanai;\n2) meža kopšana;\n3) mazvērtīgu mežaudžu rekonstrukcija;\n4) meža hidrotehniskā meliorācija un ceļu būve;\n5) meža mēslošana;\n6) zinātniskie pētījumi un to rezultātu ieviešana."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "PIEKTĀ NODAĻA MEŽA ATJAUNOŠANA, KOPŠANA, TĀ RAŽĪBAS UN KVALITĀTES PAAUGSTINĀŠANA",
+      "section": "28",
+      "title": "Meža ražības un kvalitātes paaugstināšanas kārtība",
+      "content": "Meža ražības un kvalitātes paaugstināšanas pasākumi meža apsaimniekotājam jāveic saskaņā ar meža apsaimniekošanas projektu.\nMeža ražības un kvalitātes paaugstināšanas pasākumi valsts mežos jāveic par mežsaimniecības attīstības fonda līdzekļiem. Šā fonda līdzekļus veido likumā noteiktajā kārtībā, bet izmanto Ministru kabineta noteiktajā kārtībā.\nMeža ražības un kvalitātes paaugstināšanas pasākumu veikšanai meža īpašnieki var izveidot savus mežsaimniecības attīstības fondus, apvienojot labprātīgas iemaksas no meža ieņēmumiem."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "SESTĀ NODAĻA MEŽA AIZSARDZĪBA UN APSARDZĪBA",
+      "section": "29",
+      "title": "Meža apsaimniekotāju pienākumi meža aizsardzībā un apsardzībā",
+      "content": "Meža aizsardzībā meža apsaimniekotāju pienākumi ir šādi:\n1) veikt meža fitopatoloģisko uzraudzību un savlaicīgi apkarot meža slimības;\n2) veikt meža entomoloģisko uzraudzību un pasākumus kaitēkļu un meža dzīvnieku nodarīto bojājumu novēršanai;\n3) ievērot meža sanitāros noteikumus;\n4) savlaicīgi informēt Valsts meža dienestu un pašvaldības par iespējamo meža slimību parādīšanos, kaitēkļu savairošanos un citādu bojājumu rašanos.\nMeža apsardzībā meža apsaimniekotāju pienākumi ir šādi:\n1) sargāt mežu pret meža izmantošanas noteikumu pārkāpumiem un novērst rīcību, kas kaitē mežam un videi, nodara zaudējumus mežsaimniecībai;\n2) sargāt mežu pret ugunsgrēkiem saskaņā ar meža ugunsdrošības noteikumiem;\n3) sargāt meža fonda zemju robežas un robežzīmes.\nMeža apsaimniekotāji ir atbildīgi par savu darbību vai bezdarbību meža aizsardzībā un apsardzībā, ja rezultātā rodas zaudējumi citiem meža apsaimniekotājiem. Zaudējumu atlīdzināšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "SESTĀ NODAĻA MEŽA AIZSARDZĪBA UN APSARDZĪBA",
+      "section": "30",
+      "title": "Ministru kabineta un pašvaldību uzdevumi meža aizsardzībā un apsardzībā",
+      "content": "Ministru kabinets un pašvaldības piedalās meža aizsardzības un apsardzības pasākumu veikšanā, iesaista meža ugunsgrēku dzēšanā iedzīvotājus, tehniku, transportlīdzekļus un valsts resursus. Ja nepieciešams, tās var aizliegt iedzīvotājiem apmeklēt mežu un iebraukt mežā ar transportlīdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "SESTĀ NODAĻA MEŽA AIZSARDZĪBA UN APSARDZĪBA",
+      "section": "31",
+      "title": "Valsts meža dienesta uzdevumi meža aizsardzībā un apsardzībā",
+      "content": "Valsts meža dienesta institūcijas veic meža aizsardzības un apsardzības pasākumus valsts mežos, sniedz pret samaksu praktisku palīdzību visiem pārējiem meža apsaimniekotājiem, saskaņo to savstarpējo rīcību meža aizsardzības un apsardzības jautājumos.\nValsts meža dienests regulāri informē sabiedrību par meža stāvokli."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "32",
+      "title": "Meža izmantošana",
+      "content": "Meža izmantošana ir meža ekoloģisko īpašību izmantošana iedzīvotāju atpūtai un veselības nostiprināšanai un meža resursu ieguve sabiedrības materiālo un citu vajadzību apmierināšanai. Meža izmantošanai jābūt nepārtrauktai un racionālai, tā nedrīkst būt noplicinoša.\nMeža izmantošanas ierobežojumi ir atkarīgi tikai no meža ekoloģiskās un tautsaimnieciskās nozīmes, nevis no tā, kas ieguvis meža izmantošanas tiesības."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "33",
+      "title": "Meža izmantošanas veidi",
+      "content": "Meža izmantošanas veidi ir šādi:\n1) mežmateriālu sagatavošana:\n— kokmateriālu (stumbru un žagaru) sagatavošana,\n— sveķu un sulu ieguve,\n— celmu, lūku, mizu, zaru, zaleņa, pumpuru, eglīšu, meiju un citu dekoratīvo materiālu ieguve;\n2) meža blakusizmantošana:\n— siena pļaušana,\n— lopu ganīšana,\n— dravu izvietošana,\n— meža sēklu vākšana meža atjaunošanas vajadzībām,\n— savvaļas ogu, augļu, riekstu, sēņu, ārstniecības augu un citu izejvielu ieguve,\n— sūnu ieguve,\n— meža izmantošana zinātniskās izpētes mērķiem,\n— meža izmantošana iedzīvotāju atpūtai un veselības nostiprināšanai,\n— meža izmantošana medību vajadzībām,\n— meža izmantošana valsts aizsardzības vajadzībām. Mežmateriālu sagatavošanas un meža blakusizmantošanas kārtību nosaka meža likumdošanas akti."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "34",
+      "title": "Meža izmantotāji",
+      "content": "Meža izmantotāji var būt fiziskās un juridiskās personas.\nPar meža izmantotājiem, kas nodarbojas ar kokmateriālu sagatavošanu, nevar būt uzņēmējsabiedrības, kurās uzņēmējdarbību kontrolē ārvalstu ieguldītāji. Ārvalstu ieguldītāju kontrole pār uzņēmējdarbību šā likuma izpratnē ir ārvalstu balsstiesīgo ieguldītāju tiesības balsojot vai citādi noteikt uzņēmējsabiedrības darbības veidu un virzienu."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "35",
+      "title": "Meža izmantotāju tiesības un pienākumi",
+      "content": "Meža apsaimniekotājam — zemes lietotājam vai īpašniekam ir pirmtiesības uz jebkuru meža izmantošanas veidu, izņemot savvaļas ogu, augļu, riekstu, sēņu un ārstniecības augu ieguvi.\nMeža apsaimniekotājs savas tiesības izmantot mežu var nodot citām fiziskajām vai juridiskajām personām bez zemes lietošanas tiesību piešķiršanas vai zemes nodošanas īpašumā.\nMeža izmantotāju pienākums ir mežu izmantot tā, lai nenodarītu kaitējumu mežam vai piegulošajām lauksaimniecības zemēm un ceļiem. Ja meža izstrādāšana saistīta ar lauksaimniecības zemju vai ceļu izmantošanu, tad pirms darbu uzsākšanas meža izstrādātājiem jānoslēdz īpaši līgumi ar lauksaimniecības zemju vai ceļu pastāvīgajiem lietotājiem par to izmantošanu un savešanu kārtībā pēc darbu pabeigšanas.\nMeža izmantotāju tiesības un pienākumus atbilstoši meža izmantošanas veidam nosaka šis likums un citi meža likumdošanas akti."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "36",
+      "title": "Meža izmantošanas uzsākšana",
+      "content": "Valsts mežos un mežos uz lietošanā nodotajām zemēm meža izmantošanu var uzsākt pēc tam, kad valsts mežniecībā saņemta koku ciršanas biļete vai meža zīme. Citas šo mežu izmantošanas rakstveida vai mutvārdu atļaujas ir nelikumīgas neatkarīgi no tā, kas tās ir devis.\nLai sagatavotu kokmateriālus valsts mežos un mežos uz lietošanā nodotajām zemēm, nepieciešama koku ciršanas biļete. Neizņemot koku ciršanas biļeti, kokus līdz 12 centimentriem diametrā krūšu augstumā un krūmus atļauts izcirst:\n1) apmežojumu kopšanas nolūkā — līdz to pārskaitīšanai ar mežu apklātajās zemēs;\n2) nemeža zemēs;\n3) zemēs, kas nodotas citiem lietošanas mērķiem.\nMeža zīme valsts mežos un mežos uz lietošanā nodotajām zemēm nepieciešama:\n1) sveķu, sulu, celmu, lūku, mizu, zaru, zaleņa, pumpuru, eglīšu, meiju un citu dekoratīvo materiālu ieguvei realizācijas nolūkos;\n2) ārstniecības augu, sūnu un citu izejvielu ieguvei;\n3) siena pļaušanai, lopu ganīšanai un dravu izvietošanai, ja to neveic meža apsaimniekotājs;\n4) meža sēklu vākšanai, savvaļas ogu, augļu, riekstu un sēņu ieguvei realizācijas nolūkos;\n5) meža izmantošanai zinātniskās izpētes mērķiem;\n6) nelikumīgi nocirsto koku izvešanai vai kokmateriālu, kuriem izbeidzies izvešanas termiņš, izvešanai;\n7) meža izmantošanai valsts aizsardzības vajadzībām platībās, kas atrodas ārpus valsts aizsardzības mērķiem piešķirtajām zemēm.\nBez meža zīmes atļauta:\n1) sulu, zaru, eglīšu, meiju un citu dekoratīvo materiālu ieguve personiskajām vajadzībām;\n2) siena pļaušana, lopu ganīšana un dravu izvietošana, ja to veic meža apsaimniekotājs;\n3) savvaļas ogu, augļu, riekstu un sēņu ieguve personiskajam vajadzībām;\n4) meža izmantošana atpūtai un veselības nostiprināšanai.\nMeža īpašnieki kokmateriālu sagatavošanu veic saskaņā ar meža apsaimniekošanas projektu. Septiņas dienas pirms darbu uzsākšanas viņi rakstveidā informē par to vietējo mežniecību, norādot, kādā laika posmā un kādā apjomā tos paredzēts veikt, un saņem ciršanas apliecinājumu. Ja meža apsaimniekošanas projekta nav, nepieciešams ikreizējs valsts mežziņa izsniegts ciršanas apliecinājums. Ciršanas apliecinājums nav vajadzīgs, ja veic jaunaudžu kopšanu, vēja gāzto vai lauzto malkas koku izstrādi, kā arī tad, ja malkas koksnes izstrāde nepārsniedz 10 kubikmetrus vai lietkoksnes izstrāde — trīs kubikmetrus gadā. Ciršanas apliecinājuma veidu, aizpildīšanas un uzglabāšanas kārtību nosaka Valsts meža dienests.\nMedībām nepieciešama medību atļauja.\"; uzskatīt līdzšinējo sesto daļu par septīto daļu.\nŠā panta noteikumu neievērošana uzskatāma par patvaļīgu meža izmantošanu."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "37",
+      "title": "Meža izmantošanas apturēšana",
+      "content": "Ja meža izmantotājs pārkāpj meža izmantošanas vai atjaunošanas noteikumus, meža izmantošanu aptur likumdošanas aktos noteiktajā kārtībā līdz izdarītā pārkāpuma novēršanai."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "SEPTĪTĀ NODAĻA MEŽA IZMANTOŠANA. MEŽA IZMANTOTĀJU TIESĪBAS UN PIENĀKUMI",
+      "section": "38",
+      "title": "Meža izmantošanas tiesību izbeigšanās",
+      "content": "Tiesības izmantot mežu izbeidzas, ja:\n1) mainās meža apsaimniekotājs;\n2) meža izmantotājs labprātīgi atsakās no meža izmantošanas;\n3) izbeidzas meža izmantošanas termiņš, pēc šā termiņa izbeigšanās neizvestie kokmateriāli valsts mežos pāriet virsmežniecības īpašumā;\n4) meža izmantošana neatbilst atļautajam izmantošanas veidam.\nIzbeidzoties meža izmantošanas termiņam, neizvestie kokmateriāli pāriet mežniecības rīcībā, un pēc pašvaldības pieprasījuma tos izmanto sociālajām vajadzībām vai pārdod izsolēs."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "39",
+      "title": "Ciršu veidi, cirtes paņēmieni un noteikumi",
+      "content": "Meža fonda zemēs un citās zemēs kokmateriālus sagatavo galvenajā cirtē, starpcirtē, sanitārajā cirtē un citās cirtēs.\nGalvenajā cirtē ieskaita visu meža kategoriju briestaudzēs, pieaugušajās un pāraugušajās audzēs, kailcirtē vai izlases cirtē izcērtamos kokus kā ari atsevišķu koku izciršanu. Galvenā cirte ir aizliegta rezervātu mežos.\nStarpcirtē ieskaita kopšanas un rekonstruktīvajās cirtēs izcērtamos kokus. Starpcirtē ir aizliegta rezervātu mežu stingrā režīma zonā.\nCitās cirtēs ieskaita koku un krūmu novākšanu ārpus meža fonda, meža fonda nemeža zemju atbrīvošanu no koku vai krūmu apauguma un koku un krūmu novākšanu meža zemju transformēšanai nemeža zemēs. Citās cirtēs lieto kailcirti un atsevišķu koku izciršanu.\nSanitārajā cirtē ieskaita meža slimību, kaitēkļu, dzīvnieku un citādi bojāto, kā arī sauso, vēja gāzto un lauzto koku izciršanu. Sanitārā cirte ir aizliegta rezervātu mežu stingrā režīma zonā.\nNorādījumus attiecībā uz galveno cirti, starpcirti, sanitāro cirti un citām cirtēm izstrādā un apstiprina Valsts meža dienests, saskaņojot tos ar Vides aizsardzības un reģionālās attīstības ministriju."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "40",
+      "title": "Ciršanas vecums",
+      "content": "Latvijas Republikā noteikts šāds mežaudžu ciršanas vecums:\nAizsargājamos mežos valsts mežierīcības dienests katrai mežaudzei nosaka individuālo ciršanas vecumu, kas atkarīgs no aizsargājamās dabas teritorijas mērķfunkcijas, koku sugu bioloģiskajām īpašībām un audzes stāvokļa.\nPlantāciju tipa mežaudzēm ciršanas vecumu nosaka Valsts meža dienests."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "41",
+      "title": "Ciršanas tāme un norma",
+      "content": "Ciršanas tāme ir vienā gadā maksimāli pieļaujamais kokmateriālu izsniegšanas apjoms.\nGalvenās cirtes un starpcirtes tāmi katra apsaimniekotāja mežam, kas aizņem 50 un vairāk hektāru, 10—15 gadu ilgam laikposmam atsevišķi pa meža kategorijām un mežaudzes veidojošām sugām aprēķina valsts mežierīcības dienests. Aprēķināto tāmi apstiprina Valsts meža dienesta institūcijas.\nMeža ciršanas tāmi valstij kopumā iegūst, summējot meža apsaimniekotāju tāmes pa pagastiem un rajoniem. Šo tāmi pēc Ministru kabineta priekšlikuma turpmākajiem pieciem gadiem apstiprina Saeima.\nIepriekšējiem gadiem izraudzītās, bet nenocirstās cirsmas atļauts nocirst attiecīgo gadu tāmju ietvaros.\nCiršanas norma ir ikgadējais optimālais kokmateriālu izsniegšanas apjoms. To nosaka meža taksators vai valsts mežzinis, inventarizējot līdz 50 hektāriem liela meža apsaimniekotāju mežu un ņemot vērā konkrēto audžu vecuma struktūru un stāvokli. Ciršanas normu atsevišķos gados ir atļauts pārsniegt, taču jāraugās, lai norma netiktu pārsniegta ierīcības starpmeta ietvaros."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "42",
+      "title": "Cirsmu fonda sagatavošana, izsniegšana un maiņa",
+      "content": "Cirsmu fonds sastāv no katram gadam izraudzītajām galvenās cirtes, starpcirtes un citu ciršu cirsmām.\nCirsmu fondu sagatavo atbilstoši Valsts meža dienesta apstiprinātajiem cirsmu fonda sagatavošanas noteikumiem.\nCirsmu fonda izsniegšanas kārtību valsts mežos nosaka Ministru kabineta apstiprinātie koku izsniegšanas noteikumi .\nCirsmu fonda maiņu atļauj Valsts meža dienests, ja kārtējā gadā kailciršu kārtībā steidzami izcērtamas tādas audzes, kurās pēkšņi pasliktinājies sanitārais stāvoklis."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "43",
+      "title": "Kokmateriālu izsniegšana un realizācija mežā",
+      "content": "Kokmateriālus izsniedz pēc platības, pēc koku skaita vai pēc sagatavotā daudzuma.\nKokmateriālus mežā var realizēt:\n1) iznomājot ciršanas tiesības uz noteiktu laikposmu;\n2) pārdodot kokus uz celma;\n3) pārdodot sagatavotus kokmateriālus (stumbrus vai sortimentus).\nValsts mežos iegūstamo kokmateriālu realizācijas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "44",
+      "title": "Sveķu ieguve",
+      "content": "Mežaudzes, kas noteiktā kārtībā paredzētas sveķu ieguvei, atsveķojamas pirms to nociršanas galvenajā cirtē."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "45",
+      "title": "Sulu ieguve",
+      "content": "Meža apsaimniekotājs var atļaut koku sulu rūpniecisko ieguvi ciršanai paredzētajās audzēs, bet ne agrāk kā piecus gadus pirms to nociršanas. Sulu rūpnieciskās ieguves vietas ierāda valsts mežniecība vai meža īpašnieks."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "46",
+      "title": "Celmu ieguve",
+      "content": "Celmu ieguves vietas un paņēmienus nosaka valsts mežniecība vai meža īpašnieks."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "47",
+      "title": "Lūku, mizu, zaru, zaleņa un pumpuru ieguve",
+      "content": "Lūkus, mizas, zarus, zaleni un pumpurus var : iegūt tikai no nocirstiem kokiem. Koku ciršana tikai šim nolūkam aizliegta. Lūku, mizu, zaru, zaleņa un pumpuru ieguves vietas ierāda meža apsaimniekotājs."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "ASTOTĀ NODAĻA MEŽMATERIĀLU SAGATAVOŠANA",
+      "section": "48",
+      "title": "Eglīšu, meiju un citu dekoratīvo materiālu ieguve",
+      "content": "Personiskajām vajadzībām cērtamo eglīšu, meiju un citu dekoratīvo materiālu ieguves vietas ierāda meža apsaimniekotājs.\nRealizācijas vajadzībām cērtamo eglīšu, meiju un citu dekoratīvo materiālu ieguves vietas ierāda valsts mežniecība vai meža īpašnieks."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "49",
+      "title": "Siena pļaušana un lopu ganīšana",
+      "content": "Siena pļaušana un lopu ganīšana, ja tā nekaitē mežaudzēm, atļauta ar meža apsaimniekotāja piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "50",
+      "title": "Dravu izvietošana",
+      "content": "Meža iecirkņus dravu izvietošanai ierāda meža apsaimniekotājs, nedodot tiesības cirst mežu, attīrīt meža platības un celt ēkas."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "51",
+      "title": "Meža sēklu, savvaļas ogu, augļu, riekstu, sēņu, ārstniecības augu un citu izejvielu ieguve",
+      "content": "Meža sēklu vākšanas vietas un paņēmienus nosaka valsts mežniecība.\nSavvaļas ogas, augļus, riekstus, sēnes, ārstniecības augus un citas izejvielas fiziskās un juridiskās personas var iegūt pēc sava ieskata, ja Valsts meža dienests, vides aizsardzības institūcija vai pašvaldība valsts mežos un lietošanā piešķirtajos mežos vai meža īpašnieks savos mežos nav noteicis citu kārtību.\nSavvaļas ogu, augļu, riekstu, sēņu, ārstniecības augu un citu izejvielu ieguve veicama, nekaitējot mežam.\nTiesības iegūt savvaļas ogas, augļus, riekstus, sēnes, ārstniecības augus un citas izejvielas šim nolūkam ierīkotajās plantācijās ir plantācijas apsaimniekotājam vai — ar viņa atļauju — citām fiziskajām un juridiskajām personām."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "52",
+      "title": "Sūnu ieguve",
+      "content": "Sūnu ieguvi var atļaut, ja tā nekaitē mežam. Sūnu ieguves vietas ierāda meža apsaimniekotājs."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "53",
+      "title": "Meža izmantošana zinātniskās izpētes mērķiem",
+      "content": "Zinātniskās izpētes iestādēm pēc vienošanās ar meža apsaimniekotāju var ierādīt mežu zinātniskās izpētes darbu veikšanai.\nZinātniskās izpētes mērķiem ierādītās meža platības izmantojamas atbilstoši zinātniskās izpētes darbu plāniem."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "54",
+      "title": "Meža izmantošana iedzīvotāju atpūtai un veselības nostiprināšanai",
+      "content": "Ar meža apsaimniekotāja piekrišanu mežu var izmantot iedzīvotāju atpūtas organizēšanai.\nIedzīvotāju atpūtas organizēšanā ieinteresētās fiziskās un juridiskās personas iekārto atpūtai paredzētās meža platības un gādā par iedzīvotāju sadzīves vajadzību apmierināšanu. Izmantojot mežu šādām vajadzībām, meža izmantotājam jānodrošina meža vides un dabiskās ainavas saglabāšana. Kārtību, kādā mežs izmantojams organizētai iedzīvotāju atpūtai un veselības nostiprināšanai, nosaka meža apsaimniekotājs pēc saskaņošanas ar pašvaldību."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "55",
+      "title": "Meža izmantošana medību vajadzībām",
+      "content": "Kārtību, kādā mežs izmantojams medību vajadzībām, nosaka Medību likums."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "DEVĪTĀ NODAĻA MEŽA BLAKUSIZMANTOŠANA",
+      "section": "56",
+      "title": "Meža izmantošana valsts aizsardzības vajadzībām, ja tas atrodas ārpus zemēm, kas piešķirtas lietošanā valsts aizsardzības mērķiem",
+      "content": "Karaspēka daļas, militārie uzņēmumi un militārās organizācijas var izmantot savām vajadzībām citu apsaimniekotāju mežus pēc saskaņošanas ar apsaimniekotāju un pašvaldību.\nIzmantojot valsts aizsardzības vajadzībām citu apsaimniekotāju mežus, aizliegts cirst, izrakt vai bojāt kokus un krūmus, bojāt hidrotehniskās un inženiertehniskās būves, veikt jebkādus zemes darbus un citādi kaitēt meža videi."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "DESMITĀ NODAĻA IEDZĪVOTĀJU UZTURĒŠANAS MEŽA",
+      "section": "57",
+      "title": "Iedzīvotāju tiesības uzturēties mežā",
+      "content": "Iedzīvotājiem ir tiesības brīvi uzturēties valsts mežā.\nIedzīvotāju uzturēšanos citos mežos regulē to apsaimniekotājs.\nIedzīvotāju uzturēšanos mežā var ierobežot ar pašvaldības lēmumu pēc Valsts meža dienesta vai vides aizsardzības institūcijas ierosinājuma meža ugunsdrošības, meža augu un dzīvnieku aizsardzības un valsts drošības interesēs likumdošanas aktos noteiktajā kārtībā.\nLēmumi obligāti izsludināmi masu informācijas līdzekļos."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "DESMITĀ NODAĻA IEDZĪVOTĀJU UZTURĒŠANAS MEŽA",
+      "section": "58",
+      "title": "Iedzīvotāju pienākumi, uzturoties mežā",
+      "content": "Uzturoties mežā, iedzīvotāju pienākums ir ievērot meža ugunsdrošības noteikumus, necirst un nebojāt kokus un krūmus, nepiegružot mežu, nepostīt putnu ligzdas un skudru pūžņus un citādi nekaitēt meža augiem un dzīvniekiem.\nIedzīvotāju pienākums ir ievērot īpaši aizsargājamu dabas teritoriju un īpaši aizsargājamu meža iecirkņu apmeklēšanas noteikumus, kā arī noteikto kārtību atpūtas vietu izmantošanā."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "VIENPADSMITĀ NODAĻA MEŽA APSAIMNIEKOŠANAS UN IZMANTOŠANAS KONTROLE",
+      "section": "59",
+      "title": "Meža apsaimniekošanas un izmantošanas kontroles uzdevumi",
+      "content": "Meža apsaimniekošanas un izmantošanas kontrolei jānodrošina meža likumdošanas aktu ievērošana."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "VIENPADSMITĀ NODAĻA MEŽA APSAIMNIEKOŠANAS UN IZMANTOŠANAS KONTROLE",
+      "section": "60",
+      "title": "Institūcijas, kas veic meža apsaimniekošanas un izmantošanas kontroli",
+      "content": "Meža apsaimniekošanas un izmantošanas kontroli veic:\n1) Valsts meža dienests un tā institūcijas, tajā skaitā Meža un medību valsts inspekcija;\n2) pašvaldības;\n3) vides aizsardzības institūcijas."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VIENPADSMITĀ NODAĻA MEŽA APSAIMNIEKOŠANAS UN IZMANTOŠANAS KONTROLE",
+      "section": "61",
+      "title": "Kontroles institūciju tiesības",
+      "content": "Kontroles institūcijām ir tiesības pieprasīt un saņemt no meža apsaimniekotājiem un izmantotājiem rakstveida vai mutvārdu informāciju, kā arī netraucēti iepazīties ar meža stāvokli dabā, lai varētu veikt konkrētos uzdevumus.\nKontroles institūcijām ir tiesības apturēt rīcību, kas ir pretrunā ar meža likumdošanas aktu prasībām, uzlikt naudas sodus un veikt citus pasākumus, kas atbilst to dienesta kompetencei.\nKontroles institūcijas var pārtraukt fizisko un juridisko personu uzsāktos darbus, ja to rezultātā tiek nodarīts kaitējums mežam vai tam piegulošajām lauksaimniecības zemēm un ceļiem (ja nav noslēgti īpaši līgumi ar zemes vai ceļu pastāvīgajiem lietotājiem par to izmantošanu un savešanu kārtībā pēc darbu pabeigšanas)."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "DIVPADSMITĀ NODAĻA VALSTS MEŽA DIENESTS",
+      "section": "62",
+      "title": "Valsts meža dienesta darbība un atbildība",
+      "content": "Valsts meža dienests ir Zemkopības ministrijas pārraudzībā esoša civiliestāde, kas darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.\nValsts meža dienestu vada valsts galvenais virsmežzinis, kuru amatā ieceļ un no amata atbrīvo Ministru kabinets.\nValsts meža dienests un tā institūcijas saskaņā ar mežsaimniecību regulējošiem normatīvajiem aktiem ir atbildīgas par vienotu meža apsaimniekošanas un izmantošanas pasākumu nodrošināšanu visos mežos."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "DIVPADSMITĀ NODAĻA VALSTS MEŽA DIENESTS",
+      "section": "63",
+      "title": "Valsts meža dienesta darbinieku pienākumi un tiesības",
+      "content": "Valsts meža dienesta darbinieku pienākums ir nodrošināt visu mežu apsaimniekošanu atbilstoši meža likumdošanas aktu prasībām, pārtraukt un novērst meža apsaimniekošanas un izmantošanas noteikumu pārkāpumus un meža fonda zemju izmantošanu neparedzētiem mērķiem, kā arī pārtraukt un novērst jebkuru mežam un videi kaitīgu rīcību, organizēt un vadīt mežu ugunsgrēku dzēšanu, iesaistot nepieciešamās institūcijas. Pildot dienesta pienākumus, Valsts meža dienesta darbiniekiem jāvalkā formas tērps.\nValsts meža dienesta darbiniekiem Ministru kabineta noteiktajā kārtībā par samaksu jāsniedz konsultācijas un pakalpojumi meža apsaimniekotājiem.\nAtklājot mežpārkāpumu, Valsts meža dienesta darbiniekiem ir tiesības aizturēt pārkāpumu izdarītāju, noskaidrot viņa personību, uzlikt un iekasēt naudas sodu vai sastādīt protokolu par mežpārkāpumu, kā arī nodot mežpārkāpuma materiālus tiesību aizsardzības iestādēm vainīgo personu saukšanai pie likumā paredzētās atbildības.\nValsts meža dienesta darbiniekiem ir tiesības saņemt bezmaksas formas tērpu, nēsāt dienesta ieroci, ar atvieglotiem noteikumiem iegādāties kokmateriālus personiskajām vajadzībām un nomāt dienesta zemi līdz 10 hektāru platībā. Valsts meža dienesta darbība tiek finansēta no valsts budžeta.\nValsts meža dienesta darbiniekam aizliegts iesaistīties uzņēmējdarbībā, kas saistīta ar mežmateriālu sagatavošanu, izņemot uzņēmējdarbību, kas saistīta ar mežmateriālu sagatavošanu attiecīgā Valsts meža dienesta darbinieka vai viņa laulātā, vecāku, bērnu, brāļu vai māsu īpašumā esošā vai viņiem lietošanā piešķirtā mežā."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "TRĪSPADSMITĀ NODAĻA VALSTS MEŽA KADASTRS UN MEŽA MONITORINGS",
+      "section": "64",
+      "title": "Valsts meža kadastra jēdziens, saturs un uzdevums",
+      "content": "Valsts meža kadastrs ir tautsaimniecībai nepieciešamo datu sakopojums par meža tiesisko, dabisko un saimniecisko stāvokli.\nValsts meža kadastrā ietilpst meža apsaimniekotāju reģistrs, meža kadastra kartogrāfiskie materiāli, meža fonda uzskaites dati un meža vērtēšanas dati.\nValsts meža kadastra uzdevums ir nodrošināt ar meža apsaimniekošanu, mežierīcību un meža tiesisko aizsardzību saistīto pasākumu veikšanu, kā arī dot materiālus statistikas, meža resursu izmantošanas un meža ieņēmumu noteikšanas vajadzībām."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "TRĪSPADSMITĀ NODAĻA VALSTS MEŽA KADASTRS UN MEŽA MONITORINGS",
+      "section": "65",
+      "title": "Valsts meža kadastra kārtošana un finansēšana",
+      "content": "Valsts meža kadastru kārto valsts mežierīcības dienests kopā ar pašvaldībām Ministru kabineta noteiktajā kārtībā.\nValsts meža kadastra pasākumus finansē no valsts budžeta."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "TRĪSPADSMITĀ NODAĻA VALSTS MEŽA KADASTRS UN MEŽA MONITORINGS",
+      "section": "66",
+      "title": "Meža monitoringa jēdziens un uzdevumi",
+      "content": "Meža monitorings ir informatīva sistēma, kas ietver stacionārus novērojumus, iegūto datu analīzi un prognožu izstrādāšanu par vides ietekmi uz meža stāvokli un attīstību.\nMeža monitoringa uzdevumi ir šādi:\n1) veikt kompleksus, ikgadējus stacionārus novērojumus par meža stāvokļa, piesārņotības līmeņa un produktivitātes izmaiņām;\n2) uzkrāt un analizēt novērojumu datus;\n3) prognozēt meža stāvokļa, piesārņotības līmeņa un produktivitātes izmaiņu virzienus un dot ieteikumus piesārņojuma novēršanai."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "TRĪSPADSMITĀ NODAĻA VALSTS MEŽA KADASTRS UN MEŽA MONITORINGS",
+      "section": "67",
+      "title": "Meža monitoringa kārtība un finansēšana",
+      "content": "Meža monitoringa organizācijas un funkcionēšanas kārtību nosaka Vides aizsardzības un reģionālās attīstības ministrija kopā ar Valsts meža dienestu.\nMeža monitoringa darbus finansē no valsts budžeta."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "ČETRPADSMITĀ NODAĻA VALSTS MEŽIERĪCĪBA",
+      "section": "68",
+      "title": "Mežierīcības saturs",
+      "content": "Mežierīcība ir pasākumu sistēma, ko izveido meža inventarizācijai, tā apsaimniekošanas plānošanai un kontrolei ar mērķi nodrošināt visu mežam piemītošo funkciju nepārtrauktību.\nMežierīcība ietver šādus pasākumus:\n1) meža apsaimniekotāju teritoriju tiesiskā stāvokļa un meža fonda zemju robežu pārbaudi;\n2) priekšlikumu izstrādāšanu meža apsaimniekotāju teritoriju iekšējās organizācijas pārkārtošanai;\n3) meža kategoriju un īpaši aizsargājamu meža iecirkņu robežu precizēšanu un priekšlikumu izstrādāšanu to grozīšanai;\n4) meža fonda zemju un mežaudžu inventarizāciju;\n5) galvenās cirtes un starpcirtes tāme cirtes veidu, paņēmienu un vietu noteikšanu;\n6) meža atjaunošanas veidu, paņēmienu, apjomu un vietu noteikšanu;\n7) priekšlikumu izstrādāšanu meža blakusizmantošanai;\n8) meža aizsardzības un apsardzības plānošanu;\n9) medību saimniecību projektēšanu;\n10) meža apsaimniekošanas projektu izstrādāšanu;\n11) meža resursu attīstības un izmantošanas plānošanu un prognozēšanu;\n12) datu bāzes «Meža fonds» izveidošanas un funkcionēšanas nodrošināšanu;\n13) topogrāfiski ģeodēzisko un taksācijas darbu, kā ari citu meža apsekošanas un izpētes darbu veikšanu;\n14) meža fonda kartogrāfisko materiālu izgatavošanu.\nPēc darbu satura mežierīcību iedala meža inventarizācijā un meža projektēšanā."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "ČETRPADSMITĀ NODAĻA VALSTS MEŽIERĪCĪBA",
+      "section": "69",
+      "title": "Meža apsaimniekošanas projekts",
+      "content": "Meža inventarizācijas darbu rezultātus apkopo meža apsaimniekošanas projektā, ko izstrādā katra apsaimniekotāja mežam, kas aizņem 10 un vairāk hektāru.\nŠis projekts ir meža apsaimniekošanas un izmantošanas pasākumu pamats. Atkāpes no projekta pieļaujamas ar tās Valsts meža dienesta institūcijas atļauju, kas apstiprinājusi projektu.\nMeža apsaimniekošanas projekta ekspertīzes, saskaņošanas un apstiprināšanas kārtību nosaka Ministru kabinets.\nAutoruzraudzību par meža apsaimniekošanas projektu izpildi realizē valsts mežierīcības dienests."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "ČETRPADSMITĀ NODAĻA VALSTS MEŽIERĪCĪBA",
+      "section": "70",
+      "title": "Mežierīcības realizēšana",
+      "content": "Meža inventarizāciju (pamatierīcību) reizi 10—15 gados veic pēc vienotas sistēmas, ko nosaka Valsts meža dienests. Pamatierīcība ir obligāta visos mežos, to organizē par valsts budžeta līdzekļiem un veic valsts mežierīcības dienests neatkarīgi no meža apsaimniekotāju ieskata.\nMeža apsaimniekošanas projektu sastādīšanu, kā arī meža inventarizāciju pamatierīcības starpmetā veic valsts mežierīcības dienests vai zvērināti meža taksatori pēc meža apsaimniekotāju pieprasījuma un par viņu līdzekļiem.\nCitas fiziskās un juridiskās personas meža apsaimniekošanas projektus un citus mežierīcības materiālus izmanto par samaksu."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "PIECPADSMITĀ NODAĻA MEŽA STRĪDU IZŠĶIRŠANA",
+      "section": "71",
+      "title": "Meža strīdi",
+      "content": "Meža strīdi ir strīdi, kas rodas starp fiziskajām personām, starp fiziskajām un juridiskajām personām un starp juridiskajām personām meža apsaimniekošanas vai izmantošanas jautājumos."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "PIECPADSMITĀ NODAĻA MEŽA STRĪDU IZŠĶIRŠANA",
+      "section": "72",
+      "title": "Meža strīdu izskatīšanas kompetence",
+      "content": "Fizisko un juridisko personu meža strīdus izskata Valsts meža dienesta institūcijas atbilstoši to kompetencei.\nMeža strīda būtībai atbilstošas sūdzības iesniegšana aptur jebkādus tālākus meža apsaimniekošanas vai izmantošanas darbus līdz sūdzības izskatīšanai."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "PIECPADSMITĀ NODAĻA MEŽA STRĪDU IZŠĶIRŠANA",
+      "section": "73",
+      "title": "Meža strīdu izskatīšanas kārtība",
+      "content": "Meža strīdus izskata pēc vienas puses motivēta iesnieguma, kam pievienoti izskatīšanai nepieciešamie dokumenti.\nMeža strīdu izskatīšanā tiek pieaicinātas abas puses, un tie jāizskata mēneša laikā no iesnieguma saņemšanas dienas. Ja puses, kurām rakstveidā paziņota meža strīda izskatīšanas diena, neierodas, strīdu izskata bez to piedalīšanās.\nValsts meža dienesta institūcijai, kas izskata meža strīdu, jāpieņem lēmums un, ja nepieciešams, jānorāda tā izpildes termiņi un kārtība, kā arī pasākumi, kas veicami pārkāpto meža apsaimniekošanas vai izmantošanas tiesību atjaunošanai.\nPar meža strīdiem pieņemtie lēmumi, ja tie desmit dienu laikā netiek pārsūdzēti, ir obligāti abām pusēm, amatpersonām, fiziskajām un juridiskajām personām."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "PIECPADSMITĀ NODAĻA MEŽA STRĪDU IZŠĶIRŠANA",
+      "section": "74",
+      "title": "Meža strīdā ieinteresēto pušu tiesības un pienākumi",
+      "content": "Meža strīdā ieinteresētajām pusēm ir šādas tiesības un pienākumi:\n1) iepazīties ar meža strīda izskatīšanai sagatavotajiem materiāliem un lēmuma projektu, izdarīt no tiem izrakstus;\n2) piedalīties meža strīda izskatīšanā, iesniegt dokumentus un citus pierādījumus;\n3) izteikt lūgumus, arī lūgumu pieaicināt lieciniekus;\n4) sniegt mutvārdu un rakstveida paskaidrojumus;\n5) iebilst pret otras puses lūgumiem, argumentiem un apsvērumiem;\n6) pieprasīt un saņemt par meža strīdu pieņemtā lēmuma norakstu."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "PIECPADSMITĀ NODAĻA MEŽA STRĪDU IZŠĶIRŠANA",
+      "section": "75",
+      "title": "Meža strīdu pārsūdzēšanas kārtība",
+      "content": "Desmit dienu laikā no brīža, kad meža strīdā ieinteresētajām pusēm paziņots Valsts meža dienesta institūcijas lēmums, strīdā ieinteresētās puses var pārsūdzēt šo lēmumu tiesā (Saimnieciskajā tiesā) likumos noteiktajā kārtībā.\nLēmuma pārsūdzēšana šajā likumā noteiktajā kārtībā aptur tā izpildi līdz iesniegtās sūdzības izskatīšanai. Par iesniegumu, kas saņemts meža strīda pārsūdzēšanas kārtībā, strīda izskatītājs paziņo tai institūcijai, kuras lēmums tiek apstrīdēts."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "SEŠPADSMITĀ NODAĻA ZAUDĒJUMU UN ZUDUMU ATLĪDZINĀŠANA MEŽA APSAIMNIEKOTĀJIEM, ME2A IZMANTOTĀJIEM UN MEŽSAIMNIECĪBAI",
+      "section": "76",
+      "title": "Zaudējumu atlīdzināšana meža apsaimniekotājiem",
+      "content": "Zaudējumus meža apsaimniekotājiem pilnā apjomā atlīdzina tās fiziskās un juridiskās personas, kuru vainas dēļ šie zaudējumi radušies, turklāt atlīdzināmi arī tie zaudējumi, kas saistīti ar meža apsaimniekotāju tiesību ierobežošanu, meža atņemšanu vai iznomāšanu un meža ražības un kvalitātes pasliktināšanos."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "SEŠPADSMITĀ NODAĻA ZAUDĒJUMU UN ZUDUMU ATLĪDZINĀŠANA MEŽA APSAIMNIEKOTĀJIEM, ME2A IZMANTOTĀJIEM UN MEŽSAIMNIECĪBAI",
+      "section": "77",
+      "title": "Zaudējumu atlīdzināšana meža izmantotājiem",
+      "content": "Zaudējumi, kas rodas meža izmantotājiem, ja tiek ierobežotas viņu tiesības, kompensējami, nosakot konkrētu atlīdzību, kas piedzenama no fiziskajām un juridiskajām personām, kuru interesēs izdarīts meža izmantošanas tiesību ierobežojums.\nNelikumīgi ierobežotās meža izmantotāju tiesības atjaunojamas un nodarītie zaudējumi atlīdzināmi likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "SEŠPADSMITĀ NODAĻA ZAUDĒJUMU UN ZUDUMU ATLĪDZINĀŠANA MEŽA APSAIMNIEKOTĀJIEM, ME2A IZMANTOTĀJIEM UN MEŽSAIMNIECĪBAI",
+      "section": "78",
+      "title": "Zudumu atlīdzināšana mežsaimniecībai",
+      "content": "Zudumus mežsaimniecībai atlīdzina likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "SEŠPADSMITĀ NODAĻA ZAUDĒJUMU UN ZUDUMU ATLĪDZINĀŠANA MEŽA APSAIMNIEKOTĀJIEM, ME2A IZMANTOTĀJIEM UN MEŽSAIMNIECĪBAI",
+      "section": "79",
+      "title": "Zaudējumu un zudumu aprēķināšanas un atlīdzināšanas kārtība",
+      "content": "Kārtību, kādā aprēķināmi un atlīdzināmi zaudējumi un zudumi, kuri radušies sakarā ar meža apsaimniekošanas un izmantošanas tiesību ierobežošanu, meža atņemšanu un iznomāšanu vai meža zemju piešķiršanu un transformēšanu tādiem mērķiem, kas nav saistīti ar meža apsaimniekošanu, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "SEPTIŅPADSMITĀ NODAĻA ATBILDĪBA PAR MEŽA LIKUMDOŠANAS AKTU PĀRKĀPUMIEM",
+      "section": "80",
+      "title": "Mežpārkāpumi",
+      "content": "Mežpārkāpumi ir:\n1) nelikumīga koku un krūmu izciršana (izrakšana) vai bojāšana;\n2) meža ugunsdrošības noteikumu neievērošana;\n3) meža iznīcināšana vai bojāšana, to dedzinot, applūdinot vai pārpurvojot;\n4) meža iznicināšana vai bojāšana ar notekūdeņiem, toksiskam vielām, rūpniecības un sadzīves atkritumiem, atliekām un sārņiem;\n5) meža fonda zemju patvaļīga izmantošana, ceļot uz tām pastāvīgas vai īslaicīgas lietošanas objektus;\n6) medību noteikumu pārkāpumi;\n7) meža augu un to biotopu, meža dzīvnieku un to mitekļa patvaļīga iznīcināšana;\n8) meža inženierbūvju iznīcināšana vai bojāšana;\n9) meža robežzīmju un norādījuma zīmju iznīcināšana vai bojāšana;\n10) citi mežpārkāpumi, kas noteikti likumdošanas aktos."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "SEPTIŅPADSMITĀ NODAĻA ATBILDĪBA PAR MEŽA LIKUMDOŠANAS AKTU PĀRKĀPUMIEM",
+      "section": "81",
+      "title": "Atbildība par mežpārkāpumiem",
+      "content": "Personas, kas pārkāpušas meža apsaimniekošanas vai izmantošanas noteikumus, saucamas pie administratīvās atbildības, civiltiesiskās atbildības vai kriminālatbildības, bet amatpersonas — arī pie disciplinārās atbildības saskaņā ar likumiem.\nMeža likumdošanas un normatīvo aktu noteikumu pārkāpējus pie administratīvās atbildības sauc Valsts meža dienesta darbinieki atbilstoši to kompetencei.\nMeža apsaimniekošanas un izmantošanas tiesību patvaļīga piesavināšanās vai tālāknodošana, kā arī citi darījumi, ar kuriem atklātā vai slēptā veidā pārkāpta meža apsaimniekošanai vai izmantošanai noteiktā kārtība, tiek atzīti par spēkā neesošiem."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "SEPTIŅPADSMITĀ NODAĻA ATBILDĪBA PAR MEŽA LIKUMDOŠANAS AKTU PĀRKĀPUMIEM",
+      "section": "82",
+      "title": "Atlīdzība par kaitējumu, kas nodarīts mežpārkāpuma rezultātā",
+      "content": "Personu un amatpersonu saukšana pie disciplinārās, civiltiesiskās un administratīvās atbildības vai kriminālatbildības neatbrīvo tās no pienākuma atlīdzināt kaitējumu, kas nodarīts mežam, fizisko un juridisko personu interesēm un īpašumam.\nValsts meža dienests un tā institūcijas ir atbrīvotas no valsts nodevas par tām prasībām, kas iesniegtas tiesu iestādēm, lai piedzītu soda naudas un zaudējumu atlīdzību saskaņā ar meža apsaimniekošanas un izmantošanas noteikumu pārkāpumiem."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "SEPTIŅPADSMITĀ NODAĻA ATBILDĪBA PAR MEŽA LIKUMDOŠANAS AKTU PĀRKĀPUMIEM",
+      "section": "83",
+      "title": "Nelikumīgi iegūtu kokmateriālu un citas meža produkcijas atņemšana",
+      "content": "Nelikumīgi iegūtie kokmateriāli un cita meža produkcija ir atņemama. Atņemto kokmateriālu un citas meža produkcijas realizācijas kārtību nosaka pašvaldība.\nJa meža produkcijas atņemšana nav iespējama, no mežpārkāpuma izdarītāja piedzenama nelikumīgi iegūtās produkcijas vērtība."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "ASTOŅPADSMITĀ NODAĻA STARPTAUTISKIE LĪGUMI",
+      "section": "84",
+      "title": "Starptautiskie līgumi",
+      "content": "Ja Saeimas apstiprinātajos starptautiskajos līgumos paredzēti citādi meža apsaimniekošanas vai izmantošanas noteikumi nekā šajā likumā, piemērojami šo starptautisko līgumu noteikumi."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "ASTOŅPADSMITĀ NODAĻA STARPTAUTISKIE LĪGUMI",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums «Par meža apsaimniekošanu un izmantošanu» un Latvijas Republikas Augstākās padomes lēmums «Par Latvijas Republikas likuma «Par meža apsaimniekošanu un izmantošanu» spēkā stāšanās kārtību» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 24/25), kā ari Ministru kabineta noteikumi nr. 24 «Par meža apsaimniekošanu un izmantošanu» (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums «Par meža apsaimniekošanu un izmantošanu» un Latvijas Republikas Augstākās padomes lēmums «Par Latvijas Republikas likuma «Par meža apsaimniekošanu un izmantošanu» spēkā stāšanās kārtību» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 24/25), kā ari Ministru kabineta noteikumi nr. 24 «Par meža apsaimniekošanu un izmantošanu» (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "ASTOŅPADSMITĀ NODAĻA STARPTAUTISKIE LĪGUMI",
+      "section": "pn2",
+      "title": "2. Likumprojektu «Par valsts meža izmantošanas kārtību» izskatīšanai Saeimā līdz 1994. gada 1. maijam iesniedz Ministru kabinets.",
+      "content": "2. Likumprojektu «Par valsts meža izmantošanas kārtību» izskatīšanai Saeimā līdz 1994. gada 1. maijam iesniedz Ministru kabinets."
+    }
+  ],
+  "definitions": []
+}

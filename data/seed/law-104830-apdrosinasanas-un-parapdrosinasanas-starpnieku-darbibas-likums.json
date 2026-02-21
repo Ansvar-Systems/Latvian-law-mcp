@@ -1,0 +1,615 @@
+{
+  "id": "lv-law-104830",
+  "type": "statute",
+  "title": "Apdrošināšanas un pārapdrošināšanas starpnieku darbības likums",
+  "title_en": "Activities Of Insurance And Reinsurance Intermediaries Law",
+  "short_name": "TA-104830",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/104830-apdrosinasanas-un-parapdrosinasanas-starpnieku-darbibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "(1) Likumā ir lietoti šādi termini:",
+      "content": "1) apdrošināšanas starpniecība — apdrošināšanas piedāvājuma, citu apdrošināšanas līguma noslēgšanai nepieciešamo dokumentu sagatavošana, apdrošināšanas līguma noteikumu, tai skaitā apdrošināšanas līgumā noteikto tiesību un pienākumu, izskaidrošana, citu apdrošināšanas līguma noslēgšanai nepieciešamo darbību veikšana vai minētā līguma noslēgšana, vai apkalpošana, kā arī informācijas sniegšana par vienu vai vairākiem apdrošināšanas piedāvājumiem, pamatojoties uz kritērijiem, kurus klients izvēlas, izmantojot tīmekļvietni vai mobilo lietotni;\n2) pārapdrošināšanas starpniecība — pārapdrošināšanas piedāvājuma, citu pārapdrošināšanas līguma noslēgšanai nepieciešamo dokumentu sagatavošana, pārapdrošināšanas līguma noteikumu, tai skaitā pārapdrošināšanas līgumā noteikto tiesību un pienākumu, izskaidrošana, citu pārapdrošināšanas līguma noslēgšanai nepieciešamo darbību veikšana vai minētā līguma noslēgšana, vai apkalpošana;\n3) apdrošināšanas starpnieks — apdrošināšanas brokeris, apdrošināšanas aģents vai piesaistītais apdrošināšanas aģents, kas par atlīdzību nodarbojas ar apdrošināšanas starpniecību šajā likumā noteiktajā kārtībā;\n4) pārapdrošināšanas starpnieks — apdrošināšanas brokeris, kas par atlīdzību nodarbojas ar pārapdrošināšanas starpniecību šajā likumā noteiktajā kārtībā;\n5) apdrošināšanas brokeris — persona, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību klienta vārdā un interesēs, pamatojoties uz vispusīgu piedāvājuma analīzi, un ir apdrošinājusi savu civiltiesisko atbildību šajā likumā noteiktajā kārtībā;\n6) apdrošināšanas aģents — persona, kura nodarbojas ar apdrošināšanas starp­niecību tikai viena apdrošināšanas komersanta, valsts, kas nav dalībvalsts (turpmāk — nedalībvalsts), apdrošinātāja filiāles vai koncernā ietilpstošo apdrošināšanas komersantu vārdā un interesēs un par kuras profesionālo darbību pilnu atbildību ir uzņēmies apdrošināšanas komersants, nedalībvalsts apdrošinātāja filiāle vai koncernā ietilpstošie apdrošināšanas komersanti vai kura apdrošinājusi savu civiltiesisko atbildību šajā likumā noteiktajā kārtībā;\n7) piesaistītais apdrošināšanas aģents — persona, kura, nesaņemot apdrošināšanas prēmijas un citus maksājumus saskaņā ar noslēgto apdrošināšanas līgumu, nodarbojas ar apdrošināšanas starpniecību viena vai vairāku apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāles vārdā un interesēs, ja vairāku apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāles izplatāmie apdrošināšanas pakalpojumi neparedz vienādu apdrošināšanas veidu, un par kuras profesionālo darbību pilnu atbildību ir uzņēmies apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle attiecībā uz apdrošināšanas pakalpojumiem, kas ar tiem saistīti;\n8) dalībvalsts apdrošināšanas starp­nieks — apdrošināšanas starpnieks, kurš reģistrēts dalībvalstī un kuram mītnes (reģistrācijas) valstī ir tiesības nodarboties ar apdrošināšanas starpniecību;\n9) dalībvalsts pārapdrošināšanas starp­nieks — pārapdrošināšanas starpnieks, kurš reģistrēts dalībvalstī un kuram mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanas starpniecību;\n10) atbildīgā persona — pašnodarbinātā persona, apdrošināšanas un pārapdrošināšanas starpnieka izpildinstitūcijas loceklis vai cita persona, kas atbilstoši savai kompetencei apdrošināšanas un pārapdrošināšanas starpnieka vadības līmenī ir atbildīga par apdrošināšanas un pārapdrošināšanas starpniecību;\n11) klients — persona, kurai ir nodoms noslēgt apdrošināšanas vai pārapdrošināšanas līgumu vai kura ir iesaistīta:\na) apdrošināšanas līguma izpildē kā apdrošinājuma ņēmējs, apdrošinātais vai labuma guvējs,\nb) pārapdrošināšanas līguma izpildē kā pārapdrošinājuma ņēmējs;\n12) profesionālā apdrošināšanas un pārapdrošināšanas starpnieku asociācija — biedrība, kura ir saņēmusi Finanšu un kapitāla tirgus komisijas atļauju sniegt atzinumus šajā likumā noteiktajā kārtībā par apdrošināšanas un pārapdrošināšanas starpniecības veikšanai nepieciešamajām zināšanām un darba pieredzi;\n13) profesionālā apdrošinātāju asociācija — biedrība, kura ir saņēmusi Finanšu un kapitāla tirgus komisijas atļauju sniegt atzinumus šajā likumā noteiktajā kārtībā par apdrošināšanas starpniecības veikšanai nepieciešamajām zināšanām un darba pieredzi;\n14) vispusīga piedāvājuma analīze — apdrošināšanas komersantu un nedalībvalsts apdrošinātāju filiāļu piedāvājuma analīze, kuru veic apdrošināšanas brokeris, izvērtējot pietiekami lielu apdrošināšanas pakalpojumu skaitu tirgū, pamatojoties uz profesionālajiem kritērijiem, lai sniegtu klientam vispiemērotāko apdrošināšanas starpnieka pakalpojumu apdrošināšanas līguma noslēgšanai;\n15) dalībvalsts uzraudzības institūcija — institūcija, kurai dalībvalsts deleģējusi apdrošināšanas un pārapdrošināšanas starpniecības uzraudzības funkciju neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šīs funkcijas veikšanu tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts ir paziņojusi Eiropas Komisijai;\n16) apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistīts darbinieks — persona, kura ir tiesīga patstāvīgi, bez īpašas uzraudzības apdrošināšanas vai pārapdrošināšanas starpnieka vārdā nodarboties ar apdrošināšanas vai pārapdrošināšanas starpniecību;\n17) apdrošināšanas brokera palīgs — persona, kura apdrošināšanas brokera pašnodarbinātās personas statusā vai apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka vadībā un uzraudzībā veic ar apdrošināšanas vai pārapdrošināšanas starpniecību saistītus pienākumus. Apdrošināšanas brokera palīgs nav tiesīgs pieņemt ar apdrošināšanas vai pārapdrošināšanas starpniecību saistītus lēmumus;\n18) nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle — Latvijas Republikā izveidota un reģistrēta nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle.\n(2) Citi šajā likumā lietotie termini atbilst Apdrošināšanas un pārapdrošināšanas likumā , likumā \" Par apdrošināšanas līgumu \", Finanšu instrumentu tirgus likumā un Eiropas Parlamenta un Padomes 2014. gada 26. novembra regulā (ES) Nr. 1286/2014 par komplektētu privāto ieguldījumu un apdrošināšanas ieguldījumu produktu (PRIIP) pamatinformācijas dokumentiem (Dokuments attiecas uz EEZ) (turpmāk — ES Regula Nr. 1286/2014) lietotajiem terminiem."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likums nosaka apdrošināšanas un pārapdrošināšanas starpnieku tiesisko statusu, reglamentē to darbību un uzraudzību.",
+      "content": "2.pants. Likums nosaka apdrošināšanas un pārapdrošināšanas starpnieku tiesisko statusu, reglamentē to darbību un uzraudzību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "(1) Ikviena persona šajā likumā noteiktajā kārtībā ir tiesīga nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību.",
+      "content": "(1 1 ) Nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle var nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā atbilstoši šajā likumā apdrošināšanas un pārapdrošināšanas starpniekam noteiktajām prasībām, ja likums nenosaka citādi.\n(2) Apdrošināšanas un pārapdrošināšanas starpnieks nav tiesīgs izplatīt apdrošināšanas un pārapdrošināšanas pakalpojumus, kuru izplatīšana ir pretrunā ar Apdrošināšanas un pārapdrošināšanas likumu .\n(3) Apdrošināšanas un pārapdrošināšanas starpniekam, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starp­niecību ārvalstīs, ir pienākums ievērot ārvalstu normatīvo aktu prasības.\n(4) Apdrošināšanas sabiedrība un nedalībvalsts apdrošinātāja filiāle ir tiesīga nodarboties ar apdrošināšanas starpniecību Apdrošināšanas un pārapdrošināšanas likumā noteiktajā kārtībā.\n(4 1 ) Pārapdrošināšanas sabiedrība un nedalībvalsts pārapdrošinātāja filiāle ir tiesīgas nodarboties ar pārapdrošināšanas starpniecību Apdrošināšanas un pārapdrošināšanas likumā noteiktajā kārtībā.\n(5) Apdrošināšanas aģents — kredītiestāde — ir tiesīgs nodarboties ar apdrošināšanas starpniecību vairāku apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāļu vārdā un interesēs, ja apdrošināšana ir papildpakalpojums kredītiestādes pamatdarbības ietvaros sniegtajam pakalpojumam. Kredītiestāde nav tiesīga dot padomu vai sagatavot piedāvājumu, pamatojoties uz piedāvājumu analīzi.\n(6) Apdrošināšanas aģenta un piesaistītā apdrošināšanas aģenta — juridiskās personas — atbildīgā persona un darbinieks, kas ir tieši iesaistīts apdrošināšanas starpniecībā, nav tiesīgs pildīt valdes locekļa, atbildīgās personas un apdrošināšanas starpniecībā tieši iesaistīta darbinieka pienākumus vienlaikus pie vairāk nekā viena apdrošināšanas starpnieka un pildīt ar apdrošināšanas starpniecību saistītus pienākumus pie cita apdrošināšanas komersanta un citā nedalībvalsts apdrošinātāja filiālē.\n(6 1 ) Apdrošināšanas brokera — juridiskās personas — atbildīgā persona, valdes loceklis un darbinieks, kas ir tieši iesaistīts apdrošināšanas un pārapdrošināšanas starpniecībā, nav tiesīgs pildīt ar apdrošināšanas starpniecību saistītus pienākumus pie apdrošināšanas komersanta un nedalībvalsts apdrošinātāja filiālē.\n(7) Persona, kas nodarbojas ar apdrošināšanas starpniecību apdrošināšanas aģenta — pašnodarbinātās personas statusā, nav tiesīga vienlaikus nodarboties ar apdrošināšanas vai pārapdrošināšanas starpniecību uz darba tiesisko attiecību pamata, kā arī nav tiesīga, esot pašnodarbinātās personas statusā, veikt starpniecības darbības cita apdrošināšanas komersanta vārdā un interesēs.\n(8) Apdrošināšanas brokerim un apdrošināšanas aģentam nav tiesību nodarbināt personu, kas ir ilgāk par gadu pārtraukusi pildīt atbildīgās personas vai darbinieka, kas ir tieši iesaistīts apdrošināšanas un pārapdrošināšanas starpniecībā, pienākumus. Persona var atsākt pildīt minētos pienākumus pēc šajā likumā noteikto prasību izpildes.\n(9) Apdrošināšanas brokeris ir tiesīgs uz darba tiesisko attiecību pamata nodarbināt apdrošināšanas brokera palīgu. Apdrošināšanas brokeris nodrošina apdrošināšanas brokera palīga apmācību.\n(10) Apdrošināšanas brokerim pašnodarbinātās personas statusā un apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistītam darbiniekam nevar būt vairāk kā divi apdrošināšanas brokera palīgi. Apdrošināšanas brokera palīgs nav tiesīgs viņam saskaņā ar darba līgumu uzticētos pienākumus nodot tālāk trešajām personām.\n(11) Apdrošināšanas un pārapdrošināšanas starpnieks un dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks nedrīkst izpaust apdrošināšanas un pārapdrošināšanas starpniecības gaitā iegūto informāciju par klientu un trešo personu, izņemot informāciju citai personai apmērā, kas nepieciešams apdrošināšanas un pārapdrošināšanas starpniecības pakalpojumu sniegšanai, kā arī šajā likumā un citos likumos paredzētajos gadījumos. Apdrošināšanas un pārapdrošināšanas starpnieks un dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks informāciju par klientu un trešo personu var nodot citam apdrošināšanas un pārapdrošināšanas starpniekam, dalībvalsts apdrošināšanas un pārapdrošināšanas starpniekam vai apdrošināšanas komersantam un nedalībvalsts apdrošinātāja filiālei, pamatojoties uz līgumu. Ja informācija par klientu un trešo personu tiek izpausta likumos paredzētajos gadījumos, apdrošināšanas un pārapdrošināšanas starpnieks un dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks nav atbildīgs par informācijas izpaušanas sekām."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpnieks var uzsākt darbību pēc reģistrācijas apdrošināšanas un pārapdrošināšanas starpnieku reģistrā vai piesaistīto apdrošināšanas aģentu reģistrā.",
+      "content": "(2) Apdrošināšanas brokerus un apdrošināšanas aģentus reģistrē apdrošināšanas un pārapdrošināšanas starpnieku reģistrā. Minēto reģistru uztur Finanšu un kapitāla tirgus komisija.\n(2 1 ) Apdrošināšanas brokeris reģistrē apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītus darbiniekus un apdrošināšanas brokera palīgus un uztur minēto reģistru.\n(3) Piesaistītos apdrošināšanas aģentus reģistrē piesaistīto apdrošināšanas aģentu reģistrā. Minēto reģistru uztur apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle.\n(4) Apdrošināšanas brokeru un apdrošināšanas aģentu reģistrācijas un to darbību regulējošās prasības ir noteiktas šā likuma II un III nodaļā .\n(5) Piesaistīto apdrošināšanas aģentu reģistrācijas un to darbību regulējošās prasības ir noteiktas šā likuma IV nodaļā ."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Par apdrošināšanas un pārapdrošināšanas starpnieka profesionālo darbību atzīstama apdrošināšanas un pārapdrošināšanas starpniecība un cita veida komercdarbība, kas tieši saistīta ar apdrošināšanas un pārapdrošināšanas starpniecību.",
+      "content": "5.pants. Par apdrošināšanas un pārapdrošināšanas starpnieka profesionālo darbību atzīstama apdrošināšanas un pārapdrošināšanas starpniecība un cita veida komercdarbība, kas tieši saistīta ar apdrošināšanas un pārapdrošināšanas starpniecību."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpniekam ir tiesības saņemt apdrošināšanas un pārapdrošināšanas prēmijas vai citus maksājumus saskaņā ar noslēgto apdrošināšanas un pārapdrošināšanas līgumu, ja apdrošināšanas komersants, nedalībvalsts apdrošinātāja filiāle, pārapdrošinātājs vai klients ir pilnvarojis apdrošināšanas un pārapdrošināšanas starpnieku saņemt attiecīgos maksājumus.",
+      "content": "(2) Šā panta pirmajā daļā minētie noteikumi nav attiecināmi uz piesaistīto apdrošināšanas aģentu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "(1) Šis likums neattiecas uz personām, kuras nodarbojas ar apdrošināšanas starp­niecību, ja vienlaikus tiek izpildīti šādi nosacījumi:",
+      "content": "1) apdrošināšanas starpniecībai nepieciešamas zināšanas tikai par apdrošināšanas līguma noteikumiem;\n2) apdrošināšanas līgums nav dzīvības apdrošināšanas līgums;\n3) saskaņā ar apdrošināšanas līgumu neapdrošina ar civiltiesisko atbildību saistītos riskus;\n4) ar apdrošināšanas starpniecību nodarbojas persona, kuras pamatdarbība nav apdrošināšanas starpniecība;\n5) apdrošināšana ir vienīgi papildinājums piegādātajai precei vai sniegtajam pakalpojumam un apdrošināšana paredz vienu no šādiem gadījumiem:\na) tādu zaudējumu segšanu, kuri ir saistīti ar piegādātās preces bojājumu vai zudumu,\nb) tādu zaudējumu segšanu, kuri ir saistīti ar bagāžas bojājumu, zudumu un citiem ar ceļojuma pakalpojumiem saistītiem riskiem, kā arī ar dzīvības apdrošināšanu un civiltiesiskās atbildības apdrošināšanu, ja tās ir papildu risks apdrošināšanai, kura attiecas uz sniegto ceļojuma pakalpojumu;\n6) apdrošināšanas prēmijas apmērs gadā nav lielāks par 500 euro un kopējais apdrošināšanas līguma darbības termiņš, ieskaitot pārjaunojumus, nepārsniedz piecus gadus.\n(2) Par apdrošināšanas un pārapdrošināšanas starpniecību nav atzīstama darbība, kuru veic apdrošināšanas komersanta, nedalībvalsts apdrošinātāja filiāles vai pārapdrošinātāja darbinieks, kas rīkojas apdrošināšanas komersanta, nedalībvalsts apdrošinātāja filiāles vai pārapdrošinātāja vārdā.\n(3) Par apdrošināšanas un pārapdrošināšanas starpniecību neuzskata:\n1) informācijas sniegšanu kā papildu pakalpojumu citas profesionālās darbības gaitā, ja šīs darbības mērķis nav palīdzēt apdrošināšanas un pārapdrošināšanas līguma noslēgšanā vai izpildē;\n2) apdrošināšanas komersanta, nedalībvalsts apdrošinātāja filiāles vai pārapdrošinātāja apdrošināšanas un pārapdrošināšanas prasību profesionālu administrēšanu;\n3) zaudējumu novērtēšanu vai apdrošināšanas atlīdzības aprēķināšanu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku reģistrācija",
+      "section": "8",
+      "title": "(1) Finanšu un kapitāla tirgus komisija ieraksta apdrošināšanas un pārapdrošināšanas starpnieku reģistrā šādas personas:",
+      "content": "1) Uzņēmumu reģistra komercreģistrā ierakstītu komercsabiedrību;\n2) Uzņēmumu reģistra komercreģistrā ierakstītu vai Valsts ieņēmumu dienestā reģistrētu pašnodarbināto personu;\n3) nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāli.\n(2) Šā panta pirmās daļas 1. un 2.punktā minēto personu reģistrācija apdrošināšanas un pārapdrošināšanas starpnieku reģistrā dod tiesības nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību citās dalībvalstīs, ievērojot dibināšanas vai pakalpojumu sniegšanas brīvības principu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku reģistrācija",
+      "section": "9",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpnieku reģistrā ieraksta šādas ziņas:",
+      "content": "1) apdrošināšanas un pārapdrošināšanas starpnieka firma (vārds un uzvārds), reģistrācijas numurs, juridiskā adrese, tālruņa (telefaksa) numurs un elektroniskā pasta adrese;\n2) apdrošināšanas un pārapdrošināšanas starpnieka veids;\n3) apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas vārds un uzvārds;\n4) apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja filiāles (kuras vārdā un interesēs rīkojas apdrošināšanas aģents) firma, reģistrācijas numurs, juridiskā adrese, tālruņa (telefaksa) numurs un elektroniskā pasta adrese;\n5) dalībvalsts (dalībvalstis), kurā apdrošināšanas un pārapdrošināšanas starp­nieks nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību, ievērojot dibināšanas vai pakalpojumu sniegšanas brīvības principu;\n6) vai apdrošināšanas un pārapdrošināšanas starpniekam ir tiesības saņemt apdrošināšanas un pārapdrošināšanas prēmijas un citus maksājumus saskaņā ar noslēgto apdrošināšanas un pārapdrošināšanas līgumu.\n(2) Ja mainās kāda no šā panta pirmajā daļā minētajām ziņām, apdrošināšanas un pārapdrošināšanas starpnieks piecu darbdienu laikā iesniedz attiecīgu paziņojumu Finanšu un kapitāla tirgus komisijai.\n(3) Finanšu un kapitāla tirgus komisija veic izmaiņas apdrošināšanas un pārapdrošināšanas starpnieku reģistrā triju darbdienu laikā pēc šā panta otrajā daļā minētās informācijas saņemšanas.\n(4) Apdrošināšanas un pārapdrošināšanas starpnieku reģistrs ir publiski pieejams, tam ir publiska ticamība, un jebkurai personai ir tiesības iepazīties ar to Finanšu un kapitāla tirgus komisijas mājas lapā internetā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku reģistrācija",
+      "section": "10",
+      "title": "(1) Lai reģistrētos apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, apdrošināšanas un pārapdrošināšanas starpnieks vai apdrošināšanas komersants, vai nedalībvalsts apdrošinātāja filiāle apdrošināšanas aģenta vietā iesniedz Finanšu un kapitāla tirgus komisijai:",
+      "content": "1) pilnvarotas personas parakstītu šai komisijai adresētu pieteikumu, kurā uzskaitīti visi tam pievienotie dokumenti;\n2) ziņas par atbildīgo personu un kompetentas valsts institūcijas izsniegtu dokumentu, kas apliecina, ka uz atbildīgo personu neattiecas neviens no šā likuma 17.panta ceturtajā daļā minētajiem apstākļiem;\n3) ziņas par apdrošināšanas un pārapdrošināšanas starpnieka veidu, norādot firmu un reģistrācijas numuru vai saimnieciskās darbības veicēja reģistrācijas kodu, saimnieciskās darbības vietas adresi, tālruņa (telefaksa) numuru un elektroniskā pasta adresi;\n4) civiltiesiskās atbildības apdrošināšanas polisi (tās kopiju) vai šā likuma 13.pantā minēto līgumu (tā kopiju) ar apdrošināšanas komersantu, nedalībvalsts apdrošinātāja filiāli vai pārapdrošinātāju;\n5) (izslēgts ar 15.11.2007 . likumu) ;\n6) līgumu (tā kopiju) ar kredītiestādi par atsevišķa naudas konta atvēršanu, kurā norādīts, ka kontā esošie naudas līdzekļi ir apdrošināšanas un pārapdrošināšanas starpnieka darbības rezultātā iegūtie naudas līdzekļi saskaņā ar šā likuma 15.panta prasībām, un procedūru, kādā tiks nodrošināta no klientiem saņemto līdzekļu ieskaitīšana atsevišķā naudas kontā kredītiestādē. Šā punkta prasības attiecas uz apdrošināšanas un pārapdrošināšanas starpniekiem, kas plāno saņemt prēmijas vai citus maksājumus saskaņā ar noslēgto apdrošināšanas un pārapdrošināšanas līgumu;\n7) procedūru, kādā apdrošināšanas un pārapdrošināšanas starpnieks nodrošina šā likuma 17.panta prasību izpildi;\n8) informācijas sistēmas aizsardzības procedūru;\n9) neparastu un aizdomīgu finanšu darījumu identifikācijas procedūru;\n10) procedūru, kādā apdrošināšanas un pārapdrošināšanas starpnieks izskata klientu sūdzības;\n11) apdrošināšanas un pārapdrošināšanas starpnieka — juridiskās personas — organizatorisko struktūru ar skaidri norādītu vadības un atbildīgās personas pilnvaru un pienākumu sadali apdrošināšanas un pārapdrošināšanas starpniecības veikšanai un procedūru, kādā tiek nodrošināta apdrošināšanas brokera palīgu darbības vadība un uzraudzība.\n(2) Pieteikumu par apdrošināšanas un pārapdrošināšanas starpnieka ierakstīšanu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā Finanšu un kapitāla tirgus komisija izskata un lēmumu par ieraksta izdarīšanu vai atteikumu izdarīt ierakstu pieņem 30 dienu laikā pēc tam, kad saņemti šā panta pirmajā daļā noteiktie dokumenti, kas noformēti atbilstoši to normatīvo aktu prasībām, kuri regulē dokumentu noformēšanas kārtību.\n(3) Šā panta pirmās daļas 4.punktā minēto dokumentu apdrošināšanas un pārapdrošināšanas starpnieks ir tiesīgs iesniegt, kad pieņemts šā panta otrajā daļā minētais Finanšu un kapitāla tirgus komisijas lēmums par ieraksta izdarīšanu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā. Finanšu un kapitāla tirgus komisija neizdara ierakstu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, pirms nav saņemts šā panta pirmās daļas 4.punktā minētais dokuments.\n(4) Ja šā panta pirmās daļas 4., 6., 7., 8., 9., 10. vai 11.punktā minētajā dokumentā tiek izdarīti grozījumi, apdrošināšanas un pārapdrošināšanas starpnieks piecu darbdienu laikā pēc to stāšanās spēkā iesniedz Finanšu un kapitāla tirgus komisijai šo dokumentu vai tā kopiju."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku reģistrācija",
+      "section": "11",
+      "title": "(1) Finanšu un kapitāla tirgus komisija pieņem lēmumu par atteikumu reģistrēt apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, ja:",
+      "content": "1) nav iesniegti visi šā likuma 10.panta pirmajā daļā minētie dokumenti, ievērojot šā likuma 10.panta trešajā daļā noteikto izņēmumu, vai arī iesniegtajos dokumentos ir nepatiesas vai nepilnīgas ziņas;\n2) apdrošināšanas un pārapdrošināšanas starpnieka iesniegtās procedūras nav izstrādātas atbilstoši šā likuma un to normatīvo aktu prasībām, kuri regulē dokumentu noformēšanas kārtību, personu datu aizsardzību un noziedzīgi iegūtu līdzekļu legalizācijas novēršanu;\n3) apdrošināšanas un pārapdrošināšanas starpnieka atbildīgā persona neatbilst šajā likumā noteiktajām prasībām;\n4) apdrošināšanas un pārapdrošināšanas starpnieks nav samaksājis šā likuma 37.panta otrās daļas 1.punktā noteikto reģistrācijas maksu.\n(2) Finanšu un kapitāla tirgus komisija ir tiesīga anulēt ierakstu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, ja:\n1) konstatēts kāds no šā panta pirmajā daļā minētajiem gadījumiem;\n2) apdrošināšanas un pārapdrošināšanas starpnieks ilgāk par gadu nav nodarbojies ar apdrošināšanas un pārapdrošināšanas starpniecību;\n3) apdrošināšanas un pārapdrošināšanas starpnieks pārkāpis šā likuma prasības, kā arī, pamatojoties uz šo likumu izdoto normatīvo aktu vai Eiropas Savienības institūciju izdoto tieši piemērojamo tiesību aktu prasības apdrošināšanas un pārapdrošināšanas starpniecības jomā;\n4) apdrošināšanas un pārapdrošināšanas starpnieks pārkāpis noziedzīgi iegūtu līdzekļu legalizācijas novēršanu regulējošu normatīvo aktu prasības;\n5) apdrošināšanas un pārapdrošināšanas starpnieks, kas darbojas dalībvalstī, ievērojot dibināšanas vai pakalpojumu sniegšanas brīvības principu, pārkāpis dalībvalsts sabiedrības intereses aizsargājošajos likumos un citos normatīvajos aktos ietvertās prasības;\n6) apdrošināšanas un pārapdrošināšanas starpnieks lūdz anulēt ierakstu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā vai apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle lūdz anulēt ierakstu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā par apdrošināšanas aģentu, kas darbojas tās vārdā un interesēs;\n7) apdrošināšanas un pārapdrošināšanas starpnieks — juridiskā persona — tiek likvidēts.\n(3) Izvērtējot izdarīto pārkāpumu, kas ļauj anulēt ierakstu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, Finanšu un kapitāla tirgus komisija pirms ieraksta anulēšanas ir tiesīga īstenot vienu vai vairākas šādas darbības:\n1) brīdināt apdrošināšanas un pārapdrošināšanas starpnieku un noteikt saprātīgu termiņu pārkāpumu novēršanai;\n2) noteikt saprātīgus ierobežojumus apdrošināšanas un pārapdrošināšanas starpnieka darbībai.\n(4) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par ieraksta anulēšanu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā tiek pārsūdzēts, tas neaptur šā akta izpildi."
+    },
+    {
+      "provision_ref": "Art. 11.1",
+      "chapter": "II nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku reģistrācija",
+      "section": "11.1",
+      "title": "11. 1 pants. Apdrošināšanas brokeris uztur reģistru, kurā norāda:",
+      "content": "1) apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka vārdu un uzvārdu, kā arī datumu, no kura viņš ir uzsācis pildīt tieši iesaistīta darbinieka pienākumus;\n2) apdrošināšanas brokera palīga vārdu un uzvārdu, kā arī datumu, no kura viņš ir uzsācis pildīt brokera palīga pienākumus;\n3) tā apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka vārdu un uzvārdu, kura vadībā un uzraudzībā apdrošināšanas brokera palīgs veic uzticētos pienākumus, kā arī datumu, no kura apdrošināšanas brokera palīgs minētā darbinieka vadībā un uzraudzībā ir nodarbināts."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "12",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpnieks apdrošina savu civiltiesisko atbildību, kas rodas, ja apdrošināšanas un pārapdrošināšanas starpnieka profesionālās darbības kļūdu vai profesionālās darbības nolaidības dēļ nodarīti zaudējumi klientiem, apdrošināšanas komersantiem, nedalībvalsts apdrošinātāja filiālei, pārapdrošinātajiem vai citām ieinteresētajām personām. Apdrošināšanas līgums ir spēkā visu dalībvalstu teritorijā.",
+      "content": "(1 1 ) Apdrošināšanas un pārapdrošināšanas starpnieks ir tiesīgs izvēlēties citu šā panta pirmajā daļā minētajai civiltiesiskās atbildības apdrošināšanai pielīdzināmu kredītiestādes izdotu garantiju attiecībā uz atbildību, kas rodas sakarā ar zaudējumiem profesionālās darbības kļūdas vai profesionālas nolaidības dēļ. Uz kredītiestādes izdotu garantiju attiecināmas šā panta otrajā daļā minētās prasības.\n(2) Civiltiesiskās atbildības minimālais limits gadā nedrīkst būt mazāks par 1 875 927 euro , bet vienam apdrošināšanas gadījumam — mazāks par 1 250 618 euro .\n(2 1 ) Šā panta otrajā daļā noteiktais civiltiesiskās atbildības un kredītiestādes izdotās garantijas minimālais limits gadā un vienam apdrošināšanas gadījumam tiek pārskatīts ik pēc pieciem gadiem, sākot ar 2013.gadu. Civiltiesiskās atbildības minimālais limits gadā un vienam apdrošināšanas gadījumam tiek indeksēts par lielumu, kurš saskaņā ar statistikas biroja Eurostat sniegto informāciju atbilst patēriņa cenu indeksa procentuālajām izmaiņām, kas notikušas laikposmā no iepriekšējās pārskatīšanas dienas līdz kārtējās pārskatīšanas dienai, noapaļojot uz augšu līdz tuvākajiem veseliem euro .\n(3) Civiltiesiskās atbildības apdrošināšanas līgumā drīkst paredzēt apdrošināšanas un pārapdrošināšanas starpnieka pašrisku 10 000 euro . Lai pašrisku iekļautu civiltiesiskās atbildības apdrošināšanas līgumā, nepieciešama Finanšu un kapitāla tirgus komisijas atļauja.\n(4) Lai saņemtu Finanšu un kapitāla tirgus komisijas atļauju pašriska iekļaušanai civiltiesiskās atbildības apdrošināšanas līgumā, apdrošināšanas un pārapdrošināšanas starpnieks iesniedz Finanšu un kapitāla tirgus komisijai dokumentus, kas apstiprina nodrošinājumu pašriska saistības izpildei.\n(4 1 ) Finanšu un kapitāla tirgus komisija nosaka prasības apdrošināšanas un pārapdrošināšanas starpnieka nodrošinājumam pašriska saistības izpildei.\n(5) Finanšu un kapitāla tirgus komisija nedod atļauju pašriska iekļaušanai civiltiesiskās atbildības apdrošināšanas līgumā, ja nodrošinājums nav pietiekams apdrošināšanas un pārapdrošināšanas starpnieka pašriska saistības izpildei vai iesniegtie dokumenti nedod skaidru priekšstatu par minētā nodrošinājuma esamību un likumību.\n(6) Civiltiesiskās atbildības apdrošināšanas līgumā ietver nosacījumu par pagarināto paziņošanas periodu apdrošinātā riska iestāšanās gadījumā. Šis periods ilgst vismaz trīs gadus pēc apdrošināšanas līguma darbības termiņa beigām.\n(7) Par civiltiesiskās atbildības apdrošināšanas līguma pirmstermiņa izbeigšanu apdrošināšanas un pārapdrošināšanas starpnieks 10 dienu laikā paziņo Finanšu un kapitāla tirgus komisijai."
+    },
+    {
+      "provision_ref": "Art. 12.1",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "12.1",
+      "title": "12. 1 pants. (1) Apdrošināšanas brokera — juridiskās personas pamatkapitālam jābūt ne mazākam par 15 000 euro .",
+      "content": "(2) Ja nedalībvalsts apdrošināšanas brokera filiāle vēlas nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, tā šā panta pirmajā daļā minēto naudas summu nogulda kā drošības naudu Latvijas Republikā reģistrētā kredītiestādē. Noguldījumam jābūt brīvi pieejamam, tas nevar būt apgrūtināts, un tā pārvietošana iespējama tikai ar Finanšu un kapitāla tirgus komisijas atļauju.\n(3) Ja nedalībvalsts, kura ir pievienojusies Ekonomiskās sadarbības un attīstības organizācijai, apdrošināšanas brokera filiāle vēlas nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, tā ne mazāk kā 25 procentus no šā panta pirmajā daļā minētās naudas summas nogulda kā drošības naudu Latvijas Republikā reģistrētā kredītiestādē. Noguldījumam jābūt brīvi pieejamam, tas nevar būt apgrūtināts, un tā pārvietošana iespējama tikai ar Finanšu un kapitāla tirgus komisijas atļauju."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "13",
+      "title": "Apdrošināšanas aģentam nav pienākuma apdrošināt savu civiltiesisko atbildību šā likuma 12.pantā noteiktajā kārtībā, ja tas ar apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāli noslēdzis līgumu, kas noteic, ka apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle uzņemas pilnu atbildību par apdrošināšanas aģenta profesionālās darbības kļūdu vai profesionālās darbības nolaidības dēļ klientiem nodarītajiem zaudējumiem.",
+      "content": "13.pants. Apdrošināšanas aģentam nav pienākuma apdrošināt savu civiltiesisko atbildību šā likuma 12.pantā noteiktajā kārtībā, ja tas ar apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāli noslēdzis līgumu, kas noteic, ka apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle uzņemas pilnu atbildību par apdrošināšanas aģenta profesionālās darbības kļūdu vai profesionālās darbības nolaidības dēļ klientiem nodarītajiem zaudējumiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "14",
+      "title": "14.pants.",
+      "content": "(Izslēgts ar 15.11.2007 . likumu, kas stājas spēkā 01.01.2008. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "15",
+      "title": "(1) Ja apdrošināšanas un pārapdrošināšanas starpnieks saņem apdrošināšanas un pārapdrošināšanas prēmijas un citus maksājumus saskaņā ar noslēgto apdrošināšanas un pārapdrošināšanas līgumu, apdrošināšanas un pārapdrošināšanas starpnieks nodrošina, lai līdzekļi, kas iegūti no apdrošināšanas un pārapdrošināšanas starpniecības, tiktu turēti kredītiestādē atsevišķā naudas kontā šķirti no apdrošināšanas un pārapdrošināšanas starpnieka naudas līdzekļiem. Apdrošināšanas un pārapdrošināšanas starpnieks rakstveidā informē kredītiestādi, ka kontā esošie naudas līdzekļi ir iegūti no apdrošināšanas un pārapdrošināšanas starpniecības, kā arī nodrošina šo līdzekļu un no tiem izrietošo prasību un saistību analītisko uzskaiti pa apdrošināšanas komersantiem, nedalībvalsts apdrošinātāju filiālēm, pārapdrošinātājiem un apdrošinājuma ņēmējiem.",
+      "content": "(1 1 ) Apdrošināšanas un pārapdrošināšanas starpnieks kredītiestādē atvērtajā atsevišķajā naudas kontā turētos klientu līdzekļus izmanto vienīgi šā likuma 28.pantā noteikto maksājumu veikšanai, kā arī lai veiktu komisijas maksājumus par atsevišķajā naudas kontā saņemtajām apdrošināšanas un pārapdrošināšanas prēmijām.\n(2) Šā panta pirmajā daļā minētajā kontā esošie naudas līdzekļi apdrošināšanas un pārapdrošināšanas starpnieka maksātnespējas gadījumā netiek iekļauti tajā apdrošināšanas un pārapdrošināšanas starp­nieka mantā, no kuras tiek segti maksātnespējas procesa vai likvidācijas izdevumi un apmierināti kreditoru prasījumi. Tie pēc maksātnespējas procesa sākšanas nekavējoties tiek izmaksāti apdrošināšanas komersantiem, nedalībvalsts apdrošinātāju filiālēm, pārapdrošinātājiem un citiem kreditoriem saskaņā ar apdrošināšanas un pārapdrošināšanas līgumiem.\n(3) Šā panta pirmajā daļā minētos naudas līdzekļus drīkst ieguldīt termiņnoguldījumos tādās kredītiestādēs, kuru nosacījumi paredz iespēju izbeigt šādu termiņnoguldījumu līgumu darbību pirms termiņa un saņemt ieguldītos līdzekļus ne ilgāk kā 30 dienu laikā no dienas, kad nosūtīts paziņojums par termiņnoguldījuma līguma izbeigšanu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "16",
+      "title": "(1) Apdrošināšanas komersantam un nedalībvalsts apdrošinātāja filiālei ir pienākums informēt Finanšu un kapitāla tirgus komisiju par to, ka apdrošināšanas aģents izbeidz sniegt apdrošināšanas pakalpojumus apdrošināšanas komersanta un nedalībvalsts apdrošinātāja filiāles vārdā un interesēs.",
+      "content": "(2) Apdrošināšanas brokerim un apdrošināšanas aģentam ir pienākums informēt Finanšu un kapitāla tirgus komisiju par to, ka apdrošināšanas un pārapdrošināšanas starpniecības pakalpojumu sniegšana tiek pārtraukta vai izbeigta.\n(3) Apdrošināšanas brokeri profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas noteiktajā kārtībā iesniedz profesionālajai apdrošināšanas un pārapdrošināšanas starpnieku asociācijai informāciju par apdrošināšanas brokeru parakstīto apdrošināšanas prēmiju apmēru sadalījumā pa apdrošināšanas veidiem un apdrošināšanas sabiedrībām."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "17",
+      "title": "(1) Par apdrošināšanas brokeri pašnodarbinātās personas statusā, apdrošināšanas brokera — juridiskās personas — atbildīgo personu un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesais­tītu darbinieku var būt rīcībspējīga fiziskā persona, kura:",
+      "content": "1) sasniegusi divdesmit viena gada vecumu;\n2) ieguvusi atbilstošu augstāko izglītību;\n3) (izslēgts ar 15.11.2007 . likumu) ;\n4) ieguvusi apdrošināšanas un pārapdrošināšanas starpniecības veikšanai nepieciešamas un profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas atzītas zināšanas;\n5) ieguvusi profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas atzītu vismaz triju gadu darba pieredzi;\n6) ir persona ar nevainojamu reputāciju un uz kuru neattiecas neviens no šā panta ceturtajā daļā minētajiem apstākļiem.\n(1 1 ) Par tāda apdrošināšanas brokera, kurš nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību citā dalībvalstī, apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku var būt arī persona, kas atbilst attiecīgajā dalībvalstī šīm personām noteiktajām prasībām.\n(1 2 ) Par apdrošināšanas brokera palīgu var būt rīcībspējīga fiziskā persona, kura:\n1) sasniegusi astoņpadsmit gadu vecumu;\n2) ieguvusi vidējo izglītību;\n3) ir persona ar nevainojamu reputāciju un uz kuru neattiecas neviens no šā panta ceturtajā daļā minētajiem apstākļiem.\n(2) Par apdrošināšanas aģentu pašnodarbinātās personas statusā, apdrošināšanas aģenta — juridiskās personas — atbildīgo personu un apdrošināšanas starpniecībā tieši iesaistītu darbinieku var būt rīcībspējīga fiziskā persona, kura:\n1) sasniegusi astoņpadsmit gadu vecumu;\n2) ieguvusi vidējo izglītību;\n3) (izslēgts ar 15.11.2007 . likumu) ;\n4) ieguvusi apdrošināšanas starpniecības veikšanai nepieciešamas un profesionālās apdrošinātāju asociācijas atzītas zināšanas;\n5) ieguvusi profesionālās apdrošinātāju asociācijas atzītu vismaz viena gada darba pieredzi;\n6) ir persona ar nevainojamu reputāciju un uz kuru neattiecas neviens no šā panta ceturtajā daļā minētajiem apstākļiem.\n(2 1 ) Par tāda apdrošināšanas aģenta, kurš nodarbojas ar apdrošināšanas starpniecību citā dalībvalstī, apdrošināšanas starpniecībā tieši iesaistītu darbinieku var būt arī persona, kas atbilst attiecīgajā dalībvalstī šīm personām noteiktajām prasībām.\n(3) Šā panta otrās daļas 5.punktā noteiktā prasība nav attiecināma uz apdrošināšanas aģenta juridiskās personas darbinieku, kas tieši iesaistīts apdrošināšanas starpniecībā.\n(4) Par apdrošināšanas un pārapdrošināšanas starpnieka atbildīgo personu, apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku un apdrošināšanas brokera palīgu nevar būt persona:\n1) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu;\n2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;\n3) pret kuru ierosinātā krimināllieta par tīša noziedzīga nodarījuma izdarīšanu ir izbeigta sakarā ar noilgumu vai amnestiju;\n4) kura saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu, bet krimināllieta pret to izbeigta uz nereabilitējoša pamata."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "18",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpniekam ir pienākums pašam vai pēc Finanšu un kapitāla tirgus komisijas ierosinājuma atsaukt no amata apdrošināšanas un pārapdrošināšanas starpnieka atbildīgo personu vai apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku, ja tas:",
+      "content": "1) neatbilst šā likuma 17.panta pirmās, 1. 1 , otrās vai 2. 1 daļas prasībām vai uz to var attiecināt kādu no šā likuma 17.panta ceturtās daļas punktiem;\n2) ilgāk par gadu nav veicis atbildīgās personas vai apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka pienākumus;\n3) pārkāpis noziedzīgi iegūtu līdzekļu legalizācijas novēršanu regulējošos normatīvos aktus;\n4) pārkāpis šo likumu.\n(2) Izvērtējot izdarīto pārkāpumu, kurš ļauj atsaukt no amata apdrošināšanas un pārapdrošināšanas starpnieka atbildīgo personu vai apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku, Finanšu un kapitāla tirgus komisija var pieņemt lēmumu par brīdinājuma izteikšanu.\n(3) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, šī pārsūdzēšana neaptur minētā administratīvā akta izpildi."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "19",
+      "title": "Apdrošināšanas brokeris — juridiskā persona — apdrošināšanas un pārapdrošināšanas starpnieka profesionālo darbību ir tiesīgs savienot tikai ar ieguldījumu pakalpojumu sniedzēja darbību Finanšu instrumentu tirgus likumā noteiktajā kārtībā.",
+      "content": "( 15.11.2007 . likuma redakcijā ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "Art. 19.1",
+      "chapter": "III nodaļa Apdrošināšanas un pārapdrošināšanas starpnieku darbību regulējošās prasības",
+      "section": "19.1",
+      "title": "19. 1 pants. (1) Apdrošināšanas brokeris nodrošina, lai gada pārskats pēc tā apstiprināšanas tiktu publiskots ne vēlāk kā pārskata gadam sekojošā gada piektā kalendāra mēneša piecpadsmitajā datumā. Apdrošināšanas brokeris gada pārskatu var publiskot savā mājaslapā internetā vai arī izvēlēties informācijas publiskošanai citu piemērotu informācijas nesēju vai vietu.",
+      "content": "(2) Apdrošināšanas brokeris, kuram ir pienākums iesniegt konsolidēto gada pārskatu, nodrošina, lai konsolidētais gada pārskats pēc tā apstiprināšanas tiktu publiskots ne vēlāk kā pārskata gadam sekojošā gada astotā kalendāra mēneša piecpadsmitajā datumā. Apdrošināšanas brokeris konsolidēto gada pārskatu var publiskot savā mājaslapā internetā vai informācijas publiskošanai izvēlēties citu piemērotu informācijas nesēju vai vietu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Piesaistītais apdrošināšanas aģents",
+      "section": "20",
+      "title": "(1) Par piesaistīto apdrošināšanas aģentu pašnodarbinātās personas statusā, piesaistītā apdrošināšanas aģenta — juridiskās personas — atbildīgo personu un apdrošināšanas starpniecībā tieši iesaistītu darbinieku var būt rīcībspējīga fiziskā persona, kura:",
+      "content": "1) sasniegusi astoņpadsmit gadu vecumu;\n2) ieguvusi vidējo izglītību;\n3) (izslēgts ar 15.11.2007 . likumu) ;\n4) ieguvusi piesaistītā apdrošināšanas aģenta darbībai nepieciešamās zināšanas par izplatāmo apdrošināšanas pakalpojumu;\n5) ir persona ar nevainojamu reputāciju un uz kuru neattiecas neviens no šā panta otrajā daļā minētajiem apstākļiem.\n(2) Par piesaistītā apdrošināšanas aģenta atbildīgo personu un darbinieku, kas ir tieši iesaistīts apdrošināšanas starp­niecībā, nevar būt persona:\n1) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu;\n2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;\n3) pret kuru ierosinātā krimināllieta par tīša noziedzīga nodarījuma izdarīšanu ir izbeigta sakarā ar noilgumu vai amnestiju;\n4) kura saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu, bet krimināllieta pret to izbeigta uz nereabilitējoša pamata.\n(2 1 ) Par tāda piesaistītā apdrošināšanas aģenta, kurš nodarbojas ar apdrošināšanas starpniecību citā dalībvalstī, apdrošināšanas starpniecībā tieši iesaistītu darbinieku var būt arī persona, kas atbilst attiecīgajā dalībvalstī šīm personām noteiktajām prasībām.\n(3) Apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle nodrošina piesaistītā apdrošināšanas aģenta atbildīgās personas un apdrošināšanas starpniecībā tieši iesaistīto darbinieku apmācību, lai sniegtu tiem nepieciešamās zināšanas par apdrošināšanas pakalpojumu, kas tiek izplatīts apdrošināšanas starpniecības ietvaros.\n(4) Apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle ir atbildīgi par piesaistītā apdrošināšanas aģenta atbildīgās personas un apdrošināšanas starpniecībā tieši iesaistīto darbinieku atbilstību šā panta pirmās, otrās un 2. 1 daļas prasībām."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Piesaistītais apdrošināšanas aģents",
+      "section": "21",
+      "title": "(1) Apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle uztur piesaistīto apdrošināšanas aģentu reģistru, kurā ieraksta šādas ziņas:",
+      "content": "1) piesaistītā apdrošināšanas aģenta firma (vārds un uzvārds), reģistrācijas numurs, juridiskā adrese, tālruņa (telefaksa) numurs un elektroniskā pasta adrese;\n2) piesaistītā apdrošināšanas aģenta atbildīgās personas vārds un uzvārds;\n3) dalībvalsts, kurā piesaistītais apdrošināšanas aģents nodarbojas ar apdrošināšanas starpniecību, ievērojot dibināšanas vai pakalpojumu sniegšanas brīvības principu;\n4) sniedzamais apdrošināšanas pakalpojums atbilstoši apdrošināšanas sabiedrību un to uzraudzību regulējošos normatīvajos aktos noteiktajam apdrošināšanas veidam.\n(2) Piesaistīto apdrošināšanas aģentu reģistrs ir publiski pieejams, tam ir publiska ticamība, un jebkurai personai ir tiesības iepazīties ar to apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja filiāles mājas lapā internetā.\n(3) Apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle ir atbildīga par piesaistīto apdrošināšanas aģentu reģistrā ierakstīto ziņu pareizību un pilnīgumu.\n(4) Apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle pēc savas iniciatīvas vai pēc Finanšu un kapitāla tirgus komisijas ierosinājuma anulē ierakstu piesaistīto apdrošināšanas aģentu reģistrā, ja:\n1) piesaistītais apdrošināšanas aģents pārkāpis šo likumu;\n2) piesaistītais apdrošināšanas aģents pārkāpis noziedzīgi iegūtu līdzekļu legalizācijas novēršanu regulējošos normatīvos aktus;\n3) piesaistītais apdrošināšanas aģents, kas darbojas dalībvalstī, ievērojot dibināšanas vai pakalpojumu sniegšanas brīvības principu, pārkāpis dalībvalsts sabiedrības intereses aizsargājošos likumus un citus normatīvos aktus;\n4) piesaistītais apdrošināšanas aģents lūdz anulēt ierakstu piesaistīto apdrošināšanas aģentu reģistrā;\n5) piesaistītais apdrošināšanas aģents — juridiskā persona — tiek likvidēts.\n(5) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par ieraksta anulēšanu piesaistīto apdrošināšanas aģentu reģistrā tiek pārsūdzēts, šī pārsūdzēšana neaptur minētā administratīvā akta izpildi."
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "chapter": "IV nodaļa Piesaistītais apdrošināšanas aģents",
+      "section": "21.1",
+      "title": "21. 1 pants. (1) Piesaistītajam apdrošināšanas aģentam ir pienākums pašam vai pēc Finanšu un kapitāla tirgus komisijas ierosinājuma atsaukt no amata piesaistītā apdrošināšanas aģenta atbildīgo personu vai apdrošināšanas starpniecībā tieši iesais­tītu darbinieku, ja tas:",
+      "content": "1) neatbilst šā likuma 20.panta pir­mās daļas prasībām vai uz to var attiecināt kādu no šā likuma 20.panta otrās daļas punktiem;\n2) pārkāpis noziedzīgi iegūtu līdzekļu legalizācijas novēršanu regulējošos normatīvos aktus;\n3) pārkāpis šo likumu.\n(2) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta pirmajā daļā minēto personu atsauk­šanu no amata tiek pārsūdzēts, šī pārsūdzēšana neaptur minētā administratīvā akta izpildi."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "22",
+      "title": "Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības nosaka normatīvie akti, kas regulē darījumus, un noslēgtie līgumi.",
+      "content": "22.pants. Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības nosaka normatīvie akti, kas regulē darījumus, un noslēgtie līgumi."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "23",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpniekam ir pienākums rīkoties kā krietnam un rūpīgam saimniekam un nodrošināt, lai apdrošināšanas un pārapdrošināšanas starpniecība tiktu sniegta ar pienācīgu profesionalitāti un rūpību.",
+      "content": "(2) Apdrošināšanas un pārapdrošināšanas starpnieks nedrīkst piedāvāt tāda apdrošināšanas un pārapdrošināšanas līguma noslēgšanu, kas ietvertu noteikumus, kuri ir pretrunā ar šā panta pirmo daļu.\n(3) Apdrošināšanas un pārapdrošināšanas starpnieka rīcības dēļ radušos zaudējumus atlīdzina vispārējā kārtībā, kāda noteikta normatīvajos aktos par zaudējumu atlīdzību."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "24",
+      "title": "(1) Pirms apdrošināšanas līguma noslēgšanas apdrošināšanas starpnieka pienākums ir sniegt klientam vismaz šādu informāciju par savu darbību:",
+      "content": "1) apdrošināšanas starpnieka firma (vārds un uzvārds), reģistrācijas numurs, juridiskā adrese, tālruņa (telefaksa) numurs un elektroniskā pasta adrese. Fiziskā persona, kas rīkojas apdrošināšanas starp­nieka juridiskās personas vārdā, papildus norāda savu vārdu un uzvārdu;\n2) reģistrs, kurā apdrošināšanas starp­nieks iekļauts, un veids, kādā var pārliecināties par tā reģistrāciju;\n3) vai apdrošināšanas starpniekam ir apdrošināšanas komersantā vai nedalībvalsts apdrošinātājā, kurš izveidojis nedalībvalsts apdrošinātāja filiāli Latvijas Republikā un kura apdrošināšanas pakalpojumus apdrošināšanas starpnieks paredz izplatīt, tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentus no apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja filiāles mātes sabiedrības balsstiesīgo akciju skaita vai pamatkapitāla;\n4) vai apdrošināšanas komersantam, tā mātes sabiedrībai vai nedalībvalsts apdrošinātājam, kurš izveidojis nedalībvalsts apdrošinātāja filiāli Latvijas Republikā, ir apdrošināšanas starpniekā tieši vai netieši iegūta līdzdalība, kas aptver 10 un vairāk procentus no apdrošināšanas starpnieka balsstiesīgo akciju skaita vai pamatkapitāla;\n5) kārtība, kādā ārpustiesas ceļā izskatāmas sūdzības un strīdi starp apdrošināšanas starpnieku un klientu.\n(2) Papildus šā panta pirmajā daļā noteiktajai informācijai apdrošināšanas starpnieka pienākums ir informēt klientu, ka:\n1) apdrošināšanas starpnieks ir devis padomu vai sagatavojis piedāvājumu, pamatojoties uz vispusīgu piedāvājumu analīzi. Kredītiestādei, ja tā ir apdrošināšanas aģents saskaņā ar šā likuma 3.panta piekto daļu, ir pienākums informēt klientu par to, ka kredītiestāde nav tiesīga dot padomu vai sagatavot piedāvājumu, pamatojoties uz piedāvājumu analīzi;\n2) apdrošināšanas starpniekam pastāv līgumiskas saistības nodarboties ar apdrošināšanas starpniecību tikai viena vai vairāku noteiktu apdrošināšanas komersantu vai nedalībvalsts apdrošinātāju filiāļu interesēs. Šajā gadījumā apdrošināšanas starpnieks pēc klienta pieprasījuma norāda apdrošināšanas komersantu un nedalībvalsts apdrošinātāju filiāļu firmas un juridiskās adreses;\n3) apdrošināšanas starpniekam nepastāv līgumiskas saistības nodarboties ar apdrošināšanas starpniecību tikai viena vai vairāku noteiktu apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāles interesēs un apdrošināšanas starp­nieks nav devis padomu vai sagatavojis piedāvājumu, pamatojoties uz vispusīgu piedāvājumu analīzi. Šajā gadījumā apdrošināšanas starpnieks pēc klienta pieprasījuma norāda to apdrošināšanas komersantu vai nedalībvalsts apdrošinātāju filiāļu firmas un juridiskās adreses, kuru interesēs tas nodarbojas vai ir tiesīgs nodarboties ar apdrošināšanas starpniecību.\n(3) Apdrošināšanas starpniekam pirms apdrošināšanas līguma noslēgšanas ir pienākums informēt klientu par apdrošināšanas starpnieka atlīdzības apmēru par konkrēto piedāvāto apdrošināšanas līgumu. Sniedzot apdrošināšanas starpnieka pakalpojumus, apdrošināšanas brokerim ir pienākums informēt klientu par visiem izvērtētiem apdrošināšanas piedāvājumiem un apdrošināšanas brokera atlīdzības apmēru, kas tiktu saņemta no attiecīgā apdrošinātāja apdrošināšanas līguma noslēgšanas gadījumā. Apdrošināšanas brokeris apdrošināšanas starpnieka atlīdzības apmēru var norādīt gan naudas izteiksmē, gan procentu izteiksmē no apdrošināšanas prēmijas.\n(4) (Izslēgta ar 15.11.2007 . likumu.)\n(5) Pirms apdrošināšanas līguma grozīšanas apdrošināšanas starpniekam ir pienākums informēt klientu par izmaiņām šā panta pirmajā daļā minētajā informācijā."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "25",
+      "title": "(1) Pirms apdrošināšanas līguma noslēgšanas apdrošināšanas starp­nieks, pamatojoties uz klienta sniegto informāciju, noskaidro klienta prasības un vajadzības, kā arī iemeslus, kas ir par pamatu klientam sniegtajām konsultācijām par attiecīgo apdrošināšanas pakalpojumu. Šo informāciju apdrošināšanas starpnieks sagatavo atbilstoši piedāvātā apdrošināšanas līguma sarežģītībai.",
+      "content": "(2) Ja apdrošināšanas starpnieka piedāvātajā apdrošināšanas līgumā ir paredzēts, ka, iestājoties apdrošināšanas gadījumam, daļu no zaudējuma apmēra sedz apdrošinātais (pašrisks) vai apdrošinājuma summa noteikta apmērā, kas rada zemapdrošināšanu vai virsapdrošināšanu, apdrošināšanas starpnieka pienākums ir klientam izskaidrot pašriska, virsapdrošināšanas vai zemapdrošināšanas ietekmi uz klienta interesēm.\n(3) Strīda gadījumā apdrošināšanas un pārapdrošināšanas starpniekam ir pienākums pierādīt šā likuma 24.panta un 25.panta pirmās un otrās daļas prasību izpildi."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "26",
+      "title": "(1) Apdrošināšanas starpniekam ir pienākums sniegt klientam šā likuma 24.pantā minēto informāciju:",
+      "content": "1) latviešu valodā vai citā valodā, par kādu vienojušies līdzēji;\n2) rakstveidā vai izmantojot jebkādu citu pastāvīgu informācijas nesēju, ko klients var izmantot un kas tam ir pieejams;\n3) skaidri un precīzi, klientam saprotamā veidā.\n(2) Par pastāvīgu informācijas nesēju uzskatāms jebkurš līdzeklis, kas klientam sniedz iespēju uzglabāt viņam adresēto informāciju tā, lai tā būtu pieejama turpmākai izmantošanai un būtu iespējama uzglabātās informācijas neizmainīta reproducēšana. Par pastāvīgiem informācijas nesējiem nav uzskatāmas mājas lapas internetā, ja tās neatbilst kritērijiem, kas noteikti šīs daļas pirmajā teikumā.\n(3) Šā likuma 24.pantā minēto informāciju var sniegt arī mutvārdos pēc klienta pieprasījuma vai gadījumos, kad apdrošināšanas līgums jānoslēdz nekavējoties. Minētajos gadījumos informāciju atbilstoši šā panta pirmajai daļai klientam sniedz uzreiz pēc apdrošināšanas līguma noslēgšanas.\n(4) Ja apdrošināšanas brokeris šā likuma 24.pantā un 25.panta otrajā daļā minēto informāciju publiskojis atbilstoši šā panta pirmās un otrās daļas prasībām un vienlaikus ir rakstveidā informējis klientu par vietu, kur šī informācija publicēta, un klienta tiesībām prasīt minēto informāciju viņam izsniegt rakstveidā, uzskatāms, ka apdrošināšanas brokeris ir izpildījis šā likuma 24.panta un 25.panta otrās daļas prasības."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "27",
+      "title": "Apdrošināšanas starpniekam nav pienākuma izpildīt šā likuma 24. un 25.pantā minētās prasības, ja tas sniedz apdrošināšanas starpniecību lielo risku apdrošināšanā.",
+      "content": "27.pants. Apdrošināšanas starpniekam nav pienākuma izpildīt šā likuma 24. un 25.pantā minētās prasības, ja tas sniedz apdrošināšanas starpniecību lielo risku apdrošināšanā."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "28",
+      "title": "Saskaņā ar apdrošināšanas līgumu veiktais apdrošināšanas prēmijas maksājums, kuru klients veic apdrošināšanas starpniekam, jebkurā gadījumā uzskatāms par apdrošināšanas komersantam vai nedalībvalsts apdrošinātāja filiālei veiktu maksājumu, bet maksājums, kuru apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle veic apdrošināšanas starpniekam, nav uzskatāms par klientam veiktu maksājumu līdz brīdim, kad klients faktiski saņem naudas līdzekļus.",
+      "content": "28.pants. Saskaņā ar apdrošināšanas līgumu veiktais apdrošināšanas prēmijas maksājums, kuru klients veic apdrošināšanas starpniekam, jebkurā gadījumā uzskatāms par apdrošināšanas komersantam vai nedalībvalsts apdrošinātāja filiālei veiktu maksājumu, bet maksājums, kuru apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle veic apdrošināšanas starpniekam, nav uzskatāms par klientam veiktu maksājumu līdz brīdim, kad klients faktiski saņem naudas līdzekļus."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "29",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpniekam ir pienākums nodrošināt efektīvu klientu sūdzību izskatīšanas procedūru, kurā noteikta sūdzību izskatīšanas kārtība, paredzot sūdzībās norādīto faktu pārbaudi un iespējamā interešu konflikta novēršanu sūdzību izskatīšanā. Sūdzību izskatīšanas procedūru apstiprina apdrošināšanas un pārapdrošināšanas starpnieka izpildinstitūcija. Rakstveida informācijai par sūdzību izskatīšanas procedūru jābūt brīvi pieejamai apdrošināšanas un pārapdrošināšanas starpniecības sniegšanas vietā un apdrošināšanas un pārapdrošināšanas starpnieka mājas lapā internetā, ja tāda ir izveidota.",
+      "content": "(2) Apdrošināšanas un pārapdrošināšanas starpniekam ir pienākums sniegt pamatotu rakstveida atbildi uz klienta sūdzību viena mēneša laikā no sūdzības iesniegšanas dienas.\n(3) Ja objektīvu iemeslu dēļ viena mēneša termiņu nav iespējams ievērot, apdrošināšanas un pārapdrošināšanas starp­nieks var to pagarināt uz laiku, kas nav ilgāks par četriem mēnešiem no sūdzības iesniegšanas dienas. Apdrošināšanas un pārapdrošināšanas starpnieks nosūta klientam pamatotu rakstveida paziņojumu par termiņa pagarināšanu, norādot termiņa beigu datumu.\n(4) Ja apdrošināšanas starpnieks saņem sūdzību par citu tirgus dalībnieku, bet nav tiesīgs izskatīt to, šis apdrošināšanas starpnieks piecu darbdienu laikā no sūdzības saņemšanas dienas pārsūta to attiecīgajam tirgus dalībniekam un informē par to klientu.\n(5) Finanšu un kapitāla tirgus komisija nosaka par apdrošināšanas starpniekiem saņemto sūdzību izskatīšanas un analīzes veikšanas kārtību un kārtību, kādā notiek informācijas apmaiņa par saņemtajām sūdzībām, kā arī nosaka saņemto sūdzību un sniegto atbilžu reģistra kārtošanas prasības."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "30",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpnieks pēc klienta lūguma iepazīstina to ar visiem dokumentiem, kas saistīti ar konkrēto apdrošināšanas un pārapdrošināšanas starpniecību. Klientam ir tiesības saņemt apdrošināšanas un pārapdrošināšanas starpnieka lietas dokumentu kopijas par samaksu, kas nepārsniedz pavairošanas izdevumus. Apdrošināšanas un pārapdrošināšanas starp­nieks neiepazīstina klientu un neizsniedz tam apdrošināšanas un pārapdrošināšanas starpnieka lietas dokumentu kopijas, ja lietas materiāli nodoti tiesībaizsardzības iestādēm kriminālprocesa ietvaros.",
+      "content": "(2) Apdrošināšanas un pārapdrošināšanas starpniekam pēc iepazīstināšanas ar dokumentiem, kas saistīti ar apdrošināšanas un pārapdrošināšanas starpniecību, ir tiesības pieprasīt, lai klients paraksta rakstveida apliecinājumu, kurā norādīti dokumenti, ar kuriem tas iepazinies. Ja klients atsakās parakstīt šajā daļā noteikto apliecinājumu, to paraksta apdrošināšanas un pārapdrošināšanas starpnieks, īpašā atzīmē norādot, ka klients atteicies parakstīt apliecinājumu."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "V nodaļa Apdrošināšanas un pārapdrošināšanas starpnieka un klienta attiecības",
+      "section": "31",
+      "title": "(1) Finanšu un kapitāla tirgus komisija sniedz klientiem atzinumus par sūdzībām par šā likuma un citu normatīvo aktu prasību pārkāpumiem, ja tas saistīts ar apdrošināšanas un pārapdrošināšanas starpniecību.",
+      "content": "(2) Klienti, kas uzskatāmi par patērētājiem Patērētāju tiesību aizsardzības likuma izpratnē, ir tiesīgi iesniegt Patērētāju tiesību aizsardzības centram sūdzības par šā likuma un citu patērētāju tiesību aizsardzības normatīvo aktu prasību pārkāpumiem, ja tas saistīts ar apdrošināšanas starpniecību."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "32",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpnieks, kurš vēlas atvērt filiāli citā dalībvalstī, par savu nodomu rakstveidā paziņo Finanšu un kapitāla tirgus komisijai.",
+      "content": "(2) Apdrošināšanas un pārapdrošināšanas starpnieks paziņojumā par filiāles atvēršanu ietver šādu informāciju:\n1) dalībvalsts, kurā apdrošināšanas un pārapdrošināšanas starpnieks vēlas atvērt filiāli;\n2) paredzēto pakalpojumu apraksts;\n3) apdrošināšanas un pārapdrošināšanas starpnieka filiāles adrese dalībvalstī (adrese, kas izmantojama informācijas nosūtīšanai un saņemšanai);\n4) ziņas par apdrošināšanas un pārapdrošināšanas starpnieka filiāles vadītāju;\n5) apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja filiāles (kuras vārdā un interesēs vēlas darboties apdrošināšanas aģents vai piesaistītais apdrošināšanas aģents) firma, reģistrācijas numurs, juridiskā adrese, tālruņa (telefaksa) numurs un elektroniskā pasta adrese.\n(3) Par apdrošināšanas un pārapdrošināšanas starpnieka filiāles vadītāju var būt rīcībspējīga fiziskā persona, kura:\n1) sasniegusi divdesmit viena gada vecumu;\n2) ieguvusi augstāko izglītību;\n3) ieguvusi apdrošināšanas un pārapdrošināšanas starpniecības veikšanai nepieciešamās zināšanas;\n4) ieguvusi nepieciešamo pieredzi finanšu un kapitāla tirgū;\n5) ir persona ar nevainojamu reputāciju un uz kuru neattiecas neviens no šā likuma 17.panta ceturtajā daļā minētajiem apstākļiem.\n(4) Finanšu un kapitāla tirgus komisija 30 dienu laikā pēc šā panta otrajā daļā minētā paziņojuma saņemšanas to izskata un informē filiāles dalībvalsts uzraudzības institūciju par apdrošināšanas un pārapdrošināšanas starpnieka nodomu atvērt filiāli un vienlaikus informē apdrošināšanas un pārapdrošināšanas starpnieku par informācijas nosūtīšanu filiāles dalībvalsts uzraudzības institūcijai. Finanšu un kapitāla tirgus komisija neiesniedz informāciju tai filiāles dalībvalsts uzraudzības institūcijai, kura ir informējusi Eiropas Komisiju par to, ka tā nevēlas saņemt informāciju par citu dalībvalstu apdrošināšanas un pārapdrošināšanas starpnieku nodomu atvērt filiāli tās teritorijā.\n(5) Finanšu un kapitāla tirgus komisija neiesniedz filiāles dalībvalsts uzraudzības institūcijai šā panta ceturtajā daļā minēto informāciju, ja apdrošināšanas un pārapdrošināšanas starpnieka finansiālais stāvoklis nav stabils, filiāles vadītājs neatbilst šā panta trešajā daļā minētajiem kritērijiem vai apdrošināšanas un pārapdrošināšanas starp­nieks ir pārkāpis šo likumu. Ja Finanšu un kapitāla tirgus komisija nolemj neiesniegt informāciju filiāles dalībvalsts uzraudzības institūcijai, tā 30 dienu laikā pēc šā panta otrajā daļā minētā paziņojuma saņemšanas nosūta apdrošināšanas un pārapdrošināšanas starpniekam attiecīgo lēmumu. Lēmumā norāda atteikuma iemeslu.\n(6) Apdrošināšanas un pārapdrošināšanas starpnieks var atvērt filiāli citā dalībvalstī 30 dienas pēc tam, kad ir saņēmis Finanšu un kapitāla tirgus komisijas paziņojumu, ka tai nav iebildumu pret filiāles atvēršanu. Ja filiāles dalībvalsts uzraudzības institūcija ir paziņojusi Eiropas Komisijai, ka tai nav nepieciešama informācija par citu dalībvalstu apdrošināšanas un pārapdrošināšanas starpnieku nodomu atvērt filiāli tās teritorijā, apdrošināšanas un pārapdrošināšanas starpnieks drīkst atvērt filiāli citā dalībvalstī, tiklīdz saņemts Finanšu un kapitāla tirgus komisijas paziņojums par to, ka tā neiebilst pret filiāles atvēršanu."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "33",
+      "title": "Citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks var atvērt filiāli Latvijas Republikā 30 dienas pēc tam, kad ir saņēmis savas dalībvalsts uzraudzības institūcijas informāciju, ka tai nav iebildumu pret filiāles atvēršanu Latvijas Republikā, un dalībvalsts uzraudzības institūcija nosūtījusi paziņojumu Finanšu un kapitāla tirgus komisijai.",
+      "content": "33.pants. Citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks var atvērt filiāli Latvijas Republikā 30 dienas pēc tam, kad ir saņēmis savas dalībvalsts uzraudzības institūcijas informāciju, ka tai nav iebildumu pret filiāles atvēršanu Latvijas Republikā, un dalībvalsts uzraudzības institūcija nosūtījusi paziņojumu Finanšu un kapitāla tirgus komisijai."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "34",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpnieks, kurš vēlas, ievērojot pakalpojumu sniegšanas brīvības principu, nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību citā dalībvalstī, par savu nodomu rakstveidā paziņo Finanšu un kapitāla tirgus komisijai, sniedzot informāciju par dalībvalsti, kurā tas vēlas nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību. Apdrošināšanas aģents un piesaistītais apdrošināšanas aģents norāda apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja filiāles (kuras vārdā un interesēs paredzējis rīkoties) firmu, reģistrācijas numuru, juridisko adresi, tālruņa (telefaksa) numuru un elektroniskā pasta adresi.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija 30 dienu laikā pēc šā panta pirmajā daļā minētā paziņojuma saņemšanas to izskata un informē attiecīgo dalībvalsts uzraudzības institūciju par apdrošināšanas un pārapdrošināšanas starpnieka nodomu nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību šajā dalībvalstī, ievērojot pakalpojumu sniegšanas brīvības principu, un vienlaikus informē apdrošināšanas un pārapdrošināšanas starpnieku par informācijas nosūtīšanu attiecīgās dalībvalsts uzraudzības institūcijai. Finanšu un kapitāla tirgus komisija neiesniedz informāciju tai dalībvalsts uzraudzības institūcijai, kura ir informējusi Eiropas Komisiju par to, ka tā nevēlas saņemt informāciju par citu dalībvalstu apdrošināšanas un pārapdrošināšanas starpnieku nodomu nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību tās teritorijā.\n(3) Finanšu un kapitāla tirgus komisija neiesniedz dalībvalsts uzraudzības institūcijai šā panta otrajā daļā minēto informāciju, ja Finanšu un kapitāla tirgus komisiju neapmierina apdrošināšanas un pārapdrošināšanas starpnieka finansiālais stāvoklis vai apdrošināšanas un pārapdrošināšanas starpnieks ir pārkāpis šo likumu. Ja Finanšu un kapitāla tirgus komisija nolemj neiesniegt informāciju dalībvalsts uzraudzības institūcijai, tā 30 dienu laikā pēc šā panta pirmajā daļā minētā paziņojuma saņemšanas nosūta apdrošināšanas un pārapdrošināšanas starpniekam attiecīgo lēmumu. Lēmumā norāda atteikuma iemeslu.\n(4) Apdrošināšanas un pārapdrošināšanas starpnieks var sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību citā dalībvalstī, ievērojot pakalpojumu sniegšanas brīvības principu, 30 dienas pēc tam, kad ir saņēmis Finanšu un kapitāla tirgus komisijas paziņojumu, ka tai nav iebildumu pret apdrošināšanas un pārapdrošināšanas starpnieka darbību, ievērojot pakalpojumu sniegšanas brīvības principu. Ja dalībvalsts uzraudzības institūcija ir paziņojusi Eiropas Komisijai, ka tai nav nepieciešama informācija par citu dalībvalstu apdrošināšanas un pārapdrošināšanas starpnieku nodomu nodarboties ar apdrošināšanas un pārapdrošināšanas starp­niecību tās teritorijā, apdrošināšanas un pārapdrošināšanas starpnieks drīkst sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību citā dalībvalstī, ievērojot pakalpojumu sniegšanas brīvības principu, tiklīdz saņemts Finanšu un kapitāla tirgus komisijas paziņojums par to, ka tā neiebilst pret apdrošināšanas un pārapdrošināšanas starpnieka darbību, ja tas ievēro pakalpojumu sniegšanas brīvības principu."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "35",
+      "title": "Lai citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks varētu sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu, tam jāsaņem savas dalībvalsts uzraudzības institūcijas paziņojums, ka tai nav pret to iebildumu. Pēc minētā paziņojuma saņemšanas citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks var sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu.",
+      "content": "35.pants. Lai citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks varētu sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu, tam jāsaņem savas dalībvalsts uzraudzības institūcijas paziņojums, ka tai nav pret to iebildumu. Pēc minētā paziņojuma saņemšanas citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks var sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu."
+    },
+    {
+      "provision_ref": "Art. 35.1",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "35.1",
+      "title": "35. 1 pants. Nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle nav tiesīga sniegt pakalpojumus dalībvalstīs, ievērojot pakalpojumu sniegšanas brīvības principu.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "Art. 35.2",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "35.2",
+      "title": "35. 2 pants. (1) Apdrošināšanas un pārapdrošināšanas starpnieks, kurš vēlas atvērt filiāli nedalībvalstī, par savu nodomu rakstveidā paziņo Finanšu un kapitāla tirgus komisijai.",
+      "content": "(2) Apdrošināšanas un pārapdrošināšanas starpnieks, lai atvērtu filiāli nedalībvalstī, Finanšu un kapitāla tirgus komisijai paziņo:\n1) nedalībvalsti, kurā apdrošināšanas un pārapdrošināšanas starpnieks vēlas atvērt filiāli;\n2) paredzēto pakalpojumu aprakstu;\n3) apdrošināšanas un pārapdrošināšanas starpnieka filiāles adresi nedalībvalstī (adresi, kas izmantojama informācijas nosūtīšanai un saņemšanai);\n4) informāciju par apdrošināšanas un pārapdrošināšanas starpnieka filiāles vadītāju, lai pārliecinātos, ka tas atbilst šā likuma 32.panta trešajā daļā noteiktajam;\n5) apdrošināšanas komersanta vai nedalībvalsts apdrošinātāja filiāles (kuras vārdā un interesēs vēlas darboties apdrošināšanas aģents vai piesaistītais apdrošināšanas aģents) firmu, reģistrācijas numuru, juridisko adresi, tālruņa (telefaksa) numuru un elektroniskā pasta adresi.\n(3) Finanšu un kapitāla tirgus komisija 30 dienu laikā pēc visas nepieciešamās šā panta otrajā daļā minētās informācijas saņemšanas to izskata.\n(4) Finanšu un kapitāla tirgus komisija pieņem lēmumu par atteikumu atvērt filiāli nedalībvalstī, ja:\n1) apdrošināšanas un pārapdrošināšanas starpnieka finansiālais stāvoklis nav stabils;\n2) filiāles vadītājs neatbilst šā likuma 32.panta trešajā daļā noteiktajam;\n3) apdrošināšanas un pārapdrošināšanas starpnieks ir pārkāpis šā likuma prasības.\n(5) Apdrošināšanas un pārapdrošināšanas starpnieks, kurš saņēmis Finanšu un kapitāla tirgus komisijas atļauju atvērt filiāli nedalībvalstī, nekavējoties informē Finanšu un kapitāla tirgus komisiju par visām turpmākajām izmaiņām šā panta otrajā daļā sniegtajā informācijā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VI nodaļa Nodarbošanās ar apdrošināšanas un pārapdrošināšanas starpniecību dalībvalstīs un nedalībvalstīs (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 18.06.2015 . likumu, kas stājas spēkā 16.07.2015. )",
+      "section": "36",
+      "title": "Finanšu un kapitāla tirgus komisija nodrošina, lai tās mājas lapā internetā tiktu ievietota informācija par sabiedrības intereses aizsargājošajos likumos ietvertajām prasībām, kuras jāievēro, nodarbojoties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā.",
+      "content": "36.pants. Finanšu un kapitāla tirgus komisija nodrošina, lai tās mājas lapā internetā tiktu ievietota informācija par sabiedrības intereses aizsargājošajos likumos ietvertajām prasībām, kuras jāievēro, nodarbojoties ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "37",
+      "title": "(1) Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzību veic Finanšu un kapitāla tirgus komisija.",
+      "content": "(2) Apdrošināšanas un pārapdrošināšanas starpnieks un nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle maksā Finanšu un kapitāla tirgus komisijai:\n1) par reģistrācijai apdrošināšanas un pārapdrošināšanas starpnieku reģistrā iesniegto dokumentu izskatīšanu — 250 euro ;\n2) par reģistrācijai iesniegto šā likuma 10.panta pirmās daļas 6., 7., 8., 9., 10. un 11.punktā minēto procedūru grozījumu izskatīšanu — 40 euro .\n(3) Citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle pirms darbības uzsākšanas Latvijas Republikā maksā Finanšu un kapitāla tirgus komisijai tās darbības finansēšanai 250 euro .\n(4) Apdrošināšanas brokeris, citas dalībvalsts apdrošināšanas brokera filiāle un nedalībvalsts apdrošināšanas brokera filiāle Finanšu un kapitāla tirgus komisijas darbības finansēšanai maksā līdz 0,7 procentiem (ieskaitot) no ceturksnī saņemtajām komisijām, bet ne mazāk par 150 euro gadā un ne vairāk kā 1000 euro gadā.\n(5) Finanšu un kapitāla tirgus komisija izdod normatīvos noteikumus par šā panta ceturtajā daļā minētā maksājuma aprēķināšanas, samaksas veikšanas un pārskatu iesniegšanas kārtību.\n(6) Šā panta ceturtajā daļā minēto maksājumu veic reizi ceturksnī līdz ceturksnim sekojošā mēneša trīsdesmitajam datumam.\n(7) Par šā panta ceturtajā daļā minētā maksājuma nokavētu pārskaitījumu vai pārskaitījumu nepilnā apmērā aprēķina nokavējuma naudu par katru nokavēto maksājuma dienu 0,05 procentu apmērā no nesamaksātās summas.\n(8) Šajā pantā minētos maksājumus ieskaita Finanšu un kapitāla tirgus komisijas kontā Latvijas Bankā."
+    },
+    {
+      "provision_ref": "Art. 37.1",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "37.1",
+      "title": "37. 1 pants. Finanšu un kapitāla tirgus komisija ir tiesīga uzraudzības vajadzībām pieprasīt pārskatus no apdrošināšanas un pārapdrošināšanas starpniekiem, nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieku filiālēm un citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieku filiālēm par to darbību, nosakot šo pārskatu formu, saturu un iesniegšanas termiņu.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "38",
+      "title": "Finanšu un kapitāla tirgus komisija uzrauga dalībvalstīs izveidotās Latvijas Republikā reģistrēto apdrošināšanas un pārapdrošināšanas starpnieku filiāles, kā arī apdrošināšanas un pārapdrošināšanas starp­niecību, ko Latvijas Republikā reģistrētie apdrošināšanas un pārapdrošināšanas starp­nieki veic citās dalībvalstīs, ievērojot pakalpojumu sniegšanas brīvības principu. Veicot uzraudzību, Finanšu un kapitāla tirgus komisija sadarbojas un konsultējas ar citu dalībvalstu uzraudzības institūcijām.",
+      "content": "38.pants. Finanšu un kapitāla tirgus komisija uzrauga dalībvalstīs izveidotās Latvijas Republikā reģistrēto apdrošināšanas un pārapdrošināšanas starpnieku filiāles, kā arī apdrošināšanas un pārapdrošināšanas starp­niecību, ko Latvijas Republikā reģistrētie apdrošināšanas un pārapdrošināšanas starp­nieki veic citās dalībvalstīs, ievērojot pakalpojumu sniegšanas brīvības principu. Veicot uzraudzību, Finanšu un kapitāla tirgus komisija sadarbojas un konsultējas ar citu dalībvalstu uzraudzības institūcijām."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "39",
+      "title": "(1) Ja Finanšu un kapitāla tirgus komisija konstatē, ka citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle vai apdrošināšanas un pārapdrošināšanas starpnieks, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu, veic darbības, kuras ir pretrunā ar Latvijas Republikas apdrošināšanas un pārapdrošināšanas starpniecību regulējošiem normatīvajiem aktiem, tā nekavējoties pieprasa, lai dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieks izbeidz šādas darbības.",
+      "content": "(2) Ja citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle vai apdrošināšanas un pārapdrošināšanas starp­nieks, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu, neizbeidz darbības, kuras ir pretrunā ar Latvijas Republikas apdrošināšanas un pārapdrošināšanas starpniecību regulējošiem normatīvajiem aktiem, Finanšu un kapitāla tirgus komisija nekavējoties informē par to attiecīgās dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka uzraudzības institūciju.\n(3) Ja citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle vai apdrošināšanas un pārapdrošināšanas starp­nieks, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu, turpina veikt darbības, kuras ir pretrunā ar Latvijas Republikas apdrošināšanas un pārapdrošināšanas starpniecību regulējošiem normatīvajiem aktiem, Finanšu un kapitāla tirgus komisija informē par to attiecīgās dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka uzraudzības institūciju un veic pasākumus, lai šādus pārkāpumus novērstu.\n(4) Ja Finanšu un kapitāla tirgus komisija konstatē, ka citas dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle vai apdrošināšanas un pārapdrošināšanas starpnieks, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību Latvijas Republikā, ievērojot pakalpojumu sniegšanas brīvības principu, veic darbības, kuras ir pretrunā ar sabiedrības intereses aizsargājošiem Latvijas Republikas normatīvajiem aktiem, Finanšu un kapitāla tirgus komisija informē par to attiecīgās dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieku un dalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka uzraudzības institūciju un nekavējoties veic pasākumus, lai šādus pārkāpumus novērstu."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "40",
+      "title": "Finanšu un kapitāla tirgus komisija informē dalībvalsts uzraudzības institūciju par ieraksta anulēšanu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, ko tā piemērojusi Latvijas Republikā reģistrētam apdrošināšanas un pārapdrošināšanas starpniekam, kurš nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību attiecīgās dalībvalsts teritorijā.",
+      "content": "40.pants. Finanšu un kapitāla tirgus komisija informē dalībvalsts uzraudzības institūciju par ieraksta anulēšanu apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, ko tā piemērojusi Latvijas Republikā reģistrētam apdrošināšanas un pārapdrošināšanas starpniekam, kurš nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību attiecīgās dalībvalsts teritorijā."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "41",
+      "title": "(1) Finanšu un kapitāla tirgus komisijai ir tiesības atbilstoši savai kompetencei pieprasīt, lai apdrošināšanas un pārapdrošināšanas starpnieks veic nepieciešamos pasākumus, lai novērstu konstatētos šā likuma, pamatojoties uz šo likumu izdotu normatīvo aktu, Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma vai Eiropas Savienības institūciju izdotu tieši piemērojamo tiesību aktu pārkāpumus apdrošināšanas un pārapdrošināšanas starpniecības jomā.",
+      "content": "(2) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt no apdrošināšanas un pārapdrošināšanas starpniekiem informāciju un dokumentus par to darbību un, ja nepieciešams, veikt pārbaudi. Apdrošināšanas un pārapdrošināšanas starpniekam ir pienākums sadarboties ar Finanšu un kapitāla tirgus komisiju uzraudzības veikšanā.\n(3) Apdrošināšanas un pārapdrošināšanas starpnieki pieprasīto informāciju iesniedz Finanšu un kapitāla tirgus komisijas noteiktajos termiņos. Iesniegšanu nedrīkst atteikt, aizbildinoties ar komercnoslēpumu.\n(4) Finanšu un kapitāla tirgus komisijas administratīvo aktu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "42",
+      "title": "(1) Finanšu un kapitāla tirgus komisija izsniedz atļauju profesionālajai apdrošināšanas un pārapdrošināšanas starpnieku asociācijai un profesionālajai apdrošinātāju asociācijai sniegt atzinumus par apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistīto darbinieku zināšanu un darba pieredzes pietiekamību.",
+      "content": "(2) Lai saņemtu šā panta pirmajā daļā minēto atļauju, profesionālā apdrošināšanas un pārapdrošināšanas starpnieku asociācija iesniedz Finanšu un kapitāla tirgus komisijai:\n1) iesniegumu šā panta pirmajā daļā minētās atļaujas saņemšanai;\n2) apdrošināšanas brokeru, apdrošināšanas atbildīgo personu un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistīto darbinieku apmācības programmu un tās izpildes nodrošinājumu;\n3) profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas izstrādāto apdrošināšanas brokeru profesionālās darbības ētikas kodeksu.\n(3) Lai saņemtu šā panta pirmajā daļā minēto atļauju, profesionālā apdrošinātāju asociācija iesniedz Finanšu un kapitāla tirgus komisijai:\n1) iesniegumu šā panta pirmajā daļā minētās atļaujas saņemšanai;\n2) apdrošināšanas aģentu, apdrošināšanas aģenta atbildīgo personu un apdrošināšanas starpniecībā tieši iesaistīto darbinieku apmācības programmu un tās izpildes nodrošinājumu;\n3) profesionālās apdrošinātāju asociācijas izstrādāto apdrošināšanas aģentu profesionālās darbības ētikas kodeksu.\n(4) Iesniegumu par šā panta pirmajā daļā minētās atļaujas izsniegšanu Finanšu un kapitāla tirgus komisija izskata un lēmumu par atļaujas izsniegšanu vai atteikumu pieņem 30 dienu laikā pēc tam, kad saņemti visi šā panta otrajā un trešajā daļā noteiktie dokumenti, kas noformēti atbilstoši to normatīvo aktu prasībām, kuri regulē dokumentu noformēšanas kārtību.\n(5) Finanšu un kapitāla tirgus komisija pieņem lēmumu par atteikumu izsniegt šā panta pirmajā daļā minēto atļauju profesionālajai apdrošināšanas un pārapdrošināšanas starpnieku asociācijai vai profesionālajai apdrošinātāju asociācijai, ja:\n1) nav iesniegti visi šā panta otrajā vai trešajā daļā minētie dokumenti vai arī iesniegtajos dokumentos ir nepatiesas vai nepilnīgas ziņas;\n2) profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas vai profesionālās apdrošinātāju asociācijas iesniegtā apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku apmācības programma nenodrošina apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesais­tītu darbinieku zināšanu un darba pieredzes pietiekamības pārbaudi atbilstoši šā likuma prasībām;\n3) apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku apmācības programmas izpildes nodrošinājums nav pietiekams apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku zināšanu un darba pieredzes pietiekamības pārbaudei atbilstoši šā likuma prasībām.\n(6) Finanšu un kapitāla tirgus komisija anulē šā panta pirmajā daļā minēto atļauju profesionālajai apdrošināšanas un pārapdrošināšanas starpnieku asociācijai un profesionālajai apdrošinātāju asociācijai, ja:\n1) konstatēts kāds no šā panta piektajā daļā minētajiem gadījumiem;\n2) profesionālā apdrošināšanas un pārapdrošināšanas starpnieku asociācija vai profesionālā apdrošinātāju asociācija nenodrošina vai pienācīgi nenodrošina apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku zināšanu un darba pieredzes pietiekamības pārbaudi;\n3) profesionālā apdrošināšanas un pārapdrošināšanas starpnieku asociācija vai profesionālā apdrošinātāju asociācija pārkāpj šo likumu.\n(7) Izvērtējot izdarīto pārkāpumu, kurš ļauj anulēt šā panta pirmajā daļā minēto atļauju, Finanšu un kapitāla tirgus komisija ir tiesīga pirms atļaujas anulēšanas brīdināt profesionālo apdrošināšanas un pārapdrošināšanas starpnieku asociāciju vai profesionālo apdrošinātāju asociāciju un noteikt atbilstošu termiņu pārkāpuma novēršanai.\n(8) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta pirmajā daļā minētās atļaujas anulēšanu tiek pārsūdzēts, šī pārsūdzēšana neaptur minētā administratīvā akta izpildi."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "43",
+      "title": "Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt no profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas un profesionālās apdrošinātāju asociācijas informāciju un dokumentus par to darbību, kas saistīta ar apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku zināšanu un darba pieredzes pietiekamības pārbaudi, un, ja nepieciešams, veikt pārbaudi.",
+      "content": "( 15.11.2007 . likuma redakcijā, kas stājas spēkā 01.01.2008. )"
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "44",
+      "title": "Profesionālās apdrošināšanas un pārapdrošināšanas starpnieku asociācijas un profesionālās apdrošinātāju asociācijas lēmumus par atzinumu sniegšanu par apdrošināšanas un pārapdrošināšanas starpnieka atbildīgās personas un apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistītu darbinieku zināšanu un darba pieredzes pietiekamību ieinteresētās personas var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā.",
+      "content": "( 15.11.2007 . likuma redakcijā, kas stājas spēkā 01.01.2008. )"
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "45",
+      "title": "(1) Ja apdrošināšanas un pārapdrošināšanas starpnieks nepilda šā likuma 3.panta otrās, piektās un desmitās daļas, 4.panta pirmās daļas, 10.panta pirmās daļas 7., 8., 9., 10. un 11.punkta un ceturtās daļas, 12.panta trešās un septītās daļas, 16.panta trešās daļas, 18.panta pirmās daļas, 21. 1 panta pirmās daļas, 24.panta , 25.panta pirmās un otrās daļas un 41.panta pirmās, otrās un trešās daļas prasības vai apdrošināšanas un pārapdrošināšanas starpnieka darbība neatbilst šā likuma 1.panta pirmās daļas 5., 6., 7., 16. un 17.punkta prasībām, Finanšu un kapitāla tirgus komisija ir tiesīga uzlikt apdrošināšanas un pārapdrošināšanas starpniekam soda naudu līdz 14 200 euro . Par normatīvo aktu pārkāpumiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas jomā Finanšu un kapitāla tirgus komisija piemēro Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā noteiktās sankcijas.",
+      "content": "(2) Ja apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle nepilda šā likuma 16.panta pirmās daļas prasības, Finanšu un kapitāla tirgus komisija ir tiesīga uzlikt apdrošināšanas komersantam un nedalībvalsts apdrošinātāja filiālei soda naudu 1400 euro apmērā. Ja apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle nepilda šā likuma 20.panta trešās un ceturtās daļas un 21.panta ceturtās daļas prasības, Finanšu un kapitāla tirgus komisija ir tiesīga uzlikt apdrošināšanas komersantam un nedalībvalsts apdrošinātāja filiālei soda naudu līdz 14 200 euro .\n(3) Finanšu un kapitāla tirgus komisija ir tiesīga atbilstoši ES Regulas Nr. 1286/2014 24. pantam par regulas pārkāpumiem piemērot šādas sankcijas un uzraudzības pasākumus:\n1) aizliegt apdrošināšanas ieguldījumu produkta izplatīšanu;\n2) uzlikt par pienākumu apturēt apdrošināšanas ieguldījumu produkta izplatīšanu;\n3) aizliegt sniegt pamatinformācijas dokumentu, kas neatbilst ES Regulas Nr. 1286/2014 6., 7., 8. vai 10. pantā noteiktajām prasībām, un dot rīkojumu publicēt jaunu, šai regulai atbilstošu pamatinformācijas dokumentu;\n4) uzlikt par pienākumu personai, kas sniedz konsultācijas par apdrošināšanas ieguldījumu produktu vai to izstrādā vai pārdod, informēt klientu, kurš nav profesionāls klients un kura tiesības un intereses tika skartas, par piemēroto sankciju vai uzraudzības pasākumu, par to, kur klients var iesniegt sūdzību vai vērsties, lai uzsāktu ārpustiesas strīdu izskatīšanu, kā arī par viņa tiesībām ar prasību vērsties tiesā;\n5) izteikt brīdinājumu, kurā norādīta atbildīgā persona un pārkāpuma būtība;\n6) uzlikt juridiskajai personai soda naudu līdz 5 000 000 euro vai līdz trim procentiem no kopējā gada apgrozījuma saskaņā ar pēdējo pieejamo minētās juridiskās personas revidēto gada pārskatu. Ja juridiskā persona ir mātes sabiedrība vai mātes sabiedrības meitas sabiedrība, kura sagatavo konsolidēto gada pārskatu saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu vai konsolidēto finanšu pārskatu saskaņā ar izcelsmes dalībvalsts normatīvo aktu prasībām, kopējo apgrozījumu veido kopējais gada apgrozījums vai atbilstoša veida ienākumi saskaņā ar attiecīgajiem izcelsmes dalībvalsts normatīvajiem aktiem grāmatvedības jomā, ņemot vērā pēdējo pieejamo konsolidēto gada pārskatu, ko apstiprinājusi galvenā mātes sabiedrības vadības struktūra;\n7) uzlikt apdrošināšanas starpniekam — pašnodarbinātai personai — un apdrošināšanas starpnieka — juridiskās personas — atbildīgajai personai, kura pārkāpuma izdarīšanas laikā ir atbildīga par noteiktas darbības veikšanu apdrošināšanas starpnieka uzdevumā vai interesēs, soda naudu līdz 700 000 euro ;\n8) kā alternatīvu šā panta 6. vai 7. punktā noteiktajam uzlikt soda naudu līdz pārkāpuma rezultātā gūto ienākumu vai novērsto iespējamo zaudējumu divkāršam apmēram.\n(4) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta trešās daļas 1., 2., 3. un 4. punktā minēto darbību piemērošanu tiek pārsūdzēts, pārsūdzēšana neaptur tā izpildi."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "46",
+      "title": "(1) Finanšu un kapitāla tirgus komisija informāciju par sankcijām un uzraudzības pasākumiem, kas personām piemēroti par šā likuma 45. panta trešajā daļā minētajiem pārkāpumiem, ievieto savā mājaslapā internetā atbilstoši ES Regulas Nr. 1286/2014 29. pantam, norādot ziņas par personu un tās izdarīto pārkāpumu, kā arī minētās komisijas izdotā administratīvā akta apstrīdēšanu un pieņemto nolēmumu.",
+      "content": "(2) Šā panta pirmajā daļā minētā Finanšu un kapitāla tirgus komisijas mājaslapā internetā ievietotā informācija ir pieejama piecus gadus no tās ievietošanas dienas.\n(3) Finanšu un kapitāla tirgus komisija informē Eiropas Apdrošināšanas un aroda pensiju iestādi par sankcijām un uzraudzības pasākumiem, kas piemēroti par šā likuma 45. panta trešajā daļā minētajiem pārkāpumiem."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 2005.gada 11.janvāra noteikumi Nr.21 \" Apdrošināšanas un pārapdrošināšanas starpnieku darbības noteikumi \" (Latvijas Vēstnesis, 2005, 7.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta 2005.gada 11.janvāra noteikumi Nr.21 \" Apdrošināšanas un pārapdrošināšanas starpnieku darbības noteikumi \" (Latvijas Vēstnesis, 2005, 7.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn2",
+      "title": "2. Apdrošināšanas brokeru sabiedrības savu darbību atbilstoši šā likuma prasībām pārveido līdz 2005.gada 1.maijam.",
+      "content": "2. Apdrošināšanas brokeru sabiedrības savu darbību atbilstoši šā likuma prasībām pārveido līdz 2005.gada 1.maijam."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn3",
+      "title": "3. Apdrošināšanas aģenti un apdrošināšanas aģentūras savu darbību atbilstoši šā likuma prasībām pārveido līdz 2005.gada 1.maijam. Līdz minētajam datumam apdrošināšanas sabiedrības informē Finanšu un kapitāla tirgus komisiju par apdrošināšanas un pārapdrošināšanas starpnieku reģistrā iekļaujamiem apdrošināšanas aģentiem.",
+      "content": "3. Apdrošināšanas aģenti un apdrošināšanas aģentūras savu darbību atbilstoši šā likuma prasībām pārveido līdz 2005.gada 1.maijam. Līdz minētajam datumam apdrošināšanas sabiedrības informē Finanšu un kapitāla tirgus komisiju par apdrošināšanas un pārapdrošināšanas starpnieku reģistrā iekļaujamiem apdrošināšanas aģentiem."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn4",
+      "title": "4. Juridiskās personas, kuras noslēgušas līgumus par apdrošināšanas polišu izplatīšanu, izmantojot savu struktūru, un kurām apdrošināšanas polišu izplatīšana nav pamatnodarbošanās veids, kā arī juridiskās personas, kuras izplata apdrošināšanas polises, izmantojot preses, pasta un līdzīgus pakalpojumus, līdz 2005.gada 1.maijam pārveido savu darbību atbilstoši šā likuma prasībām.",
+      "content": "4. Juridiskās personas, kuras noslēgušas līgumus par apdrošināšanas polišu izplatīšanu, izmantojot savu struktūru, un kurām apdrošināšanas polišu izplatīšana nav pamatnodarbošanās veids, kā arī juridiskās personas, kuras izplata apdrošināšanas polises, izmantojot preses, pasta un līdzīgus pakalpojumus, līdz 2005.gada 1.maijam pārveido savu darbību atbilstoši šā likuma prasībām."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn5",
+      "title": "5. Personas, kuras līdz šā likuma spēkā stāšanās dienai saskaņā ar Apdrošināšanas sabiedrību un to uzraudzības likuma 82.panta pirmo daļu saņēmušas Finanšu un kapitāla tirgus komisijas izsniegto apdrošināšanas brokera sertifikātu, ir tiesīgas nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību apdrošināšanas brokera, apdrošināšanas aģenta, apdrošināšanas brokera vai apdrošināšanas aģenta atbildīgās personas vai apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka statusā un uz tām nav attiecināmas šā likuma 17.panta pirmās daļas 1., 2., 4. un 5.punktā un 17.panta otrās daļas 4. un 5.punktā minētās prasības.",
+      "content": "5. Personas, kuras līdz šā likuma spēkā stāšanās dienai saskaņā ar Apdrošināšanas sabiedrību un to uzraudzības likuma 82.panta pirmo daļu saņēmušas Finanšu un kapitāla tirgus komisijas izsniegto apdrošināšanas brokera sertifikātu, ir tiesīgas nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību apdrošināšanas brokera, apdrošināšanas aģenta, apdrošināšanas brokera vai apdrošināšanas aģenta atbildīgās personas vai apdrošināšanas un pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka statusā un uz tām nav attiecināmas šā likuma 17.panta pirmās daļas 1., 2., 4. un 5.punktā un 17.panta otrās daļas 4. un 5.punktā minētās prasības."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn6",
+      "title": "6. Personas, kuras saņēmušas Finanšu un kapitāla tirgus komisijas izsniegto apdrošināšanas brokera sertifikātu, bet ilgāk par gadu, sākot no 2008.gada 1.janvāra, nav nodarbojušās ar apdrošināšanas un pārapdrošināšanas starpniecību vai nav bijušas darba tiesiskajās attiecībās ar apdrošināšanas vai pārapdrošināšanas starpnieku, ir tiesīgas sākt nodarboties ar apdrošināšanas un pārapdrošināšanas starpniecību vai stāties darba tiesiskajās attiecībās ar apdrošināšanas un pārapdrošināšanas starpnieku, izpildot likuma prasības. Šādām personām nav piemērojamas šā likuma pārejas noteikumu 5.punkta prasības.",
+      "content": "( 15.11.2007 . likuma redakcijā, kas stājas spēkā 01.01.2008. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn7",
+      "title": "7. Šā likuma 24.panta trešā daļa stājas spēkā 2008.gada 1.jūlijā.",
+      "content": "( 15.11.2007 . likuma redakcijā, kas stājas spēkā 01.01.2008. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn8",
+      "title": "8. Šā likuma 3.panta astotajā daļā noteikto pārtraukuma periodu sāk skaitīt no 2008.gada 1.janvāra.",
+      "content": "( 15.11.2007 . likuma redakcijā, kas stājas spēkā 01.01.2008. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn9",
+      "title": "9. Apdrošināšanas un pārapdrošināšanas starpnieks līdz 2009.gada 31.augustam nodrošina apdrošināšanas līgumu par apdrošināšanas un pārapdrošināšanas starpnieku civiltiesisko atbildību atbilstību šā likuma 12.panta otrās daļas grozījumiem attiecībā uz civiltiesiskās atbildības minimālo limitu gadā (1 680 300 euro ekvivalents latos) un vienam apdrošināšanas gadījumam (1 120 200 euro ekvivalents latos).",
+      "content": "( 16.07.2009 . likuma redakcijā, kas stājas spēkā 13.08.2009. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn10",
+      "title": "10. Šā likuma 41.panta ceturtā daļa stājas spēkā 2009.gada 1.oktobrī. Ja pieteikums par Finanšu un kapitāla tirgus komisijas administratīvo aktu Administratīvajai rajona tiesai iesniegts līdz 2009.gada 30.septembrim, lēmumu par iesniegto pieteikumu pieņem, kā arī ierosināto administratīvo lietu izskata un tiesas nolēmumu šajā lietā pieņem un pārsūdz saskaņā ar Administratīvā procesa likuma noteikumiem.",
+      "content": "( 16.07.2009 . likuma redakcijā, kas stājas spēkā 13.08.2009. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn11",
+      "title": "11. Apdrošināšanas brokeri, kas nodarbina apdrošināšanas brokera palīgus, savu darbību atbilstoši šā likuma 1.panta pirmās daļas 17.punkta, 3.panta devītās un desmitās daļas, 4.panta 2. 1 daļas, 10.panta pirmās daļas 11.punkta, 11. 1 panta un 17.panta 1. 2 daļas noteikumiem nodrošina ar 2010.gada 1.janvāri.",
+      "content": "( 16.07.2009 . likuma redakcijā, kas stājas spēkā 13.08.2009. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn12",
+      "title": "12. Apdrošināšanas brokeri, kas nodarbina apdrošināšanas brokera palīgus, šā likuma 10.panta pirmās daļas 11.punktā noteikto procedūru Finanšu un kapitāla tirgus komisijai iesniedz līdz 2009.gada 30.septembrim.",
+      "content": "( 16.07.2009 . likuma redakcijā, kas stājas spēkā 13.08.2009. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn13",
+      "title": "13. Apdrošināšanas brokeri — juridiskās personas, kuri līdz šā likuma 12. 1 panta spēkā stāšanās dienai ir reģistrēti apdrošināšanas un pārapdrošināšanas starpnieku reģistrā, pamatkapitāla atbilstību šā likuma 12. 1 pantam nodrošina līdz 2009.gada 31.decembrim.",
+      "content": "( 16.07.2009 . likuma redakcijā, kas stājas spēkā 13.08.2009. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn14",
+      "title": "14. Lai nodrošinātu, ka tiek izpildītas šā likuma 12.panta otrās daļas prasības par civiltiesiskās atbildības minimālo limitu — ne mazāku par 1 875 927 euro gadā, bet vienam apdrošināšanas gadījumam — ne mazāku par 1 250 618 euro , apdrošināšanas un pārapdrošināšanas starpnieks viena mēneša laikā no šīs prasības spēkā stāšanās dienas iesniedz Finanšu un kapitāla tirgus komisijai civiltiesiskās atbildības apdrošināšanas līgumu, kurā izdarīti atbilstoši grozījumi, vai kredītiestādes izdotu garantiju.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn15",
+      "title": "15. Šā likuma 37.panta ceturtajā daļā noteiktos maksājumus Finanšu un kapitāla tirgus komisijas finansēšanai apdrošināšanas brokeris, citas dalībvalsts apdrošināšanas brokera filiāle un nedalībvalsts apdrošināšanas brokera filiāle veic par periodu, kas sākas ar 2016.gada 1.janvāri.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn16",
+      "title": "16. Šā likuma 9.panta pirmās daļas 6.punktā noteikto informāciju apdrošināšanas un pārapdrošināšanas starpnieks vai apdrošināšanas komersants par apdrošināšanas starpnieku iesniedz Finanšu un kapitāla tirgus komisijai līdz 2015.gada 31.decembrim.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn17",
+      "title": "17. Šā likuma 10.panta pirmās daļas 6.punktā noteikto procedūru un 10.panta pirmās daļas 11.punktā noteikto organizatorisko struktūru apdrošināšanas un pārapdrošināšanas starpnieks iesniedz Finanšu un kapitāla tirgus komisijai līdz 2015.gada 31.decembrim.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn18",
+      "title": "18. Apdrošināšanas komersants un nedalībvalsts apdrošinātāja filiāle šā likuma 21.panta pirmās daļas 4.punktā noteiktās prasības par ziņu ierakstīšanu piesaistīto apdrošināšanas aģentu reģistrā ievērošanu nodrošina līdz 2015.gada 31.decembrim.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn19",
+      "title": "19. Apdrošināšanas un pārapdrošināšanas starpnieks nodrošina sūdzību izskatīšanas procedūru atbilstoši šā likuma 29.pantā noteiktajām prasībām un iesniedz nepieciešamos procedūras grozījumus Finanšu un kapitāla tirgus komisijai līdz 2015.gada 31.decembrim. Apdrošināšanas un pārapdrošināšanas starpnieks maksā Finanšu un kapitāla tirgus komisijai maksu par sūdzību izskatīšanas procedūras grozījumu izskatīšanu šā likuma 37.panta otrās daļas 2.punktā noteiktajā apmērā, ja grozījumi tiek iesniegti pēc 2015.gada 31.decembra.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VII nodaļa Apdrošināšanas un pārapdrošināšanas starpniecības uzraudzība",
+      "section": "pn20",
+      "title": "20. Grozījumi šā likuma 1. panta otrajā daļā, 45. panta trešā un ceturtā daļa un 46. pants stājas spēkā 2018. gada 1. janvārī.",
+      "content": "( 21.07.2017 . likuma redakcijā, kas stājas spēkā 16.08.2017. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apdrošināšanas starpniecība",
+      "definition": "apdrošināšanas piedāvājuma, citu apdrošināšanas līguma noslēgšanai nepieciešamo dokumentu sagatavošana, apdrošināšanas līguma noteikumu, tai skaitā apdrošināšanas līgumā noteikto tiesību un pienākumu, izskaidrošana, citu apdrošināšanas līguma noslēgšanai nepieciešamo darbību veikšana vai minētā līguma noslēgšana, vai apkalpošana, kā arī informācijas sniegšana par vienu vai vairākiem apdrošināšanas piedāvājumiem, pamatojoties uz kritērijiem, kurus klients izvēlas, izmantojot tīmekļvietni vai mobilo lietotni",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas starpniecība",
+      "definition": "pārapdrošināšanas piedāvājuma, citu pārapdrošināšanas līguma noslēgšanai nepieciešamo dokumentu sagatavošana, pārapdrošināšanas līguma noteikumu, tai skaitā pārapdrošināšanas līgumā noteikto tiesību un pienākumu, izskaidrošana, citu pārapdrošināšanas līguma noslēgšanai nepieciešamo darbību veikšana vai minētā līguma noslēgšana, vai apkalpošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas starpnieks",
+      "definition": "apdrošināšanas brokeris, apdrošināšanas aģents vai piesaistītais apdrošināšanas aģents, kas par atlīdzību nodarbojas ar apdrošināšanas starpniecību šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas starpnieks",
+      "definition": "apdrošināšanas brokeris, kas par atlīdzību nodarbojas ar pārapdrošināšanas starpniecību šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas brokeris",
+      "definition": "persona, kas nodarbojas ar apdrošināšanas un pārapdrošināšanas starpniecību klienta vārdā un interesēs, pamatojoties uz vispusīgu piedāvājuma analīzi, un ir apdrošinājusi savu civiltiesisko atbildību šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas aģents",
+      "definition": "persona, kura nodarbojas ar apdrošināšanas starp­niecību tikai viena apdrošināšanas komersanta, valsts, kas nav dalībvalsts (turpmāk — nedalībvalsts), apdrošinātāja filiāles vai koncernā ietilpstošo apdrošināšanas komersantu vārdā un interesēs un par kuras profesionālo darbību pilnu atbildību ir uzņēmies apdrošināšanas komersants, nedalībvalsts apdrošinātāja filiāle vai koncernā ietilpstošie apdrošināšanas komersanti vai kura apdrošinājusi savu civiltiesisko atbildību šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "piesaistītais apdrošināšanas aģents",
+      "definition": "persona, kura, nesaņemot apdrošināšanas prēmijas un citus maksājumus saskaņā ar noslēgto apdrošināšanas līgumu, nodarbojas ar apdrošināšanas starpniecību viena vai vairāku apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāles vārdā un interesēs, ja vairāku apdrošināšanas komersantu vai nedalībvalsts apdrošinātāja filiāles izplatāmie apdrošināšanas pakalpojumi neparedz vienādu apdrošināšanas veidu, un par kuras profesionālo darbību pilnu atbildību ir uzņēmies apdrošināšanas komersants vai nedalībvalsts apdrošinātāja filiāle attiecībā uz apdrošināšanas pakalpojumiem, kas ar tiem saistīti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts apdrošināšanas starp­nieks",
+      "definition": "apdrošināšanas starpnieks, kurš reģistrēts dalībvalstī un kuram mītnes (reģistrācijas) valstī ir tiesības nodarboties ar apdrošināšanas starpniecību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts pārapdrošināšanas starp­nieks",
+      "definition": "pārapdrošināšanas starpnieks, kurš reģistrēts dalībvalstī un kuram mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanas starpniecību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atbildīgā persona",
+      "definition": "pašnodarbinātā persona, apdrošināšanas un pārapdrošināšanas starpnieka izpildinstitūcijas loceklis vai cita persona, kas atbilstoši savai kompetencei apdrošināšanas un pārapdrošināšanas starpnieka vadības līmenī ir atbildīga par apdrošināšanas un pārapdrošināšanas starpniecību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "klients",
+      "definition": "persona, kurai ir nodoms noslēgt apdrošināšanas vai pārapdrošināšanas līgumu vai kura ir iesaistīta:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā apdrošināšanas un pārapdrošināšanas starpnieku asociācija",
+      "definition": "biedrība, kura ir saņēmusi Finanšu un kapitāla tirgus komisijas atļauju sniegt atzinumus šajā likumā noteiktajā kārtībā par apdrošināšanas un pārapdrošināšanas starpniecības veikšanai nepieciešamajām zināšanām un darba pieredzi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā apdrošinātāju asociācija",
+      "definition": "biedrība, kura ir saņēmusi Finanšu un kapitāla tirgus komisijas atļauju sniegt atzinumus šajā likumā noteiktajā kārtībā par apdrošināšanas starpniecības veikšanai nepieciešamajām zināšanām un darba pieredzi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vispusīga piedāvājuma analīze",
+      "definition": "apdrošināšanas komersantu un nedalībvalsts apdrošinātāju filiāļu piedāvājuma analīze, kuru veic apdrošināšanas brokeris, izvērtējot pietiekami lielu apdrošināšanas pakalpojumu skaitu tirgū, pamatojoties uz profesionālajiem kritērijiem, lai sniegtu klientam vispiemērotāko apdrošināšanas starpnieka pakalpojumu apdrošināšanas līguma noslēgšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts uzraudzības institūcija",
+      "definition": "institūcija, kurai dalībvalsts deleģējusi apdrošināšanas un pārapdrošināšanas starpniecības uzraudzības funkciju neatkarīgi no tā, vai šī institūcija izveidota uz likuma pamata vai arī šīs funkcijas veikšanu tai deleģējusi valsts pārvaldes iestāde, ja par šo institūciju un tās tiesībām un pienākumiem attiecīgā dalībvalsts ir paziņojusi Eiropas Komisijai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistīts darbinieks",
+      "definition": "persona, kura ir tiesīga patstāvīgi, bez īpašas uzraudzības apdrošināšanas vai pārapdrošināšanas starpnieka vārdā nodarboties ar apdrošināšanas vai pārapdrošināšanas starpniecību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas brokera palīgs",
+      "definition": "persona, kura apdrošināšanas brokera pašnodarbinātās personas statusā vai apdrošināšanas vai pārapdrošināšanas starpniecībā tieši iesaistīta darbinieka vadībā un uzraudzībā veic ar apdrošināšanas vai pārapdrošināšanas starpniecību saistītus pienākumus. Apdrošināšanas brokera palīgs nav tiesīgs pieņemt ar apdrošināšanas vai pārapdrošināšanas starpniecību saistītus lēmumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle",
+      "definition": "Latvijas Republikā izveidota un reģistrēta nedalībvalsts apdrošināšanas un pārapdrošināšanas starpnieka filiāle.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

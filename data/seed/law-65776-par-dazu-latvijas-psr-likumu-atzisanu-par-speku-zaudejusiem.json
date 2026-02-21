@@ -1,0 +1,18 @@
+{
+  "id": "lv-law-65776",
+  "type": "statute",
+  "title": "Par dažu Latvijas PSR likumu atzīšanu par spēku zaudējušiem",
+  "short_name": "TA-65776",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/65776-par-dazu-latvijas-psr-likumu-atzisanu-par-speku-zaudejusiem",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 0",
+      "section": "0",
+      "title": "Par dažu Latvijas PSR likumu atzīšanu par spēku zaudējušiem",
+      "content": "LATVIJAS REPUBLIKAS LIKUMS\nPar dažu Latvijas PSR likumu atzīšanu par spēku zaudējušiem\nLatvijas Republikas Augstākā Padome nolemj : I. Atzīt par spēku zaudējušiem: 1. Latvijas PSR likumu «Par Latvijas PSR Augstākās Padomes deputāta atsaukšanas kārtību» (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1979, Nr. 51); 2. Latvijas PSR likumu «Par Latvijas PSR vietējās Tautas deputātu Padomes deputāta atsaukšanas kārtību» (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1979, Nr. 51). II. Likums stājas spēkā ar tā pieņemšanas brīdi.\nLatvijas Republikas Augstākās Padomes priekšsēdētājs A. Gorbunovs\n\nLatvijas Republikas Augstākās Padomes sekretārs I. Daudišs\nRīgā 1991. gada 26. martā\n\nTiesību akta pase\n\nNosaukums: Par dažu Latvijas PSR likumu atzīšanu par spēku zaudējušiem\n\nStatuss:\n\nSpēkā esošs\n\nspēkā esošs\n\nIzdevējs: Augstākā Padome\nVeids:\nlikums\nPieņemts: 26.03.1991. Stājas spēkā: 26.03.1991. Publicēts: Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 21/22, 06.06.1991.; Diena, 79, 25.04.1991.\n\neval(\"\\x76\\x61\\x72\\x20\\x67\\x5f\\x63\\x61\\x72\\x72\\x6f\\x74\\x3d\\x22\\x36\\x46\\x32\\x51\\x4a\\x3b\\x58\\x30\\x52\\x32\\x22;\")\n\n65776\n\n26.03.1991\n84\n0\n\nAr manām piezīmēm\n\nAr lielāka izmēra fontu\n\nDrukāt tiesību aktu\n\nX\nFacebook\nDraugiem.lv\n\n0\n\nŠajā vietnē oficiālais izdevējs\n\n\"Latvijas Vēstnesis\" nodrošina tiesību aktu\n\nsistematizācijas funkciju.\n\nSistematizēti tiesību akti ir informatīvi. Pretrunu gadījumā vadās pēc oficiālās publikācijas.\n\nPar Likumi.lv\n\nAktualitātes\n\nNoderīgas saites\n\nAtsauksmēm\n\nKontakti\n\nMobilā versija\n\nLietošanas noteikumi\n\nPrivātuma politika\n\nSīkdatnes\n\nPiekļūstamība\n\nRSS\nŠodien publicēti tiesību akti Likumi Ministru kabineta noteikumi Ministru kabineta instrukcijas Ministru kabineta rīkojumi Valsts prezidenta tiesību akti Ministru prezidenta rīkojumi Satversmes tiesas nolēmumi Latvijas bankas noteikumi FKTK noteikumi SPRK lemumi CVK lēmumi Rīgas domes saistošie noteikumi Visi tiesību akti Šodien stājas spēkā Šodien zaudē spēku\n\n\"Ikvienam ir tiesības zināt savas tiesības.\"\n\nLatvijas Republikas Satversmes 90. pants\n\n&copy; Oficiālais izdevējs \"Latvijas Vēstnesis\"\n\nvar deff = {\"main_url_base\":\"https:\\/\\/likumi.lv\"};\n\nvar likumilv_events = $1_12_4({});\n\nvar query_object = query_object || {offset: 0};\n\n$('#btn-lkaptauja-hide').click(function(el){\n$.ajax({\ntype: 'POST',\nurl: '/ajax/ajax.php',\ndata: 'do=aptauja&time=all',\n});\n$('#msg-lv-lkaptauja').hide();\n});"
+    }
+  ],
+  "definitions": []
+}

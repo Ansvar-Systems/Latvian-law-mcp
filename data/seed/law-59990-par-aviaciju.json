@@ -1,0 +1,789 @@
+{
+  "id": "lv-law-59990",
+  "type": "statute",
+  "title": "Par aviāciju (Likums MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+  "short_name": "TA-59990",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/59990-par-aviaciju",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "1",
+      "title": "Latvijas Republikas gaisa telpā piemērojamā jurisdikcija",
+      "content": "Latvijas Republikai ir suverenitāte gaisa telpā virs valsts sauszemes teritorijas, tās iekšējiem un teritoriālajiem Baltijas jūras ūdeņiem.\nAttiecībā uz Latvijas Republikas gaisa telpu piemērojama Latvijas Republikas jurisdikcija."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "2",
+      "title": "Tiesiskie akti, kas regulē Latvijas Republikas gaisa telpas izmantošanu un civilās aviācijas darbību",
+      "content": "Latvijas Republikas gaisa telpas izmantošanu un civilās aviācijas darbību Latvijas Republikā valsts un tās iedzīvotāju interesēs regulējis likums, citi Latvijas Republikas aviācijas likumdošanas akti, šā likuma noteiktās kompetences ietvaros izdotie valsts institūciju normatīvie akti, kā arī starptautiskās konvencijas un līgumi, kuru dalībniece ir Latvijas Republika.\nJa Latvijas Republikas noslēgtajā starptautiskajā līguma paredzēti citādi noteikumi nekā tie, kas ietverti Latvijas Republikas likumdošanas aktos, piemēro starptautiskā līguma noteikumus."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "3",
+      "title": "Latvijas Republikas likuma «Par aviāciju» darbības joma",
+      "content": "Latvijas Republikas likuma «Par aviāciju» noteiktās prasības attiecas uz:\n1) civilo aviāciju Latvijas Republikas teritorijā;\n2) Latvijas Republikas civilās aviācijas gaisa kuģiem, kuri atrodas ārpus Latvijas Republikas teritorijas, ja tās valsts likumdošanas aktos, kuras teritorijā atrodas gaisa kuģis, nav noteikts citādi;\n3) Latvijas Republikas muitas un policijas dienestu aviāciju.\nŠā likuma 14. , 28. , 29. , 40. — 42. , 45. , 47. — 49. , 52. , 63. un 97. pants , 44. panta otrās, trešās un ceturtās daļas un 56. panta otrās daļas noteikumi attiecas uz Latvijas Republikas Nacionālo bruņoto spēku aviāciju.\nŠā likuma 40. un 41. panta noteikumi attiecas uz personām, kas veic šā likuma 40. panta pirmās daļas 2.—4. punktā un otrajā daļā paredzēto darbību vai šā likuma 41. pantā norādīto objektu celtniecību un izvietošanu.\nAtkāpšanās no šā panta pirmās daļas 3. punkta un otrās daļas noteikumiem, ja tas nepieciešams, lai pildītu šo dienestu ārkārtējās funkcijas, pieļaujama ar Latvijas Republikas Ministru kabineta lēmumu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "4",
+      "title": "Civilās aviācijas darbībai nepieciešamie sertifikāti, licences, apliecības un atļaujas",
+      "content": "Latvijas Republikā gaisa telpas izmantošana, civilās aviācijas darbība, civilās aviācijas speciālistu sagatavošana (pārkvalifikācija un kvalifikācijas celšana), kā ari šā likuma 40. panta otrajā daļā noteiktā darbība ir atļauta tikai pēc šā likuma 10. , 17. , 20. , 22. , 25. , 31. , 32. , 40. , 80. , 82. un 92. pantā noteikto un attiecīgajai darbībai nepieciešamo sertifikātu, licenču, apliecību un atļauju saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "OTRĀ NODAĻA VALSTS PĀRVALDE UN UZRAUDZĪBA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS UN CIVILĀS AVIĀCIJAS DARBĪBAS JOMĀ (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "5",
+      "title": "Valsts pārvaldes institūcijas Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības jomā",
+      "content": "Valsts politiku un pārvaldi Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības jomā realizē Latvijas Republikas Satiksmes ministrijas Aviācijas departaments (turpmāk tekstā — «Aviācijas departaments») un Latvijas Republikas Civilās aviācijas administrācija (turpmāk tekstā — «Civilās aviācijas administrācija»).\nCivilās aviācijas administrācija ir valsts pārvaldes institūcija Latvijas Republikas Satiksmes ministrijas pakļautībā, kura tiek finansēta no līdzekļiem, kas iegūti, iekasējot maksu par pakalpojumiem, un Latvijas Republikas aviācijas uzņēmumu maksājumiem un darbojas uz bezpeļņas organizācijas principiem.\nKārtību, kādā Latvijas Republikas aviācijas uzņēmumi veic šī panta otrajā daļā paredzētos maksājumus, nosaka satiksmes ministrs."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "OTRĀ NODAĻA VALSTS PĀRVALDE UN UZRAUDZĪBA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS UN CIVILĀS AVIĀCIJAS DARBĪBAS JOMĀ (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "6",
+      "title": "Aviācijas departamenta un Civilās aviācijas administrācijas kompetence",
+      "content": "Aviācijas departaments\n1) izstrādā civilās aviācijas perspektīvās attīstības programmu un koncepciju projektus;\n2) izsniedz atļaujas uzņēmējdarbības veikšanai gaisa satiksmes pakalpojumu jomā;\n3) izstrādā līgumus starptautisko lidojumu un gaisa pārvadājumu jomā, piedalās šo līgumu noslēgšanā vai pēc Latvijas Republikas Ministru kabineta pilnvarojuma slēdz tos patstāvīgi;\n4) sadarbojas ar citu valstu valdību pārstāvjiem un pilnvarotām aviācijas institūcijām, kā arī ar starptautiskajām civilās aviācijas organizācijām gaisa telpas izmantošanas un civilās aviācijas darbības attīstības jautājumos;\n5) pieprasa no juridiskajām un fiziskajām personām, kuru darbība saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas līdzekļu ekspluatāciju, jebkuru savu funkciju pildīšanai nepieciešamo informāciju;\n6) izsniedz licenci uz konkursa pamata par tiesībām veikt gaisa pārvadājumus par noteiktiem maršrutiem vai atsevišķos reģionos vai arī veikt attiecīgā profila aviācijas darbus noteiktā reģionā;\n7) apstiprina pasažieru, bagāžas un kravas gaisa pārvadājuma noteikumus.\nCivilās aviācijas administrācija:\n1) veic Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzību;\n2) aizliedz darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas gaisa kuģu, lidlauku un citu civilās aviācijas objektu un iekārtu ekspluatāciju, ja tiek pārkāpti šā likuma un citu uz tā pamata izdoto normatīvo aktu noteikumi, kā arī darbību, kas apdraud gaisa kuģu lidojumu drošību;\n3) likumdošanas aktos paredzētajā kārtībā sauc pie atbildības personas, kas ar savu rīcību apdraud gaisa kuģu lidojumu drošību;\n4) izstrādā pasākumus gaisa kuģu lidojumu un civilas aviācijas drošības garantēšanai, kā arī vada Aviācijas meklēšanas un glābšanas valsts dienesta darbību;\n5) pieprasa no juridiskajām un fiziskajām personām, kuru darbība saistīta ar Latvijas Republikas gaisa telpas izmantošanu vai civilās aviācijas līdzekļu ekspluatāciju, savu funkciju pildīšanai nepieciešamo informāciju;\n6) reģistrē civilās aviācijas gaisa kuģus Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā;\n7) nosaka gaisa telpas izmantošanas kārtību;\n8) nosaka kārtību, kādā tiek izmeklēti aviācijas nelaimes gadījumi, aviācijas incidenti un nelikumīgas iejaukšanās akti civilās aviācijas darbībā;\n9) sagatavo un apstiprina normatīvos aktus, kuri regulē civilās aviācijas darbību;\n10) sadarbojas ar citu valstu valdību pilnvarotām aviācijas institūcijām Latvijas Republikas gaisa telpas izmantošanas un civilās aviācijas darbības valsts uzraudzības un gaisa kuģu meklēšanas un glābšanas jomā.\nAviācijas departamenta un Civilās aviācijas administrācijas speciālistiem ir tiesības iekļūt un netraucēti pildīt savus dienesta pienākumus visos civilās aviācijas objektos, kas atrodas Latvijas Republikas teritorijā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "7",
+      "title": "Gaisa kuģi, kurus reģistrē Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā",
+      "content": "Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrē civilās aviācijas gaisa kuģus, kas ir Latvijas Republikas valsts institūciju, pašvaldību, sabiedrisko organizāciju, Latvijas Republikas Uzņēmumu reģistrā reģistrēto uzņēmumu un uzņēmējsabiedrību un Latvijas Republikas pilsoņu īpašumā, kā ari Latvijas Republikas muitas un policijas dienestu gaisa kuģus.\nIzņēmuma kārtā Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā var reģistrēt gaisa kuģus, kuru īpašnieki nav Latvijas Republikas valsts institūcijas, pašvaldības, sabiedriskās organizācijas, Latvijas Republikas Uzņēmumu reģistrā reģistrētie uzņēmumi un uzņēmējsabiedrības un Latvijas Republikas pilsoņi, bet kurus regulāri izmanto lidojumiem no Latvijas Republikas teritorijas.\nIeķīlātu gaisa kuģi Latvijas Republikas Civilas aviācijas gaisa kuģu reģistrā reģistrē tikai ar kreditora (kreditoru) rakstveida pie. krišanu.\nŠā panta prasībām atbilstošos gaisa kuģus Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrē, ievērojot šā likuma 9. panta pirmās daļas noteikumus."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "8",
+      "title": "Gaisa kuģi, kurus reģistrē Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā",
+      "content": "Gaisa kuģus, kas ir Latvijas Republikas valsts institūciju, pašvaldību, sabiedrisko organizāciju, Latvijas Republikas Uzņēmumu reģistrā reģistrēto uzņēmumu un uzņēmējsabiedrību un Latvijas Republikas pilsoņu īpašumā, bet kuru reģistrācijai Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā trūkst nepieciešamo priekšnoteikumu, var reģistrēt uz laiku Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā.\nŠā panta noteikumiem atbilstošos gaisa kuģus Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā reģistrē, ievērojot šā likuma 9. panta pirmās daļas 1. un 2. punkta noteikumus."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "9",
+      "title": "Gaisa kuģa reģistrācijas nosacījumi un kārtība",
+      "content": "Gaisa kuģi Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrē, ja:\n1) Civilās aviācijas administrācijā ir iesniegts gaisa kuģa īpašnieka rakstveida pieteikums;\n2) gaisa kuģis ir izslēgts no citas valsts gaisa kuģu reģistra vai nav bijis reģistrēts;\n3) ir dokuments, kas apliecina, ka gaisa kuģis ir konstruēts un būvēts, ievērojot normas, kuras nosaka gaisa kuģa derīgumu lidojumiem (gaisa kuģa tipa sertifikāts, citas valsts izsniegta apliecība par gaisa kuģa derīgumu lidojumiem vai eksportapliecība, kompetentas komisijas atzinums par amatieru būvēta gaisa kuģa derīgumu lidojumiem u. c.).\nCivilās aviācijas gaisa kuģu reģistrācijas kārtību nosaka Aviācijas departaments."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "10",
+      "title": "Gaisa kuģa reģistrācijas apliecība",
+      "content": "Pēc gaisa kuģa reģistrācijas Civilās aviācijas administrācija izsniedz gaisa kuģa reģistrācijas apliecību.\nJa gaisa kuģi saskaņā ar šā likuma 8. panta noteikumiem reģistrē Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra pielikumā, tiek izsniegta gaisa kuģa reģistrācijas pagaidu apliecība. Ja gaisa kuģa reģistrācijas apliecība (pagaidu apliecība) nozaudēta vai kļuvusi nederīga, Civilās aviācijas administrācija var izsniegt tās dublikātu.\nJa mainījies Latvijas Republikas Civilas aviācijas gaisa kuģu reģistrā (tā pielikumā) reģistrētā gaisa kuģa īpašnieks vai gaisa kuģis ir izslēgts no minētā reģistra vai tā pielikuma, gaisa kuģa reģistrācijas apliecība (pagaidu apliecība) jānodod Civilās aviācijas administrācijai."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "11",
+      "title": "Nacionālā zīme un reģistrācijas zīme",
+      "content": "Gaisa kuģim, kas reģistrēts Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā vai tā pielikumā, piešķir nacionālo zīmi un reģistrācijas zīmi.\nNacionālo zīmi un reģistrācijas zīmi uz gaisa kuģa atveido «Nolikumā par Latvijas Republikas Civilās aviācijas gaisa kuģu reģistru» paredzētajā kārtībā.\nUz gaisa kuģa var atveidot aviokompānijas emblēmu un citus simbolus, kas reģistrēti Civilās aviācijas administrācijā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "12",
+      "title": "Pienākums ziņot par pārmaiņām Latvijas Republikas Civilās aviācijas gaisa kuģu reģistram sniegtajā informācijā",
+      "content": "Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā vai tā pielikumā reģistrētā gaisa kuģa īpašniekam ir pienākums ziņot Civilās aviācijas administrācijai par kreditora (kreditoru) tiesībām vai pārmaiņām īpašuma tiesībās uz reģistrēto gaisa kuģi, kā arī par citām pārmaiņām Latvijas Republikas Civilās aviācijas gaisa kuģu reģistram sniegtajā informācijā ne vēlāk kā piecu dienu laikā no brīža, kad notikušas šajā pantā minētās pārmaiņas.\nPersonai, kura ekspluatē Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrēto gaisa kuģi, pamatojoties uz īres līgumu, kas noslēgts ar ārvalsts juridiskajām vai fiziskajām personām, jāievēro šā panta pirmās daļas prasības, kā arī jāziņo par grozījumiem gaisa kuģa īres līgumā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "13",
+      "title": "Gaisa kuģa izslēgšana no Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra",
+      "content": "Gaisa kuģi no Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra vai tā pielikuma izslēdz:\n1) pēc gaisa kuģa īpašnieka lūguma;\n2) ja īpašuma tiesības vai lietošanas tiesības uz gaisa kuģi neatbilst šā likuma 7. vai 8. panta noteikumiem;\n3) ja gaisa kuģis tiek reģistrēts Latvijas Republikas Nacionālo bruņoto spēku gaisa kuģu reģistrā;\n4) ja pēdējo trīs gadu laikā Civilās aviācijas administrācija nav izsniegusi, pagarinājusi vai atzinusi par Latvijas Republikas teritorijā spēkā esošu citas valsts izsniegtu apliecību par gaisa kuģa derīgumu lidojumiem un ja gaisa kuģa īpašnieks Civilas aviācijas administrācijas noteiktajā laikā nav pierādījis, ka gaisa kuģis lidojumiem ir derīgs;\n5) ja gaisa kuģis cietis nelaimes gadījumā un tā meklēšana saskaņā ar šā likuma 69. panta noteikumiem ir pārtraukta.\nIeķīlātu gaisa kuģi no Latvijas Republikas Civilās aviācijas gaisa kuģu reģistra izslēdz tikai ar kreditora (kreditoru) rakstveida piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "14",
+      "title": "Atļauja veikt lidojumus",
+      "content": "Latvijas Republikas gaisa telpā lidojumi ir atļauti tādam gaisa kuģim, kurš reģistrēts Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā vai tā pielikumā, Latvijas Republikas Nacionālo bruņoto spēku gaisa kuģu reģistrā vai citas valsts reģistrā un uz kura ir gaisa kuģa reģistrētājvalsts noteikumiem atbilstoša nacionālā zīme un reģistrācijas zīme.\nLidojumus ar gaisa kuģi, kurš nav reģistrēts šā panta pirmajā daļā noteiktajos reģistros vai uz kura nav gaisa kuģa reģistrētājvalsts noteikumiem atbilstošas nacionālās zīmes un reģistrācijas zīmes, veic tikai ar Civilās aviācijas administrācijas atļauju un saskaņojot ar Latvijas Republikas Aizsardzības ministriju."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "15",
+      "title": "Normas, kas nosaka gaisa kuģa derīgumu lidojumiem",
+      "content": "Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrēta gaisa kuģa ekspluatācija Latvijas Republikas teritorijā atļauta tikai tad, ja konstatēta tā atbilstība valsts izvirzītajām lidojumu drošības prasībām, ko paredz normas, kas nosaka gaisa kuģa derīgumu lidojumiem.\nLatvijas Republikā ir piemērojamas normas, kas nosaka gaisa kuģa derīgumu lidojumiem, ja šo normu prasības atbilst vai ir augstākas par Starptautiskās civilās aviācijas organizācijas (ICAO) standartos noteiktajām prasībām un ja šīs normas ir atzinusi Civilās aviācijas administrācija.\nLidojumus ar gaisa kuģi, kurš neatbilst šā panta pirmajā daļā noteiktajām prasībām, drīkst veikt tikai ar Civilās aviācijas administrācijas atļauju, ja tā uzskata, ka, ievērojot speciālus gaisa kuģa ekspluatācijas ierobežojumus, tiks garantēta gaisa kuģa lidojumu drošība."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "16",
+      "title": "Gaisa kuģa atzīšana par derīgu lidojumiem",
+      "content": "Civilās aviācijas administrācija gaisa kuģi atzīst par derīgu lidojumiem, ja:\n1) gaisa kuģis ir konstruēts un ražots atbilstoši Latvijas Republikas teritorijā spēkā esošajām normām, kas nosaka gaisa kuģa derīgumu lidojumiem;\n2) gaisa kuģa ekspluatācija un tehniskā apkope (remonts) veikta saskaņā ar Civilās aviācijas administrācijas izdotajiem vai tās atzītajiem kuģa izgatavotājvalsts un izgatavotāja paredzētajiem ekspluatācijas un tehniskas apkopes (remonta) noteikumiem vai dotajiem norādījumiem;\n3) gaisa kuģa aerodinamiskās īpašības un tehniskie dati, kā ari tā iekārtas un agregāti atbilst šā likuma 15. panta noteikumiem.\nKārtību, kādā gaisa kuģis atzīstams par derīgu lidojumiem un kādā izsniedzama vai pagarināma apliecība par gaisa kuģa derīgumu 'lidojumiem, nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "17",
+      "title": "Apliecība par gaisa kuģa derīgumu lidojumiem",
+      "content": "Katra gaisa kuģa atbilstību šā likuma 15. un 16. panta noteikumiem apliecina Civilās aviācijas administrācijas izsniegta apliecība par gaisa kuģa derīgumu lidojumiem vai citas valsts izsniegta apliecība, kuru saskaņā ar šā likuma 18. panta noteikumiem par spēkā esošu Latvijas Republikas teritorijā atzinusi Civilās aviācijas administrācija.\nCivilās aviācijas administrācija apliecību par gaisa kuģa derīgumu lidojumiem izsniedz pēc gaisa kuģa īpašnieka rakstveida lūguma, ja saskaņā ar šā likuma 16. panta noteikumiem gaisa kuģis ir atzīts par lidojumiem derīgu.\nApliecību par gaisa kuģa derīgumu lidojumiem izsniedz uz laiku līdz gaisa kuģa remontam vai tā ekspluatācijas termiņa beigām, bet ne ilgāku par trim gadiem.\nApliecību par gaisa kuģa derīgumu lidojumiem pagarina saskaņā ar šā likuma 16. panta noteikumiem.\nJa apliecība par gaisa kuģa derīgumu lidojumiem ir nozaudēta vai kļuvusi nederīga, Civilās aviācijas administrācija var izsniegt tās dublikātu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "18",
+      "title": "Ārvalstīs izsniegtās apliecības par gaisa kuģa derīgumu lidojumiem atzīšana par spēkā esošu",
+      "content": "Gaisa kuģa reģistrētājvalsts izsniegto apliecību par gaisa kuģa derīgumu lidojumiem Latvijas Republikā par spēkā esošu atzīst Civilās aviācijas administrācija, ja šāda apliecība ir izsniegta atbilstoši Starptautiskās civilās aviācijas prganizācjas (ICAO) standartos noteiktajām prasībām vai augstākām prasībām.\nCivilās aviācijas administrācija var pārbaudīt citā valstī reģistrēta gaisa kuģa derīgumu lidojumiem, ja:\n1) ir šaubas par gaisa kuģa derīgumu lidojumiem;\n2) to lūdz gaisa kuģa īpašnieks vai ekspluatants;\n3) to pieprasa gaisa kuģa reģistrētājvalsts civilās aviācijas administrācija vai cita tās pilnvarota institūcija."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "19",
+      "title": "Apliecības par gaisa kuģa derīgumu lidojumiem atzīšana par spēkā neesošu",
+      "content": "Latvijas Republikas teritorijā apliecība par gaisa kuģa derīgumu lidojumiem nav spēkā, ja:\n1) izbeidzies apliecības derīguma termiņš;\n2) gaisa kuģis ir guvis bojājumu, kura dēļ tas neatbilst Latvijas Republikā piemērojamām normām, kas nosaka gaisa kuģa derīgumu lidojumiem;\n3) gaisa kuģis netiek ekspluatēts vai tā tehniskā apkope (remonts) nav veikta saskaņā ar Civilās aviācijas administrācijas izdotajiem vai tās atzītajiem gaisa kuģa izgatavotājvalsts un izgatavotāja paredzētajiem ekspluatācijas un tehniskās apkopes (remonta) noteikumiem vai dotajiem norādījumiem;\n4) atzīts par nederīgu gaisa kuģa tipa sertifikāts, kas nosaka šā tipa gaisa kuģu derīgumu lidojumiem.\nAr Civilās aviācijas administrācijas ģenerāldirektora rīkojumu apliecība par gaisa kuģa derīgumu lidojumiem tiek atzīta par spēkā neesošu, ja:\n1) Civilās aviācijas administrācija, pārbaudot gaisa kuģa derīgumu lidojumiem vai citādi konstatē, ka tas lidojumiem nav derīgs;\n2) notikušas pārmaiņas īpašuma tiesībās uz gaisa kuģi;\n3) apliecība nozaudēta vai kļuvusi lietošanai nederīga. Šā panta otrās daļas 1. punktā paredzētajā gadījumā apliecību atzīst par spēkā neesošu līdz brīdim, kad saskaņā ar šā likuma 16. panta noteikumiem gaisa kuģis tiek atzīts par lidojumiem derīgu. Apliecība par gaisa kuģa derīgumu lidojumiem, kura ar Civilās aviācijas ģenerāldirektora rīkojumu atzīta par spēkā neesošu, jānodod Civilās aviācijas administrācijai."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "20",
+      "title": "Sertifikāts par gaisa kuģa atbilstību vides aizsardzības prasībām",
+      "content": "Latvijas Republikas teritorijā civilās aviācijas gaisa kuģa ekspluatācija atļauta tikai tad, ja konstatēta tā atbilstība vides aizsardzības prasībām. To apliecina Civilās aviācijas administrācijas izsniegts vai par derīgu Latvijas Republikas teritorijā atzīts citas valsts izsniegts sertifikāts par gaisa kuģa atbilstību vides aizsardzības prasībām.\nKārtību, kādā izsniedz sertifikātu par gaisa kuģa atbilstību vides aizsardzības prasībām nosaka Civilās aviācijas administrācija pēc saskaņošanas ar Latvijas Republikas Vides aizsardzības un reģionālās attīstības ministriju."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "21",
+      "title": "Pienākums uzturēt gaisa kuģi atbilstoši to normu prasībām, kas nosaka gaisa kuģa derīgumu lidojumiem",
+      "content": "Personām, kas ekspluatē civilās aviācijas gaisa kuģi lidojumā u n veic tā tehnisko apkopi (remontu), ir pienākums to darīt saskaņā ar Civilās aviācijas administrācijas izdotajiem vai atzītajiem gaisa kuģa izgatavotājvalsts un izgatavotāja paredzētajiem ekspluatācijas un tehniskās apkopes (remonta) noteikumiem vai dotajiem norādījumiem un ekspluatācijas procesā uzturēt gaisa kuģi tādā stāvoklī, lai tas atbilstu normām, kas nosaka tā derīgumu lidojumiem.\nLatvijas Republikas Civilās aviācijas gaisa kuģa reģistrā reģistrētā gaisa kuģa īpašniekam vai ekspluatantam, ja gaisa kuģi ekspluatē cita persona, ir pienākums nekavējoties ziņot Civilās aviācijas administrācijai par gaisa kuģa bojājumiem un tā iekārtu un agregātu darbības traucējumiem, kuru dēļ gaisa kuģis neatbilst normām, kas nosaka gaisa kuģa derīgumu lidojumiem."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "TREŠĀ NODAĻA GAISA KUĢI (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "22",
+      "title": "Tiesības būvēt gaisa kuģi un veikt tā tehnisko apkopi (remontu)",
+      "content": "Latvijas Republikas teritorijā tiesības būvēt un pārbūvēt gaisa kuģi, izgatavot gaisa kuģa atsevišķas daļas, ierīces un palīgierīces un veikt gaisa kuģu tehnisko apkopi (remontu) ir personām, kas Civilās aviācijas administrācijas noteiktajā kārtībā ir sertificētas.\nŠā panta pirmās daļas noteikumi neattiecas uz nerūpnieciskas (amatieru) būves gaisa kuģa būvēšanu, pārbūvēšanu un tā atsevišķu dalu, ierīču un palīgierīču izgatavošanu. Šāda gaisa kuģa derīgumu lidojumiem nosaka saskaņā ar šā likuma 16. panta noteikumiem, bet tā tehnisko apkopi (remontu) veic personas, kas Civilās aviācijas administrācijā saņēmušas attiecīgu licenci."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "23",
+      "title": "Lidlauka izveidošana",
+      "content": "Lidlauka celtniecību var uzsākt tikai pēc attiecīgas atļaujas saņemšanas Civilās aviācijas administrācijā. Lidlauka celtniecībai nepieciešamo zemi piešķir Latvijas Republikas likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "24",
+      "title": "Lidlauka un gaisa trases ekspluatācijas nosacījumi",
+      "content": "Civilās aviācijas lidlauka ekspluatācija atļauta tikai tad, ja tas atbilst šā likuma 27. un 62. panta noteikumiem un Civilās aviācijas administrācijas noteiktajām prasībām un ja ir izsniegta apliecība par lidlauka derīgumu ekspluatācijai.\nGaisa trases ekspluatācija atļauta tikai tad, ja tā atbilst Civilās aviācijas administrācijas noteiktajām prasībām un ja ir izsniegts gaisa trases ekspluatācijas sertifikāts.\nLidlauka ekspluatācijas kārtību nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "25",
+      "title": "Apliecība par lidlauka derīgumu ekspluatācijai un gaisa trases ekspluatācijas sertifikāts",
+      "content": "Apliecību par lidlauka derīgumu ekspluatācijai izsniedz un pagarina, kā arī gaisa trases ekspluatācijas sertifikātu izsniedz Civilās aviācijas administrācijas noteiktajā kārtībā.\nApliecība par lidlauka derīgumu ekspluatācijai nav spēkā, ja izbeidzies šīs apliecības derīguma termiņš vai tiek pārkāpta Civilās aviācijas administrācijas noteiktā lidlauku ekspluatācijas kārtība.\nJa veicot pārbaudi vai citādi konstatēts, ka lidlauka darba organizācija, tā iekārtas vai gaisa trases aeronavigācijas un citas radiotehniskās iekārtas neatbilst noteiktajām prasībām vai ierobežojumiem, ar Civilās aviācijas administrācijas ģenerāldirektora rīkojumu lidlauka vai gaisa trases ekspluatāciju ierobežo vai apliecību par lidlauka derīgumu vai gaisa trases ekspluatācijas sertifikātu atzīst par spēkā neesošu līdz brīdim, kad trūkumi tiek novērsti."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "26",
+      "title": "Lidlauka marķēšana",
+      "content": "Lai organizētu gaisa kuģu pārvietošanos uz zemes un garantētu gaisa kuģu .lidojumu drošību, lidlauku un Jā gaisa kuģu pacelšanās un nolaišanās sektorus marķē Civilās aviācijas administrācijas noteiktajā kārtībā.\nLidlauku tuvumā aizliegts izvietot jebkādas zīmes, kas ir līdzīgas lidlauka marķēšanas zīmēm un ierīcēm un var maldināt gaisa kuģa apkalpi lidojuma laikā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "27",
+      "title": "Prasības, kādām jāatbilst lidlaukam, no kura veic gaisa pārvadājumus",
+      "content": "Lidlaukā, no kura veic gaisa pārvadājumus, jābūt ēkām un citiem objektiem, lai nodrošinātu ar pasažieru, bagāžas, kravas un pasta gaisa pārvadājumiem saistīto operāciju veikšanu un citu pakalpojumu sniegšanu atbilstoši Latvijas Republikā noteiktajiem standartiem.\nŠā panta pirmajā daļā minētajā lidlaukā jābūt attiecīgām iekārtām un sistēmām un īpaši sagatavotam personālam, lai atbilstoši Starptautiskās civilās aviācijas organizācijas (ICAO) izstrādātajiem standartiem un rekomendācijām novērstu nelikumīgas iejaukšanās aktus civilās aviācijas darbībā.\nLidlaukā, no kura veic starptautiskos lidojumus, papildus jāveic pasākumu komplekss, lai nodrošinātu gaisa kuģu, to apkalpju un pasažieru, kas ierodas Latvijas Republikā vai to atstāj, ka arī Latvijas Republikā ar gaisa kuģiem ievestās un no tās izvedamās mantas sanitāro, karantīnas, muitas un robežas (pasu) un citu kontroli atbilstoši Latvijas Republikas likumdošanas aktu prasībām un to starptautisko līgumu prasībām, kuru dalībniece ir Latvijas Republika."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "28",
+      "title": "Maksa par Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) pakalpojumiem un uz civilās aviācijas lidlauka sniegtajiem pakalpojumiem, kā arī par aeronavigācijas un citu radiotehnisko iekārtu izmantošanu",
+      "content": "Gaisa kuģa īpašnieks vai ekspluatants, ja gaisa kuģi ekspluatē cita persona, Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) pakalpojumus un uz civilās aviācijas lidlauku sniegtos pakalpojumus, kā arī aeronavigācijas un citas radiotehniskās iekārtas izmanto par maksu.\nŠā panta pirmajā daļā noteiktos maksājumus pēc Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) vai lidlauka administrācijas priekšlikuma apstiprina Aviācijas departaments.\nKārtību, kādā saskaņā ar šā panta pirmās un otrās daļas noteikumiem paredzētos maksājumus kārto Latvijas Republikas Nacionālo bruņoto spēku aviācija, nosaka Latvijas Republikas Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "CETURTĀ NODAĻA LIDOJUMI UN GAISA TRASES (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "29",
+      "title": "Kārtība, kādā civilās aviācijas lidlauku izmanto militārā aviācija, un kārtība, kādā militāro lidlauku izmanto civilā aviācija",
+      "content": "Kārtību, kādā civilās aviācijas lidlauku izmanto Latvijas Republikas Nacionālo bruņoto spēku aviācija, un kārtību, kādā Nacionālo bruņoto spēku aviācijas lidlauku izmanto civilā aviācija, nosaka Latvijas Republikas Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "30",
+      "title": "Civilās aviācijas speciālistam izvirzāmās prasības",
+      "content": "Civilās aviācijas speciālistam ir jābūt speciāli sagatavotam un ar ieņemamajam amatam noteiktu nepieciešamo darba stāžu, bet atsevišķu kategoriju civilās aviācijas speciālistu veselības stāvoklim jāatbilst noteiktām prasībām.\nCivilās aviācijas speciālistam izvirzāmas prasības nosaka Civilas aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "31",
+      "title": "Civilās aviācijas speciālistu sagatavošana",
+      "content": "Civilās aviācijas speciālistu sagatavošanas, pārkvalifikācijas un kvalifikācijas celšanas valsts uzraudzību veic Latvijas Republikas Izglītības, kultūras un zinātnes ministrija un Civilās aviācijas administrācija.\nMācību programmas speciālajās aviācijas disciplīnās, kā arī aviācijas sportistu sagatavošanas programmas apstiprina Civilās aviācijas administrācija.\nTiesības veikt Civilās aviācijas speciālistu sagatavošanu, pārkvalifikāciju un kvalifikācijas celšanu ir mācību iestādēm, uzņēmējsabiedrībām, uzņēmumiem un fiziskajām personām, kas ir sertificētas Civilās aviācijas administrācijas noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "32",
+      "title": "Civilās aviācijas speciālista apliecība",
+      "content": "Civilās aviācijas speciālistam atbilstoši viņa specialitātei, sagatavotības pakāpei un darba pieredzei izsniedz attiecīgu apliecību un piešķir kvalifikāciju, kuru apliecina, izdarot attiecīgu kvalifikācijas atzīmi speciālista apliecībā.\nCivilās aviācijas speciālista apliecībā tiek atzīmēts tās derīguma termiņš. Kad šis termiņš izbeidzas, aviācijas speciālistam, lai pagarinātu apliecības derīguma termiņu, jāpierāda, ka viņš atbilst noteiktām prasībām.\nCivilās aviācijas speciālistam izsniegto apliecību ar Civilās aviācijas administrācijas ģenerāldirektora lēmumu var atzīt par nederīgu, ja tiek konstatēts, ka persona, kurai izsniegta apliecība, neatbilst noteiktām prasībām. Šāda apliecība jānodod Civilās aviācijas administrācijā.\nCivilās aviācijas administrācija atzīst par derīgu Latvijas Republikas teritorijā citas valsts izsniegtu Civilās aviācijas speciālista apliecību, ja šāda apliecība ir izsniegta atbilstoši Starptautiskās civilās aviācijas organizācijas (ICAO) standartos noteiktajām vai augstākām prasībām vai atbilstoši starptautiskajiem līgumiem, kuru dalībniece ir Latvijas Republika.\nKārtību, kādā izsniedzama vai pagarināma civilās aviācijas speciālista apliecība, nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "33",
+      "title": "Aviācijas speciālista pienākumi",
+      "content": "Aviācijas speciālistam, pildot savas funkcijas, jāievēro šā likuma, citu Latvijas Republikas aviācijas likumdošanas aktu noteikumi, arī Aviācijas departamenta un Civilās aviācijas administrācijas izdoto nolikumu, instrukciju un citu normatīvo aktu vai tā atzīto gaisa kuģa izgatavotāja valsts un izgatavotajā paredzēto ekspluatācijas doto tehniskās apkopes (remonta) noteikumu un norādījumu prasības un jāgarantē gaisa kuģu lidojuma un civilās aviācijas drošība."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "34",
+      "title": "Aizliegums aviācijas speciālistam pildīt savas funkcijas",
+      "content": "Aviācijas speciālistam ir aizliegts pildīt savas funkcijas, ja viņš:\n1) nevar uzrādīt apliecību vai tajā trūkst noteiktās kvalifikācijas atzīmes, kas atļauj pildīt šādas funkcijas, vai noteiktā laikā nav pārbaudīta speciālista atbilstība noteiktai kvalifikācijai;\n2) ir slims, noguris vai citu apstākļu dēļ nevar pildīt savas funkcijas, garantējot gaisa kuģu lidojuma un civilās aviācijas drošību;\n3) ir alkohola, narkotisko vielu, medikamentu vai toksisko vielu iespaidā."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "35",
+      "title": "Gaisa kuģa apkalpe",
+      "content": "Gaisa kuģa apkalpē, ko komercnolūkos izmanto ekspluatants, kurš ir šā likuma 79. pantā noteiktais uzņēmums vai uzņēmējsabiedrība, var iekļaut tikai Latvijas Republikas pilsoņus.\nAtkāpšanās no šā panta pirmās daļas noteikumiem pieļaujama ar Latvijas Republikas Ministru kabineta atļauju.\nGaisa kuģa apkalpes minimālo sastāvu atbilstoši gaisa kuģa izgatavotāja noteiktajam apkalpes sastāvam un konkrētajiem gaisa kuģa ekspluatācijas apstākļiem nosaka Civilās aviācijas administrācija.\nAizliegts veikt gaisa kuģa lidojumus, ja tā apkalpe nav pilnā sastāvā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "36",
+      "title": "Gaisa kuģa kapteinis",
+      "content": "Gaisa kuģa apkalpes darbu vada gaisa kuģa kapteinis. Ja gaisa kuģa apkalpes sastāvā ir tikai viens pilots, viņš ir arī gaisa kuģa kapteinis.\nJa gaisa kuģa kapteinis veselības stāvokļa dēļ lidojuma laikā nevar pildīt savus pienākumus, gaisa kuģa kapteiņa tiesības pārņem un viņa pienākumus pilda otrais pilots."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "37",
+      "title": "Gaisa kuģa kapteiņa pienākumi",
+      "content": "Gaisa kuģa kapteiņa pienākums ir:\n1) vadīt gaisa kuģa apkalpes darbu tā, lai tiktu garantēta gaisa kuģa lidojuma drošība un ievēroti šā likuma un citu Latvijas Republikas likumu noteikumi, kā arī nolikumu, instrukciju un citu normatīvo aktu prasības;\n2) veikt pasākumus, lai novērstu briesmas, kas draud viņa vadītajam gaisa kuģim, vai glābtu tā pasažierus, ievainotos apkalpes locekļus, gaisa kuģi, tā dokumentāciju un mantu, kas tajā atrodas, kā arī sniegtu medicīnisko palīdzību ievainotajiem, ja gaisa kuģis cietis nelaimes gadījumā;\n3) nekavējoties noraidīt gaisa satiksmes vadības dienesta dispečeram briesmu signālus, kas uztverti no cita gaisa kuģa, jūras vai iekšējās (upju) kuģniecības kuģa, kā arī ziņot, ja ir pamanīti kuģu nelaimes gadījumi, stihiskas nelaimes, briesmās esoši cilvēki, atzīmēt kartē to koordinātes un sniegt palīdzību, kādu var sniegt, neapdraudot vadīto gaisa kuģi, apkalpi un pasažierus;\n4) nekavējoties ziņot Civilās aviācijas administrācijai par gadījumiem, kad izmantotas šā likuma 38. panta 3. punktā paredzētās tiesības."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "PIEKTĀ NODAĻA CIVILAS AVIĀCIJAS PERSONĀLS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "38",
+      "title": "Gaisa kuģa kapteiņa tiesības",
+      "content": "Lai pildītu šā likuma 37. pantā paredzētos gaisa kuģa kapteiņa pienākumus, gaisa kuģa kapteinim ir tiesības:\n1) pieņemt galīgo lēmumu par gaisa kuģa pacelšanos, lidojuma turpināšanu vai nosēšanos paredzētajā lidojuma galapunktā vai rezerves lidlaukā;\n2) atlikt gaisa kuģa izlidošanu uz laiku vai atteikties no lidojuma, ja gaisa kuģa tehniskā gatavība, lidojuma organizācija vai meteoroloģiskie apstākļi negarantē lidojuma drošību;\n3) gadījumā, kad gaisa kuģa lidojuma drošība ir acīm redzami apdraudēta, vai ari nolūkā glābt gaisa kuģī esošo cilvēku dzīvību pieņemt šādus lēmumus:\n— par lidojuma turpināšanu, atkāpjoties no lidojuma plāna un gaisa satiksmes vadības dispečera norādījumiem, bet pēc iespējas saskaņā ar lidojuma noteikumiem un informējot par to attiecīgo gaisa satiksmes vadības dispečeru,\n— par lidojuma turpināšanu vai nosēšanos sliktākos meteoroloģiskos apstākļos, nekā paredz noteiktais meteoroloģiskais minimums,\n— par lidojuma pārtraukšanu un piespiedu nosēšanos;\n4) gaisa kuģa lidojuma drošības interesēs savas kompetences ietvaros dot jebkurai personai, kas atrodas gaisa kuģī, obligāti pildāmus norādījumus un piemērot visus nepieciešamos līdzekļus, lai pārtrauktu jebkuru personas rīcību, kura acīm redzami apdraud lidojuma drošību, un pēc gaisa kuģa nosēšanās nodot šo personu kompetentām iestādēm, kā arī lūgt pasažieru palīdzību, lai panāktu, ka šajā punktā minētā persona izpilda tai dotos norādījumus;\n5) ja nepieciešams, organizēt pasažieru, viņiem klātesošo mantu un bagāžas pārbaudi gaisa kuģa lidojuma laikā.\nĀrvalsts gaisa kuģa kapteinim Latvijas Republikas teritorijā ir šajā pantā paredzētās tiesības, ja par gaisa kuģa derīgumu lidojumiem atbildīgās valsts likumdošanas akti neparedz citādi."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "39",
+      "title": "Latvijas Republikas gaisa telpas struktūra",
+      "content": "Lai organizētu šā likuma 40. pantā minēto darbību un veiktu tās uzraudzību, Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmums (dienests) izstrādā Latvijas Republikas gaisa telpas struktūru (gaisa trases, maršrutus, nekontrolējamo lidojumu un speciālo lidojumu zonas, lidlauku satiksmes zonas un gaisa satiksmes vadības zonas, aizliegtās zonas u. c.), kas nodrošina gaisa telpas kompleksu izmantošanu atbilstoši visu fizisko un juridisko personu interesēm.\nLatvijas Republikas gaisa telpas struktūru pēc saskaņošanas ar Latvijas Republikas Aizsardzības ministriju apstiprina Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "40",
+      "title": "Ar Latvijas Republikas gaisa telpas izmantošanu saistīta darbība",
+      "content": "Par darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu, uzskata:\n1) gaisa kuģu lidojumus;\n2) visu veidu darbību, kas saistīta ar materiālo objektu pacelšanu, pārvietošanu vai nolaišanos gaisa telpā;\n3) šaušanu, kas var apdraudēt gaisa kuģu un citu materiālo objektu lidojumu drošību;\n4) spridzināšanas darbus.\nŠā panta pirmajā daļā paredzēto darbību, kā arī darbību, kas saistīta ar gaismas,^ radio un visu veidu elektromagnētisko izstarojumu, kurš var radīt draudus gaisa kuģu un citu materiālo objektu lidojumu drošībai, drīkst veikt pēc attiecīgas licences, apliecības vai atļaujas saņemšanas. Šādas licences, apliecības un atļaujas, kas paredzētas darbībai militāros nolūkos, izsniedz un to izsniegšanas kārtību nosaka Latvijas Republikas Aizsardzības ministrija, pārējos gadījumos — Civilās aviācijas administrācija.\nKārtību, kādā veicama šā panta pirmajā daļā paredzētā darbība, kā arī darbība, kas saistīta ar gaismas, radio un visu veidu elektromagnētisko izstarojumu, kurš var radīt draudus gaisa kuģu un citu materiālo objektu lidojumu drošībai, nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "41",
+      "title": "Tādu objektu celtniecība un izvietošana, kuri var apdraudēt gaisa kuģu lidojumu drošību",
+      "content": "Lai garantētu gaisa kuģu un citu materiālo objektu lidojumu drošību, Civilās aviācijas administrācijā pēc saskaņošanas ar Latvijas Republikas Aizsardzības ministriju ir jāsaņem atļauja celt un izvietot Latvijas Republikas teritorijā:\n1) sprādzienbīstamus objektus;\n2) objektus, kas var radīt traucējumus gaisa kuģu lidojumu nodrošināšanai nepieciešamo radiotehnisko līdzekļu darbā;\n3) objektus, kuru augstums virs zemes vai ūdens virsmas to atrašanās vietā pārsniedz 100 metrus;\n4) objektus neatkarīgi no to augstuma gaisa kuģu pacelšanās un nolaišanās sektoros — piecu kilometru attālumā no lidlauka kontrolpunkta, arī stādīt kokus;\n5) objektus, kuru augstums par 30 metriem un vairāk pārsniedz lidlauka kontrolpunkta augstumu, — 10 kilometru rādiusā no tā;\n6) objektus, kuru augstums par 50 metriem un vairāk pārsniedz lidlauka kontrolpunkta augstumu, — 30 kilometru rādiusā no tā;\n7) objektus, kuri iespaido redzamību gaisa kuģa pacelšanās vai nosēšanās laikā vai no kuriem izplūstošie dūmi, tvaiki vai citas vielas to samazina;\n8) objektus, kuri veicina putnu masveida atrašanos, — 15 kilometru rādiusā no lidlauka kontrolpunkta.\nPilsētu un citu apdzīvoto vietu projektēšana, celtniecība un attīstība, kā ari rūpniecības, lauksaimniecības un citu objektu celtniecība un rekonstrukcija lidlaukam blakus esošajā teritorijā, virs kuras ir noteikta lidlauka satiksmes zona, jāveic, ievērojot gaisa kuģu lidojumu drošības prasības, ņemot vērā iespējamo aviācijas kaitīgo iedarbību uz iedzīvotāju veselību un uzņēmumu, iestāžu un organizāciju darbību.\nPersonām, kas uzcēlušas vai izvietojušas Latvijas Republikas teritorijā šā panta pirmajā daļā paredzētos objektus bez Civilās aviācijas administrācijas atļaujas, pēc administrācijas pieprasījuma uz sava rēķina un noteiktā termiņā tie jānojauc, jāpārveido vai jāpārvieto uz citu vietu, kā ari līdz šā panta pirmās daļas 2. un 7. punktā minēto traucējumu novēršanai jāpārtrauc darbība, kas šādus traucējumus rada. Ja minētie norādījumi netiek izpildīti, Civilās aviācijas administrācija organizē pārkāpumu novēršanu uz tās personas rēķina, kura šos norādījumus nav ievērojusi.\nŠā panta pirmās daļas 3.—6. punktā minēto celtņu un citu objektu īpašniekiem saskaņā ar lidlauku tehniskās ekspluatācijas noteikumu prasībām par saviem līdzekļiem jāierīko šo objektu nakts un dienas marķēšanas zīmes."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "42",
+      "title": "Latvijas Republikas gaisa telpas izmantošanas koordinācija un gaisa kuģu lidojumu vadība",
+      "content": "Darbību, kas saistīta ar Latvijas Republikas gaisa telpas izmantošanu, koordinē un gaisa kuģu lidojumus speciāli izveidotās gaisa satiksmes vadības zonās vada Latvijas Republikas gaisa Telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmums (dienests).\nAtsevišķās gaisa satiksmes vadības zonās gaisa kuģu lidojumus ar vadīt gaisa satiksmes vadības dienesta dispečeri, kas neietilpst .atvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmumā (dienestā).\nGaisa satiksmes vadības dienesta dispečeri savā darbā ievēro šā likuma un uz tā pamata izdoto normatīvo aktu noteikumus."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "43",
+      "title": "Gaisa satiksmes kontrole gaisa telpā ārpus Latvijas Republikas teritorijas",
+      "content": "Gaisa satiksmes kontroli gaisa telpā ārpus Latvijas Republikas teritorijas, arī virs Latvijas Republikas teritorijai piegulošajiem Baltijas jūras atklātajiem ūdeņiem, ja tas ir paredzēts starptautiskajos līgumos, kuru dalībniece ir Latvijas Republika, veic tikai Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmums (dienests), ievērojot šā likuma noteikumus un starptautiskajos līgumos ietvertās speciālās normas."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "44",
+      "title": "Gaisa kuģa lidojumi",
+      "content": "Lēmumu par gaisa kuģa un apkalpes gatavību lidojumam pieņem gaisa kuģa kapteinis saskaņā ar šā likuma 38. panta 1. un 2. punkta noteikumiem.\nLatvijas Republikas gaisa telpā gaisa kuģu lidojumus veic Civilās aviācijas administrācijas noteiktajā kārtībā un saskaņā ar Latvijas Republikas gaisa telpas struktūru. Latvijas Republikas Nacionālo bruņoto spēku gaisa kuģu lidojumu kārtību atsevišķās zonās un maršrutos nosaka Latvijas Republikas Aizsardzības ministrija.\nGaisa kuģim, tā apkalpei un pasažieriem, kas ierodas Latvijas Republikā vai to atstāj, vai ari republikā ar gaisa kuģi ievestai un no tās izvedamai mantai piemēro sanitāro, karantīnas, muitas, robežas (pasu) un citu kontroli atbilstoši Latvijas Republikas likumdošanas aktu noteikumiem un to starptautisko līgumu noteikumiem, kuru dalībniece ir Latvijas Republika.\nKārtību, kādā Latvijas Republikā ierodas un to atstāj aviācijas glābšanas darbos iesaistītie gaisa kuģi un to apkalpes, nosaka Latvijas Republikas Ministru kabinets saskaņā ar starptautiskajiem līgumiem, kuru dalībniece ir Latvijas Republika."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "45",
+      "title": "Lidojumi virs apdzīvotajam vietām",
+      "content": "Gaisa kuģu lidojumi virs apdzīvotajām vietām jāveic tādā augstumā, kas, ja nepieciešams, nodrošinātu gaisa kuģu piespiedu nosēšanos ārpus apdzīvotās vietas teritorijas.\nCivilās aviācijas administrācija var noteikt minimālos gaisa kuģu lidojumu augstumus virs atsevišķām apdzīvotajām vietām.\nGaisa kuģu demonstrēšanas lidojumi virs apdzīvotajām vietām veicami tikai ar Civilās aviācijas administrācijas atļauju."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "46",
+      "title": "Ierobežojumi civilās aviācijas gaisa kuģu lidojumiem ar virsskaņas ātrumu",
+      "content": "Civilās aviācijas administrāciju civilās aviācijas gaisa kuģu lidojumiem ar virsskaņas ātrumu Latvijas Republikas gaisa telpā nosaka tādus augstumus, kuros nav iespējama šo lidojumu kaitīga fizikāla iedarbība uz iedzīvotāju veselību un apkārtējo vidi."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "47",
+      "title": "Bezpilota gaisa kuģa lidojumi vai cita veida lidaparātu pārvietošanās",
+      "content": "Bezpilota gaisa kuģim lidojumi vai cita veida lidaparātam, kas nav kvalificējams kā gaisa kuģis, pārvietošanās, ja tas nav pretrunā ar sabiedrības interesēm un neapdraud gaisa kuģu lidojumu drošību, Latvijas Republikas gaisa telpā jāveic kārtībā, kādu pēc saskaņošanas ar Latvijas Republikas Aizsardzības ministriju nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "48",
+      "title": "Gaisa kuģu lidojumu ierobežojumi vai aizliegums",
+      "content": "Ārkārtējā situācijā vai izņēmuma stāvokļa laikā, vai sabiedriskās drošības interesēs Latvijas Republikas Ministru kabinets var visā Latvijas Republikas gaisa telpā vai tās daļā uz laiku ierobežot vai aizliegt gaisa kuģu lidojumus."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "49",
+      "title": "Gaisa kuģa piespiedu nosēdināšana Latvijas Republikas teritorijā",
+      "content": "Ja gaisa kuģis novirzījies no lidojuma maršruta vai ielidojis teritorijā, kurā lidojumi aizliegti, tam nekavējoties jāveic nepieciešamie pasākumi, lai atjaunotu lidojumu saskaņā ar plānu.\nŠā panta pirmajā daļā paredzētajā gadījumā un citos gadījumos, kad tas nepieciešams sabiedriskās kārtības un drošības interesēs, Civilās aviācijas administrācijas noteiktajā kārtībā Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmuma (dienesta) dispečers var pieprasīt, lai gaisa kuģa kapteinis nosēdina gaisa kuģi tuvākajā piemērotajā lidlaukā. Par šādiem gadījumiem nekavējoties jāziņo Civilās aviācijas administrācijai un Latvijas Republikas Aizsardzības ministrijai.\nApstākļus un kārtību, kāda Latvijas Republikas Nacionālo bruņoto spēku un muitas dienesti var pieprasīt civilās aviācijas gaisa kuģa piespiedu nosēšanos, nosaka Latvijas Republikas Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "50",
+      "title": "Aizliegums izlidot ārvalsts gaisa kuģim",
+      "content": "Ja ārvalsts civilās aviācijas gaisa kuģī nav starptautiskajiem lidojumiem nepieciešamās dokumentācijas, kas noteikta Starptautiskās civilās aviācijas organizācijas (ICAO) standartos vai starptautiskajos līgumos par gaisa satiksmi, vai ja ir pamats uzskatīt, ka gaisa kuģa tehniskais stāvoklis negarantē lidojuma drošību, kā arī ja tā apkalpes locekļiem nav atbilstošas speciālista apliecības, Civilās aviācijas administrācija gaisa kuģim var aizliegt izlidot.\nŠā panta pirmajā daļā noteiktajos gadījumos kārtību aizturētā gaisa kuģa izlidošanai no Latvijas Republikas teritorijas nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "51",
+      "title": "Noteiktos maksājumus nenokārtojuša gaisa kuģa izlidošanas aizkavēšana",
+      "content": "Civilās aviācijas lidlauka vai Latvijas Republikas gaisa telpas mantošanas un gaisa satiksmes organizācijas valsts uzņēmuma (dienesta) administrācija vai tās pilnvarota persona var aizkavēt gaisa kuģa izlidošanu līdz šā likuma 28. pantā noteikto maksājumu nokārtošanai vai garantiju sniegšanai par šo maksājumu nokārtošanu. Ja starptautiskajā līgumā par gaisa satiksmi noteikts citādi, piemēro šā līguma noteikumus."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "52",
+      "title": "Radiosakaru iekārtu lietošanas kārtība",
+      "content": "Gaisa kuģu apkalpju un gaisa satiksmes vadības dienesta dispečeru savstarpējo radiosakaru uzturēšanai nepieciešamo iekārtu uzstādīšanas un lietošanas kārtību gaisa kuģī un uz zemes pēc saskaņošanas ar Latvijas Republikas Satiksmes ministrijas Sakaru departamentu nosaka Aizsardzības ministrija (attiecībā uz militāro aviāciju) un Civilās aviācijas administrācija (attiecībā uz civilo aviāciju)."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "53",
+      "title": "Gaisa kuģa dokumentācija",
+      "content": "Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrētajā gaisa kuģī lidojuma laikā ir jābūt šādai dokumentācijai:\n1) gaisa kuģa reģistrācijas apliecībai;\n2) apliecībai par gaisa kuģa derīgumu lidojumiem;\n3) atļaujai lietot gaisa kuģa radiostaciju;\n4) uzskaites žurnālam par gaisa kuģa tehnisko stāvokli lidojuma laikā;\n5) gaisa kuģa ekspluatācijas instrukcijai lidojumu veikšanai;\n6) dokumentācijai par pasažieriem un kravu, ja gaisa kuģi atrodas pasažieri vai krava;\n7) citiem Civilās aviācijas administrācijas noteiktajiem dokumentiem, kas nepieciešami gaisa kuģa lidojumu veikšanai.\nCivilās aviācijas administrācija apstiprina šā panta pirmajā daļā noteiktās dokumentācijas paraugus un nosaka dokumentācijas komplektu, kam jāatrodas gaisa kuģī īpaša lidojuma laikā.\nGaisa kuģa ekspluatantam ir tiesības noteikt papildu dokumentāciju, kurai gaisa kuģu lidojumu laikā jāatrodas tā ekspluatējamajos gaisa kuģos."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "54",
+      "title": "Aeronavigācijas informācija",
+      "content": "Gaisa kuģa apkalpei ir jābūt nodrošinātai ar aeronavigācijas informāciju, kas nepieciešama gaisa kuģa lidojumu veikšanai.\nGaisa kuģa lidojumu veikšanai Latvijas Republikas gaisa telpā nepieciešamās aeronavigācijas informācijas piegādi visām ieinteresētajām personām Starptautiskās civilās aviācijas organizācijas (ICAO) dokumentos noteiktajos gadījumos bez maksas, bet pārējos gadījumos — uz līguma pamata organizē Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizēšanas valsts uzņēmums (dienests)."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "55",
+      "title": "Meteoroloģiskā informācija",
+      "content": "Visas ieinteresētās personas ar gaisa kuģa lidojumu veikšanai nepieciešamo meteoroloģisko informāciju Starptautiskās civilās aviācijas organizācijas (ICAO) dokumentos paredzētajos gadījumos bez maksas, bet pārējos gadījumos — par samaksu nodrošina valsts meteoroloģiskais dienests Civilās aviācijas administrācijas noteiktajā kārtībā, kas saskaņota ar valsts meteoroloģisko dienestu."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "SESTĀ NODAĻA LATVIJAS REPUBLIKAS GAISA TELPAS IZMANTOŠANAS KARTĪBA UN LIDOJUMU VEIKŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "56",
+      "title": "Lidojumu veikšanas meteoroloģiskie apstākļi",
+      "content": "Lai garantētu civilās aviācijas gaisa kuģa lidojumu drošību, atkarībā no radiotehniskajām ierīcēm un citiem apstākļiem uz lidlauka, gaisa kuģa tipa un gaisa kuģa apkalpes kvalifikācijas tiek noteikti minimālie meteoroloģiskie apstākļi, kuros atļauts veikt lidojumus, — meteoroloģiskais minimums.\nMinimālos meteoroloģiskos apstākļus, kuros Latvijas Republikas Nacionālo bruņoto spēku aviācijas gaisa kuģi veic nosēšanos civilās aviācijas lidlaukos, nosaka Civilās aviācijas administrācija, saskaņojot ar Latvijas Republikas Aizsardzības ministriju.\nMeteoroloģiskā minimuma piemērošanas kārtību nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "SEPTĪTĀ NODAĻA CIVILĀS AVIĀCIJAS DROŠĪBA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "57",
+      "title": "Civilās aviācijas drošības programmas",
+      "content": "Civilās aviācijas administrācija izstrādā un Latvijas Republikas Ministru kabinets apstiprina civilās aviācijas drošības garantēšanai nepieciešamo pasākumu kompleksu — Nacionālo civilās aviācijas drošības programmu.\nMinētā programma paredz:\n1) kārtību, kādā tiek sagatavoti aviācijas speciālisti un citi lidostu un gaisa kuģu ekspluatantu darbinieki un pārbaudīta viņu atbilstība noteiktajām prasībām;\n2) attiecīgu iekārtu uzstādīšanu gaisa kuģos, lidostās un atsevišķos lidlauku objektos;\n3) profilaktisku pasākumu veikšanu lidlauku nekontrolējamajās zonās;\n4) pasākumu veikšanu, lai novērstu nepiederošu personu un transporta nekontrolētu iekļūšanu un atrašanos lidlauku kontrolējamajās zonās;\n5) pasākumu veikšanu, lai novērstu iespēju pārvadāt un nosūtīt ieročus, munīciju, sprāgstvielas un citus bīstamus priekšmetus un vielas bez attiecīgas atļaujas vai priekšmetus un vielas, kuru pārvadāšana ar gaisa transportu ir aizliegta;\n6) speciālu noteikumu izstrādāšanu sankcionētai ieroču, munīcijas un paaugstinātas bīstamības kravu pārvadāšanai;\n7) gaisa kuģu un atsevišķu lidlauku objektu pastāvīgu uzraudzību un pārbaudi, lai novērstu to bojāšanu, nepiederošu personu iekļūšanu un uzturēšanos vai sprāgstvielu novietošanu tajos;\n8) ārkārtējus pasākumus gaisa kuģa nolaupīšanas gadījumā vai gadījumos, kad tiek izdarīti citi nelikumīgas iejaukšanās akti civilās akācijas darbībā;\n9) kompetences un funkciju sadali starp Latvijas Republikas Nacionālajiem bruņotajiem spēkiem, Valsts drošības dienestu, muitas, policijas dienestiem, Civilās aviācijas administrāciju, Lidostas aviodrošības dienestu un citām valsts institūcijām, kā arī civilās aviācijas uzņēmumiem Latvijas Republikā;\n10) izmeklēšanu un analīzi attiecībā uz nelikumīgas iejaukšanās aktiem civilās aviācijas darbībā.\nSaskaņā ar Nacionālo civilās aviācijas drošības programmu katra lidosta un katrs gaisa kuģu ekspluatants izstrādā civilās aviācijas drošības programmu, kuru apstiprina Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "SEPTĪTĀ NODAĻA CIVILĀS AVIĀCIJAS DROŠĪBA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "58",
+      "title": "Civilās aviācijas drošības programmas ietverto pasākumu koordinācija",
+      "content": "Lai realizētu Nacionālo civilās aviācijas drošības programmu un koordinētu Latvijas Republikas Nacionālo bruņoto spēku, Valsts drošības dienestu, muitas un policijas dienestu un citu valsts institūciju, kā arī lidlauku un gaisa kuģu ekspluatantu darbību, Latvijas Republikas Ministru kabinets izveido Nacionālo civilās aviācijas drošības komisiju.\nLidlauka drošības programmā paredzētos pasākumus īsteno lidostas drošības dienests, sadarbojoties ar lidlaukā esošajiem robežapsardzības, muitas, policijas un citiem dienestiem. Minēto dienestu darbību koordinē lidlauka civilās aviācijas drošības komisija.\nPar gaisa kuģa ekspluatanta drošības programmas izpildi ir atbildīgs pats ekspluatants."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "SEPTĪTĀ NODAĻA CIVILĀS AVIĀCIJAS DROŠĪBA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "59",
+      "title": "Pasažieru, bagāžas un rokas bagāžas pārbaude",
+      "content": "Lai garantētu gaisa kuģu lidojumu un civilās aviācijas drošību, gaisa kuģa pasažieri un viņiem klātesošās mantas, bet, ja nepieciešams, arī bagāža pirms gaisa kuģa lidojuma un pasažieri, viņiem klātesošās mantas un bagāža pēc gaisa kuģa kapteiņa lēmuma ari lidojuma laikā tiek pakļauti speciālai pārbaudei.\nPārbaudi pirms gaisa kuģa lidojuma veic Lidostas aviodrošības dienests Aviācijas departamenta noteiktajā kārtībā.\nŠajā pantā par gaisa kuģa lidojumu uzskatāms laika posms no brīža, kad gaisa kuģī iekāpis vismaz viens pasažieris vai iekrauta bagāža, līdz brīdim, kad gaisa kuģi atstāj pēdējais pasažieris un bagāža ir izkrauta, ja šajā laika posmā gaisa kuģa kapteinis, pildot dienesta pienākumus, atrodas gaisa kuģī vai pie tā."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "SEPTĪTĀ NODAĻA CIVILĀS AVIĀCIJAS DROŠĪBA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "60",
+      "title": "Sadarbība ar ārvalstīm un starptautiskajām organizācijām civilās aviācijas drošības jautājumos",
+      "content": "Informācijas apmaiņu ar citām valstīm, Starptautisko civilās aviācijas organizāciju (ICAO) un citām starptautiskajām organizācijām, kā arī cita veida sadarbību civilās aviācijas drošības jautājumos veic Aviācijas departaments un Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "61",
+      "title": "Aviācijas meklēšanas un glābšanas valsts dienests",
+      "content": "Latvijas Republikā tiek izveidots Aviācijas meklēšanas un glābšanas valsts dienests, kas veic nelaimes gadījumā cietušo gaisa kuģu glābšanu Latvijas Republikas teritorija, ka arī ārpus tas, ja tas paredzēts starptautiskajos līgumos, kuru dalībniece ir Latvijas Republika. Aviācijas meklēšanas un glābšanas valsts dienests darbojas Civilās aviācijas administrācijas vadībā un savā darbībā balstās uz šā likuma, citu uz tā pamata izdoto normatīvo aktu noteikumiem un attiecīgo starptautisko līgumu normām.\nAviācijas meklēšanas un glābšanas valsts dienests uztur pastāvīgus sakarus ar Latvijas Republikas Nacionālajiem bruņotajiem spēkiem, Latvijas Republikas Civilās aizsardzības sistēmas ātrās reaģēšanas spēkiem, policiju, Latvijas jūras avāriju un glābšanas dienestu un citiem glābšanas dienestiem, kā arī ar Ugunsdzēsības un glābšanas departamenta struktūrvienībām un veselības aizsardzības institūcijām, saskaņo ar šīm institūcijām kopīgas sadarbības iespējas un koordinē to darbību nelaimes gadījumā cietušā gaisa kuģa glābšanas laikā.\nAviācijas meklēšanas un glābšanas valsts dienestu Latvijas Republikas Ministru kabineta noteiktajā kārtībā var iesaistīt iedzīvotāju, jūras un upju kuģu glābšanas operācijās un stihisku nelaimju seku likvidēšanā, ja netiek traucēta tā pamatfunkciju veikšana.\nAviācijas meklēšanas un glābšanas valsts dienests ar ārvalstu glābšanas dienestiem sadarbojas uz līguma pamata."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "62",
+      "title": "Lidlauka personāla sagatavotība nelaimes gadījumā cietušā gaisa kuģa glābšanai",
+      "content": "Lidlauka personālam ir jābūt speciāli sagatavotam un organizētam, lidlaukā ir jāatrodas nepieciešamajam inventāram un iekārtām, lai patstāvīgi veiktu lidlauka teritorijā nelaimes gadījumā cietušā gaisa kuģa glābšanu līdz brīdim, kad glābšanas darbus uzsāk un koordinē Aviācijas meklēšanas un glābšanas valsts dienests.\nLidlauka personālam un šā panta pirmajā daļā noteikto funkciju pildīšanai nepieciešamajam inventāram un iekārtām ir jāatbilst Civilās aviācijas administrācijas noteiktajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "63",
+      "title": "Briesmu signāli",
+      "content": "No gaisa kuģa, kam draud briesmas vai kas ir briesmās, vai kas cietis nelaimes gadījumā, jānoraida (jādod) īpaši šiem gadījumiem paredzētie briesmu signāli.\nGaisa kustības vadības dispečeram, kas uztvēris (pamanījis) briesmu signālu, jāveic visi iespējamie pasākumi, lai sniegtu palīdzību gaisa kuģim, kam draud briesmas vai kas ir briesmās, vai kas cietis nelaimes gadījumā, un jāziņo Aviācijas meklēšanas un glābšanas valsts dienestam.\nJa gaisa kuģa apkalpe uztvērusi briesmu signālu no gaisa kuģa, kam draud briesmas vai kas ir briesmās, vai kas cietis nelaimes gadījuma, gaisa kuģa kapteinis rīkojas saskaņa ar šā likuma 37. panta 3. punkta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "64",
+      "title": "Ziņošana par aviācijas nelaimes gadījumiem",
+      "content": "Personām par visiem tām zināmajiem aviācijas nelaimes gadījumiem nekavējoties jāziņo vietējās pašvaldības vai policijas institūcijai vai arī Aviācijas meklēšanas un glābšanas valsts dienestam, vai tuvākajam aviācijas uzņēmumam (lidlaukam).\nPašvaldības vai policijas institūcijām par visiem zināmajiem aviācijas nelaimes gadījumiem nekavējoties jāziņo Aviācijas meklēšanas un glābšanas valsts dienestam.\nLai ziņotu par aviācijas nelaimes gadījumiem, var izmantot jebkuras personas sakaru līdzekļus, bet Latvijas Republikas sakaru iestādēm jānodrošina steidzamu telegrammu nosūtīšanu vai steidzamas telefonsarunas bez maksas."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "65",
+      "title": "Ziņošana par Latvijas Republikas teritorijā notikušajiem aviācijas nelaimes gadījumiem un incidentiem citas valsts ieinteresētajām personām",
+      "content": "Par Latvijas Republikas teritorijā notikušajiem aviācijas nelaimes gadījumiem un incidentiem, par to izmeklēšanas uzsākšanu Civilās aviācijas administrācijai vai tās pilnvarotai personai Starptautiskās civilās aviācijas organizācijas (ICAO) dokumentos noteiktajā kartībā jāpaziņo citas valsts civilās aviācijas administrācijai un ieinteresētajām personām."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "66",
+      "title": "Gaisa kuģa glābšana",
+      "content": "Ja saņemta informācija par to, ka gaisa kuģim draud briesmas vai tas ir briesmās, vai tas cietis nelaimes gadījumā, Aviācijas meklēšanas un glābšanas valsts dienests analizē šo informāciju un atkarībā no situācijas, kādā ir gaisa kuģis, izziņo paaugstinātu gatavību glābšanas darbu veikšanai vai nekavējoties sāk gaisa kuģa meklēšanu, ja nav zināma tā atrašanās vieta, vai veic glābšanas darbus.\nLidlauka teritorijā līdz brīdim, kad glābšanas darbus uzsāk un koordinē Aviācijas meklēšanas un glābšanas valsts dienests, nelaimes gadījumā cietušā gaisa kuģa glābšanu veic lidlauka personāls patstāvīgi.\nJa nepieciešams, Aviācijas meklēšanas un glābšanas valsts dienests ir tiesīgs glābšanas darbos iesaistīt jebkuru juridisko personu, kuras darbības rajonā gaisa kuģis ir cietis nelaimes gadījumā, kā ari juridisko un fizisko personu rīcībā esošos tehniskos līdzekļus.\nPersonām, kuru darbības rajonā gaisa kuģis cietis nelaimes gadījumā, pirms Aviācijas meklēšanas un glābšanas valsts dienesta ierašanās savu iespēju robežās jāveic neatliekami pasākumi, lai glābtu cilvēkus, sniegtu viņiem medicīnisko un citu nepieciešamo palīdzību, kā arī lai apsargātu gaisa kuģi un dokumentāciju, ierīces un mantu, kas tajā atrodas."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "67",
+      "title": "Citu valstu institūciju un gaisa kuģu īpašnieku piedalīšanās gaisa kuģu glābšanas pasākumos",
+      "content": "Gaisa kuģa reģistrētājvalsts institūcijām un gaisa kuģu īpašniekiem ir tiesības Aviācijas meklēšanas un glābšanas valsts dienesta vadībā piedalīties vai sniegt nepjeciešamo palīdzību nelaimes gadījumā cietušā gaisa kuģa glābšanā."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "68",
+      "title": "Gaisa kuģa evakuācija",
+      "content": "Gaisa kuģa un tā atlūzu evakuāciju no nelaimes gadījuma vietas veic gaisa kuģa ekspluatants vai citas organizācijas uz gaisa kuģa ekspluatanta rēķina.\nJa gaisa kuģa vai tā atlūzu evakuācija nav iespējama, karte jāatzīmē šā gaisa kuģa vai tā atlūzu koordinātes, lai novērstu maldināšanu, veicot citu nelaimes gadījumā cietušo gaisa kuģu meklēšanu :\nJa nelaimes gadījumā cietušais gaisa kuģis vai tā atlūzas traucē dzelzceļa, ūdens, gaisa transporta vai autotransporta kustību, Aviācijas meklēšanas un glābšanas valsts dienesta vadītājs pēc gaisa kuģa tehniskā stāvokļa, kā arī gaisa kuģa un tā atlūzu izvietojuma fiksēšanas un saskaņošanas ar aviācijas nelaimes gadījuma izmeklēšanas komisijas priekšsēdētāju vai, ja izmeklēšanas komisijas priekšsēdētājs nav iecelts, ar Civilās aviācijas administrācijas ģenerāldirektoru veic pasākumus to evakuēšanai, lai atjaunotu transporta kustību.\nJa, veicot nelaimes gadījuma cietuša gaisa kuģa glābšanas neatliekamus pasākumus, ir nepieciešams mainīt gaisa kuģa vai tā atlūzu izvietojumu, kā ari tad, ja nelaimes gadījumā cietušais gaisa kuģis vai tā atlūzas apdraud cilvēku dzīvību vai var sagādāt lielus materiālus zaudējumus un to evakuēšana jāveic nekavējoties —pirms aviācijas nelaimes gadījuma izmeklēšanas komisijas ierašanas, pēc iespējas ir jāfiksē to sākotnējais stāvoklis."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "69",
+      "title": "Gaisa kuģa meklēšanas pārtraukšana",
+      "content": "Ja nelaimes gadījumā cietušā gaisa kuģa meklēšanai nav rezultātu, pēc saskaņošanas ar aviācijas nelaimes gadījuma izmeklēšanas komisiju Civilās aviācijas administrācijas ģenerāldirektors pieņem lēmumu par gaisa kuģa meklēšanas pārtraukšanu."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "70",
+      "title": "Latvijas Republikas teritorijā notikušo aviācijas nelaimes gadījumu un incidentu izmeklēšana",
+      "content": "Latvijas Republikas teritorijā notikušos aviācijas nelaimes gadījumus un incidentus izmeklē Civilās aviācijas administrācijas izveidota aviācijas nelaimes gadījuma izmeklēšanas valsts komisija vai attiecīga gaisa kuģa ekspluatanta izveidota komisija, ja Civilas aviācijas administrācija tiesības izmeklēt aviācijas incidentu deleģējusi gaisa kuģa ekspluatantam.\nJa aviācijas nelaimes gadījumā iesaistīta Aviācijas departamenta vai Civilās aviācijas administrācijas amatpersona, aviācijas nelaimes gadījuma izmeklēšanas valsts komisiju izveido Latvijas Republikas satiksmes ministrs.\nJa aviācijas nelaimes gadījumā vai incidentā iesaistīti Latvijas Republikas Nacionālie bruņotie spēki vai citu valstu militārie gaisa kuģi, aviācijas nelaimes gadījuma izmeklēšanas valsts komisiju izveido Latvijas Republikas satiksmes ministrs un Latvijas Republikas aizsardzības ministrs.\nAviācijas nelaimes gadījuma izmeklēšanas valsts komisijas izveidošanas kārtību, izmeklēšanas komisijas kompetenci un Latvijas Republikas teritorijā notikušo aviācijas nelaimes gadījumu un incidentu izmeklēšanas kārtību nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "71",
+      "title": "Speciālistu iekļaušana aviācijas nelaimes gadījuma izmeklēšanas valsts komisijā",
+      "content": "Aviācijas nelaimes gadījuma izmeklēšanas valsts komisijā iekļauj Latvijas Republikas iestāžu, uzņēmumu un organizāciju speciālistus administratīvā kārtā un ārvalstu ekspertus — uz līguma pamata."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "72",
+      "title": "Citu valstu ieinteresēto institūciju piedalīšanās aviācijas nelaimes gadījuma vai incidenta izmeklēšanā",
+      "content": "Gaisa kuģa reģistrētājvalsts, ekspluatantvalsts vai izgatavotājvalsts institūcijas, kā arī tās valsts institūcijas, kuras pilsoņi ir cietuši aviācijas nelaimes gadījumā, vai to pilnvarotās personas aviācijas nelaimes gadījuma vai incidenta izmeklēšanā var piedalīties kā novērotāji, ja starptautiskie līgumi, kuru dalībniece ir Latvijas Republika, neparedz citādi."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "73",
+      "title": "Aviācijas nelaimes gadījuma vai incidenta izmeklēšana ārpus Latvijas Republikas teritorijas",
+      "content": "Citas valsts teritorijā notikuša Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrētā gaisa kuģa aviācijas nelaimes gadījuma vai incidenta izmeklēšanā Latvijas Republikas valsts institūcijas piedalās kā novērotājas, ja tās valsts, kuras teritorijā nelaimes gadījums vai incidents noticis, likumdošanas akti un starptautiskie līgumi, kuru dalībniece ir Latvijas Republika, neparedz citādi.\nAviācijas nelaimes gadījumu un incidentu, kas noticis gaisa telpā ārpus Latvijas Republikas teritorijas, bet kurā gaisa satiksmi kontrolē Latvijas Republikas gaisa telpas izmantošanas un gaisa satiksmes organizācijas valsts uzņēmums (dienests), izmeklē starptautiskajos līgumos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "74",
+      "title": "Aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas tiesības",
+      "content": "Veicot izmeklēšanu, aviācijas nelaimes gadījuma izmeklēšanas valsts komisija:\n1) izņem ar aviācijas nelaimes gadījumu vai incidentu saistītos lietiskos pierādījumus, ja tas nav pretrunā ar Latvijas Republikas likumdošanas aktiem;\n2) pieprasa nepieciešamo informāciju no visām personām;\n3) pieprasa, lai juridiskās personas, kuru darbības rajonā noticis nelaimes gadījums, veiktu gaisa kuģa, tā atlūzu un citu pierādījumu apsargāšanu un sniegtu palīdzību darbietilpīgu darbu un citu nepieciešamo pasākumu veikšanā, kā ari ierādītu nepieciešamās telpas komisijai darbam un atpūtai."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "75",
+      "title": "Pienākums saglabāt lietiskos pierādījumus",
+      "content": "Visām personām ir pienākums saglabāt bez jebkādām izmaiņām gaisa kuģi, tā atlūzas, uz gaisa kuģa un uz zemes esošos gaisa kuģu lidojuma objektīvās kontroles līdzekļus, visus uz gaisa kuģa un uz zemes esošos priekšmetus, kas saistīti ar aviācijas nelaimes gadījumu vai incidentu, dokumentāciju, kas saistīta ar gaisa kuģa lidojumu, tā izgatavošanu, remontu un tehnisko apkopi, un nodot tos aviācijas nelaimes gadījuma izmeklēšanas komisijai."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "76",
+      "title": "Pasākumi aviācijas nelaimes gadījuma vai incidenta cēloņu novēršanai",
+      "content": "Aviācijas nelaimes gadījuma vai incidenta izmeklēšanas komisijas atzinumu, rekomendācijas un izmeklēšanas materiālus iesniedz Civilās aviācijas administrācijai.\nCivilās aviācijas administrācija uz gaisa kuģa ekspluatanta izveidotās komisijas vai aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas iesniegto izmeklēšanas materiālu pamata izstrādā rekomendācijas līdzīgu aviācijas nelaimes gadījumu vai incidentu novēršanai turpmākajā civilās aviācijas darbībā un nosūta tos Latvijas Republikā reģistrētajiem civilās aviācijas gaisa kuģu ekspluatantiem, kuriem norādītajā termiņā tās jāizpilda.\nCivilās aviācijas administrācija izstrādātos pasākumus un rekomendācijas aviācijas nelaimes gadījumu un incidentu novēršanai un aviācijas nelaimes gadījumu izmeklēšanas valsts komisijas pārskatu nosūta Starptautiskajai civilās aviācijas organizācijai (ICAO) un citu valstu civilās aviācijas administrācijām un ieinteresētajām personām Starptautiskās civilās aviācijas organizācijas (ICAO) dokumentos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "ASTOTĀ NODAĻA AVIĀCIJAS GLĀBŠANAS DARBI UN AVIĀCIJAS NELAIMES GADĪJUMU IZMEKLĒŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "77",
+      "title": "To izdevumu (kaitējuma) atlīdzība, kuri radušies, veicot gaisa kuģa glābšanu, kā arī veicot darbības pēc aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas norādījumiem",
+      "content": "Personas, kam radušies izdevumi (kaitējums), veicot gaisa kuģa meklēšanu un glābšanu pēc Aviācijas meklēšanas un glābšanas valsts dienesta norādījumiem vai personiskās iniciatīvas, kā arī veicot darbības pēc aviācijas nelaimes gadījuma izmeklēšanas valsts komisijas norādījumiem, ir tiesīgas saņemt atlīdzību Latvijas Republikas likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "78",
+      "title": "Tiesības veikt pasažieru, bagāžas, kravas un pasta gaisa pārvadājumus un speciālos aviācijas darbus",
+      "content": "Tiesības veikt pasažieru, bagāžas, kravas un pasta gaisa pārvadājumus un speciālos aviācijas darbus Latvijas Republikas teritorijā ir personām, kurām ir Civilās aviācijas administrācijas izsniegta un spēkā esoša gaisa kuģa ekspluatanta apliecība un, ja nepieciešams, saskaņā ar šā likuma 82. panta noteikumiem izsniegta licence.\nGaisa kuģa ekspluatantam ir tiesības veikt tikai gaisa kuģa ekspluatanta apliecībā noteikto darbību, ievērojot apliecībā paredzētos darbības nosacījumus un ierobežojumus.\nCitas valsts gaisa kuģa ekspluatants gaisa pārvadājumus un speciālos aviācijas darbus Latvijas Republikas teritorijā veic, ja Civilās aviācijas administrācija ir atzinusi attiecīgās valsts izsniegto gaisa kuģa ekspluatanta apliecību un licenci un ir apdrošināta šā likuma 111. panta pirmās daļas 3. un 4. punktā noteiktā atbildība vai dota cita minētās atbildības garantija.\nStarptautiskos gaisa pārvadājumus Latvijas Republikas teritorijā veic uz starptautisko līgumu vai Civilās aviācijas administrācijas izdoto atļauju pamata.\nGaisa kuģa ekspluatants, kuram gaisa kuģa ekspluatanta apliecību izdevusi Civilās aviācijas administrācija, gaisa pārvadājumus un speciālos aviācijas darbus ārpus Latvijas Republikas teritorijas veic ar attiecīgās valsts civilās aviācijas administrācijas piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "79",
+      "title": "Personas, kurām izsniedz gaisa kuģa ekspluatanta apliecību",
+      "content": "Civilās aviācijas administrācija gaisa kuģa ekspluatanta apliecību izsniedz Latvijas Republikas pilsoņiem un Latvijas Republikas\nUzņēmumu reģistra reģistrētajam uzņēmējsabiedrībām un uzņēmumiem, kas atbilst Civilās aviācijas administrācijas noteiktajām prasībām un ir nokārtojuši šā likuma 111. panta pirmajā daļā noteikto obligāto apdrošināšanu."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "80",
+      "title": "Gaisa kuģa ekspluatanta apliecība",
+      "content": "Gaisa kuģa ekspluatanta apliecībā un tās pielikumā Civilās aviācijas administrācija nosaka gaisa kuģa ekspluatanta darbības nosacījumiem, ierobežojumus un speciālos noteikumus.\nKārtību, kādā izsniedz gaisa kuģa ekspluatanta apliecību, un termiņu, uz kādu to izsniedz, nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "81",
+      "title": "Gaisa kuģa ekspluatanta apliecības atzīšana par spēkā neesošu vai gaisa kuģa ekspluatanta darbības ierobežošana",
+      "content": "Gaisa kuģa ekspluatanta apliecība nav spēkā, ja:\n1) izbeidzies termiņš, uz kādu tā izsniegta;\n2) notikušas pārmaiņas, kas saistītas ar gaisa kuģa ekspluatanta darbību un ietekmē nosacījumus, uz kuru pamata izdota gaisa kuģa ekspluatanta apliecība, un par šīm pārmaiņām nav attiecīgas atzīmes gaisa kuģa ekspluatanta apliecībā vai tās pielikumā;\n3) gaisa kuģa ekspluatants nav nokārtojis šā likuma 111. panta pirmajā daļā noteikto obligāto apdrošināšanu.\nJa Civilās aviācijas administrācija konstatē, ka gaisa kuģa ekspluatants neatbilst noteiktajām prasībām vai neievēro šā likuma vai citu Latvijas Republikas aviācijas likumdošanas aktu noteikumus, gaisa kuģa ekspluatanta apliecībā vai tās pielikumā noteiktos darbības nosacījumus, ierobežojumus un speciālos noteikumus, ar Civilās aviācijas administrācijas ģenerāldirektora rīkojumu gaisa kuģa ekspluatanta darbību ierobežo, izdarot attiecīgas atzīmes gaisa kuģa ekspluatanta apliecībā vai tās pielikumā, vai arī atzīst gaisa kuģa ekspluatanta apliecību par spēkā neesošu līdz pārkāpumu vai trūkumu novēršanas brīdim, vai to anulē.\nGaisa kuģa ekspluatanta apliecība, kas ar Civilās aviācijas administrācijas ģenerāldirektora rīkojumu atzīta par spēkā neesošu vai anulēta, jānodod Civilās aviācijas administrācijai."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "82",
+      "title": "Licence par tiesībām veikt gaisa pārvadājumus un speciālos aviācijas darbus",
+      "content": "Licenci par tiesībām veikt gaisa pārvadājumus pa noteiktiem maršrutiem vai atsevišķos reģionos vai arī veikt attiecīgā profila speciālos aviācijas darbus noteiktā reģionā izdod uz konkursa pamata Aviācijas departamenta noteiktā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "83",
+      "title": "Licences par tiesībām veikt gaisa pārvadājumus urj speciālos aviācijas darbus atzīšana par spēkā neesošu",
+      "content": "Aviācijas departaments licenci par tiesībām veikt gaisa pārvadājumus pa noteiktiem maršrutiem vai atsevišķos reģionos vai arī veikt attiecīgā profila speciālos aviācijas darbus noteiktā reģionā var atzīt par spēkā neesošu, ja gaisa kuģa ekspluatants neievēro tajā atļautās darbības reglamentējošos noteikumus vai nespēj atbilstoši izmantot tam piešķirtās tiesības, vai pārkāpumi nav novērsti Aviācijas departamenta noteiktajā laikā.\nJa Civilās aviācijas administrācija atzinusi par spēkā neesošu gaisa kuģa ekspluatanta apliecību vai anulējusi to, spēku zaudē ari licence par tiesībām veikt gaisa pārvadājumus pa noteiktiem maršrutiem vai atsevišķos reģionos vai arī veikt attiecīgā profila speciālos aviācijas darbus noteiktā reģionā."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "84",
+      "title": "Gaisa pārvadājumu regulēšana",
+      "content": "Pasažieru, bagāžas un kravas gaisa pārvadājumus, kurus veic Latvijas Republikā reģistrēts gaisa kuģu ekspluatants, regulē šā likuma normas, Aviācijas departamenta izdotie gaisa pārvadājumu noteikumi, katra pārvadātāja izstrādātie gaisa pārvadājumu noteikumi, kā ari starptautiskās vienošanās un līgumi, kuru dalībniece ir Latvijas Republika.\nPasažieru, bagāžas un kravas gaisa pārvadājumu noteikumi nosaka pārvadājumu dokumentos uzrādāmās ziņas un šo dokumentu izsniegšanas kārtību, tarifu pieņemšanas un piemērošanas kārtību, pārvadājuma procesā sniedzamo pakalpojumu minimālos standartus, pārvadājamās bagāžas un kravas pieņemšanas nosacījumus, kārtību, kādā pārvadājamas sprāgstvielas, ieroči, munīcija, indīgas, ātri uzliesmojošas, radioaktīvas un citas bīstamas vielas un priekšmeti, kas var apdraudēt gaisa kuģu lidojumu drošību, pārvadājuma nokavējuma termiņus sakarā ar gaisa pārvadājuma nokavējumu radītā zaudējuma atlīdzināšanas kārtību un apmēru, šā likuma 110. pantā noteikto pretenziju iesniegšanas un izskatīšanas kārtību, kā ari citus gaisa pārvadājumus reglamentējošus nosacījumus.\nPasta gaisa pārvadājumus regulē līgumi, kurus noslēdz pārvadātājs un pasta institūcijas."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "85",
+      "title": "Pārvadājuma dokumenti",
+      "content": "Pasažiera gaisa pārvadājuma līgumu un tā noteikumus apliecina biļete, bet bagāžas nodošanu — bagāžas kvīts.\nKravas gaisa pārvadājuma līgumu, tā noteikumus un to, ka pārvadātājs pieņēmis kravu, apliecina kravas pavadzīme.\nJa pārvadātājs ir izsniedzis biļeti, bagāžas kvīti vai kravas pavadzīmi, bet tā nav pareizi noformēta vai ir nozaudēta, vai kādu citu iemeslu dēļ to nav iespējams uzrādīt, pārvadājuma līgums paliek spekā. Tomēr, ja ir šā likuma 104. panta otras daļas 1. un 2. punktā noteiktie nosacījumi, pārvadātāja atbildība netiek ierobežota.\nPasta gaisa pārvadājuma līgumu, tā noteikumus un pasta pieņemšanu pārvadāšanai apliecina pasta pavadzīme."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "86",
+      "title": "Kravas pavadzīmē uzrādīto datu pareizība",
+      "content": "Kravas pavadzīmē uzrādītie dati par kravas svaru (masu), izmēriem un iesaiņojumu, kā ari par kravas vietu skaitu uzskatāmi par pareiziem līdz brīdim, kamēr pārvadātājs nepierāda pretējo. Dati par kravas daudzumu, apjomu, stāvokli un iesaiņojumu nevar būt par pierādījumu, ja pārvadātājs noteiktā kārtībā tos nav pārbaudījis nosūtītāja klātbūtnē un norādījis to kravas pavadzīmē."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "87",
+      "title": "Kravas pavadzīmei pievienojamie dokumenti",
+      "content": "Nosūtītājam jāsniedz ziņas un jāpievieno kravas pavadzīmei visi dokumenti, kuri līdz kravas izsniegšanai saņēmējam nepieciešami, lai izpildītu muitas un citas formalitātes, ko nosaka attiecīgie likumdošanas akti."
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "88",
+      "title": "Pasažiera gaisa pārvadājuma līguma vienpusēja izbeigšana",
+      "content": "Pasažierim ir tiesības atteikties no lidojuma un saņemt atpakaļ samaksāto pārvadājuma maksu.\nPārvadātājs ir tiesīgs vienpusēji izbeigt pasažiera gaisa pārvadājuma līgumu, ja:\n1) pasažieris atsakās no šā likuma 59. pantā noteiktās speciālās pārbaudes pirms gaisa kuģa lidojuma;\n2) pasažieris pārkāpj pārvadātāja dotos norādījumus un ar savu rīcību rada draudus gaisa kuģa lidojuma drošībai;\n3) tas nepieciešams, lai novērstu tās valsts likumdošanas aktu noteikumu pārkāpumus, pār kuru tiks veikts gaisa pārvadājums vai kurā atrodas pārvadājuma sākumpunkts, apstāšanās vieta vai galapunkts;\n4) pasažiera garīgais vai fiziskais stāvoklis vai uzvedība gaisa pārvadājuma laikā var radīt draudus paša pasažiera veselībai vai gaisa kuģī esošo personu un mantu drošībai, kā arī neērtības citiem pasažieriem un izraisīt citu pasažieru iebildumus.\nPasažiera gaisa pārvadājuma līgumu izbeidz un samaksāto pārvadājuma maksu atdod pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumos paredzētajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "89",
+      "title": "Kravas gaisa pārvadājuma līguma grozīšana",
+      "content": "Nosūtītājam, ja tas izpildījis visas no gaisa pārvadājuma līguma izrietošās saistības un uzrādījis pārvadātājam kravas pavadzīmi, ir tiesības saņemt kravu atpakaļ tās nosūtīšanas vietā vai pārvadājuma galapunkta, aizkavēt to apstāšanas vietas, mainīt kravas pavadzīmē norādīto saņēmēju, pieprasīt, lai krava tiktu nogādāta atpakaļ uz tās nosūtīšanas vietu. Pārvadātājam, ja nav iespējams izpildīt nosūtītāja rīkojumus, tas nekavējoties jāpaziņo nosūtītājam.\nŠā panta pirmajā daļā paredzēto nosūtītāja tiesību realizēšana nedrīkst nodarīt zaudējumus ne pārvadātājam, ne citiem nosūtītājiem, un nosūtītājam jāatlīdzina ar šo tiesību realizēšanu saistītie pārvadātāja izdevumi.\nJa nosūtītājs nepieprasa kravu atpakaļ un nav devis citus norādījumus, tad no brīža, kad krava pienākusi galapunktā, kravas saņēmējam ir tiesības prasīt, lai pārvadātājs izsniedz viņam kravu un kravas pavadzīmi, bet šajā pantā noteiktās nosūtītāja tiesības izbeidzas. Ja saņēmējs atsakās pieņemt kravu, kravas nosūtītāja tiesības tiek atjaunotas.\nKatrs no šā panta noteikumiem atšķirīgs pārvadājuma līguma nosacījums jāieraksta kravas pavadzīmē.\nŠā panta noteikumi neietekmē ne nosūtītāja un saņēmēja savstarpējās attiecības, ne arī to attiecības ar trešajām personām, kuru tiesības izriet no saistībām ar nosūtītāju vai saņēmēju."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "90",
+      "title": "Kravas saņemšana galapunktā",
+      "content": "Pēc tam, kad pārvadātājs paziņojis saņēmējam par kravas pienākšanu pārvadājuma galapunktā, saņēmējam krava jāsaņem pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumos norādītajā termiņā.\nJa krava noteiktā termiņā nav saņemta, pārvadātājs par to paziņo kravas nosūtītājam un glabā šo kravu uz nosūtītāja rēķina un riska.\nKravas glabāšanas termiņus, kārtību un maksu, kā arī to, kad krava uzskatāma par nepieprasītu, un tās realizācijas kārtību nosaka pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumi."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "91",
+      "title": "Speciālie aviācijas darbi",
+      "content": "Aviācijas darbus atsevišķās tautsaimniecības nozarēs veic, kā arī gaisa kuģus medicīniskās palīdzības sniegšanai iedzīvotājiem, sanitāro pasākumu veikšanai un eksperimentālajiem zinātniskās pētniecības darbiem izmanto, pamatojoties uz līgumiem, kas noslēgti ar ieinteresētajām juridiskajām un fiziskajām personām.\nSpeciālo aviācijas darbu veikšanas kārtību nosaka Civilās aviācijas administrācija."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "92",
+      "title": "Gaisa kuģa īres līgums",
+      "content": "Saskaņā ar gaisa kuģa īres līgumu viena puse (izīrētājs) apņemas nodot par maksu otrai pusei (īrniekam) lietošanā uz laiku gaisa kuģi.\nGaisa kuģi var izīrēt kopā ar tā apkalpi vai bez tas.\nGaisa kuģa īres līguma jānorada katras puses nosaukums, gaisa kuģa tips, izīrēšanas mērķis, gaisa kuģa tehniskās apkopes kārtība un puse, kura atbild par gaisa kuģa ekspluatācijas noteikumu ievērošanu un gaisa kuģa lidojumu drošību, kārtība, kādā apdrošināms gaisa kuģis un apdrošināma atbildība par lidojumā esoša gaisa kuģa nodarīto kaitējumu trešajām personām, īrētāja atbildība par bojājumu nodarīšanu gaisa kuģim vai tā bojāejas gadījumā. Gaisa kuģa īres līgumā var ietvert arī citus noteikumus.\nĪrniekam ir tiesības nodot īrēto gaisa kuģi apakšīrē tikai ar izīrētāja piekrišanu.\nJa Latvijas Republikas Civilās aviācijas gaisa kuģu reģistrā reģistrēts gaisa kuģis tiek izīrēts citas valsts gaisa kuģa ekspluatantam vai ja Latvijas Republikas valsts institūcija, pašvaldība, sabiedriskā organizācija, Latvijas Republikas Uzņēmumu reģistrā reģistrēts uzņēmums vai uzņēmējsabiedrība vai Latvijas Republikas iedzīvotājs vēlas īrēt citā valstī reģistrētu gaisa kuģi, īres līguma noteikumi, kas saistīti ar atbildību par gaisa kuģa lidojuma drošību, jāsaskaņo Civilās aviācijas administrācijā un jāsaņem licence."
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "DEVĪTĀ NODAĻA GAISA PĀRVADĀJUMI, SPECIĀLIE AVIĀCIJAS DARBI UN GAISA KUĢA ĪRES LĪGUMS (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "93",
+      "title": "Čartera līgums",
+      "content": "Pēc čartera līguma viena puse (izfraktētājs) apņemas nodot pret maksu otrai pusei (fraktētajam) pasažieru, bagāžas, kravas un pasta pārvadāšanai vai citiem mērķiem visas gaisa kuģa tilpnes vai to daļu.\nČartera līgumā jānorāda pušu nosaukums, gaisa kuģa tips, izīrēšanas mērķis, maksimālais pārvadājamo pasažieru skaits, bagāžas, kravas un pasta svars, īres maksas lielums, pārvadājuma sākumpunkts, laiks un galapunkts. Čartera līgumā var ietvert arī citus noteikumus.\nIzfraktētājam ir tiesības, neprasot papildu samaksu no fraktētajā, pārcelt pārvadājuma sākumlaiku un gaisa kuģa pacelšanās laiku pēc plāna paredzētajās nosēšanās vietās, veikt papildu nosēšanās vai mainīt lidojuma maršrutu, ja tas nepieciešams, lai garantētu gaisa kuģa lidojuma drošību.\nIzfraktētāja pienākums ir savlaicīgi nodot gaisa kuģa tilpnes un līguma darbības laikā uzturēt gaisa kuģi tādā stāvoklī, lai to varētu izmantot līgumā paredzētajiem mērķiem.\nFraktētājam ir tiesības ar izfraktētāja piekrišanu nodot nofraktēto gaisa kuģi subčarterā.\nFraktētajā pienākums ir savlaicīgi izdarīt līgumā paredzēto maksājumu, nodrošināt pasažieru, bagāžas, kravas un pasta savlaicīgu nogādāšanu izlidošanas vietā.\nPuse atbrīvojama no atbildības par čartera līguma neizpildīšanu vai nekvalitatīvu izpildīšanu, ja tā pierāda, ka šā līguma neizpildīšana vai nekvalitatīva izpildīšana nav notikusi tās vainas dēj.\nIzfraktētājs nav atbildīgs fraktētajā priekša par gaisa kuģa nederīgumu ekspluatācijai, ja tas nav radies izfraktētāja vainas dēļ.\nIzfraktētājs ir atbildīgs pasažieru, nosūtītāju un saņēmēju priekšā saskaņa ar šā likuma 98. — 106. panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "94",
+      "title": "Atbildība par šā likuma un citu Latvijas Republikas aviācijas likumdošanas aktu noteikumu pārkāpšanu",
+      "content": "Persona, kas pārkāpusi šā likuma un citu Latvijas Republikas aviācijas likumdošanas aktu noteikumus, tiek saukta pie atbildības Latvijas Republikas likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "95",
+      "title": "Atbildība par nepatiesu ziņu apzinātu sniegšanu Aviācijas departamenta un Civilās aviācijas administrācijai",
+      "content": "Persona, kas Aviācijas departamentam un Civilās aviācijas administrācijai apzināti sniegusi nepatiesas ziņas, tiek saukta pie atbildības Latvijas Republikas likumdošanas aktos noteiktajā kārtībā.\nPersonai, kas apzināti sniegusi nepatiesas ziņas attiecībā uz sertifikāta, licences, apliecības vai atļaujas izsniegšanas nosacījumiem, šos dokumentus neizsniedz vai ar Aviācijas departamenta direktora vai Civilās aviācijas administrācijas ģenerāldirektora rīkojumu anulē attiecīgo izsniegto dokumentu."
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "96",
+      "title": "Atbildība par gaisa kuģa apkalpes locekļa nāvi vai veselības bojājumu, kas radies, pildot dienesta pienākumus",
+      "content": "Gaisa kuģa īpašnieks vai ekspluatants, ja gaisa kuģi ekspluatē cita persona, ir atbildīgs par kaitējumu, kas radies tādēļ, ka, pildot dienesta pienākumus, iestājusies gaisa kuģa apkalpes locekļa nāve vai viņa veselībai nodarīti bojājumi.\nDienesta pienākumu pildīšana sākas ar gaisa kuģa apkalpes locekļa gatavošanos lidojumam un beidzas ar brīdi, kad viņš izpildījis visas gaisa kuģa ekspluatācijas un citos noteikumos paredzētās funkcijas pēc lidojuma."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "97",
+      "title": "Atbildība par lidojumā esoša gaisa kuģa nodarīto kaitējumu trešajai personai vai tās mantai",
+      "content": "Gaisa kuģa īpašnieks vai ekspluatants, ja gaisa kuģi ekspluatē cita persona, atbild par kaitējumu, kuru Latvijas Republikas teritorija trešajai personai nodarījis lidojumā esošs gaisa kuģis vai no tā atdalījies priekšmets un kurš izpaužas ka trešās personas nāve vai tās veselībai nodarīti bojājumi, vai kaitējums šīs personas mantai, ja gaisa kuģa īpašnieks vai ekspluatants Latvijas Republikas likumdošanas aktos paredzētajā kārtībā nepierāda, ka kaitējums radies ar paša cietušā nodomu.\nŠajā pantā par lidojumā esošu gaisa kuģi uzskatāms gaisa kuģis no brīža, kad iedarbināti gaisa kuģa dzinēji pirms tā pacelšanās, līdz brīdim, kad beidzies gaisa kuģa skrējiens pēc tā nosēšanās."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "98",
+      "title": "Pārvadātāja atbildība par pasažiera nāvi vai pasažiera veselībai nodarītajiem bojājumiem, kas iestājušies gaisa pārvadājuma laikā",
+      "content": "Pārvadātājs ir atbildīgs par kaitējumu, kas radies tādēļ, ka gaisa pārvadājuma laikā iestājusies pasažiera nāve vai pasažiera veselībai nodarīti bojājumi.\nAr tiesas lēmumu atlīdzību var noteikt arī periodisku maksājumu veidā, turklāt šo maksājumu kopsumma nedrīkst pārsniegt maksimālo zaudējuma atlīdzības apmēru, kas noteikts saskaņā ar šā likuma 104. panta noteikumiem.\nPasažiera gaisa pārvadājums aptver laika posmu no brīža, kad pārvadātāja pilnvarotu personu uzraudzībā pasažieris izgājis uz lidlauka perona, lai iesēstos gaisa kuģī, līdz brīdim, kad pasažieris lidlauka peronu, atstājis — neatkarīgi no tā, vai gaisa kuģa lidojums noticis vai ne."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "99",
+      "title": "Pārvadātāja atbildība par pasažierim klātesošo mantu nozaudēšanu, iztrūkumu vai bojājumu",
+      "content": "Pārvadātājs ir atbildīgs par pasažierim klātesošo mantu nozaudēšanu, iztrūkumu vai bojājumu no brīža, kad pasažieris pirms gaisa pārvadājuma uzsākšanas iekāpis gaisa kuģī, līdz brīdim, kad pasažieris no tā izkāpis biļetē norādītajā gaisa pārvadājuma galapunktā vai apstāšanās punktā, izņemot gadījumus, kad pasažieris tiek lūgts viņam klātesošo mantu gaisa kuģī neatstāt."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "100",
+      "title": "Pārvadātāja atbildība par bagāžas vai kravas nozaudēšanu, iztrūkumu vai bojājumu",
+      "content": "Pārvadātājs ir atbildīgs par reģistrētas bagāžas vai kravas nozaudēšanu, iztrūkumu vai bojājumu neatkarīgi no tā, vai tas noticis uz zemes vai gaisa kuģī, no brīža, kad bagāža vai krava pieņemta pārvadāšanai, līdz brīdim, kad bagāža vai krava izsniegta tas saņēmējam vai nosūtītājam.\nReģistrēta bagāža vai krava uzskatāma par nozaudētu, ja to atzinis pārvadātājs vai ja pagājušas septiņas dienas no brīža, kad bagāžai vai kravai vajadzēja pienākt pārvadājuma galapunkta, bet tā nav pienākusi."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "101",
+      "title": "Apmērs, kādā pārvadātājs atbild par bagāžas, kravas vai pasažierim klātesošo mantu nozaudēšanu, iztrūkumu vai bojājumu",
+      "content": "Par pasažierim klātesošās mantas, reģistrētas bagāžas vai kravas nozaudēšanu, iztrūkumu vai bojājumu pārvadātājs ir atbildīgs šādā apmērā:\n1) par bagāžas vai kravas, kas pieņemta pārvadāšanai bez pieteiktas vērtības, kā arī par pasažierim klātesošās mantas nozaudēšanu vai iztrūkumu — faktiskās nozaudētās bagāžas, kravas vai pasažierim klātesošās mantas vai tās iztrūkstošās daļas vērtības apmērā;\n2) par bagāžas vai tādas kravas nozaudēšanu vai iztrūkumu, kas pieņemta pārvadāšanai ar pieteiktu vērtību, — pieteiktās vērtības apmērā, ja pārvadātājs nepierāda, ka pieteiktā vērtība ir lielāka par faktisko;\n3) par bagāžas, kravas vai pasažierim klātesošās mantas bojājumu — tās summas apmērā, par kuru samazinājusies bagāžas, kravas vai mantas vērtība.\nJa pasažierim klātesošās mantas, bagāžas, kravas dalās vai kāda tajās ietilpstošā priekšmeta nozaudēšana, iztrūkums vai bojājums ietekmē pārējās pasažierim klātesošās mantas vai tajā pašā bagāžas kvītī vai kravas pavadzīmē ierakstītās bagāžas vai kravas vērtību, nosakot atlīdzības apmēru, jāievēro visas . šīs pasažierim klātesošās mantas, bagāžas vai kravas kopējā vērtība.\nBagāžas vai kravas nozaudēšanas vai iztrūkuma gadījumā pārvadātājs līdz ar atlīdzības izmaksu atdod atpakaļ pārvadājuma maksu par nozaudēto bagāžu, ja par bagāžas pārvadājumu ir bijis samaksāts, kā ari pārvadājuma maksu par nozaudēto kravu."
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "102",
+      "title": "Pārvadātāja atbildība par pārvadājuma nokavējumu",
+      "content": "Pārvadātājs ir atbildīgs par zaudējumu, kas radies pasažierim, bagāžas vai kravas nosūtītājam vai saņēmējam sakarā ar gaisa pārvadājuma nokavējumu.\nŠā panta pirmajā daļā paredzētā zaudējuma apmēru un tā noteikšanas kārtību nosaka pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumi vai starptautiskās vienošanās un līgumi, kuru dalībniece ir Latvijas Republika."
+    },
+    {
+      "provision_ref": "Art. 103",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "103",
+      "title": "Pārvadātāja atbrīvošana no atbildības vai atbildības samazināšana",
+      "content": "Pārvadātājs nav atbildīgs, ja viņš pierāda, ka veicis visus nepieciešamos pasākumus kaitējuma un zaudējuma novēršanai vai ka šādus pasākumus nebija iespējams veikt.\nTiesa var atbrīvot pārvadātāju no šā likuma 98. — 100. un 106. pantā noteiktās atbildības vai ierobežot šo atbildību, ja pārvadātājs pierada, ka cietuša vaina bijusi par iemeslu kaitējumam un zaudējumam vai to veicinājusi.\nPārvadātājs tiek atbrīvots no šā likuma 99. , 100. un 106. pantā noteiktās atbildības, ja pasažierim klātesošo mantu, bagāžas, kravas vai pasta iztrūkums vai bojājums ir radies to dabisko īpašību vai nepilnīga iesaiņojuma dēļ.\nPārvadātājs saskaņā ar šā likuma 98. — 100. , 102. un 106. panta noteikumiem ir atbildīgs Latvijas Republikas likumdošanas aktos noteiktajā kārtībā, ja starptautiskās vienošanās un līgumi, kuru dalībniece ir Latvijas Republika, neparedz citādi."
+    },
+    {
+      "provision_ref": "Art. 104",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "104",
+      "title": "Pārvadātāja atbildības ierobežošana",
+      "content": "Šā likuma 98. — 100. un 102. pantā noteikto pārvadātāja atbildību, tas ir, maksimālo zaudējumu atlīdzināšanas apmēru, var ierobežot kārtībā, kādu paredz starptautiskās vienošanās un līgumi, kuru dalībniece ir Latvijas Republika, vai pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumi.\nŠā panta pirmajā daļā paredzēto pārvadātāja atbildības ierobežošanu nepiemēro, ja:\n1) gaisa pārvadājuma dokumentā nav uzrādītas visas ziņas, ko nosaka starptautiskās vienošanās un līgumi, kuri paredz pārvadātāja atbildības ierobežošanu un kuru dalībniece ir Latvijas Republika, vai pasažieru, bagāžas un kravas gaisa pārvadājumu noteikumi;\n2) pasažieris, bagāža vai krava ir pārvadāti ar pārvadātāja piekrišanu bez šā likuma 85. pantā noteikto dokumentu izsniegšanas;\n3) tiek pierādīts, ka kaitējums radies ar pārvadātāja nodomu vai viņa rupjas neuzmanības dēļ."
+    },
+    {
+      "provision_ref": "Art. 105",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "105",
+      "title": "Pārvadātāja atbildības ierobežojuma grozīšana",
+      "content": "Pārvadātājs, pasažieris, bagāžas vai kravas nosūtītājs vai saņēmējs var vienoties par pārvadātāja atbildības palielināšanu salīdzinājumā ar atbildības ierobežojumu, kas noteikts saskaņā ar šā likuma 104. panta noteikumiem.\nNav spēkā vienošanās par pārvadātāja atbildības samazināšanu salīdzinājumā ar atbildības ierobežojumu, kas noteikts saskaņa ar šā likuma 104. panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 106",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "106",
+      "title": "Pārvadātāja atbildība par pasta nozaudēšanu, iztrūkumu vai bojājumu un nogādāšanas nokavējumu",
+      "content": "Pārvadātājs ir mantiski atbildīgs pasta institūciju priekšā par pasta nozaudēšanu, iztrūkumu vai bojājumu un nogādāšanas nokavējumu pārvadātāja vainas dēļ tādā apmērā, kādā sakaru iestādes ir atbildīgas nosūtītāju vai adresātu priekšā."
+    },
+    {
+      "provision_ref": "Art. 107",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "107",
+      "title": "Pasažiera, bagāžas vai kravas nosūtītajā un saņēmēja atbildība",
+      "content": "Pasažieri, bagāžas vai kravas nosūtītājs un saņēmējs ir atbildīgi par kaitējumu, kas viņu vainas dēļ nodarīts citām personām, pārvadātāja mantai un citu personu mantai, par kuru ir atbildīgs pārvadātājs.\nNosūtītājs ir atbildīgs par kaitējumu, kas pārvadātājam vai citai personai, kuras priekšā pārvadātājs ir atbildīgs, nodarīts sakarā ar pavadzīmē uzrādīto ziņu nepareizību, neprecizitāti vai nepilnību.\nNosūtītājs ir atbildīgs pārvadātāja priekšā par visiem zaudējumiem, kas var rasties sakarā ar šā likuma 87. pantā noteikto ziņu un dokumentu trūkumu, nepilnību vai nepareizību."
+    },
+    {
+      "provision_ref": "Art. 108",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "108",
+      "title": "Atbildība par kaitējumu, kas radies gaisa kuģu sadursmes rezultātā",
+      "content": "Ja Latvijas Republikas teritorijā ir notikusi divu vai vairāku gaisa kuģu sadursme vai arī ja kāds no gaisa kuģiem nodarījis bojājumu citam gaisa kuģim, bet sadursme nav notikusi, gaisa kuģu ekspluatantu savstarpējo mantisko atbildību nosaka šādi noteikumi:\n1) kaitējumu, kas nodarīts vienas puses vainas dēļ, pilnā apmērā atlīdzina šī puse;\n2) ja kaitējums nodarīts abu (vairāku) pušu vainas dēļ, katras puses atbildību nosaka atbilstoši tās vainas pakāpei;\n3) ja kaitējums nodarīts abu (vairāku) pušu vainas dēļ un noteikt katras puses vainas pakāpi nav iespējams, atbildība sadalāma visām pusēm vienlīdzīgi.\nJa puses nav vainojamas kaitējuma nodarīšanā, nevienai no tām nav tiesību prasīt, lai otra puse atlīdzina kaitējumu.\nNeviena no pusēm, kuru gaisa kuģi ir cietuši sadursmē, nav uzskatāma par vainīgu, kamēr nav pierādīts pretējais.\nPar kaitējumu, kas radies tādēļ, ka gaisa pārvadājuma laikā iestājusies pasažiera nāve vai pasažiera veselībai nodarīti bojājumi, kā ari par kaitējumu trešo personu mantai, kas atrodas gaisa kuģī vai uzticēta pārvadātājam, saskaņā ar šā likuma 98. — 106. panta noteikumiem mantiski ir atbildīgs pārvadātājs, turklāt viņam šā panta pirmajā daļā noteiktajos gadījumos ir atprasījuma (regresa) tiesības pret otru pusi (pusēm), kuras (kuru) vainas dēļ nodarīts kaitējums."
+    },
+    {
+      "provision_ref": "Art. 109",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "109",
+      "title": "Prasību celšana",
+      "content": "Prasība pret pārvadātāju saskaņā ar šā likuma 98. — 100. , 102. un 106. panta noteikumiem ceļama pārvadātāja pārvaldes institūcijas atrašanās vietas, gaisa pārvadājuma līguma noslēgšanas vai gaisa pārvadājuma galapunkta vietas tiesā ne vēlāk kā divu gadu laikā no dienas, kad gaisa kuģis ieradies galapunktā, vai no dienas, kad gaisa kuģim vajadzēja ierasties tajā, vai no pārvadājuma pārtraukšanas dienas.\nPrasību pret pārvadātāju sakarā ar pasažierim klātesošo mantu, reģistrētas bagāžas vai kravas nozaudēšanu, iztrūkumu, bojājumu vai gaisa pārvadājuma nokavējumu var celt tikai pēc rakstveida pretenzijas pieteikšanas saskaņā ar šā likuma 110. panta noteikumiem.\nPārvadātājs prasību pret pasažieri, bagāžas vai kravas nosūtītāju un saņēmēju var celt saskaņā ar šo likumu sešu mēnešu laikā no tā notikuma dienas, kas bijis par pamatu prasības celšanai.\nPrasības par kaitējuma atlīdzināšanu saskaņā ar šā likuma 96. , 97. un 108. panta noteikumiem tiek celtas Latvijas Republikas likumdošanas aktos paredzētajā kārtībā un termiņos."
+    },
+    {
+      "provision_ref": "Art. 110",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "110",
+      "title": "Pretenzijas pieteikšana",
+      "content": "Pasažierim klātesošo mantu nozaudēšanas, iztrūkuma vai bojājuma gadījumā pretenzija jāiesniedz pārvadātājam nekavējoties pēc pasažiera izkāpšanas biļetē norādītajā gaisa pārvadājuma galapunktā vai citā izkāpšanas vietā.\nCitos šā likuma 109. panta otrajā daļā noteiktajos gadījumos pretenzija jāiesniedz pārvadātājam nekavējoties, bet ne vēlāk kā:\n1) septiņu dienu laikā no reģistrētas bagāžas saņemšanas dienas tās iztrūkuma vai bojājuma gadījumā;\n2) 14 dienu laikā no kravas saņemšanas dienas tās iztrūkuma vai bojājuma gadījumā;\n3) septiņu dienu laikā reģistrētas bagāžas vai 14 dienu laikā kravas nozaudēšanas gadījumā no dienas, kad saskaņā ar šā likuma 100. panta otrās daļas noteikumiem tā tiek uzskatīta par nozaudētu;\n4) 21 dienas laikā no bagāžas vai kravas saņemšanas dienas gaisa pārvadājuma nokavējuma gadījumā."
+    },
+    {
+      "provision_ref": "Art. 111",
+      "chapter": "DESMITĀ NODAĻA ATBILDĪBA UN APDROŠINĀŠANA (Nodaļa MK 14.04.1994. noteikumu Nr. 78 redakcijā, kas stājas spēkā 23.04.1994. )",
+      "section": "111",
+      "title": "Ar civilās aviācijas darbību saistītā obligātā apdrošināšana",
+      "content": "Civilās aviācijas gaisa kuģu un citu civilās aviācijas objektu un iekārtu īpašniekiem un gaisa kuģu ekspluatantiem, kas savu darbību veic Latvijas Republikas teritorijā, attiecīgi jāapdrošina:\n1) gaisa kuģi un citi civilās aviācijas objekti un iekārtas Latvijas Republikas likumdošanas aktos noteiktajos gadījumos;\n2) gaisa kuģa apkalpes locekļi;\n3) atbildība par nodarīto kaitējumu pasažierim, viņa mantai vai nosūtītajai bagāžai vai kravai;\n4) atbildība par kaitējumu, ko trešajai personai vai šīs personas mantai nodarījis lidojumā esošs gaisa kuģis vai no tā atdalījies priekšmets.\nPersonas, kuru apmācības procesa nepieciešams veikt mācību lidojumus, apdrošina attiecīgā mācību iestāde vai organizācija, uzņēmējsabiedrība vai uzņēmums, kas tās nosūtījis mācīties.\nPersonas, kas nav gaisa kuģa apkalpes locekļi, bet kuru darbs saistīts ar atrašanos gaisa kuģī lidojuma laikā, apdrošina attiecīgās organizācijas, uzņēmējsabiedrības un uzņēmumi, kuros tās strādā.\nPersonas, kas nodarbojas ar aviācijas sportu, apdrošina sevi pašas."
+    }
+  ],
+  "definitions": []
+}

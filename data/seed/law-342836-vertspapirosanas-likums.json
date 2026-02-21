@@ -1,0 +1,237 @@
+{
+  "id": "lv-law-342836",
+  "type": "statute",
+  "title": "Vērtspapīrošanas likums",
+  "title_en": "Securitisation Law",
+  "short_name": "TA-342836",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/342836-vertspapirosanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Šajā likumā lietotie termini \"ieguldītājs\", \"iniciators\", \"laidiens\", \"parādus apkalpojošā sabiedrība\", \"sākotnējais aizdevējs\", \"sponsors\", \"vērtspapīrošana\" un citi ar vērtspapīrošanu saistītie termini atbilst Eiropas Parlamenta un Padomes 2017. gada 12. decembra regulas (ES) 2017/2402 , ar ko nosaka vispārēju regulējumu vērtspapīrošanai un izveido īpašu satvaru attiecībā uz vienkāršu, pārredzamu un standartizētu vērtspapīrošanu, un groza direktīvas 2009/65/EK , 2009/138/EK un 2011/61/ES un regulas (EK) Nr. 1060/2009 un (ES) Nr. 648/2012 (turpmāk — regula Nr. 2017/2402 ) 2. pantā lietotajiem terminiem.\n(2) Termins \"vērtspapīrošanas sabiedrība\" (turpmāk arī — sabiedrība) atbilst regulas Nr. 2017/2402 2. pantā lietotajam terminam \"īpašam nolūkam dibināta sabiedrība, kas veic vērtspapīrošanu\".\n(3) Ar terminu \"aktīvi\" tiek saprasti vērtspapīrošanas pamatā esošie riska darījumi, tostarp prasījumi, kas izriet no civiltiesiskiem darījumiem."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir veicināt papildu finansējuma pieejamību komercdarbības attīstībai, radot tiesiskus priekšnoteikumus vērtspapīrošanas darījumu norisei Latvijā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Šis likums piemērojams attiecībā uz vērtspapīrošanu, kas atbilst regulas Nr. 2017/2402 2. panta 1. punktā noteiktajam, un vērtspapīrošanas sabiedrību, kura reģistrēta Latvijā.\n(2) Šā likuma 8. panta pirmajā daļā noteiktais piemērojams arī vērtspapīrošanas sabiedrībai, kura nav reģistrēta Latvijā, ja uz šādas sabiedrības reģistrācijas valsti nevar attiecināt regulas Nr. 2017/2402 4. pantā noteikto un vērtspapīrojamam riska darījumam piemērojamas Latvijas normatīvo aktu prasības patērētāju kreditēšanas jomā.\n(3) Maksātnespējas likums vērtspapīrošanas sabiedrībai un parādus apkalpojošajai sabiedrībai ir piemērojams, ciktāl šis likums nenosaka citādi. Maksātnespējas likums iniciatoram ir piemērojams, ciktāl šis likums un regula Nr. 2017/2402 nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Vērtspapīrošanas sabiedrības dibināšana, tās darbība un darbības izbeigšana",
+      "section": "4",
+      "title": "Vērtspapīrošanas sabiedrības dibināšana Latvijā",
+      "content": "(1) Vērtspapīrošanas sabiedrību Latvijā dibina kā kapitālsabiedrību.\n(2) Vērtspapīrošanas sabiedrības dibināšanas dokumentos nenorāda termiņu, uz kādu šī sabiedrība nodibināta, vai to, ka tās darbība tiek izbeigta, sasniedzot statūtos noteiktos mērķus."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Vērtspapīrošanas sabiedrības dibināšana, tās darbība un darbības izbeigšana",
+      "section": "5",
+      "title": "Vērtspapīrošanas sabiedrības firma",
+      "content": "(1) Vērtspapīrošanas sabiedrības firmā ietver norādi \"vērtspapīrošanas sabiedrība\".\n(2) Kapitālsabiedrības, kas nav vērtspapīrošanas sabiedrība, firmā vai pašreklāmā aizliegts lietot terminu \"vērtspapīrošanas sabiedrība\" jebkurā locījumā, vārdu savienojumā un atvasinājumā tādā veidā, kas rada maldīgu priekšstatu par tās darbības atbilstību šim likumam un regulai Nr. 2017/2402 ."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Vērtspapīrošanas sabiedrības dibināšana, tās darbība un darbības izbeigšana",
+      "section": "6",
+      "title": "Vērtspapīrošanas sabiedrības darbības ierobežojumi",
+      "content": "(1) Vērtspapīrošanas sabiedrība veic tikai tādas darbības un slēdz tikai tādus darījumus, kas nepieciešami, lai nodrošinātu tās darbību vai pienācīgi īstenotu vērtspapīrošanas darījumu vai shēmu (turpmāk — vērtspapīrošanas darījums), un kas nav pretrunā ar attiecīgās sabiedrības dibināšanas mērķi. Nav spēkā tādi vērtspapīrošanas sabiedrības noslēgtie darījumi, kas ir pretrunā ar šīs daļas pirmajā teikumā noteiktajiem ierobežojumiem.\n(2) Vērtspapīrošanas sabiedrībai nav darbinieku Darba likuma izpratnē.\n(3) Vērtspapīrošanas sabiedrība ir tiesīga slēgt atvasināto finanšu instrumentu līgumus par valūtas un procentu likmju risku pārvaldīšanu, atsavināt aktīvus un sniegt nodrošinājumu, izmantojot aktīvus, vienīgi saskaņā ar vērtspapīrošanas darījumu dokumentācijas noteikumiem.\n(4) Vērtspapīrošanas sabiedrība ir tiesīga vienlaikus īstenot tikai vienu vērtspapīrošanas darījumu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Vērtspapīrošanas sabiedrības dibināšana, tās darbība un darbības izbeigšana",
+      "section": "7",
+      "title": "Vērtspapīrošanas sabiedrības tiesiskās aizsardzības process, maksātnespējas process, tās likvidācija un reorganizācija",
+      "content": "(1) Vērtspapīrošanas sabiedrībai nav piemērojams tiesiskās aizsardzības process.\n(2) Vērtspapīrošanas sabiedrību, pamatojoties uz dalībnieku vai akcionāru sapulces lēmumu, var likvidēt tikai pēc tam, kad:\n1) visi ieguldītāju prasījumi, kas izriet no vērtspapīrošanas sabiedrības emitētajiem vērtspapīriem, kā arī citu kreditoru prasījumi ir pilnībā apmierināti;\n2) vērtspapīrošanas sabiedrībai vairs nav aktīvu, tostarp gadījumos, kad maksājumu saistības pret ieguldītājiem, kas izriet no šīs sabiedrības emitētajiem vērtspapīriem, vai saistības pret citiem kreditoriem nav pilnībā apmierinātas.\n(3) Vērtspapīrošanas sabiedrību nevar reorganizēt apvienošanas vai sadalīšanas ceļā.\n(4) Ja ir pasludināts vērtspapīrošanas sabiedrības maksātnespējas process un saskaņā ar Maksātnespējas likuma 118. panta sesto daļu maksātnespējas procesa administrators secina, ka vērtspapīrošanas sabiedrības naudas līdzekļu nepietiek, lai pilnībā apmierinātu visus Maksātnespējas likuma 118. panta piektajā daļā minētos kreditoru (ieguldītāju un citu kreditoru) prasījumus, attiecīgie prasījumi apmierināmi, ievērojot šā likuma 17. pantā noteikto kārtību."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "8",
+      "title": "Atļauja (licence) patērētāju kreditēšanas pakalpojuma un parādu ārpustiesas atgūšanas pakalpojuma sniegšanai",
+      "content": "(1) Vērtspapīrošanas sabiedrībai nav nepieciešama normatīvajos aktos noteiktā speciālā atļauja (licence) patērētāju kreditēšanas pakalpojuma un parādu ārpustiesas atgūšanas pakalpojuma sniegšanai.\n(2) Parādus apkalpojošajai sabiedrībai nav nepieciešama normatīvajos aktos noteiktā speciālā atļauja (licence) patērētāju kreditēšanas pakalpojuma un parādu ārpustiesas atgūšanas pakalpojuma sniegšanai tikai tad, ja tas ir īpaši paredzēts normatīvajos aktos."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "9",
+      "title": "Darījumi ar saistītajām personām",
+      "content": "Vērtspapīrošanas darījumiem nepiemēro Komerclikuma normas par saistīto personu darījumiem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "10",
+      "title": "Informācijas aizsardzība un datu apstrāde",
+      "content": "(1) Lai izmantotu šajā likumā noteiktās tiesības un izpildītu pienākumus, iniciators vai sākotnējais aizdevējs nodod vērtspapīrošanas sabiedrībai fiziskās personas datus, ar kuriem tas rīkojas kā pārzinis. Vērtspapīrošanas sabiedrība kļūst par saņemto personas datu pārzini bez datu subjekta piekrišanas.\n(2) Šā panta pirmās daļas nosacījumi piemērojami arī attiecībā uz kredītiestādes rīcībā esošām neizpaužamajām ziņām, ja tā ir iniciators vai sākotnējais aizdevējs.\n(3) Latvijas Banka ir tiesīga pieprasīt, lai vērtspapīrošanas sabiedrība, iniciators, sākotnējais aizdevējs, sponsors un iepriekš minēto personu revīzijas pakalpojumu sniedzēji, kā arī jebkuras citas vērtspapīrošanā iesaistītas personas sniedz informāciju, kas nepieciešama šajā likumā un regulā Nr. 2017/2402 noteikto uzraudzības funkciju veikšanai."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "11",
+      "title": "Ziņu iekļaušana Kredītu reģistrā un kredītinformācijas biroja datubāzē",
+      "content": "(1) Ja vērtspapīrošanas darījumā ir iesaistīts Kredītu reģistra dalībnieks vai Kredītu reģistra dalībnieks ar ierobežotu statusu, ziņas par vērtspapīrošanas sabiedrības aktīviem Kredītu reģistrā iekļauj Kredītu reģistra likumā noteiktajā kārtībā.\n(2) Ja attiecīgais prasījums izriet no aizdevuma (kredīta), kas sniegts saskaņā ar patērētāja kreditēšanas līgumu atbilstoši Patērētāju tiesību aizsardzības likumam , parādus apkalpojošā sabiedrība kā kredītinformācijas lietotājs ziņas par parādu kredītinformācijas birojam sniedz saskaņā ar normatīvajiem aktiem, kuri to nosaka."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "12",
+      "title": "Ar aktīviem saistītā nodrošinājuma pāreja",
+      "content": "(1) Iniciatora veiktā aktīvu atsavināšana ietver ar šiem aktīviem saistītā nodrošinājuma pāreju vērtspapīrošanas sabiedrībai, izņemot šā panta piektajā daļā noteikto.\n(2) Tādu dokumentu vēlāka iesniegšana, kuri paredz izmaiņas attiecībā uz nodrošinājuma reģistrāciju publiskajos reģistros, saskaņā ar šo likumu neietekmē nodrošinājuma pāreju vērtspapīrošanas sabiedrībai un tās spēkā esību. Ja normatīvie akti, kas piemērojami nodrošinājumam, saista nodrošinājuma izlietošanu ar publisko reģistru ierakstu pārgrozījumiem attiecībā uz nodrošinājuma ņēmēju, vērtspapīrošanas sabiedrība izlieto nodrošinājumu pēc tam, kad veikti attiecīgie publisko reģistru ierakstu pārgrozījumi.\n(3) Nodrošinājuma reģistrēšanai nav nepieciešama parādnieka un nodrošinājuma devēja piekrišana.\n(4) Prasījumi, kas saistīti ar nodrošinājumu, tiek nodoti vērtspapīrošanas sabiedrībai vienlaikus ar nodrošinājumu un tādā pašā apmērā, kādā tie radušies vai rastos iniciatoram (turpmāk arī — atsavinātājs) saskaņā ar šo likumu, ja aktīvi netiktu atsavināti vērtspapīrošanas sabiedrībai.\n(5) Pēc aktīvu atsavināšanas vērtspapīrošanas sabiedrībai finanšu nodrošinājuma ņēmējs ir atsavinātājs. Vērtspapīrošanas sabiedrībai ir pirmtiesības uz finanšu līdzekļiem, kas tiek iegūti, realizējot finanšu nodrošinājumu. Finanšu nodrošinājuma realizēšanas kārtību attiecībā uz prasījumiem, kas nodoti vērtspapīrošanas sabiedrībai, ievērojot šīs pirmtiesības, nosaka vērtspapīrošanas darījumu dokumentācijas noteikumos.\n(6) Šā panta piektajā daļā minētās pirmtiesības ir arī atsavinātāja maksātnespējas procesa vai likvidācijas, noregulējuma vai reorganizācijas pasākumu vai kredītiestādes uzņēmuma pārejas gadījumā, kad iniciators ir kredītiestāde."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "13",
+      "title": "Ar aktīviem saistītās tiesības",
+      "content": "(1) Ja līdzēji atsavinājuma līgumā nav vienojušies citādi, aktīvi vērtspapīrošanas sabiedrībai tiek atsavināti un nodoti kopā ar visām spēkā esošajām tiesībām, prasījumiem un augļiem, tostarp tiesībām uz apdrošināšanas atlīdzību, kuru atsavinātājs saistībā ar aktīviem ir tiesīgs saņemt saskaņā ar normatīvajiem aktiem vai noslēgtajiem līgumiem.\n(2) Gadījumos, kad atsavinātie aktīvi ietver tiesības uz apdrošināšanas atlīdzību, iestājoties apdrošināšanas gadījumam, atsavinātāja prasījumi par apdrošināšanas atlīdzības izmaksu ietilpst aktīvos, ja līdzēji atsavinājuma līgumā nav vienojušies citādi.\n(3) Šā panta otrajā daļā minētā apdrošināšanas atlīdzība tiek ieskaitīta aktīvos tādā apmērā, kādā to paredz normatīvie akti apdrošināšanas jomā vai noslēgtie līgumi. Vērtspapīrošanas sabiedrība ir tiesīga atļaut parādniekam un nodrošinājuma devējam pilnībā vai daļēji izlietot apdrošināšanas atlīdzību apdrošināšanas gadījuma seku novēršanai.\n(4) Vērtspapīrošanas sabiedrības vienpusējs paziņojums apdrošinātājam, ka apdrošinātie aktīvi, pamatojoties uz atsavinājuma līgumu, ir pārgājuši vērtspapīrošanas sabiedrībai, dod tiesības šai sabiedrībai saņemt apdrošināšanas atlīdzību, kas attiecas uz šo aktīvu.\n(5) Aktīvu atsavināšana vērtspapīrošanas sabiedrībai nav pamats apdrošināšanas līguma grozīšanai vai izbeigšanai."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "14",
+      "title": "Parādnieka un nodrošinājuma devēja tiesības un pienākumi",
+      "content": "(1) Vienošanās starp parādnieku un iniciatoru, ar kuru ir aizliegta vai ierobežota aktīvu atsavināšana vai nodošana citai personai, nav spēkā, ja aktīvu atsavināšanu veic iniciators vērtspapīrošanas sabiedrībai.\n(2) Aktīvu atsavināšanai nav nepieciešama parādnieka un nodrošinājuma devēja informēšana vai piekrišana.\n(3) Aktīvu atsavināšana vērtspapīrošanas sabiedrībai neietekmē parādnieka un nodrošinājuma devēja tiesības un pienākumus, ko paredz normatīvie akti patērētāju tiesību aizsardzības jomā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "15",
+      "title": "Iniciatora maksātnespējas procesa īpatnības",
+      "content": "Iniciatora maksātnespējas procesā regulas Nr. 2017/2402 20. un 24. pantā noteiktais par darījumu atzīšanu par spēkā neesošiem ir piemērojams ne tikai vienkāršai, pārredzamai un standartizētai vērtspapīrošanai, bet jebkurai vērtspapīrošanai, kas atbilst regulas Nr. 2017/2402 2. panta 1. punktam."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "16",
+      "title": "Parādus apkalpojošās sabiedrības mantas nošķirtība",
+      "content": "Finanšu līdzekļi, kurus kā noteiktu maksājumu plūsmu saistībā ar vērtspapīrošanas pamatā esošo riska darījumu parādus apkalpojošā sabiedrība (tostarp iniciators, ja tas veic parādus apkalpojošās sabiedrības funkcijas) saņem no parādnieka un nodrošinājuma devēja, neietilpst parādus apkalpojošās sabiedrības mantā. Parādus apkalpojošās sabiedrības tiesiskās aizsardzības, maksātnespējas procesā vai likvidācijā, kā arī noregulējuma vai reorganizācijas pasākumu gadījumā šie līdzekļi netiek izmantoti parādus apkalpojošās sabiedrības kreditoru prasījumu segšanai, izņemot tādā apmērā, kas saskaņā ar vērtspapīrošanas darījumu dokumentācijas noteikumiem ir noteikts kā parādus apkalpojošās sabiedrības atlīdzība par parādu apkalpošanu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "17",
+      "title": "Vērtspapīrošanas sabiedrības ieguldītāju un citu kreditoru prasījumu apmierināšanas kārtība",
+      "content": "(1) Ieguldītāju prasījumi tiek apmierināti, ievērojot vērtspapīrošanas pozīciju laidienu prioritātes secību konkrētajā vērtspapīrošanas darījumā. Vienas vērtspapīrošanas pozīcijas laidiena ieguldītāju prasījumi ir vienas kārtas prasījumi.\n(2) Citu kreditoru prasījumi, tostarp prasījumi, kas izriet no atvasināto finanšu instrumentu līgumiem, tiek apmierināti, ievērojot vērtspapīrošanas darījumu dokumentācijas noteikumus, tostarp noteikumus, kuri nosaka to, kādā kārtā tiek apmierināti ieguldītāju un citu kreditoru prasījumi konkrētajā vērtspapīrošanas darījumā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "18",
+      "title": "Prasības celšana pret vērtspapīrošanas sabiedrību",
+      "content": "Prasības celšanu pret vērtspapīrošanas sabiedrību reglamentē vērtspapīrošanas darījumu dokumentācijas noteikumi, ievērojot to, ka prasības apmierināšanas gadījumā prasītājs nesaņem vairāk, kā tam pienāktos pēc laidienu prioritātes secības, un to, cik faktiski saskaņā ar vērtspapīrošanas darījumu dokumentācijas noteikumiem tas drīkstētu saņemt, salīdzinot ar citiem ieguldītājiem un kreditoriem. Ieguldītāju prasības celšana ir pieļaujama tikai ar uzticības personas starpniecību, ja tāda iecelta."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "19",
+      "title": "Ieguldītāju interešu pārstāvība",
+      "content": "(1) Vērtspapīrošanas sabiedrība sasauc ieguldītāju sapulci, ja to paredz vērtspapīrošanas darījumu dokumentācijas noteikumi, lai lemtu par ieguldītāju interešu pārstāvību, ciktāl tas nav pretrunā ar šo likumu.\n(2) Ieguldītāju sapulces sasaukšanas kārtību, tās lemttiesīgumu, lēmumu pieņemšanai nepieciešamo balsu vairākumu, balsošanas, tostarp attālinātas balsošanas, kārtību un citus ar sapulces sasaukšanu un norisi saistītos jautājumus nosaka vērtspapīrošanas darījumu dokumentācijas noteikumos.\n(3) Vērtspapīrošanas sabiedrība sedz visus ar ieguldītāju sapulces organizēšanu un lēmumu pieņemšanu un izziņošanu saistītos izdevumus."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Vērtspapīrošanas darījumā iesaistītajām personām piemērojamie īpašie noteikumi",
+      "section": "20",
+      "title": "Ieguldītāju uzticības personas iecelšana",
+      "content": "(1) Ieguldītāju sapulce var nolemt, ka ar vērtspapīrošanu saistītās kopīgās ieguldītāju intereses pārstāv uzticības persona. Ieguldītāju sapulce nosaka uzticības personas tiesības, pienākumus, norēķina došanu, atlīdzību un izdevumu segšanas kārtību, kā arī citus jautājumus.\n(2) Šā panta pirmajā daļā minēto pilnvarojumu neietekmē ieguldītāja maksātnespējas procesa vai likvidācijas pasludināšana un noregulējuma vai saistību restrukturizācijas procesa piemērošana.\n(3) Ieguldītāju sapulce var lemt, ka uzticības persona pārstāv visus ieguldītājus, veicot pilnvarojumā noteiktās darbības. Vienlaikus ieguldītājs nevar patstāvīgi izmantot tās savas tiesības, kuras ir piešķirtas uzticības personai.\n(4) Ievērojot ieguldītāju sapulces lēmumā uzticības personai noteiktās pilnvaras un ierobežojumus, šī persona ir tiesīga uzsākt procesus visu ieguldītāju vārdā un aizstāvēt to kopīgās intereses, tostarp tiesvedībā, bez pienākuma noskaidrot ieguldītāju identitāti. Īstenojot šīs tiesības, ir pietiekami, ja uzticības persona norāda, ka rīkojas kā uzticības persona, un pievieno ieguldītāju sapulces lēmumu, kas apliecina šīs personas pilnvaras un pilnvarojuma robežas.\n(5) Uzticības persona ir tiesīga iegūt informāciju par vērtspapīrošanas sabiedrības maksātnespējas procesu vai likvidāciju, ciktāl tas skar ieguldītāju tādu prasījumu apmierināšanu, kuri pieteikti vērtspapīrošanas sabiedrības maksātnespējas procesā vai likvidācijā.\n(6) Ja uzticības persona ir pilnvarota iegūt aktīvus ieguldītāju vārdā vai labā, šie aktīvi tiek turēti un uzskaitīti atsevišķi no uzticības personas pašas aktīviem un jebkuriem citiem tās pārvaldīšanā nodotajiem aktīviem. Uzticības personas kreditori savus prasījumus nevar vērst uz aktīviem, tostarp finanšu līdzekļiem, kurus uzticības persona ir saņēmusi ieguldītāju vārdā vai labā, pildot tai noteiktos uzticības personas pienākumus."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Uzraudzība",
+      "section": "21",
+      "title": "Vispārīgās uzraudzības prasības",
+      "content": "(1) Par kompetento iestādi Latvijā regulas Nr. 2017/2402 29. panta 4. un 5. punkta izpratnē uzskatāma Latvijas Banka.\n(2) Latvijas Banka uzrauga vērtspapīrošanas sabiedrību, iniciatoru, sākotnējo aizdevēju, sponsoru un trešo personu, kas pārbauda vērtspapīrošanas atbilstību vienkāršības, pārredzamības un standartizācijas prasībām, darbību saskaņā ar regulā Nr. 2017/2402 un citos Eiropas Savienības tieši piemērojamos tiesību aktos vērtspapīrošanas jomā noteiktajām prasībām.\n(3) Latvijas Bankai, īstenojot uzraudzību vērtspapīrošanas jomā, ir regulas Nr. 2017/2402 30. panta 2., 3., 4. un 5. punktā minētās kompetentās iestādes tiesības."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Uzraudzība",
+      "section": "22",
+      "title": "Atļauja trešai personai pārbaudīt vērtspapīrošanas atbilstību vienkāršības, pārredzamības un standartizācijas prasībām",
+      "content": "Par iesniegto dokumentu izskatīšanu regulas Nr. 2017/2402 28. panta 1. punktā minētās atļaujas izsniegšanai trešām personām, kas pārbauda vērtspapīrošanas atbilstību vienkāršības, pārredzamības un standartizācijas prasībām, Latvijas Bankai maksājama vienreizēja maksa 5000 euro ."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Uzraudzība",
+      "section": "23",
+      "title": "Latvijas Bankas atzinums",
+      "content": "(1) Personas, kurām tas nepieciešams normatīvajos aktos noteikto funkciju pildīšanai, var lūgt Latvijas Bankai sniegt atzinumu par to, vai sabiedrība, kuras firmā ietverta norāde \"vērtspapīrošanas sabiedrība\", ir veikusi vai veic darījumus, kas atbilstoši regulas Nr. 2017/2402 2. panta 1. punktam ir noteikti kā vērtspapīrošana.\n(2) Latvijas Bankai ir tiesības pieprasīt papildu informāciju vai paskaidrojumus no konkrētā darījuma dalībniekiem un jebkuras citas personas, ja tas nepieciešams atzinuma sniegšanai.\n(3) Latvijas Banka atzinumu sniedz 30 dienu laikā no tā sniegšanai nepieciešamās informācijas saņemšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Atbildība",
+      "section": "24",
+      "title": "Sankciju un administratīvo pasākumu piemērošana",
+      "content": "Latvijas Banka ir tiesīga piemērot šajā likumā minētās sankcijas un administratīvos pasākumus, ja tā konstatē, ka:\n1) iniciators, sponsors vai sākotnējais aizdevējs neievēro regulas Nr. 2017/2402 6. pantā noteiktās prasības attiecībā uz riska paturēšanu;\n2) iniciators, sponsors vai vērtspapīrošanas sabiedrība neievēro regulas Nr. 2017/2402 7. pantā noteiktās prasības attiecībā uz pārredzamības prasībām iniciatoriem, sponsoriem un vērtspapīrošanas sabiedrībām;\n3) iniciators, sponsors vai sākotnējais aizdevējs neievēro regulas Nr. 2017/2402 9. pantā noteiktās prasības attiecībā uz kredītu piešķiršanas kritērijiem;\n4) iniciators, sponsors vai vērtspapīrošanas sabiedrība neievēro regulas Nr. 2017/2402 18. pantā noteiktās prasības attiecībā uz termina \"vienkārša, pārredzama un standartizēta vērtspapīrošana\" lietošanu;\n5) iniciators, sponsors vai vērtspapīrošanas sabiedrība attiecībā uz vērtspapīrošanu, kas nav uz aktīviem balstīta komerciālo vērtspapīru vērtspapīrošana, neievēro:\na) regulas Nr. 2017/2402 19. pantā noteiktās vienkāršas, pārredzamas un standartizētas vērtspapīrošanas prasības,\nb) regulas Nr. 2017/2402 20. pantā noteiktās prasības attiecībā uz vienkāršību,\nc) regulas Nr. 2017/2402 21. pantā noteiktās prasības attiecībā uz standartizēšanu,\nd) regulas Nr. 2017/2402 22. pantā noteiktās prasības attiecībā uz pārredzamību;\n6) iniciators, sponsors vai vērtspapīrošanas sabiedrība attiecībā uz aktīviem balstītu komerciālo vērtspapīru vērtspapīrošanu neievēro:\na) regulas Nr. 2017/2402 23. pantā noteiktās vienkāršas, pārredzamas un standartizētas vērtspapīrošanas prasības,\nb) regulas Nr. 2017/2402 24. pantā noteiktās darījuma līmeņa prasības,\nc) regulas Nr. 2017/2402 25. pantā programmas sponsoram noteiktās prasības,\nd) regulas Nr. 2017/2402 26. pantā noteiktās programmas līmeņa prasības;\n7) iniciators, sponsors vai vērtspapīrošanas sabiedrība attiecībā uz vienkāršu, pārredzamu un standartizētu bilances vērtspapīrošanu neievēro:\na) regulas Nr. 2017/2402 26.a pantā noteiktās vienkāršas, pārredzamas un standartizētas vērtspapīrošanas prasības,\nb) regulas Nr. 2017/2402 26.b pantā noteiktās prasības attiecībā uz vienkāršību,\nc) regulas Nr. 2017/2402 26.c pantā noteiktās prasības attiecībā uz standartizēšanu,\nd) regulas Nr. 2017/2402 26.d pantā noteiktās prasības attiecībā uz pārredzamību,\ne) regulas Nr. 2017/2402 26.e pantā noteiktās prasības attiecībā uz kredītaizsardzības līgumu, pārbaudes aģentu—trešo personu un sintētisko atlikušo starpību;\n8) iniciators vai sponsors sniedz maldinošu vienkāršības, pārredzamības un standartizācijas paziņojumu, kas minēts regulas Nr. 2017/2402 27. panta 1. punktā;\n9) iniciators, sponsors vai vērtspapīrošanas sabiedrība neievēro regulas Nr. 2017/2402 27. panta 4. punktā noteiktās prasības attiecībā uz paziņošanu par vērtspapīrošanas neatbilstību vienkāršības, pārredzamības un standartizācijas prasībām;\n10) trešā persona, kas saņēmusi regulas Nr. 2017/2402 28. pantā noteikto atļauju pārbaudīt vērtspapīrošanas atbilstību vienkāršības, pārredzamības un standartizācijas prasībām, nav paziņojusi par būtiskām izmaiņām informācijā, kura noteikta regulas Nr. 2017/2402 28. panta 1. punktā, vai jebkādām citām izmaiņām, kuras ir pamats uzskatīt par tādām, kas var ietekmēt Latvijas Bankas novērtējumu attiecībā uz atļaujas izsniegšanu."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Atbildība",
+      "section": "25",
+      "title": "Sankcijas",
+      "content": "(1) Pieņemot lēmumu par šā likuma 24. pantā minētajiem pārkāpumiem, Latvijas Banka ir tiesīga piemērot šādas sankcijas:\n1) sniegt publisku paziņojumu, norādot par pārkāpumu atbildīgo fizisko vai juridisko personu un pārkāpuma būtību;\n2) piemērot naudas sodu šādā apmērā:\na) par pārkāpumu atbildīgajai fiziskajai personai — līdz 5 000 000 euro ,\nb) par pārkāpumu atbildīgajai juridiskajai personai — līdz 5 000 000 euro vai līdz 10 procentiem no minētās juridiskās personas kopējā gada apgrozījuma saskaņā ar jaunāko pieejamo finanšu pārskatu. Ja juridiskā persona ir mātesuzņēmums vai mātesuzņēmuma meitasuzņēmums, kas sagatavo konsolidēto finanšu pārskatu saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likumu , attiecīgais kopējais gada apgrozījums ir kopējais gada apgrozījums vai tam atbilstošs ienākumu veids saskaņā ar attiecīgajiem normatīvajiem aktiem grāmatvedības jomā, ņemot vērā jaunāko pieejamo galvenā mātesuzņēmuma konsolidēto finanšu pārskatu,\nc) par pārkāpumu atbildīgajai fiziskajai personai — līdz summai, kas divas reizes pārsniedz no pārkāpuma gūtā labuma apmēru, ja šādu labumu var konstatēt, pat tad, ja tas pārsniedz šā punkta \"a\" apakšpunktā noteikto naudas soda apmēru,\nd) par pārkāpumu atbildīgajai juridiskajai personai — līdz summai, kas divas reizes pārsniedz no pārkāpuma gūtā labuma apmēru, ja šādu labumu var konstatēt, pat tad, ja tas pārsniedz šā punkta \"b\" apakšpunktā noteikto naudas soda apmēru.\n(2) Pieņemot lēmumu par šā likuma 24. panta 10. punktā minēto pārkāpumu, Latvijas Banka var piemērot sankciju — anulēt izsniegto atļauju."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Atbildība",
+      "section": "26",
+      "title": "Administratīvie pasākumi",
+      "content": "(1) Ja Latvijas Banka konstatē kādu no šā likuma 24. pantā minētajiem pārkāpumiem, tā ir tiesīga piemērot šādus administratīvos pasākumus:\n1) pieprasīt, lai par pārkāpumu atbildīgā fiziskā vai juridiskā persona nekavējoties izbeidz attiecīgo rīcību;\n2) noteikt pagaidu aizliegumu iniciatora, sponsora vai vērtspapīrošanas sabiedrības valdes un padomes (ja tāda ir izveidota) loceklim vai par pārkāpumu atbildīgajai fiziskajai personai veikt tai noteiktos pienākumus līdz pārkāpuma novēršanas brīdim, bet ne ilgāk kā divus gadus.\n(2) Ja Latvijas Banka konstatē kādu no šā likuma 24. panta 5., 6., 7. vai 8. punktā minētajiem pārkāpumiem, tā ir tiesīga noteikt pagaidu aizliegumu iniciatoram un sponsoram sniegt Eiropas Vērtspapīru un tirgu iestādei regulas Nr. 2017/2402 27. panta 1. punktā minēto paziņojumu.\n(3) Latvijas Banka administratīvos pasākumus piemēro neatkarīgi no šā likuma 25. pantā noteiktajām sankcijām."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Atbildība",
+      "section": "27",
+      "title": "Latvijas Bankas lēmums par sankciju un administratīvo pasākumu piemērošanu",
+      "content": "Pieņemot lēmumu par sankciju un administratīvo pasākumu piemērošanu un par naudas soda apmēru, Latvijas Banka ņem vērā regulas Nr. 2017/2402 33. panta 2. punktā un Latvijas Bankas likumā minētos kritērijus, kā arī pasākumus, kurus veikusi persona, lai novērstu pārkāpuma atkārtošanos un mazinātu iespējamās pārkāpuma sistēmiskās sekas un ar to nodarīto zaudējumu apmēru trešām personām, kā arī izvērtē piemērojamo sankciju un administratīvo pasākumu samērīgumu, efektivitāti un atturošo raksturu."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Atbildība",
+      "section": "28",
+      "title": "Informēšana par piemērotajām sankcijām un administratīvajiem pasākumiem",
+      "content": "(1) Latvijas Banka informāciju par piemēroto sankciju un administratīvo pasākumu ievieto savā tīmekļvietnē, norādot ziņas par personu un tās izdarīto pārkāpumu, kā arī par Latvijas Bankas pieņemtā lēmuma pārsūdzēšanu un pieņemto nolēmumu.\n(2) Ja Latvijas Banka pēc iepriekšēja izvērtējuma konstatē, ka tās personas datu atklāšana, kurai piemērota sankcija un administratīvais pasākums, nav samērīga vai šāda datu atklāšana var apdraudēt finanšu tirgus stabilitāti, attiecīgās administratīvās lietas izskatīšanu vai uzsākta kriminālprocesa norisi, vai šādas informācijas publicēšana nav samērīga ar izdarīto pārkāpumu, Latvijas Banka ir tiesīga veikt vienu no šādām darbībām:\n1) atlikt šā panta pirmajā daļā minētās informācijas publiskošanu par personai piemērotajām sankcijām un administratīvajiem pasākumiem, līdz beidz pastāvēt apstākļi publikācijas atlikšanai;\n2) publiskot šā panta pirmajā daļā minēto informāciju, neidentificējot personu;\n3) nepubliskot šā panta pirmajā daļā minēto informāciju.\n(3) Latvijas Bankas tīmekļvietnē ievietotā informācija par pārkāpumu ir pieejama piecus gadus no tās ievietošanas dienas."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Atbildība",
+      "section": "29",
+      "title": "Noilgums",
+      "content": "(1) Latvijas Banka ir tiesīga ierosināt lietu piecu gadu laikā no pārkāpuma izdarīšanas dienas, bet, ja pārkāpums ir ilgstošs, — no pārkāpuma izbeigšanas dienas.\n(2) Šā panta pirmajā daļā noteiktā noilguma termiņa skaitīšanu lietas ierosināšanai aptur ar lietas ierosināšanas dienu.\n(3) Lēmumu par šajā likumā noteikto sankciju un administratīvo pasākumu piemērošanu Latvijas Banka var pieņemt divu gadu laikā no lietas ierosināšanas dienas.\n(4) Objektīvu iemeslu dēļ, tostarp tad, ja lietā nepieciešama ilgstoša faktu konstatēšana, Latvijas Banka, pieņemot lēmumu, var pagarināt šā panta trešajā daļā noteikto lēmuma pieņemšanas termiņu uz laiku, kas nepārsniedz trīs gadus no lietas ierosināšanas dienas.\n(5) Latvijas Banka izbeidz lietu, ja šā panta trešajā vai ceturtajā daļā noteiktajā termiņā nav pieņemts lēmums par sankciju un administratīvo pasākumu piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Atbildība",
+      "section": "30",
+      "title": "Latvijas Bankas izdotā administratīvā akta pārsūdzēšana",
+      "content": "(1) Pārsūdzot Latvijas Bankas izdoto administratīvo aktu, pieteikumu iesniedz Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.\n(2) Šā panta pirmajā daļā minētā administratīvā akta pārsūdzēšana, izņemot administratīvo aktu par naudas soda piemērošanu, publisku paziņojumu vai atļaujas anulēšanu, neaptur šā akta darbību."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "V nodaļa Atbildība",
+      "section": "31",
+      "title": "Latvijas Bankas pienākums sniegt informāciju Eiropas Vērtspapīru un tirgu iestādei",
+      "content": "Latvijas Banka informē Eiropas Vērtspapīru un tirgu iestādi par sankcijām un administratīvajiem pasākumiem, kas piemēroti par regulas Nr. 2017/2402 un citu Eiropas Savienības tieši piemērojamo tiesību aktu pārkāpumiem vērtspapīrošanas jomā, kā arī par Latvijas Bankas lēmuma pārsūdzēšanu."
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "V nodaļa Atbildība",
+      "section": "pn14",
+      "title": "Šā likuma 14. panta pirmā daļa attiecas arī uz vienošanos starp parādnieku un iniciatoru, kas noslēgta pirms šā likuma spēkā stāšanās dienas, ja iniciators pēc aktīvu atsavināšanas vērtspapīrošanas sabiedrībai pats veic parādus apkalpojošās sabiedrības funkcijas.",
+      "content": "Šā likuma 14. panta pirmā daļa attiecas arī uz vienošanos starp parādnieku un iniciatoru, kas noslēgta pirms šā likuma spēkā stāšanās dienas, ja iniciators pēc aktīvu atsavināšanas vērtspapīrošanas sabiedrībai pats veic parādus apkalpojošās sabiedrības funkcijas."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "lv-law-76664",
+  "type": "statute",
+  "title": "Par ievedmuitas nodokļa (tarifa) likmēm un papildu kontroles kārtību, kas piemērojama Eiropas Kopienas izcelsmes pārstrādātajām lauksaimniecības precēm",
+  "short_name": "TA-76664",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/76664-par-ievedmuitas-nodokla-tarifa-likmem-un-papildu-kontroles-kartibu-kas-piemerojama-eiropas-kopienas-izcelsmes-parstradatajam",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likuma mērķis ir noteikt ievedmuitas nodokļa (tarifa) likmi 0 procentu apmērā, ko Latvijas Republika piemēro Eiropas Kopienas izcelsmes pārstrādātajām lauksaimniecības precēm, kā arī papildu kontroles kārtību, kas piemērojama noteiktām Eiropas Kopienas izcelsmes pārstrādātajām lauksaimniecības precēm, kuras tiek izlaistas brīvam apgrozījumam Latvijas Republikā.",
+      "content": "1.pants. Likuma mērķis ir noteikt ievedmuitas nodokļa (tarifa) likmi 0 procentu apmērā, ko Latvijas Republika piemēro Eiropas Kopienas izcelsmes pārstrādātajām lauksaimniecības precēm, kā arī papildu kontroles kārtību, kas piemērojama noteiktām Eiropas Kopienas izcelsmes pārstrādātajām lauksaimniecības precēm, kuras tiek izlaistas brīvam apgrozījumam Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "(1) Ievedmuitas nodokļa (tarifa) likme 0 procentu apmērā piemērojama neierobežotam daudzumam šā likuma 1.pielikumā noteikto pārstrādāto lauksaimniecības preču.",
+      "content": "(2) Neierobežotam daudzumam šā likuma 2.pielikumā norādīto pārstrādāto lauksaimniecības preču ievedmuitas nodokļa (tarifa) likmi 0 procentu apmērā piemēro tikai tad, ja šīm precēm Eiropas Kopienā nav piemērotas eksporta subsīdijas."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Muitas iestāde var noformēt muitas procedūru — izlaišana brīvam apgrozījumam Latvijas Republikā — šā likuma 2.pielikumā norādītajām precēm, ja tām Eiropas Kopienā nav piemērotas eksporta subsīdijas.",
+      "content": "3.pants. Muitas iestāde var noformēt muitas procedūru — izlaišana brīvam apgrozījumam Latvijas Republikā — šā likuma 2.pielikumā norādītajām precēm, ja tām Eiropas Kopienā nav piemērotas eksporta subsīdijas."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Lai kontrolētu šā likuma 3.panta nosacījumu izpildi, muitas procedūras — izlaišana brīvam apgrozījumam Latvijas Republikā — piemērošana pieļaujama šā likuma 2.pielikumā norādītajām precēm, iesniedzot muitas iestādei šādus dokumentus:",
+      "content": "1) Eiropas Kopienas eksporta muitas deklarācijas kopiju, kurā 44.ailē ir šāds ieraksts (kādā no Eiropas Kopienas dalībvalstu oficiālajām valodām): “Eksporta atmaksas: 0,- EUR”;\n2) citus normatīvajos aktos par muitas lietām noteiktos pavaddokumentus."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,1372 @@
+{
+  "id": "lv-law-124247",
+  "type": "statute",
+  "title": "Nekustamā īpašuma valsts kadastra likums",
+  "title_en": "State Immovable Property Cadastre Law",
+  "short_name": "TA-124247",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/124247-nekustama-ipasuma-valsts-kadastra-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) kadastra numurs — nekustamajam īpašumam piešķirta viennozīmīga, neatkārtojama un nemainīga ciparu kombinācija (identifikators);\n2) kadastra apzīmējums — zemes vienībai, būvei, telpu grupai vai zemes vienības daļai piešķirta viennozīmīga, neatkārtojama un nemainīga ciparu kombinācija (identifikators);\n3) kadastra dati — Nekustamā īpašuma valsts kadastra informācijas sistēmā ierakstītās ziņas;\n4) kadastra dokuments — no Nekustamā īpašuma valsts kadastra informācijas sistēmas sagatavots un noformēts dokuments, kas satur kadastra datus;\n5) kadastra informācija — kadastra dati un Valsts zemes dienesta arhīva dokumentu ziņas, ko izmanto Nekustamā īpašuma valsts kadastrs;\n6) kadastra objekts — Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts nekustamais īpašums kā īpašuma objektu kopums, kā arī zemes vienība, būve, telpu grupa un zemes vienības daļa;\n7) kadastra subjekts — Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta kadastra objekta īpašnieks vai, ja tāda nav, — tiesiskais valdītājs, kā arī apbūves tiesīgais;\n8) kadastrālā uzmērīšana — zemes vienības un zemes vienības daļas robežu, būves un telpu grupas kontūras noteikšana, raksturojošo datu iegūšana apvidū un kadastrālās uzmērīšanas dokumentu sagatavošana;\n9) kadastrālā vērtība — kadastra objektam masveida vērtēšanas procesā noteikta vērtība naudas izteiksmē, kura norāda ekonomisko labumu, ko dod tiesības uz konkrēto objektu novērtēšanas datumā;\n10) telpu grupa — konstruktīvi norobežots un no vienas vai vairākām telpām sastāvošs telpu kopums, kuram ir viena vai vairākas izejas uz koplietošanas telpu vai āru un kuram būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā piešķirta viena noteikta funkcija (lietošanas veids);\n11) zemes vienība — Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts norobežots zemesgabals, kam piešķirts kadastra apzīmējums;\n12) zemes vienības daļa — Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta (tai skaitā nomas vajadzībām) noteikta zemes vienības teritorija, kas nav patstāvīgs nekustamā īpašuma objekts;\n13) jaunbūve — būve, kurai līdz tās nodošanai ekspluatācijā atbilstoši būvniecību regulējošo normatīvo aktu prasībām izbūvēts vismaz nulles cikls;\n14) nekustamā īpašuma nosaukums — ar pašvaldības lēmumu nekustamajam īpašumam lauku apvidū un, ja nekustamā īpašuma sastāvā esošā zemes vienība vai būve nav adresācijas objekts, nekustamajam īpašumam pilsētā vai ciema teritorijā piešķirts rekvizīts, kas nav adrese."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis ir nodrošināt sabiedrību ar aktuālu kadastra informāciju par visiem valsts teritorijā esošajiem nekustamajiem īpašumiem, to objektiem, zemes vienības daļām un to īpašniekiem, tiesiskajiem valdītājiem, lietotājiem.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.12.2009. un 11.10.2018 . likumu, kas stājas spēkā 01.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "(1) Nekustamā īpašuma valsts kadastrs (turpmāk — Kadastrs) ir vienota uzskaites sistēma, kas, realizējot administratīvus, organizatoriskus un tehnoloģiskus procesus, nodrošina datu iegūšanu par valsts teritorijā esošajiem nekustamajiem īpašumiem, to objektiem, zemes vienības daļām un to īpašniekiem, tiesiskajiem valdītājiem, lietotājiem, kā arī minēto datu uzturēšanu un izmantošanu.",
+      "content": "(2) Lai nodrošinātu Kadastra darbību, tiek uzturēta un pilnveidota Nekustamā īpašuma valsts kadastra informācijas sistēma (turpmāk — Kadastra informācijas sistēma).\n(3) Kadastra informācijas sistēma ir valsts informācijas sistēma, kas satur oficiālus kadastra datus. Tās pārzinis un turētājs ir Valsts zemes dienests."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "(1) Kadastra informācijas sistēmā reģistrē un uztur kadastra teksta un telpiskos datus par kadastra objektiem, kas atrodas valsts teritorijā, vienlaikus saglabājot iepriekš reģistrētos (vēsturiskos) datus.",
+      "content": "(2) Kadastra telpiskie dati ir kadastra karte un kadastra objekta kadastrālās uzmērīšanas telpiskie dati."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Kadastra darbībai un informācijas sagatavošanai izmanto aktuālos kadastra datus. Par aktuāliem kadastra datiem uzskatāmi pēdējie Kadastra informācijas sistēmā šajā likumā noteiktajā kārtībā reģistrētie dati. Spēkā ir kadastra dokuments, kas satur aktuālus kadastra datus. Kadastra dokuments zaudē spēku, ja šā likuma 57.pantā noteiktajos gadījumos dokumentā iekļautie kadastra dati ir aktualizēti.",
+      "content": "(2) Kadastra subjektam ir tiesības pārliecināties par kadastra dokumentā iekļauto datu atbilstību dokumentiem, uz kuru pamata kadastra dati reģistrēti vai aktualizēti.\n(3) Pēc īpaša pieprasījuma kadastra informācijas sagatavošanai izmanto kadastra vēsturiskos datus un Valsts zemes dienesta arhīva dokumentu ziņas.\n(4) Valsts institūcijai, kura lēmuma pieņemšanā izmanto personas iesniegto kadastra dokumentu, Kadastra informācijas sistēmā ir tiesības pārliecināties par kadastra dokumentā iekļauto datu atbilstību aktuālajiem kadastra datiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "(1) Nekustamais īpašums šā likuma izpratnē ir nekustamā īpašuma objekts (zemes vienība vai būve) vai šo objektu kopība (zemes vienība un būve), kas saskaņā ar likuma \" Par nekustamā īpašuma ierakstīšanu zemesgrāmatās \" normām atbilst pastāvīga nodalījuma prasībām. Par nekustamo īpašumu uzskatāms arī dzīvokļa īpašums vai dzīvoklis, mākslinieka darbnīca, neapdzīvojamā telpa, kas nodota īpašumā līdz dzīvojamās mājas privatizācijai.",
+      "content": "(2) Kadastra informācijas sistēmas dati par personu, īpašuma sastāvu vai nekustamā īpašuma objektu līdz izmaiņu ierakstīšanai zemesgrāmatā var atšķirties no zemesgrāmatu datiem, ja tie neietekmē zemesgrāmatā nostiprinātās tiesības uz nekustamo īpašumu. Šajā gadījumā nekustamā īpašuma formēšanai, kadastrālai vērtēšanai un nekustamā īpašuma nodokļa aprēķināšanai izmanto Kadastra informācijas sistēmas datus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "(1) Šā likuma izpratnē par nekustamā īpašuma īpašnieku atzīstama:",
+      "content": "1) persona, kura atbilst Civillikumā noteiktajam īpašnieka jēdzienam;\n2) persona, kura reģistrēta Kadastra informācijas sistēmā kā īpašnieks un ieguvusi īpašuma tiesības uz:\na) dzīvokli, mākslinieka darbnīcu vai neapdzīvojamo telpu, kas privatizēta līdz dzīvojamās mājas privatizācijai likumā “ Par valsts un pašvaldību dzīvojamo māju privatizāciju ” noteiktajā kārtībā,\nb) dzīvokli, kas privatizēts vai atsavināts likumā “ Par kooperatīvo dzīvokļu privatizāciju ”, likumā “ Par lauksaimniecības uzņēmumu un zvejnieku kolhozu privatizāciju ” vai Latvijas PSR Ministru padomes un Latvijas Republikāniskās arodbiedrību padomes 1989.gada 24.jūlija lēmumā Nr.171 “Par valsts un sabiedriskā dzīvokļu fonda dzīvokļu un māju pārdošanu pilsoņiem personiskajā īpašumā” noteiktajā kārtībā,\nc) būvi līdz 1993.gada 5.aprīlim, pamatojoties uz likumu “ Par 1937.gada 22.decembra Zemesgrāmatu likuma spēka atjaunošanu un spēkā stāšanās kārtību ”,\nd) nekustamo īpašumu, kas saskaņā ar Civillikuma 1477.panta otro daļu uzskatāms par nekustamo īpašumu uz likuma pamata bez ierakstīšanas zemesgrāmatā.\n(2) Šā likuma izpratnē par nekustamā īpašuma tiesisko valdītāju atzīstama:\n1) persona, kura atbilst Civillikumā noteiktajam tiesiskā valdītāja jēdzienam, izņemot šā panta pirmajā daļā minētos gadījumus;\n2) persona, kura zemes reformas ietvaros ir ieguvusi nekustamo īpašumu, kas nav ierakstīts zemesgrāmatā, ja ar likumā noteiktās institūcijas lēmumu zeme piešķirta īpašumā par samaksu vai atjaunotas īpašuma tiesības uz to, izņemot šā panta pirmajā daļā minētos gadījumus;\n3) attiecībā uz būvi — persona, kurai ar līgumu, izņemot līgumu par apbūves tiesības piešķiršanu, noteiktas tiesības būvēt.\n(2 1 ) Šajā likumā noteiktās nekustamā īpašuma īpašnieka vai, ja tāda nav, — tiesiskā valdītāja tiesības un pienākumi ir piemērojami arī personai, kura zemesgrāmatā ierakstīta kā apbūves tiesīgā, attiecībā uz būvi, kas celta uz apbūves tiesības pamata.\n(3) Šā likuma izpratnē par lietotāju atzīstama persona:\n1) kurai īpašnieks, tiesiskais valdītājs vai normatīvajos aktos noteiktajos gadījumos vietējā pašvaldība vai valsts institūcija nodevusi lietojumā nekustamo īpašumu, nekustamā īpašuma objektu vai zemes vienības daļu, izņemot gadījumu, kad tas izdarīts uz nomas līguma pamata;\n2) kura ir tiesīga ierosināt būves noteikšanu, bet nav iesniegusi dokumentus par būves iegūšanu, izņemot pašvaldību, kura ierosina būves noteikšanu nekustamā īpašuma nodokļa vajadzībām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Aktuālo kadastra informāciju izmanto:",
+      "content": "1) jauna nekustamā īpašuma veidošanai, nekustamā īpašuma objekta, zemes vienības daļas noteikšanai, kadastrālajai vērtēšanai;\n2) īpašuma tiesību nostiprināšanai zemesgrāmatā;\n3) nekustamā īpašuma attīstības un apsaimniekošanas plānošanai;\n4) nekustamā īpašuma nodokļa administrēšanai;\n5) ekonomiskās attīstības, teritoriju un vides aizsardzības plānošanai, zemes ierīcības darbu veikšanai, valsts statistiskās informācijas sagatavošanai;\n6) citu informācijas sistēmu darbības nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "l nodaļa Vispārīgie noteikumi",
+      "section": "9",
+      "title": "(1) Zemes vienībai un zemes vienības daļai vai plānotai zemes vienībai un zemes vienības daļai nosaka nekustamā īpašuma lietošanas mērķi un lietošanas mērķim piekrītošo zemes platību. To atbilstoši Ministru kabineta noteiktajai kārtībai un vietējās pašvaldības teritorijas plānojumā noteiktajai izmantošanai vai likumīgi uzsāktajai izmantošanai nosaka:",
+      "content": "1) vietējā pašvaldība, kuras administratīvajā teritorijā atrodas konkrētā zemes vienība un zemes vienības daļa, izņemot šīs panta daļas 2.punktā minēto gadījumu;\n2) attiecīgā valsts institūcija — zemes vienībām, kas ir Aizsardzības ministrijas, Iekšlietu ministrijas, Ieslodzījuma vietu pārvaldes vai valsts drošības iestādes valdījumā vai lietošanā.\n(2) Vietējai pašvaldībai nekustamā īpašuma lietošanas mērķu noteikšanai ir tiesības apsekot zemes vienību, par to iepriekš informējot kadastra subjektu.\n(3) Nekustamā īpašuma lietošanas mērķu klasifikāciju un nekustamā īpašuma lietošanas mērķu noteikšanas un maiņas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Kadastra objekta formēšanas vispārīgie noteikumi",
+      "section": "10",
+      "title": "(1) Kadastra objekta formēšana ir process, kas ietver nekustamā īpašuma objekta vai zemes vienības daļas noteikšanu un nekustamā īpašuma veidošanu, ievērojot šā likuma un citu normatīvo aktu prasības.",
+      "content": "(2) Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana ir darbības, kuras personas veic, lai Kadastra informācijas sistēmā reģistrētu nekustamā īpašuma objektu vai zemes vienības daļu vai aktualizētu reģistrēta nekustamā īpašuma objekta vai zemes vienības daļas kadastra datus.\n(3) Nekustamā īpašuma veidošana ir darbības, kuras personas veic, lai Kadastra informācijas sistēmā reģistrētu jaunu nekustamo īpašumu kā nekustamā īpašuma objektu kopumu, ko veido viens vai vairāki nekustamā īpašuma objekti, vai grozītu nekustamā īpašuma sastāvu."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Kadastra objekta formēšanas vispārīgie noteikumi",
+      "section": "11",
+      "title": "(1) Nekustamā īpašuma objektu nosaka nekustamajam īpašumam, kas ierakstīts zemesgrāmatā. Sadala vai apvieno tikai zemesgrāmatā ierakstītu nekustamo īpašumu. Nekustamā īpašuma objektu nosaka vai nekustamo īpašumu veido, ja Kadastra informācijas sistēmā reģistrētās izmaiņas nekustamā īpašuma sastāvā ir ierakstītas zemesgrāmatā.",
+      "content": "(2) Šā panta pirmā daļa neattiecas uz:\n1) zemes reformu regulējošos normatīvajos aktos noteiktajos gadījumos valstij vai pašvaldībai piekrītošo un piederošo zemi pirms zemes pirmreizējas ierakstīšanas zemesgrāmatā;\n2) jaunbūvi, Kadastra informācijas sistēmā nereģistrētu būvi un tajā esošajām telpu grupām;\n3) gadījumu, kad Kadastra informācijas sistēmā reģistrētās izmaiņas nekustamā īpašuma sastāvā par kadastra objekta sadalīšanu, apvienošanu vai dzīvojamās mājas sadali dzīvokļa īpašumos vēl nav ierakstītas zemesgrāmatā un ir ierosināta kadastra objekta sadale vai apvienošana, kas atbilst zemesgrāmatā ierakstītajam nekustamā īpašuma sastāvam.\n(3) Ja darījuma priekšmets ir daļa no kadastra objekta, tā pirms darījuma veikšanas formējama atbilstoši šā likuma prasībām. Formēšanu neveic kadastra objekta domājamai daļai un šā likuma 19.panta 2.punktā minētajām zemes vienībām un zemes vienību daļām."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Kadastra objekta formēšanas vispārīgie noteikumi",
+      "section": "12",
+      "title": "Kadastra objekta formēšanu veic Valsts zemes dienests, izņemot kadastra objekta formēšanas ierosināšanu, kā arī zemes vienības un zemes vienības daļas kadastrālo uzmērīšanu.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Kadastra objekta formēšanas vispārīgie noteikumi",
+      "section": "13",
+      "title": "(1) Nekustamā īpašuma īpašniekam vai, ja tāda nav, — tiesiskajam valdītājam vai kadastra subjektam ir pienākums ierosināt būves noteikšanu, ja nekustamajā īpašumā ir Kadastra informācijas sistēmā nereģistrēta būve vai Kadastra informācijas sistēmā reģistrēta apvidū neesoša būve. Kadastra subjektam ir pienākums ierosināt kadastra objekta kadastra datu aktualizāciju Kadastra informācijas sistēmā, ja mainīts nekustamā īpašuma sastāvs vai nekustamā īpašuma objektu raksturojošie dati.",
+      "content": "(2) Kadastra subjektam ir pienākums sešu mēnešu laikā pēc būvatļaujas derīguma termiņa izbeigšanās [izņemot gadījumus, kad būvniecība nav uzsākta, par būvniecību uzsākta tiesvedība vai kad būvniecība ir pārtraukta (apturēta)] ierosināt kadastra objekta reģistrāciju vai kadastra datu aktualizāciju Kadastra informācijas sistēmā, ja uzbūvēta vai nojaukta būve, veikta būves, būves daļas vai telpu grupas renovācija vai rekonstrukcija. Par šo pienākumu nepildīšanu noteiktā termiņā nekustamā īpašuma īpašnieks vai, ja tāda nav, — tiesiskais valdītājs vai kadastra subjekts ir atbildīgs normatīvajos aktos noteiktajā kārtībā.\n(3) (Izslēgta ar 30.10.2014 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Kadastra objekta formēšanas vispārīgie noteikumi",
+      "section": "14",
+      "title": "(1) Kadastra subjekts obligāti ierosina, lai par nekustamā īpašuma objektu tiek noteikta būve, ko saskaņā ar likumu \" Par nekustamā īpašuma ierakstīšanu zemesgrāmatās \" ieraksta zemesgrāmatā vai saskaņā ar likumu \" Par nekustamā īpašuma nodokli \" apliek ar nekustamā īpašuma nodokli.",
+      "content": "(2) Ar nekustamā īpašuma nodokli apliekamās inženierbūves īpašniekam vai, ja tāda nav, - tiesiskajam valdītājam, vai, ja tāda nav, - lietotājam ir pienākums triju mēnešu laikā pēc tās uzbūvēšanas ierosināt šīs būves noteikšanu."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "15",
+      "title": "Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana nepieciešama:",
+      "content": "1) lai Kadastra informācijas sistēmā:\na) reģistrētu jaunu nekustamā īpašuma objektu vai zemes vienības daļu,\nb) dzēstu ierakstu par reģistrētu nekustamā īpašuma objektu vai zemes vienības daļu,\nc) aktualizētu kadastra datus par reģistrētas zemes vienības vai zemes vienības daļas robežu, būves vai telpu grupas ārējo kontūru vai konstruktīvo elementu savstarpējo novietojumu;\n2) lai apvidū izmainītu vai atjaunotu reģistrētas zemes vienības vai zemes vienības daļas robežas;\n3) lai veiktu darījumu ar nekustamā īpašuma objektu;\n4) lai nostiprinātu īpašuma tiesības zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "16",
+      "title": "Par nekustamā īpašuma objektu var noteikt:",
+      "content": "1) zemes vienību, izņemot:\na) daļu no zemes vienības, ko pievieno blakus esošai zemes vienībai,\nb) zemes vienības daļu;\n2) būvi, izņemot:\na) pagaidu un sezonas būvi,\nb) meliorācijas būvi bez ēkas pazīmēm (tai skaitā meliorācijas dambi un aizsprostu),\nc) aizsardzības spēku speciālās nozīmes būvi;\n3) telpu grupu, izņemot atsevišķā telpu grupā ietilpstošu telpu, ja telpu grupa sastāv no vairākām telpām, un neizbūvētus ēkas bēniņus."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "17",
+      "title": "Nekustamā īpašuma objektu vai zemes vienības daļu noteikšanā izmanto šādu pamatinformāciju:",
+      "content": "1) ģeodēzisko tīklu datus;\n2) ortofotokartes un topogrāfiskās kartes un plānus;\n3) kadastra informāciju;\n4) valsts vienotās datorizētās zemesgrāmatas informāciju;\n5) citu valsts vai pašvaldības informācijas sistēmu informāciju."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "18",
+      "title": "Nekustamā īpašuma objekta un zemes vienības daļas noteikšana ietver šādas darbības:",
+      "content": "1) noteikšanas ierosināšana;\n2) (izslēgts ar 17.06.2010 . likumu) ;\n3) kadastrālā uzmērīšana, izņemot gadījumus, kad saskaņā ar kadastra jomu regulējošiem normatīvajiem aktiem to var neveikt;\n4) (izslēgts ar 17.06.2010 . likumu) ;\n5) kadastrālās vērtības aprēķināšana;\n6) nekustamā īpašuma objekta kadastra datu reģistrācija vai aktualizācija Kadastra informācijas sistēmā;\n7) (izslēgts ar 17.06.2010 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 18.1",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "18.1",
+      "title": "18. 1 pants. (1) Nekustamā īpašuma objekta noteikšanas procesā ievēro šādus nosacījumus:",
+      "content": "l) pie dzīvokļa īpašumiem piederošo kopīpašumā esošo daudzdzīvokļu mājas un zemes daļu nesadala reālās daļās;\n2) sadalot kopīpašumā esošus nekustamā īpašuma objektus, katrs jaunais nekustamā īpašuma objekts līdz īpašuma tiesību nostiprināšanai zemesgrāmatā kopīpašniekiem pieder tādās pašās domājamās daļās kā sadalītais nekustamā īpašuma objekts;\n3) ja uz kopīpašumā esošas zemes vienības atrodas zemes īpašniekiem piederoša kopīpašumā esoša būve un ja kopīpašnieki vienojas par tādu kopīpašuma reālās sadales veidu, kas saistīts arī ar būves sadali, šādu kopīpašumu reāli sadala tā, lai zemes sadales līnija sakristu ar būves sadales līniju, ko zemes virsmas līmenī veido pirmā stāva sadales vertikālā plakne, un katra atdalītā būve pilnībā atrastos atdalītās zemes vienības robežās;\n4) apvieno:\na) tikai viena veida nekustamā īpašuma objektus — zemes vienību ar zemes vienību, būvi ar būvi, telpu grupu ar telpu grupu,\nb) blakus esošus zemesgrāmatā ierakstītus nekustamā īpašuma objektus, izveidojot vienu nekustamā īpašuma objektu,\nc) vairākiem īpašniekiem piederošus blakus esošus zemesgrāmatā ierakstītus nekustamā īpašuma objektus, izveidojot kopīpašumā esošu nekustamā īpašuma objektu.\n(2) Nekustamā īpašuma objektus apvieno, ja zemes vienībām ir kopīgs vismaz viens robežas posms, būvēm ir kopīga vismaz viena ārējā plakne (siena), telpu grupas atrodas vienā būvē un telpu grupu norobežojošās plaknes (sienas vai pārsegumi) savstarpēji robežojas horizontālā vai vertikālā plaknē."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "19",
+      "title": "Pamatojoties uz šā likuma 24.panta pirmās daļas 1., 2., 3., 5., 6., 7. un 11.punktā minēto personu iesniegumu, atbilstoši normatīvo aktu un šā likuma 34.panta nosacījumiem Kadastra informācijas sistēmā drīkst:",
+      "content": "1) sadalīt reģistrētu nekustamā īpašuma objektu vairākos nekustamā īpašuma objektos;\n2) pievienot daļu zemes vienības blakus esošai zemes vienībai, neveidojot jaunu zemes vienību;\n3) pievienot vienu vai vairākas telpas blakus esošai telpu grupai, neveidojot jaunu telpu grupu, ja telpas atrodas vienā būvē un telpu norobežojošās plaknes (sienas vai pārsegumi) savstarpēji robežojas horizontālā vai vertikālā plaknē;\n4) apvienot vairākus viena veida nekustamā īpašuma objektus vienā nekustamā īpašuma objektā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "20",
+      "title": "Par jaunu nekustamā īpašuma objektu nosaka:",
+      "content": "1) sadalīšanas rezultātā no reģistrēta nekustamā īpašuma objekta atdalītu jaunu nekustamā īpašuma objektu (vienlaikus maina sadalāmā reģistrētā nekustamā īpašuma objekta ārējo kontūru vai apjomu);\n2) jaunbūvi, Kadastra informācijas sistēmā nereģistrētu būvi un tajā esošās telpu grupas."
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "20.1",
+      "title": "20. 1 pants. (Izslēgts ar 29.09.2022 . likumu, kas stājas spēkā 01.12.2022. )",
+      "content": "20. 1 pants. (Izslēgts ar 29.09.2022 . likumu, kas stājas spēkā 01.12.2022. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "21",
+      "title": "Ierakstu par nekustamā īpašuma objektu Kadastra informācijas sistēmā dzēš šādos gadījumos:",
+      "content": "1) apvienošanas rezultātā reģistrētu nekustamā īpašuma objektu pievieno citam reģistrētam nekustamā īpašuma objektam (vienlaikus maina apvienotā reģistrētā nekustamā īpašuma objekta ārējo kontūru vai apjomu) un aktualizē datus Kadastra informācijas sistēmā;\n2) normatīvajos aktos noteiktajā kārtībā būvi atzīst par apvidū neesošu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "22",
+      "title": "Lai nodrošinātu nekustamā īpašuma objekta noteikšanu, Ministru kabinets nosaka:",
+      "content": "1) dokumentus, kādus šā likuma 24.pantā minētās personas iesniedz Valsts zemes dienestam, lai uzsāktu nekustamā īpašuma objekta vai zemes vienības daļas noteikšanas procesu;\n2) Valsts zemes dienesta rīcībā esošo dokumentu izmantošanu;\n3) nekustamā īpašuma objekta un zemes vienības daļas (tai skaitā valsts noslēpuma statusam atbilstošas būves un nekustamā īpašuma objekta vai zemes vienības daļas, kuru noteikšanu ierosinājusi pašvaldība) kadastrālās uzmērīšanas kārtību, raksturojošos datus, mērījumu precizitāti, mērījumu pieļaujamo nesaisti, kadastrālās uzmērīšanas dokumentu saturu, kā arī saskaņošanas kārtību un apjomu;\n4) (izslēgts no 01.02.2025. ar 30.05.2024 . likumu. Sk. pārejas noteikumu 52. punktu) ;\n5) nekustamā īpašuma lietu un citu kadastra dokumentu glabāšanas kārtību;\n6) termiņu, kādā veicama būves kadastrālā uzmērīšana un zemes un būvju kadastrālās uzmērīšanas dokumenti iesniedzami reģistrācijai Kadastra informācijas sistēmā;\n7) kadastrālās uzmērīšanas datu un dokumentu labošanas kārtību;\n8) gadījumus, kad var neveikt kadastrālo uzmērīšanu."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "23",
+      "title": "Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana ir pabeigta pēc nekustamā īpašuma objekta vai zemes vienības daļas datu reģistrācijas Kadastra informācijas sistēmā un noteikšanas dokumentu nodošanas Valsts zemes dienesta arhīvā.",
+      "content": "23.pants. Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana ir pabeigta pēc nekustamā īpašuma objekta vai zemes vienības daļas datu reģistrācijas Kadastra informācijas sistēmā un noteikšanas dokumentu nodošanas Valsts zemes dienesta arhīvā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "24",
+      "title": "(1) Nekustamā īpašuma objekta noteikšanu ierosina:",
+      "content": "1) nekustamā īpašuma īpašnieks vai, ja tāda nav, — tiesiskais valdītājs vai kadastra subjekts;\n2) valsts institūcija vai vietējā pašvaldība par zemi, kas tai piekrīt vai pieder saskaņā ar likumu “ Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās ”;\n3) vietējā pašvaldība — attiecībā uz zemes reformas pabeigšanai paredzēto zemi;\n4) valdošā nekustamā īpašuma īpašnieks vai, ja tāda nav, — tiesiskais valdītājs, kurš iesniedzis dokumentu par ceļa servitūta nodibināšanu vai izbeigšanu, — attiecībā uz nekustamā īpašuma apgrūtinājuma reģistrāciju Kadastra informācijas sistēmā;\n5) persona, kura iesniegumā zvērinātam notāram ir izteikusi gribu pieņemt mantojumu, uzrādot šā iesnieguma\nnorakstu, — attiecībā uz būvi vai telpu grupu bez tiesībām ierosināt ieraksta par būvi dzēšanu;\n6) persona, kurai šādas tiesības vai pienākumus noteikusi tiesa;\n7) valsts institūcija vai vietējā pašvaldība, kurai likumā par attiecīgā nekustamā īpašuma atsavināšanu sabiedrības vajadzībām uzlikts pienākums atsavinātos nekustamos īpašumus ierakstīt zemesgrāmatā, — attiecībā uz atdalīto (atsavināmo) un paliekošo (neatsavināmo) nekustamā īpašuma objektu;\n8) zemes īpašnieks — attiecībā uz būvēm ar nenoskaidrotu piederību, kuras atrodas uz viņa zemes, vai Kadastra informācijas sistēmā uz viņa zemes reģistrētām apvidū neesošām būvēm ar nenoskaidrotu piederību;\n9) persona, uz kuras vārda saskaņā ar tiesas lēmumu nostiprināms pārdotais nekustamais īpašums (nekustamā īpašuma izsoles akta apstiprināšana), — attiecībā uz ieraksta par iegūtā nekustamā īpašuma sastāvā Kadastra informācijas sistēmā reģistrētu, bet apvidū neesošu būvi dzēšanu;\n10) kopīpašuma gadījumā jebkurš no nekustamā īpašuma īpašniekiem vai, ja tāda nav, — tiesiskajiem valdītājiem vai kadastra subjektiem — attiecībā uz būves pirmreizējo reģistrāciju Kadastra informācijas sistēmā bez tiesībām ierosināt būves sadalīšanu, apvienošanu vai ieraksta par būvi dzēšanu, kā arī attiecībā uz šā likuma 57. 1 pantā noteikto datu aktualizāciju;\n11) cita persona, kurai likumā noteiktas šādas tiesības;\n12) persona, kura lieto inženierbūvi un iesniedz inženierbūves datu deklarāciju, ja inženierbūvei nav reģistrēts īpašnieks vai tiesiskais valdītājs.\n(2) Zemes vienības daļas noteikšanu ierosina:\n1) kadastra subjekts;\n2) valsts institūcija vai vietējā pašvaldība par zemi, kas tai piekrīt vai pieder saskaņā ar likumu “ Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās ”;\n3) vietējā pašvaldība — attiecībā uz zemes reformas pabeigšanai paredzēto zemi.\n(3) Vietējai pašvaldībai, ja tā nav kadastra subjekts, ir tiesības ierosināt nekustamā īpašuma objekta vai tādas zemes vienības daļas noteikšanu, kuru saskaņā ar likumu “ Par nekustamā īpašuma nodokli ” apliek ar nekustamā īpašuma nodokli.\n(4) Ja tiek veikta zemes kadastrālā uzmērīšana, zemes kadastrālās uzmērīšanas dokumentus kadastra objekta reģistrācijai vai datu aktualizācijai Kadastra informācijas sistēmā iesniedz un dokumentus saņem zemes kadastrālais uzmērītājs uz šā panta pirmās daļas 1., 2., 3., 4., 6., 7., 10. un 11.punktā, otrajā un trešajā daļā minēto personu iesnieguma pamata. Ja tiek veikta zemes vienības vai zemes vienības daļas robežu izvērtēšana un atjaunošana, minētās personas iesniegumu kadastra datu aktualizācijai neiesniedz.\n(5) Ministru kabinets nosaka, kādos gadījumos būvniecības procesa ietvaros iesniegtais iesniegums vienlaikus ir uzskatāms arī par šā panta pirmajā daļā minēto personu iesniegumu ierosināt kadastra objekta noteikšanu, nekustamā īpašuma veidošanu vai tā sastāva grozīšanu.\n(6) Ja kadastra objekta reģistrāciju vai kadastra datu aktualizāciju ierosina, izmantojot tiešsaistes formu, ierosinātāju identificē, lietojot tajā pieejamos elektroniskās identifikācijas līdzekļus. Šādi iesniegtu ierosinājumu var neparakstīt ar drošu elektronisko parakstu. Ierosinājumam pievieno normatīvajos aktos noteiktos datus vai dokumentus.\n(7) Šā panta sestās daļas nosacījumi neattiecas uz šā panta ceturtajā daļā, kā arī šā likuma 60. 2 pantā noteiktajiem gadījumiem."
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "24.1",
+      "title": "24. 1 pants.",
+      "content": "(Izslēgts ar 11.10.2018 . likumu, kas stājas spēkā 01.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "25",
+      "title": "25.pants.",
+      "content": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "26",
+      "title": "(1) Veicot zemes vienības vai zemes vienības daļas kadastrālo uzmērīšanu:",
+      "content": "1) apvidū ierīko detālplānojumā vai zemes ierīcības projektā iezīmētās nekustamā īpašuma objekta vai zemes robežu plānā plānotās zemes vienības daļas robežas;\n2) Latvijas ģeodēzisko koordinātu sistēmā uzmēra zemes vienības un zemes vienības daļas robežas, situācijas elementus, aprēķina zemes vienību un zemes vienības daļu raksturojošos datus un sagatavo kadastrālās uzmērīšanas dokumentus.\n(2) Detālplānojums nav nepieciešams, ja veic atkārtotu zemes vienības vai zemes vienības daļas kadastrālo uzmērīšanu vai kadastrāli uzmēra zemes vienības daļu. Zemes ierīcības projekts nav nepieciešams Zemes ierīcības likumā noteiktajos gadījumos.\n(3) Veicot būves un telpu grupas kadastrālo uzmērīšanu, uzmēra būves un telpu grupas ārējo kontūru, piesaistot to Latvijas ģeodēzisko koordinātu sistēmai, sagatavo kadastrālās uzmērīšanas dokumentus, aprēķina būvi un telpu grupu raksturojošos datus.\n(4) Normatīvajos aktos noteiktajos gadījumos var veikt arī atsevišķas kadastrālās uzmērīšanas darbības."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "27",
+      "title": "Kadastra informācijas sistēmā reģistrētas, ar robežzīmēm apvidū nostiprinātas zemes vienības platība, kas apvidū noteikta ar grafiskām metodēm, var atšķirties no kadastrālajā uzmērīšanā noteiktās platības, ja uzmērīti vieni un tie paši robežpunkti. Šajā gadījumā kadastrālās uzmērīšanas dokumentos un Kadastra informācijas sistēmā aktualizē datus atbilstoši kadastrālajā uzmērīšanā noteiktajai platībai.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 27.1",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "27.1",
+      "title": "27. 1 pants. Ēku, ūdens lietošanas vai ceļa servitūta teritorijas reģistrāciju, aktualizāciju un dzēšanu ierosina rajona (pilsētas) tiesā, iesniedzot nostiprinājuma lūgumu par attiecīgā servitūta vai šīs tiesības nodrošinājuma nostiprināšanu, grozīšanu vai dzēšanu, ja:",
+      "content": "1) zemes vienība ir ierakstīta zemesgrāmatā;\n2) dzēšanas gadījumā servitūta tiesība vai šīs tiesības nodrošinājums, vai atzīme par servitūtu kā tiesību aprobežojumu ir ierakstīta zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "28",
+      "title": "Nekustamā īpašuma objekta apgrūtinājumu klasificēšanu nosaka Ministru kabinets.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.10.2014. un 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "29",
+      "title": "(1) Zemes kadastrālo uzmērīšanu veic sertificētas personas, kuru civiltiesiskā atbildība par profesionālo darbību ir apdrošināta.",
+      "content": "(2) Sertifikātu zemes kadastrālajam uzmērītājam izsniedz vai atsaka izsniegt, sertifikāta darbību aptur vai atjauno, sertifikāta darbības termiņu pagarina vai atsaka to pagarināt un sertifikātu anulē, kā arī sertificēto personu darbības uzraudzību veic un sertificēto personu kvalifikācijas celšanu nodrošina Ministru kabineta pilnvarota sertificēšanas institūcija.\n(2 1 ) Sertificēšanas institūcijai zemes kadastrālās uzmērīšanas jomā deleģēto uzdevumu izpildes uzraudzību veic Valsts zemes dienests, izvērtējot sertificēšanas institūcijas iesniegto pārskatu par tai valsts deleģēto uzdevumu izpildi un sniedzot sertificēšanas institūcijai ierosinājumus par tai valsts deleģēto un normatīvajos aktos noteikto uzdevumu izpildes uzlabošanu. Pārskata saturu, tā iesniegšanu un izskatīšanu nosaka Ministru kabinets.\n(3) (Izslēgta ar 23.11.2016 . likumu)\n(4) Sertifikāta izsniegšanas un reģistrēšanas, sertifikāta darbības apturēšanas un atjaunošanas, sertifikāta darbības termiņa pagarināšanas un sertifikāta anulēšanas kārtību, sertificēto personu darbības uzraudzības kārtību, civiltiesiskās atbildības apdrošināšanas kārtību un apdrošināšanas līguma minimālo apmēru nosaka Ministru kabinets.\n(4 1 ) Ministru kabinets apstiprina maksas pakalpojumu cenrādi par zemes kadastrālās uzmērīšanas veicēju sertifikāciju, sertifikāta darbības termiņa pagarināšanu un sertificēto personu darbības uzraudzību.\n(5) Šā panta otrajā daļā minētos sertificēšanas institūcijas izdotos administratīvos aktus var apstrīdēt Valsts zemes dienestā. Valsts zemes dienesta lēmumu var pārsūdzēt Administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību un izpildi."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "30",
+      "title": "Būves un telpu grupas kadastrālo uzmērīšanu veic Valsts zemes dienests.",
+      "content": "30.pants. Būves un telpu grupas kadastrālo uzmērīšanu veic Valsts zemes dienests."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "31",
+      "title": "Personai, kura veic nekustamā īpašuma objekta vai zemes vienības daļas noteikšanu, ir tiesības:",
+      "content": "1) apsekot zemes vienības robežas un teritoriju, iekļūt būvēs un telpu grupās, kā arī veikt citus nekustamā īpašuma objekta vai zemes vienības daļas noteikšanai nepieciešamos pasākumus, informējot nekustamā īpašuma īpašnieku vai, ja tāda nav, — tiesisko valdītāju vai kadastra subjektu, ja noteikšanas ierosinātājs ir cita persona;\n2) veikt noteikšanas darbības uz blakus esošās zemes vienības, par paredzētajām darbībām informējot attiecīgo kadastra subjektu;\n3) pieaicināt tiesībaizsardzības vai kārtību sargājošo institūciju pārstāvjus, ja tiek traucēta nekustamā īpašuma objekta vai zemes vienības daļas noteikšana."
+    },
+    {
+      "provision_ref": "Art. 31.1",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "31.1",
+      "title": "31. 1 pants. Nekustamā īpašuma īpašniekam vai, ja tāda nav, — tiesiskajam valdītājam ir pienākums pēc tās personas uzaicinājuma, kura veic zemes, būves vai telpu grupas kadastrālo uzmērīšanu, nodrošināt piekļuvi uzmērāmajam nekustamā īpašuma objektam vai zemes vienības daļai.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 31.2",
+      "chapter": "III nodaļa Nekustamā īpašuma objekta vai zemes vienības daļas noteikšana",
+      "section": "31.2",
+      "title": "31. 2 pants. Zemes kadastrālajam uzmērītājam ir pienākums nodrošināt zemes kadastrālo uzmērīšanu regulējošos normatīvajos aktos noteikto dokumentu uzkrāšanu, glabāšanu, pieejamību un izmantošanu, kā arī izsniegt personai dokumentu kopijas, izrakstus un norakstus.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 11.04.2012. )"
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "32",
+      "title": "(1) Nekustamo īpašumu veido un tā sastāvu groza normatīvajos aktos noteiktajā kārtībā.",
+      "content": "(2) Nekustamo īpašumu veido tikai no tiem nekustamā īpašuma objektiem, kuri ir noteikti atbilstoši šā likuma prasībām.\n(3) Nekustamā īpašuma veidošanu un tā sastāva grozīšanu ierosina šā likuma 24.panta pirmās daļas 1., 2., 3., 5., 6., 7., 9., 10. un 11.punktā un trešajā daļā minētās personas, iesniedzot iesniegumu. Šā likuma 24.panta ceturtajā daļā minētajā gadījumā personas iesniegumu kopā ar kadastrālās uzmērīšanas dokumentiem Valsts zemes dienestam iesniedz zemes kadastrālais uzmērītājs."
+    },
+    {
+      "provision_ref": "Art. 32.1",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "32.1",
+      "title": "32. 1 pants. (1) Nekustamā īpašuma veidošanu un tā sastāva grozīšanu Kadastra informācijas sistēmā reģistrētiem nekustamā īpašuma objektiem ierosina rajona (pilsētas) tiesā, ja nekustamais īpašums ir ierakstīts zemesgrāmatā vai veidojams patstāvīgs būvju īpašums.",
+      "content": "(2) Šā panta pirmās daļas noteikumus nepiemēro, ja veido dzīvokļa īpašumu vai groza tā sastāvu.\n(3) Ja nekustamā īpašuma objekts nav reģistrēts Kadastra informācijas sistēmā vai neatbilst prasībām, kas noteiktas normatīvajos aktos par nekustamā īpašuma ierakstīšanu zemesgrāmatās , vispirms ierosina nekustamā īpašuma objekta reģistrāciju vai kadastra datu aktualizāciju Valsts zemes dienestā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "33",
+      "title": "Nekustamo īpašumu veido:",
+      "content": "1) izveidojot jaunu nekustamo īpašumu;\n2) sadalot reģistrētu nekustamo īpašumu vairākos nekustamajos īpašumos;\n3) apvienojot reģistrētus nekustamos īpašumus vienā nekustamajā īpašumā;\n4) grozot reģistrēta nekustamā īpašuma sastāvu, no tā atdalot nekustamā īpašuma objektu;\n5) grozot reģistrēta nekustamā īpašuma sastāvu, tam pievienojot nekustamā īpašuma objektu."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "34",
+      "title": "(1) Nekustamā īpašuma sastāvā pēc šā likuma 24.panta pirmās daļas 1., 2., 3., 5., 6., 7., 10. un 11.punktā un trešajā daļā minētās personas izvēles saskaņā ar normatīvajiem aktiem Valsts zemes dienests iekļauj šādu nekustamā īpašuma objektu vai nekustamā īpašuma objektu kopību vienā no šādiem gadījumiem:",
+      "content": "1) vienā administratīvajā teritorijā esošās zemes vienības un uz tām esošās zemes īpašniekam piederošās būves;\n2) vienā zemes vienībā esošās būves kā patstāvīgu nekustamo īpašumu likuma \" Par atjaunotā Latvijas Republikas 1937.gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un kārtību \" 14.pantā noteiktajos gadījumos;\n3) vienā dzīvojamā mājā esošās telpu grupas, kas savstarpēji robežojas horizontālā vai vertikālā plaknē, kopā ar kopīpašumā esošo domājamo daļu.\n(2) Ja zemi, uz kuras kā patstāvīgs nekustamais īpašums atrodas zemesgrāmatā ierakstīta un dzīvokļa īpašumos sadalīta daudzdzīvokļu māja, normatīvajos aktos noteiktajos gadījumos iegūst daudzdzīvokļu mājā esošo dzīvokļa īpašumu īpašnieki, iegūto zemes kopīpašumu nosaka kā dzīvokļa īpašuma sastāvā ietilpstošo zemes kopīpašuma domājamo daļu.\n(3) Kā dzīvokļa īpašums veidojams atsevišķais īpašuma objekts un kopīpašuma objekta domājamā daļa."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "35",
+      "title": "Ja zemes vienība un zemes īpašniekam piederošās būves ir reģistrētas Kadastra informācijas sistēmā kā vienots nekustamais īpašums, tad, dalot nekustamo īpašumu, būve nav atdalāma no zemes vienības, uz kuras tā atrodas.",
+      "content": "35.pants. Ja zemes vienība un zemes īpašniekam piederošās būves ir reģistrētas Kadastra informācijas sistēmā kā vienots nekustamais īpašums, tad, dalot nekustamo īpašumu, būve nav atdalāma no zemes vienības, uz kuras tā atrodas."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "36",
+      "title": "(1) Ierakstu par nekustamo īpašumu Kadastra informācijas sistēmā dzēš, saglabājot informāciju par nekustamā īpašuma objektu, ja ir saņemta informācija par nekustamā īpašuma dzēšanu no valsts vienotās datorizētās zemesgrāmatas. Ierakstu par nekustamā īpašuma objektu dzēš šā likuma 21.pantā noteiktajos gadījumos.",
+      "content": "(2) Visus vienā dzīvojamā mājā esošos dzīvokļa īpašumus apvienojot vienā nekustamajā īpašumā, Kadastra informācijas sistēmā visus ierakstus par dzīvojamā mājā esošajiem dzīvokļa īpašumiem dzēš pēc informācijas saņemšanas no valsts vienotās datorizētās zemesgrāmatas."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "IV nodaļa Nekustamā īpašuma veidošana, tā sastāva grozīšana un ieraksta par nekustamo īpašumu dzēšana Kadastra informācijas sistēmā",
+      "section": "37",
+      "title": "Veidojot jaunu nekustamo īpašumu vai dzēšot ierakstu par nekustamo īpašumu, vienlaikus groza tā reģistrētā nekustamā īpašuma sastāvu, kuram pievieno vai no kura atdala nekustamo īpašumu vai nekustamā īpašuma objektu, kā arī to raksturojošos datus un aktualizē datus Kadastra informācijas sistēmā.",
+      "content": "37.pants. Veidojot jaunu nekustamo īpašumu vai dzēšot ierakstu par nekustamo īpašumu, vienlaikus groza tā reģistrētā nekustamā īpašuma sastāvu, kuram pievieno vai no kura atdala nekustamo īpašumu vai nekustamā īpašuma objektu, kā arī to raksturojošos datus un aktualizē datus Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "38",
+      "title": "Kadastra objekta formēšanas procesā noteikto nekustamā īpašuma objektu, zemes vienības daļu un izveidoto nekustamo īpašumu reģistrē Kadastra informācijas sistēmā.",
+      "content": "38.pants. Kadastra objekta formēšanas procesā noteikto nekustamā īpašuma objektu, zemes vienības daļu un izveidoto nekustamo īpašumu reģistrē Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "39",
+      "title": "39.pants.",
+      "content": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "40",
+      "title": "Kadastra objektu Kadastra informācijas sistēmā reģistrē, piešķirot identifikatoru ( 61.pants ), ierakstot ziņas no noteikšanas dokumentiem un citām valsts vai pašvaldības informācijas sistēmām.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 08.03.2012 . likumu, kas stājas spēkā 11.04.2012. )"
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "41",
+      "title": "(1) Kadastra objektus telpiski attēlo Kadastra kartē.",
+      "content": "(2) Kadastra kartē drīkst izlīdzināt nekustamā īpašuma objektu vai zemes vienības daļu robežu datus atbilstoši kadastrālās uzmērīšanas dokumentiem normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "42",
+      "title": "Kadastra objekta reģistrācija Kadastra informācijas sistēmā ietver:",
+      "content": "1) kadastra objekta pirms­reģistrāciju normatīvajos aktos noteiktajos gadījumos;\n2) kadastra objekta noteikšanas dokumentos sniegto ziņu reģistrāciju;\n3) citu valsts vai pašvaldības informācijas sistēmu ziņu ierakstīšanu (arī elektroniskā veidā);\n4) apliecinājuma sagatavošanu par kadastra objekta reģistrāciju Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "43",
+      "title": "Kadastra informācijas sistēmā pirmsreģistrācijas rezultātā:",
+      "content": "1) kadastra objektam piešķir kadastra identifikatoru;\n2) ieraksta sākotnējās ziņas par kadastra objektu."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "44",
+      "title": "(1) Par nekustamā īpašuma objektu Kadastra informācijas sistēmā:",
+      "content": "1) reģistrē un uztur šādas ziņas:\na) kadastra apzīmējumu,\nb) kadastrālās uzmērīšanas datus,\nc) nekustamā īpašuma lietošanas mērķus un tiem piekritīgās platības,\nd) nekustamā īpašuma objekta apgrūtinājumus atbilstoši Apgrūtināto teritoriju informācijas sistēmā iekļautajiem datiem par apgrūtinātajām teritorijām un to robežām un ēku, ūdens lietošanas vai ceļa servitūta teritoriju,\ne) kadastrālās vērtēšanas datus,\nf) norādi uz nekustamo īpašumu, kurā ietilpst nekustamā īpašuma objekts,\ng) norādi uz zemes vienības daļu;\n2) ieraksta šā likuma 84. pantā minēto personu sniegtās ziņas.\n(2) Papildus šā panta pirmajā daļā minētajām ziņām ieraksta:\n1) tā dokumenta rekvizītus, no kura ierakstītas ziņas;\n2) nekustamā īpašuma objekta lietas arhīva reģistrācijas numuru;\n3) ziņu ierakstīšanas datumu;\n4) ziņas par nekustamā īpašuma īpašnieku vai, ja tāda nav, — tiesisko valdītāju, ja šā likuma 20.panta 2.punktā minētajos gadījumos ir noteikts jauns nekustamā īpašuma objekts un nav izveidots nekustamais īpašums šā likuma 33.panta noteiktajā kārtībā;\n4 1 ) ziņas par būves tiesisko valdītāju, ja šā likuma 24. panta pirmās daļas 8. punktā minētā persona, pamatojoties uz likuma \"Par atjaunotā Latvijas Republikas 1937. gada Civillikuma ievada, mantojuma tiesību un lietu tiesību daļas spēkā stāšanās laiku un piemērošanas kārtību\" 14. panta ceturto daļu, iesniedz iesniegumu un Valsts zemes dienesta rīcībā nav dokumentu par būves piederību citai personai. Zemes īpašnieks apliecina, ka nav strīda par tiesībām.\n4 2 ) ziņas par apbūves tiesīgo, ja būve celta uz apbūves tiesības pamata;\n5) citas normatīvajos aktos noteiktās ziņas, kas nepieciešamas citu valsts reģistru darbības nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "45",
+      "title": "45.pants.",
+      "content": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "46",
+      "title": "Pēc tam, kad veiktas šā likuma 44.pantā noteiktās darbības, Kadastra informācijas sistēmā aprēķina nekustamā īpašuma objekta kadastrālo vērtību un reģistrē to Kadastra informācijas sistēmā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "47",
+      "title": "Kadastra informācijas sistēmā ieraksta šā likuma 44. vai 50.pantā minētās ziņas par:",
+      "content": "1) (izslēgts ar 11.10.2018 . likumu) ;\n2) lietošanā nodoto valsts vai vietējās pašvaldības nekustamā īpašuma objektu, norādot lietotāju."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "48",
+      "title": "Pēc kadastra subjekta pieprasījuma Kadastra informācijas sistēmā ieraksta šā likuma 44.pantā minētās ziņas par lietojumā nodotu nekustamā īpašuma objektu, bet attiecībā uz zemes vienības daļu — šā likuma 50.pantā minētās ziņas, norādot lietotāju.",
+      "content": "( 08.03.2012 . likuma redakcijā ar grozījumiem, kas izdarīti ar 11.10.2018 . likumu, kas stājas spēkā 01.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 48.1",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "48.1",
+      "title": "48. 1 pants. (1) Kadastra informācijas sistēmā reģistrē ziņas par tiesiskā valdītāja maiņu, ja darījuma rezultātā būvi, kura nav ierakstāma zemesgrāmatā kā patstāvīgs īpašuma objekts, iegūst cita persona. Ziņas ieraksta, pamatojoties uz kadastra subjekta vai ieguvēja iesniegumu, kam pievienots darījuma dokuments notariāla akta formā vai ar notāra vai bāriņtiesas apliecinātu parakstu. Ja iesniegumu iesniedz īpašnieka pilnvarota persona, iesniegumam pievieno pilnvaru ar notāra vai bāriņtiesas apliecinātu parakstu.",
+      "content": "(2) Būvei, kura nav ierakstāma zemesgrāmatā kā patstāvīgs īpašuma objekts, Kadastra informācijas sistēmā ieraksta vai dzēš atzīmi par šķēršļiem ierakstīt ziņas par tiesiskā valdītāja maiņu, pamatojoties uz tiesas nolēmumu, maksātnespējas procesa administratora pieteikumu, zvērināta tiesu izpildītāja pieprasījumu, nodokļu administrācijas lēmumu vai kriminālprocesa virzītāja lēmumu."
+    },
+    {
+      "provision_ref": "Art. 48.2",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "48.2",
+      "title": "48. 2 pants. Kadastra informācijas sistēmā ieraksta ziņas par būves, kura Kadastra informācijas sistēmā ir iekļauta zemesgrāmatā ierakstīta nekustamā īpašuma sastāvā, bet nav ierakstīta zemesgrāmatā, tiesisko valdītāju pēc tam, kad no valsts vienotās datorizētās zemesgrāmatas saņemtas ziņas par nekustamā īpašuma īpašnieku.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 01.01.2015. )"
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "49",
+      "title": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "49.pants. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "50",
+      "title": "Zemes vienības daļas reģistrācija Kadastra informācijas sistēmā ietver:",
+      "content": "1) kadastra apzīmējuma piešķiršanu;\n2) kadastrālās uzmērīšanas datu reģistrāciju;\n3) kadastrālās vērtības reģistrāciju."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "51",
+      "title": "Jaunu nekustamo īpašumu Kadastra informācijas sistēmā reģistrē, to veidojot no šajā sistēmā reģistrētiem nekustamā īpašuma objektiem, kuri neietilpst neviena nekustamā īpašuma sastāvā, vai mainot Kadastra informācijas sistēmā reģistrēta nekustamā īpašuma sastāvu saskaņā ar šā likuma 33.panta 2. un 4.punktu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "52",
+      "title": "Nekustamā īpašuma reģistrācija Kadastra informācijas sistēmā ietver:",
+      "content": "1) kadastra numura piešķiršanu;\n2) nekustamā īpašuma objekta noteikšanas dokumentos sniegto papildu ziņu ierakstīšanu;\n3) nekustamā īpašuma objekta iekļaušanu nekustamajā īpašumā;\n4) apliecinājuma sagatavošanu par nekustamā īpašuma reģistrāciju Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "53",
+      "title": "Par nekustamo īpašumu Kadastra informācijas sistēmā:",
+      "content": "1) reģistrē un uztur šādas ziņas atbilstoši nekustamā īpašuma veidošanas dokumentiem:\na) kadastra numuru,\nb) nekustamā īpašuma nosaukumu, ja pašvaldība tādu ir piešķīrusi,\nc) kadastra subjektam piederošās domājamās daļas,\nd) dzīvokļa īpašuma kopīpašuma domājamās daļas,\ne) norādi uz nekustamā īpašuma sastāvā esošo nekustamā īpašuma objektu;\n2) ieraksta šā likuma 84.pantā minēto personu sniegtās ziņas:\na) par kadastra subjektu,\nb) (izslēgts ar 01.12.2009 . likumu) ,\nc) par īpašuma tiesību nostiprināšanu zemesgrāmatā, nekustamā īpašuma sastāvu un nekustamā īpašuma objekta apgrūtinājumiem,\nd) (izslēgts ar 01.12.2009 . likumu) ;\n3) papildus šā panta 1. un 2.punktā minētajām ziņām ieraksta:\na) tā dokumenta rekvizītus, no kura ierakstītas ziņas,\nb) nekustamā īpašuma lietas arhīva reģistrācijas numuru,\nc) ziņu ierakstīšanas datumu,\nd) citas normatīvajos aktos noteiktās ziņas, kas nepieciešamas citu valsts reģistru darbības nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "54",
+      "title": "Pēc šā likuma 52.panta 1. un 3.punktā minēto darbību veikšanas un šā likuma 53.pantā minēto ziņu reģistrēšanas un ierakstīšanas Kadastra informācijas sistēmā Valsts zemes dienests nosaka un reģistrē nekustamā īpašuma:",
+      "content": "1) kadastrālo vērtību;\n2) novērtējumu kadastrā."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "55",
+      "title": "(1) Kadastra objektu un kadastra datus reģistrē, kā arī kadastra datus aktualizē Valsts zemes dienests.",
+      "content": "(1 1 ) (Izslēgta ar 11.10.2018 . likumu)\n(2) (Izslēgta ar 11.10.2018 . likumu)\n(3) Valsts zemes dienests pieņem lēmumu atteikt kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju šādos gadījumos:\n1) iesniegtie vai uzrādītie dokumenti nesatur kadastra objekta vai kadastra datu reģistrācijai vai kadastra datu aktualizācijai nepieciešamās ziņas;\n2) iesniegto vai uzrādīto dokumentu ziņas ir pretrunā ar Valsts zemes dienesta uzturēto informācijas sistēmu datiem vai Valsts zemes dienesta arhīva dokumentu ziņām;\n3) iesniegto vai uzrādīto dokumentu ziņas ir pretrunā ar citas valsts vai pašvaldības informācijas sistēmas datiem.\n(4) (Izslēgta ar 11.10.2018 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "56",
+      "title": "Personai ir tiesības iesniegt dokumentus atkārtoti, ja ir novērsti atteikuma iemesli.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "57",
+      "title": "Kadastra informācijas sistēmā kadastra datus aktualizē šādos gadījumos:",
+      "content": "1) šā likuma 24.panta pirmajā, otrajā un trešajā daļā minētās personas iesniedz dokumentu par izmaiņām kadastra objektā, ja zemes vai būves kadastrālā uzmērīšana netiek veikta;\n1 1 ) šā likuma 24.panta ceturtajā daļā minētajā gadījumā zemes kadastrālais uzmērītājs iesniedz šā likuma 24.panta pirmās daļas 1., 2., 3., 4., 6., 7., 10. un 11.punktā, otrajā un trešajā daļā minēto personu iesniegumu kopā ar zemes kadastrālās uzmērīšanas dokumentiem;\n1 2 ) šā likuma 24. panta ceturtajā daļā minētajā gadījumā attiecībā uz veikto zemes vienības vai zemes vienības daļas robežu izvērtēšanu un atjaunošanu zemes kadastrālais uzmērītājs iesniedz zemes kadastrālās uzmērīšanas dokumentus;\n2) valsts institūcija vai vietējā pašvaldība normatīvajos aktos noteiktajos gadījumos ziņas par kadastra objektiem vai kadastra subjektiem sniedz elektroniskā veidā, tai skaitā no valsts vai pašvaldības informācijas sistēmām;\n3) valsts institūcija vai vietējā pašvaldība normatīvajos aktos noteiktajos gadījumos ziņas sniedz dokumentu veidā, izņemot šā panta 1. un 1. 1 punktā minētos gadījumus;\n4) šā likuma 57. 2 pantā minētajā gadījumā Valsts zemes dienests iegūst ziņas par kadastra objektu;\n5) šā likuma 57. 3 pantā minētajā gadījumā Valsts zemes dienests atbilstoši izmaiņām normatīvajos aktos."
+    },
+    {
+      "provision_ref": "Art. 57.1",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "57.1",
+      "title": "57. 1 pants. Ja nekustamais īpašums atrodas kopīpašumā, jebkurš šā nekustamā īpašuma īpašnieks vai, ja tāda nav, — tiesiskais valdītājs vai kadastra subjekts var ierosināt šādu kadastra objekta datu aktualizāciju Kadastra informācijas sistēmā:",
+      "content": "1) nekustamā īpašuma nosaukums;\n2) nekustamā īpašuma lietošanas mērķis;\n3) kadastra objekta adrese;\n4) kadastra objekta apgrūtinājums;\n5) zemes lietošanas veids, iesniedzot aktualizētu situācijas plānu;\n6) būves fiziskais nolietojums;\n7) būves galvenais lietošanas veids;\n8) būves tips;\n9) telpu grupas lietošanas veids;\n10) kadastra objekta dati, kas norādīti aktā par būves pieņemšanu ekspluatācijā."
+    },
+    {
+      "provision_ref": "Art. 57.2",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "57.2",
+      "title": "57. 2 pants. Valsts zemes dienests ir tiesīgs noteikt ēkas nolietojumu, ja Kadastra informācijas sistēmā reģistrētais ēkas nolietojums noteikts pirms vairāk nekā 10 gadiem, Valsts zemes dienests konstatē tā iespējamu neatbilstību aktuālajam stāvoklim apvidū un ēkas īpašnieks vai tiesiskais valdītājs triju mēnešu laikā pēc paziņojuma saņemšanas no Valsts zemes dienesta nav ierosinājis datu aktualizāciju Kadastra informācijas sistēmā. Pēc ēkas nolietojuma noteikšanas Valsts zemes dienests aktualizē datus Kadastra informācijas sistēmā, ja tā noteiktais ēkas nolietojums neatbilst Kadastra informācijas sistēmā reģistrētajam ēkas nolietojumam.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 12.07.2021. Pants stājas spēkā 01.02.2022. Sk. pārejas noteikumu 43. punktu)"
+    },
+    {
+      "provision_ref": "Art. 57.3",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "57.3",
+      "title": "57. 3 pants. Valsts zemes dienests aktualizē kadastra datus atbilstoši izmaiņām normatīvajos aktos, ja tās rada nepieciešamību aktualizēt Kadastra informācijas sistēmas datus vai to struktūru un ja datu aktualizācijai nav nepieciešams papildus iegūt kadastra objektu raksturojošos datus no šā likuma 84. pantā minētajām personām. Kadastra datus aktualizē attiecīgā normatīvajā aktā noteiktajā termiņā vai, ja tāds nav noteikts, — ne vēlāk kā gada laikā no normatīvā akta spēkā stāšanās dienas.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "58",
+      "title": "Anulētos kadastra numurus un apzīmējumus atkārtoti neizmanto.",
+      "content": "58.pants. Anulētos kadastra numurus un apzīmējumus atkārtoti neizmanto."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "59",
+      "title": "Kadastra informācijas sistēmā tās darbības nodrošināšanai, kadastra objektu un kadastra datu sistematizācijai, uzskaitei, reģistrācijai, vērtēšanai uztur normatīvajos aktos noteiktajā kārtībā apstiprinātas klasifikācijas un klasifikatorus, kā arī veido un uztur lokālas klasifikācijas un klasifikatorus.",
+      "content": "59.pants. Kadastra informācijas sistēmā tās darbības nodrošināšanai, kadastra objektu un kadastra datu sistematizācijai, uzskaitei, reģistrācijai, vērtēšanai uztur normatīvajos aktos noteiktajā kārtībā apstiprinātas klasifikācijas un klasifikatorus, kā arī veido un uztur lokālas klasifikācijas un klasifikatorus."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "V nodaļa Kadastra objekta reģistrācija",
+      "section": "60",
+      "title": "Ministru kabinets reglamentē kadastra objekta reģistrāciju un kadastra datu aktualizāciju, kas ietver:",
+      "content": "1) kadastra objekta identifikatora veidošanas principus, piešķiršanas kārtību un klasifikāciju;\n2) kārtību, kādā Kadastra informācijas sistēmā piešķir vai maina šā likuma 65.panta otrajā daļā minēto personu identifikatoru;\n3) kadastra datu saturu un to labošanas un uzturēšanas kārtību;\n4) kadastra kartes veidošanas kārtību, attēlojamo datu saturu, attēlošanas un uzturēšanas kārtību un pieļaujamās nesaistes robežas, izlīdzinot nekustamā īpašuma objekta vai zemes vienības daļas robežu datus;\n5) nekustamā īpašuma objekta apgrūtinājuma reģistrācijas un aktualizācijas kārtību;\n6) (izslēgts ar 01.12.2009 . likumu) ;\n7) kārtību, kādā Kadastra informācijas sistēmā tiek dzēsts ieraksts par kadastra objektu;\n8) kadastra objektu reģistrācijas un kadastra datu aktualizācijas kritērijus, kārtību un iesniedzamos dokumentus."
+    },
+    {
+      "provision_ref": "Art. 60.1",
+      "chapter": "V 1 nodaļa Sadarbība ar zemesgrāmatu kadastra objekta reģistrācijas procesā (Nodaļa 11.10.2018 . likuma redakcijā, kas stājas spēkā 01.12.2019. )",
+      "section": "60.1",
+      "title": "60. 1 pants. (1) Nostiprinājuma lūgums zemesgrāmatai vienlaikus ir iesniegums par kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju Kadastra informācijas sistēmā, ja ar to lūgts:",
+      "content": "1) ierakstīt Kadastra informācijas sistēmā reģistrētu būvi kā patstāvīgu būvju īpašumu;\n2) sadalīt nekustamo īpašumu patstāvīgos īpašumos, iekļaujot tajos Kadastra informācijas sistēmā reģistrētos nekustamā īpašuma objektus;\n3) izveidot jaunu nekustamo īpašumu no vairāku nekustamo īpašumu sastāvā esošiem nekustamā īpašuma objektiem;\n4) nostiprināt vai grozīt ēku, ūdens lietošanas vai ceļa servitūtu vai šīs tiesības nodrošinājumu, ja lūgumam pievienots servitūta teritorijas grafiskais attēlojums.\n(2) Pēc nostiprinājuma lūguma un tam pievienoto dokumentu saņemšanas no valsts vienotās datorizētās zemesgrāmatas un pēc maksas par pakalpojumu saņemšanas Valsts zemes dienests reģistrē kadastra objektu vai kadastra datus, aktualizē kadastra datus vai pieņem lēmumu atteikt kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju un par to paziņo valsts vienotajai datorizētajai zemesgrāmatai."
+    },
+    {
+      "provision_ref": "Art. 60.2",
+      "chapter": "V 1 nodaļa Sadarbība ar zemesgrāmatu kadastra objekta reģistrācijas procesā (Nodaļa 11.10.2018 . likuma redakcijā, kas stājas spēkā 01.12.2019. )",
+      "section": "60.2",
+      "title": "60. 2 pants. (1) Iesniegums Valsts zemes dienestam par kadastra objekta vai kadastra datu reģistrāciju vai aktualizāciju vienlaikus ir uzskatāms par nostiprinājuma lūgumu zemesgrāmatai, ja īpašnieks ierosina:",
+      "content": "1) Kadastra informācijas sistēmā reģistrētu un zemesgrāmatā ierakstītu zemes vienību sadali vai apvienošanu viena nekustamā īpašuma sastāvā;\n2) ekspluatācijā pieņemtas inženierbūves reģistrāciju uz iesniegto izpildmērījumu datu pamata esoša nekustamā īpašuma sastāvā;\n3) būvniecības jomu regulējošos normatīvajos aktos noteiktas ekspluatācijā pieņemtas pirmās grupas ēkas reģistrāciju uz iesniegto izpildmērījumu datu pamata esoša nekustamā īpašuma sastāvā.\n(2) Šā panta pirmajā daļā minētajos gadījumos iesniegumu adresē Valsts zemes dienestam un rajona (pilsētas) tiesai un iesniedz Valsts zemes dienestam, bet šā panta pirmās daļas 1. punktā minētajā gadījumā — zemes kadastrālajam uzmērītājam. Iesniegumu iesniedz elektroniskā formā, parakstītu ar drošu elektronisko parakstu, vai personiski, uzrādot personu apliecinošu dokumentu, un par to uz iesnieguma izdara atbilstošu apliecinājumu. Iesniegumam pievieno informāciju par kancelejas nodevas samaksu rajona (pilsētas) tiesai.\n(3) Ja iesniegumu iesniedz pilnvarota persona, iesniegumam pievieno pilnvaru atbilstoši Zemesgrāmatu likumā noteiktajām prasībām.\n(4) Valsts zemes dienests kadastra objekta vai kadastra datu reģistrāciju vai kadastra datu aktualizāciju uzsāk pēc kancelejas nodevas samaksas rajona (pilsētas) tiesai.\n(5) Šā panta pirmās daļas 1. punktā minētajā gadījumā Valsts zemes dienests izvērtē iesniegumu un, ja reģistrācija nav atsakāma, nosūta iesniegumu rajona (pilsētas) tiesai. Zemes vienību Kadastra informācijas sistēmā reģistrē pēc valsts vienotās datorizētās zemesgrāmatas paziņojuma saņemšanas par iespēju sadalīt vai apvienot zemes vienību. Zemes vienību Kadastra informācijas sistēmā nereģistrē un lēmumu atteikt zemes vienības reģistrāciju nepieņem, ja no valsts vienotās datorizētās zemesgrāmatas saņemts paziņojums par tiesneša lēmumu par iesnieguma atstāšanu bez ievērības.\n(6) Šā panta pirmās daļas 2., 3. un 4. punktā minētajā gadījumā Valsts zemes dienests reģistrē vai dzēš būvi Kadastra informācijas sistēmā un nosūta iesniegumu rajona (pilsētas) tiesai vai pieņem lēmumu par atteikumu reģistrēt vai dzēst būvi."
+    },
+    {
+      "provision_ref": "Art. 60.3",
+      "chapter": "V 1 nodaļa Sadarbība ar zemesgrāmatu kadastra objekta reģistrācijas procesā (Nodaļa 11.10.2018 . likuma redakcijā, kas stājas spēkā 01.12.2019. )",
+      "section": "60.3",
+      "title": "60. 3 pants. Kārtību, kādā rajona (pilsētas) tiesai nosūtāms iesniegums, tam pievienojamie dokumenti un cita pieprasītā informācija, nosaka tieslietu ministrs.",
+      "content": "( 11.10.2018 . likuma redakcijā ar grozījumiem, kas izdarīti ar 02.05.2019 . likumu, kas stājas spēkā 01.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 60.4",
+      "chapter": "V 1 nodaļa Sadarbība ar zemesgrāmatu kadastra objekta reģistrācijas procesā (Nodaļa 11.10.2018 . likuma redakcijā, kas stājas spēkā 01.12.2019. )",
+      "section": "60.4",
+      "title": "60. 4 pants. (1) Valsts zemes dienests tiešsaistes datu pārraides režīmā nodrošina rajona (pilsētas) tiesām nepieciešamo kadastra informāciju.",
+      "content": "(2) Valsts zemes dienests tiešsaistes datu pārraides režīmā nodod valsts vienotajai datorizētajai zemesgrāmatai paziņojumu par Kadastra informācijas sistēmā reģistrētajiem datiem, ja:\n1) mainīts kadastra numurs;\n2) mainīts kadastra apzīmējums;\n3) nemainot zemes vienības robežas, precizēta zemes vienības platība saskaņā ar kadastrālās uzmērīšanas datiem;\n4) nemainot zemes vienības robežas, precizēta zemesgrāmatā ierakstītas kadastrāli neuzmērītas zemes vienības platība gadījumos, kad normatīvie akti par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatā pirmreizējai zemes ierakstīšanai zemesgrāmatā neparedz zemes kadastrālo uzmērīšanu;\n5) precizēta dzīvokļa īpašuma kā atsevišķa īpašuma kopējā platība, ja platības izmaiņas saskaņā ar Dzīvokļa īpašuma likumu neietekmē dzīvokļa īpašumā ietilpstošo kopīpašuma domājamo daļu apmēru;\n6) pamatojoties uz privatizāciju veicošās institūcijas iesniegtu dokumentu par konstatētajām neprecizitātēm, kas radušās dzīvojamās mājas domājamo daļu noteikšanā privatizācijas procesā, precizēts dzīvokļa īpašuma sastāvā esošo kopīpašuma domājamo daļu apmērs;\n7) nekustamā īpašuma objektam noteikta vai mainīta adrese;\n8) pārrēķinātas dzīvokļa īpašuma sastāvā esošās kopīpašuma domājamās daļas atbilstoši Dzīvokļa īpašuma likumam , ja dzīvojamās mājas privatizācijas procesā kopīpašuma domājamās daļas aprēķinātas neatbilstoši."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VI nodaļa Kadastra objektu un subjektu identifikācijas sistēma",
+      "section": "61",
+      "title": "Katram kadastra objektam piešķir viennozīmīgu un nemainīgu identifikatoru — kadastra numuru vai kadastra apzīmējumu.",
+      "content": "61.pants. Katram kadastra objektam piešķir viennozīmīgu un nemainīgu identifikatoru — kadastra numuru vai kadastra apzīmējumu."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "VI nodaļa Kadastra objektu un subjektu identifikācijas sistēma",
+      "section": "62",
+      "title": "Kadastra numuru piešķir nekustamajam īpašumam.",
+      "content": "62.pants. Kadastra numuru piešķir nekustamajam īpašumam."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "VI nodaļa Kadastra objektu un subjektu identifikācijas sistēma",
+      "section": "63",
+      "title": "Kadastra apzīmējumu piešķir zemes vienībai, būvei, telpu grupai un zemes vienības daļai.",
+      "content": "63.pants. Kadastra apzīmējumu piešķir zemes vienībai, būvei, telpu grupai un zemes vienības daļai."
+    },
+    {
+      "provision_ref": "Art. 63.1",
+      "chapter": "VI nodaļa Kadastra objektu un subjektu identifikācijas sistēma",
+      "section": "63.1",
+      "title": "63. 1 pants. (1) Sadalot nekustamo īpašumu divos vai vairākos nekustamajos īpašumos, Kadastra informācijas sistēmā jaunizveidotajiem nekustamajiem īpašumiem piešķir jaunus kadastra numurus (kadastra identifikatorus), vienlaikus reģistrētajam (atlikušajam) nekustamajam īpašumam saglabājot tā kadastra numuru.",
+      "content": "(2) Sadalot nekustamā īpašuma objektu divos vai vairākos nekustamā īpašuma objektos, Kadastra informācijas sistēmā tos reģistrē kā jaunus nekustamā īpašuma objektus, kuriem piešķir jaunus kadastra apzīmējumus (kadastra identifikatorus). Divus vai vairākus nekustamā īpašuma objektus apvienojot vienā objektā, Kadastra informācijas sistēmā to reģistrē ar jaunu kadastra apzīmējumu (kadastra identifikatoru). Iepriekšējo kadastra identifikatoru pēc nekustamā īpašuma objekta sadalīšanas vai apvienošanas anulē.\n(3) Ja apvieno vairākus vienai personai piederošus nekustamos īpašumus, saglabā vienu no esošajiem kadastra numuriem."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "VI nodaļa Kadastra objektu un subjektu identifikācijas sistēma",
+      "section": "64",
+      "title": "Visu veidu norādēs uz kadastra objektu valsts vai pašvaldības informācijas sistēmās un dokumentos lieto tam piešķirto kadastra numuru vai kadastra apzīmējumu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 08.03.2012 . likumu, kas stājas spēkā 11.04.2012. )"
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "VI nodaļa Kadastra objektu un subjektu identifikācijas sistēma",
+      "section": "65",
+      "title": "(1) Visu veidu norādēs uz personu Kadastra informācijas sistēmā izmanto normatīvajos aktos noteiktajā kārtībā piešķirto personas identifikatoru.",
+      "content": "(2) Personai, kura ierosina kadastra objekta formēšanu un kurai saskaņā ar normatīvajiem aktiem nav paredzēts piešķirt personas identifikatoru, to piešķir Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "66",
+      "title": "(1) Kadastrālā vērtēšana ir masveida vērtēšanas process, kas ietver kadastrālo vērtību bāzes noteikšanu Kadastra informācijas sistēmā reģistrētiem nekustamajiem īpašumiem atbilstoši to grupu ekonomisko labumu ietekmējošām atšķirībām un automatizētu kadastrālo vērtību aprēķinu novērtēšanas datumā visiem kadastra objektiem, nodrošinot šā vērtēšanas procesa efektivitāti un noteikto kadastrālo vērtību objektivitāti, savstarpējo samērīgumu un taisnīgumu.",
+      "content": "(2) Kadastrālajā vērtēšanā ir ievērojami šādi pamatprincipi:\n1) savstarpējās salīdzināmības princips, saskaņā ar kuru savstarpēji salīdzināmas kadastrālās vērtības tiek noteiktas visiem kadastra objektiem, nodrošinot, ka nekustamā īpašuma tirgū novērotiem savstarpēji līdzīgiem objektiem atbilstoši to galvenajiem vērtību ietekmējošiem rādītājiem kadastrālās vērtības ir līdzīgas, bet objektiem, kas reti nonāk brīvā tirgū vai tajā nenonāk, — atbilstoši nekustamā īpašuma grupas ekonomiskajam labumam;\n2) objektīva grupējuma princips, saskaņā ar kuru masveida vērtēšanā nekustamie īpašumi tiek grupēti atbilstoši galvenajiem vērtību ietekmējošiem rādītājiem, kas ir būtiski nekustamā īpašuma tirgū attiecīgajai īpašumu grupai, tai skaitā arī par kadastra objektiem, kas reti nonāk brīvā tirgū vai tajā nenonāk;\n3) efektivitātes princips, saskaņā ar kuru masveida vērtēšanas izdevumi tiek sabalansēti ar iegūstamā rezultāta atbilstību nekustamā īpašuma nodokļa administrēšanas, nodevu un citu ar normatīvajiem aktiem noteikto maksājumu vajadzībām, izvērtējot arī aktuālu datu ieguves izmaksas salīdzinājumā ar iegūstamo masveida vērtēšanas rezultāta atbilstību;\n4) publiskuma princips, saskaņā ar kuru kadastrālā vērtība, tās aprēķinā izmantotie dati, kadastrālo vērtību bāzes izstrādē izmantotā informācija, tai skaitā izmantotā nekustamā īpašuma tirgus informācija, ir publiski pieejama;\n5) regularitātes princips, saskaņā ar kuru kadastrālo vērtību bāze, kadastrālās vērtības aprēķina modeļi, kadastrālās vērtības un datu ieguves avoti tiek periodiski pārskatīti;\n6) vienota īpašuma novērtēšanas princips, saskaņā ar kuru nekustamo īpašumu veidojošie objekti tiek novērtēti kā vienots nekustamais īpašums.\n(3) Kadastrālo vērtēšanu veic Valsts zemes dienests. Kadastrālās vērtēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "67",
+      "title": "Kadastrālo vērtību bāze ir kadastrālās vērtības aprēķinam nepieciešamo nekustamā īpašuma tirgus situāciju raksturojošo datu kopums attiecīgo nekustamo īpašumu grupām, kas tiek pamatots ar ekonomisko labumu jeb attiecīgā nekustamā īpašuma tirgus segmenta datu analīzes rezultātiem noteiktā laikposmā, vienas vai vairāku administratīvo teritoriju robežās un tiek fiksēta no teritoriju sociālekonomisko vērtību potenciāla atkarīgā nosacīti viendabīgā teritorijā — vērtību zonā.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "68",
+      "title": "(1) Kadastrālo vērtību bāzi apstiprina Ministru kabinets reizi četros gados līdz attiecīgā gada 15.jūnijam. Kadastrālo vērtību bāzi reģistrē Kadastra informācijas sistēmā.",
+      "content": "(2) Kadastrālās vērtības aprēķinam apstiprināto kadastrālo vērtību bāzi piemēro no aiznākamā gada 1. janvāra.\n(3) Ministru kabinets, ņemot vērā ar jauno kadastrālo vērtību bāzi aprēķināto kadastrālo vērtību izmaiņas, izstrādājot valsts budžetu kārtējam gadam, var lemt par apstiprinātās kadastrālo vērtību bāzes nepiemērošanu nākamajam gadam attiecībā uz kadastrālās vērtības aprēķināšanu nekustamā īpašuma nodokļa administrēšanas vajadzībām, nodevām, kā arī citiem maksājumiem.\n(4) Ja Ministru kabinets atbilstoši šā panta trešajai daļai ir izlēmis par jaunās kadastrālo vērtību bāzes nepiemērošanu kadastrālās vērtības aprēķināšanai nekustamā īpašuma nodokļa administrēšanas vajadzībām, nodevām, kā arī citiem maksājumiem attiecīgajā gadā, Valsts zemes dienests attiecīgā kalendārā gada 1. janvārī vai mēneša laikā pēc kadastra objekta reģistrācijas, ja tas reģistrēts pēc 1. janvāra, aprēķina kadastrālās vērtības nekustamā īpašuma nodokļa administrēšanas vajadzībām, nodevām, kā arī citiem maksājumiem atbilstoši iepriekšējai kadastrālo vērtību bāzei un normatīvajiem aktiem kadastrālās vērtēšanas jomā, kas bija piemērojami šīs bāzes spēkā esamības pēdējā dienā, un aprēķinātās kadastrālās vērtības reģistrē Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "69",
+      "title": "(1) Izstrādājot kadastrālās vērtēšanas metodiku, ievēro Latvijas nacionālos un starptautiskos īpašuma vērtēšanas standartus, kā arī starptautisko organizāciju rekomendācijas nekustamo īpašumu masveida vērtēšanai, kas balstīta uz nekustamā īpašuma tirgus bāzi.",
+      "content": "(2) Kadastrālo vērtību bāzi izstrādā, pamatojoties uz nekustamā īpašuma tirgus informācijas analīzes rezultātiem vienas vai vairāku administratīvo teritoriju robežās noteiktajās vērtību zonās, izmantojot uzkrāto nekustamā īpašuma tirgus informāciju attiecīgajā nekustamā īpašuma tirgus segmentā par laikposmu, kas nav īsāks par laiku no spēkā esošās kadastrālo vērtību bāzes izstrādē izmantoto nekustamā īpašuma tirgus darījumu perioda beigu datuma.\n(3) Kadastrālo vērtību bāze nodrošina līdzīgu nekustamo īpašumu kadastrālo vērtību proporcionālo atbilstību salīdzināmu nekustamā īpašuma tirgus darījumu attiecīgajā nekustamā īpašuma tirgus segmentā, nepārsniedzot 80 procentus no vidējā nekustamo īpašumu cenu līmeņa laikposmā no spēkā esošās kadastrālo vērtību bāzes izstrādē izmantoto nekustamā īpašuma tirgus darījumu perioda beigu datuma līdz attiecīgā gada 1. jūlijam, divus ar pusi gadus pirms kadastrālo vērtību bāzes piemērošanas kadastrālo vērtību aprēķinam.\n(4) Valsts zemes dienests kadastrālo vērtību bāzes izstrādes laikā un pēc tās apstiprināšanas Ministru kabinetā publicē atbilstoši izstrādes procesā esošai vai apstiprinātai kadastrālo vērtību bāzei aprēķinātas kadastrālās vērtības, kādas tās varētu būt to spēkā stāšanās brīdī, kā arī publicē šo kadastrālo vērtību pārskata tematiskās kartes par zemes, ēku un nekustamo īpašumu, kas sastāv no apbūvētas zemes vienības, uz kuras atrodas nekustamajā īpašumā ietilpstošās ēkas, viena kvadrātmetra kadastrālo vērtību.\n(5) Valsts zemes dienests publicē spēkā esošo kadastrālo vērtību pārskata tematiskās kartes par zemes, ēku un nekustamo īpašumu, kas sastāv no apbūvētas zemes vienības, uz kuras atrodas nekustamajā īpašumā ietilpstošās ēkas, viena kvadrātmetra kadastrālo vērtību."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "70",
+      "title": "(1) Lai nodrošinātu kadastrālo vērtību bāzes izstrādi un aktualizāciju, kā arī lai informētu sabiedrību par nekustamā īpašuma tirgus izmaiņām, Valsts zemes dienests apkopo un analizē nekustamā īpašuma tirgus informāciju. Nekustamā īpašuma tirgus analīzes rezultātus, tai skaitā rādītājus par spēkā esošās kadastrālo vērtību bāzes atbilstību vidējam cenu līmenim attiecīgajā nekustamā īpašuma tirgus segmentā, publisko ne retāk kā reizi gadā.",
+      "content": "(2) Lai uzkrātu un apstrādātu informāciju par nekustamā īpašuma tirgus darījumiem un publiskotu veiktās analīzes rezultātus, Kadastra informācijas sistēmā uztur nekustamā īpašuma tirgus datu bāzi un nekustamā īpašuma tirgus analīzes rezultātu publiskošanai nepieciešamo nodrošinājumu."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "71",
+      "title": "71.pants.",
+      "content": "(Izslēgts ar 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "72",
+      "title": "Kadastra objekta kadastrālās vērtības aprēķinam izmanto Kadastra informācijas sistēmas datus par kadastra objektu pēc stāvokļa vērtības aprēķināšanas dienā.",
+      "content": "72.pants. Kadastra objekta kadastrālās vērtības aprēķinam izmanto Kadastra informācijas sistēmas datus par kadastra objektu pēc stāvokļa vērtības aprēķināšanas dienā."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "73",
+      "title": "(1) Kadastra objekta kadastrālo vērtību pārrēķina, ja Kadastra informācijas sistēmā reģistrē izmaiņas objekta vērtību ietekmējošos datos vai spēkā stājušās izmaiņas kadastra jomu regulējošos normatīvajos aktos, kas ietekmē kadastrālo vērtību aprēķinu.",
+      "content": "(2) Nekustamā īpašuma nodokļa administrēšanas vajadzībām Kadastra informācijas sistēmā glabā kadastra objektu kadastrālās vērtības, kādas tās ir taksācijas gada 1. janvārī vai kadastra objekta reģistrācijas dienā, ja tas reģistrēts pēc 1. janvāra un aprēķinātas atbilstoši Kadastra informācijas sistēmā reģistrētai aktuālajai kadastrālo vērtību bāzei vai šā likuma 68. panta ceturtajā daļā noteiktajā kārtībā atbilstoši iepriekšējai kadastrālo vērtību bāzei"
+    },
+    {
+      "provision_ref": "Art. 73.1",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "73.1",
+      "title": "73. 1 pants. Saņemot iesniegumu par kadastrālās vērtības pārskatīšanu, Valsts zemes dienests pārbauda kadastra datu atbilstību dokumentiem šā likuma 93.pantā noteiktajā kārtībā un informē iesniedzēju par kadastrālās vērtības aprēķinā izmantotajiem kadastra datiem, veikto datu aktualizāciju vai nepieciešamību ierosināt datu aktualizāciju atbilstoši šā likuma 13.panta pirmajai daļai.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 11.04.2012. )"
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "74",
+      "title": "(Izslēgts ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "74.pants. (Izslēgts ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "75",
+      "title": "(Izslēgts ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "75.pants. (Izslēgts ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "VII nodaļa Kadastrālā vērtēšana",
+      "section": "76",
+      "title": "Nekustamā īpašuma novērtējums kadastrā ir nekustamā īpašuma kadastrālās vērtības un nekustamā īpašuma sastāvā esošās mežaudzes vērtības summa. Mežaudzes vērtību Kadastra informācijas sistēmā ieraksta, pamatojoties uz Valsts meža dienesta ziņām.",
+      "content": "76.pants. Nekustamā īpašuma novērtējums kadastrā ir nekustamā īpašuma kadastrālās vērtības un nekustamā īpašuma sastāvā esošās mežaudzes vērtības summa. Mežaudzes vērtību Kadastra informācijas sistēmā ieraksta, pamatojoties uz Valsts meža dienesta ziņām."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "VIII nodaļa Kadastra dati nekustamā īpašuma nodokļa administrēšanai (Nodaļa izslēgta no 01.07.2017. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. Sk. pārejas noteikumu 18.punktu)",
+      "section": "77",
+      "title": "(Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "77.pants. (Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "VIII nodaļa Kadastra dati nekustamā īpašuma nodokļa administrēšanai (Nodaļa izslēgta no 01.07.2017. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. Sk. pārejas noteikumu 18.punktu)",
+      "section": "78",
+      "title": "(Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "78.pants. (Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "VIII nodaļa Kadastra dati nekustamā īpašuma nodokļa administrēšanai (Nodaļa izslēgta no 01.07.2017. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. Sk. pārejas noteikumu 18.punktu)",
+      "section": "79",
+      "title": "(Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "79.pants. (Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "VIII nodaļa Kadastra dati nekustamā īpašuma nodokļa administrēšanai (Nodaļa izslēgta no 01.07.2017. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. Sk. pārejas noteikumu 18.punktu)",
+      "section": "80",
+      "title": "(Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "80.pants. (Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "VIII nodaļa Kadastra dati nekustamā īpašuma nodokļa administrēšanai (Nodaļa izslēgta no 01.07.2017. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. Sk. pārejas noteikumu 18.punktu)",
+      "section": "81",
+      "title": "(Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )",
+      "content": "81.pants. (Izslēgts no 01.07.2010. ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "IX nodaļa Kadastra objekta formēšanas dokumentu, kadastra dokumentu un kadastra datu glabāšana (Nodaļas nosaukums 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )",
+      "section": "82",
+      "title": "(1) Dokumentus, uz kuru pamata tiek veikta kadastra objekta formēšana, un tās gaitā sagatavotos dokumentus kārto lietās.",
+      "content": "(2) Viena nekustamā īpašuma sastāvā esošo nekustamā īpašuma objektu noteikšanas dokumentu kopums veido nekustamā īpašuma lietu.\n(3) Aktualizējot vai labojot kadastra datus, iepriekšējos datus saglabā Kadastra informācijas sistēmā.\n(4) Šā panta pirmajā daļā minētās lietas nodod Valsts zemes dienesta arhīvā, un lietas arhīva reģistrācijas numuru ieraksta Kadastra informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "IX nodaļa Kadastra objekta formēšanas dokumentu, kadastra dokumentu un kadastra datu glabāšana (Nodaļas nosaukums 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )",
+      "section": "83",
+      "title": "(1) Kadastra dati ir glabājami pastāvīgi. Nekustamā īpašuma lietu veido pastāvīgi glabājamie dokumenti un uz laiku glabājamie dokumenti. Kadastra dokumenti un dati glabājami normatīvajos aktos noteiktajā kārtībā.",
+      "content": "(2) Šā panta pirmajā daļā minēto datu un dokumentu glabāšanu līdz to nodošanai Latvijas Nacionālajā arhīvā nodrošina Valsts zemes dienesta arhīvs.\n(3) Ja Kadastra informācijas sistēma tiek reorganizēta vai likvidēta, šā panta pirmajā daļā minētos datus un dokumentus nodod turpmākai glabāšanai Latvijas Nacionālajā arhīvā normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "84",
+      "title": "(1) Ziņas, kas nepieciešamas Kadastra informācijas sistēmas uzturēšanai, Valsts zemes dienestam sniedz nekustamā īpašuma īpašnieks vai, ja tāda nav, — tiesiskais valdītājs vai kadastra subjekts, vietējā pašvaldība, valsts institūcija, valsts kapitālsabiedrība.",
+      "content": "(2) Šā panta pirmajā daļā minētās personas ziņas sniedz dokumenta veidā, izņemot gadījumus, kad ziņas sniedz no citas valsts vai pašvaldības informācijas sistēmas."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "85",
+      "title": "(1) Kadastra subjektam ir tiesības reizi kalendārajā gadā rakstveidā pieprasīt un bez maksas normatīvajos aktos noteiktajā apjomā saņemt aktuālos kadastra datus par visiem saviem nekustamajiem īpašumiem vienlaikus.",
+      "content": "(2) Kadastra subjekts, izmantojot Valsts zemes dienesta uzturētu identificētai personai internetā pieejamu elektronisko pakalpojumu, var bez maksas elektroniski saņemt aktuālos kadastra datus par savu nekustamo īpašumu normatīvajos aktos noteiktajā apjomā.\n(3) Personai, kura Kadastra informācijas sistēmā nav reģistrēta kā kadastra subjekts, ir tiesības rakstveidā pieprasīt un reizi kalendārajā gadā bez maksas saņemt apliecinājumu, ka tai Kadastra informācijas sistēmā nav reģistrēti nekustamie īpašumi."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "86",
+      "title": "(1) Valsts zemes dienests tīmekļvietnē, kurā publicējami atvērtie dati, bez maksas nodrošina piekļuvi vispārpieejamiem aktuālajiem datiem par kadastra objektiem (izņemot telpu raksturojošo informāciju un telpu grupas labiekārtojumus). Kadastra informācijas sagatavošana un izsniegšana citos veidos ir maksas pakalpojums, izņemot šajā likumā noteiktos gadījumus, kad informācijas sniegšana ir bez maksas un tā nesakrīt ar atvērto datu veidā pieejamo informāciju.",
+      "content": "(2) Valsts zemes dienests standartizētā informācijas apjomā un veidā bez maksas nodrošina kadastra informācijas pieejamību valsts tiešās pārvaldes iestādēm, vietējām pašvaldībām, Saeimai, Valsts kontrolei, prokuratūrai, tiesām un citām iestādēm un valsts amatpersonām, kurām šādas tiesības noteiktas likumā, tām noteikto funkciju un uzdevumu veikšanai.\n(3) Valsts zemes dienests standartizētā informācijas apjomā un veidā bez maksas izsniedz aktuālos Kadastra informācijas sistēmas datus sertificētām personām to profesionālās darbības ietvaros ģeodēzisko, zemes ierīcības, zemes kadastrālās uzmērīšanas un meža inventarizācijas darbu veikšanai.\n(4) Valsts zemes dienests identificētai personai elektroniskā veidā bez maksas nodrošina iespēju pārlūkot vispārpieejamos aktuālos Kadastra informācijas sistēmas datus par kadastra objektiem, tai skaitā aktuālos kadastra teksta datus par telpu raksturojošo informāciju un telpu grupas labiekārtojumiem."
+    },
+    {
+      "provision_ref": "Art. 86.1",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "86.1",
+      "title": "86. 1 pants.",
+      "content": "(Izslēgts ar 11.10.2018 . likumu, kas stājas spēkā 01.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 86.2",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "86.2",
+      "title": "86. 2 pants. (1) Kadastra informācija ir vispārpieejama, izņemot normatīvajos aktos noteiktos gadījumus.",
+      "content": "(2) Aktuālie kadastra dati par kadastra objekta īpašnieka, tiesiskā valdītāja, apbūves tiesīgā, lietotāja — fiziskās personas — vārdu, uzvārdu, personas kodu ir pieejami jebkurai identificētai personai bez pamatojuma norādīšanas.\n(3) Telpu grupas plāns, stāva plāns un inženierbūves plāns, kā arī citi dati un dokumenti, kas satur būves iekštelpu plānojumu grafisko attēlojumu, ir ierobežotas pieejamības informācija."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "87",
+      "title": "(1) Jebkurai personai ir tiesības pieprasīt kadastra informāciju. Kadastra informāciju no Valsts zemes dienesta pieprasa elektroniski tiešsaistes formā vai ar rakstveida pieprasījumu.",
+      "content": "(2) Ja kadastra informācijas pieprasījumu iesniedz, izmantojot tiešsaistes formu, pieprasītāju identificē, lietojot tajā pieejamos elektroniskās identifikācijas līdzekļus. Šādi iesniegtu informācijas, tai skaitā ierobežotas pieejamības informācijas, pieprasījumu var neparakstīt ar drošu elektronisko parakstu.\n(3) Kadastra informācijas izmantošanai nav nepieciešams saņemt atļauju ģeotelpiskās datu kopas atkalizmantošanai vai kopīgai izmantošanai atbilstoši Ģeotelpiskās informācijas likumam ."
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "88",
+      "title": "Ministru kabinets nosaka, kādā kārtībā un apjomā sniedzama Kadastra informācijas sistēmas uzturēšanai nepieciešamā informācija:",
+      "content": "1) (izslēgts ar 01.12.2009 . likumu) ;\n2) kuru iesniedz šā likuma 84.pantā minētās personas."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "X nodaļa Kadastra darbībai nepieciešamās informācijas saņemšana un kadastra informācijas izsniegšana",
+      "section": "89",
+      "title": "Ministru kabinets nosaka izsniedzamās kadastra informācijas apjomu, tās pieprasīšanas un izsniegšanas kārtību.",
+      "content": "89.pants. Ministru kabinets nosaka izsniedzamās kadastra informācijas apjomu, tās pieprasīšanas un izsniegšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "XI nodaļa Valsts zemes dienesta lēmuma un faktiskās rīcības apstrīdēšanas un pārsūdzēšanas kārtība (Nodaļa izslēgta ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "section": "90",
+      "title": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "90.pants. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "XI nodaļa Valsts zemes dienesta lēmuma un faktiskās rīcības apstrīdēšanas un pārsūdzēšanas kārtība (Nodaļa izslēgta ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "section": "91",
+      "title": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "91.pants. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "Xll nodaļa Kadastra datu labošana",
+      "section": "92",
+      "title": "(Izslēgts ar 17.06.2010.likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "92.pants. (Izslēgts ar 17.06.2010.likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "Xll nodaļa Kadastra datu labošana",
+      "section": "93",
+      "title": "(1) Ja Valsts zemes dienests konstatējis kadastra datu neatbilstību dokumentiem vai cita veida ziņām, uz kuru pamata kadastra dati reģistrēti vai aktualizēti, tas normatīvajos aktos noteiktajā termiņā izlabo kļūdainos kadastra datus.",
+      "content": "(2) Kadastra datus izlabo, tos aktualizējot, un bez maksas pārrēķina kadastra objekta vēsturiskās kadastrālās vērtības par gadu, kurā izlabota kļūda, un iepriekšējiem trim gadiem. Pārrēķinātās vēsturiskās kadastrālās vērtības bez maksas pieejamas tīmekļvietnē, kurā publicējami atvērtie dati."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "Xll nodaļa Kadastra datu labošana",
+      "section": "94",
+      "title": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "94.pants. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "Xll nodaļa Kadastra datu labošana",
+      "section": "95",
+      "title": "Ja kadastra datu labošanas dēļ mainās kadastra subjekts, nekustamā īpašuma sastāvs vai kadastra objekta aktuālā kadastrālā vērtība, Valsts zemes dienests par izmaiņām paziņo vietējai pašvaldībai, kuras administratīvajā teritorijā atrodas nekustamais īpašums, un kadastra subjektam, izmantojot tā elektronisko pakalpojumu portālu vai, ja tas nav iespējams, — citā veidā.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "Xll nodaļa Kadastra datu labošana",
+      "section": "96",
+      "title": "Izdevumus, kas saistīti ar kadastrālās uzmērīšanas kļūdu labošanu, sedz kadastrālais uzmērītājs ( 29.panta pirmā daļa) vai Valsts zemes dienests ( 30.pants ).",
+      "content": "96.pants. Izdevumus, kas saistīti ar kadastrālās uzmērīšanas kļūdu labošanu, sedz kadastrālais uzmērītājs ( 29.panta pirmā daļa) vai Valsts zemes dienests ( 30.pants )."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "97",
+      "title": "Izdevumus, kas saistīti ar Kadastra izveidošanu un uzturēšanu, sedz no valsts budžeta dotācijas no vispārējiem ieņēmumiem, maksas pakalpojumiem un citiem pašu ieņēmumiem, kā arī ārvalstu finanšu palīdzības līdzekļiem.",
+      "content": "97.pants. Izdevumus, kas saistīti ar Kadastra izveidošanu un uzturēšanu, sedz no valsts budžeta dotācijas no vispārējiem ieņēmumiem, maksas pakalpojumiem un citiem pašu ieņēmumiem, kā arī ārvalstu finanšu palīdzības līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "98",
+      "title": "Atbilstoši kārtējam gadam piešķirtā valsts finansējuma apjomam Valsts zemes dienests finansē:",
+      "content": "1) kadastra datu (teksta un telpisko) uzturēšanu;\n2) kadastra objektu datu reģistrāciju un aktualizāciju Kadastra informācijas sistēmā, ja nav saņemts šā likuma 24. un 60. 2 pantā minētās personas ierosinājums;\n3) kadastrālo vērtēšanu;\n4) (izslēgts ar 12.06.2009 . likumu) ;\n5) datu apmaiņu ar citām valsts vai pašvaldības informācijas sistēmām;\n6) kadastra informācijas sagatavošanu un izsniegšanu atbilstoši šā likuma 86.pantam ;\n7) kadastra informācijas publiskās daļas pieejamības nodrošināšanu elektroniskās informācijas izplatīšanas sistēmā;\n8) kadastra informācijas sniegšanu Eiropas Savienības valstīm un citām valstīm saskaņā ar starpvalstu līgumiem, ciktāl to neierobežo normatīvie akti;\n9) Valsts zemes dienesta arhīva uzturēšanu;\n10) aktuālo kadastra datu sagatavošanu un izsniegšanu bez maksas kadastra subjektam par tā kadastra objektu;\n11) (izslēgts ar 30.10.2014 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "99",
+      "title": "Šā likuma 24. un 60. 2 pantā minētās personas Ministru kabineta noteiktajā kārtībā un normatīvajos aktos noteiktajā apmērā maksā par:",
+      "content": "1) nekustamā īpašuma objekta vai zemes vienības daļas noteikšanu un nekustamā īpašuma veidošanu;\n2) kadastra objekta un kadastra datu reģistrāciju un šā likuma 57.panta 1. un 1. 1 punktā minēto kadastra datu aktualizāciju;\n3) kadastra informācijas sagatavošanu un izsniegšanu par savu kadastra objektu, izņemot šā likuma 85.pantā minēto gadījumu."
+    },
+    {
+      "provision_ref": "Art. 99.1",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "99.1",
+      "title": "99. 1 pants. Ja būves īpašnieks vai, ja tāda nav, - tiesiskais valdītājs neierosina būves noteikšanu un reģistrāciju šajā likumā noteiktajā termiņā, tad būves īpašnieks vai, ja tāda nav, - tiesiskais valdītājs ir atbildīgs normatīvajos aktos noteiktajā kārtībā.",
+      "content": "( 01.12.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 99.2",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "99.2",
+      "title": "99. 2 pants. (1) Ja pašvaldība šā likuma 24.panta trešajā daļā paredzētajā gadījumā ir ierosinājusi nekustamā īpašuma objekta vai zemes vienības daļas noteikšanu, tā normatīvajos aktos noteiktajā kārtībā un apmērā maksā par nekustamā īpašuma objekta vai zemes vienības daļas noteikšanu.",
+      "content": "(2) Šādā gadījumā pašvaldība pieņem lēmumu par to, ka nekustamā īpašuma īpašnieks vai, ja tāda nav, — tiesiskais valdītājs, vai, ja tāda nav, — lietotājs triju mēnešu laikā atmaksā pašvaldībai nekustamā īpašuma objekta vai zemes vienības daļas noteikšanas izmaksas. Lēmuma izpilde notiek Administratīvā procesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 99.3",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "99.3",
+      "title": "99. 3 pants. Ja Valsts zemes dienests šā likuma 57. 2 pantā minētajā gadījumā ir noteicis ēkas nolietojumu un aktualizējis datus Kadastra informācijas sistēmā, Valsts zemes dienests pieņem lēmumu par to, ka ēkas īpašnieks vai tiesiskais valdītājs triju mēnešu laikā atmaksā paziņojuma sagatavošanas un nosūtīšanas, ēkas nolietojuma noteikšanas, kadastra datu aktualizācijas un lēmuma sagatavošanas un nosūtīšanas izmaksas. Lēmuma izpilde notiek Administratīvā procesa likumā noteiktajā kārtībā.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 12.07.2021. Pants stājas spēkā 01.02.2022. Sk. pārejas noteikumu 43. punktu)"
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "100",
+      "title": "(Izslēgts ar 30.10.2014 . likumu, kas stājas spēkā 01.01.2015. )",
+      "content": "100.pants. (Izslēgts ar 30.10.2014 . likumu, kas stājas spēkā 01.01.2015. )"
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "101",
+      "title": "Par kadastra informācijas sagatavošanu, izmantošanu un pieejamības nodrošināšanu (izņemot šā likuma 98.pantā minētos gadījumus), kā arī statistiskās un analītiskās informācijas sagatavošanu, izmantojot kadastra informāciju, pieprasītājs maksā Ministru kabineta noteiktajā kārtībā un normatīvajos aktos noteiktajā apmērā.",
+      "content": "101.pants. Par kadastra informācijas sagatavošanu, izmantošanu un pieejamības nodrošināšanu (izņemot šā likuma 98.pantā minētos gadījumus), kā arī statistiskās un analītiskās informācijas sagatavošanu, izmantojot kadastra informāciju, pieprasītājs maksā Ministru kabineta noteiktajā kārtībā un normatīvajos aktos noteiktajā apmērā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn1",
+      "title": "1. Ministru kabinets ne vēlāk kā līdz 2006.gada 1.jūlijam izdod šā likuma 9. , 22. , 28. , 29. , 45. , 60. , 66. , 68. , 88. , 89. , 99. , 100. un 101.pantā minētos noteikumus.",
+      "content": "1. Ministru kabinets ne vēlāk kā līdz 2006.gada 1.jūlijam izdod šā likuma 9. , 22. , 28. , 29. , 45. , 60. , 66. , 68. , 88. , 89. , 99. , 100. un 101.pantā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn2",
+      "title": "2. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.jūlijam ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) 1996.gada 30.aprīļa noteikumi Nr.158 \" Nekustamā īpašuma valsts kadastra noteikumi \";\n2) 2004.gada 15.jūnija noteikumi Nr.540 \" Noteikumi par valsts nodevu par nekustamo īpašumu sastāva un piederības izziņu izsniegšanu \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn3",
+      "title": "3. Normatīvajos aktos noteiktajā kārtībā zemes mērniecības darbu veikšanas licences izsniedz līdz 2007.gada 31.decembrim. Līdz 2007.gada 31.decembrim izsniegtās zemes mērniecības darbu veikšanas licences un sertifikāti ir spēkā līdz dokumentā norādītajam termiņam, bet ne ilgāk kā līdz 2010.gada 31.decembrim.",
+      "content": "3. Normatīvajos aktos noteiktajā kārtībā zemes mērniecības darbu veikšanas licences izsniedz līdz 2007.gada 31.decembrim. Līdz 2007.gada 31.decembrim izsniegtās zemes mērniecības darbu veikšanas licences un sertifikāti ir spēkā līdz dokumentā norādītajam termiņam, bet ne ilgāk kā līdz 2010.gada 31.decembrim."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn4",
+      "title": "4. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "4. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn5",
+      "title": "5. Līdz nekustamā īpašuma pirmreizējai ierakstīšanai zemesgrāmatā zemes ierīcības projektus zemes reformas ietvaros izstrādā un apstiprina saskaņā ar likumu “ Par zemes reformu Latvijas Republikas lauku apvidos ”, likumu “ Par zemes reformu Latvijas Republikas pilsētās ”, Zemes ierīcības likuma pārejas noteikumu 1.punktu un Ministru padomes 1991.gada 25.novembra lēmumu Nr.322 “ Par Nolikumu par lauku apvidu zemi ”.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn6",
+      "title": "6. Līdz nekustamā īpašuma pirmreizējai ierakstīšanai zemesgrāmatā zemes reformu un privatizāciju regulējošos likumos minētais zemes lietotājs ir kadastra subjekts, kuru Kadastra informācijas sistēmā ieraksta kā lietotāju. Zemes lietotājam ir tiesības ierosināt nekustamā īpašuma objekta un zemes vienības daļas noteikšanu, nekustamā īpašuma objekta veidošanu, kadastra datu aktualizāciju un šo datu labošanu, kā arī šā likuma 13. , 14. un 31. 1 pantā noteiktie pienākumi, viņš var veikt šā likuma 34.pantā noteiktās darbības. Ja zeme ir koplietošanā, minētās darbības var veikt viens no zemes koplietotājiem.",
+      "content": "( 17.06.2010 . likuma redakcijā ar grozījumiem, kas izdarīti ar 08.03.2012 . likumu, kas stājas spēkā 11.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn7",
+      "title": "7. Dzīvokli, mākslinieka darbnīcu un neapdzīvojamo telpu līdz dzīvojamās mājas privatizācijai un ar to saistītās lietu tiesības reģistrē Kadastra informācijas sistēmā normatīvajos aktos noteiktajā kārtībā.",
+      "content": "7. Dzīvokli, mākslinieka darbnīcu un neapdzīvojamo telpu līdz dzīvojamās mājas privatizācijai un ar to saistītās lietu tiesības reģistrē Kadastra informācijas sistēmā normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn8",
+      "title": "8. Pirms šā likuma spēkā stāšanās izveidoto un uzturēto nekustamo īpašumu un zemes lietojumu reģistru aizstāj Kadastra informācijas sistēma.",
+      "content": "8. Pirms šā likuma spēkā stāšanās izveidoto un uzturēto nekustamo īpašumu un zemes lietojumu reģistru aizstāj Kadastra informācijas sistēma."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn9",
+      "title": "9. Pirms šā likuma spēkā stāšanās sagatavotie un izsniegtie kadastra objektu formēšanas un kadastra dokumenti ir spēkā. Sagatavoto kadastra objektu formēšanas un kadastra dokumentu arhīva eksemplārus glabā Valsts zemes dienesta arhīvā.",
+      "content": "9. Pirms šā likuma spēkā stāšanās sagatavotie un izsniegtie kadastra objektu formēšanas un kadastra dokumenti ir spēkā. Sagatavoto kadastra objektu formēšanas un kadastra dokumentu arhīva eksemplārus glabā Valsts zemes dienesta arhīvā."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn10",
+      "title": "10. Privatizācijas procesā īpašumā vai valdījumā iegūtā būve līdz īpašuma tiesību nostiprināšanai zemesgrāmatā uzskatāma par kadastra objektu, kuram var veikt nekustamā īpašuma veidošanu šā likuma 33.pantā noteiktajā kārtībā.",
+      "content": "10. Privatizācijas procesā īpašumā vai valdījumā iegūtā būve līdz īpašuma tiesību nostiprināšanai zemesgrāmatā uzskatāma par kadastra objektu, kuram var veikt nekustamā īpašuma veidošanu šā likuma 33.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn11",
+      "title": "11. Personām, kuras lietošanas vai valdījuma tiesības ieguvušas zemes reformas laikā saskaņā ar likumu \"Par zemes lietošanu un zemes ierīcību\", likumu \" Par zemes reformu Latvijas Republikas pilsētās \", likumu \" Par zemes reformu Latvijas Republikas lauku apvidos \", likumu \"Par zemes reformas pabeigšanu lauku apvidos\" un likumu \" Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās \", ir tiesības formēt kadastra objektus šajā likumā noteiktajā kārtībā.",
+      "content": "11. Personām, kuras lietošanas vai valdījuma tiesības ieguvušas zemes reformas laikā saskaņā ar likumu \"Par zemes lietošanu un zemes ierīcību\", likumu \" Par zemes reformu Latvijas Republikas pilsētās \", likumu \" Par zemes reformu Latvijas Republikas lauku apvidos \", likumu \"Par zemes reformas pabeigšanu lauku apvidos\" un likumu \" Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās \", ir tiesības formēt kadastra objektus šajā likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn12",
+      "title": "12. Zemes reformas un privatizācijas laikā iegūtās nekustamā īpašuma objekta lietošanas un valdījuma tiesības reģistrē Kadastra informācijas sistēmā līdz īpašuma tiesību nostiprināšanai zemesgrāmatā.",
+      "content": "12. Zemes reformas un privatizācijas laikā iegūtās nekustamā īpašuma objekta lietošanas un valdījuma tiesības reģistrē Kadastra informācijas sistēmā līdz īpašuma tiesību nostiprināšanai zemesgrāmatā."
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn13",
+      "title": "13. Valsts zemes dienests ir tiesīgs mainīt Kadastra informācijas sistēmā vēsturiski uzkrātos nekustamā īpašuma kadastra numurus vai zemes vienību, būvju un telpu grupu kadastra apzīmējumus, ja tie neatbilst normatīvo aktu prasībām, par to informējot kadastra subjektu. Valsts zemes dienests mēneša laikā informē attiecīgo vietējo pašvaldību un zemesgrāmatu nodaļu par izmaiņām, lai tās tiktu izdarītas zemesgrāmatā.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn14",
+      "title": "14. Līdz 2010.gada 1.janvārim nekustamā īpašuma objekta (būves) noteikšanu, pamatojoties uz tiesas pieprasījumu, ierosina persona, kuras valdījumā pēc ieilguma noteikumiem atrodas būve.",
+      "content": "14. Līdz 2010.gada 1.janvārim nekustamā īpašuma objekta (būves) noteikšanu, pamatojoties uz tiesas pieprasījumu, ierosina persona, kuras valdījumā pēc ieilguma noteikumiem atrodas būve."
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn15",
+      "title": "15. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "15. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn16",
+      "title": "16. Līdz šā likuma 89.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam ir piemērojami Ministru kabineta 2007.gada 6.februāra noteikumi Nr.97 \" Nekustamā īpašuma valsts kadastra informācijas pieprasīšanas un izsniegšanas kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn17",
+      "title": "17. Līdz šā likuma 60.pantā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.jūlijam ir piemērojami Ministru kabineta 2006.gada 1.augusta noteikumi Nr.636 \" Kadastra objekta reģistrācijas un kadastra datu aktualizācijas noteikumi \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn18",
+      "title": "18. Šā likuma grozījumi par VIII nodaļas izslēgšanu stājas spēkā 2010.gada 1.jūlijā.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn19",
+      "title": "19. Līdz 2010.gada 1.jūlijam Valsts zemes dienests šā likuma VIII nodaļā noteiktos kadastra datus nekustamā īpašuma nodokļa administrēšanai uztur un izsniedz par tiem objektiem, kas ar nekustamā īpašuma nodokli ir apliekami saskaņā ar to likuma \" Par nekustamā īpašuma nodokli \" 1.panta redakciju, kura ir spēkā 2009.gada 31.decembrī.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn20",
+      "title": "20. Šā likuma 14.panta otrajā daļā norādītās un līdz 2010.gada 1.janvārim uzbūvētas Kadastra informācijas sistēmā nereģistrētas būves īpašniekam vai, ja tāda nav, - tiesiskajam valdītājam ir pienākums līdz 2010.gada 1.augustam ierosināt attiecīgās būves noteikšanu.",
+      "content": "( 01.12.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn21",
+      "title": "21. Valsts zemes dienests šā likuma 14.panta otrajā daļā minētās būves Kadastra informācijas sistēmā reģistrē no 2010.gada 1.marta.",
+      "content": "( 01.12.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn22",
+      "title": "22. Šā likuma 99. 1 pantā minētajam līdz 2010.gada 1.janvārim uzbūvētas un Kadastra informācijas sistēmā nereģistrētas būves īpašniekam, vai, ja tāda nav, - tiesiskajam valdītājam 2010.gadā ir pienākums ierosināt būves noteikšanu līdz 1.augustam.",
+      "content": "( 01.12.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn23",
+      "title": "23. Ministru kabinets līdz 2010.gada 1.janvārim apstiprina būvju klasifikāciju.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn24",
+      "title": "24. Ministru kabinets līdz 2010.gada 1.martam apstiprina inženierbūves bāzes vērtību, ņemot vērā noteikto būvju klasifikāciju. Apstiprinātās bāzes vērtības inženierbūvju kadastrālo vērtību aprēķinam stājas spēkā 2010.gada 1.martā.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn25",
+      "title": "25. Ja normatīvajos aktos noteiktajā kārtībā ir saņemts būves īpašnieka ierosinājums privatizēt (atsavināt) būves uzturēšanai nepieciešamo valsts vai pašvaldības īpašumā esošo zemi, kas kopā ar zemes īpašniekam piederošām būvēm zemesgrāmatā reģistrēta kā vienots īpašums, pēc privatizāciju (atsavināšanu) veicošās institūcijas ierosinājuma Valsts zemes dienests Kadastra informācijas sistēmā šo īpašumu sadala, izveidojot patstāvīgu zemes īpašumu un patstāvīgu būves īpašumu.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn26",
+      "title": "26. Līdz grozījumu izdarīšanai Ministru kabineta 2006.gada 20.jūnija noteikumos Nr.496 “ Nekustamā īpašuma lietošanas mērķu klasifikācija un nekustamā īpašuma lietošanas mērķu noteikšanas un maiņas kārtība ” atbilstoši šā likuma 9.panta pirmajai daļai minētos noteikumus piemēro, ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā sešus mēnešus pēc likuma spēkā stāšanās.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn27",
+      "title": "27. Ministru kabinets ne vēlāk kā līdz 2011.gada 1.jūnijam izdod šā likuma 22.pantā minētos Ministru kabineta noteikumus. Līdz šā likuma 22.pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.jūnijam ir piemērojami Ministru kabineta 2007.gada 20.marta noteikumi Nr.182 “ Noteikumi par nekustamā īpašuma objekta noteikšanu ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn28",
+      "title": "28. Ministru kabinets ne vēlāk kā līdz 2010.gada 31.decembrim izdod šā likuma 29.panta ceturtajā daļā minētos Ministru kabineta noteikumus.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn29",
+      "title": "29. Šā likuma 29.panta piektā daļa stājas spēkā 2011.gada 1.janvārī.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn30",
+      "title": "30. Ministru kabinets ne vēlāk kā līdz 2011.gada 1.jūnijam izdod šā likuma 60.pantā minētos Ministru kabineta noteikumus. Līdz šā likuma 60.pantā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.jūnijam ir piemērojami Ministru kabineta 2010.gada 23.februāra noteikumi Nr.193 „ Kadastra objekta reģistrācijas un kadastra datu aktualizācijas noteikumi ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn31",
+      "title": "31. Ministru kabinets ne vēlāk kā līdz 2012.gada 31.decembrim izdod šā likuma 22.panta 7.punktā minētos Ministru kabineta noteikumus.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 11.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn32",
+      "title": "32. 2015.gadā spēkā esošā kadastrālo vērtību bāze piemērojama arī 2016.gada kadastrālo vērtību aprēķinam, izņemot Ministru kabineta 2006.gada 18.aprīļa noteikumu Nr.305 \" Kadastrālās vērtēšanas noteikumi \" 3.pielikumā norādīto lauku nekustamo īpašumu grupu, kuras kadastrālo vērtību bāze apstiprināma līdz 2015.gada 15.jūnijam. Izstrādājot kadastrālo vērtību bāzi lauku nekustamo īpašumu grupai 2016.gadam, ņem vērā kadastrālo vērtību aprēķinu, kas balstīts uz 2012. un 2013.gada tirgus cenām.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 01.01.2015. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn33",
+      "title": "33. Valsts zemes dienests līdz 2024. gada 31. decembrim uztur savā tīmekļvietnē kadastrālās vērtības atsavināšanas cenas noteikšanai atbilstoši Piespiedu dalītā īpašuma privatizētajās daudzdzīvokļu mājās izbeigšanas likuma pārejas noteikuma 1. apakšpunktam.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn34",
+      "title": "34. (Izslēgts ar 18.05.2017 . likumu, kas stājas spēkā 08.06.2017. )",
+      "content": "34. (Izslēgts ar 18.05.2017 . likumu, kas stājas spēkā 08.06.2017. )"
+    },
+    {
+      "provision_ref": "PN 35",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn35",
+      "title": "35. (Izslēgts ar 11.10.2018 . likumu, kas stājas spēkā 01.12.2019. )",
+      "content": "35. (Izslēgts ar 11.10.2018 . likumu, kas stājas spēkā 01.12.2019. )"
+    },
+    {
+      "provision_ref": "PN 36",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn36",
+      "title": "36. 2016.gadā spēkā esošā kadastrālo vērtību bāze piemērojama kadastrālo vērtību aprēķinam arī 2017.gadā.",
+      "content": "( 19.05.2016 . likuma redakcijā, kas stājas spēkā 09.06.2016. )"
+    },
+    {
+      "provision_ref": "PN 37",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn37",
+      "title": "37. Ministru kabinets līdz 2017.gada 30.aprīlim izdod šā likuma 29.panta 4. 1 daļā paredzētos Ministru kabineta noteikumus.",
+      "content": "( 23.11.2016 . likuma redakcijā, kas stājas spēkā 01.01.2017. )"
+    },
+    {
+      "provision_ref": "PN 38",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn38",
+      "title": "38. 2017. gadā spēkā esošā kadastrālo vērtību bāze piemērojama arī 2018. un 2019. gada kadastrālo vērtību aprēķinam. 2020., 2021., 2022., 2023. un 2024. gada kadastrālo vērtību aprēķinam piemēro kadastrālo vērtību bāzi, kas noteikta Ministru kabineta 2014. gada 23. decembra noteikumos Nr. 838 \" Noteikumi par kadastrālo vērtību bāzi 2016., 2017., 2018. un 2019. gadam\", un piemēro kadastrālo vērtību aprēķināšanas kārtību, kas noteikta Ministru kabineta 2006. gada 18. aprīļa noteikumos Nr. 305 \" Kadastrālās vērtēšanas noteikumi \". Ministru kabinets līdz 2017. gada 15. septembrim, pamatojoties uz risinājumu, ko tas ir atbalstījis, nosaka izņēmumus (nosakot to piemērošanu līdz brīdim, kamēr stājas spēkā jaunā kadastrālo vērtību bāze 2025.—2028. gadam) attiecībā uz atsevišķām kadastrālo vērtību zonām, atsevišķiem ēku tipiem, atsevišķām jaunajām ēkām, kā arī attiecībā uz telpu grupu lietošanas veidu un apgrūtinājumu piemērošanu.",
+      "content": "( 18.05.2017 . likuma redakcijā ar grozījumiem, kas izdarīti ar 24.10.2019. un 10.06.2021 . likumu, kas stājas spēkā 12.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 39",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn39",
+      "title": "39. Ministru kabinets līdz 2020. gada 1. novembrim pieņem attiecīgus normatīvos aktus, lai nodrošinātu, ka Nekustamā īpašuma valsts kadastrā tiek saņemti dati, kas nepieciešami kadastrālo vērtību bāzes izstrādei.",
+      "content": "( 24.10.2019 . likuma redakcijā, kas stājas spēkā 13.11.2019. )"
+    },
+    {
+      "provision_ref": "PN 40",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn40",
+      "title": "40. Valsts zemes dienests līdz 2017. gada 1. jūlijam pieprasa un Tiesu administrācija līdz 2017. gada 31. oktobrim sniedz informāciju par pirmreizējo ēkas ekspluatācijas pieņemšanas gadu tām ēkām, kuras pirmreizēji nodotas ekspluatācijā pēc 1995. gada 13. septembra un kurām Kadastra informācijas sistēmā nav norādīts gads, kad ēka pieņemta ekspluatācijā. Ja Tiesu administrācijai nav šādas informācijas, Valsts zemes dienests pieprasa un pašvaldības līdz 2018. gada 31. martam sniedz minēto informāciju.",
+      "content": "( 18.05.2017 . likuma redakcijā, kas stājas spēkā 08.06.2017. )"
+    },
+    {
+      "provision_ref": "PN 41",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn41",
+      "title": "41. Valsts zemes dienests, aprēķinot prognozētās kadastrālās vērtības 2018. gadam un kadastrālās vērtības 2018.—2024. gadam, zemei, kuras lietošanas mērķis ir dzīvojamā apbūve (individuālā un daudzdzīvokļu) un kurai Kadastra informācijas sistēmā reģistrēts apgrūtinājums — kultūras piemineklis, piemēro koeficientu 0,7.",
+      "content": "( 18.05.2017 . likuma redakcijā ar grozījumiem, kas izdarīti ar 24.10.2019. un 10.06.2021 . likumu, kas stājas spēkā 12.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 42",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn42",
+      "title": "42. Grozījums šā likuma 29. pantā par tā papildināšanu ar 2. 1 daļu stājas spēkā 2022. gada 1. janvārī.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 12.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 43",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn43",
+      "title": "43. Šā likuma 57. panta 4. punkts, 57. 2 pants un 99. 3 pants stājas spēkā 2022. gada 1. februārī.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 12.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 43.1",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn43.1",
+      "title": "43. 1 Valsts zemes dienests no 2025. gada 1. janvāra līdz brīdim, kad sāk piemērot šo pārejas noteikumu 50. punktā minēto kadastrālo vērtību bāzi, Kadastra informācijas sistēmā katram kadastra objektam aprēķina un reģistrē divas spēkā esošas kadastrālās vērtības:",
+      "content": "1) fiskālo kadastrālo vērtību, ko izmanto nodokļu, valsts nodevu un citu maksājumu valsts vai pašvaldības budžetā aprēķinam, izņemot maksas par zemes likumisko lietošanu aprēķinu;\n2) universālo kadastrālo vērtību, ko izmanto šo pārejas noteikumu 43. 1 punkta 1. apakšpunktā neminētām vajadzībām."
+    },
+    {
+      "provision_ref": "PN 43.2",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn43.2",
+      "title": "43. 2 Ministru kabinets 2024. gadā apstiprina kadastrālo vērtību bāzi universālās kadastrālās vērtības aprēķinam, nepārsniedzot 80 procentus no vidējā nekustamo īpašumu cenu līmeņa 2022. gada 1. jūlijā un izmantojot informāciju par nekustamā īpašuma tirgus darījumiem no 2012. gada 1. janvāra līdz 2022. gada 1. jūlijam.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 43.3",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn43.3",
+      "title": "43. 3 Valsts zemes dienests fiskālās kadastrālās vērtības aprēķina un aktualizē atbilstoši 2024. gadā spēkā esošajai kadastrālo vērtību bāzei un kadastrālo vērtēšanu regulējošiem normatīvajiem aktiem, kas ir piemērojami 2024. gada 31. decembrī.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 43.4",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn43.4",
+      "title": "43. 4 Lai nodrošinātu līdzīgu nekustamo īpašumu kadastrālo vērtību savstarpēji labāku proporcionālo atbilstību, Ministru kabinets no 2025. gada 1. janvāra fiskālās kadastrālās vērtības aprēķinā var nepiemērot šo pārejas noteikumu 41. punktā noteikto koeficientu — 0,7 — zemei, kuras lietošanas mērķis ir dzīvojamā apbūve (individuālā un daudzdzīvokļu) un kurai Kadastra informācijas sistēmā reģistrēts apgrūtinājums — kultūras piemineklis, kā arī var lemt par 2024. gada 31. decembrī piemērojamu kadastrālo vērtēšanu regulējošu normatīvo aktu piemērošanas izmaiņām.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 44",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn44",
+      "title": "44. Šā likuma 68. panta trešo un ceturto daļu nepiemēro līdz dienai, kad tiek apstiprināta kadastrālo vērtību bāze 2025.—2028. gadam.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 12.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 45",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn45",
+      "title": "45. (Izslēgts ar 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )",
+      "content": "45. (Izslēgts ar 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 46",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn46",
+      "title": "46. (Izslēgts ar 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )",
+      "content": "46. (Izslēgts ar 30.05.2024 . likumu, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 47",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn47",
+      "title": "47. Ministru kabinets līdz 2021. gada 1. decembrim:",
+      "content": "1) pieņem grozījumus normatīvajos aktos kadastrālās vērtēšanas jomā, paredzot tajos Valsts zemes dienestam uzdevumu sagatavot un publicēt pārskata tematiskās kartes par zemes, ēku un nekustamo īpašumu, kas sastāv no apbūvētas zemes vienības ar uz tās esošajām nekustamajā īpašumā ietilpstošām ēkām, viena kvadrātmetra kadastrālo vērtību, kā arī nosakot publicējamo pārskata tematisko karšu saturu un publicēšanas kārtību;\n2) izstrādā un iesniedz Saeimai grozījumus šajā likumā, nosakot masveida kadastrālās vērtēšanas mērķus un principus."
+    },
+    {
+      "provision_ref": "PN 48",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn48",
+      "title": "48. Līdz šā likuma 22. panta 8. punktā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 1. martam kadastrālo uzmērīšanu var neveikt:",
+      "content": "1) ja inženierbūve reģistrēta uz iesniegto izpildmērījumu datu pamata;\n2) ja pirmās grupas ēka atbilstoši būvniecības jomu regulējošos normatīvajos aktos noteiktajam iedalījumam reģistrēta uz iesniegtās deklarācijas pamata;\n3) zemes vienības daļai."
+    },
+    {
+      "provision_ref": "PN 49",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn49",
+      "title": "49. Šā likuma 66. panta otrās daļas 6. punktu sāk piemērot kadastrālajā vērtēšanā, izstrādājot kadastrālo vērtību bāzi 2029. gadam un turpmākajiem gadiem.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 50",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn50",
+      "title": "50. Ministru kabinets līdz 2027. gada 15. jūnijam pilnveido kadastrālo vērtēšanu regulējošus normatīvos aktus un apstiprina jaunu kadastrālo vērtību bāzi, kuru kadastrālās vērtības aprēķinam sāk piemērot atbilstoši šā likuma 68. panta otrajai daļai (ja bāzi apstiprina līdz attiecīgā gada 15. jūnijam, tad to kadastrālās vērtības aprēķinam piemēro no aiznākamā gada 1. janvāra).",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 51",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn51",
+      "title": "51. Šā likuma 69. panta trešo daļu sāk piemērot kadastrālajā vērtēšanā, izstrādājot kadastrālo vērtību bāzi pēc šo pārejas noteikumu 50. punktā noteiktās kadastrālo vērtību bāzes apstiprināšanas. Ministru kabinets šo pārejas noteikumu 50. punktā noteiktās kadastrālo vērtību bāzes izstrādei var noteikt atšķirīgu izmantojamo nekustamā īpašuma tirgus darījumu periodu.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 52",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn52",
+      "title": "52. Šā likuma grozījums par 22. panta 4. punkta izslēgšanu, grozījums par 26. panta pirmās daļas izteikšanu jaunā redakcijā un grozījums par 44. panta pirmās daļas izteikšanu jaunā redakcijā stājas spēkā 2025. gada 1. februārī.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 53",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn53",
+      "title": "53. Ministru kabinets līdz 2024. gada 1. oktobrim nosaka kārtību, kādā fiskālās kadastrālās vērtības aprēķinā piemēro Kadastra informācijas sistēmā reģistrētos nekustamā īpašuma objekta apgrūtinājumus.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 54",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn54",
+      "title": "54. Īpašnieka iesniegums par tam piederošas būves dzēšanu Kadastra informācijas sistēmā, pamatojoties uz būvvaldes vai citas institūcijas, kura pilda būvvaldes funkcijas, izdotu dokumentu, kas apliecina būves neesību, ja minētais dokuments izdots līdz 2020. gada 31. martam, vienlaikus ir uzskatāms par nostiprinājuma lūgumu zemesgrāmatai. Valsts zemes dienests iesniegumu elektroniski nosūta attiecīgajai rajona (pilsētas) tiesai.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 55",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn55",
+      "title": "55. Ministru kabinets ne vēlāk kā līdz 2025. gada 31. janvārim izdod šā likuma 28. pantā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2025. gada 31. janvārim ir piemērojami Ministru kabineta 2014. gada 4. februāra noteikumi Nr. 61 \" Noteikumi par Apgrūtināto teritoriju informācijas sistēmas izveidi un uzturēšanu un apgrūtināto teritoriju un nekustamā īpašuma objekta apgrūtinājumu klasifikatoru \".",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    },
+    {
+      "provision_ref": "PN 56",
+      "chapter": "Xlll nodaļa Kadastra finansēšana",
+      "section": "pn56",
+      "title": "56. Šā likuma 86. 2 panta otro daļu nepiemēro līdz 2025. gada 31. janvārim.",
+      "content": "( 30.05.2024 . likuma redakcijā, kas stājas spēkā 27.06.2024. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "kadastra numurs",
+      "definition": "nekustamajam īpašumam piešķirta viennozīmīga, neatkārtojama un nemainīga ciparu kombinācija (identifikators)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastra apzīmējums",
+      "definition": "zemes vienībai, būvei, telpu grupai vai zemes vienības daļai piešķirta viennozīmīga, neatkārtojama un nemainīga ciparu kombinācija (identifikators)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastra dati",
+      "definition": "Nekustamā īpašuma valsts kadastra informācijas sistēmā ierakstītās ziņas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastra dokuments",
+      "definition": "no Nekustamā īpašuma valsts kadastra informācijas sistēmas sagatavots un noformēts dokuments, kas satur kadastra datus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastra informācija",
+      "definition": "kadastra dati un Valsts zemes dienesta arhīva dokumentu ziņas, ko izmanto Nekustamā īpašuma valsts kadastrs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastra objekts",
+      "definition": "Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts nekustamais īpašums kā īpašuma objektu kopums, kā arī zemes vienība, būve, telpu grupa un zemes vienības daļa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastra subjekts",
+      "definition": "Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta kadastra objekta īpašnieks vai, ja tāda nav, — tiesiskais valdītājs, kā arī apbūves tiesīgais",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastrālā uzmērīšana",
+      "definition": "zemes vienības un zemes vienības daļas robežu, būves un telpu grupas kontūras noteikšana, raksturojošo datu iegūšana apvidū un kadastrālās uzmērīšanas dokumentu sagatavošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kadastrālā vērtība",
+      "definition": "kadastra objektam masveida vērtēšanas procesā noteikta vērtība naudas izteiksmē, kura norāda ekonomisko labumu, ko dod tiesības uz konkrēto objektu novērtēšanas datumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "telpu grupa",
+      "definition": "konstruktīvi norobežots un no vienas vai vairākām telpām sastāvošs telpu kopums, kuram ir viena vai vairākas izejas uz koplietošanas telpu vai āru un kuram būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā piešķirta viena noteikta funkcija (lietošanas veids)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes vienība",
+      "definition": "Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēts norobežots zemesgabals, kam piešķirts kadastra apzīmējums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes vienības daļa",
+      "definition": "Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta (tai skaitā nomas vajadzībām) noteikta zemes vienības teritorija, kas nav patstāvīgs nekustamā īpašuma objekts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jaunbūve",
+      "definition": "būve, kurai līdz tās nodošanai ekspluatācijā atbilstoši būvniecību regulējošo normatīvo aktu prasībām izbūvēts vismaz nulles cikls",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nekustamā īpašuma nosaukums",
+      "definition": "ar pašvaldības lēmumu nekustamajam īpašumam lauku apvidū un, ja nekustamā īpašuma sastāvā esošā zemes vienība vai būve nav adresācijas objekts, nekustamajam īpašumam pilsētā vai ciema teritorijā piešķirts rekvizīts, kas nav adrese.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

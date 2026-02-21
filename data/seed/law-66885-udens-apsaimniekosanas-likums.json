@@ -1,0 +1,507 @@
+{
+  "id": "lv-law-66885",
+  "type": "statute",
+  "title": "Ūdens apsaimniekošanas likums",
+  "title_en": "Water Management Law",
+  "short_name": "TA-66885",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/66885-udens-apsaimniekosanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) aizsargājamās teritorijas — teritorijas, kuras paredzētas ūdens ieguvei cilvēku patēriņam, teritorijas, kuras izveidotas bioloģisko resursu aizsardzībai, ūdensobjekti, kuri atzīti par rekreācijas objektiem vai peldvietu ūdeņiem, īpaši jutīgas teritorijas, kā arī īpaši aizsargājamas dabas teritorijas;\n2) apakšbaseins — zemes platība (teritorija), no kuras visi virszemes noteces ūdeņi pa strautiem, upēm un ezeriem nonāk kādā konkrētā ūdensteces vietā (parasti ezerā vai upju satekā);\n3) ekoloģiskās un ķīmiskās kvalitātes rādītāji — ūdensobjekta hidroloģiskās, bioloģiskās, fizikālās un ķīmiskās īpašības, pēc kuru kvantitatīvajām vai kvalitatīvajām vērtībām var spriest par ūdeņu kvalitāti;\n4) emisijas ierobežošana — pasākumi, kas nodrošina emisijas limitēšanu, arī emisijas robežvērtības vai ierobežojumi un nosacījumi emisijas ietekmei, raksturam vai citām tās iezīmēm vai piesārņojošās darbības norises apstākļiem, kas ietekmē emisiju;\n5) ezers — dabiska ūdenstilpe sauszemes padziļinājumā (ezerdobē) ar palēninātu ūdensapmaiņu;\n6) iekšzemes ūdeņi — visi stāvošie un tekošie ūdeņi uz zemes virsmas, kā arī visi pazemes ūdeņi uz sauszemes pusi no bāzes līnijas (pamatlīnijas, no kuras mēra teritoriālās jūras ūdeņus) (turpmāk — teritoriālie ūdeņi);\n7) mākslīgs ūdensobjekts — virszemes ūdensobjekts, kas radīts cilvēka darbības rezultātā un atbilst šā likuma nosacījumiem;\n8) pazemes ūdeņu horizonts — pazemes iežu slānis vai slāņi, kā arī citas ģeoloģiskas slāņkopas ar pietiekamu porainību un ūdenscaurlaidību, lai nodrošinātu nozīmīgu ūdens plūsmu vai nozīmīga daudzuma ūdens atdevi;\n9) pazemes ūdens horizontu komplekss — savstarpēji saistītu pazemes ūdens slāņu, horizontu vai struktūru sakopojums;\n10) pazemes ūdensobjekts — telpiski norobežota pazemes ūdens horizonta vai ūdens horizontu kompleksa daļa;\n11) prioritārās vielas — ķīmiskās vielas, kas rada būtisku risku ūdens videi, arī ūdens videi īpaši bīstamas vielas;\n12) pazemes ūdeņi — visi ūdeņi, kas atrodas zem zemes virsmas ar ūdeni piesātinātajā zonā un ir tiešā saskarē ar augsni vai nogulumiežiem;\n13) pārejas ūdeņi — virszemes ūdeņi upju grīvu tuvumā, kuri blakus esošu piekrastes ūdeņu ietekmē daļēji ir sālsūdeņi, bet kurus būtiski ietekmē saldūdens plūsma;\n13 1 ) peldvieta — peldēšanai paredzēta peldvietu higiēnas prasībām atbilstoša vieta, kas atrodas jūras piekrastē vai pie iekšzemes ūdeņiem un kas ietver noteiktu labiekārtotu sauszemes daļu un peldvietas ūdens daļu, ko cilvēki izmanto atpūtai peldsezonas laikā;\n13 2 ) peldvietas ūdens — piekrastes ūdeņu un iekšzemes ūdeņu teritorija peldvietā, kuru cilvēki izmanto peldēšanai;\n13 3 ) peldsezona — peldēšanai labvēlīga sezona, kuru nosaka attiecīgi laika apstākļi un kurā ir gaidāms liels peldētāju skaits. Latvijā peldsezona ir no 15.maija līdz 15.septembrim;\n14) piekrastes ūdeņi — virszemes ūdeņi uz krasta pusi no līnijas, kas savieno visus punktus, kuri atrodas vienu jūras jūdzi uz jūras pusi no bāzes līnijas vai sniedzas līdz pārejas ūdeņu ārējai robežai;\n14 1 ) plūdi — parasti ar ūdeni neklātas sauszemes īslaicīga applūšana ar ūdeni, tai skaitā vētras radīto jūras ūdens uzplūdu piekrastes teritorijās vai palu vai ilgstošu lietavu izraisītas straujas ūdens līmeņa celšanās dēļ;\n14 2 ) plūdu risks — plūdu iestāšanās iespējamība un to radītā varbūtējā nelabvēlīgā ietekme uz cilvēku veselību, vidi, kultūras mantojumu un saimniecisko darbību;\n15) stipri pārveidots ūdensobjekts — virszemes ūdensobjekts, kura īpašības cilvēka darbības izraisītu fizikālu izmaiņu ietekmē ir būtiski mainījušās un kurš atbilst šā likuma nosacījumiem;\n16) upe — galvenokārt pa zemes virsmu plūstoša ievērojama izmēra ūdenstece, kurai ir izteikta gultne un daļa tecējuma var būt pazemē;\n17) upes baseins — zemes platība (teritorija), no kuras visi virszemes noteces ūdeņi pa strautiem, upēm un ezeriem nonāk upes grīvā, grīvlīcī (estuārā) vai deltā un ietek jūrā;\n18) upju baseinu apgabals — sauszemes un jūras teritorija, ko veido vienas upes vai vairāku blakus esošu upju baseini, kā arī ar tiem saistītie pazemes ūdeņi un piekrastes ūdeņi, kas saskaņā ar šo likumu ir upju baseinu apsaimniekošanas pamatvienība;\n19) ūdens videi īpaši bīstamas vielas — ķīmiskās vielas vai vielu grupas, kas ir toksiskas, noturīgas vidē un spējīgas uzkrāties dzīvo organismu audos, kā arī citas vielas vai vielu grupas, kurām ir līdzīga iedarbība;\n20) ūdens resursu lietošana — virszemes un pazemes ūdens resursu izmantošana fizisko vai juridisko personu vajadzībām, kā arī ūdenssaimniecības pakalpojumi un citas saimnieciskās, tai skaitā piesārņojošas, darbības, kuras būtiski ietekmē virszemes vai pazemes ūdeņu kvalitāti vai kvantitāti;\n20 1 ) ūdenssaimniecības pakalpojumi — darbības, kas nodrošina ūdens ieguvi, uzkrāšanu, sagatavošanu lietošanai un piegādi fiziskajām vai juridiskajām personām, kā arī notekūdeņu savākšanu, attīrīšanu un novadīšanu virszemes ūdensobjektos;\n21) ūdens resursu lietotājs — ikviena fiziskā vai juridiskā persona, kas iegūst ūdeņus vai lieto tos saimnieciskajā darbībā;\n22) virszemes ūdensobjekts — nodalīts un nozīmīgs virszemes ūdens hidrogrāfiskā tīkla elements: ūdenstece (upe, strauts, kanāls vai to daļa), ūdenstilpe (ezers, dīķis, ūdenskrātuve vai to daļa), kā arī pārejas ūdeņi vai piekrastes ūdeņu posms;\n23) virszemes ūdeņi — visi iekšzemes ūdeņi (izņemot pazemes ūdeņus), pārejas ūdeņi un piekrastes ūdeņi, bet attiecībā uz ķīmisko kvalitāti — arī teritoriālie ūdeņi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir:\n1) izveidot tādu virszemes un pazemes ūdeņu aizsardzības un apsaimniekošanas sistēmu, kas:\na) veicina ilgtspējīgu un racionālu ūdens resursu lietošanu, nodrošinot to ilgtermiņa aizsardzību un iedzīvotāju pietiekamu apgādi ar labas kvalitātes virszemes un pazemes ūdeni,\nb) novērš ūdens un no ūdens tieši atkarīgo sauszemes ekosistēmu un mitrāju stāvokļa pasliktināšanos, aizsargā šīs ekosistēmas un uzlabo to stāvokli,\nc) uzlabo ūdens vides aizsardzību, pakāpeniski samazina arī prioritāro vielu emisiju un noplūdi, kā arī pārtrauc ūdens videi īpaši bīstamu vielu emisiju un noplūdi,\nd) nodrošina pazemes ūdeņu piesārņojuma pakāpenisku samazināšanu un novērš to turpmāku piesārņošanu,\ne) nodrošina pazemes ūdens resursu atjaunošanu,\nf) nodrošina zemes aizsardzību pret applūšanu vai izkalšanu,\ng) nodrošina Latvijas jūras ūdeņu aizsardzību,\nh) sekmē starptautiskajos līgumos noteikto mērķu sasniegšanu, lai pārtrauktu un novērstu jūras vides piesārņošanu, pārtrauktu vai pakāpeniski novērstu ūdens videi īpaši bīstamu vielu emisiju un noplūdi jūras vidē un sasniegtu tādu stāvokli, ka jūras vidē antropogēnās izcelsmes ķīmisko vielu koncentrācija ir tuva nullei, bet dabā sastopamo ķīmisko vielu koncentrācija — tuva dabā pastāvošajam fona līmenim;\n2) izveidot plūdu riska novērtēšanas un pārvaldības sistēmu, lai mazinātu ar plūdiem saistītu nelabvēlīgu ietekmi uz cilvēku veselību, vidi, kultūras mantojumu un saimniecisko darbību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Emisijas ierobežošana ūdenī",
+      "content": "Likums nosaka kompleksu pieeju emisijas ierobežošanai no punktveida un difūzā piesārņojuma avotiem atbilstoši likumā \" Par piesārņojumu \" noteiktajām piesārņojuma novēršanas un kontroles prasībām, ierobežojot difūzā piesārņojuma slodzes un, ja nepieciešams, veicinot labāko pieejamo tehnisko paņēmienu un vidi saudzējošu tehnoloģiju lietošanu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Mākslīgi ūdensobjekti un stipri pārveidoti ūdensobjekti",
+      "content": "(1) Upju baseinu apgabala apsaimniekošanas plānā (turpmāk — apsaimniekošanas plāns) virszemes ūdensobjektu var noteikt par mākslīgu ūdensobjektu vai par stipri pārveidotu ūdensobjektu šādos gadījumos:\n1) ja labas ekoloģiskās kvalitātes sasniegšanai nepieciešamās objekta hidroloģisko, hidroķīmisko un morfoloģisko īpašību izmaiņas negatīvi ietekmētu:\na) vidi plašākā objekta apkārtnē,\nb) navigāciju, arī ostu darbību, vai rekreācijas iespējas,\nc) darbības, kuru nodrošināšanai nepieciešams uzkrāt ūdeni, piemēram, dzeramā ūdens apgādi vai elektroenerģijas ražošanu,\nd) noteces regulēšanu, aizsardzību pret plūdiem, kā arī meliorāciju,\ne) ilgtspējīgas attīstības nodrošināšanu;\n2) ja ieguvumus, ko sniedz šāda ūdensobjekta mākslīgās vai pārveidotās īpašības, nevar sasniegt ar citiem, videi labvēlīgākiem līdzekļiem ierobežotu tehnisko iespēju vai nepamatoti augstu izmaksu dēļ.\n(2) Ūdensobjekta atzīšana par mākslīgu ūdensobjektu vai par stipri pārveidotu ūdensobjektu nedrīkst kavēt šā likuma mērķu sasniegšanu citos tuvumā esošajos ūdensobjektos vai būt pretrunā ar normatīvajos aktos noteiktajām prasībām vai ūdens kvalitātes normatīviem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Ūdensobjektu stāvoklis",
+      "content": "(1) Virszemes ūdeņu stāvoklis ir virszemes ūdensobjekta vispārīgā kvalitāte, kuru nosaka pēc objekta sliktākajiem ekoloģiskās un ķīmiskās kvalitātes rādītājiem.\n(2) Ekoloģiskā kvalitāte ir virszemes ūdeņu ekosistēmu struktūras un funkcionēšanas kvalitāte, kuru novērtē saskaņā ar Ministru kabineta noteiktajiem kritērijiem.\n(3) Laba virszemes ūdeņu ķīmiskā kvalitāte ir virszemes ūdensobjekta ķīmiskā kvalitāte, kas atbilstoši šā likuma prasībām nepieciešama, lai nodrošinātu virszemes ūdeņiem noteikto vides kvalitātes mērķu sasniegšanu, ievērojot nosacījumu, ka piesārņojošo vielu koncentrācija ūdenī nepārsniedz vides kvalitātes normatīvus.\n(4) Labs virszemes ūdeņu stāvoklis ir tad, ja gan ūdensobjekta ekoloģiskā, gan ķīmiskā kvalitāte atbilst vismaz Ministru kabineta noteiktajiem labas kvalitātes kritērijiem.\n(5) Pazemes ūdeņu stāvoklis ir pazemes ūdensobjekta vispārīgā kvalitāte, kuru nosaka pēc objekta sliktākajiem kvantitatīvajiem un kvalitatīvajiem rādītājiem.\n(6) Pazemes ūdeņu kvantitatīvais stāvoklis ir rādītājs, kas raksturo, cik lielā mērā ūdens tiešā un netiešā ieguve kvantitatīvi ietekmē pazemes ūdensobjektu.\n(7) Labs pazemes ūdeņu stāvoklis ir tad, ja gan ūdensobjekta ķīmiskā kvalitāte, gan kvantitatīvais stāvoklis atbilst vismaz Ministru kabineta noteiktajiem labas kvalitātes kritērijiem.\n(8) Ekoloģiskais potenciāls ir stipri pārveidota ūdensobjekta vai mākslīga ūdensobjekta kvalitāte, kuru novērtē saskaņā ar Ministru kabineta noteiktajiem kritērijiem.\n(9) Labs ekoloģiskais potenciāls ir tad, ja stipri pārveidota ūdensobjekta vai mākslīga ūdensobjekta kvalitāte atbilst vismaz Ministru kabineta noteiktajiem laba ekoloģiskā potenciāla kritērijiem.\n(10) Ministru kabinets nosaka:\n1) virszemes ūdensobjektu tipu raksturojumu un tam atbilstošu virszemes ūdensobjektu klasifikāciju, kā arī antropogēno slodžu noteikšanas kārtību;\n2) pazemes ūdensobjektu klases un klasificēšanas kritērijus, antropogēno slodžu noteikšanas kārtību, kā arī pazemes ūdens resursu apzināšanas kārtību;\n3) virszemes ūdeņu augstas, labas, vidējas, sliktas un ļoti sliktas ekoloģiskās kvalitātes kritērijus un labas un sliktas ķīmiskās kvalitātes kritērijus, kā arī pazemes ūdeņu labas un sliktas ķīmiskās kvalitātes kritērijus;\n4) prioritāro vielu sarakstu un to emisijas ierobežošanas kārtību;\n5) ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumu izstrādāšanas kārtību un virszemes ūdens objektu un ostu akvatoriju tīrīšanas un padziļināšanas kārtību;\n6) peldvietu ūdeņu kvalitātes novērtēšanas un klasifikācijas kārtību, kā arī prasības peldvietu ūdeņu aprakstiem un sabiedrības informēšanai;\n7) peldvietu izveidošanas un uzturēšanas kārtību un drošības prasības;\n8) kārtību, kādā izvietojami informatīvie uzraksti vai simboli par peldvietu;\n9) to peldvietu sarakstu, kurās peldvietas ūdens monitoringu peldsezonas laikā veic par valsts budžeta līdzekļiem;\n10) pasākumus peldvietu ūdens kvalitātes nodrošināšanai un cilvēku veselības aizsardzībai;\n11) virszemes ūdensobjektus, kuros pastāv risks nesasniegt šajā likumā noteikto labu virszemes ūdeņu stāvokli šajā likumā paredzētajā termiņā (riska ūdensobjektus), kā arī prasības šādu ūdensobjektu aizsardzībai."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Ūdens resursu lietotāja tiesības",
+      "content": "Ūdens resursu lietotājam ir tiesības:\n1) lietot ūdeni un izmantot ūdensobjektus personiskām vajadzībām un saimnieciskajai darbībai šajā likumā un citos normatīvajos aktos noteiktajā kārtībā;\n2) veikt būvniecību ūdensobjektos vai to tuvumā un ierīkot ūdens resursu lietošanai nepieciešamās būves, ja saņemtas normatīvajos aktos paredzētās atļaujas un ievēroti normatīvajos aktos noteiktie ierobežojumi;\n3) pēc normatīvajos aktos paredzēto atļauju saņemšanas veikt darbības, kas ietekmē ūdensobjektus, ja šādas darbības tiek veiktas atbilstoši normatīvajos aktos un atļaujās noteiktajām prasībām;\n4) saņemt informāciju par ūdensobjektiem noteiktajiem vides kvalitātes mērķiem, apsaimniekošanas plāna un pasākumu programmas izstrādi un piedalīties apsaimniekošanas plāna sabiedriskajā apspriešanā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Ūdens resursu lietotāja pienākumi",
+      "content": "Ūdens resursu lietotāja pienākumi ir šādi:\n1) lietojot ūdens resursus, ievērot ūdensobjektam noteiktos izmantošanas mērķus, vides kvalitātes mērķus un kvalitātes normatīvus, atļauju nosacījumus, veselības aizsardzības, būvniecības, zivsaimniecības noteikumus un citas normatīvajos aktos ietvertās prasības;\n2) nodrošināt ūdens kvalitātes un kvantitātes saglabāšanu savā īpašumā vai lietošanā esošajos ūdensobjektos un teritorijā;\n3) ievērot apsaimniekošanas plānā un pasākumu programmā paredzētos nosacījumus;\n4) veikt visas ar ūdens resursu lietošanu saistītās darbības tā, lai nepasliktinātu pazemes un virszemes ūdeņu stāvokli, nenodarītu kaitējumu cilvēku veselībai vai videi, arī ūdens ekosistēmām un no tām tieši atkarīgajām sauszemes ekosistēmām, kā arī neradītu apstākļus, kas veicina plūdus vai zemes izkalšanu;\n5) ievērot citu ūdens resursu lietotāju un ūdensobjektiem piegulošās zemes īpašnieku tiesības;\n6) saņemt normatīvajos aktos paredzētās atļaujas darbībām, kas ir saistītas ar ūdens resursu lietošanu;\n7) normatīvajos aktos noteiktajā kārtībā sniegt statistikas pārskatu par ūdens resursu lietošanu atbilstoši izdotās atļaujas nosacījumiem;\n8) atļaut vides aizsardzības institūciju pārstāvjiem, kuri normatīvajos aktos noteiktajā kārtībā veic ūdeņu stāvokļa valsts kontroli vai vides monitoringu, ņemt pazemes un virszemes ūdeņu paraugus privātajos ūdeņos vai ņemt augsnes paraugus un veikt monitoringa iekārtu kontroli privātīpašuma teritorijā;\n9) veikt monitoringu atļaujās vai normatīvajos aktos paredzētajos gadījumos un kārtībā;\n10) atlīdzināt zaudējumus, kas ūdens resursu lietošanas rezultātā nodarīti videi vai ūdens bioloģiskajiem resursiem, ja atbilstoši spēkā esošajiem normatīvajiem aktiem atzīta ūdens resursu lietotāja atbildība par šiem zaudējumiem;\n11) pārtraukt ūdens resursu lietošanu, ja konstatēta pazemes ūdensobjekta un virszemes ūdensobjekta stāvokļa pasliktināšanās, nodarīts kaitējums cilvēku veselībai vai videi, it īpaši ūdens ekosistēmām un no tām tieši atkarīgajām sauszemes ekosistēmām;\n12) ievērot ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumos paredzētos ūdens objekta ekspluatācijas un izmantošanas nosacījumus. Hidrotehniskās būves īpašnieks vai tiesiskais valdītājs atbild par savā īpašumā vai valdījumā esošās hidrotehniskās būves ekspluatācijas (apsaimniekošanas) noteikumos paredzēto nosacījumu izpildi un veic pasākumus, lai novērstu plūdu draudus;\n13) neveikt ūdensobjekta hidroloģiskā režīma maiņu, ūdensteces vai ūdenstilpes krastu un gultnes izmaiņas, izņemot gadījumu, kad šīs darbības tiek veiktas normatīvajos aktos noteiktajā kārtībā;\n14) pēc Valsts vides dienesta pieprasījuma normatīvajos aktos noteiktajā kārtībā sniegt informāciju par ūdens resursu lietošanu, ūdeņu stāvokli vai kvalitāti."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7.1",
+      "title": "7. 1 pants. Plūdu draudu novēršanai izstrādājamie ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumi",
+      "content": "(1) Lai novērstu plūdu draudus ūdens objektam piegulošajās teritorijās, Ministru kabinets nosaka:\n1) tos ūdens objektus, kuru hidroloģiskais režīms ir regulējams ar hidrotehniskajām būvēm un kuriem izstrādājami ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumi;\n2) ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumos ietveramās prasības, kā arī šo noteikumu apstiprināšanas un ievērošanas kontroles kārtību.\n(2) Izstrādājot ūdens objektu ekspluatācijas (apsaimniekošanas) noteikumus, novērtē iespējamo applūšanas risku ūdens objekta hidrotehnisko būvju darbībai noteikto prasību neievērošanas gadījumā."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Upju baseinu apgabali un to pārvaldes institūcijas",
+      "section": "8",
+      "title": "Upju baseinu apgabalu noteikšana",
+      "content": "(1) Upju baseinu apgabalus izveido, ņemot vērā šādus nosacījumus:\n1) nosaka atsevišķu upju baseinus un apvieno tos upju baseinu apgabalos, ņemot vērā iespēju nodrošināt optimālu upju baseinu apgabala pārvaldi;\n2) mazu upju baseinus var apvienot ar lielāku upju baseiniem vai savienot ar blakus esošiem mazu upju baseiniem;\n3) ja pazemes ūdensobjekts atrodas vairākos upju baseinos, to pievieno tuvākajam vai piemērotākajam upju baseinu apgabalam;\n4) piekrastes ūdeņus nosaka un pievieno tuvākajam vai piemērotākajam upju baseinu apgabalam.\n(2) Ar šo likumu tiek noteikti šādi upju baseinu apgabali — Daugavas, Lielupes, Gaujas un Ventas baseinu apgabali. Latvijas upju baseinu apgabalu shēma ir noteikta šā likuma pielikumā . Šā likuma 2.pantā noteikto mērķu sasniegšanai nepieciešamos pasākumus plāno un īsteno minēto upju baseinu apgabalu robežās.\n(3) Ministru kabinets apstiprina upju baseinu apgabalu robežu aprakstus."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Upju baseinu apgabali un to pārvaldes institūcijas",
+      "section": "9",
+      "title": "Upju baseinu apgabala pārvaldes institūcijas",
+      "content": "(1) Katra upju baseinu apgabala apsaimniekošanas pasākumu koordinācijai izveido konsultatīvo padomi (turpmāk — padome), kurā iekļauj valsts pārvaldes institūciju, pašvaldību un nevalstisko organizāciju pārstāvjus. Padomes nolikumu apstiprina Ministru kabinets, bet personālsastāvu — vides aizsardzības un reģionālās attīstības ministrs.\n(2) Padome:\n1) saskaņo ministriju un citu valsts pārvaldes institūciju, kā arī to reģionālo struktūrvienību, pašvaldību, nevalstisko organizāciju un citu interešu grupu intereses jautājumos, kas saistīti ar vides kvalitātes un ūdens lietošanas mērķu sasniegšanu attiecīgajā upju baseinu apgabalā;\n2) izskata un sniedz atzinumu par apsaimniekošanas plānu un pasākumu programmu, kā arī par sagatavotajiem priekšlikumiem attiecībā uz to īstenošanai nepieciešamajiem finanšu līdzekļiem.\n(3) (Izslēgta ar 03.02.2005 . likumu.)\n(4) Valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” (turpmāk — centrs) katram upju baseinu apgabalam:\n1) izstrādā ūdeņu stāvokļa monitoringa programmas (turpmāk — monitoringa programma);\n2) sagatavo priekšlikumus par monitoringa programmu īstenošanai nepieciešamajiem finanšu līdzekļiem;\n3) koordinē un organizē monitoringa programmu īstenošanu;\n4) sniedz Eiropas Savienības normatīvajos aktos noteikto informāciju Eiropas Komisijai;\n5) sagatavo un atjauno apsaimniekošanas plānu un pasākumu programmu projektus;\n6) izstrādā ūdens resursu lietošanas ekonomisko analīzi;\n7) nodrošina sabiedrības līdzdalību apsaimniekošanas plānu, arī plūdu riska pārvaldības plānu, un pasākumu programmu sagatavošanā un atjaunošanā, kā arī informē par šiem plāniem un programmām attiecīgās pašvaldības, kuru administratīvajā teritorijā tos paredzēts īstenot;\n8) koordinē pasākumu programmu īstenošanu, uztur un apkopo informāciju par veiktajiem pasākumiem un antropogēno slodžu izmaiņām, kā arī, pamatojoties uz šo informāciju un monitoringa rezultātiem, veic minēto pasākumu efektivitātes analīzi un, ja nepieciešams, izstrādā priekšlikumus pasākumu programmu precizēšanai;\n9) saskaņo apsaimniekošanas pasākumus līdz pasākumu programmas apstiprināšanai, kā arī neatliekamus pasākumus, kas nav iekļauti pasākumu programmā;\n10) sagatavo priekšlikumus par pasākumu programmu īstenošanai nepieciešamajiem finanšu līdzekļiem;\n11) nodrošina konsultatīvo padomju darbību;\n12) sadarbojas ar attiecīgo valstu kompetentajām institūcijām, lai nodrošinātu šā likuma 2.pantā noteikto mērķu, tai skaitā vides kvalitātes mērķu sasniegšanu starptautiskajā upju baseinu apgabalā, kā arī koordinē kopīgas pasākumu programmas;\n13) veic sākotnējo plūdu riska novērtējumu un, pamatojoties uz tā rezultātiem, identificē teritorijas, kurās pastāv vai varētu rasties plūdu risks, kā arī sagatavo iespējamo plūdu postījumu vietu kartes un plūdu riska kartes šīm teritorijām. Centrs izstrādā un normatīvajos aktos noteiktajā kārtībā pārskata minētās kartes, nodrošinot, ka tajās sniegtās ziņas saskan ar informāciju, kas iekļauta upju baseinu raksturojumā, cilvēku darbības ietekmes izvērtējumā, ekonomiskajā analīzē un apsaimniekošanas plānos;\n14) pamatojoties uz šīs daļas 13.punktā minētajām kartēm, izstrādā plūdu riska pārvaldības plānu, ko iekļauj upju baseinu apgabala apsaimniekošanas plānā kā tā sastāvdaļu.\n(5) Valsts vides dienests uzrauga pasākumu programmas īstenošanu un, ievērojot centra veikto analīzi un izstrādātos priekšlikumus, normatīvajos aktos noteiktajā kārtībā pārskata izsniegto atļauju nosacījumus.\n(6) Ministru kabinets nosaka sākotnējā plūdu riska novērtējumā, iespējamo plūdu postījumu vietu kartēs, plūdu riska kartēs un plūdu riska pārvaldības plānā sniedzamās informācijas saturu un veidu, kā arī papildu informāciju, kas iekļaujama, atjaunojot minētos dokumentus.\n(7) Vides aizsardzības un reģionālās attīstības ministrs apstiprina sākotnējo plūdu riska novērtējumu un tā atjaunoto versiju, kā arī iespējamo plūdu postījumu vietu kartes, plūdu riska kartes un to atjaunotās versijas. Sākotnējo plūdu riska novērtējumu un iespējamo plūdu postījumu vietu kartes un plūdu riska kartes centrs publicē savā mājaslapā internetā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Upju baseinu apgabali un to pārvaldes institūcijas",
+      "section": "10",
+      "title": "Starptautiskā sadarbība upju baseinu apsaimniekošanā un plūdu riska pārvaldībā",
+      "content": "(1) Ja upes baseins daļēji ietilpst Latvijas teritorijā, daļēji — citas tādas valsts teritorijā, kura ir Eiropas Savienības dalībvalsts, Vides aizsardzības un reģionālās attīstības ministrija, lai izveidotu un apsaimniekotu starptautisku upju baseinu apgabalu, sadarbojas ar attiecīgās valsts kompetentajām institūcijām.\n(2) Ja izveidots starptautisks upju baseinu apgabals, centrs nodrošina Latvijas teritorijā ietilpstošās upju baseinu apgabala daļas pārvaldi, apmainās ar informāciju par ūdeņu stāvokli, plūdu apdraudētajām teritorijām un veicamajiem pasākumiem, kā arī sadarbojas ar attiecīgās valsts kompetentajām institūcijām, lai nodrošinātu vienota un savstarpēji saskaņota apsaimniekošanas plāna un plūdu riska pārvaldības plāna kā tā sastāvdaļas izstrādi. Ja starptautiskajam upju baseinu apgabalam netiek izstrādāts vienots apsaimniekošanas vai plūdu riska pārvaldības plāns, centrs izstrādā minētos plānus Latvijas teritorijā ietilpstošajai starptautiskā upju baseinu apgabala daļai un saskaņo tos ar attiecīgās valsts kompetentajām iestādēm, lai nodrošinātu plānos ietvertās informācijas, vērtējumu un pasākumu savstarpējo atbilstību.\n(3) Ja upes baseins daļēji ietilpst Latvijas teritorijā, daļēji — citas tādas valsts teritorijā, kura nav Eiropas Savienības dalībvalsts, Vides aizsardzības un reģionālās attīstības ministrija sadarbības līgumu par vides aizsardzību ietvaros sadarbojas ar attiecīgās valsts kompetentajām institūcijām, lai veicinātu šā likuma mērķu sasniegšanu visā upes baseinā. Vides aizsardzības un reģionālās attīstības ministrija veic pasākumus, lai veicinātu vienota apsaimniekošanas plāna un plūdu riska pārvaldības plāna kā tā sastāvdaļas izstrādi starptautiskajam upju baseinu apgabalam. Ja starptautiskajam upju baseinu apgabalam netiek izstrādāts vienots apsaimniekošanas vai plūdu riska pārvaldības plāns, centrs nodrošina savstarpēji saskaņota apsaimniekošanas plāna un plūdu riska pārvaldības plāna kā tā sastāvdaļas izstrādi Latvijas teritorijā ietilpstošajām starptautiskā upju baseinu apgabala daļām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Vides kvalitātes mērķi",
+      "section": "11",
+      "title": "Vides kvalitātes mērķi ūdensobjektiem",
+      "content": "(1) Ūdensobjektiem apsaimniekošanas plānā nosakāmi šādi vides kvalitātes mērķi:\n1) novērst visu virszemes ūdensobjektu stāvokļa pasliktināšanos un aizsargāt tos, uzlabojot ūdens kvalitāti un, ja nepieciešams, veicot sanāciju, — lai visos virszemes ūdensobjektos sasniegtu labu virszemes ūdeņu stāvokli;\n2) aizsargāt un uzlabot ūdens kvalitāti visos stipri pārveidotajos ūdensobjektos un mākslīgajos ūdensobjektos, lai sasniegtu labu virszemes ūdeņu ekoloģisko potenciālu un ķīmisko kvalitāti;\n3) pakāpeniski samazināt prioritāro vielu radīto piesārņojumu un pārtraukt vai pakāpeniski novērst ūdens videi īpaši bīstamu vielu emisiju un noplūdi;\n4) novērst vai ierobežot piesārņojošo vielu novadīšanu pazemes ūdeņos un novērst visu pazemes ūdensobjektu stāvokļa pasliktināšanos;\n5) aizsargāt pazemes ūdensobjektus, uzlabot vai atjaunot ūdeņu stāvokli tajos, kā arī nodrošināt līdzsvaru starp ūdens ieguvi un ūdens resursu atjaunošanos, lai visos pazemes ūdensobjektos sasniegtu labu pazemes ūdeņu stāvokli;\n6) apturēt cilvēka darbības izraisītu piesārņojošas vielas koncentrācijas pieaugumu pazemes ūdeņos vai panākt pakāpenisku tās samazināšanos;\n7) ievērot nosacījumus un mērķus, kas apsaimniekošanas plānā noteikti īpaši aizsargājamām teritorijām.\n(2) Vides kvalitātes mērķus sasniedz, īstenojot šajā likumā noteiktos apsaimniekošanas plānus un programmas. Nosakot pasākumus vides kvalitātes mērķu sasniegšanai, ņem vērā konkrētā ūdensobjekta stāvokli un ūdeņu stāvokli pārējos ūdensobjektos, kuri atrodas vienā sateces baseinā.\n(3) Vides kvalitātes normatīvus, kuri nepieciešami šā panta pirmajā daļā minēto mērķu sasniegšanai, nosaka saskaņā ar likumu \" Par piesārņojumu \".\n(4) Ja uz vienu ūdensobjektu attiecas vairāki vides kvalitātes mērķi, piemēro tos kvalitātes mērķus, kuri izvirza stingrākās prasības."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Vides kvalitātes mērķi",
+      "section": "12",
+      "title": "Izņēmumi vides kvalitātes mērķu un to sasniegšanas termiņa noteikšanai atsevišķiem ūdensobjektiem",
+      "content": "(1) Apsaimniekošanas plānā atsevišķiem ūdensobjektiem var paredzēt vides kvalitātes mērķus, kas atšķiras no šā likuma 11.panta pirmajā daļā noteiktajiem, ja, ņemot vērā cilvēka darbības ietekmi vai šo ūdensobjektu dabisko stāvokli, nav iespējams sasniegt šā likuma 11.panta pirmajā daļā minētos mērķus vai šo mērķu sasniegšana prasītu nepamatoti augstas izmaksas, kā arī tad, ja:\n1) ekoloģiskās vai sociālekonomiskās vajadzības, kuras nodrošina šāda antropogēnā darbība, nevar apmierināt ar citiem paņēmieniem, kas būtu piemērotāki no vides aizsardzības viedokļa un neprasītu nepamatoti augstas izmaksas;\n2) virszemes ūdeņiem paredzēts sasniegt augstāko iespējamo ekoloģisko un ķīmisko kvalitāti, bet pazemes ūdeņiem nodrošināt mazāko iespējamo atšķirību no laba pazemes ūdeņu stāvokļa, ņemot vērā cilvēka darbības vai piesārņojuma ietekmi, no kuras nav iespējams izvairīties;\n3) ūdensobjekta stāvoklis turpmāk nepasliktinās;\n4) atšķirīgu vides kvalitātes mērķu noteikšana un tās iemesli ir pamatoti apsaimniekošanas plānā un minētos mērķus pārskata ne retāk kā reizi sešos gados.\n(2) Šajā likumā noteikto termiņu vides kvalitātes mērķu sasniegšanai atsevišķos ūdensobjektos var pagarināt, ja attiecīgā ūdensobjekta stāvoklis šajā laikā nepasliktinās un ja tā stāvokli nevar pilnībā uzlabot šajā likumā noteiktajā termiņā, pastāvot vienam no šādiem iemesliem:\n1) tehnisku iemeslu dēļ nepieciešamo uzlabojumu līmeni iespējams sasniegt ilgākā laikā, nekā paredz likumā noteiktais termiņš;\n2) uzlabojumu pabeigšanas izmaksas likumā noteiktajā termiņā ir nesamērīgi augstas;\n3) dabas apstākļi nepieļauj ūdensobjekta stāvokļa uzlabošanos likumā noteiktajā termiņā.\n(3) Iemeslus termiņa pagarinājumam norāda apsaimniekošanas plānā. Termiņa pagarinājums nedrīkst pārsniegt 12 gadus, izņemot gadījumus, kad dabas apstākļi neļauj sasniegt vides kvalitātes mērķus minētajā laikā.\n(4) Apsaimniekošanas plānā īsi apraksta, kādi obligātie un papildu pasākumi veicami, lai līdz termiņa pagarinājuma beigām pakāpeniski sasniegtu vēlamo ūdensobjekta stāvokli, kā arī pievieno pasākumu izpildes laika grafiku un tā neizpildes gadījumā izklāsta cēloņus, kas būtiski kavējuši īstenot šos pasākumus. Pārskatu par minēto pasākumu īstenošanu un kopsavilkumu par citiem veiktajiem pasākumiem iekļauj atjaunotajā apsaimniekošanas plānā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Vides kvalitātes mērķi",
+      "section": "13",
+      "title": "Īslaicīgi izņēmumi vides kvalitātes mērķu sasniegšanai",
+      "content": "(1) Īslaicīga ūdensobjektu stāvokļa pasliktināšanās, kuru izraisa nepārvarama vara, tai skaitā spēcīgi plūdi, ilgstošs sausums vai avārija, ko nav bijis iespējams iepriekš paredzēt (turpmāk — ārkārtēji apstākļi), nav pretrunā ar šā likuma prasībām, ja:\n1) veikti visi iespējamie pasākumi, lai novērstu turpmāku stāvokļa pasliktināšanos un nekavētu vides kvalitātes mērķu sasniegšanu citos ūdensobjektos, kurus minētie apstākļi neietekmē;\n2) apsaimniekošanas plānā ir iekļauti nosacījumi un parametri, kuriem iestājoties reģionālā vides pārvalde var piemērot šā panta noteikumus;\n3) pasākumu programmā ir iekļauti pasākumi, kas veicami ārkārtējos apstākļos, un tie nekavē atjaunot ūdens kvalitāti, kad stāvoklis normalizējies;\n4) veikti visi iespējamie pasākumi, lai jo drīz atjaunotu tādu ūdensobjekta stāvokli, kāds bija pirms ārkārtēju apstākļu ietekmes;\n5) kopsavilkumu par ārkārtēju apstākļu ietekmi un veiktajiem vai veicamajiem pasākumiem iekļauj apsaimniekošanas plāna jaunajā redakcijā.\n(2) Attiecīgā reģionālā vides pārvalde katrā konkrētā gadījumā nosaka šā panta pirmās daļas 1. un 4.punktā minētos pasākumus, kas ir saistoši ūdens resursu lietotājiem, vismaz reizi gadā kopā ar centru izvērtē ārkārtēju apstākļu ietekmi un, ja nepieciešams, pārskata noteiktos pasākumus."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Vides kvalitātes mērķi",
+      "section": "14",
+      "title": "Izņēmumi vides kvalitātes mērķu sasniegšanai atsevišķos ūdensobjektos",
+      "content": "(1) Šā likuma prasības nav pārkāptas, ja:\n1) labu pazemes ūdeņu stāvokli, labu ekoloģisko kvalitāti vai labu ekoloģisko potenciālu neizdodas sasniegt vai virszemes vai pazemes ūdensobjektu stāvokļa pasliktināšanos neizdodas novērst virszemes ūdensobjekta fizikālo īpašību turpmākas modifikācijas vai pazemes ūdeņu līmeņa izmaiņu dēļ;\n2) virszemes ūdensobjekta kvalitātes pasliktināšanos no augstas uz labu neizdodas novērst jaunu saimniecisko darbību uzsākšanas dēļ;\n3) virszemes ūdensobjekta labu stāvokli neizdodas sasniegt pārrobežu piesārņojuma dēļ.\n(2) Šā panta pirmajā daļā noteiktos izņēmumus attiecīgā reģionālā vides pārvalde var atļaut vienīgi tad, ja ir izpildīti šādi nosacījumi:\n1) veikti visi iespējamie pasākumi, lai mazinātu nelabvēlīgo ietekmi uz ūdensobjekta stāvokli un nekavētu vides kvalitātes mērķu sasniegšanu citos ūdensobjektos, kurus minētie apstākļi neietekmē;\n2) šādu izņēmumu cēloņi ir pamatoti apsaimniekošanas plānā un minētos mērķus pārskata ne retāk kā reizi sešos gados;\n3) šādu izņēmumu nepieciešamība ūdensobjektam ir saistīta ar sevišķi svarīgām sabiedrības interesēm vai ieguvumi, ko sabiedrībai un videi sniedz vides kvalitātes mērķu sasniegšana, ir mazāk nozīmīgi nekā tie ieguvumi cilvēku veselībai, drošībai vai ilgtspējīgai attīstībai, kurus nodrošina izmaiņas;\n4) ieguvumus, ko nodrošina ar šādiem izņēmumiem, ierobežotu tehnisko iespēju vai nepamatoti augstu izmaksu dēļ nav iespējams panākt ar citiem līdzekļiem, kas būtu piemērotāki no vides aizsardzības viedokļa;\n5) veikti šā likuma 10.pantā noteiktie sadarbības un koordinācijas pasākumi un ievērotas šā likuma 12. un 13.pantā noteiktās prasības attiecībā uz virszemes ūdensobjektiem, ko ietekmējis pārrobežu piesārņojums, kura dēļ nav bijis iespējams veikt efektīvus pasākumus, lai nodrošinātu virszemes ūdeņu atbilstību vides kvalitātes normatīviem.\n(3) Attiecīgā reģionālā vides pārvalde katrā konkrētā gadījumā nosaka šā panta otrās daļas 1.punktā minētos pasākumus.\n(4) Šā likuma 12. , 13. un 14.panta piemērošana nedrīkst kavēt šā likuma mērķu sasniegšanu citos tuvumā esošajos ūdensobjektos, būt pretrunā ar normatīvajos aktos noteiktajām prasībām vai ūdens kvalitātes normatīviem un, tos piemērojot, jānodrošina vismaz tāds pats vides aizsardzības līmenis, kādu nosaka citi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Ūdens resursu lietošanas ekonomiskā analīze un maksa par ūdens resursu lietošanu",
+      "section": "15",
+      "title": "Ūdens resursu lietošanas ekonomiskā analīze, upju baseinu raksturojums un cilvēku darbības ietekmes izvērtējums",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrs apstiprina katram upju baseinu apgabalam vai Latvijas teritorijā ietilpstošajai starptautiska upju baseinu apgabala daļai ūdens resursu lietošanas ekonomisko analīzi (turpmāk — ekonomiskā analīze), upju baseinu raksturojumu, kā arī cilvēku darbības ietekmes izvērtējumu, ņemot vērā šā likuma 16.panta nosacījumus.\n(2) Pamatojoties uz šā panta pirmajā daļā minēto informāciju un ņemot vērā piesārņojošo vielu reģistrā, vides monitoringa un valsts statistikas pārskatā iekļauto informāciju un datus, kā arī citu pieejamo informāciju un datus, centrs veic prioritāro un bīstamo vielu emisijas, zudumu un noplūžu uzskaiti. Uzskaiti veic par katru upju baseina apgabalu vai Latvijas teritorijā ietilpstoša starptautiska upju baseina apgabala daļu.\n(3) Šā panta pirmajā daļā minēto ekonomisko analīzi, upju baseinu raksturojumu un cilvēku darbības ietekmes izvērtējumu pārskata ne retāk kā reizi sešos gados. Šo informāciju pārskatot, ņem vērā:\n1) iespējamo plūdu postījumu vietu kartēs un plūdu riska kartēs sniegto informāciju;\n2) prioritāro un bīstamo vielu emisijas, zudumu un noplūžu uzskaiti par iepriekšējo gadu pirms pārskatīšanas. Prioritārām un bīstamām vielām, uz kurām attiecas nosacījumi par augu aizsardzības līdzekļu laišanu tirgū, uzskaites datus var aprēķināt kā vidējo vērtību par iepriekšējo triju gadu periodu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Ūdens resursu lietošanas ekonomiskā analīze un maksa par ūdens resursu lietošanu",
+      "section": "16",
+      "title": "Ekonomiskā analīze",
+      "content": "Ekonomiskajā analīzē iekļauj informāciju:\n1) uz kuru pamatojoties iespējams aprēķināt nepieciešamo pasākumu izmaksas, ņemot vērā, ka ūdens resursu lietotājs sedz visas izmaksas par ūdens resursu lietošanu, kā arī ņemot vērā aprēķinus par pieejamajiem ūdens resursiem un ilgtermiņa ūdens pieprasījuma un izmaksu prognozi, arī nepieciešamo investīciju prognozi;\n2) kura ļauj pamatot lēmumus par izmaksu ziņā visizdevīgākajiem pasākumu programmā ietvertajiem pasākumiem."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Ūdens resursu lietošanas ekonomiskā analīze un maksa par ūdens resursu lietošanu",
+      "section": "17",
+      "title": "Maksa par ūdens resursu lietošanu",
+      "content": "(1) Fiziskās un juridiskās personas bez maksas lieto caurtekošos ūdeņus zivsaimniecībai (izņemot dabas resursu nodokļu maksājumus vai zaudējumu atlīdzību par ūdens piesārņojumu, kas rodas šo darbību rezultātā), kā arī ūdens resursus nekomerciālam transportam, peldēšanai, ūdenssportam, ūdenstūrismam vai personiskām vajadzībām, ja ūdens lietošanai personiskām vajadzībām nav nepieciešamas normatīvajos aktos noteiktās atļaujas.\n(2) Dabas resursu nodokli par ūdens resursu ieguvi un ūdeņu piesārņošanu, ūdens resursu lietošanu elektroenerģijas ražošanai hidroelektrostacijā (turpmāk — HES), kā arī ūdenssaimniecības (ūdensapgādes un kanalizācijas) tarifus un maksu par ūdens resursu lietošanas veidiem, izņemot šā panta pirmajā daļā minētos, fiziskajām un juridiskajām personām nosaka saskaņā ar normatīvajiem aktiem, ievērojot:\n1) ka fiziskās un juridiskās personas sedz visas ekonomiskās analīzes rezultātā pamatotās ūdenssaimniecības pakalpojumu izmaksas, kā arī maksā par ūdens resursiem un tiem nodarīto kaitējumu;\n2) principu — piesārņotājs maksā;\n3) ka ūdens resursi lietojami racionāli, sekmējot šajā likumā noteikto vides kvalitātes mērķu sasniegšanu;\n4) ģeogrāfiskos, ģeoloģiskos un klimatiskos apstākļus, kā arī izvērtējot maksājumu apmēra un maksas piemērošanas sociālās, ekoloģiskās un ekonomiskās sekas.\n(3) Apsaimniekošanas plānā iekļauj pārskatu par pasākumiem, kurus paredzēts veikt šā panta nosacījumu īstenošanai, kā arī pārskatu par dažādu ūdens lietotāju ieguldījumu ūdens resursu lietošanas izmaksu segšanā.\n(4) Šā panta prasību īstenošana nedrīkst kavēt piesardzības, izpētes vai sanācijas pasākumus, kuri tiek veikti, lai sasniegtu šā likuma mērķus.\n(5) Daugavas HES ūdenskrātuvju krastu nostiprināšanas darbu un Rīgas HES ūdenskrātuves inženieraizsardzības būvju ekspluatācijas izdevumus, kas saistīti ar Daugavas HES ūdenskrātuvju krastu erozijas ierobežošanu HES darbības ietekmes zonā, finansē atbilstoši kārtējā gada valsts budžetam, piešķirot ikgadējās budžeta dotācijas Zemkopības ministrijas un Vides aizsardzības un reģionālās attīstības ministrijas budžetā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Upju baseinu apgabala apsaimniekošanas plāns un pasākumu programma",
+      "section": "18",
+      "title": "Apsaimniekošanas plāns",
+      "content": "(1) Apsaimniekošanas plānā ietver:\n1) upju baseinu apgabala raksturojumu;\n2) informāciju par nozīmīgākajām antropogēnajām slodzēm un cilvēka darbības ietekmi uz pazemes un virszemes ūdeņu stāvokli;\n3) informāciju par aizsargājamām teritorijām;\n4) informāciju par monitoringa tīklu un īstenoto monitoringa programmu rezultātiem;\n5) ekonomiskās analīzes kopsavilkumu;\n6) ūdensobjektiem un aizsargājamām teritorijām noteiktos kvalitātes mērķus;\n7) informāciju par plānotajiem pasākumiem, lai novērstu vai samazinātu piesārņojuma emisiju, kā arī sasniegtu vides kvalitātes mērķus;\n8) informāciju par citām programmām, kas saistītas ar upju baseinu apgabala apsaimniekošanu;\n9) pārskatu par sabiedrības informēšanu un konsultācijām, kas veiktas, izstrādājot vai atjaunojot plānu;\n10) informāciju un kopsavilkumu par veiktajiem pasākumiem, lai novērstu vai mazinātu pārrobežu piesārņojumu.\n(2) Ministru kabinets nosaka apsaimniekošanas plānā sniedzamās informācijas saturu un veidu, kā arī papildu informāciju, kas iekļaujama plānā, to atjaunojot.\n(3) Centrs nodrošina apsaimniekošanas plānu pieejamību sabiedrībai.\n(4) Apsaimniekošanas plānu var ņemt vērā, izstrādājot attiecīgā reģiona vai vietējās pašvaldības teritorijas plānojumu vai tā grozījumus."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Upju baseinu apgabala apsaimniekošanas plāns un pasākumu programma",
+      "section": "19",
+      "title": "Apsaimniekošanas plāna apstiprināšana",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrs apstiprina apsaimniekošanas plānu katram upju baseinu apgabalam. Apsaimniekošanas plānus Vides aizsardzības un reģionālās attīstības ministrija un centrs publicē savā mājaslapā internetā. Apsaimniekošanas plānu, arī plūdu riska pārvaldības plānu, atjauno ne retāk kā reizi sešos gados.\n(2) Šā likuma 10.panta pirmajā daļā minētajos gadījumos centrs sadarbojas ar attiecīgās valsts kompetento institūciju, lai izstrādātu starptautiskā upju baseinu apgabala apsaimniekošanas plānu, tai skaitā plūdu riska pārvaldības plānu kā tā sastāvdaļu. Līdz starptautiskā upju baseinu apgabala apsaimniekošanas plāna apstiprināšanai šā panta pirmajā daļā noteiktajā kārtībā centrs sagatavo un vides aizsardzības un reģionālās attīstības ministrs apstiprina apsaimniekošanas plānus Latvijas teritorijā ietilpstošajām starptautiskā upju baseinu apgabala daļām."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Upju baseinu apgabala apsaimniekošanas plāns un pasākumu programma",
+      "section": "20",
+      "title": "Prasības pasākumu programmām",
+      "content": "(1) Lai sasniegtu šajā likumā noteiktos vides kvalitātes mērķus, upju baseinu apgabala apsaimniekošanas plānā iekļauj pasākumu programmu attiecīgajam upju baseinu apgabalam vai Latvijas teritorijā ietilpstošajai starptautiskā upju baseinu apgabala daļai. Pasākumu programmu izstrādā saskaņā ar attiecīgā upju baseinu apgabala apsaimniekošanas plānu.\n(2) Izstrādājot pasākumu programmu, ņem vērā šā likuma 15.pantā noteiktās ekonomiskās analīzes, upju baseinu raksturojuma un cilvēku darbības ietekmes izvērtējuma rezultātus.\n(3) Ministru kabinets nosaka minimālās prasības, nosacījumus un aizliegumus, kurus ietver pasākumu programmā, kā arī darbības, kas jāveic, ja attiecīgajā ūdensobjektā nav sasniegti šajā likumā noteiktie vides kvalitātes mērķi.\n(4) Katrā pasākumu programmā norāda obligātos pasākumus un, ja nepieciešams, arī papildu pasākumus, kas veicami konkrētajā apgabalā, lai sasniegtu izvirzītos vides kvalitātes mērķus. Pasākumu programmās norāda arī pasākumus, kas attiecas uz visu valsts teritoriju."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Atļaujas ūdens resursu lietošanai un monitoringa nosacījumi",
+      "section": "21",
+      "title": "Darbības, kurām nepieciešama atļauja ūdens resursu lietošanai",
+      "content": "(1) Reģionālās vides pārvaldes 60 dienu laikā no iesnieguma saņemšanas dienas izsniedz atļauju ūdens resursu lietošanai darbībām, kuras ietekmē vai var ietekmēt ūdens kvalitāti, daudzumu vai ūdens ekosistēmas un kuras nav A vai B kategorijas piesārņojošās darbības:\n1) hidrotehnisko būvju darbībai;\n2) virszemes vai pazemes ūdeņu ieguvei;\n3) ūdens ievadīšanai, lai paaugstinātu pazemes ūdeņu līmeni, un ūdens novadīšanai, lai šo līmeni pazeminātu, un ar to saistītām darbībām;\n4) darbībām, kuru rezultātā rastos mākslīgs vai stipri pārveidots ūdensobjekts;\n5) citām darbībām, kas saistītas ar regulāru virszemes ūdeņu līmeņa vai režīma maiņu.\n(2) Ministru kabinets nosaka ūdens resursu lietošanas nosacījumus, ūdens resursu lietošanas atļaujas pieteikšanas un izsniegšanas kārtību, termiņus, atļaujā noteikto prasību kontroles un monitoringa nosacījumus, kā arī pieteikuma un atļaujas veidlapu paraugus.\n(2 1 ) Ja atbilstoši normatīvo aktu prasībām darbības uzsākšanai vai turpināšanai nepieciešama A vai B kategorijas atļauja, reģionālā vides pārvalde ūdens resursu lietošanas atļauju neizsniedz, bet pazemes vai virszemes ūdens resursu lietošanas limitus un nosacījumus norāda A vai B kategorijas atļaujā.\n(2 2 ) Par ūdens resursu lietošanas atļaujas izsniegšanu maksājama valsts nodeva. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.\n(3) Ministru kabinets nosaka kritērijus, kurus ievērojot šā panta pirmajā daļā minēto darbību ietekme uz ūdens kvalitāti, daudzumu vai ūdens ekosistēmām uzskatāma par nebūtisku un atļauja ūdens resursu lietošanai nav nepieciešama.\n(4) Ministru kabinets nosaka Daugavas HES ūdenskrātuvju krastu nostiprināšanas darbu un Rīgas HES ūdenskrātuves inženieraizsardzības būvju ekspluatācijas izdevumu finansēšanai piešķirtās ikgadējās budžeta dotācijas izlietojuma kārtību, par krastu nostiprināšanas un inženieraizsardzības būvju ekspluatācijas darbu organizēšanu atbildīgās iestādes, Daugavas HES ūdenskrātuvju krastos esošo pašvaldību sarakstu, kā arī Rīgas HES ūdenskrātuves inženieraizsardzības būvju sarakstu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Atļaujas ūdens resursu lietošanai un monitoringa nosacījumi",
+      "section": "22",
+      "title": "Virszemes un pazemes ūdeņu stāvokļa un aizsargājamo teritoriju monitorings",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrs apstiprina ūdens stāvokļa monitoringa programmu katram upju baseinu apgabalam, kas ietver virszemes ūdeņu, pazemes ūdeņu un aizsargājamo teritoriju monitoringu.\n(2) Virszemes ūdeņu monitoringa programmā nosaka:\n1) noteces apjoma un caurplūduma monitoringa apmēru, lai varētu izvērtēt ekoloģisko un ķīmisko kvalitāti un ekoloģisko potenciālu;\n2) ekoloģiskā un ķīmiskā stāvokļa un ekoloģiskā potenciāla monitoringu.\n(3) Pazemes ūdeņu monitoringa programmā ietver ķīmiskās kvalitātes un kvantitatīvā stāvokļa monitoringu.\n(4) Aizsargājamo teritoriju monitoringa programmā ietver pasākumus, kuri tiek veikti papildus normatīvajos aktos noteiktajām aizsargājamo teritoriju monitoringa prasībām.\n(5) Ministru kabinets nosaka prasības šajā pantā noteiktajam monitoringam un monitoringa programmu izstrādei, kā arī prasības peldvietu ūdeņu monitoringam."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VII nodaļa Informācijas sniegšana sabiedrībai, citām valstīm un Eiropas Komisijai (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 29.04.2004 . likumu, kas stājas spēkā 02.05.2004. )",
+      "section": "23",
+      "title": "Informācijas sniegšana sabiedrībai",
+      "content": "(1) Centrs nodrošina sākotnējā plūdu riska novērtējuma, iespējamo plūdu postījumu vietu un plūdu riska karšu, kā arī apsaimniekošanas plānu, tai skaitā plūdu riska pārvaldības plānu, pieejamību sabiedrībai pēc to izstrādes. Izstrādājot, pārskatot un atjaunojot apsaimniekošanas plānus, tā veicina aktīvu sabiedrības iesais­tīšanos šā likuma īstenošanā, nodrošinot, lai par katru upju baseinu apgabalu tiktu publicēta un nodota sabiedrībai, tai skaitā ūdens resursu lietotājiem, apspriešanai šāda informācija:\n1) plāna izstrādes laika grafiks un programma, arī informācija par paredzamajiem sabiedrības iesaistīšanas pasākumiem — vismaz trīs gadus pirms tā laika perioda sākuma, uz kuru plāns attiecas;\n2) pārskats par būtiskiem ūdenssaimniecības jautājumiem upju baseinu apgabalā — vismaz divus gadus pirms tā laika perioda sākuma, uz kuru plāns attiecas;\n3) apsaimniekošanas plāna projekts — vismaz gadu pirms tā laika perioda sākuma, uz kuru plāns attiecas.\n(2) Pēc jebkuras fiziskās vai juridiskās personas pieprasījuma centrs un citas iesaistītās institūcijas nodrošina pieeju pamatdokumentiem un informācijai, kuru izmanto apsaimniekošanas plāna projekta izstrādē.\n(3) Lai nodrošinātu aktīvu sabiedrības līdzdalību un iesaistīšanos apspriešanā, viedokļa izteikšanai par šā panta pirmajā daļā minētajiem dokumentiem paredz vismaz sešus mēnešus ilgu termiņu."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VII nodaļa Informācijas sniegšana sabiedrībai, citām valstīm un Eiropas Komisijai (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 29.04.2004 . likumu, kas stājas spēkā 02.05.2004. )",
+      "section": "24",
+      "title": "Informācijas sniegšana citām valstīm un Eiropas Komisijai",
+      "content": "(1) Centrs triju mēnešu laikā pēc publicēšanas nosūta apsaimniekošanas plānu, tai skaitā plūdu riska pārvaldības plānu (arī šo plānu jaunās redakcijas) Eiropas Komisijai, kā arī valstīm, uz kurām tas attiecas. Starptautisku upju baseinu apgabalu gadījumā iesniedz vismaz to apsaimniekošanas plāna daļu, kura attiecas uz Latvijas teritoriju.\n(2) Centrs triju mēnešu laikā pēc attiecīgo dokumentu apstiprināšanas iesniedz Eiropas Komisijai:\n1) šā likuma 15.pantā noteikto ekonomisko analīzi, upju baseinu raksturojumu, kā arī cilvēku darbības ietekmes izvērtējumu;\n2) šā likuma 22.pantā noteikto monitoringa programmu;\n3) šā likuma 9.panta ceturtās daļas 13.punktā noteikto sākotnējo plūdu riska novērtējumu un iespējamo plūdu postījumu vietu kartes un plūdu riska kartes, kā arī attiecīgos pārskatus un jaunās redakcijas.\n(3) Centrs triju gadu laikā pēc apsaimniekošanas plāna, tai skaitā plūdu riska pārvaldības plāna, un šo plānu jaunās redakcijas iesniedz Eiropas Komisijai starpziņojumu par progresu, kas sasniegts, īstenojot pasākumu programmu, kura saistīta ar šo plānu.\n(4) Eiropas Komisijai iesniegtā informācija ir brīvi pieejama sabiedrībai."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VIII nodaļa Likuma prasību ieviešana, uzraudzība un apstrīdēšanas kārtība",
+      "section": "25",
+      "title": "Likuma prasību ieviešana",
+      "content": "(1) Veicot ietekmes uz vidi novērtējumu vai izdodot tehniskos noteikumus, Vides pārraudzības valsts birojs vai reģionālā vides pārvalde aizliedz tādas darbības, kuru dēļ nav iespējams sasniegt saskaņā ar šo likumu noteiktos vides kvalitātes mērķus vai īstenot apsaimniekošanas plānā noteiktos pasākumus.\n(2) Izsniedzot normatīvajos aktos noteiktās atļaujas darbībām, kas ir saistītas ar ūdens resursu lietošanu vai pagarinot to derīguma termiņu, reģionālās vides pārvaldes ņem vērā konkrētajai teritorijai noteiktos vides kvalitātes mērķus vai apsaimniekošanas plānā noteiktos pasākumus un to īstenošanas termiņus.\n(3) Izsniedzot atļauju hidrotehnisko būvju darbībai, reģionālā vides pārvalde tās nosacījumos iekļauj prasību veikt nepieciešamos zivju resursu aizsardzības pasākumus, tai skaitā atvērt slūžas vai nodrošināt zivju ceļu izbūvi ūdenstilpju aizsprostos, ja attiecīgie pasākumi ir nepieciešami un bioloģiski pamatoti saskaņā ar zivsaimnieciskās ekspertīzes atzinumu, kā arī ir inženiertehniski iespējami saskaņā ar atzinumu, ko sniedz inženiera hidrotehniķa kvalifikāciju ieguvušie speciālisti ar pieredzi hidrotehnisko būvju ekspluatācijā un personas, kurām saskaņā ar Būvniecības likumu ir tiesības veikt hidrotehnisko būvju projektēšanu."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VIII nodaļa Likuma prasību ieviešana, uzraudzība un apstrīdēšanas kārtība",
+      "section": "26",
+      "title": "Uzraudzība, apstrīdēšanas un pārsūdzības kārtība",
+      "content": "(1) Par šajā likumā noteikto prasību izpildi ir atbildīga Vides aizsardzības un reģionālās attīstības ministrija.\n(2) Vides aizsardzības un reģionālās attīstības ministrija izskata iesniegumus par apsaimniekošanas plānu un pasākumu programmu izstrādi un ieviešanu, arī par sabiedrības nepietiekamu līdzdalību minēto dokumentu izstrādē.\n(3) Vides pārraudzības valsts birojs izskata iesniegumus par pasākumiem, kurus reģionālās vides pārvaldes noteikušas saskaņā ar šā likuma 13.panta otro daļu un 14.panta trešo daļu, kā arī par šajā likumā noteikto atļauju izsniegšanu vai atļaujas nosacījumiem. Apstrīdēšanas gadījumā Vides pārraudzības valsts birojs neaptur lēmuma vai atļaujas darbību, ja darbības apturēšana var radīt būtisku negatīvu ietekmi uz vidi.\n(4) Ja Vides pārraudzības valsts birojs konstatē, ka šā panta trešajā daļā minētie pasākumi, lēmumi par atļaujas izsniegšanu vai izsniegtā atļauja ir pretrunā ar šā likuma vai citu normatīvo aktu prasībām, tas pieņem lēmumu par reģionālās vides pārvaldes lēmuma pārskatīšanu, nepieciešamo grozījumu izdarīšanu atļaujā, atļaujas anulēšanu vai citas atļaujas izsniegšanu.\n(5) Šajā pantā minētos administratīvos aktus var pārsūdzēt tiesā normatīvajos aktos noteiktajā kārtībā. Pieteikuma iesniegšana tiesā neaptur administratīvā akta darbību."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "27",
+      "title": "Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā",
+      "content": "(1) Par normatīvajos aktos par peldvietas izveidošanas, uzturēšanas un ūdens kvalitātes pārvaldības kārtību noteikto peldvietas izveidošanas un uzturēšanas prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu peldvietas apsaimniekotājam — fiziskajai personai — no piecām līdz divdesmit piecām naudas soda vienībām, bet juridiskajai personai — no septiņām līdz piecdesmit naudas soda vienībām.\n(2) Par virszemes vai pazemes ūdens resursu apsaimniekošanas prasību pārkāpšanu piemēro brīdinājumu vai naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divpadsmit līdz divsimt naudas soda vienībām.\n(3) Par virszemes vai pazemes ūdens resursu lietošanu bez nepieciešamās ūdens resursu lietošanas atļaujas piemēro naudas sodu fiziskajai personai no divdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no četrdesmit līdz divsimt astoņdesmit naudas soda vienībām.\n(4) Par patvaļīgu ūdensobjekta hidroloģiskā režīma maiņu, ūdensteces vai ūdenstilpes krastu un gultnes izmaiņu veikšanu piemēro naudas sodu fiziskajai personai no piecdesmit sešām līdz divsimt naudas soda vienībām, bet juridiskajai personai — no astoņdesmit sešām līdz četrsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "28",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "(1) Administratīvā pārkāpuma procesu par šā likuma 27. panta pirmajā daļā minētajiem pārkāpumiem veic Veselības inspekcija.\n(2) Administratīvā pārkāpuma procesu par šā likuma 27. panta otrajā, trešajā un ceturtajā daļā minētajiem pārkāpumiem veic Valsts vides dienests."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2003.gada 1.martam izdod šā likuma 8.panta trešajā daļā, 9.panta pirmajā daļā, 18.panta otrajā daļā un 20.panta trešajā daļā minētos Ministru kabineta noteikumus, bet līdz 2003.gada 22.decembrim — šā likuma 5.panta desmitās daļas 1., 2., 3. un 4.punktā, 21.panta otrajā un trešajā daļā, kā arī 22.panta piektajā daļā minētos Ministru kabineta noteikumus par prasībām monitoringam un monitoringa programmu izstrādei, bet līdz 2007.gada 30.decembrim — šā likuma 22.panta piektajā daļā minētos Ministru kabineta noteikumus par prasībām peldvietu ūdeņu monitoringam.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 29.04.2004. un 31.05.2007 . likumu, kas stājas spēkā 26.06.2007. )"
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn2",
+      "title": "2. Šā likuma 9.pantā noteiktās institūcijas izveido līdz 2004.gada 1.janvārim.",
+      "content": "( 12.12.2002 . likuma redakcijā, kas stājas spēkā 03.01.2003. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn3",
+      "title": "3. Šā likuma 11.panta pirmās daļas 3.punktā minēto ūdens videi īpaši bīstamu vielu emisiju un noplūdi novērš līdz 2020.gada 22.decembrim.",
+      "content": "3. Šā likuma 11.panta pirmās daļas 3.punktā minēto ūdens videi īpaši bīstamu vielu emisiju un noplūdi novērš līdz 2020.gada 22.decembrim."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn4",
+      "title": "4. Šā likuma 15.pantā minēto ekonomisko analīzi, upju baseinu raksturojumu un cilvēku darbības ietekmes izvērtējumu upju baseinu apgabaliem izstrādā un apstiprina līdz 2004.gada 22.decembrim.",
+      "content": "4. Šā likuma 15.pantā minēto ekonomisko analīzi, upju baseinu raksturojumu un cilvēku darbības ietekmes izvērtējumu upju baseinu apgabaliem izstrādā un apstiprina līdz 2004.gada 22.decembrim."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn5",
+      "title": "5. Šā likuma 17.panta otrās daļas nosacījumus ievieš līdz 2010.gada 1.janvārim. Šā panta nosacījumu īstenošana līdz 2015.gada 31.decembrim neierobežo valsts, pašvaldību un starptautiskā finansējuma piesaisti valsts investīciju programmu īstenošanai dzeramā ūdens un komunālo notekūdeņu jomā.",
+      "content": "5. Šā likuma 17.panta otrās daļas nosacījumus ievieš līdz 2010.gada 1.janvārim. Šā panta nosacījumu īstenošana līdz 2015.gada 31.decembrim neierobežo valsts, pašvaldību un starptautiskā finansējuma piesaisti valsts investīciju programmu īstenošanai dzeramā ūdens un komunālo notekūdeņu jomā."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn6",
+      "title": "6. Šā likuma 22.pantā minētās monitoringa programmas izstrādā un apstiprina līdz 2006.gada 1.janvārim. Ne vēlāk kā ar 2006.gada 22.decembri monitoringa programmas īsteno pilnā apjomā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 29.04.2004 . likumu, kas stājas spēkā 02.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn7",
+      "title": "7. Šā likuma 18.pantā minētos apsaimniekošanas plānus apstiprina un publicē līdz 2009.gada 22.decembrim.",
+      "content": "7. Šā likuma 18.pantā minētos apsaimniekošanas plānus apstiprina un publicē līdz 2009.gada 22.decembrim."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn8",
+      "title": "8. Šā likuma 20.pantā minētās pasākumu programmas izstrādā un apstiprina līdz 2009.gada 22.decembrim. Pasākumu programmās noteiktos pasākumus uzsāk īstenot līdz 2012.gada 22.decembrim.",
+      "content": "8. Šā likuma 20.pantā minētās pasākumu programmas izstrādā un apstiprina līdz 2009.gada 22.decembrim. Pasākumu programmās noteiktos pasākumus uzsāk īstenot līdz 2012.gada 22.decembrim."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn9",
+      "title": "9. Šā likuma 11.pantā noteiktie vides kvalitātes mērķi, izņemot pirmās daļas 3.punktā noteikto, jāsasniedz līdz 2015.gada 22.decembrim.",
+      "content": "9. Šā likuma 11.pantā noteiktie vides kvalitātes mērķi, izņemot pirmās daļas 3.punktā noteikto, jāsasniedz līdz 2015.gada 22.decembrim."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn10",
+      "title": "10. Šā likuma 9.panta ceturtās daļas 4.punktu par informācijas sniegšanu Eiropas Komisijai, kā arī 24.panta nosacījumus par informācijas sniegšanu Eiropas Komisijai piemēro no 2004.gada 1.maija.",
+      "content": "( 29.04.2004 . likuma redakcijā, kas stājas spēkā 02.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn11",
+      "title": "11. Ministru kabinets līdz 2006.gada 1.janvārim izdod šā likuma 5.panta desmitās daļas 5.punktā minētos noteikumus.",
+      "content": "( 03.02.2005 . likuma redakcijā, kas stājas spēkā 01.03.2005. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn12",
+      "title": "12. Ministru kabinets līdz 2008.gada 1.martam izdod šā likuma 5.panta desmitās daļas 6.punktā minētos noteikumus.",
+      "content": "( 31.05.2007 . likuma redakcijā, kas stājas spēkā 26.06.2007. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn13",
+      "title": "13. Ministru kabinets līdz 2011.gada 30.decembrim izdod šā likuma 5.panta desmitās daļas 8.punktā minētos noteikumus.",
+      "content": "( 23.04.2009 . likuma redakcijā, kas stājas spēkā 27.05.2009. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn14",
+      "title": "14. Ministru kabinets līdz 2009.gada 26.novembrim izdod šā likuma 9.panta sestajā daļā minētos noteikumus.",
+      "content": "( 23.04.2009 . likuma redakcijā, kas stājas spēkā 27.05.2009. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn15",
+      "title": "15. Šā likuma 9.panta ceturtās daļas 13.punktā minētās iespējamo plūdu postījumu vietu kartes un plūdu riska kartes centrs sagatavo līdz 2013.gada 22.decembrim.",
+      "content": "( 23.04.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 25.03.2010 . likumu, kas stājas spēkā 28.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn16",
+      "title": "16. Šā likuma 9.panta ceturtās daļas 14.punktā minētos plūdu riska pārvaldības plānus centrs sagatavo un publicē līdz 2015.gada 22.decembrim.",
+      "content": "( 23.04.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 25.03.2010 . likumu, kas stājas spēkā 28.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn17",
+      "title": "17. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 5.panta desmitās daļas 11.punktā minētos noteikumus.",
+      "content": "( 25.03.2010 . likuma redakcijā, kas stājas spēkā 28.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn18",
+      "title": "18. Šā likuma 15.pantā minēto ekonomisko analīzi, upju baseinu raksturojumu un cilvēku darbības ietekmes izvērtējumu pirmo reizi pārskata līdz 2013.gada 22.decembrim.",
+      "content": "( 25.03.2010 . likuma redakcijā, kas stājas spēkā 28.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn19",
+      "title": "19. Šā likuma 15.panta otrajā daļā paredzēto uzskaiti uzsāk, iekļaujot datus par vienu gadu laikposmā no 2008.gada līdz 2010.gadam. Prioritārām un bīstamām vielām, uz kurām attiecas nosacījumi par augu aizsardzības līdzekļu laišanu tirgū, uzskaites datus var aprēķināt kā vidējo vērtību par laikposmu no 2008.gada līdz 2010.gadam.",
+      "content": "( 25.03.2010 . likuma redakcijā, kas stājas spēkā 28.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn20",
+      "title": "20. Ministru kabinets līdz 2011.gada 1.janvārim izdod šā likuma 21.panta ceturtajā daļā minētos noteikumus.",
+      "content": "( 30.09.2010 . likuma redakcijā, kas stājas spēkā 03.11.2010. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn21",
+      "title": "21. Šā likuma 21.panta 2. 2 daļa stājas spēkā 2011.gada 1.martā.",
+      "content": "( 16.12.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn22",
+      "title": "22. Ministru kabinets līdz 2011.gada 1.martam izdod šā likuma 21.panta 2. 2 daļā paredzētos noteikumus.",
+      "content": "( 16.12.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn23",
+      "title": "23. Šā likuma 7. 1 pants stājas spēkā 2011.gada 1.oktobrī.",
+      "content": "( 03.03.2011 . likuma redakcijā, kas stājas spēkā 06.04.2011. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn24",
+      "title": "24. Ministru kabinets līdz 2011.gada 1.jūnijam izdod šā likuma 7. 1 pantā minētos noteikumus.",
+      "content": "( 03.03.2011 . likuma redakcijā, kas stājas spēkā 06.04.2011. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi ūdens resursu aizsardzības un apsaimniekošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 25. punktu)",
+      "section": "pn25",
+      "title": "25. Grozījums šā likuma 7. pantā par tā papildināšanu ar 13. un 14. punktu un šā likuma IX nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "1) Eiropas Parlamenta un Padomes 2000.gada 23.oktobra direktīvas 2000/60/EK , ar ko izveido sistēmu Kopienas rīcībai ūdens resursu politikas jomā;\n2) Eiropas Parlamenta un Padomes 2006.gada 15.februāra direktīvas 2006/7/EK par peldvietu ūdens kvalitātes pārvaldību un direktīvas 76/160/EEK atcelšanu;\n3) Eiropas Parlamenta un Padomes 2006.gada 12.decembra direktīvas 2006/118/EK par gruntsūdeņu aizsardzību pret piesārņojumu un pasliktināšanos;\n4) Eiropas Parlamenta un Padomes 2007.gada 23.oktobra direktīvas 2007/60/EK par plūdu riska novērtējumu un pārvaldību;\n5) Eiropas Parlamenta un Padomes 2008.gada 16.decembra direktīvas 2008/105/EK par vides kvalitātes standartiem ūdens resursu politikas jomā, un ar ko groza un sekojoši atceļ Padomes direktīvas 82/176/EEK , 83/513/EEK, 84/156/EEK, 84/491/EEK, 86/280/EEK, un ar ko groza direktīvu 2000/60/EK ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aizsargājamās teritorijas",
+      "definition": "teritorijas, kuras paredzētas ūdens ieguvei cilvēku patēriņam, teritorijas, kuras izveidotas bioloģisko resursu aizsardzībai, ūdensobjekti, kuri atzīti par rekreācijas objektiem vai peldvietu ūdeņiem, īpaši jutīgas teritorijas, kā arī īpaši aizsargājamas dabas teritorijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apakšbaseins",
+      "definition": "zemes platība (teritorija), no kuras visi virszemes noteces ūdeņi pa strautiem, upēm un ezeriem nonāk kādā konkrētā ūdensteces vietā (parasti ezerā vai upju satekā)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ekoloģiskās un ķīmiskās kvalitātes rādītāji",
+      "definition": "ūdensobjekta hidroloģiskās, bioloģiskās, fizikālās un ķīmiskās īpašības, pēc kuru kvantitatīvajām vai kvalitatīvajām vērtībām var spriest par ūdeņu kvalitāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "emisijas ierobežošana",
+      "definition": "pasākumi, kas nodrošina emisijas limitēšanu, arī emisijas robežvērtības vai ierobežojumi un nosacījumi emisijas ietekmei, raksturam vai citām tās iezīmēm vai piesārņojošās darbības norises apstākļiem, kas ietekmē emisiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ezers",
+      "definition": "dabiska ūdenstilpe sauszemes padziļinājumā (ezerdobē) ar palēninātu ūdensapmaiņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iekšzemes ūdeņi",
+      "definition": "visi stāvošie un tekošie ūdeņi uz zemes virsmas, kā arī visi pazemes ūdeņi uz sauszemes pusi no bāzes līnijas (pamatlīnijas, no kuras mēra teritoriālās jūras ūdeņus) (turpmāk — teritoriālie ūdeņi)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mākslīgs ūdensobjekts",
+      "definition": "virszemes ūdensobjekts, kas radīts cilvēka darbības rezultātā un atbilst šā likuma nosacījumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pazemes ūdeņu horizonts",
+      "definition": "pazemes iežu slānis vai slāņi, kā arī citas ģeoloģiskas slāņkopas ar pietiekamu porainību un ūdenscaurlaidību, lai nodrošinātu nozīmīgu ūdens plūsmu vai nozīmīga daudzuma ūdens atdevi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pazemes ūdens horizontu komplekss",
+      "definition": "savstarpēji saistītu pazemes ūdens slāņu, horizontu vai struktūru sakopojums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pazemes ūdensobjekts",
+      "definition": "telpiski norobežota pazemes ūdens horizonta vai ūdens horizontu kompleksa daļa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "prioritārās vielas",
+      "definition": "ķīmiskās vielas, kas rada būtisku risku ūdens videi, arī ūdens videi īpaši bīstamas vielas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pazemes ūdeņi",
+      "definition": "visi ūdeņi, kas atrodas zem zemes virsmas ar ūdeni piesātinātajā zonā un ir tiešā saskarē ar augsni vai nogulumiežiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārejas ūdeņi",
+      "definition": "virszemes ūdeņi upju grīvu tuvumā, kuri blakus esošu piekrastes ūdeņu ietekmē daļēji ir sālsūdeņi, bet kurus būtiski ietekmē saldūdens plūsma",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "piekrastes ūdeņi",
+      "definition": "virszemes ūdeņi uz krasta pusi no līnijas, kas savieno visus punktus, kuri atrodas vienu jūras jūdzi uz jūras pusi no bāzes līnijas vai sniedzas līdz pārejas ūdeņu ārējai robežai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "stipri pārveidots ūdensobjekts",
+      "definition": "virszemes ūdensobjekts, kura īpašības cilvēka darbības izraisītu fizikālu izmaiņu ietekmē ir būtiski mainījušās un kurš atbilst šā likuma nosacījumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "upe",
+      "definition": "galvenokārt pa zemes virsmu plūstoša ievērojama izmēra ūdenstece, kurai ir izteikta gultne un daļa tecējuma var būt pazemē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "upes baseins",
+      "definition": "zemes platība (teritorija), no kuras visi virszemes noteces ūdeņi pa strautiem, upēm un ezeriem nonāk upes grīvā, grīvlīcī (estuārā) vai deltā un ietek jūrā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "upju baseinu apgabals",
+      "definition": "sauszemes un jūras teritorija, ko veido vienas upes vai vairāku blakus esošu upju baseini, kā arī ar tiem saistītie pazemes ūdeņi un piekrastes ūdeņi, kas saskaņā ar šo likumu ir upju baseinu apsaimniekošanas pamatvienība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ūdens videi īpaši bīstamas vielas",
+      "definition": "ķīmiskās vielas vai vielu grupas, kas ir toksiskas, noturīgas vidē un spējīgas uzkrāties dzīvo organismu audos, kā arī citas vielas vai vielu grupas, kurām ir līdzīga iedarbība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ūdens resursu lietošana",
+      "definition": "virszemes un pazemes ūdens resursu izmantošana fizisko vai juridisko personu vajadzībām, kā arī ūdenssaimniecības pakalpojumi un citas saimnieciskās, tai skaitā piesārņojošas, darbības, kuras būtiski ietekmē virszemes vai pazemes ūdeņu kvalitāti vai kvantitāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ūdens resursu lietotājs",
+      "definition": "ikviena fiziskā vai juridiskā persona, kas iegūst ūdeņus vai lieto tos saimnieciskajā darbībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "virszemes ūdensobjekts",
+      "definition": "nodalīts un nozīmīgs virszemes ūdens hidrogrāfiskā tīkla elements: ūdenstece (upe, strauts, kanāls vai to daļa), ūdenstilpe (ezers, dīķis, ūdenskrātuve vai to daļa), kā arī pārejas ūdeņi vai piekrastes ūdeņu posms",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "virszemes ūdeņi",
+      "definition": "visi iekšzemes ūdeņi (izņemot pazemes ūdeņus), pārejas ūdeņi un piekrastes ūdeņi, bet attiecībā uz ķīmisko kvalitāti — arī teritoriālie ūdeņi.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

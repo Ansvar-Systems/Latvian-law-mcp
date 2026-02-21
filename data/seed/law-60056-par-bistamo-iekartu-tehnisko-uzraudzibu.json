@@ -1,0 +1,270 @@
+{
+  "id": "lv-law-60056",
+  "type": "statute",
+  "title": "PAR BĪSTAMO IEKĀRTU TEHNISKO UZRAUDZĪBU (Likuma nosaukums MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+  "short_name": "TA-60056",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/60056-par-bistamo-iekartu-tehnisko-uzraudzibu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 213",
+      "section": "213",
+      "title": "LIKUMĀ LIETOTIE TERMINI:",
+      "content": "Bīstamās iekārtas — iekārtas, to kompleksi, kas var apdraudēt cilvēku dzīvību un veselību, vidi un materiālās vērtības un kas ir pakļauti šajā likumā noteiktajai speciālajai uzraudzībai un pārbaudēm.\nBīstamās iekārtas valdītājs — fiziska vai juridiska persona, kuras īpašumā vai turējumā atrodas bīstamā iekārta.\nBīstamās iekārtas apkalpojošais personāls — bīstamās iekārtas valdītāja norīkotas apmācītas personas, kuru rīcība ietekmē bīstamās iekārtas darbību vai tehnoloģiskā procesa norisi.\nBīstamās iekārtas pārbaude — akreditēta uzņēmuma darbība, nosakot bīstamās iekārtas un tehnoloģiskā procesa atbilstību tehniskās uzraudzības normatīvo aktu prasībām.\nPārbaudes zīme — uz iekārtas fiksētā norāde, kas apstiprina, ka iekārta noteiktā kārtībā izturējusi pārbaudi, un kurā norādīts nākamās pārbaudes datums.\nAkreditācija — uzņēmuma atzīšana par tiesīgu veikt bīstamo iekārtu pārbaudes.\nBīstamo iekārtu tehniskās uzraudzības normatīvie akti — Ministru kabineta noteikumi, Latvijas nacionālie standarti, ministriju nolikumi, instrukcijas un normas, kas attiecināmas uz bīstamajām iekārtām un darbiem ar tām."
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "1. NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "1",
+      "title": "Šis likums nosaka tiesisko un organizatorisko pamatu darbiem ar bīstamajām iekārtām, šo iekārtu pārbaužu un apkalpošanas vispārīgos principus un valsts kontroles un uzraudzības institūciju funkcijas.",
+      "content": "1. pants. Šis likums nosaka tiesisko un organizatorisko pamatu darbiem ar bīstamajām iekārtām, šo iekārtu pārbaužu un apkalpošanas vispārīgos principus un valsts kontroles un uzraudzības institūciju funkcijas."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "1. NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "2",
+      "title": "Šī likuma darbība attiecināma uz bīstamajām iekārtām, bīstamo iekārtu valdītājiem, bīstamo iekārtu apkalpojošo personālu, uzņēmumiem, kas nodarbojas ar bīstamo iekārtu projektēšanu, izgatavošanu, montāžu, remontu, tehnisko apkopi, modernizēšanu un pārbaudi, kā arī valsts institūcijām, kas veic valsts kontroli un uzraudzību šajā jomā. To bīstamo iekārtu sarakstu, uz kurām attiecināma šī likuma darbība, nosaka Ministru kabinets pēc Labklājības ministrijas ieteikuma.",
+      "content": "2. pants. Šī likuma darbība attiecināma uz bīstamajām iekārtām, bīstamo iekārtu valdītājiem, bīstamo iekārtu apkalpojošo personālu, uzņēmumiem, kas nodarbojas ar bīstamo iekārtu projektēšanu, izgatavošanu, montāžu, remontu, tehnisko apkopi, modernizēšanu un pārbaudi, kā arī valsts institūcijām, kas veic valsts kontroli un uzraudzību šajā jomā. To bīstamo iekārtu sarakstu, uz kurām attiecināma šī likuma darbība, nosaka Ministru kabinets pēc Labklājības ministrijas ieteikuma."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "1. NODAĻA VISPĀRĪGIE NOTEIKUMI (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "3",
+      "title": "Kārtību, kādā izstrādājami bīstamo iekārtu tehniskās uzraudzības normatīvie akti, nosaka Ministru kabinets.",
+      "content": "Bīstamo iekārtu tehniskās uzraudzības normatīvos aktus apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "2. NODAĻA BĪSTAMO IEKĀRTU TEHNISKĀS UZRAUDZĪBAS ORGANIZĀCIJAS VISPĀRĪGIE PRINCIPI (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "4",
+      "title": "Bīstamās iekārtas ir obligāti jāreģistrē, jāuzrauga un jāpārbauda šajā likumā un bīstamo iekārtu tehniskās. uzraudzības normatīvajos aktos noteiktajā kārtībā.",
+      "content": "4. pants. Bīstamās iekārtas ir obligāti jāreģistrē, jāuzrauga un jāpārbauda šajā likumā un bīstamo iekārtu tehniskās. uzraudzības normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "2. NODAĻA BĪSTAMO IEKĀRTU TEHNISKĀS UZRAUDZĪBAS ORGANIZĀCIJAS VISPĀRĪGIE PRINCIPI (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "5",
+      "title": "Bīstamo iekārtu valsts reģistrāciju, uzraudzību un kontroli veic Valsts darba inspekcija saskaņā ar likumu «Par Valsts darba inspekciju», šo likumu un citiem likumiem, un bīstamo iekārtu tehniskas uzraudzības normatīvajiem aktiem.",
+      "content": "5. pants. Bīstamo iekārtu valsts reģistrāciju, uzraudzību un kontroli veic Valsts darba inspekcija saskaņā ar likumu «Par Valsts darba inspekciju», šo likumu un citiem likumiem, un bīstamo iekārtu tehniskas uzraudzības normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "2. NODAĻA BĪSTAMO IEKĀRTU TEHNISKĀS UZRAUDZĪBAS ORGANIZĀCIJAS VISPĀRĪGIE PRINCIPI (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "6",
+      "title": "Bīstamo iekārtu pārbaudes izdara Uzņēmumu reģistrā reģistrēti un šajā likuma noteiktajā kārtībā akreditēti un pilnvaroti uzņēmumi.",
+      "content": "Uzņēmumi, kas veic bīstamo iekārtu projektēšanu, izgatavošanu, montāžu, remontu, tehnisko apkopi, modernizāciju vai ir bīstamo iekārtu valdītāji, nav tiesīgi veikt šajā likumā paredzētās bīstamo iekārtu pārbaudes."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "3. NODAĻA VISPĀRĒJĀS PRASĪBAS BĪSTAMAJĀM IEKĀRTĀM (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "7",
+      "title": "Bīstamajām iekārtām ir jāatbilst šādām prasībām:",
+      "content": "1) jāatbilst spēkā esošajiem bīstamo iekārtu tehniskās uzraudzības normatīvajiem aktiem, tām jābūt šo atbilstību apliecinošiem dokumentiem;\n2) jābūt reģistrētām Valsts darba inspekcijā Ministru kabineta noteiktajā kārtībā;\n3) jābūt ekspluatācijas dokumentiem un brīdinošiem uzrakstiem valsts valodā;\n4) jābūt pārbaudītām bīstamo iekārtu tehniskās uzraudzības normatīvajos aktos paredzētajā apjomā un termiņos;\n5) jābūt apgādātām ar pārbaudes zīmēm, kuras izsniedz uzņēmums kas izdarījis pārbaudi. Pārbaudes zīmju paraugus apstiprina Labklājības ministrija."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "4. NODAĻA UZŅĒMUMU AKREDITĀCIJAS UN PILNVAROŠANAS VISPĀRĒJA KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "8",
+      "title": "Uzņēmumu akreditāciju veic Ministru kabineta apstiprinātā akreditācijas institūcija, kurā ietilpst darba devēji un valsts institūciju un profesionālo asociāciju pārstāvji un kura darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.",
+      "content": "8. pants. Uzņēmumu akreditāciju veic Ministru kabineta apstiprinātā akreditācijas institūcija, kurā ietilpst darba devēji un valsts institūciju un profesionālo asociāciju pārstāvji un kura darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "4. NODAĻA UZŅĒMUMU AKREDITĀCIJAS UN PILNVAROŠANAS VISPĀRĒJA KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "9",
+      "title": "Uzņēmumu akreditāciju veic atbilstoši nacionālo standartu prasībām.",
+      "content": "9. pants. Uzņēmumu akreditāciju veic atbilstoši nacionālo standartu prasībām."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "4. NODAĻA UZŅĒMUMU AKREDITĀCIJAS UN PILNVAROŠANAS VISPĀRĒJA KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "10",
+      "title": "Akreditācijas institūcija akreditētajiem uzņēmumiem izsniedz akreditācijas apliecību, kurā norāda bīstamās iekārtas, kuras tiem ir tiesības pārbaudīt, un termiņu, līdz kuram jāizdara atkārtota akreditācija.",
+      "content": "10. pants. Akreditācijas institūcija akreditētajiem uzņēmumiem izsniedz akreditācijas apliecību, kurā norāda bīstamās iekārtas, kuras tiem ir tiesības pārbaudīt, un termiņu, līdz kuram jāizdara atkārtota akreditācija."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "4. NODAĻA UZŅĒMUMU AKREDITĀCIJAS UN PILNVAROŠANAS VISPĀRĒJA KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "11",
+      "title": "Akreditācijas institūcija saskaņa ar Ministru kabineta apstiprināto akreditācijas nolikumu kontrolē akreditētā uzņēmuma darbību un gadījumos, kad tas pārkāpj bīstamo iekārtu tehniskās uzraudzības normatīvo aktu prasības, ir tiesīga anulēt izsniegto akreditācijas apliecību.",
+      "content": "11. pants. Akreditācijas institūcija saskaņa ar Ministru kabineta apstiprināto akreditācijas nolikumu kontrolē akreditētā uzņēmuma darbību un gadījumos, kad tas pārkāpj bīstamo iekārtu tehniskās uzraudzības normatīvo aktu prasības, ir tiesīga anulēt izsniegto akreditācijas apliecību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "4. NODAĻA UZŅĒMUMU AKREDITĀCIJAS UN PILNVAROŠANAS VISPĀRĒJA KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "12",
+      "title": "Uzņēmumu var akreditēt atkārtoti pēc tam, kad ir novērsti attiecīgie bīstamo iekārtu tehniskās uzraudzības normatīvo aktu pārkāpumi.",
+      "content": "12. pants. Uzņēmumu var akreditēt atkārtoti pēc tam, kad ir novērsti attiecīgie bīstamo iekārtu tehniskās uzraudzības normatīvo aktu pārkāpumi."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "4. NODAĻA UZŅĒMUMU AKREDITĀCIJAS UN PILNVAROŠANAS VISPĀRĒJA KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "13",
+      "title": "Ministru kabinets nosaka tās bīstamās iekārtas, kuru pārbaudes izdara tikai attiecīgi pilnvaroti uzņēmumi.",
+      "content": "Uzņēmumu pilnvarošanas kārtību nosaka Labklājības ministrija."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "5. NODAĻA BĪSTAMO IEKĀRTU PĀRBAUDES VISPĀRĒJĀ KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "14",
+      "title": "Bīstamo iekārtu pārbaužu periodiskumu un apjomu nosaka bīstamo iekārtu tehniskās uzraudzības normatīvie akti.",
+      "content": "14. pants. Bīstamo iekārtu pārbaužu periodiskumu un apjomu nosaka bīstamo iekārtu tehniskās uzraudzības normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "5. NODAĻA BĪSTAMO IEKĀRTU PĀRBAUDES VISPĀRĒJĀ KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "15",
+      "title": "Samaksu par pārbaudi nosaka līgumos, kurus noslēdz pārbaudes uzņēmums un bīstamās iekārtas valdītājs, pusēm vienojoties.",
+      "content": "15. pants. Samaksu par pārbaudi nosaka līgumos, kurus noslēdz pārbaudes uzņēmums un bīstamās iekārtas valdītājs, pusēm vienojoties."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "5. NODAĻA BĪSTAMO IEKĀRTU PĀRBAUDES VISPĀRĒJĀ KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "16",
+      "title": "Pārbaudes rezultāti jānoformē protokola veidā, un viens protokola eksemplārs vienas dienas laikā pēc pārbaudes pabeigšanas jānodod bīstamās iekārtas valdītājam.",
+      "content": "16. pants. Pārbaudes rezultāti jānoformē protokola veidā, un viens protokola eksemplārs vienas dienas laikā pēc pārbaudes pabeigšanas jānodod bīstamās iekārtas valdītājam."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "5. NODAĻA BĪSTAMO IEKĀRTU PĀRBAUDES VISPĀRĒJĀ KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "17",
+      "title": "Ja pārbaudē konstatēts, ka iekārta apdraud cilvēka dzīvību un veselību, vidi un materiālās vērtības, par to nekavējoties jābrīdina bīstamās iekārtas valdītājs. Sājā gadījumā pārbaudes protokola viens eksemplārs vienas dienas laikā jānosūta Valsts darba inspekcijai, bet, ja apdraudēta vide, — arī Vides valsts inspekcijai.",
+      "content": "17. pants. Ja pārbaudē konstatēts, ka iekārta apdraud cilvēka dzīvību un veselību, vidi un materiālās vērtības, par to nekavējoties jābrīdina bīstamās iekārtas valdītājs. Sājā gadījumā pārbaudes protokola viens eksemplārs vienas dienas laikā jānosūta Valsts darba inspekcijai, bet, ja apdraudēta vide, — arī Vides valsts inspekcijai."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "5. NODAĻA BĪSTAMO IEKĀRTU PĀRBAUDES VISPĀRĒJĀ KĀRTĪBA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "18",
+      "title": "Akreditētajiem uzņēmumiem Labklājības ministrijas noteiktajā kārtībā jāsniedz Valsts darba inspekcijai ziņas par veiktajām pārbaudēm.",
+      "content": "18. pants. Akreditētajiem uzņēmumiem Labklājības ministrijas noteiktajā kārtībā jāsniedz Valsts darba inspekcijai ziņas par veiktajām pārbaudēm."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "6. NODAĻA VISPĀRĒJĀ KĀRTĪBA, KĀDĀ LICENCĒJAMI UZŅĒMUMI, KAS PROJEKTĒ BĪSTAMĀS IEKĀRTAS UN VEIC DARBUS AR TĀM (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "19",
+      "title": "Tikai pēc Valsts darba inspekcijas izsniegtas attiecīgas speciālas licences saņemšanas uzņēmumi ir tiesīgi nodarboties ar šādiem uzņēmējdarbības veidiem:",
+      "content": "1) bīstamo iekārtu projektēšana, izgatavošana, montāža, remonts, tehniskā apkope un modernizācija;\n2) spridzināšanas darbi.\nPirms spridzināšanas darbu uzsākšanas jāsaņem speciāla atļauja Valsts darba inspekcijā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "6. NODAĻA VISPĀRĒJĀ KĀRTĪBA, KĀDĀ LICENCĒJAMI UZŅĒMUMI, KAS PROJEKTĒ BĪSTAMĀS IEKĀRTAS UN VEIC DARBUS AR TĀM (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "20",
+      "title": "Valsts darba inspekcija kontrole un uzrauga šī likuma 19. pantā noteikto licencēto uzņēmumu darbību un gadījumos, kad tā konstatē bīstamo iekārtu tehniskās uzraudzības normatīvo aktu vai licencē norādīto noteikumu pārkāpumus, ir tiesīga anulēt uzņēmējdarbības licenci. Atkārtoti pieprasīt licenci var pēc licences anulēšanas iemeslu novēršanas.",
+      "content": "20. pants. Valsts darba inspekcija kontrole un uzrauga šī likuma 19. pantā noteikto licencēto uzņēmumu darbību un gadījumos, kad tā konstatē bīstamo iekārtu tehniskās uzraudzības normatīvo aktu vai licencē norādīto noteikumu pārkāpumus, ir tiesīga anulēt uzņēmējdarbības licenci. Atkārtoti pieprasīt licenci var pēc licences anulēšanas iemeslu novēršanas."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "7. NODAĻA BĪSTAMO IEKĀRTU VALDĪTĀJU PIENĀKUMI UN TIESĪBAS (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "21",
+      "title": "Bīstamo iekārtu valdītāju pienākumi:",
+      "content": "1) reģistrēt bīstamo iekārtu Valsts darba inspekcijā un saņemt atļauju tās ekspluatācijai;\n2) uzturēt un ekspluatēt bīstamās iekārtas atbilstoši bīstamo iekārtu tehniskās uzraudzības normatīvo aktu prasībām;\n3) nodrošināt bīstamo iekārtu apkalpojošā personāla apmācību un atestāciju atbilstoši bīstamo iekārtu tehniskās uzraudzības normatīvo aktu prasībām;\n4) nodrošināt bīstamo iekārtu tehniskās uzraudzības normatīvajos aktos paredzēto bīstamo iekārtu pārbaužu veikšanu, slēdzot līgumus ar akreditētajiem uzņēmumiem, kā arī paziņot Valsts darba inspekcijai par uzņēmumiem, ar kuriem noslēgts līgums par bīstamo iekārtu pārbaudēm;\n5) pārtraukt bīstamo iekārtu darbību, ja konstatēts, ka tās apdraud cilvēku dzīvību, veselību vai vidi;\n6) ziņot Valsts darba inspekcijai un gadījumos, kad apdraudēta apkārtējā vide, — arī Vides valsts inspekcijai par bīstamo iekārtu avārijām un pēc to pieprasījuma sniegt avārijas izmeklēšanai nepieciešamos dokumentus un paskaidrojumus."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "7. NODAĻA BĪSTAMO IEKĀRTU VALDĪTĀJU PIENĀKUMI UN TIESĪBAS (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "22",
+      "title": "Bīstamo iekārtu valdītāju tiesības:",
+      "content": "1) ar darba devēju sabiedrisko organizāciju starpniecību piedalīties tehniskās uzraudzības normatīvo aktu izstrādē;\n2) informēt Valsts darba inspekciju un akreditācijas institūciju par to licencēto un akreditēto uzņēmumu, kuri apkalpo bīstamās iekārtas, bīstamo iekārtu tehniskās uzraudzības normatīvajiem aktiem neatbilstošu darbību un pieprasīt likumdošanas aktos noteiktajā kārtībā šo uzņēmumu darbības rezultātā radīto zaudējumu atlīdzināšanu;\n3) izvēlēties akreditēto uzņēmumu, ar kuru slēgt līgumu par bīstamo iekārtu pārbaužu veikšanu;\n4) veikt viņu valdījumā esošo bīstamo iekārtu tehnisko apkopi un remontu, ja tehniskās uzraudzības normatīvajos aktos šīm iekārtām nav paredzēta speciāla apkopes un remonta veikšanas kārtība."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "7. NODAĻA BĪSTAMO IEKĀRTU VALDĪTĀJU PIENĀKUMI UN TIESĪBAS (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "23",
+      "title": "Mainoties bīstamo iekārtu valdījumam, šī likuma 21. un 22. pantā minētās bīstamo iekārtu īpašnieka tiesības un pienākumi bīstamo iekārtu turētājam pāriet faktiskā valdījuma iegūšanas brīdī.",
+      "content": "23. pants. Mainoties bīstamo iekārtu valdījumam, šī likuma 21. un 22. pantā minētās bīstamo iekārtu īpašnieka tiesības un pienākumi bīstamo iekārtu turētājam pāriet faktiskā valdījuma iegūšanas brīdī."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "8. NODAĻA VISPĀRĒJĀ KĀRTĪBA, KĀDĀ APMĀCA UN ATESTĒ PERSONAS, KURAS VEIC DARBUS AR BĪSTAMĀM IEKĀRTĀM (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "24",
+      "title": "Bīstamās iekārtas apkalpojošā personāla apmācības un atestācijas kārtību nosaka Labklājības ministrija.",
+      "content": "24. pants. Bīstamās iekārtas apkalpojošā personāla apmācības un atestācijas kārtību nosaka Labklājības ministrija."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "8. NODAĻA VISPĀRĒJĀ KĀRTĪBA, KĀDĀ APMĀCA UN ATESTĒ PERSONAS, KURAS VEIC DARBUS AR BĪSTAMĀM IEKĀRTĀM (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "25",
+      "title": "Akreditēto uzņēmumu speciālistus, kas vada bīstamo iekārtu pārbaudes, atestē akreditācijas institūcija.",
+      "content": "25. pants. Akreditēto uzņēmumu speciālistus, kas vada bīstamo iekārtu pārbaudes, atestē akreditācijas institūcija."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "8. NODAĻA VISPĀRĒJĀ KĀRTĪBA, KĀDĀ APMĀCA UN ATESTĒ PERSONAS, KURAS VEIC DARBUS AR BĪSTAMĀM IEKĀRTĀM (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "26",
+      "title": "Kārtību un termiņus, kādos atestējami licencēto uzņēmumu speciālisti, kas vada bīstamo iekārtu projektēšanas, izgatavošanas, montāžas, remonta, tehniskās apkopes un modernizācijas darbus, nosaka Valsts darba inspekcija.",
+      "content": "26. pants. Kārtību un termiņus, kādos atestējami licencēto uzņēmumu speciālisti, kas vada bīstamo iekārtu projektēšanas, izgatavošanas, montāžas, remonta, tehniskās apkopes un modernizācijas darbus, nosaka Valsts darba inspekcija."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "9. NODAĻA ATBILDĪBA PAR TEHNISKĀS UZRAUDZĪBAS NORMATĪVO AKTU NEIEVĒROŠANU (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "27",
+      "title": "Juridiskās un fiziskās personas, kas saskaņā ar šo likumu un citiem likumiem veic darbības ar bīstamām iekārtām, likumdošanas aktos noteiktajā kārtībā atbild par to radītajiem zaudējumiem.",
+      "content": "27. pants. Juridiskās un fiziskās personas, kas saskaņā ar šo likumu un citiem likumiem veic darbības ar bīstamām iekārtām, likumdošanas aktos noteiktajā kārtībā atbild par to radītajiem zaudējumiem."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "9. NODAĻA ATBILDĪBA PAR TEHNISKĀS UZRAUDZĪBAS NORMATĪVO AKTU NEIEVĒROŠANU (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "28",
+      "title": "Atbildības pakāpi un zaudējumu atlīdzības apmēru nosaka tiesa saskaņā ar likumiem.",
+      "content": "28. pants. Atbildības pakāpi un zaudējumu atlīdzības apmēru nosaka tiesa saskaņā ar likumiem."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "9. NODAĻA ATBILDĪBA PAR TEHNISKĀS UZRAUDZĪBAS NORMATĪVO AKTU NEIEVĒROŠANU (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "29",
+      "title": "Bīstamo iekārtu valdītāji vai personas, kuras veic darbus ar bīstamām iekārtām, likumdošanas aktos noteiktajā kārtībā ir atbildīgas par. bīstamo iekārtu tehniskās uzraudzības normatīvo aktu prasību neievērošanu, kā ari par to valsts institūciju likumīgo prasību neievērošanu, kuras kontrolē un uzrauga bīstamās iekārtas.",
+      "content": "29. pants. Bīstamo iekārtu valdītāji vai personas, kuras veic darbus ar bīstamām iekārtām, likumdošanas aktos noteiktajā kārtībā ir atbildīgas par. bīstamo iekārtu tehniskās uzraudzības normatīvo aktu prasību neievērošanu, kā ari par to valsts institūciju likumīgo prasību neievērošanu, kuras kontrolē un uzrauga bīstamās iekārtas."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "10. NODAĻA STARPVALSTU LĪGUMU UN STARPTAUTISKO KONVENCIJU NOTEIKUMU PIEMĒROŠANA (Nodaļa MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "30",
+      "title": "Ja Latvijas Republikas noslēgtajā starpvalstu līgumā vai starptautiskajā konvencijā, kuras dalībvalsts ir Latvijas Republika, attiecībā uz bīstamajām iekārtām ir normas, kas ir pretrunā ar šo likumu, piemērojami starpvalstu līguma vai starptautiskās konvencijas noteikumi.",
+      "content": "30. pants. Ja Latvijas Republikas noslēgtajā starpvalstu līgumā vai starptautiskajā konvencijā, kuras dalībvalsts ir Latvijas Republika, attiecībā uz bīstamajām iekārtām ir normas, kas ir pretrunā ar šo likumu, piemērojami starpvalstu līguma vai starptautiskās konvencijas noteikumi."
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Pārejas noteikumi (MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "1",
+      "title": "1. Līdz nacionālās akreditācijas sistēmas izveidošanai šī likuma 8. , 10. un 11. pantā paredzētās funkcijas veic Labklājības ministrijas izveidota Akreditācijas komisija saskaņā ar Labklājības ministrijas apstiprinātu nolikumu.",
+      "content": "1. Līdz nacionālās akreditācijas sistēmas izveidošanai šī likuma 8. , 10. un 11. pantā paredzētās funkcijas veic Labklājības ministrijas izveidota Akreditācijas komisija saskaņā ar Labklājības ministrijas apstiprinātu nolikumu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Pārejas noteikumi (MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "2",
+      "title": "2. Līdz 1995. gada 1. jūnijam šī likuma 2. pantā minētajā bīstamo iekārtu sarakstā nav iekļaujamas:",
+      "content": "1) jonizējošā starojuma iekārtas — saskaņā ar likumprojektu par radiāciju un kodoldrošību;\n2) elektroiekārtas — saskaņā ar Ministru Padomes 1993. gada 16. jūnija lēmumu Nr. 312 «Par bīstamajiem elektroiekārtu veidiem, kuri atrodas valsts tehniskajā uzraudzībā» (Ziņotājs, 1993, 28)."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Pārejas noteikumi (MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "3",
+      "title": "3. Līdz 1995. gada 1. jūnijam valsts kontroles un uzraudzības funkcijas elektroiekārtu tehniskās uzraudzības jomā veic a/s «Latvenergo» filiāles «Energokontrole» energoinspekcija saskaņā ar Ministru kabineta apstiprinātu nolikumu.",
+      "content": "3. Līdz 1995. gada 1. jūnijam valsts kontroles un uzraudzības funkcijas elektroiekārtu tehniskās uzraudzības jomā veic a/s «Latvenergo» filiāles «Energokontrole» energoinspekcija saskaņā ar Ministru kabineta apstiprinātu nolikumu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Pārejas noteikumi (MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "4",
+      "title": "4. Līdz bīstamo iekārtu valsts kontroles un uzraudzības funkciju nodošanai šajā likumā paredzētās Valsts darba inspekcijas funkcijas veic Galvenā tehniskās uzraudzības pārvalde.",
+      "content": "4. Līdz bīstamo iekārtu valsts kontroles un uzraudzības funkciju nodošanai šajā likumā paredzētās Valsts darba inspekcijas funkcijas veic Galvenā tehniskās uzraudzības pārvalde."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Pārejas noteikumi (MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "5",
+      "title": "5. Labklājības ministrija līdz 1994. gada 1. septembrim likvidē Galveno tehniskās uzraudzības pārvaldi un nodod tās funkcijas Valsts darba inspekcijai saskaņā ar spēkā esošajiem likumdošanas aktiem.",
+      "content": "5. Labklājības ministrija līdz 1994. gada 1. septembrim likvidē Galveno tehniskās uzraudzības pārvaldi un nodod tās funkcijas Valsts darba inspekcijai saskaņā ar spēkā esošajiem likumdošanas aktiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Pārejas noteikumi (MK 26.07.1994. noteikumu Nr. 137 redakcijā, kas stājas spēkā 07.08.1994. )",
+      "section": "6",
+      "title": "6. Līdz 1996. gada 1. jūnijam maksimālos pārbaužu tarifus samaksai par bīstamo iekārtu pārbaudēm ir tiesīga noteikt Labklājības ministrija.",
+      "content": "6. Līdz 1996. gada 1. jūnijam maksimālos pārbaužu tarifus samaksai par bīstamo iekārtu pārbaudēm ir tiesīga noteikt Labklājības ministrija."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,645 @@
+{
+  "id": "lv-law-63632",
+  "type": "statute",
+  "title": "Ieroču aprites likums",
+  "short_name": "TA-63632",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/63632-ierocu-aprites-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) aprite — ieroču, to sastāvdaļu vai palīgierīču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu ražošana vai izgatavošana, komplektēšana vai remonts, iegādāšanās vai realizēšana, kolekcionēšana, eksports, imports un tranzīts; apbalvošana ar ieročiem; minēto priekšmetu mantošana, uzskaite, eksponēšana izstādēs vai demonstrēšana, izmantošana, pielietošana; ieroča izmantošana treniņšaušanā; glabāšana, nēsāšana, pārvadāšana, pārsūtīšana, izņemšana, atsavināšana, iznīcināšana, ievešana Latvijas Republikā vai izvešana no tās;\n2) atkārtotas darbības šaujamierocis — šaujamierocis, kurā pēc katra šāviena jaunu patronu no aptveres vai cilindra ievada ar roku darbināms mehānisms;\n3) aukstais ierocis — priekšmets, kam piemīt ieroča pazīmes un kas paredzēts bojājumu nodarīšanai, izmantojot cilvēka muskuļu spēku vai speciālus mehānismus;\n4) automātiskais šaujamierocis — šaujamierocis, kas pēc katra šāviena pats uzlādējas jaunam šāvienam un, ja vienreiz tiek iedarbināts tā palaišanas mehānisms, spēj izdarīt vairākus šāvienus;\n5) elektrošoka ierīce — speciālais līdzeklis, kura augstsprieguma elektriskais lādiņš īslaicīgi paralizējoši iedarbojas uz cilvēka vai dzīvnieka organismu;\n6) garstobra šaujamierocis — šaujamierocis, kura stobra garums pārsniedz 300 milimetrus vai kura kopējais garums pārsniedz 600 milimetrus;\n7) gāzes baloniņš — speciālais līdzeklis, kas pildīts ar sašķidrinātu gāzi, kurai ir īslaicīga kairinoša vai paralizējoša iedarbība;\n8) gāzes pistole (revolveris) — speciālais līdzeklis, kurš paredzēts īslaicīgai iedarbībai uz cilvēka organismu un caur kura stobru, šaujampulverim sadegot, tiek izgrūstas kairinošu vai paralizējošu vielu saturošas gāzes mikrodaļiņas;\n9) glabāšana — ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu turēšana atļautā vietā, ievērojot noteiktās drošības prasības;\n10) gludstobra šaujamierocis — šaujamierocis, kuram ir gludas vismaz divas trešdaļas no stobra urbuma garuma, skaitot no patrontelpas;\n11) iegādāšanās — ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu iegūšana īpašumā vai valdījumā;\n12) ierocis — priekšmets vai mehānisms, kas speciāli radīts dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai;\n13) ieroča kopija — oriģinālā ieroča precīzs atdarinājums, kuram ir tikai izziņas avota vai dekoratīvas funkcijas;\n14) ieroča pārvadāšana — nepielādēta un atsevišķi no munīcijas iesaiņota ieroča pārvadāšana vai pārvietošana sev līdzi tādā veidā, ka tā pielietošanas iespēja ir izslēgta;\n15) ieroča remonts — ieroča defektu novēršana vai ieroča pielāgošana īpašnieka individuālajām vajadzībām;\n16) ieroča vai speciālā līdzekļa nēsāšana — pielietošanai gatava ieroča vai speciālā līdzekļa pārvietošana sev līdzi ārpus glabāšanas vietas;\n17) ieroču vai munīcijas izgatavošana — atsevišķu ieroču, munīcijas vai to sastāvdaļu izgatavošana;\n18) ieroču vai munīcijas kolekcija — ieroču vai munīcijas krājums, kuram ir zinātniski tehniska, mākslas, vēstures, kriminālistiska vai citāda izziņas avota nozīme;\n19) īsstobra šaujamierocis — šaujamierocis, kura stobra garums nepārsniedz 300 milimetrus vai kura kopējais garums nepārsniedz 600 milimetrus;\n20) kalibrs — šaujamieroča stobra urbuma, šāviņa vai čaulas nosacītais izmērs;\n21) lielas enerģijas pneimatiskais ierocis — pneimatiskais ierocis, kura lādiņa sākumenerģija ir lielāka par 12 džouliem;\n22) mazas enerģijas pneimatiskais ierocis — pneimatiskais ierocis, kura lādiņa sākumenerģija nepārsniedz 12 džoulus;\n23) medību šaujamierocis — šaujamierocis, kas klasificēts Latvijas Republikā kā medību šaujamierocis;\n24) militārais gludstobra šaujamierocis — speciāli militārajām vajadzībām izgatavots vai ražots gludstobra šaujamierocis, kurš pārbaudīts apstākļos, kad spiediens ir lielāks par 1300 bāriem, darbojas apstākļos, kad spiediens ir lielāks par 1000 bāriem, un kura munīcija ir garāka par 76,2 milimetriem;\n25) (izslēgts ar 23.09.2010 . likumu) ;\n26) militārie šaujamieroči un munīcija — speciāli militārajām vajadzībām izgatavoti vai ražoti šaujamieroči un munīcija;\n27) munīcija — priekšmeti, kas konstruktīvi izgatavoti šāviena izdarīšanai un paredzēti dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai;\n28) patrona — šaujamieroča (ar šāviņu vai bez tā) munīcija, kurā vienā veselumā apvienota čaula, propelents un aizdedzināšanas ierīce;\n29) pārsūtīšana — ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu pārvietošana pa pastu, ar bagāžu vai ar trešo personu starpniecību;\n30) (izslēgts ar 23.09.2010 . likumu) ;\n31) (izslēgts ar 23.09.2010 . likumu) ;\n32) pneimatiskais ierocis — ierocis, no kura lodi, bultu vai citu lādiņu izšauj ar saspiestas gāzes palīdzību;\n33) propelents — munīcijas sprāgstviela vai raķešu degviela;\n34) pusautomātiskais šaujamierocis — šaujamierocis, kas pēc katra šāviena pats uzlādējas jaunam šāvienam un, ja vienreiz tiek iedarbināts tā palaišanas mehānisms, spēj izdarīt tikai vienu šāvienu;\n35) ražošana — dažādu veidu ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu vai to sastāvdaļu rūpnieciska ražošana, kā arī ar to saistīti zinātniski tehniskie pētījumi vai tehniskās dokumentācijas izstrādāšana;\n36) realizēšana — ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu pārdošana, maiņa, dāvināšana vai citāda veida nodošana citai personai īpašumā vai valdījumā;\n37) speciālie līdzekļi — ķīmiskās vielas, priekšmeti vai mehānismi, kas paredzēti pašaizsardzībai vai sabiedriskās kārtības un drošības garantēšanai, bet nav ieroči;\n38) sporta šaujamierocis — šaujamierocis, kas Latvijas Republikā klasificēts kā sporta šaujamierocis;\n39) sprāgstviela — ķīmisks savienojums vai ķīmisko savienojumu maisījums, kas ārēju faktoru iedarbībā ātri reaģē, izdalot lielu daudzumu gāzes vai siltuma enerģiju;\n40) spridzināšanas ietaise — līdzeklis, kas nodrošina sprādzienu noteiktā vietā un laikā vai konkrētas iedarbības rezultātā (uzspridzināšanas līdzekļi, lādiņi un palaišanas ierīces — detonatori);\n41) šaujamierocis — ierocis, kurā šāviņš enerģiju virzes kustībai saņem, šaujampulverim sadegot gāzu spiediena rezultātā;\n42) šāviņš — lode, renkulis, skrots, bulta vai citi priekšmeti vai vielas, kas paredzēti vai pielāgoti šaušanai no ieroča vai tiek izšauti no ieroča;\n43) viena šāviena šaujamierocis — šaujamierocis, kuram nav padeves aptveres vai cilindra un kurā munīciju (patronu) pirms katra šāviena ieliek ar roku;\n44) vītņstobra šaujamierocis — šaujamierocis, kuram stobra urbumā visā tā garumā izveidotas spirālveida gropes, kuras izraisa lodes rotāciju, izņemot šaujamieročus, kuri paredzēti šaušanai ar gludstobra šaujamieroču munīciju un kuri Latvijas Republikā klasificēti kā gludstobra šaujamieroči."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir noteikt fizisko un juridisko personu tiesības un pienākumus attiecībā uz ieroču, to sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu apriti Latvijas Republikā, kā arī noteikt šo priekšmetu klasifikāciju nolūkā garantēt personu un sabiedrības drošību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums attiecas uz ieročiem, munīciju, sprāgstvielām, spridzināšanas ietaisēm, speciālajiem līdzekļiem, izņemot:\n1) priekšmetus un ierīces, kuri nav ieroči, bet kurus var izmantot kā ieročus;\n2) šaujamieročus, kas izgatavoti līdz 1870.gadam, un to kopijas, ja no tiem nevar šaut ar munīciju, kas paredzēta aizliegtajiem šaujamieročiem vai šaujamieročiem, kuru apritei nepieciešama Valsts policijas atļauja;\n3) ieročus, kas neatgriezeniski padarīti lietošanai nederīgi, ja šīs pārmaiņas ir oficiāli apstiprinātas Valsts policijā;\n4) rūpnieciski ražotus sertificētus instrumentus, kuros izmantoti šaujamieroču darbības principi vai konstrukcijas un kurus var izmantot tikai paredzētajiem mērķiem;\n5) (izslēgts ar 22.04.2004 . likumu) ;\n6) (izslēgts ar 22.04.2004 . likumu) ;\n7) zemūdens medību ieročus un to munīciju.\n(2) Uz sporta lokiem un bultām šis likums attiecas tikai daļā par drošības prasībām šautuvēs (šaušanas stendos) un drošības pasākumiem un kārtību treniņšaušanas un mācību šaušanas nodarbībās un šaušanas sporta sacensībās.\n(3) Uz salūtpatronām (salūtpatrona — patrona, kurai nav šāviņa un kura paredzēta šaušanas imitācijai, salutēšanai vai signāla došanai) šis likums attiecas tikai daļā par šo priekšmetu ražošanu (izgatavošanu)."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Ieroču, munīcijas, speciālo līdzekļu klasifikācija un aizliegumi attiecībā uz to apriti (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "4",
+      "title": "Ieroču un munīcijas klasifikācija atbilstoši to lietojumam",
+      "content": "Ieročus un munīciju atbilstoši to lietojumam iedala šādi:\n1) militārajām vajadzībām paredzētie ieroči un to munīcija;\n2) juridisko personu dienesta ieroči, kas paredzēti dienesta vai darba pienākumu pildīšanai, un to munīcija;\n3) pašaizsardzībai paredzētie ieroči un to munīcija;\n4) medību ieroči un to munīcija;\n5) sporta ieroči un to munīcija;\n6) kolekciju ieroči un to munīcija."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Ieroču, munīcijas, speciālo līdzekļu klasifikācija un aizliegumi attiecībā uz to apriti (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "5",
+      "title": "Ieroču, munīcijas tehniskā klasifikācija",
+      "content": "(1) Ieročus un munīciju atbilstoši to tehniskajiem parametriem iedala A, B, C, D un pneimatisko ieroču kategorijās.\n(2) A kategorijas ieroči un munīcija ir:\n1) militārās sprāgstošās raķetes, to palaišanas iekārtas un granātmetēji;\n2) automātiskie šaujamieroči;\n3) šaujamieroči, kas maskēti kā citi priekšmeti;\n4) munīcija ar bruņusitējām, sprāgstošām vai aizdedzinošām lodēm vai šādas munīcijas lodes (bruņusitēja munīcija — militārā munīcija, kuras šāviņš ietverts cietā apvalkā un satur caursitošu cietu kodolu; sprāgstošā munīcija — militārā munīcija, kuras šāviņā ir sprāgstvielas, kuru sprādzienu izraisa trieciens pret mērķi; aizdedzinošā munīcija — militārā munīcija, kuras šāviņš pildīts ar ķīmiskajām vielām, kas aizdegas gaisa trieciena rezultātā vai trieciena pret mērķi rezultātā);\n5) pistoļu un revolveru patronas ar ekspansīvajām lodēm (ekspansīvā lode — šaujamieroča lode ar novirzītu smaguma centru vai lode, kura, iekļuvusi mērķī, sadalās vai izplešas);\n6) šīs daļas 1. — 3.punktā minēto ieroču sastāvdaļas, munīcija un šiem ieročiem paredzētās atsevišķās palīgierīces.\n(3) B kategorijas ieroči un munīcija ir:\n1) pusautomātiskie vai atkārtotas darbības īsstobra šaujamieroči;\n2) viena šāviena īsstobra šaujamieroči, kuru munīcijai ir centrālā kapsula;\n3) viena šāviena īsstobra šaujamieroči, kuru kopējais garums ir mazāks par 280 milimetriem un kuru munīcijai ir apmales kapsula;\n4) pusautomātiskie garstobra šaujamieroči, kuru patrontelpas un aptveres (patronu padošanas mehānisms) kopējā ietilpība ir lielāka par trim patronām;\n5) pusautomātiskie garstobra šaujamieroči, kuru patrontelpas un aptveres kopējā ietilpība nav lielāka par trim patronām, bet aptvere ir noņemama, vai kurus, izmantojot vienkāršus instrumentus, var pārveidot par tādu ieroci, kura patrontelpas un aptveres kopējā ietilpība ir lielāka par trim patronām;\n6) atkārtotas darbības un pusautomātiskie gludstobra šaujamieroči, kuru stobra garums nepārsniedz 600 milimetrus;\n7) pusautomātiskie šaujamieroči, kas nav militārie šaujamieroči un vizuāli izskatās kā automātiskie šaujamieroči;\n8) šajā daļā minēto ieroču sastāvdaļas, munīcija un šiem ieročiem paredzētās atsevišķās palīgierīces.\n(4) C kategorijas ieroči un munīcija ir:\n1) atkārtotas darbības garstobra šaujamieroči, izņemot šā panta trešās daļas 6.punktā minētos šaujamieročus;\n2) viena šāviena garstobra-vītņstobra šaujamieroči;\n3) pusautomātiskie garstobra šaujamieroči, izņemot šā panta trešās daļas 4., 5., 6. un 7.punktā minētos šaujamieročus;\n4) viena šāviena īsstobra šaujamieroči, kuru kopējais garums nav mazāks par 280 milimetriem un kuru munīcijai ir apmales kapsula;\n5) šajā daļā minēto ieroču sastāvdaļas, munīcija un šiem ieročiem paredzētās atsevišķās palīgierīces.\n(5) D kategorijas šaujamieroči ir viena šāviena garstobra-gludstobra šaujamieroči.\n(6) Pneimatisko ieroču kategorijā ietilpst lielas enerģijas pneimatiskie ieroči un mazas enerģijas pneimatiskie ieroči.\n(7) (Izslēgta ar 23.09.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Ieroču, munīcijas, speciālo līdzekļu klasifikācija un aizliegumi attiecībā uz to apriti (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "6",
+      "title": "Pašaizsardzībai paredzētie ieroči, speciālie līdzekļi un to munīcija",
+      "content": "(1) Latvijas Republikā pašaizsardzībai atļauts iegādāties, glabāt, nēsāt, realizēt, izmantot un pielietot šādus ieročus, speciālos līdzekļus un to munīciju:\n1) B kategorijas pusautomātiskos, atkārtotas darbības vai viena šāviena īsstobra šaujamieročus, kuru kalibrs nav lielāks par 9 milimetriem, un to munīciju;\n2) B, C un D kategorijas garstobra-gludstobra šaujamieročus un to munīciju;\n3) gāzes pistoles (revolverus) un to munīciju, izņemot šā likuma 7.panta ceturtās daļas 7.punktā minēto munīciju;\n4) gāzes baloniņus;\n5) elektrošoka ierīces;\n6) pašaizsardzībai paredzētas psiholoģiskas iedarbības skaņu ierīces suņu un citu dzīvnieku aizbaidīšanai.\n(2) Vielas, kuras atļauts izmantot pašaizsardzībai paredzēto gāzes pistoļu (revolveru) munīcijā un gāzes baloniņos, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Ieroču, munīcijas, speciālo līdzekļu klasifikācija un aizliegumi attiecībā uz to apriti (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "7",
+      "title": "Aizliegumi",
+      "content": "(1) Latvijas Republikā ir aizliegta:\n1) Latvijai saistošajos starptautiskajos līgumos aizliegto ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprite, izņemot šo priekšmetu izņemšanu un iznīcināšanu;\n2) kājnieku mīnu eksportēšana un tranzīts;\n3) neklasificētu, nemarķētu vai pašizgatavotu šaujamieroču un lielas enerģijas pneimatisko ieroču, pašizgatavotas munīcijas, nemarķētu sprāgstvielu aprite, izņemot sporta un medību ieroču patronu komplektēšanu no rūpnieciski ražotām sastāvdaļām (ieroča marķēšana — īpašu atzīmju vai numuru iestrādāšana uz ieroča vai tā galvenajām sastāvdaļām, kuri ļauj to atšķirt no citiem ieročiem);\n4) tehniskajiem noteikumiem neatbilstošu šaujamieroču vai šaujamieroču ar mainītu tehnisko klasifikāciju, kā arī šaušanai kārtām vai slēptai nēsāšanai pārveidotu šaujamieroču vai lielas enerģijas pneimatisko ieroču iegādāšanās, glabāšana, nēsāšana vai realizēšana;\n5) tādu rotaļlietu ražošana un pārdošana, kuras pēc ārējā izskata ir rūpnieciski ražoto šaujamieroču kopijas.\n(2) Fiziskajām personām ir aizliegts:\n1) iegādāties, glabāt, nēsāt, pielietot un izmantot sprāgstvielas, spridzināšanas ietaises un detonatorus, gāzes granātas, munīciju, kas pildīta ar kairinošas vai paralizējošas iedarbības vielām un nav paredzēta gāzes pistolēm (revolveriem), psiholoģiskas iedarbības gaismas un skaņu ierīces, zemūdens šaujamieročus un to munīciju, kā arī munīciju, kuras šāviņš pildīts ar medikamentiem, kas paredzēti dzīvnieku īslaicīgai iemidzināšanai, paralizēšanai vai nogalināšanai;\n2) nēsāt aukstos ieročus, izņemot medniekiem nepieciešamos aukstos ieročus — medībās un sportistiem attiecīgam sporta veidam nepieciešamos aukstos ieročus — sacensībās vai treniņos.\n(3) Fiziskajām un juridiskajām personām ir aizliegts izgatavot, iegādāties, glabāt, nēsāt, izmantot un realizēt jebkurus šaujamieročus un lielas enerģijas pneimatiskos ieročus, kuri pārveidoti šaušanai kārtām, ieročus ar apzāģētiem vai pārurbtiem stobriem, apzāģētām laidēm, šaujamieročus ar palielinātu aptveres ietilpību un garstobra šaujamieročus, kuri pārveidoti slēptai nēsāšanai, kā arī nēsāt un izmantot šaujamieročus un lielas enerģijas pneimatiskos ieročus ar nomontētām laidēm.\n(4) Fiziskajām un juridiskajām personām ir aizliegts iegādāties, glabāt, nēsāt, realizēt, pielietot un izmantot šādu veidu ieročus, to munīciju un palīgierīces:\n1) koncentrētas virzītas enerģijas ieročus (koncentrētas virzītas enerģijas ieroči — lāzeru, elementārdaļiņu vai lieljaudas radiofrekvenču staru sistēma, kas spēj iznīcināt vai paralizēt mērķi);\n2) A kategorijas ieročus un munīciju;\n3) militāros gludstobra šaujamieročus;\n4) B kategorijas īsstobra pusautomātiskos, atkārtotas darbības vai viena šāviena medību šaujamieročus;\n5) klusinātājus (šāviena trokšņa slāpētājus);\n6) munīciju, kas pildīta ar nervus paralizējošām gāzēm, vai tādu gāzes pistoļu (revolveru) munīciju, kas var nodarīt miesas bojājumus vai izraisīt cilvēka nāvi, šaujot no attāluma, lielāka par metru;\n7) gāzes granātas, munīciju, kas pildīta ar kairinošas vai paralizējošas iedarbības vielām un nav paredzēta gāzes pistolēm (revolveriem), psiholoģiskas iedarbības gaismas un skaņu ierīces.\n(5) Šā panta ceturtajā daļā noteiktie ierobežojumi neattiecas uz Nacionālajiem bruņotajiem spēkiem.\n(6) Šā panta ceturtajā daļā noteikto ieroču, to munīcijas un palīgierīču (izņemot koncentrētas virzītas enerģijas ieročus un A kategorijas militārās sprāgstošās raķetes, to palaišanas iekārtas un granātmetējus) iegādāšanās, glabāšanas, nēsāšanas, realizēšanas, pielietošanas un izmantošanas aizliegumi neattiecas uz Satversmes aizsardzības biroju, Iekšlietu ministrijas sistēmas iestādēm, kurām paredzēti dienesta šaujamieroči, Ieslodzījuma vietu pārvaldi, Militārās izlūkošanas un drošības dienestu un Latvijas Bankas Aizsardzības pārvaldi.\n(7) (Izslēgta ar 13.12.2007 . likumu.)\n(8) (Izslēgta ar 23.09.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "8",
+      "title": "Ieroču atļauju izsniegšana",
+      "content": "(1) Valsts policija fiziskajām personām izsniedz šādas ieroču iegādāšanās un glabāšanas vai nēsāšanas atļaujas (ar derīguma termiņu uz laiku no viena gada līdz pieciem gadiem):\n1) atļaujas D, B vai C kategorijas sporta vai medību šaujamieroču, kā arī lielas enerģijas pneimatisko ieroču glabāšanai;\n2) atļaujas tādu B kategorijas īsstobra šaujamieroču glabāšanai vai nēsāšanai, kuru kalibrs nav lielāks par 9 milimetriem.\n(2) Valsts policija juridiskajām personām izsniedz B, C un D kategorijas šaujamieroču, kā arī lielas enerģijas pneimatisko ieroču iegādāšanās, glabāšanas un pārvadāšanas atļaujas.\n(3) Valsts policija komersantiem, kuri saņēmuši otrās kategorijas speciālo atļauju (licenci) apsardzes darbības veikšanai, izsniedz B un C kategorijas šaujamieroču (izņemot vītņstobra medību šaujamieročus) iegādāšanās vai glabāšanas atļaujas.\n(4) Ieroču glabāšanas atļaujas juridiskajām personām izsniedz uz laiku no viena gada līdz pieciem gadiem.\n(5) Kārtību, kādā Valsts policija izsniedz šā panta pirmajā, otrajā un trešajā daļā paredzētās atļaujas, kā arī atļauju derīguma termiņa noteikšanas kritērijus un atļauju paraugus nosaka Ministru kabinets.\n(6) (Izslēgta ar 13.12.2007 . likumu.)\n(7) Par visu veidu ieroču atļauju un Eiropas šaujamieroču apliecības izsniegšanu un atļaujas derīguma termiņa pagarināšanu iekasē valsts nodevu. Valsts nodevas likmes, atvieglojumus un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "9",
+      "title": "Ieroča iegādāšanās atļauja un ieroča iegādāšanās kārtība",
+      "content": "(1) Ieroča iegādāšanās atļauja ir derīga trīs mēnešus no dienas, kad Valsts policija ir pieņēmusi lēmumu par atļaujas izsniegšanu. Atļauja piešķir personai tiesības:\n1) iegādāties atļaujā norādītos šaujamieročus, lielas enerģijas pneimatiskos ieročus un to munīciju pie Latvijas Republikas vai ārvalstu ieroču tirdzniecības komersantiem saskaņā ar attiecīgo valstu likumiem;\n2) glabāt un pārvadāt ieroci līdz tā reģistrācijai Valsts policijā;\n3) pārreģistrēt Valsts policijā citas personas šaujamieročus vai lielas enerģijas pneimatiskos ieročus uz sava vārda.\n(2) Fiziskās un juridiskās personas triju darbdienu laikā pēc šaujamieroča vai lielas enerģijas pneimatiskā ieroča iegādāšanās vai triju darbdienu laikā pēc šāda ieroča ievešanas Latvijas Republikā ieroci reģistrē Valsts policijā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "10",
+      "title": "Ieroča glabāšanas atļauja",
+      "content": "Ieroča glabāšanas atļauja personai piešķir tiesības glabāt šaujamieroci vai lielas enerģijas pneimatisko ieroci atļaujā norādītajā ieroča īpašnieka (fiziskās personas) dzīvesvietā vai nekustamā īpašuma atrašanās vietā vai ieroča īpašnieka (juridiskās personas) speciāli ierīkotā ieroču glabātavā, pārvadāt vai pārsūtīt ieroci un iegādāties un glabāt tā munīciju, kā arī pielietot un izmantot ieroci likumā noteiktajos gadījumos un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "11",
+      "title": "Ieroča nēsāšanas atļauja",
+      "content": "Ieroča nēsāšanas atļauja fiziskajai personai piešķir tiesības glabāt šaujamieroci atļaujā norādītajā vietā, nēsāt, pārvadāt vai pārsūtīt to, iegādāties un glabāt tā munīciju, kā arī pielietot un izmantot šaujamieroci likumā noteiktajos gadījumos un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "12",
+      "title": "Ieroča realizēšanas atļauja",
+      "content": "Ieroča realizēšanas atļauja personai piešķir tiesības atļaujā norādītos šaujamieročus, lielas enerģijas pneimatiskos ieročus vai to munīciju pārdot ar Latvijas Republikas specializēta ieroču tirdzniecības komersanta starpniecību vai pārreģistrēt tos Valsts policijā citai personai."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "13",
+      "title": "Ieroču iegādāšanās, glabāšanas un nēsāšanas atļauju derīguma termiņa nepagarināšana un atļauju anulēšana fiziskajām personām",
+      "content": "Valsts policija fiziskajām personām nepagarina šaujamieroču vai lielas enerģijas pneimatisko ieroču iegādāšanās, glabāšanas vai nēsāšanas atļaujas derīguma termiņu vai anulē atļauju (arī personiskā apbalvojuma šaujamieroča glabāšanas vai nēsāšanas atļauju) pirms termiņa, ja:\n1) (izslēgts ar 05.06.2003 . likumu) ;\n2) ierocis nēsāts, pārvadāts, pielietots, izmantots vai no tā veikta treniņšaušana, attiecīgajām personām esot alkohola, narkotisko, psihotropo vai toksisko vielu iespaidā, — uz laiku no viena gada līdz trim gadiem;\n3) iestājušies šā likuma 20.pantā noteiktie ierobežojumi;\n4) anulēta vai atņemta uz laiku mednieka apliecība;\n5) ierocis nozaudēts nevērīgas glabāšanas dēļ, — uz laiku no viena gada līdz trim gadiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "14",
+      "title": "Ieroču iegādāšanās un glabāšanas atļauju derīguma termiņa nepagarināšana un atļauju anulēšana juridiskajām personām",
+      "content": "(1) Valsts policija juridiskajām personām nepagarina ieroču iegādāšanās vai glabāšanas atļaujas derīguma termiņu vai anulē atļauju pirms termiņa, ja:\n1) pārkāpta ieroču un munīcijas aprites kārtība;\n2) beidzies šā likuma 36.panta pirmajā daļā minētajam komercdarbības veidam izsniegtās speciālās atļaujas (licences) derīguma termiņš vai šī speciālā atļauja (licence) anulēta;\n3) juridisko personu likvidē vai aptur tās darbību.\n(2) Juridiskajai personai, kurai anulēta ieroču iegādāšanās vai glabāšanas atļauja, Valsts policija jaunu atļauju var izsniegt pēc noteikta termiņa (no viena gada līdz trim gadiem)."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "15",
+      "title": "Ieroču iegādāšanās, glabāšanas un nēsāšanas atļauju derīguma termiņa pagarināšanas un atļauju anulēšanas kārtība",
+      "content": "Šaujamieroču iegādāšanās, glabāšanas vai nēsāšanas atļauju un lielas enerģijas pneimatisko ieroču iegādāšanās un glabāšanas atļauju derīguma termiņa pagarināšanas vai anulēšanas kārtību, kā arī kritērijus termiņa noteikšanai, uz kādu pagarināms atļaujas derīguma termiņš vai anulējama atļauja, reglamentē Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "16",
+      "title": "Jaunas ieroča iegādāšanās, glabāšanas vai nēsāšanas atļaujas izsniegšana",
+      "content": "(1) Ja ieroča glabāšanas vai nēsāšanas atļauja ir nozaudēta vai nolaupīta, jaunu atļauju izsniedz Valsts policijas iestāde, kura izsniegusi iepriekšējo atļauju.\n(2) Jaunu ieroča iegādāšanās atļauju Valsts policija izsniedz, pamatojoties uz personas iesniegumu, triju mēnešu laikā no dienas, kad paziņots par atļaujas nozaudēšanu vai nolaupīšanu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "17",
+      "title": "Ieroču un munīcijas nodošana Valsts policijai",
+      "content": "Ja šaujamieroča vai lielas enerģijas pneimatiskā ieroča glabāšanas vai nēsāšanas atļaujas termiņš netiek pagarināts vai atļauju anulē pirms termiņa, ierocis un munīcija triju darbdienu laikā pēc paziņojuma saņemšanas jānodod Valsts policijai vai ar tās atļauju — ieroču tirdzniecības komersantam."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Atļaujas un to izsniegšanas kārtība",
+      "section": "18",
+      "title": "Lēmuma pārsūdzēšana",
+      "content": "(1) Lēmumu par atteikumu izsniegt šaujamieroča vai lielas enerģijas pneimatiskā ieroča iegādāšanās, glabāšanas vai nēsāšanas atļauju, pagarināt tās derīguma termiņu vai par atļaujas anulēšanu pirms termiņa persona mēneša laikā pēc paziņojuma saņemšanas var apstrīdēt Valsts policijas priekšniekam un viņa lēmumu — pārsūdzēt tiesā.\n(2) Lēmuma par atteikumu pagarināt ieroča glabāšanas, nēsāšanas vai kolekcijas atļaujas derīguma termiņu vai par atļaujas anulēšanu pirms termiņa apstrīdēšana un pārsūdzēšana neaptur tā darbību un izpildi."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "19",
+      "title": "Fiziskās personas, kurām ir tiesības iegādāties, glabāt, nēsāt un pārvietot ieročus un speciālos līdzekļus",
+      "content": "(1) Fiziskajai personai, kas sasniegusi 16 gadu vecumu, ir tiesības iegādāties, glabāt un nēsāt pašaizsardzībai paredzētu gāzes baloniņu.\n(2) Fiziskajai personai, kas sasniegusi 18 gadu vecumu, ir tiesības:\n1) iegādāties, glabāt un pārvadāt aukstos ieročus, mazas enerģijas pneimatiskos ieročus un to munīciju;\n2) iegādāties, glabāt un nēsāt gāzes pistoles (revolverus), to munīciju un elektrošoka ierīces;\n3) (izslēgts ar 23.09.2010 . likumu) .\n(3) Latvijas pilsonim, Latvijas nepilsonim, Latvijas Republikā pastāvīgās uzturēšanās atļauju saņēmušam ārvalstniekam, bezvalstniekam un bēglim (turpmāk - Latvijā pastāvīgi dzīvojoša persona), kas sasniedzis 18 gadu vecumu, ja uz viņu neattiecas šā likuma 20.pantā minētie ierobežojumi, ir tiesības iegādāties vai saņemt kā personisku apbalvojuma ieroci, glabāt un pārvadāt B, D un C kategorijas garstobra-gludstobra medību, sporta un pašaizsardzības šaujamieročus, lielas enerģijas pneimatiskos ieročus un to munīciju, izmantot šos ieročus medībās, pašaizsardzībai, treniņšaušanai, šaušanas sporta sacensībās, kā arī lai normatīvajos aktos noteiktajā kārtībā nogalinātu lauksaimniecības dzīvniekus.\n(4) Latvijā pastāvīgi dzīvojošai personai, kura sasniegusi 21 gada vecumu, kurai ir mednieka apliecība un kura nokārtojusi praktisko eksāmenu šaušanā ar garstobra-vītņstobra medību šaujamieroci (ja uz šo personu neattiecas šā likuma 20.pantā minētie ierobežojumi), ir tiesības iegādāties vai saņemt kā personisku apbalvojuma ieroci, glabāt un pārvadāt B un C kategorijas garstobra-vītņstobra medību šaujamieročus un to munīciju, izmantot šos ieročus medībās, treniņšaušanai, šaušanas sporta sacensībās, kā arī lai normatīvajos aktos noteiktajā kārtībā nogalinātu lauksaimniecības dzīvniekus.\n(5) Latvijā pastāvīgi dzīvojošai personai, kura sasniegusi 18 gadu vecumu un kurai ir vismaz trīs gadus ilgs reģistrētas sporta organizācijas biedra stāžs un vismaz otrā sporta klase ar šaušanu saistītā sporta veidā (ja uz šo personu neattiecas šā likuma 20.pantā minētie ierobežojumi), ir tiesības iegādāties vai saņemt kā personisku apbalvojumu ieroci, glabāt un pārvadāt B un C kategorijas garstobra — vītņstobra sporta šaujamieročus un to munīciju, B kategorijas īsstobra šaujamieročus, kuru kalibrs nav lielāks par 5,6 milimetriem (22 LR), un to munīciju un izmantot šos ieročus treniņšaušanā un šaušanas sporta sacensībās.\n(6) Latvijas pilsonim, Latvijas Republikā pastāvīgās uzturēšanās atļauju saņēmušam Eiropas Savienības dalībvalsts pilsonim un Eiropas Ekonomikas zonas valsts pilsonim, kurš sasniedzis 21 gada vecumu (ja uz viņu neattiecas šā likuma 20.pantā minētie ierobežojumi), ir tiesības iegādāties vai saņemt kā personisku apbalvojuma ieroci, glabāt vai glabāt un nēsāt B kategorijas pusautomātiskos, atkārtotas darbības un viena šāviena īsstobra šaujamieročus, kuru kalibrs nav lielāks par 9 milimetriem, un to munīciju un izmantot šos ieročus treniņšaušanā un šaušanas sporta sacensībās, kā arī pielietot pašaizsardzībai."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "20",
+      "title": "Ieroču un munīcijas iegādāšanās, glabāšanas un nēsāšanas ierobežojumi fiziskajām personām",
+      "content": "Šaujamieroču vai lielas enerģijas pneimatisko ieroču iegādāšanās, glabāšanas vai nēsāšanas atļauju aizliegts izsniegt personai:\n1) kura sodīta par noziedzīga nodarījuma izdarīšanu, — pirms sodāmības dzēšanas vai noņemšanas;\n2) kurai diagnosticēti psihiski traucējumi;\n3) kurai diagnosticēta alkohola, narkotisko, psihotropo vai toksisko vielu atkarība;\n4) kura administratīvi sodīta par alkoholisko dzērienu, narkotisko vai citu apreibinošo vielu iespaidā izdarītiem pārkāpumiem, par atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai, no narkotisko vai citu apreibinošo vielu ietekmes pārbaudes, par sīko huligānismu vai par ļaunprātīgu nepakļaušanos policijas darbinieka, robežsarga vai zemessarga, kā arī karavīra likumīgajam rīkojumam vai prasībai, kad viņi izpilda sabiedriskās kārtības sargāšanas vai dienesta pienākumus, - agrāk par termiņu, pēc kura izbeigšanās persona atzīstama par administratīvi nesodītu;\n5) kura fizisku trūkumu dēļ nav spējīga lietot šaujamieroci vai lielas enerģijas pneimatisko ieroci;\n6) par kuru Valsts policijai ir pamatotas ziņas, ka tā ieroci var pielietot ļaunprātīgi, vai kura minējusi nepamatotus ieroča iegādāšanās iemeslus;\n7) par kuru Valsts policijai, prokuratūrai vai valsts drošības iestādēm ir ziņas, kas apliecina šīs personas piederību pie aizliegtiem militarizētiem vai bruņotiem grupējumiem, sabiedriskajām organizācijām (partijām) vai to apvienībām;\n8) kurai nav deklarēta (reģistrēta) dzīvesvieta;\n9) kura tiek saukta pie kriminālatbildības par noziedzīga nodarījuma izdarīšanu;\n10) kura atbrīvota no kriminālatbildības saskaņā ar Krimināllikuma 58.pantu , - agrāk par gadu pēc lēmuma stāšanās spēkā;\n11) kura nosacīti atbrīvota no kriminālatbildības saskaņā ar Krimināllikuma 58. 1 pantu , - agrāk par pārbaudes laika izbeigšanos;\n12) kura tiek turēta aizdomās par smaga vai sevišķi smaga nozieguma izdarīšanu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "21",
+      "title": "Ieroču un to munīcijas iegādāšanās, glabāšanas un nēsāšanas nosacījumi fiziskajām personām",
+      "content": "(1) Fiziskajai personai ir tiesības iegādāties, glabāt vai nēsāt šaujamieročus un to munīciju, kā arī lielas enerģijas pneimatiskos ieročus un to munīciju pašaizsardzības, medību vai sporta vajadzībām vai iegādāties kolekcijām un glabāt šos ieročus, ja ir saņemta Valsts policijas atļauja. Pirms šaujamieroča un lielas enerģijas pneimatiskā ieroča (izņemot medību ieroci) iegādāšanās, glabāšanas un nēsāšanas atļaujas saņemšanas personai jānokārto kvalifikācijas pārbaudījums par ieroču un munīcijas aprites kārtību un jāapliecina prasme rīkoties ar ieroci. Kvalifikācijas pārbaudījuma pieņemšanas kārtību, tā nokārtošanai nepieciešamo zināšanu apjomu, maksas apmēru par kvalifikācijas pārbaudījuma kārtošanu un iegūto līdzekļu izlietojumu nosaka Ministru kabinets.\n(2) Fiziskajai personai bez ieroču kolekcijas atļaujas saņemšanas ir tiesības iegādāties vai glabāt ne vairāk kā 10 šaujamieročus un lielas enerģijas pneimatiskos ieročus.\n(3) Fiziskajai personai ir tiesības vienlaikus iegādāties vai glabāt ne vairāk par 500 viena kalibra pašaizsardzības šaujamieroča patronām. Sporta un medību ieročiem atļauto patronu skaits nav ierobežots.\n(4) Fiziskajai personai ir tiesības vienlaikus nēsāt ne vairāk par diviem šaujamieročiem.\n(5) Fiziskajai personai ar Valsts policijas atļauju ir tiesības sporta šaujamieročus un lielas enerģijas pneimatiskos ieročus glabāt sporta organizāciju ieroču glabātavās."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "22",
+      "title": "Fizisko personu tiesības realizēt ieročus un to munīciju",
+      "content": "(1) Ja ir saņemta Valsts policijas atļauja, fiziskā persona savu reģistrēto šaujamieroci vai lielas enerģijas pneimatisko ieroci var realizēt, bet tikai ar ieroču tirdzniecības komersanta starpniecību vai pārreģistrējot ieroci Valsts policijā citai personai, kurai ir attiecīgā Valsts policijas atļauja.\n(2) Fiziskajai personai ir tiesības bez ieroču tirdzniecības komersanta starpniecības realizēt savā īpašumā esošo pašaizsardzības, sporta vai medību šaujamieroča munīciju citām fiziskajām personām, kurām ir attiecīgo šaujamieroču glabāšanas vai nēsāšanas atļauja, ja realizējamās munīcijas daudzums nepārsniedz 500 patronu.\n(3) Kārtību, kādā Valsts policija izsniedz fiziskajām personām šaujamieroču un lielas enerģijas pneimatisko ieroču realizācijas atļaujas, un atļaujas paraugu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "23",
+      "title": "Juridiskās personas, kurām ir tiesības iegādāties, glabāt un pārvadāt ieročus un to munīciju",
+      "content": "Tiesības iegādāties, glabāt un pārvadāt šaujamieročus un to munīciju, kā arī lielas enerģijas pneimatiskos ieročus un to munīciju ir šādām juridiskajām personām:\n1) juridiskajām personām, kurām šīs tiesības piešķirtas saskaņā ar likumu;\n2) valsts vai pašvaldību dibinātajām izglītības iestādēm, kurās paredzētas nodarbības ar šaušanu saistītos sporta veidos, jaunsargu vai militārās apmācības programmas, ja saņemta Valsts policijas atļauja;\n3) Latvijas Republikas sporta federācijām, kas nodarbojas ar sporta veidiem, kuri saistīti ar šaušanu (turpmāk — sporta federācijas) un to kolektīvajiem biedriem, ja saņemta Valsts policijas atļauja;\n4) juridiskajām personām, kuras saņēmušas atļauju izveidot 2. un 3.kategorijas šautuves (šaušanas stendus), ja saņemta Valsts policijas atļauja."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "24",
+      "title": "Ieroču un to munīcijas iegādāšanās, glabāšanas un pārvadāšanas nosacījumi juridiskajām personām",
+      "content": "(1) Juridiskajām personām ir tiesības iegādāties, glabāt un pārvadāt B, C un D kategorijas šaujamieročus un to munīciju, kā arī lielas enerģijas pneimatiskos ieročus un to munīciju, ja ir saņemta Valsts policijas atļauja. Juridiskajām personām ir tiesības iegādāties bez Valsts policijas atļaujas munīciju atbilstoši savā īpašumā esošajiem ieročiem.\n(2) Lidostu drošības dienestiem un Latvijas Republikā reģistrētām bankām vai banku filiālēm, kuras glabā vai pārvadā skaidru naudu vai citas vērtības un kurām ir Latvijas Bankas atļauja, ir tiesības iegādāties un glabāt automātiskos šaujamieročus un to munīciju, kā arī izsniegt šos ieročus dienesta lietošanai bankas drošības vai apsardzes dienesta darbiniekiem, ja ir saņemta Valsts policijas atļauja.\n(3) Juridiskajām personām ir tiesības atļaujā norādītos šaujamieročus un to munīciju izsniegt saviem darbiniekiem darba pienākumu pildīšanai, ja šiem darbiniekiem ir dienesta šaujamieroča nēsāšanas atļauja.\n(4) Sporta federācijām un to kolektīvajiem biedriem ir tiesības Valsts policijā reģistrētos šaujamieročus un to munīciju izmantot sportistu treniņšaušanas nodarbībās un šaušanas sporta sacensībās sertificēta trenera vai instruktora uzraudzībā.\n(5) Sporta federācijām un to kolektīvajiem biedriem pēc saskaņošanas ar Valsts policiju ir tiesības pieņemt glabāšanai sportistu personiskos šaujamieročus un lielas enerģijas pneimatiskos ieročus.\n(6) Juridiskajām personām ir tiesības dzīvnieku īslaicīgai iemidzināšanai, paralizēšanai vai nogalināšanai paredzētos ieročus un to munīciju izsniegt saviem darbiniekiem darba pienākumu pildīšanai.\n(7) Juridiskajām personām ir tiesības pēc saskaņošanas ar Valsts policiju noteikt fiziskajām personām ieroču un speciālo līdzekļu nēsāšanas ierobežojumus savās telpās, teritorijā vai publisku pasākumu rīkošanas vietās."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "25",
+      "title": "Juridisko personu tiesības realizēt ieročus un to munīciju",
+      "content": "(1) Juridiskās personas īpašumā esošos šaujamieročus, to munīciju vai lielas enerģijas pneimatiskos ieročus realizē tikai tad, ja ir saņemta Valsts policijas atļauja, ar ieroču tirdzniecības komersantu starpniecību vai Valsts policijā pārreģistrējot ieročus citai juridiskajai vai fiziskajai personai, kurai ir attiecīgā Valsts policijas atļauja.\n(2) Kārtību, kādā Valsts policija izsniedz juridiskajām personām šaujamieroču un lielas enerģijas pneimatisko ieroču realizācijas atļaujas, un atļaujas paraugu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "26",
+      "title": "Personiskie apbalvojuma ieroči",
+      "content": "(1) Par īpašiem nopelniem Latvijas Republikas labā Valsts prezidentam un Ministru prezidentam ir tiesības piešķirt personai personisko apbalvojuma ieroci, ievērojot šā likuma 19.panta nosacījumus.\n(2) Par priekšzīmīgu dienesta vai darba pienākumu veikšanu aizsardzības ministram, iekšlietu ministram, tieslietu ministram un Satversmes aizsardzības biroja direktoram ir tiesības apbalvot darbiniekus ar personiskajiem apbalvojuma ieročiem, ievērojot šā likuma 19.panta nosacījumus.\n(3) Par personiskajiem apbalvojuma ieročiem var būt B, C un D kategorijas šaujamieroči, lielas enerģijas pneimatiskie ieroči un aukstie ieroči (zobeni un dunči).\n(4) Personiskos apbalvojuma šaujamieročus un lielas enerģijas pneimatiskos ieročus apbalvotā persona triju darbdienu laikā no apbalvošanas dienas reģistrē Valsts policijā.\n(5) Personiskā apbalvojuma šaujamieroča vai lielas enerģijas pneimatiskā ieroča īpašniekam Valsts policija izsniedz beztermiņa glabāšanas vai nēsāšanas atļauju.\n(6) Apbalvošanai paredzēto šaujamieroču un lielas enerģijas pneimatisko ieroču iegādāšanās kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "27",
+      "title": "Ieroču mantošana un dāvināšana",
+      "content": "(1) Personu īpašumā esošos šaujamieročus, to munīciju vai lielas enerģijas pneimatiskos ieročus manto vai dāvina saskaņā ar Civillikumu un šo likumu.\n(2) Personu īpašumā esošos šaujamieročus, to munīciju vai lielas enerģijas pneimatiskos ieročus var saņemt mantojumā vai dāvinājumā tikai persona, kurai ir attiecīgo ieroču iegādāšanās atļauja. Mantotos vai dāvinātos šaujamieročus vai lielas enerģijas pneimatiskos ieročus triju darbdienu laikā no mantojuma vai dāvinājuma saņemšanas dienas pārreģistrē Valsts policijā.\n(3) Personiskos apbalvojuma ieročus var saņemt mantojumā, bet ne dāvinājumā.\n(4) Personiskā apbalvojuma ieroča mantiniekam ir tiesības:\n1) pārreģistrēt uz sava vārda attiecīgo šaujamieroci vai lielas enerģijas pneimatisko ieroci;\n2) Valsts policijā padarīt ieroci neatgriezeniski nederīgu lietošanai un glabāt to piemiņai;\n3) nodot ieroci Valsts policijai vai, pēc tam kad ierocis padarīts neatgriezeniski nederīgs lietošanai, nodot to muzejam, ja ierocis ir pārreģistrēts Valsts policijā.\n(5) Šaujamieroču, to munīcijas vai lielas enerģijas pneimatisko ieroču īpašnieka nāves vai bezvēsts prombūtnes gadījumā ieročus un munīciju 10 darbdienu laikā nodod Valsts policijā glabāšanai uz laiku, līdz stājas spēkā tiesas spriedums par mantojuma tiesībām.\n(6) Ja šaujamieroču, to munīcijas vai lielas enerģijas pneimatisko ieroču mantinieks nevar vai nevēlas saņemt attiecīgo ieroču iegādāšanās atļauju, ieročus un to munīciju realizē ar ieroču tirdzniecības komersanta starpniecību mantinieka labā, nodod Valsts policijā vai pēc mantinieka iesnieguma pārreģistrē citai personai, kura ir saņēmusi ieroča iegādāšanās atļauju."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Ieroču, speciālo līdzekļu iegādāšanās, reģistrācija, uzskaite, glabāšana, nēsāšana, pārvadāšana, pārsūtīšana un realizēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "28",
+      "title": "Ieroču, to munīcijas un speciālo līdzekļu iegādāšanās, reģistrēšanas, uzskaites, realizēšanas, glabāšanas, pārvadāšanas, pārsūtīšanas vai nēsāšanas kārtība",
+      "content": "(1) Kārtību, kādā fiziskās un juridiskās personas iegādājas, reģistrē, uzskaita, realizē, glabā, pārvadā, pārsūta vai nēsā šaujamieročus un to munīciju, kā arī lielas enerģijas pneimatiskos ieročus un to munīciju, iegādājas, glabā, nēsā un realizē gāzes pistoles (revolverus) pašaizsardzības, medību, sporta vajadzībām, darba vai dienesta pienākumu pildīšanai, kā arī ieročus iegādājas un glabā kolekcijām, nosaka Ministru kabinets.\n(2) Iekšlietu ministrijas sistēmas iestāžu, valsts drošības iestāžu, Nacionālo bruņoto spēku, Latvijas Bankas Aizsardzības pārvaldes, prokuratūras, Valsts ieņēmumu dienesta, Ieslodzījuma vietu pārvaldes, Korupcijas novēršanas un apkarošanas biroja un pašvaldības policijas īpašumā (valdījumā) esošo ieroču un speciālo līdzekļu glabāšanas, nēsāšanas un pielietošanas kārtību nosaka šo institūciju darbību reglamentējošie normatīvie akti, bet kārtību, kādā minētās institūcijas iegādājas un realizē ieročus un speciālos līdzekļus, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Šaujamieroču, speciālo līdzekļu pielietošanas un izmantošanas nosacījumi un kārtība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "29",
+      "title": "Šaujamieroču un speciālo līdzekļu pielietošanas un izmantošanas nosacījumi",
+      "content": "(1) Šaujamieroča vai gāzes pistoles (revolvera) pielietošana ir tēmēts šāviens (izņemot sporta šaušanu, medību šaušanu vai treniņšaušanu) vai šāviens, kas izraisa cilvēka nāvi, nodara kaitējumu cilvēka veselībai vai zaudējumu mantai vai padara nekaitīgu dzīvnieku.\n(2) Gāzes baloniņu pielieto pašaizsardzībai, lai ar gāzes palīdzību iedarbotos uz cilvēka vai dzīvnieka organismu.\n(3) Elektrošoka ierīci pielieto, lai ar augstsprieguma elektriskā lādiņa palīdzību iedarbotos uz cilvēka vai dzīvnieka organismu.\n(4) Persona drīkst pielietot šaujamieroci vai gāzes pistoli (revolveri) galējas nepieciešamības situācijā, lai:\n1) aizsargātu sevi vai citas personas no uzbrukuma, kas reāli apdraud dzīvību vai veselību vai var nodarīt būtiskus materiālos zaudējumus;\n2) novērstu nelikumīgu mēģinājumu vardarbīgi atņemt šaujamieroci;\n3) aizturētu personu, kas pārsteigta nozieguma izdarīšanas brīdī un izrāda pretošanos;\n4) padarītu nekaitīgu dzīvnieku, kas apdraud cilvēka dzīvību, veselību vai mantu.\n(5) Šaujamieroci vai gāzes pistoli (revolveri) drīkst izmantot, lai izsauktu palīdzību, brīdinātu par ieroča pielietošanu vai aizbaidītu dzīvniekus.\n(6) Pielietojot šaujamieroci vai speciālo līdzekli, nedrīkst pārkāpt nepieciešamās aizstāvēšanās robežas."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Šaujamieroču, speciālo līdzekļu pielietošanas un izmantošanas nosacījumi un kārtība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "30",
+      "title": "Šaujamieroču un gāzes pistoļu (revolveru) izmantošanas un pielietošanas kārtība",
+      "content": "(1) Pirms šaujamieroča vai gāzes pistoles (revolvera) pielietošanas brīdina par nodomu to pielietot vai no šaujamieroča izdara brīdinājuma šāvienu.\n(2) Bez brīdinājuma šaujamieroci vai gāzes pistoli (revolveri) pielieto, ja:\n1) uzbrukums ir pēkšņs;\n2) uzbrukumā pielieto ieročus vai priekšmetus, ar kuriem tiek apdraudēta personas dzīvība vai veselība, vai izmanto mehāniskos transportlīdzekļus;\n3) aizturamā persona pretojas, pielietojot ieročus vai priekšmetus, ar kuriem tiek apdraudēta citas personas dzīvība vai veselība.\n(3) Šaujamieroča vai gāzes pistoles (revolvera) pielietošanas gadījumā persona, kura to pielieto, dara visu iespējamo, lai mazinātu kaitējumu un garantētu citu personu drošību.\n(4) Par katru šaujamieroča pielietošanas gadījumu persona, kura to pielietojusi, nekavējoties ziņo Valsts policijai. Šī persona saglabā notikuma vietas apstākļus un paliek notikuma vietā, bet, ja ir cietušie, sniedz viņiem pirmo medicīnisko palīdzību un nodrošina neatliekamās medicīniskās palīdzības sniegšanu.\n(5) Aizliegts pielietot un izmantot šaujamieročus vai gāzes pistoles (revolverus), ja to pielietošanas vai izmantošanas dēļ var ciest citas personas, pret kurām ierocis vai speciālais līdzeklis nav vērsts."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "V nodaļa Šaujamieroču, speciālo līdzekļu pielietošanas un izmantošanas nosacījumi un kārtība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "31",
+      "title": "Pirotehnisko izstrādājumu izmantošana",
+      "content": "(Izslēgts ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )"
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Ārvalstu pilsoņu, diplomātisko un konsulāro pārstāvniecību un ārvalstu bruņoto spēku īpašumā esošie ieroči",
+      "section": "32",
+      "title": "Ārvalstu pilsoņu tiesības Latvijas Republikā iegādāties, glabāt, nēsāt, pārvadāt un izmantot šaujamieročus un lielas enerģijas pneimatiskos ieročus",
+      "content": "(1) Eiropas Savienības dalībvalstu pilsoņiem un Eiropas Ekonomikas zonas valstu pilsoņiem, ja viņiem ir savas valsts kompetentas iestādes izsniegta atļauja, kas dod tiesības iegādāties ieroci un munīciju Eiropas Savienības dalībvalstīs vai Eiropas Ekonomikas zonas valstīs, Valsts policija izsniedz ieroča iegādāšanās atļauju, un šo valstu pilsoņiem ir tiesības iegādāties pie ieroču tirdzniecības komersantiem, pārvadāt, saņemt mantojumā vai dāvinājumā B, C un D kategorijas sporta un medību šaujamieročus un to munīciju, kā arī lielas enerģijas pneimatiskos ieročus un to munīciju.\n(2) Triju darbdienu laikā pēc šaujamieroča iegādes Eiropas Savienības dalībvalsts pilsonis, Eiropas Ekonomikas zonas valsts pilsonis Valsts policijā aizpilda paziņojumu par iegādāto ieroci. Valsts policija šo paziņojumu nosūta attiecīgās valsts kompetentai iestādei.\n(3) Eiropas Savienības dalībvalstu pilsoņi un Eiropas Ekonomikas zonas valstu pilsoņi, ja viņiem ir Eiropas šaujamieroču apliecība un pamatojums (ielūgums) iebraukšanai Latvijas Republikā vai tās šķērsošanai tranzītā, līdzi vedot Eiropas šaujamieroču apliecībā norādīto šaujamieroci vai lielas enerģijas pneimatisko ieroci un to munīciju, ir tiesīgi piedalīties ar šiem ieročiem medībās, treniņšaušanā vai šaušanas sporta sacensībās un iegādāties ierocim atbilstošu munīciju, kā arī pārvietot ieročus un to munīciju tranzītā, ja Valsts policija ir izdarījusi attiecīgu atzīmi Eiropas šaujamieroču apliecībā.\n(4) Ja saskaņā ar pamatojumu (ielūgumu) Eiropas Savienības dalībvalsts pilsonim vai Eiropas Ekonomikas zonas valsts pilsonim uzturēšanās Latvijas Republikā ar šaujamieroci vai lielas enerģijas pneimatisko ieroci un to munīciju paredzēta uz laiku, ilgāku par trim mēnešiem, viņam Valsts policijai jāiesniedz Eiropas šaujamieroču apliecība attiecīgas atzīmes izdarīšanai un jāiesniedz savas valsts kompetentas iestādes izsniegta ieroča izvešanas — ievešanas atļauja.\n(5) Eiropas Savienības dalībvalsts pilsonis un Eiropas Ekonomikas zonas valsts pilsonis var pastāvīgi glabāt savu šaujamieroci vai lielas enerģijas pneimatisko ieroci Latvijas Republikā, ja viņam Valsts policija ir izsniegusi ieroča glabāšanas atļauju.\n(6) Eiropas Savienības dalībvalsts pilsonis vai Eiropas Ekonomikas zonas valsts pilsonis, kas pārceļas uz pastāvīgu dzīvi Latvijas Republikā, līdzi ņemot attiecīgajā valstī reģistrētu šaujamieroci vai lielas enerģijas pneimatisko ieroci, iesniedz Valsts policijai Eiropas šaujamieroču apliecību un savas valsts kompetentas iestādes izsniegtu ieroča izvešanas — ievešanas atļauju (ieroču importa — eksporta licenci) un Valsts policijā saņem jaunu Eiropas šaujamieroču apliecību, kā arī ieroča glabāšanas atļauju.\n(7) Citu ārvalstu pilsoņi, ja viņiem ir savas valsts kompetentas iestādes izsniegta atļauja, kas dod tiesības iegādāties ieroci un tā munīciju ārvalstīs, var saņemt Valsts policijā ieroča iegādāšanās atļauju un (pēc ieroča vai tā munīcijas iegādāšanās) atļauju šā ieroča un tā munīcijas izvešanai no Latvijas Republikas. Ieroča iegādāšanās atļauja dod tiesības iegādāties pie ieroču tirdzniecības komersantiem, pārvadāt, saņemt mantojumā vai dāvinājumā B, C un D kategorijas sporta un medību šaujamieročus un to munīciju, kā arī lielas enerģijas pneimatiskos ieročus un to munīciju.\n(8) Valsts policija par katru gadījumu, kad ārvalsts pilsonis iegādājies šaujamieroci, paziņo attiecīgajai ārvalsts iestādei, kas izsniegusi atļauju, vai ārvalsts norādītajai kompetentai iestādei.\n(9) Ārvalstu pilsoņi, ja viņiem ir savas valsts kompetentas iestādes izsniegta šaujamieroču glabāšanas (nēsāšanas) atļauja un atļauja šaujamieroča izvešanai no valsts, kurā tas reģistrēts, kā arī pamatojums (ielūgums) iebraukšanai Latvijas Republikā vai tās šķērsošanai tranzītā ar Latvijas Republikā apritē atļautu šaujamieroci vai lielas enerģijas pneimatisko ieroci un to munīciju, pēc Valsts policijas atļaujas saņemšanas ir tiesīgi piedalīties ar šiem ieročiem medībās, treniņšaušanā vai šaušanas sporta sacensībās, kā arī pārvietot ieročus un to munīciju tranzītā.\n(10) Ārvalstu pilsoņiem (izņemot Eiropas Savienības dalībvalstu pilsoņus un Eiropas Ekonomikas zonas valstu pilsoņus, uz kuriem neattiecas šā likuma 20.pantā minētie ierobežojumi) aizliegts Latvijas Republikā glabāt šaujamieroču kolekcijas un realizēt ārvalstīs reģistrētus ieročus.\n(11) Ārvalstu pilsoņiem ir aizliegts ārvalstīs realizēt Latvijas Republikā reģistrētus ieročus. Minētais aizliegums neattiecas uz Eiropas Savienības dalībvalstu pilsoņiem un Eiropas Ekonomikas zonas valstu pilsoņiem, ja viņi ir saņēmuši Valsts policijas atļauju Latvijas Republikā reģistrēta ieroča realizēšanai Eiropas Savienības dalībvalstīs vai Eiropas Ekonomikas zonas valstīs.\n(12) Valsts policija šajā pantā paredzētās atļaujas ārvalstu pilsoņiem izsniedz un attiecīgu atzīmi Eiropas šaujamieroču apliecībā izdara Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Ārvalstu pilsoņu, diplomātisko un konsulāro pārstāvniecību un ārvalstu bruņoto spēku īpašumā esošie ieroči",
+      "section": "33",
+      "title": "Ārvalstu diplomātisko personu, diplomātisko un konsulāro pārstāvniecību apsardzes dienestu un ārvalstu bruņoto spēku īpašumā esošie ieroči",
+      "content": "(1) Ārvalstu diplomātisko un konsulāro pārstāvniecību darbinieki, kas akreditēti Latvijas Republikā, pēc saskaņošanas ar Ārlietu ministriju un Valsts policijas atļaujas saņemšanas var iegādāties, glabāt vai nēsāt un pielietot dienesta uzdevumu veikšanai saskaņā ar šā likuma V nodaļu B kategorijas pusautomātiskos, atkārtotas darbības vai viena šāviena īsstobra šaujamieročus, kuru kalibrs nav lielāks par 9 milimetriem.\n(2) Ārvalstu diplomātisko un konsulāro pārstāvniecību darbinieki, kas akreditēti Latvijas Republikā, pēc šaujamieroču ievešanas (izvešanas) atļaujas saņemšanas Valsts policijā drīkst ievest Latvijas Republikā vai izvest no tās šaujamieročus un to munīciju. Ievestos šaujamieročus triju darbdienu laikā no ievešanas dienas reģistrē Valsts policijā.\n(3) Ārvalstu diplomātisko un konsulāro pārstāvniecību, augstu ārvalsts amatpersonu vai starptautisko organizāciju amatpersonu apsardzes vai drošības dienesta personālam pēc saskaņošanas ar Ārlietu ministriju un Valsts policijas atļaujas saņemšanas atļauts Latvijas Republikā dienesta uzdevumu veikšanas laikā un vietā nēsāt B kategorijas pusautomātiskos, atkārtotas darbības vai viena šāviena īsstobra šaujamieročus saskaņā ar attiecīgās valsts likumiem un pielietot tos saskaņā ar šā likuma V nodaļu .\n(4) Augstu ārvalsts amatpersonu vai starptautisko organizāciju amatpersonu vizītes laikā Valsts policija var atļaut ārvalstu drošības dienestu darbiniekiem ievest Latvijas Republikā un nēsāt automātiskos šaujamieročus un to munīciju. Par šādu atļauju Ārlietu ministrija informē attiecīgās valsts diplomātisko pārstāvniecību vai attiecīgo starptautisko organizāciju.\n(5) Ārvalstu bruņoto spēku personām laikā, kad tās uzturas Latvijas Republikā, ir tiesības nēsāt un pielietot šaujamieročus vienīgi dienesta uzdevumu veikšanai."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VII nodaļa Ieroču un munīcijas kolekcijas",
+      "section": "34",
+      "title": "Vispārīgie noteikumi",
+      "content": "(1) Veidot ieroču vai munīcijas kolekcijas (izņemot Latvijas Republikā aizliegtos ieročus, bet ieskaitot tādus ieročus, uz kuriem šis likums neattiecas) ir tiesīgas valsts institūcijas, pašvaldību muzeji vai Latvijas Republikas Komercreģistrā reģistrēti privātie muzeji, kā arī Latvijas pilsoņi, Eiropas Savienības dalībvalstu pilsoņi un Eiropas Ekonomikas zonas valstu pilsoņi, kas sasnieguši 21 gada vecumu, ja uz minētajiem pilsoņiem, juridisko personu vadītājiem un darbiniekiem, kas tieši saistīti ar ieroču un munīcijas glabāšanu vai apsardzi, neattiecas šā likuma 20.pantā (izņemot 5.punktu) noteiktie ierobežojumi. Šā panta noteikumi neattiecas uz ieroču un munīcijas izstādēm un preču paraugiem.\n(2) Kolekcijai izmanto lietošanai derīgus ieročus, ieroču kopijas, kā arī ieročus, kas padarīti neatgriezeniski nederīgi lietošanai vai nav remontējami.\n(3) Lietošanai derīgos kolekcijas ieročus fiziskās un juridiskās personas reģistrē Valsts policijā.\n(4) Atļauju fizisko un juridisko personu ieroču kolekciju glabāšanai izsniedz Valsts policija.\n(5) Kolekcijas pārvadāšanai, pārnēsāšanai vai izstādīšanai ārpus atļaujā norādītās glabāšanas vietas ir nepieciešama Valsts policijas atļauja.\n(6) Lai kolekcijai iegādātos ieročus vai munīciju, uz ko attiecas šis likums, nepieciešama ieroču vai munīcijas iegādāšanās atļauja.\n(7) Ja fiziskās personas īpašumā esošo šaujamieroču un lielas enerģijas pneimatisko ieroču kopējais skaits ir lielāks par 10, tai nepieciešama ieroču kolekcijas atļauja.\n(8) Valsts policija anulē ieroču vai munīcijas kolekcijas atļauju, ja:\n1) pārkāpta ieroču un munīcijas aprites kārtība, — uz laiku no viena gada līdz trim gadiem;\n2) nav ievēroti šā likuma 20.pantā (izņemot 5.punktu) noteiktie ierobežojumi;\n3) tiek likvidēts attiecīgās valsts institūcijas, pašvaldības vai privātais muzejs.\n(9) Ieroču vai munīcijas kolekcijas glabāšanas noteikumus un atļaujas saņemšanas, reģistrēšanas un anulēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VII nodaļa Ieroču un munīcijas kolekcijas",
+      "section": "35",
+      "title": "Valsts nozīmes ieroču un munīcijas kolekcijas",
+      "content": "(1) Valsts policija Ministru kabineta noteiktajā kārtībā dienesta lietošanai veido:\n1) ieroču kolekciju salīdzinošās izpētes vajadzībām, kurā ir ieroči, kas iegādāti vai dāvināti, konfiscēti vai atsavināti, ieskaitot pašizgatavotus, nelikumīgi pārveidotus vai aizliegtos ieročus;\n2) to Latvijas Republikā reģistrēto vītņstobra šaujamieroču (izņemot Nacionālo bruņoto spēku šaujamieročus) ložu un čaulu kontrolkolekciju, kuru kalibrs nav lielāks par 12,7 milimetriem (0,5 collām);\n3) Latvijas Republikā klasificēto šaujamieroču un munīcijas (izņemot Nacionālo bruņoto spēku šaujamieročus un munīciju) paraugu kolekciju.\n(2) Aizsardzības ministrija sadarbībā ar Valsts policiju veido ieroču, munīcijas, sprāgstvielu un spridzināšanas ietaišu paraugu kolekciju."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VIII nodaļa Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komerciālā aprite (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "36",
+      "title": "Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komerciālās aprites noteikumi",
+      "content": "(1) Lai nodarbotos ar ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu, atsevišķu šo priekšmetu sastāvdaļu vai palīgierīču ražošanu (izgatavošanu), kā arī ieroču vai speciālo līdzekļu (izņemot pašaizsardzībai paredzētos gāzes baloniņus) remontu, šo priekšmetu komercizstāžu rīkošanu, to realizēšanu vairumtirdzniecībā vai mazumtirdzniecībā, eksportu, importu vai tranzītu vai sniegtu pakalpojumus saistībā ar minētajiem priekšmetiem, komersantam ir nepieciešama speciālā atļauja (licence) atsevišķiem komercdarbības veidiem.\n(2) Speciālās atļaujas (licences) ir tiesīgi saņemt individuālie komersanti vai komercsabiedrības, kuru dalībnieki, vadītāji un personas, kas ieņem amatus pārvaldes institūcijās, ir vismaz 21 gada vecumu sasnieguši Latvijas pilsoņi vai Eiropas Savienības dalībvalstu pilsoņi, vai Eiropas Ekonomikas zonas valstu pilsoņi, ja uz viņiem neattiecas šā likuma 20.pantā noteiktie ierobežojumi (izņemot 20.panta 5.punktā minētos ierobežojumus), un kuru darbinieki, kas tieši saistīti ar šā panta pirmajā daļā minēto priekšmetu ražošanu (izgatavošanu), remontu, realizēšanu, glabāšanu, transportēšanu, ar tiem saistīto pakalpojumu sniegšanu vai apsardzi, ir vismaz 21 gada vecumu sasnieguši Latvijas pilsoņi vai Eiropas Savienības dalībvalstu pilsoņi, vai Eiropas Ekonomikas zonas valstu pilsoņi (ja uz viņiem neattiecas šā likuma 20.pantā noteiktie ierobežojumi), un ja valsts drošības iestāžu rīcībā nav ziņu par to, ka attiecīgā komersanta darbība ir vērsta pret Latvijas Republikas drošību vai šis komersants pārkāpj starptautiskajos līgumos ietvertos vai starptautisko organizāciju noteiktos ierobežojumus.\n(3) Speciālās atļaujas (licences) pēc valsts nodevas samaksāšanas izsniedz uz nenoteiktu laiku.\n(4) Valsts pārvaldes iestāde, kas izsniegusi speciālo atļauju (licenci), ir tiesīga to apturēt uz laiku līdz 60 dienām, ja:\n1) ir pamats uzskatīt, ka komersanta darbība apdraud valsts drošību, stabilitāti, starptautisko saistību izpildi, sabiedrisko kārtību, vidi, personas dzīvību, veselību vai mantu, — lai veiktu pārbaudi un saņemtu kompetentu institūciju atzinumus;\n2) komersants ir pārkāpis ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komerciālās aprites noteikumu vai citu normatīvo aktu prasības, — lai novērstu pārkāpumu.\n(4 1 ) Valsts pārvaldes iestāde, kas izsniegusi speciālo atļauju (licenci), ir tiesīga to anulēt, ja:\n1) komersants neatbilst šā panta otrajā daļā noteiktajām prasībām;\n2) komersants nav izpildījis nodokļu saistības;\n3) komersants speciālās atļaujas (licences) saņemšanai apzināti sniedzis nepatiesas ziņas;\n4) komersants nav novērsis šā panta ceturtās daļas 2.punktā minēto pārkāpumu;\n5) komersantu likvidē vai tā darbību aptur uz laiku, ilgāku par 60 dienām;\n6) ir atklājušies fakti par to, ka komersanta darbība apdraud valsts drošību, stabilitāti, starptautisko saistību izpildi, sabiedrisko kārtību, vidi, personas dzīvību, veselību vai mantu.\n(5) Lēmumu par atteikumu izsniegt speciālo atļauju (licenci) vai par tās darbības apturēšanu vai anulēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma par speciālās atļaujas (licences) darbības apturēšanu vai anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību un izpildi.\n(6) Speciālās atļaujas (licences) izsniegšanas un speciālās atļaujas (licences) anulēšanas un darbības apturēšanas kārtību, valsts nodevas apmēru par speciālās atļaujas (licences) izsniegšanu, kā arī kārtību, kādā komersanti veic šā panta pirmajā daļā minētās darbības, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VIII nodaļa Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komerciālā aprite (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "37",
+      "title": "Speciālās atļaujas (licences)",
+      "content": "(1) Iekšlietu ministrija izsniedz šā likuma 36.pantā minētās speciālās atļaujas (licences), kas dod tiesības ražot (izgatavot), remontēt, eksponēt izstādēs, realizēt, eksportēt, importēt vai pārvadāt tranzītā:\n1) A kategorijas ieročus un munīciju to juridisko personu vajadzībām (importam vai remontam), kurām šajā likumā paredzētas tiesības iegādāties noteiktus A kategorijas šaujamieročus un munīciju;\n2) B, C un D kategorijas sporta un gludstobra medību šaujamieročus;\n3) B un C kategorijas vītņstobra sporta vai medību šaujamieročus, kuru kalibrs nav lielāks par 12,7 milimetriem (0,5 collām);\n4) pašaizsardzībai paredzētos B kategorijas īsstobra šaujamieročus, kuru kalibrs nav lielāks par 9 milimetriem;\n5) pneimatiskos ieročus;\n6) aukstos ieročus;\n7) speciālos līdzekļus;\n8) (izslēgts ar 23.09.2010 . likumu) ;\n9) B, C un D kategorijas sporta, medību vai pašaizsardzībai paredzēto šaujamieroču, pneimatisko ieroču vai gāzes pistoļu (revolveru) munīciju (izņemot tās remontu), to sastāvdaļas un palīgierīces;\n10) sprāgstvielas (ieskaitot šaujampulveri) vai spridzināšanas ietaises (izņemot to remontu).\n(2) Aizsardzības ministrija izsniedz šā likuma 36.pantā minētās speciālās atļaujas (licences):\n1) militāro ieroču (ieskaitot to sastāvdaļas un palīgierīces), to munīcijas, militāro sprāgstvielu, spridzināšanas ietaišu, propelentu, gāzes granātu un tādas munīcijas, kura pildīta ar kairinošas vai paralizējošas iedarbības vielām un nav paredzēta gāzes pistolēm (revolveriem), kā arī psiholoģiskas iedarbības gaismas un skaņas ierīču un Stratēģiskas nozīmes preču saraksta sadaļā \"Ieroču, munīcijas un bruņojuma saraksts\" minēto preču importam — Nacionālo bruņoto spēku un Iekšlietu ministrijas sistēmas iestāžu vajadzībām — un šo priekšmetu eksportam un tranzītam;\n2) militāro ieroču (ieskaitot to sastāvdaļas un palīgierīces), to munīcijas, militāro sprāgstvielu, spridzināšanas ietaišu, propelentu, gāzes granātu un tādas munīcijas ražošanai (izgatavošanai), kura pildīta ar kairinošas vai paralizējošas iedarbības vielām un nav paredzēta gāzes pistolēm (revolveriem), kā arī psiholoģiskas iedarbības gaismas un skaņas ierīču ražošanai (izgatavošanai);\n3) spridzināšanas darbu veikšanai — Nacionālo bruņoto spēku vajadzībām.\n(3) Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu ražošanas (izgatavošanas) kārtību, ieroču remonta kārtību un ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komercizstāžu rīkošanas kārtību nosaka Ministru kabinets.\n(4) Sprāgstvielu atbilstības novērtēšanu un marķējumu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VIII nodaļa Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komerciālā aprite (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "38",
+      "title": "Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu vairumtirdzniecības un mazumtirdzniecības, eksporta, importa un tranzīta kārtība",
+      "content": "(1) Komersantiem ir tiesības realizēt ieročus, speciālos līdzekļus, munīciju tikai speciāli iekārtotos veikalos vai no noliktavām, kuru adrese norādīta speciālajā atļaujā (licencē).\n(2) (Izslēgta ar 23.09.2010 . likumu)\n(3) Komersants par katra šaujamieroča vai lielas enerģijas pneimatiskā ieroča realizēšanu triju darbdienu laikā ziņo Valsts policijai un sniedz tai informāciju par pircēju un realizēto ieroci.\n(4) Komersantiem atļauta tikai tādu vītņstobra šaujamieroču realizācija, ar kuriem kontrolšāvieni Valsts policijā izdarīti ne agrāk kā pirms pieciem gadiem.\n(5) Katram eksporta, importa vai tranzīta darījumam ar vītņstobra šaujamieročiem, to munīciju, sastāvdaļām un palīgierīcēm, sprāgstvielām, spridzināšanas ietaisēm, propelentiem nepieciešama stratēģiskas nozīmes preču eksporta, importa vai tranzīta licence. Šīs licences izsniedz Stratēģiskas nozīmes preču kontroles komiteja.\n(6) Šā panta piektajā daļā minētās licences nav nepieciešamas valsts drošības iestādēm, Latvijas Bankas Aizsardzības pārvaldei, Valsts ieņēmumu dienestam, Korupcijas novēršanas un apkarošanas birojam, prokuratūrai, pašvaldības policijai, Nacionālajiem bruņotajiem spēkiem, Ieslodzījuma vietu pārvaldei un Iekšlietu ministrijas sistēmas iestādēm ieroču vai munīcijas importam, kas veikts bez komersantu starpniecības.\n(7) Komersanti Ministru kabineta noteiktajā kārtībā nodrošina bruņotu apsardzi šaujamieroču, munīcijas, lielas enerģijas pneimatisko ieroču, sprāgstvielu, spridzināšanas ietaišu pārvadājumiem Latvijas Republikas teritorijā.\n(8) Pārsūtot vītņstobra šaujamieročus pāri Latvijas Republikas robežai uz laiku — izstādēm, demonstrēšanai vai remontam, šaujamieroču tirdzniecības komersantiem nepieciešamas šā panta piektajā daļā minētās licences.\n(9) Ieroču un munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu realizēšanas kārtību nosaka Ministru kabinets.\n(10) Vītņstobra šaujamieroču un to munīcijas, sprāgstvielu un spridzināšanas ietaišu, kā arī šo priekšmetu sastāvdaļu eksporta, importa un tranzīta licenču izsniegšanas kārtību nosaka stratēģiskas nozīmes preču apriti reglamentējošie normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VIII nodaļa Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu komerciālā aprite (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "39",
+      "title": "Ieroču, munīcijas, speciālo līdzekļu, sprāgstvielu un spridzināšanas ietaišu ražošana (izgatavošana) un glabāšana, ieroču un speciālo līdzekļu remonts un spridzināšanas darbu veikšana",
+      "content": "(1) Komersanti ražo (izgatavo), remontē vai glabā ieročus vai speciālos līdzekļus, kā arī ražo (izgatavo) vai glabā munīciju, sprāgstvielas un spridzināšanas ietaises tikai vietā, kuras adrese norādīta attiecīgajā speciālajā atļaujā (licencē) vai kuras adresi norādījusi Iekšlietu ministrija, veicot šā panta trešajā daļā minēto reģistrāciju.\n(2) Apsardzes prasības un ieroču un speciālo līdzekļu ražošanas (izgatavošanas), remonta un glabāšanas, munīcijas, sprāgstvielu un propelentu ražošanas (izgatavošanas) un glabāšanas telpu konstrukciju un to izmantošanas tehniskos noteikumus, kā arī nepieciešamo atļauju saņemšanas kārtību nosaka Ministru kabinets.\n(3) Pirms rūpniecisko spridzināšanas darbu veikšanas un minēto darbu veikšanai paredzēto sprāgstvielu, spridzināšanas ietaišu vai to palīgierīču iegādes un glabāšanas (izņemot šā likuma 37.panta otrās daļas 2. un 3.punktā minēto komercdarbību) komersants reģistrējas Iekšlietu ministrijā. Komersantu reģistrē, ja uz tā dalībniekiem, vadītājiem un personām, kas ieņem amatus komersanta pārvaldes institūcijās, un darbiniekiem, kuri ir tieši saistīti ar šajā pantā minētajām darbībām, neattiecas šā likuma 20.panta 1., 2., 3., 4., 6., 7., 9., 10., 11. un 12.punktā noteiktie ierobežojumi.\n(4) Kārtību, kādā reģistrē komersantus, kuri vēlas veikt rūpnieciskos spridzināšanas darbus, glabāt minēto darbu veikšanai paredzētās sprāgstvielas, detonatorus vai to palīgierīces, kā arī spridzināšanas darbu veikšanas un minēto priekšmetu glabāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "IX nodaļa Šautuvju (šaušanas stendu) izveidošana, mācību šaušanas, treniņšaušanas un šaušanas sporta sacensību kārtība",
+      "section": "40",
+      "title": "Šautuvju (šaušanas stendu) kategorijas",
+      "content": "Šautuves (šaušanas stendus) atbilstoši izmantojamo ieroču veidam iedala šādās kategorijās:\n1) pirmās kategorijas šautuves, kurās atļauts izmantot aukstos ieročus (lokus, arbaletus, metamos nažus, cirvjus), mazas enerģijas pneimatiskos ieročus un to munīciju;\n2) otrās kategorijas šautuves, kurās atļauts izmantot lielas enerģijas pneimatiskos ieročus un to munīciju, B, C un D kategorijas šaujamieročus un to munīciju;\n3) trešās kategorijas šautuves, kurās atļauts izmantot A kategorijas automātiskos šaujamieročus un to munīciju, kā arī otrās kategorijas šautuvēm atļauto veidu ieročus un to munīciju."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "IX nodaļa Šautuvju (šaušanas stendu) izveidošana, mācību šaušanas, treniņšaušanas un šaušanas sporta sacensību kārtība",
+      "section": "41",
+      "title": "Šautuvju (šaušanas stendu) izveidošana",
+      "content": "(1) Fiziskajām un juridiskajām personām ir tiesības izveidot pirmās kategorijas šautuves (šaušanas stendus).\n(2) Fiziskajai personai ir tiesības izveidot pirmās kategorijas šautuves (šaušanas stendus) tikai tai piederošā vai tās valdījumā esošā nekustamajā īpašumā.\n(3) Otrās kategorijas šautuves (šaušanas stendus) ir tiesības izveidot fiziskajām un juridiskajām personām, kuras atbilst šā likuma 36.panta otrajā daļā minētajiem nosacījumiem un kuras ir saņēmušas Valsts policijas atļauju un attiecīgās pašvaldības licenci (atļauju). Valsts un pašvaldību institūcijām, kurām tiesības iegādāties, glabāt un izmantot ieročus piešķirtas saskaņā ar likumu, ir tiesības izveidot šautuves (šaušanas stendus) bez Valsts policijas atļaujas un pašvaldības licences (atļaujas).\n(4) Trešās kategorijas šautuves (šaušanas stendus) ir tiesības izveidot Nacionālajiem bruņotajiem spēkiem, Iekšlietu ministrijas sistēmas iestādēm un Ieslodzījuma vietu pārvaldei, kā arī juridiskajām personām, kurām ir Valsts policijas atļauja automātisko šaujamieroču glabāšanai.\n(5) Ministru kabinets nosaka šautuvju (šaušanas stendu) izveidošanas un izmantošanas kārtību, kā arī kārtību, kādā izsniedzama atļauja šautuvju (šaušanas stendu) darbībai, ieroču iegādei, glabāšanai un lietošanai šautuvē."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "IX nodaļa Šautuvju (šaušanas stendu) izveidošana, mācību šaušanas, treniņšaušanas un šaušanas sporta sacensību kārtība",
+      "section": "42",
+      "title": "Drošības prasības šautuvēs (šaušanas stendos)",
+      "content": "(1) Par treniņšaušanas nodarbību un šaušanas sporta sacensību drošības vispārējo noteikumu ievērošanu, kā arī par tehniskajiem un organizatoriskajiem pasākumiem dalībnieku, skatītāju un citu personu drošības garantēšanai treniņšaušanas vai mācību šaušanas nodarbību laikā ir atbildīgs šautuves (šaušanas stenda) īpašnieks. Par drošības noteikumu ievērošanu konkrēta šāvēja vai šāvēju grupas treniņos vai nodarbībās ir atbildīgs attiecīgās nodarbības treneris vai instruktors. Par konkrētām darbībām ar ieroci treniņos un sacensībās ir atbildīgs ieroča lietotājs.\n(2) Šaušanas sporta sacensību laikā par dalībnieku, skatītāju vai citu personu drošību, kā arī par medicīniskās palīdzības nodrošināšanu ir atbildīgs sacensību organizētājs un sertificēts sacensību galvenais tiesnesis.\n(3) Aizliegts piedalīties treniņšaušanā, kā arī uzturēties šautuvē (šaušanas stendā) personām, kuras ir alkohola, narkotisko, psihotropo vai toksisko vielu iespaidā.\n(4) Treniņšaušana otrās un trešās kategorijas šautuvēs (šaušanas stendos) notiek tikai sertificēta instruktora vai trenera uzraudzībā.\n(5) Šautuvēs (šaušanas stendos) tiek noteikts šāds treniņšaušanas, mācību šaušanas vai šaušanas sporta sacensību dalībnieku minimālais vecums:\n1) pirmās kategorijas šautuvēs vecums nav ierobežots;\n2) šaušanai ar lielas enerģijas pneimatiskajiem ieročiem vai mazkalibra B vai C kategorijas vītņstobra sporta šaujamieročiem, kuru munīcijai ir apmales kapsula, — 12 gadu;\n3) šaušanai ar D kategorijas šaujamieročiem — 12 gadu;\n4) šaušanai ar B un C kategorijas šaujamieročiem — 16 gadu;\n5) šaušanai ar A kategorijas automātiskajiem šaujamieročiem — 18 gadu.\n(6) Personas, kurām nav attiecīgo šaujamieroču glabāšanas vai nēsāšanas atļaujas, treniņšaušanā, mācību šaušanā vai šaušanas sporta sacensībās piedalās tikai sertificēta instruktora vai trenera uzraudzībā. Instruktora vai trenera norādījumi šīm personām ir obligāti.\n(7) Kārtību, kādā Latvijas Republikā notiek treniņšaušana, mācību šaušana un šaušanas sporta sacensības, kā arī nepieciešamos drošības pasākumus nosaka Ministru kabinets.\n(8) Šaušanas instruktoru, treneru un šaušanas sporta sacensību tiesnešu sertificēšanas kārtību nosaka Ministru kabinets.\n(8 1 ) Šaušanas instruktoru, izņemot to šaušanas instruktoru, kas ir tādu valsts un pašvaldību institūciju darbinieki, kurām tiesības iegādāties, glabāt un izmantot ieročus piešķirtas saskaņā ar likumu, sertifikāciju Ministru kabineta noteiktajā kārtībā un par Ministru kabineta noteikto maksu veic biedrība “Latvijas Sporta federāciju padome”.\n(8 2 ) Biedrība “Latvijas Sporta federāciju padome”, pildot šā panta 8. 1 daļā noteikto uzdevumu, ir tiesīga izdot administratīvos aktus un atrodas Izglītības un zinātnes ministrijas funkcionālajā pakļautībā.\n(8 3 ) Lēmuma par šaušanas instruktora sertifikāta izsniegšanu vai atteikumu izsniegt šaušanas instruktora sertifikātu pārsūdzēšana neaptur tā darbību.\n(9) Šaušanas sporta sacensību tiesnešu sagatavošanu un uzskaiti veic un kategorijas viņiem piešķir attiecīgā sporta federācija."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "X nodaļa Latvijas Republikas robežas šķērsošana ar ieročiem un munīciju",
+      "section": "43",
+      "title": "Kārtība, kādā militārpersonas un amatpersonas pārvadā ieročus un munīciju pāri Latvijas Republikas robežai",
+      "content": "Kārtību, kādā Latvijas Republikas robežu miera laikā ar ieročiem vai munīciju šķērso valsts institūciju amatpersonas, Nacionālo bruņoto spēku personālsastāvs, ārvalstu bruņoto spēku personas, lai pildītu ar Nacionālajiem bruņotajiem spēkiem saskaņotus dienesta uzdevumus, kā arī ārvalstu iekšlietu vai drošības dienesta darbinieki, kas pēc vienošanās ar Iekšlietu ministriju ieradušies veikt saskaņotus dienesta uzdevumus, nosaka attiecīgi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "X nodaļa Latvijas Republikas robežas šķērsošana ar ieročiem un munīciju",
+      "section": "44",
+      "title": "Šaujamieroču, munīcijas un lielas enerģijas pneimatisko ieroču pārvadāšana pāri Latvijas Republikas robežai",
+      "content": "(1) Šaujamieroču, šaujamieroču munīcijas vai lielas enerģijas pneimatisko ieroču pārvadāšanai pāri Latvijas Republikas robežai, izņemot šā likuma 38.panta piektajā daļā noteikto gadījumu, ir nepieciešama Valsts policijas izsniegta ieroču vai munīcijas ievešanas, izvešanas vai tranzīta atļauja, bet to pārvadāšanai Eiropas Savienības dalībvalstīs — Eiropas šaujamieroču apliecība.\n(2) Fiziskajām personām ieroču vai munīcijas ievešanas, izvešanas vai tranzīta atļauju vai attiecīgi Eiropas šaujamieroču apliecību Valsts policija izsniedz tikai sporta un medību šaujamieroču, to munīcijas un lielas enerģijas pneimatisko ieroču pārvadāšanai pāri Latvijas Republikas robežai. Pārvadāt šaujamieročus un munīciju uz Eiropas Savienības dalībvalsti atļauts, ja attiecīgās valsts kompetenta iestāde personai Eiropas šaujamieroču apliecībā ir izdarījusi attiecīgu atzīmi, kas apliecina, ka personai ir pamatots iemesls un tiesības pārvadāt šaujamieroci un munīciju attiecīgajā dalībvalstī, ja šajā valstī nav noteikta citāda kārtība. Attiecīga atzīme Eiropas šaujamieroču apliecībā fiziskajai personai jāsaņem arī no tās valsts kompetentas iestādes, kuru šī persona šķērso tranzītā, ja šajā valstī nav noteikta citāda kārtība.\n(3) Šaujamieročus vai lielas enerģijas pneimatiskos ieročus pāri Latvijas Republikas robežai atļauts pārvadāt tikai nepielādētus, iepakojumā un atsevišķi no to munīcijas, ievērojot Muitas likumu un citus normatīvos aktus. Šaujamieročus vai lielas enerģijas pneimatiskos ieročus robežkontroles laikā no iepakojuma izņem tikai pēc muitas vai robežsardzes darbinieka pieprasījuma.\n(4) Ārvalstu diplomātisko un konsulāro pārstāvniecību darbiniekiem, kuriem ir Valsts policijas izsniegta šaujamieroču ievešanas, izvešanas vai tranzīta atļauja, ir tiesības pārvadāt pāri Latvijas Republikas robežai B kategorijas īsstobra šaujamieročus makstī, bet bez patronas patrontelpā.\n(5) Muitas iestāde par katru gadījumu, kad šaujamieroci vai munīciju ieved Latvijas Republikā vai izved no tās, pārvadā tranzītā vai pārsūta, nekavējoties ziņo Valsts policijai, un Valsts policija par katru šaujamieroča iegādes gadījumu ziņo attiecīgajai ārvalsts iestādei, kas izsniegusi atļauju, vai ārvalsts norādītajai kompetentajai iestādei, kā arī galamērķa valsts kompetentajai iestādei un sniedz informāciju par šaujamieroča vai munīcijas tranzītu vai pārsūtīšanu.\n(6) Šaujamieroču, munīcijas, lielas enerģijas pneimatisko ieroču, sprāgstvielu vai spridzināšanas ietaišu pārsūtīšanu vai pārvadāšanu pāri Latvijas Republikas robežai kontrolē muitas iestādes.\n(7) Kārtību, kādā Valsts policija izsniedz atļauju šaujamieroču, to munīcijas un lielas enerģijas pneimatisko ieroču ievešanai Latvijas Republikā, izvešanai no Latvijas Republikas un tranzītam caur Latvijas Republiku, un atļauju paraugus nosaka Ministru kabinets.\n(8) Eiropas Savienības rekomendācijām atbilstošu Eiropas šaujamieroču apliecības paraugu apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "45",
+      "title": "Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites kontrole",
+      "content": "Valsts policija kontrolē, kā fiziskās un juridiskās personas, kurām Valsts policija izsniegusi šajā likumā minētās atļaujas vai kuras saņēmušas šā likuma 36.pantā minētās speciālās atļaujas (licences), ievēro ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites noteikumus."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "46",
+      "title": "Atsevišķu valsts institūciju īpašumā esošo ieroču un munīcijas aprites kontrole",
+      "content": "(1) Nacionālo bruņoto spēku un Militārās izlūkošanas un drošības dienesta īpašumā esošo ieroču un munīcijas aprites civilo kontroli, kā arī Latvijas Republikā esošo ārvalstu bruņoto spēku ieroču un munīcijas aprites civilo kontroli veic Aizsardzības ministrija.\n(2) Iekšlietu ministrijas sistēmas iestāžu, Ieslodzījuma vietu pārvaldes un Valsts ieņēmumu dienesta struktūrvienību īpašumā esošo ieroču un munīcijas aprites kontroli nodrošina attiecīgi Iekšlietu ministrija, Tieslietu ministrija un Finanšu ministrija.\n(3) Satversmes aizsardzības biroja, Latvijas Bankas Aizsardzības pārvaldes un prokuratūras īpašumā esošo ieroču un munīcijas apriti kontrolē attiecīgi Satversmes aizsardzības biroja direktora, Latvijas Bankas prezidenta un ģenerālprokurora noteiktās amatpersonas."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "47",
+      "title": "Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu izņemšana",
+      "content": "(1) Fizisko un juridisko personu ieročus, munīciju, sprāgstvielas, spridzināšanas ietaises, speciālos līdzekļus izņem un attiecīgās licences un atļaujas anulē Valsts policija, ja:\n1) pārkāpta ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites kārtība;\n2) beidzies Valsts policijas izsniegtās atļaujas vai licences derīguma termiņš;\n3) fiziskajai vai juridiskajai personai ir anulēta atļauja, licence vai anulēta vai atņemta uz laiku mednieka apliecība;\n4) ieroča vai munīcijas īpašnieks miris vai ir bezvēsts prombūtnē;\n5) juridiskā persona likvidējas vai pārtrauc darbību;\n6) ieroči, munīcija, sprāgstvielas, spridzināšanas ietaises, speciālie līdzekļi neatbilst tehniskajiem noteikumiem un nav derīgi turpmākai lietošanai;\n7) iestājušies šā likuma 20.pantā noteiktie ierobežojumi.\n(2) Tiesības izņemt notikuma vietā vai likumpārkāpēja aizturēšanas brīdī un nodot Valsts policijai medību vai zvejas noteikumu pārkāpēja ieročus, munīciju, sprāgstvielas vai spridzināšanas ietaises ir arī valsts dabas resursu aizsardzības dienestu amatpersonām un Zemessardzei.\n(3) Valsts robežsardzei un Militārajai policijai ir tiesības izņemt un nodot Valsts policijai nelikumīgi lietotus, pārvadātus, pārvietotus vai glabātus ieročus, munīciju, sprāgstvielas, spridzināšanas ietaises, speciālos līdzekļus.\n(4) Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu izņemšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "48",
+      "title": "Ieroču uzskaite Latvijas Republikā",
+      "content": "(1) Latvijas Republikā fizisko un juridisko personu (izņemot Nacionālo bruņoto spēku) šaujamieroču un lielas enerģijas pneimatisko ieroču vienotu uzskaiti veic Iekšlietu ministrijas Informācijas centrs Ministru kabineta noteiktajā kārtībā.\n(2) Latvijas Republikā ar visiem (izņemot Nacionālo bruņoto spēku) apritē esošajiem A, B un C kategorijas vītņstobra šaujamieročiem, kuros lodei šāviena brīdī ir tiešs kontakts ar stobru, obligāti izdarāmi kontrolšāvieni Valsts policijā. Valsts policija ložu un čaulu kontrolkolekciju glabā Ministru kabineta noteiktajā kārtībā.\n(3) Ar A, B vai C kategorijas vītņstobra šaujamieroci reizi piecos gados Valsts policijā izdara kontrolšāvienus.\n(4) Ja ir veikts vītņstobra šaujamieroča remonts un tā rezultātā mainās pēdas uz izšautajām lodēm un čaulām, remonta veicējs triju darbdienu laikā pēc remonta šaujamieroci nogādā Valsts policijā kontrolšāvienu izdarīšanai, bet izziņu par kontrolšāvienu izdarīšanu triju darbdienu laikā iesniedz iestādei, kurā šaujamierocis reģistrēts.\n(5) Šaujamieroču remonta veidus, kuru dēļ mainās pēdas uz izšautajām lodēm un čaulām, nosaka Valsts policija.\n(6) Valsts policija kontrolšāvienus izdara par maksu saskaņā ar apstiprinātu maksas pakalpojumu cenrādi.\n(7) Kontrolšāvienus ar Iekšlietu ministrijas sistēmas iestāžu, valsts drošības iestāžu, prokuratūras, Valsts ieņēmumu dienesta, Ieslodzījuma vietu pārvaldes, Korupcijas novēršanas un apkarošanas biroja un pašvaldības policijas īpašumā esošajiem šaujamieročiem un valsts vai pašvaldības izglītības iestāžu sporta ieročiem Valsts policija izdara bez maksas.\n(8) (Izslēgta ar 05.06.2003 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "49",
+      "title": "Ieroču, munīcijas klasifikācija Latvijas Republikā",
+      "content": "(1) Latvijas Republikā atļauta tikai tādu A, B, C un D kategorijas šaujamieroču, to sastāvdaļu, palīgierīču un munīcijas, kā arī lielas enerģijas pneimatisko ieroču aprite (izņemot militāro ieroču, to sastāvdaļu, palīgierīču un munīcijas apriti), kas ir klasificēti Valsts policijā Ministru kabineta noteiktajā kārtībā.\n(2) (Izslēgta ar 23.09.2010 . likumu)\n(3) (Izslēgta ar 23.09.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "50",
+      "title": "Ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu nozaudēšana vai nolaupīšana",
+      "content": "Ja nozaudēti vai nolaupīti šaujamieroči, to munīcija vai lielas enerģijas pneimatiskie ieroči, sprāgstvielas, spridzināšanas ietaises, īpašnieks nekavējoties par to ziņo tuvākajai Valsts policijas iestādei un triju darbdienu laikā iestādei, kas izsniegusi iegādāšanās, glabāšanas vai nēsāšanas atļauju."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "51",
+      "title": "Atbildība par ieroču, to sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites noteikumu pārkāpšanu",
+      "content": "Par šajā likumā un citos normatīvajos aktos noteikto ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites noteikumu pārkāpšanu personu sauc pie atbildības likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn1",
+      "title": "1. Likums stājas spēkā 2003.gada 1.janvārī.",
+      "content": "1. Likums stājas spēkā 2003.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2003.gada 1.janvārim izdod šajā likumā minētos noteikumus.",
+      "content": "2. Ministru kabinets līdz 2003.gada 1.janvārim izdod šajā likumā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2.1",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn2.1",
+      "title": "2. 1 Līdz likuma 32.panta divpadsmitajā daļā paredzēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 31.decembrim ir spēkā Ministru kabineta 2003.gada 11.novembra noteikumu Nr.647 \" Ieroču, munīcijas un gāzes pistoļu (revolveru) iegādāšanās, reģistrēšanas, uzskaites, glabāšanas, pārvadāšanas, pārsūtīšanas, nēsāšanas, realizēšanas un kolekciju veidošanas noteikumi , kā arī apbalvošanas noteikumi\" attiecīgās normas.",
+      "content": "( 22.04.2004 . likuma redakcijā, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn3",
+      "title": "3. Pēc šā likuma spēkā stāšanās:",
+      "content": "1) Valsts policija izskata reģistrēto šaujamieroču īpašnieku un viņu īpašumā esošo reģistrēto šaujamieroču atbilstību šā likuma prasībām un neatbilstības gadījumā anulē šaujamieroču glabāšanas, lietošanas un nēsāšanas atļaujas, izņem attiecīgos šaujamieročus un organizē to realizēšanu vai iznīcināšanu saskaņā ar normatīvajos aktos noteikto kārtību;\n2) institūcijas, kas izsniegušas speciālās atļaujas (licences) šajā likumā minētajiem komercdarbības (uzņēmējdarbības) veidiem, izskata attiecīgo komersantu atbilstību likuma prasībām un neatbilstības gadījumā aptur licences darbību vai anulē licenci."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn4",
+      "title": "4. Ar šā likuma spēkā stāšanos spēku zaudē:",
+      "content": "1) Latvijas Republikas Augstākās padomes Prezidija 1993.gada 21.janvāra lēmums \"Par Nolikuma par Latvijas Bankas Aizsardzības pārvaldes darbiniekiem paredzēto šaujamieroču, munīcijas un speciālo līdzekļu iegādes, reģistrācijas, glabāšanas un pielietošanas kārtību apstiprināšanu\";\n2) likums \" Par šaujamieročiem un speciālajiem līdzekļiem pašaizsardzībai \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 8./9.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 6.nr.; 1999, 8., 14.nr.)."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn5",
+      "title": "5. Līdz 2010.gada 1.janvārim Valsts policija reģistrē ieročus, kurus zemessargi iegādājušies par saviem līdzekļiem sakarā ar dienestu Zemessardzē, ja tie klasificēti atbilstoši šajā likumā noteiktajām prasībām kā pašaizsardzībai paredzētie, medību vai sporta ieroči un ja uz konkrēto zemessargu neattiecas šā likuma 20.pantā noteiktie ierobežojumi, un izsniedz attiecīgi ieroča glabāšanas vai nēsāšanas atļauju. Ieroču reģistrācija notiek vispārējā kārtībā, ievērojot izņēmumu, ka ieroča iegādāšanās atļaujas vietā zemessargs pilsētas (rajona) Valsts policijas pārvaldei atbilstoši deklarētajai (reģistrētajai) dzīvesvietai vai Valsts policijai iesniedz Zemessardzes komandiera izziņu, kurā norādīts zemessarga vārds, uzvārds, personas kods, ieroča kategorija, veids, kalibrs, marka, modelis, sērija un numurs.",
+      "content": "( 13.12.2007 . likuma redakcijā ar grozījumiem, kas izdarīti ar 20.11.2008 . likumu, kas stājas spēkā 01.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn6",
+      "title": "6. Līdz 2008.gada 1.jūlijam zemessargs, kurš par saviem līdzekļiem sakarā ar dienestu Zemessardzē iegādājies ieroci, kas klasificēts atbilstoši šajā likumā noteiktajām prasībām kā pašaizsardzībai paredzētais, medību vai sporta ierocis, bet nav reģistrējis to Valsts policijā, pamatojoties uz Zemessardzes komandiera izsniegtu izziņu, kurā norādīts zemessarga vārds, uzvārds, personas kods, ieroča kategorija, veids, kalibrs, marka, modelis, sērija un numurs, ir tiesīgs šo ieroci realizēt ar Latvijas Republikas specializēta ieroču tirdzniecības komersanta starpniecību.",
+      "content": "( 13.12.2007 . likuma redakcijā, kas stājas spēkā 12.01.2008. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn7",
+      "title": "7. Grozījums šā likuma 36.panta trešajā un sestajā daļā par speciālo atļauju (licenču) izsniegšanu uz nenoteiktu laiku stājas spēkā 2011.gada 1.janvārī.",
+      "content": "( 22.04.2010 . likuma redakcijā, kas stājas spēkā 26.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn8",
+      "title": "8. Šā likuma 37.pantā minētās speciālās atļaujas (licences), kuras izsniegtas līdz 2010.gada 31.decembrim un kuru derīguma termiņš 2011.gada 1.janvārī nav beidzies, ir spēkā līdz to derīguma termiņa beigām. Pēc šā termiņa beigām komersanti pieprasa no iestādes, kas izdevusi speciālo atļauju (licenci), jaunā parauga (beztermiņa) speciālās atļaujas (licences).",
+      "content": "( 22.04.2010 . likuma redakcijā, kas stājas spēkā 26.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "XI nodaļa Ieroču, šaujamieroču sastāvdaļu, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu aprites uzraudzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 23.09.2010 . likumu, kas stājas spēkā 27.10.2010. )",
+      "section": "pn9",
+      "title": "9. Šā likuma 42.panta 8. 1 , 8. 2 un 8. 3 daļa stājas spēkā 2010.gada 1.jūlijā.",
+      "content": "( 22.04.2010 . likuma redakcijā, kas stājas spēkā 26.05.2010. )\n( 22.04.2010 . likuma redakcijā, kas stājas spēkā 26.05.2010. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aprite",
+      "definition": "ieroču, to sastāvdaļu vai palīgierīču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu ražošana vai izgatavošana, komplektēšana vai remonts, iegādāšanās vai realizēšana, kolekcionēšana, eksports, imports un tranzīts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkārtotas darbības šaujamierocis",
+      "definition": "šaujamierocis, kurā pēc katra šāviena jaunu patronu no aptveres vai cilindra ievada ar roku darbināms mehānisms",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "aukstais ierocis",
+      "definition": "priekšmets, kam piemīt ieroča pazīmes un kas paredzēts bojājumu nodarīšanai, izmantojot cilvēka muskuļu spēku vai speciālus mehānismus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "automātiskais šaujamierocis",
+      "definition": "šaujamierocis, kas pēc katra šāviena pats uzlādējas jaunam šāvienam un, ja vienreiz tiek iedarbināts tā palaišanas mehānisms, spēj izdarīt vairākus šāvienus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "elektrošoka ierīce",
+      "definition": "speciālais līdzeklis, kura augstsprieguma elektriskais lādiņš īslaicīgi paralizējoši iedarbojas uz cilvēka vai dzīvnieka organismu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "garstobra šaujamierocis",
+      "definition": "šaujamierocis, kura stobra garums pārsniedz 300 milimetrus vai kura kopējais garums pārsniedz 600 milimetrus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gāzes baloniņš",
+      "definition": "speciālais līdzeklis, kas pildīts ar sašķidrinātu gāzi, kurai ir īslaicīga kairinoša vai paralizējoša iedarbība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gāzes pistole (revolveris)",
+      "definition": "speciālais līdzeklis, kurš paredzēts īslaicīgai iedarbībai uz cilvēka organismu un caur kura stobru, šaujampulverim sadegot, tiek izgrūstas kairinošu vai paralizējošu vielu saturošas gāzes mikrodaļiņas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "glabāšana",
+      "definition": "ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu turēšana atļautā vietā, ievērojot noteiktās drošības prasības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gludstobra šaujamierocis",
+      "definition": "šaujamierocis, kuram ir gludas vismaz divas trešdaļas no stobra urbuma garuma, skaitot no patrontelpas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iegādāšanās",
+      "definition": "ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu iegūšana īpašumā vai valdījumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ierocis",
+      "definition": "priekšmets vai mehānisms, kas speciāli radīts dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieroča kopija",
+      "definition": "oriģinālā ieroča precīzs atdarinājums, kuram ir tikai izziņas avota vai dekoratīvas funkcijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieroča pārvadāšana",
+      "definition": "nepielādēta un atsevišķi no munīcijas iesaiņota ieroča pārvadāšana vai pārvietošana sev līdzi tādā veidā, ka tā pielietošanas iespēja ir izslēgta",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieroča remonts",
+      "definition": "ieroča defektu novēršana vai ieroča pielāgošana īpašnieka individuālajām vajadzībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieroča vai speciālā līdzekļa nēsāšana",
+      "definition": "pielietošanai gatava ieroča vai speciālā līdzekļa pārvietošana sev līdzi ārpus glabāšanas vietas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieroču vai munīcijas izgatavošana",
+      "definition": "atsevišķu ieroču, munīcijas vai to sastāvdaļu izgatavošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieroču vai munīcijas kolekcija",
+      "definition": "ieroču vai munīcijas krājums, kuram ir zinātniski tehniska, mākslas, vēstures, kriminālistiska vai citāda izziņas avota nozīme",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "īsstobra šaujamierocis",
+      "definition": "šaujamierocis, kura stobra garums nepārsniedz 300 milimetrus vai kura kopējais garums nepārsniedz 600 milimetrus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kalibrs",
+      "definition": "šaujamieroča stobra urbuma, šāviņa vai čaulas nosacītais izmērs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "lielas enerģijas pneimatiskais ierocis",
+      "definition": "pneimatiskais ierocis, kura lādiņa sākumenerģija ir lielāka par 12 džouliem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mazas enerģijas pneimatiskais ierocis",
+      "definition": "pneimatiskais ierocis, kura lādiņa sākumenerģija nepārsniedz 12 džoulus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "medību šaujamierocis",
+      "definition": "šaujamierocis, kas klasificēts Latvijas Republikā kā medību šaujamierocis",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "militārais gludstobra šaujamierocis",
+      "definition": "speciāli militārajām vajadzībām izgatavots vai ražots gludstobra šaujamierocis, kurš pārbaudīts apstākļos, kad spiediens ir lielāks par 1300 bāriem, darbojas apstākļos, kad spiediens ir lielāks par 1000 bāriem, un kura munīcija ir garāka par 76,2 milimetriem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "militārie šaujamieroči un munīcija",
+      "definition": "speciāli militārajām vajadzībām izgatavoti vai ražoti šaujamieroči un munīcija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "munīcija",
+      "definition": "priekšmeti, kas konstruktīvi izgatavoti šāviena izdarīšanai un paredzēti dzīvu vai nedzīvu mērķu iznīcināšanai vai bojāšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "patrona",
+      "definition": "šaujamieroča (ar šāviņu vai bez tā) munīcija, kurā vienā veselumā apvienota čaula, propelents un aizdedzināšanas ierīce",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārsūtīšana",
+      "definition": "ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu pārvietošana pa pastu, ar bagāžu vai ar trešo personu starpniecību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pneimatiskais ierocis",
+      "definition": "ierocis, no kura lodi, bultu vai citu lādiņu izšauj ar saspiestas gāzes palīdzību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "propelents",
+      "definition": "munīcijas sprāgstviela vai raķešu degviela",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pusautomātiskais šaujamierocis",
+      "definition": "šaujamierocis, kas pēc katra šāviena pats uzlādējas jaunam šāvienam un, ja vienreiz tiek iedarbināts tā palaišanas mehānisms, spēj izdarīt tikai vienu šāvienu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ražošana",
+      "definition": "dažādu veidu ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu vai to sastāvdaļu rūpnieciska ražošana, kā arī ar to saistīti zinātniski tehniskie pētījumi vai tehniskās dokumentācijas izstrādāšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "realizēšana",
+      "definition": "ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu pārdošana, maiņa, dāvināšana vai citāda veida nodošana citai personai īpašumā vai valdījumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "speciālie līdzekļi",
+      "definition": "ķīmiskās vielas, priekšmeti vai mehānismi, kas paredzēti pašaizsardzībai vai sabiedriskās kārtības un drošības garantēšanai, bet nav ieroči",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sporta šaujamierocis",
+      "definition": "šaujamierocis, kas Latvijas Republikā klasificēts kā sporta šaujamierocis",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sprāgstviela",
+      "definition": "ķīmisks savienojums vai ķīmisko savienojumu maisījums, kas ārēju faktoru iedarbībā ātri reaģē, izdalot lielu daudzumu gāzes vai siltuma enerģiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "spridzināšanas ietaise",
+      "definition": "līdzeklis, kas nodrošina sprādzienu noteiktā vietā un laikā vai konkrētas iedarbības rezultātā (uzspridzināšanas līdzekļi, lādiņi un palaišanas ierīces — detonatori)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "šaujamierocis",
+      "definition": "ierocis, kurā šāviņš enerģiju virzes kustībai saņem, šaujampulverim sadegot gāzu spiediena rezultātā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "šāviņš",
+      "definition": "lode, renkulis, skrots, bulta vai citi priekšmeti vai vielas, kas paredzēti vai pielāgoti šaušanai no ieroča vai tiek izšauti no ieroča",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "viena šāviena šaujamierocis",
+      "definition": "šaujamierocis, kuram nav padeves aptveres vai cilindra un kurā munīciju (patronu) pirms katra šāviena ieliek ar roku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vītņstobra šaujamierocis",
+      "definition": "šaujamierocis, kuram stobra urbumā visā tā garumā izveidotas spirālveida gropes, kuras izraisa lodes rotāciju, izņemot šaujamieročus, kuri paredzēti šaušanai ar gludstobra šaujamieroču munīciju un kuri Latvijas Republikā klasificēti kā gludstobra šaujamieroči.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "id": "lv-law-36531",
+  "type": "statute",
+  "title": "Būvniecības likums",
+  "short_name": "TA-36531",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/36531-buvniecibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) apbūve — noteiktā teritorijā izvietotu būvju kopums;\n2) būvatļauja — Vispārīgajos būvnoteikumos paredzētajā kārtībā izsniegts dokuments, kas apliecina tiesības veikt objekta būvdarbus;\n3) būve — būvniecības procesā radies ar zemi saistīts veidojums, kam ir noteikta funkcija;\n4) būvekspertīze — profesionāla pārbaude, kuras mērķis ir dot pamatotu atzinumu par būvprojekta, būves tehniskā stāvokļa vai veikto būvdarbu tehnisko risinājumu atbilstību normatīvo aktu un tehnisko noteikumu prasībām;\n5) būveksperts — sertificēta fiziskā persona, kas valsts, pašvaldības vai būvniecības dalībnieka uzdevumā veic būvekspertīzi;\n6) būvdarbi — būvniecības procesa sastāvdaļa, darbi, kas tiek veikti būvlaukumā vai būvē, arī nojaukšana;\n7) būvētājs - nekustamā īpašuma īpašnieks, valdītājs vai lietotājs, kas pats organizē būvniecības procesu, piedalās tajā un ir par to atbildīgs;\n8) (izslēgts ar 07.03.2002 . likumu) ;\n9) (izslēgts ar 07.03.2002 . likumu) ;\n10) būvinspektors — pašvaldības amatpersona, kurai piešķirtas būvdarbu kontroles tiesības;\n11) būvizstrādājums — ikviens materiāls, detaļa vai rūpnieciski izgatavota konstrukcija, kas paredzēta iestrādāšanai būvē;\n12) būvniecība — visu veidu būvju projektēšana un būvdarbi;\n13) būvniecības dalībnieki — fiziskās vai juridiskās personas, kuras ar īpašumu, finanšu līdzekļiem, darbu vai pakalpojumu piedalās būvniecības procesā;\n14) būvnormatīvi — visiem būvniecības dalībniekiem saistošu normu un noteikumu kopums, kas reglamentē būvniecību un būvju ekspluatāciju, kā arī skaidro būvniecības terminoloģiju;\n15) būvprakses vai arhitekta prakses sertifikāts — dokuments, kas apliecina fiziskās personas profesionālo kvalifikāciju attiecīgajā būvniecības jomā;\n16) būvprojekts — būvniecības ieceres īstenošanai nepieciešamo dokumentu, rasējumu un teksta materiālu kopums;\n17) būvuzņēmējs — fiziskā vai juridiskā persona, kas, pamatojoties uz līgumu, kurš noslēgts ar pasūtītāju, veic būvdarbus;\n18) būvuzraugs — fiziskā vai juridiskā persona, kas pasūtītāja interesēs uzrauga būvdarbus;\n19) inženierkomunikācija — ierīce, aprīkojums vai ierīču un aprīkojumu kopums, kas paredzēts būves apgādei ar izejvielām, sakariem, energoresursiem un citiem resursiem;\n20) (izslēgts ar 10.03.2005 . likumu) ;\n21) patvaļīga būvniecība — būvdarbi, kas tiek veikti bez būvatļaujas vai neatbilst akceptētajam būvprojektam, izņemot Vispārīgajos būvnoteikumos paredzētos gadījumus;\n22) (izslēgts ar 07.03.2002 . likumu) ;\n23) Vispārīgie būvnoteikumi — Ministru kabineta izdoti noteikumi, kas reglamentē būvniecības pamatnosacījumus, ciktāl tos nenosaka šis likums;\n24) pasūtītājs - nekustamā īpašuma īpašnieks, valdītājs vai lietotājs, kura uzdevumā, pamatojoties uz noslēgto līgumu, tiek veikta būvniecība, kā arī pašvaldība, veicot sagruvušo būvju un kultūras pieminekļu sarakstā esošo būvju savešanu kārtībā vai nojaukšanu vai patvaļīgās būvniecības objektu nojaukšanu;\n25) tehniskie noteikumi — konkrētai būvei, apbūvei, būvizstrādājumam vai būvdarbu procesam noteiktās tehniskās prasības;\n26) būvvalde — pašvaldības institūcija, kas pārzina, kā arī kontrolē būvniecību attiecīgajā administratīvajā teritorijā;\n27) vides pieejamība — iespēja cilvēkiem ar kustību, redzes vai dzirdes traucējumiem pārvietoties vidē atbilstoši plānotajai būves funkcijai;\n28) būvamatniecība — būvniecības darbi, kurus veic fiziskā vai juridiskā persona atbilstoši likumam \"Par amatniecību\";\n29) arhitekta prakse — sertificēta arhitekta patstāvīga profesionāla darbība;\n30) būvprakse — sertificēta būvinženiera patstāvīga profesionāla darbība;\n31) trešā persona būvuzņēmēja un būvētāja civiltiesiskās atbildības apdrošināšanā — jebkura fiziskā vai juridiskā persona, izņemot apdrošinājuma ņēmēju, apdrošināto, apdrošinātā darbinieku vai personu, kas uz cita līguma pamata veic būvdarbus apdrošinātā labā, apdrošinātāju un pārējos būvniecības dalībniekus."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "(1) Šis likums nosaka būvniecības dalībnieku savstarpējās attiecības, kā arī viņu tiesības un pienākumus būvniecības procesā un atbildību par būvniecības rezultātā tapušās būves atbilstību tās uzdevumam, ekonomiskajam izdevīgumam, paredzētajam kalpošanas ilgumam un attiecīgajiem normatīvajiem aktiem, kā arī valsts pārvaldes un pašvaldību institūciju kompetenci attiecīgajā būvniecības jomā.",
+      "content": "(2) Šis likums attiecas uz visu veidu būvēm.\n(3) Būvniecību regulē šis likums, Civillikums , citi likumi un normatīvie akti, kā arī Latvijai saistoši starptautiskie līgumi.\n(4) Šā likuma izpildei Ministru kabinets izdod Vispārīgos būvnoteikumus, būvnormatīvus un citus normatīvos aktus.\n(5) Par būvprojektēšanai nepieciešamo tehnisko un īpašo noteikumu saņemšanu valsts un pašvaldību institūcijās maksājama valsts nodeva. Valsts nodevas apmēru, maksāšanas kārtību un atvieglojumus nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "3",
+      "title": "(1) Zemes gabalu drīkst apbūvēt, ja tā apbūve tiek veikta saskaņā ar vietējās pašvaldības teritorijas plānojumu, detālplānojumu (ja tas nepieciešams saskaņā ar normatīvajiem aktiem) un šo plānojumu sastāvā esošajiem apbūves noteikumiem un, noslēdzot līgumu, apbūve ir saskaņota ar zemes gabala īpašnieku (ja apbūvi neveic zemes gabala īpašnieks).",
+      "content": "(2) Būvniecības ierobežojumus atsevišķos zemes gabalos reglamentē likumi, Ministru kabineta noteikumi, vietējās pašvaldības teritorijas plānojums un detālais plānojums. Būvniecības ierobežojumus var nostiprināt zemesgrāmatās kā īpašuma lietošanas tiesību aprobežojumus.\n(3) Būve projektējama un būvējama tā, lai nodrošinātu vides arhitektonisko kvalitāti, vides pieejamību, dabas resursu racionālu izmantošanu, kā arī visas būves un tās atsevišķu daļu:\n1) stiprību un stabilitāti;\n2) ugunsdrošību;\n3) drošību lietošanā;\n4) higiēniskumu un nekaitīgumu cilvēka veselībai un videi;\n5) energoefektivitāti;\n6) akustiskās prasības."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa. Valsts pārvaldes un pašvaldību institūciju kompetence būvniecības jomā",
+      "section": "4",
+      "title": "(1) Būvniecības vispārējo pārraudzību un koordināciju valstī veic Ekonomikas ministrija. Ministrija izstrādā vienotu valsts politiku būvniecībā un nodrošina šīs politikas realizēšanu. Lai veiktu šo uzdevumu, ministrija:",
+      "content": "1) izstrādā būvniecības attīstības stratēģiju un programmu;\n2) izstrādā priekšlikumus būvniecību reglamentējošu normatīvo aktu sistēmas pilnveidošanai;\n3) izstrādā, apkopo un iesniedz Ministru kabinetam apstiprināšanai būvnormatīvus;\n4) (izslēgts ar 25.05.2006 . likumu) ;\n5) savas kompetences ietvaros izskata sūdzības par valsts pārvaldes un pašvaldību institūciju rīcību būvniecības jomā;\n6) (izslēgts ar 12.06.2009 . likumu) ;\n7) (izslēgts ar 12.06.2009 . likumu) ;\n8) (izslēgts ar 12.06.2009 . likumu) ;\n9) uztur informatīvu bāzi būvniecības pārraudzības un kontroles nodrošināšanai.\n(1 1 ) Papildus šā panta pirmajā daļā minētajiem uzdevumiem Ekonomikas ministrija uztur būvkomersantu reģistru. Būvkomersantu reģistra uzturēšanu, būvkomersantu reģistrāciju un ar to saistīto lēmumu pieņemšanu var deleģēt atvasinātām publiskām personām, kā arī privātpersonām.\n(2) Ministrijas kompetencē var būt arī citi normatīvajos aktos paredzētie pienākumi būvniecības jomā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa. Valsts pārvaldes un pašvaldību institūciju kompetence būvniecības jomā",
+      "section": "5",
+      "title": "(1) Ministru kabinets izveido Latvijas Būvniecības padomi un apstiprina Latvijas Būvniecības padomes nolikumu .",
+      "content": "(2) Latvijas Būvniecības padomes galvenie uzdevumi ir:\n1) izstrādāt priekšlikumus par būvniecības attīstības koncepciju un stratēģiju;\n2) izvērtēt būvniecības ilglaicīgas attīstības programmu, kā arī likumdošanas aktu saskaņotību un to atbilstību būvniecības attīstības koncepcijai;\n3) izskatīt priekšlikumus normatīvo aktu sistēmas pilnveidošanai būvniecībā;\n4) izstrādāt priekšlikumus attiecībā uz nozarei nepieciešamo kvalificēto speciālistu (arhitektu, plānotāju, inženieru, tehniķu un strādnieku) profesionālās sagatavošanas stratēģiju;\n5) izskatīt priekšlikumus par valstiski svarīgām būvēm un dot atzinumus par to projektēšanu, būvniecību un finansēšanu."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa. Valsts pārvaldes un pašvaldību institūciju kompetence būvniecības jomā",
+      "section": "6",
+      "title": "(1) Ministru kabinets, ja nepieciešams, nosaka īpašu būvniecības procesa kārtību šādām būvēm:",
+      "content": "1) valsts aizsardzības būvēm;\n2) diplomātiskajām pārstāvniecībām un to konsulārajām iestādēm;\n3) transporta un telekomunikāciju būvēm un maģistrālajiem cauruļvadiem;\n4) ūdensapgādes, notekūdeņu savākšanas un attīrīšanas būvēm, sadzīves un bīstamo atkritumu apsaimniekošanas būvēm, derīgo izrakteņu ieguves karjeriem;\n5) ar radiācijas drošību saistītajām būvēm;\n6) hidrotehniskajām un meliorācijas būvēm;\n7) enerģijas ražošanas, pārvades un sadales būvēm;\n8) (zaudējis spēku ar 01.06.2007. Skat. Pārejas noteikumus.) ;\n9) būvēm Latvijas Republikas teritoriālajos ūdeņos un ekskluzīvajā ekonomiskajā zonā.\n(2) Šajā pantā minētajām būvēm būvnormatīvus izstrādā, apkopo un iesniedz apstiprināšanai Ministru kabinetam attiecīgā ministrija."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa. Valsts pārvaldes un pašvaldību institūciju kompetence būvniecības jomā",
+      "section": "7",
+      "title": "(1) Vietējo pašvaldību kompetencē ir:",
+      "content": "1) izstrādāt un apstiprināt savas administratīvās teritorijas plānojumu, detālos plānojumus un to sastāvā esošos apbūves noteikumus, kas ir obligāti visiem būvniecības dalībniekiem un attiecas uz visu veidu būvēm vietējās pašvaldības administratīvajā teritorijā, kā arī kontrolēt un nodrošināt to izpildi;\n2) izskatīt būvprojektus un pieņemt lēmumus par tiem;\n3) izsniegt un reģistrēt būvatļaujas, tai skaitā reģistrēt saskaņā ar šā likuma 6.pantu īpašajā būvniecības procesa kārtībā izsniegtās būvatļaujas;\n4) kontrolēt, kā būvniecības dalībnieki ievēro šā likuma un citu būvniecību reglamentējošo normatīvo aktu prasības, un nodrošināt būvniecības procesa tiesiskumu savā administratīvajā teritorijā;\n5) (izslēgts ar 18.04.2013 . likumu) .\n(1 1 ) Pašvaldības noteiktai institūcijai vai amatpersonai ir pienākums triju darba dienu laikā no attiecīgā dokumenta saņemšanas dienas publicēt pašvaldības mājaslapā internetā informāciju par saņemto būvniecības iesniegumu — uzskaites karti, būvprojektu, kas iesniegts akceptēšanai, kā arī pieprasījumu būvatļaujas saņemšanai. Publikācijā norāda:\n1) plānoto būvdarbu veikšanas vietu;\n2) būvniecības veidu, būves plānoto funkciju.\n(1 2 ) Par pieņemto lēmumu, izskatot būvniecības iesniegumu — uzskaites karti, būvprojektu, kas iesniegts akceptēšanai, kā arī pieprasījumu būvatļaujas saņemšanai —, pašvaldības noteikta institūcija vai amatpersona paziņo sabiedrībai, publicējot paziņojumu pašvaldības mājaslapā internetā triju darba dienu laikā no lēmuma pieņemšanas dienas. Publikācijā norāda:\n1) plānoto būvdarbu veikšanas vietu;\n2) būvniecības veidu, būves plānoto funkciju;\n3) būvatļaujas vai atteikuma izsniegt būvatļauju spēkā stāšanās dienu.\n(2) Būvniecības pārzināšanai un kontrolei vietējās pašvaldības savā administratīvajā teritorijā izveido būvvaldes.\n(3) Būvniecību vietējās pašvaldības administratīvajā teritorijā pārzina būvvaldes amatpersonas, kurām ir augstākā izglītība būvniecībā.\n(4) Būvniecību vietējās pašvaldības administratīvajā teritorijā kontrolē amatpersonas, kurām šā likuma 30.panta astotajā daļā noteiktajā kārtībā piešķirtas būvniecības kontroles tiesības.\n(5) Vietējā pašvaldība Valsts pārvaldes iekārtas likuma V nodaļā noteiktajā kārtībā var deleģēt citai pašvaldībai ar būvniecības pārzināšanu attiecīgajā administratīvajā teritorijā saistītās funkcijas, atsevišķus uzdevumus vai veidot kopīgus kontroles dienestus šo uzdevumu izpildei, saglabājot atbildību par funkcijas izpildi kopumā."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa. Būvniecības pakalpojumu regulēšana (Nodaļas nosaukums 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )",
+      "section": "8",
+      "title": "(1) Ja fiziskās personas ir saņēmušas attiecīgu būvprakses vai arhitekta prakses sertifikātu, tām ir patstāvīgas prakses tiesības šādās būvniecības jomās:",
+      "content": "1) inženierizpēte;\n2) projektēšana;\n3) būvekspertīze;\n4) būvdarbu vadīšana;\n5) būvuzraudzība.\n(2) Būvprakses vai arhitekta prakses sertifikātus piešķir, reģistrē un anulē Ministru kabineta noteiktajā kārtībā.\n(3) Būvprakses vai arhitekta prakses sertifikātus piešķir uz laiku, kas nepārsniedz piecus gadus.\n(4) (Izslēgta ar 07.03.2002 . likumu.)\n(5) Ja persona attiecīgo izglītību un profesionālo kvalifikāciju ieguvusi ārvalstīs un šī izglītība un profesionālā kvalifikācija ir atzīta likumā \"Par reglamentētajām profesijām un profesionālās kvalifikācijas atzīšanu\" noteiktajā kārtībā, šai personai ir tādas pašas tiesības kā šā panta pirmajā daļā minētajām personām."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa. Būvniecības pakalpojumu regulēšana (Nodaļas nosaukums 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )",
+      "section": "9",
+      "title": "9. pants.",
+      "content": "(Izslēgts ar 07.03.2002 . likumu, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa. Būvniecības pakalpojumu regulēšana (Nodaļas nosaukums 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )",
+      "section": "10",
+      "title": "(1) Lai veiktu komercdarbību vienā vai vairākās būvniecības jomās, kurās fiziskajai personai patstāvīgai darbībai saskaņā ar šā likuma 8.panta pirmo daļu nepieciešams būvprakses vai arhitekta prakses sertifikāts, komersantam jāreģistrējas būvkomersantu reģistrā.",
+      "content": "(2) Komersants nav tiesīgs izpildīt darbus būvniecības jomās, kurās viņam nav attiecīgu speciālistu.\n(3) Būvkomersantu reģistrā iekļauj informāciju par komersantu, būvniecībā nodarbināto personālu, tai skaitā par personām, kurām ir pastāvīgas prakses tiesības saskaņā ar šā likuma 8.pantu , komersantu raksturojošus datus, ziņas par pārkāpumiem būvniecībā un ziņas par reģistra noteikumu pārkāpumiem.\n(4) Būvkomersantu reģistrs ir publiski pieejams, izņemot datus, kuru pieejamība ir ierobežota saskaņā ar normatīvajiem aktiem par komercnoslēpumu un datu aizsardzību.\n(5) Kārtību, kādā komersanti reģistrējami un pārreģistrējami būvkomersantu reģistrā un izslēdzami no tā, kā arī reģistra datu saturu un izmantošanas kārtību nosaka Ministru kabinets.\n(6) Par reģistrācijas darbībām būvkomersantu reģistrā maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "III nodaļa. Būvniecības pakalpojumu regulēšana (Nodaļas nosaukums 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )",
+      "section": "10.1",
+      "title": "10. 1 pants. (1) Būvprakses vai arhitekta prakses sertifikāts nav nepieciešams būvētājam, kurš saskaņā ar akceptētu būvprojektu un būvatļauju būvē, arī rekonstruē vai renovē, viendzīvokļa māju, dzīvojamo māju palīg­ēkas vai lauku saimniecību nedzīvojamās ēkas Vispārīgajos būvnoteikumos noteiktajā kārtībā un apjomā.",
+      "content": "(2) Fiziskajām personām nav nepieciešams būvprakses vai arhitekta prakses sertifikāts, ja būvdarbu izpildei atbilstoši Vispārīgajiem būvnoteikumiem un citiem normatīvajiem aktiem nav nepieciešams akceptēts būvprojekts un būvatļauja.\n(3) Amatu meistariem nav nepieciešams sertifikāts, ja viņi veic vai vada būvamatniecības darbus atbilstoši likumam \"Par amatniecību\".\n(4) (Izslēgta ar 10.03.2005 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 10.2",
+      "chapter": "III nodaļa. Būvniecības pakalpojumu regulēšana (Nodaļas nosaukums 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )",
+      "section": "10.2",
+      "title": "10. 2 pants. (1) Ja būvdarbu izpildei atbilstoši Vispārīgajiem būvnoteikumiem un citiem normatīvajiem aktiem ir nepieciešams akceptēts būvprojekts un būvatļauja, starp būvniecības dalībniekiem, izņemot ģimenes locekļus un radiniekus pirmajā un otrajā radniecības pakāpē, par darba izpildi vai pakalpojumu sniegšanu ir slēdzami rakstveida darba vai uzņēmuma līgumi.",
+      "content": "(2) Ja būvdarbu izpildei atbilstoši Vispārīgajiem būvnoteikumiem un citiem normatīvajiem aktiem nav nepieciešams akceptēts būvprojekts un būvatļauja, būvniecības dalībnieku pienākumus un tiesības attiecībā uz līgumu noslēgšanas formu nosaka Civillikums , Darba likums un citi normatīvie akti.\n(3) Ja saskaņā ar šā panta pirmo daļu ir nepieciešama rakstveida līguma noslēgšana, bet būvniecības dalībnieki - fiziskās personas - nav noslēguši rakstveida līgumu, tad, lemjot par to, vai saukt fizisko personu pie likumā noteiktās atbildības vai pieņemt citu tai nelabvēlīgu lēmumu, papildus citos normatīvajos aktos noteiktajiem apstākļiem, ja attiecīgā persona to norādījusi un pamatojusi, vērtē arī apstākli, vai darbs ir izpildīts un pakalpojums ir sniegts bez atlīdzības personisko attiecību ietvaros."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "11",
+      "title": "(1) Zemes gabalu var apbūvēt tā īpašnieks vai cita persona, kas noslēgusi līgumu ar attiecīgā zemes gabala īpašnieku.",
+      "content": "(2) Zemes gabalu drīkst apbūvēt, ja tā apbūve nav pretrunā ar teritorijas plānojumu un detālplānojumu (ja tas nepieciešams saskaņā ar normatīvajiem aktiem).\n(3) Pašvaldība var neatļaut apbūvi vai ierosināt to koriģēt, savā lēmumā motivējot, kādas likumu normas nepieļauj šādu būvniecību, kā arī ņemot vērā teritorijas plānojuma (detālā plānojuma) un būvniecības publiskās apspriešanas rezultātus.\n(4) Pašvaldības lēmumu var pārsūdzēt tiesā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "12",
+      "title": "(1) Pašvaldība, pirms tā pieņem lēmumu par būvniecību, nodrošina paredzētās būves publisku apspriešanu, ja būve būtiski:",
+      "content": "1) pasliktina iedzīvotāju sadzīves apstākļus;\n2) samazina nekustamā īpašuma vērtību;\n3) ietekmē vidi, bet tai nav nepieciešams ietekmes uz vidi novērtējums saskaņā ar likumu \"Par ietekmes uz vidi novērtējumu\".\n(2) Pašvaldība apbūves noteikumos var paredzēt arī citus gadījumus, kad rīkojama būves publiska apspriešana.\n(3) Būves publisku apspriešanu nerīko, ja teritorijai, kurā tā paredzēta, ir spēkā esošs detālplānojums.\n(4) Izskatījusi būvniecības iesniegumu — uzskaites karti, būvvalde pieņem motivētu lēmumu, ar kuru nolemj rīkot vai nerīkot būves publisku apspriešanu.\n(5) Ministru kabinets nosaka kārtību, kādā izvērtējama nepieciešamība rīkot būves publisku apspriešanu, kā arī kārtību, kādā notiek būves publiska apspriešana."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "13",
+      "title": "(1) Pasūtītājam vai būvētājam pirms būvdarbu uzsākšanas jāsaņem būvatļauja Vispārīgajos būvnoteikumos paredzētajā kārtībā.",
+      "content": "(2) Ja mainās pasūtītājs, būvētājs, būvuzņēmējs vai zemes gabala īpašnieks, būvatļauja jāpārreģistrē. Par būvatļaujas pārreģistrāciju ir atbildīgs pasūtītājs vai būvētājs.\n(3) Ja būvdarbus pārtrauc uz laiku, kas pārsniedz vienu gadu, darbu pārtraukums, to motivējot, jāreģistrē pašvaldībā.\n(4) Būvatļauju normatīvajos aktos noteiktajā kārtībā var atcelt būvvalde vai vietējās pašvaldības dome, ja pasūtītājs vai būvētājs neievēro likumā noteikto būvniecības kārtību, gada laikā no būvatļaujas saņemšanas dienas neuzsāk būvdarbus vai pašvaldībā nereģistrē būvdarbu pārtraukumu, kas ir ilgāks par gadu.\n(5) Būvdarbu uzsākšana vai veikšana bez būvatļaujas kvalificējama kā patvaļīga būvniecība, un atbildība par to ir paredzēta normatīvajos aktos.\n(6) Pasūtītājs normatīvajos aktos noteiktajos gadījumos par saņemto būvatļauju triju darba dienu laikā informē:\n1) nosūtot rakstveida paziņojumus ierakstītā pasta sūtījumā uz deklarēto dzīvesvietas adresi vai juridisko adresi to nekustamo īpašumu īpašniekiem (valdītājiem), kuru nekustamie īpašumi robežojas ar zemes gabalu, kurā atļauts veikt būvdarbus. Paziņojumā iekļaujama informācija par plānoto būvi, būvatļaujas spēkā stāšanās laiku un tās apstrīdēšanas kārtību un termiņu;\n2) izvietojot zemes gabalā būvtāfeli, kuras saturu nosaka Ministru kabinets.\n(7) Šā panta sestajā daļā minētajiem pasākumiem ir informatīvs raksturs."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "14",
+      "title": "(1) Inženierkomunikāciju īpašnieks nevar liegt vai traucēt pieslēgties tām, ja attiecīgās pašvaldības lēmumā par būvniecību šīs inženierkomunikācijas ir paredzētas publiskai lietošanai, to jauda līdz pieslēgšanās pieprasījuma saņemšanai ir pietiekama un pieslēgšanās notiek atbilstoši inženierkomunikāciju ekspluatācijas un tehniskajiem noteikumiem.",
+      "content": "(2) Zemes īpašniekam un inženierkomunikāciju īpašniekam tiek atlīdzināti visi zaudējumi, kas tiem radušies sakarā ar pieslēgšanos attiecīgajām inženierkomunikācijām.\n(3) Kārtību, kādā no īpašniekiem saņemamas atļaujas pieslēgties ceļiem, ielām un inženierkomunikācijām, ūdensapgādes, kanalizācijas, siltumenerģijas, elektroenerģijas, gāzes un sakaru sistēmām, un šīs pieslēgšanās noteikumus nosaka Vispārīgie būvnoteikumi .\n(4) Kārtību, kādā saņemami noteikumi būvju un inženierkomunikāciju ierīkošanai, pārvietošanai vai rekonstrukcijai meliorētajās zemēs vai vietās, kur tas var ietekmēt meliorācijas sistēmu darbību, nosaka Meliorācijas likums."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "15",
+      "title": "Kārtību, kādā veicami un reģistrējami inženierizpētes darbi (topogrāfiskie, ģeoloģiskie, hidroloģiskie u.c.) būvniecības vajadzībām, kā arī tiesības tos veikt un atbildību par šiem darbiem nosaka Latvijas būvnormatīvi un citi normatīvie akti.",
+      "content": "15. pants. Kārtību, kādā veicami un reģistrējami inženierizpētes darbi (topogrāfiskie, ģeoloģiskie, hidroloģiskie u.c.) būvniecības vajadzībām, kā arī tiesības tos veikt un atbildību par šiem darbiem nosaka Latvijas būvnormatīvi un citi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "16",
+      "title": "(1) Būvdarbus drīkst veikt tikai saskaņā ar pašvaldības akceptētu būvprojektu, izņemot gadījumus, kas paredzēti Vispārīgajos būvnoteikumos.",
+      "content": "(2) Būves projektēšanas, būvprojekta saskaņošanas un akceptēšanas kārtību nosaka Vispārīgie būvnoteikumi .\n(3) Atkāpes no būvniecību reglamentējošo normatīvo aktu tehniskajām prasībām būvprojektā pēc saskaņošanas ar attiecīgajām valsts un pašvaldību institūcijām ir iespējamas šādos gadījumos:\n1) ja ar alternatīviem tehniskajiem risinājumiem tiek nodrošināta šā likuma 3.panta trešajā daļā noteikto prasību izpilde;\n2) ja, veicot ēku rekonstrukciju vai renovāciju, attiecīgās prasības tehniski nav iespējams ievērot vai to ievērošanas dēļ ēka zaudētu savu kultūrvēsturisko vērtību."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "17",
+      "title": "Būvi, tās daļu vai telpu grupu izmanto tikai atbilstoši projektētajām funkcijām un vienīgi pēc tās pieņemšanas ekspluatācijā.",
+      "content": "( 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "18",
+      "title": "Ja būvdarbus pārtrauc uz laiku, kas pārsniedz vienu gadu, pasūtītājam vai būvētājam būve jāiekonservē Vispārīgajos būvnoteikumos noteiktajā kārtībā un par to nekavējoties rakstveidā jāpaziņo attiecīgajai pašvaldībai.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 20.12.2007 . likumu, kas stājas spēkā 01.02.2008. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "19",
+      "title": "Būvniecību par valsts vai pašvaldību līdzekļiem reglamentē normatīvie akti par būvniecību un normatīvie akti par iepirkumu valsts vai pašvaldību vajadzībām.",
+      "content": "( 07.03.2002 . likuma redakcijā, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "20",
+      "title": "Būvekspertīzi rīko, ja risināms strīdus jautājums starp būvniecības dalībniekiem, kā arī pēc pasūtītāja vai būvvaldes ierosinājuma un citos gadījumos, kas noteikti Vispārīgajos būvnoteikumos.",
+      "content": "( 31.03.2004 . likuma redakcijā, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa. Būvniecības pamatnoteikumi",
+      "section": "21",
+      "title": "Būvniecības dalībnieki var pieaicināt būvekspertu būvniecības priekšlikumu, būvprojektu, būvizstrādājumu un būvdarbu kvalitātes novērtēšanai, kā arī atzinuma sniegšanai citos ar būvniecību saistītos jautājumos.",
+      "content": "21. pants. Būvniecības dalībnieki var pieaicināt būvekspertu būvniecības priekšlikumu, būvprojektu, būvizstrādājumu un būvdarbu kvalitātes novērtēšanai, kā arī atzinuma sniegšanai citos ar būvniecību saistītos jautājumos."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa. Būvnormatīvi, standarti un būvizstrādājumu atbilstības novērtēšana (Nodaļas nosaukums 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )",
+      "section": "22",
+      "title": "(1) Visiem būvniecības dalībniekiem, izņemot šā likuma 16.panta trešajā daļā minētos gadījumus, jāievēro Latvijas būvnormatīvi, kas nosaka pieļaujamos tehniskos parametrus, kritērijus un ierobežojumus. Latvijas būvnormatīvus apstiprina Ministru kabinets.",
+      "content": "(2) (Izslēgta ar 20.12.2007 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa. Būvnormatīvi, standarti un būvizstrādājumu atbilstības novērtēšana (Nodaļas nosaukums 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )",
+      "section": "23",
+      "title": "(1) Visiem būvniecības dalībniekiem jāievēro Latvijas nacionālo standartu un Eiropas tehnisko apstiprinājumu prasības, ja tas paredzēts likumos vai Ministru kabineta noteikumos.",
+      "content": "(2) Latvijas nacionālos standartus būvniecības jomā apstiprina nozares standartizācijas tehniskās komitejas un reģistrē Latvijas nacionālā standartizācijas institūcija.\n(3) Eiropas tehniskos apstiprinājumus izdod Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa. Būvnormatīvi, standarti un būvizstrādājumu atbilstības novērtēšana (Nodaļas nosaukums 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )",
+      "section": "24",
+      "title": "(1) Būvizstrādājumu ražotājam ir tiesības noteikt saviem izstrādājumiem uzņēmuma standartus. Tie nosaka izejvielu minimālās kvalitātes prasības un to pieļaujamās svārstības, kā arī būvizstrādājumu izgatavošanas, uzglabāšanas, transportēšanas un iebūvēšanas tehniskos noteikumus un tiem atbilstošas ražotāja garantijas.",
+      "content": "(2) Būvizstrādājumu ražotājs izstrādā uzņēmuma standartus un reģistrē tos Standartizācijas centrā saskaņā ar normatīvajiem aktiem standartizācijas jomā.\n(3) Uzņēmuma standarti nedrīkst būt pretrunā ar Latvijas nacionālajiem standartiem un citiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa. Būvnormatīvi, standarti un būvizstrādājumu atbilstības novērtēšana (Nodaļas nosaukums 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )",
+      "section": "25",
+      "title": "(1) Būvizstrādājumu ražotāja (izplatītāja) pienākums ir katrai vienlaicīgi pārdotai būvizstrādājumu partijai pievienot produkta tehnisko pasi, instrukciju vai cita veida rakstisku informāciju, kurā norādīts attiecīgā būvizstrādājuma izgatavošanas un piegādes datums un attiecīgajos normatīvi tehniskajos dokumentos noteikto rādītāju garantētās tehniskās un fizikālās īpašības, kā arī atbilstību apliecinošs dokuments saskaņā ar likumu \"Par atbilstības novērtēšanu\", ja būvizstrādājums pakļauts reglamentētās sfēras prasībām.",
+      "content": "(2) Būvizstrādājumu atbilstības novērtēšanas kārtību reglamentētajā sfērā nosaka Ministru kabineta izdoti normatīvie akti.\n(3) Par tādu būvizstrādājumu realizāciju vai iebūvēšanu būvē, kuriem nav produkta tehniskās pases, instrukcijas vai citādas rakstveida informācijas un atbilstību apliecinoša dokumenta vai ir nederīgs atbilstību apliecinošs dokuments (reglamentētās sfēras prasībām pakļautajiem būvizstrādājumiem), būvizstrādājumu ražotājs (izplatītājs), tirgotājs un būvuzņēmējs saucami pie likumos un citos normatīvajos aktos noteiktās atbildības."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa. Būvuzraudzība",
+      "section": "26",
+      "title": "(1) Pasūtītājam vai būvētājam ir tiesības, bet Vispārīgajos būvnoteikumos paredzētajos gadījumos pienākums būvniecības laikā uzaicināt būvprojekta autoru (autorus) sekot būvprojekta realizācijas gaitai — veikt autoruzraudzību.",
+      "content": "(2) Pasūtītāja vai būvētāja pienākums ir saskaņot ar būvprojekta autoru (autoriem) visas izmaiņas būvprojektā pirms attiecīgo būvdarbu veikšanas neatkarīgi no tā, tiek vai netiek veikta autoruzraudzība. Izmaiņas būvprojektā drīkst izdarīt tikai ar tā autora (autoru) akceptu. Izmaiņas var akceptēt Vispārējos būvnoteikumos paredzētajā kārtībā. Izmaiņu nesaskaņošana var būt par pamatu būvdarbu apturēšanai.\n(3) Būvprojekta autora (autoru) pienākums ir likumā noteiktajos gadījumos veikt autoruzraudzību vai iecelt savu pilnvaroto pārstāvi autoruzraudzības veikšanai.\n(4) Autoruzraudzības noteikumus būvniecībā apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa. Būvuzraudzība",
+      "section": "27",
+      "title": "(1) Ja būvniecība tiek veikta par valsts vai pašvaldību līdzekļiem, attiecīgajam būvētājam jāpieaicina būvuzraugs būvdarbu un būvizstrādājumu kvalitātes uzraudzīšanai.",
+      "content": "(2) Citiem būvētājiem un būvuzņēmējiem ir tiesības, bet Vispārīgajos būvnoteikumos paredzētajos gadījumos — pienākums pieaicināt būvuzraugu būvdarbu izpildes un būvizstrādājumu kvalitātes uzraudzīšanai.\n(3) Būvuzraugam nav tiesību izdarīt izmaiņas būvprojektā.\n(4) Būvuzraudzību, ja to paredz būvniecības dalībnieku savstarpējais līgums, var veikt kreditējošās bankas vai apdrošināšanas sabiedrības pārstāvis, kas saņēmis būvprakses vai arhitekta prakses sertifikātu.\n(5) Būvuzraudzības noteikumus apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa. Būvuzraudzība",
+      "section": "28",
+      "title": "28. pants.",
+      "content": "(Izslēgts ar 07.03.2002 . likumu, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VII nodaļa. Būvniecības kontrole",
+      "section": "29",
+      "title": "29. pants.",
+      "content": "(Izslēgts ar 12.06.2009 . likumu, kas stājas spēkā 01.07.2009. Sk. pārejas noteikumu 23.punktu.)"
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VII nodaļa. Būvniecības kontrole",
+      "section": "30",
+      "title": "(1) Būvinspektoram ir tiesības apskatīt un pārbaudīt būves, ieiet tajās, apsekot tās, pieprasīt paskaidrojumus un Vispārīgajos būvnoteikumos paredzētos dokumentus, kā arī lūgt uz būvuzņēmēja vai būvētāja rēķina atbrīvot telpas, padarot tās pieejamas, un atsegt būvju daļas, lai varētu pārbaudīt uzbūvēto konstrukciju, ja konstatētas nedrošuma pazīmes.",
+      "content": "(2) Par katru pārbaudi būvinspektors dod atzinumu un, ja nepieciešams, arī norādījumus par to, kā novēršami pārkāpumi.\n(3) Būvinspektoram ir tiesības apturēt būvniecību līdz laikam, kad atzinumā dotie norādījumi tiek izpildīti.\n(4) Ja būvniecība notiek bez būvatļaujas vai neatbilst akceptētajam būvprojektam, būvinspektors uzdod nekavējoties pārtraukt būvdarbus līdz attiecīgās pašvaldības pieņemtā lēmuma izpildei.\n(5) Ja būvinspektora konstatētos pārkāpumus ir iespējams novērst un būvniecību turpināt atbilstoši normatīvo aktu prasībām, pašvaldība, izvērtējot būvinspektora konstatētos pārkāpumus, var pieņemt vienu no šādiem motivētiem lēmumiem:\n1) lēmumu par iespēju turpināt būvniecību, norādot nosacījumus būvniecības turpināšanai;\n2) lēmumu par būvniecības radīto seku novēršanu (būves vai tās daļas nojaukšanu, iepriekšējā stāvokļa atjaunošanu u.tml.).\n(6) Ja būvniecība notiek bez akceptēta būvprojekta, pašvaldība pieņem lēmumu par šādas būvniecības radīto seku novēršanu (būves vai tās daļas nojaukšanu, iepriekšējā stāvokļa atjaunošanu u.tml.).\n(7) Šā panta piektajā un sestajā daļā minēto būvniecības radīto seku novēršanas kārtību nosaka Ministru kabinets.\n(8) Būvniecības, arī vides pieejamības, kontroles tiesību iegūšanas un anulēšanas kārtību un prasības personām, kuras vēlas kļūt par būvinspektoriem, kā arī būvinspektoru tiesības, pienākumus un profesionālās darbības uzraudzības kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 30.1",
+      "chapter": "VII nodaļa. Būvniecības kontrole",
+      "section": "30.1",
+      "title": "30. 1 pants. (Izslēgts ar 13.06.2013 . likumu, kas stājas spēkā 01.07.2013. )",
+      "content": "30. 1 pants. (Izslēgts ar 13.06.2013 . likumu, kas stājas spēkā 01.07.2013. )"
+    },
+    {
+      "provision_ref": "Art. 30.2",
+      "chapter": "VII nodaļa. Būvniecības kontrole",
+      "section": "30.2",
+      "title": "30. 2 pants. (1) Būvatļauju vai atteikumu izsniegt būvatļauju likumā noteiktajā kārtībā var apstrīdēt vai pārsūdzēt mēneša laikā, skaitot no šā likuma 7.panta 1. 2 daļas 3.punktā noteiktās dienas.",
+      "content": "(2) Kopējais laiks, kurā būvniecības procesā izdota administratīvā akta apstrīdēšanas iesniegums tiek izskatīts iestādē, nedrīkst būt ilgāks par diviem mēnešiem no iesnieguma saņemšanas dienas.\n(3) Personai ir pienākums iesniegumā par administratīvā akta apstrīdēšanu vai pieteikumā par administratīvā akta pārsūdzēšanu pamatot administratīvā akta prettiesiskumu.\n(4) Iestāde, kas saņēmusi iesniegumu, kurā apstrīdēta būvatļauja vai lēmums par būvatļaujas atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu, vai tiesa, kas saņēmusi pieteikumu, kurā pārsūdzēts iestādes lēmums par būvatļaujas atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu, nosūta paziņojumu būvatļaujas izdevējam un būvatļaujas saņēmējam par to, ka šīs iestādes vai tiesas rīcībā ir iesniegums vai pieteikums par būvatļaujas apstrīdēšanu vai pārsūdzēšanu.\n(5) Pašvaldības būvvalde, kas saņēmusi šā panta ceturtajā daļā minēto paziņojumu, neizdod izziņu, kurā norādīts jaunbūves būvniecības tiesiskais pamatojums un jaunbūves raksturojums, un nepieņem būvi ekspluatācijā līdz brīdim, kad iestādes lēmums kļuvis neapstrīdams vai likumīgā spēkā ir stājies tiesas spriedums. Ja tiesa pieņēmusi lēmumu par būvatļaujas darbības atjaunošanu un lēmumā nav norādījusi citādi, pašvaldības būvvalde ir tiesīga izsniegt izziņu par būvniecības tiesisko pamatu un jaunbūves raksturojumu un pieņemt būvi ekspluatācijā, vienlaikus iekļaujot minētajos dokumentos atzīmi par tiesvedību.\n(6) Būvatļaujas par nacionālo interešu objekta būvniecību apstrīdēšana vai pārsūdzēšana neaptur tās darbību.\n(7) Lēmuma par būvniecības apturēšanu, būvdarbu pārtraukšanu vai būvatļaujas atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu apstrīdēšana vai pārsūdzēšana neaptur šā lēmuma darbību."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VIII nodaļa. Sagruvušo būvju un kultūras pieminekļu sarakstā esošo būvju savešana kārtībā vai nojaukšana",
+      "section": "31",
+      "title": "(1) Ja būve ir pilnīgi vai daļēji sagruvusi vai nonākusi tādā stāvoklī, ka tās lietošana ir bīstama vai tā bojā ainavu, īpašniekam saskaņā ar attiecīgās pašvaldības lēmumu tā jāsaved kārtībā vai jānojauc atbilstoši Civillikuma 1084.panta noteikumiem.",
+      "content": "(2) Pašvaldības lēmumu var pārsūdzēt tiesā viena mēneša laikā no tā paziņošanas dienas.\n(3) Ja būves īpašnieks līdz noteiktajam laikam nav izpildījis pašvaldības lēmumu, pašvaldība organizē šīs būves savešanu kārtībā vai nojaukšanu. Ar savešanu kārtībā vai nojaukšanu saistītos izdevumus sedz būves īpašnieks.\n(4) Lēmums par būves nojaukšanu saskaņojams ar Valsts kultūras pieminekļu aizsardzības inspekciju, ja ēka iekļauta valsts aizsargājamo kultūras pieminekļu sarakstā vai ir vecāka par 50 gadiem.\n(5) Būves nojaukšana veicama Vispārīgajos būvnoteikumos paredzētajā kārtībā saskaņā ar akceptēto būvprojektu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VIII nodaļa. Sagruvušo būvju un kultūras pieminekļu sarakstā esošo būvju savešana kārtībā vai nojaukšana",
+      "section": "32",
+      "title": "Valsts aizsargājamo kultūras pieminekļu un to aizsardzības zonā esošo būvju pārveidošanu to īpašnieki, valdītāji vai lietotāji veic saskaņā ar likumu \"Par kultūras pieminekļu aizsardzību\".",
+      "content": "( 07.03.2002 . likuma redakcijā ar grozījumiem, kas izdarīti ar 20.12.2007 . likumu, kas stājas spēkā 01.02.2008. )"
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "33",
+      "title": "(1) Būvniecības dalībnieka pienākums ir šajā likumā un Civillikumā noteiktajā kārtībā atlīdzināt citam būvniecības dalībniekam un trešajām personām tos zaudējumus, kurus viņš nodarījis ar savu darbību vai bezdarbību.",
+      "content": "(2) Ja viens no būvniecības dalībniekiem ir noslēdzis līgumu ar otru būvniecības dalībnieku, kuram saskaņā ar šā likuma 8. vai 10.pantu nav tiesību veikt līgumā paredzētos darbus, un šā otrā būvniecības dalībnieka nekompetences dēļ ir nodarīti zaudējumi trešajām personām, par minētajiem zaudējumiem materiāli atbildīgs ir pirmais būvniecības dalībnieks.\n(3) Katrs būvniecības dalībnieks un būvē lietoto būvizstrādājumu ražotājs savas līdzdalības ietvaros saskaņā ar šo likumu un Civillikumu ir atbildīgs par zaudējumiem, kas radušies Vispārīgajos būvnoteikumos noteiktajā garantijas laikā, ja savstarpēji noslēgtajos līgumos nav paredzēts citādi."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "34",
+      "title": "(1) Būvuzņēmējam un būvētājam ir pienākums apdrošināt savu civiltiesisko atbildību par tā darbības vai bezdarbības rezultātā nodarīto kaitējumu trešo personu dzīvībai un veselībai un nodarītajiem zaudējumiem trešo personu mantai.",
+      "content": "(2) Ja būvdarbu veikšanai nepieciešama būvatļauja, būvuzņēmēja un būvētāja civiltiesiskā atbildība apdrošināma, turklāt uz laiku, kamēr tiek veikti būvdarbi."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "35",
+      "title": "Civiltiesiskās atbildības apdrošināšanas līgumu noslēdz uz vienu gadu par visiem būvobjektiem, katru gadu atjaunojot vai noslēdzot to no jauna, vai arī atsevišķi par katru būvobjektu.",
+      "content": "35. pants. Civiltiesiskās atbildības apdrošināšanas līgumu noslēdz uz vienu gadu par visiem būvobjektiem, katru gadu atjaunojot vai noslēdzot to no jauna, vai arī atsevišķi par katru būvobjektu."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "36",
+      "title": "(1) Apdrošinātāja atbildības limits ir izmaksājamā maksimālā naudas summa faktisko zaudējumu kompensēšanai, kura noteikta attiecīgi vienam apdrošināšanas gadījumam un visam līguma (polises) darbības periodam.",
+      "content": "(2) Apdrošinātāja atbildības limits par vienu apdrošināšanas gadījumu un par apdrošināšanas līguma (polises) apdrošināšanas periodu kopā tiek norādīts apdrošināšanas līgumā (polisē).\n(3) Atbildības limits vienam gadījumam ir vienāds ar atbildības limitu, kas noteikts par apdrošināšanas līguma (polises) darbības periodu kopā."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "37",
+      "title": "Iestājoties apdrošināšanas gadījumam, apdrošinātājs, kurš apdrošinājis zaudējumu vai kaitējumu nodarījušā apdrošinātā civiltiesisko atbildību, izmaksā apdrošināšanas atlīdzību tādā apmērā, kas atbilst trešajai personai nodarītā kaitējuma faktiskajam apmēram naudas izteiksmē, nepārsniedzot apdrošināšanas līgumā noteikto apdrošinātāja atbildības limitu attiecībā uz jebkuru vienu gadījumu un ieturot polisē norādīto pašrisku, kas nedrīkst pārsniegt 20 procentus no atbildības limita.",
+      "content": "37. pants. Iestājoties apdrošināšanas gadījumam, apdrošinātājs, kurš apdrošinājis zaudējumu vai kaitējumu nodarījušā apdrošinātā civiltiesisko atbildību, izmaksā apdrošināšanas atlīdzību tādā apmērā, kas atbilst trešajai personai nodarītā kaitējuma faktiskajam apmēram naudas izteiksmē, nepārsniedzot apdrošināšanas līgumā noteikto apdrošinātāja atbildības limitu attiecībā uz jebkuru vienu gadījumu un ieturot polisē norādīto pašrisku, kas nedrīkst pārsniegt 20 procentus no atbildības limita."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "38",
+      "title": "(1) Trešās personas mantai nodarītie zaudējumi tiek novērtēti, ievērojot kompensācijas principu atbilstoši likumam \"Par apdrošināšanas līgumu\". Apdrošināšanas atlīdzības apmērs tiek noteikts, pusēm vienojoties.",
+      "content": "(2) Pušu strīda gadījumā apdrošināšanas atlīdzības apmēru nosaka normatīvajos aktos paredzētajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "39",
+      "title": "Ja, iestājoties apdrošināšanas gadījumam, zaudējumi ir nodarīti vairākām personām un zaudējumu apmērs pārsniedz apdrošināšanas līgumā (polisē) noteikto atbildības limitu, apdrošināšanas atlīdzība tiek aprēķināta katram prasītājam proporcionāli viņam nodarītajiem zaudējumiem tādā apmērā, lai kopējā izmaksājamā atlīdzība nepārsniegtu apdrošināšanas līgumā (polisē) norādītā viena apdrošināšanas gadījuma atbildības limitu.",
+      "content": "39. pants. Ja, iestājoties apdrošināšanas gadījumam, zaudējumi ir nodarīti vairākām personām un zaudējumu apmērs pārsniedz apdrošināšanas līgumā (polisē) noteikto atbildības limitu, apdrošināšanas atlīdzība tiek aprēķināta katram prasītājam proporcionāli viņam nodarītajiem zaudējumiem tādā apmērā, lai kopējā izmaksājamā atlīdzība nepārsniegtu apdrošināšanas līgumā (polisē) norādītā viena apdrošināšanas gadījuma atbildības limitu."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "40",
+      "title": "Būvuzņēmēja vai būvētāja civiltiesiskās atbildības obligātās apdrošināšanas esamību uzrauga būvatļaujas izsniedzējs.",
+      "content": "40. pants. Būvuzņēmēja vai būvētāja civiltiesiskās atbildības obligātās apdrošināšanas esamību uzrauga būvatļaujas izsniedzējs."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "IX nodaļa. Atbildība un apdrošināšana būvniecībā (Nodaļa 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. Sk. pārejas noteikumus.)",
+      "section": "41",
+      "title": "Civiltiesiskās atbildības apdrošināšanas kārtību un civiltiesiskās atbildības apdrošināšanas minimālo atbildības limitu nosaka Ministru kabinets.",
+      "content": "41. pants. Civiltiesiskās atbildības apdrošināšanas kārtību un civiltiesiskās atbildības apdrošināšanas minimālo atbildības limitu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "42",
+      "title": "(1) Ja starptautiskajā līgumā, ko apstiprinājusi Saeima, ir paredzēti citādi būvniecības noteikumi nekā šajā likumā, piemērojami starptautiskā līguma noteikumi.",
+      "content": "(2) Ja starptautiskajā līgumā, ko nav apstiprinājusi Saeima, paredzēti citādi būvniecības noteikumi nekā Latvijas likumos, piemērojami Latvijas likumu noteikumi."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn1",
+      "title": "1. Līdz Vispārīgo būvnoteikumu izdošanai apbūve saskaņojama ar tām valsts pārvaldes institūcijām, kuras norādītas Ministru kabineta izdotajos \"Teritoriālplānošanas noteikumos\", un tās uzsākšana pieļaujama pēc publiskas apspriešanas.",
+      "content": "1. Līdz Vispārīgo būvnoteikumu izdošanai apbūve saskaņojama ar tām valsts pārvaldes institūcijām, kuras norādītas Ministru kabineta izdotajos \"Teritoriālplānošanas noteikumos\", un tās uzsākšana pieļaujama pēc publiskas apspriešanas."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn2",
+      "title": "2. (Izslēgts ar 10.03.2005 likumu, kas stājas spēkā 07.04.2005. )",
+      "content": "2. (Izslēgts ar 10.03.2005 likumu, kas stājas spēkā 07.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn3",
+      "title": "3. Līdz 1998.gada 1.martam 31.panta pirmās, otrās un trešās daļas noteikumi nav attiecināmi uz būvēm, kuras bijušas nacionalizētas vai citādi prettiesiski atsavinātas un kuras bojā ainavu, ja iemesls šādam būvju tehniskajam stāvoklim radies periodā, kad tās nav atradušās likumīgā īpašnieka valdījumā.",
+      "content": "3. Līdz 1998.gada 1.martam 31.panta pirmās, otrās un trešās daļas noteikumi nav attiecināmi uz būvēm, kuras bijušas nacionalizētas vai citādi prettiesiski atsavinātas un kuras bojā ainavu, ja iemesls šādam būvju tehniskajam stāvoklim radies periodā, kad tās nav atradušās likumīgā īpašnieka valdījumā."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn4",
+      "title": "4. Licence, kuru Latvijas Arhitektu savienība, Latvijas Būvinženieru savienība vai Latvijas Siltuma, gāzes un ūdens tehnoloģijas inženieru savienība līdz šim izsniegusi saskaņā ar likuma \"Par uzņēmējdarbību\" 32.pantu , pielīdzināma šā likuma 8.pantā minētajam būvprakses vai arhitekta prakses sertifikātam, paliekot spēkā licencē norādītajam derīguma termiņam.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 07.03.2002 . likumu, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn5",
+      "title": "5. Līdz attiecīgu Latvijas būvnormatīvu apstiprināšanai piemērojami pašreizējie būvnormatīvi.",
+      "content": "5. Līdz attiecīgu Latvijas būvnormatīvu apstiprināšanai piemērojami pašreizējie būvnormatīvi."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn6",
+      "title": "6. Ministru kabinets izstrādā projektu grozījumiem likumā \"Par valsts budžetu 1995.gadam\", paredzot 10 būvinspektoru štata vietas reģionālajās vides aizsardzības komitejās.",
+      "content": "6. Ministru kabinets izstrādā projektu grozījumiem likumā \"Par valsts budžetu 1995.gadam\", paredzot 10 būvinspektoru štata vietas reģionālajās vides aizsardzības komitejās."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn7",
+      "title": "7. (Izslēgts ar 07.03.2002 . likumu, kas stājas spēkā 03.04.2002. )",
+      "content": "7. (Izslēgts ar 07.03.2002 . likumu, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn8",
+      "title": "8. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.17 \" Būvniecības noteikumi \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 4.nr.).",
+      "content": "8. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.17 \" Būvniecības noteikumi \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 4.nr.)."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn9",
+      "title": "9. (Izslēgts ar 10.03.2005 likumu, kas stājas spēkā 07.04.2005. )",
+      "content": "9. (Izslēgts ar 10.03.2005 likumu, kas stājas spēkā 07.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn10",
+      "title": "10. Ja attiecīgajā vietējā pašvaldībā nav normatīvajos aktos noteiktajā kārtībā izstrādāts un apstiprināts teritorijas plānojums (ja nepieciešams — arī detālais plānojums), līdz 2003.gada 31.decembrim vietējā pašvaldība ir tiesīga Vispārīgajos būvnoteikumos paredzētajā kārtībā pieņemt lēmumu par atļauju veikt būvniecību konkrētā zemes gabalā, izņemot Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslu. Minētajā lēmumā norādāmi konkrētā zemes īpašuma atsavināšanas un lietošanas tiesību aprobežojumi, kas īpašniekam jāievēro visā būvniecības un būves pastāvēšanas laikā.",
+      "content": "( 13.03.2003 . likuma redakcijā, kas stājas spēkā 27.03.2003. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn11",
+      "title": "11. Pēc 2003.gada 31.decembra vietējās pašvaldībās, kurām nav spēkā esoša teritorijas plānojuma (arī detālā plānojuma), jebkura būvniecības iecere nododama publiskai apspriešanai.",
+      "content": "( 07.03.2002 . likuma redakcijā, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn12",
+      "title": "12. Ministru kabinets līdz 2002.gada 1.aprīlim izstrādā attiecīgus grozījumus normatīvajos aktos, lai nodrošinātu vides pieejamības prasību ievērošanu.",
+      "content": "( 07.03.2002 . likuma redakcijā, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn13",
+      "title": "13. Likuma 6.panta jaunā redakcija stājas spēkā 2002.gada 1.jūlijā.",
+      "content": "( 07.03.2002 . likuma redakcijā, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn14",
+      "title": "14. Šā likuma 10. 1 panta noteikumi līdz 2004.gada 31.decembrim attiecināmi arī uz līgumsabiedrībām un amatnieku individuālajiem un ģimenes uzņēmumiem.",
+      "content": "( 07.03.2002 . likuma redakcijā, kas stājas spēkā 03.04.2002. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn15",
+      "title": "15.Līdz 2006.gada 30.jūnijam komersants, kuram ir spēkā esoša Vides aizsardzības un reģionālās attīstības ministrijas vai Ekonomikas ministrijas izsniegta licence uzņēmējdarbībai būvniecībā un kurš darbojas atbilstoši licences nosacījumiem, var nereģistrēties būvkomersantu reģistrā.",
+      "content": "( 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn16",
+      "title": "16.Ministru kabinets līdz 2006.gada 1.jūlijam izdod attiecīgus normatīvos aktus, lai nodrošinātu Būvniecības likuma 4.panta pirmās daļas 9.punkta izpildi.",
+      "content": "( 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 16.1",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn16.1",
+      "title": "16. 1 Līdz dienai, kad šā likuma 4.panta pirmās daļas 9.punktā paredzētā informatīvā datubāze pilnībā uzsāk darbību, vietējā pašvaldība Ekonomikas ministrijai nosūta informāciju par izsniegtajām būvatļaujām un ekspluatācijā pieņemtajām būvēm. Ekonomikas ministrija nodrošina citām valsts pārvaldes iestādēm piekļuvi šai informācijai, ja tas nepieciešams šīm iestādēm normatīvajos aktos noteikto uzdevumu izpildei. Ministru kabinets nosaka, kādā apjomā un kārtībā nosūtāma informācija par izsniegtajām būvatļaujām un ekspluatācijā pieņemtajām būvēm, kā arī kārtību, kādā šī informācija ir pieejama citām valsts pārvaldes iestādēm.",
+      "content": "( 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn17",
+      "title": "17.Šā likuma normas, kas regulē būvkomersantu reģistrāciju un civiltiesiskās atbildības apdrošināšanu (grozījumi šā likuma 1.panta 20.punktā, 10. 1 panta ceturtajā daļā un 37.pantā , kā arī 1.panta 31.punkta, 4.panta pirmās daļas 6.punkta, 10.panta , 10. 1 panta otrās daļas un IX nodaļas jaunā redakcija), stājas spēkā 2005.gada 1.jūlijā.",
+      "content": "( 10.03.2005 . likuma redakcijā, kas stājas spēkā 07.04.2005. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn18",
+      "title": "18. Likuma 6.panta pirmās daļas 8.punkts ir spēkā līdz 2007.gada 31.maijam.",
+      "content": "( 09.03.2006 . likuma redakcijā, kas stājas spēkā 30.03.2006. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn19",
+      "title": "19. Likuma 12.panta jaunā redakcija (kas nosaka gadījumus, kad pašvaldība nodrošina būves publisku apspriešanu un kad būves publisku apspriešanu nerīko) stājas spēkā 2007.gada 1.janvārī.",
+      "content": "( 25.05.2006 . likuma redakcijā, kas stājas spēkā 28.06.2006. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn20",
+      "title": "20. Būvniecības publiskā apspriešana, kas uzsākta un nav pabeigta līdz 2006.gada 31.decembrim, pabeidzama kārtībā, kāda bija spēkā attiecīgās būvniecības publiskās apspriešanas uzsākšanas dienā.",
+      "content": "( 25.05.2006 . likuma redakcijā, kas stājas spēkā 28.06.2006. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn21",
+      "title": "21. Ministru kabinets ne vēlāk kā līdz 2006.gada 1.novembrim izdod šā likuma 30.panta septītajā daļā paredzētos noteikumus.",
+      "content": "( 25.05.2006 . likuma redakcijā, kas stājas spēkā 28.06.2006. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn22",
+      "title": "22. Ministru kabinets līdz 2008.gada 31.decembrim izdod šā likuma 2.panta piektajā daļā minētos noteikumus.",
+      "content": "( 20.12.2007 . likuma redakcijā, kas stājas spēkā 01.02.2008. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn23",
+      "title": "23. Šā likuma 29.panta trešā daļa zaudē spēku 2009.gada 1.oktobrī.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn24",
+      "title": "24. Šā likuma 7.panta pirmās daļas 5.punkta, 7.panta 1. 1 un 1. 2 daļas, 13.panta sestās un septītās daļas grozījumos noteiktā kārtība ir piemērojama būvatļaujām, kuras izsniegtas pēc 2013.gada 1.jūnija.",
+      "content": "( 18.04.2013 . likuma redakcijā ar grozījumiem, kas izdarīti ar 13.06.2013 . likumu, kas stājas spēkā 01.07.2013. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "X nodaļa. Starptautiskie līgumi",
+      "section": "pn25",
+      "title": "25. Šā likuma 30. 2 panta redakcija piemērojama attiecībā uz būvatļaujām, kuras izdotas, sākot ar 2013.gada 1.jūniju, izņemot šā panta piekto daļu, kas attiecas arī uz būvatļaujām, kuras izdotas pirms 2013.gada 1.jūnija.",
+      "content": "( 13.06.2013 . likuma redakcijā, kas stājas spēkā 01.07.2013. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apbūve",
+      "definition": "noteiktā teritorijā izvietotu būvju kopums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvatļauja",
+      "definition": "Vispārīgajos būvnoteikumos paredzētajā kārtībā izsniegts dokuments, kas apliecina tiesības veikt objekta būvdarbus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būve",
+      "definition": "būvniecības procesā radies ar zemi saistīts veidojums, kam ir noteikta funkcija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvekspertīze",
+      "definition": "profesionāla pārbaude, kuras mērķis ir dot pamatotu atzinumu par būvprojekta, būves tehniskā stāvokļa vai veikto būvdarbu tehnisko risinājumu atbilstību normatīvo aktu un tehnisko noteikumu prasībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būveksperts",
+      "definition": "sertificēta fiziskā persona, kas valsts, pašvaldības vai būvniecības dalībnieka uzdevumā veic būvekspertīzi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvdarbi",
+      "definition": "būvniecības procesa sastāvdaļa, darbi, kas tiek veikti būvlaukumā vai būvē, arī nojaukšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvētājs",
+      "definition": "nekustamā īpašuma īpašnieks, valdītājs vai lietotājs, kas pats organizē būvniecības procesu, piedalās tajā un ir par to atbildīgs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvinspektors",
+      "definition": "pašvaldības amatpersona, kurai piešķirtas būvdarbu kontroles tiesības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvizstrādājums",
+      "definition": "ikviens materiāls, detaļa vai rūpnieciski izgatavota konstrukcija, kas paredzēta iestrādāšanai būvē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvniecība",
+      "definition": "visu veidu būvju projektēšana un būvdarbi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvniecības dalībnieki",
+      "definition": "fiziskās vai juridiskās personas, kuras ar īpašumu, finanšu līdzekļiem, darbu vai pakalpojumu piedalās būvniecības procesā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvnormatīvi",
+      "definition": "visiem būvniecības dalībniekiem saistošu normu un noteikumu kopums, kas reglamentē būvniecību un būvju ekspluatāciju, kā arī skaidro būvniecības terminoloģiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvprakses vai arhitekta prakses sertifikāts",
+      "definition": "dokuments, kas apliecina fiziskās personas profesionālo kvalifikāciju attiecīgajā būvniecības jomā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvprojekts",
+      "definition": "būvniecības ieceres īstenošanai nepieciešamo dokumentu, rasējumu un teksta materiālu kopums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvuzņēmējs",
+      "definition": "fiziskā vai juridiskā persona, kas, pamatojoties uz līgumu, kurš noslēgts ar pasūtītāju, veic būvdarbus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvuzraugs",
+      "definition": "fiziskā vai juridiskā persona, kas pasūtītāja interesēs uzrauga būvdarbus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "inženierkomunikācija",
+      "definition": "ierīce, aprīkojums vai ierīču un aprīkojumu kopums, kas paredzēts būves apgādei ar izejvielām, sakariem, energoresursiem un citiem resursiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "patvaļīga būvniecība",
+      "definition": "būvdarbi, kas tiek veikti bez būvatļaujas vai neatbilst akceptētajam būvprojektam, izņemot Vispārīgajos būvnoteikumos paredzētos gadījumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Vispārīgie būvnoteikumi",
+      "definition": "Ministru kabineta izdoti noteikumi, kas reglamentē būvniecības pamatnosacījumus, ciktāl tos nenosaka šis likums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pasūtītājs",
+      "definition": "nekustamā īpašuma īpašnieks, valdītājs vai lietotājs, kura uzdevumā, pamatojoties uz noslēgto līgumu, tiek veikta būvniecība, kā arī pašvaldība, veicot sagruvušo būvju un kultūras pieminekļu sarakstā esošo būvju savešanu kārtībā vai nojaukšanu vai patvaļīgās būvniecības objektu nojaukšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tehniskie noteikumi",
+      "definition": "konkrētai būvei, apbūvei, būvizstrādājumam vai būvdarbu procesam noteiktās tehniskās prasības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvvalde",
+      "definition": "pašvaldības institūcija, kas pārzina, kā arī kontrolē būvniecību attiecīgajā administratīvajā teritorijā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides pieejamība",
+      "definition": "iespēja cilvēkiem ar kustību, redzes vai dzirdes traucējumiem pārvietoties vidē atbilstoši plānotajai būves funkcijai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvamatniecība",
+      "definition": "būvniecības darbi, kurus veic fiziskā vai juridiskā persona atbilstoši likumam \"Par amatniecību\"",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "arhitekta prakse",
+      "definition": "sertificēta arhitekta patstāvīga profesionāla darbība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvprakse",
+      "definition": "sertificēta būvinženiera patstāvīga profesionāla darbība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "trešā persona būvuzņēmēja un būvētāja civiltiesiskās atbildības apdrošināšanā",
+      "definition": "jebkura fiziskā vai juridiskā persona, izņemot apdrošinājuma ņēmēju, apdrošināto, apdrošinātā darbinieku vai personu, kas uz cita līguma pamata veic būvdarbus apdrošinātā labā, apdrošinātāju un pārējos būvniecības dalībniekus.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

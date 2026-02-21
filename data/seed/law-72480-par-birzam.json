@@ -1,0 +1,285 @@
+{
+  "id": "lv-law-72480",
+  "type": "statute",
+  "title": "Par biržām",
+  "title_en": "On Stock Exchanges",
+  "short_name": "TA-72480",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/72480-par-birzam",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 213",
+      "section": "213",
+      "title": "LIKUMĀ LIETOTIE TERMINI",
+      "content": "Birža ir akciju sabiedrība, kas veicina tirdzniecību ar precēm, finanšu instrumentiem, valūtu un nekustamo īpašumu (pirkšanu—pārdošanu), rīkojot publiskas izsoles, kurās piedalās biržā reģistrētie brokeri.\nPreču birža ir birža, kurā notiek darījumu slēgšana par precēm (aizstājamām lietām) pēc to paraugiem vai aprakstiem un standartiem.\nFondu birža ir birža, kurā notiek darījumu slēgšana par finanšu instrumentiem un ārvalstu valūtu.\nBiržas biedri ir personas, kuru īpašumā ir biržas akcijas un kuras piedalās biržas pārvaldē un veic biržas darījumus.\nBiržas apmeklētāji ir fiziskās personas vai juridisko personu pārstāvji, kuriem ir tiesības apmeklēt biržas sanāksmes, bet nav tiesību veikt biržas darījumus.\nBiržas sanāksme ir biržas biedru un brokeru sapulcēšanās biržas zālē noteiktā laikā biržas darījumu slēgšanai.\nBiržas darījums ir darījums, kas noslēgts biržas zālē biržas sanāksmes laikā publiskā izsolē, kurā piedalās brokeri, dīleri un biržas apmeklētāji, kuriem ir tiesības piedalīties biržas darījumos.\nBiržas brokers ir fiziskā vai juridiskā persona (brokeru kantoris), kas veic biržas darījumus, saņemot par to komisijas atlīdzību. Brokers var kļūt par biržas biedru, iegādājoties biržas akcijas.\nDīlers ir brokers, kuram ir tiesības veikt biržas darījumus uz sava rēķina.\nBiržas mākleris ir biržas kalpotājs (operāciju brokers), kurš biržas sanāksmē noskaidro pieprasījumu un piedāvājumu un reģistrē darījumus.\nMākleriāts ir biržas mākleru grupa (nodaļa), kas darbojas kā biržas struktūrvienība.\nKotēšana ir process, kura gaitā īpaša biržas izpildinstitūcija (parasti kotācijas komisija) nosaka un publicē biržas biļetenos preču vai finanšu instrumentu cenas un ārvalstu valūtas kursu.\nNorēķinu komisija ir biržas struktūrvienība, kas reģistrē noslēgtos termiņdarījumus un nodrošina biržas biedru (brokeru) norēķinus par tiem.\nPrece ir priekšmets vai pakalpojums, kam var noteikt vērtību, to pērkot vai pārdodot tirgū.\nValūta ir nacionālās un ārvalstu naudaszīmes, kas izteiktas ārvalstu naudas vienībās un tiek izmantotas starpvalstu norēķinos vai valūtas tirgū."
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Biržas tiesiskais statuss",
+      "content": "Birža ir akciju sabiedrība, kas darbojas saskaņā ar Komerclikumu, šo likumu, biržas statūtiem un biržas tirdzniecības noteikumiem. Komerclikums attiecībā uz biržām ir piemērojams tiktāl, ciktāl tas nav pretrunā ar šo likumu.\nBiržas darbības mērķis ir tirdzniecības veicināšana.\nPar noslēgtajiem darījumiem (par starpniecības pakalpojumiem) birža saņem komisijas atlīdzību.\nValsts pārvaldes institūciju darbiniekiem piedalīties biržas darījumos ir aizliegts.\nBirža iegūst juridiskās personas statusu ar dienu, kad tā ierakstīta komercreģistrā kā akciju sabiedrība.\nPiesakot biržu ierakstīšanai komercreģistrā, papildus Komerclikumā noteiktajiem dokumentiem jāiesniedz apstiprināti biržas tirdzniecības noteikumi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma darbība",
+      "content": "Šis likums regulē preču biržu, nekustamā īpašuma biržu un universālo biržu darbību. Fondu biržu darbību regulē Finanšu instrumentu tirgus likums."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Biržas Funkcijas",
+      "content": "Biržas galvenās funkcijas ir:\n1) starpniecība valūtas un preču (arī nekustamā īpašuma) pirkšanā—pārdošanā un darījumu slēgšanā;\n2) valūtas kursa un preču kotēšana, pamatojoties uz pieprasījumu un piedāvājuma attiecībām biržas darījumos;\n3) tirgus konjunktūras izpēte, kā arī preču apgrozības un ar to saistīto tirdzniecības darījumu veicināšana;\n4) šķīrējtiesas pienākumu pildīšana ar biržas darījumiem saistīto strīdu izšķiršanā;\n5) kārtības un likumības nodrošināšana biržas darījumos."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Kārtība, kādā apstiprina noteikumus, kas regulē biržas darbību",
+      "content": "Biržas statūti, tās dienestu nolikumi, nolikumi par biržas mākleriem un kotācijas komisiju par biržas akciju izsoli, kā arī biržas tirdzniecības noteikumi tiek izstrādāti saskaņā ar šo likumu, un tos pieņem biržas biedru pilnsapulce."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Biržas statūti",
+      "content": "Biržas statūtos jānorāda:\n1) biržas specializācija atkarībā no darbības sfēras: preču (arī nekustamā īpašuma) vai universālā birža;\n2) biržas biedru uzņemšanas un izslēgšanas kārtība;\n3) biržas pamatkapitāla veidošanas noteikumi, tā minimālais lielums un daļas nominālvērtība;\n4) biržas biedru un apmeklētāju tiesības un pienākumi;\n5) biržas struktūra un pārvaldes kārtība;\n6) biržas akciju izsoles organizācijas kārtība;\n7) biržas dienestu funkcijas, tiesības un pienākumi;\n8) biržas dokumentu noformēšanas prasības tin tirdzniecības noteikumu publicēšanas kārtība;\n9) ar biržas darījumu noslēgšanu saistīto strīdu izšķiršanas kārtība;\n10) citi būtiski biržas darbības noteikumi."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Biržas tirdzniecības noteikumi",
+      "content": "Biržas tirdzniecības noteikumi jāizstrādā saskaņā ar šo likumu un biržas statūtiem.\nBiržas tirdzniecības noteikumos jānorāda:\n1) biržas darījumu veidi;\n2) tirdzniecības kārtība biržā;\n3) biržas informācijas sistēma, biržas cenu un kursu veidošanas kārtība, to publicēšanas veids;\n4) prasības biržas brokeru un mākleru godīgumam; veicot biržas darījumus, un viņu atbildība;\n5) biržas nodevu veidi un lielums, biržas norēķinu kārtība;\n6) biržas sodi.\nTurklāt visām biržām obligāti ir šādi tirdzniecības noteikumi:\n1) biržas darījumu noslēgšana vienīgi biržas sanāksmē (zālē) publiskā izsolē;\n2) visu noslēgto biržas darījumu reģistrēšana;\n3) biržas tirgus dalībnieku informēšana par biržas darījumu cenām;\n4) aizliegums algotiem biržas darbiniekiem piedalīties biržas darījumos un veidot brokeru firmas;\n5) aizliegums algotiem biržas darbiniekiem tieši vai netieši izmantot savā labā vai nodot citām personām dienesta informāciju par biržas operācijām."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Biržas nodibināšana",
+      "content": "Biržu nodibina saskaņā ar Komerclikumu, ņemot vērā šā likuma prasības.\n(Otrā daļā izslēgta ar 11.06.1997 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Biržas pamatkapitāls, obligātā rezerve un akcijas (Nodaļas nosaukums 09.03.2006 . likuma redakcijā, kas stājas spēkā 06.04.2006. )",
+      "section": "8",
+      "title": "Biržas pamatkapitāls un obligātā rezerve",
+      "content": "Biržas pamatkapitālu veido biržas biedru ieguldījumi un citi šā likuma 9. pantā norādītie ienākumi.\nPamatkapitāla lielumu, kam ir jāatbilst izlaisto akciju kopvērtībai, un ieguldījumu veidu nosaka biržas dibinātāji.\nPamatkapitāla minimālais lielums ir 142 287 euro .\nBiržas obligāto rezervi veido atskaitījumi no biržas ienākumiem par pārdotajām brokeru vietām un citiem ienākumiem. Šo atskaitījumu lielumu nosaka biržas biedru pilnsapulce, ievērojot noteikumu, ka obligātajai rezervei 10 gadu laikā jāsasniedz vismaz trešdaļa no pamatkapitāla."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Biržas pamatkapitāls, obligātā rezerve un akcijas (Nodaļas nosaukums 09.03.2006 . likuma redakcijā, kas stājas spēkā 06.04.2006. )",
+      "section": "9",
+      "title": "Biržas ienākumi",
+      "content": "Biržas ienākumus veido:\n1) procenti par biržas pamatkapitāla noguldījumiem;\n2) soda naudas par biržā noteiktās kārtības neievērošanu;\n3) maksa par biržas pakalpojumiem;\n4) ienākumi no biržas īpašuma;\n5) ienākumi no maksas par apmeklētāja kartēm."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Biržas pamatkapitāls, obligātā rezerve un akcijas (Nodaļas nosaukums 09.03.2006 . likuma redakcijā, kas stājas spēkā 06.04.2006. )",
+      "section": "10",
+      "title": "Biržas akcijas",
+      "content": "Birža izlaiž tikai vārda akcijas.\nJautājumus par akciju emisiju regulē Komerclikums un Finanšu instrumentu tirgus likums."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Biržas pamatkapitāls, obligātā rezerve un akcijas (Nodaļas nosaukums 09.03.2006 . likuma redakcijā, kas stājas spēkā 06.04.2006. )",
+      "section": "11",
+      "title": "Akciju atsavināšana",
+      "content": "Tiesības pārdot biržas akcijas ir tikai biržai. Ja biržas biedrs vēlas atsavināt akciju, viņš nodod to biržas valdei pārdošanai tuvākajā biržas akciju izsolē. Biržas akcijas var pārdot tikai biržas akciju izsolē, kas organizēta atbilstoši biržas biedru pilnsapulcē apstiprinātam nolikumam par biržas akciju izsolēm."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Biržas pamatkapitāls, obligātā rezerve un akcijas (Nodaļas nosaukums 09.03.2006 . likuma redakcijā, kas stājas spēkā 06.04.2006. )",
+      "section": "12",
+      "title": "Akcijas biržas valdes locekļiem",
+      "content": "Zināms akciju skaits, kas noteikts biržas statūtos, ir jānopērk biržas valdes locekļiem un algotiem atbildīgajiem darbiniekiem. Šīs akcijas glabājas īpašā biržas kontā visu laiku, kamēr to īpašnieks darbojas biržā, tās nedod tiesības uz brokera vietu un nav atsavināmas tik ilgi, kamēr to īpašnieks ieņem konkrēto amatu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Biržas pamatkapitāls, obligātā rezerve un akcijas (Nodaļas nosaukums 09.03.2006 . likuma redakcijā, kas stājas spēkā 06.04.2006. )",
+      "section": "13",
+      "title": "Tiesības piedalīties biržas sanāksmē",
+      "content": "Biržas valde nosaka maksimālo vietu skaitu biržas sanāksmē.\nTiesības piedalīties biržas sanāksme tiek iegūtas, iegādājoties sava īpašumā statūtos noteikto biržas akciju skaitu vai nopērkot biržas brokeru"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "14",
+      "title": "Biržas dibinātāji",
+      "content": "(Izslēgts ar 09.03.2006 . likumu, kas stājas spēkā 06.04.2006. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "15",
+      "title": "Biržas biedri",
+      "content": "(Pirmā daļa izslēgta ar 09.03.2006 . likumu.)\nViena dibinātāja (biržas biedra) daļa nedrīkst pārsniegt 35 procentus no biržas pamatkapitāla.\nBiržas biedri ir biržas dibinātāji un tās darbības laikā atbilstoši statūtu prasībām biržā uzņemtās fiziskās un juridiskās personas.\nBiržas biedru skaitu, uzņemšanas un izslēgšanas kārtību nosaka biržas statūti.\nBiržas dibinātāji par biržas biedriem kļūst, iegādājoties biržas akcijas."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "16",
+      "title": "Iesniegumu izskatīšana",
+      "content": "Biržas akciju izsoles komisija izskata saņemtos iesniegumus par piedalīšanos biržas akciju izsolē. Atteikumu var dot vienīgi tad, ja:\n1) (izslēgts ar 09.03.2006 . likumu) ;\n2) pretendents ir maksātnespējīgs;\n3) pretendents atrodas aizgādnībā;\n4) nav dzēsta pretendenta sodāmība par noziedzīgiem nodarījumiem pret īpašumu, tautsaimniecībai vai valsts institūciju dienestam.\n(Otrā daļa izslēgta ar 09.03.2006 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "17",
+      "title": "Biržas biedra tiesības",
+      "content": "Biržas biedram ir tiesības:\n1) piedalīties biržas pārvaldē;\n2) saņemt informāciju par biržas darbību;\n3) piedalīties biržas sanāksmēs, slēgt biržas darījumus savā, citu biržas biedru vai trešo personu vārdā, kas viņu pilnvarojušas likumā noteiktajā kārtībā;\n4) pilnvarot pārstāvjus darbībai biržas sanāksmēs;\n5) izmantot citus biržas pakalpojumus."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "18",
+      "title": "Biržas biedru piedalīšanās biržas sanāksmē",
+      "content": "Biržas biedrs biržas sanāksmē piedalās tieši vai ar sava pilnvarotā pārstāvja starpniecību. Biržas biedrs savas tiesības piedalīties biržas sanāksmē var iznomāt citai fiziskajai vai juridiskajai personai.\nBiržas biedra tiesības var iznomāt vai pārdot vienīgi ar biržas valdes starpniecību."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "19",
+      "title": "Biržas biedra pienākumi",
+      "content": "Biržas biedra pienākums ir:\n1) ievērot biržas darbības noteikumus un šā likuma prasības;\n2) pildīt biržas biedru pilnsapulces un biržas valdes lēmumus."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "20",
+      "title": "Biržas apmeklētāji",
+      "content": "Ar biržas valdes izdoto vārda (personālo) apmeklētāja karti par biržas apmeklētājiem var būt fiziskās personas un juridisko personu pārstāvji, kuri drīkst novērot biržas sanāksmes darbu, bet nedrīkst piedalīties biržas darījumos, kā arī valsts institūciju un preses pārstāvji.\nApmeklētāja kartes cenu nosaka biržas valde. Ja biržas apmeklētājs sāk piedalīties biržas tirgus norisēs, viņu izraida no sanāksmes.\nBiržas statūtos un biržas tirdzniecības noteikumos var paredzēt, ka pastāvīgiem biržas apmeklētājiem biržas valde var piešķirt tiesības noteiktu laiku piedalīties biržas darījumos. Tādā gadījumā noteiktu laika posmu uz biržas apmeklētāju attiecas visi biržas biedra pienākumi un atbildība, kā ari tiesības izmantot biržas informāciju un pakalpojumus."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Biržas dibinātāji, biedri un apmeklētāji",
+      "section": "21",
+      "title": "Biržas biedra atbildība",
+      "content": "Ja biržas biedrs pārkāpis šā likuma, biržas statūtu un biržas tirdzniecības noteikumu prasības, biržas valdei ir tiesības apturēt uz laiku līdz sešiem mēnešiem viņa piedalīšanos biržas sanāksmēs. Ja pārkāpums noticis atkārtoti, biržas valde iesniedz biržas biedru kopsapulcei izskatīšanai jautājumu par šā biedra izslēgšanu.\nLai pieņemtu biržas valdes lēmumu par to, ka tiek apturēta biržas biedra piedalīšanās biržas sanāksmēs, nepieciešams trīs ceturtdaļu klātesošo biržas valdes locekļu balsu vairākums.\nIepriekšminēto biržas valdes lēmumu biržas biedrs var pārsūdzēt tiesā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Biržas brokeri",
+      "section": "22",
+      "title": "Biržas brokeru tiesiskais statuss",
+      "content": "Biržas brokeri var būt fiziskās un juridiskās personas (brokeru kantori). Lai brokeri varētu piedalīties biržas tirgū, viņiem jāreģistrējas biržā, pierādot savu profesionālo kvalifikāciju. Reģistrācijai nepieciešamos brokeru kvalifikācijas noteikumus nosaka biržas valde.\nAlgotajiem biržas darbiniekiem aizliegts piedalīties biržas darījumos, veidot brokeru firmas un nodot citām personām dienesta informāciju.\nBiržas brokeru darbību regulē biržas statūti, biržas tirdzniecības noteikumi un citi biržas normatīvie dokumenti.\nBiržas brokera un brokeru kantora darbības svarīgākais kritērijs ir godīgums.\nPar biržas statūtu vai biržas tirdzniecības noteikumu rupju pārkāpumu biržas valde brokera vietu anulē, bet, ja brokers ir biržas biedrs, valde aptur viņa darbību un ierosina pilnsapulcei šā brokera vietu anulēt, Brokera (dīlera) kriminālatbildību nosaka likums."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Biržas brokeri",
+      "section": "23",
+      "title": "Biržas brokera vietas iegūšana",
+      "content": "Brokers (brokeru kantoris) iegūst biržas brokera vietu, nopērkot to saskaņā ar biržas valdes paredzētajiem noteikumiem.\nBrokeri, kas nopirkuši tiesības piedalīties biržas darījumos, var veikt biržas darījumus savā vārdā, uz sava rēķina (dīlera darījumi), kā arī citu personu uzdevumā.\nAr biržas valdes atļauju brokers (brokeru kantoris) var īrēt cita brokera vietu, kurš biržas darījumos nepiedalās."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Biržas mākleri",
+      "section": "24",
+      "title": "Biržas māklera iecelšana",
+      "content": "Biržas mākleri ieceļ amatā biržas valde. Biržas māklera tiesības, pienākumus un atbildību nosaka nolikums par biržas mākleri, ko pieņem biržas biedru pilnsapulce.\nStājoties amatā, biržas māklerim jānodod zvērests biržas valdei. Zvēresta tekstu nosaka biržas valde."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Biržas mākleri",
+      "section": "25",
+      "title": "Aizliegumi biržas māklera darbībā",
+      "content": "Biržas māklerim ir aizliegts noformēt biržas darījumus, kuros viņš nav bijis starpnieks.\nBiržas mākleris nedrīkst veikt biržā darījumus uz sava vai kāda biržas darījumu dalībnieka rēķina. Visus biržas māklera kontaktus ar presi regulē biržas valde."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa Biržas darījumi",
+      "section": "26",
+      "title": "Preču biržas darījumu veidi un priekšmets",
+      "content": "Preču biržas darījumu veidus nosaka biržas tirdzniecības noteikumi. Par biržas darījumu priekšmetu var būt ne tikai lietas, bet arī lietu un saistību tiesības, ne tikai reāla, bet arī darījuma brīdī vēl neesoša manta."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa Biržas darījumi",
+      "section": "27",
+      "title": "Preču biržas darījumus slēdzot radušos domstarpību izšķiršana",
+      "content": "Domstarpības, kuras radušās, slēdzot preču biržas darījumus, izšķir biržas arbitrāžas komisija. Biržas arbitrāžas komisijas lēmumi, kas pieņemti šādu domstarpību gadījumos, neatņem pusēm tiesības griezties tiesā. Biržas valdei nav tiesību iejaukties biržas arbitrāžas komisijas darbā, kad tā izskata konkrētas lietas."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa Biržas darījumi",
+      "section": "28",
+      "title": "Atbildība par nepatiesu datu sniegšanu biržā",
+      "content": "Fiziskās un juridiskās personas normatīvajos aktos noteiktajā kārtībā ir atbildīgas par zaudējumiem, kas radušies biržai, ja tās apzināti vai nolaidības dēļ uzrādījušas nepareizas, nepilnīgas vai neskaidras ziņas."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Biržas darījumi",
+      "section": "29",
+      "title": "Biržas darījumu atzīšana par spēkā neesošiem",
+      "content": "Ja tiek konstatēts, ka noslēgtie biržas darījumi nevar stāties spēkā likumā noteiktu iemeslu vai darījuma slēdzēja maksātnespējas dēļ, biržas valde tos aptur un nodod jautājumu izlemšanai biržas arbitrāžas komisijai vai tiesai."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Biržas darījumi",
+      "section": "30",
+      "title": "Biržas darījumi ar vērtspapīriem",
+      "content": "(Izslēgts ar 20.11.2003 . likumu, kas stājas spēkā 01.01.2004. )"
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Biržas darījumi",
+      "section": "31",
+      "title": "Biržas darījumi ar valūtu",
+      "content": "Biržas darījumos ar valūtu var piedalīties vienīgi biržas dalībnieki un biedri, kuriem ir Latvijas Bankas licence tirdzniecībai ar valūtu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VII nodaļa Biržas pārvalde",
+      "section": "32",
+      "title": "Biržas pārvaldes institūcijas",
+      "content": "(Izslēgts ar 09.03.2006 . likumu, kas stājas spēkā 06.04.2006. )"
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VII nodaļa Biržas pārvalde",
+      "section": "33",
+      "title": "Biržas biedru (akcionāru) pilnsapulce",
+      "content": "Papildus tām funkcijām, kas pilnsapulcei noteiktas Komerclikumā, biržas biedru (akcionāru) pilnsapulce veic šādas funkcijas:\n1) ievēlē preču kotācijas komisiju;\n2) ievēlē biržas arbitrāžas komisiju;\n3) var uzdot biržas valdei izveidot mākleriātu, norēķinu komisiju, reģistrācijas biroju, informācijas nodaļu un citus speciālos dienestus;\n4) apstiprina biržas valdes izstrādātos nolikumus katras izpildinstitūcijas darbības regulēšanai;\n5) nosaka biržas pakalpojumu tarifus, maksu par apmeklētāja kartēm, naudas sodu par biržas noteikumu un iekšējās kārtības neievērošanu, algoto biržas darbinieku algas;\n6) izskata biržas valdes ierosinājumus par biržas brokeru vietu anulēšanu;\n7) izlemj citus specifiskus biržas darbības jautājumus."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VII nodaļa Biržas pārvalde",
+      "section": "34",
+      "title": "Biržas pārvaldes institūciju tiesības un pienākumi",
+      "content": "Biržas valdes, revidenta un direkcijas funkcijas, tiesības un pienākumus nosaka Komerclikums un biržas statūti.\nBiržas amatpersonām, stājoties amatā, jāiegādājas šā likuma 12. pantā minētās biržas akcijas. Atstājot amatu, biržas amatpersona pārdod tās nākamajam attiecīgā amata izpildītājam par nominālo vērtību."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VIII nodaļa Biržas izpildinstitūcijas",
+      "section": "35",
+      "title": "Biržas izpildinstitūciju izveidošana",
+      "content": "Savu mērķu īstenošanai un statūtos noteikto uzdevumu izpildei biržā papildus pilnsapulcē ievēlētajām institūcijām (šā likuma 33. pants ) var izveidot šādas izpildinstitūcijas: direkciju, mākleriātu, norēķinu komisiju, reģistrācijas biroju, informācijas nodaļu un citus speciālos dienestus. Ar biržas biedru pilnsapulces lēmumu biržā var dibināt citus speciālos dienestus, kas darbojas, pamatojoties uz biržas biedru pilnsapulces apstiprinātajiem nolikumiem."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VIII nodaļa Biržas izpildinstitūcijas",
+      "section": "36",
+      "title": "Kotācijas komisijas izveidošana un sastāvs",
+      "content": "Preču un valūtas kotēšanai biržā tiek izveidota kotācijas komisija, kas darbojas, pamatojoties uz nolikumu par kotācijas komisiju.\nBiržas biedru pilnsapulce ievēlē kotācijas komisiju no biržas biedriem un šīs komisijas priekšsēdētāju — no biržas valdes locekļiem.\nVecākais mākleris pēc amata ir kotācijas komisijas loceklis.\n(Ceturtā daļa izslēgta ar 09.03.2006 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VIII nodaļa Biržas izpildinstitūcijas",
+      "section": "37",
+      "title": "Preču kotēšana",
+      "content": "Rezumējot (summējot) biržas darījumu rezultātus, pieprasījumu un piedāvājumu, kotācijas komisija kotē preces un valūtu un publicē cenas biržas biļetenā.\nBiržas valde nosaka biržas biļetena izdošanas periodiskumu un abonēšanas maksu."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VIII nodaļa Biržas izpildinstitūcijas",
+      "section": "38",
+      "title": "Biržas arbitrāžas komisija",
+      "content": "Lai izšķirtu strīdus, kas radušies, slēdzot biržas darījumus, tiek dibināta biržas arbitrāžas komisija. Tās sastāvu, kompetenci un darbības kārtību nosaka biržas biedru pilnsapulces apstiprināts nolikums par biržas arbitrāžas komisiju.\nBiržas arbitrāžas komisija izskata strīdu, ja abas puses tam piekrīt. Ja abas puses nepiekrīt strīda izskatīšanai biržas arbitrāžas komisijā, strīdu izskata tiesa."
+    }
+  ],
+  "definitions": []
+}

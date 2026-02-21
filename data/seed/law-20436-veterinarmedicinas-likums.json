@@ -1,0 +1,1062 @@
+{
+  "id": "lv-law-20436",
+  "type": "statute",
+  "title": "Veterinārmedicīnas likums",
+  "title_en": "Veterinary Medicine Law",
+  "short_name": "TA-20436",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/20436-veterinarmedicinas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) dzīvnieku infekcijas slimības — slimības, kuru ierosinātāji (baktērijas, vīrusi, mikroskopiskās sēnes, vienšūņi, prioni, ektoparazīti, endoparazīti) tieši vai dažādu faktoru ietekmē var tikt pārnesti no viena dzīvnieka uz citu dzīvnieku vai cilvēku;\n2) (izslēgts ar 30.03.2006 . likumu) ;\n3) epizootija — dzīvnieku infekcijas slimība, kurai raksturīga dzīvnieku masveida saslimšana un strauja izplatība un kura rada lielus sociālekonomiskos zaudējumus, ierobežo starptautisko tirdzniecību ar dzīvniekiem un dzīvnieku izcelsmes produkciju;\n4) praktizējošs veterinārārsts — sertificēts veterinārārsts, kas normatīvajos aktos noteiktajā kārtībā ir reģistrējies kā veterinārmedicīniskā pakalpojuma sniedzējs un nodarbojas ar veterinārmedicīnisko praksi;\n5) (izslēgts ar 18.12.2008 . likumu) ;\n6) pirmskaušanas apskate — pārbaude Eiropas Parlamenta un Padomes 2017. gada 15. marta regulas (ES) 2017/625 par oficiālajām kontrolēm un citām oficiālajām darbībām, kuras veic, lai nodrošinātu, ka tiek piemēroti pārtikas un barības aprites tiesību akti, noteikumi par dzīvnieku veselību un labturību, augu veselību un augu aizsardzības līdzekļiem, un ar ko groza Eiropas Parlamenta un Padomes regulas (EK) Nr. 999/2001 , (EK) Nr. 396/2005 , (EK) Nr. 1069/2009 , (EK) Nr. 1107/2009 , (ES) Nr. 1151/2012 , (ES) Nr. 652/2014 , (ES) 2016/429 un (ES) 2016/2031 , Padomes regulas (EK) Nr. 1/2005 un (EK) Nr. 1099/2009 un Padomes direktīvas 98/58/EK , 1999/74/EK, 2007/43/EK, 2008/119/EK un 2008/120/EK un atceļ Eiropas Parlamenta un Padomes regulas (EK) Nr. 854/2004 un (EK) Nr. 882/2004 , Padomes direktīvas 89/608/EEK , 89/662/EEK, 90/425/EEK, 91/496/EEK, 96/23/EK, 96/93/EK un 97/78/EK un Padomes lēmumu 92/438/EEK (Oficiālo kontroļu regula) (turpmāk — Parlamenta un Padomes regula Nr. 2017/625 ) 17. panta \"c\" punkta izpratnē;\n6 1 ) pēckaušanas veterinārā ekspertīze — pārbaude Parlamenta un Padomes regulas Nr. 2017/625 17. panta \"d\" punkta izpratnē;\n7) veterinārmedicīna — zinātnes un prakses nozare, kas nodarbojas ar jautājumiem, kuri saistīti ar dzīvnieku veselību un slimībām, izstrādā veterinārās prasības, kuru izpilde veicina dzīvnieku veselību, produktivitāti un labturību, nodrošina dzīvnieku infekcijas slimību profilaksi un apkarošanu, pasargā iedzīvotājus no saslimšanas ar dzīvniekiem un cilvēkiem kopīgām infekcijas slimībām, nodrošina kvalitatīvu un patērētāju veselībai nekaitīgu dzīvnieku izcelsmes produktu apriti, kā arī nodrošina vides aizsardzību;\n8) veterinārmedicīniskā prakse — praktizējoša veterinārārsta profesionāla darbība dzīvnieku labturības veicināšanā, veselības nostiprināšanā un saglabāšanā, dzīvnieku slimību diagnostikā un profilaksē, saslimušu dzīvnieku ārstēšanā un ķirurģisku operāciju veikšanā. Veterinārmedicīniskās prakses ietvaros ārstnieciskā vai profilaktiskā kursa pabeigšanai atļauts, ja nepieciešams, pagatavot un pārdot dzīvniekiem paredzētās zāles;\n9) akvakultūras dzīvnieks — savvaļā iegūts ūdenī dzīvojošs dzīvnieks, kuru tur dzīvnieku audzētavā vai divvāku molusku audzēšanas zonā, kā arī dzīvnieku audzētavā vai divvāku molusku audzēšanas zonā audzēts ūdenī dzīvojošs dzīvnieks jebkurā tā attīstības stadijā, tā olšūnas, sperma un gametas;\n10) references laboratorija — akreditēta laboratorija, kura pilda valsts deleģētas funkcijas un strīda gadījumā izvērtē izmeklēšanas rezultātus, veic atkārtotu izmeklēšanu un sniedz galīgo atzinumu;\n11) uzņēmīgs dzīvnieks — dzīvnieks, kurš var saslimt, kontaktējoties ar dzīvnieku infekcijas slimības ierosinātājiem;\n12) (izslēgts ar 30.03.2006 . likumu) ;\n13) veterinārmedicīniskās prakses iestāde — noteiktām prasībām atbilstoša un īpaši aprīkota veterinārmedicīniskās prakses vieta, kurā praktizējošs veterinārārsts veic veterinārmedicīnisko praksi;\n14) (izslēgts ar 18.12.2008 . likumu) ;\n15) aprite — dzīvnieku, dzīvnieku izcelsmes produktu, dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam, ieguve, ražošana, iepakošana, uzglabāšana, laišana tirgū, transportēšana, imports, eksports, tranzīts, savākšana, apstrāde, pārstrāde, piegāde, izmantošana, iznīcināšana, izpēte un izstrāde;\n16) specializēta tirdzniecības vieta — vieta, kas reģistrēta saskaņā ar normatīvajiem aktiem par dzīvnieku barības un barības piedevu apriti, dzīvnieku kopšanai un turēšanai lietojamo preču uzglabāšanu un izplatīšanu vai dzīvu dzīvnieku turēšanu tirdzniecības nolūkā;\n17) dzīvnieku kopšanas līdzeklis — viela vai produkts, kas nonāk saskarē ar atsevišķām dzīvnieka ķermeņa ārējām daļām (piemēram, epidermu, apmatojumu, nagiem, ārējiem dzimumorgāniem), zobiem un mutes dobuma gļotādu un ko lieto tikai vai galvenokārt minēto ķermeņa daļu tīrīšanai, aizsardzībai un uzturēšanai labā stāvoklī vai ķermeņa smaržas koriģēšanai;\n18) dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam, apritē iesaistītā persona — fiziskā vai juridiskā persona, kuras darbību Pārtikas un veterinārais dienests atzinis vai reģistrējis darbībām ar dzīvnieku izcelsmes blakusproduktiem vai atvasinātiem produktiem, kas nav paredzēti cilvēku patēriņam, saskaņā ar prasībām, kas noteiktas Eiropas Parlamenta un Padomes 2009.gada 21.oktobra regulā (EK) Nr. 1069/2009 , ar ko nosaka veselības aizsardzības noteikumus attiecībā uz dzīvnieku izcelsmes blakusproduktiem un atvasinātajiem produktiem, kuri nav paredzēti cilvēku patēriņam, un ar ko atceļ regulu (EK) Nr. 1774/2002 (Dzīvnieku izcelsmes blakusproduktu regula) (turpmāk — Parlamenta un Padomes regula Nr. 1069/2009 ), un Eiropas Komisijas 2011.gada 25.februāra regulā (ES) Nr. 142/2011 , ar kuru īsteno Eiropas Parlamenta un Padomes regulu (EK) Nr. 1069/2009 , ar ko nosaka veselības aizsardzības noteikumus attiecībā uz dzīvnieku izcelsmes blakusproduktiem un atvasinātajiem produktiem, kuri nav paredzēti cilvēku patēriņam, un īsteno Padomes direktīvu 97/78/EK attiecībā uz dažiem paraugiem un precēm, kam uz robežas neveic veterinārās pārbaudes atbilstīgi minētajai direktīvai (Dokuments attiecas uz EEZ) (turpmāk — Komisijas regula Nr. 142/2011 );\n19) mājas (istabas) dzīvnieka pase — lolojumdzīvnieka identifikācijas dokuments, kas sagatavots atbilstoši Komisijas 2013. gada 28. jūnija īstenošanas regulas (ES) Nr. 577/2013 par identifikācijas dokumentu paraugiem suņu, kaķu un mājas sesku nekomerciālai pārvietošanai, teritoriju un trešo valstu saraksta izveidošanu un par deklarāciju formas, izkārtojuma un valodas prasībām atbilstoši Eiropas Parlamenta un Padomes regulā (ES) Nr. 576/2013 paredzētajiem konkrētiem nosacījumiem (turpmāk — Komisijas īstenošanas regula Nr. 577/2013 ) 3. panta 1. punkta prasībām."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Šā likuma mērķis ir regulēt dzīvnieku infekcijas slimību profilaksi un apkarošanu, veterinārmedicīnisko praksi, dzīvnieku izcelsmes produktu apriti, dzīvnieku un preču importa un tranzīta kontroli un noteikt valsts un pašvaldību institūciju, kā arī personu tiesības un pienākumus šajā jomā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.12.2001. un 28.11.2019 . likumu, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 2.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2.1",
+      "title": "2. 1 pants. Valsts veterinārajai uzraudzībai un kontrolei ir pakļauti šādi objekti un personas (turpmāk — valsts veterinārās uzraudzības objekti):",
+      "content": "1) dzīvnieku novietnes;\n2) dzīvnieku audzētavas;\n2 1 ) vietas, kurās pavairo mājas (istabas) dzīvniekus — suņus, kaķus vai mājas (istabas) seskus;\n3) savvaļas sugas dzīvnieku turēšanas vietas;\n4) zooloģiskie dārzi;\n5) cirki;\n6) izmēģinājumu dzīvnieku audzētāji, lietotāji un piegādātāji;\n7) dzīvnieku patversmes un viesnīcas;\n8) specializētas tirdzniecības vietas;\n9) tirgi, ja tajos notiek tirdzniecība ar dzīviem dzīvniekiem;\n10) dzīvnieku savākšanas centri;\n11) izsoles, izstādes un citas vietas, kur notiek pasākumi ar dzīvnieku piedalīšanos;\n12) inkubatori;\n13) dzīvnieku mākslīgās apsēklošanas komersanti;\n14) embriju transplantācijas komersanti;\n15) dzīvnieku mākslīgās apsēklošanas pakalpojumu sniedzēji;\n16) veterinārmedicīnisko pakalpojumu sniedzēji;\n17) veterinārmedicīniskās prakses iestāde;\n18) dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam (turpmāk — blakusprodukti, kas nav paredzēti cilvēku patēriņam), apritē iesaistītās personas, to uzņēmumi un to īpašumā vai lietošanā esošas iekārtas, kas saskaņā ar Parlamenta un Padomes regulas Nr. 1069/2009 un Komisijas regulas Nr. 142/2011 prasībām pakļautas valsts veterinārajai uzraudzībai;\n19) (izslēgts ar 03.06.2010 . likumu) ;\n20) dzīvnieku izcelsmes produktu apritē iesaistītās personas;\n21) dzīvnieku pārvadātāji, kuri savas saimnieciskās darbības ietvaros pārvadā dzīvniekus;\n22) transportlīdzekļi dzīvnieku pārvadāšanai;\n23) dzīvnieku kapsētas."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "3",
+      "title": "Šā likuma prasību ievērošanu uzrauga un kontrolē Pārtikas un veterinārais dienests.",
+      "content": "( 13.12.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 3.1",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "3.1",
+      "title": "3. 1 pants. Pārtikas un veterinārais dienests:",
+      "content": "1) organizē un īsteno uzraudzību un kontroli saskaņā ar Parlamenta un Padomes regulā Nr. 2017/625 noteikto un ir kompetentā iestāde, kas pilda uzdevumus jomās, kuras noteiktas Parlamenta un Padomes regulas Nr. 2017/625 1. panta 2. punkta \"d\", \"e\" un \"f\" apakšpunktā;\n2) veic Parlamenta un Padomes regulas Nr. 2017/625 103. pantā noteiktās koordinācijas institūcijas funkcijas;\n3) pilda Parlamenta un Padomes regulas Nr. 2017/625 109. panta 2. punktā noteiktās struktūras funkcijas saistībā ar valsts daudzgadu kontroles plāna sagatavošanu un iesniegšanu Eiropas Komisijai."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "4",
+      "title": "(1) Pārtikas un veterinārais dienests, pamatojoties uz valsts uzraudzības programmām un normatīvo aktu prasībām, organizē un nodrošina valsts uzraudzību un kontroli šādās jomās:",
+      "content": "1) dzīvnieku infekcijas slimību profilakse un apkarošana;\n2) dzīvnieku labturība;\n3) dzīvnieku izcelsmes produktu, tai skaitā blakusproduktu, kas nav paredzēti cilvēku patēriņam, aprite;\n4) (izslēgts ar 01.04.2004 . likumu) ;\n5) (izslēgts ar 03.06.2010 . likumu) ;\n6) (izslēgts ar 18.12.2008 . likumu) ;\n7) dzīvnieku apzīmēšana un reģistrēšana, ganāmpulku un novietņu reģistrēšana, dzīvnieku pārvietošana;\n8) (izslēgts ar 03.12.2025 . likumu) ;\n9) citas normatīvajos aktos noteiktās jomas.\n(2) Pārtikas un veterinārais dienests atbilstoši savai kompetencei:\n1) izstrādā un apstiprina metodiskos norādījumus attiecībā uz šajā likumā noteiktajām uzraudzības darbībām;\n2) izstrādā un apstiprina dzīvnieku infekcijas slimību uzraudzības un apkarošanas programmas;\n3) (izslēgts ar 01.12.2009 . likumu) ;\n4) pārstāv Latviju starptautiskajās organizācijās un uztur starptautiskos sakarus veterinārmedicīnas nozarē;\n5) sagatavo un iesniedz Zemkopības ministrijai zinātnisko pētījumu pasūtījumu pieteikumus;\n6) (izslēgts ar 01.07.2011 . likumu) ;\n7) (izslēgts ar 03.06.2010 . likumu) ;\n8) izsniedz veterināros (veselības) sertifikātus un citus normatīvajos aktos par dzīvnieku veselību, labturību, dzīvnieku barības un barības piedevu apriti, pārtikas aprites drošumu un higiēnu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti noteiktos dokumentus;\n9) (izslēgts ar 14.03.2024 . likumu) ;\n10) reģistrē valsts veterinārās uzraudzības objektus;\n11) izstrādā un apstiprina dzīvnieku izcelsmes produktu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apritē iesaistīto personu valsts uzraudzības programmas.\n(3) Pārtikas un veterinārais dienests izstrādā, apstiprina un uztur dzīvnieku un dzīvnieku izcelsmes produktu kustības, reģistrācijas un uzskaites sistēmu, kā arī sistēmu, kuras uzdevums ir ziņot par dzīvnieku saslimšanu ar infekcijas slimībām.\n(4) Pārtikas un veterinārais dienests ir kompetentā iestāde šā panta pirmajā daļā minētajās jomās. Tas uzrauga un kontrolē Eiropas Savienības normatīvo aktu prasību izpildi un sniedz informāciju Eiropas Savienības institūcijām."
+    },
+    {
+      "provision_ref": "Art. 4.1",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "4.1",
+      "title": "4. 1 pants. Valsts galvenais pārtikas un veterinārais inspektors pilnvaro Pārtikas un veterinārā dienesta valsts vecākos inspektorus un valsts inspektorus veikt valsts uzraudzību un kontroli šā likuma 4.pantā minētajās jomās.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 4.2",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "4.2",
+      "title": "4. 2 pants. Pārtikas un veterinārā dienesta ģenerāldirektors pilnvaro personas pirmskaušanas apskates un pēckaušanas veterinārās ekspertīzes veikšanai saskaņā ar Parlamenta un Padomes regulas Nr. 2017/625 prasībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 4.3",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "4.3",
+      "title": "4. 3 pants. (1) (Izslēgta ar 28.11.2019 . likumu)",
+      "content": "(2) Mājputnu un zaķveidīgo kārtas dzīvnieku gaļas iegūšanai nelielā apjomā pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi atļauts veikt Pārtikas un veterinārā dienesta pilnvarotai personai saskaņā ar normatīvajiem aktiem par mājputnu un zaķveidīgo gaļas apriti nelielā apjomā.\n(3) Medījamo dzīvnieku vai to gaļas iegūšanai mazā daudzumā veterināro ekspertīzi saskaņā ar normatīvajiem aktiem par kārtību, kādā mednieki galapatērētājam piegādā medījamos dzīvniekus vai to gaļu mazā daudzumā, un higiēnas prasībām attiecībā uz medījamo dzīvnieku un to gaļas apriti atļauts veikt personai, kura apmācīta saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 853/2004 , ar ko nosaka īpašus higiēnas noteikumus attiecībā uz dzīvnieku izcelsmes pārtiku (turpmāk — Parlamenta un Padomes regula Nr. 853/2004 ), noteiktajām prasībām.\n(4) (Izslēgta ar 28.11.2019 . likumu)\n(5) (Izslēgta ar 28.11.2019 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "5",
+      "title": "5.pants.",
+      "content": "(Izslēgts ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "6",
+      "title": "6.pants.",
+      "content": "(Izslēgts ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "7",
+      "title": "7.pants.",
+      "content": "(Izslēgts ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "8",
+      "title": "Pārtikas un veterinārā dienesta valsts vecāko inspektoru un valsts inspektoru tiesības atbilstoši viņu kompetencei ir šādas:",
+      "content": "1) bez iepriekšēja brīdinājuma apmeklēt valsts veterinārās uzraudzības objektus, pieprasīt dokumentus un informāciju, ņemt paraugus laboratoriskai izmeklēšanai saskaņā ar valsts uzraudzības programmām vai gadījumos, kad ir aizdomas par dzīvnieku saslimšanu ar valsts uzraudzībā esošām dzīvnieku infekcijas slimībām un aizdomas vai sūdzības par normatīvo aktu pārkāpumiem;\n2) apturēt valsts veterinārās uzraudzības objektu darbību, apturēt vai aizliegt dzīvnieku pārvietošanu, tirdzniecību ar dzīvniekiem, rīkot dzīvnieku sacensības, izsoles, izstādes un citus pasākumus ar dzīvnieku piedalīšanos, ja ir aizdomas par dzīvnieku iespējamu saslimšanu ar infekcijas slimību vai pastāv draudi cilvēku vai dzīvnieku veselībai, kā arī gadījumos, ja ir pārkāptas normatīvajos aktos par dzīvnieku veselību, labturību, pārtikas aprites drošumu un higiēnu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti noteiktās prasības;\n3) (izslēgts no 01.07.2020. ar 28.11.2019 . likumu, kas stājas spēkā 24.12.2019. Sk. Pārejas noteikumu 28. punktu);\n4) ja nepieciešams, pieaicināt policiju un citu tiesībaizsardzības institūciju darbiniekus, lai nodrošinātu savu uzdevumu izpildi;\n5) apturēt dzīvnieku izcelsmes produktu izplatīšanu vai izņemt tos no apgrozības, ja radušās pamatotas aizdomas par to kaitīgumu cilvēku veselībai vai dzīvībai, dzīvnieku veselībai vai dzīvībai, kā arī pieņemt lēmumu par attiecīgo produktu iznīcināšanu un kontrolēt tā izpildi;\n6) kontrolēt mājas (istabas) dzīvnieku labturības prasību ievērošanu, ja ir aizdomas vai sūdzības par normatīvo aktu pārkāpumiem;\n7) pārbaudīt mājas (istabas) dzīvniekus, kurus nekomerciālos nolūkos ieved Latvijas teritorijā no citas Eiropas Savienības dalībvalsts, saskaņā ar Eiropas Parlamenta un Padomes 2013.gada 12.jūnija regulu (EK) Nr. 576/2013 par lolojumdzīvnieku nekomerciālu pārvietošanu un par regulas (EK) Nr. 998/2003 atcelšanu (turpmāk — Parlamenta un Padomes regula Nr. 576/2013 );\n8) epizootiju uzliesmojuma gadījumā noteiktajā riska zonā bez iepriekšēja brīdinājuma iekļūt privātā īpašumā epizootijas apkarošanas pasākumu īstenošanai;\n9) uzlikt par pienākumu noteiktajā termiņā novērst neatbilstības, ja ir pārkāptas dzīvnieku veselību, labturību, pārtikas aprites drošumu un higiēnu, kā arī blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti regulējošu normatīvo aktu prasības."
+    },
+    {
+      "provision_ref": "Art. 8.1",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "8.1",
+      "title": "8. 1 pants. Pārtikas un veterinārais dienests kopā ar Eiropas Komisijas un Eiropas Savienības dalībvalstu ekspertiem var veikt kontroli valsts veterinārās uzraudzības objektos Latvijas teritorijā, lai novērtētu šo objektu atbilstību Eiropas Savienības normatīvo aktu prasībām.",
+      "content": "( 12.06.2003 . likuma redakcijā, kas stājas spēkā 17.07.2003. )"
+    },
+    {
+      "provision_ref": "Art. 8.2",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "8.2",
+      "title": "8. 2 pants. Pārtikas un veterinārais dienests kopā ar ekspertu, kas nav Eiropas Savienības dalībvalsts eksperts, var veikt kontroli Latvijas teritorijā esošajos valsts veterinārās uzraudzības objektos, no kuriem paredzēts dzīvnieku un dzīvnieku izcelsmes produktu eksports uz attiecīgo valsti, un novērtēt šo objektu atbilstību šajā valstī noteiktajām prasībām.",
+      "content": "( 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "9",
+      "title": "Pārtikas un veterinārā dienesta valsts vecākie inspektori, valsts inspektori, pilnvaroti veterinārārsti un veterinārārstu palīgi nedrīkst:",
+      "content": "1) izpaust komercnoslēpumus, kas viņiem kļuvuši zināmi, pildot dienesta pienākumus;\n2) personiski vai ar trešo personu starpniecību piedalīties kontrolei pakļauto komersantu saimnieciskajā darbībā;\n3) veikt veterinārmedicīnisko praksi, arī pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi, kuras rezultātu pašiem nepieciešams kontrolēt."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "10",
+      "title": "(1) Pārtikas un veterinārā dienesta valsts vecākie inspektori un valsts inspektori ir atbildīgi par izdoto rīkojumu, pieņemto lēmumu un veikto darbību atbilstību normatīvo aktu prasībām.",
+      "content": "(2) Pārtikas un veterinārā dienesta valsts vecāko inspektoru un valsts inspektoru rīkojumus un lēmumus var atcelt amatā augstāks inspektors. Valsts galvenā pārtikas un veterinārā inspektora rīkojumus un lēmumus var pārsūdzēt tiesā.\n(3) Ja ir aizdomas par dzīvnieku iespējamu saslimšanu ar infekcijas slimību vai pastāv draudi cilvēku vai dzīvnieku veselībai, pārtikas un veterinārā dienesta valsts vecāko inspektoru un valsts inspektoru rīkojumu un lēmumu apstrīdēšana un pārsūdzēšana neaptur to izpildi."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "11",
+      "title": "(1) Valsts zinātniskais institūts \"Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts \"BIOR\"\":",
+      "content": "1) veic laboratoriskos un diagnostiskos izmeklējumus (tajā skaitā references funkcijas normatīvajos aktos noteiktās jomās) šā likuma 4.panta pirmajā daļā minētajās Pārtikas un veterinārā dienesta kompetencē esošajās valsts uzraudzības un kontroles jomās;\n2) organizē starplaboratoriju salīdzinošo testēšanu Pārtikas un veterinārā dienesta uzraudzībā esošo komersantu paškontroles laboratorijās;\n3) veic riska novērtēšanu dzīvnieku veselības un sabiedrības veselības jomā.\n(2) Normatīvajos aktos noteiktajos gadījumos personas sedz izdevumus par Pārtikas drošības, dzīvnieku veselības un vides zinātniskā institūta veiktajiem laboratoriskajiem un diagnostiskajiem izmeklējumiem.\n(3) Pārtikas drošības, dzīvnieku veselības un vides zinātniskā institūta valsts pārvaldes uzdevumu ietvaros veikto darbību cenrādi apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 11.1",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "11.1",
+      "title": "11. 1 pants. Ministru kabinets nosaka:",
+      "content": "1) kārtību, kādā piešķir references laboratorijas statusu laboratorijai, kura diagnosticē dzīvnieku infekcijas slimības;\n2) references laboratorijas akreditācijas kārtību;\n3) references laboratorijas funkcijas un pienākumus;\n4) prasības attiecībā uz references laboratorijas iekārtām un aprīkojumu;\n5) kārtību, kādā piešķir references laboratorijas statusu laboratorijai, kura veic zāļu atliekvielu laboratorisko kontroli;\n6) kārtību, kādā piešķir references laboratorijas statusu laboratorijai, kura veic dzīvnieku infekcijas slimību ierosinātāju antimikrobiālās rezistences noteikšanu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "12",
+      "title": "Kārtību, kādā veicama samaksa par šajā likumā noteiktajām valsts uzraudzības un kontroles darbībām, un Pārtikas un veterinārā dienesta sniegto maksas pakalpojumu veidus nosaka Ministru kabinets.",
+      "content": "( 13.12.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "13",
+      "title": "(Izslēgts no 01.07.2020. ar 28.11.2019 . likumu, kas stājas spēkā 24.12.2019. Sk. Pārejas noteikumu 28. punktu)",
+      "content": "13.pants. (Izslēgts no 01.07.2020. ar 28.11.2019 . likumu, kas stājas spēkā 24.12.2019. Sk. Pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Pārtikas un veterinārais dienests",
+      "section": "14",
+      "title": "Pārtikas un veterinārais dienests savā profesionālajā darbībā ir neatkarīgs un atbildīgs saskaņā ar likumiem.",
+      "content": "14.pants. Pārtikas un veterinārais dienests savā profesionālajā darbībā ir neatkarīgs un atbildīgs saskaņā ar likumiem."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "15",
+      "title": "(1) Valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzība un kontrole notiek saskaņā ar normatīvajiem aktiem un valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas un uzraudzības programmām.",
+      "content": "(2) To dzīvnieku infekcijas slimību profilaksi un apkarošanu, kuras nav valsts uzraudzībā, veic dzīvnieku īpašnieks kopā ar praktizējošu veterinārārstu.\n(3) Laboratoriskos izmeklējumus attiecībā uz valsts uzraudzībā esošām dzīvnieku infekcijas slimībām veic Latvijas vai citu Eiropas Savienības dalībvalstu nacionālajās akreditācijas institūcijās akreditētajās laboratorijās un references laboratorijās saskaņā ar Eiropas Savienības tiesību aktiem veterinārmedicīnas jomā. Ja laboratoriskie izmeklējumi tiek veikti citas Eiropas Savienības dalībvalsts laboratorijā, dzīvnieku īpašnieks vai turētājs nodrošina šo izmeklējumu testēšanas pārskatu sagatavošanu valsts valodā.\n(4) Pārtikas un veterinārais dienests pēc laboratorisko izmeklējumu rezultātu un dzīvnieku veselības stāvokļa izvērtēšanas saskaņā ar normatīvajiem aktiem par valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzību, kontroli, profilaksi un apkarošanu piešķir no dzīvnieku infekcijas slimībām brīvas vai šo slimību skartas novietnes vai akvakultūras dzīvnieku audzētavas statusu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "16",
+      "title": "Lai nodrošinātu valsts uzraudzībā esošo dzīvnieku infekcijas slimību profilaksi un apkarošanu un izstrādātu epizootijas likvidācijas stratēģiju, Pārtikas un veterinārais dienests:",
+      "content": "1) nosaka epizootiskās situācijas analīzei nepieciešamo informāciju par epizootisko situāciju valstī un ārvalstīs kārtējā gadā un iepriekšējos gados;\n2) izstrādā, apstiprina un uztur dzīvnieku infekcijas slimību reģistrācijas, uzskaites, analīzes un izziņošanas sistēmu;\n3) analizē informāciju un izstrādā iespējamo risku sistēmas;\n4) izstrādā valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības programmu;\n5) izstrādā un apstiprina valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas stratēģiju un rīcības plānus;\n6) sadarbojas ar kompetentām Veselības ministrijas institūcijām, lai apmainītos ar informāciju par infekcijas slimībām, ar kurām slimo gan cilvēki, gan dzīvnieki, izstrādātu un īstenotu šo slimību profilakses un apkarošanas programmas;\n7) sadarbībā ar Valsts meža dienestu izstrādā priekšlikumus savvaļas dzīvnieku medību noteikumiem epizootijas situācijā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "17",
+      "title": "(1) (Izslēgta ar 01.04.2004 . likumu)",
+      "content": "(2) Pārtikas un veterinārais dienests saskaņā ar valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas un uzraudzības programmu aprēķina nepieciešamo veterinārbioloģisko preparātu un dezinfekcijas līdzekļu daudzumu un pasūta tos normatīvajos aktos noteiktajā kārtībā.\n(3) Veterinārbioloģiskos preparātus un dezinfekcijas līdzekļus to dzīvnieku infekcijas slimību profilaksei, kuras nav valsts uzraudzībā, praktizējoši veterinārārsti iegādājas no komersantiem, kas veic farmaceitisko vai veterinārfarmaceitisko darbību."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "18",
+      "title": "Valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības un apkarošanas programmas īstenošanai Pārtikas un veterinārā dienesta ģenerāldirektors Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pilnvaro praktizējošus veterinārārstus.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "19",
+      "title": "Pārtikas un veterinārā dienesta ģenerāldirektors nosaka dzīvnieku infekcijas slimību diagnostikas kārtību un metodes.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.04.2004 . likumu, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "20",
+      "title": "(1) Dzīvnieku sacensību, tirgu, izsoļu, izstāžu un citu publisku pasākumu ar dzīvnieku piedalīšanos organizētājs informē Pārtikas un veterinārā dienesta attiecīgo teritoriālo struktūrvienību par pasākuma norises vietu un laiku.",
+      "content": "(2) Ministru kabinets nosaka kārtību, kādā organizējamas dzīvnieku sacensības, tirgi, izsoles, izstādes un citi pasākumi ar dzīvnieku piedalīšanos.\n(3) Dzīvnieku, dzīvnieku spermas, olšūnu un embriju ievešanai nepieciešams veterinārais (veselības) sertifikāts, kura formu nosaka ar Eiropas Komisijas lēmumu. Līdz dienai, kad stājas spēkā Eiropas Komisijas lēmums par veterinārā (veselības) sertifikāta formu, izmantojama attiecīgā Pārtikas un veterinārā dienesta apstiprinātā forma.\n(4) (Izslēgta ar 01.04.2004 . likumu)\n(5) Ja eksportētājvalstī konstatētas dzīvnieku infekcijas slimības un rodas draudi, ka šīs slimības var izplatīties Latvijā, valsts galvenais pārtikas un veterinārais inspektors, ievērojot starptautiskās tirdzniecības normas, ir tiesīgs noteikt ierobežojumus vai aizliegumus dzīvnieku, pārtikas, dzīvnieku barības un citu priekšmetu un materiālu ievešanai Latvijā, kā arī aizliegt to tranzītu.\n(6) Dzīvniekus, dzīvnieku spermu, olšūnas un embrijus drīkst ievest no Eiropas Savienības dalībvalstīm un komersantiem, kā arī no valstīm un komersantiem, kuriem ar Eiropas Komisijas lēmumu dota atļauja ievest dzīvniekus, dzīvnieku spermu, olšūnas un embrijus Eiropas Savienībā.\n(7) Dzīvnieku, dzīvnieku spermas, olšūnu un embriju tirgotājiem jābūt reģistrētiem Pārtikas un veterinārajā dienestā normatīvajos aktos noteiktajā kārtībā.\n(8) Upju baseinu zonas vai zivju audzētavas, piekrastes zonas vai audzētavas attiecībā uz zivju un molusku iegūšanu atzīst Pārtikas un veterinārais dienests normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "21",
+      "title": "(1) (Izslēgta ar 18.12.2008 . likumu)",
+      "content": "(2) Dzīvnieku reģistru izveido, uztur un pārzina Lauku atbalsta dienests, ievērojot dzīvnieku reģistrācijas kārtību reglamentējošos normatīvos aktus.\n(3) (Izslēgta ar 03.06.2010 . likumu)\n(4) Mājas (istabas) dzīvnieku apzīmēšanu ar mikroshēmu, reģistrāciju Lauku atbalsta dienesta mājas (istabas) dzīvnieku reģistra datubāzē, mājas (istabas) dzīvnieku pasu un vakcinācijas apliecību izsniegšanu veic praktizējošs veterinārārsts.\n(5) Praktizējošs veterinārārsts veic Parlamenta un Padomes regulā Nr. 576/2013 pilnvarotajam veterinārārstam noteiktās darbības.\n(6) Praktizējošs veterinārārsts mājas (istabas) dzīvnieka pasi noformē saskaņā ar Komisijas īstenošanas regulā Nr. 577/2013 paredzētajiem konkrētiem nosacījumiem."
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "21.1",
+      "title": "21. 1 pants. Pašvaldības nodrošina bezsaimnieka dzīvnieku līķu savākšanu un iznīcināšanu.",
+      "content": "( 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 21.2",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "21.2",
+      "title": "21. 2 pants. Pašvaldība, pēc tam kad saņemta Pārtikas un veterinārā dienesta informācija par dzīvnieku infekcijas slimības iespējamo izplatīšanos, nekavējoties izdod saistošos noteikumus, nosakot attiecīgus ierobežojumus savā administratīvajā teritorijā.",
+      "content": "( 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 21.3",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "21.3",
+      "title": "21. 3 pants. (1) Pašvaldība nodrošina normatīvajos aktos par mājas (istabas) dzīvnieku reģistrācijas kārtību noteikto suņa, kaķa un mājas (istabas) seska apzīmēšanas un reģistrācijas prasību izpildes uzraudzību un kontroli attiecīgajā administratīvajā teritorijā.",
+      "content": "(2) Pašvaldība, veicot šā panta pirmajā daļā minēto normatīvo aktu ievērošanas uzraudzību un kontroli, ir tiesīga izdot administratīvos aktus par suņa, kaķa un mājas (istabas) seska apzīmēšanu un reģistrāciju.\n(3) Pašvaldība saistošajos noteikumos nosaka institūciju, kas ir pilnvarota pašvaldības vārdā veikt šā panta pirmajā daļā noteikto uzraudzību un kontroli, kā arī ir tiesīga izdot šā panta otrajā daļā minētos administratīvos aktus."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "22",
+      "title": "Ja pastāv draudi, ka savvaļas dzīvnieki var pārnest dzīvnieku infekcijas slimības citiem dzīvniekiem, Valsts meža dienests, ņemot vērā valsts galvenā pārtikas un veterinārā inspektora ieteikumu, sadarbībā ar zemes īpašnieku vai lietotāju organizē savvaļas dzīvnieku atšaušanu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "23",
+      "title": "Katras personas pienākums ir ziņot Pārtikas un veterinārā dienesta attiecīgajai teritoriālajai struktūrvienībai par neapraktiem dzīvnieku līķiem. Šādā gadījumā Pārtikas un veterinārā dienesta attiecīgā teritoriālā struktūrvienība rīkojas saskaņā ar Pārtikas un veterinārā dienesta ģenerāldirektora apstiprinātajiem metodiskajiem norādījumiem.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.04.2004 . likumu, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "24",
+      "title": "Par pārvadāšanas laikā dzīvniekiem konstatēto saslimšanu atbildīgā persona saskaņā ar normatīvo aktu prasībām ziņo attiecīgās teritorijas Pārtikas un veterinārā dienesta attiecīgajai teritoriālajai struktūrvienībai, kas, ja nepieciešams, kopā ar dzelzceļa, ostas, lidostas administrāciju vai Valsts policiju organizē dzīvnieku karantinēšanu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.12.2001. , 18.12.2008. un 12.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "24.1",
+      "title": "24. 1 pants. Dzīvnieku īpašnieks vai turētājs Ministru kabineta noteiktajā kārtībā izstrādā un dzīvnieku turēšanas vietās ievieš biodrošības pasākumus, kuri nodrošina iepriekš identificēto potenciālo dzīvnieku infekcijas slimības izplatīšanās un iekļūšanas ceļu atbilstošu kontroli tādā veidā, kas pilnībā vai daļēji novērš slimības ierosinātāju iekļūšanu ganāmpulkā vai atsevišķā dzīvnieku populācijā.",
+      "content": "( 04.04.2013 . likuma redakcijā, kas stājas spēkā 09.05.2013. )"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa Dzīvnieku infekcijas slimības un to profilakse",
+      "section": "25",
+      "title": "Ministru kabinets nosaka:",
+      "content": "1) veterinārās prasības attiecībā uz dzīvnieku, dzīvnieku spermas, olšūnu, embriju un dzīvnieku izcelsmes produktu apriti;\n2) (izslēgts ar 28.10.2004 . likumu) ;\n3) dzīvnieku kapsētu iekārtošanas, uzturēšanas, darbības izbeigšanas un likvidēšanas kārtību;\n4) kārtību, kādā valstī veic to infekcijas slimību profilaksi un apkarošanu, ar kurām slimo gan dzīvnieki, gan cilvēki;\n5) dzīvnieku, dzīvnieku spermas, olšūnu, embriju un dzīvnieku izcelsmes produktu kontroles un uzraudzības kārtību tirdzniecībā ar Eiropas Savienības dalībvalstīm\n6) kārtību, kādā mājas (istabas) dzīvnieku apzīmē, reģistrē un izslēdz no reģistra, par mājas (istabas) dzīvnieka reģistrēšanu iekasējamā maksājuma apmēru, kā arī tā samaksas kārtību;\n6 1 ) izņēmumus, kad kaķu un mājas (istabas) sesku apzīmēšana ar mikroshēmu un reģistrācija nav obligāta;\n7) kārtību, kādā izsniedz dzīvnieku un dzīvnieku izcelsmes produktu veterināros (veselības) sertifikātus;\n8) kārtību, kādā veic salmonelozes un citu ar pārtikas produktiem pārnēsājamu infekcijas slimību kontroli mājputnu ganāmpulkos, kas paredzēti pārtikas produktu iegūšanai nelielā apjomā un tiešajai piegādei galapatērētājam;\n9) kārtību, kādā veic uzraudzību un informācijas apmaiņu par infekcijas slimībām, ar kurām slimo gan dzīvnieki, gan cilvēki, par šo slimību ierosinātājiem, kā arī par šo ierosinātāju antimikrobo rezistenci;\n10) veterinārās prasības attiecībā uz akvakultūras dzīvniekiem un no tiem iegūtajiem produktiem, kā arī atsevišķu akvakultūras dzīvnieku infekcijas slimību profilaksi un apkarošanu, un šo slimību diagnostikas metodes;\n11) valsts veterinārās uzraudzības objektu reģistrācijas kārtību;\n12) prasības veterinārmedicīnas un dzīvnieku izcelsmes pārtikas nekaitīguma jomā atbilstoši Eiropas Savienības normatīvajiem aktiem;\n13) (izslēgts ar 03.06.2010 . likumu) ;\n14) govju, cūku, aitu un kazu mākslīgās apsēklošanas pakalpojumu sniedzēja minimālo aprīkojumu;\n15) (izslēgts ar 03.06.2010 . likumu) ;\n16) reģistrēto dzīvnieku datubāzēs esošās informācijas izmantošanas kārtību;\n17) valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzraudzības, kontroles un apkarošanas kārtību;\n18) ziņojamo, reģistrējamo un valsts uzraudzībā esošo dzīvnieku infekcijas slimību sarakstu un kārtību, kādā dzīvnieku īpašnieks vai turētājs, juridiskā persona, kuras uzņēmumā tiek veikti laboratoriskie izmeklējumi, vai tās pilnvarota persona, praktizējošs veterinārārsts vai jebkura cita persona, kuras rīcībā ir attiecīga informācija, ziņo Pārtikas un veterinārajam dienestam par ziņojamām, reģistrējamām un valsts uzraudzībā esošām dzīvnieku infekcijas slimībām;\n19) dzīvnieku sugas, kategorijas un populācijas, attiecībā uz kurām nepieciešams izstrādāt biodrošības pasākumu kopumu, kā arī prasības biodrošības pasākumu izstrādei dzīvnieku turēšanas vietās."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "26",
+      "title": "(1) Epizootijas uzliesmojumu likvidēšana un draudu novēršana notiek saskaņā ar Ministru kabineta noteikumiem, kuros paredzēti epizootijas uzliesmojumu apkarošanas pasākumi, šo pasākumu plānošana, personu un institūciju kompetence, personu pārvietošanās un dzīvnieku pārvadāšanas ierobežojumi, rīkojumu izziņošanas un izpildes reglaments, rīcība ar dzīvnieku izcelsmes produktiem un dzīvnieku līķiem, savvaļas dzīvnieku medību noteikumi, materiāltehniskais nodrošinājums, transportlīdzekļu dezinfekcijas un tīrīšanas kārtība, kā arī karantīnas noteikšanas un atcelšanas kārtība.",
+      "content": "(2) Saskaņā ar šā panta pirmajā daļā minētajiem Ministru kabineta noteikumiem Pārtikas un veterinārais dienests izstrādā un apstiprina rīcības plānu epizootisko slimību uzliesmojuma gadījumā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "27",
+      "title": "(1) Epizootijas uzliesmojuma gadījumā Latvijā vai tās kaimiņvalstī, ja epizootijas uzliesmojuma apkarošanai kaimiņvalstī noteiktās karantīnas teritorijas skar Latviju, valsts galvenais pārtikas un veterinārais inspektors nekavējoties nosaka karantīnu.",
+      "content": "(2) Epizootijas uzliesmojuma gadījumā Latvijā vai tās kaimiņvalstīs valsts galvenais pārtikas un veterinārais inspektors pēc saskaņošanas ar Valsts meža dienestu nosaka karantīnas pasākumus attiecībā uz savvaļas dzīvnieku medībām.\n(3) Karantīnas apstākļos savvaļas dzīvnieku medības drīkst rīkot tikai Ministru kabineta noteiktajā kārtībā.\n(4) Pārtikas un veterinārais dienests sadarbībā ar valsts un pašvaldību institūcijām organizē un veic epizootijas kontroles un apkarošanas pasākumus atbilstoši Valsts civilās aizsardzības plānam, attiecīgās pašvaldības civilās aizsardzības plānam un šā likuma 26.panta otrajā daļā minētajam rīcības plānam, kā arī lemj par nepieciešamību aicināt zemkopības ministru noteiktā kārtībā pieprasīt, lai Ministru kabinets izsludina ārkārtējo situāciju valstī vai atsevišķā tās daļā.\n(5) Valsts galvenais pārtikas un veterinārais inspektors karantīnu atceļ normatīvajos aktos par epizootijas uzliesmojuma likvidēšanu un draudu novēršanu noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "28",
+      "title": "Karantīna ietver:",
+      "content": "1) epizootijas skarto punktu (vietu, kur atrodas dzīvnieku infekcijas slimības skartais dzīvnieks vai ganāmpulks);\n2) aizsardzības zonu (ne mazāku kā triju kilometru rādiusā ap epizootijas skarto punktu);\n3) uzraudzības zonu (ne mazāku kā 10 kilometru rādiusā ap epizootijas skarto punktu)."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "29",
+      "title": "Epizootijas uzliesmojuma tālākas izplatības draudu gadījumā valsts galvenais pārtikas un veterinārais inspektors ap uzraudzības zonu nosaka kontrolējamo teritoriju, kurā tiek veikta dzīvnieku piespiedu vakcinācija.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "30",
+      "title": "Ja pastāv draudi, ka epizootija var izplatīties tālāk, papildus rīcības plānā noteiktajām darbībām valsts galvenais pārtikas un veterinārais inspektors ir tiesīgs tūlītējai izpildei noteikt:",
+      "content": "1) attiecībā uz dzīvniekiem:\na) īpašu reģistrācijas vai identifikācijas kārtību,\nb) obligātu apstrādi vai vakcināciju, lietojamās zāles un metodes,\nc) obligātus diagnostiskos izmeklējumus un laboratorisko paraugu ņemšanu,\nd) izolāciju,\ne) pastiprinātu novērošanas procedūru un laiku,\nf) likvidēšanu un dzīvnieku atlieku iznīcināšanas metodes un vietas;\n2) attiecībā uz dzīvnieku izcelsmes produktiem, dzīvnieku barību, dzīvnieku izdalījumiem, pakaišiem un citiem produktiem un materiāliem, kas var saturēt slimības ierosinātājus:\na) paraugu ņemšanu laboratoriskai izmeklēšanai,\nb) to pasterizēšanu, sterilizēšanu, utilizēšanu vai iznīcināšanu,\nc) to dezinficēšanu un dezinvadēšanu;\n3) attiecībā uz telpām, kurās uzturas cilvēki un dzīvnieki, kas bijuši kontaktā ar inficētiem vai varbūtēji inficētiem dzīvniekiem, kā arī uz iekārtām — tīrīšanu, mazgāšanu, dezinficēšanu, deratizāciju un dezinsekciju;\n4) pastiprinātu dzīvnieku uzraudzību un novērošanu."
+    },
+    {
+      "provision_ref": "Art. 30.1",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "30.1",
+      "title": "30. 1 pants. (1) Ja Eiropas Komisijai normatīvajos aktos noteiktajā kārtībā ir paziņots par epizootijas uzliesmojumu un tā ir lēmusi par epizootijas uzraudzības, kontroles un apkarošanas pasākumiem, Pārtikas un veterinārā dienesta valsts galvenais pārtikas un veterinārais inspektors izdod rīkojumu par Eiropas Komisijas lēmumā noteikto prasību ieviešanu, un šāds rīkojums ir spēkā līdz dienai, kad Eiropas Komisijas lēmumā noteiktās prasības pārņemtas Latvijas Republikas normatīvajos aktos.",
+      "content": "(2) Šā panta pirmajā daļā minētajā rīkojumā norāda Eiropas Komisijas lēmumā ietvertos epizootijas ierobežošanas un apkarošanas pasākumus, dzīvnieku, dzīvnieku produktu, dzīvnieku izcelsmes pārtikas produktu un dzīvnieku izcelsmes blakusproduktu iegūšanas un izplatīšanas ierobežojumus, kā arī inficēto un karantīnas teritoriju robežas. Rīkojumu publicē oficiālajā izdevumā \"Latvijas Vēstnesis\"."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "31",
+      "title": "Ja pastāv draudi, ka epizootija var izplatīties tālāk Latvijā vai tās kaimiņvalstīs, Ministru kabinets uzdod valsts robežsardzei uz laiku ierobežot vai pārtraukt satiksmi pāri valsts robežai.",
+      "content": "31.pants. Ja pastāv draudi, ka epizootija var izplatīties tālāk Latvijā vai tās kaimiņvalstīs, Ministru kabinets uzdod valsts robežsardzei uz laiku ierobežot vai pārtraukt satiksmi pāri valsts robežai."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "32",
+      "title": "(1) Epizootijas uzliesmojuma gadījumā ārkārtējo situāciju valstī vai atsevišķā tās daļā izsludina un atceļ saskaņā ar likumu \" Par ārkārtējo situāciju un izņēmuma stāvokli \".",
+      "content": "(2) Valsts galvenais pārtikas un veterinārais inspektors vēršas pie zemkopības ministra ar aicinājumu pieprasīt, lai Ministru kabinets izsludina ārkārtējo situāciju valstī vai atsevišķā tās daļā, ja:\n1) saskaņā ar civilās aizsardzības plānu epizootijas kontrolē un apkarošanā iesaistītās valsts un pašvaldību institūcijas, kas veic neatliekamos preventīvos, reaģēšanas un seku likvidēšanas pasākumus, nespēj pilnvērtīgi pildīt savas funkcijas un pienākumus un tādējādi epizootija var kļūt nekontrolējama;\n2) veterinārmedicīnas nozari reglamentējošie normatīvie akti nenodrošina pietiekamu epizootijas kontroli un apkarošanu un tādējādi rodas plaši un bieži šīs dzīvnieku infekcijas slimības uzliesmojumi ārpus noteiktās karantīnas teritorijas."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "33",
+      "title": "33.pants.",
+      "content": "(Izslēgts ar 18.12.2008 . likumu, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "34",
+      "title": "Epizootijas uzliesmojuma likvidēšanai piešķirtos līdzekļus Pārtikas un veterinārais dienests izmanto:",
+      "content": "1) bioloģisko preparātu un dezinfekcijas līdzekļu iegādei;\n2) veterināro instrumentu un citu materiālu iegādei;\n3) veterinārārstu darba samaksai;\n4) transporta izdevumu segšanai."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IV nodaļa Epizootijas uzliesmojumu likvidēšana un draudu novēršana",
+      "section": "35",
+      "title": "(1) Epizootijas uzliesmojuma gadījumā dzīvnieku īpašniekam, pārtikas uzņēmumam, dzīvnieku mākslīgās apsēklošanas komersantam un embriju transplantācijas komersantam ir tiesības saņemt zaudējumu kompensāciju Ministru kabineta noteiktajā apmērā, ja ir izpildītas dzīvnieku veselības jomu reglamentējošos normatīvajos aktos noteiktās prasības attiecībā uz dzīvnieku apzīmēšanu un reģistrāciju, dzīvnieku ēdināšanu, biodrošību, rīcību epizootijas uzliesmojuma gadījumā un draudu novēršanai, dzīvnieku izcelsmes blakusproduktu un tādu atvasinātu produktu apriti, kuri nav paredzēti cilvēku patēriņam, kā arī ziņošanu par dzīvnieku pārvietošanu un dzīvnieku saslimšanu.",
+      "content": "(2) Epizootijas uzliesmojuma gadījumā tiesības pieteikties uz zaudējumu kompensāciju ir:\n1) dzīvnieku īpašniekam par:\na) dzīvniekiem, kas nobeigušies laikā no brīža, kad tiek ziņots, ka ir aizdomas par epizootijas uzliesmojumu, līdz brīdim, kad ir pabeigta dzīvnieku piespiedu nokaušana vai nogalināšana,\nb) slimības apkarošanas pasākumu laikā nogalinātajiem dzīvniekiem,\nc) iznīcinātajiem dzīvnieku izcelsmes produktiem un reproduktīvajiem produktiem,\nd) iznīcināto dzīvnieku barību,\ne) iznīcināto inventāru, ko nav iespējams dezinficēt,\nf) dzīvnieku novietnes noslēguma dezinfekciju;\n2) pārtikas uzņēmumam — par iznīcinātajiem dzīvnieku izcelsmes produktiem;\n3) dzīvnieku mākslīgās apsēklošanas komersantam un embriju transplantācijas komersantam — par iznīcinātajiem reproduktīvajiem produktiem.\n(3) Ministru kabinets nosaka:\n1) epizootijas, pēc kuru uzliesmojuma ir tiesības saņemt zaudējumu kompensāciju;\n2) nosacījumus un kārtību, kādā dzīvnieku īpašnieks, pārtikas uzņēmums, dzīvnieku mākslīgās apsēklošanas komersants un embriju transplantācijas komersants piesakās uz zaudējumu kompensāciju;\n3) nosacījumus un kārtību, kādā izvērtē, aprēķina, piešķir un saņem zaudējumu kompensāciju par dzīvniekiem, kas nobeigušies un nogalināti, iznīcinātajiem dzīvnieku izcelsmes produktiem, reproduktīvajiem produktiem, noteiktu veidu dzīvnieku barību un inventāru, kā arī par dzīvnieku novietnes noslēguma dezinfekciju;\n4) konkrētas epizootijas uzliesmojuma gadījumā — nosacījumus, ar kādiem tiek piešķirta zaudējumu kompensācija par dzīvniekiem, kas nobeigušies un nogalināti, iznīcinātajiem dzīvnieku izcelsmes produktiem, reproduktīvajiem produktiem, noteiktu veidu dzīvnieku barību un inventāru, dzīvnieku novietnes noslēguma dezinfekciju, kā arī kompensācijas apmēru;\n5) nosacījumus un kārtību, kādā samazina zaudējumu kompensācijas apmēru vai atsaka zaudējumu kompensācijas piešķiršanu;\n6) kārtību, kādā notiek sadarbība starp valsts iestādēm un Dzīvnieku audzēšanas un ciltsdarba likumā noteiktajām šķirnes lauksaimniecības dzīvnieku audzētāju biedrībām, kā arī krustojuma cūku audzētāju organizācijām"
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "V nodaļa Valsts uzraudzībā esošo dzīvnieku infekcijas slimību (izņemot epizootijas) apkarošana",
+      "section": "36",
+      "title": "Valsts uzraudzībā esošās dzīvnieku infekcijas slimības (izņemot epizootijas) apkaro dzīvnieku īpašnieks kopā ar Pārtikas un veterinārā dienesta amatpersonām un praktizējošiem veterinārārstiem saskaņā ar Ministru kabineta noteikumiem un dzīvnieku infekcijas slimību apkarošanas programmām.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.04.2004 . likumu, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "V nodaļa Valsts uzraudzībā esošo dzīvnieku infekcijas slimību (izņemot epizootijas) apkarošana",
+      "section": "37",
+      "title": "(1) Izdevumus, kas saistīti ar šā likuma 36.pantā minēto dzīvnieku infekcijas slimību apkarošanu, sedz dzīvnieku īpašnieks vai tos apmaksā no kārtējā gada valsts budžetā šim mērķim piešķirtajiem līdzekļiem.",
+      "content": "(2) Pārtikas un veterinārais dienests katru gadu aprēķina nepieciešamo līdzekļu daudzumu dzīvnieku infekcijas slimību apkarošanai un pieprasa tos normatīvajos aktos par budžetu un finanšu vadību noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "V nodaļa Valsts uzraudzībā esošo dzīvnieku infekcijas slimību (izņemot epizootijas) apkarošana",
+      "section": "38",
+      "title": "(1) Valsts uzraudzībā esošu dzīvnieku infekcijas slimību (izņemot epizootijas) uzliesmojuma gadījumā dzīvnieku īpašniekam, pārtikas uzņēmumam, dzīvnieku mākslīgās apsēklošanas komersantam un embriju transplantācijas komersantam ir tiesības saņemt zaudējumu kompensāciju Ministru kabineta noteiktajā apmērā, ja ir izpildītas dzīvnieku veselības jomu reglamentējošos normatīvajos aktos noteiktās prasības attiecībā uz dzīvnieku apzīmēšanu un reģistrāciju, dzīvnieku ēdināšanu, biodrošību, dzīvnieku izcelsmes blakusproduktu un tādu atvasinātu produktu apriti, kuri nav paredzēti cilvēku patēriņam, kā arī ziņošanu par dzīvnieku pārvietošanu un dzīvnieku saslimšanu.",
+      "content": "(2) Valsts uzraudzībā esošu dzīvnieku infekcijas slimību (izņemot epizootijas) uzliesmojuma gadījumā tiesības pieteikties uz zaudējumu kompensāciju ir:\n1) dzīvnieku īpašniekam par:\na) dzīvniekiem, kas nokauti vai nogalināti, apkarojot slimību, kā arī par dzīvniekiem, kas nokauti vai nogalināti diagnozes noskaidrošanai gadījumā, kad ir aizdomas par saslimšanu,\nb) iznīcinātajiem dzīvnieku izcelsmes produktiem un reproduktīvajiem produktiem,\nc) iznīcināto dzīvnieku barību,\nd) iznīcināto inventāru, ko nav iespējams dezinficēt,\ne) dzīvnieku novietnes noslēguma dezinfekciju;\n2) pārtikas uzņēmumam — par iznīcinātajiem dzīvnieku izcelsmes produktiem;\n3) dzīvnieku mākslīgās apsēklošanas komersantam un embriju transplantācijas komersantam — par iznīcinātajiem reproduktīvajiem produktiem.\n(3) Ministru kabinets nosaka:\n1) valsts uzraudzībā esošās dzīvnieku infekcijas slimības (izņemot epizootijas), pēc kuru uzliesmojuma ir tiesības saņemt zaudējumu kompensāciju;\n2) nosacījumus un kārtību, kādā dzīvnieku īpašnieks, pārtikas uzņēmums, dzīvnieku mākslīgās apsēklošanas komersants un embriju transplantācijas komersants piesakās uz zaudējumu kompensāciju;\n3) nosacījumus un kārtību, kādā izvērtē, aprēķina, piešķir un saņem zaudējumu kompensāciju par nokautajiem un nogalinātajiem dzīvniekiem, iznīcinātajiem dzīvnieku izcelsmes produktiem, reproduktīvajiem produktiem, noteiktu veidu dzīvnieku barību un inventāru, kā arī par dzīvnieku novietnes noslēguma dezinfekciju;\n4) konkrētas valsts uzraudzībā esošas dzīvnieku infekcijas slimības (izņemot epizootijas) gadījumā — nosacījumus, ar kādiem tiek piešķirta zaudējumu kompensācija par nokautajiem vai nogalinātajiem dzīvniekiem, iznīcinātajiem dzīvnieku izcelsmes produktiem, reproduktīvajiem produktiem, noteiktu veidu dzīvnieku barību un inventāru, dzīvnieku novietnes noslēguma dezinfekciju, kā arī kompensācijas apmēru;\n5) nosacījumus un kārtību, kādā samazina zaudējumu kompensācijas apmēru vai atsaka zaudējumu kompensācijas piešķiršanu;\n6) kārtību, kādā notiek sadarbība starp valsts iestādēm un Dzīvnieku audzēšanas un ciltsdarba likumā noteiktajām šķirnes lauksaimniecības dzīvnieku audzētāju biedrībām, kā arī krustojuma cūku audzētāju organizācijām."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "V nodaļa Valsts uzraudzībā esošo dzīvnieku infekcijas slimību (izņemot epizootijas) apkarošana",
+      "section": "39",
+      "title": "(1) Dzīvnieku turētāju asociācijām un dzīvnieku izcelsmes produktu ražotāju un pārstrādātāju asociācijām ir tiesības izstrādāt dzīvnieku infekcijas slimību (kuras nav valsts uzraudzībā) apkarošanas programmas.",
+      "content": "(2) Dzīvnieku turētāju asociācijas un dzīvnieku izcelsmes produktu ražotāju un pārstrādātāju asociācijas izstrādātās programmas saskaņo ar Pārtikas un veterinārā dienesta ģenerāldirektoru."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VI nodaļa Dzīvnieku izcelsmes produktu aprites valsts uzraudzība",
+      "section": "40",
+      "title": "(1) Personu, kura ir iesaistīta:",
+      "content": "1) dzīvnieku izcelsmes pārtikas produktu apritē, atzīst vai reģistrē Pārtikas un veterinārajā dienestā, ja tā atbilst prasībām, kas noteiktas Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 852/2004 par pārtikas produktu higiēnu (turpmāk — Parlamenta un Padomes regula Nr. 852/2004 ), Parlamenta un Padomes 2004.gada 29.aprīļa regulā (EK) Nr. 853/2004 un Pārtikas aprites uzraudzības likumā;\n2) blakusproduktu, kas nav paredzēti cilvēku patēriņam, apritē, atzīst un reģistrē, kā arī atļaujas darbībām, kas noteiktas Parlamenta un Padomes regulā Nr. 1069/2009 un Komisijas regulā Nr. 142/2011 , izsniedz Pārtikas un veterinārais dienests. Blakusproduktu, kas nav paredzēti cilvēku patēriņam, apritē iesaistītā persona, kura saņēmusi atļauju, darbojas Pārtikas un veterinārā dienesta uzraudzībā saskaņā ar Parlamenta un Padomes regulu Nr. 1069/2009 un Komisijas regulu Nr. 142/2011 .\n(2) Valsts veterinārā uzraudzība ietver:\n1) šā panta pirmajā daļā noteiktās personas plānveida un ārpuskārtas kontroli atbilstoši veterinārmedicīnas jomu regulējošo normatīvo aktu prasībām;\n2) šīs uzraudzības ietvaros veicamās laboratoriskās pārbaudes;\n3) atliekvielu kontroles programmas izpildi;\n4) tādas personas kontroli, kura nodarbojas ar dzīvnieku turēšanu, kaušanu, nomedīto savvaļas dzīvnieku vai ierobežotās platībās turētu savvaļas sugu dzīvnieku gaļas iegūšanu, gaļas sadalīšanu, gaļas sasaldēšanu vai uzglabāšanu saskaņā ar normatīvajiem aktiem par dzīvnieku veselību, labturību, dzīvnieku barības apriti, pārtikas aprites drošumu un higiēnu un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti.\n(3) Šā panta pirmajā daļā noteiktās personas valsts veterināro uzraudzību finansē no valsts budžeta.\n(4) Blakusproduktu, kas nav paredzēti cilvēku patēriņam, savākšana, transportēšana, uzglabāšana, pārstrāde un iznīcināšana notiek saskaņā ar Eiropas Savienības normatīvajiem aktiem. Pārtikas un veterinārais dienests ir kompetentā iestāde, kurai ir tiesības noteikt izņēmumu saskaņā ar Eiropas Savienības normatīvajiem aktiem.\n(5) Blakusproduktu, kas nav paredzēti cilvēku patēriņam, īpašnieks nodrošina to savākšanu, uzglabāšanu, transportēšanu, pārstrādi un iznīcināšanu."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VI nodaļa Dzīvnieku izcelsmes produktu aprites valsts uzraudzība",
+      "section": "41",
+      "title": "(1) (Izslēgta ar 01.04.2004 . likumu)",
+      "content": "(2) Dzīvnieku izcelsmes produktu ievešanai nepieciešams veterinārais (veselības) sertifikāts, kura formu nosaka ar Eiropas Savienības normatīvajiem aktiem. Līdz dienai, kad stājas spēkā Eiropas Savienības normatīvais akts par veterinārā (veselības) sertifikāta formu, izmantojama attiecīgā Pārtikas un veterinārā dienesta apstiprinātā forma.\n(3) (Izslēgta ar 01.04.2004 . likumu)\n(4) Dzīvnieku izcelsmes produktus drīkst ievest no Eiropas Savienības dalībvalstīm un komersantiem, kā arī no valstīm un komersantiem, kuriem ar Eiropas Komisijas lēmumu dota atļauja ievest dzīvnieku izcelsmes produktus Eiropas Savienībā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VI nodaļa Dzīvnieku izcelsmes produktu aprites valsts uzraudzība",
+      "section": "42",
+      "title": "Ministru kabinets dzīvnieku izcelsmes produktu aprites valsts uzraudzības jomā nosaka:",
+      "content": "1) (izslēgts ar 30.03.2006 . likumu) ;\n2) kārtību, kādā mednieki piegādā medījamos dzīvniekus vai to gaļu mazos daudzumos galapatērētājam vai vietējam mazumtirdzniecības uzņēmumam, kurš to piegādā galapatērētājam;\n3) (izslēgts ar 13.12.2001 . likumu) ;\n4) (izslēgts ar 30.03.2006 . likumu) ;\n5) (izslēgts ar 30.03.2006 . likumu) ;\n6) (izslēgts ar 28.10.2004 . likumu) ;\n7) noteiktu vielu un to atliekvielu kontroles un tās finansēšanas kārtību;\n8) prasības dzīvnieku izcelsmes produktu ievešanai valstī, izvešanai no tās un tranzīta pārvadājumiem."
+    },
+    {
+      "provision_ref": "Art. 42.1",
+      "chapter": "VI nodaļa Dzīvnieku izcelsmes produktu aprites valsts uzraudzība",
+      "section": "42.1",
+      "title": "42. 1 pants. (1) Ministru kabinets blakusproduktu, kas nav paredzēti cilvēku patēriņam, aprites valsts uzraudzības jomā nosaka:",
+      "content": "1) blakusproduktu, kas nav paredzēti cilvēku patēriņam, apritē iesaistīto personu reģistrācijas un reģistrācijas anulēšanas kārtību;\n2) uzņēmumu un iekārtu atzīšanas un atzīšanas anulēšanas kārtību;\n3) Parlamenta un Padomes regulā Nr. 1069/2009 un Komisijas regulā Nr. 142/2011 noteikto darbību ar blakusproduktiem, kas nav paredzēti cilvēku patēriņam, atļaušanas un aizliegšanas kārtību.\n(2) Ministru kabinets nosaka veselības aizsardzības un veterinārās prasības attiecībā uz blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "43",
+      "title": "Pārtikas un veterinārais dienests veic dzīvnieku pirmskaušanas apskati un pēckaušanas veterināro ekspertīzi atbilstoši Parlamenta un Padomes regulas Nr. 2017/625 18. panta prasībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "44",
+      "title": "44.pants.",
+      "content": "(Izslēgts ar 30.03.2006 . likumu, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "45",
+      "title": "45.pants.",
+      "content": "(Izslēgts ar 30.03.2006 . likumu, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "46",
+      "title": "(1) Komersants, kas ir kautuves turētājs vai nodarbojas ar nomedīto savvaļas dzīvnieku vai ierobežotās platībās turētu savvaļas sugas dzīvnieku gaļas iegūšanu vai sadalīšanu, slēdz līgumu ar Pārtikas un veterināro dienestu par pirmskaušanas apskates un pēckaušanas veterinārās ekspertīzes veikšanu un veterināro uzraudzību, kā arī nodrošina pirmskaušanas apskates un pēckaušanas veterinārās ekspertīzes veikšanai nepieciešamos darba apstākļus.",
+      "content": "(2) Zvejas produktu ražošanas, laišanas tirgū, pārstrādes vai izplatīšanas vietas īpašnieks slēdz līgumu ar Pārtikas un veterināro dienestu par zvejas produktu pārbaudes veikšanu un tās apmaksas kārtību, kā arī nodrošina zvejas produktu pārbaudes veikšanai nepieciešamos darba apstākļus.\n(3) (Izslēgta ar 30.03.2006 . likumu.)\n(4) (Izslēgta ar 18.12.2008 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "47",
+      "title": "47.pants.",
+      "content": "(Izslēgts ar 01.07.2011 . likumu, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "48",
+      "title": "Dzīvnieku izcelsmes primāros produktus (olas, medu, pienu, zivis) izplata saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 852/2004 , regulā (EK) Nr. 853/2004 un Pārtikas aprites uzraudzības likumā.",
+      "content": "( 30.03.2006 . likuma redakcijā, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "49",
+      "title": "49.pants.",
+      "content": "(Izslēgts ar 18.12.2008 . likumu, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "50",
+      "title": "50.pants.",
+      "content": "(Izslēgts ar 18.12.2008 . likumu, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "VII nodaļa Pirmskaušanas apskate un pēckaušanas veterinārā ekspertīze (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "51",
+      "title": "51.pants.",
+      "content": "(Izslēgts ar 18.12.2008 . likumu, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "VIII nodaļa Dzīvnieku un preču pārvietošana pāri valsts robežai (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "52",
+      "title": "(1) Dzīvnieku un preču kontroli robežkontroles punktos, brīvajās zonās un muitas noliktavās veic Pārtikas un veterinārais dienests atbilstoši Parlamenta un Padomes regulas Nr. 2017/625 prasībām.",
+      "content": "(2) Personu bagāžu un privātus sūtījumus, kas satur dzīvnieku izcelsmes produktus, saskaņā ar Komisijas 2009.gada 5.marta regulu (EK) Nr. 206/2009 par dzīvnieku izcelsmes produktu sūtījumu ievešanu Kopienā personīgam patēriņam un regulas (EK) Nr. 136/2004 grozīšanu (Dokuments attiecas uz EEZ) kontrolē:\n1) robežšķērsošanas vietās, kurās veic muitas kontroli, — Valsts ieņēmumu dienests;\n2) robežšķērsošanas vietās, kurās muitas kontrole nav paredzēta, — Valsts robežsardze.\n(3) Labprātīgi nodotos un izņemtos dzīvnieku izcelsmes produktus, kurus saskaņā ar normatīvajiem aktiem aizliegts ievest Latvijā, iestādes uzglabā un nodod Pārtikas un veterinārajam dienestam iznīcināšanai atbilstoši Parlamenta un Padomes regulai Nr. 1069/2009 .\n(4) Robežšķērsošanas vietās, kurās veic muitas kontroli, mājas (istabas) dzīvniekus saskaņā ar Parlamenta un Padomes regulu Nr. 576/2013 kontrolē Valsts ieņēmumu dienests.\n(5) Robežšķērsošanas vietās, kurās muitas kontrole nav paredzēta, mājas (istabas) dzīvnieku nekomerciāla ievešana no trešajām valstīm ir aizliegta. Valsts robežsardzes amatpersona atsaka ieceļošanu personai, kas ieved mājas (istabas) dzīvnieku, informējot par tuvāko robežšķērsošanas vietu, kurā paredzēta muitas kontrole."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VIII nodaļa Dzīvnieku un preču pārvietošana pāri valsts robežai (Nodaļas nosaukums 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )",
+      "section": "53",
+      "title": "(1) Ministru kabinets nosaka:",
+      "content": "1) (izslēgts ar 28.10.2004 . likumu) ;\n2) (izslēgts ar 28.11.2019 . likumu) ;\n3) prasības attiecībā uz iekārtojumu robežkontroles punktos, kuros tiek veikta veterinārā kontrole, un to atzīšanas kārtību;\n4) kārtību, kādā tiek veikta veterinārā kontrole uz valsts robežas, brīvajās zonās, brīvajās noliktavās un muitas noliktavās;\n5) (izslēgts ar 28.11.2019 . likumu) ;\n6) (izslēgts ar 01.04.2004 . likumu) ;\n7) (izslēgts ar 06.03.2008 . likumu) .\n(2) Dzīvnieku, dzīvnieku spermas, olšūnu, embriju un dzīvnieku izcelsmes produktu kravām, kas tiek ievestas no Eiropas Savienības dalībvalstīm, kontroli robežkontroles punktos, brīvajās zonās un muitas noliktavās neveic."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54",
+      "title": "(1) Tiesības nodarboties ar veterinārmedicīnisko praksi ir praktizējošam veterinārārstam.",
+      "content": "(2) (Izslēgta ar 30.03.2017 . likumu)\n(3) (Izslēgta ar 30.03.2017 . likumu)\n(4) (Izslēgta ar 30.03.2017 . likumu)\n(5) (Izslēgta ar 30.03.2017 . likumu)\n(6) Ministru kabinets nosaka lauksaimniecības dzīvniekiem veicamo neārstniecisku operāciju veidus un to personu loku, kuras papildus šā panta pirmajā daļā minētajām personām ir tiesīgas šādas operācijas veikt.\n(7) Ministru kabinets nosaka:\n1) profesionālās kvalifikācijas prasības veterinārmedicīniskās prakses sertifikāta iegūšanai un pagarināšanai un kvalifikācijas pārbaudes kārtību;\n2) nosacījumus un kārtību, kādā izsniedz veterinārmedicīniskās prakses sertifikātu, tā dublikātu, pagarina sertifikāta derīguma termiņu, aptur, anulē un atjauno sertifikātu, kā arī prasības personiskā zīmoga izgatavošanai un atjaunošanai;\n3) nosacījumus un kārtību, kādā tiek atteikta veterinārmedicīniskās prakses sertifikāta izsniegšana;\n4) termiņu, uz kādu izsniedz veterinārmedicīniskās prakses sertifikātu;\n5) sertificēto personu reģistrācijas kārtību."
+    },
+    {
+      "provision_ref": "Art. 54.1",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.1",
+      "title": "54. 1 pants. Personai, kura ir ieguvusi vidējo profesionālo izglītību veterinārmedicīnā (veterinārfeldšeris vai veterinārārsta asistents), ir atļauts strādāt tikai praktizējoša veterinārārsta pastāvīgā uzraudzībā.",
+      "content": "( 18.12.2008 . likuma redakcijā ar grozījumiem, kas izdarīti ar 04.04.2013 . likumu, kas stājas spēkā 09.05.2013. )"
+    },
+    {
+      "provision_ref": "Art. 54.2",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.2",
+      "title": "54. 2 pants. Ministru kabinets nosaka Latvijas Veterinārārstu biedrības valsts pārvaldes uzdevumu ietvaros sniegto maksas pakalpojumu cenrādi.",
+      "content": "( 03.06.2010 . likuma redakcijā, kas stājas spēkā 06.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 54.3",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.3",
+      "title": "54. 3 pants. (1) Latvijas Veterinārārstu biedrība veic šādus valsts pārvaldes uzdevumus:",
+      "content": "1) izsniedz, aptur, atjauno un anulē veterinārmedicīniskās prakses sertifikātus un pagarina to derīguma termiņu;\n2) izstrādā un apstiprina veterinārmedicīniskās prakses sertifikāta pretendenta kvalifikācijas pārbaudes programmu, kā arī organizē kvalifikācijas pārbaudes;\n3) reģistrē veterinārmedicīniskās prakses sertifikāta saņēmējus un uztur sertificēto personu reģistru;\n4) (izslēgts ar 08.03.2012 . likumu) .\n(2) Latvijas Veterinārārstu biedrība izveido komisiju, kura lemj par veterinārmedicīniskās prakses sertifikātu izsniegšanu, apturēšanu, atjaunošanu, anulēšanu un derīguma termiņa pagarināšanu (turpmāk — sertifikācijas komisija). Sertifikācijas komisijas sastāvu un darbības kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 54.4",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.4",
+      "title": "54. 4 pants. Latvijas Veterinārārstu biedrība, pildot šā likuma 54. 3 pantā minētos uzdevumus, ir tiesīga izdot administratīvos aktus.",
+      "content": "( 03.06.2010 . likuma redakcijā, kas stājas spēkā 06.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 54.5",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.5",
+      "title": "54. 5 pants. Latvijas Veterinārārstu biedrība, pildot šā likuma 54. 3 pantā minētos uzdevumus, ir Zemkopības ministrijas funkcionālajā pakļautībā.",
+      "content": "( 03.06.2010 . likuma redakcijā, kas stājas spēkā 06.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 54.6",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.6",
+      "title": "54. 6 pants. Šā likuma 54. 3 pantā minēto uzdevumu izpildē pieņemtā Latvijas Veterinārārstu biedrības lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību.",
+      "content": "( 03.06.2010 . likuma redakcijā, kas stājas spēkā 06.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 54.7",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.7",
+      "title": "54. 7 pants.",
+      "content": "(Izslēgts ar 08.03.2012 . likumu, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "Art. 54.8",
+      "chapter": "IX nodaļa Tiesības nodarboties ar veterinārmedicīnisko praksi",
+      "section": "54.8",
+      "title": "54. 8 pants. Latvijas Veterinārārstu biedrības pieņemto lēmumu apstrīd Zemkopības ministrijā, Zemkopības ministrijas pieņemto lēmumu pārsūdz tiesā.",
+      "content": "( 30.03.2017 . likuma redakcijā, kas stājas spēkā 26.04.2017. )"
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "X nodaļa Praktizējoša veterinārārsta tiesības un pienākumi",
+      "section": "55",
+      "title": "Praktizējošam veterinārārstam ir tiesības:",
+      "content": "1) konkursa kārtībā noslēgt līgumu ar Pārtikas un veterinārā dienesta ģenerāldirektoru par dzīvnieku infekcijas slimību profilaktiskās uzraudzības programmā noteikto pasākumu veikšanu, paredzot apmaksu normatīvajos aktos noteiktajā kārtībā;\n2) konkursa kārtībā noslēgt līgumu ar Pārtikas un veterinārā dienesta ģenerāldirektoru par pirmskaušanas apskates un pēckaušanas veterinārās ekspertīzes veikšanu un saņemt darba algu attiecīgajā Pārtikas un veterinārā dienesta teritoriālajā struktūrvienībā;\n3) pēc vienošanās ar dzīvnieku īpašnieku vai darba devēju saņemt samaksu vai darba algu par dzīvnieku veterinārmedicīnisko aprūpi;\n4) pārdot dzīvnieka īpašniekam vai turētājam dzīvnieka ārstēšanas kursam nepieciešamās zāles;\n5) izrakstīt recepti dzīvnieka īpašniekam vai turētājam zāļu iegādei aptiekās;\n6) iegādāties zāles veterinārmedicīniskās prakses vajadzībām no komersantiem, kas veic farmaceitisko vai veterinārfarmaceitisko darbību;\n7) atteikties veikt veterinārmedicīnisko praksi, ja veicamais darbs neatbilst veterinārārsta profesionālajai kvalifikācijai, ir pretrunā ar šo likumu, citiem veterinārmedicīnas normatīvajiem aktiem vai veterinārā darba ētiku, kā arī tad, ja dzīvnieka īpašnieks neievēro veterinārārsta norādījumus vai nenodrošina veterinārārsta veselībai un dzīvībai nekaitīgus darba apstākļus;\n8) veikt uzraudzību pār savvaļas dzīvnieku medībām karantīnas apstākļos."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "X nodaļa Praktizējoša veterinārārsta tiesības un pienākumi",
+      "section": "56",
+      "title": "Praktizējošam veterinārārstam ir pienākums:",
+      "content": "1) (izslēgts ar 30.03.2017 . likumu) ;\n2) (izslēgts ar 01.07.2011 . likumu) ;\n3) nekavējoties ziņot Pārtikas un veterinārā dienesta attiecīgās teritoriālās struktūrvienības vadītājam par valsts uzraudzībā esošo dzīvnieku infekcijas slimību uzliesmojumiem vai aizdomām par tiem un rīkoties saskaņā ar dzīvnieku infekcijas slimību apkarošanas programmām līdz turpmākajiem valsts vecākā inspektora veterinārajā jomā rīkojumiem;\n4) piedalīties valsts uzraudzībā esošo epizootiju apkarošanā pēc Pārtikas un veterinārā dienesta attiecīgās teritoriālās struktūrvienības vadītāja uzaicinājuma un saņemt par to samaksu;\n5) rakstveidā informēt dzīvnieku īpašnieku par ierobežojumiem dzīvnieku, kā arī dzīvnieku izcelsmes pārtikas produktu izmantošanā pēc šo dzīvnieku medikamentozas ārstēšanas;\n6) veikt veterinārā darba uzskaiti un iesniegt Pārtikas un veterinārajam dienestam tā noteiktos pārskatus;\n7) ievērot veterinārmedicīniskās prakses standartus un profesionālo ētiku;\n8) paaugstināt profesionālo kvalifikāciju;\n9) par veikto vakcināciju pret trakumsērgu izdarīt attiecīgu ierakstu mājas (istabas) dzīvnieka pasē saskaņā ar Eiropas Parlamenta un Padomes regulas Nr. 576/2013 prasībām vai vakcinācijas apliecībā, ievērojot dzīvnieku veselības jomu reglamentējošos normatīvajos aktos noteikto kārtību;\n10) nekavējoties, bet ne vēlāk kā 24 stundu laikā ziņot Pārtikas un veterinārajam dienestam, ja dzīvnieka īpašnieks vai turētājs nenodrošina veterinārmedicīnisko aprūpi dzīvnieka saslimšanas gadījumā, kā dēļ dzīvnieks ir pakļauts sāpēm un ciešanām vai ir apdraudēta dzīvnieka dzīvība."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "X nodaļa Praktizējoša veterinārārsta tiesības un pienākumi",
+      "section": "57",
+      "title": "(1) Veterinārmedicīniskajā praksē drīkst lietot tikai valstī atļautās zāles.",
+      "content": "(2) Prasības veterinārmedicīniskās prakses iestādēm un veterinārmedicīniskā pakalpojuma sniedzējiem, veterinārmedicīniskās prakses iestādes un veterinārmedicīniskā pakalpojuma sniedzēja reģistrācijas un reģistrācijas anulēšanas kārtību nosaka Ministru kabinets.\n(3) Veterināro zāļu recepšu veidlapu izgatavošanas un uzglabāšanas, kā arī recepšu noformēšanas, izrakstīšanas un uzglabāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 57.1",
+      "chapter": "X nodaļa Praktizējoša veterinārārsta tiesības un pienākumi",
+      "section": "57.1",
+      "title": "57. 1 pants. (1) Praktizējošam veterinārārstam ir aizliegts izdarīt dzīvniekiem to izskatu pārveidojošas vai citas neārstnieciskas operācijas, īpaši mājas (istabas) dzīvniekiem, ausu apgriešanu, astes apgriešanu, devokalizāciju (balss saišu pārgriešanu), pirkstu 3.falangas amputāciju, ilkņu izņemšanu.",
+      "content": "(2) Šā panta pirmajā daļā minētās operācijas praktizējošs veterinārārsts drīkst izdarīt, ja operācija:\n1) dzīvniekam nepieciešama veterinārmedicīnisku apsvērumu dēļ;\n2) dzīvniekam dod citu būtisku labumu (izņemot ausu un astes kosmētisku apgriešanu);\n3) ir vienīgā alternatīva dzīvnieka eitanāzijai (izņemot ausu un astes kosmētisku apgriešanu);\n4) nepieciešama dzīvnieka vairošanās funkciju pārtraukšanai.\n(2 1 ) Praktizējošam veterinārārstam atļauts izdarīt astes apgriešanu Dzīvnieku aizsardzības likumā noteikto šķirņu suņiem.\n(3) Procedūras, kuras var sagādāt dzīvniekam sāpes, praktizējošs veterinārārsts veic, izmantojot anestēziju. Praktizējošs veterinārārsts neizmanto anestēziju gadījumos, kad sāpes nav lielākas par pašu anestēzijas procesu."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "XI nodaļa Dzīvnieku īpašnieku vai turētāju tiesības un pienākumi (Nodaļas nosaukums 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )",
+      "section": "58",
+      "title": "Dzīvnieku īpašniekiem vai turētājiem ir tiesības:",
+      "content": "1) saņemt dzīvnieku veterinārmedicīnisko aprūpi;\n2) saņemt atzinumu par dzīvnieku veselības stāvokli vai nobeigšanās cēloni;\n3) pieprasīt praktizējoša veterinārārsta rakstveida apliecinājumu par dzīvniekiem izdarītajām veterinārmedicīniskajām darbībām un to rezultātiem;\n4) saņemt pirmskaušanas apskates un pēckaušanas veterinārās ekspertīzes rezultātus attiecībā uz kautuvē nokautajiem dzīvniekiem."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "XI nodaļa Dzīvnieku īpašnieku vai turētāju tiesības un pienākumi (Nodaļas nosaukums 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )",
+      "section": "59",
+      "title": "Dzīvnieku īpašniekiem vai turētājiem ir pienākums:",
+      "content": "1) nodrošināt dzīvnieku infekcijas slimību profilaksi un sadarbībā ar Pārtikas un veterinārā dienesta amatpersonām un praktizējošiem veterinārārstiem organizēt valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanu saskaņā ar dzīvnieku veselības jomu reglamentējošiem normatīvajiem aktiem un dzīvnieku infekcijas slimību apkarošanas programmām;\n2) nodrošināt dzīvnieku labturībai nepieciešamos apstākļus, bet saslimušajiem dzīvniekiem — savlaicīgu veterinārmedicīnisko aprūpi, kā arī nodrošināt praktizējošam veterinārārstam nepieciešamos darba apstākļus un dzīvnieku fiksēšanu veterinārmedicīnisko procedūru laikā;\n3) pārvadājot dzīvniekus, ievērot normatīvajos aktos noteikto kārtību;\n4) uzrādīt un nodot nākamajam dzīvnieku īpašniekam dokumentus par dzīvnieku identifikāciju, reģistrāciju, veselības stāvokli un veiktajiem dzīvnieku infekcijas slimību profilaktiskajiem pasākumiem (piemēram, mājas (istabas) dzīvnieka pasi, dzīvnieka pārvietošanas deklarāciju, vakcinācijas apliecību);\n5) nodrošināt dzīvnieku, ganāmpulku un novietņu reģistrēšanu Ministru kabineta noteiktajā kārtībā;\n6) ierobežot nepiederošu personu saskarsmi ar dzīvniekiem;\n7) nodrošināt ar valsts uzraudzībā esošajām dzīvnieku infekcijas slimībām saistīto profilaktisko pasākumu izpildi noteiktajos termiņos;\n8) nekavējoties, bet ne vēlāk kā 12 stundu laikā ziņot:\na) praktizējošam veterinārārstam par dzīvniekiem, kuriem bijis aborts, par nedzīvi dzimušiem dzīvniekiem, vairāku dzīvnieku vienlaicīgu saslimšanu vai nobeigšanos un jebkuru gadījumu, kad rodas aizdomas par dzīvnieku saslimšanu ar infekcijas slimību,\nb) komersantiem, kuri nodarbojas ar blakusproduktu, kas nav paredzēti cilvēku patēriņam, savākšanu, par dzīvnieku nobeigšanās gadījumiem;\n9) nokaut dzīvniekus kautuvēs saskaņā ar prasībām, kas noteiktas regulā (EK) Nr. 853/2004 ;\n10) nodrošināt dzīvnieku līķu savākšanu normatīvajos aktos noteiktajā kārtībā;\n11) valsts uzraudzībā esošo dzīvnieku infekcijas slimību apkarošanas gadījumos pēc Pārtikas un veterinārā dienesta amatpersonas vai praktizējoša veterinārārsta pieprasījuma:\na) uzrādīt dzīvniekus, kā arī dzīvnieku mītnes un veterināro dokumentāciju (diagnostisko izmeklējumu un vakcinācijas aktus, diagnostiski izmeklēto un vakcinēto dzīvnieku sarakstus, laboratorisko izmeklējumu rezultātus),\nb) pakļaut dzīvniekus infekcijas slimību diagnosticēšanai, ārstēšanai un profilakses pasākumiem,\nc) nodrošināt dzīvnieku mītņu un iekārtu dezinfekciju,\nd) nodrošināt dzīvnieku karantinēšanu un ārstēšanu, kā arī dzīvnieku likvidāciju;\n12) ievērot ierobežojumus dzīvnieku un dzīvnieku izcelsmes produktu izmantošanā pēc dzīvnieku medikamentozas ārstēšanas, ja tādi paredzēti apstiprinātā lietošanas instrukcijā vai tos nosaka praktizējošs veterinārārsts;\n13) ievērot ierobežojumus dzīvnieku barības izēdināšanā, glabāšanā un pārvadāšanā atbilstoši normatīvajos aktos noteiktajām prasībām;\n14) nodrošināt suņu, kaķu un mājas (istabas) sesku profilaktisko vakcināciju pret trakumsērgu dzīvnieka triju mēnešu vecumā, izņemot gadījumus, kad praktizējošs veterinārārsts, ņemot vērā konkrētā dzīvnieka veselības stāvokli, nosaka citu vakcinācijas laiku, kā arī nodrošināt atkārtotu vakcināciju (revakcināciju) saskaņā ar veterināro zāļu lietošanas instrukcijā noteikto kārtību;\n15) nodrošināt novietnē un akvakultūras dzīvnieku audzētavā esošo dzīvnieku pārvietošanu uz citām novietnēm un akvakultūras dzīvnieku audzētavām atbilstoši piešķirtajam veselības statusam un saskaņā ar normatīvajiem aktiem par dzīvnieku infekcijas slimību uzraudzību, kontroli, profilaksi un apkarošanu;\n16) trīs gadus glabāt testēšanas pārskatus par laboratoriskajiem izmeklējumiem attiecībā uz ziņojamām, reģistrējamām un valsts uzraudzībā esošām dzīvnieku infekcijas slimībām;\n17) nodrošināt, lai suns līdz četru mēnešu vecumam ir apzīmēts ar mikroshēmu, lai tam ir mājas (istabas) dzīvnieka pase un tas ir reģistrēts Lauku atbalsta dienesta mājas (istabas) dzīvnieku reģistra datubāzē. Ja suns līdz četru mēnešu vecumam tiek atsavināts, iepriekš minētais pienākums izpildāms līdz atsavināšanas brīdim uz atsavinātāja vārda;\n18) ja suni ieved no citas valsts, — 10 dienu laikā pēc tā ievešanas nodrošināt, ka tam ir mājas (istabas) dzīvnieka pase un tas uz īpašnieka vārda vai tās personas vārda, kura veterinārajā (veselības) sertifikātā norādīta kā suņa saņēmējs, ir reģistrēts Lauku atbalsta dienesta mājas (istabas) dzīvnieku reģistra datubāzē. Ja suni paredzēts atsavināt, šis pienākums izpildāms līdz atsavināšanas brīdim;\n19) nodrošināt, lai kaķis un mājas (istabas) sesks Ministru kabineta noteiktajā kārtībā ir apzīmēts ar mikroshēmu, lai tam ir mājas (istabas) dzīvnieka pase un tas ir reģistrēts Lauku atbalsta dienesta mājas (istabas) dzīvnieku reģistra datubāzē, izņemot gadījumus, kad atbilstoši šā likuma 25. panta 6. 1 punktam minēto prasību nodrošināšana nav obligāta."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "XI nodaļa Dzīvnieku īpašnieku vai turētāju tiesības un pienākumi (Nodaļas nosaukums 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )",
+      "section": "60",
+      "title": "60.pants.",
+      "content": "(Izslēgts ar 01.04.2004 . likumu, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "XII nodaļa. Valsts veterinārās uzraudzības objekta darbības apturēšana un atjaunošana (Nodaļa 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )",
+      "section": "61",
+      "title": "(1) Pārtikas un veterinārā dienesta valsts galvenais pārtikas un veterinārais inspektors, valsts vecākie inspektori un valsts inspektori veterinārajā un pārtikas jomā (turpmāk — Pārtikas un veterinārā dienesta amatpersona) nosaka neatbilstību novēršanas termiņu un, ja nepieciešams, ierobežo veterinārās uzraudzības objekta vai tā struktūrvienības (turpmāk — objekts) darbību, ja ir konstatēta neatbilstība dzīvnieku veselību, labturību un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti reglamentējošu normatīvo aktu prasībām.",
+      "content": "(2) (Izslēgta ar 30.03.2017 . likumu)\n(3) (Izslēgta ar 30.03.2017 . likumu)\n(4) Objekta darbības apturēšanu nodrošina tā īpašnieks, valdītājs vai viņa pilnvarota persona.\n(5) Objekta darbību aptur nekavējoties, ja dzīvnieku veselību, labturību un blakusproduktu, kas nav paredzēti cilvēku patēriņam, apriti reglamentējošu normatīvo aktu pārkāpuma dēļ produkcijā vai vidē var nonākt bīstamas vielas vai slimību izraisītāji vai pastāv draudi cilvēku vai dzīvnieku veselībai vai dzīvībai."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "XII nodaļa. Valsts veterinārās uzraudzības objekta darbības apturēšana un atjaunošana (Nodaļa 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )",
+      "section": "62",
+      "title": "(1) Objekta īpašnieks, valdītājs vai viņa pilnvarota persona par lēmumā par objekta darbības apturēšanu norādīto normatīvo aktu prasību pārkāpumu novēršanu rakstveidā ziņo attiecīgajai Pārtikas un veterinārā dienesta teritoriālajai struktūrvienībai. Pārtikas un veterinārā dienesta amatpersona piecu darbdienu laikā pēc paziņojuma saņemšanas pārbauda, vai normatīvo aktu pārkāpumi ir novērsti.",
+      "content": "(2) Ja visi lēmumā par objekta darbības apturēšanu minētie normatīvo aktu pārkāpumi ir novērsti, attiecīgā Pārtikas un veterinārā dienesta amatpersona ne vēlāk kā triju darbdienu laikā pēc pārbaudes veikšanas izsniedz rakstveida atļauju objekta darbības atjaunošanai.\n(3) Ja nav novērsti visi lēmumā par objekta darbības apturēšanu minētie normatīvo aktu pārkāpumi, attiecīgā Pārtikas un veterinārā dienesta amatpersona sniedz motivētu rakstveida atteikumu darbības atjaunošanai."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "XII nodaļa. Valsts veterinārās uzraudzības objekta darbības apturēšana un atjaunošana (Nodaļa 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )",
+      "section": "63",
+      "title": "Lēmumu par objekta darbības apturēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Pārtikas un veterinārā dienesta amatpersonas lēmuma par objekta darbības apturēšanu vai ierobežošanu apstrīdēšana vai pārsūdzēšana neaptur tā izpildi.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.03.2017 . likumu, kas stājas spēkā 26.04.2017. )"
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "64",
+      "title": "Par to pašu patēriņam paredzētu dzīvnieku izcelsmes produktu ievešanas prasību pārkāpšanu, kuras noteiktas Komisijas 2009. gada 5. marta regulā (EK) Nr. 206/2009 par dzīvnieku izcelsmes produktu sūtījumu ievešanu Kopienā personīgam patēriņam un regulas (EK) Nr. 136/2004 grozīšanu, piemēro brīdinājumu vai naudas sodu līdz četrpadsmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "65",
+      "title": "Par dzīvnieku, dzīvnieku izcelsmes produktu vai blakusproduktu, kas nav paredzēti cilvēku patēriņam, neatļautu pārvietošanu vai izplatīšanu valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozes, vai epizootijas apkarošanas pasākumu īstenošanas laikā piemēro naudas sodu fiziskajai personai no desmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "66",
+      "title": "Par neziņošanu praktizējošam veterinārārstam valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozes, vai epizootijas apkarošanas pasākumu īstenošanas laikā, ja dzīvniekam bijis aborts, piedzimuši nedzīvi dzīvnieki, vienlaikus saslimuši vai nobeigušies vairāki dzīvnieki vai radušās aizdomas par dzīvnieka saslimšanu ar infekcijas slimību, piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "67",
+      "title": "Par neziņošanu Pārtikas un veterinārajam dienestam, ja radušās aizdomas par dzīvnieka saslimšanu ar valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozi, vai epizootiju, praktizējošam veterinārārstam piemēro naudas sodu no desmit līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "68",
+      "title": "Par dzīvnieku izcelsmes produktu marķēšanas prasību pārkāpumiem epizootijas uzliesmojuma laikā piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "69",
+      "title": "Par darba vai maiņas apģērbu un apavu nenodrošināšanu, neizmantošanu vai neatbilstošu lietošanu valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozes, un epizootijas apkarošanas pasākumu īstenošanas laikā piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "70",
+      "title": "Par normatīvajos aktos aizliegta produkta izbarošanu vai lietošanu uzņēmīgām dzīvnieku sugām valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozes, un epizootijas apkarošanas pasākumu īstenošanas laikā piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "71",
+      "title": "Par prasības dzīvnieku turēt slēgtā telpā neievērošanu valsts uzraudzībā esošo dzīvnieku infekcijas slimību, tostarp zoonozes, un epizootijas apkarošanas pasākumu īstenošanas laikā piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "72",
+      "title": "Par dzīvnieku neuzrādīšanu Pārtikas un veterinārā dienesta inspektoram gadījumos, kad normatīvajos aktos noteikts šāds pienākums, piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "73",
+      "title": "Par tādu darbību veikšanu bez veterinārmedicīniskās prakses sertifikāta, kurām šis sertifikāts ir nepieciešams, piemēro naudas sodu no piecdesmit sešām līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "74",
+      "title": "Par veterinārmedicīniskās prakses iestādes nereģistrēšanu piemēro naudas sodu fiziskajai personai no desmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "75",
+      "title": "Par tādu zāļu lietošanu dzīvniekam, kuras satur normatīvajos aktos noteiktās aizliegtās vielas, piemēro naudas sodu dzīvnieka īpašniekam (turētājam) fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "76",
+      "title": "Par zāļu izdalīšanās perioda neievērošanu pēc zāļu lietošanas dzīvniekam, ja pēc tam konstatēta atļautā zāļu atliekvielu daudzuma pārsniegšana dzīvnieku izcelsmes pārtikas produktos, piemēro naudas sodu dzīvnieka īpašniekam (turētājam) fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "77",
+      "title": "Par neatbilstoša zāļu izdalīšanās perioda noteikšanu, ja pēc tam konstatēta atļautā zāļu atliekvielu daudzuma pārsniegšana dzīvnieku izcelsmes pārtikas produktos, piemēro naudas sodu līdz simt četrdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "78",
+      "title": "Par tādu zāļu izrakstīšanu vai lietošanu dzīvniekam, kuras satur normatīvajos aktos noteiktās aizliegtās vielas, piemēro naudas sodu līdz simt četrdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "79",
+      "title": "Par tādu dzīvnieku izcelsmes produktu, izņemot blakusproduktus un atvasinātus produktus, kas nav paredzēti cilvēku patēriņam, un pārtiku, izplatīšanu, kuri iegūti, apstrādāti, uzglabāti, uzskaitīti, marķēti vai transportēti, pārkāpjot normatīvajos aktos noteiktās prasības, piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "80",
+      "title": "Par dzīvnieku un dzīvnieku izcelsmes produktu, izņemot blakusproduktus un atvasinātus produktus, kas nav paredzēti cilvēku patēriņam, un pārtiku, ievešanu, izvešanu vai tranzītu bez veterinārā (veselības) sertifikāta vai cita normatīvajos aktos noteiktā dokumenta piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "81",
+      "title": "Par nepatiesas informācijas norādīšanu normatīvajos aktos noteiktajā dokumentā par dzīvniekiem un dzīvnieku izcelsmes produktiem, izņemot blakusproduktus un atvasinātus produktus, kas nav paredzēti cilvēku patēriņam, un pārtiku, piemēro naudas sodu fiziskajai personai līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "82",
+      "title": "(1) Administratīvā pārkāpuma procesu par šā likuma 64. pantā minētajiem pārkāpumiem veic Valsts ieņēmumu dienests.",
+      "content": "(2) Administratīvā pārkāpuma procesu par šā likuma 65. , 66. , 67. , 68. , 69. , 70. , 71. , 72. , 73. , 74. , 75. , 76. , 77. , 78. , 79. , 80. un 81. pantā minētajiem pārkāpumiem veic Pārtikas un veterinārais dienests."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn1",
+      "title": "1. Veterinārmedicīniskās prakses licences, kas izsniegtas pirms šā likuma spēkā stāšanās, paliek spēkā līdz licencē noteiktajam termiņam.",
+      "content": "1. Veterinārmedicīniskās prakses licences, kas izsniegtas pirms šā likuma spēkā stāšanās, paliek spēkā līdz licencē noteiktajam termiņam."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn2",
+      "title": "2. Veterinārfeldšeri, kuri ieguvuši vidējo speciālo izglītību līdz 1992.gadam un kuriem ir veterinārmedicīniskās prakses licence, pēc Pārtikas un veterinārā dienesta ģenerāldirektora priekšlikuma teritorijās, kur nav pietiekams praktizējošu veterinārārstu skaits, var pildīt praktizējoša veterinārārsta funkcijas pēc tam, kad ir saņēmuši tiesības nodarboties ar veterinārmedicīnisko praksi.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.04.2004 . likumu, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn3",
+      "title": "3. (Izslēgts ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )",
+      "content": "3. (Izslēgts ar 13.12.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn4",
+      "title": "4. (Izslēgts ar 30.03.2006 . likumu, kas stājas spēkā 03.05.2006. )",
+      "content": "4. (Izslēgts ar 30.03.2006 . likumu, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn5",
+      "title": "5. Līdz attiecīgo Ministru kabineta noteikumu pieņemšanai ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) 1997.gada 27.marta noteikumi nr.109 \"Dzīvnieku kaušanas noteikumi\";\n2) (izslēgts ar 01.04.2004 . likumu) ;\n3) 1998.gada 14.jūlija noteikumi nr.251 \"Noteikumi par akvakultūras dzīvnieku audzētavu reģistrāciju, upju baseina zonu apstiprināšanu, akvakultūras dzīvnieku infekcijas slimību kontroli audzētavās un upju baseina zonās un prasībām, kas piemērojamas akvakultūras dzīvnieku piedāvājumam tirgū\";\n4) 1998.gada 25.augusta noteikumi nr.320 \"Kārtība, kādā Latvijā ievedams piens un piena produkti\";\n5) 1998.gada 25.augusta noteikumi nr.323 \"Dzīvnieku lipīgo slimību saraksts\";\n6) (izslēgts ar 01.04.2004 . likumu) ;\n7) 1999.gada 11.maija noteikumi nr.174 \"Kārtība, kādā Latvijā ievedama gaļa\"."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn6",
+      "title": "6. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par veterinārmedicīnu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 29./31.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4.nr.; 1995, 3.nr.; 1996, 24.nr.; 1997, 16.nr.).",
+      "content": "6. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par veterinārmedicīnu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 29./31.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 4.nr.; 1995, 3.nr.; 1996, 24.nr.; 1997, 16.nr.)."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn7",
+      "title": "7. Šā likuma 3.panta otrā daļa attiecībā uz sanitāro robežinspekciju un 52.pants stājas spēkā 2002.gada 1.janvārī.",
+      "content": "7. Šā likuma 3.panta otrā daļa attiecībā uz sanitāro robežinspekciju un 52.pants stājas spēkā 2002.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn8",
+      "title": "8. Līdz šā likuma 54.panta ceturtajā daļā minēto Ministru kabineta noteikumu pieņemšanai Latvijas Veterinārārstu biedrība izsniedz un anulē veterinārmedicīniskās prakses licences.",
+      "content": "8. Līdz šā likuma 54.panta ceturtajā daļā minēto Ministru kabineta noteikumu pieņemšanai Latvijas Veterinārārstu biedrība izsniedz un anulē veterinārmedicīniskās prakses licences."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn9",
+      "title": "9. Noteikt, ka Pārtikas un veterinārais dienests ir Valsts veterinārā dienesta tiesību un saistību pārņēmējs.",
+      "content": "9. Noteikt, ka Pārtikas un veterinārais dienests ir Valsts veterinārā dienesta tiesību un saistību pārņēmējs."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn10",
+      "title": "10. Šā likuma 52.pants un 53.panta 4.punkts attiecībā uz valsts uzraudzību un kontroli brīvajās noliktavās stājas spēkā 2002.gada 1.jūlijā.",
+      "content": "( 13.12.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn11",
+      "title": "11. Līdz 2004.gada 1.maijam Ministru kabinets izdod noteikumus, kas nosaka prasības dzīvnieku veterinārmedicīniskās aprūpes uzņēmumiem.",
+      "content": "( 12.06.2003 . likuma redakcijā, kas stājas spēkā 17.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn12",
+      "title": "12. Grozījumi likuma 20.panta trešajā daļā attiecībā uz veterinārā (veselības) sertifikāta nepieciešamību dzīvnieku, dzīvnieku spermas, olšūnu un embriju ievešanai un tā formas noteikšanu ar Eiropas Komisijas lēmumu un šā panta sestā un septītā daļa, likuma 25.panta 5.punkts, grozījumi likuma 41.panta otrajā daļā attiecībā uz veterinārā (veselības) sertifikāta nepieciešamību dzīvnieku izcelsmes produktu ievešanai un tā formas noteikšanu ar Eiropas Komisijas lēmumu un šā panta ceturtā daļa, kā arī likuma 53.panta otrā daļa stājas spēkā ar īpašu likumu.",
+      "content": "( 12.06.2003 . likuma redakcijā, kas stājas spēkā 17.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn13",
+      "title": "13. Šā likuma 21.panta otrā daļa stājas spēkā 2005.gada 1.janvārī.",
+      "content": "( 01.04.2004 . likuma redakcijā, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn14",
+      "title": "14. Šā likuma 20.panta otrajā daļā un 25.panta 3.punktā paredzētos noteikumus Ministru kabinets izdod līdz 2004.gada 1.jūlijam.",
+      "content": "( 01.04.2004 . likuma redakcijā, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn15",
+      "title": "15. Šā likuma normas, kurās lietots termins \"komersants\", piemērojamas arī attiecībā uz individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, kā arī citiem uzņēmumu reģistrā reģistrētajiem uzņēmumiem (uzņēmējsabiedrībām).",
+      "content": "( 01.04.2004 . likuma redakcijā, kas stājas spēkā 01.05.2004. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn16",
+      "title": "16. Šā likuma 21.panta trešajā daļā paredzētos noteikumus Ministru kabinets izdod līdz 2006.gada 1.janvārim.",
+      "content": "( 28.10.2004 . likuma redakcijā, kas stājas spēkā 26.11.2004. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn17",
+      "title": "17. Ministru kabinets līdz 2007.gada 1.janvārim izdod šā likuma 11. 1 pantā , 42.panta 2.punktā un 53.panta pirmās daļas 7.punktā paredzētos noteikumus.",
+      "content": "( 30.03.2006 . likuma redakcijā, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn18",
+      "title": "18. Šā likuma 25.panta 9.punktā paredzētos noteikumus Ministru kabinets izdod līdz 2006.gada 1.jūlijam.",
+      "content": "( 30.03.2006 . likuma redakcijā, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn19",
+      "title": "19. Šā likuma 25.panta 8., 10., 11. un 12.punktā paredzētos noteikumus Ministru kabinets izdod līdz 2008.gada 1.janvārim.",
+      "content": "( 30.03.2006 . likuma redakcijā, kas stājas spēkā 03.05.2006. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn20",
+      "title": "20. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 25.panta 3.punktā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 31.decembrim ir piemērojami Ministru kabineta 2004.gada 27.jūlija noteikumi Nr.632 “ Dzīvnieku kapsētu iekārtošanas un uzturēšanas kārtība ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn21",
+      "title": "21. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 54.panta septītajā daļā, 54. 2 un 54. 7 pantā minētos noteikumus.",
+      "content": "( 03.06.2010 . likuma redakcijā, kas stājas spēkā 06.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn22",
+      "title": "22. Līdz šā likuma 54.panta septītajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 31.decembrim piemērojami Ministru kabineta 2003.gada 2.septembra noteikumi Nr.493 “ Kārtība, kādā izsniedz un anulē veterinārmedicīniskās prakses sertifikātu .",
+      "content": "( 03.06.2010 . likuma redakcijā, kas stājas spēkā 06.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn23",
+      "title": "23. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 25.panta 17. un 18.punktā, 42. 1 panta pirmajā un otrajā daļā un 57.panta trešajā daļā minētos noteikumus.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn24",
+      "title": "24. Ministru kabinets līdz 2013.gada 1.jūlijam izdod šā likuma 57.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 30.jūnijam piemērojami Ministru kabineta 2004.gada 13.jūlija noteikumi Nr.599 \" Prasības dzīvnieku veterinārmedicīniskās aprūpes prakses darba vietām \".",
+      "content": "( 04.04.2013 . likuma redakcijā, kas stājas spēkā 09.05.2013. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn25",
+      "title": "25. Šā likuma 21.panta piektā daļa stājas spēkā 2014.gada 29.decembrī. Līdz 2014.gada 28.decembrim praktizējošs veterinārārsts veic Parlamenta un Padomes 2003.gada 26.maija regulā (EK) Nr. 998/2003 par dzīvnieku veselības prasībām, kas piemērojamas lolojumdzīvnieku nekomerciālai pārvietošanai, un ar kuru groza Padomes direktīvu 92/65/EK , pilnvarotajam veterinārārstam noteiktās darbības.",
+      "content": "( 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn26",
+      "title": "26. Šā likuma 8.panta 7.punkts, 56.panta 9.punkts un grozījumi 52.panta ceturtajā daļā attiecībā uz mājas (istabas) dzīvnieku kontroli saskaņā ar Parlamenta un Padomes regulu Nr. 576/2013 stājas spēkā 2014.gada 29.decembrī.",
+      "content": "( 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn27",
+      "title": "27. Ministru kabinets līdz 2015.gada 1.februārim izdara grozījumus šādos Ministru kabineta noteikumos:",
+      "content": "1) 2005.gada 15.marta noteikumos Nr.177 \" Kārtība, kādā piešķir un dzīvnieku īpašnieks saņem kompensāciju par zaudējumiem, kas radušies valsts uzraudzībā esošās dzīvnieku infekcijas slimības vai epizootijas uzliesmojuma laikā \";\n2) 2010.gada 27.jūlija noteikumos Nr.704 \" Noteikumi par robežšķērsošanas vietām un tajās veicamajām pārbaudēm \";\n3) 2013.gada 20.augusta noteikumos Nr.621 \" Noteikumi par biodrošības pasākumu kopumu dzīvnieku turēšanas vietām \"."
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn28",
+      "title": "28. Grozījumi par šā likuma 8. panta 3. punkta un 13. panta izslēgšanu, kā arī par šā likuma papildināšanu ar XIII nodaļu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn29",
+      "title": "29. Vakcinācijas apliecības, kuras izsniegtas līdz grozījuma šā likuma 59. pantā par tā papildināšanu ar 17. punktu, kas paredz nodrošināt mājas (istabas) dzīvnieka pasi sunim, spēkā stāšanās dienai, ir derīgas visā suņa dzīves laikā. Mājas (istabas) dzīvnieka pase sunim, par kuru līdz šā punkta spēkā stāšanās dienai ir izsniegta vakcinācijas apliecība, ir obligāts dokuments Parlamenta un Padomes regulā Nr. 576/2013 noteiktajos gadījumos.",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn30",
+      "title": "30. Ministru kabinets, ievērojot šā likuma 59. panta 17. punktā noteikto, ne vēlāk kā līdz 2020. gada 29. februārim izdara grozījumus Ministru kabineta 2011. gada 21. jūnija noteikumos Nr. 491 \" Mājas (istabas) dzīvnieku reģistrācijas kārtība \".",
+      "content": "( 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn31",
+      "title": "31. Šā likuma grozījumi, kas paredz 35. un 38. panta izteikšanu jaunā redakcijā, stājas spēkā 2021. gada 1. aprīlī.",
+      "content": "( 03.12.2020 . likuma redakcijā, kas stājas spēkā 31.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn32",
+      "title": "32. Līdz šā likuma 25. panta 6. punktā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 30. jūnijam piemērojami Ministru kabineta 2011. gada 21. jūnija noteikumi Nr. 491 \" Mājas (istabas) dzīvnieku reģistrācijas kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 09.12.2021 . likuma redakcijā, kas stājas spēkā 04.01.2022. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn33",
+      "title": "33. Vakcinācijas apliecības, kuras izsniegtas kaķiem un mājas (istabas) seskiem līdz 2024. gada 30. jūnijam, ir derīgas visu kaķa un mājas (istabas) seska dzīves laiku. Mājas (istabas) dzīvnieka pase kaķim un mājas (istabas) seskam, par kuru līdz 2024. gada 30. jūnijam ir izsniegta vakcinācijas apliecība, ir obligāts dokuments Parlamenta un Padomes regulā Nr. 576/2013 noteiktajos gadījumos.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.07.2024. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "chapter": "XIII nodaļa Administratīvie pārkāpumi veterinārmedicīnas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 28.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn34",
+      "title": "34. Grozījums šā likuma 8. pantā par 6. punkta izteikšanu jaunā redakcijā stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.12.2025 . likuma redakcijā, kas stājas spēkā 01.01.2026. Minētais grozījums iekļauts likuma redakcijā uz 01.07.2026. )\n( 18.12.2008 . likuma redakcijā, kas stājas spēkā 21.01.2009. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dzīvnieku infekcijas slimības",
+      "definition": "slimības, kuru ierosinātāji (baktērijas, vīrusi, mikroskopiskās sēnes, vienšūņi, prioni, ektoparazīti, endoparazīti) tieši vai dažādu faktoru ietekmē var tikt pārnesti no viena dzīvnieka uz citu dzīvnieku vai cilvēku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "epizootija",
+      "definition": "dzīvnieku infekcijas slimība, kurai raksturīga dzīvnieku masveida saslimšana un strauja izplatība un kura rada lielus sociālekonomiskos zaudējumus, ierobežo starptautisko tirdzniecību ar dzīvniekiem un dzīvnieku izcelsmes produkciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "praktizējošs veterinārārsts",
+      "definition": "sertificēts veterinārārsts, kas normatīvajos aktos noteiktajā kārtībā ir reģistrējies kā veterinārmedicīniskā pakalpojuma sniedzējs un nodarbojas ar veterinārmedicīnisko praksi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pirmskaušanas apskate",
+      "definition": "pārbaude Eiropas Parlamenta un Padomes 2017. gada 15. marta regulas (ES) 2017/625 par oficiālajām kontrolēm un citām oficiālajām darbībām, kuras veic, lai nodrošinātu, ka tiek piemēroti pārtikas un barības aprites tiesību akti, noteikumi par dzīvnieku veselību un labturību, augu veselību un augu aizsardzības līdzekļiem, un ar ko groza Eiropas Parlamenta un Padomes regulas (EK) Nr. 999/2001 , (EK) Nr. 396/2005 , (EK) Nr. 1069/2009 , (EK) Nr. 1107/2009 , (ES) Nr. 1151/2012 , (ES) Nr. 652/2014 , (ES) 2016/429 un (ES) 2016/2031 , Padomes regulas (EK) Nr. 1/2005 un (EK) Nr. 1099/2009 un Padomes direktīvas 98/58/EK , 1999/74/EK, 2007/43/EK, 2008/119/EK un 2008/120/EK un atceļ Eiropas Parlamenta un Padomes regulas (EK) Nr. 854/2004 un (EK) Nr. 882/2004 , Padomes direktīvas 89/608/EEK , 89/662/EEK, 90/425/EEK, 91/496/EEK, 96/23/EK, 96/93/EK un 97/78/EK un Padomes lēmumu 92/438/EEK (Oficiālo kontroļu regula) (turpmāk — Parlamenta un Padomes regula Nr. 2017/625 ) 17. panta \"c\" punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "veterinārmedicīna",
+      "definition": "zinātnes un prakses nozare, kas nodarbojas ar jautājumiem, kuri saistīti ar dzīvnieku veselību un slimībām, izstrādā veterinārās prasības, kuru izpilde veicina dzīvnieku veselību, produktivitāti un labturību, nodrošina dzīvnieku infekcijas slimību profilaksi un apkarošanu, pasargā iedzīvotājus no saslimšanas ar dzīvniekiem un cilvēkiem kopīgām infekcijas slimībām, nodrošina kvalitatīvu un patērētāju veselībai nekaitīgu dzīvnieku izcelsmes produktu apriti, kā arī nodrošina vides aizsardzību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "veterinārmedicīniskā prakse",
+      "definition": "praktizējoša veterinārārsta profesionāla darbība dzīvnieku labturības veicināšanā, veselības nostiprināšanā un saglabāšanā, dzīvnieku slimību diagnostikā un profilaksē, saslimušu dzīvnieku ārstēšanā un ķirurģisku operāciju veikšanā. Veterinārmedicīniskās prakses ietvaros ārstnieciskā vai profilaktiskā kursa pabeigšanai atļauts, ja nepieciešams, pagatavot un pārdot dzīvniekiem paredzētās zāles",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "akvakultūras dzīvnieks",
+      "definition": "savvaļā iegūts ūdenī dzīvojošs dzīvnieks, kuru tur dzīvnieku audzētavā vai divvāku molusku audzēšanas zonā, kā arī dzīvnieku audzētavā vai divvāku molusku audzēšanas zonā audzēts ūdenī dzīvojošs dzīvnieks jebkurā tā attīstības stadijā, tā olšūnas, sperma un gametas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "references laboratorija",
+      "definition": "akreditēta laboratorija, kura pilda valsts deleģētas funkcijas un strīda gadījumā izvērtē izmeklēšanas rezultātus, veic atkārtotu izmeklēšanu un sniedz galīgo atzinumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uzņēmīgs dzīvnieks",
+      "definition": "dzīvnieks, kurš var saslimt, kontaktējoties ar dzīvnieku infekcijas slimības ierosinātājiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "veterinārmedicīniskās prakses iestāde",
+      "definition": "noteiktām prasībām atbilstoša un īpaši aprīkota veterinārmedicīniskās prakses vieta, kurā praktizējošs veterinārārsts veic veterinārmedicīnisko praksi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "aprite",
+      "definition": "dzīvnieku, dzīvnieku izcelsmes produktu, dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam, ieguve, ražošana, iepakošana, uzglabāšana, laišana tirgū, transportēšana, imports, eksports, tranzīts, savākšana, apstrāde, pārstrāde, piegāde, izmantošana, iznīcināšana, izpēte un izstrāde",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "specializēta tirdzniecības vieta",
+      "definition": "vieta, kas reģistrēta saskaņā ar normatīvajiem aktiem par dzīvnieku barības un barības piedevu apriti, dzīvnieku kopšanai un turēšanai lietojamo preču uzglabāšanu un izplatīšanu vai dzīvu dzīvnieku turēšanu tirdzniecības nolūkā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dzīvnieku kopšanas līdzeklis",
+      "definition": "viela vai produkts, kas nonāk saskarē ar atsevišķām dzīvnieka ķermeņa ārējām daļām (piemēram, epidermu, apmatojumu, nagiem, ārējiem dzimumorgāniem), zobiem un mutes dobuma gļotādu un ko lieto tikai vai galvenokārt minēto ķermeņa daļu tīrīšanai, aizsardzībai un uzturēšanai labā stāvoklī vai ķermeņa smaržas koriģēšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dzīvnieku izcelsmes blakusproduktu un atvasinātu produktu, kas nav paredzēti cilvēku patēriņam, apritē iesaistītā persona",
+      "definition": "fiziskā vai juridiskā persona, kuras darbību Pārtikas un veterinārais dienests atzinis vai reģistrējis darbībām ar dzīvnieku izcelsmes blakusproduktiem vai atvasinātiem produktiem, kas nav paredzēti cilvēku patēriņam, saskaņā ar prasībām, kas noteiktas Eiropas Parlamenta un Padomes 2009.gada 21.oktobra regulā (EK) Nr. 1069/2009 , ar ko nosaka veselības aizsardzības noteikumus attiecībā uz dzīvnieku izcelsmes blakusproduktiem un atvasinātajiem produktiem, kuri nav paredzēti cilvēku patēriņam, un ar ko atceļ regulu (EK) Nr. 1774/2002 (Dzīvnieku izcelsmes blakusproduktu regula) (turpmāk — Parlamenta un Padomes regula Nr. 1069/2009 ), un Eiropas Komisijas 2011.gada 25.februāra regulā (ES) Nr. 142/2011 , ar kuru īsteno Eiropas Parlamenta un Padomes regulu (EK) Nr. 1069/2009 , ar ko nosaka veselības aizsardzības noteikumus attiecībā uz dzīvnieku izcelsmes blakusproduktiem un atvasinātajiem produktiem, kuri nav paredzēti cilvēku patēriņam, un īsteno Padomes direktīvu 97/78/EK attiecībā uz daž",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mājas (istabas) dzīvnieka pase",
+      "definition": "lolojumdzīvnieka identifikācijas dokuments, kas sagatavots atbilstoši Komisijas 2013. gada 28. jūnija īstenošanas regulas (ES) Nr. 577/2013 par identifikācijas dokumentu paraugiem suņu, kaķu un mājas sesku nekomerciālai pārvietošanai, teritoriju un trešo valstu saraksta izveidošanu un par deklarāciju formas, izkārtojuma un valodas prasībām atbilstoši Eiropas Parlamenta un Padomes regulā (ES) Nr. 576/2013 paredzētajiem konkrētiem nosacījumiem (turpmāk — Komisijas īstenošanas regula Nr. 577/2013 ) 3. panta 1. punkta prasībām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

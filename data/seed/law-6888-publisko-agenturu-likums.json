@@ -1,0 +1,404 @@
+{
+  "id": "lv-law-6888",
+  "type": "statute",
+  "title": "Publisko aģentūru likums",
+  "short_name": "TA-6888",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/6888-publisko-agenturu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likuma mērķi",
+      "content": "Likuma mērķi ir šādi:\n1) nodrošināt normatīvajos aktos noteiktu valsts un pašvaldību funkciju efektīvu realizēšanu;\n2) atdalīt politikas īstenošanu valsts vai pašvaldību līmenī no nozares politikas veidošanas un uzraudzības;\n3) nodrošināt atklātību valsts un pašvaldību finanšu līdzekļu izlietošanā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma darbības joma",
+      "content": "Šis likums nosaka publisko aģentūru (turpmāk — aģentūra) veidus, juridisko statusu, izveidošanas, reorganizēšanas, likvidēšanas, finansēšanas un uzraudzības kārtību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Aģentūru veidi",
+      "content": "(1) Valsts var izveidot valsts aģentūras, bet pašvaldības var izveidot pašvaldību aģentūras.\n(2) Ja atvasinātai publisko tiesību juridiskajai personai likumā ir piešķirtas tiesības izveidot valsts pārvaldes iestādi, tā var veidot aģentūru. Uz šādu aģentūru ir attiecināmas tiesību normas, kas regulē pašvaldības aģentūru izveidošanu un darbību."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "4",
+      "title": "Valsts aģentūras juridiskais statuss",
+      "content": "(1) Valsts aģentūra ir Ministru kabineta locekļa (turpmāk — ministrs) pārraudzībā esoša valsts pārvaldes iestāde, kurai ar likumu vai Ministru kabineta noteikumiem uzdotas noteiktas valsts pārvaldes funkcijas un kura tās veic atbilstoši pārvaldes līgumam, ko noslēdz ministrs ar valsts aģentūras direktoru.\n(2) Valsts aģentūras nosaukumā ietver vārdkopu \"valsts aģentūra\" vai tās saīsinājumu \"v/a\"."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "5",
+      "title": "Valsts aģentūras funkcijas",
+      "content": "Valsts aģentūrai var uzdot veikt šādas valsts pārvaldes funkcijas:\n1) sniegt pakalpojumus valsts un pašvaldību iestādēm;\n2) sniegt publiskos pakalpojumus privātpersonām ( 6.pants );\n3) vadīt un realizēt valsts, pašvaldību un starptautiskus projektus un programmas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "6",
+      "title": "Valsts aģentūras sniegtie publiskie pakalpojumi",
+      "content": "(1) Publisko pakalpojumu sniegšana ir likumā vai Ministru kabineta noteikumos minētajos gadījumos materiālu vai nemateriālu labumu piedāvāšana privātpersonām kultūras, izglītības, veselības aizsardzības, sociālajā, vides aizsardzības vai citā jomā, lai nodrošinātu sabiedrības vajadzību ievērošanu šo pakalpojumu saņemšanā.\n(2) Publisko pakalpojumu izcenojumu noteikšanas metodiku un izcenojumu apstiprināšanas kārtību nosaka Ministru kabinets, ņemot vērā, ka maksa par publisko pakalpojumu nedrīkst pārsniegt valsts aģentūras funkciju veikšanai nepieciešamo līdzekļu apjomu.\n(3) Informācija par valsts aģentūras sniegto publisko pakalpojumu izcenojumiem publicējama valsts aģentūras mājas lapā internetā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "7",
+      "title": "Valsts aģentūras administratīvo aktu izdošana un apstrīdēšana",
+      "content": "(1) Likumā un Ministru kabineta noteikumos paredzētajos gadījumos un noteiktajā kārtībā valsts aģentūra izdod administratīvos aktus, izņemot administratīvos aktus par administratīvo sodu uzlikšanu.\n(2) Valsts aģentūras izdota administratīvā akta tiesiskumu var apstrīdēt attiecīgajā ministrijā administratīvo procesu regulējošajos normatīvajos aktos noteiktajā kārtībā. Lēmumu par apstrīdētu administratīvo aktu pieņem saskaņā ar vispārējām administratīvo procesu regulējošajām tiesību normām, ja likums nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "8",
+      "title": "Valsts aģentūras izveidošana, reorganizēšana un likvidēšana",
+      "content": "(1) Valsts aģentūru izveido, reorganizē un likvidē Ministru kabinets, pamatojoties uz likumu vai pēc savas iniciatīvas.\n(2) Izveidojot, reorganizējot vai likvidējot valsts aģentūru, Ministru kabinets izvērtē izveidošanas, reorganizēšanas vai likvidēšanas nepieciešamību atkarībā no lietderīguma, efektivitātes un citiem Ministru kabineta noteiktajiem kritērijiem. Valsts aģentūru izveidošanas kārtību nosaka Ministru kabinets.\n(3) Valsts aģentūras darbību regulē Ministru kabineta apstiprināts nolikums, kurā norāda:\n1) valsts aģentūras nosaukumu;\n2) ministru vai institūciju, kuras pārraudzībā valsts aģentūra nodota, un valsts aģentūras pārraudzības kārtību;\n3) valsts aģentūras izveidošanas mērķi;\n4) valsts aģentūras funkcijas;\n5) valsts aģentūras kompetenci;\n6) valsts aģentūras finansēšanas kārtību;\n7) apjomu un kārtību, kādā valsts aģentūra rīkojas ar nekustamo un kustamo mantu, kā arī uzņemas saistības, kas nav minētas šīs daļas 9.punktā ;\n8) valsts aģentūras tiesības iekasēt maksu par tās sniegtajiem publiskajiem pakalpojumiem;\n9) valsts aģentūras tiesības ņemt aizņēmumus un uzņemties garantijas, to apjomu \" Likumā par budžetu un finanšu vadību \" noteiktajā kārtībā;\n10) konsultatīvās padomes izveidošanas nepieciešamību un tās uzdevumus.\n(4) Valsts aģentūras nolikumā var ietvert arī citus valsts aģentūras darbību regulējošus noteikumus, kas nav minēti šā panta trešajā daļā.\n(5) Valsts aģentūras reorganizēšanas vai likvidēšanas gadījumā sastāda valsts aģentūras slēguma bilanci, nosaka mantas vērtību un saistību apjomu, kā arī paredz mantas un saistību nodošanu citai institūcijai.\n(6) (Izslēgta ar 03.02.2005 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "9",
+      "title": "Valsts aģentūras pārraudzība",
+      "content": "(1) Ministrs valsts aģentūras pārraudzību īsteno tieši vai ar ministrijas vai citas tiešās valsts pārvaldes iestādes starpniecību (turpmāk— pārraudzības institūcija). Lai pārraudzītu valsts aģentūras darbību, ministrs veic šādus pasākumus:\n1) apstiprina valsts aģentūras vidēja termiņa darbības stratēģiju, gadskārtējo darbības plānu un gadskārtējo budžetu ( 12.pants );\n2) šajā likumā noteiktajos gadījumos ieceļ amatā vai atbrīvo no amata valsts aģentūras direktoru atbilstoši Valsts civildienesta likumam, kā arī pieņem darbā vai atlaiž no darba valsts aģentūras direktoru atbilstoši Darba likumam;\n3) noslēdz ar valsts aģentūras direktoru pārvaldes līgumu ( 13.pants );\n4) izveido konsultatīvo padomi, ja tas paredzēts valsts aģentūras nolikumā, un apstiprina tās nolikumu ( 15.pants );\n5) novērtē valsts aģentūras darbības rezultātus;\n5 1 ) ja nepieciešams, uzdod valsts aģentūras direktoram saskaņot Valsts kancelejai iesniedzamos valsts civildienesta ierēdņu amatu aprakstus;\n6) ierosina pārbaužu veikšanu valsts aģentūrā;\n7) atceļ valsts aģentūras direktora prettiesiskus lēmumus.\n(2) Ministram un pārraudzības institūcijai, izņemot šā panta pirmajā daļā minēto pasākumu veikšanu, nav tiesību ar tiešiem rīkojumiem iejaukties valsts aģentūras darbā.\n(3) Ministram un pārraudzības institūcijai savu pienākumu veikšanai ir tiesības pieprasīt un saņemt informāciju par valsts aģentūras darbību."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "10",
+      "title": "Valsts aģentūras direktors",
+      "content": "(1) Valsts aģentūras darbu vada direktors. Valsts aģentūras direktors rīkojas saskaņā ar likumu, valsts aģentūras nolikumu un pārvaldes līgumu un ir atbildīgs par pārvaldes līguma izpildi.\n(2) Valsts aģentūras direktors pilda Valsts pārvaldes iekārtas likumā noteiktās tiešās valsts pārvaldes iestādes vadītāja funkcijas, kā arī:\n1) izstrādā valsts aģentūras vidēja termiņa darbības stratēģijas, gadskārtējā darbības plāna un budžeta projektus;\n2) nodrošina pārvaldes līguma izpildi;\n3) sniedz pārraudzības institūcijai nepieciešamo informāciju un priekšlikumus valsts aģentūras darbības jautājumos;\n3 1 ) ministra uzdevumā saskaņo Valsts kancelejai iesniedzamos valsts civildienesta ierēdņu amatu aprakstus;\n4) veic citus uzdevumus, kas noteikti valsts aģentūras darbību reglamentējošos normatīvajos aktos.\n(3) Ja kāda no valsts aģentūras funkcijām ir Valsts civildienesta likuma 3.panta pirmajā daļā noteikto pienākumu veikšana, valsts aģentūras direktors ir valsts civildienesta ierēdnis un viņu ieceļ amatā vai atbrīvo no amata Valsts civildienesta likumā noteiktajā kārtībā.\n(4) Valsts aģentūras direktoru, kas nav valsts civildienesta ierēdnis, pieņem darbā konkursa kārtībā. Kārtību, kādā organizējams atklāts konkurss uz valsts aģentūras direktora amatu, kas nav valsts civildienesta ierēdņa amats, nosaka Ministru kabinets. Ministrs, kura pārraudzībā atrodas valsts aģentūra, pieņem lēmumu par konkursā uzvarējušo pretendentu un noslēdz ar viņu darba līgumu uz laiku, kas nepārsniedz piecus gadus. Vismaz sešus mēnešus pirms darba līguma termiņa beigām ministrs pieņem lēmumu pagarināt darba līguma termiņu uz laiku, kas nepārsniedz piecus gadus, vai motivētu lēmumu par aģentūras direktora atlaišanu no darba. Par pieņemto lēmumu informē aģentūras direktoru.\n(5) Izveidojot valsts aģentūru, kā arī mainot tās uzdevumus vai funkcijas, ministrs saskaņo ar Valsts kanceleju to, vai attiecīgais valsts aģentūras direktora amats ir valsts civildienesta ierēdņa amats."
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "10.1",
+      "title": "10. 1 pants. Valsts aģentūras direktora disciplināratbildība",
+      "content": "(1) Valsts aģentūras direktors, kurš nav valsts civildienesta ierēdnis, par savu pienākumu izpildi ir disciplināri atbildīgs saskaņā ar Darba likumu.\n(2) Valsts aģentūras direktors, kurš ir valsts civildienesta ierēdnis, par savu pienākumu izpildi ir disciplināri atbildīgs saskaņā ar normatīvajiem aktiem, kas nosaka valsts civildienesta ierēdņu disciplināro atbildību."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "11",
+      "title": "Darba samaksa valsts aģentūrā",
+      "content": "Valsts aģentūras direktora, ierēdņu un darbinieku darba samaksu nosaka saskaņā ar normatīvajos aktos noteikto tiešās pārvaldes iestāžu ierēdņu, darbinieku un amatpersonu darba samaksas sistēmu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "12",
+      "title": "Valsts aģentūras darbības plānošana",
+      "content": "(1) Valsts aģentūras vidēja termiņa darbības stratēģiju izstrādā uz pārvaldes līguma darbības laiku, pamatojoties uz attiecīgās nozares vidēja termiņa darbības stratēģiju. Valsts aģentūras vidēja termiņa darbības stratēģijā paredz noteiktā laikposmā sasniedzamos darbības un politikas rezultātus un šo rezultātu sasniegšanai prognozējamos resursus.\n(2) Pamatojoties uz valsts aģentūras vidēja termiņa darbības stratēģiju, izstrādā valsts aģentūras gadskārtējo darbības plānu, kurā nosaka gada laikā sasniedzamos rezultātus un šo rezultātu sasniegšanai nepieciešamos pasākumus. Pamatojoties uz gadskārtējo darbības plānu, apstiprina valsts aģentūras gadskārtējo budžetu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "13",
+      "title": "Pārvaldes līgums",
+      "content": "(1) Pārvaldes līgums ir vienošanās par valsts aģentūrai nodoto valsts pārvaldes funkciju veikšanu atbilstoši ministra apstiprinātajai valsts aģentūras vidēja termiņa darbības un attīstības stratēģijai. Pārvaldes līgumu valsts vārdā paraksta ministrs, bet valsts aģentūras vārdā — valsts aģentūras direktors.\n(2) Pārvaldes līgumā nosaka:\n1) valsts aģentūras darbības kvantitatīvos un kvalitatīvos rādītājus, to skaitā publisko pakalpojumu sniegšanas un klientu apkalpošanas rādītājus;\n2) valsts aģentūras funkciju veikšanai paredzamos finanšu līdzekļus un to avotus, ja nepieciešams, citus paredzamos resursus un to avotus;\n3) valsts aģentūras darbības rezultātu izvērtēšanas kārtību un kritērijus;\n4) kārtību, kādā valsts aģentūra sniedz pārraudzības institūcijai kārtējo un gada pārskatu;\n5) pārvaldes līguma grozīšanas nosacījumus un kārtību;\n6) kārtību, kādā izdarāmi grozījumi pārvaldes līgumā, ja tiek izdarīti grozījumi gadskārtējā valsts budžeta likumā vai citos likumos;\n7) valsts aģentūras direktora, ierēdņu un darbinieku materiālās stimulēšanas kārtību un koplīguma noslēgšanas iespēju;\n8) pārvaldes līguma darbības termiņu, kas nevar būt īsāks par trim gadiem;\n9) citus jautājumus, kurus ministrs un valsts aģentūras direktors uzskata par būtiskiem.\n(3) Valsts aģentūras gadskārtējais darbības plāns un gadskārtējais budžets ir pārvaldes līguma sastāvdaļas, kuras katru gadu pēc to apstiprināšanas pievieno pārvaldes līgumam.\n(4) Ministra maiņa pati par sevi nav pamats pārvaldes līguma pārskatīšanai.\n(5) Pārvaldes līgumu precizē katru gadu, bet ne vēlāk kā mēneša laikā pēc gadskārtējā valsts budžeta likuma izsludināšanas.\n(6) Pārvaldes līgums ir publiski pieejams."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "14",
+      "title": "Atbildīgās amatpersonas kompetence",
+      "content": "(Izslēgts ar 03.02.2005 . likumu, kas stājas spēkā 04.03.2005. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "15",
+      "title": "Konsultatīvā padome",
+      "content": "(1) Konsultatīvās padomes sastāvā — atkarībā no valsts aģentūras darbības specifikas — iekļauj valsts un pašvaldību pilnvarotas personas, attiecīgo nozaru speciālistus un nevalstisko organizāciju pilnvarotus pārstāvjus. Konsultatīvās padomes darbā bez balsstiesībām piedalās valsts aģentūras direktors vai viņa pilnvarotas personas.\n(2) Konsultatīvajai padomei ir padomdevēja tiesības valsts aģentūras darbības jautājumos."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "16",
+      "title": "Valsts aģentūras manta",
+      "content": "(1) Valsts aģentūras manta ir valsts manta, kura atrodas valsts aģentūras valdījumā.\n(2) Tiesiskajās attiecībās ar privātpersonām valsts aģentūra atbild ar tās valdījumā nodoto valsts mantu. Ja ar to nepietiek vai valsts aģentūras saistību izpilde var traucēt valsts aģentūras funkciju veikšanu, par valsts aģentūras saistībām atbild valsts. Kārtību, kādā valsts atbild par valsts aģentūras saistībām, reglamentē Ministru kabineta apstiprināti noteikumi.\n(3) Valsts aģentūrai ir tiesības likumā noteiktajā kārtībā iegādāties savai darbībai nepieciešamo mantu, kā arī atsavināt valsts aģentūras valdījumā esošo valsts kustamo mantu. Līdzekļus, kas iegūti valsts kustamās mantas atsavināšanas rezultātā, ieskaita valsts aģentūras budžetā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "17",
+      "title": "Valsts aģentūras finansēšana",
+      "content": "Valsts aģentūra tiek finansēta no valsts budžeta dotācijas no vispārējiem ieņēmumiem, īpašiem mērķiem iezīmētiem ieņēmumiem, kā arī no pašu ieņēmumiem, to skaitā ieņēmumiem par valsts aģentūras sniegtajiem maksas pakalpojumiem, no ziedojumiem, dāvinājumiem un ārvalstu finansiālās palīdzības līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "18",
+      "title": "Valsts aģentūras konts",
+      "content": "(1) Valsts aģentūra atver kontu Valsts kasē, ar finanšu ministra atļauju — kredītiestādēs. Katra konta atvēršanai kredītiestādē nepieciešama finanšu ministra atsevišķa atļauja.\n(2) Gada beigās valsts aģentūras kontā esošo līdzekļu atlikums, kas radies no valsts aģentūras visu veidu ieņēmumiem, izņemot valsts pamatbudžeta dotāciju no vispārējiem ieņēmumiem, kuri nav paredzēti valsts aģentūras ilgtermiņa projektu realizācijai, ja tas nepārsniedz gada laikā faktiski saņemto līdzekļu apjomu, paliek valsts aģentūras rīcībā un tiek izlietots nākamajā gadā.\n(3) Informācija par valsts aģentūras kontu stāvokli ir publiski pieejama, ja likums nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "19",
+      "title": "Valsts aģentūras grāmatvedības uzskaite",
+      "content": "Valsts aģentūra kārto grāmatvedības uzskaiti pēc uzkrājuma grāmatvedības principiem un pēc kases izdevumiem, kā arī sagatavo un iesniedz pārskatus par finanšu resursu izlietojumu atbilstoši šā likuma, likuma \" Par grāmatvedību \" un \" Likuma par budžetu un finanšu vadību \" prasībām."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "20",
+      "title": "Valsts aģentūras iekšējais audits",
+      "content": "(Izslēgts ar 03.02.2005 . likumu, kas stājas spēkā 04.03.2005. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "21",
+      "title": "Valsts aģentūras kārtējais un gada pārskats",
+      "content": "Valsts aģentūras direktors pārvaldes līgumā noteiktajos termiņos un kārtībā iesniedz pārraudzības institūcijai kārtējo un gada pārskatu par pārvaldes līguma izpildi un finanšu resursu izlietojumu. Kārtējā un gada pārskatā iekļaujamo informāciju nosaka ministrs."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "II nodaļa Valsts aģentūra",
+      "section": "22",
+      "title": "Valsts aģentūras gada publiskais pārskats",
+      "content": "Noslēdzot finanšu gadu, valsts aģentūra sagatavo un publicē gada publisko pārskatu, lai informētu sabiedrību par valsts aģentūras darbības mērķiem un rezultātiem, kā arī par valsts aģentūras budžeta līdzekļu izlietojumu. Gada publiskajā pārskatā iekļaujamo informāciju nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "23",
+      "title": "Pašvaldības aģentūras juridiskais statuss",
+      "content": "(1) Pašvaldības aģentūra ir pašvaldības izveidota pašvaldības iestāde, kurai ar pašvaldības lēmumu uzdots veikt noteiktas pašvaldības kompetencē esošas funkcijas un kura tās veic saskaņā ar pārvaldes līgumu, ko noslēdz pašvaldības domes priekšsēdētājs ar pašvaldības aģentūras direktoru.\n(2) Pašvaldības aģentūras nosaukumā ietver vārdkopu \"pašvaldības aģentūra\" vai tās saīsinājumu \"p/a\"."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "24",
+      "title": "Pašvaldības aģentūras funkcijas",
+      "content": "Pašvaldības aģentūrai var uzdot veikt šādas pašvaldības kompetencē esošas funkcijas:\n1) sniegt pakalpojumus valsts un pašvaldību iestādēm;\n2) sniegt publiskos pakalpojumus privātpersonām ( 25.pants );\n3) vadīt un realizēt pašvaldības, valsts un starptautiskus projektus un programmas."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "25",
+      "title": "Pašvaldības aģentūras sniegtie publiskie pakalpojumi",
+      "content": "(1) Pašvaldības aģentūra sniedz publiskos pakalpojumus likumā noteiktās pašvaldības kompetences ietvaros. Publisko pakalpojumu sniegšana ir materiālu vai nemateriālu labumu piedāvāšana privātpersonām kultūras, izglītības, veselības aizsardzības, sociālajā, vides aizsardzības vai citā jomā, lai nodrošinātu sabiedrības vajadzību ievērošanu šo pakalpojumu saņemšanā attiecīgajā administratīvajā teritorijā.\n(2) Pašvaldības dome pašvaldības aģentūras nolikumā norāda, vai pašvaldības aģentūrai ir tiesības par tās sniegtajiem publiskajiem pakalpojumiem iekasēt maksu. Pašvaldības aģentūras sniegtos publiskos pakalpojumus un to izcenojumus apstiprina pašvaldības dome pēc pašvaldības aģentūras direktora priekšlikuma, ja likumos vai Ministru kabineta noteikumos nav paredzēta cita izcenojumu apstiprināšanas kārtība. Maksa par publisko pakalpojumu nedrīkst pārsniegt pašvaldības aģentūras funkciju veikšanai nepieciešamo līdzekļu apjomu.\n(3) Pašvaldības aģentūras sniegto publisko pakalpojumu izcenojumi stājas spēkā tādā pašā kārtībā, kādā saskaņā ar likumu \" Par pašvaldībām \" stājas spēkā pašvaldību saistošie noteikumi."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "26",
+      "title": "Pašvaldības aģentūras administratīvo aktu izdošana un apstrīdēšana",
+      "content": "(1) Pašvaldības saistošajos noteikumos paredzētajos gadījumos pašvaldības aģentūra izdod administratīvos aktus, izņemot administratīvos aktus par administratīvo sodu uzlikšanu. Kārtību, kādā pašvaldības aģentūra izdod administratīvos aktus, reglamentē likumi, Ministru kabineta noteikumi un pašvaldības saistošie noteikumi.\n(2) Pašvaldības aģentūras izdota administratīvā akta tiesiskumu var apstrīdēt attiecīgajā pašvaldībā administratīvo procesu regulējošajos normatīvajos aktos noteiktajā kārtībā. Lēmumu par apstrīdētu administratīvo aktu pieņem saskaņā ar vispārējām administratīvo procesu regulējošajām tiesību normām, ja likums nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "27",
+      "title": "Pašvaldības aģentūras izveidošana, reorganizēšana un likvidēšana",
+      "content": "(1) Pašvaldības aģentūru izveido, reorganizē un likvidē pašvaldības dome.\n(2) Izveidojot, reorganizējot vai likvidējot pašvaldības aģentūru, noteicošais ir lietderīguma un efektivitātes princips.\n(3) Pašvaldības aģentūras darbību regulē pašvaldības domes apstiprināts nolikums, kurā norāda:\n1) pašvaldības aģentūras nosaukumu;\n2) pašvaldības aģentūras izveidošanas mērķi;\n3) pašvaldības aģentūras funkcijas;\n4) pašvaldības aģentūras kompetenci;\n5) pašvaldības aģentūras finansēšanas kārtību;\n6) apjomu un kārtību, kādā pašvaldības aģentūra rīkojas ar nekustamo un kustamo mantu;\n7) pašvaldības aģentūras tiesības iekasēt maksu par tās sniegtajiem publiskajiem pakalpojumiem;\n8) pašvaldības aģentūras tiesības ņemt aizņēmumus un uzņemties garantijas, to apjomu \" Likumā par budžetu un finanšu vadību \" noteiktajā kārtībā;\n9) konsultatīvās padomes izveidošanas nepieciešamību un tās uzdevumus.\n(4) Pašvaldības aģentūras nolikumā var ietvert arī citus pašvaldības aģentūras darbību regulējošus noteikumus, kas nav minēti šā panta trešajā daļā.\n(5) Pašvaldības aģentūras reorganizēšanas vai likvidēšanas gadījumā sastāda pašvaldības aģentūras slēguma bilanci, nosaka mantas vērtību un saistību apjomu, kā arī paredz mantas un saistību nodošanu citai pašvaldības iestādei.\n(6) (Izslēgta ar 03.02.2005 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "28",
+      "title": "Pašvaldības domes kompetence pašvaldības aģentūras darbības uzraudzībā",
+      "content": "(1) Pašvaldības aģentūras darbības uzraudzībai pašvaldības dome veic šādus pasākumus:\n1) apstiprina pašvaldības aģentūras darbības un attīstības stratēģiju, darbības plānu un kopējo gada budžeta apjomu;\n2) pieņem darbā, atlaiž no darba un disciplināri soda pašvaldības aģentūras direktoru, kā arī nosaka viņa amatalgu ( 31.pants );\n3) ieceļ par pašvaldības aģentūras darbības uzraudzību atbildīgo amatpersonu, ja uzskata, ka šo uzraudzību nav lietderīgi atstāt pašvaldības izpilddirektora kompetencē ( 29.pants );\n4) izveido konsultatīvo padomi, ja tas paredzēts pašvaldības aģentūras nolikumā, un apstiprina tās nolikumu ( 30.pants );\n5) novērtē pašvaldības aģentūras darbības rezultātus;\n6) atceļ pašvaldības aģentūras direktora prettiesiskus lēmumus.\n(2) Pašvaldības dome, izņemot šā panta pirmajā daļā minēto pasākumu veikšanu, nedrīkst ar tiešiem lēmumiem iejaukties pašvaldības aģentūras darbā.\n(3) Pašvaldības domei savu pienākumu veikšanai ir tiesības pieprasīt un saņemt informāciju par pašvaldības aģentūras darbību."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "29",
+      "title": "Pašvaldības izpilddirektora vai citas atbildīgās amatpersonas kompetence pašvaldības aģentūras darbības uzraudzībā",
+      "content": "(1) Pašvaldības izpilddirektors uzrauga pašvaldības aģentūras darbību un informē pašvaldības domi par pašvaldības aģentūras darbības jautājumiem.\n(2) (Izslēgta ar 03.02.2005 . likumu.)\n(3) Pašvaldības izpilddirektors nedrīkst ar tiešiem rīkojumiem iejaukties pašvaldības aģentūras darbā.\n(4) Pašvaldības izpilddirektoram savu pienākumu veikšanai ir tiesības pieprasīt un saņemt informāciju par pašvaldības aģentūras darbību.\n(5) Ja pašvaldības aģentūras darbību uzrauga nevis pašvaldības izpilddirektors, bet cita pašvaldības domes iecelta amatpersona, uz šo amatpersonu attiecināma šā panta pirmajā, trešajā un ceturtajā daļā noteiktā kompetence."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "30",
+      "title": "Pašvaldību aģentūras konsultatīvā padome",
+      "content": "(1) Konsultatīvās padomes sastāvā — atkarībā no pašvaldības aģentūras darbības specifikas — iekļauj valsts un pašvaldības pilnvarotas personas, attiecīgo nozaru speciālistus un nevalstisko organizāciju pilnvarotus pārstāvjus. Konsultatīvās padomes darbā bez balsstiesībām piedalās pašvaldības izpilddirektors vai viņa pilnvarota amatpersona un pašvaldības aģentūras direktors vai viņa pilnvarotas personas.\n(2) Konsultatīvajai padomei ir padomdevēja tiesības pašvaldības aģentūras darbības jautājumos."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "31",
+      "title": "Pašvaldības aģentūras direktors",
+      "content": "(1) Pašvaldības aģentūras darbu vada direktors, kas rīkojas saskaņā ar likumā, pašvaldības aģentūras nolikumā un pārvaldes līgumā minētajiem noteikumiem. Pašvaldības aģentūras direktors ir atbildīgs par pārvaldes līguma izpildi.\n(2) Uz pašvaldības aģentūras direktora amatu tiek izsludināts atklāts konkurss attiecīgās administratīvās teritorijas laikrakstā.\n(3) Darba līgumu ar pašvaldības aģentūras direktoru pašvaldības domes priekšsēdētājs noslēdz uz laiku, kas nepārsniedz piecus gadus. Pašvaldības aģentūras direktoru var iecelt amatā atkārtoti.\n(4) Attiecībā uz pašvaldības aģentūras direktora kompetenci ir piemērojami šā likuma 10.panta otrās daļas noteikumi, ņemot vērā to, ka pašvaldības dome realizē 10.panta otrās daļas 3.punktā pārraudzības institūcijai noteikto kompetenci."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "32",
+      "title": "Darba samaksa pašvaldības aģentūrā",
+      "content": "(1) Pašvaldības aģentūras direktora atalgojumu nosaka pašvaldības aģentūras direktora darba līgumā.\n(2) Pašvaldības aģentūras darbinieku atalgojumu nosaka pašvaldības aģentūras direktors pašvaldības aģentūras budžeta darba samaksas fonda ietvaros, nepārsniedzot attiecīgās kvalifikācijas speciālista darba samaksu darba tirgū. Metodiku, pēc kuras pašvaldības aģentūras darbinieku atalgojums salīdzināms ar attiecīgās kvalifikācijas speciālista darba samaksu darba tirgū, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "33",
+      "title": "Pašvaldības aģentūras darbības plānošana",
+      "content": "(1) Pašvaldības aģentūras vidēja termiņa darbības stratēģijā paredz noteiktā laikposmā sasniedzamos pārvaldes līguma darbības rezultātus un šo rezultātu sasniegšanai prognozējamos resursus.\n(2) Pamatojoties uz pašvaldības aģentūras vidēja termiņa darbības stratēģiju, izstrādā pašvaldības aģentūras gadskārtējo darbības plānu, kurā nosaka gada laikā sasniedzamos rezultātus un šo rezultātu sasniegšanai nepieciešamos pasākumus. Pamatojoties uz gadskārtējo darbības plānu, apstiprina pašvaldības aģentūras gadskārtējo budžetu."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "34",
+      "title": "Pārvaldes līgums pašvaldībā",
+      "content": "(1) Pārvaldes līgums pašvaldībā ir vienošanās par pašvaldības aģentūrai nodoto pašvaldības kompetencē esošo funkciju veikšanu un tai piešķirto finanšu līdzekļu izlietojumu atbilstoši pašvaldības domes apstiprinātajai pašvaldības aģentūras darbības un attīstības stratēģijai un budžetam. Pārvaldes līgumu pašvaldības vārdā paraksta domes priekšsēdētājs, bet pašvaldības aģentūras vārdā — pašvaldības aģentūras direktors.\n(2) Uz pārvaldes līgumu pašvaldībā ir attiecināmi šā likuma 13.panta otrās, trešās, ceturtās un sestās daļas noteikumi.\n(3) Pārvaldes līgumu precizē katru gadu, bet ne vēlāk kā mēneša laikā pēc pašvaldības gadskārtējā budžeta pieņemšanas."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "35",
+      "title": "Pašvaldības aģentūras manta",
+      "content": "(1) Pašvaldības aģentūras manta ir pašvaldības manta, kura atrodas pašvaldības aģentūras valdījumā.\n(2) Tiesiskajās attiecībās ar privātpersonām pašvaldības aģentūra atbild ar tās valdījumā nodoto pašvaldības mantu. Ja ar to nepietiek vai pašvaldības aģentūras saistību izpilde var traucēt pašvaldības aģentūras funkciju veikšanu, par pašvaldības aģentūras saistībām pašvaldības domes noteiktajā kārtībā atbild attiecīgā pašvaldība.\n(3) Pašvaldības aģentūrai ir tiesības likumā noteiktajā kārtībā iegādāties savai darbībai nepieciešamo mantu, kā arī atsavināt pašvaldības aģentūras valdījumā esošo pašvaldības kustamo mantu. Līdzekļus, kas iegūti pašvaldības kustamās mantas atsavināšanas rezultātā, ieskaita pašvaldības aģentūras budžetā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "36",
+      "title": "Pašvaldības aģentūras finansēšana",
+      "content": "Pašvaldības aģentūra tiek finansēta no pašvaldības budžeta dotācijas, īpašiem mērķiem iezīmētiem ieņēmumiem, kā arī no pašu ieņēmumiem, to skaitā ieņēmumiem par pašvaldības aģentūras sniegtajiem maksas pakalpojumiem, no ziedojumiem, dāvinājumiem un ārvalstu finansiālās palīdzības līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "37",
+      "title": "Pašvaldības aģentūras konts",
+      "content": "(1) Konta atvēršanu pašvaldības aģentūra saskaņo ar pašvaldību.\n(2) Gada beigās pašvaldības aģentūras kontā esošo līdzekļu atlikums, kas radies no pašvaldības aģentūras visu veidu ieņēmumiem, izņemot pašvaldības dotāciju, ja tas nepārsniedz gada laikā faktiski saņemto līdzekļu apjomu, paliek pašvaldības aģentūras rīcībā un tiek izlietots nākamajā gadā.\n(3) Informācija par pašvaldības aģentūras konta stāvokli ir publiski pieejama, ja likums nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "38",
+      "title": "Pašvaldības aģentūras grāmatvedības uzskaite",
+      "content": "Pašvaldības aģentūra kārto grāmatvedības uzskaiti pēc uzkrājuma grāmatvedības principiem un pēc kases izdevumiem, kā arī sagatavo un iesniedz pārskatus par finanšu resursu izlietojumu atbilstoši šā likuma, likuma \" Par grāmatvedību \" un \" Likuma par budžetu un finanšu vadību \" prasībām."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "39",
+      "title": "Pašvaldības aģentūras revīzija un revīzijas pārskats",
+      "content": "Lai kontrolētu pašvaldības aģentūras finansiālās darbības tiesiskumu un atbilstību pārvaldes līgumam, likumā \" Par pašvaldībām \" noteiktajā kārtībā pašvaldības aģentūrā tiek veikta revīzija un sagatavots revīzijas pārskats."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "40",
+      "title": "Pašvaldības aģentūras kārtējais un gada pārskats",
+      "content": "Pašvaldības aģentūras direktors pārvaldes līgumā noteiktajos termiņos un kārtībā iesniedz pašvaldības izpilddirektoram kārtējo un gada pārskatu par pārvaldes līguma izpildi un finanšu resursu izlietojumu. Kārtējā un gada pārskatā iekļaujamo informāciju nosaka pašvaldības dome."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "41",
+      "title": "Pašvaldības aģentūras gada publiskais pārskats",
+      "content": "Noslēdzot finanšu gadu, pašvaldības aģentūra sagatavo un publicē gada publisko pārskatu, lai informētu sabiedrību par pašvaldības aģentūras darbības mērķiem un rezultātiem, kā arī par pašvaldības aģentūras budžeta līdzekļu izlietojumu. Gada publiskajā pārskatā iekļaujamo informāciju nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "42",
+      "title": "Pašvaldību kopīgā aģentūra",
+      "content": "(Izslēgts ar 03.02.2005 . likumu, kas stājas spēkā 04.03.2005. )"
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn1",
+      "title": "1. Par valsts (pašvaldību) aģentūrām pārveidojamie valsts (pašvaldību) uzņēmumi un bezpeļņas organizācijas formā valsts (pašvaldību) nodibinātie uzņēmumi (uzņēmējsabiedrības) [turpmāk — reorganizējamie uzņēmumi (uzņēmējsabiedrības)] reorganizējami līdz 2003.gada 31.decembrim.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 31.10.2002 . likumu, kas stājas spēkā 27.11.2002. )"
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2001.gada 1.novembrim nosaka kārtību, kādā reorganizējamie uzņēmumi (uzņēmējsabiedrības) pārveidojami par valsts (pašvaldību) aģentūrām.",
+      "content": "2. Ministru kabinets līdz 2001.gada 1.novembrim nosaka kārtību, kādā reorganizējamie uzņēmumi (uzņēmējsabiedrības) pārveidojami par valsts (pašvaldību) aģentūrām."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn3",
+      "title": "3. Ministru kabinets līdz 2001.gada 1.novembrim apstiprina pārvaldes līguma paraugu.",
+      "content": "3. Ministru kabinets līdz 2001.gada 1.novembrim apstiprina pārvaldes līguma paraugu."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2002.gada 1.janvārim apstiprina noteikumus par kārtību, kādā valsts atbild par valsts aģentūras saistībām.",
+      "content": "4. Ministru kabinets līdz 2002.gada 1.janvārim apstiprina noteikumus par kārtību, kādā valsts atbild par valsts aģentūras saistībām."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn5",
+      "title": "5. Reorganizējamā uzņēmuma (uzņēmējsabiedrības) nekustamais īpašums pāriet attiecīgi valstij uz Ministru kabineta rīkojuma pamata un pašvaldībai uz pašvaldības domes (padomes) lēmuma pamata, un minētais rīkojums (lēmums) ir pamats valsts (pašvaldības) īpašuma tiesību nostiprināšanai zemesgrāmatā. Par īpašuma tiesību nostiprināšanu zemesgrāmatā pēc nodošanas aktiem, ar kuriem reorganizējamā uzņēmuma (uzņēmējsabiedrības) nekustamais īpašums ir nodots valsts (pašvaldības) īpašumā, valsts nodeva netiek ņemta.",
+      "content": "5. Reorganizējamā uzņēmuma (uzņēmējsabiedrības) nekustamais īpašums pāriet attiecīgi valstij uz Ministru kabineta rīkojuma pamata un pašvaldībai uz pašvaldības domes (padomes) lēmuma pamata, un minētais rīkojums (lēmums) ir pamats valsts (pašvaldības) īpašuma tiesību nostiprināšanai zemesgrāmatā. Par īpašuma tiesību nostiprināšanu zemesgrāmatā pēc nodošanas aktiem, ar kuriem reorganizējamā uzņēmuma (uzņēmējsabiedrības) nekustamais īpašums ir nodots valsts (pašvaldības) īpašumā, valsts nodeva netiek ņemta."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn6",
+      "title": "6. Reorganizējamā uzņēmuma (uzņēmējsabiedrības) pārveidošana par valsts (pašvaldības) aģentūru uzskatāma par uzņēmuma (uzņēmējsabiedrības) reorganizāciju, kuras rezultātā uzņēmums (uzņēmējsabiedrība) zaudē uzņēmuma (uzņēmējsabiedrības) statusu un vienlaikus iegūst valsts (pašvaldības) aģentūras statusu un visa uzņēmuma (uzņēmējsabiedrības) manta un saistības pāriet valstij (pašvaldībai).",
+      "content": "6. Reorganizējamā uzņēmuma (uzņēmējsabiedrības) pārveidošana par valsts (pašvaldības) aģentūru uzskatāma par uzņēmuma (uzņēmējsabiedrības) reorganizāciju, kuras rezultātā uzņēmums (uzņēmējsabiedrība) zaudē uzņēmuma (uzņēmējsabiedrības) statusu un vienlaikus iegūst valsts (pašvaldības) aģentūras statusu un visa uzņēmuma (uzņēmējsabiedrības) manta un saistības pāriet valstij (pašvaldībai)."
+    },
+    {
+      "provision_ref": "PN 6.1",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn6.1",
+      "title": "6. 1 Ministrs izvērtē reorganizējamā uzņēmuma (uzņēmējsabiedrības) vadītāja darbību. Ministrs var uzteikt darba līgumu ar reorganizējamā uzņēmuma (uzņēmējsabiedrības) vadītāju Darba likumā noteiktajā kārtībā.",
+      "content": "( 03.02.2005 . likuma redakcijā, kas stājas spēkā 04.03.2005. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn7",
+      "title": "7. Reorganizējamā uzņēmuma (uzņēmējsabiedrības) kreditors nevar prasīt, lai reorganizējamais uzņēmums (uzņēmējsabiedrība) nodrošina saistību pirmstermiņa izpildi sakarā ar reorganizācijas faktu.",
+      "content": "7. Reorganizējamā uzņēmuma (uzņēmējsabiedrības) kreditors nevar prasīt, lai reorganizējamais uzņēmums (uzņēmējsabiedrība) nodrošina saistību pirmstermiņa izpildi sakarā ar reorganizācijas faktu."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn8",
+      "title": "8. Reorganizācijas pabeigšanas faktu, ievērojot Ministru kabineta rīkojumā [pašvaldības domes (padomes) lēmumā] noteikto reorganizācijas pabeigšanas dienu, apstiprina attiecīgais ministrs [attiecīgās pašvaldības domes (padomes) priekšsēdētājs], un tas ir pamats uzņēmējsabiedrības (uzņēmuma) izslēgšanai no Uzņēmumu reģistra.",
+      "content": "8. Reorganizācijas pabeigšanas faktu, ievērojot Ministru kabineta rīkojumā [pašvaldības domes (padomes) lēmumā] noteikto reorganizācijas pabeigšanas dienu, apstiprina attiecīgais ministrs [attiecīgās pašvaldības domes (padomes) priekšsēdētājs], un tas ir pamats uzņēmējsabiedrības (uzņēmuma) izslēgšanai no Uzņēmumu reģistra."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn9",
+      "title": "9. Līdz vienotās valsts budžeta iestāžu darbinieku darba samaksas sistēmas apstiprināšanai Ministru kabinetā valsts aģentūru direktoru atalgojumu nosaka Ministru kabinets.",
+      "content": "9. Līdz vienotās valsts budžeta iestāžu darbinieku darba samaksas sistēmas apstiprināšanai Ministru kabinetā valsts aģentūru direktoru atalgojumu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn10",
+      "title": "10. Ministru kabinets līdz 2001.gada 1.novembrim apstiprina metodiku, pēc kuras valsts (pašvaldības) aģentūras darbinieku atalgojums salīdzināms ar attiecīgās kvalifikācijas speciālista darba samaksu darba tirgū.",
+      "content": "10. Ministru kabinets līdz 2001.gada 1.novembrim apstiprina metodiku, pēc kuras valsts (pašvaldības) aģentūras darbinieku atalgojums salīdzināms ar attiecīgās kvalifikācijas speciālista darba samaksu darba tirgū."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn11",
+      "title": "11. Līdz šā likuma 10.panta ceturtajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.janvārim ir piemērojami Minis­tru kabineta 2006.gada 20.jūnija noteikumi Nr.493 \"Kārtība, kādā organizējams atklāts konkurss uz valsts aģentūras direktora amatu\", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 22.11.2007 . likuma redakcijā, kas stājas spēkā 19.12.2007. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "III nodaļa Pašvaldības aģentūra",
+      "section": "pn12",
+      "title": "12. Saskaņā ar šo likumu noteikto atlīdzību (atalgojumu, darba samaksu u.c.) 2009.gadā nosaka atbilstoši likumam “Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā”.",
+      "content": "( 12.12.2008 . likuma redakcijā, kas stājas spēkā 01.01.2009. )"
+    }
+  ],
+  "definitions": []
+}

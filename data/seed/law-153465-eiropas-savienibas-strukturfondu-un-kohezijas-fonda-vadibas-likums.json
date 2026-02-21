@@ -1,0 +1,290 @@
+{
+  "id": "lv-law-153465",
+  "type": "statute",
+  "title": "Eiropas Savienības struktūrfondu un Kohēzijas fonda vadības likums",
+  "title_en": "Law On Management Of European Union Structural Funds And The Cohesion Fund",
+  "short_name": "TA-153465",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/153465-eiropas-savienibas-strukturfondu-un-kohezijas-fonda-vadibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) atbildīgā iestāde — nozares ministrija un Valsts kanceleja, kas Ministru kabineta noteiktajā kārtībā īsteno visas starp­niekinstitūcijas funkcijas vai daļu no tām;\n2) darbības programmas papildinājums — nacionālā līmeņa Eiropas Savienības struktūrfondu un Kohēzijas fonda (turpmāk — Eiropas Savienības fondi) plānošanas dokuments, kas ir pakārtots attiecīgajai darbības programmai un nosaka tajā norādīto pasākumu un aktivitāšu īstenošanu. Darbības programmas papildinājumu apstiprina Ministru kabinets;\n3) Eiropas Savienības fondu aktivitāte — darbību kopums, kuras tiek veiktas, lai sasniegtu plānošanas dokumentos noteiktos mērķus un rādītājus;\n4) Eiropas Savienības fonda projekta iesniedzējs — tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona, cita valsts iestāde, kā arī fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība;\n5) Eiropas Savienības fonda projekta iesniegums — iesniegums (aizpildīta veidlapa un tās pielikumi), ko iesniedz Eiropas Savienības fonda projekta iesniedzējs, lai saņemtu projektam nepieciešamo finansējumu no Eiropas Savienības fonda;\n6) Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritēriji — noteicošie rādītāji, saskaņā ar kuriem vērtē Eiropas Savienības fondu projektu iesniegumus un pieņem lēmumu par to apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu;\n7) Eiropas Savienības fonda projekts — Eiropas Savienības fonda projekta iesniegums, kas atbilst projektu iesniegumu vērtēšanas kritērijiem un ko apstiprinājusi Eiropas Savienības fonda vadībā iesaistītā institūcija;\n8) plānošanas dokumenti — valsts stratēģiskais ietvardokuments, darbības programma un darbības programmas papildinājums;\n9) sadarbības iestāde — tiešās valsts pārvaldes iestāde vai Sabiedrības integrācijas fonds, kas Ministru kabineta noteiktajā kārtībā īsteno daļu no starpniekinstitūcijas funkcijām."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir noteikt Eiropas Savienības fondu vadību, lai veicinātu efektīvu, caurredzamu un finanšu vadības principiem atbilstošu Eiropas Savienības fondu ieviešanu Latvijā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums nosaka Eiropas Savienības fondu vadībā iesaistīto institūciju un Eiropas Savienības fonda finansējuma saņēmēja tiesības un pienākumus, kā arī Eiropas Savienības fondu vadībā iesaistīto institūciju lēmumu pieņemšanas, apstrīdēšanas un pārsūdzēšanas kārtību.\n(2) Likums attiecas uz Eiropas Savienības fondu vadību 2007.—2013.gada plānošanas periodā. Likumu piemēro 2014.—2020.gada plānošanas periodā, ciktāl tas nepieciešams, lai Ministru kabineta noteiktajā laikposmā ieviestu specifisko atbalsta mērķi, tas ir, mērķi, kas atbilst šā likuma 1.panta 3.punktā noteiktajam Eiropas Savienības fondu aktivitātes līmenim.\n(3) Ministru kabinets nosaka kārtību, kādā nodrošina šā panta otrajā daļā minētā specifiskā atbalsta mērķa ieviešanu, tai skaitā projektu iesniegumu vērtēšanas kritērijus, prasības projekta iesniedzējam, atbildīgo iestādi un sadarbības iestādi, kompetences sadalījumu starp šīm iestādēm un sadarbības kārtību, kā arī atbildīgās iestādes un sadarbības iestādes funkcionālās padotības formu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Eiropas Savienības fondu vadība",
+      "content": "Eiropas Savienības fondu vadība ir nepieciešamo plānošanas dokumentu sagatavošana, saskaņošana un apstiprināšana, Eiropas Savienības fondu vadības sistēmas izveide, Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritēriju izstrāde, Eiropas Savienības fondu projektu iesniegumu atlase un apstiprināšana, Eiropas Savienības fondu projektu īstenošana, kontrole, revīzija, uzraudzība un izvērtēšana."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Eiropas Savienības fondu finansējuma piešķiršana",
+      "content": "Eiropas Savienības fonda projekta iesnieguma iesniegšana saskaņā ar šo likumu nerada pienākumu Eiropas Savienības fondu vadībā iesaistītajai institūcijai piešķirt finansējumu Eiropas Savienības fonda projekta iesniedzējam."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Eiropas Savienības fondu projektu iesniegumu atlase",
+      "content": "Eiropas Savienības fondu projektu iesniegumu atlase var būt:\n1) atklāta — ja starp Eiropas Savienības fonda projektu iesniegumu iesniedzējiem notiek vienlīdzīga sacensība par projekta iesnieguma apstiprināšanu un Eiropas Savienības fonda finansējuma piešķiršanu;\n2) ierobežota — ja iepriekš ir zināms ierobežots Eiropas Savienības fonda projektu iesniedzēju loks, kurus uzaicina iesniegt projekta iesniegumu. Šajā gadījumā apstiprina un finansē visus Eiropas Savienības fonda projektu iesniegumus, kuri atbilst Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijiem."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Horizontālās politikas",
+      "content": "Par horizontālo politiku koordināciju atbildīgās institūcijas nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "8",
+      "title": "Eiropas Savienības fondu vadības nodrošināšanā iesaistītās institūcijas un personas",
+      "content": "(1) Eiropas Savienības fondu vadību nodrošina:\n1) šādas Eiropas Savienības fondu vadībā iesaistītās institūcijas:\na) vadošā iestāde,\nb) maksājumu iestāde,\nc) revīzijas iestāde,\nd) sertifikācijas iestāde,\ne) atbildīgā iestāde,\nf) sadarbības iestāde,\ng) uzraudzības komiteja,\nh) Iepirkumu uzraudzības birojs;\n2) Eiropas Savienības fonda finansējuma saņēmējs.\n(2) Lai sasniegtu šā likuma mērķi, Eiropas Savienības fondu vadībā iesaistītās institūcijas izdod iekšējos normatīvos aktus un sadarbojas ar citām institūcijām Valsts pārvaldes iekārtas likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "9",
+      "title": "Vadošā iestāde, tās pienākumi un tiesības",
+      "content": "(1) Vadošajai iestādei ir šādi pienākumi:\n1) nodrošināt Eiropas Savienības fondu vadību un tās īstenošanas efektivitāti;\n2) nodrošināt plānošanas dokumentu izstrādi;\n3) nodrošināt Eiropas Savienības fondu vadības informācijas, publicitātes un komunikācijas pasākumu izpildi;\n4) nodrošināt Eiropas Savienības fondu tehniskās palīdzības vadību un tās īstenošanas efektivitāti;\n5) sagatavot gadskārtējam ziņojumam par valsts reformu programmas īstenošanu sadaļu par Eiropas Savienības fondu ieguldījumu;\n6) saskaņot un iesniegt lielā projekta iesniegumu Eiropas Komisijai saskaņā ar noteikumiem, kas iekļauti Padomes 2006.gada 11.jūlija regulā Nr. 1083/2006 , ar ko paredz vispārīgus noteikumus par Eiropas Reģionālās attīstības fondu, Eiropas Sociālo fondu un Kohēzijas fondu un atceļ regulu Nr. 1260/1999 ;\n7) nodrošināt Eiropas Savienības fondu ieviešanas izvērtēšanas pasākumus;\n8) izveidot Eiropas Savienības fondu vadības informācijas sistēmu darbības programmas uzraudzībai un nodrošināt ar Eiropas Savienības fondiem saistīto datu uzkrāšanu tajā.\n(2) Vadošajai iestādei ir šādas tiesības:\n1) ierosināt veikt un veikt Eiropas Savienības fondu ieviešanas kontroli un revīziju;\n2) pieprasīt no Eiropas Savienības fondu vadībā iesaistītajām institūcijām un Eiropas Savienības fondu finansējuma saņēmējiem informāciju, kas nepieciešama Eiropas Savienības fondu vadības nodrošināšanai.\n(3) Vadošās iestādes funkcijas pilda Finanšu ministrija.\n(4) Finanšu ministrija nodrošina, lai funkcijas, kuras tā saskaņā ar šo likumu pilda kā vadošā iestāde, tiktu nodalītas no citām tās funkcijām."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "10",
+      "title": "Maksājumu iestāde, tās pienākumi un tiesības",
+      "content": "(1) Maksājumu iestādei ir šādi pienākumi:\n1) veikt maksājumus Eiropas Savienības fondu ietvaros;\n2) veikt maksājumu finanšu uzskaiti.\n(2) Maksājumu iestādei ir tiesības pieprasīt no Eiropas Savienības fondu vadībā iesaistītajām institūcijām informāciju, kas nepieciešama maksājumu finanšu uzskaites veikšanai.\n(3) Maksājumu iestādes funkcijas pilda Valsts kase.\n(4) Valsts kase nodrošina, lai funkcijas, kuras tā saskaņā ar šo likumu pilda kā maksājumu iestāde, tiktu nodalītas no citām tās funkcijām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "11",
+      "title": "Revīzijas iestāde un tās tiesības",
+      "content": "(1) Revīzijas iestādei ir tiesības pieprasīt no Eiropas Savienības fondu vadībā iesaistītajām institūcijām un Eiropas Savienības fondu finansējuma saņēmējiem informāciju, kas nepieciešama Eiropas Savienības fondu kontroles un revīzijas nodrošināšanai.\n(2) Revīzijas iestādes funkcijas pilda Finanšu ministrija.\n(3) Finanšu ministrija nodrošina, lai funkcijas, kuras tā saskaņā ar šo likumu pilda kā revīzijas iestāde, tiktu nodalītas no citām tās funkcijām.\n(4) Līdz kārtējā gada 1.martam revīzijas iestāde ar finanšu ministra starpniecību informē Ministru kabinetu par pārskata gada revīzijas rezultātiem. Ja revīzijas iestādes rīcībā ir ziņas, ka Eiropas Savienības fondu ieviešana var tikt būtiski ietekmēta, revīzijas iestāde Ministru kabinetu informē nekavējoties."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "12",
+      "title": "Sertifikācijas iestāde un tās tiesības",
+      "content": "(1) Sertifikācijas iestādei ir šādas tiesības:\n1) veikt Eiropas Savienības fondu ieviešanas kontroli un revīziju, kas nepieciešama izdevumu deklarācijas un maksājumu pieteikumu apstiprināšanai;\n2) pieprasīt no Eiropas Savienības fondu vadībā iesaistītajām institūcijām un Eiropas Savienības fondu finansējuma saņēmējiem informāciju, kas nepieciešama izdevumu deklarācijas un maksājumu pieteikumu apstiprināšanai.\n(2) Sertifikācijas iestādes funkcijas pilda Valsts kase.\n(3) Valsts kase nodrošina, lai funkcijas, kuras tā saskaņā ar šo likumu pilda kā sertifikācijas iestāde, tiktu nodalītas no citām tās funkcijām."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "13",
+      "title": "Atbildīgās iestādes un sadarbības iestādes pienākumi un tiesības",
+      "content": "(1) Atbildīgajai iestādei un sadarbības iestādei ir šādi pienākumi:\n1) piedalīties plānošanas dokumentu izstrādē;\n2) izstrādāt Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijus;\n3) atbilstoši plānošanas dokumentiem nodrošināt attiecīgās Eiropas Savienības fondu aktivitātes un Eiropas Savienības fondu projektu īstenošanu, uzraudzību un kontroli, analizēt problēmas Eiropas Savienības fondu aktivitāšu un projektu īstenošanā un iesniegt vadošajai iestādei un uzraudzības komitejai priekšlikumus par Eiropas Savienības fondu aktivitāšu un projektu īstenošanas uzlabošanu;\n4) nodrošināt Eiropas Savienības fondu projektu iesniegumu atlasi un vērtēšanu;\n5) ņemot vērā Eiropas Savienības fonda projekta iesniedzēja juridisko statusu, noteikt Eiropas Savienības fonda finansējuma saņēmējam Eiropas Savienības fonda projekta īstenošanas nosacījumus saskaņā ar Ministru kabineta prasībām;\n6) pārbaudīt un apstiprināt Eiropas Savienības fonda finansējuma saņēmēja maksājuma pieprasījumu un sagatavot izdevumu deklarāciju;\n7) sniegt sabiedrībai informāciju un nodrošināt publicitāti jautājumos, kas saistīti ar Eiropas Savienības fondu projektiem;\n8) izstrādāt un Komercdarbības atbalsta kontroles likumā noteiktajā kārtībā iesniegt Finanšu ministrijā sākotnējai izvērtēšanai atbalsta programmu, ja darbības programmā iekļautais pasākums paredzēts komercdarbības atbalstam;\n9) Komercdarbības atbalsta kontroles likumā noteiktajos gadījumos un noteiktajā kārtībā iesniegt Finanšu ministrijā sākotnējai izvērtēšanai Eiropas Savienības fonda projekta iesniegumu, ja projekts paredzēts komercdarbības atbalstam;\n10) izmantot Eiropas Savienības fondu vadības informācijas sistēmu darbības programmas uzraudzībai un uzkrāt tajā datus par Eiropas Savienības fondu projektu iesniegumiem un Eiropas Savienības fondu projektiem.\n(2) Atbildīgajai iestādei un sadarbības iestādei ir tiesības pieprasīt no Eiropas Savienības fondu vadībā iesaistītajām institūcijām un Eiropas Savienības fonda finansējuma saņēmējiem informāciju, kas nepieciešama Eiropas Savienības fondu projektu īstenošanas, uzraudzības un kontroles nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "14",
+      "title": "Atbildīgās iestādes un sadarbības iestādes noteikšana un sadarbības kārtība",
+      "content": "(1) Atbildīgo iestādi un sadarbības iestādi, kā arī kompetences sadalījumu starp tām nosaka Ministru kabinets.\n(2) Atbildīgā iestāde, pildot šā likuma 13.panta pirmajā daļā minētos pienākumus, var sadarboties ar vairākām sadarbības iestādēm.\n(3) Šā likuma 13.panta pirmās daļas 1., 2. un 8.punktā minētos pienākumus pilda tikai atbildīgā iestāde.\n(4) Sadarbības iestāde, pildot šā panta pirmajā daļā minētos pienākumus, ir tā Ministru kabineta locekļa funkcionālajā padotībā, kuram ir padota par šā likuma 13.panta pirmajā daļā minēto pienākumu izpildi atbildīgā iestāde.\n(5) Lai efektīvi pildītu šā likuma 13.panta pirmajā daļā minētos pienākumus, atbildīgā iestāde, saskaņojot ar sadarbības iestādes institucionāli augstāku iestādi, var izdot sadarbības iestādei saistošus iekšējos normatīvos aktus attiecībā uz tai nodoto uzdevumu izpildi. Ja institucionāli augstāka iestāde ir Ministru kabinets, iekšējo normatīvo aktu izdod bez saskaņošanas ar to.\n(6) Funkcijas, kuras iestāde pilda kā atbildīgā iestāde vai sadarbības iestāde, tiek nodalītas no funkcijām, kuras tā pilda kā Eiropas Savienības fonda finansējuma saņēmēja.\n(7) Atbildīgās iestādes vadītāju nosaka Ministru kabineta loceklis, kam padota tā tiešās pārvaldes iestāde, kuras ietvaros izveidota atbildīgā iestāde. Nosakot atbildīgās iestādes vadītāju, ievēro noteikumu, ka attiecīgās tiešās pārvaldes iestādes vadītājs nevar ieņemt atbildīgās iestādes vadītāja amatu, un ņem vērā citu normatīvo aktu prasības."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "15",
+      "title": "Eiropas Savienības fonda finansējuma saņēmējs un tā pienākumi",
+      "content": "(1) Eiropas Savienības fonda finansējuma saņēmējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona, cita valsts iestāde, kā arī fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība, kuras iesniegtais Eiropas Savienības fonda projekta iesniegums ir apstiprināts šajā likumā noteiktajā kārtībā.\n(2) Eiropas Savienības fonda finansējuma saņēmējam ir šādi pienākumi:\n1) nodrošināt Eiropas Savienības fonda projekta īstenošanu atbilstoši civiltiesiskā līguma noteikumiem — ja Eiropas Savienības fonda finansējuma saņēmējs ir fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība;\n2) nodrošināt Eiropas Savienības fonda projekta īstenošanu saskaņā ar vienošanos par Eiropas Savienības fonda projekta ieviešanu — ja Eiropas Savienības fonda finansējuma saņēmējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde;\n3) nodrošināt grāmatvedības uzskaiti atsevišķi katram Eiropas Savienības fonda projektam;\n4) sniegt informāciju par Eiropas Savienības fonda projekta īstenošanu un nodrošināt Eiropas Komisijas un Eiropas Savienības fondu vadībā iesaistīto institūciju pārstāvjiem pieeju visu ar Eiropas Savienības fonda projekta īstenošanu saistīto dokumentu oriģināliem, kā arī attiecīgā projekta īstenošanas vietai."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "16",
+      "title": "Uzraudzības komiteja",
+      "content": "(1) Uzraudzības komiteja ir koleģiāla Eiropas Savienības fondu vadībā iesaistīta institūcija, kura darbojas saskaņā ar Ministru kabineta apstiprinātu nolikumu.\n(2) Uzraudzības komitejas sastāvu nosaka Ministru kabinets.\n(3) Uzraudzības komiteja pieņem pārvaldes lēmumus saskaņā ar šo likumu un citiem Eiropas Savienības fondu vadību regulējošiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa Eiropas Savienības fondu vadības nodrošināšana",
+      "section": "17",
+      "title": "Iepirkumu uzraudzības birojs, tā pienākumi un tiesības",
+      "content": "(1) Iepirkumu uzraudzības birojam ir pienākums nodrošināt Eiropas Savienības fondu projektu iepirkuma dokumentācijas un iepirkuma procedūras norises izlases veida pirmspārbaudi.\n(2) Iepirkumu uzraudzības birojam ir tiesības pieprasīt no Eiropas Savienības fondu vadībā iesaistītajām institūcijām un Eiropas Savienības fonda finansējuma saņēmējiem informāciju, kas nepieciešama, lai nodrošinātu Eiropas Savienības fonda projekta iepirkuma dokumentācijas un iepirkuma procedūras norises izlases veida pirmspārbaudi."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Ministru kabineta kompetence",
+      "section": "18",
+      "title": "Ministru kabineta kompetence Eiropas Savienības fondu vadības nodrošināšanā",
+      "content": "Lai nodrošinātu Eiropas Savienības fondu vadību, Ministru kabinets nosaka:\n1) kārtību, kādā Eiropas Savienības fondu vadībā iesaistītās institūcijas nodrošina plānošanas dokumentu sagatavošanu un Eiropas Savienības fondu ieviešanu, tai skaitā iepirkuma dokumentācijas un iepirkuma procedūras norises izlases veida pirmspārbaudi;\n2) kārtību, kādā uzrauga un izvērtē Eiropas Savienības fondu ieviešanu;\n3) kārtību, kādā ziņo par Eiropas Savienības fondu ieviešanā konstatētajām neatbilstībām, pieņem pārvaldes lēmumu par piešķirtā finansējuma izlietojumu un atgūst neatbilstošos izdevumus;\n4) kārtību, kādā nodrošina revīzijas iestādes funkcijas Eiropas Savienības fondu vadībā;\n5) kārtību, kādā vadošā iestāde, sertifikācijas iestāde, sadarbības iestāde vai atbildīgā iestāde veic pārbaudi Eiropas Savienības fonda finansētā projekta īstenošanas vietā;\n6) kārtību, kādā valsts budžetā tiek paredzēti līdzekļi Eiropas Savienības fonda līdzfinansēto projektu īstenošanai, kā arī kārtību, kādā veic maksājumus un sagatavo izdevumu deklarāciju;\n7) kārtību, kādā publisko informāciju par Eiropas Savienības fondu projektiem;\n8) kārtību, kādā nodrošina Eiropas Savienības fondu publicitāti un vizuālās identitātes prasību ievērošanu;\n9) Eiropas Savienības fondu vadības informācijas sistēmas izveidošanas un izmantošanas kārtību;\n10) kārtību, kādā īsteno darbības programmas papildinājumā norādītās Eiropas Savienības fonda aktivitātes, nosaka projektu iesniegumu vērtēšanas kritērijus, prasības projekta iesniedzējam, atbildīgo iestādi un sadarbības iestādi, kompetences sadalījumu starp šīm iestādēm un sadarbības kārtību, kā arī atbildīgās iestādes un sadarbības iestādes funkcionālās padotības formu;\n11) prasības Eiropas Savienības fondu vadības un kontroles sistēmas izveidošanai;\n12) kārtību, kādā sniedz un pārbauda informāciju par pievienotās vērtības nodokļa piemērošanu Eiropas Savienības struktūrfondu līdzfinansēto un Eiropas Kopienas iniciatīvas EQUAL finansēto projektu ietvaros un pieņem lēmumu par pievienotās vērtības nodokļa iekļaušanu projektu attiecināmajās izmaksās."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Atbildīgās iestādes un sadarbības iestādes lēmumi, to apstrīdēšana un pārsūdzēšana",
+      "section": "19",
+      "title": "Atbildīgās iestādes un sadarbības iestādes lēmumi",
+      "content": "(1) Atbildīgās iestādes vai sadarbības iestādes vadītājs pieņem lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu, kā arī lēmumu par piešķirtā finansējuma atgūšanu.\n(2) Lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu pieņem, ja tas atbilst Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijiem un Eiropas Savienības fonda aktivitātes projektu iesniegumu atlases kārtas ietvaros ir pieejams finansējums projekta īstenošanai.\n(3) Lēmumu par Eiropas Savienības fonda projekta iesnieguma noraidīšanu pieņem, ja tas neatbilst Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijiem un neatbilstības novēršana saskaņā ar šā panta piekto daļu ietekmētu Eiropas Savienības fonda projekta iesniegumu pēc būtības, kā arī tad, ja Eiropas Savienības fonda projekta iesniegums atbilst Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritērijiem, bet Eiropas Savienības fonda aktivitātes projektu iesniegumu atlases kārtas ietvaros nav pieejams finansējums projekta īstenošanai.\n(4) Lēmumu par piešķirtā finansējuma atgūšanu pieņem, ja Eiropas Savienības fonda finansējuma saņēmējam ir izmaksāts piešķirtais finansējums, bet tas nav izmantots atbilstoši normatīvo aktu prasībām vai līguma noteikumiem.\n(5) Lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu ar nosacījumu pieņem, ja Eiropas Savienības fonda projekta iesniedzējam jāveic atbildīgās iestādes vai sadarbības iestādes noteiktās darbības, lai Eiropas Savienības fonda projektu varētu atbilstoši sagatavot un īstenot. Nosacījumus lēmumā ietver un to izpildi kontrolē, ievērojot Ministru kabineta noteikumus par attiecīgo Eiropas Savienības fonda aktivitāti. Ja kāds no lēmumā noteiktajiem nosacījumiem netiek izpildīts, Eiropas Savienības fonda projekta iesniegums uzskatāms par noraidītu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Atbildīgās iestādes un sadarbības iestādes lēmumi, to apstrīdēšana un pārsūdzēšana",
+      "section": "20",
+      "title": "Atbildīgās iestādes un sadarbības iestādes lēmumu veidi",
+      "content": "(1) Atbildīgā iestāde vai sadarbības iestāde atbilstoši Eiropas Savienības fonda projekta iesniedzēja juridiskajam statusam izdod administratīvo aktu vai pieņem pārvaldes lēmumu.\n(2) Ja Eiropas Savienības fonda projekta iesniedzējs ir fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība, atbildīgās iestādes un sadarbības iestādes lēmums ir administratīvais akts.\n(3) Ja Eiropas Savienības fonda projekta iesniedzējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde, atbildīgās iestādes un sadarbības iestādes lēmums ir pārvaldes lēmums; to var apstrīdēt likumā paredzētajā kārtībā, bet tas nav pārsūdzams tiesā.\n(4) Šā panta trešajā daļā minēto pārvaldes lēmumu izdod rakstveidā, un tam ir šādas daļas:\n1) atbildīgās iestādes vai sadarbības iestādes nosaukums un adrese;\n2) adresāts — Eiropas Savienības fonda projekta iesniedzējs;\n3) faktu konstatējums;\n4) pārvaldes lēmuma pamatojums;\n5) atsevišķs piemēroto tiesību normu uzskaitījums (norādot arī normatīvā akta pantu, tā daļu, punktu vai apakšpunktu);\n6) adresātam piešķirtās tiesības un noraidītās tiesības;\n7) lēmuma apstrīdēšanas kārtība."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Atbildīgās iestādes un sadarbības iestādes lēmumi, to apstrīdēšana un pārsūdzēšana",
+      "section": "21",
+      "title": "Lēmuma pieņemšanas termiņš",
+      "content": "Atbildīgā iestāde vai sadarbības iestāde lēmumu par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu pieņem ne vēlāk kā triju mēnešu laikā pēc Eiropas Savienības fonda projekta iesnieguma iesniegšanas beigu datuma."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Atbildīgās iestādes un sadarbības iestādes lēmumi, to apstrīdēšana un pārsūdzēšana",
+      "section": "22",
+      "title": "Atbildīgās iestādes un sadarbības iestādes lēmuma apstrīdēšana un pārsūdzēšana",
+      "content": "(1) Eiropas Savienības fonda projekta iesniedzējs var apstrīdēt un pārsūdzēt šā likuma 19.panta pirmajā daļā minētos lēmumus, ievērojot šā likuma 20.panta trešās daļas noteikumus.\n(2) Sadarbības iestādes lēmumu var apstrīdēt par Eiropas Savienības fonda aktivitātes vadību atbildīgajā iestādē. Atbildīgās iestādes lēmumu par sadarbības iestādes apstrīdēto lēmumu var pārsūdzēt administratīvajā tiesā.\n(3) Atbildīgās iestādes lēmumu var apstrīdēt tās tiešās pārvaldes iestādes vadītājam, kuras ietvaros izveidota atbildīgā iestāde. Lēmumu nevar apstrīdēt Ministru kabineta loceklim. Tiešās pārvaldes iestādes vadītāja lēmumu par atbildīgās iestādes apstrīdēto lēmumu, ja ievērota šajā likumā noteiktā lietas ārpustiesas izskatīšanas kārtība, var pārsūdzēt administratīvajā tiesā.\n(3 1 ) Atzinumu par lēmumā ietvertā nosacījuma izpildi apstrīd un pārsūdz tādā kārtībā un termiņos kā lēmumu, par kurā ietvertā nosacījuma izpildi sagatavots atzinums. Atzinumu par lēmumā ietvertā nosacījuma izpildi var apstrīdēt un pārsūdzēt arī atsevišķi no lēmuma, kurā ietverts nosacījums.\n(4) Lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Kārtība, kādā risināmi strīdi par piešķirto Eiropas Savienības fonda finansējumu",
+      "section": "23",
+      "title": "Strīdu risināšanas kārtība",
+      "content": "Strīdu par piešķirto Eiropas Savienības fonda finansējumu risina Administratīvā procesa likuma, Civilprocesa likuma un citos normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Kārtība, kādā risināmi strīdi par piešķirto Eiropas Savienības fonda finansējumu",
+      "section": "24",
+      "title": "Lēmums par piešķirtā finansējuma atgūšanu",
+      "content": "Lēmumu par piešķirtā finansējuma atgūšanu pieņem šā likuma 19.panta ceturtajā daļā noteiktajos gadījumos un Administratīvā procesa likumā paredzētajā kārtībā, ja Eiropas Savienības fonda finansējuma saņēmējs var būt administratīvā akta adresāts saskaņā ar šā likuma 20.panta otro daļu un pret viņu var vērst piespiedu izpildi."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Kārtība, kādā risināmi strīdi par piešķirto Eiropas Savienības fonda finansējumu",
+      "section": "25",
+      "title": "Strīdu risināšana civiltiesiskā kārtībā",
+      "content": "(1) Ja šā likuma 24.pantā noteiktās finansējuma atgūšanas kārtības piemērošana nav lietderīga, kā arī gadījumos, kad piešķirtā finansējuma atgūšanai nav piemērojami šā likuma 19.panta ceturtās daļas un 24.panta noteikumi, piešķirto finansējumu atgūst vai strīdu par finanšu līdzekļu izmaksāšanu vai izmaksāšanas turpināšanu risina civiltiesiskā kārtībā.\n(2) Ja Eiropas Savienības fonda finansējuma saņēmējs ir tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona vai cita valsts iestāde, strīdu par piešķirto finanšu līdzekļu izmaksāšanu vai izmaksāšanas turpināšanu risina civiltiesiskā kārtībā, izņemot iespēju strīdu risināt tiesas ceļā."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "26",
+      "title": "Eiropas Savienības fonda projekta iesnieguma precizēšana",
+      "content": "Eiropas Savienības fonda projekta iesniegums pēc tā iesniegšanas līdz lēmuma pieņemšanai par tā apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu nav precizējams."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "27",
+      "title": "Ierobežojumi Eiropas Savienības fondu vadībā iesaistītajām personām",
+      "content": "Eiropas Savienības fondu vadībā iesais­tīto personu komercdarbības, ienākumu gūšanas un amatu savienošanas ierobežojumi, kā arī citi ierobežojumi un pienākumi noteikti likumā \"Par interešu konflikta novēršanu valsts amatpersonu darbībā\"."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "28",
+      "title": "Tiesības iepazīties ar lietu",
+      "content": "(1) Eiropas Savienības fonda projekta iesniedzējam jebkurā procesa stadijā ir tiesības iepazīties ar tā iesniegtā Eiropas Savienības fonda projekta iesnieguma lietu.\n(2) Eiropas Savienības fonda projekta iesniedzējs ir tiesīgs iepazīties ar tā iesniegtā Eiropas Savienības fonda projekta iesnieguma vērtēšanas materiāliem tikai pēc tam, kad stājies spēkā lēmums par Eiropas Savienības fonda projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu.\n(3) Eiropas Savienības fonda projekta iesniedzējam, iepazīstoties ar tā Eiropas Savienības fonda projekta iesnieguma lietu, netiek izpausta informācija par personām, kuras vērtē vai ir vērtējušas Eiropas Savienības fonda projekta iesniegumu, izņemot vērtēšanas komisijas locekļus. Informācija par vērtēšanas komisijas locekļiem ir pieejama šajā likumā un citos normatīvajos aktos noteiktajā apjomā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "29",
+      "title": "Informācijas atklātība",
+      "content": "(1) Eiropas Savienības fonda projekta iesnieguma lieta ir ierobežotas pieejamības informācija, izņemot šā panta 3. 1 daļā minēto gadījumu.\n(2) Par vispārpieejamu uzskata vismaz šādu informāciju:\n1) Eiropas Savienības fonda finansējuma saņēmējs (fiziskās personas vārds un uzvārds vai juridiskās personas nosaukums un juridiskā adrese);\n2) Eiropas Savienības fonda projekta nosaukums;\n3) piešķirtā Eiropas Savienības fonda finansējuma apmērs;\n4) plānošanas dokumentā paredzētā aktivitāte, kuras ietvaros piešķirts Eiropas Savienības finansējums;\n5) Eiropas Savienības fonda projekta īstenošanas vieta;\n6) kopsavilkums par Eiropas Savienības fonda projekta ietvaros veicamajām darbībām.\n(3) Šā panta pirmajā un otrajā daļā minētā informācija ir pieejama Informācijas atklātības likumā noteiktajā apjomā un kārtībā pēc tam, kad stājies spēkā lēmums par projekta iesnieguma apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu.\n(3 1 ) Ja Eiropas Savienības fonda projekta iesniegumu iesniedz tiešās valsts pārvaldes iestāde vai Sabiedrības integrācijas fonds, projekta iesnieguma lieta ir vispārpieejamā informācija, izņemot projekta budžeta kopsavilkumu, tai skaitā indikatīvo projekta izmaksu plānu. Informācija par minēto Eiropas Savienības fonda projektu ir pieejama Informācijas atklātības likumā noteiktajā apjomā un kārtībā pēc Eiropas Savienības fonda projekta iesnieguma iesniegšanas beigu datuma.\n(4) Netiek izpausta informācija par personām, kuras vērtē vai ir vērtējušas Eiropas Savienības fonda projekta iesniegumu, izņemot vērtēšanas komisijas locekļus. Informācija par vērtēšanas komisijas locekļiem ir pieejama šajā likumā un citos normatīvajos aktos noteiktajā apjomā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "30",
+      "title": "Valsts nodeva, vēršoties tiesā",
+      "content": "Vadošā iestāde, maksājumu iestāde, revīzijas iestāde, sertifikācijas iestāde, atbildīgā iestāde un sadarbības iestāde, vēršoties vispārējās jurisdikcijas tiesā par līgumstrīdu, valsts nodevu nemaksā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2007.gada 1.maijam izdod šā likuma 18.panta 1., 2., 3., 4., 5., 6., 7., 8., 9. un 11.punktā minētos noteikumus.",
+      "content": "1. Ministru kabinets līdz 2007.gada 1.maijam izdod šā likuma 18.panta 1., 2., 3., 4., 5., 6., 7., 8., 9. un 11.punktā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 18.panta 10.punktā minētos noteikumus.",
+      "content": "( 11.12.2008 . likuma redakcijā, kas stājas spēkā 06.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Nobeiguma noteikumi",
+      "section": "pn3",
+      "title": "3. Eiropas Savienības fondu vadībā iesaistītās institūcijas un Eiropas Savienības fondu finansējuma saņēmējs glabā visu ar Eiropas Savienības fondu projektu īstenošanu saistīto dokumentu oriģinālus līdz 2021.gada 31.decembrim.",
+      "content": "3. Eiropas Savienības fondu vadībā iesaistītās institūcijas un Eiropas Savienības fondu finansējuma saņēmējs glabā visu ar Eiropas Savienības fondu projektu īstenošanu saistīto dokumentu oriģinālus līdz 2021.gada 31.decembrim."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atbildīgā iestāde",
+      "definition": "nozares ministrija un Valsts kanceleja, kas Ministru kabineta noteiktajā kārtībā īsteno visas starp­niekinstitūcijas funkcijas vai daļu no tām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darbības programmas papildinājums",
+      "definition": "nacionālā līmeņa Eiropas Savienības struktūrfondu un Kohēzijas fonda (turpmāk — Eiropas Savienības fondi) plānošanas dokuments, kas ir pakārtots attiecīgajai darbības programmai un nosaka tajā norādīto pasākumu un aktivitāšu īstenošanu. Darbības programmas papildinājumu apstiprina Ministru kabinets",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Eiropas Savienības fondu aktivitāte",
+      "definition": "darbību kopums, kuras tiek veiktas, lai sasniegtu plānošanas dokumentos noteiktos mērķus un rādītājus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Eiropas Savienības fonda projekta iesniedzējs",
+      "definition": "tiešās vai pastarpinātās valsts pārvaldes iestāde, atvasināta publiska persona, cita valsts iestāde, kā arī fiziskā persona, Latvijas Republikā reģistrēta juridiskā persona vai šādu personu apvienība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Eiropas Savienības fonda projekta iesniegums",
+      "definition": "iesniegums (aizpildīta veidlapa un tās pielikumi), ko iesniedz Eiropas Savienības fonda projekta iesniedzējs, lai saņemtu projektam nepieciešamo finansējumu no Eiropas Savienības fonda",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Eiropas Savienības fondu projektu iesniegumu vērtēšanas kritēriji",
+      "definition": "noteicošie rādītāji, saskaņā ar kuriem vērtē Eiropas Savienības fondu projektu iesniegumus un pieņem lēmumu par to apstiprināšanu, apstiprināšanu ar nosacījumu vai noraidīšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Eiropas Savienības fonda projekts",
+      "definition": "Eiropas Savienības fonda projekta iesniegums, kas atbilst projektu iesniegumu vērtēšanas kritērijiem un ko apstiprinājusi Eiropas Savienības fonda vadībā iesaistītā institūcija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "plānošanas dokumenti",
+      "definition": "valsts stratēģiskais ietvardokuments, darbības programma un darbības programmas papildinājums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sadarbības iestāde",
+      "definition": "tiešās valsts pārvaldes iestāde vai Sabiedrības integrācijas fonds, kas Ministru kabineta noteiktajā kārtībā īsteno daļu no starpniekinstitūcijas funkcijām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

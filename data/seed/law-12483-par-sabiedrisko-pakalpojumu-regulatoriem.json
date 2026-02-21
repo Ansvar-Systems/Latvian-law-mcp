@@ -1,0 +1,629 @@
+{
+  "id": "lv-law-12483",
+  "type": "statute",
+  "title": "Par sabiedrisko pakalpojumu regulatoriem",
+  "title_en": "On Regulators Of Public Utilities",
+  "short_name": "TA-12483",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/12483-par-sabiedrisko-pakalpojumu-regulatoriem",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir nodrošināt iespēju saņemt nepārtrauktus, drošus un kvalitatīvus sabiedriskos pakalpojumus, kuru tarifi (cenas) atbilst ekonomiski pamatotām izmaksām, kā arī veicināt attīstību un ekonomiski pamatotu konkurenci regulējamās nozarēs, nosakot sabiedrisko pakalpojumu regulēšanas kārtību un tiesiskās attiecības sabiedrisko pakalpojumu sniegšanā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma darbības joma",
+      "content": "(1) Šis likums nosaka sabiedrisko pakalpojumu regulēšanas vispārīgo kārtību un regulēšanas sistēmas izveides un darbības pamatprincipus.\n(2) Valsts regulē sabiedrisko pakalpojumu sniegšanu kā komercdarbību šādās nozarēs (turpmāk — regulējamās nozares):\n1) enerģētika;\n2) elektroniskie sakari;\n3) pasts;\n4) (izslēgts ar 25.02.2016 . likumu) ;\n5) sadzīves atkritumu apsaimniekošana;\n6) ūdenssaimniecība;\n7) depozīta iepakojuma apsaimniekošana.\n(3) (Izslēgta ar 11.06.2009 . likumu.)\n(4) To sabiedrisko pakalpojumu veidus, kuru sniegšanu nepieciešams regulēt, regulējamās nozarēs nosaka Ministru kabinets.\n(5) (Izslēgta ar 14.06.2007 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Regulējamie sabiedriskie pakalpojumi",
+      "content": "Regulējamie sabiedriskie pakalpojumi, kuru sniegšanu regulē saskaņā ar šo likumu, ir preču ražošana, pakalpojumu sniegšana un infrastruktūras (inženierbūvju vai inženiertehnisku risinājumu, kā arī ar to izmantošanu saistītu resursu komplekss, kas nepieciešams preču ražošanai vai pakalpojumu sniegšanai) pakalpojumi regulējamās nozarēs atbilstoši nozaru speciālajiem normatīvajiem aktiem (turpmāk — sabiedriskie pakalpojumi)."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Sabiedrisko pakalpojumu sniedzēji un sabiedrisko pakalpojumu lietotāji",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzējs ir tāds komersants, kurš regulējamās nozarēs sniedz sabiedriskos pakalpojumus noteiktā teritorijā un kura darbība sabiedrisko pakalpojumu sniegšanā tiek regulēta saskaņā ar šo likumu.\n(2) Sabiedrisko pakalpojumu lietotāji (turpmāk — lietotāji) ir fiziskās vai juridiskās personas, kuras no sabiedrisko pakalpojumu sniedzējiem saņem sabiedriskos pakalpojumus."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Sabiedrisko pakalpojumu regulēšanas pamatprincipi",
+      "content": "Sabiedriskos pakalpojumus regulē saskaņā ar šo likumu izveidota sabiedrisko pakalpojumu regulēšanas iestāde, kas darbojas neatkarīgi un patstāvīgi, izpildot šajā likumā noteiktās funkcijas, pieņem lēmumus un izdod administratīvos aktus, lai aizstāvētu lietotāju intereses un veicinātu sabiedrisko pakalpojumu sniedzēju attīstību saskaņā ar taisnīguma, atklātības, neitralitātes, vienlīdzības un proporcionalitātes principiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "6",
+      "title": "Sabiedrisko pakalpojumu regulēšanas iestāde",
+      "content": "(1) Sabiedriskos pakalpojumus regulējamās nozarēs regulē Sabiedrisko pakalpojumu regulēšanas komisija (turpmāk —regulators).\n(2) Regulators patstāvīgi pilda tam ar likumu nodotās funkcijas un savas kompetences ietvaros patstāvīgi pieņem lēmumus un izdod administratīvos aktus, kas ir saistoši konkrētiem sabiedrisko pakalpojumu sniedzējiem un lietotājiem.\n(3) Uz regulatoru netiek attiecināts Valsts civildienesta likums."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "7",
+      "title": "Regulators",
+      "content": "(1) Regulators uzrauga, lai sabiedrisko pakalpojumu sniegšanā regulējamās nozarēs tiktu ievērots šis likums, kā arī regulējamo nozaru speciālie normatīvie akti.\n(2) Regulators ir institucionāli un funkcionāli neatkarīgs, pilntiesīgs, autonoms publisko tiesību subjekts un patstāvīgs sava likumā apstiprinātā budžeta izpildē.\n(3) Regulatora lēmējinstitūcija ir padome. Padome regulatora vārdā pieņem lēmumus un izdod administratīvos aktus, kas ir saistoši konkrētiem sabiedrisko pakalpojumu sniedzējiem un lietotājiem. Padome nolikumā nosaka regulatora amatpersonas tiesības pieņemt lēmumu regulatora vārdā un šīs amatpersonas kompetences apjomu.\n(4) Regulatora priekšsēdētāju, kas ir arī padomes priekšsēdētājs (turpmāk — priekšsēdētājs), un četrus padomes locekļus pēc Ministru kabineta priekšlikuma amatā ieceļ Saeima. Padomes locekli, tai skaitā priekšsēdētāju, atkārtoti iecelt amatā var ne vairāk kā vienu reizi.\n(4 1 ) Priekšsēdētāja un padomes locekļa amata pretendentus Ministru kabinets izraugās atklātā konkursā. Pretendentu atlasi veic pretendentu atlases un atbilstības izvērtēšanas komisija, kuru vada Valsts kancelejas direktors. Šīs komisijas sastāvā ir Valsts kancelejas direktors, ekonomikas ministrs, finanšu ministrs, satiksmes ministrs, vides aizsardzības un reģionālās attīstības ministrs vai attiecīgā ministra deleģēts pārstāvis. Pretendentu atlases un atbilstības izvērtēšanas komisijas sēdēs ar padomdevēja tiesībām piedalās arī Valsts kancelejas pieaicināti biedrību pārstāvji. Pretendentu atlases un atbilstības izvērtēšanas komisijas sekretariāta funkcijas veic Valsts kanceleja.\n(4 2 ) Ministru kabinets nosaka:\n1) pretendentu pieteikšanās nosacījumus un kārtību;\n2) pretendentu atlases kritērijus un vērtēšanas kārtību;\n3) pretendentu atlases un atbilstības izvērtēšanas komisijas izveides, darbības un lēmumu pieņemšanas kārtību.\n(4 3 ) Priekšsēdētāju un padomes locekli ieceļ amatā, nodrošinot atbilstīgu rotāciju, lai 12 kalendāra mēnešu periodā amata pilnvaru termiņš beidzas ne vairāk kā diviem padomes locekļiem vai priekšsēdētājam un ne vairāk kā vienam padomes loceklim (turpmāk — atbilstīga rotācija).\n(4 4 ) Priekšsēdētāju un padomes locekli ieceļ amatā uz pieciem gadiem, izņemot šā panta 4. 5 daļā minēto gadījumu.\n(4 5 ) Ja, ieceļot amatā priekšsēdētāju vai padomes locekli uz šā panta 4. 4 daļā noteikto termiņu, nav iespējams nodrošināt atbilstīgu rotāciju, priekšsēdētāju vai padomes locekli ieceļ amatā uz pilnvaru termiņu, kas nav īsāks par pieciem gadiem, bet nav garāks par septiņiem gadiem, nodrošinot atbilstīgu rotāciju.\n(5) Ja priekšsēdētāja vai padomes locekļa pilnvaras kāda iemesla dēļ izbeidzas pirms noteiktā pilnvaru termiņa beigām, Saeima pēc Ministru kabineta priekšlikuma ieceļ amatā citu priekšsēdētāju vai padomes locekli, nodrošinot atbilstīgu rotāciju.\n(6) Regulators ir atvasināta publisko tiesību juridiskā persona. Regulatoram ir sava manta, patstāvīga bilance un konts Valsts kasē."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "8",
+      "title": "Regulators pašvaldību regulējamās nozarēs",
+      "content": "(Izslēgts ar 11.06.2009 . likumu, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "9",
+      "title": "Regulatora funkcijas",
+      "content": "(1) Regulators pilda šādas funkcijas:\n1) aizstāv lietotāju intereses un veicina sabiedrisko pakalpojumu sniedzēju attīstību;\n2) nosaka tarifu vai tarifu augšējās robežas aprēķināšanas un noteikšanas metodiku, kā arī tarifu vai tarifu augšējās robežas piemērošanas kārtību, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus;\n3) nosaka tarifus vai tarifu augšējo robežu, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus;\n4) licencē sabiedrisko pakalpojumu sniegšanu vai reģistrē sabiedrisko pakalpojumu sniedzēju;\n5) izskata strīdus šajā likumā noteiktajos gadījumos un kārtībā;\n6) sekmē konkurenci regulējamās nozarēs un uzrauga sabiedrisko pakalpojumu atbilstību licences nosacījumiem, vispārējās atļaujas noteikumiem, noteiktām kvalitātes prasībām, tehniskajiem noteikumiem, standartiem, kā arī līgumu noteikumiem;\n7) sniedz regulējamo nozaru atbildīgajām ministrijām pēc to pieprasījuma informāciju un priekšlikumus par sabiedrisko pakalpojumu regulēšanas jautājumiem;\n8) informē sabiedrību par savu darbību un arī par sabiedrisko pakalpojumu sniedzēju darbību sabiedrisko pakalpojumu sniegšanā;\n9) pilda citas funkcijas, kas noteiktas nozares speciālajos likumos;\n10) (izslēgts ar 14.07.2011 . likumu) ;\n11) (izslēgts ar 14.07.2011 . likumu) .\n(2) Regulators savas kompetences ietvaros patstāvīgi pieņem lēmumus un izdod administratīvos aktus, kas ir saistoši konkrētiem sabiedrisko pakalpojumu sniedzējiem un lietotājiem.\n(3) Regulators nodrošina tās informācijas aizsardzību, kas ir tā rīcībā par sabiedrisko pakalpojumu sniedzējiem un to darbību."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "10",
+      "title": "Regulatora tiesības",
+      "content": "(1) Regulators, pildot likumā noteiktās funkcijas, ir tiesīgs pieprasīt un netraucēti bez maksas saņemt no sabiedrisko pakalpojumu sniedzējiem un lietotājiem, no valsts un pašvaldību iestādēm, kā arī no amatpersonām šo uzdevumu veikšanai nepieciešamo informāciju neatkarīgi no tās slepenības pakāpes.\n(2) Regulatora priekšsēdētājs var piedalīties Ministru kabineta komitejas sēdēs. Normatīvo aktu projektus izskatīšanai Ministru kabinetā regulators iesniedz ar tā Ministru kabineta locekļa starpniecību, kurš ir politiski atbildīgs par attiecīgo jomu, nozari vai apakšnozari. Institūcijām, kas iesniedz Ministru kabinetam ar sabiedrisko pakalpojumu regulēšanu saistītu normatīvo aktu projektus, tie jāiesniedz arī regulatoram saskaņošanai.\n(3) Regulators izskata iesniegumus un sūdzības par sabiedrisko pakalpojumu sniegšanu.\n(4) (Izslēgta no 01.07.2020. ar 30.01.2020 . likumu. Sk. Pārejas noteikumu 28. punktu)\n(4 1 ) Pārkāpuma lietas elektroenerģijas un dabasgāzes apgādē saskaņā ar Enerģētikas likumu un Elektroenerģijas tirgus likumu izskata padome vai priekšsēdētāja norīkota regulatora amatpersona.\n(5) (Izslēgta ar 11.06.2009 . likumu)\n(6) (Izslēgta ar 11.06.2009 . likumu)\n(7) Regulators nosaka kvalitātes prasības sabiedrisko pakalpojumu sniegšanai un kompensācijas noteikšanas kārtību, ja sabiedrisko pakalpojumu sniedzējs nav nodrošinājis noteiktām prasībām atbilstošu sabiedrisko pakalpojumu kvalitāti. Regulators nosaka sabiedrisko pakalpojumu sniedzējam ekonomiskas vai tiesiskas saistības vai stimulus, kas veicina sabiedriskā pakalpojuma sniegšanu atbilstoši noteiktajām kvalitātes prasībām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "11",
+      "title": "Regulatora neatkarība",
+      "content": "(1) Regulators ir neatkarīgs likumā noteikto funkciju pildīšanā.\n(2) Regulators savu funkciju pildīšanā nav padots valsts vai pašvaldību institūcijām.\n(3) (Izslēgta ar 11.06.2009 . likumu.)\n(4) Regulatora administratīvo aktu, kas izdots saskaņā ar šo likumu, vai regulatora faktisko rīcību var pārsūdzēt Administratīvajā apgabaltiesā. Administratīvā apgabaltiesa lietu izskata kā pirmās instances tiesa triju tiesnešu sastāvā. Tiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.\n(5) Pieteikuma par regulatora izdotā administratīvā akta atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu iesniegšana tiesā neaptur šā administratīvā akta darbību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "12",
+      "title": "Regulatora atbildība",
+      "content": "(1) Regulators ir atbildīgs par savas darbības likumību.\n(2) Zaudējumus, kas radušies regulatora prettiesiska lēmuma vai prettiesiska administratīvā akta dēļ, atlīdzina normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "13",
+      "title": "Regulatora darbības atklātums",
+      "content": "(1) Regulatora pieņemtie lēmumi ir atklāti, un tie tiek publicēti šajā likumā noteiktajā kārtībā.\n(2) Regulators sniedz informāciju valsts un pašvaldību iestādēm un institūcijām, kā arī ieteikumus lietotājiem un veic citus pasākumus, lai nodrošinātu savas darbības atklātumu, izskaidrotu sabiedrisko pakalpojumu sniedzēju rīcību un izzinātu sabiedrības attieksmi pret to."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "14",
+      "title": "Regulatora darbības kontrole",
+      "content": "(1) Regulators reizi gadā līdz 1. jūlijam iesniedz Saeimai rakstveida pārskatu par savu darbību iepriekšējā gadā un zvērināta revidenta pārbaudītu pilnu finanšu pārskatu. Regulators pārskatā tostarp ietver informāciju par tā apstiprinātiem tarifiem vismaz tādiem regulējamo sabiedrisko pakalpojumu sniedzējiem enerģētikā, kuru energoapgādes sistēmai ir pieslēgti vairāk par simt tūkstošiem lietotāju vai kuru lietotājiem piegādātās enerģijas apjoms pārsniedz 2 000 000 kilovatstundu gadā, kā arī elektroenerģijas pārvades sistēmas operatoru, dabasgāzes pārvades sistēmas operatoru un vienoto dabasgāzes pārvades un uzglabāšanas sistēmas operatoru un šo regulēto pakalpojumu sniedzēju iepriekšējā perioda tarifu ieņēmumu un izdevumu novirzēm no spēkā esošā tarifu projekta. Šī informācija tiek publicēta regulatora tīmekļvietnē.\n(2) (Izslēgta ar 11.06.2009 . likumu)\n(3) Regulators katru gadu sniedz Saeimai pārskatu par kārtējā gada likumā par valsts budžetu apstiprinātā regulatora budžeta izpildi un regulatora darbību.\n(4) Regulators reizi trijos gados veic neatkarīgu savas darbības novērtējumu un publicē to regulatora mājaslapā internetā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "15",
+      "title": "Patērētāju tiesību aizsardzība regulējamās nozarēs",
+      "content": "(1) Regulators sadarbojas ar patērētāju tiesību aizsardzības biedrībām, kuras izveidotas Patērētāju tiesību aizsardzības likumā noteiktajā kārtībā un aizsargā patērētāju tiesības regulējamās nozarēs, kā arī ar patērētāju tiesību aizsardzības uzraudzības un kontroles iestādēm.\n(2) Pārstāvis no Patērētāju tiesību aizsardzības centra vai citas kompetentas un pilnvarotas valsts iestādes, kuras kompetencē ir patērētāju tiesību aizsardzības uzraudzība un kontrole attiecīgajā regulējamā nozarē, ir tiesīgs piedalīties regulatora sēdē ar padomdevēja tiesībām, ja regulatora sēdē tiek izskatīti jautājumi par sabiedrisko pakalpojumu sniegšanu vai nodrošināšanu attiecīgajā regulējamā nozarē."
+    },
+    {
+      "provision_ref": "Art. 15.1",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "15.1",
+      "title": "15. 1 pants. Pašvaldību konsultatīvā institūcija",
+      "content": "(Izslēgts ar 14.07.2011 . likumu, kas stājas spēkā 11.08.2011. )"
+    },
+    {
+      "provision_ref": "Art. 15.2",
+      "chapter": "II nodaļa Sabiedrisko pakalpojumu regulēšanas iestāde — regulators",
+      "section": "15.2",
+      "title": "15. 2 pants. Konsultatīvā padome",
+      "content": "(1) Regulators izveido konsultatīvo padomi, kurā iekļauj pārstāvjus no Ekonomikas ministrijas, Finanšu ministrijas, Satiksmes ministrijas, Vides aizsardzības un reģionālās attīstības ministrijas, Konkurences padomes, Patērētāju tiesību aizsardzības centra un, ja nepieciešams, citām iestādēm, kā arī patērētāju, sabiedrisko pakalpojumu sniedzēju, pašvaldību un sociālo partneru intereses pārstāvošām biedrībām un nodibinājumiem.\n(2) Konsultatīvās padomes uzdevumi ir:\n1) nodrošināt iespējami plašākas publiskās konsultācijas par regulatora darbības stratēģiju, sniedzot ieteikumus regulatora stratēģiskajiem darba virzieniem un izskatot regulatora stratēģijas īstenošanas gaitu un darba pilnveidošanas iespējas;\n2) sekmēt priekšlikumu sniegšanu jautājumos, kas saistīti ar politikas izstrādi un īstenošanu un attiecīgu normatīvo aktu vai plānošanas dokumentu sagatavošanu regulējamās nozarēs.\n(3) Konsultatīvās padomes lēmumiem ir ieteikuma raksturs."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa. Sabiedrisko pakalpojumu licencēšana un sabiedrisko pakalpojumu sniedzēju reģistrēšana (Nodaļas nosaukums 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )",
+      "section": "16",
+      "title": "Sabiedrisko pakalpojumu licence",
+      "content": "(1) Sabiedrisko pakalpojumu licence (turpmāk — licence) dod sabiedrisko pakalpojumu sniedzējam tiesības uzņemties līdzīgas saistības vienlaikus pret vairākiem lietotājiem licencē noteiktajā teritorijā (turpmāk — licences darbības zona) un nosaka sabiedrisko pakalpojumu sniedzēja pienākumu nodrošināt šiem lietotājiem sabiedriskos pakalpojumus noteiktā kvalitātē un kvantitātē par noteiktajiem tarifiem.\n(2) Ministru kabinets nosaka kārtību, kādā regulators licencē sabiedrisko pakalpojumu sniegšanu un regulējamo nozaru komersantus, kā arī licences pieprasījuma iesniegšanas kārtību, ja tā nav noteikta nozaru speciālajos likumos.\n(3) Ja to paredz regulējamo nozaru speciālie normatīvie akti, regulators uz noteiktu laiku izsniedz sabiedrisko pakalpojumu sniedzējam un regulējamo nozaru komersantam licenci, norādot tajā sabiedrisko pakalpojumu veidus.\n(4) Regulators lēmumus par licenču izsniegšanu , piešķirto licenču anulēšanu (atcelšanu), atteikumu piešķirt licenci, kā arī par grozījumiem licences nosacījumos, ja tie attiecas uz sabiedriskā pakalpojuma veidu, licences termiņu vai licences darbības zonu, 30 dienu laikā pēc attiecīgā lēmuma pieņemšanas publicē savā mājaslapā internetā.\n(5) Regulators uzrauga licences nosacījumu izpildi un sabiedrisko pakalpojumu atbilstību licences nosacījumiem.\n(6) (Izslēgta ar 11.06.2009 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa. Sabiedrisko pakalpojumu licencēšana un sabiedrisko pakalpojumu sniedzēju reģistrēšana (Nodaļas nosaukums 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )",
+      "section": "17",
+      "title": "Licences nosacījumi",
+      "content": "(1) Licencē norāda sabiedriskā pakalpojuma veidu, licences termiņu, licences darbības zonu kā ģeogrāfisku teritoriju, licences grozīšanas un anulēšanas (atcelšanas) iespējas, kā arī īpašos nosacījumus, kurus paredz regulējamās nozares speciālie normatīvie akti.\n(2) Licences nosacījumiem jābūt objektīvi pamatotiem, taisnīgiem, vienlīdzīgiem un atklātiem."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa. Sabiedrisko pakalpojumu licencēšana un sabiedrisko pakalpojumu sniedzēju reģistrēšana (Nodaļas nosaukums 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )",
+      "section": "18",
+      "title": "Licences nosacījumu grozīšana, licences anulēšana (atcelšana) un darbības apturēšana",
+      "content": "(1) Pamatotu ierosinājumu grozīt izsniegtās licences nosacījumus vai anulēt (atcelt) licenci sabiedrisko pakalpojumu sniedzējs iesniedz regulatoram Ministru kabineta noteiktajā kārtībā.\n(2) Regulators groza izsniegtās licences nosacījumus, ja:\n1) ir stājušies spēkā grozījumi normatīvajos aktos, kas attiecas uz regulējamo sabiedrisko pakalpojumu veidu;\n2) citādi nav iespējams nodrošināt ekonomiski pamatotu sabiedrisko pakalpojumu sniegšanu licences darbības zonā;\n3) sabiedrisko pakalpojumu sniedzējs ir iesniedzis pamatotu ierosinājumu;\n4) grozījumi licences nosacījumos lietotājiem uzlabos sabiedriskā pakalpojuma nepārtrauktību, drošību un kvalitāti, neatstājot negatīvu ietekmi uz sabiedriskā pakalpojuma izmaksām, šā pakalpojuma nepārtrauktību, drošību un kvalitāti citiem lietotājiem attiecīgajā licences darbības zonā.\n(3) Regulators anulē (atceļ) sabiedrisko pakalpojumu sniedzējam izsniegto licenci, ja sabiedrisko pakalpojumu sniedzējs:\n1) neievēro vai pārkāpj tam izsniegtās licences nosacījumus;\n2) neievēro vai pārkāpj normatīvajos aktos noteiktās prasības sabiedrisko pakalpojumu sniegšanā;\n3) izslēgts no komercreģistra;\n4) iesniedzis pamatotu ierosinājumu;\n5) 12 mēnešu laikā no licences izsniegšanas dienas nav sācis sniegt sabiedriskos pakalpojumus (ja licencē nav noteikts sabiedrisko pakalpojumu sniegšanas sākuma termiņš).\n(4) Par licences nosacījumu grozīšanu regulators rakstveidā brīdina sabiedrisko pakalpojumu sniedzēju vismaz 30 dienas iepriekš. Šā panta otrās daļas 3.punktā noteiktajā gadījumā regulators nosaka brīdināšanas termiņu.\n(5) Par licences anulēšanu (atcelšanu) regulators rakstveidā brīdina sabiedrisko pakalpojumu sniedzēju vismaz trīs mēnešus iepriekš. Šā panta trešās daļas 3., 4. un 5.punktā noteiktajā gadījumā, kā arī anulējot (atceļot) licenci saskaņā ar Administratīvā procesa likumu , regulators nosaka brīdināšanas termiņu.\n(6) (Izslēgta ar 25.09.2014 . likumu)\n(7) Regulators aptur izsniegtās licences darbību, ja ir pamatotas aizdomas par to, ka sabiedrisko pakalpojumu sniedzējs neievēro vai pārkāpj tam izsniegtās licences nosacījumus vai normatīvajos aktos noteiktās prasības sabiedrisko pakalpojumu sniegšanā vai ja sabiedrisko pakalpojumu sniedzēja darbība ir apturēta.\n(8) Administratīvā procesa likumā noteiktais tiesiska administratīvā akta atcelšanas termiņa ierobežojums netiek piemērots, izdarot grozījumus licencē vai licenci anulējot (atceļot) saskaņā ar šo likumu.\n(9) Lēmumu par licences izsniegšanu , piešķirtās licences anulēšanu (atcelšanu), atteikumu piešķirt licenci, par grozījumiem licences nosacījumos vai licences darbības apturēšanu vai atjaunošanu regulators pieņem Administratīvā procesa likumā noteiktajā termiņā. Iesniegums par licences izsniegšanu , piešķirtās licences anulēšanu (atcelšanu), par grozījumiem licences nosacījumos vai licences darbības atjaunošanu tiek uzskatīts par iesniegtu dienā, kad regulators saņēmis visus normatīvajos aktos norādītos dokumentus un visu nepieciešamo informāciju."
+    },
+    {
+      "provision_ref": "Art. 18.1",
+      "chapter": "III nodaļa. Sabiedrisko pakalpojumu licencēšana un sabiedrisko pakalpojumu sniedzēju reģistrēšana (Nodaļas nosaukums 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )",
+      "section": "18.1",
+      "title": "18. 1 pants. Sabiedrisko pakalpojumu sniedzēju reģistrēšana",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzējam, kura darbību nepieciešams regulēt, bet regulējamo nozaru speciālie normatīvie akti neparedz licencēšanu vai citādu reģistrēšanos, ir tiesības uzsākt sabiedrisko pakalpojumu sniegšanu, ja tas šajā likumā vai regulējamo nozaru speciālajos normatīvajos aktos noteiktajā kārtībā ir reģistrēts sabiedrisko pakalpojumu sniedzēju reģistrā vai sarakstā (turpmāk — reģistrs).\n(2) Regulators nosaka sabiedriskā pakalpojuma sniegšanas vispārējās atļaujas noteikumus (turpmāk — vispārējās atļaujas noteikumi), kas ir saistoši visiem reģistrētajiem sabiedrisko pakalpojumu sniedzējiem, kuru darbību nepieciešams regulēt un kuriem saskaņā ar regulējamo nozaru speciālajiem normatīvajiem aktiem nav vajadzīga licence.\n(3) Regulators veido reģistru un nodrošina tā publisku pieejamību.\n(4) Vispārējās atļaujas noteikumos, ja regulējamo nozaru speciālie normatīvie akti neparedz citu reģistrēšanas kārtību, regulators nosaka:\n1) reģistrā iekļaujamās ziņas;\n2) sabiedrisko pakalpojumu sniedzējam izvirzāmās reģistrēšanas prasības un kārtību, kādā sabiedrisko pakalpojumu sniedzējs nosūta paziņojumu par reģistrāciju (turpmāk — reģistrācijas paziņojums) vai paziņojumu par darbības izbeigšanu;\n3) reģistrācijas paziņojumā vai paziņojumā par darbības izbeigšanu ietveramo informāciju;\n4) kārtību, kādā sabiedrisko pakalpojumu sniedzēju izslēdz no reģistra un atkārtoti reģistrē;\n5) kārtību, kādā regulators informē reģistrācijas paziņojuma iesniedzēju par termiņu, kādā tas tiks reģistrēts, par tiesībām uzsākt sabiedriskā pakalpojuma sniegšanu, ja noteiktā termiņā nav saņemts regulatora lēmums par atteikumu reģistrēt reģistrācijas paziņojuma iesniedzēju, un par attiecīgā regulatora lēmuma pārsūdzības iespējām;\n6) prasības un nosacījumus sabiedrisko pakalpojumu sniegšanai.\n(5) Ja regulators mēneša laikā no reģistrācijas paziņojuma saņemšanas dienas nav rakstveidā informējis reģistrācijas paziņojuma iesniedzēju par atteikumu to reģistrēt, uzskatāms, ka sabiedrisko pakalpojumu sniedzējs ir reģistrēts. Reģistrācijas paziņojums tiek uzskatīts par iesniegtu dienā, kad regulators saņēmis visu vispārējās atļaujas noteikumos norādīto informāciju.\n(6) Sabiedrisko pakalpojumu sniedzējs var izbeigt sabiedriskā pakalpojuma sniegšanu, ja tas normatīvajos aktos noteiktajā kārtībā nosūtījis regulatoram paziņojumu par darbības izbeigšanu un ir izslēgts no reģistra.\n(7) Regulators izslēdz sabiedrisko pakalpojumu sniedzēju no reģistra šādos gadījumos:\n1) regulators ir saņēmis sabiedrisko pakalpojumu sniedzēja paziņojumu par sabiedrisko pakalpojumu sniegšanas pārtraukšanu;\n2) sabiedrisko pakalpojumu sniedzēja darbība ir apturēta;\n3) sabiedrisko pakalpojumu sniedzējs ir izslēgts no komercreģistra;\n4) (izslēgts no 01.07.2020. ar 30.01.2020 . likumu. Sk. Pārejas noteikumu 28. punktu) ;\n4 1 ) sabiedrisko pakalpojumu sniedzēja darbība ir izbeigta, pamatojoties uz tiesas nolēmumu vai nodokļu administrācijas vai komercreģistra iestādes lēmumu;\n5) citos regulējamo nozaru speciālajos normatīvajos aktos minētajos gadījumos.\n(8) Ja sabiedrisko pakalpojumu sniedzējs ir izslēgts no reģistra saskaņā ar šā panta septītās daļas 4.punktu, tam ir tiesības atsākt sabiedrisko pakalpojumu sniegšanu ne agrāk kā pēc viena gada no izslēgšanas dienas, ja tas ir novērsis pārkāpumu, par kuru tika izslēgts no reģistra, normatīvajos aktos noteiktajā kārtībā nosūtījis regulatoram jaunu reģistrācijas paziņojumu un šajā likumā noteiktajā kārtībā atkārtoti reģistrēts."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Tarifu noteikšana",
+      "section": "19",
+      "title": "Tarifu noteikšanas kārtība",
+      "content": "(1) Sabiedrisko pakalpojumu tarifus regulējamās nozarēs sabiedrisko pakalpojumu sniedzēji aprēķina saskaņā ar noteikto tarifu aprēķināšanas metodiku un pēc savas iniciatīvas vai regulatora pieprasījuma iesniedz regulatoram aprēķināto tarifu projektus kopā ar tarifu aprēķina projektā minēto tarifus veidojošo izmaksu pamatojumu.\n(2) Regulators izvērtē sabiedrisko pakalpojumu sniedzēja iesniegto noteiktā kārtībā aprēķināto tarifu projektu un tarifu aprēķina projektā minēto tarifus veidojošo izmaksu pamatojumu 90 dienu laikā pēc tā saņemšanas. Ja regulators konstatē, ka tarifu projekts ir aprēķināts nepareizi vai tarifu aprēķina projektā minētās tarifus veidojošās izmaksas ir nepamatotas, regulators var uzdot sabiedrisko pakalpojumu sniedzējam veikt tarifu projekta pārrēķinu vai noraidīt tarifu projektu.\n(2 1 ) Tarifu projekta pārrēķinu sabiedrisko pakalpojumu sniedzējs veic regulatora noteiktā termiņā, kas nevar būt īsāks par piecām darbdienām.\n(3) (Izslēgta ar 11.06.2009 . likumu)\n(4) (Izslēgta ar 14.07.2011 . likumu)\n(5) Regulators ir tiesīgs pieprasīt papildu informāciju vai dokumentus, ja sabiedrisko pakalpojumu sniedzēja iesniegtajā aprēķināto tarifu projektā un tarifus veidojošo izmaksu pamatojuma dokumentos nav pietiekamu ziņu objektīvai aprēķināto tarifu projekta apstiprināšanai vai noraidīšanai. Regulatora pieprasīto papildu informāciju vai dokumentus sabiedrisko pakalpojumu sniedzējs iesniedz regulatora noteiktā termiņā, kas nevar būt īsāks par 10 dienām.\n(6) Regulators, ja nepieciešams, tarifu projekta izvērtēšanai vai paskaidrojumu sniegšanai pieaicina attiecīgā sabiedrisko pakalpojumu sniedzēja un Patērētāju tiesību aizsardzības centra pārstāvjus, Patērētāju tiesību aizsardzības likumā noteiktajā kārtībā izveidotu patērētāju tiesību aizsardzības biedrību pārstāvjus vai neatkarīgus ekspertus.\n(7) Regulators izvērtēto tarifu projektu apstiprina vai noraida 30 dienu laikā pēc tā izskatīšanas.\n(7 1 ) Lai sasniegtu šā likuma 20. panta pirmajā daļā noteikto mērķi, regulators saskaņā ar tarifu vai tarifu augšējās robežas aprēķināšanas un noteikšanas metodiku, kā arī tarifu vai tarifu augšējās robežas piemērošanas kārtību var grozīt sabiedrisko pakalpojumu sniedzēja tarifu projektu, ja sabiedrisko pakalpojumu sniedzējs tarifu projekta izvērtēšanas procesā šā panta piektajā daļā noteiktajā kārtībā un termiņā nesniedz regulatoram papildu informāciju par tarifus veidojošo izmaksu pamatojumu vai ja kāda no tarifus veidojošajām izmaksām ir ekonomiski nepamatota un regulators tarifu projekta izvērtēšanas laikā to var apliecināt citā tiesiskā ceļā.\n(8) (Izslēgta ar 11.06.2009 . likumu)\n(9) Ja izvērtētos tarifu projektus noraida, regulators 10 dienu laikā pēc attiecīgā lēmuma pieņemšanas sniedz motivētu noraidījumu sabiedrisko pakalpojumu sniedzējam.\n(10) Tarifu projektu apstiprināšanas gadījumā regulators par to 10 dienu laikā paziņo sabiedrisko pakalpojumu sniedzējam.\n(11) (Izslēgta ar 11.06.2009 . likumu)\n(12) (Izslēgta ar 11.06.2009 . likumu)\n(13) Tarifu projekta pārrēķina termiņu un regulatora pieprasītās papildu informācijas vai dokumentu iesniegšanas termiņu neieskaita šā panta otrajā daļā noteiktajā tarifu projekta izvērtēšanas termiņā.\n(14) Sabiedrisko pakalpojumu sniedzējs nozares speciālajos normatīvajos aktos minētajos gadījumos tarifus var noteikt pats."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Tarifu noteikšana",
+      "section": "20",
+      "title": "Tarifu apmērs",
+      "content": "(1) Tarifi nosakāmi tādā apmērā, lai lietotāju izdarītie tarifu maksājumi segtu ekonomiski pamatotas sabiedrisko pakalpojumu izmaksas un nodrošinātu sabiedrisko pakalpojumu rentabilitāti, ja nozares speciālie normatīvie akti neparedz citus tarifu noteikšanas principus. Ja mainās tarifus ietekmējošie faktori, piemēram, rentabilitāte, regulators var ierosināt tarifu pārskatīšanu un pieprasīt, lai sabiedrisko pakalpojumu sniedzējs noteiktā termiņā iesniedz tarifu projektu kopā ar tarifus veidojošo izmaksu pamatojumu.\n(2) Regulators var apstiprināt kopējās sabiedriskā pakalpojuma sniegšanai nepieciešamās izmaksas vai kopējos sabiedrisko pakalpojumu sniedzēja atļautos ieņēmumus saskaņā ar tarifu vai tarifu augšējās robežas aprēķināšanas un noteikšanas metodiku, kā arī tarifu vai tarifu augšējās robežas piemērošanas kārtību, ja nozares speciālie likumi neparedz citus tarifu noteikšanas principus."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Tarifu noteikšana",
+      "section": "21",
+      "title": "Tarifu atklātums",
+      "content": "(1) Regulators noteikto tarifu vai tarifu augšējās robežas aprēķināšanas un noteikšanas metodiku, kā arī tarifu vai tarifu augšējās robežas piemērošanas kārtību publicē oficiālajā izdevumā \"Latvijas Vēstnesis\" un savā mājaslapā internetā 10 dienu laikā pēc tās noteikšanas.\n(2) Regulators nosaka kārtību, kādā lietotāji var iepazīties ar sabiedrisko pakalpojumu sniedzēju iesniegtajiem tarifu projektiem, iesniegt savus priekšlikumus un ieteikumus regulatoram un sabiedrisko pakalpojumu sniedzējam. Minēto kārtību publicē oficiālajā izdevumā \"Latvijas Vēstnesis\" 10 dienu laikā pēc tās noteikšanas.\n(3) Sabiedrisko pakalpojumu sniedzējs informāciju par aprēķināto tarifu projektu 10 dienu laikā pēc projekta iesniegšanas regulatoram publicē oficiālajā izdevumā \"Latvijas Vēstnesis\" un savā mājaslapā internetā, ja tāda ir, kā arī iesniedz to regulatoram publicēšanai regulatora mājaslapā internetā. Ja sabiedrisko pakalpojumu sniedzēja tarifu projekts skar lietotājus, kuri atrodas konkrētā administratīvajā teritorijā, sabiedrisko pakalpojumu sniedzējs informāciju par aprēķināto tarifu projektu nosūta attiecīgajai pašvaldībai iedzīvotāju informēšanai un ievietošanai tās mājaslapā internetā.\n(4) Regulators lēmumu, ar kuru noteikts tarifs, 10 dienu laikā pēc tā pieņemšanas publicē oficiālajā izdevumā \"Latvijas Vēstnesis\". Ja noteiktais tarifs skar lietotājus, kuri atrodas konkrētā administratīvajā teritorijā, regulators lēmumu, ar kuru noteikts tarifs, nosūta attiecīgajai pašvaldībai iedzīvotāju informēšanai un ievietošanai tās mājaslapā internetā.\n(5) Apstiprinātie tarifi stājas spēkā ne agrāk kā trīsdesmitajā dienā pēc to publicēšanas.\n(6) Pieteikuma par tāda administratīvā akta atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu, kuru izdevis regulators un ar kuru apstiprināts tarifs, iesniegšana tiesā neaptur šā administratīvā akta darbību.\n(7) Regulators, nosakot šā panta otrajā daļā minēto kārtību, uzliek sabiedrisko pakalpojumu sniedzējam par pienākumu, publicējot informāciju par iesniegto tarifu projektu, norādīt tajā piedāvātās izmaiņas, spēkā esošo tarifu un piedāvāto tarifu (palielinājuma vai samazinājuma) salīdzinājumu, piedāvāto tarifu spēkā stāšanās datumu un tarifu izmaiņu pamatojumu, ja saskaņā ar Informācijas atklātības likumu tarifu projektā un tarifus veidojošo izmaksu pamatojumā ietvertā informācija ir vispārpieejama."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "22",
+      "title": "Sabiedrisko pakalpojumu sniegšanas nepārtrauktība, drošība un kvalitāte",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzēji nodrošina iespēju saņemt nepārtrauktus sabiedriskos pakalpojumus.\n(2) Sabiedrisko pakalpojumu sniedzēji nodrošina attiecīgajā regulējamā nozarē noteikto sabiedrisko pakalpojumu drošības prasību ievērošanu un darbinieku kvalifikācijas atbilstību.\n(3) Sabiedrisko pakalpojumu sniedzēji nodrošina tehniskajiem noteikumiem, standartiem un līgumu nosacījumiem atbilstošu sabiedrisko pakalpojumu kvalitāti. Ja sabiedrisko pakalpojumu sniedzējs kādā laikposmā nevar nodrošināt tehniskajiem noteikumiem, standartiem un līgumu nosacījumiem atbilstošu sabiedrisko pakalpojumu kvalitāti, tas atlīdzina lietotājam nodarītos zaudējumus saskaņā ar līguma nosacījumiem vai normatīvo aktu prasībām.\n(4) Sabiedrisko pakalpojumu sniedzēji izmanto un sekmē efektīvas, ekonomiskas un drošas tehnoloģijas un darba paņēmienu ieviešanu sabiedrisko pakalpojumu kvalitātes nodrošināšanai un uzlabošanai.\n(5) Sabiedrisko pakalpojumu sniedzējs Ministru kabineta noteiktajā kārtībā var pārtraukt sabiedrisko pakalpojumu sniegšanu tiem lietotājiem, kuri nav samaksājuši par saņemtajiem sabiedriskajiem pakalpojumiem vai nav izpildījuši citas saistības pret sabiedrisko pakalpojumu sniedzēju."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "23",
+      "title": "Sabiedrisko pakalpojumu sniedzēja pārveidošana un darbības izbeigšana",
+      "content": "(Izslēgts ar 11.06.2009 . likumu, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "24",
+      "title": "Sabiedrisko pakalpojumu pieprasījums",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzējam licences darbības zonā jānodrošina sabiedriskie pakalpojumi pēc lietotāju un citu personu pamatota pieprasījuma, ja šā pakalpojumu sniedzēja finansiālās un objektu vai infrastruktūras tehniskās iespējas to pieļauj.\n(2) Sabiedrisko pakalpojumu sniedzējs izskata sabiedrisko pakalpojumu pieprasījumu, izvērtē tā pamatotību un pieprasīto sabiedrisko pakalpojumu sniegšanai nepieciešamās izmaksas un ne vēlāk kā 30 dienu laikā pēc reģistrēta pieprasījuma saņemšanas informē pieprasītāju par sabiedrisko pakalpojumu sniegšanas uzsākšanu.\n(3) Sabiedrisko pakalpojumu sniedzējs 30 dienu laikā pēc reģistrētā pieprasījuma saņemšanas sniedz pieprasītājam pamatotu rakstveida atteikumu, ja attiecīgo sabiedrisko pakalpojumu sniegšana nav iespējama, un informē par to regulatoru.\n(4) Sabiedrisko pakalpojumu sniedzējs var vienoties ar pieprasītāju, ka tas sedz ar sabiedrisko pakalpojumu sniegšanas uzsākšanu saistītos papildu izdevumus."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "25",
+      "title": "Informācijas nodrošināšana",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzējs sniedz regulatoram tā pieprasīto informāciju regulatora noteiktajā laikā un kārtībā.\n(2) Sabiedrisko pakalpojumu sniedzējs nodrošina regulatoram iespēju brīvi iegūt jebkuru informāciju par sabiedriskajiem pakalpojumiem un nepieciešamo informāciju par cita veida komercdarbību, kā arī iespēju iepazīties ar sabiedrisko pakalpojumu sniedzēja grāmatvedības dokumentiem.\n(3) Sabiedrisko pakalpojumu sniedzējs nodrošina regulatoram iespēju veikt sabiedrisko pakalpojumu regulēšanas funkciju izpildei nepieciešamo pārbaudi un kontroli, kā arī iespēju piekļūt iekārtām un mēraparātiem, ievērojot drošības prasības.\n(4) Sabiedrisko pakalpojumu sniedzējs nodrošina atbildes sniegšanu uz lietotāju rakstveida iesniegumiem un sūdzībām 15 dienu laikā pēc iesnieguma vai sūdzības saņemšanas. Ja iesnieguma vai sūdzības izskatīšanai ir nepieciešama papildu pārbaude vai būtiska papildu informācija, sabiedrisko pakalpojumu sniedzējs nodrošina atbildes sniegšanu 30 dienu laikā pēc iesnieguma vai sūdzības saņemšanas.\n(5) Sabiedrisko pakalpojumu sniedzējs ir tiesīgs atstāt iesniegumu vai sūdzību bez izskatīšanas, piemērojot Iesniegumu likuma noteikumus, kā arī gadījumā, kad iesniegums vai sūdzība nav tieši saistīta ar sabiedrisko pakalpojumu sniedzēja pakalpojumu.\n(6) Par iesnieguma vai sūdzības atstāšanu bez izskatīšanas sabiedrisko pakalpojumu sniedzējs 15 dienu laikā rakstveidā informē lietotāju, pamatojot savu lēmumu."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "26",
+      "title": "Sabiedrisko pakalpojumu veidu nodalīšana",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzējs var regulējamā nozarē vienlaikus sniegt vairāku veidu sabiedriskos pakalpojumus.\n(2) Sabiedrisko pakalpojumu sniedzējs kārto atsevišķu grāmatvedības uzskaiti katram sabiedriskā pakalpojuma veidam. Minētā uzskaite kopējā grāmatvedības uzskaitē ir nodalīta.\n(3) Likumā noteikto funkciju veikšanai regulators sabiedrisko pakalpojumu sniedzējam var noteikt prasības izmaksu, pamatlīdzekļu vērtības un ieguldījumu uzskaites kārtošanai un organizācijai."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "27",
+      "title": "Sabiedrisko pakalpojumu sniedzēja cita veida darbība",
+      "content": "(1) Sabiedrisko pakalpojumu sniedzējs ārpus regulējamām nozarēm var veikt komercdarbību, kura šā likuma 26.pantā noteiktajā kārtībā jānošķir no darbības sabiedrisko pakalpojumu sniegšanā.\n(2) Sabiedrisko pakalpojumu sniedzējam nav tiesību izmantot tarifu ieņēmumus, lai segtu izmaksas, kas saistītas ar tā komercdarbību vai cita veida darbību, kura nav tieši saistīta ar sabiedrisko pakalpojumu sniegšanu, tai skaitā sponsorēšanu, ziedošanu vai labdarību. Šajā panta daļā minētais ierobežojums nav attiecināms uz tādiem gadījumiem, kad sabiedrisko pakalpojumu sniedzējs izmanto tarifu ieņēmumus ziedojumiem Latvijas Republikā reģistrētām biedrībām, nodibinājumiem un reliģiskajām organizācijām vai to iestādēm, kurām piešķirts sabiedriskā labuma organizācijas statuss saskaņā ar Sabiedriskā labuma organizāciju likumu. Ziedojumu summu neietver tarifus pamatojošās izmaksās."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Sabiedrisko pakalpojumu sniedzēju darbība",
+      "section": "28",
+      "title": "Sabiedrisko pakalpojumu sniedzēja licences darbības zonas pārņemšana",
+      "content": "(1) Regulators pieņem lēmumu par nepieciešamību pārņemt sabiedrisko pakalpojumu sniedzēja licences darbības zonu:\n1) ja sabiedrisko pakalpojumu sniedzējam tiks anulēta (atcelta) licence;\n2) ja pēc sešiem mēnešiem beidzas sabiedrisko pakalpojumu sniedzēja licences termiņš un šis pakalpojumu sniedzējs nevēlas turpināt tādu sabiedrisko pakalpojumu sniegšanu, kuriem nepieciešama jauna licence;\n3) ja sabiedrisko pakalpojumu sniedzējs kādu iemeslu dēļ nav spējīgs nodrošināt nepārtrauktus, drošus un kvalitatīvus sabiedriskos pakalpojumus.\n(2) Ja regulators pieņem lēmumu par sabiedrisko pakalpojumu sniedzēja licences darbības zonas pārņemšanu, tas 10 darbdienu laikā paziņo par to attiecīgās regulējamās nozares atbildīgajai ministrijai vai attiecīgajai pašvaldībai. Attiecīgās regulējamās nozares atbildīgā ministrija vai pašvaldība, kuras administratīvajā teritorijā atrodas sabiedrisko pakalpojumu sniedzējs, uz laiku ieceļ par sabiedrisko pakalpojumu sniedzēja licencē noteiktajiem sabiedriskajiem pakalpojumiem atbildīgo personu tādu pasākumu īstenošanai, lai rosinātu komersantus pārņemt sabiedrisko pakalpojumu sniegšanu licences darbības zonā.\n(3) Persona, kas ir atbildīga par sabiedrisko pakalpojumu sniedzēja licencē noteiktajiem sabiedriskajiem pakalpojumiem, informē regulatoru vai pašvaldību par savu uzdevumu izpildi un ir tiesīga izvēlēties izsoles, konkursa vai pretendentu atlases metodes, lai nodrošinātu šajā pantā noteikto darbību īstenošanu."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Regulatora darbības finansēšana",
+      "section": "29",
+      "title": "Regulatora darbības finansēšana",
+      "content": "(1) Regulatora darbību finansē no ieņēmumiem, kas gūti, iekasējot valsts nodevu par sabiedrisko pakalpojumu regulēšanu (turpmāk — valsts nodeva) un iekasējot maksājumus par regulatora sniegtajiem pakalpojumiem, kuri noteikti citos normatīvajos aktos.\n(2) Regulatora sniegto pakalpojumu maksas apmēru un maksāšanas kārtību nosaka citos normatīvajos aktos, ņemot vērā regulatora administratīvās izmaksas un attiecīgā pakalpojuma nodrošināšanai nepieciešamos izdevumus."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Regulatora darbības finansēšana",
+      "section": "30",
+      "title": "Valsts nodevas maksātāji un izmantošana",
+      "content": "(1) Sabiedrisko pakalpojumu regulēšanas nodrošināšanai visi regulējamo nozaru sabiedrisko pakalpojumu sniedzēji maksā valsts nodevu.\n(2) Valsts nodeva regulējamās nozarēs iemaksājama valsts budžetā un tiek ieskaitīta regulatora kontā Valsts kasē. Iemaksātā valsts nodeva regulējamās nozarēs izmantojama vienīgi regulatora darbības nodrošināšanai.\n(3) (Izslēgta ar 11.06.2009 . likumu)\n(4) (Izslēgta ar 14.07.2011 . likumu)\n(5) Sabiedrisko pakalpojumu sniedzējam neatmaksā samaksāto valsts nodevu šādos gadījumos:\n1) sabiedrisko pakalpojumu sniedzējam izsniegtā licence ir anulēta vai apturēta;\n2) sabiedrisko pakalpojumu sniedzējs ir izslēgts no reģistra vai reģistrā ir izdarīta atzīme par sabiedrisko pakalpojumu sniedzēja darbības apturēšanu;\n3) sabiedriskā pakalpojuma regulēšana ir izbeigta."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Regulatora darbības finansēšana",
+      "section": "31",
+      "title": "Valsts nodevas likme un maksāšanas kārtība",
+      "content": "(1) Valsts nodevas gada likme ir 0,2 procenti no komersanta sniegto sabiedrisko pakalpojumu neto apgrozījuma aizpagājušā kalendāra gadā, bet ne mazāka kā 200 euro kalendāra gadā.\n(2) Valsts nodeva, kuru komersants samaksājis par katru regulējamās nozares sabiedriskā pakalpojuma veidu, summā nedrīkst pārsniegt šā panta pirmajā daļā noteikto likmi no kopējā komersanta sniegto sabiedrisko pakalpojumu neto apgrozījuma aizpagājušā kalendāra gadā, bet tā nedrīkst būt mazāka par 200 euro kalendāra gadā.\n(3) Kalendāra gadā maksājamās valsts nodevas summu sadala četrās vienādās daļās. Pirmo daļu komersants samaksā līdz 10. janvārim, otro — līdz 10. aprīlim, trešo — līdz 10. jūlijam, ceturto — līdz 10. oktobrim.\n(4) Kalendāra gadā maksājamās valsts nodevas summu var precizēt, veicot pēdējo maksājumu kalendāra gadā.\n(5) Komersants, kurš sāk sabiedrisko pakalpojumu sniegšanu, valsts nodevu par pirmo darbības gadu maksā no komersanta plānotā attiecīgā sabiedriskā pakalpojuma veida neto apgrozījuma pirmajā darbības gadā, bet ne mazāku kā 200 euro kalendāra gadā. Valsts nodevu par otro darbības gadu komersants maksā no komersanta sniegto sabiedrisko pakalpojumu neto apgrozījuma iepriekšējā kalendāra gadā, bet ne mazāku kā 200 euro kalendāra gadā.\n(6) Ja komersants, kurš uzsācis sniegt sabiedriskos pakalpojumus, par pirmo darbības gadu saskaņā ar šā panta piekto daļu ir samaksājis valsts nodevu, kas nav mazāka par 200 euro kalendāra gadā, bet ir mazāka par šā panta pirmajā daļā noteikto likmi, tas līdz nākamā gada 30. janvārim samaksā atlikušo valsts nodevas summas daļu.\n(7) Ja attiecīgajā kalendāra gadā samaksātā valsts nodeva pārsniedz regulatora darbības nodrošināšanai nepieciešamās izmaksas, summu, kas pārsniedz regulatora darbības nodrošināšanai nepieciešamās izmaksas, ieskaita regulatora kontā Valsts kasē valsts nodevas uzkrājumos (turpmāk — uzkrājumi) un izmanto regulatora darbības nodrošināšanai nākamajos periodos saskaņā ar likumā par valsts budžetu apstiprināto regulatora budžetu.\n(8) Uzkrājumu apmērs regulatora kontā Valsts kasē gada beigās nedrīkst pārsniegt 25 procentus no regulatora iepriekšējo triju saimniecisko gadu faktisko valsts nodevas ieņēmumu vidējā apmēra.\n(9) Ja faktiskais uzkrājumu apmērs regulatora kontā Valsts kasē gada beigās pārsniedz 25 procentus no regulatora iepriekšējo triju saimniecisko gadu faktisko valsts nodevas ieņēmumu vidējā apmēra, sabiedrisko pakalpojumu sniedzējam, kas attiecīgajā kalendāra gadā ir samaksājis valsts nodevu, nākamajā gadā samazina maksājamās valsts nodevas summu faktiskā uzkrājuma pārsnieguma apmērā proporcionāli iemaksātās valsts nodevas lielumam attiecīgajā gadā.\n(10) Valsts nodevu administrē regulators saskaņā ar likumu \" Par nodokļiem un nodevām \".\n(11) Ja komersants šā panta trešajā, ceturtajā un sestajā daļā noteiktajā termiņā nav samaksājis valsts nodevu, tam aprēķina nokavējuma naudu saskaņā ar likumu \" Par nodokļiem un nodevām \".\n(12) Nepareizi iemaksātās valsts nodevas summas regulators atmaksā no sava budžeta 15 dienu laikā pēc valsts nodevas maksātāja pamatota iesnieguma saņemšanas regulatorā.\n(13) Valsts nodevu iemaksā regulatora kontā Valsts kasē ar tāda maksājumu pakalpojumu sniedzēja starpniecību, kuram ir tiesības sniegt maksājumu pakalpojumus Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "32",
+      "title": "Strīdu ārpustiesas izskatīšana",
+      "content": "(1) Regulators kā ārpustiesas instance izskata strīdus starp sabiedrisko pakalpojumu sniedzēju un lietotāju vai starp sabiedrisko pakalpojumu sniedzējiem par to tiesībām un pienākumiem, kas izriet no šā likuma vai regulējamās nozares speciālajiem normatīvajiem aktiem (turpmāk — strīds).\n(2) Pirms vēršanās regulatorā ar iesniegumu, kurā lūgts izskatīt strīdu, tajā iesaistītās puses veic pasākumus strīda atrisināšanai izlīguma veidā.\n(3) Sabiedrisko pakalpojumu sniedzējam un lietotājam ir tiesības strīdu risināt tiesā Civilprocesa likumā noteiktajā kārtībā, nevēršoties regulatorā ar iesniegumu par strīda izskatīšanu.\n(4) Sabiedrisko pakalpojumu sniedzējs un lietotājs zaudē tiesības vērsties regulatorā, ja ir izmantojis šā panta trešajā daļā noteiktās tiesības vai kopš strīda priekšmeta rašanās dienas ir pagājuši trīs gadi.\n(5) Regulators, izskatot strīdu, piemēro šajā likumā noteikto kārtību.\n(6) Sabiedrisko pakalpojumu sniedzēja un lietotāja vai sabiedrisko pakalpojumu sniedzēju strīdu par zaudējumiem, maksājuma dokumentiem vai parāda piedziņu izskata tiesa Civilprocesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "33",
+      "title": "Iesniegums par strīda izskatīšanu",
+      "content": "(1) Lai regulators šajā likumā noteiktajā kārtībā varētu izskatīt strīdus, sabiedrisko pakalpojumu sniedzējs vai lietotājs iesniedz regulatoram rakstveida iesniegumu par strīda izskatīšanu.\n(2) Iesniegumā par strīda izskatīšanu sabiedrisko pakalpojumu sniedzējs vai lietotājs norāda šādu informāciju:\n1) iesniedzējs (fiziskajai personai — vārds, uzvārds, dzīvesvieta vai citas ziņas, kas palīdz identificēt personu; juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese);\n2) atbildētājs (fiziskajai personai — vārds, uzvārds, dzīvesvieta vai citas ziņas, kas palīdz identificēt personu; juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese);\n3) citi lietas dalībnieki vai ieinteresētās personas;\n4) strīda priekšmets un iesniedzēja prasījums;\n5) pierādījumi, kas apliecina, ka ir veikti pasākumi strīda atrisināšanai izlīguma veidā.\n(3) Iesniedzējs pievieno iesniegumam par strīda izskatīšanu rakstveida materiālus un citus pierādījumus, kas pamato strīda izcelšanos un strīda priekšmetu un pierāda strīda atrisināšanai izlīguma veidā veiktos pasākumus."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "34",
+      "title": "Pušu pārstāvība",
+      "content": "(1) Fiziskās personas savu lietu strīda izskatīšanā ved pašas vai ar pilnvarotu pārstāvju starpniecību.\n(2) Juridisko personu lietas strīda izskatīšanā ved to amatpersonas, kas darbojas likumā, statūtos vai nolikumā piešķirto pilnvaru ietvaros, vai arī citi juridisko personu pilnvaroti pārstāvji.\n(3) Strīdā iesaistītās puses strīda izskatīšanas procesā var pieaicināt advokātus juridiskās palīdzības sniegšanai.\n(4) Fizisko personu pārstāvību noformē ar notariāli apliecinātu pilnvaru. Pārstāvja pilnvarojumu pārstāvamais strīda izskatīšanas sēdē var izteikt mutvārdu paziņojumā, un par to izdarāms ieraksts strīda izskatīšanas sēdes protokolā.\n(5) Juridisko personu pārstāvību noformē ar rakstveida pilnvaru vai dokumentiem, kas apliecina amatpersonas tiesības bez īpaša pilnvarojuma pārstāvēt juridisko personu.\n(6) Advokāta pilnvarojumu juridiskās palīdzības sniegšanai apliecina orderis. Ja advokāts uzstājas kā strīdā iesaistītās puses pilnvarots pārstāvis, šo pilnvarojumu apliecina ar rakstveida pilnvaru.\n(7) Pārstāvim ir tiesības pārstāvamā vārdā izpildīt visas procesuālās darbības. Ja fiziskā persona lietu ved ar pilnvarota pārstāvja starpniecību, regulatora paziņojumi un dokumenti nosūtāmi tikai pārstāvim.\n(8) Visas procesuālās darbības, kuras pārstāvis veicis saskaņā ar viņam izdoto pilnvaru, ir saistošas pārstāvamajam.\n(9) Pārstāvamais var jebkurā laikā atsaukt pārstāvim doto pilnvarojumu, rakstveidā paziņojot par to regulatoram. Mutvārdu paziņojumu par pilnvarojuma atsaukšanu var sniegt strīda izskatīšanas sēdē, un par to izdarāms ieraksts strīda izskatīšanas sēdes protokolā.\n(10) Pārstāvim ir tiesības atteikties no lietas vešanas, par to rakstveidā paziņojot pārstāvamajam un regulatoram."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "35",
+      "title": "Iesnieguma par strīda izskatīšanu izvērtēšana",
+      "content": "(1) Regulators ne vēlāk kā 30 dienu laikā no dienas, kad saņemts iesniegums par strīda izskatīšanu, izvērtē to, tam pievienotos rakstveida materiālus un citus pierādījumus, kas pamato strīda ierosināšanu, strīda priekšmetu un pierāda veiktos pasākumus strīda atrisināšanai izlīguma veidā, un veic vienu no šādām darbībām:\n1) šā panta otrajā daļā noteiktajos gadījumos neizskata strīdu un sniedz atbildi uz iesniegumu par strīda izskatīšanu;\n2) pieņem lēmumu par strīda izskatīšanas ierosināšanu.\n(2) Regulators neizskata strīdu un saskaņā ar Iesniegumu likumu sniedz atbildi uz iesniegumu par strīda izskatīšanu, kuru paraksta regulatora priekšsēdētājs, ja konstatēta atbilstība vismaz vienam no šādiem nosacījumiem:\n1) nav pamata strīda izskatīšanas ierosināšanai saskaņā ar šo likumu vai regulējamās nozares speciālajiem normatīvajiem aktiem;\n2) iesniedzējs nav iesniedzis apliecinājumu tam, ka ir izmantotas iespējas strīdu atrisināt izlīguma veidā. Par šādu apliecinājumu var būt rakstveida sūdzība vai pretenzija, kas nosūtīta vai iesniegta atbildētājam, un tā atbilde, ja tāda ir saņemta.\n(3) Lēmumā par strīda izskatīšanas ierosināšanu regulators norāda šādu informāciju:\n1) iesniedzējs (fiziskajai personai — vārds, uzvārds, dzīvesvieta vai citas ziņas, kas palīdz identificēt personu; juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese), tā pārstāvis un pārstāvības pamats;\n2) atbildētājs (fiziskajai personai — vārds, uzvārds, dzīvesvieta vai citas ziņas, kas palīdz identificēt personu; juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese), tā pārstāvis un pārstāvības pamats;\n3) strīda priekšmets un iesniedzēja prasījums;\n4) iesniedzēja pierādījumi par veiktajiem pasākumiem strīda atrisināšanai izlīguma veidā;\n5) konstatējums, ka strīds pēc būtības ir izskatāms regulatorā;\n6) lēmuma pamatojums;\n7) piemērotās tiesību normas (normatīvā akta pants, tā daļa, punkts un apakšpunkts).\n(4) Lēmums par strīda izskatīšanas ierosināšanu stājas spēkā tā pieņemšanas dienā un nav pārsūdzams.\n(5) Regulatora lēmumu par strīda izskatīšanas ierosināšanu piecu darbdienu laikā pēc tā pieņemšanas regulators nosūta lietas dalībniekiem."
+    },
+    {
+      "provision_ref": "Art. 35.1",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "35.1",
+      "title": "35. 1 pants. Strīda izskatīšanas termiņš",
+      "content": "Regulators izvērtē strīdu pēc būtības, konstatē lēmuma pieņemšanai nepieciešamos faktus un izskata strīdu triju mēnešu laikā no dienas, kad pieņemts lēmums par strīda izskatīšanas ierosināšanu."
+    },
+    {
+      "provision_ref": "Art. 35.2",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "35.2",
+      "title": "35. 2 pants. Strīda izskatīšanas process",
+      "content": "(1) Visus lēmumus strīda izskatīšanas lietā pieņem regulatora padome šajā likumā noteiktajā kārtībā.\n(2) Strīds tiek izskatīts padomes sēdē. Strīda izskatīšanas sēdes ir atklātas. Atsevišķos gadījumos, izskatot konfidenciāla rakstura jautājumus, pēc strīdā iesaistīto pušu pamatota rakstveida lūguma strīds tiek izskatīts slēgtā sēdē.\n(3) Regulators rakstveidā, norādot sēdes norises laiku un vietu, uzaicina uz sēdi strīdā iesaistītās puses vai to pārstāvjus, lai uzklausītu paskaidrojumus un iebildumus.\n(4) Strīdā iesaistītais sabiedrisko pakalpojumu sniedzējs un lietotājs īsteno savas procesuālās tiesības sacīkstes formā. Abām strīdā iesaistītajām pusēm ir vienādas tiesības izklāstīt savu viedokli un aizstāvēt savas tiesības.\n(5) Sacīkste notiek, strīdā iesaistītajām pusēm sniedzot paskaidrojumus, iesniedzot pierādījumus, regulatoram adresētus pieteikumus, piedaloties ekspertu uzklausīšanā, citu pierādījumu pārbaudē un novērtēšanā, strīda izskatīšanas sēdē un veicot citas procesuālās darbības šajā nodaļā noteiktajā kārtībā.\n(6) Strīda izskatīšanas laikā regulators vai jebkura strīdā iesaistītā puse var pieaicināt ekspertu atzinuma sniegšanai.\n(7) Ja regulators vai kāda no strīdā iesaistītajām pusēm vēlas uzaicināt ekspertu vai veikt citas darbības, kuru mērķis ir pierādījumu iegūšana, izdevumus sedz attiecīgi regulators vai tā strīdā iesaistītā puse, kura ierosinājusi šādas darbības.\n(8) Strīds tiek izskatīts valsts valodā.\n(9) Dokumentus svešvalodās strīdā iesaistītās puses iesniedz, pievienojot noteiktā kārtībā apliecinātu tulkojumu valsts valodā.\n(10) Strīdā iesaistītās puses vai to pārstāvji, kuri neprot valsts valodu, paši nodrošina sev tulka palīdzību.\n(11) Strīda izskatīšanas sēdes protokols un regulatora pieņemtie lēmumi sagatavojami rakstveidā valsts valodā.\n(12) Regulators var izskatīt strīdu bez strīdā iesaistīto pušu vai to pārstāvju klātbūtnes sēdē, pamatojoties tikai uz iesniegtajiem rakstveida un citiem pierādījumiem, ja lietā esošie dokumenti ir pietiekami un ja strīdā iesaistītās puses vai to pārstāvji, iesniedzot rakstveida pierādījumus, pret to nav iebilduši.\n(13) Regulators var izskatīt strīdu bez strīdā iesaistīto pušu vai to pārstāvju klātbūtnes sēdē, ja strīdā iesaistītās puses vai to pārstāvji nav ieradušies uz strīda izskatīšanas sēdi.\n(14) Ja kāda no strīdā iesaistītajām pusēm vai tās pārstāvis brīdina regulatoru par neierašanos uz strīda izskatīšanas sēdi, regulators, ņemot vērā strīdā iesaistītās puses vai tās pārstāvja sniegto informāciju par neierašanās iemesliem, var atlikt strīda izskatīšanu.\n(15) Regulators strīda izskatīšanas laikā, pirms tiek pieņemts lēmums par strīda izskatīšanu, piedāvā strīdā iesaistītajām pusēm vienoties par izlīgumu.\n(16) Regulators strīda izskatīšanas procesu izbeidz, ja iesniedzējs atsauc iesniegumu par strīda izskatīšanu."
+    },
+    {
+      "provision_ref": "Art. 35.3",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "35.3",
+      "title": "35. 3 pants. Izlīgums",
+      "content": "(1) Ja strīda izskatīšanas laikā strīdā iesaistītās puses vienojas par izlīgumu, regulators strīda izskatīšanas procesu izbeidz.\n(2) (Izslēgta ar 13.02.2020 . likumu)\n(3) (Izslēgta ar 13.02.2020 . likumu)\n(4) Ja regulators ir izbeidzis strīda izskatīšanas procesu saskaņā ar šā panta pirmo daļu, strīdā iesaistītajām pusēm nav tiesību no jauna iesniegt regulatoram iesniegumu par strīda izskatīšanu attiecībā uz to pašu priekšmetu uz tā paša pamata."
+    },
+    {
+      "provision_ref": "Art. 35.4",
+      "chapter": "VII nodaļa Strīdu izskatīšana (Nodaļa 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. Nodaļas jaunā redakcija stājas spēkā 30.09.2011. Sk. pārejas noteikumu 26.punktu)",
+      "section": "35.4",
+      "title": "35. 4 pants. Lēmums par strīda izskatīšanu",
+      "content": "(1) Regulators lietā par strīda izskatīšanu pieņem lēmumu un nosaka tā izpildes kārtību un termiņus.\n(2) Lēmumu par strīda izskatīšanu regulators piecu darbdienu laikā pēc tā pieņemšanas nosūta strīdā iesaistītajām pusēm.\n(3) Lēmumā par strīda izskatīšanu regulators norāda šādu informāciju:\n1) regulatora nosaukums un adrese;\n2) iesniedzējs (fiziskajai personai — vārds, uzvārds, dzīvesvieta vai citas ziņas, kas palīdz identificēt personu; juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese), tā pārstāvis un pārstāvības pamats;\n3) atbildētājs (fiziskajai personai — vārds, uzvārds, dzīvesvieta vai citas ziņas, kas palīdz identificēt personu; juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese), tā pārstāvis un pārstāvības pamats;\n4) iesniedzēja prasījums;\n5) strīdā iesaistīto pušu viedokļi, argumenti, ja tādi ir izteikti, pierādījumi;\n6) ekspertu atzinumi, ja tādi ir;\n7) faktu konstatējums, kas nodibināts ar pierādījumiem, izskatot strīdu;\n8) lēmuma pamatojums;\n9) piemērotās tiesību normas (normatīvā akta pants, tā daļa, punkts un apakšpunkts);\n10) regulatora nolēmums, kas ietver adresātam uzlikto tiesisko pienākumu, nolēmuma izpildes kārtību un termiņu un lēmuma spēkā stāšanās kārtību;\n11) kur, kādā termiņā un kādā kārtībā lietas dalībnieks ir tiesīgs vērsties tiesā.\n(4) Ja strīdā iesaistītā puse nav apmierināta ar regulatora lēmumu par strīda izskatīšanu, tā ar prasības pieteikumu par strīda priekšmetu ir tiesīga vērsties tiesā vai šķīrējtiesā Civilprocesa likumā noteiktajā kārtībā 30 dienu laikā no dienas, kad pieņemts lēmums par strīda izskatīšanu, un tiesa vai šķīrējtiesa šādu strīdu izskata pēc būtības.\n(5) Ja strīdā iesaistītā puse nav apmierināta ar regulatora lēmumu par strīda izskatīšanu un šā panta ceturtajā daļā minētajā termiņā Civilprocesa likumā noteiktajā kārtībā ir vērsusies šķīrējtiesā, bet šķīrējtiesa pieņēmusi lēmumu par procesa izbeigšanu vai atzīst, ka strīds nav pakļauts šķīrējtiesai, strīdā iesaistītā puse, kura nav apmierināta ar regulatora lēmumu, ir tiesīga vērsties tiesā Civilprocesa likumā noteiktajā kārtībā 30 dienu laikā no šķīrējtiesas lēmuma spēkā stāšanās dienas.\n(6) Regulatora lēmums par strīda izskatīšanu stājas likumīgā spēkā dienā, kad:\n1) beidzas šā panta ceturtajā un piektajā daļā minētais termiņš, ja neviena strīdā iesaistītā puse par strīda priekšmetu nav iesniegusi attiecīgu prasības pieteikumu tiesā vai šķīrējtiesā;\n2) beidzas šā panta ceturtajā un piektajā daļā minētais termiņš, ja par strīda priekšmetu šajā termiņā iesniegts attiecīgs prasības pieteikums, bet stājies spēkā lēmums par atteikšanos pieņemt prasības pieteikumu;\n3) beidzas šā panta ceturtajā un piektajā daļā minētais termiņš, ja par strīda priekšmetu šajā termiņā iesniegts attiecīgs prasības pieteikums, bet ir stājies spēkā lēmums par prasības pieteikuma uzskatīšanu par neiesniegtu un atdošanu prasītājam;\n4) stājies spēkā tiesas lēmums, ar kuru prasība atstāta bez izskatīšanas, izņemot gadījumu, kad prasība atstāta bez izskatīšanas, jo strīds prasības lietā starp tām pašām strīdā iesaistītajām pusēm, par to pašu priekšmetu un uz tā paša pamata atrodas tās pašas vai citas tiesas izskatīšanā;\n5) stājies spēkā tiesas lēmums, ar kuru izbeigta tiesvedība, izņemot gadījumu, kad tiesvedība izbeigta, jo likumīgā spēkā stājies tiesas spriedums, kas taisīts strīdā starp tām pašām strīdā iesaistītajām pusēm, par to pašu priekšmetu un uz tā paša pamata, puses noslēgušas izlīgumu un tiesa to apstiprinājusi vai puses likumā noteiktajā kārtībā vienojušās par strīda nodošanu izskatīšanai šķīrējtiesā;\n6) stājies spēkā šķīrējtiesas lēmums par šķīrējtiesas procesa izbeigšanu, jo prasītājs atsaucis savu prasību un atbildētājs neiebilst pret to vai puses vienojas par strīda izbeigšanu izlīguma veidā.\n(7) Ja strīdā iesaistītā puse iesniedz prasības pieteikumu tiesā vai šķīrējtiesā šā panta ceturtajā daļā noteiktajā kārtībā par strīda priekšmetu, kas skar daļu regulatora lēmuma, regulatora lēmums daļā, par kuru nav iesniegts prasības pieteikums tiesā vai šķīrējtiesā, stājas spēkā, kad beidzies šā panta ceturtajā daļā noteiktais termiņš.\n(8) Strīdā iesaistītā puse, kā arī tās tiesību pārņēmējs pēc tam, kad regulatora lēmums par strīda izskatīšanu stājies likumīgā spēkā, nav tiesīgs no jauna iesniegt regulatoram iesniegumu par strīda izskatīšanu par to pašu priekšmetu uz tā paša pamata.\n(9) Regulatora lēmums par strīda izskatīšanu, kas stājies likumīgā spēkā, ir obligāts strīdā iesaistītajām pusēm.\n(10) Fakti, kas nodibināti ar likumīgā spēkā stājušos regulatora lēmumu par strīda izskatīšanu vienā lietā, strīdā iesaistītajām pusēm nav no jauna jāpierāda, kad regulatorā tiek izskatīta cita lieta par cita strīda izskatīšanu, kurā piedalās tās pašas strīdā iesaistītās puses.\n(11) Regulatora lēmuma par strīda izskatīšanu izpilde tiek nodrošināta lēmumā noteiktajā apjomā un termiņos.\n(12) Ja regulatora lēmums par strīda izskatīšanu netiek izpildīts labprātīgi, ieinteresētā strīdā iesaistītā puse ir tiesīga vērsties tiesā ar pieteikumu par izpildu raksta izsniegšanu regulatora lēmuma par strīda izskatīšanu piespiedu izpildei."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "36",
+      "title": "Regulatora sastāvs",
+      "content": "(1) Regulatora sastāvā ir padome, kurā ietilpst šajā likumā noteiktajā kārtībā ieceltais priekšsēdētājs un četri locekļi, un izpildinstitūcija, kas ir pakļauta padomei un pilda tās sekretariāta un ekspertu funkcijas, lai sagatavotu jautājumus un dokumentus izskatīšanai padomes sēdē un īstenotu padomes pieņemto lēmumu un izdoto administratīvo aktu izpildi.\n(2) (Izslēgta ar 25.02.2016 . likumu)\n(3) (Izslēgta ar 25.02.2016 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "37",
+      "title": "Padomes locekļu kandidāti",
+      "content": "Par padomes locekli var iecelt Latvijas pilsoni, kuram ir atbilstoša augstākā izglītība, kura zināšanas un pieredze nodrošina šajā likumā noteikto uzdevumu izpildi un kurš atbilst likuma “Par valsts noslēpumu” prasībām, kas jāizpilda, lai saņemtu speciālo atļauju pieejai valsts noslēpumam."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "38",
+      "title": "Ierobežojumi padomes locekļiem un to kandidātiem",
+      "content": "(1) Par padomes locekli vai šā amata kandidātu nevar būt personas:\n1) kuras ir vai ir bijušas ar Latvijas Republikas likumiem, Augstākās padomes lēmumiem vai tiesas nolēmumiem aizliegto organizāciju dalībnieki (biedri) pēc šo organizāciju aizliegšanas;\n2) kuras sodītas par tīšu noziedzīga nodarījuma izdarīšanu;\n3) kuras agrāk izdarījušas noziegumu, bet no soda izciešanas atbrīvotas sakarā ar noilgumu, amnestiju vai apžēlošanu;\n4) pret kurām uzsākta kriminālvajāšana par tīšu noziedzīgu nodarījumu;\n5) kuras atzītas par neatbilstošām likuma “Par valsts noslēpumu” prasībām, kas jāizpilda, lai saņemtu speciālo atļauju pieejai valsts noslēpumam.\n(2) Padomes locekļa komercdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus, ciktāl tie nav noteikti šajā likumā, nosaka likums \" Par interešu konflikta novēršanu valsts amatpersonu darbībā \".\n(3) Padomes loceklis nevar būt Saeimas vai pašvaldības domes deputāts vai ieņemt vēlētus amatus politisko organizāciju vai partiju vadībā.\n(4) Pēc pilnvaru termiņa beigām padomes locekļa komercdarbības, ienākumu gūšanas, amatu savienošanas, darbu pildīšanas ierobežojumus, kā arī ar tiem saistītos citus ierobežojumus un pienākumus nosaka likums \" Par interešu konflikta novēršanu valsts amatpersonu darbībā \"."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "39",
+      "title": "Padomes locekļa stāšanās amatā",
+      "content": "Padomes loceklis stājas amatā un sāk pildīt savus amata pienākumus ar dienu, kura noteikta, ieceļot viņu amatā. Padomes loceklim pēc viņa iecelšanas amatā līdz dienai, kad viņš sāk pildīt savus amata pienākumus, jānovērš visi likumā attiecībā uz viņu noteiktie ierobežojumi."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "40",
+      "title": "Padomes locekļa atlaišana vai atbrīvošana no amata",
+      "content": "(1) Padomes loceklis savā pilnvaru termiņā ir neatceļams, un viņu var atcelt no amata vienīgi šajā pantā noteiktajos gadījumos.\n(2) Saeima pēc Ministru kabineta priekšlikuma padomes locekli atceļ no amata pirms viņa pilnvaru termiņa beigām vienīgi šādos gadījumos:\n1) ir saņemts attiecīgās personas iesniegums par atkāpšanos no amata;\n2) attiecīgā persona vairāk nekā sešus mēnešus pēc kārtas slimības vai citu iemeslu dēļ nespēj pildīt savus amata pienākumus;\n3) ir atklājies vai iestājies kāds no šā likuma 38.pantā noteiktajiem ierobežojumiem.\n(3) Padomes loceklim sniedz pamatojumu viņa atcelšanai no amata, un pēc padomes locekļa lūguma tas tiek publicēts oficiālajā izdevumā \"Latvijas Vēstnesis\"."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "41",
+      "title": "Padomes priekšsēdētājs",
+      "content": "(1) Padomes priekšsēdētājs ir arī padomes loceklis un ir atbildīgs par likumā noteikto regulatora funkciju izpildi.\n(2) Priekšsēdētājs:\n1) vada un organizē regulatora darbu un pārstāv regulatoru;\n2) vada padomes sēdes;\n3) ir regulatora finanšu līdzekļu rīkotājs un reizi ceturksnī sniedz padomei informāciju par budžeta izpildi;\n4) dod tiešus rīkojumus izpildinstitūcijas darbiniekiem.\n(3) Priekšsēdētāja prombūtnes laikā viņa pienākumus pilda priekšsēdētāja norīkots padomes loceklis, bet, ja šāda norīkojuma nav, iepriekšējais priekšsēdētāja norīkotais padomes loceklis.\n(4) Atsevišķus priekšsēdētāja pienākumus var pildīt viņa norīkots padomes loceklis.\n(5) Priekšsēdētājam ir tiesības dot rīkojumus padomes locekļiem tikai ar amata pienākumu pildīšanu saistītos organizatoriskos jautājumos."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "42",
+      "title": "Padomes sēdes sasaukšana un tiesīgums",
+      "content": "(1) Padomes sēdes sasauc un vada priekšsēdētājs.\n(2) Priekšsēdētājs sasauc padomes sēdi, ja to pieprasa vismaz trīs padomes locekļi.\n(3) Padome ir tiesīga pieņemt lēmumus, ja sēdē piedalās ne mazāk kā trīs tās locekļi.\n(4) Padomes sēdes laiks un darba kārtība izziņojama padomes noteiktajā kārtībā.\n(5) Darba kārtībai pievienojamas padomes sēdē izskatāmo jautājumu dokumentu kopijas.\n(6) Padomes sēdes tiek protokolētas rakstveidā. Sēdes protokolu paraksta visi padomes locekļi, kas piedalījušies sēdē."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "43",
+      "title": "Padomes lēmumu pieņemšana",
+      "content": "(1) Padome pieņem lēmumus balsojot, un lēmumus paraksta priekšsēdētājs.\n(2) Lēmums ir pieņemts, ja par to nobalso vismaz trīs padomes locekļi.\n(3) Balsošana notiek atklāti, un balsošanas rezultātus ieraksta protokolā, norādot katra padomes locekļa balsojumu atsevišķi par katru sēdē izskatīto jautājumu ar atzīmi \"par\" vai \"pret\".\n(4) Padomes locekļi, parakstot sēdes protokolu, var tajā ierakstīt savu viedokli par izskatāmo jautājumu vai izdarīt atzīmi par sava viedokļa rakstveida pamatojuma pievienošanu protokolam."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "44",
+      "title": "Regulatora darba organizācija un struktūra",
+      "content": "(1) Padome nosaka regulatora iekšējās darba organizācijas kārtību un izpildinstitūcijas struktūru.\n(2) Padome apstiprina nolikumu, kurā reglamentē regulatora darbību, izpildinstitūcijas darba organizāciju un struktūrvienību vadītāju iecelšanas kārtību, nosaka padomes sēdē izskatīšanai paredzēto lēmumu projektu un citu dokumentu sagatavošanas kārtību.\n(3) (Izslēgta ar 02.12.2004 . likumu.)\n(4) Padomes loceklim var būt konsultatīvais darbinieks (turpmāk — padomnieks). Darba līgumu ar padomnieku regulators slēdz uz attiecīgā padomes locekļa pilnvaru laiku. Pēc šā padomes locekļa priekšlikuma regulators var uzteikt darba līgumu ar padomnieku jebkurā laikā, nenorādot uzteikuma iemeslus. Pēc darba līguma izbeigšanās padomniekam ir tiesības saņemt pabalstu vienas mēnešalgas apmērā. Tas neattiecas uz gadījumiem, kad padomnieks turpina darbu regulatorā citā amatā."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "45",
+      "title": "Informācijas sniegšanas ierobežojumi",
+      "content": "(1) Priekšsēdētājam, padomes locekļiem un izpildinstitūcijas darbiniekiem, kā arī regulatora darbībā pieaicinātajām personām ir aizliegts publiski vai citā veidā izpaust ziņas vai citu ar regulatora funkciju izpildi saistītu ierobežotas pieejamības informāciju, kura tām, pildot dienesta pienākumus vai citādi, kļuvusi zināma par sabiedrisko pakalpojumu sniedzēju darbību vai to komercdarbību kopumā, izņemot normatīvajos aktos īpaši noteiktus gadījumus.\n(2) Padomes locekļi un izpildinstitūcijas darbinieki, kā arī regulatora darbībā pieaicinātās personas ir tiesīgas izpaust informāciju, kura tām, pildot dienesta pienākumus, kļuvusi zināma par sabiedrisko pakalpojumu sniedzēju darbību vai to komercdarbību kopumā, ja šī informācija saskaņā ar Informācijas atklātības likumu ir atklāta.\n(3) Regulators no sabiedrisko pakalpojumu sniedzēja saņemtajai informācijai vai kādai tās daļai nosaka ierobežotas pieejamības statusu, ja sabiedrisko pakalpojumu sniedzējs precīzi norāda attiecīgos dokumentus un pamato šāda statusa noteikšanu.\n(4) Ja sabiedrisko pakalpojumu sniedzējs nav izpildījis šā panta trešās daļas prasības vai ierosinājums konkrētajai informācijai noteikt ierobežotas pieejamības statusu nav pamatots, regulators par to paziņo sabiedrisko pakalpojumu sniedzējam.\n(5) Ja sabiedrisko pakalpojumu sniedzējs septiņu dienu laikā no dienas, kad saņemts regulatora paziņojums, nenovērš šā panta ceturtajā daļā minētajā paziņojumā norādītos trūkumus, regulators var atteikties sabiedrisko pakalpojumu sniedzēja iesniegtajai informācijai noteikt ierobežotas pieejamības statusu, paziņojot par to sabiedrisko pakalpojumu sniedzējam.\n(6) Regulators var pieprasīt, lai sabiedrisko pakalpojumu sniedzējs, no kura saņemtajai informācijai nepieciešams noteikt ierobežotas pieejamības statusu, iesniedz vispārēju pārskatu, kurā ierobežotas pieejamības informācija nav ietverta."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "46",
+      "title": "Padomes locekļu un izpildinstitūcijas darbinieku atlīdzība",
+      "content": "Padomes locekļu un izpildinstitūcijas darbinieku atlīdzību nosaka atbilstoši Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumam."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VIII nodaļa Regulatora sastāvs un darbība",
+      "section": "47",
+      "title": "Padomes locekļu un izpildinstitūcijas darbinieku tiesiskā aizsardzība un dienesta apliecības",
+      "content": "(1) Par padomes locekļu vai izpildinstitūcijas darbinieku ietekmēšanu vai kavēšanu realizēt viņiem likumā noteiktās tiesības, par viņu goda un cieņas aizskaršanu, kā arī pret viņiem vērstiem draudiem vai vardarbību vai viņu dzīvības apdraudējumu sakarā ar dienesta pienākumu izpildi vainīgās personas tiek sauktas pie atbildības likumā noteiktajā kārtībā.\n(2) Padomes locekļiem un izpildinstitūcijas darbiniekiem ir dienesta apliecības, kas jāuzrāda, pildot dienesta pienākumus."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "48",
+      "title": "Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā",
+      "content": "(1) Par regulējamo sabiedrisko pakalpojumu sniegšanu bez sabiedrisko pakalpojumu licences, reģistrācijas vai reģistrācijas paziņojuma nosūtīšanas piemēro brīdinājumu vai naudas sodu fiziskajai personai vai valdes loceklim no četrpadsmit līdz četrsimt naudas soda vienībām, atņemot valdes loceklim tiesības uz laiku līdz pieciem gadiem ieņemt noteiktus amatus vai bez tā.\n(2) Par regulējamo sabiedrisko pakalpojumu licences nosacījumu vai vispārējās atļaujas noteikumu pārkāpšanu piemēro brīdinājumu vai naudas sodu juridiskajai personai no piecdesmit sešām līdz četrtūkstoš naudas soda vienībām.\n(3) Par regulējamo sabiedrisko pakalpojumu licences nosacījumu vai vispārējās atļaujas noteikumu pārkāpšanu, ja pārkāpums ietekmējis lietotāju tiesības saņemt regulētus sabiedriskos pakalpojumus, piemēro naudas sodu juridiskajai personai līdz 10 procentiem no tās iepriekšējā pārskata gada neto apgrozījuma attiecīgajā regulējamā nozarē.\n(4) Par pienākuma vai prasību neizpildi attiecībā uz tarifa vai depozīta sistēmas dalības maksas piemērošanu vai tarifu projekta vai depozīta sistēmas dalības maksas projekta iesniegšanu regulatoram piemēro brīdinājumu vai naudas sodu juridiskajai personai no piecdesmit sešām līdz četrtūkstoš naudas soda vienībām.\n(5) Par pienākuma vai prasību neizpildi attiecībā uz tarifa piemērošanu vai tarifu projekta iesniegšanu regulatoram, ja pārkāpums ietekmējis lietotāju tiesības saņemt regulētus sabiedriskos pakalpojumus, piemēro naudas sodu juridiskajai personai līdz 10 procentiem no tās iepriekšējā pārskata gada neto apgrozījuma attiecīgajā regulējamā nozarē.\n(6) Par atsevišķas grāmatvedības uzskaites nekārtošanu katram regulējamā sabiedriskā pakalpojuma veidam piemēro brīdinājumu vai naudas sodu juridiskajai personai no piecdesmit sešām līdz četrtūkstoš naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "49",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "(1) Administratīvā pārkāpuma procesu atbilstoši šā panta otrajā daļā noteiktajai kompetencei par šā likuma 48. pantā minētajiem pārkāpumiem veic regulators.\n(2) Siltumapgādē, sadzīves atkritumu apglabāšanas, ūdenssaimniecības un depozīta iepakojuma apsaimniekošanas jomā regulators piemēro administratīvo sodu par šā likuma 48. pantā minētajiem administratīvajiem pārkāpumiem. Elektronisko sakaru un pasta jomā regulators piemēro administratīvo sodu par šā likuma 48. panta pirmajā un sestajā daļā minētajiem administratīvajiem pārkāpumiem."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2001.gada 1.jūlijam:",
+      "content": "1) nosaka sabiedrisko pakalpojumu veidus, kurus nepieciešams regulēt valsts regulējamās nozarēs;\n2) iesniedz Saeimai priekšlikumus par Sabiedrisko pakalpojumu regulēšanas komisijas padomes locekļu amata pretendentiem šā likuma 7.pantā noteiktajā kārtībā;\n3) izdod šajā likumā paredzētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn2",
+      "title": "2. Sabiedrisko pakalpojumu regulēšanas komisija uzsāk darbību 2001.gada 1.septembrī un līdz 2001.gada 1.oktobrim pārņem no Energoapgādes regulēšanas padomes, Dzelzceļa administrācijas un Satiksmes ministrijas sabiedrisko pakalpojumu regulēšanas funkcijas attiecīgajās valsts regulējamās nozarēs.",
+      "content": "2. Sabiedrisko pakalpojumu regulēšanas komisija uzsāk darbību 2001.gada 1.septembrī un līdz 2001.gada 1.oktobrim pārņem no Energoapgādes regulēšanas padomes, Dzelzceļa administrācijas un Satiksmes ministrijas sabiedrisko pakalpojumu regulēšanas funkcijas attiecīgajās valsts regulējamās nozarēs."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn3",
+      "title": "3. Sabiedrisko pakalpojumu regulēšanas komisija līdz 2001.gada 1.oktobrim pārņem no Telekomunikāciju tarifu padomes telekomunikāciju regulēšanu un ir tās saistību pārņēmēja attiecībās ar SIA \"Lattelekom\". Sabiedrisko pakalpojumu regulēšanas komisija regulē telekomunikācijas saskaņā ar 1993.gada 4.maijā pieņemto likumu \"Par telekomunikācijām\" līdz brīdim, kad minētais likums zaudē spēku.",
+      "content": "3. Sabiedrisko pakalpojumu regulēšanas komisija līdz 2001.gada 1.oktobrim pārņem no Telekomunikāciju tarifu padomes telekomunikāciju regulēšanu un ir tās saistību pārņēmēja attiecībās ar SIA \"Lattelekom\". Sabiedrisko pakalpojumu regulēšanas komisija regulē telekomunikācijas saskaņā ar 1993.gada 4.maijā pieņemto likumu \"Par telekomunikācijām\" līdz brīdim, kad minētais likums zaudē spēku."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn4",
+      "title": "4. Pašvaldības līdz 2002.gada 1.jūnijam nodrošina pašvaldību regulatoru izveidošanu vai līguma noslēgšanu ar komisiju par sabiedrisko pakalpojumu regulēšanu attiecīgās pašvaldības administratīvajā teritorijā. Līdz pašvaldības regulatora izveidošanai vai līguma noslēgšanai pašvaldības regulatora funkcijas, izņemot šā likuma 9.panta pirmās daļas 5.punktā noteikto funkciju, pilda attiecīgās pašvaldības dome (padome).",
+      "content": "( 27.09.2001 . likuma redakcijā, kas stājas spēkā 19.10.2001. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn5",
+      "title": "5. Licences, kuras izsniegusi cita institūcija vai iestāde pirms šā likuma stāšanās spēkā, paliek spēkā līdz attiecīgās licences termiņa beigām.",
+      "content": "5. Licences, kuras izsniegusi cita institūcija vai iestāde pirms šā likuma stāšanās spēkā, paliek spēkā līdz attiecīgās licences termiņa beigām."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn6",
+      "title": "6. Tie tarifi, kuri saskaņā ar šo likumu pielīdzināmi sabiedrisko pakalpojumu tarifiem, bet noteikti saskaņā ar citiem normatīvajiem aktiem un ir spēkā dienā, kad stājas spēkā šis likums, paliek spēkā līdz tiem noteiktā termiņa beigām vai līdz brīdim, kad stājas spēkā saskaņā ar šo likumu noteiktie sabiedrisko pakalpojumu tarifi.",
+      "content": "6. Tie tarifi, kuri saskaņā ar šo likumu pielīdzināmi sabiedrisko pakalpojumu tarifiem, bet noteikti saskaņā ar citiem normatīvajiem aktiem un ir spēkā dienā, kad stājas spēkā šis likums, paliek spēkā līdz tiem noteiktā termiņa beigām vai līdz brīdim, kad stājas spēkā saskaņā ar šo likumu noteiktie sabiedrisko pakalpojumu tarifi."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn7",
+      "title": "7. Šā likuma 10.panta ceturtā daļa stājas spēkā pēc tam, kad izdarīti attiecīgi grozījumi Administratīvo pārkāpumu kodeksā.",
+      "content": "7. Šā likuma 10.panta ceturtā daļa stājas spēkā pēc tam, kad izdarīti attiecīgi grozījumi Administratīvo pārkāpumu kodeksā."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn8",
+      "title": "8. Šā likuma 2.panta trešās daļas 1.punkta jaunā redakcija (par pašvaldības regulatora tiesībām regulēt sadzīves atkritumu apglabāšanu atkritumu poligonos un izgāztuvēs) stājas spēkā 2007.gada 1.janvārī.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn9",
+      "title": "9. (Izslēgts ar 14.07.2011 . likumu, kas stājas spēkā 11.08.2011. )",
+      "content": "9. (Izslēgts ar 14.07.2011 . likumu, kas stājas spēkā 11.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn10",
+      "title": "10. Ja par pašvaldības regulatora izdoto administratīvo aktu par tarifa apstiprināšanu ir iesniegts pieteikums tiesā un tādēļ šā akta darbība apturēta saskaņā ar Administratīvā procesa likuma 185.panta pirmo daļu, attiecīgā akta darbība atjaunojas ar 2006.gada 1.decembri. Pēc 2006.gada 1.decembra šā administratīvā akta darbību likumā noteiktajā kārtībā var lūgt apturēt.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn11",
+      "title": "11. Saskaņā ar šo likumu noteikto atlīdzību (atalgojumu, prēmijas u.c.) 2009.gadā nosaka atbilstoši likumam “Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā”.",
+      "content": "( 12.12.2008 . likuma redakcijā, kas stājas spēkā 01.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn12",
+      "title": "12. Sabiedrisko pakalpojumu regulēšanas komisija līdz 2009.gada 1.novembrim pārņem no pašvaldību regulatoriem vai pašvaldību domēm (padomēm) regulēšanas funkcijas attiecīgajās pašvaldību regulējamās nozarēs.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn13",
+      "title": "13. Pašvaldības regulatora priekšsēdētāja pilnvaras ir spēkā līdz 2009.gada 31.decembrim, bet padomes locekļu pilnvaras — līdz 2009.gada 31.oktobrim neatkarīgi no pilnvarās noteiktā beigu termiņa. Pašvaldību regulatoru priekšsēdētāji ar sabiedrisko pakalpojumu regulēšanu saistītās lietas nodod Sabiedrisko pakalpojumu regulēšanas komisijai līdz 2009.gada 31.oktobrim.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn14",
+      "title": "14. Līdz dienai, kad stājas spēkā Sabiedrisko pakalpojumu regulēšanas komisijas izdotās metodikas enerģētikas, sadzīves atkritumu apsaimniekošanas un ūdenssaimniecības nozarēs, tiek piemēroti Ministru kabineta 2001.gada 26.jūnija noteikumi Nr.281 “ Sabiedrisko pakalpojumu tarifu aprēķināšanas metodika pašvaldību regulējamās nozarēs ”.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn15",
+      "title": "15. Licences, kuras pašvaldības regulators izsniedzis pirms tam, kad stājas spēkā likuma grozījumi par pašvaldību regulatoru likvidāciju, ir spēkā līdz to termiņa beigām.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn16",
+      "title": "16. (Izslēgts ar 14.07.2011 . likumu, kas stājas spēkā 11.08.2011. )",
+      "content": "16. (Izslēgts ar 14.07.2011 . likumu, kas stājas spēkā 11.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn17",
+      "title": "17. Ja pieteikums Administratīvajai rajona tiesai iesniegts par regulatora administratīvo aktu, kas izdots līdz 2009.gada 31.oktobrim, lēmumu par iesniegto pieteikumu pieņem, kā arī ierosināto administratīvo lietu izskata un tiesas nolēmumu šajā lietā pieņem un pārsūdz saskaņā ar Administratīvā procesa likumu .",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn18",
+      "title": "18. Grozījums šā likuma 37.pantā un 38.panta pirmās daļas 5.punkts, kas izvirza prasības un nosaka ierobežojumus padomes locekļiem un to kandidātiem saistībā ar atbilstību likumam “Par valsts noslēpumu”, neattiecas uz tiem padomes locekļiem, kuri iecelti amatā pirms attiecīgo grozījumu stāšanās spēkā.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn19",
+      "title": "19. Pašvaldības dome (padome) vai novada dome, kas ir attiecīgās pašvaldības domes (padomes), pašvaldības institūciju, finanšu, mantas un saistību pārņēmēja, līdz 2009.gada 31.decembrim, izveidojot pašvaldības regulatora likvidācijas komisiju, normatīvajos aktos noteiktajā kārtībā likvidē pašvaldības regulatoru, kas regulē sabiedrisko pakalpojumu sniegšanu attiecīgās pašvaldības administratīvajā teritorijā.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn20",
+      "title": "20. Ja pašvaldības regulatoru ir izveidojušas vairākas pašvaldības, pašvaldību domes (padomes) vai novadu domes, kas ir attiecīgo pašvaldību domju (padomju), pašvaldību institūciju, finanšu, mantas un saistību pārņēmējas, pirms pašvaldības regulatora likvidēšanas vienojas par tās nosacījumiem.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn21",
+      "title": "21. Pašvaldības regulatora likvidācijas komisija līdz 2009.gada 31.decembrim nodrošina to, ka auditēts attiecīgā pašvaldības regulatora 2009.gada pārskats un iestādes darbības slēguma bilance pēc stāvokļa 2009.gada 31.oktobrī tiek sagatavoti un iesniegti attiecīgajai pašvaldības domei (padomei). Pašvaldības regulatora priekšsēdētājs un galvenais grāmatvedis ir pilnvaroti parakstīt auditētu attiecīgā pašvaldības regulatora 2009.gada pārskatu un iestādes darbības slēguma bilanci līdz 2009.gada 31.decembrim.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn22",
+      "title": "22. Pašvaldības regulatora likvidācijas komisijas darbību finansē no attiecīgā pašvaldības regulatora budžeta. 2009.gada valsts nodeva par sabiedrisko pakalpojumu regulēšanu pašvaldību regulējamās nozarēs iemaksājama pilnā apmērā attiecīgās pašvaldības budžetā un tiek ieskaitīta pašvaldības regulatora kontā.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn23",
+      "title": "23. Ministru kabinets atbilstoši šā likuma 9.panta pirmās daļas 10. un 11.punktā noteiktajam līdz 2009.gada 1.septembrim iesniedz Saeimai attiecīgus grozījumus Enerģētikas likumā un likumā “Par hidroelektrostaciju hidrotehnisko būvju drošumu”.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn24",
+      "title": "24. Šā likuma 9.panta pirmās daļas 10. un 11.punkta izslēgums stājas spēkā 2012.gada 1.jūlijā.",
+      "content": "( 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn25",
+      "title": "25. Strīdus, kuru izskatīšana regulatorā ierosināta līdz brīdim, kad stājas spēkā grozījumi šā likuma 32. — 35.pantā , regulators izskata un pieņem lēmumu lietā par strīda izšķiršanu šajā likumā noteiktajā kārtībā, kāda bija spēkā līdz brīdim, kad stājas spēkā grozījumi šā likuma 32. — 35.pantā . Regulatora lēmumu lietā par strīda izšķiršanu, kas ierosināta līdz brīdim, kad stājas spēkā grozījumi šā likuma 32. — 35.pantā , var pārsūdzēt Administratīvajā apgabaltiesā. Administratīvā apgabaltiesa lietu izskata kā pirmās instances tiesa triju tiesnešu sastāvā. Tiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību.",
+      "content": "( 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn26",
+      "title": "26. Šā likuma VII nodaļas “Strīdu izskatīšana” jaunā redakcija stājas spēkā vienlaikus ar attiecīgajiem grozījumiem Civilprocesa likumā .",
+      "content": "( 14.07.2011 . likuma redakcijā, kas stājas spēkā 11.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn27",
+      "title": "27. Ja līdz 2018. gada 1. janvārim samaksātā valsts nodeva pārsniedz regulatora darbības nodrošināšanai 2017. gadā nepieciešamās izmaksas, summu, kas pārsniedz regulatora darbības nodrošināšanai nepieciešamās izmaksas, 2018. gadā ieskaita šā likuma 31. panta septītajā daļā minētajos uzkrājumos un izmanto regulatora darbības nodrošināšanai nākamajos periodos saskaņā ar likumā par valsts budžetu apstiprināto regulatora budžetu.",
+      "content": "( 22.11.2017 . likuma redakcijā, kas stājas spēkā 01.01.2018. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn28",
+      "title": "28. Šā likuma grozījumi par 7. panta trešās daļas papildināšanu, 10. panta ceturtās daļas un 18. 1 panta septītās daļas 4. punkta izslēgšanu, kā arī IX nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn29",
+      "title": "29. Šā likuma 2. panta otrās daļas 7. punkts stājas spēkā 2020. gada 1. jūlijā.",
+      "content": "( 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn30",
+      "title": "30. Ministru kabinets līdz 2020. gada 31. martam izdod grozījumus Ministru kabineta 2009. gada 27. oktobra noteikumos Nr. 1227 \" Noteikumi par regulējamiem sabiedrisko pakalpojumu veidiem \", nosakot pakalpojuma veidu, kuru nepieciešams regulēt depozīta iepakojuma apsaimniekošanas nozarē.",
+      "content": "( 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn31",
+      "title": "31. Lai ieviestu priekšsēdētāja un padomes locekļu atbilstīgu rotāciju:",
+      "content": "1) 2016. gadā ar Saeimas lēmumu ieceltā priekšsēdētāja un padomes locekļu pilnvaras neatkarīgi no pilnvarojumā noteiktā amata pilnvaru termiņa ir spēkā līdz 2021. gada 1. jūlijam;\n2) Saeima 2021. gadā pēc Ministru kabineta priekšlikuma ieceļ amatā:\na) priekšsēdētāju — uz septiņiem gadiem,\nb) divus padomes locekļus — uz sešiem gadiem,\nc) divus padomes locekļus — uz pieciem gadiem."
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi regulējamo sabiedrisko pakalpojumu sniegšanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 30.01.2020 . likuma redakcijā, kas stājas spēkā 25.02.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 28. punktu)",
+      "section": "pn32",
+      "title": "32. Ministru kabinets līdz 2020. gada 1. jūlijam izdod šā likuma 7. panta 4. 2 daļā paredzētos noteikumus. Līdz to spēkā stāšanās dienai piemērojami Ministru kabineta 2001. gada 6. februāra noteikumi Nr. 59 \" Sabiedrisko pakalpojumu regulēšanas komisijas amatpersonu kandidātu konkursa nolikums \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "1) Eiropas Parlamenta un Padomes 2009.gada 13.jūlija direktīvas 2009/72/EK par kopīgiem noteikumiem attiecībā uz elektroenerģijas iekšējo tirgu un par direktīvas 2003/54/EK atcelšanu (Dokuments attiecas uz EEZ);\n2) Eiropas Parlamenta un Padomes 2009.gada 13.jūlija direktīvas 2009/73/EK par kopīgiem noteikumiem attiecībā uz dabasgāzes iekšējo tirgu un par direktīvas 2003/55/EK atcelšanu (Dokuments attiecas uz EEZ);\n3) Eiropas Parlamenta un Padomes 2009.gada 25.novembra direktīvas 2009/136/EK , ar ko groza direktīvu 2002/22/EK par universālo pakalpojumu un lietotāju tiesībām attiecībā uz elektronisko sakaru tīkliem un pakalpojumiem, direktīvu 2002/58/EK par personas datu apstrādi un privātās dzīves aizsardzību elektronisko komunikāciju nozarē, regulu (EK) Nr. 2006/2004 par sadarbību starp valsts iestādēm, kas atbildīgas par tiesību aktu īstenošanu patērētāju tiesību aizsardzības jomā (Dokuments attiecas uz EEZ);\n4) Eiropas Parlamenta un Padomes 2009.gada 25.novembra direktīvas 2009/140/EK , ar ko izdara grozījumu direktīvā 2002/21/EK par kopējiem reglamentējošiem noteikumiem attiecībā uz elektronisko komunikāciju tīkliem un pakalpojumiem, direktīvā 2002/19/EK par piekļuvi elektronisko komunikāciju tīkliem un ar tiem saistītām iekārtām un to savstarpēju savienojumu un direktīvā 2002/20/EK par elektronisko komunikāciju tīklu un pakalpojumu atļaušanu (Dokuments attiecas uz EEZ);\n5) Eiropas Parlamenta un Padomes 2002.gada 7.marta direktīvas 2002/21/EK par kopējiem reglamentējošiem noteikumiem attiecībā uz elektronisko komunikāciju tīkliem un pakalpojumiem (pamatdirektīva)."
+    }
+  ],
+  "definitions": []
+}

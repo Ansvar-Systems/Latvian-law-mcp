@@ -1,0 +1,848 @@
+{
+  "id": "lv-law-36719",
+  "type": "statute",
+  "title": "Par vērtspapīriem",
+  "short_name": "TA-36719",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/36719-par-vertspapiriem",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) vērtspapīrs — dokuments, kas apliecina emitenta saistību pret dokumenta valdītāju;\n2) dematerializēts vērtspapīrs — vērtspapīrs, kas nav nodrukāts uz papīra un eksistē kā ieraksts likumā noteiktajā veidā ;\n3) vārda vērtspapīrs — vērtspapīrs, kura īpašnieks emitentam ir zināms;\n4) uzrādītāja vērtspapīrs — vērtspapīrs, kura īpašnieks emitentam nav zināms, bet ziņas par viņu iespējams iegūt Latvijas Centrālā depozitārija noteiktajā kārtībā vai arī pēc vērtspapīra īpašnieka iniciatīvas;\n5) vērtspapīru šķira — tādu vērtspapīru kopums, kuros nostiprinātas viena un tā paša veida tiesības (akcijas, obligācijas un citi vērtspapīri);\n6) vērtspapīru veids — vārda vērtspapīrs vai uzrādītāja vērtspapīrs vai arī vienas šķiras vārda vērtspapīri, vai uzrādītāja vērtspapīri, kuros nostiprinātas noteiktas tiesības (parastās akcijas, priekšrocību akcijas, personāla akcijas un citas akcijas);\n7) vērtspapīru kategorija — vienas šķiras un viena veida vērtspapīri, kuros nostiprinātas tiesības ar īpašiem šo tiesību realizācijas nosacījumiem (parastās akcijas ar ierobežojumiem to atsavināšanā un citas akcijas);\n8) vērtspapīru forma — vērtspapīru eksistences veids, kas izpaužas divējādi: uz papīra nodrukāts vērtspapīrs vai arī dematerializēts vērtspapīrs;\n9) vērtspapīru sērija — vērtspapīru kopums, kuru veido visi vienā emisijā izlaisti savstarpēji atvietojami vērtspapīri;\n10) atvietojamības princips — viena un tā paša emitenta izlaistajos vienas šķiras un kategorijas vērtspapīros nostiprināto tiesību saglabāšanās publiskajā apgrozībā nemainīgā apjomā neatkarīgi no vērtspapīru formas, sērijas, koda vai kārtas numura;\n11) fondu birža — akciju sabiedrība, kas organizē atklātu un regulāru vērtspapīru publiskās apgrozības darījumu slēgšanu;\n12) fondu biržas biedri — saskaņā ar fondu biržas noteikumiem par biedriem uzņemtās licencētās personas, kas drīkst piedalīties biržas tirdzniecības sesijās;\n13) emitents — persona, kas izlaiž vērtspapīrus savā vārdā;\n14) emisija — viena emitenta vērtspapīru izlaides process;\n15) (izslēgts ar 08.11.2001 . likumu);\n16) (izslēgts ar 08.11.2001 . likumu);\n17) ieguldītājs — šā likuma izpratnē: persona, kas savā vārdā iegūst vai ir ieguvusi vērtspapīrus;\n18) brokers — fiziskā persona, kas ieguvusi Finansu un kapitāla tirgus komisijas izsniegtu profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū un veic starpniecības darījumus ar vērtspapīriem;\n19) brokeru sabiedrība — Latvijas Republikā vai ārvalstīs reģistrēta kapitālsabiedrība, izņemot kredītiestādes, kura sistemātiski un profesionāli veic starpniekdarbību;\n20) (izslēgts ar 25.05.2000 . likumu);\n21) ieguldījumu konsultants — fiziskā persona, kas ieguvusi profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū, reģistrēta Finansu un kapitāla tirgus komisijā un par maksu sniedz konsultācijas un pakalpojumus ar naudas ieguldīšanu un darbību vērtspapīru tirgū saistītajos jautājumos;\n22) konta turētājs — juridiskā persona, kas ir tiesīga atvērt, turēt un slēgt ieguldītāju vērtspapīru kontus;\n23) sākotnējā izvietošana — emitenta vai tā pilnvarotas personas izteikts pirmais publiskais piedāvājums iegūt vērtspapīrus un to pirmreizējā iegūšana;\n24) (izslēgts ar 08.11.2001 . likumu);\n25) ārpusbiržas tirgus — vērtspapīros nostiprināto tiesību iegūšana un atdošana, kas notiek ārpus fondu biržas un ko regulē Finansu un kapitāla tirgus komisija;\n26) (izslēgts ar 25.05.2000 . likumu);\n27) vērtspapīru tirgus dalībnieki — bankas un ārvalstu banku nodaļas vai filiāles (turpmāk — bankas), emitenti, ieguldītāji, brokeru sabiedrības, vērtspapīru tirgus profesionālie speciālisti, ieguldījumu sabiedrības, fondu biržas, Latvijas Centrālais depozitārijs, personas, kas laiž vērtspapīrus publiskajā apgrozībā, un citas personas, kuras veic šajā likumā regulētās darbības;\n28) depozitārijs — brokeru sabiedrības vai bankas vērtspapīru uzskaites struktūrvienība, kas iegrāmato, uzskaita un glabā vērtspapīrus;\n29) Latvijas Centrālais depozitārijs — akciju sabiedrība, kas iegrāmato, uzskaita un glabā Latvijas Republikā publiskajā apgrozībā izlaistos un esošos vērtspapīrus, kā arī nodrošina vērtspapīru un naudas norēķinus vērtspapīru darījumos fondu biržā un vērtspapīru norēķinus starp kontu turētājiem;\n30) noguldījuma sertifikāts — vērtspapīrs, ko izlaiž kredītiestāde un kas apliecina tās saistību izmaksāt vērtspapīra īpašniekam viņa noguldīto naudas summu un noteikto procentu likmi;\n31) emisijas prospekts — dokuments, kurā ir detalizēta informācija par emitentu un vērtspapīriem, ko tas piedāvā publiskajā apgrozībā;\n32) (izslēgts ar 25.05.2000 . likumu);\n33) atvasinātais vērtspapīrs — finansu darījuma dokuments, kura vērtību nosaka bāzes aktīvu vai vērtspapīru indeksu cenu izmaiņas;\n34) vērtspapīru tirgus profesionālie speciālisti — brokeri, ieguldījumu konsultanti un citas fiziskās personas, kas ieguvušas Finansu un kapitāla tirgus komisijas izsniegtu profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū un veic šo darbību;\n35) būtisks notikums — jebkurš ar emitentu saistīts notikums, kas emitentam ir zināms vai būtu bijis jāzina un kas var ietekmēt emitenta vērtspapīru cenu vai ieguldītāja lēmumu pirkt vai pārdot vērtspapīrus;\n36) vērtspapīru publiskais piedāvājums (turpmāk — publiskais piedāvājums) — vērtspapīru īpašnieka vai tā pilnvarotas personas izteikts piedāvājums iegūt vērtspapīrus, kā arī jebkādas informācijas sniegšana par iespējām tos iegūt, izmantojot masu informācijas, sakaru vai saziņas līdzekļus, ja publiskais piedāvājums izteikts vienlaicīgi vismaz 50 personām vai adresēts nenoteiktam personu skaitam;\n37) vērtspapīru darījums — darījums, kurā darījuma priekšmets ir vērtspapīri;\n38) vērtspapīru darījumu norēķinu konts — naudas konts, kura līdzekļi izmantojami tikai tādiem klienta norēķiniem, kas saistīti ar vērtspapīriem vai vērtspapīru darījumiem;\n39) iekšējā informācija — ar emitentu vai vērtspapīriem saistīta informācija, kura nav publiski atklāta un kuras publiska atklāšana būtiski ietekmētu vērtspapīru cenu;\n40) vērtspapīru kods — kods, ko piešķir katram atvietojamo vērtspapīru kopumam."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": ". Vērtspapīru publiskā apgrozība (turpmāk — publiskā apgrozība) ir sērijveidā izlaisto vērtspapīru iegūšana vai atdošana publiska piedāvājuma rezultātā.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Šis likums attiecībā uz publisko piedāvājumu un publisko apgrozību tiek piemērots šādām vērtspapīru šķirām:",
+      "content": "1) akcijām un citiem vērtspapīriem, kas apliecina līdzdalību statūtsabiedrībā, tiesības uz dividendi vai ienākumu, ja šie vērtspapīri var būt par publiskās apgrozības objektiem;\n2) obligācijām un citiem atbilstošiem prasījuma vērtspapīriem, ko izlaiž sērijā un piedāvā publiski atsevišķi vai kopā ar citām saistībām vai tiesībām uz ienākumu;\n3) vērtspapīriem, ko izlaiž, ievērojot šā panta 1. un 2.punktā minēto nosacījumu kombinācijas principu;\n4) ieguldījumu sabiedrību ieguldījumu apliecībām, kā arī citiem vērtspapīriem, kas apliecina līdzdalību ieguldījumu fondos vai tiem pielīdzināmos kopējo ieguldījumu formējumos;\n5) jebkuram līgumam, saskaņā ar kuru persona iegulda naudu uzņēmumā vai sabiedrībā, gaidot ienākumu atbilstoši šim līgumam, ja šāda līguma noslēgšana tiek piedāvāta publiski šā likuma 2.pantā minētajā kārtībā;\n6) citiem, arī atvasinātajiem vērtspapīriem, kas tiek laisti publiskajā apgrozībā šā likuma 2.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "4",
+      "title": "(1) Šis likums regulē:",
+      "content": "1) kārtību, kādā akciju sabiedrības laiž publiskajā apgrozībā iepriekš izlaistos vērtspapīrus, kuri nav bijuši publiski piedāvāti;\n2) (izslēgts ar 25.05.2000 . likumu);\n3) kārtību, kādā tiek veikta akciju sabiedrību vērtspapīru sākotnējā izvietošana;\n4) jebkura veida naudas ieguldījumu piesaistīšanas publisku izsludināšanu un piesaistīšanu, ja tā notiek šā likuma 2.pantā minētajā kārtībā;\n5) kārtību, kādā tiek izlaisti pašvaldību vērtspapīri;\n6) kārtību, kādā tiek izlaisti valsts vērtspapīri;\n7) kārtību, kādā publiskajā apgrozībā tiek laisti vērtspapīri, kuru izlaišana nav noteikta ar citiem likumdošanas aktiem.\n(2) Šis likums neregulē:\n1) akciju sabiedrību vērtspapīru izlaišanas, reģistrācijas un apgrozības kārtību, kā arī vērtspapīru apgrozību, kas ir atšķirīga no šā likuma 2. pantā minētās kārtības;\n2) vērtspapīru publisko piedāvājumu, ko veic institūcija, kura saskaņā ar tās apstiprinātajiem valsts īpašuma privatizācijas vai atsavināšanas noteikumiem privatizē vai atsavina valstij piederošus vērtspapīrus, kā arī šādi piedāvāto vērtspapīru iegūšanu;\n3) pašvaldību publisko piedāvājumu, ko veic saskaņā ar attiecīgās pašvaldības īpašuma objekta privatizācijas projektu, un šādi piedāvāto vērtspapīru iegūšanu;\n4) tādu vērtspapīru izlaidi vai apgrozību, kuru vērtību nodrošina kredītiestādē ieķīlātais nekustamais īpašums, ja tie netiek izlaisti šā likuma 2.pantā paredzētajā kārtībā;\n5) privatizācijas sertifikātu publisko apgrozību;\n6) vekseļu izrakstīšanu un apgrozību. Vekselis nevar būt publiskās apgrozības vērtspapīrs un to nevar izrakstīt šī likuma 2.pantā noteiktajā kārtībā;\n7) čeku izlaides un apgrozības kārtību;\n8) akciju sabiedrību piedāvājumu akcionāriem realizēt savas pirmpirkuma tiesības;\n9) vērtspapīru piedāvājumu, ar kuru emitents piedāvā vērtspapīrus saviem darbiniekiem vai bijušajiem darbiniekiem prēmēšanas vai kompensācijas nolūkā;\n10) vērtspapīru piedāvājumu, ko veic sakarā ar bankrotējuša uzņēmuma (uzņēmējsabiedrības) īpašumā esošo vērtspapīru izpārdošanu;\n11) vērtspapīru piedāvājumu, ko veic sakarā ar uzņēmumu (uzņēmējsabiedrību) apvienošanos;\n12) kārtību, kādā tiek publiski izvietoti valsts vērtspapīri, kuri turpmāk neatradīsies publiskajā apgrozībā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Vērtspapīru sākotnējo izvietošanu drīkst veikt emitents vai tā pilnvarota brokeru sabiedrība, banka vai cita persona, kurai ir speciālā atļauja (licence) starpniekdarbības veikšanai.",
+      "content": "(2) Vērtspapīru publiskā apgrozība ir atļauta tikai ar to brokeru sabiedrību vai banku starpniecību, kurām ir speciālā atļauja (licence) starpniekdarbības veikšanai.\n(3) Privatizējamo vai atsavināmo valsts vai pašvaldību īpašuma objektu vērtspapīrus, kurus laiž publiskajā apgrozībā, reģistrē Finansu un kapitāla tirgus komisijā. Informācijas un dokumentu iesniegšanas, kā arī vērtspapīru reģistrācijas kārtību un termiņus nosaka Finansu un kapitāla tirgus komisijas apstiprinātie noteikumi."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "6",
+      "title": "(1) Publiskajā apgrozībā tiek laisti tikai dematerializēti vērtspapīri.",
+      "content": "(2) Visi Latvijā publiskajā apgrozībā laistie vērtspapīri tiek iegrāmatoti Latvijas Centrālajā depozitārijā, kur tiek atvērti kontu turētāju vērtspapīru konti, izņemot vērtspapīrus, kuri ir publiskajā apgrozībā arī ārpus Latvijas un pirms vērtspapīru reģistrācijas Finansu un kapitāla tirgus komisijā iegrāmatoti citā valstī.\n(3) Visi publiskajā apgrozībā laisto vērtspapīru īpašnieki iegrāmato vērtspapīrus attiecīgā konta turētāja vērtspapīru kontā.\n(4) Vērtspapīru konta atvēršanas, turēšanas un slēgšanas kārtību nosaka saskaņā ar Latvijas Centrālā depozitārija noteikumiem.\n(5) Par konta turētāju var būt:\n1) emitents vai tā pilnvarota persona — Finansu un kapitāla tirgus komisijas licencēta brokeru sabiedrība vai banka — tikai savas emisijas vērtspapīriem un tikai sākotnējā publiskajā apgrozībā pēc tam, kad tie ir iegrāmatoti Latvijas Centrālajā depozitārijā;\n2) bankas — tikai pēc to uzņemšanas par Latvijas Centrālā depozitārija dalībniekiem saskaņā ar Latvijas Centrālā depozitārija noteikumiem;\n3) brokeru sabiedrības un ieguldījumu sabiedrības pēc to uzņemšanas par Latvijas Centrālā depozitārija dalībniekiem saskaņā ar Latvijas Centrālā depozitārija noteikumiem.\n(6) Vērtspapīri, kas izlaisti uz papīra nodrukātā formā un ir publiskajā apgrozībā, tiek dematerializēti saskaņā ar Finansu un kapitāla tirgus komisijas noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "7",
+      "title": "(1) Publiskajā apgrozībā var laist vārda vērtspapīrus un uzrādītāja vērtspapīrus.",
+      "content": "(2) Jebkuram emitentam saskaņā ar statūtiem vai citiem attiecīgajiem tā darbību regulējošajiem dokumentiem ir tiesības izlaist vārda vērtspapīrus.\n(3) (Izslēgta ar 08.11.2001 . likumu)\n(4) Emitents saskaņā ar statūtos vai citos attiecīgajos tā darbību regulējošajos dokumentos noteikto kārtību un vērtspapīru atvietojamības principu var aizstāt izlaistos vārda vērtspapīrus ar uzrādītāja vērtspapīriem.\n(5) Emitents var likumā vai Latvijas Centrālā depozitārija noteikumos paredzētajos gadījumos un kārtībā noskaidrot vārda vērtspapīra īpašnieku.\n(6) Vērtspapīriem, kas tiek laisti publiskajā apgrozībā, nevar paredzēt ierobežojumus attiecībā uz to pāriešanu citas personas īpašumā, ja citos likumos nav noteikti ierobežojumi vērtspapīru nostiprinātajām tiesībām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "8",
+      "title": "(1) Īpašuma tiesības uz publiskajā apgrozībā esošajiem vērtspapīriem un tajos nostiprinātajām tiesībām pāriet vērtspapīru ieguvējam ar brīdi, kad vērtspapīri ir iegrāmatoti vērtspapīru ieguvēja vērtspapīru kontā.",
+      "content": "(2) Publiskās apgrozības vērtspapīru īpašuma tiesību pierādījums ir iegrāmatojums ieguldītāja vērtspapīru kontā pie konta turētāja vai Latvijas Centrālajā depozitārijā, izņemot šā panta trešajā daļā minētos gadījumus.\n(3) Konta turētājs vai Latvijas Centrālais depozitārijs var atvērt tādu vērtspapīru kontu, kurā tiek uzskaitīti personu turējumā esošie vērtspapīri.\n(4) Konta turētājs ir tikai ieguldītāja vērtspapīru konta turētājs, bet ne to valdītājs un ir tiesīgs rīkoties ar klientam piederošajiem vērtspapīriem vienīgi klienta uzdevumā vai saskaņā ar klienta pilnvarojumu vai tiesas nolēmumu.\n(5) Ja likumā nav noteikti ierobežojumi, vērtspapīri var piederēt bankai, brokeru sabiedrībai, kā arī jebkuram konta turētājam un konta turētāja klientam.\n(6) Kreditoru prasības pret banku, brokeru sabiedrību vai konta turētāju nevar tikt dzēstas ar bankas, brokeru sabiedrības vai konta turētāja klientam piederošajiem vērtspapīriem un naudas līdzekļiem no vērtspapīru darījumu norēķinu konta.\n(7) Pēc konta turētāja pieprasījuma un saskaņā ar Latvijas Centrālā depozitārija noteikumiem Latvijas Centrālais depozitārijs izsniedz konta turētājam izrakstu no viņa vērtspapīru konta.\n(8) Uz iegrāmatojuma pamata konta turētājs izsniedz vērtspapīru īpašniekam vērtspapīru iegrāmatojuma kvīti, kas apliecina, ka tajā norādītie vērtspapīri ir iegrāmatoti un tajā norādītā persona ir vērtspapīru īpašnieks.\n(9) Iegrāmatojuma kvītī norāda:\n1) kvīts izdevēja nosaukumu un adresi;\n2) emitenta nosaukumu;\n3) iegrāmatoto vērtspapīru daudzumu;\n4) iegrāmatoto vērtspapīru sēriju, šķiru un kodu;\n5) ja iegrāmatoto vērtspapīru īpašnieks ir fiziskā persona, — iegrāmatoto vērtspapīru īpašnieka vārdu, uzvārdu un personas kodu vai, ja iegrāmatoto vērtspapīru īpašnieks ir juridiskā persona, — iegrāmatoto vērtspapīru īpašnieka nosaukumu un reģistrācijas numuru. Ja fiziskajai personai nav personas koda vai ja juridiskajai personai nav reģistrācijas numura, personai norāda citu identifikācijas pazīmi;\n6) informāciju par apgrūtinājumiem attiecībā uz iegrāmatotajiem vērtspapīriem;\n7) kvīts izdošanas vietu, datumu un numuru.\n(10) Konta turētāja klienta vērtspapīru kontos esošos vērtspapīrus un vērtspapīru darījumu norēķinu kontos esošos naudas līdzekļus tur šķirti no konta turētāja vērtspapīriem un naudas līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa. Vērtspapīru sākotnējās izvietošanas un publiskās apgrozības uzraudzība",
+      "section": "9",
+      "title": "(1) Vērtspapīru publiskās apgrozības uzraudzību veic Finansu un kapitāla tirgus komisija (turpmāk — Komisija). Komisija ir pilntiesīga autonoma valsts iestāde, kuras izveidošanas un darbības kārtību nosaka Finansu un kapitāla tirgus komisijas likums.",
+      "content": "(2) Komisijai ir tiesības:\n1) likumdošanas aktu ietvaros noteikt kārtību, kādā tiek piedāvāti tie vērtspapīri, kuru apgrozību neregulē šis likums;\n2) likumdošanas aktu ietvaros izdot noteikumus, lai regulētu to personu darbību, kuras piedāvā iegādāties vērtspapīrus kārtībā, kas atšķiras no šā likuma 2.pantā noteiktās kārtības, un tādējādi šī darbība nevar tikt uzskatīta par publisko apgrozību;\n3) šā likuma 16.pantā , kā arī citos likumdošanas aktos noteiktajos ietvaros pieprasīt papildu ziņas no emitentiem un personām, kas laiž vērtspapīrus publiskajā apgrozībā, kā arī iepazīties ar dokumentiem, kuros ir šādas ziņas, kas nepieciešamas, lai atļautu vērtspapīru laišanu publiskajā apgrozībā vai arī atļautu turpināt veikt ar vērtspapīru publisko apgrozību saistītos darījumus;\n4) pārtraukt vai neatļaut vērtspapīru laišanu apgrozībā, ja tiek būtiski aizskartas ieguldītāju vai citu vērtspapīru tirgus dalībnieku intereses;\n5) par šā likuma vai citu vērtspapīru tirgu regulējošo normatīvo aktu pārkāpumiem piemērot šajā likumā noteiktās sankcijas, tajā skaitā uzlikt soda naudu, kā arī likumā noteiktajos gadījumos un kārtībā iesniegt tiesā prasību pret personu, kura pārkāpj šo likumu vai citus vērtspapīru tirgu regulējošos normatīvos aktus."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "10",
+      "title": "(1) Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā gan attiecībā uz Latvijas Republikas, gan ārvalstu emitentiem ir atļauta tikai tad, ja vērtspapīri ir reģistrēti Komisijā un ir saņemta Komisijas atļauja.",
+      "content": "(2) Komisija reģistrē vērtspapīrus saskaņā ar šo likumu, Finansu un kapitāla tirgus komisijas likumu un Komisijas apstiprinātajiem noteikumiem pēc attiecīgas valsts nodevas samaksas.\n(3) Par nereģistrētu vērtspapīru laišanu publiskajā apgrozībā iestājas šajā likumā un citos likumos noteiktā atbildība."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "11",
+      "title": "(1) Vērtspapīri, kurus publiskajā apgrozībā laiž valsts vai Latvijas Banka, ir jāreģistrē Komisijā, iesniedzot tai šo vērtspapīru izlaišanas noteikumus. Šo vērtspapīru apgrozībā laidēji emisijas prospektu šajā likumā minētajos gadījumos Komisijai neiesniedz.",
+      "content": "(2) Kredītiestādēm, kas saņēmušas Komisijas atļauju par tiesībām publiski izsludināt un pieņemt visa veida naudas noguldījumus, ar šiem noguldījumiem saistīto noguldījumu sertifikātu laišana publiskajā apgrozībā jāreģistrē Komisijā.\n(3) Šajā pantā minēto vērtspapīru reģistrācijas kārtību Komisijā nosaka Komisijas apstiprinātie noteikumi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "12",
+      "title": "(1) Vērtspapīru publiskais piedāvājums un to laišana publiskajā apgrozībā var notikt pēc Komisijas atļaujas saņemšanas kā:",
+      "content": "1) akciju sabiedrības vērtspapīru laišana publiskajā apgrozībā;\n2) pašvaldības vērtspapīru laišana publiskajā apgrozībā;\n3) cita emitenta, izņemot Latvijas valsti, vērtspapīru publiskais piedāvājums un to laišana publiskajā apgrozībā.\n(2) Šā panta pirmajā daļā noteiktajos gadījumos pieteikumu atļaujas saņemšanai Komisijā var iesniegt emitents vai jebkura tā pilnvarota persona.\n(3) Komisijā ir jāiesniedz pieteikums , kuram jāpievieno:\n1) emisijas prospekts;\n2) emitenta reģistrācijas apliecības noraksts;\n3) emitenta statūtu noraksts;\n4) emitenta pilnvarotas pārvaldes institūcijas lēmums vai paziņojums par attiecīgo vērtspapīru laišanu publiskajā apgrozībā.\n(4) Lai reģistrētu pašvaldību vērtspapīrus, Komisijā ir jāiesniedz pieteikums , kuram jāpievieno šā panta trešās daļas 1.un 4.punktā minētie dokumenti."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "13",
+      "title": "(1) Akciju sabiedrības emisijas prospektu apstiprina šīs sabiedrības akcionāru sapulce vai sapulces pilnvarota institūcija, bet citu emitentu emisijas prospektus — to pilnvarotas pārvaldes institūcijas.",
+      "content": "(2) Emisijas prospektu paraksta emitenta pilnvarotas pārvaldes institūcijas locekļi, kuru paraksta tiesības ir noteiktas ar likumu vai kuri tiek pilnvaroti parakstīt emisijas prospektu.\n(3) Jebkuram potenciālajam ieguldītājam ir tiesības iepazīties ar emisijas prospektu, un viņam ir jābūt nodrošinātai šādai iespējai."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "14",
+      "title": "Emisijas prospektu emitents vai tā pilnvarota persona izstrādā saskaņā ar šo likumu un Komisijas izdotajiem normatīvajiem aktiem.",
+      "content": "( 11.06.1997 . likuma redakcijā ar grozījumiem, kas izdarīti ar 25.05.2000 . likumu, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "15",
+      "title": "Vērtspapīru reģistrēšanas pieteikumā ir jānorāda šādas ziņas:",
+      "content": "1) tā emitenta un personas nosaukums un juridiskā adrese, kas laiž vērtspapīrus publiskajā apgrozībā;\n2) galvenie dati par tiem vērtspapīriem, kuri tiek piedāvāti laišanai publiskajā apgrozībā:\na) vērtspapīru šķira, veids un kategorija,\nb) vērtspapīru nominālvērtība, kopējais skaits un prognozējamais pārdošanas vai izplatīšanas sākuma datums."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "16",
+      "title": "(1) Emisijas prospektā ietver ziņas par emitentu, tā darbību un finansiālo stāvokli, nosacījumus par vērtspapīru emisiju, publisko piedāvājumu, laišanu publiskajā apgrozībā, kā arī citu būtisku informāciju par emitentu un emisiju, kura būtu jāzina potenciālajam ieguldītājam pirms ieguldījumu veikšanas.",
+      "content": "(2) Pēc tam, kad pieņemts Komisijas lēmums par vērtspapīru reģistrāciju , emisijas prospektam jāpievieno Komisijas lēmuma noraksts.\n(3) Ja 12 mēnešu laikā pēc vērtspapīru reģistrācijas emitents laiž publiskajā apgrozībā citus vērtspapīrus, jaunajā emisijas prospektā norāda tikai to informāciju, kura ir mainījusies pēc iepriekšējo vērtspapīru reģistrācijas un kura varētu ietekmēt jaunemitēto vērtspapīru vērtību, kā arī norāda nosacījumus par vērtspapīru emisiju vai laišanu publiskajā apgrozībā. Šādā gadījumā jaunajam emisijas prospektam pievieno iepriekšējo emisijas prospektu vai jaunajā emisijas prospektā dod atsauci uz iepriekšējo emisijas prospektu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "17",
+      "title": ". Komisijai ir tiesības izdot noteikumus par gadījumiem, kad emitents pilnīgi vai daļēji atbrīvojams no pienākuma sagatavot un iesniegt, kā arī publicēt emisijas prospektu vai nodrošināt, lai tas būtu publiski pieejams.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "18",
+      "title": "(1) Komisija izskata pieteikumu un emisijas prospektu un 10 dienu laikā pēc visu noteikto dokumentu iesniegšanas pieņem lēmumu par vērtspapīru reģistrāciju vai reģistrācijas atteikumu.",
+      "content": "(2) Komisija var noteikt laika posmu, kurā pēc lēmuma pieņemšanas par vērtspapīru reģistrāciju ir jāuzsāk vērtspapīru laišana publiskajā apgrozībā, kā arī emisijas prospekta derīguma termiņu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "19",
+      "title": "Komisija nereģistrē vērtspapīrus laišanai publiskajā apgrozībā, ja:",
+      "content": "1) nav iesniegti visi šā likuma 12.panta trešajā daļā (pašvaldībām — 12.panta ceturtajā daļā) noteiktie dokumenti;\n2) reģistrācijai iesniegtajos dokumentos iekļautā informācija nav precīza vai neatbilst patiesībai, kā arī ja tā neatbilst šajā likumā un citos likumos noteiktajām prasībām;\n3) informācija, kura iekļauta reģistrācijai iesniegtajos dokumentos vai kuru pieprasījusi Komisija, liecina, ka emisija neatbilst likumdošanas aktos noteiktajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "20",
+      "title": "(1) Atteikumu reģistrēt vērtspapīrus , norādot atteikuma pamatu, izsniedz rakstveidā emitentam vai personai, kas ir griezusies Komisijā ar vērtspapīru reģistrācijas iesniegumu.",
+      "content": "(2) Ja trūkumi un neprecizitātes dokumentos tiek novērstas, emitents vai persona, kas laiž vērtspapīrus publiskajā apgrozībā, var griezties Komisijā atkārtoti.\n(3) Ja dokumenti Komisijā tiek izskatīti atkārtoti, Komisija nedrīkst norādīt trūkumus vai neprecizitātes ziņās, kuras tā bija jau izskatījusi un kurās iepriekšējā dokumentu izskatīšanas reizē nebija norādījusi šos trūkumus vai neprecizitātes, izņemot gadījumus, kad saistībā ar šīm ziņām tiek iegūta jauna informācija."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "21",
+      "title": "Strīdus, kas rodas sakarā ar vērtspapīru reģistrāciju laišanai publiskajā apgrozībā, likumdošanas aktos noteiktajā kārtībā izskata tiesa.",
+      "content": "21.pants. Strīdus, kas rodas sakarā ar vērtspapīru reģistrāciju laišanai publiskajā apgrozībā, likumdošanas aktos noteiktajā kārtībā izskata tiesa."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "22",
+      "title": "(1) 30 dienu laikā pēc tam, kad pieņemts Komisijas lēmums par vērtspapīru reģistrāciju, emitents vai persona, kas laiž vērtspapīrus publiskajā apgrozībā, iegrāmato vērtspapīrus Latvijas Centrālajā depozitārijā, izņemot vērtspapīrus, kuri ir publiskajā apgrozībā arī ārpus Latvijas un pirms vērtspapīru reģistrācijas Komisijā iegrāmatoti citā valstī.",
+      "content": "(2) Ja Komisija pieņem lēmumu par vērtspapīru reģistrāciju, tā desmit dienu laikā pēc lēmuma pieņemšanas emitentam izsniedz emisijas apliecību. Emisijas apliecība ir dokuments, kas apstiprina emitenta tiesības laist vērtspapīrus publiskajā apgrozībā. Emisijas apliecība tiek izsniegta pēc attiecīgas valsts nodevas samaksas.\n(3) Emisijas apliecība kļūst nederīga, ja Komisija anulē emisijas atļauju."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "23",
+      "title": "(1) Ne vēlāk kā vienu darba dienu pirms vērtspapīru publiskā piedāvājuma vai vērtspapīru laišanas publiskajā apgrozībā un saskaņā ar šā likuma 18.panta otro daļu emitents vai persona, kas laiž vērtspapīrus publiskajā apgrozībā, publicē laikrakstā “Latvijas Vēstnesis” šādu informāciju:",
+      "content": "1) emitenta un personas, kas laiž vērtspapīrus publiskajā apgrozībā, nosaukums, reģistrācijas numurs un juridiskā adrese;\n2) vērtspapīru šķira, veids, kategorija un kopējais skaits;\n3) vērtspapīru nominālvērtība un pārdošanas cena;\n4) datums, ar kuru vērtspapīri tiek laisti publiskajā apgrozībā;\n5) vērtspapīru un emisijas prospekta izplatīšanas vietas un laiks.\n(2) Pēc minētās informācijas publicēšanas emisijas nosacījumus drīkst grozīt tikai tad, kad tas ir saskaņots ar Komisiju un saņemta Komisijas atļauja.\n(3) Ja emitents vai persona, kas laiž vērtspapīrus publiskajā apgrozībā, lūdz, Komisija var atļaut līdz sākotnējās izvietošanas beigu datumam mainīt vērtspapīru pārdošanas cenu un sākotnējās izvietošanas sākuma un beigu datumu. Komisijas lēmuma norakstu pievieno emisijas prospektam. Informāciju par izdarītajiem grozījumiem publicē šā panta pirmajā daļā noteiktajā kārtībā.\n(4) Emitents nodrošina iespēju visām ieinteresētajām personām bez maksas iepazīties ar emisijas prospektu vai iegūt emisijas prospekta kopiju vai norakstu šā panta pirmajā daļā noteiktajā kārtībā norādītajās vietās un laikā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "24",
+      "title": "(1) Vērtspapīru emisijas un to publiskās apgrozības reklamēšanu, ievietojot sludinājumus vai publiski darot zināmus emisijas noteikumus, drīkst sākt tikai pēc tam, kad publicēta šā likuma 23.pantā noteiktā informācija.",
+      "content": "(2) Vērtspapīru sākotnējās izvietošanas laikā emitents vai persona, kas laiž vērtspapīrus publiskajā apgrozībā, nedrīkst izplatīt informāciju, kura nav ietverta emisijas prospektā vai nepatiesi atspoguļo emisijas prospektā sniegto informāciju, vai ir pretrunā ar to.\n(3) Reklāmā nedrīkst ietvert informāciju, kas ir pretrunā ar emisijas prospektā norādītajām ziņām. Reklāmā jānorāda vietas un laiks, kur un kad var iepazīties ar emisijas prospektu vai iegādāties tā norakstu."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "25",
+      "title": "(Izslēgts ar 25.05.2000 . likumu, kas stājas spēkā 28.06.2000. )",
+      "content": "25.pants. (Izslēgts ar 25.05.2000 . likumu, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "26",
+      "title": "(1) Neviena persona nedrīkst sniegt nepatiesas ziņas par publiskajā piedāvājumā un publiskajā apgrozībā esošajiem vērtspapīriem, tajā skaitā par vērtspapīru pirkšanu un pārdošanu.",
+      "content": "(2) Emitenta amatpersonas un darbinieki, kā arī personas, kurām ir cita veida tiesiskas attiecības ar emitentu, nedrīkst:\n1) izpaust, izmantot vai nodot trešajām personām iekšējo informāciju, izņemot gadījumus, kad šādu informāciju izpauž vai nodod, veicot savus darba vai profesionālos pienākumus;\n2) pamatojoties uz iekšējo informāciju, ieteikt vai uzdot trešajai personai iegūt vai atsavināt vērtspapīrus.\n(3) Iekšējās informācijas izpaušanas aizliegums tādā pašā mērā attiecas arī uz jebkuru trešo personu, kura nav minēta šā panta otrajā daļā, ja šī persona apzinās, ka informācija ir iekšēja, un ja šādu informāciju persona tieši vai netieši varēja iegūt tikai no šā panta otrajā daļā norādītajām personām.\n(4) Gadījumos, kad ieguldītājs cieš zaudējumus, ko izraisījuši riska faktori, kuri netika ietverti emisijas prospektā vai par kuriem sniegtā informācija bija nepilnīga vai nepareiza, kā arī šā panta pirmajā, otrajā un trešajā daļā minēto noteikumu pārkāpšanas gadījumos ieguldītājs var pieprasīt zaudējumu atlīdzināšanu no emitenta vai personas, kas ir vainojama šā panta noteikumu pārkāpšanā, un normatīvajos aktos paredzētajā kārtībā panākt zaudējumu atlīdzināšanu tiesas ceļā.\n(5) Šajā pantā noteiktajos gadījumos emitents vai persona, kas ir vainojama šā panta noteikumu pārkāpšanā, piedāvā ieguldītājam iespēju pārdot vērtspapīrus, kā arī iespēju atlīdzināt ieguldītājam radušos zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "27",
+      "title": "27.pants.",
+      "content": "(1) Emitents periodiski un savlaicīgi nodrošina Komisiju ar informāciju tās noteiktajā veidā, apjomā un laikā.\n(2) Emitentam ir pienākums publiski atklāt informāciju par būtiskiem notikumiem saskaņā ar Komisijas izdotajiem noteikumiem.\n(3) Ja emitenta vērtspapīri ir iekļauti fondu biržas sarakstā, emitents ievēro arī attiecīgās fondu biržas noteikumus par informācijas atklāšanu un sniegšanu.\n(4) Emitents, kurš saskaņā ar likumiem vai citiem normatīvajiem aktiem sagatavo gada pārskatu un kura vērtspapīri nav iekļauti fondu biržas sarakstā, iesniedz Komisijai gada pārskatu, kā arī pusgada pārskatu.\n(5) Emitents, kurš saskaņā ar likumiem vai citiem normatīvajiem aktiem sagatavo gada pārskatu un kura vērtspapīri ir iekļauti fondu biržas sarakstā, iesniedz fondu biržai gada pārskatu, kā arī pusgada pārskatu. Fondu birža ir tiesīga pieprasīt no emitenta arī ceturkšņa pārskatus."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "III nodaļa. Vērtspapīru sākotnējā izvietošana un laišana publiskajā apgrozībā",
+      "section": "28",
+      "title": "Pirms šā likuma 27 . pantā noteiktās informācijas paziņošanas Komisijai emitenti vai personas, kas laiž vērtspapīrus publiskajā apgrozībā, drīkst šo informāciju darīt zināmu tikai tām personām vai institūcijām, kuras sniedz tām pakalpojumus vai konsultācijas, kas saistītas ar ieguldījumiem un vērtspapīru apgrozību, kā arī darījumu partneriem, kuriem šī informācija ir jāsaņem, vai arī šīs informācijas sniegšanu nosaka citi likumdošanas akti. Personas un institūcijas, kas saņēmušas informāciju, nedrīkst to izpaust vai izplatīt.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 25.05.2000 . likumu, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "29",
+      "title": "(1) Vērtspapīru otrreizējo publiskā apgrozība tiek organizēta fondu biržā. Otrreizējo publisko apgrozību ārpus fondu biržas drīkst organizēt tikai saskaņā ar šā likuma 41.pantā minētajiem nosacījumiem, kā arī ievērojot šā panta trešās daļas 2., 3. un 4. punktā noteiktās prasības.",
+      "content": "(2) Fondu birža kalpo visiem vērtspapīru tirgus dalībniekiem kā atklāta un pieejama organizācija, kurai jāveicina sabiedrības ekonomiskā stabilitāte un drošība.\n(3) Fondu biržai ir jānodrošina:\n1) izsolēs iekļauto vērtspapīru piedāvājuma un pieprasījuma koncentrācija vērtspapīru cenas noteikšanai;\n2) darījumu slēgšanas drošums;\n3) vienotas informācijas izplatīšana, kas ļautu pareizi noteikt izsolē iekļauto vērtspapīru vērtību;\n4) ar veiktajiem vērtspapīru darījumiem saistīto norēķinu organizēšana.\n(4) (Izslēgta ar 08.11.2001 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "30",
+      "title": "(1) Fondu birža ir tiesīga uzsākt darbību tikai pēc tam, kad Komisija izsniegusi speciālu atļauju (licenci) fondu biržas darbībai. Atļauju (licenci) fondu biržas darbībai izsniedz uz nenoteiktu laiku.",
+      "content": "(2) Speciālo atļauju (licenci) fondu biržas darbībai var izsniegt Latvijā reģistrētai akciju sabiedrībai, kuras pamatkapitāls atbilst likumos par biržas akciju sabiedrībām noteiktajam pamatkapitāla apmēram un kuras darbības organizācija un statūti nodrošina ieguldītāju interešu aizsardzību un šā likuma 29.panta otrajā daļā noteiktos mērķus.\n(3) Komisija var atteikt speciālās atļaujas (licences) izsniegšanu vai anulēt speciālo atļauju (licenci), ja:\n1) fondu biržas darbība neatbilst likumiem un citiem normatīvajiem aktiem;\n2) fondu birža savā darbībā neievēro biržas statūtus vai citus biržas darbību regulējošus noteikumus;\n3) mainās speciālās atļaujas (licences) izsniegšanas tiesiskais pamats."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "31",
+      "title": "(1) Fondu biržas akcijas savā īpašumā var iegūt valsts, pašvaldības, brokeru sabiedrības, bankas un citas personas saskaņā ar fondu biržas statūtiem un noteikumiem.",
+      "content": "(2) (Izslēgta ar 08.11.2001 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "32",
+      "title": "(1) Fondu birža atbilstoši tās statūtiem un darbības noteikumiem var sniegt pakalpojumus, kas saistīti ar vērtspapīru publisko apgrozību un ar vērtspapīru un finansu tirgus attīstību.",
+      "content": "(2) Fondu birža drīkst organizēt arī tādu vērtspapīru publisko apgrozību, ko regulē citi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "33",
+      "title": "(1) Fondu birža izdod noteikumus, kas nosaka:",
+      "content": "1) vērtspapīru šķiras, kas tiek kotētas biržā;\n2) vērtspapīru tirdzniecības procesuālās darbības;\n3) vērtspapīru kotēšanas nosacījumus un procedūru;\n4) biržas biedru tiesības un pienākumus;\n5) vērtspapīru tirdzniecības laiku;\n6) darījumu noslēgšanas un reģistrēšanas kārtību;\n7) citas ar biržas darbību un vērtspapīru tirdzniecību un publisko apgrozību saistītās attiecības.\n(2) Fondu biržas izdotos noteikumus un jebkurus citus dokumentus, kas regulē šā panta pirmajā daļā noteikto, kā arī jebkurus tajos izdarītos grozījumus apstiprina Komisija."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "34",
+      "title": "(1) Fondu birža nodrošina Komisiju ar fondu biržas tirdzniecības sistēmā esošo informāciju Komisijas noteiktajā apjomā un kārtībā.",
+      "content": "(2) Komisija var pilnvarot savus pārstāvjus pārbaudīt fondu biržas darbību. Komisijas pilnvarotajiem pārstāvjiem ir tiesības iepazīties ar biržas darbības dokumentiem.\n(3) Pēc Komisijas pilnvarotu pārstāvju rakstveida pieprasījuma fondu biržai jāizsniedz biržas darbības dokumentu noraksti vai cita ar biržas darbību saistītā informācija.\n(4) Komisijas pilnvaroti pārstāvji drīkst piedalīties bez balsstiesībām fondu biržas padomes un valdes sēdēs un akcionāru sapulcēs.\n(5) Komisija var apturēt fondu biržas pārvaldes institūciju lēmumus, bet šo lēmumu atcelšanai ir iesniedzama prasība tiesā."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "35",
+      "title": "(1) Komisijas padomes un valdes locekļi, kā arī darbinieki un personas, kurām ir cita veida tiesiskas attiecības ar Komisiju, fondu biržas padomes un valdes locekļi, kā arī darbinieki un personas, kurām ir cita veida tiesiskas attiecības ar fondu biržu, ieguldījumu konsultanti un citi vērtspapīru tirgus profesionālie speciālisti nedrīkst:",
+      "content": "1) izpaust, izmantot vai nodot trešajām personām iekšējo informāciju, izņemot gadījumus, kad šādu informāciju izpauž vai nodod, veicot savus darba vai profesionālos pienākumus;\n2) pamatojoties uz iekšējo informāciju, ieteikt vai uzdot trešajai personai iegūt vai atsavināt vērtspapīrus.\n(2) Iekšējās informācijas izpaušanas aizliegums tādā pašā mērā attiecas arī uz jebkuru trešo personu, kura nav minēta šā panta pirmajā daļā, ja šī persona apzinās, ka informācija ir iekšēja, un ja šādu informāciju persona tieši vai netieši varēja iegūt tikai no šā panta pirmajā daļā norādītajām personām.\n(3) Šā panta pirmās un otrās daļas prasības attiecas uz minētajām personām arī pēc tam, kad izbeidzies darba līgums vai citas tiesiskas attiecības ar Komisiju vai fondu biržu.\n(4) Šajā pantā minētās personas normatīvajos aktos paredzētajā kārtībā un apmērā ir atbildīgas par zaudējumiem, kas radušies ieguldītājiem vai citiem vērtspapīru tirgus dalībniekiem šā panta pirmās un otrās daļas prasību neievērošanas gadījumā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "36",
+      "title": "(1) Vērtspapīru darījumu nodrošināšanai biržā fondu biržas biedri nodibina fondu biržas garantiju fondu (turpmāk — garantiju fonds).",
+      "content": "(2) Komisija apstiprina noteikumus, kas regulē garantiju fonda izveidošanas, pārvaldīšanas un izmantošanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "37",
+      "title": "(1) Fondu biržas tiešo darbu vada fondu biržas valde, kas darbojas saskaņā ar šo likumu un likumu “ Par akciju sabiedrībām ”.",
+      "content": "(2) Fondu biržas valde:\n1) lemj par vērtspapīru iekļaušanu biržas sarakstā, kā arī par attiecīgo vērtspapīru apgrozības izbeigšanu;\n2) savas kompetences ietvaros piešķir vai anulē tiesības biržas biedriem;\n3) uzrauga, lai tiktu ievēroti biržas darbības noteikumi;\n4) uzrauga, lai tiktu publicēta informācija, kas fondu biržai jāpublicē saskaņā ar šo likumu, biržas noteikumiem un citiem likumdošanas aktiem;\n5) ziņo Komisijai par lēmumiem, kas pieņemti saskaņā ar šā panta otrās daļas 1.un 2.punktā noteiktajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "38",
+      "title": "Fondu biržas biedri tiek uzņemti saskaņā ar Komisijas apstiprinātajiem fondu biržas noteikumiem.",
+      "content": "38.pants. Fondu biržas biedri tiek uzņemti saskaņā ar Komisijas apstiprinātajiem fondu biržas noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "39",
+      "title": "(1) Fondu birža Komisijas apstiprināto noteikumu ietvaros nosaka prasības emitentiem un personām, kuras saņēmušas Komisijas atļauju un kuru vērtspapīri tiks kotēti biržā, un izstrādā biržā kotējamo vērtspapīru sarakstus (turpmāk — vērtspapīru saraksti). Vērtspapīru sarakstus apstiprina fondu biržas valde.",
+      "content": "(2) Ārvalstu emitentu vērtspapīrus var iekļaut vērtspapīru sarakstos saskaņā ar fondu biržas prasībām, ja tie ir reģistrēti Komisijā.\n(3) Emitentam, kura vērtspapīri ir iekļauti kādā no vērtspapīru sarakstiem, vai tā pilnvarotai personai fondu biržas normatīvajos aktos noteiktajos gadījumos, kārtībā un apjomā ir jāsniedz fondu biržai ziņas par faktiem, kas varētu ietekmēt ieguldītāju lēmumu veikt darījumus ar šā emitenta vērtspapīriem."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "40",
+      "title": "(1) Fondu birža 60 dienu laikā no dienas, kurā emitents iesniedzis pieteikumu, pieņem lēmumu par vērtspapīru iekļaušanu vērtspapīru sarakstos. Šajā laikā saskaņā ar vērtspapīru sarakstu noteikumiem fondu birža var pieprasīt papildu informāciju, un šādā gadījumā noteiktais termiņš tiek skaitīts no papildu informācijas saņemšanas dienas.",
+      "content": "(2) Fondu birža var izslēgt vērtspapīrus no vērtspapīru sarakstiem, ja attiecīgo vērtspapīru regulāra tirdzniecība kļūst neiespējama un ja šāds lēmums būtiski neaizskar ieguldītāju intereses.\n(3) Emitents un citi vērtspapīru tirgus dalībnieki var griezties Komisijā ar lūgumu pārskatīt fondu biržas lēmumu par šā panta pirmajā un otrajā daļā noteiktajiem gadījumiem.\n(4) Komisija 30 dienu laikā no dienas, kad saņemts iesniegums par lēmuma pārskatīšanu, pieņem lēmumu par šā panta trešajā daļā minēto lūgumu. s"
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "IV nodaļa. Vērtspapīru publiskā apgrozība (Nodaļas nosaukums 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )",
+      "section": "41",
+      "title": "(1) Persona, kura veic starpniekdarbību ārpusbiržas tirgū, nodrošina:",
+      "content": "1) darījumu slēgšanas drošumu;\n2) vienotas informācijas izplatīšanu, kas ļautu pareizi noteikt izsolē iekļauto vērtspapīru vērtību;\n3) ar veiktajiem vērtspapīru darījumiem saistīto norēķinu organizēšanu.\n(2) Darījumi ārpus biržas ar fondu biržā kotētiem vai kādā no fondu biržas vērtspapīru sarakstos iekļautiem vērtspapīriem ir atļauti tikai saskaņā ar fondu biržas un Latvijas Centrālā depozitārija noteikumiem.\n(3) Attiecībā uz vērtspapīriem, kas nav iekļauti fondu biržas vērtspapīru sarakstos, Komisija ir tiesīga izdot noteikumus, kas regulē to publiskās apgrozības kārtību.\n(4) Informācija par ārpusbiržas tirgū veikto starpniecības darījumu apjomiem publiskojama saskaņā ar Komisijas noteikto kārtību.\n(5) Citu vērtspapīru publisko apgrozību, ko nenosaka šis likums, brokeru sabiedrības vai bankas var organizēt saskaņā ar Komisijas apstiprinātajiem noteikumiem. Brokeru sabiedrība vai banka var iesniegt Komisijai noteikumu projektu šādu vērtspapīru publiskajai apgrozībai.\n(6) Komisija 30 dienu laikā pēc noteikumu projekta saņemšanas izskata to un apstiprina noteikumus vai pieņem lēmumu par noteikumu projekta atdošanu tā iesniedzējam pilnveidošanai un trūkumu novēršanai, vai arī nosūta noteikumu projekta iesniedzējam argumentētu rakstveida atteikumu.\n(7) Komisija var aizliegt vērtspapīru tālāku ārpusbiržas publisko apgrozību, ja tā neatbilst apstiprinātajiem noteikumiem vai ir mainījušies apstākļi, saskaņā ar kuriem bija apstiprināti šie noteikumi, vai arī turpmākā ārpusbiržas tirdzniecība būtiski apdraud ieguldītāju intereses."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "42",
+      "title": "Latvijas Centrālais depozitārijs (turpmāk — Centrālais depozitārijs) ir akciju sabiedrība, kas tiek dibināta un darbojas saskaņā ar šo likumu, statūtiem, Centrālā depozitārija noteikumiem un citiem normatīvajiem aktiem.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 08.11.2001 . likumu, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "43",
+      "title": "(1) Par Centrālā depozitārija akcionāriem ir tiesības kļūt valstij, Latvijas Bankai, fondu biržām, Privatizācijas aģentūrai, bankām un brokeru sabiedrībām, kā arī ieguldījumu sabiedrībām un emitentiem, kuriem Centrālajā depozitārijā ir atvērti vērtspapīru konti un citām personām .",
+      "content": "(2) Centrālā depozitārija akcionāru maiņa, ja tās rezultātā kāds no ieguldītājiem iegūst akcijas šā likuma 64.pantā noteiktajā daudzumā, var notikt tikai ar Komisijas piekrišanu un Komisijas noteiktajā kārtībā.\n(3) (Izslēgta ar 08.11.2001 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "44",
+      "title": "(1) Centrālā depozitārija noteikumus un instrukcijas izstrādā Centrālais depozitārijs un apstiprina Komisija.",
+      "content": "(2) Centrālā depozitārija noteikumus var grozīt akcionāru sapulce, bet šie grozījumi, kā arī grozījumi instrukcijās iegūst juridisku spēku tikai pēc tam, kad tos ir apstiprinājusi Komisija."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "45",
+      "title": "Centrālā depozitārija galvenais mērķis ir atvērt kontu turētājiem vērtspapīru kontus, iegrāmatot un uzskaitīt vērtspapīrus, kā arī veikt operācijas starp vērtspapīru kontiem, lai nodrošinātu norēķinus vērtspapīru publiskās apgrozības darījumos.",
+      "content": "45.pants. Centrālā depozitārija galvenais mērķis ir atvērt kontu turētājiem vērtspapīru kontus, iegrāmatot un uzskaitīt vērtspapīrus, kā arī veikt operācijas starp vērtspapīru kontiem, lai nodrošinātu norēķinus vērtspapīru publiskās apgrozības darījumos."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "46",
+      "title": ". Centrālais depozitārijs ir akciju sabiedrība, kuras akcijas nedrīkst atrasties publiskajā apgrozībā un kuras drīkst atsavināt tikai saskaņā ar Centrālā depozitārija statūtiem.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "47",
+      "title": "(1) Komisijas pilnvarotajiem pārstāvjiem ir tiesības pārbaudīt un iepazīties ar Centrālā depozitārija vērtspapīru un finansu grāmatvedības dokumentiem, kā arī citiem operatīvās darbības dokumentiem.",
+      "content": "(2) Pēc Komisijas rakstveida pieprasījuma Centrālā depozitārija pārvaldes institūcijai jāizsniedz Centrālā depozitārija dokumentu noraksti.\n(3) Komisijas pilnvarotajiem pārstāvjiem ir tiesības piedalīties bez balsstiesībām Centrālā depozitārija akcionāru sapulcē, valdē un padomē.\n(4) Ja Centrālā depozitārija lēmumi vai akti pēc Komisijas ieskatiem neatbilst likumdošanas aktiem vai Centrālā depozitārija statūtiem, Komisija iesniedz Centrālā depozitārija pārvaldes institūcijai rakstveida ziņojumu ar norādījumu noteiktā termiņā novērst pārkāpumus.\n(5) Ja konstatētie pārkāpumi vai nepilnības netiek novērsti, Komisijai valsts vārdā ir veto tiesības attiecībā uz Centrālā depozitārija lēmumiem un aktiem.\n(6) Komisijas veto lēmums tiek izdots rakstveidā. Tajā ir norādīts, kurš Centrālā depozitārija lēmums vai akts ir jāaptur, kā arī tā apturēšanas pamats.\n(7) Centrālais depozitārijs var Komisijas izdoto veto lēmumu pārsūdzēt tiesā. Pārsūdzības laikā Centrālā depozitārija pārsūdzēto lēmumu un aktu darbība tiek apturēta."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "48",
+      "title": "(1) Centrālā depozitārija padomes un valdes locekļi un darbinieki, kā arī personas, kurām ir cita veida tiesiskas attiecības ar Centrālo depozitāriju, nedrīkst:",
+      "content": "1) izpaust, izmantot vai nodot trešajām personām iekšējo informāciju, izņemot gadījumus, kad šādu informāciju izpauž vai nodod, veicot savus darba vai profesionālos pienākumus;\n2) pamatojoties uz iekšējo informāciju, ieteikt vai uzdot trešajai personai iegūt vai atsavināt vērtspapīrus.\n(2) Iekšējās informācijas izpaušanas aizliegums tādā pašā mērā attiecas arī uz jebkuru trešo personu, kura nav minēta šā panta pirmajā daļā, ja šī persona apzinās, ka informācija ir iekšēja, un ja šādu informāciju persona tieši vai netieši varēja iegūt tikai no šā panta pirmajā daļā norādītajām personām.\n(3) Šā panta pirmās un otrās daļas prasības attiecas uz minētajām personām arī pēc tam, kad izbeidzies darba līgums, pilnvarojums, uzdevuma līgums vai citas tiesiskas attiecības ar Centrālo depozitāriju.\n(4) Šajā pantā minētās personas normatīvajos aktos paredzētajā kārtībā un apmērā ir atbildīgas par zaudējumiem, kas radušies ieguldītājiem vai citiem vērtspapīru tirgus dalībniekiem šā panta pirmās un otrās daļas prasību neievērošanas gadījumā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "49",
+      "title": "(1) Centrālā depozitārija pienākums ir:",
+      "content": "1) iegrāmatot un uzskaitīt publiskajā apgrozībā esošos vērtspapīrus šajā likumā noteiktajos gadījumos un kārtībā;\n2) atvērt un turēt konta turētāju vērtspapīru kontus;\n3) izdarīt vērtspapīru pārskaitījumu operācijas starp Centrālajā depozitārijā atvērtajiem konta turētāju vērtspapīru kontiem;\n4) uzraudzīt kopējā vienas emisijas vērtspapīru apjoma atbilstību apgrozībā esošo šīs emisijas vērtspapīru skaitam;\n5) sniegt pakalpojumus, kas saistīti ar emitentu pienākumiem pret vārda vērtspapīru īpašniekiem, kā arī citus pakalpojumus savas kompetences un tiesībspējas ietvaros Centrālā depozitārija noteikumos paredzētajā kārtībā;\n6) izdot konta turētājiem vērtspapīru noguldījumus apliecinošus dokumentus;\n7) organizēt un vadīt norēķinu operācijas ar vērtspapīriem. Centrālais depozitārijs izstrādā un saskaņo ar Latvijas Banku Latvijas Republikā publiskās apgrozības darījumos ar vērtspapīriem lietojamos norēķinu un maksājumu veidus;\n8) reģistrēt ķīlas tiesības darījumos, kuros ķīlas devējs ir konta turētājs.\n9) kontrolēt Centrālā depozitārija dalībnieku darbību saskaņā ar Centrālā depozitārija noteikumiem.\n(2) Centrālajam depozitārijam ir monopoltiesības šo pienākumu veikšanā."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "50",
+      "title": "Attiecības starp Centrālo depozitāriju un konta turētāju regulē Centrālā depozitārija noteikumi un likumdošanas akti.",
+      "content": "50.pants. Attiecības starp Centrālo depozitāriju un konta turētāju regulē Centrālā depozitārija noteikumi un likumdošanas akti."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "51",
+      "title": "Centrālajam depozitārijam ir tiesības saņemt atlīdzību par sniegtajiem pakalpojumiem. Atlīdzības apmērs un veids tiek noteikts Centrālā depozitārija noteikumos un instrukcijās.",
+      "content": "51.pants. Centrālajam depozitārijam ir tiesības saņemt atlīdzību par sniegtajiem pakalpojumiem. Atlīdzības apmērs un veids tiek noteikts Centrālā depozitārija noteikumos un instrukcijās."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "V nodaļa. Latvijas Centrālais depozitārijs",
+      "section": "52",
+      "title": "Centrālais depozitārijs var prasīt no emitentiem vai to pilnvarniekiem, kā arī no citiem konta turētājiem, kas ir Centrālā depozitārija dalībnieki, Centrālā depozitārija noteikumu un instrukciju ievērošanu, kā arī piemērot Centrālā depozitārija noteikumos paredzētās sankcijas minēto noteikumu un instrukciju neievērošanas gadījumā.",
+      "content": "52.pants. Centrālais depozitārijs var prasīt no emitentiem vai to pilnvarniekiem, kā arī no citiem konta turētājiem, kas ir Centrālā depozitārija dalībnieki, Centrālā depozitārija noteikumu un instrukciju ievērošanu, kā arī piemērot Centrālā depozitārija noteikumos paredzētās sankcijas minēto noteikumu un instrukciju neievērošanas gadījumā."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "53",
+      "title": ". Brokeru sabiedrībām un bankām, kas veic starpniekdarbību, kā arī vērtspapīru tirgus profesionālajiem speciālistiem jāievēro Centrālā depozitārija noteikumi, fondu biržas noteikumi un Komisijas pieņemtie akti.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "54",
+      "title": ". (1) Starpniekdarbība ir:",
+      "content": "1) starpniecības darījumi ar vērtspapīriem;\n2) vērtspapīru kontu atvēršana, turēšana un apkalpošana.\n(2) Starpniecības darījumi ir:\n1) ieguldītāju rīkojumu par darījumiem ar vērtspapīriem pieņemšana un nodošana izpildei;\n2) ieguldītāju rīkojumu par darījumiem ar vērtspapīriem izpilde uz ieguldītāju vai trešo personu rēķina;\n3) ieguldītāju vērtspapīru individuāla pārvaldīšana saskaņā ar ieguldītāju pilnvarojumu;\n4) vērtspapīru sākotnējā izvietošana, ja starpniecības darījuma veicējs neizpērk emitējamos vērtspapīrus vai negarantē to izpirkšanu;\n5) emitējamo vērtspapīru izpirkšana sākotnējai izvietošanai vai sākotnējās izvietošanas laikā neizvietoto vērtspapīru izpirkšanas garantēšana;\n6) darījumu ar vērtspapīriem izpilde uz bankas vai brokeru sabiedrības rēķina."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "55",
+      "title": "(1) Starpniekdarbību ir tiesīgas veikt tikai brokeru sabiedrības un bankas.",
+      "content": "(2) Brokeru sabiedrības un bankas ir tiesīgas uzsākt starpniekdarbību tikai pēc speciālas atļaujas (licences) saņemšanas.\n(3) (Izslēgta ar 25.05.2000 . likumu)\n(4) (Izslēgta ar 25.05.2000 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "56",
+      "title": "(1) Speciālo atļauju (licenci) starpniekdarbības veikšanai izsniedz Komisija uz nenoteiktu laiku.",
+      "content": "(2) Speciālo atļauju (licenci) starpniekdarbības veikšanai izsniedz saskaņā ar šo likumu un Komisijas apstiprinātajiem licencēšanas noteikumiem.\n(3) Komisija var apturēt speciālo atļauju (licenci) starpniekdarbības veikšanai šādos gadījumos:\n1) brokeru sabiedrība vai banka ir pārkāpusi vai nav pildījusi likumus vai citus normatīvos aktus un nav izpildījusi Komisijas norādījumus;\n2) tiesā ir iesniegts maksātnespējas pieteikums par brokeru sabiedrības vai bankas maksātnespēju, vai brokeru sabiedrība vai banka ir pasludināta par maksātnespējīgu;\n3) brokeru sabiedrība vai banka ir iesniegusi rakstveida pieteikumu par speciālās atļaujas (licences) apturēšanu.\n(4) Komisija var anulēt speciālo atļauju (licenci) starpniekdarbības veikšanai šādos gadījumos:\n1) brokeru sabiedrība vai banka nav veikusi starpniekdarbību vērtspapīru publiskajā apgrozībā ilgāk par sešiem mēnešiem;\n2) brokeru sabiedrība vai banka ir rupji pārkāpusi likumus vai citus normatīvos aktus un nav izpildījusi Komisijas norādījumus;\n3) brokeru sabiedrībai vai bankai ir atkārtoti apturēta speciālā atļauja (licence) par likumu vai citu normatīvo aktu pārkāpumiem;\n4) Komisijas noteiktajā termiņā nav novērsti Komisijas konstatētie normatīvo aktu pārkāpumi.\n(5) Komisija anulē speciālo atļauju (licenci) starpniekdarbības veikšanai šādos gadījumos:\n1) brokeru sabiedrība vai banka ir iesniegusi rakstveida pieteikumu par speciālās atļaujas (licences) anulēšanu, kā arī nokārtojusi saistības pret klientiem un izpildījusi Komisijas norādījumus;\n2) banka ir atzīta par likvidējamu vai ir uzsākta brokeru sabiedrības bankrota procedūra;\n3) brokeru sabiedrība vai banka ir beigusi pastāvēt kā juridiskā persona."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "57",
+      "title": "(1) Brokeru sabiedrība, lai saņemtu speciālo atļauju (licenci) un būtu tiesīga veikt starpniekdarbību, izpilda un ievēro šādas prasības:",
+      "content": "1) nodrošina, lai tās kapitāla pietiekamība atbilst Komisijas izdoto noteikumu prasībām;\n2) nodrošina, lai tās amatpersonas ir kompetentas investīciju jautājumos un lai tām ir nevainojama reputācija. Amatpersonu loku un prasības attiecībā uz kompetenci investīciju jautājumos un nevainojamu reputāciju reglamentē Komisijas noteikumi;\n3) nodrošina darbības iekšējo uzraudzību un kontroli;\n4) nodrošina vērtspapīru darījumu izpildi, klientu vērtspapīru kontu un darījumu noslēpumu;\n5) noslēdz darba līgumus ar vismaz diviem brokeriem vai personām, kurām ir Komisijas izsniegts profesionālās kvalifikācijas sertifikāts darbībai vērtspapīru tirgū;\n6) saskaņā ar normatīvajiem aktiem un iekšējās kārtības noteikumiem veic drošības pasākumus datu apstrādē, glabāšanā un pārraidē;\n7) nodrošina klientu naudas līdzekļu šķirtu turēšanu no brokeru sabiedrības naudas līdzekļiem atsevišķā norēķinu kontā, kas atvērts bankā, darot zināmu bankai, ka kontā esošie līdzekļi ir klientu līdzekļi, kā arī nodrošina šo līdzekļu izmantošanu tikai saskaņā ar klientu un brokeru sabiedrības līgumu par starpniekdarbības veikšanu.\n(2) Banka, lai saņemtu speciālo atļauju (licenci) un būtu tiesīga veikt starpniekdarbību, izpilda un ievēro šādas prasības:\n1) izveido attiecīgas struktūrvienības starpniekdarbības veikšanai un nodrošina šo struktūrvienību pārvaldi, iekšējo uzraudzību un kontroli;\n2) nodrošina, lai tās struktūrvienību amatpersonas ir kompetentas investīciju jautājumos un tām ir nevainojama reputācija. Amatpersonu loku un prasības attiecībā uz kompetenci investīciju jautājumos un nevainojamu reputāciju reglamentē Komisijas noteikumi;\n3) nodrošina vērtspapīru darījumu izpildi, klientu vērtspapīru kontu un darījumu noslēpumu;\n4) noslēdz darba līgumus ar vismaz diviem brokeriem vai personām, kurām ir Komisijas izsniegts profesionālās kvalifikācijas sertifikāts darbībai vērtspapīru tirgū;\n5) saskaņā ar normatīvajiem aktiem un iekšējās kārtības noteikumiem veic drošības pasākumus datu apstrādē, glabāšanā un pārraidē.\n(3) Komisija izskata brokeru sabiedrības vai bankas pieteikumu par atļaujas (licences) starpniekdarbības veikšanai piešķiršanu un pieņem lēmumu 30 dienu laikā no pieteikuma un licencēšanas noteikumos norādīto dokumentu iesniegšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 57.1",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "57.1",
+      "title": "57. 1 pants. Brokeru sabiedrība vai banka sniedz klientiem un viņu pārstāvjiem, Komisijai pēc tās pieprasījuma, kā arī citām likumos noteiktajām institūcijām likumos paredzētajos gadījumos un kārtībā ziņas par brokeru sabiedrības vai bankas turētajiem vērtspapīru kontiem un vērtspapīru darījumu norēķinu kontiem vai citiem naudas kontiem, kuri izmantoti norēķiniem par vērtspapīru darījumiem.",
+      "content": "( 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "58",
+      "title": "(1) Brokeru sabiedrība vai banka slēdz ar klientu rakstveida līgumu par starpniekdarbības veikšanu. Šīs daļas izpratnē par rakstveida līgumu tiek uzskatīts arī elektroniski noslēgts līgums. Ja līgums tiek slēgts elektroniski, brokeru sabiedrībai vai bankai jābūt pirms tam ar klientu noslēgtam līgumam, kurš paredz iespēju brokeru sabiedrībai vai bankai savstarpējos līgumus ar klientu slēgt elektroniski un kurā ir paredzēta klienta identifikācijas procedūra.",
+      "content": "(2) Klientu uzdevumus darījumiem ar vērtspapīriem ir tiesīgs izpildīt tikai tāds brokers vai persona, kurai ir profesionālās kvalifikācijas sertifikāts darbībai vērtspapīru tirgū un kura ir noslēgusi darba līgumu ar brokeru sabiedrību vai banku, un par kuru brokeru sabiedrība vai banka pēc speciālās atļaujas (licences) starpniekdarbības veikšanai iegūšanas ir paziņojusi Komisijai. Šāds brokers vai persona ir atbildīga arī par klienta nodrošināšanu ar šā likuma 60.panta pirmajā daļā noteikto informāciju.\n(3) Klienta uzdevuma izpildi nedrīkst aizkavēt, un tas jāizpilda nekavējoties, ja klients nav devis īpašus rīkojumus par uzdevuma izpildes laiku vai cenu. Ja rodas apstākļi, kas kavē brokeru sabiedrības vai bankas pilnvaroto brokeru vai personu izpildīt saņemto uzdevumu, brokers vai pilnvarotā persona izpilda savu pienākumu ar trešās personas starpniecību, kurai ir profesionālās kvalifikācijas sertifikāts darbībai vērtspapīru tirgū.\n(4) Ja uzdevuma izpildē nav iespējams iesaistīt trešo personu, kurai ir profesionālās kvalifikācijas sertifikāts darbībai vērtspapīru tirgū, saņemto uzdevumu brokers vai pilnvarotā persona izpilda līdz galam neatkarīgi no darba līguma izbeigšanās termiņa vai citiem apstākļiem.\n(5) Pirms līguma noslēgšanas par starpniekdarbības veikšanu brokeru sabiedrība un banka:\n1) atklāj klientam būtisku informāciju, kura attiecas uz konkrēto pakalpojumu;\n2) paziņo klientam par to, kurš ieguldītāju garantiju vai kompensāciju mehānisms ir attiecināms uz konkrētajiem darījumiem un kādu aizsardzības apjomu tas paredz, vai arī to, ka šāds garantiju vai kompensāciju mehānisms nepastāv.\n(6) Šā panta piektajā daļā minēto informāciju brokeru sabiedrība vai banka klientam turpina atklāt starpniekdarbības veikšanas gaitā, ja attiecīgā informācija mainās vai papildinās.\n(7) Brokeru sabiedrība vai banka no klienta, ciktāl tas nepieciešams klienta interešu nodrošināšanai un aizsardzībai un atbilstoši attiecīgā pakalpojuma raksturam un apjomam, pieprasa šādas ziņas:\n1) ziņas par klienta pieredzi un zināšanām attiecībā uz starpniekdarbības ietvaros slēdzamajiem darījumiem;\n2) ziņas par klienta mērķiem, kurus tas vēlas sasniegt ar attiecīgajiem darījumiem;\n3) ziņas par klienta finansiālo stāvokli.\nPieprasot šajā daļā norādītās ziņas, brokeru sabiedrība vai banka vienlaikus informē klientu par to, ka viņam ir tiesības atteikties sniegt pieprasītās ziņas.\n(8) Ja klients bankai vai brokeru sabiedrībai atsakās sniegt šā panta septītajā daļā noteikto informāciju vai nesniedz informāciju par būtiskām izmaiņām informācijā, ko klients brokeru sabiedrībai vai bankai iepriekš sniedzis saskaņā ar šā panta septītās daļas 2. vai 3.punktu, brokeru sabiedrība vai banka nav atbildīga pret klientu par sekām, kuras izraisījusi klienta atteikšanās sniegt informāciju vai neziņošana par izmaiņām iepriekš sniegtajā informācijā."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "59",
+      "title": ". (1) Brokeru sabiedrībai un bankai, veicot starpniekdarbību, ir pienākums rīkoties godīgi un nodrošināt sniegto pakalpojumu pienācīgu profesionalitāti un rūpību klienta interesēs.",
+      "content": "(2) Līgumos par starpniekdarbības veikšanu, kurus brokeru sabiedrība vai banka slēdz ar klientu, nedrīkst ietvert noteikumus, kas būtu pretrunā ar šā panta pirmajā daļā noteikto vai apslēptā veidā ietvertu sekas, kas jebkādā veidā būtu vērstas pret klientu.\n(3) Brokeru sabiedrība un banka veic visus nepieciešamos un iespējamos pasākumus, lai izvairītos no interešu konflikta, kas var rasties sakarā ar klienta uzdevumu izpildi, bet, ja interešu konflikts ir neizbēgams, klienta uzdevumi jāpilda, pienācīgi ievērojot klienta intereses, vai arī jāatsakās no klienta uzdevumu izpildes.\n(4) Par interešu konfliktu šā panta izpratnē uzskatāma situācija, kad brokeru sabiedrības vai bankas pilnvarotiem pārstāvjiem vienlaikus ir jāpieņem lēmumi, kuri saistīti ar ieguldījumiem brokeru sabiedrības, bankas vai pašas personas vārdā vai interesēs un kuru rezultātā varētu nelabvēlīgi tikt skartas klientu intereses attiecībā uz šā paša veida ieguldījumiem vai ieguldījumiem vienā un tajā pašā objektā."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "60",
+      "title": "(1) Brokeram jāsniedz klientiem un ieguldītājiem savstarpēji līdzvērtīga informācija, kas saistīta ar vērtspapīru pieprasījumu vai piedāvājumu, ja šī informācija var ietekmēt viņu intereses vai lēmumus.",
+      "content": "(2) Ja ieguldītājs cieš zaudējumus nepareizas brokera sniegtās informācijas dēļ, ieguldītājam ir tiesības prasīt zaudējumu atlīdzināšanu likumdošanas aktos noteiktajā kārtībā.\n(3) Brokeram nav tiesību izpaust vai izmantot iekšējo informāciju, kā arī informāciju, kurā ir emitenta, ieguldītāja vai trešās personas profesionālie vai tirdzniecības noslēpumi.\n(4) Brokeram ir aizliegts izpaust, nodot vai izmantot nepublicētus faktus un informāciju, kuru iespējams iegūt, tikai veicot starpniekdarbību, un kura varētu ietekmēt vērtspapīru vērtību vai ar kuras palīdzību varētu gūt mantisku vai ar mantiskām attiecībām saistītu nemantisku labumu sev vai citai personai."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "61",
+      "title": "Visos gadījumos, kad brokera pasūtījuma izpilde, kas attiecas uz vienu un to pašu vērtspapīru vienā un tajā pašā darījuma veidā, vēl nav uzsākta, klienta pasūtījums vienmēr jāizpilda pirms brokera pasūtījuma.",
+      "content": "61.pants. Visos gadījumos, kad brokera pasūtījuma izpilde, kas attiecas uz vienu un to pašu vērtspapīru vienā un tajā pašā darījuma veidā, vēl nav uzsākta, klienta pasūtījums vienmēr jāizpilda pirms brokera pasūtījuma."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "62",
+      "title": "(1) Brokeram ir aizliegts bez klienta piekrišanas veikt darījumus ar klientam piederošajiem vērtspapīriem.",
+      "content": "(2) Ieguldītāju vērtspapīri brokeru sabiedrībai vai bankai jāiegrāmato un jātur nošķirti no tiem vērtspapīriem, kuri pieder brokeriem, brokeru sabiedrībai vai bankai.\n(3) Brokeru sabiedrība un banka ir atbildīga par vērtspapīru publiskās apgrozības darījumu reģistrēšanu un ieguldītāja vērtspapīru publiskās apgrozības darījumos iegūto īpašuma tiesību reģistrēšanu."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "VI nodaļa. Starpniekdarbība (Nodaļas nosaukums 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "63",
+      "title": ". (1) Vērtspapīru tirgū ir aizliegti jebkādi negodīgi vai manipulatīvi darījumi, kā arī nepatiesas vai maldinošas informācijas sniegšana.",
+      "content": "(2) Par negodīgiem uzskatāmi darījumi, kuri neatbilst Civillikuma vispārīgajiem noteikumiem un kuru rezultātā tiek aizskartas līdzēju vai citu personu tiesības vai likumīgās intereses.\n(3) Par manipulatīviem uzskatāmi darījumi:\n1) kuros vērtspapīri tiek pirkti un pārdoti, lai radītu apgrozības šķietamību;\n2) kuru rezultātā tiek vai var tikt mākslīgi ietekmēta (uzturēta, paaugstināta, pazemināta) vērtspapīru cena;\n3) kuru rezultātā tiek vai var tikt būtiski traucēta vērtspapīru tirgus normāla funkcionēšana."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "VII nodaļa. Akciju paketes iegādāšanās",
+      "section": "64",
+      "title": "(1) Ieguldītājs, kurš iegūst savā īpašumā tādas akciju sabiedrības akcijas, kuras akcijas atrodas publiskajā apgrozībā tādā daudzumā, kas nodrošina vismaz vienu desmitdaļu, vienu ceturtdaļu, pusi vai trīs ceturtdaļas no visām akcionāru sapulces balsīm, par to septiņu dienu laikā pēc akciju iegūšanas paziņo Komisijai un akciju sabiedrībai. Ja ieguldītājs vēlas iegūt apdrošināšanas akciju sabiedrību akcijas šajā daļā noteiktajā daudzumā, vispirms ieguldītājs ievēro Apdrošināšanas sabiedrību un to uzraudzības likumu .",
+      "content": "(2) Ja ieguldītājs septiņu dienu laikā no akciju iegūšanas dienas pārdod akcijas šā panta pirmajā daļā minētajā daudzumā, viņam par akciju iegādāšanos akciju sabiedrībai nav jāpaziņo.\n(3) Ja ieguldītājs pārdod akcijas šā panta pirmajā daļā noteiktajā daudzumā pēc tam, kad viņš paziņojis akciju sabiedrībai par akciju iegādāšanos, vai arī ja ieguldītājs pārdod tādu šo akciju daudzuma daļu, kas samazina viņa balsu skaitu akcionāru sapulcē vismaz par pieciem procentiem, par to septiņu dienu laikā no pārdošanas dienas jāpaziņo Komisijai un akciju sabiedrībai.\n(4) Ja ieguldītājs šā panta pirmajā un trešajā daļā noteiktajos gadījumos un termiņos neinformē akciju sabiedrību, viņš nevar izmantot balsstiesības, ko nodrošina noteikta daudzuma akcijas, kas iegādātas virs šā panta pirmajā daļā noteiktajiem balsstiesību normatīviem.\n(5) Akcionāru sapulces lēmumi, kas pieņemti, nelikumīgi izmantojot balsstiesības, ko nodrošina noteikta daudzuma akcijas, nav spēkā.\n(6) Ja akcionāra balsstiesības akcionāru sapulcē pārsniedz vienu desmitdaļu, vienu ceturtdaļu, pusi vai trīs ceturtdaļas no visām akcionāru sapulces balsīm vai tās ir attiecīgi samazinājušās, akciju sabiedrība deviņu dienu laikā no dienas, kad tā saņēmusi ieguldītāja oficiālu paziņojumu par izmaiņām akcionāru balsstiesībās vai citādā veidā uzzinājusi par izmaiņām akcionāru balsstiesībās, publicē minēto paziņojumu laikrakstā “Latvijas Vēstnesis”."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "VII nodaļa. Akciju paketes iegādāšanās",
+      "section": "65",
+      "title": ". (1) Persona, kas tieši vai netieši iegūst tādas akciju sabiedrības akcijas, kuras akcijas atrodas publiskajā apgrozībā, tādā daudzumā, ka to iegūšanas rezultātā šīs personas balsstiesības akcionāru sapulcē sasniegs vai pārsniegs pusi vai trīs ceturtdaļas no kopējā balsu skaita, piedāvā atpirkt no pārējiem akciju sabiedrības akcionāriem tiem piederošās akcijas. Piedāvājumu pārējiem akcionāriem atpirkt akcijas izsaka arī ieguldītāji, kas akcionāru sapulcē jautājumā par akciju izņemšanu no publiskās apgrozības ir balsojuši “par”.",
+      "content": "(2) Komisija izdod noteikumus par akciju atpirkšanas piedāvājuma izteikšanas un akciju atpirkšanas kārtību, kā arī par mehānismu, pēc kāda nosakāmas akciju atpirkšanas cenas.\n(3) Ja persona izsaka piedāvājumu atpirkt no pārējiem akciju sabiedrības akcionāriem tiem piederošās akcijas šā panta pirmajā daļā neparedzētos gadījumos, tā akciju atpirkšanas piedāvājumu izsaka un akcijas atpērk Komisijas noteiktajā kārtībā.\n(4) Ieguldītājs nevar izmantot jauniegūtās balsstiesības akcionāru sapulcē, ja viņš:\n1) šā panta pirmajā daļā noteiktajos gadījumos neizsaka akciju atpirkšanas piedāvājumu, izsaka akciju atpirkšanas piedāvājumu vai atpērk akcijas, neievērojot Komisijas noteikto kārtību;\n2) šā panta trešajā daļā noteiktajos gadījumos izsaka akciju atpirkšanas piedāvājumu vai atpērk akcijas, neievērojot Komisijas noteikto kārtību."
+    },
+    {
+      "provision_ref": "Art. 65.1",
+      "chapter": "VII nodaļa. Akciju paketes iegādāšanās",
+      "section": "65.1",
+      "title": "65. 1 pants. (1) Aprēķinot šā likuma 64. un 65.pantā noteiktās balsstiesības, tām pieskaita arī tās balsstiesības, kuras:",
+      "content": "1) iegūst trešās personas savā vārdā, bet ieguldītāja uzdevumā;\n2) iegūst ieguldītāja meitas uzņēmumi;\n3) iegūst trešās personas saskaņā ar vienošanos, kas noslēgta ar ieguldītāju par ilgstošu vai sistemātisku kopīgu rīcību attiecībā uz emitenta pārvaldi;\n4) iegūst trešās personas saskaņā ar vienošanos, kas noslēgta ar ieguldītāju par balsstiesību nodošanu uz laiku par atlīdzību;\n5) izriet no personas turējumā nodotajām akcijām un kuras persona ir tiesīga izlietot pēc saviem ieskatiem bez atsevišķa uzdevuma saņemšanas no to ieguldītāja;\n6) nodrošina ieguldītāja īpašumā esošās akcijas, kas ir kā nodrošinājums par labu trešajai personai. Ja šī trešā persona kontrolē no ieķīlātām akcijām izrietošās balsstiesības un paziņo par vēlēšanos tās izlietot, attiecīgās balsstiesības uzskatāmas par šīs trešās personas balsstiesībām;\n7) iegūst jebkurā citā netiešā veidā.\n(2) Ja šā panta pirmās daļas 5.punktā noteiktās balsstiesības kopā ar citām šīs personas balsstiesībām attiecīgajā akciju sabiedrībā atbilst kādam no šā likuma 64. vai 65.panta pirmajā daļā noteiktajiem balsstiesību daudzumiem, personai ir pienākums par to paziņot akciju sabiedrībai ne vēlāk kā 21 dienas laikā pirms akciju sabiedrības akcionāru sapulces sasaukšanas.\n(3) Ieguldītājs akciju sabiedrībā iegūst balsstiesības, ko nodrošina noteikta daudzuma akcijas, kas iegādātas virs šā likuma 64. un 65.pantā noteiktajiem balsstiesību normatīviem, pēc tam, kad viņš šā panta pirmajā daļā noteiktajos gadījumos, kā arī šā panta otrajā daļā un šā likuma 64. un 65.pantā paredzētajā kārtībā un termiņos ir informējis par to Komisiju un akciju sabiedrību."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "66",
+      "title": "(1) Par šā likuma vai par citu vērtspapīru tirgu regulējošo normatīvo aktu pārkāpumiem Komisija var piemērot šādas sankcijas:",
+      "content": "1) brīdinājumu;\n2) soda naudu;\n3) aizliegumu veikt vērtspapīru darījumus;\n4) speciālās atļaujas (licences) darbības apturēšanu;\n5) speciālās atļaujas (licences) anulēšanu.\n(2) Personai ir tiesības Komisijas lēmumu vai rīkojumu par sankciju piemērošanu pārsūdzēt tiesā 30 dienu laikā pēc tā pieņemšanas. Lēmuma pārsūdzēšana tiesā neaptur tā izpildi."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "67",
+      "title": "(1) Komisijas uzlikto soda naudu persona samaksā ne vēlāk kā 30 dienu laikā no brīža, kad Komisija pieņēmusi lēmumu par soda naudas uzlikšanu.",
+      "content": "(2) Ja persona šā panta pirmajā daļā noteiktajā termiņā nesamaksā uzlikto soda naudu, Komisijai ir tiesības likumos noteiktajā kārtībā griezties tiesā par soda naudas piedziņu.\n(3) Komisijas uzliktā soda nauda ieskaitāma valsts pamatbudžetā."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "68",
+      "title": "(1) Par darbības uzsākšanu vērtspapīru tirgū bez nepieciešamās atļaujas (licences) Komisija brokeru sabiedrībai, bankai, fondu biržai vai jebkuram citam vērtspapīru tirgus dalībniekam, kam šādu atļauju (licenci) izsniedz Komisija, uzliek soda naudu līdz 20 000 latu.",
+      "content": "(2) Ja ieguldītājs nepaziņo Komisijai par akciju iegūšanu vai atsavināšanu šā likuma 64. , 65. un 65. 1 pantā noteiktajā daudzumā vai neizdara to šajā likumā noteiktajā laikā, vai arī sniedz nepatiesas ziņas par iegūto vai atsavināto akciju daudzumu, Komisija personai uzliek soda naudu līdz 20 000 latu."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "69",
+      "title": "Par nereģistrētu vērtspapīru laišanu publiskajā apgrozībā Komisija vērtspapīru tirgus dalībniekam, kas laidis publiskajā apgrozībā Komisijā nereģistrētus vērtspapīrus vai veicinājis šādu vērtspapīru laišanu publiskajā apgrozībā, uzliek soda naudu līdz 20 000 latu.",
+      "content": "( 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "70",
+      "title": "(1) Par šā likuma 26.panta noteikumu neievērošanu Komisija personai izsaka brīdinājumu vai uzliek soda naudu līdz 15 000 latu.",
+      "content": "(2) Ja persona šā panta pirmajā daļā noteiktajos gadījumos neizpilda Komisijas norādījumus pēc izteiktā brīdinājuma, Komisija personai uzliek soda naudu līdz 20 000 latu."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "71",
+      "title": "(1) Par šā likuma 9.panta otrās daļas 3.punkta, 23. , 24. , 27. , 28.panta , 39.panta trešās daļas, 58. , 59. , 60. , 61. vai 62.panta noteikumu neievērošanu Komisija personai izsaka brīdinājumu vai uzliek soda naudu līdz 15 000 latu.",
+      "content": "(2) Ja persona šā panta pirmajā daļā noteiktajos gadījumos neizpilda Komisijas norādījumus pēc izteiktā brīdinājuma, Komisija personai uzliek soda naudu līdz 20 000 latu.\n(3) Komisija var pieprasīt publicēt informāciju, ko attiecīgās personas sniedz Komisijai atbilstoši šā panta pirmajā daļā minēto pantu noteikumiem, vai publicēt to savā vārdā, ja tā aizsargā ieguldītāju intereses."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "72",
+      "title": "(1) Ja licencēta brokeru sabiedrība vai banka neievēro šā likuma 41.panta noteikumus, Komisija licencētai brokeru sabiedrībai vai bankai izsaka brīdinājumu vai uzliek soda naudu līdz 15 000 latu.",
+      "content": "(2) Ja licencēta brokeru sabiedrība vai banka šā panta pirmajā daļā noteiktajos gadījumos neizpilda Komisijas norādījumus pēc izteiktā brīdinājuma, Komisija brokeru sabiedrībai vai bankai uzliek soda naudu līdz 20 000 latu."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "73",
+      "title": "(1) Par šā likuma 63.panta noteikumu neievērošanu Komisija personai izsaka brīdinājumu vai uzliek soda naudu līdz 15 000 latu.",
+      "content": "(2) Ja persona šā panta pirmajā daļā noteiktajos gadījumos neizpilda Komisijas norādījumus pēc izteiktā brīdinājuma, Komisija personai uzliek soda naudu līdz 20 000 latu."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "74",
+      "title": "(1) Par citiem šā likuma vai par citu vērtspapīru tirgu regulējošo normatīvo aktu pārkāpumiem Komisija personām izsaka brīdinājumu vai uzliek soda naudu līdz 5000 latu.",
+      "content": "(2) Ja persona šā panta pirmajā daļā noteiktajos gadījumos neizpilda Komisijas norādījumus pēc izteiktā brīdinājuma, Komisija personai uzliek soda naudu līdz 10 000 latu."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "75",
+      "title": "Lai lietām par šā likuma vai par citu vērtspapīru tirgu regulējošo normatīvo aktu pārkāpumiem nodrošinātu savlaicīgu, vispusīgu, pilnīgu un objektīvu izskatīšanu, Komisijai ir tiesības, izdodot rīkojumu, aizliegt brokeru sabiedrībai vai bankai veikt darījumus ar saviem vai klienta vērtspapīriem vai arī apturēt atļauju (licenci) starpniekdarbības veikšanai Komisijas noteiktajā kārtībā.",
+      "content": "( 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "VIII nodaļa. Atbildība (Nodaļa 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )",
+      "section": "76",
+      "title": ". Par šā likuma vai par citu vērtspapīru tirgu regulējošo normatīvo aktu neievērošanu Komisijai ir tiesības ar rīkojumu tās noteiktajā kārtībā anulēt brokeru sabiedrībai vai bankai izsniegto speciālo atļauju (licenci) starpniekdarbības veikšanai vai vērtspapīru tirgus profesionālajam speciālistam izsniegto profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Pārejas noteikumi",
+      "section": "1",
+      "title": "1. Līdz likuma “ Par Vērtspapīru tirgus komisiju ” spēkā stāšanās dienai un Vērtspapīru tirgus komisijas izveidošanai visas Komisijas funkcijas veic Finansu ministrija.",
+      "content": "1. Līdz likuma “ Par Vērtspapīru tirgus komisiju ” spēkā stāšanās dienai un Vērtspapīru tirgus komisijas izveidošanai visas Komisijas funkcijas veic Finansu ministrija."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Pārejas noteikumi",
+      "section": "2",
+      "title": "2. Ieguldījumu sabiedrību un ieguldījumu konsultantu tiesisko statusu, tiesības un darbību nosaka likumi par ieguldījumu sabiedrībām un konsultantiem, ciktāl to darbība nav noteikta šajā likumā.",
+      "content": "2. Ieguldījumu sabiedrību un ieguldījumu konsultantu tiesisko statusu, tiesības un darbību nosaka likumi par ieguldījumu sabiedrībām un konsultantiem, ciktāl to darbība nav noteikta šajā likumā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Pārejas noteikumi",
+      "section": "3",
+      "title": "3. Par vērtspapīriem, uz kuriem bijusi izsludināta publiska parakstīšanās saskaņā ar likumu “ Par akciju sabiedrībām ” un citiem likumiem un kuri ir apgrozībā šā likuma spēkā stāšanās brīdī, un uz kuriem attiecas šis likums, jāiesniedz Komisijai memorands šā likuma 16.panta trešajā daļā noteikto prasību apjomā, kā arī tie jāreģistrē Komisijā tās noteiktajā termiņā, kas nevar būt ilgāks par pusgadu no šā likuma spēkā stāšanās dienas.",
+      "content": "3. Par vērtspapīriem, uz kuriem bijusi izsludināta publiska parakstīšanās saskaņā ar likumu “ Par akciju sabiedrībām ” un citiem likumiem un kuri ir apgrozībā šā likuma spēkā stāšanās brīdī, un uz kuriem attiecas šis likums, jāiesniedz Komisijai memorands šā likuma 16.panta trešajā daļā noteikto prasību apjomā, kā arī tie jāreģistrē Komisijā tās noteiktajā termiņā, kas nevar būt ilgāks par pusgadu no šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Pārejas noteikumi",
+      "section": "4",
+      "title": "4. Visu publisko emisiju vērtspapīrus šā likuma spēkā stāšanās brīdī emitenti drīkst izlaist, ievērojot šā likuma 6.panta pirmajā daļā noteiktās prasības, neatkarīgi no vērtspapīru veida, un tie jāreģistrē un jāiegrāmato Latvijas Centrālajā depozitārijā.",
+      "content": "4. Visu publisko emisiju vērtspapīrus šā likuma spēkā stāšanās brīdī emitenti drīkst izlaist, ievērojot šā likuma 6.panta pirmajā daļā noteiktās prasības, neatkarīgi no vērtspapīru veida, un tie jāreģistrē un jāiegrāmato Latvijas Centrālajā depozitārijā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Pārejas noteikumi",
+      "section": "5",
+      "title": "5. Komisija nosaka visu Latvijas Republikā publiskajā apgrozībā esošo vērtspapīru pilnīgas dematerializācijas kārtību un termiņus.",
+      "content": "5. Komisija nosaka visu Latvijas Republikā publiskajā apgrozībā esošo vērtspapīru pilnīgas dematerializācijas kārtību un termiņus."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Pārejas noteikumi",
+      "section": "6",
+      "title": "6. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi Nr.10 “Par vērtspapīriem” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 4.nr.).",
+      "content": "6. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi Nr.10 “Par vērtspapīriem” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 4.nr.)."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Pārejas noteikumi",
+      "section": "7",
+      "title": "7. Šā likuma 10.panta otrās daļas un 22.panta otrās daļas normas par valsts nodevas samaksu stājas spēkā vienlaikus ar atbilstošiem grozījumiem likumā “ Par nodokļiem un nodevām ”.",
+      "content": "( 11.06.1997 . likuma redakcijā, kas stājas spēkā 11.07.1997. )"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Pārejas noteikumi",
+      "section": "8",
+      "title": "8. Līdz brīdim, kad valsts akciju sabiedrība “Latvijas Hipotēku un zemes banka” tiek reģistrēta komercreģistrā, minētajai bankai ir tiesības Hipotekāro ķīlu zīmju likumā noteiktajā kārtībā laist publiskajā apgrozībā hipotekārās ķīlu zīmes.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Pārejas noteikumi",
+      "section": "9",
+      "title": "9. Persona, kas tieši vai netieši ieguvusi publiskās akciju sabiedrības akcijas likuma \"Par vērtspapīriem\" 65.panta pirmajā daļā noteiktajā daudzumā pirms 1999.gada 25.septembra, izsaka šā likuma 65.panta devītās daļas pirmajā teikumā paredzēto akciju atpirkšanas piedāvājumu līdz 2001.gada 1.jūlijam.",
+      "content": "( 17.02.2000 . likuma redakcijā, kas stājas spēkā 16.03.2000. )"
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Pārejas noteikumi",
+      "section": "10",
+      "title": "10. Līdz 2003.gada 26.septembrim šā likuma 65.panta devītās daļas pirmajā teikumā paredzēto piedāvājumu atpirkt akcijas no pārējiem akcionāriem var neizteikt:",
+      "content": "1) ieguldītājs, kurš ir ieguvis tādas akciju sabiedrības akcijas, kuras akcijas atrodas publiskajā apgrozībā šā likuma 65.panta pirmajā daļā noteiktajā daudzumā saskaņā ar valsts vai pašvaldības uzņēmuma vai statūtsabiedrības privatizācijas vai atsavināšanas noteikumiem (projektu, konkursa noteikumiem);\n2) ieguldītājs, kurš ar privatizāciju vai atsavināšanu veicošās institūcijas atļauju tādas akciju sabiedrības akcijas, kuras akcijas atrodas publiskajā apgrozībā nopircis no šā punkta 1.apakšpunktā minētā ieguldītāja;\n3) šā punkta 1. un 2.apakšpunktā minētais ieguldītājs, ja viņš akcijas šā likuma 65.panta pirmajā daļā noteiktajā daudzumā ir ieguvis virs privatizācijas vai atsavināšanas noteikumos (projektā, konkursa noteikumos) paredzētā apjoma."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Pārejas noteikumi",
+      "section": "11",
+      "title": "11. Atļauja (licence) fondu biržas darbībai, kas izsniegta līdz 2000.gada 1.jūlijam, ir derīga līdz atļaujā (licencē) fondu biržas darbībai norādītajam derīguma termiņam.",
+      "content": "( 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Pārejas noteikumi",
+      "section": "12",
+      "title": "12. Atļauja (licence) starpniekdarbības veikšanai, kas izsniegta brokeru sabiedrībai vai bankai līdz 2000.gada 1.jūlijam, ir derīga līdz atļaujā (licencē) starpniekdarbības veikšanai norādītajam derīguma termiņam.",
+      "content": "( 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Pārejas noteikumi",
+      "section": "13",
+      "title": "13. Grozījums likuma 8.panta pirmajā daļā stājas spēkā 2000.gada 1.oktobrī.",
+      "content": "( 25.05.2000 . likuma redakcijā, kas stājas spēkā 28.06.2000. )"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Pārejas noteikumi",
+      "section": "14",
+      "title": "14. Šā likuma 4.panta otrās daļas 2.punktā paredzēto valsts īpašuma atsavināšanu veicošās institūcijas funkciju pilda bezpeļņas organizācija valsts akciju sabiedrība \"Privatizācijas aģentūra\" līdz brīdim, kad bezpeļņas organizācija valsts akciju sabiedrība \"Privatizācijas aģentūra\" saskaņā ar Ministru kabineta rīkojumu šo funkciju ir nodevusi Ministru kabineta noteiktajai valsts īpašuma atsavināšanu veicošajai institūcijai.",
+      "content": "( 10.05.2001 . likuma redakcijā, kas stājas spēkā 05.06.2001. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Pārejas noteikumi",
+      "section": "15",
+      "title": "15. Līdz brīdim, kad akciju sabiedrības tiek reģistrētas komercreģistrā, attiecībā uz šīm akciju sabiedrībām piemērojot terminu “akcionāru sapulce”, tas uzskatāms par terminu “akcionāru pilnsapulce”.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Pārejas noteikumi",
+      "section": "16",
+      "title": "16. Kapitālsabiedrībām, kuras veic starpniekdarbību ar Latvijā publiskajā apgrozībā neesošiem vērtspapīriem un kurām nav speciālās atļaujas (licences) starpniekdarbības veikšanai, speciālā atļauja (licence) starpniekdarbības veikšanai ir jāsaņem līdz 2002.gada 30.jūnijam.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Pārejas noteikumi",
+      "section": "17",
+      "title": "17. Licence, kas izsniegta vērtspapīru tirgus profesionālajiem speciālistiem līdz 2001.gada 31.decembrim, ir derīga līdz licencē norādītā derīguma termiņa beigām. Veicot licences kārtējo pagarināšanu, tā bez atkārtotas kvalifikācijas eksāmena kārtošanas tiek aizstāta ar profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū.",
+      "content": "( 08.11.2001 . likuma redakcijā, kas stājas spēkā 01.01.2002. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vērtspapīrs",
+      "definition": "dokuments, kas apliecina emitenta saistību pret dokumenta valdītāju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dematerializēts vērtspapīrs",
+      "definition": "vērtspapīrs, kas nav nodrukāts uz papīra un eksistē kā ieraksts likumā noteiktajā veidā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vārda vērtspapīrs",
+      "definition": "vērtspapīrs, kura īpašnieks emitentam ir zināms",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uzrādītāja vērtspapīrs",
+      "definition": "vērtspapīrs, kura īpašnieks emitentam nav zināms, bet ziņas par viņu iespējams iegūt Latvijas Centrālā depozitārija noteiktajā kārtībā vai arī pēc vērtspapīra īpašnieka iniciatīvas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru šķira",
+      "definition": "tādu vērtspapīru kopums, kuros nostiprinātas viena un tā paša veida tiesības (akcijas, obligācijas un citi vērtspapīri)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru veids",
+      "definition": "vārda vērtspapīrs vai uzrādītāja vērtspapīrs vai arī vienas šķiras vārda vērtspapīri, vai uzrādītāja vērtspapīri, kuros nostiprinātas noteiktas tiesības (parastās akcijas, priekšrocību akcijas, personāla akcijas un citas akcijas)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru kategorija",
+      "definition": "vienas šķiras un viena veida vērtspapīri, kuros nostiprinātas tiesības ar īpašiem šo tiesību realizācijas nosacījumiem (parastās akcijas ar ierobežojumiem to atsavināšanā un citas akcijas)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru forma",
+      "definition": "vērtspapīru eksistences veids, kas izpaužas divējādi: uz papīra nodrukāts vērtspapīrs vai arī dematerializēts vērtspapīrs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru sērija",
+      "definition": "vērtspapīru kopums, kuru veido visi vienā emisijā izlaisti savstarpēji atvietojami vērtspapīri",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvietojamības princips",
+      "definition": "viena un tā paša emitenta izlaistajos vienas šķiras un kategorijas vērtspapīros nostiprināto tiesību saglabāšanās publiskajā apgrozībā nemainīgā apjomā neatkarīgi no vērtspapīru formas, sērijas, koda vai kārtas numura",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "fondu birža",
+      "definition": "akciju sabiedrība, kas organizē atklātu un regulāru vērtspapīru publiskās apgrozības darījumu slēgšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "fondu biržas biedri",
+      "definition": "saskaņā ar fondu biržas noteikumiem par biedriem uzņemtās licencētās personas, kas drīkst piedalīties biržas tirdzniecības sesijās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "emitents",
+      "definition": "persona, kas izlaiž vērtspapīrus savā vārdā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "emisija",
+      "definition": "viena emitenta vērtspapīru izlaides process",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieguldītājs",
+      "definition": "šā likuma izpratnē: persona, kas savā vārdā iegūst vai ir ieguvusi vērtspapīrus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "brokers",
+      "definition": "fiziskā persona, kas ieguvusi Finansu un kapitāla tirgus komisijas izsniegtu profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū un veic starpniecības darījumus ar vērtspapīriem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "brokeru sabiedrība",
+      "definition": "Latvijas Republikā vai ārvalstīs reģistrēta kapitālsabiedrība, izņemot kredītiestādes, kura sistemātiski un profesionāli veic starpniekdarbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieguldījumu konsultants",
+      "definition": "fiziskā persona, kas ieguvusi profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū, reģistrēta Finansu un kapitāla tirgus komisijā un par maksu sniedz konsultācijas un pakalpojumus ar naudas ieguldīšanu un darbību vērtspapīru tirgū saistītajos jautājumos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konta turētājs",
+      "definition": "juridiskā persona, kas ir tiesīga atvērt, turēt un slēgt ieguldītāju vērtspapīru kontus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sākotnējā izvietošana",
+      "definition": "emitenta vai tā pilnvarotas personas izteikts pirmais publiskais piedāvājums iegūt vērtspapīrus un to pirmreizējā iegūšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ārpusbiržas tirgus",
+      "definition": "vērtspapīros nostiprināto tiesību iegūšana un atdošana, kas notiek ārpus fondu biržas un ko regulē Finansu un kapitāla tirgus komisija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru tirgus dalībnieki",
+      "definition": "bankas un ārvalstu banku nodaļas vai filiāles (turpmāk — bankas), emitenti, ieguldītāji, brokeru sabiedrības, vērtspapīru tirgus profesionālie speciālisti, ieguldījumu sabiedrības, fondu biržas, Latvijas Centrālais depozitārijs, personas, kas laiž vērtspapīrus publiskajā apgrozībā, un citas personas, kuras veic šajā likumā regulētās darbības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "depozitārijs",
+      "definition": "brokeru sabiedrības vai bankas vērtspapīru uzskaites struktūrvienība, kas iegrāmato, uzskaita un glabā vērtspapīrus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Latvijas Centrālais depozitārijs",
+      "definition": "akciju sabiedrība, kas iegrāmato, uzskaita un glabā Latvijas Republikā publiskajā apgrozībā izlaistos un esošos vērtspapīrus, kā arī nodrošina vērtspapīru un naudas norēķinus vērtspapīru darījumos fondu biržā un vērtspapīru norēķinus starp kontu turētājiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "noguldījuma sertifikāts",
+      "definition": "vērtspapīrs, ko izlaiž kredītiestāde un kas apliecina tās saistību izmaksāt vērtspapīra īpašniekam viņa noguldīto naudas summu un noteikto procentu likmi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "emisijas prospekts",
+      "definition": "dokuments, kurā ir detalizēta informācija par emitentu un vērtspapīriem, ko tas piedāvā publiskajā apgrozībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvasinātais vērtspapīrs",
+      "definition": "finansu darījuma dokuments, kura vērtību nosaka bāzes aktīvu vai vērtspapīru indeksu cenu izmaiņas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru tirgus profesionālie speciālisti",
+      "definition": "brokeri, ieguldījumu konsultanti un citas fiziskās personas, kas ieguvušas Finansu un kapitāla tirgus komisijas izsniegtu profesionālās kvalifikācijas sertifikātu darbībai vērtspapīru tirgū un veic šo darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būtisks notikums",
+      "definition": "jebkurš ar emitentu saistīts notikums, kas emitentam ir zināms vai būtu bijis jāzina un kas var ietekmēt emitenta vērtspapīru cenu vai ieguldītāja lēmumu pirkt vai pārdot vērtspapīrus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru publiskais piedāvājums (turpmāk",
+      "definition": "publiskais piedāvājums) — vērtspapīru īpašnieka vai tā pilnvarotas personas izteikts piedāvājums iegūt vērtspapīrus, kā arī jebkādas informācijas sniegšana par iespējām tos iegūt, izmantojot masu informācijas, sakaru vai saziņas līdzekļus, ja publiskais piedāvājums izteikts vienlaicīgi vismaz 50 personām vai adresēts nenoteiktam personu skaitam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru darījums",
+      "definition": "darījums, kurā darījuma priekšmets ir vērtspapīri",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru darījumu norēķinu konts",
+      "definition": "naudas konts, kura līdzekļi izmantojami tikai tādiem klienta norēķiniem, kas saistīti ar vērtspapīriem vai vērtspapīru darījumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iekšējā informācija",
+      "definition": "ar emitentu vai vērtspapīriem saistīta informācija, kura nav publiski atklāta un kuras publiska atklāšana būtiski ietekmētu vērtspapīru cenu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtspapīru kods",
+      "definition": "kods, ko piešķir katram atvietojamo vērtspapīru kopumam.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

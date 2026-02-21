@@ -1,0 +1,296 @@
+{
+  "id": "lv-law-36937",
+  "type": "statute",
+  "title": "Par uzņēmējdarbības regulēšanu enerģētikā",
+  "short_name": "TA-36937",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/36937-par-uznemejdarbibas-regulesanu-energetika",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) energoapgāde — uzņēmējdarbība, kura ietver energoresursu ražošanu, uzglabāšanu, pārvadīšanu, sadalīšanu vai realizāciju un kurai nepieciešama licence;\n2) licence — šā likuma izpratnē: energoapgādes licence;\n3) licences darbības zona — licencē norādītā teritorija, kurā ir tiesīgs darboties licencētais energoapgādes uzņēmums un patērētājs vai patērētāju grupa;\n4) energoapgādes uzņēmums — uzņēmējs, kas nodarbojas ar energoapgādi un kam saskaņā ar šā likuma prasībām ir izsniegta licence;\n5) energoapgādes uzņēmuma objekts — energoapgādes uzņēmumam piederošas vai tā lietošanā esošas ēkas, būves vai iekārtas, kas paredzētas energoresursu ražošanai, uzglabāšanai, pārvadīšanai, sadalīšanai vai realizācijai;\n6) energoresursu ražošana — uzņēmējdarbība, kas saistīta ar energoresursu pārveidošanu citā enerģijas veidā;\n7) energoresursu uzglabāšana — uzņēmējdarbība, kas saistīta ar realizācijai paredzēto energoresursu uzkrāšanu noliktavās, tvertnēs, krautuvēs vai krātuvēs;\n8) energoresursu drošības rezerve — energoapgādes uzņēmumā esoši noteikti energoresursu uzkrājumi, kas nodrošina patērētāju nepārtrauktu apgādi;\n9) energoresursu pārvadīšana — energoresursu transportēšana pa maģistrālajiem tīkliem — cauruļvadiem, elektropārvades līnijām vai jebkura veida transporta ceļiem līdz sadalīšanai;\n10) energoresursu sadalīšana — uzņēmējdarbība, kas saistīta ar energoresursu transportēšanu pa vietējiem tīkliem — cauruļvadiem, elektropārvades līnijām vai jebkura veida transporta ceļiem no maģistrālajiem tīkliem līdz realizācijas vietai;\n11) energoresursu realizācija — uzņēmējdarbība, kas saistīta ar energoresursu pārdošanu patērētājam;\n12) enerģijas patērētājs — šā likuma izpratnē: fiziskā vai juridiskā persona, kas pērk energoresursus, lai tos izmantotu energoapgādei vai savām vajadzībām;\n13) valsts rezerve energoapgādē — valsts rīcībā esošie energoresursu uzkrājumi energoapgādes uzņēmumā, kas nodrošina valstiski svarīgu objektu (siltumapgāde, neatliekamā medicīniskā palīdzība, valsts aizsardzība, avārijas dienesti, transports utt.) funkcionēšanu energoresursu piegāžu pārtraukuma gadījumā;\n14) kontroles tarifs — siltumenerģijas tarifs, kuru nosaka un apstiprina šajā likumā noteiktajā kārtībā atsevišķām siltumenerģijas apgādes sistēmu grupām atkarībā no siltumģenerējošo iekārtu jaudas;\n15) koģenerācija — enerģijas ražošanas tehnoloģiskais process, kurā vienlaikus izstrādā gan siltumenerģiju, gan elektroenerģiju;\n16) vietējais kurināmais — apzinātie Latvijas kurināmā krājumi un reģeneratīvie (tādi, kas nepārtraukti pašatjaunojas) energoresursi (ūdens, saules, vēja, biomasas, ģeotermālā enerģija), kuriem ir ekonomiskā vērtība un kurus var lietot enerģijas ražošanai."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma uzdevums",
+      "content": "Šis likums nosaka uzņēmēju pienākumus un tiesības energoapgādē, lai nodrošinātu nepārtrauktu un netraucētu enerģijas patērētāju apgādi ar energoresursiem, lai aizsargātu patērētāju intereses, veicinātu uzņēmējdarbību šajā jomā, kā arī nodrošinātu energoapgādes atbilstību valsts enerģētikas politikai."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Energoapgādes tiesiskais pamats",
+      "content": "Tiesiskās attiecības, kas veidojas, veicot energoapgādi Latvijas Republikā, nosaka Civillikums , likums “Par uzņēmējdarbību”, šis likums un citi normatīvie akti, kā arī Latvijas Republikai saistošie starptautiskie līgumi."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Energoapgādes regulēšanas organizācija",
+      "section": "4",
+      "title": "Energoapgādes regulēšanas padome",
+      "content": "(1) Valsts pārvaldi energoapgādes regulēšanā Latvijā realizē Energoapgādes regulēšanas padome (turpmāk — Padome).\n(2) Padome ir valsts pārvaldes iestāde, kuru pārrauga Ekonomikas ministrija. Padomi finansē no valsts budžeta, un tās nolikumu apstiprina Ministru kabinets.\n(3) Padomes priekšsēdētāju ieceļ Ministru kabinets uz četriem gadiem. Padomes priekšsēdētāja amats nav savienojams ar deputāta amatu un piederību pie politiskajām partijām.\n(4) Padomi ne vairāk kā 11 cilvēku sastāvā izveido Ministru kabinets, un tajā iekļauj:\nPadomes priekšsēdētāju;\nEkonomikas ministrijas pārstāvi;\nFinansu ministrijas pārstāvi;\nVides aizsardzības un reģionālās attīstības ministrijas pārstāvi;\nZemkopības ministrijas pārstāvi;\nMonopoldarbības uzraudzības komitejas pārstāvi;\ngalveno energoapgādes monopoluzņēmumu pārstāvi;\nreģionālo energoapgādes uzņēmumu pārstāvi;\ndivus Latvijas Pašvaldību savienības pārstāvjus;\nenerģijas patērētāju — iedzīvotāju interešu pārstāvi.\n(5) Lai nodrošinātu savu uzdevumu izpildi, Padome pieņem nepieciešamos lēmumus un normatīvus.\n(6) Padomei ir pakļauta izpildinstitūcija, kas veic visas nepieciešamās darbības, lai organizētu Padomes pieņemto lēmumu izpildi, un sagatavo dokumentus izskatīšanai Padomē.\n(7) Padome ir juridiskā persona. Padomes nolikumu, struktūru un izpildinstitūcijas darbinieku skaitu apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Energoapgādes regulēšanas organizācija",
+      "section": "5",
+      "title": "Padomes uzdevumi",
+      "content": "(1) Lai nodrošinātu uzņēmējdarbības regulēšanu energoapgādē, Padome un tās izpildinstitūcija:\n1) veic energoapgādes uzņēmumu licencēšanu;\n2) apstiprina energoapgādes uzņēmumu aprēķinātos tarifus;\n3) izstrādā tarifu aprēķināšanas metodiku;\n4) nosaka tarifu apstiprināšanas kārtību;\n5) aizstāv enerģijas patērētāju intereses;\n6) veicina energoapgādes uzņēmumu efektīvu un racionālu darbību;\n7) sekmē vietējo atjaunojamo energoresursu izmantošanu energoapgādē;\n8) šajā likumā un Padomes nolikumā noteiktās kompetences ietvaros kontrolē jebkura energoapgādes uzņēmuma darbības atbilstību likumiem un Ministru kabineta noteikumiem;\n9) sniedz Ministru kabinetam tā pieprasīto informāciju par savu darbību un pieņemtajiem lēmumiem;\n10) izskata domstarpības starp enerģijas patērētājiem un piegādātājiem un pieņem abām pusēm saistošus lēmumus, kurus var pārsūdzēt tiesā likumā noteiktajā kārtībā;\n11) izstrādā enerģijas ražošanas un piegādes noteikumus;\n12) veicina patērētājiem piegādātās enerģijas ekonomisku izmantošanu;\n13) sekmē konkurenci energoapgādē;\n14) sniedz ziņojumu par savu darbību un informāciju laikrakstā “Latvijas Vēstnesis”.\n(2) Padome, pildot ar šo likumu noteiktos uzdevumus, ievēro valsts enerģētikas politiku un valsts enerģētikas attīstības programmu."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Energoapgādes regulēšanas organizācija",
+      "section": "6",
+      "title": "Padomes tiesības un atbildība",
+      "content": "(1) Padome ir tiesīga:\n1) pieprasīt no energoapgādes uzņēmumiem savu uzdevumu veikšanai nepieciešamo informāciju;\n2) noteikt energoapgādi regulējošus normatīvus savas kompetences ietvaros;\n3) izstrādāt energoapgādi regulējošu normatīvu skaidrojumus.\n(2) Padomes lēmumi ir obligāti visiem energoapgādes uzņēmumiem.\n(3) Padome ir atbrīvota no valsts nodevas visos gadījumos, kad tā ceļ prasību tiesā pret personām, kas pārkāpušas normatīvos aktos noteiktās prasības attiecībā uz energoapgādi.\n(4) Padome, pildot tai noteiktos uzdevumus, atbild par:\n1) energoapgādes uzņēmumu racionālu darbu un energoresursu zudumu samazināšanu energoapgādē;\n2) racionālu energoresursu patēriņa norēķinu sistēmu izveidošanu;\n3) vietējo un atjaunojamo energoresursu lietderīgu izmantošanu.\n(5) Padomes locekļu atbildību nosaka Padomes nolikums."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Energoapgādes regulēšanas organizācija",
+      "section": "7",
+      "title": "Padomes funkciju deleģēšana",
+      "content": "(1) Padomes nolikumā tai noteiktās atsevišķās funkcijas Padome var deleģēt attiecīgajai pašvaldībai vienīgi ar īpašu pilnvarojumu, kā arī noteikt šo funkciju izpildes kārtību un uzraudzīt to izpildi.\n(2) Attiecīgā pašvaldība organizē tai deleģēto Padomes funkciju izpildi, bet par to izpildi ir atbildīga pati Padome.\n(3) Padomes deleģētās funkcijas attiecīgā pašvaldība veic par līdzekļiem, ko tā ieņēmusi, realizējot tai deleģētās Padomes funkcijas."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Energoapgādes regulēšanas organizācija",
+      "section": "8",
+      "title": "Padomes darbības atklātums",
+      "content": "Padomes lēmumi par licences piešķiršanu, anulēšanu vai atteikumu piešķirt licenci un par tarifu noteikšanas kārtību tiek pieņemti atklāti. Ziņojumi par Padomes darbību pārskata periodā, kā arī informācija un ieteikumi energoapgādes uzņēmumiem un enerģijas patērētājiem, ieskaitot informāciju par energoresursu efektīvu izmantošanu, tiek publicēti laikrakstā “Latvijas Vēstnesis” Padomes nolikumā noteiktajā kārtībā un apjomā."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Par enerģētiku atbildīgā ministra pienākumi un tiesības energoapgādes regulēšanā",
+      "section": "9",
+      "title": "Par enerģētiku atbildīgā ministra pienākumi energoapgādes regulēšanā",
+      "content": "Par enerģētiku atbildīgajam ministram saskaņā ar šo likumu ir šādi pienākumi:\n1) veidot valsts enerģētikas politiku;\n2) aizstāvēt enerģijas patērētāju intereses;\n3) veicināt enerģijas patērētājiem piegādāto energoresursu efektīvu un ekonomisku izmantošanu;\n4) veicināt investīciju piesaistīšanu enerģētikā, kā arī energoapgādes sistēmas objektu modernizācijā un celtniecībā;\n5) noteikt energoapgādes uzņēmumu energoresursu drošības rezerves apjomu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Par enerģētiku atbildīgā ministra pienākumi un tiesības energoapgādes regulēšanā",
+      "section": "10",
+      "title": "Par enerģētiku atbildīgā ministra tiesības energoapgādes regulēšanā",
+      "content": "Par enerģētiku atbildīgajam ministram saskaņā ar šo likumu ir tiesības:\n1) noteikt energoapgādes kārtību periodos, kad energoresursu piegāde ir neregulāra vai pastāv draudi, ka tā varētu kļūt neregulāra, kā arī paredzēt energoapgādes uzņēmumiem tā rezultātā nodarīto zaudējumu atlīdzināšanu;\n2) noteikt apjomu un kārtību, kādā, ņemot vērā Finansu ministrijas un Padomes ieteikumus, energoapgādes uzņēmumos izveidojama un uzglabājama valsts rezerve energoapgādē, paredzot energoapgādes uzņēmumiem tā rezultātā nodarīto zaudējumu atlīdzināšanu;\n3) noteikt energoresursu racionālu izmantošanu, ievērojot ekonomiskos un vides aizsardzības nosacījumus un pārmaiņas pasaules un Latvijas energoresursu apgādes tirgū;\n4) noteikt kvalitātes rādītājus energoresursiem, ko ieved Latvijā un izved no tās;\n5) pieprasīt Padomei informāciju par energoapgādes uzņēmumiem un to darbību."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa Enerģijas patērētāju interešu aizsardzība",
+      "section": "11",
+      "title": "Enerģijas patērētāju komiteja",
+      "content": "(1) Ministru kabinets izveido Enerģijas patērētāju komiteju (turpmāk — Patērētāju komiteja), pieaicinot septiņus enerģijas patērētāju pārstāvjus no sabiedriskajām organizācijām, to apvienībām, juridiskajām personām u.tml.\n(2) Patērētāju komiteja ievēlē priekšsēdētāju, kas vienlaikus ir arī Padomes loceklis. Patērētāju komitejas priekšsēdētājs ir tiesīgs pieaicināt divus komitejas locekļus darbam Padomē.\n(3) Patērētāju komitejas nolikumu apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa Enerģijas patērētāju interešu aizsardzība",
+      "section": "12",
+      "title": "Patērētāju komitejas uzdevumi",
+      "content": "Patērētāju komitejas uzdevums ir:\n1) nodrošināt visu enerģijas patērētāju grupu interešu aizsardzību energoapgādē un energoapgādes regulēšanā;\n2) sniegt informāciju un ziņojumus Padomei par situāciju energoapgādes uzņēmumos, ja tā skar enerģijas patērētāju intereses;\n3) sadarboties ar enerģijas patērētāju interešu aizsardzības sabiedriskajām organizācijām, kas izveidotas un darbojas saskaņā ar likumu “Par patērētāju tiesību aizsardzību” un likumu “Par sabiedriskajām organizācijām un to apvienībām”;\n4) būt informētai par situāciju energoapgādē un par jautājumiem un problēmām, kas skar enerģijas patērētāju intereses;\n5) sniegt informāciju enerģijas patērētājiem."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "13",
+      "title": "Licence",
+      "content": "Licence ir dokuments, kas nosaka energoapgādes uzņēmuma tiesības un pienākumu nodarboties ar energoapgādi licences darbības zonā."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "14",
+      "title": "Licences izsniegšana",
+      "content": "(1) Licenci izsniedz Padome, iekasējot valsts nodevu, kuru ieskaita valsts pamatbudžetā.\n(2) Licenci energoresursu ražošanai, uzglabāšanai, pārvadīšanai un sadalīšanai izsniedz uz 20 gadiem, bet realizācijai — uz pieciem gadiem. Ik pēc pieciem gadiem izsniegtās licences pārskata, izdarot tajās nepieciešamos grozījumus."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "15",
+      "title": "Licences nosacījumi",
+      "content": "Energoapgādes uzņēmumam izsniegtā licence nosaka:\n1) energoapgādes uzņēmuma tiesības un pienākumu nodarboties ar energoapgādi;\n2) licences darbības zonu;\n3) licences darbības termiņu;\n4) uzņēmuma veiktās energoapgādes veidu;\n5) vides aizsardzības (ekoloģiskās ekspertīzes) nosacījumus;\n6) energoresursu drošības rezerves apjomu energoapgādes uzņēmumā;\n7) licences apmaksas kārtību;\n8) energoapgādes uzņēmuma pienākumu nodrošināt Padomi ar informāciju par savu darbību un pārmaiņām energoapgādē;\n9) licences grozīšanas un anulēšanas nosacījumus;\n10) uzdevumu enerģijas zudumu samazināšanai pa gadiem;\n11) norādījumus par kurināmā iepirkšanu konkursa kārtībā;\n12) norādījumus par energosistēmu aprīkošanu ar komercnorēķinu energoskaitītājiem."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "16",
+      "title": "Energoapgādes uzņēmumu licencēšana siltumenerģijas apgādē",
+      "content": "Uzņēmējdarbībai siltumenerģijas apgādē nepieciešama licence:\n1) siltumenerģijas ražošanai iekārtās ar maksimālo slodzi, kas lielāka par vienu megavatu;\n2) siltumenerģijas pārvadīšanai un sadalīšanai pa cauruļvadiem, kuru diametrs ir lielāks par 200 milimetriem;\n3) siltumenerģijas realizācijai jebkuriem enerģijas patērētājiem, ja realizācijas apjoms pārsniedz 20 000 megavatstundu gadā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "17",
+      "title": "Energoapgādes uzņēmumu licencēšana elektroenerģijas apgādē",
+      "content": "Uzņēmējdarbībai elektroenerģijas apgādē nepieciešama licence:\n1) elektroenerģijas ražošanai elektrostacijās, kuru jauda ir lielāka par vienu megavatu;\n2) elektroenerģijas pārvadīšanai un sadalīšanai, ja spriegums ir 1000 voltu un lielāks;\n3) elektroenerģijas realizācijai jebkuriem enerģijas patērētājiem, ja realizācijas apjoms pārsniedz 4000 megavatstundu gadā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "18",
+      "title": "Energoapgādes uzņēmumu licencēšana uzņēmējdarbībai naftas un naftas produktu apgādē",
+      "content": "Uzņēmējdarbībai naftas un naftas produktu apgādē, uzglabāšanā un realizēšanā patērētājiem nepieciešama licence. Licence izsniedzama Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "19",
+      "title": "Energoapgādes uzņēmumu licencēšana dabasgāzes apgādē",
+      "content": "Uzņēmējdarbībai dabasgāzes apgādē nepieciešama licence:\n1) dabasgāzes pārvadīšanai pa cauruļvadiem;\n2) dabasgāzes uzglabāšanai;\n3) dabasgāzes sadalīšanai un realizācijai."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Energoapgādes uzņēmumu licencēšana",
+      "section": "20",
+      "title": "Energoapgādes uzņēmumu licencēšana sašķidrinātās gāzes apgādē",
+      "content": "Uzņēmējdarbībai sašķidrinātās gāzes apgādē nepieciešama licence:\n1) sašķidrinātās gāzes uzglabāšanai un uzpildīšanai;\n2) sašķidrinātās gāzes sadalīšanai un realizācijai."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Licencēto energoapgādes uzņēmumu darbība",
+      "section": "21",
+      "title": "Energoapgādes uzņēmumu pienākumi",
+      "content": "Energoapgādes uzņēmumiem ir pienākums:\n1) veikt savu darbību atbilstoši izsniegtās licences nosacījumiem un sabiedrības interesēm saskaņā ar normatīvo aktu prasībām;\n2) apmierināt enerģijas patērētāju prasības saskaņā ar savstarpēji noslēgtajiem līgumiem;\n3) ne retāk kā reizi gadā, bet pēc Padomes pieprasījuma — 10 dienu laikā sniegt Padomei pārskatu par paveikto un plānoto darbību Padomes noteiktajā kārtībā;\n4) plānveidīgi attīstīt savu darbību;\n5) piedalīties koordinētas un efektīvas kopējās energoapgādes sistēmas plānošanā un attīstīšanā, kā arī ar energoapgādes režīmu saistīto jautājumu risināšanā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Licencēto energoapgādes uzņēmumu darbība",
+      "section": "22",
+      "title": "Energoapgādes uzņēmumu darbības pārtraukšana, to objektu celtniecības un paplašināšanas nosacījumi",
+      "content": "(1) Visi energoapgādes uzņēmumi informē Padomi un par enerģētiku atbildīgo ministru par ierosinātajiem projektiem:\n1) slēgt vai citādi pārtraukt ekspluatēt energoapgādes objektu, kura jauda ir lielāka par vienu megavatu;\n2) sākt jaunu energoapgādes objektu celtniecību, kuru jauda ir lielāka par vienu megavatu;\n3) paplašināt esošos energoapgādes objektus, kuru jauda ir lielāka par vienu megavatu.\n(2) Šā panta pirmajā daļā minēto projektu realizācija ir aizliegta, ja tam nepiekrīt Padome un par enerģētiku atbildīgais ministrs.\n(3) Energoapgādes uzņēmumiem informācija par šā panta pirmajā daļā minētajiem projektiem jāiesniedz Padomei tās noteiktajā kārtībā un jāpublicē laikrakstā “Latvijas Vēstnesis” Padomes noteiktajā apjomā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VI nodaļa Licencēto energoapgādes uzņēmumu darbība",
+      "section": "23",
+      "title": "Energoapgādes uzņēmumu izveidošanas un paplašināšanas projektu saskaņošanas kārtība",
+      "content": "(1) Padome 30 dienu laikā dod atļauju šā likuma 22.panta pirmajā daļā minēto projektu realizācijai, ja:\n1) projekts atbilst likumdošanas aktiem;\n2) projekts atbilst stabilas un efektīvas energoapgādes sistēmas attīstības interesēm un valsts enerģētikas politikai;\n3) projekta tehniskais un ekonomiskais novērtējums izdarīts saskaņā ar Padomes noteiktajām prasībām un novērtējuma rezultāti parāda, ka projekts ir tehniski un ekonomiski pamatots.\n(2) Ja Padome atsakās dot atļauju projekta realizācijai, tā 30 dienu laikā informē par to energoapgādes uzņēmumu, pamatojot atteikuma iemeslu, un savu lēmumu Padomes nolikumā noteiktajā kārtībā un apjomā publicē laikrakstā “Latvijas Vēstnesis”."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VI nodaļa Licencēto energoapgādes uzņēmumu darbība",
+      "section": "24",
+      "title": "Energoapgādes uzņēmumu pienākums veikt energoapgādi pēc enerģijas patērētāju pieprasījuma",
+      "content": "(1) Energoapgādes uzņēmumiem ir jānodrošina energoapgāde attiecīgā kvalitātē un kvantitātē visiem esošajiem enerģijas patērētājiem, ja tie izpilda savas līgumsaistības, kā arī tiem patērētājiem, kuri Padomes noteiktajā kārtībā pieprasījuši energoresursu piegādi attiecīgā energoapgādes uzņēmuma licences darbības zonā.\n(2) Ja enerģijas patērētājs vēlas saņemt energoresursus saskaņā ar šā likuma nosacījumiem, tas Padomes noteiktajā kārtībā iesniedz pieprasījumu energoapgādes uzņēmumam.\n(3) Ja energoapgādes uzņēmums no kāda enerģijas patērētāja Padomes noteiktajā kārtībā saņem pieprasījumu par energoresursu piegādi, energoapgādes uzņēmumam tas jāizskata un 30 dienu laikā jāpaziņo savs lēmums."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VI nodaļa Licencēto energoapgādes uzņēmumu darbība",
+      "section": "25",
+      "title": "Energoapgāde pēc līguma ar īpašiem nosacījumiem",
+      "content": "Energoapgādes uzņēmums ir tiesīgs stāties līgumattiecībās ar enerģijas patērētāju, paredzot īpašus energoresursu piegādes un lietošanas nosacījumus, ko neparedz energoresursu piegādes un lietošanas vispārējā kārtība. Šāda līguma viens eksemplārs ir jāiesniedz Padomei tās noteiktajā termiņā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa Licencēto energoapgādes uzņēmumu darbība",
+      "section": "26",
+      "title": "Nepārtrauktas energoapgādes nodrošināšana",
+      "content": "Ja energoapgādes uzņēmums jebkādu iemeslu dēļ nevar nodrošināt nepārtrauktu energoapgādi, Padome kopā ar pašvaldību, kuras teritoriju apkalpo attiecīgais energoapgādes uzņēmums, veic pasākumus nepārtrauktas energoapgādes nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VII nodaļa Tarifu noteikšana",
+      "section": "27",
+      "title": "Tarifu noteikšanas kārtība",
+      "content": "(1) Energoapgādes uzņēmums aprēķina tarifus par piegādātajiem energoresursiem saskaņā ar Padomes noteikto tarifu aprēķināšanas metodiku.\n(2) Nosakāmi tādi tarifi, lai energoapgādes uzņēmumi, saņemot maksājumus no enerģijas patērētājiem, gūtu ekonomiski pamatotus ieņēmumus, kas sedz pamatotas energoresursu ražošanas izmaksas, darba algu maksājumus, ekspluatācijas un administratīvos izdevumus, kā arī nodrošina esošā kapitāla saglabāšanu un jaunu apstiprināto kapitālu ieguldīšanu.\n(3) Energoapgādes uzņēmumi iesniedz tarifus Padomei izskatīšanai un apstiprināšanai tās noteiktajā kārtībā.\n(4) Energoapgādes uzņēmums pēc savstarpējas vienošanās ar enerģijas patērētāju, kurš pieprasījis nodrošināt energoresursu piegādi, ir tiesīgs prasīt, lai šis patērētājs sedz papildizdevumus, ja energoresursu piegādes nodrošināšana ir saistīta ar energoapgādes objekta celtniecību vai paplašināšanu un ir nepieciešami papildizdevumi iekārtu un materiālu iegādei, celtniecības un montāžas darbiem, kurus neparedz tarifu aprēķināšanas metodika.\n(5) (Izslēgta ar 25.11.1996 . likumu)\n(6) (Izslēgta ar 25.11.1996 . likumu)\n(7) (Izslēgta ar 25.11.1996 . likumu)\n(8) (Izslēgta ar 25.11.1996 . likumu)\n(9) No atjaunojamiem energoresursiem saražoto (mazās hidroelektrostacijas ar jaudu līdz 2 megavatiem un vēja ģeneratori), kā arī no mazas jaudas koģenerācijas stacijām (ar jaudu līdz 12 megavatiem) elektroenerģijas pārpalikumu, kas atbilst valstī noteiktajiem elektroenerģijas parametriem, iepērk kopējā valsts elektropārvades tīklā pēc paaugstinātiem tarifiem. Šie noteikumi par elektroenerģijas iepirkšanu no koģenerācijas stacijām attiecas uz visām fiziskajām un juridiskajām personām, kuru līgumi ar privatizējamo valsts akciju sabiedrību “Latvenergo” par elektroenerģijas iepirkšanu kopējā valsts elektropārvades tīklā no koģenerācijas stacijām ir stājušies spēkā līdz 1997.gada 31.maijam.\n(10) Šā panta devītajā daļā minēto elektrostaciju elektroenerģijas iepirkuma cena atbilst divkāršam elektroenerģijas realizācijas vidējam tarifam un ir spēkā astoņus gadus pēc attiecīgās elektrostacijas nodošanas ekspluatācijā. Pēc tam elektroenerģijas pārpalikumu, kas atbilst valstī noteiktajiem elektroenerģijas parametriem, iepērk kopējā valsts elektropārvades tīklā pēc tarifiem, ko nosaka Ministru kabinets.\n(11) No visām fiziskajām un juridiskajām personām, kuru līgumi ar privatizējamo valsts akciju sabiedrību “Latvenergo” par elektroenerģijas iepirkšanu kopējā valsts elektropārvades tīklā no koģenerācijas stacijām ar elektroenerģijas jaudu līdz 4 megavatiem ir noslēgti pēc 1997.gada 31.maija, elektroenerģijas pārpalikumu, kas atbilst valstī noteiktajiem elektroenerģijas parametriem, iepērk kopējā valsts elektropārvades tīklā pēc tarifiem, ko nosaka Ministru kabinets. Šie noteikumi attiecas uz minētajām elektrostacijām, kas nodotas ekspluatācijā līdz 2001.gadam."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VII nodaļa Tarifu noteikšana",
+      "section": "28",
+      "title": "Tarifu atklātums",
+      "content": "Lai nodrošinātu energoapgādes tarifu un to noteikšanas atklātumu, energoapgādes uzņēmumam noteiktā kārtībā apstiprinātie tarifi jāpublicē laikrakstā “Latvijas Vēstnesis” Padomes noteiktajā laikā (periodā) pirms to stāšanās spēkā."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VIII nodaļa Atbildība par energoapgādes jautājumos pieņemto likumdošanas aktu neievērošanu",
+      "section": "29",
+      "title": "Atbildība par energoapgādes prasību neievērošanu",
+      "content": "Personas, kas neievēro normatīvos aktos noteiktās prasības attiecībā uz energoapgādi, saucamas pie atbildības likumā noteiktā kārtībā."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "energoapgāde",
+      "definition": "uzņēmējdarbība, kura ietver energoresursu ražošanu, uzglabāšanu, pārvadīšanu, sadalīšanu vai realizāciju un kurai nepieciešama licence",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "licence",
+      "definition": "šā likuma izpratnē: energoapgādes licence",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "licences darbības zona",
+      "definition": "licencē norādītā teritorija, kurā ir tiesīgs darboties licencētais energoapgādes uzņēmums un patērētājs vai patērētāju grupa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoapgādes uzņēmums",
+      "definition": "uzņēmējs, kas nodarbojas ar energoapgādi un kam saskaņā ar šā likuma prasībām ir izsniegta licence",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoapgādes uzņēmuma objekts",
+      "definition": "energoapgādes uzņēmumam piederošas vai tā lietošanā esošas ēkas, būves vai iekārtas, kas paredzētas energoresursu ražošanai, uzglabāšanai, pārvadīšanai, sadalīšanai vai realizācijai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoresursu ražošana",
+      "definition": "uzņēmējdarbība, kas saistīta ar energoresursu pārveidošanu citā enerģijas veidā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoresursu uzglabāšana",
+      "definition": "uzņēmējdarbība, kas saistīta ar realizācijai paredzēto energoresursu uzkrāšanu noliktavās, tvertnēs, krautuvēs vai krātuvēs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoresursu drošības rezerve",
+      "definition": "energoapgādes uzņēmumā esoši noteikti energoresursu uzkrājumi, kas nodrošina patērētāju nepārtrauktu apgādi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoresursu pārvadīšana",
+      "definition": "energoresursu transportēšana pa maģistrālajiem tīkliem — cauruļvadiem, elektropārvades līnijām vai jebkura veida transporta ceļiem līdz sadalīšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoresursu sadalīšana",
+      "definition": "uzņēmējdarbība, kas saistīta ar energoresursu transportēšanu pa vietējiem tīkliem — cauruļvadiem, elektropārvades līnijām vai jebkura veida transporta ceļiem no maģistrālajiem tīkliem līdz realizācijas vietai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoresursu realizācija",
+      "definition": "uzņēmējdarbība, kas saistīta ar energoresursu pārdošanu patērētājam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "enerģijas patērētājs",
+      "definition": "šā likuma izpratnē: fiziskā vai juridiskā persona, kas pērk energoresursus, lai tos izmantotu energoapgādei vai savām vajadzībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts rezerve energoapgādē",
+      "definition": "valsts rīcībā esošie energoresursu uzkrājumi energoapgādes uzņēmumā, kas nodrošina valstiski svarīgu objektu (siltumapgāde, neatliekamā medicīniskā palīdzība, valsts aizsardzība, avārijas dienesti, transports utt.) funkcionēšanu energoresursu piegāžu pārtraukuma gadījumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kontroles tarifs",
+      "definition": "siltumenerģijas tarifs, kuru nosaka un apstiprina šajā likumā noteiktajā kārtībā atsevišķām siltumenerģijas apgādes sistēmu grupām atkarībā no siltumģenerējošo iekārtu jaudas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "koģenerācija",
+      "definition": "enerģijas ražošanas tehnoloģiskais process, kurā vienlaikus izstrādā gan siltumenerģiju, gan elektroenerģiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vietējais kurināmais",
+      "definition": "apzinātie Latvijas kurināmā krājumi un reģeneratīvie (tādi, kas nepārtraukti pašatjaunojas) energoresursi (ūdens, saules, vēja, biomasas, ģeotermālā enerģija), kuriem ir ekonomiskā vērtība un kurus var lietot enerģijas ražošanai.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

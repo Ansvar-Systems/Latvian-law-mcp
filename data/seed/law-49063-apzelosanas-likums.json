@@ -1,0 +1,91 @@
+{
+  "id": "lv-law-49063",
+  "type": "statute",
+  "title": "Apžēlošanas likums",
+  "title_en": "Clemency Law",
+  "short_name": "TA-49063",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/49063-apzelosanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Apžēlošanas jēdziens",
+      "content": "Apžēlošana ir notiesātās personas pilnīga vai daļēja atbrīvošana no kriminālsoda izciešanas, soda veida mīkstināšana vai sodāmības noņemšana, ko veic Valsts prezidents."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Apžēlošanas veidi",
+      "content": "Ir šādi apžēlošanas veidi:\n1) (izslēgts ar 01.12.2011 . likumu) ;\n2) brīvības atņemšanas soda neizciestās daļas aizstāšana ar citu, vieglāku soda veidu;\n3) pilnīga vai daļēja atbrīvošana no pamatsoda izciešanas;\n4) pilnīga vai daļēja atbrīvošana no papildsoda izciešanas;\n5) sodāmības noņemšana."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Personas tiesības lūgt apžēlošanu",
+      "content": "(1)Tiesības lūgt apžēlošanu ir personai, kura:\n1) izcieš sodu Latvijas Republikā;\n2) notiesāta ārvalsts tiesā un nodota soda izciešanai Latvijas Republikā bez nosacījuma, ka apžēlošana nav piemērojama;\n3) notiesāta Latvijas Republikā un nodota soda izciešanai ārvalstī, ja attiecīgā ārvalsts iestāde ir piekritusi atzīt Latvijas Republikā pieņemtu lēmumu par personas apžēlošanu;\n4) izcietusi sodu Latvijas Republikā.\n(2) Apžēlošanas lūgumu var iesniegt arī panta pirmajā daļā minētās personas:\n1) aizstāvis;\n2) likumiskais pārstāvis;\n3) vecāki, bērni, laulātais."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Apžēlošana pēc Valsts prezidenta iniciatīvas",
+      "content": "Valsts prezidents notiesāto personu var apžēlot arī pats pēc savas iniciatīvas."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Apžēlošanas lūguma iesniegšanas termiņi",
+      "content": "(1) Apžēlošanas lūgumu var iesniegt pēc tiesas sprieduma stāšanās likumīgā spēkā, izņemot gadījumus, kad persona par smaga vai sevišķi smaga nozieguma izdarīšanu notiesāta ar brīvības atņemšanu.\n(2) Gadījumos, kad persona notiesāta par smaga nozieguma izdarīšanu, apžēlošanas lūgumu var iesniegt, ja faktiski ir izciesta ne mazāk kā puse no piespriestā brīvības atņemšanas soda.\n(3) Gadījumos, kad persona notiesāta par sevišķi smaga nozieguma izdarīšanu, apžēlošanas lūgumu var iesniegt, ja faktiski ir izciestas ne mazāk kā divas trešdaļas no piespriestā brīvības atņemšanas soda, bet, ja piespriests mūža ieslodzījums, — ne mazāk kā 20 gadi no brīvības atņemšanas soda."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Apžēlošanas lūguma iesniegšanas kārtība",
+      "content": "Apžēlošanas lūgumu iesniedz Valsts prezidentam."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Ar nāves sodu notiesātās personas apžēlošanas lūguma iesniegšanas kārtība",
+      "content": "(Izslēgts ar 01.12.2011 . likumu, kas stājas spēkā 01.01.2012. )"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Valsts prezidenta Kancelejas apžēlošanas dienests",
+      "content": "(1) Valsts prezidenta Kancelejas apžēlošanas dienests sagatavo materiālus apžēlošanas lūguma izskatīšanai, kā arī noskaidro notiesātās personas attieksmi pret tās apžēlošanu.\n(2) Apžēlošanas dienestam ir tiesības pieprasīt no tiesas, prokuratūras, policijas un citām valsts un pašvaldību iestādēm apžēlošanas lūguma izskatīšanai nepieciešamās ziņas."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Apžēlošanas lūguma atstāšana bez izskatīšanas",
+      "content": "Apžēlošanas lūgums tiek atstāts bez izskatīšanas, ja notiesātā persona apžēlošanai nepiekrīt."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Lēmums par apžēlošanu vai tās noraidīšanu",
+      "content": "(1) Par apžēlošanas lūguma apmierināšanu vai noraidīšanu Valsts prezidents pieņem lēmumu. Apžēlošanas gadījumā viņš izdod apžēlošanas aktu.\n(2) Lēmumu par apžēlošanu vai tās noraidīšanu, kā arī apžēlošanas aktu piecu dienu laikā pēc tā pieņemšanas nosūta iestādei, kura ir atbildīga par sprieduma izpildi, kā arī tiesai, kas taisījusi spriedumu šajā lietā, un par to paziņo notiesātajai personai vai citam apžēlošanas lūguma iesniedzējam."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Apžēlošanas lūguma atkārtota iesniegšana",
+      "content": "(1) Atkārtoti iesniegt apžēlošanas lūgumu var ne agrāk kā sešus mēnešus pēc tam, kad pieņemts lēmums par apžēlošanas lūguma noraidīšanu.\n(2) Persona, kas notiesāta par smaga vai sevišķi smaga nozieguma izdarīšanu, vai kāds cits attiecībā uz šo personu apžēlošanas lūgumu var iesniegt ne agrāk kā gadu pēc apžēlošanas lūguma noraidīšanas, ja nav radušies sevišķi apstākļi (smaga slimība, šī persona ir vienīgais likumīgais aizbildnis vai aizgādnis vai citi apstākļi)."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Valsts prezidenta Kanceleja mēneša laikā pēc šā likuma spēkā stāšanās dienas izstrādā instrukciju par apžēlošanas lūgumu izskatīšanas kārtību.",
+      "content": "1. Valsts prezidenta Kanceleja mēneša laikā pēc šā likuma spēkā stāšanās dienas izstrādā instrukciju par apžēlošanas lūgumu izskatīšanas kārtību."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Ar šā likuma spēkā stāšanos spēku zaudē:",
+      "content": "1) Augstākās padomes Prezidija 1990.gada 12.jūlija lēmums \"Par apžēlošanas lūguma izskatīšanas kārtības grozīšanu\" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 31.nr.);\n2) Augstākās padomes Prezidija 1990.gada 27.septembra lēmums \" Par \"Nolikuma par apžēlošanas lūgumu izskatīšanas kārtību\" apstiprināšanu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 42.nr.; 1991, 49./50.nr.);\n3) Latvijas Republikas 1996.gada 1.februāra likuma \" Grozījumi Latvijas Kriminālkodeksā \" pārejas noteikumu 1.punkts (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 6.nr.)."
+    }
+  ],
+  "definitions": []
+}

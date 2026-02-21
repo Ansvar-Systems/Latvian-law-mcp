@@ -41,6 +41,8 @@
     "test:watch": "vitest",
     "test:coverage": "vitest run --coverage",
     "ingest": "node --import tsx scripts/ingest.ts",
+    "ingest:linked": "node --import tsx scripts/ingest-linked.ts",
+    "ingest:corpus": "node --import tsx scripts/ingest-corpus.ts",
     "test:contract": "vitest run __tests__/contract/",
     "drift:detect": "node --import tsx scripts/drift-detect.ts",
     "validate": "npm run lint && npm test && npm run test:contract",

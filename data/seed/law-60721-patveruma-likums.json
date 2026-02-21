@@ -1,0 +1,404 @@
+{
+  "id": "lv-law-60721",
+  "type": "statute",
+  "title": "Patvēruma likums",
+  "short_name": "TA-60721",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/60721-patveruma-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir saskaņā ar vispāratzītiem starptautiskajiem cilvēktiesību principiem nodrošināt personu tiesības saņemt Latvijas Republikā patvērumu, iegūt bēgļa statusu, pagaidu aizsardzību vai alternatīvo statusu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Neizraidīšanas princips",
+      "content": "(1) Personu, kura Latvijas Republikā ir atzīta par patvēruma meklētāju, nevar izraidīt uz valsti vai izdot valstij, kurā pastāv šā likuma 23. vai 35.pantā minētie draudi.\n(2) Personu, kurai Latvijas Republikā piešķirts bēgļa statuss, nevar izraidīt uz valsti vai izdot valstij, kurā pastāv šā likuma 23.pantā minētās vajāšanas draudi.\n(3) Personu, kurai Latvijas Republikā piešķirts alternatīvais statuss, nevar izraidīt uz valsti vai izdot valstij, kurā pastāv šā likuma 35.pantā minētie draudi."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Patvēruma meklētāja statuss",
+      "content": "Persona uzskatāma par patvēruma meklētāju, ja tā šajā likumā noteiktajā kārtībā iesniegusi iesniegumu par bēgļa vai alternatīvā statusa piešķiršanu (turpmāk — iesniegums). Iesniegumu no tā iesniegšanas brīža līdz galīgā lēmuma pieņemšanai izskata šajā likumā noteiktajā kārtībā un termiņos (turpmāk — patvēruma piešķiršanas process)."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Bēgļu lietu departaments",
+      "content": "(1) Bēgļu lietu departaments (turpmāk — Departaments) izskata personas iesniegumu un pieņem lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt atbilstoši šā likuma noteikumiem.\n(2) (Izslēgta ar 07.06.2006 . likumu.)\n(3) Departaments ir Pilsonības un migrācijas lietu pārvaldes (turpmāk — Pārvalde) struktūrvienība. Tā vadītāju pēc saskaņošanas ar iekšlietu ministru ieceļ amatā un atbrīvo no amata Pārvaldes priekšnieks."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Bēgļu lietu apelācijas padome",
+      "content": "(Izslēgts ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )"
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Apvienoto Nāciju Organizācijas augstais komisārs bēgļu lietās",
+      "content": "(1) Personām, kuras iesniegušas iesniegumu, ir tiesības vērsties pie Apvienoto Nāciju Organizācijas augstā komisāra bēgļu lietās vai viņa pilnvarotām personām vai institūcijām.\n(2) Pēc Apvienoto Nāciju Organizācijas augstā komisāra bēgļu lietās pieprasījuma Departaments iesniedz viņam savus lēmumus un tiesa — nolēmumus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Informācijas neizpaušana",
+      "content": "(1) Patvēruma piešķiršanas procesā iesaistīto institūciju darbiniekiem nav tiesību izpaust informāciju par patvēruma meklētāju, izņemot šā panta otrajā daļā minētos gadījumus. Par informācijas izpaušanu vainīgais darbinieks saucams pie atbildības likumā noteiktajā kārtībā.\n(2) Informāciju par patvēruma meklētāju drīkst izpaust, ja attiecīgā persona devusi tam rakstveida piekrišanu vai ja informāciju likumā noteiktajā kārtībā pieprasījušas tiesībaizsardzības iestādes vai ārvalstu institūcijas, ja tas atbilst Latvijas Republikas starptautiskajām saistībām.\n(3) Informācija par patvēruma meklētāju netiek sniegta viņa pilsonības valstij vai, ja patvēruma meklētājs ir bezvalstnieks, — iepriekšējai mītnes zemei."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Patvēruma meklētāja identifikācija",
+      "content": "Patvēruma meklētāju identificē Valsts robežsardze. Kārtību, kādā tiek identificēts patvēruma meklētājs, un patvēruma piešķiršanas procesā iesaistīto Iekšlietu ministrijas institūciju sadarbību nosaka iekšlietu ministrs."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "9",
+      "title": "Sazināšanās valoda",
+      "content": "Patvēruma meklētājam, kurš neprot valsts valodu, tiek nodrošinātas iespējas sazināties ar tulka palīdzību, kā arī tiesības iesniegt iesniegumu, pieteikumu, iepazīties ar lietas izskatīšanas materiāliem un sniegt paskaidrojumus tajā valodā, kuru viņš prot vai kura viņam būtu jāsaprot."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "10",
+      "title": "Patvēruma meklētāja tiesības un pienākumi",
+      "content": "(1) Patvēruma meklētājam ir tiesības uzturēties Latvijas Republikā tik ilgi, līdz tiek pieņemts galīgais lēmums par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt.\n(2) Patvēruma meklētājam ir tiesības saņemt visu informāciju par patvēruma piešķiršanas procesu un savām tiesībām un pienākumiem šā procesa laikā. Šo informāciju patvēruma meklētājam ir tiesības saņemt tajā valodā, kuru viņš prot vai kura viņam būtu jāsaprot.\n(3) Jebkura pilngadīga persona iesniegumu iesniedz pati.\n(4) Patvēruma meklētājam ir tiesības pieaicināt citu personu juridiskās palīdzības saņemšanai.\n(5) Patvēruma meklētājam ir tiesības saņemt neatliekamo medicīnisko palīdzību un primāro veselības aprūpi par valsts līdzekļiem.\n(6) Patvēruma meklētājam vai viņa pilnvarotai personai ir pienākums sadarboties ar Departamentu un citām šajā likumā minētajām institūcijām, sniedzot tām informāciju, kas var ietekmēt bēgļa vai alternatīvā statusa piešķiršanu.\n(7) Patvēruma meklētājam, uzturoties patvēruma meklētāju izmitināšanas centrā, ir pienākums ievērot šā centra iekšējās kārtības noteikumus.\n(8) Patvēruma meklētājam ir pienākums sabiedrības veselības interesēs iziet medicīnisko pārbaudi.\n(9) Patvēruma meklētājam ir pienākums sadarboties ar Valsts robežsardzi, lai tā varētu noņemt viņa pirkstu nospiedumus."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "11",
+      "title": "Nepilngadīgās personas tiesības",
+      "content": "(1) Nepilngadīgās personas (persona, kura nav sasniegusi 18 gadu vecumu) tiesības un likumīgās intereses pārstāv tās vecāki.\n(2) Iesniegums izskatāms un lēmums par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt attiecināms arī uz patvēruma meklētāja nepilngadīgajiem bērniem, ja viņi vienlaikus ar vecākiem atrodas vai ierodas Latvijas Republikā. Izskatot iesniegumu, tiek ņemts vērā nepilngadīgās personas viedoklis.\n(3) Ja nepilngadīgā persona ir bez vecāku pavadības un vēlas iesniegumu iesniegt pati, to personiskajās un mantiskajās attiecībās patvēruma piešķiršanas procesa laikā pārstāv bāriņtiesa vai tās iecelts aizbildnis, vai bērnu aprūpes iestādes vadītājs.\n(4) Pārrunas ar nepilngadīgo personu, kura ir bez vecāku pavadības, veic šim uzdevumam īpaši apmācīti robežsargi.\n(5) Nepilngadīgajai personai, kura ir bez vecāku pavadības, tiek nodrošināta bērna tiesību aizsardzība likumā noteiktajā kārtībā.\n(6) Nepilngadīgajai personai, kura ir bez vecāku pavadības, ir tiesības saņemt bezmaksas juridisko palīdzību patvēruma piešķiršanas procesa laikā.\n(7) Patvēruma meklētāju nepilngadīgajiem bērniem vai nepilngadīgiem patvēruma meklētājiem tiek nodrošinātas izglītības ieguves iespējas atbilstoši spēkā esošajiem likumiem. Ministru kabinets nosaka kārtību, kādā nodrošināma izglītība.\n(8) Pašvaldības izdevumus, kas tai radušies, izmitinot bērnu aprūpes iestādē nepilngadīgo personu, kura ir bez vecāku pavadības, Ministru kabineta noteiktajā kārtībā un apmērā sedz no Bērnu un ģimenes lietu ministrijai kārtējam gadam šim mērķim piešķirtajiem valsts budžeta līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "12",
+      "title": "Iesnieguma iesniegšana, personai no ārvalstīm ierodoties robežkontroles punktā",
+      "content": "Persona, kura ierodas Latvijas Republikā, lai saņemtu patvērumu un iegūtu bēgļa vai alternatīvo statusu, iesniedz iesniegumu robežsargam robežkontroles punktā pirms ieceļošanas Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "13",
+      "title": "Iesnieguma izskatīšana robežkontroles punktā",
+      "content": "(1) Valsts robežsardze veic pārrunas ar patvēruma meklētāju, kurš iesniedzis iesniegumu šā likuma 12.pantā noteiktajā kārtībā. Pārrunu rezultātā iegūtā informācija kopā ar iesniegumu tiek iesniegta Departamentam ne vēlāk kā triju dienu laikā no iesnieguma iesniegšanas dienas, ja ir pamats uzskatīt, ka pastāv kāds no šādiem nosacījumiem:\n1) iesniegums ir acīmredzami nepamatots — pēc būtības neatbilst šā likuma 23.panta pirmajā daļā un 35.panta pirmajā daļā minētajiem kritērijiem — vai tam acīmredzami trūkst ticamības — patvēruma meklētāja stāstītais ir pretrunīgs, nekonsekvents vai pēc būtības neiespējams;\n2) patvēruma meklētāja iesniegumu par bēgļa statusa piešķiršanu izskata citā valstī;\n3) patvēruma meklētājs ir ieguvis bēgļa statusu citā valstī un bez pamatotām bailēm no šā likuma 23.pantā minētās vajāšanas var izmantot tās aizsardzību;\n4) patvēruma meklētājam ir tādas valsts pilsonība, kurā nepastāv šā likuma 23.panta pirmajā daļā un 35.panta pirmajā daļā minētie draudi;\n5) patvēruma meklētājs bez pamatota izskaidrojuma iesniedzis iesniegumu, lai novērstu gaidāmo izraidīšanu, kaut gan viņam bijusi iespēja to iesniegt agrāk;\n6) patvēruma meklētājs pirms ierašanās Latvijas Republikā uzturējies valstī, kurā pastāv šādi nosacījumi:\na) tā ir ratificējusi 1951.gada 28.jūlija Konvenciju par bēgļa statusu un 1967.gada 31.janvāra Protokolu par bēgļa statusu,\nb) tajā patvēruma meklētājam nedraud nāves sods vai miesas sods, spīdzināšana, necilvēcīga vai pazemojoša izturēšanās pret viņu,\nc) tajā viņš varēja lūgt un saņemt aizsardzību.\n(2) Departaments saņemtos pārrunu materiālus izskata divu darbdienu laikā no to saņemšanas dienas. Ja Departaments atzīst, ka iesniegums atbilst šā panta pirmās daļas nosacījumiem, tas pieņem lēmumu par atteikumu piešķirt bēgļa vai alternatīvo statusu.\n(3) Patvēruma meklētājs vai viņa pilnvarota persona var pārsūdzēt Departamenta lēmumu tiesā vienas darbdienas laikā.\n(4) Ja Valsts robežsardze vai Departaments pamatotu iemeslu dēļ neiekļaujas šajā pantā noteiktajos termiņos, iesniegums izskatāms šā likuma 16.panta otrajā daļā paredzētajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "14",
+      "title": "Patvēruma meklētāja aizturēšana",
+      "content": "(1) Valsts robežsardzei ir tiesības aizturēt patvēruma meklētāju līdz 10 diennaktīm, ja:\n1) nav noskaidrota patvēruma meklētāja identitāte;\n2) ir pamats uzskatīt, ka patvēruma meklētājs cenšas ļaunprātīgi izmantot patvēruma procesu;\n3) ir pamats uzskatīt, ka patvēruma meklētājam saskaņā ar šā likuma nosacījumiem nebūs likumīga pamata uzturēties Latvijas Republikā;\n4) tas nepieciešams valsts drošības un sabiedriskās kārtības interesēs.\n(2) Valsts robežsardze patvēruma meklētāju aiztur un tiesnesis lēmumu par patvēruma meklētāja aizturēšanu pieņem Imigrācijas likumā noteiktajā kārtībā.\n(3) Valsts robežsardze iesniegumu par aizturēšanas termiņa pagarināšanu var iesniegt atkārtoti, taču kopējais aizturēšanas termiņš nedrīkst pārsniegt iesnieguma izskatīšanas termiņu.\n(4) Patvēruma meklētājs aizturēšanas laikā tiek izmitināts šim nolūkam paredzētās telpās atsevišķi no personām, kuras tiek turētas aizdomās par noziedzīga nodarījuma izdarīšanu:\n1) robežkontroles punktā vai Valsts robežsardzes teritoriālajā struktūrvienībā, ja iesniegums izskatīts šā likuma 13.pantā noteiktajā kārtībā;\n2) Valsts robežsardzes teritoriālajā struktūrvienībā, ja iesniegums iesniegts Valsts robežsardzes teritoriālajai struktūrvienībai."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "15",
+      "title": "Iesnieguma iesniegšana, personai atrodoties Latvijas Republikā",
+      "content": "Persona, kura atrodas Latvijas Republikā, iesniegumu iesniedz Valsts robežsardzes teritoriālajai struktūrvienībai."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "16",
+      "title": "Iesnieguma izskatīšana, ja tas iesniegts, personai atrodoties Latvijas Republikā",
+      "content": "(1) Valsts robežsardze veic pārrunas ar patvēruma meklētāju, kurš iesniedzis iesniegumu šā likuma 15.pantā noteiktajā kārtībā. Pārrunu rezultātā iegūtā informācija kopā ar iesniegumu nekavējoties tiek iesniegta Departamentam.\n(2) Departaments izskata iesniegumu un pārrunu rezultātā iegūtos materiālus un ne ilgāk kā triju mēnešu laikā no iesnieguma iesniegšanas dienas pieņem lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt. Iekšlietu ministrijas valsts sekretārs vai viņa pilnvarota persona pamatotu iemeslu dēļ var pagarināt iesnieguma izskatīšanas termiņu līdz 12 mēnešiem."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "17",
+      "title": "Personas izmitināšana, ja pieteikums iesniegts, personai atrodoties Latvijas Republikā",
+      "content": "(Izslēgts ar 20.01.2005 . likumu, kas stājas spēkā 03.02.2005. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "18",
+      "title": "Lēmums par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt",
+      "content": "(1) Lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt Departaments pieņem pēc tam, kad veiktas šā likuma 13.panta pirmajā daļā vai 16.panta pirmajā daļā paredzētās pārrunas ar patvēruma meklētāju.\n(2) Izskatot iesniegumu, Departaments vispirms lemj par bēgļa statusa piešķiršanu patvēruma meklētājam atbilstoši šā likuma noteikumiem. Ja uz patvēruma meklētāju neattiecas šā likuma 23.panta nosacījumi, Departaments lemj par alternatīvā statusa piešķiršanu atbilstoši šajā likumā noteiktajai kārtībai.\n(3) Lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt Departaments noformē rakstveidā, to izvērsti pamatojot un norādot tā pārsūdzēšanas kārtību. Patvēruma meklētājs ar lēmuma saturu iepazīstināms nekavējoties, paskaidrojot viņam lēmuma būtību un tā pārsūdzēšanas kārtību valodā, kuru viņš prot vai kura viņam būtu jāsaprot.\n(4) Pieņemot lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt, šaubas par iesnieguma pamatotību tulkojamas par labu patvēruma meklētājam.\n(5) Departamenta lēmumu par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt septiņu dienu laikā var pārsūdzēt tiesā.\n(6) (Izslēgta ar 07.06.2006 . likumu.)\n(7) (Izslēgta ar 07.06.2006 . likumu.)\n(8) (Izslēgta ar 07.06.2006 . likumu.)\n(9) Ja atbilstoši Padomes regulai (EK) Nr. 343/2003 (2003.gada 18.februāris), ar ko paredz kritērijus un mehānismus, lai noteiktu dalībvalsti, kura ir atbildīga par trešās valsts pilsoņa patvēruma iesnieguma izskatīšanu, kas iesniegts kādā no dalībvalstīm, saņemts citas Eiropas Savienības dalībvalsts kompetentās institūcijas lēmums par atteikumu izskatīt iesniegumu vai par citā Eiropas Savienības dalībvalstī iesniegta iesnieguma izskatīšanu ir atbildīga Latvijas Republika, iesniegumu izskata šajā likumā noteiktajā kārtībā un termiņos. Iesnieguma izskatīšanas termiņu skaita no dienas, kad saņemts citas Eiropas Savienības dalībvalsts atteikums uzņemties atbildību par iesnieguma izskatīšanu vai kad patvēruma meklētājs ieradies Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "19",
+      "title": "Iesnieguma izskatīšana saīsinātajā kārtībā",
+      "content": "(1) Ja persona iesniegusi iesniegumu, atrodoties Latvijas Republikā, un ir pamats uzskatīt, ka pastāv kāds no šā likuma 13.panta pirmajā daļā paredzētajiem nosacījumiem, Valsts robežsardze veic pārrunas ar patvēruma meklētāju un ne vēlāk kā piecu darbdienu laikā no iesnieguma saņemšanas dienas pārrunu rezultātā iegūto informāciju kopā ar iesniegumu iesniedz Departamentam.\n(2) Departaments iesniegumu un saņemtos pārrunu materiālus izskata piecu darbdienu laikā no to saņemšanas dienas. Ja Departaments atzīst, ka iesniegums atbilst šā likuma 13.panta pirmās daļas nosacījumiem, tas pieņem lēmumu par atteikumu piešķirt bēgļa vai alternatīvo statusu.\n(3) Patvēruma meklētājs vai viņa pilnvarota persona var pārsūdzēt Departamenta lēmumu tiesā divu darbdienu laikā.\n(4) Ja Valsts robežsardze vai Departaments pamatotu iemeslu dēļ neiekļaujas šajā pantā noteiktajos termiņos, iesniegums izskatāms šā likuma 16.panta otrajā daļā paredzētajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 19.1",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "19.1",
+      "title": "19. 1 pants. Departamenta lēmumu pārsūdzība",
+      "content": "(1) Šā likuma 13.panta otrajā daļā, 18.panta trešajā daļā vai 19.panta otrajā daļā minēto Departamenta lēmumu var pārsūdzēt Administratīvajā rajona tiesā (turpmāk — tiesa), ievērojot šajā likumā un Administratīvā procesa likumā noteikto kārtību.\n(2) Pieteikumu tiesai par šā likuma 13.panta otrajā daļā, 18.panta trešajā daļā vai 19.panta otrajā daļā minēto lēmumu iesniedz Departamentam. Departaments saņemto pieteikumu, to netulkojot, vienas darbdienas laikā pārsūta tiesai, pievienojot tam Departamenta rīcībā esošos dokumentus un pierādījumus.\n(3) Par pieteikuma iesniegšanu tiesā patvēruma meklētājs ir atbrīvots no valsts nodevas."
+    },
+    {
+      "provision_ref": "Art. 19.2",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "19.2",
+      "title": "19. 2 pants. Pieteikuma izskatīšana tiesā",
+      "content": "(1) Lietu, kas ierosināta, pamatojoties uz pieteikumu par šā likuma 18.panta trešajā daļā minēto lēmumu, tiesa izskata triju mēnešu laikā.\n(2) Lietu, kas ierosināta, pamatojoties uz pieteikumu par šā likuma 13.panta otrajā daļā vai 19.panta otrajā daļā minēto lēmumu, tiesa izskata triju darbdienu laikā no dienas, kad pieņemts lēmums par pieteikuma pieņemšanu un lietas ierosināšanu. Tiesa izvērtē Departamenta lēmuma atbilstību šā likuma 13. un 19.panta noteikumiem. Ja lietas apstākļu objektīvai noskaidrošanai nepieciešami papildu pierādījumi, tiesa var noteikt lietas izskatīšanu šā panta pirmajā daļā noteiktajā termiņā.\n(3) Lietu, kas ierosināta, pamatojoties uz pieteikumu par šā likuma 13.panta otrajā daļā vai 19.panta otrajā daļā minēto lēmumu, tiesa izskata rakstveida procesā. Lietu, kas ierosināta, pamatojoties uz pieteikumu par šā likuma 18.panta trešajā daļā minēto lēmumu, tiesa var izskatīt rakstveida procesā, ja tā atzīst, ka lietā esošie pierādījumi ir pietiekami, lai izspriestu lietu.\n(4) Tiesas nolēmums ir galīgs un nav pārsūdzams. Tiesas nolēmums stājas spēkā tā pasludināšanas brīdī, un tas nekavējoties paziņojams patvēruma meklētājam, paskaidrojot viņam nolēmuma būtību valodā, kuru viņš prot vai kura viņam būtu jāsaprot.\n(5) Tiesas lēmumi, kas tiek pieņemti, veicot procesuālās darbības iesniegtā pieteikuma vai ierosinātās lietas izskatīšanai, nav pārsūdzami.\n(6) Pieteikuma (lietas) izskatīšanas laikā persona uzskatāma par patvēruma meklētāju.\n(7) Ja tiek iesniegts pieteikums par lietas izskatīšanu sakarā ar jaunatklātiem apstākļiem, Administratīvā apgabaltiesa lietu izskata divdesmit darbdienu laikā no pieteikuma saņemšanas dienas.\n(8) Administratīvās apgabaltiesas nolēmumu nekavējoties paziņo patvēruma meklētājam, paskaidrojot viņam nolēmuma būtību valodā, kuru viņš prot vai kura viņam būtu jāsaprot."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "20",
+      "title": "Patvēruma meklētāju izmitināšana",
+      "content": "(1) Patvēruma piešķiršanas procesa laikā patvēruma meklētājs izmitināms patvēruma meklētāju izmitināšanas centrā, kurā nodrošināti cilvēka sadzīvei nepieciešamie apstākļi. Patvēruma meklētāju var pārvietot no viena patvēruma meklētāju izmitināšanas centra uz citu.\n(1 1 ) Patvēruma meklētājs - nepilngadīgā persona, kura ir bez vecāku pavadības, izmitināma patvēruma meklētāju izmitināšanas centrā, pie bāriņtiesas iecelta aizbildņa vai bērnu aprūpes iestādē. Lēmumu par nepilngadīgās personas, kura ir bez vecāku pavadības, izmitināšanu patvēruma meklētāju izmitināšanas centrā, pie aizbildņa vai bērnu aprūpes iestādē pieņem bāriņtiesa, noskaidrojot Departamenta viedokli. Lēmumu pieņem, ņemot vērā nepilngadīgās personas intereses un tās viedokli atbilstoši šīs personas vecumam un briedumam, ievērojot šādus nosacījumus:\n1) nepilngadīgā persona, kura ir bez vecāku pavadības, izmitināma kopā ar pilngadīgajiem radiniekiem;\n2) vienas ģimenes bērni nav šķirami, izņemot gadījumus, kad tas tiek darīts bērnu interesēs;\n3) nepilngadīgās personas, kura ir bez vecāku pavadības, dzīvesvieta maināma tikai gadījumos, kad tas atbilst šīs personas interesēm.\n(2) Patvēruma meklētājs netiek ievietots patvēruma meklētāju izmitināšanas centrā, kamēr viņam ir likumīgs pamats uzturēties Latvijas Republikā.\n(3) Patvēruma meklētāju izmitināšanas centri ir Pārvaldes struktūrvienības.\n(4) Patvēruma meklētāja uzturam, kā arī higiēnas un pirmās nepieciešamības preču iegādei paredzēto izdevumu apmēru un segšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "21",
+      "title": "Patvēruma meklētāja personu apliecinoši dokumenti un uzturēšanās kārtība Latvijas Republikā",
+      "content": "(1) Patvēruma meklētājs personu apliecinošus un ceļošanas dokumentus nodod Valsts robežsardzei, līdz tiek pieņemts galīgais lēmums par bēgļa vai alternatīvā statusa piešķiršanu vai atteikumu to piešķirt, izņemot gadījumu, kad patvēruma meklētājam ir cits likumīgs pamats uzturēties Latvijas Republikā.\n(2) Patvēruma meklētājam Latvijas Republikā tiek izsniegts patvēruma meklētāja personas dokuments, kura formu un izsniegšanas kārtību nosaka Ministru kabinets.\n(3) Patvēruma meklētāja personas dokuments dod tiesības uzturēties patvēruma meklētāju izmitināšanas centrā. Ar ikreizēju patvēruma meklētāju izmitināšanas centra administrācijas atļauju, par kuru tiek izdarīta atzīme patvēruma meklētāja personas dokumentā, patvēruma meklētājam ir tiesības uzturēties arī ārpus patvēruma meklētāju izmitināšanas centra."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "II nodaļa Iesnieguma iesniegšana un izskatīšana. Izmitināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 07.06.2006 . likumu, kas stājas spēkā 10.07.2006. )",
+      "section": "22",
+      "title": "Personas izraidīšana no Latvijas Republikas",
+      "content": "(1) Persona, kuras iesniegums izskatīts šā likuma 16.pantā noteiktajā kārtībā un attiecībā uz kuru pieņemts lēmums par atteikumu piešķirt bēgļa, kā arī alternatīvo statusu, tiek izraidīta no Latvijas Republikas likumā noteiktajā kārtībā.\n(2) Persona, kuras iesniegums izskatīts šā likuma 13. un 19.pantā noteiktajā kārtībā un attiecībā uz kuru pieņemts lēmums par atteikumu piešķirt bēgļa, kā arī alternatīvo statusu, tiek izraidīta no Latvijas Republikas Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "23",
+      "title": "Persona, kura kā patvēruma meklētājs var pretendēt uz bēgļa statusu",
+      "content": "(1) Kā patvēruma meklētājs uz bēgļa statusu var pretendēt persona, kura nav Latvijas pilsonis, likuma \"Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības\" vai likuma \"Par bezvalstnieka statusu Latvijas Republikā\" subjekts un kura ierodas vai atrodas Latvijas Republikā tāpēc, ka pamatoti baidās no vajāšanas rases, reliģijas, tautības, sociālās piederības vai politiskās pārliecības dēļ savas pilsonības valstī vai, ja šī persona ir bezvalstnieks, — savas iepriekšējās mītnes zemē, un kura šo baiļu dēļ nespēj vai nevēlas izmantot attiecīgās valsts tiesisko aizsardzību.\n(2) Persona, kura ir vairāk nekā vienas ārvalsts pilsonis, nevar pretendēt kā patvēruma meklētājs uz bēgļa statusu, ja tā bez iemesla baidās no šā panta pirmajā daļā minētās vajāšanas un neizmanto tiesisko aizsardzību kādā no savas pilsonības valstīm. Personas pilsonības valsts ir katra tā valsts, kuras pilsonis ir šī persona."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "24",
+      "title": "Gadījumi, kad netiek piemēroti noteikumi par bēgļa statusa piešķiršanu",
+      "content": "Šā likuma noteikumi par bēgļa statusa piešķiršanu netiek piemēroti, ja ir pamats uzskatīt, ka patvēruma meklētājs:\n1) ir izdarījis noziegumu pret mieru, kara noziegumu vai noziegumu pret cilvēci, arī genocīda noziegumu tādā izpratnē, kā tas formulēts starptautiskajos dokumentos, kuri pieņemti, lai veiktu pasākumus pret šāda veida noziegumiem;\n2) pirms ierašanās Latvijas Republikā ir izdarījis sevišķi smagu ar politiku nesaistīta rakstura noziegumu;\n3) ir vainīgs tādu darbību izdarīšanā, kuras ir pretrunā ar Apvienoto Nāciju Organizācijas principiem un mērķiem."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "25",
+      "title": "Gadījumi, kad bēgļa statusu patvēruma meklētājam nepiešķir",
+      "content": "Bēgļa statusu patvēruma meklētājam nepiešķir, ja:\n1) patvēruma meklētājam ir tādas valsts pilsonība, kurā nepastāv šā likuma 23.pantā minētās vajāšanas draudi;\n2) patvēruma meklētājs ir bezvalstnieks un viņa iepriekšējās mītnes zemē nepastāv šā likuma 23.pantā minētās vajāšanas draudi;\n3) patvēruma meklētājs pirms ierašanās Latvijas Republikā uzturējies valstī, kurā pastāv šādi nosacījumi:\na) tā ir ratificējusi 1951.gada 28.jūlija Konvenciju par bēgļa statusu un 1967.gada 31.janvāra Protokolu par bēgļa statusu,\nb) tajā patvēruma meklētājam nedraud nāves sods vai miesas sods, spīdzināšana, necilvēcīga vai pazemojoša izturēšanās pret viņu,\nc) tajā viņš varēja lūgt un saņemt aizsardzību;\n4) patvēruma meklētājs ir ieguvis bēgļa statusu citā valstī un bez pamatotām bailēm no šā likuma 23.pantā minētās vajāšanas var izmantot tās aizsardzību;\n5) patvēruma meklētāja iesniegumu par bēgļa statusa piešķiršanu izskata citā valstī;\n6) patvēruma meklētājs apzināti neievēro šā likuma 10.panta sestajā daļā noteiktās prasības vai sniedz apzināti nepatiesas ziņas, kas ir būtiskas, lai izlemtu jautājumu par bēgļa statusa piešķiršanu;\n7) saskaņā ar kompetentu iestāžu sniegtajām ziņām tas apdraud valsts drošību un sabiedrisko kārtību."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "26",
+      "title": "Bēgļa ceļošanas dokuments",
+      "content": "(1) Bēglim, ievērojot 1951.gada 28.jūlija Konvenciju par bēgļa statusu, tiek izsniegts ceļošanas dokuments, kas vienlaikus ir arī bēgļa personu apliecinošs dokuments. Ceļošanas dokumenta formu un izsniegšanas kārtību nosaka Ministru kabinets.\n(2) Bēglis, saņemot šā panta pirmajā daļā minēto ceļošanas dokumentu, nodod Departamentam glabāšanā visus viņa rīcībā esošos ceļošanas dokumentus."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "27",
+      "title": "Bēgļa uzturēšanās Latvijas Republikā",
+      "content": "Personai, kurai piešķirts bēgļa statuss, bez maksas izsniedz pastāvīgās uzturēšanās atļauju Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "28",
+      "title": "Bēgļa pabalsts un valsts palīdzība integrācijai sabiedrībā",
+      "content": "Ja bēglim nav citu iztikas avotu, pirmos 12 mēnešus pēc bēgļa statusa piešķiršanas viņš Ministru kabineta noteiktajā apmērā un kārtībā saņem pabalstu, kas sedz uzturēšanas, kā arī valsts valodas apguvei nepieciešamās izmaksas."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "III nodaļa Bēgļa statuss Latvijas Republikā",
+      "section": "29",
+      "title": "Bēgļa tiesības uz ģimenes atkalapvienošanu Latvijas Republikā",
+      "content": "Bēglim ir tiesības Ministru kabineta noteiktajā kārtībā apvienoties ar ģimenes locekļiem, kuri atrodas ārvalstīs. Par ģimeni tiek uzskatīts personas laulātais un viņu nepilngadīgie bērni (arī adoptētie), kas nav noslēguši laulību, kā arī apgādībā esošie pilngadīgie bērni invalīdi (arī adoptētie). Nepilngadīgam bērnam, kas nav noslēdzis laulību, ir tiesības uzņemt pie sevis no ārvalsts ieradušos māti un tēvu (arī adoptētājus)."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa Bēgļa statusa zaudēšana",
+      "section": "30",
+      "title": "Bēgļa statusa zaudēšanas nosacījumi",
+      "content": "Bēgļa statuss tiek zaudēts, ja:\n1) persona brīvprātīgi atjauno tiesisko saikni ar savas pilsonības valsti vai, ja persona ir bezvalstnieks, — ar iepriekšējās mītnes zemi un prasa palīdzību šīs valsts oficiālajām institūcijām vai amatpersonām vai brīvprātīgi atgriežas šajā valstī;\n2) persona iegūst citas valsts pilsonību, bezvalstnieka statusu, cita veida tiesisko aizsardzību, saņem pastāvīgās uzturēšanās atļauju citā valstī vai bez pārtraukuma uzturas ārpus Latvijas Republikas vairāk par sešiem mēnešiem kalendāra gada laikā, izņemot gadījumu, kad prombūtne pieteikta Ministru kabineta noteiktajā kārtībā;\n3) personas pilsonības valstī vai, ja persona ir bezvalstnieks, —iepriekšējās mītnes zemē stāvoklis mainās tādējādi, ka nav pamata bailēm no šā likuma 23.pantā minētās vajāšanas;\n4) persona uzņemta Latvijas pilsonībā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa Bēgļa statusa zaudēšana",
+      "section": "31",
+      "title": "Bēgļa statusa atņemšanas nosacījumi",
+      "content": "Bēgļa statuss tiek atņemts, ja:\n1) atklājas, ka tas iegūts viltus ceļā (bēgļa statusa iegūšanai persona sniegusi apzināti nepatiesas ziņas, kas bijušas par pamatu bēgļa statusa piešķiršanai);\n2) persona ar tiesas spriedumu atzīta par vainīgu sevišķi smaga nozieguma izdarīšanā Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Bēgļa statusa zaudēšana",
+      "section": "32",
+      "title": "Lēmums par bēgļa statusa zaudēšanu vai atņemšanu",
+      "content": "(1) Departaments pieņem lēmumu par bēgļa statusa zaudēšanu vai atņemšanu ne vēlāk kā mēneša laikā no dienas, kad tam kļuvis zināms kāds no šā likuma 30. vai 31.pantā minētajiem apstākļiem, un nekavējoties paziņo par to attiecīgajai personai.\n(2) Šā panta pirmajā daļā minēto lēmumu persona vai tās pilnvarots pārstāvis var pārsūdzēt tiesā mēneša laikā no tā saņemšanas dienas.\n(3) Tiesa izskata pieteikumu divu mēnešu laikā no tā saņemšanas dienas un nolēmumu nekavējoties paziņo personai.\n(4) Šā panta otrajā un trešajā daļā minētā pieteikuma izskatīšanas laikā persona saglabā bēgļa statusu."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IV nodaļa Bēgļa statusa zaudēšana",
+      "section": "33",
+      "title": "Tiesas nolēmuma pārsūdzēšana",
+      "content": "(1) Tiesas nolēmumu, kas atstāj spēkā Departamenta lēmumu par bēgļa statusa atņemšanu un kas pieņemts, pamatojoties uz šā likuma 31.panta 1.punktu, persona vai tās pilnvarots pārstāvis šajā likumā noteiktajā termiņā var pārsūdzēt Administratīvajā apgabaltiesā.\n(2) Pieteikuma iesniegšana Administratīvajai apgabaltiesai aptur šā likuma 34.pantā minēto pasākumu veikšanu."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IV nodaļa Bēgļa statusa zaudēšana",
+      "section": "34",
+      "title": "Personas pienākums atstāt Latvijas Republiku, ja tā zaudējusi bēgļa statusu vai tai atņemts bēgļa statuss",
+      "content": "Personai, kura zaudējusi bēgļa statusu vai kurai atņemts bēgļa statuss, Latvijas Republika jāatstāj divu mēnešu laikā, ja tai nav cita likumīga pamata uzturēties Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "35",
+      "title": "Persona, kura kā patvēruma meklētājs var pretendēt uz alternatīvo statusu",
+      "content": "(1) Alternatīvais statuss tiek piešķirts personai, kurai nevar piešķirt bēgļa statusu saskaņā ar šā likuma 23.pantu , taču tikai tad, ja ir pamats uzskatīt, ka:\n1) šai personai tās pilsonības valstī vai, ja šī persona ir bezvalstnieks, — iepriekšējās mītnes zemē draud nāves sods vai miesas sods, spīdzināšana, necilvēcīga vai pazemojoša izturēšanās pret to vai tās pazemojoša sodīšana;\n2) ārējo vai iekšējo bruņoto konfliktu dēļ šai personai nepieciešama aizsardzība un tā nevar atgriezties savas pilsonības valstī vai, ja šī persona ir bezvalstnieks, — savas iepriekšējās mītnes zemē.\n(2) Persona nevar pretendēt uz alternatīvo statusu, ja tā ir:\n1) Latvijas pilsonis, likuma \"Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības\" vai likuma \"Par bezvalstnieka statusu Latvijas Republikā\" subjekts;\n2) vairāk nekā vienas ārvalsts pilsonis un ja tā bez pamatota iemesla baidās no šā panta pirmajā daļā minētajiem draudiem un neizmanto tiesisko aizsardzību kādā no savas pilsonības valstīm.\n(3) (Izslēgta ar 20.01.2005 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "36",
+      "title": "Patvēruma meklētājs, kuram netiek piešķirts alternatīvais statuss",
+      "content": "Alternatīvo statusu patvēruma meklētājam nepiešķir, ja ir pamats uzskatīt, ka viņš:\n1) pirms ierašanās Latvijas Republikā uzturējies valstī, kur varēja lūgt un saņemt aizsardzību;\n2) ir izdarījis noziegumu pret mieru, kara noziegumu vai noziegumu pret cilvēci, arī genocīda noziegumu tādā izpratnē, kā tas formulēts starptautiskajos dokumentos, kuri pieņemti, lai veiktu pasākumus pret šāda veida noziegumiem;\n3) ir vainīgs tādu darbību izdarīšanā, kuras ir pretrunā ar Apvienoto Nāciju Organizācijas principiem un mērķiem;\n4) rada draudus Latvijas valsts un sabiedrības drošībai."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "37",
+      "title": "Personas uzturēšanās Latvijas Republikā, ja tai piešķirts alternatīvais statuss",
+      "content": "(1) Personai, kurai piešķirts alternatīvais statuss, izsniedz termiņuzturēšanās atļauju uz laiku līdz četriem gadiem. Ja persona mēnesi pirms termiņa beigām iesniedz iesniegumu par uzturēšanās termiņa pagarināšanu un joprojām pastāv kāds no šā likuma 35.panta pirmajā daļā minētajiem nosacījumiem, Departaments pieņem lēmumu par jaunas termiņuzturēšanās atļaujas izsniegšanu uz laiku līdz četriem gadiem.\n(2) Šā panta pirmajā daļā minēto termiņuzturēšanās atļauju izsniedz Ministru kabineta noteiktajā kārtībā.\n(3) Personai, kura šajā pantā noteiktajā kārtībā saņēmusi uzturēšanās atļauju, ir tiesības strādāt Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "38",
+      "title": "Personu apliecinošs dokuments",
+      "content": "(1) Ja personai, kurai piešķirts alternatīvais statuss, nav derīga personu apliecinoša un ceļošanas dokumenta un nav iespējams to saņemt, tai izsniedz personu apliecinošu dokumentu.\n(2) Personu apliecinoša dokumenta formu, izsniegšanas, pagarināšanas, izmantošanas un anulēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "39",
+      "title": "Pabalsts personai, kurai piešķirts alternatīvais statuss",
+      "content": "Ja personai, kurai piešķirts alternatīvais statuss, nav citu iztikas avotu, tā ne ilgāk kā deviņus mēnešus pēc alternatīvā statusa piešķiršanas saņem pabalstu Ministru kabineta noteiktajā apmērā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "40",
+      "title": "Tiesības uz ģimenes atkalapvienošanu Latvijas Republikā",
+      "content": "(1) Personai, kurai piešķirts alternatīvais statuss saskaņā ar šā likuma 35.panta pirmās daļas 1.punktu, ir tiesības apvienoties ar ģimeni likumā paredzētajā kārtībā.\n(2) Personai, kurai piešķirts alternatīvais statuss saskaņā ar šā likuma 35.panta pirmās daļas 2.punktu un kura pēc šā statusa piešķiršanas Latvijas Republikā uzturējusies vismaz divus gadus, ir tiesības iesniegt lūgumu par ģimenes atkalapvienošanu.\n(3) Kārtību, kādā tiek iesniegts un izskatīts šā panta otrajā daļā minētais lūgums par ģimenes atkaļapvienošanu un izsniegtas uzturēšanās atļaujas ģimenes locekļiem, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "41",
+      "title": "Alternatīvā statusa zaudēšanas nosacījumi",
+      "content": "Alternatīvo statusu persona zaudē, ja:\n1) tā sniegusi apzināti nepatiesas ziņas, kas bijušas par pamatu alternatīvā statusa piešķiršanai;\n2) tā atgriežas savas pilsonības valstī vai, ja persona ir bezvalstnieks, — iepriekšējās mītnes zemē;\n3) tā iegūst citas valsts pilsonību, bezvalstnieka statusu, cita veida tiesisko aizsardzību, saņem uzturēšanās atļauju citā valstī vai bez pārtraukuma uzturas ārpus Latvijas Republikas vairāk par sešiem mēnešiem kalendāra gada laikā, izņemot gadījumu, kad prombūtne pieteikta Ministru kabineta noteiktajā kārtībā;\n4) tās pilsonības valstī vai, ja persona ir bezvalstnieks, — iepriekšējās mītnes zemē stāvoklis mainās tādējādi, ka vairs nepastāv šā likuma 35.pantā minētie nosacījumi;\n5) tā ar tiesas spriedumu atzīta par vainīgu sevišķi smaga nozieguma izdarīšanā Latvijas Republikā;\n6) tā saņēmusi bēgļa statusu Latvijas Republikā vai citā valstī."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "42",
+      "title": "Lēmums par alternatīvā statusa zaudēšanu un tā pārsūdzēšanas kārtība",
+      "content": "(1) Departaments pieņem lēmumu par alternatīvā statusa zaudēšanu, ja tam kļuvis zināms kāds no šā likuma 41.panta nosacījumiem, un paziņo par to personai. Šo lēmumu persona vai tās pilnvarots pārstāvis var pārsūdzēt tiesā piecu darbdienu laikā no tā saņemšanas dienas.\n(2) Tiesa pieņem nolēmumu mēneša laikā no pieteikuma saņemšanas dienas un paziņo par to personai.\n(3) (Izslēgta ar 07.06.2006 . likumu.)\n(4) Šā panta pirmajā, otrajā un trešajā daļā minētā pieteikuma izskatīšanas laikā persona saglabā alternatīvo statusu."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "V nodaļa Alternatīvais statuss Latvijas Republikā",
+      "section": "43",
+      "title": "Personas pienākums atstāt Latvijas Republiku, ja tā zaudējusi alternatīvo statusu",
+      "content": "Personai, kura zaudējusi alternatīvo statusu, Latvijas Republika jāatstāj mēneša laikā, ja tai nav cita likumīga pamata uzturēties Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "44",
+      "title": "Pagaidu aizsardzības piešķiršana Latvijas Republikā",
+      "content": "(1) Pagaidu aizsardzība ir personu grupai piešķirtas tiesības noteiktu laiku uzturēties Latvijas Republikā, ja šīm personām ir nepieciešama aizsardzība un tās ir vai ir bijušas spiestas atstāt savu pilsonības valsti vai, ja šīs personas ir bezvalstnieki, — savas iepriekšējās mītnes zemi:\n1) etnisku konfliktu dēļ;\n2) pilsoņu kara dēļ.\n(2) Ministru kabinets izdod rīkojumu par pagaidu aizsardzības piešķiršanu personu grupai, nosakot tās kopējo skaitu, uzturēšanās termiņu un izmitināšanas kārtību Latvijas Republikā, un nepieciešamo finansējumu, kā arī kārtību, kādā Latvijas Republikas valsts robežu šķērso persona, kurai piešķirta pagaidu aizsardzība.\n(3) Šā panta pirmajā daļā minētās personu grupas sociālo sastāvu nosaka Departaments, sadarbojoties ar Apvienoto Nāciju Organizācijas augsto komisāru bēgļu lietās."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "45",
+      "title": "Personas apliecība",
+      "content": "(1) Personai, kurai saskaņā ar šā likuma 44.panta pirmo daļu piešķirtas tiesības noteiktu laiku uzturēties Latvijas Republikā, tiek izsniegta personas apliecība, kuras formu un izsniegšanas kārtību nosaka Ministru kabinets.\n(2) Persona, saņemot personas apliecību, nodod Departamentam glabāšanā savus personu apliecinošos un ceļošanas dokumentus līdz brīdim, kad tā atstāj Latvijas Republiku."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "46",
+      "title": "Personu grupas pienākums atstāt Latvijas Republiku, ja tai beidzas pagaidu aizsardzība",
+      "content": "(1) Personu grupai, kurai beidzas pagaidu aizsardzība, Latvijas Republika jāatstāj.\n(2) Šā panta pirmajā daļā minētais nosacījums neattiecas uz personu, kurai ir cits likumīgs pamats uzturēties Latvijas Republikā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn1",
+      "title": "1. Iekšlietu ministrijas Pilsonības un migrācijas lietu pārvaldes Bēgļu lietu departaments ir uz likuma \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" pamata izveidotā Bēgļu lietu centra visu tiesību un saistību pārņēmējs.",
+      "content": "1. Iekšlietu ministrijas Pilsonības un migrācijas lietu pārvaldes Bēgļu lietu departaments ir uz likuma \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" pamata izveidotā Bēgļu lietu centra visu tiesību un saistību pārņēmējs."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn2",
+      "title": "2. Pieteikumi par bēgļa statusa piešķiršanu, kuri iesniegti līdz šā likuma spēkā stāšanās dienai un par kuriem nav pieņemts lēmums atbilstoši likuma \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" noteikumiem, izskatāmi šajā likumā noteiktajā kārtībā.",
+      "content": "2. Pieteikumi par bēgļa statusa piešķiršanu, kuri iesniegti līdz šā likuma spēkā stāšanās dienai un par kuriem nav pieņemts lēmums atbilstoši likuma \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" noteikumiem, izskatāmi šajā likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn3",
+      "title": "3. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 16.nr.).",
+      "content": "3. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 16.nr.)."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn4",
+      "title": "4. Grozījumi likuma 10.panta piektajā daļā par patvēruma meklētāja tiesībām uz primāro veselības aprūpi stājas spēkā 2005.gada 6.februārī.",
+      "content": "( 20.01.2005 . likuma redakcijā, kas stājas spēkā 03.02.2005. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn5",
+      "title": "5. Ministru kabinets līdz 2005.gada 6.februārim izdod šā likuma 11.panta septītajā daļā paredzētos noteikumus.",
+      "content": "( 20.01.2005 . likuma redakcijā, kas stājas spēkā 03.02.2005. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn6",
+      "title": "6. Līdz 2009.gada 1.janvārim bāriņtiesa, pieņemot šā likuma 20.panta 1. 1 daļā minēto lēmumu par nepilngadīgās personas, kura ir bez vecāku pavadības, izmitināšanu, nepilngadīgo personu izmitina pie aizbildņa vai patvēruma meklētāju izmitināšanas centrā.",
+      "content": "( 25.10.2007 . likuma redakcijā, kas stājas spēkā 21.11.2007. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn7",
+      "title": "7. Līdz 2006.gada 31.decembrim pārstāvi nepilngadīgai personai nodrošina Pilsonības un migrācijas lietu pārvalde.",
+      "content": "( 07.06.2006 . likuma redakcijā, kas stājas spēkā 10.07.2006. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VI nodaļa Pagaidu aizsardzība Latvijas Republikā",
+      "section": "pn8",
+      "title": "8. Sūdzības, kas par Bēgļu lietu departamenta pieņemtajiem lēmumiem iesniegtas Bēgļu lietu apelācijas padomei līdz 2006.gada 9.jūlijam, izskatāmas saskaņā ar likuma noteikumiem, kuri bija spēkā līdz 2006.gada 9.jūlijam.",
+      "content": "1) Padomes 2001.gada 20.jūlija direktīvas 2001/55/EK par obligātajiem standartiem, lai pārvietoto personu masveida pieplūduma gadījumā sniegtu tām pagaidu aizsardzību, un par pasākumiem, lai līdzsvarotu dalībvalstu pūliņus, uzņemot šādas personas un uzņemoties ar to saistītās sekas;\n2) Padomes 2003.gada 27.janvāra direktīvas 2003/9/EK , ar ko nosaka obligātos standartus patvēruma meklētāju uzņemšanai;\n3) Padomes 2005.gada 1.decembra direktīvas 2005/85/EK par minimāliem standartiem attiecībā uz dalībvalstu procedūrām, ar kurām piešķir un atņem bēgļa statusu."
+    }
+  ],
+  "definitions": []
+}

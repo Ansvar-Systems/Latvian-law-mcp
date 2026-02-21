@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-02-21T21:12:01.000Z",
+  "source": "https://likumi.lv/ajax/ties_akti_pec_veida.php (Saeima/likumi, ngr=1)",
+  "source_reported_rows": 2250,
+  "corpus_candidates": 2249,
+  "selected": 2249,
+  "ingested": 2235,
+  "skipped_existing": 14,
+  "failed": 0,
+  "with_english_title": 591,
+  "total_provisions": 56740,
+  "total_definitions": 5062,
+  "failures": []
+}

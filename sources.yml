@@ -14,8 +14,8 @@ sources:
       url: "https://likumi.lv"
       summary: "Official legislative texts are public domain"
     coverage:
-      scope: "Key Latvian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
-      limitations: "Coverage is limited to curated high-impact acts; does not include all Latvian legislation."
+      scope: "Corpus-scale Latvian statute coverage (Likumi.lv acts with statute naming patterns, including core digital/compliance laws and constitutional baseline)"
+      limitations: "Non-statutory act classes (orders, regulations, notices) are excluded from corpus mode; a small subset of acts may remain empty where no parseable provision structure exists on source pages."
     languages:
       - "lv"
 

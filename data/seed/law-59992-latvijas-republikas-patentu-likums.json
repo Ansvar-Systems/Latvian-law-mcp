@@ -1,0 +1,362 @@
+{
+  "id": "lv-law-59992",
+  "type": "statute",
+  "title": "LATVIJAS REPUBLIKAS PATENTU LIKUMS",
+  "short_name": "TA-59992",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/59992-latvijas-republikas-patentu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "Izgudrojuma patentspēja",
+      "content": "(1) Patentu izsniedz uz izgudrojumu, kas ir jauns, rūpnieciski izmantojams un kam ir izgudrojuma līmenis.\n(2) Izgudrojums ir jauns, ja tas neatkārto neko no tām profesionālajām zināšanām, kuru kopums veido tehnikas līmeni. Tehnikas līmenis attiecībā uz izgudrojumu ietver jebkuras profesionālās zināšanas, kas līdz pieteikuma saņemšanas vai pieprasītās prioritātes pieteikšanas dienai atklātas izmantošanas ceļā vai jebkurā citādā ceļā (rakstveidā un mutvārdos) kļuvušas pieejamas plašai sabiedrībai.\n(3) Izgudrojums nav jauns, ja tas šā panta otras daļas prasībām gan atbilst, bet ir jau aprakstīts cita patenta pieteicēja (turpmāk — pieteicēja) patenta pieteikumā (turpmāk — pieteikumā), kas reģistrēts Patentu valdē ar agrāku prioritāti un publicēts Patentu valdes oficiālajā biļetenā.\n(4) Šā panta otrā un trešā daļa nav attiecināma uz izgudrojumiem, kuru novitāte izpaužas to pielietojumā, ja pats pielietojums neizriet no tehnikas līmeņa.\n(5) Informācijas izpaušana, kas citos apstākļos ietekmētu pieteiktā izgudrojuma patentspēju, to neiespaido, ja informācija izpausta ne agrāk ka 12 mēnešu laika pirms izgudrojuma iesniegšanas vai pieprasītās prioritātes pieteikšanas dienas un ja šādu informāciju izpauduši:\n1) izgudrotājs vai cita persona, kurai pieteikuma iesniegšanas dienā bija tiesības uz patentu;\n2) Patentu valde gadījumos, kad šī informācija tikusi pausta:\n— citā tā paša izgudrotāja iesniegtajā pieteikumā, un Patentu valde šo informāciju nedrīkstēja izpaust,\n— pieteikumā, kuru bez izgudrotāja ziņas vai piekrišanas iesniegusi trešā persona, kas šo informāciju tieši vai netieši ieguvusi no izgudrotāja;\n3) trešā persona, kas šo informāciju tieši vai netieši ieguvusi no izgudrotāja. Prasību par šīs daļas 1. punkta noteikumu piemērošanu var izvirzīt jebkurā laikā bez noilguma. Ja tiek apstrīdēta iespēja piemērot Šīs daļas 1. punkta noteikumus, personai, kas izvirzījusī prasību par minēto noteikumu piemērošanu, jāpierāda, ka attiecīgie apstākļi ir radušies.\n(6) Izgudrojumam ir izgudrojuma līmenis, ja attiecīgās nozares speciālists konstatē, ka tas acīm redzami neizriet no iepriekšējā tehnikas līmeņa. Novērtējot izgudrojuma līmeni, nav ņemami vērā šā likuma 1. panta trešās daļas noteikumi.\n(7) Izgudrojums ir uzskatāms par rūpnieciski izmantojamu, ja tā objekts izgatavojams vai izlietojams jebkurā tautsaimniecības nozarē.\n(8) Cilvēka un dzīvnieka organisma ārstēšanas ķirurģiskie vai terapeitiskie paņēmieni kā tādi nav uzskatāmi par rūpnieciski izmantojamiem un tāpēc nav patentspējīgi. Šis noteikums neattiecas uz ierīcēm un vielām, kas ir izmantojamas minētajos ārstēšanas paņēmienos."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "Izgudrojuma objekts",
+      "content": "Izgudrojuma objekts cita starpā var būt ierīces, paņēmieni, vielas, mikroorganismu celmi, augu un dzīvnieku šūnu kultūras, kā arī līdz šim zināmu ierīču, paņēmienu, vielu un mikroorganismu celmu līdz šim nezināms pielietojums citu sabiedrības vajadzību apmierināšanai."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "3",
+      "title": "Neaizsargājamie objekti",
+      "content": "(1) Saskaņā ar šo likumu par izgudrojumu nav atzīstami:\n1) atklājumi, zinātniskās teorijas un matemātiskās metodes;\n2) dizaina konstruēšanas rezultāti;\n3) plāni, intelektuālās darbības metodes, kā arī spēļu un uzņēmējdarbības noteikumi un metodes, skaitļotāju (datoru) programmas;\n4) informācijas sniegšanas paņēmieni.\n(2) Šis noteikums izslēdz norādīto objektu patentēšanu tikai tad, ja tiek pieprasīta pašu šo objektu patentaizsardzība.\n(3) Patentu neizsniedz:\n1) uz izgudrojumiem, kuru publicēšana vai izmantošana ir pretrunā ar sabiedrisko kārtību vai sabiedrībā valdošo morāli, taču attiecīgu secinājumu nedrīkst izdarīt, pamatojoties uz faktu, ka izgudrojuma izmantošana aizliegta ar likumu vai administratīvu priekšrakstu;\n2) uz augu šķirnēm un dzīvnieku sugām, galvenokārt uz augu šķirņu un dzīvnieku sugu izveides bioloģiskajiem paņēmieniem; šis noteikums neattiecas uz mikrobioloģiskajiem paņēmieniem un uz produktiem, kas iegūti ar šādiem paņēmieniem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "OTRĀ NODAĻA PATENTTIESĪBU SUBJEKTI",
+      "section": "4",
+      "title": "Tiesības uz patentu",
+      "content": "(1) Tiesības uz patentu ir izgudrotājam vai viņa juridisko tiesību pārņēmējam. Ja izgudrojumu radījušas vairākas personas kopīgi, tām ir kopīgas tiesības uz patentu.\n(2) Ja vairākas personas ir radījušas izgudrojumu neatkarīgi cita no citas, tiesības uz patentu ir personai, kura pirmā iesniegusi pieteikumu Patentu valdei.\n(3) Šīs tiesības saglabājas arī personai, kas pirmo izgudrojuma pieteikumu iesniegusi ārvalstī, kura ir Parīzes konvencijas par rūpnieciskā īpašuma aizsardzību dalībvalsts, bet pēc tam 12 mēnešu laikā, ievērojot konvencijas noteikumus, iesniegusi šā paša izgudrojuma pieteikumu Latvijas Republikas Patentu valdei."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "OTRĀ NODAĻA PATENTTIESĪBU SUBJEKTI",
+      "section": "5",
+      "title": "Dienesta izgudrojumi",
+      "content": "(1) Darba devējam ir tiesības uz darba ņēmēja (turpmāk — darbinieka) izgudrojumu, ja tas radīts, darbiniekam veicot šādus dienesta pienākumus:\n1) pildot darba līgumu, kas ietver izgudrotājdarbību,\n2) uzdotā darba ietvaros veicot pētniecības, projektēšanas un konstruēšanas darbus vai sagatavojot tehnoloģisko izstrādni.\n(2) Darba devēja un darbinieka tiesiskās attiecības dienesta izgudrojumu radīšanā, arī tās, kas reglamentē papildu atlīdzību par dienesta izgudrojuma radīšanu un izmantošanu, nosaka darba koplīgums vai individuālais darba līgums. Visi pārējie darbinieka izgudrojumi pieder pašam darbiniekam.\n(3) Darbiniekam, kas radījis dienesta izgudrojumu, ir pienākums nekavējoties paziņot par to darba devējam.\n(4) Ja darba devējs atsakās no tiesībām uz izgudrojumu vai sešu mēnešu laikā nepaziņo darbiniekam par savu nodomu šīs tiesības izmantot, tiesības uz izgudrojumu pāriet darbiniekam.\n(5) Iekams nav iesniegts pieteikums, darba devējam un darbiniekam jāatturas no jebkādas izgudrojuma būtības izpaušanas.\n(6) Šajā pantā paredzētās darba devēja un darbinieka tiesības un pienākumus neietekmē viņu dienesta attiecību pārtraukšana. Savstarpējās pretenzijas abas puses var celt tikai trīs gadu laikā, ja līgums neparedz citu termiņu.\n(7) Ja izgudrojums radīts uzņēmumā, kas veic zinātniskās pētniecības, projektēšanas, konstruēšanas vai citus radoša rakstura darbuzdevumus, pamatojoties uz līgumu ar pasūtītāju, kurš finansē attiecīgo darbu, tiesības uz patentu nosaka minētais līgums."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "OTRĀ NODAĻA PATENTTIESĪBU SUBJEKTI",
+      "section": "6",
+      "title": "Valsts kā tiesību subjekts",
+      "content": "Ja valsts ir īpašu, ar valsts drošību un suverenitāti saistītu zinātniskās pētniecības vai projektēšanas un konstruēšanas darbu pasūtītāja, tiesības uz izgudrojumiem, kas varētu rasties, darbuzdevuma izpildītājam veicot šos darbus, ir valsts pilnvarotai institūcijai un darbuzdevuma izpildītājam kopīgi un to izmantošanas kārtību nosaka īpašs līgums."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "7",
+      "title": "Patenta pieteikums",
+      "content": "(1) Persona, kas vēlas iegūt patentu uz izgudrojumu, iesniedz pieteikumu Patentu valdei. Pieteicējs ir tiesīgs pieprasīt patenta izsniegšanu, iekams nav pierādīts, ka viņam nav uz to tiesību, turklāt pieteicējam pieteikumā jānorāda izgudrotājs, bet gadījumā, kad izgudrojumu radījušas vairākas personas kopīgi, — visi izgudrotāji.\n(2) Izgudrotājam ir tiesības speciālā lūgumā prasīt, lai patentā vai jebkurā citā Patentu valdes oficiālajā publikācijā viņu nemin kā attiecīgā izgudrojuma autoru.\n(3) Pieteikumu iesniedz latviešu, krievu, angļu, franču vai vācu valodā. Ja pieteikums iesniegts angļu, vācu vai krievu valodā, pieteicējs divu mēnešu laikā papildina to ar izgudrojuma formulas, izgudrojuma kopsavilkuma un rasējumu apzīmējumu tulkojumu latviešu valodā. Šie materiāli uzskatāmi par pieteikuma sastāvdaļu.\n(4) Pieteikumam jāietver:\n1) iesniegums par patenta izsniegšanu;\n2) izgudrojuma apraksts;\n3) izgudrojuma formula;\n4) rasējumi, ja tie nepieciešami, lai izprastu izgudrojumu un tā formulas būtību;\n5) izgudrojuma kopsavilkums;\n6) dokuments par pieteikuma nodevas samaksu;\n7) pilnvara, ja pieteikumu iesniedz ar pilnvarotas personas {patentu pilnvarotā) starpniecību.\n(5) Šā likuma 12. , 20. pantā un devītajā nodaļā paredzētajos strīda gadījumos pēc Patentu valdes Apelācijas padomes vai tiesas pieprasījuma pieteicējam vai patenta īpašniekam līdz ar materiāliem, kas norādīti šā panta ceturtajā daļā, jāiesniedz izgudrojuma apraksts latviešu valodā.\n(6) Izgudrojuma aprakstam jābūt tik skaidram un pilnīgam, lai speciālists varētu izgudrojumu īstenot bez izgudrotāja papildu jaunrades. Aprakstā arī jāuzrāda pieteicējam zināmais tehnikas līmenis.\n(7) Izgudrojuma formula sastāv no viena vai vairākiem punktiem, kas nosaka izgudrojuma aizsardzības apjomu.\n(8) Ja izgudrojums paredz specifiska, ierobežoti pieejama mikroorganisma izmantošanu, pieteicējam ir jāiesniedz Patentu valdei dokuments par attiecīgā mikroorganisma (kultūras) celma deponēšanu vienā no starptautiski atzītām kolekcijām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "8",
+      "title": "Izgudrojuma vienotība",
+      "content": "(1) Vienā pieteikumā var pieprasīt patentu tikai uz vienu izgudrojumu vai uz tādu izgudrojumu grupu, kurus vieno kopīga iecere.\n(2) Katram izgudrojuma formulas neatkarīgajam punktam saskaņā ar šā likuma 2. pantu jāattiecas tikai uz vienu izgudrojuma objektu.\n(3) Prasība ievērot izgudrojuma vienotību uzskatāma par izpildītu, ja izgudrojuma formula ietver vairākus neatkarīgus punktus, kuri attiecas uz dažādiem, bet savstarpēji saistītiem objektiem un tādējādi atspoguļo kopīgu izgudrojuma ieceri.\n(4) Izgudrojuma īstenošanas specifiskās formas var atspoguļot izgudrojuma formulas atkarīgajos punktos."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "9",
+      "title": "I zgudrojuma prioritāte",
+      "content": "(1) Par izgudrojuma iesniegšanas (prioritātes) datumu atzīst dienu, kad Patentu valde saņēmusi pieteikumu.\n(2) Saskaņā ar šā likuma 4. panta trešo daļu tiesības uz prioritāti rodas arī tad, ja pieteikums uz izgudrojumu agrāk ir bijis iesniegts citā Parīzes konvencijas dalībvalstī. Šajā gadījuma pieteicējam, kurš vēlas izmantot konvencijprioritātes tiesības, tas jānorāda pieteikumā. Apliecinātās dokumentu kopijas, kuras ir apstiprinātas šīs tiesības, iesniedzamas vienlaikus ar pieteikumu, bet ne vēlāk kā trīs mēnešus no pieteikuma iesniegšanas dienas.\n(3) Izgudrojuma prioritāti var noteikt pēc datuma, kad Patentu valde saņēmusi tā paša pieteicēja pirmo pieteikumu attiecība uz to pašu izgudrojumu, ja vēlākais pieteikums kuram tiek pieprasīta šāda prioritāte, saņemts ne vēlāk kā 12 mēnešus pēc pirmā pieteikuma saņemšanas. Šajā gadījuma pirmais pieteikums tiek uzskatīts par atsauktu.\n(4) Izgudrojuma prioritāti var noteikt, pamatojoties uz vairākiem iepriekšējiem pieteikumiem, attiecībā uz katru no tiem ievērojot šā panta pirmajā, otrajā un trešajā daļā minētos noteikumus.\n(5) Prioritātes tiesības nozīmē to, ka pieteikumam nevar pretstatīt informāciju vai faktus, kas kļuvuši zināmi, sākot no fiksētās prioritātes datuma."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "10",
+      "title": "Iepriekšējā izskatīšana",
+      "content": "(1) Patentu valde pārbauda, vai iesniegtais pieteikums atbilst šā likuma 7. panta prasībām. Pieteikuma iepriekšējā izskatīšana veicama triju mēnešu laikā no dienas, kad tas iesniegts Patentu valdei.\n(2) Ja pieteikums neatbilst izvirzītajām prasībām vai tikai daļēji tām atbilst, Patentu valde par to paziņo pieteicējam, izskaidrojot neatbilstību un nosakot triju mēnešu termiņu norādīto trūkumu novēršanai. Attiecīgi tiek pagarināts arī iepriekšējās izskatīšanas termiņš.\n(3) Līdz iepriekšējās izskatīšanas pabeigšanai pieteicējam ir tiesības pēc savas iniciatīvas izdarīt pieteikumā tikai tādus grozījumus un papildinājumus, kas nemaina izgudrojuma būtību un nepaplašina izgudrojuma formulas apjomu. Tādus pašus grozījumus var izdarīt arī pēc Patentu valdes pieprasījuma. Abos gadījumos attiecīgi tiek pagarināts iepriekšējās izskatīšanas termiņš. Ja pieteicējs izdara grozījumus pēc savas iniciatīvas, viņam jāsamaksā attiecīgā nodeva.\n(4) Ja pieteikums atbilst izvirzītajām prasībām, Patentu valde paziņo pieteicējam par iepriekšējās izskatīšanas pabeigšanu un pieteikuma akceptēšanu.\n(5) Pieteikumu noraida, ja pieteicējs nav novērsis Patentu valdes norādītos trūkumus.\n(6) Lēmumu par pieteikuma noraidīšanu, ja tas pieņemts saskaņā ar šā panta piekto daļu, samaksājot nodevu, pieteicējs var triju mēnešu laikā pārsūdzēt Patentu valdes Apelācijas padomē. Apelācijas padome iesniegumu izskata triju mēnešu laikā, un tās lēmums ir galīgs."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "11",
+      "title": "Publikācija par akceptu",
+      "content": "(1) Pēc 18 mēnešiem no pieteikuma saņemšanas vai pieprasītās prioritātes pieteikšanas datuma iespējami īsā laikā Patentu valde publicē patentu biļetenā paziņojumu par pieteikumu. Pēc pieteicēja pieprasījuma paziņojumu par pieteikumu var publicēt pirms 18 mēnešu termiņa izbeigšanās, bet ne agrāk par trim mēnešiem no pieteikuma akceptēšanas dienas.\n(2) Paziņojumā par pieteikumu jāietver:\n1) ziņas par izgudrotāju (ja viņš nav atteicies no tiesībām tikt minētam) un pieteicēju;\n2) izgudrojuma nosaukums;\n3) starptautiskās izgudrojumu klasifikācijas (SIK) indeksi;\n4) pieteikuma iesniegšanas (prioritātes) un akceptēšanas datums;\n5) izgudrojuma kopsavilkums.\n(3) Tiklīdz paziņojums par pieteikumu ir publicēts, ikvienai personai ir tiesības Patentu valdē iepazīties ar pieteikuma materiāliem, kā arī par samaksu saņemt attiecīgā izgudrojuma apraksta un rasējumu kopiju.\n(4) Ja izgudrojums skar valsts aizsardzības intereses, Patentu valdei ir tiesības pēc savas iniciatīvas uz laiku līdz četriem mēnešiem no pieteikuma akceptēšanas dienas apturēt publikāciju par akceptu. Pēc šā termiņa izbeigšanās Patentu valdes lēmums zaudē spēku, ja to neapstiprina un nepagarina kompetenta valsts institūcija.\n(5) Saskaņā ar šā likuma 31. panta piektās, sestās, septītās daļas noteikumiem katrs izgudrojums ar to dienu, kad publicēts paziņojums par pieteikumu, iegūst pagaidu tiesisko aizsardzību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "12",
+      "title": "Pieteikuma izskatīšana un patenta izsniegšana",
+      "content": "(1) Patentu valde pārbauda, vai akceptētais pieteikums atbilst šā likuma 2. , 3. un 8. panta prasībām. Patentu valde neveic pieteikuma ekspertīzi attiecībā uz izgudrojuma patentspēju atbilstoši šā likuma prasībām. Patentu izsniedz bez garantijas par tā juridisko spēku, vērtību vai arī izgudrojuma apraksta pilnību un pareizību.\n(2) Ja pieteicējs nav izpildījis šā likuma 8. panta prasības par izgudrojuma vienotību, tālākā pieteikuma lietvedība tiek kārtota tikai attiecībā uz izgudrojuma formulas pirmo punktu, ja vien pieteicējs, atbildot uz Patentu valdes paziņojumu par minētā noteikuma pārkāpšanu, nav informējis to par pieteikuma sadali vai arī nav lūdzis aprobežoties ar to izgudrojuma vai izgudrojumu grupas formulas punktu kopuma izskatīšanu, kuri atbilst prasībām par izgudrojuma vienotību.\n(3) Ja pieteikuma izskatīšanas rezultāts ir pozitīvs, Patentu valde četru mēnešu laikā no dienas, kad publicēts paziņojums par pieteikumu, bet tad, ja saņemti iebildumi pret pieteikuma akceptu, — četru mēnešu laikā no iebildumu noraidīšanas dienas pieņem lēmumu par patenta izsniegšanu, reģistrē izgudrojumu valsts reģistrā, publicē patentu biļetenā patenta bibliogrāfisko izziņu un izgudrojuma kopsavilkumu, Vienlaikus Patentu valde sagatavo publicēšanai akceptētā pieteikuma pilnu aprakstu, kas ietver patenta bibliogrāfisko izziņu, izgudrojuma kopsavilkumu, izgudrojuma aprakstu, izgudrojuma formulu un, ja nepieciešams, rasējumus.\n(4) Patentu valde izdod pieteicējam patentu pēc tam, kad viņš ir samaksājis patenta nodevu. Pēc pieteicēja lūguma nodevas samaksu un patenta izdošanu var atlikt.\n(5) Ja pieteikums neatbilst vai tikai daļēji atbilst šā panta pirmās daļas prasībām, Patentu valde par to paziņo pieteicējam, izskaidrojot neatbilstību un atbildes sniegšanai nosakot triju mēnešu termiņu. Pieteikums tiek noraidīts, ja pieteicējs nav novērsis Patentu valdes norādītos trūkumus.\n(6) Lēmumu par pieteikuma noraidīšanu, ja tas pieņemts saskaņā ar šā panta piekto daļu, pēc nodevas samaksāšanas triju mēnešu laikā var pārsūdzēt Patentu valdes Apelācijas padomē. Ja Apelācijas padomes lēmums iesniedzēju neapmierina, viņš to sešu mēnešu laikā var pārsūdzēt šā likuma 48. panta pirmajā daļā noteiktajā kārtībā.\n(7) Par patenta uzturēšanu spēkā jāmaksā noteikta nodeva. Nodeva par katru nākamo gadu samaksājama līdz iepriekšējā gada beigām, skaitot no patenta izsniegšanas dienas. Ja nodeva noteiktā termiņā nav samaksāta, patenta īpašniekam ir tiesības samaksāt to turpmāko sešu mēnešu laikā, vienlaikus samaksājot arī papildnodevu.\n(8) Termiņus, kas noteikti šā likuma trešajā un piektajā nodaļā, var pagarināt (atlikt), bet ne vairāk par trijiem mēnešiem, ja šis likums neparedz citādi, vai atjaunot, ja to neievērošanai bijuši dibināti iemesli. Par termiņa pagarināšanu (atlikšanu) vai atjaunošanu jāmaksā papildu nodeva."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "TREŠĀ NODAĻA PATENTA IZSNIEGŠANA",
+      "section": "13",
+      "title": "Iebildums pret patenta izsniegšanu",
+      "content": "(1) Deviņu mēnešu laikā no dienas, kad publicēts paziņojums par patenta izsniegšanu, ikvienai personai, ja tā samaksājusi nodevu, ir tiesības iesniegt Patentu valdes Apelācijas padomei motivētu iebildumu pret patenta izsniegšanu. Iebildums iesniedzams rakstveidā divos eksemplāros.\n(2) Iebildumu pret patenta izsniegšanu Apelācijas padomei var iesniegt, ja pārkāpta šā likuma 2. , 3. , 7. un 8. panta prasības.\n(3) Iebildumus pret patenta izsniegšanu, pamatojoties uz citām šajā likumā noteiktajām prasībām, izskata tiesa. Iebildumu pret patenta izsniegšanu, pamatojoties uz šā likuma 1. panta trešo daļu, var iesniegt tikai pieteicējs, kura pieteikums reģistrēts Patentu valdē jau agrāk.\n(4) Pamatojoties uz šā panta pirmo daļu, iebilduma kopiju nosūta pieteicējam, kuram triju mēnešu laikā jāsagatavo atbilde. Minēto termiņu pēc pieteicēja lūguma var pagarināt vēl par vienu mēnesi. Apelācijas padome izskata iebildumu triju mēnešu laikā no pieteicēja atbildes saņemšanas dienas. Pieteicējam un iebilduma iesniedzējam paziņo par iebilduma izskatīšanu 30 dienas pirms noteiktā izskatīšanas termiņa; abas puses ir tiesīgas piedalīties iebilduma izskatīšanā, iesniegt nepieciešamos materiālus un dot mutvārdu paskaidrojumus.\n(5) Atbilstoši iebilduma izskatīšanas rezultātam Apelācijas padome pieņem lēmumu par iebilduma pilnīgu vai daļēju apmierināšanu vai arī par tā noraidīšanu.\n(6) Iebilduma noraidīšana neliedz tā iesniedzējam saskaņā ar vispārīgiem noteikumiem apstrīdēt izsniegto patentu. Lēmumu par iebilduma apmierināšanu sešu mēnešu laikā var pārsūdzēt šā likuma 48. panta pirmajā daļā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "CETURTĀ NODAĻA ĪPAŠI NOTEIKUMI, KAS ATTIECAS UZ STARPTAUTISKO PIETEIKUMU SASKAŅĀ AR LĪGUMU PAR PATENTU KOOPERĀCIJU",
+      "section": "14",
+      "title": "Starptautiskais pieteikums",
+      "content": "(1) Starptautiskais pieteikums šīs nodaļas izpratnē ir patenta pieteikums, kuram saskaņā ar Līguma par patentu kooperāciju (Patent cooperation treaty, turpmāk — PCT), 11.1 ., 11.2 . un 14.2 . pantu noteikts starptautiskā iesnieguma datums.\n(2) Latvijas Republikā jebkuru starptautisko pieteikumu pielīdzina pieteikumam, kas atbilstoši šā likuma 7. pantam iesniegts Patentu valdei. Šāds starptautiskais pieteikums tiek uzskatīts par pareizi noformētu, skaitot no tā starptautiskā iesnieguma datuma, turklāt šis datums tiek uzskatīts par pieteikuma iesniegšanas datumu Patentu valdē, ja Latvijas Republika minēta starptautiskajā pieteikumā kā norādītā (PCT 4.1 . panta ii punkta nozīmē) vai izraudzītā (PCT 31.4 . panta a punkta nozīmē) valsts."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "CETURTĀ NODAĻA ĪPAŠI NOTEIKUMI, KAS ATTIECAS UZ STARPTAUTISKO PIETEIKUMU SASKAŅĀ AR LĪGUMU PAR PATENTU KOOPERĀCIJU",
+      "section": "15",
+      "title": "Šā likuma prasību piemērošana starptautiskajam pieteikumam",
+      "content": "(1) Ja Latvijas Republikas starptautiskajā pieteikumā minēta kā norādītā vai izraudzītā valsts un pieteicējs saskaņā ar šā likuma pirmo, otro un trešo nodaļu vēlas saņemt Latvijas Republikas patentu, viņam viena mēneša laikā pēc PCT 22. vai 39. pantā noteiktā termiņa izbeigšanās saskaņā ar šā likuma 7. panta trešo daļu jāiesniedz Patentu valdei starptautiskā pieteikuma materiālu (izgudrojuma formulas, izgudrojuma kopsavilkuma un rasējumu apzīmējumu) tulkojums latviešu valodā un jāsamaksā pieteikuma nodeva. Starptautiskajā pieteikumā minēto materiālu tulkojums uzskatāms par starptautiskā pieteikuma sastāvdaļu. Starptautiskais pieteikums uzskatāms par atsauktu, ja šīs daļas pirmajā rindkopā minētajā termiņā Patentu valdei nav iesniegts izgudrojuma formulas, izgudrojuma kopsavilkuma un rasējumu apzīmējumu tulkojums latviešu valodā.\n(2) Starptautiskā pieteikuma tālākā izskatīšana Patentu valde noris saskaņā ar šā likuma 10. , 12. un 13. panta prasībām. Starptautiskajam pieteikumam, kas atbilst šā panta pirmās daļas prasībām, netiek piemēroti šā likuma 7. panta trešās daļas noteikumi.\n(3) Katrs starptautiskais pieteikums, kurā norādīta Latvijas Republika un kurš publicēts atbilstoši PCT 21. pantam, arī starptautiskais pieteikums, kas publicēts pirms pieteikuma akcepta publikācijas dienas (šā likuma 11. panta pirmā daļa), ir pamats tādām pašām tiesībām, kādas paredzētas tad, ja Patentu valdes oficiālajā izdevumā publicēts akceptēts pieteikums. Minētās tiesības iestājas ar dienu, kad izgudrojuma kopsavilkuma tulkojums latviešu valodā tiek publicēts Patentu valdes oficiālajā izdevumā. Tulkojums publicējams triju mēnešu laikā no dienas, kad tas iesniegts Patentu valdei.\n(4) Nosakot kopsavilkuma tulkojuma publikācijas terminus, kā arī kārtību, kādā trešās personas var iepazīties ar tāda starptautiskā pieteikuma materiāliem, kurā minēta Latvijas Republika, Patentu valde ievēro PCT 30. panta prasības par starptautiskā pieteikuma konfidencialitāti.\n(5) Ja starptautiskajā pieteikumā tiek prasīts Latvijas Republikas un Eiropas patents, pieteicējam izņēmuma kārtā, neievērojot šā panta vispārīgās prasības, tiek dota iespēja izmantot procedūru, kas noteikta šā panta iepriekšējās daļās, vai pēc Eiropas patenta saņemšanas saskaņā ar šā likuma piektās nodaļas prasībām iesniegt Patentu valdei īpašu iesniegumu par Eiropas patenta reģistrāciju.\n(6) Ja vienam un tam pašam izgudrojumam vai viņa tiesību pārņēmējam par to pašu izgudrojumu izsniegti divi patenti ar vienu un to pašu prioritātes datumu, Latvijas Republikas patenta darbība tiek pārtraukta ar brīdi, kad patents izsniegts uz starptautiskā pieteikuma pamata."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "CETURTĀ NODAĻA ĪPAŠI NOTEIKUMI, KAS ATTIECAS UZ STARPTAUTISKO PIETEIKUMU SASKAŅĀ AR LĪGUMU PAR PATENTU KOOPERĀCIJU",
+      "section": "16",
+      "title": "Starptautiskie pieteikumi, kas iesniegti Patentu valdei kā saņēmējorganizācijai",
+      "content": "(1) Ja starptautiskā pieteikuma iesniedzējs ir Latvijas Republikas pilsonis vai pastāvīgais iedzīvotājs, saskaņā ar PCT 10. pantu starptautisko pieteikumu var iesniegt Patentu valdei kā saņēmējorganizācijai.\n(2) Saskaņā ar PCT Instrukcijas 14. noteikumu starptautisko pieteikumu iesniedz noteiktā kārtībā, samaksājot nodevu par pārsūtīšanu.\n(3) Starptautiskie pieteikumi Patentu valdei kā saņēmējorganizācijai jāiesniedz valodās, kas saskaņotas ar PCT biroju."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "CETURTĀ NODAĻA ĪPAŠI NOTEIKUMI, KAS ATTIECAS UZ STARPTAUTISKO PIETEIKUMU SASKAŅĀ AR LĪGUMU PAR PATENTU KOOPERĀCIJU",
+      "section": "17",
+      "title": "Šā likuma darbības ietvari un attiecības ar PCT",
+      "content": "(1) PCT, šā likuma un citu normatīvo aktu prasības attiecas uz starptautiskajiem pieteikumiem gadījumos, kad Patentu valde ir saņēmējorganizācija vai arī norādītā vai izraudzītā organizācija.\n(2) Šajā likuma atsaukšanas uz PCT vienlaikus nozīme arī atsaukšanos uz PCT Instrukciju.\n(3) Ja PCT prasības atšķiras no šā likuma prasībām vai no prasībām, kas paredzētas normatīvajos aktos attiecībā uz šā likuma realizāciju, tiek ievērotas PCT prasības tajā redakcijā, kas ir spēkā Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "PIEKTĀ NODAĻA ĀRVALSTS PATENTA REĢISTRĀCIJA",
+      "section": "18",
+      "title": "Ārvalsts patenta reģistrācijas noteikumi",
+      "content": "(1) Latvijas Republikā tiek reģistrēts Eiropas patents. Citu valstu patentus pieņem reģistrācijai, ja Latvijas Republika ir noslēgusi par to divpusējus vai daudzpusējus līgumus.\n(2) Eiropas patentu pieņem reģistrācijai pēc patenta īpašnieka iesnieguma, kas iesniedzams Patentu valdei ne vēlāk kā gada laikā no attiecīgā Eiropas patenta reģistrācijas dienas.\n(3) Izgudrojumam, ko aizsargā reģistrācijai iesniegtais patents, jāatbilst prasībām, kas attiecībā uz tā prioritātes datumu paredzētas šā likuma 1. pantā . Par prioritātes dienu tiek uzskatīta diena, kad pieteikums iesniegts reģistrējamā patenta izcelsmes zemē.\n(4) Iesniegumam par ārvalsts patenta reģistrāciju jāpievieno:\n1) oficiāli apstiprināta patenta un tā apraksta kopija;\n2) izgudrojumu formulas tulkojums latviešu valoda;\n3) izgudrojuma kopsavilkuma tulkojums latviešu valoda;\n4) rasējumu apzīmējumu tulkojums latviešu valoda.\n(5) Iesniedzot iesniegumu par ārvalsts patenta reģistrāciju, jāsamaksā nodeva."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "PIEKTĀ NODAĻA ĀRVALSTS PATENTA REĢISTRĀCIJA",
+      "section": "19",
+      "title": "Iesnieguma izskatīšana",
+      "content": "(1) Iesniegumu par ārvalsts patenta reģistrāciju izskata termiņā, kādu nosaka šā likuma 10. panta pirmā daļa un 12. panta trešā daļa attiecībā uz Latvijas Republikas patentu pieteikumu ekspertīzi.\n(2) Iesniegumu var noraidīt, ja:\n1) objekts, ko aizsargā ārvalsts patents, saskaņā ar šā likuma 1. panta astotās daļas vai 3. panta noteikumiem nav patentspējīgs;\n2) iesniegums iesniegts pēc šā likuma 18. panta otrajā daļa noteiktā termiņa.\n(3) Iesnieguma noraidīšanu var apstrīdēt šā likuma 12. panta sestajā daļā noteiktajā kārtībā.\n(4) Ja iesniegums atbilst šā likuma prasībām, tas tiek apmierināts.\n(5) Patentu valde attiecīgo izgudrojumu reģistrē valsts reģistra, izsniedz pieteicējam reģistrēto patentu un publicē paziņojumu par patenta izsniegšanu tāda paša kartība, kāda paredzēta Latvijas Republikas patentiem.\n(6) Pieteicējs patentu var saņemt pēc nodevas samaksāšanas. Par patenta uzturēšanu spēkā katru gadu maksājama nodeva."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "PIEKTĀ NODAĻA ĀRVALSTS PATENTA REĢISTRĀCIJA",
+      "section": "20",
+      "title": "Reģistrētā patenta apstrīdēšana",
+      "content": "(1) Reģistrēto patentu var apstrīdēt un to var anulēt, pamatojoties uz noteikumiem un ievērojot kārtību, kāda paredzēta Latvijas Republikā spēkā esošo patentu apstrīdēšanai.\n(2) Ārvalsts patenta atcelšana vai tā darbības pirmstermiņa pārtraukšana izcelsmes zemē nav uzskatāma par pamatu reģistrētā patenta atzīšanai par spēkā neesošu Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "21",
+      "title": "Patentu valde un tās pamatfunkcijas",
+      "content": "(1) Patentu valdi izveido Ministru Padome. Patentu valde ir patstāvīgā valsts institūcija Tieslietu ministrijas sastāvā. Patentu valdes darbību nosaka un regulē šis likums un nolikums par Patentu valdi. Patentu valdes direktoru un direktora vietniekus pēc tieslietu ministra priekšlikuma amatā ieceļ Ministru Padome. Patentu valdei ir zīmogs ar Latvijas Republikas valsts mazā papildinātā ģerboņa attēlu. Ar to apzīmogo patentus un preču zīmju reģistrācijas apliecības, kā arī attiecīgos Patentu valdes dokumentus.\n(2) Patentu valde pieņem un izskata juridisko un fizisko personu pieteikumus izgudrojumu, rūpniecisko paraugu un preču zīmju tiesiskajai aizsardzībai, veic izgudrojumu, rūpniecisko paraugu un preču zīmju ekspertīzi, izdod tos aizsargājošus patentus un apliecības, kārto attiecīgos valsts reģistrus. Patentu valde uzkrāj un glabā materiālus, rasējumus, aprakstus, kā arī citus dokumentus un priekšmetus, kas attiecas uz patentiem un preču zīmju reģistrāciju.\n(3) Patentu valde savas kompetences ietvaros:\n1) izstrādā noteikumus, priekšrakstus, formulārus, izskaidrojumus;\n2) par atlīdzību konsultē fiziskās un juridiskās personas;\n3) sastāda un izdod oficiālo biļetenu, kā arī citus 26. panta otrās daļas 2. punktā minētos materiālus;\n4) atestē patentu pilnvarotos,\n5) sadarbojas ar Latvijas Republikas, ārvalstu un starptautiskajām organizācijām rūpnieciskā īpašuma tiesiskās aizsardzības jomā.\n(4) Par pieteikumu iesniegšanu, kā arī par Patentu valdes darbībām, kas saistītas ar rūpnieciska īpašuma tiesisko aizsardzību, ir jāmaksā. Samaksas lielumu nosaka Ministru Padome, bet samaksas kārtību — Patentu valdes direktors."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "22",
+      "title": "Patentu valdes struktūra",
+      "content": "(1) Patentu valde izveido struktūrvienības, kas nodrošina tās uzdevumu kvalitatīvu un savlaicīgu izpildi. Patentu valdes štatos ir direktors, direktora vietnieki, nodaļu vadītāji, galvenie eksperti un eksperti.\n(2) Patentu valdes nodaļu vadītājus, galvenos ekspertus, ekspertus un tehniskā personāla darbiniekus amatā iecel Patentu valdes direktors. Patentu valdes direktoram, direktora vietniekiem, nodalu vadītājiem un galvenajiem ekspertiem nepieciešama augstākā tehniskā, juridiskā vai ekonomiskā izglītība, vismaz triju gadu darba stāžs specialitātē, kā arī jāprot latviešu valoda un vismaz divas svešvalodas."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "23",
+      "title": "Ierobežojumi Patentu valdes darbiniekiem",
+      "content": "(1) Patentu valdes amatpersonas un darbinieki, pildot pienākumus Patentu valdē, kā arī gada laikā pēc tam, kad pārtrauktas darba attiecības ar Patentu valdi, nav tiesīgi iesniegt patenta pieteikumu, kā arī tieši vai netieši, izņemot mantošanu, iegūt patentu, ko izdevusi vai izdos Patentu valde, vai arī iegūt kādas no patenta izrietošas tiesības.\n(2) Attiecībā uz patentu, patenta pieteikumiem, kuri tiks iesniegti turpmāk, viņiem nav prioritātes tiesību, kuras datētas agrāk nekā vienu gadu pēc tam, kad viņi pārtraukuši darba attiecības ar Patentu valdi."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "24",
+      "title": "Patentu valdes direktors",
+      "content": "(1) Patentu valdes direktors vada visas darbības un izpilda pienākumus, kas noteikti likumos par rūpnieciskā īpašuma tiesisko aizsardzību un nolikumā par Patentu valdi,\n(2) Patentu valdes direktors ir tiesīgs izpildīt nacionālās un starptautiskās programmas, organizēt informācijas apmaiņu un pieprasīt izziņas jautājumos, kas skar Latvijas Republikas nacionālās un starptautiskās tiesības rūpnieciskā īpašuma tiesiskās aizsardzības jomā.\n(3) Direktors likuma ietvaros rīkojas ar Patentu valdei nošķirto īpašumu un atbild par to, bez īpaša pilnvarojuma pārstāv Patentu valdi tiesā, arbitrāžā, valsts iestādēs, kā arī attiecībās ar fiziskajām un juridiskajām personām."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "25",
+      "title": "Patentu valdes atbildība",
+      "content": "Patentu valde atbild par to pienākumu kvalitatīvu un savlaicīgu izpildi, kas tai noteikti Latvijas Republikas likumos par rūpnieciskā īpašuma tiesisko aizsardzību, kā arī par valsts politikas realizāciju rūpnieciska īpašuma tiesiskās aizsardzības jomā tai noteiktās kompetences ietvaros."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "26",
+      "title": "Patentu valdes tiesības",
+      "content": "(1) Patentu valdei ir tiesības izsniegt:\n1) patentus, ieskaitot izgudrojuma aprakstus un rasējumus, kā arī to kopijas un dublikātus;\n2) preču zīmju reģistrācijas apliecības, arī apzīmējumus, to kopijas un dublikātus.\n(2) Patentu valdei ir tiesības izdot:\n1) Patentu valdes patentu un preču zīmju oficiālo žurnālu;\n2) normatīvos un metodiskos materiālus, kā arī citus materiālus jautājumos, kas ietilpst Patentu valdes kompetencē."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "27",
+      "title": "Apelācijas padome",
+      "content": "(1) Patentu strīdu izskatīšanai tiek izveidota Patentu valdes Apelācijas padome, kas darbojas atbilstoši tieslietu ministra apstiprinātam nolikumam.\n(2) Apelācijas padomes sastāvā ir trīs Patentu valdes pārstāvji, ka arī četri neatkarīgi zinātnē, tehnikā un jurisprudencē augsti kompetenti speciālisti.\n(3) Apelācijas padomes locekļus ieceļ uz trijiem gadiem.\n(4) Apelācijas padome uz rakstveida iesnieguma pamata izskata pieteicēja pretenzijas. Katru apelācijas iesniegumu izskata ne mazāk kā trīs Apelācijas padomes locekļi.\n(5) Apelācijas padomes sastāvā iesniegumu izskatīšanai nedrīkst iekļaut speciālistu, kas veicis iepriekšējo izskatīšanu vai ekspertīzi.\n(6) Katru apelācijas iesniegumu izskata triju mēnešu laikā."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "28",
+      "title": "Patentu valdes pārskats",
+      "content": "Patentu valdes direktors pārskatu par saņemtajiem un izlietotajiem līdzekļiem, kā arī attiecīgo statistisko un citu informāciju par Patentu valdes darbību sniedz Tieslietu ministrijai un Ministru Padomei."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "SESTĀ NODAĻA PATENTU VALDE",
+      "section": "29",
+      "title": "Pārstāvība Patentu valdē",
+      "content": "(1) Pieteicējiem nav obligāta profesionāla patentu pilnvarotā pārstāvība Patentu valdē, izņemot šā panta otrajā daļā minētos gadījumus.\n(2) Fiziskās un juridiskās personas, kuru pastāvīgā dzīvesvieta nav Latvijas Republika vai kurām tās teritorijā nepieder uzņēmums. Patentu valdē pārstāv profesionāls patentu pilnvarotais.\n(3) Fiziskas un juridiskas personas, kuru pastāvīga dzīvesvieta ir Latvijas Republika vai kurām tās teritorijā pieder uzņēmums, patentu valdē var tikt pārstāvētas vai nu personiski, vai ar savu attiecīgi pilnvarotu darbinieku starpniecību. Šiem darbiniekiem nav obligāti jābūt profesionāliem patentu pilnvarotajiem.\n(4) Par pilnvaroto pārstāvi patentu jautājumos drīkst būt tikai profesionāls patentu pilnvarotais, kas Patentu valdē reģistrēts profesionālo patentu pilnvaroto reģistrā, izņemot šā panta trešajā daļā minētās personas.\n(5) Patentu valde kārto profesionālo patentu pilnvaroto reģistru. Ierakstus, kas izdarāmi profesionālo patentu pilnvaroto reģistrā, kā arī tā kārtošanu nosaka Patentu valdes direktors.\n(6) Profesionālo patentu pilnvaroto reģistrā var iekļaut tikai fiziskās personas. Profesionālam patentu pilnvarotajam jāatbilst šādām prasībām:\n1) jābūt Latvijas Republikas pilsonim, kura pastāvīgā dzīvesvieta ir Latvijas Republika (līdz Latvijas Republikas pilsonības likuma pieņemšanai — Latvijas Republikas pastāvīgajam iedzīvotājam);\n2) jābūt sasniegušam 30 gadu vecumu;\n3) viņam nepieciešama augstākā inženiertehniskā, juridiskā vai ekonomiskā izglītība (ārvalstu augstāko mācību iestāžu izsniegtajiem diplomiem minētajās specialitātēs jābūt atzītiem Latvijas Republikā), kā arī darba stāžs specialitātē — ne mazāks par pieciem gadiem;\n4) jānokārto eksāmens atestācijas komisijā, kuras sastāvu apstiprina Patentu valdes direktors.\n(7) Jebkurš reģistrā iekļautais profesionālais patentu pilnvarotais var lūgt izslēgt viņu no reģistra.\n(8) Profesionālo patentu pilnvaroto reģistrs glabājas Patentu valdē un ir pieejams jebkurai ieinteresētajai personai. Patentu valde regulāri publicē profesionālo patentu pilnvaroto sarakstu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "SEPTĪTĀ NODAĻA NO PATENTA IZRIETOŠĀS TIESĪBAS",
+      "section": "30",
+      "title": "Izņēmuma tiesības",
+      "content": "(1) Patents nodrošina tā īpašniekam izņēmuma tiesības. Bez patenta īpašnieka atļaujas trešajām personām ir aizliegts:\n1) patentēto produktu (ierīci, vielu, mikroorganismu celmu utt.) izgatavot, piedāvāt pārdošanai, ievadīt saimnieciskajā apritē, pielietot, kā arī ievest no ārvalstīm un glabāt minētajiem nolūkiem;\n2) pielietot patentēto paņēmienu;\n3) piedāvāt pārdošanai, ievadīt saimnieciskajā aprite vai pielietot, kā arī ievest no ārvalstīm un glabāt minētajiem nolūkiem produktu, kas iegūts ar patentēto paņēmienu.\n(2) Neatkarīgi no šā panta pirmajā daļā minētajiem noteikumiem patents aizliedz trešajām personām piegādāt un piedāvāt piegādei patentētā izgudrojuma būtiskos elementus (izņemot tos, kuri ir plaši pazīstami saimnieciskajā apritē), ja šādu elementu piegāde rada objektīvu iespēju veikt šā panta pirmajā daļā minētās darbības, līdz ar to pārkāpjot patenta īpašnieka tiesības.\n(3) Darba devējam Ir izņēmuma tiesības izmantot tādu dienesta izgudrojumu, uz kuru viņam izsniegts patents (šā likuma 5. panta pirmā daļa); šīs tiesības attiecināmas arī uz darbinieku — attiecīgā dienesta izgudrojuma autoru.\n(4) Darbiniekam ir izņēmuma tiesības izmantot tādu dienesta izgudrojumu, uz kuru viņam izsniegts patents (šā likuma 5. panta pirmā un ceturtā daļa); šīs tiesības attiecināmas arī uz darba devēju.\n(5) Patenta īpašniekam ir tiesības izmantot patentētu izgudrojamu, ja šādu izmantošanu neaizliedz Latvijas Republikā spēkā esošie likumi un ja netiek pārkāptas citu patenta īpašnieku patenttiesības. Reģistrētais patents piešķir tā īpašniekam izņēmuma tiesības šajā pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "SEPTĪTĀ NODAĻA NO PATENTA IZRIETOŠĀS TIESĪBAS",
+      "section": "31",
+      "title": "Izņēmuma tiesību darbības ietvari",
+      "content": "(1) No patenta izrietošo tiesību aizsardzības ietvarus nosaka izgudrojuma formula. Aizsardzības apjoma noskaidrošanai un izgudrojuma formulas interpretācijai var izmantot izgudrojuma aprakstu un zīmējumus.\n(2) Izgudrojuma apraksts un zīmējumi nav izmantojami izgudrojuma formulas paplašinātai interpretācijai.\n(3) Patents ir spēkā visā Latvijas Republikas teritorijā, ieskaitot iekšējos un teritoriālos ūdeņus; no patenta izrietošās tiesības ir spēkā arī kontinentālajā šelfā pie Latvijas Republikas krastiem un ekonomiskajā zonā, uz kuru Latvijas Republikai ir suverēnas tiesības saskaņā ar 1958. gada 29. aprīļa Jūras tiesību konvenciju, ciktāl tā skar ar derīgo izrakteņu meklēšanu vai ieguvi saistīto darbību.\n(4) Izņēmuma tiesības pilnā apjomā stājas spēkā ar patenta izsniegšanas dienu un izbeidzas ne vēlāk kā pēc 20 gadiem no patenta pieteikuma iesniegšanas dienas. Izņēmuma tiesības, kas izriet no reģistrētā patenta, stājas spēka ar dienu, kad publicēts paziņojums par ārvalsts patenta reģistrāciju (šā likuma 19. panta 4. daļa), un izbeidzas ne vēlāk kā pēc 20 gadiem no dienas, kad Patentu valdei iesniegts iesniegums par ārvalsts patenta reģistrāciju.\n(5) Laika posmā starp dienu, kad tiek publicēts paziņojums par patenta pieteikumu, un patenta izsniegšanas dienu izgudrojumam tiek piešķirta pagaidu aizsardzība.\n(6) Šā laika posma ietvaros trešajam personām ir atļauts izmantot patentējamo izgudrojumu arī bez tā pieteicēja piekrišanas, taču samaksājot viņam taisnīgu atlīdzību gadījumā, ja uz šo izgudrojumu tiks izsniegts patents.\n(7) Ja uz izgudrojumu izsniedz patentu, trešajām personām, kas sākušas izgudrojumu izmantot laika posmā, kad spēkā bija izgudrojuma pagaidu aizsardzība, jāpārtrauc šā izgudrojuma izmantošana vai arī jāiegūst no patenta īpašnieka licence izgudrojuma izmantošanas turpināšanai. Pretējā gadījumā iestājas atbildība par patenta īpašnieka tiesību pārkāpšanu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "SEPTĪTĀ NODAĻA NO PATENTA IZRIETOŠĀS TIESĪBAS",
+      "section": "32",
+      "title": "No patenta izrietošo izņēmuma tiesību ierobežojumi",
+      "content": "Šā likuma 30. panta pirmajā un otrajā daļā minētais patentētā izgudrojuma izmantošanas aizliegums neattiecas uz gadījumiem, kad izgudrojumu izmanto:\n1) nekomerciālos (bezpeļņas) nolūkos;\n2) zinātniskam eksperimentam vai pētnieciskos nolūkos, kā ari patentētā izgudrojuma priekšmeta pārbaudei;\n3) aptiekā — vienreizēju zāļu izgatavošanai pēc ārsta receptes;\n4) darbībai ar patentēto produktu pēc tam, kad to Latvijas Republikas teritorijā saimnieciskajā apritē ir ievadījis pats patenta īpašnieks vai cita persona uz patenta īpašnieka izdotās licences pamata;\n5) tāda ārvalsts transportlīdzekļa konstrukcijā vai tā ekspluatācijas gaitā, kurš uz laiku vai nejaušības dēļ atrodas Latvijas Republikas teritorijā, tās ūdeņos vai gaisa telpā, turklāt izgudrojuma izmantošana notiek tikai transportlīdzekļa vajadzībām."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "SEPTĪTĀ NODAĻA NO PATENTA IZRIETOŠĀS TIESĪBAS",
+      "section": "33",
+      "title": ". Iepriekšējās lietošanas tiesības",
+      "content": "(1) Jebkura persona, kas Latvijas Republikas teritorijā pirms patentētā izgudrojuma pieteikuma saņemšanas Patentu valdē vai pieprasītās prioritātes datuma bija patstāvīgi un godprātīgi izmantojusi identisku izgudrojumu savā uzņēmumā vai līdz šim datumam bija veikusi nepieciešamos priekšdarbus šādai izmantošanai, ir tiesīga netraucēti un nemaksājot atlīdzību patenta īpašniekam turpināt izmantot Šo izgudrojumu savā uzņēmumā ar nosacījumu, ka izgudrojuma izmantošanas apjoms netiks paplašināts.\n(2) Attiecībā uz reģistrētu ārvalsts patentu šī norma piemērojama gadījumos, kad izgudrojuma izmantošana ir sākusies vai nepieciešamie priekšdarbi šādai izmantošanai ir veikti pirms datuma, kurā saņemts iesniegums par patenta reģistrāciju Latvijas Republikā.\n(3) Iepriekšējās lietošanas tiesības var nodot citai personai tikai kopā ar uzņēmumu, kurā izgudrojums izmantots šā panta pirmās daļas izpratnē."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "SEPTĪTĀ NODAĻA NO PATENTA IZRIETOŠĀS TIESĪBAS",
+      "section": "34",
+      "title": "Patenta darbības pirmstermiņa pārtraukšana",
+      "content": "Patenta darbība tiek pārtraukta pirms termiņa, ja:\n1) patenta īpašnieks iesniedz par to iesniegumu Patentu valdei;\n2) noteiktā laikā nav samaksāta nodeva par patenta uzturēšanu spēkā;\n3) patents atzīts par spēkā neesošu saskaņā ar šā likuma 35. pantu ."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "SEPTĪTĀ NODAĻA NO PATENTA IZRIETOŠĀS TIESĪBAS",
+      "section": "35",
+      "title": "Patenta atzīšana par spēkā neesošu",
+      "content": "(1) Patentu var noteiktā kārtībā atzīt par spēkā neesošu, ja:\n1) patenta priekšmets atzīts par patentnespējīgu saskaņā ar šā likuma 1. un 3. pantu ;\n2) patenta aprakstā izgudrojuma būtība nav atklāta tik skaidri un tik pilnīgi, lai speciālists izgudrojumu varētu īstenot (šā likuma 7. panta sestā daļa);\n3) patenta priekšmets pārsniedz pieteikuma ietvarus tā sākotnējā redakcijā (šā likuma 10. panta trešā daļa);\n4) patents izsniegts personai, kurai nebija tiesību to saņemt (šā likuma 42. pants ).\n(2) Patentu var atzīt par daļēji spēkā neesošu, ierobežojot no izgudrojuma formulas izrietošās pretenzijas, ja šā panta pirmajā daļā minētie apstākļi neattiecas uz patentu pilnā mērā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "ASTOTĀ NODAĻA PATENTS KĀ ĪPAŠUMA OBJEKTS",
+      "section": "36",
+      "title": "Patenttiesību būtība",
+      "content": "(1) Jebkurš patents vai tā pieteikums, kā arī uz patentu pamatotās tiesības tiesiskā režīma ziņā tiek pielīdzinātas personiskai kustamai mantai, bet nevar būt par liettiesisko prasību objektu.\n(2) Jebkuru patentu vai tā pieteikumu līdz ar tiesībām, kas pamatotas uz patentu vai pieteikumu, var pārdot, uz laiku nodot citai personai pilnā apjomā vai daļēji (licence), dāvināt vai citādi ievadīt civilajā apritē saskaņā ar vispārīgiem noteikumiem, kādi jāievēro, veicot mantiskos darījumus, ja spēkā esošie likumdošanas akti neparedz atšķirīgus noteikumus atsevišķiem darījumiem, kas saistīti ar patentiem.\n(3) Uz patentu pamatotās mantiskās tiesības, kā arī tiesības pieprasīt patentu pāriet mantošanas kārtībā saskaņā ar kustamās lietas mantošanas vispārīgiem noteikumiem.\n(4) Jebkuri ar patentu saistītie darījumi atzīstami par spēkā neesošiem, ja tie nav reģistrēti Patentu valdē."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "ASTOTĀ NODAĻA PATENTS KĀ ĪPAŠUMA OBJEKTS",
+      "section": "37",
+      "title": "Izgudrojuma izmantošana",
+      "content": "(1) Par izgudrojuma izmantošanu atzīst patentētā objekta (ierīces, vielas utt.) rūpniecisku izgatavošanu vai patentētā paņēmiena\nrūpniecisku izmantošanu, ja ir izmantotas visas izgudrojuma formulas neatkarīgā punkta pazīmes vai to ekvivalenti.\n(2) Savstarpējās attiecības gadījumos, kad izmanto izgudrojumu, uz kuru vairākām personām izdots kopīgs patents, nosaka līgums, kas noslēgts starp šīm personām. Ja šāds līgums nav noslēgts, katrs no patenta līdzīpašniekiem ir tiesīgs izmantot izgudrojumu pēc saviem ieskatiem, izņemot gadījumus, kas saistīti ar licences piešķiršanu vai patenta atsavināšanu.\n(3) Licenci var piešķirt trešajām personām tikai ar visu patenta līdzīpašnieku piekrišanu vai pamatojoties uz tiesas spriedumu. Patenta līdzīpašnieku strīdi izšķirami tiesas ceļā (šā likuma 48. pants ).\n(4) Jebkurai personai, kas vēlas izmantot patentētu izgudrojumu, jānoslēdz ar patenta īpašnieku attiecīgs līgums."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "ASTOTĀ NODAĻA PATENTS KĀ ĪPAŠUMA OBJEKTS",
+      "section": "38",
+      "title": "Licence un licences līgums",
+      "content": "(1) Patenta īpašnieka izgudrojuma izmantošanas tiesību nodošana citai personai tiek noformēta ar licences līgumu. Atbilstoši licences raksturam (izņēmuma licence vai vienkārša licence) izgudrojuma izmantošanas tiesību pārdevējpuse (licenciārs), kā arī saņēmējpuse (licenciāts) uzņemas noteiktas tiesības un pienākumus.\n(2) Licenci atzīst par izņēmuma licenci, ja licenciāts iegūst izņēmuma tiesības uz izgudrojuma izmantošanu saskaņā ar licences līgumā paredzētajiem noteikumiem, bet licenciārs saglabā tiesības izmantot izgudrojumu tiktāl, ciktāl šīs tiesības nav pārgājušas licenciātam.\n(3) Licenci atzīst par vienkāršu licenci tad, ja licenciārs, piešķirot citai personai izgudrojuma izmantošanas tiesības, saglabā tiesības izmantot šo izgudrojumu personiski, kā arī piešķirt tā paša izgudrojuma licenci trešajām personām.\n(4) Par atklāto licenci sauc patenta īpašnieka paziņoto gatavību piešķirt izgudrojuma izmantošanas licenci jebkurai ieinteresētajai personai. Šādu paziņojumu patenta īpašnieks iesniedz Patentu valdei oficiālai publicēšanai. Pēc paziņojuma publicēšanas kārtējā gada nodeva par attiecīgā patenta uzturēšanu spēkā tiek samazināta uz pusi. Ja atklātā licence tiek atsaukta, minētā nodeva samaksājama saskaņā ar vispārīgiem noteikumiem. Ja par atklātās -licences izmantošanas noteikumiem ieinteresētajām pusēm neizdodas vienoties, šos noteikumus nosaka tiesa.\n(5) Licences līgums stājas spēkā pēc tā reģistrācijas Patentu valdē. Par licences reģistrāciju jāmaksā nodeva."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "ASTOTĀ NODAĻA PATENTS KĀ ĪPAŠUMA OBJEKTS",
+      "section": "39",
+      "title": "Piespiedu licences",
+      "content": "(1) Ja četru gadu laikā no patenta izsniegšanas (vai ārvalsts patenta reģistrēšanas) dienas patentētais izgudrojums Latvijas Republikas teritorijā nav izmantots vai ir izmantots nepietiekamā apjomā, jebkura persona var griezties tiesā ar prasību, lai tai piešķir atļauju (piespiedu licenci) izmantot patentēto izgudrojumu atbilstoši noteikumiem, kurus nosaka tiesa. Šī norma netiek piemērota gadījumos, kad patenta īpašnieks pierāda, ka izgudrojuma neizmantošanai vai nepietiekamai izmantošanai ir bijuši attaisnojoši iemesli.\n(2) Atbilstoši šā panta pirmās daļas noteikumiem patentētā izgudrojuma izmantošanas atļauju (piespiedu licenci) bez patenta īpašnieka piekrišanas var iegūt tiesas ceļā, pamatojoties uz vienu no šādiem nosacījumiem:\n1) patentētajam objektam vai ar patentētu paņēmienu iegūtajam produktam ir vitāli svarīga nozīme Latvijas Republikas iedzīvotāju labklājības, tās ekonomikas vai aizsardzības interešu nodrošināšanā, bet patenta īpašnieks vai viņa licenciāts neizmanto izgudrojumu vai arī izmanto to tādā apjomā, kas objektīvi neapmierina Latvijas Republikas intereses;\n2) izgudrojumu, kam ir svarīga saimnieciska nozīme, nevar izmantot bez cita agrāk patentēta izgudrojuma pielietojuma; šādos apstākļos agrāk izsniegtā patenta īpašnieks var pieprasīt izdot pretlicenci vēlāk patentētā izgudrojuma licencēšanai.\n(3) Piespiedu licences vienmēr ir vienkāršas (neizslēdzošas) licences, tām nav tālāknodošanas tiesību."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "DEVĪTĀ NODAĻA PATENTA PĀRKĀPŠANA UN ATBILDĪBA PAR PATENTA PĀRKĀPŠANU",
+      "section": "40",
+      "title": "Patenta pārkāpšanas jēdziens",
+      "content": "(1) Par patenta pārkāpšanu atzīstama jebkura šā likuma 30. panta pirmajā un otrajā daļā paredzēto patenta īpašnieka tiesību aizskaršana, ja tā notikusi patenta darbības laika.\n(2) Jebkura persona ir atbildīga par patenta tiešu pārkāpšanu, ja tā izdarījusi šā likuma 30. panta pirmajā daļā minētas darbības bez Latvijas Republikā spēkā esošā patenta īpašnieka atļaujas vai cita likumīga pamata.\n(3) Jebkura persona ir atbildīga arī par patenta netiešu pārkāpšanu, ja tā izdarījusi šā likuma 30. panta otrajā daļā minētas darbības bez Latvijas Republikā spēkā esošā patenta īpašnieka atļaujas vai cita likumīga pamata."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "DEVĪTĀ NODAĻA PATENTA PĀRKĀPŠANA UN ATBILDĪBA PAR PATENTA PĀRKĀPŠANU",
+      "section": "41",
+      "title": "Atbildība par patenta pārkāpšanu",
+      "content": "(1) Atbildība par patenta pārkāpšanu saskaņā ar šā likuma 40. panta noteikumiem iestājas tikai ar patenta izsniegšanas dienu un tikai par darbībām, kas izdarītas pēc šā datuma.\n(2) Atbildība par patenta pārkāpšanu iestājas tikai tad, ja ir pierādīta pārkāpēja vaina.\n(3) Pierādīt patenta pārkāpšanas faktu un pārkāpēja tīšo nodomu ir cietušas puses (patenta īpašnieka vai izņēmuma licences turētajā) pienākums.\n(4) Šā panta trešajā daļā minētie noteikumi neattiecas uz gadījumiem, kad patents izdots uz jauna produkta izgatavošanas paņēmienu. Jebkurš identisks produkts uzskatāms par izgatavotu ar patentēto paņēmienu, kamēr nav pierādīts pretējais.\n(5) Šā panta trešās daļas noteikumi neattiecas uz gadījumiem, kad patents pārkāpts tīši — pēc tam, kad patenta īpašnieks vai izņēmuma licences turētājs pārkāpēju informējis par patenta esamību, kā arī uz gadījumiem, kad uz strīda objekta ir patenta marķējums (šā likuma 45. panta pirmā un otrā daļa).\n(6) Patenta pārkāpēju var saukt pie atbildības par patenta pārkāpšanu triju gadu laikā no brīža, kad cietusī puse uzzināja vai tai vajadzēja uzzināt par patenta pārkāpšanas faktu."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "DESMITĀ NODAĻA NO PATENTA IZRIETOŠO TIESĪBU AIZSARDZĪBA",
+      "section": "42",
+      "title": "Patenttiesību atjaunošana",
+      "content": "(1) Persona, par kuras izgudrojumu pieteikumu iesniegusi vai patentu saņēmusi cita persona, kam nebija tādu tiesību, var griezties tiesā ar prasību, lai tiesības uz pieteikumu vai uz jau saņemto patentu nodod tai.\n(2) Ja cietušais var pretendēt tikai uz pieteikuma vai izdotā patenta daļu, viņš saskaņā ar šā panta pirmo daļu var pieprasīt, lai tiesības viņam tiktu nodotas attiecībā uz šo daļu.\n(3) Šā panta pirmajā daļā minētās tiesības ir izmantojamas ne vēlāk kā triju gadu laikā no attiecīgā patenta izsniegšanas dienas.\n(4) Ja pieteikums vai patents ir anulēts saskaņā ar šā panta pirmo daļu, persona, kurai ir tādas tiesības, var triju mēnešu laikā pēc tiesas sprieduma stāšanās spēkā iesniegt pieteikumu, saglabājot agrāk iesniegtā pieteikuma vai agrāk izdotā patenta prioritāti.\n(5) Ja tiesības uz pieteikumu vai patentu ir pilnīgi vai daļēji grozītas, tiesības uz licenci, kura līdz grozījumu izdarīšanas dienai jau bija izdota, strīda gadījumā nosaka tiesa."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "DESMITĀ NODAĻA NO PATENTA IZRIETOŠO TIESĪBU AIZSARDZĪBA",
+      "section": "43",
+      "title": "Izgudrotāju tiesību aizsardzība",
+      "content": "(1) Izgudrotājam ir tiesības uz to, lai viņš būtu minēts kā izgudrotājs visos ar patenta izdošanu saistītajos dokumentos un materiālos. Šīs tiesības nav nododamas citai personai un nepāriet mantojumā.\n(2) Šā panta pirmajā daļā noteiktās tiesības to pārkāpšanas gadījuma var aizsargāt tiesā tādā pašā kārtībā, kādā tiek aizsargātas autortiesības.\n(3) Izgudrotājs — dienesta izgudrojuma autors par izgudrojuma radīšanu un izmantošanu var pretendēt uz taisnīgu atlīdzību, kas pienākas gadījumos, kuri paredzēti ar darba devēju noslēgtajā līgumā.\n(4) Izgudrotājs saglabā šīs tiesības arī tad, ja darba devējs tīši izvairās iesniegt pieteikumu uz izgudrojumu, ko radījis darbinieks.\n(5) Izgudrotājam — dienesta izgudrojuma autoram ir tiesības pierādīt, ka viņa izgudrojumu izmanto patenta īpašnieks, tā licenciāts vai patenta pārkāpējs."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "DESMITĀ NODAĻA NO PATENTA IZRIETOŠO TIESĪBU AIZSARDZĪBA",
+      "section": "44",
+      "title": "Kompensācija par zaudējumiem sakarā ar publikācijas aizliegumu",
+      "content": "(1) Ja saskaņā ar šā likuma 11. panta piekto dalu un spēkā esošajiem Latvijas Republikas likumdošanas aktiem noteikts aizliegums atklāti (brīvi) izmantot izgudrojumu, pieteicējs vai patenta īpašnieks var pieprasīt attiecīgu kompensāciju par zaudējumiem, kas viņam radušies sakarā ar to, ka nav iespējams atklāti izmantot izgudrojumu.\n(2) Kompensāciju pēc vienošanās ar pieteicēju vai patenta īpašnieku nosaka un izmaksā valsts institūcija, pēc kuras pieprasījuma pagarināts publikācijas aizlieguma laiks.\n(3) Ja pusēm neizdodas panākt vienošanos par kompensāciju, to nosaka tiesa."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "DESMITĀ NODAĻA NO PATENTA IZRIETOŠO TIESĪBU AIZSARDZĪBA",
+      "section": "45",
+      "title": "Aizsardzība pret patenta pārkāpšanu",
+      "content": "(1) Patenta īpašniekam un licenciātam ir tiesības izvietot uz izgatavotajiem izstrādājumiem (produktiem) vai to iesaiņojuma apzīmējumus, piemēram, «Patents nr. . ..». Turklāt licenciātam pēc patenta īpašnieka prasības šis apzīmējums obligāti jāizvieto uz saviem izstrādājumiem.\n(2) Laika posmā, kad saskaņā ar šā likuma 31. panta piekto daļu ir spēkā izgudrojuma pagaidu aizsardzība, pieteicējam ir tiesības nosūtīt attiecīgu paziņojumu trešajām personām, kas eventuāli izmanto vai gatavojas izmantot izgudrojumu, attiecībā uz kuru iesniegts pieteikums. Paziņojumam jāpievieno Patentu valdes apstiprināta pieteikuma kopija.\n(3) Saskaņā ar šā likuma 40. un 41. pantu patenta īpašnieks, sākot ar patenta izdošanas dienu, var iesniegt prasību tiesā sakara ar patenta pārkāpšanu. Tādas pašas tiesības ir izņēmuma licences turētājam.\n(4) Ja patenta pārkāpšanas fakts ir pierādīts, tiesa pēc cietušās puses prasības taisa spriedumu, kas atkarībā no pārkāpēja vainas pakāpes (šā likuma 41. panta otrā un trešā daļā) ietver vienu vai vairākas no šādām sankcijām:\n1) izgudrojuma izmantošanas pārtraukšanu;\n2) aresta uzlikšanu patentētajiem izstrādājumiem vai izstrādājumiem, kuru neatņemama sastāvdaļa ir patentētie izstrādājumi, kā arī to konfiskāciju par labu cietušajam;\n3) pārkāpuma rezultātā nodarīto zaudējumu, arī neiegūtās peļņas (profīta) atlīdzināšanu;\n4) patentētā izgudrojuma nelikumīgās izmantošanas rezultātā gūtas peļņas pilnīgu vai daļēju piešķiršanu cietušajam;\n5) ar tiesas prāvu saistīto izdevumu segšanu.\n(5) Apmierinot cietušā prasību, tiesa nedrīkst par vienu un to pašu pārkāpumu vienlaikus piespriest pārkāpējam zaudējumu atlīdzināšanu (šā panta ceturtās dalās 3. punkts) un iegūtās peļņas (šā panta ceturtās daļas 4. punkts) nodošanu prasītājam."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VIENPADSMITĀ NODAĻA STRĪDU IZSKATĪŠANA TIESĀ",
+      "section": "46",
+      "title": "Tiesu jurisdikcija",
+      "content": "(1) Strīdus par izņēmuma tiesībām un citām uz patentu vai šo likumu pamatotām tiesībām izskata tiesa tādā pašā kārtībā, kādā tiek izskatīt strīdi, attiecībā uz kuriem paredzēta civiltiesiskā atbildība saskaņa ar Latvijas Republikas Civillikuma normām par kustamo mantu, ja šis likums vai spēkā esošie likumdošanas akti neparedz citādi.\n(2) Strīdus, kas saistīti ar autorības piesavināšanos, piespiedu atteikšanos no autorības vai līdzautorības uzspiešanu, kā arī strīdus par izgudrojuma būtības izpaušanu pirms un pēc patenta pieteikuma iesniegšanas izskata tiesa tādā pašā kārtībā, kādā tiek izskatīti strīdi, attiecībā uz kuriem paredzēta kriminālatbildība saskaņā ar spēkā esošajiem likumdošanas aktiem.\n(3) Strīdi, kas saistīti ar patenta pieteikuma izskatīšanas tīšu novilcināšanu, kā arī paviršu vai neapzinīgu pienākumu izpildi pieteikuma izskatīšanas un ekspertīzes gaitā vai patenta darbības laikā, izskatāmi Latvijas administratīvo pārkāpumu kodeksā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VIENPADSMITĀ NODAĻA STRĪDU IZSKATĪŠANA TIESĀ",
+      "section": "47",
+      "title": "Prasību izskatīšanas piekritība",
+      "content": "(1) Pieteicēja vai patenta īpašnieka, kā arī izņēmuma licences turētāja prasības pret trešajām personām izskata tiesa pēc atbildētajā dzīvesvietas vai vietas, kur notikusi darbība, vai vietas, kur iestājies pārkāpuma rezultāts.\n(2) Trešo personu prasības pret pieteicēju vai patenta īpašnieku izskata tiesa pēc atbildētāja dzīvesvietas, ja šajā likumā vai citos spēkā esošajos likumdošanas aktos nav noteikta citāda prasības izskatīšanas kārtība."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VIENPADSMITĀ NODAĻA STRĪDU IZSKATĪŠANA TIESĀ",
+      "section": "48",
+      "title": "Strīdu izskatīšanas piekritība tiesām",
+      "content": "(1) Latvijas Republikas tiesās izskatāmi strīdi, kas saistīti ar;\n1) akceptēta pieteikuma vai ārvalsts patenta reģistrācijas iesnieguma noraidījumu (šā likuma 12. panta sestā daļa un 19. .panta otrā daļa);\n2) patenta apstrīdēšanu (anulēšanu), patenta atzīšanu par spēkā neesošu (šā likuma 35. pants );\n3) izgudrojuma autorību (līdzautorību);\n4) tiesībām (tiesību atjaunošanu) uz patentu (šā likuma 42. panta pirmā un otrā daļa);\n5) tiesībām uz darbinieka radīto izgudrojumu (šā likuma 5. pants );\n6) atlīdzību par izgudrojuma izmantošanu (šā likuma 43. panta ceturtā daļa);\n7) līguma izpildi par tiesību nodošanu uz izgudrojumu (šā likuma 5. un 38. pants );\n8) izgudrojuma izmantošanas fakta konstatēšanu (šā līkuma 37. panta otrā daļa un 43. panta piektā daļa);\n9) kompensācijas noteikšanu par izgudrojuma izmantošanu laika posmā, kad bija spēkā tā pagaidu aizsardzība (Šā likuma 31. panta piektā daļa);\n10) patenta pārkāpšanas fakta konstatēšanu, atbildību par patenta pārkāpšanu, aizsardzības pasākumiem pret patenta pārkāpšanu (šā likuma 40. , 41. un 45. pants );\n11) iepriekšējās lietošanas tiesībām (šā likuma 33. pants );\n12) patenttiesību mantošanu (šā likuma 36. panta trešā daļa);\n13) licenču piešķiršanu un licenču līgumu izpildi (šā likuma 37. panta otrā un ceturtā daļa, 39. panta pirmā un otrā daļa, 42. panta piektā daļa);\n14) tiesībām uz kompensāciju sakarā ar neiespējamību atklāti izmantot izgudrojumu (šā likuma 44. panta trešā daļa).\n(2) Pirmās instances tiesas spriedumus, izskatot jebkuru no šā panta pirmajā daļā minētajiem strīdiem, var pārsūdzēt, noteiktā kārtībā iesniedzot kasāciju.\n(3) Vienīgi Rīgas apgabaltiesā izskatāmi šādi šā panta pirmajā daļā minētie strīdi:\n1) par patenta apstrīdēšanu (anulēšanu), patenta atzīšanu par spēkā neesošu (šā panta pirmās daļas 2. punkts);\n2) par patenttiesībām un patenttiesību atjaunošanu (šā panta pirmās daļas 4. punkts);\n3) par tiesībām uz kompensāciju sakarā ar neiespējamību atklāti izmantot izgudrojumu (šā panta pirmās daļas 14. punkts).\n(4) Vienlaikus Rīgas apgabaltiesa darbojas kā apelācijas instance strīdos par akceptētu pieteikumu un ārvalstu patentu reģistrācijas iesniegumu noraidījumiem.\n(5) Vienīgi apgabaltiesā kā pirmās instances tiesā izskatāmi šādi šā panta pirmajā daļā minētie strīdi: -\n1) par izgudrojuma autorību (līdzautorību);\n2) par patenta pārkāpšanas fakta konstatēšanu, atbildību sakarā ar patenta pārkāpšanu, aizsardzības pasākumiem pret patenta pārkāpšanu;\n3) par iepriekšējās lietošanas tiesībām;\n4) par licenču piešķiršanu.\n(6) Citu strīdu izskatīšanas piekritību nosaka vispārīgie noteikumi par strīdu izskatīšanas piekritību tiesām, ja spēkā esošie likumdošanas akti neparedz citādi.\n(7) Ārvalstu fiziskās un juridiskās personas, kam Latvijas Republika nav pastāvīgā dzīvesvieta vai tām piederošā uzņēmuma atrašanās vieta, savas prasības iesniedz Rīgas apgabaltiesā kā pirmās instances tiesā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VIENPADSMITĀ NODAĻA STRĪDU IZSKATĪŠANA TIESĀ",
+      "section": "49",
+      "title": "Termiņi prasību celšanai tiesā",
+      "content": "(1) Patenta darbības laikā bez termiņa ierobežojumiem var celt prasību tiesā, ja radies strīds:\n1) par izdotā patenta anulēšanu vai atzīšanu par spēkā neesošu (šā likuma 35. pants );\n2) par licenču piešķiršanu.\n(2) Citos strīdu gadījumos, ko neparedz šā panta pirmā daļa, termiņš prasības iesniegšanai tiesā ir trīs gadi, ja šajā likumā vai citos spēkā esošajos likumdošanas aktos nav noteikti citi termiņi."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "DIVPADSMITĀ NODAĻA STARPTAUTISKIE LĪGUMI",
+      "section": "50",
+      "title": "Starptautisko līgumu prioritāte",
+      "content": "Ja starptautiskais līgums, ko noslēgusi Latvijas Republika, paredz noteikumus, kas atšķiras no šā likuma normām, piemērojami starptautiskā līguma noteikumi."
+    }
+  ],
+  "definitions": []
+}

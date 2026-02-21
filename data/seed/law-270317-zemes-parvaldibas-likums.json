@@ -1,0 +1,348 @@
+{
+  "id": "lv-law-270317",
+  "type": "statute",
+  "title": "Zemes pārvaldības likums",
+  "title_en": "Land Management Law",
+  "short_name": "TA-270317",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/270317-zemes-parvaldibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) augsne — virsējais irdenais un auglīgais zemes garozas slānis, kas veidojies dabas procesu un cilvēka darbības ietekmē un sastāv no minerālā un organiskā materiāla, šķidrumiem un gāzveida vielām;\n2) augsnes degradācija — dabas procesu un cilvēka darbības ietekmē radušās vai notiekošas izmaiņas, kuru dēļ samazinās iespēja izmantot augsni ekonomisko, vides aizsardzības un kultūras funkciju īstenošanā;\n3) augsnes rekultivācija — pasākumu kopums, kas veicina augsnes auglības atjaunošanos;\n4) degradētā teritorija — teritorija ar izpostītu vai bojātu zemes virskārtu vai pamesta apbūves, derīgo izrakteņu ieguves, saimnieciskās vai militārās darbības teritorija;\n5) iekšzemes publiskie ūdeņi — Civillikuma I pielikumā norādītie publiskie ezeri un upes;\n6) jūras piekrastes josla — teritorija, kurā ietilpst jūras piekrastes ūdeņi un jūras piekrastes sauszemes daļa;\n7) jūras piekrastes ūdeņi — šā likuma izpratnē: akvatorija divu kilometru platumā no jūras krasta līnijas;\n8) jūras piekrastes sauszemes daļa — teritorija starp jūras krasta līniju un vietu, kuru sasniedz jūras augstākās bangas;\n9) jūras krasta līnija — robeža starp jūras piekrastes sauszemes daļu un jūras piekrastes ūdeņiem normālā stāvoklī;\n10) neapbūvēta zemes vienība — šā likuma izpratnē: zeme, uz kuras neatrodas būves vai atrodas tikai tādas būves, kuras saskaņā ar normatīvajiem aktiem par nekustamā īpašuma ierakstīšanu zemesgrāmatā nav ierakstāmas zemesgrāmatā;\n11) zemes aizsardzība — pasākumi zemes degradācijas un degradācijas riska novēršanai un zemes derīgo īpašību saglabāšanai;\n12) zemes degradācija — zemes un ar to saistīto resursu ekonomiskās vai ekoloģiskās vērtības samazināšanās vai izzušana cilvēka darbības vai bezdarbības vai dabas procesu rezultātā;\n13) zemes konsolidācija — pasākumu kopums, kura ietvaros tiek veikta kompleksa zemes robežu pārkārtošana, lai veidotu racionālu saimniecību struktūru un zemes gabalu platību, veicinātu lauku infrastruktūras un lauku attīstību, kā arī vides aizsardzību;\n14) zemes pārraudzība — zemi un tās izmantošanu raksturojošu datu iegūšana no valsts informācijas sistēmām, to analītiska apstrāde un zemes periodiska apsekošana apvidū, lai noteiktu zemes stāvokli un raksturotu tā izmaiņas;\n15) zemes pārvaldība — zemes politikas īstenošanas pasākumu kopums, kura mērķis ir veicināt ilgtspējīgu zemes izmantošanu un aizsardzību.\n(2) Šajā likumā lietotais termins \"zemes gabals\" atbilst Nekustamā īpašuma valsts kadastra likumā lietotajam terminam \"zemes vienība\"."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir veicināt ilgtspējīgu zemes izmantošanu un aizsardzību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Zemes izmantošanas un aizsardzības principi",
+      "content": "Zemes izmantošanā un aizsardzībā ievēro šādus principus:\n1) plānojot zemes izmantošanu, vietējā pašvaldība teritorijas attīstības plānošanas dokumentos paredz efektīvu dabas resursu pārvaldību un ilgtspējīgu attīstību;\n2) vietējā pašvaldība lauksaimniecībā izmantojamās zemes un meža zemes lietošanas kategorijas maiņai prioritāri paredz teritorijas ar zemāko zemes kvalitātes novērtējumu un teritorijas, kas novietojuma un konfigurācijas dēļ nav piemērotas izmantošanai lauksaimniecībā vai mežsaimniecībā;\n3) vietējā pašvaldība teritorijas attīstības plānošanas dokumentos apbūvei prioritāri paredz degradētās teritorijas;\n4) zemes īpašnieks, valdītājs un lietotājs (turpmāk — zemes izmantotājs) nerada zemei kaitējumu un ievēro samērīgumu starp sabiedrības vajadzībām un īpašnieku tiesībām."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Zemes izmantošanas un aizsardzības nosacījumi",
+      "content": "Zemes izmantošanā un aizsardzībā ievēro šādus nosacījumus:\n1) ja lauksaimniecībā izmantojamās zemes kvalitātes novērtējums ir augstāks par 50 ballēm, vietējā pašvaldība nodrošina šīs vērtīgās lauksaimniecībā izmantojamās zemes saglabāšanu, nosakot ierobežojumus zemes sadrumstalošanai un zemes lietošanas kategorijas maiņai;\n1 1 ) ja lauksaimniecībā izmantojamās zemes kvalitātes novērtējums ir augstāks par 45 ballēm, bet nepārsniedz 50 balles, vietējā pašvaldība var noteikt ierobežojumus zemes sadrumstalošanai un zemes lietošanas kategorijas maiņai;\n2) zemi izmanto atbilstoši vietējās pašvaldības teritorijas attīstības plānošanas dokumentos noteiktajai vai likumīgi uzsāktajai teritorijas izmantošanai;\n3) zemes izmantotājs veic darbības, lai saglabātu zemes un augsnes kvalitāti un novērstu tās degradāciju;\n4) veicot darbības, kas saistītas ar augsnes virskārtas bojāšanu, zemes izmantotājs ievēro augsnes rekultivācijas prasības;\n5) zemes izmantotājs, atsavinot zemi, kas daļēji vai pilnībā atrodas degradētajā teritorijā, par to informē nekustamā īpašuma ieguvēju."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Zeme publiskās infrastruktūras un piekļuves nodrošināšanai",
+      "section": "5",
+      "title": "Zeme tehniskās publiskās infrastruktūras nodrošināšanai",
+      "content": "(1) Tehniskās publiskās infrastruktūras attīstības un būvniecības vajadzībām nepieciešamās teritorijas un to izmantošanas nosacījumus nosaka Ministru kabinets vai vietējā pašvaldība neatkarīgi no zemes piederības vai piekritības.\n(2) Teritorijas izmantošanas nosacījumus tehniskās publiskās infrastruktūras attīstībai nepieciešamajām teritorijām, ietverot ierobežojumus nekustamā īpašuma izmantošanai, nosaka:\n1) Ministru kabineta noteikumos — nacionālo interešu objektiem;\n2) vietējās pašvaldības saistošajos noteikumos, kas apstiprina teritorijas plānojumu un lokālplānojumu, — pārējiem tehniskās publiskās infrastruktūras objektiem.\n(3) Ja šā panta otrajā daļā minētie izmantošanas nosacījumi aizskar nekustamā īpašuma īpašnieka vai, ja tāda nav, tiesiskā valdītāja, vai, ja tāda nav, lietotāja tiesības vai likumiskās intereses, attiecīgā persona var pārsūdzēt tos normatīvajos aktos noteiktajā kārtībā.\n(4) Tehniskās publiskās infrastruktūras attīstībai nepieciešamajās teritorijās, saskaņojot ar institūciju, kura ierosinājusi tās noteikt (turpmāk — atbildīgā institūcija), atļauts veikt darbības, kas neapgrūtinātu iecerētās publiskās infrastruktūras projekta īstenošanu. Lai saskaņotu paredzēto darbību, nekustamā īpašuma īpašnieks vai, ja tāda nav, tiesiskais valdītājs, vai, ja tāda nav, lietotājs vēršas atbildīgajā institūcijā ar iesniegumu, kurā informē par paredzēto darbību. Ja atbildīgā institūcija viena mēneša laikā nav nosūtījusi atteikumu uzsākt paredzēto darbību vai pieprasījusi iesniegt papildu informāciju, uzskatāms, ka iestāde paredzēto darbību ir saskaņojusi.\n(5) Atbildīgā institūcija var pieņemt pamatotu lēmumu, kas aizliedz turpināt uzsākto nekustamā īpašuma izmantošanu būvniecībai vai zemes dzīļu izmantošanai, ja nekustamais īpašums atbilstoši būvprojektam minimālā sastāvā vai būvprojektam, vai Ministru kabineta vai pašvaldības izdotam administratīvajam tiesību aktam būs atsavināms sabiedrības vajadzībām un uzsāktā nekustamā īpašuma izmantošana apgrūtina iecerētā infrastruktūras projekta īstenošanu vai būtiski palielina iespējamos papildu izdevumus. Šāda atbildīgās institūcijas lēmuma apstrīdēšana un pārsūdzēšana neaptur tā darbību.\n(6) Tehniskās publiskās infrastruktūras attīstības un būvniecības vajadzībām nepieciešamās teritorijas un šā panta otrajā daļā noteiktajos gadījumos paredzētos teritorijas izmantošanas nosacījumus paredz uz laiku līdz septiņiem gadiem ar iespēju termiņu pagarināt, kopā nepārsniedzot 14 gadus, vai līdz uzsāktās tehniskās publiskās infrastruktūras būvniecības pabeigšanai:\n1) pēc tam, kad ir veikts sākotnējais izvērtējums vai ietekmes uz vidi novērtējums, ja tas nepieciešams atbilstoši normatīvajiem aktiem;\n2) ja saskaņā ar normatīvajiem aktiem sākotnējais izvērtējums vai ietekmes uz vidi novērtējums nav nepieciešams, bet ir veikta izpēte, kas identificē vajadzīgās teritorijas, vides riskus un objekta funkcionalitāti.\n(7) Teritorijas noteikšana par tehniskās publiskās infrastruktūras attīstībai nepieciešamo teritoriju negarantē, ka attiecīgā infrastruktūra tiks uzbūvēta un ka attiecīgais nekustamais īpašums tiks atsavināts sabiedrības vajadzībām.\n(8) Atbildīgā institūcija šā panta otrajā daļā noteiktajos gadījumos atlīdzina ar ierobežojumiem saistītos zaudējumus.\n(9) Ar ierobežojumiem saistītos zaudējumus atlīdzina to faktiskajā apmērā. Šajā pantā noteiktajā kārtībā zaudējumus neatlīdzina, ja:\n1) tie radušies nekustamā īpašuma īpašniekam, kurš nekustamo īpašumu ieguvis darījuma rezultātā pēc attiecīgo ierobežojumu noteikšanas;\n2) tehniskās publiskās infrastruktūras attīstībai nepieciešamā teritorija sakrīt ar esošu tehniskās publiskās infrastruktūras objekta aizsargjoslu vai tā ir noteikta sarkanās līnijas robežās.\n(10) Zaudējumus atlīdzina, pamatojoties uz nekustamā īpašuma īpašnieka vai, ja tāda nav, tiesiskā valdītāja, vai, ja tāda nav, lietotāja iesniegumu, kuram pievienoti dokumenti, kas apliecina zaudējumus un to apmēru. Atbildīgā institūcija izvērtē saņemtos dokumentus un pieņem lēmumu par zaudējumu atlīdzināšanu. Izvērtējot iesniegtos dokumentus, atbildīgajai institūcijai ir tiesības pieaicināt sertificētu nekustamo īpašumu vērtētāju.\n(11) Ar ierobežojumiem saistītie zaudējumi tiek izmaksāti vienā maksājumā vienā no šādiem gadījumiem (atkarībā no tā, kurš iestājas pirmais):\n1) beidzoties šā panta otrajā daļā noteiktajiem izmantošanas nosacījumu ierobežojumiem sakarā ar to atcelšanu vai darbības termiņa izbeigšanos;\n2) ja sabiedrības vajadzībām tiek atsavināts viss nekustamais īpašums vai daļa no nekustamā īpašuma, kuram noteikti šā panta otrajā daļā minētie ierobežojumi;\n3) pēc tam, kad pieņemts šā panta ceturtajā daļā minētais institūcijas lēmums aizliegt turpināt uzsākto nekustamā īpašuma izmantošanu.\n(12) Ja nekustamā īpašuma īpašnieku vai, ja tāda nav, tiesisko valdītāju, vai, ja tāda nav, lietotāju neapmierina institūcijas noteiktais atlīdzināmo zaudējumu apmērs, viņam ir tiesības vērsties tiesā Civilprocesa likumā noteiktajā kārtībā.\n(13) Šajā pantā noteikto kārtību nepiemēro, ja publiskā infrastruktūra teritorijas plānošanas dokumentos tiek plānota privātpersonu interešu nodrošināšanai saskaņā ar šā likuma 7. panta otro daļu.\n(14) Ja tehniskās publiskās infrastruktūras attīstības un būvniecības vajadzībām noteiktās teritorijas un šā panta otrajā daļā minētie izmantošanas nosacījumi vairs nav nepieciešami vai beidzies šā panta sestajā daļā noteiktais termiņš un nav uzsākta tehniskās publiskās infrastruktūras būvniecība, atbildīgā institūcija veic izmaiņas izmantošanas nosacījumos, atceļot ierobežojumus."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Zeme publiskās infrastruktūras un piekļuves nodrošināšanai",
+      "section": "6",
+      "title": "Piekļuves nodrošināšana iekšzemes publiskajiem ūdeņiem un īpaši aizsargājamām dabas teritorijām",
+      "content": "(1) Lai nodrošinātu piekļuvi iekšzemes publiskajiem ūdeņiem un īpaši aizsargājamām dabas teritorijām, kuru apmeklēšana ir atļauta saskaņā ar īpaši aizsargājamo dabas teritoriju aizsardzību un izmantošanu regulējošiem normatīvajiem aktiem, vietējā pašvaldība teritorijas plānojumā vai lokālplānojumā nosaka gājēju ceļu kā nekustamā īpašuma tiesību aprobežojumu par labu sabiedrības iespējai piekļūt šādai teritorijai un organizē gājēju ceļa ierīkošanu. Zemes īpašniekam ir tiesības uz aprobežojuma noteikšanas dēļ radušos zaudējumu atlīdzību.\n(2) Ja nekustamā īpašuma tiesību aprobežojums nav noteikts šā panta pirmajā daļā paredzētajā kārtībā un nekustamā īpašuma īpašnieks nav ierobežojis pārvietošanos pa viņa īpašumā esošiem ceļiem vai ielām, personai ir tiesības izmantot šos citas personas īpašumā esošos ceļus vai ielas, lai piekļūtu iekšzemes publiskajiem ūdeņiem un īpaši aizsargājamām dabas teritorijām. Pārvietojoties pa citas personas īpašumā esošiem ceļiem vai ielām, neizmanto transportlīdzekļus ar motoru, izņemot invalīdu ratiņus ar motoru.\n(3) Persona, kas šajā pantā minētajos gadījumos atrodas citai personai piederošā nekustamā īpašumā, ar savu rīcību nedrīkst radīt zaudējumus nekustamā īpašuma īpašniekam vai citādi aizskart īpašuma tiesības."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Zeme publiskās infrastruktūras un piekļuves nodrošināšanai",
+      "section": "7",
+      "title": "Piekļuves nodrošināšana jaunveidojamiem zemes gabaliem",
+      "content": "(1) Visiem jaunveidojamiem zemes gabaliem, izņemot starpgabalus, nodrošina piekļuvi no pašvaldības ceļa vai ielas vai šā likuma 8. 1 panta kārtībā noteikta pašvaldības nozīmes ceļa vai ielas vai arī nodrošina piekļuvi no valsts autoceļa atbilstoši normatīvajiem aktiem par ceļu pievienošanu valsts autoceļiem. Ja tas nav iespējams, piekļuvi nodrošina pa servitūta ceļu vai pa projektētu servitūta ceļu pēc servitūta nodibināšanas.\n(2) Paplašinot pilsētas un ciemus vai veidojot jaunas apbūves teritorijas, pirms teritorijas plānojuma, lokālplānojuma vai detālplānojuma apstiprināšanas vietējā pašvaldība un zemes īpašnieki vienojas par ielu būvniecībai to sarkanajās līnijās vai ceļu būvniecībai nepieciešamās zemes atsavināšanu vietējai pašvaldībai, kā arī par inženierbūvju būvniecību. Ja vienošanos par nepieciešamās zemes atsavināšanu panākt nav iespējams, vietējā pašvaldība apstiprina teritorijas plānojumu, lokālplānojumu vai detālplānojumu un uzsāk sabiedrības vajadzībām nepieciešamā nekustamā īpašuma piespiedu atsavināšanu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Zeme publiskās infrastruktūras un piekļuves nodrošināšanai",
+      "section": "8",
+      "title": "Ceļu uzturēšanai nepieciešamās zemes izmantošana un atsavināšana",
+      "content": "(1) Ja līdz šā likuma spēkā stāšanās dienai autoceļš reģistrēts kā pašvaldības vai valsts ceļš un iekļauts pašvaldības vai valsts bilancē, bet zeme zem ceļa zemesgrāmatā ierakstīta uz privātpersonas vārda, šī persona nedrīkst liegt pārvietošanos pa pašvaldības vai valsts ceļu.\n(2) Ja šā panta pirmajā daļā minētais autoceļš reģistrēts pašvaldības ceļu un ielu reģistrā un ir vienota pašvaldības ceļu tīkla sastāvdaļa, tas ir koplietošanas ceļš vai iela. Koplietošanas ceļš vai iela ir patstāvīgs nekustamā īpašuma objekts, kas pieder pašvaldībai un rada īpašuma apgrūtinājumu zemes vienībai, uz kuras tas atrodas.\n(3) Koplietošanas ceļa vai ielas robežas kopā ar ceļa nodalījuma joslu vai ielas sarkanajām līnijām pašvaldība iezīmē teritorijas plānojumā vai lokālplānojumā normatīvajos aktos noteiktajā kārtībā.\n(4) Koplietošanas ceļu vai ielu reģistrē Nekustamā īpašuma valsts kadastra informācijas sistēmā normatīvajos aktos par kadastra objektu reģistrāciju un kadastra datu aktualizāciju noteiktajā kārtībā.\n(5) Pašvaldībai ir tiesības, informējot zemes īpašnieku, koplietošanas ceļa zemes nodalījuma joslā vai sarkanajās līnijās būvēt, rekonstruēt un atjaunot ceļu vai ielu, kā arī ierīkot jaunas inženierkomunikācijas — iekārtas, ierīces, ietaises, tīklus, līnijas un to piederumus —, ja tas ir nepieciešams sabiedrības interešu īstenošanai.\n(6) Šā panta otrajā daļā minētais apgrūtinājums šā panta trešajā daļā noteiktajā apjomā var būt par pamatu zemes reformas laikā ar kompetentās institūcijas lēmumu noteiktā ceļa servitūta vai cita līdzvērtīga apgrūtinājuma dzēšanai.\n(7) Valsts vai pašvaldība atbilstoši budžeta iespējām vienojas ar zemes īpašnieku par zemes zem ceļa vai ielas atsavināšanu un atsavina to saskaņā ar normatīvajiem aktiem par sabiedrības vajadzībām nepieciešamā nekustamā īpašuma atsavināšanu.\n(8) Šā panta otro, trešo, ceturto, piekto un sesto daļu nepiemēro attiecībā uz pirmajā daļā minēto valsts ceļu, kas atrodas uz privātpersonai piederošas un zemesgrāmatā ierakstītas zemes, kā arī uz ceļiem, kas atrodas uz valstij piederošas vai piekritīgas zemes.\n(9) Valsts meža zemi atsavina Meža likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 8.1",
+      "chapter": "II nodaļa Zeme publiskās infrastruktūras un piekļuves nodrošināšanai",
+      "section": "8.1",
+      "title": "8. 1 pants. Pašvaldības nozīmes ceļš vai iela",
+      "content": "(1) Pašvaldības nozīmes ceļš vai iela ir privātā īpašuma lietošanas tiesību aprobežojums nekustamajam īpašumam, kas noteikts sabiedrības interesēs, lai nodrošinātu vienotu ceļu un ielu tīklu pašvaldībā un sabiedrības iespējas un tiesības ikvienam to izmantot.\n(2) Pašvaldības nozīmes ceļu vai ielu pašvaldība nosaka pašvaldības teritorijas plānojumā vai lokālplānojumā. Pašvaldības nozīmes ielas statusu pašvaldība var piešķirt ar atsevišķu administratīvo aktu, kam pievienots grafiskais pielikums . Pirms lēmuma pieņemšanas pašvaldība noskaidro to zemes īpašnieku vai tiesisko valdītāju viedokli, kuru zemes robežās atrodas pašvaldības nozīmes iela.\n(3) Ja pašvaldības nozīmes ceļa vai ielas statuss piešķirts, pamatojoties uz atsevišķu administratīvo aktu, pašvaldība mēneša laikā pēc tam, kad pieņemts lēmums par pašvaldības nozīmes ceļa vai ielas statusa piešķiršanu, publicē to pašvaldības mājaslapā internetā kopā ar grafisko pielikumu .\n(4) Pašvaldība saistošajos noteikumos paredzētajā kārtībā piedalās pašvaldības nozīmes ceļa vai ielas būvniecībā un uzturēšanā. Pašvaldības saistošajos noteikumos paredz kārtību, kādā pašvaldība sedz izmaksas par pašvaldības nozīmes ceļa vai ielas būvniecību un uzturēšanu.\n(5) Pašvaldības nozīmes ceļš vai iela ir publiski pieejama, un līdz pašvaldības nozīmes ceļa vai ielas statusa atcelšanai aizliegts ierobežot transporta un gājēju kustību pa to.\n(6) Pašvaldībai ir tiesības, informējot zemes īpašnieku, ierīkot jaunas inženierkomunikācijas — iekārtas, ierīces, ietaises, tīklus, līnijas un to piederumus —, ja tas ir nepieciešams sabiedrības interešu īstenošanai."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Zemes konsolidācija (Nodaļa 20.10.2022 . likuma redakcijā, kas stājas spēkā 14.11.2022. Nodaļas jaunā redakcija stājas spēkā 01.01.2023. Sk pārejas noteikumu 13. punktu)",
+      "section": "9",
+      "title": "Zemes konsolidācijas vispārīgie nosacījumi",
+      "content": "(1) Zemes konsolidāciju īsteno lauku apvidos, pārkārtojot zemes robežas, tai skaitā likvidējot starpgabalus, un izstrādājot zemes ierīcības projektu atbilstoši normatīvajiem aktiem zemes ierīcības jomā, ciktāl šis likums nenosaka citādi.\n(2) Zemes konsolidācijā ir šādi posmi:\n1) zemes robežu pārkārtošanas projekta izstrādāšana;\n2) zemes konsolidācijas apstiprināšana;\n3) zemes konsolidācijas īstenošana."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Zemes konsolidācija (Nodaļa 20.10.2022 . likuma redakcijā, kas stājas spēkā 14.11.2022. Nodaļas jaunā redakcija stājas spēkā 01.01.2023. Sk pārejas noteikumu 13. punktu)",
+      "section": "10",
+      "title": "Zemes robežu pārkārtošanas projekta izstrādāšana",
+      "content": "(1) Lai zemes konsolidācijā pārkārtotu zemes robežas atbilstoši tās īpašnieku vai tādas valsts pārvaldes iestādes vai pašvaldības ierosinājumam, kura veic sabiedrības vajadzībām nepieciešamā nekustamā īpašuma labprātīgu atsavināšanu, zemes ierīcības darbos sertificēta persona, kuras civiltiesiskā atbildība par profesionālo darbību ir apdrošināta (turpmāk — zemes ierīkotājs), izstrādā zemes ierīcības projektu. Zemes īpašniekam vai valsts pārvaldes iestādei vai pašvaldībai ierosinājums pašvaldībā nav jāiesniedz.\n(2) Zemes konsolidācijai izstrādātais zemes ierīcības projekta risinājums atbilst kādam no šā likuma 1. panta pirmās daļas 13. punktā noteiktajiem zemes konsolidācijas mērķiem.\n(3) Šā likuma 1. panta pirmās daļas 13. punktā noteikto zemes konsolidācijas mērķi zemes ierīkotājs norāda zemes ierīcības projekta paskaidrojuma rakstā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Zemes konsolidācija (Nodaļa 20.10.2022 . likuma redakcijā, kas stājas spēkā 14.11.2022. Nodaļas jaunā redakcija stājas spēkā 01.01.2023. Sk pārejas noteikumu 13. punktu)",
+      "section": "11",
+      "title": "Zemes konsolidācijas apstiprināšana",
+      "content": "(1) Pirms administratīvā akta izdošanas par zemes ierīcības projekta apstiprināšanu pašvaldība izvērtē, vai zemes konsolidācijai izstrādātais šā projekta risinājums atbilst zemes ierīkotāja zemes ierīcības projekta paskaidrojuma rakstā norādītajam zemes konsolidācijas mērķim.\n(2) Apstiprinot zemes konsolidācijai izstrādāto zemes ierīcības projektu, vietējā pašvaldība apliecina zemes robežu pārkārtošanas risinājuma atbilstību zemes ierīkotāja šā projekta paskaidrojuma rakstā norādītajam zemes konsolidācijas mērķim.\n(3) Ja zemes robežu pārkārtošanas risinājums neatbilst nevienam zemes ierīkotāja paskaidrojuma rakstā norādītajam zemes konsolidācijas mērķim, tas īstenojams atbilstoši normatīvajiem aktiem zemes ierīcības jomā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Zemes konsolidācija (Nodaļa 20.10.2022 . likuma redakcijā, kas stājas spēkā 14.11.2022. Nodaļas jaunā redakcija stājas spēkā 01.01.2023. Sk pārejas noteikumu 13. punktu)",
+      "section": "12",
+      "title": "Zemes konsolidācijas īstenošana",
+      "content": "(1) Zemes konsolidācijai izstrādātais zemes ierīcības projekts uzskatāms par īstenotu, kad šajā projektā projektētie zemes gabali ir ierakstīti zemesgrāmatā. Ja zemes robežu pārkārtošanā iesaistīti vairāk nekā četri zemes īpašniekiem piederoši zemes gabali, zemes konsolidācijai izstrādātais zemes ierīcības projekts īstenojams sešu gadu laikā. Pārējos gadījumos šis projekts īstenojams normatīvajos aktos zemes ierīcības jomā noteiktajos termiņos.\n(2) Par zemes robežu pārkārtošanu zemes konsolidācijas ietvaros zemes īpašnieki vienojas, noslēdzot līgumu par zemes maiņu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Valsts un vietējo pašvaldību zemes pārvaldība",
+      "section": "13",
+      "title": "Valsts un vietējo pašvaldību kompetence zemes pārvaldībā",
+      "content": "(1) Ministru kabinets:\n1) apstiprina valsts zemes politiku;\n2) izdod noteikumus, kuros paredz veidu, kādā atlīdzināmi zaudējumi, kas radušies sakarā ar nekustamā īpašuma tiesību aprobežojumiem, nodrošinot piekļuvi iekšzemes publiskajiem ūdeņiem un īpaši aizsargājamām dabas teritorijām, atlīdzības apmēru, aprēķināšanas un samaksas kārtību;\n3) (izslēgts ar 27.09.2018 . likumu) ;\n4) (izslēgts ar 20.10.2022 . likumu);\n5) izdod noteikumus par kārtību, kādā Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrē un aktualizē informāciju par jūras piekrastes joslu un iekšzemes publiskajiem ūdeņiem;\n6) izdod noteikumus par degradēto teritoriju un augsnes degradācijas kritērijiem un to klasifikāciju, kā arī par kārtību, kādā konstatē un novērtē degradētās teritorijas un augsnes degradāciju, nosaka augsnes degradācijas novēršanas pasākumus un uzrauga to īstenošanu;\n7) izdod noteikumus par Augšņu informācijas sistēmas izveidošanu un par augsnes kartēšanas, zemes kvalitātes vērtēšanas un iegūtās informācijas uzturēšanas un aktualizēšanas kārtību;\n8) izdod noteikumus par augšņu klasifikāciju;\n9) izdod noteikumus par zemes pārskatā iekļaujamās informācijas sagatavošanas kārtību un institūciju, kura ir atbildīga par zemes pārskata sagatavošanu;\n10) izdod noteikumus par jūras piekrastes joslas un iekšzemes publisko ūdeņu nomu;\n11) (izslēgts ar 27.09.2018 . likumu) ;\n12) izdod noteikumus par kārtību, kādā valsts izmanto pirmpirkuma tiesības uz zemi zem publiskajiem ūdeņiem;\n13) izdod noteikumus par kārtību, kādā Valsts zemes dienests nodod datus par rezerves zemes fondā ieskaitītiem zemes gabaliem un zemes gabaliem, kas nav izmantoti īpašuma tiesību atjaunošanai, kā arī kārtību, kādā nozaru ministrijas pieņem lēmumus par attiecīgu zemes gabalu piederību vai piekritību valstij pēc zemes reformas pabeigšanas un kādā pašvaldības pieņem lēmumus par zemes gabalu piekritību pašvaldībai.\n(2) Tiešās pārvaldes iestādes atbilstoši savai kompetencei nodrošina zemes un augsnes aizsardzības pasākumu īstenošanu, izstrādājot un īstenojot vides aizsardzības, lauksaimniecības, zivsaimniecības, meža, transporta un citu nozaru politiku.\n(3) Vietējās pašvaldības atbilstoši savai kompetencei nodrošina:\n1) zemes pārraudzību savā administratīvajā teritorijā;\n2) rezerves zemes fonda pārvaldību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Valsts un vietējo pašvaldību zemes pārvaldība",
+      "section": "14",
+      "title": "Neapbūvētās zemes un degradēto teritoriju pārvaldība",
+      "content": "(1) Tiešās pārvaldes iestāde izstrādā tās valdījumā esošās neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumu un, ja nepieciešams, to aktualizē. Ja tiešās pārvaldes iestāde nodevusi tās valdījumā esošos nekustamos īpašumus pārvaldīšanā publiskas personas kapitālsabiedrībai, tad tiešās pārvaldes iestādes valdījumā esošās neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumu izstrādā un aktualizē attiecīgā publiskas personas kapitālsabiedrība. Izvērtējumu iesniedz vietējai pašvaldībai, kuras administratīvajā teritorijā atrodas attiecīgā neapbūvētā zeme vai degradētā teritorija.\n(2) Vietējā pašvaldība izstrādā un ar domes lēmumu apstiprina tās īpašumā un valdījumā esošās neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumu.\n(3) Neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumā ietver:\n1) zemes pašreizējās izmantošanas vērtējumu;\n2) zemes turpmākās izmantošanas iespēju vērtējumu, ievērojot teritorijas attīstības plānošanas dokumentos noteikto teritorijas izmantošanu;\n3) vērtējumu par investīcijām, kas nepieciešamas, lai nodrošinātu iespējami labāku zemes izmantošanas veidu;\n4) vērtējumu par iespējām zemi izmantot, nodot nomā vai atsavināt;\n5) prognozētos ienākumus no zemes izmantošanas un atskaitījumus pašvaldības vai valsts budžetā par kapitāla izmantošanu;\n6) citu informāciju par attiecīgās zemes izmantošanu.\n(4) Tiešās pārvaldes iestāde un publiskas personas kapitālsabiedrība neizstrādā šā panta pirmajā daļā minēto neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumu, ja attiecīgās zemes izmantošanu regulē citi normatīvie akti.\n(5) Tiešās pārvaldes iestāde, publiskas personas kapitālsabiedrība vai vietējā pašvaldība, lemjot par valsts vai vietējās pašvaldības īpašumā vai valdījumā esošās neapbūvētās zemes vai degradētās teritorijas turpmāko izmantošanu, ņem vērā attiecīgo izvērtējumu. Vietējā pašvaldība ņem vērā tiešās pārvaldes iestādes, publiskas personas kapitālsabiedrības vai vietējās pašvaldības izstrādāto izvērtējumu, sagatavojot teritorijas attīstības plānošanas dokumentus."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Valsts un vietējo pašvaldību zemes pārvaldība",
+      "section": "15",
+      "title": "Jūras piekrastes joslas un iekšzemes publisko ūdeņu pārvaldība",
+      "content": "(1) Par vides aizsardzību atbildīgā ministrija ir valdītājs iekšzemes publiskajiem ūdeņiem, kas atrodas dabas rezervātos, nacionālajos parkos un dabas liegumos un nav privātpersonu īpašumā vai citas ministrijas valdījumā, un jūras piekrastes sauszemes daļai, kas atrodas dabas liegumos un nacionālo parku dabas lieguma zonā un nav privātpersonu īpašumā vai citas ministrijas valdījumā. Ja saskaņā ar normatīvajiem aktiem noteiktu darbību veikšanai ir nepieciešams īpašnieka saskaņojums, par vides aizsardzību atbildīgā ministrija īpašnieka vārdā saskaņo tās valdījumā esošajos publiskajos ūdeņos veicamās darbības.\n(2) Vietējā pašvaldība ir valdītājs tās administratīvajai teritorijai piegulošajiem jūras piekrastes ūdeņiem, kā arī tās administratīvajā teritorijā esošajai jūras piekrastes sauszemes daļai un iekšzemes publiskajiem ūdeņiem, kuru valdītājs nav par vides aizsardzību atbildīgā ministrija vai cita ministrija un kuri nav privātpersonu īpašumā. Ja saskaņā ar normatīvajiem aktiem noteiktu darbību veikšanai ir nepieciešams īpašnieka saskaņojums, vietējā pašvaldība īpašnieka vārdā saskaņo tās valdījumā esošajos publiskajos ūdeņos veicamās darbības.\n(3) Ja privātpersonas īpašumā ir zeme zem publiskajiem ūdeņiem un tā tiek pārdota, tad valstij ir pirmpirkuma tiesības uz atsavināmo zemi. Lēmumu par pirmpirkuma tiesību izmantošanu vai neizmantošanu pieņem Ministru kabinets.\n(4) Valsts īpašumā esošos iekšzemes publiskos ūdeņus un jūras piekrastes joslu aizliegts atsavināt, ieķīlāt vai citādi apgrūtināt ar lietu tiesībām. Būvniecība iekšzemes publiskajos ūdeņos un jūras piekrastes joslā ir aizliegta, ja likumos nav noteikts citādi.\n(5) Vietējā pašvaldība gādā par tās valdījumā esošo jūras piekrastes ūdeņu un jūras piekrastes sauszemes daļas labiekārtošanu un nodrošina to sanitāro tīrību, veic teritorijas plānošanu, kā arī nodrošina glābšanas dienestu darbību vietējās pašvaldības apsaimniekotajās peldvietās, kur tas ir nepieciešams.\n(6) Par vides aizsardzību atbildīgā ministrija pārrauga vietējo pašvaldību darbību, kas saistīta ar to valdījumā esošo iekšzemes publisko ūdeņu un jūras piekrastes joslas pārvaldību.\n(7) Jūras piekrastes josla un iekšzemes publiskie ūdeņi paredzēti ikviena brīvai lietošanai un ir publiski pieejami, ja likumos nav noteikts citādi.\n(8) Pašvaldībai ir tiesības noteikt aizliegumu atrasties uz tās administratīvajā teritorijā esošo iekšzemes publisko ūdeņu un citu tās valdījumā esošo ūdeņu ledus, kā arī tās administratīvajai teritorijai piegulošo jūras piekrastes ūdeņu ledus tādās vietās, kur var tikt apdraudēta personas dzīvība un veselība. Izvērtējot iespējamo personas dzīvības un veselības apdraudējumu, ņem vērā cilvēku pulcēšanās intensitāti, laikapstākļus un meteoroloģiskās prognozes, kā arī iespējamību, ka neveidojas pietiekami izturīga ledus kārta. Pašvaldība attiecīgu lēmumu var paziņot, to publicējot arī savā mājaslapā internetā.\n(9) Par vides aizsardzību atbildīgā ministrija un vietējās pašvaldības atbilstoši Ministru kabineta noteiktajai kārtībai, kādā budžeta iestādes kārto grāmatvedības uzskaiti, nodrošina grāmatvedības uzskaiti par to valdījumā esošajiem šā panta pirmajā un otrajā daļā minētajiem iekšzemes publiskajiem ūdeņiem, jūras piekrastes ūdeņiem un jūras piekrastes sauszemes daļu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Valsts un vietējo pašvaldību zemes pārvaldība",
+      "section": "16",
+      "title": "Īpašuma un valdījuma tiesību reģistrācija attiecībā uz jūras piekrastes joslu un iekšzemes publiskajiem ūdeņiem",
+      "content": "(1) Uz likuma pamata pastāvošās īpašuma tiesības uz jūras piekrastes joslu un iekšzemes publiskajiem ūdeņiem ir spēkā arī bez ierakstīšanas zemesgrāmatā. Īpašuma tiesības uz jūras piekrastes joslu un iekšzemes publiskajiem ūdeņiem nenostiprina zemesgrāmatā, ja likumos nav noteikts citādi.\n(2) Nekustamā īpašuma valsts kadastra informācijas sistēmas telpiskajos datos iekšzemes publisko ūdeņu zemes gabalu kartogrāfiski noteiktās robežas maināmas, ja tiek precizētas piegulošo zemes gabalu robežas, veicot kadastrālo uzmērīšanu, vai ja tiek aktualizēta krasta līnija. Jūras piekrastes joslas robežas nosaka un aktualizē kartogrāfiski pēc jūras krasta līnijas noteikšanas un jūras augstākās bangas robežas apstiprināšanas.\n(3) Valdījuma tiesības uz jūras piekrastes joslu un iekšzemes publiskajiem ūdeņiem reģistrē Nekustamā īpašuma valsts kadastra informācijas sistēmā atbilstoši šā likuma 15.panta pirmajai un otrajai daļai."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Valsts un vietējo pašvaldību zemes pārvaldība",
+      "section": "17",
+      "title": "Rezerves zemes fonds un zemes reformas pabeigšanai neizmantotā zeme",
+      "content": "(1) Rezerves zemes fondā ieskaitīto zemes gabalu un īpašuma tiesību atjaunošanai neizmantoto zemes gabalu valdītājs ir attiecīgā vietējā pašvaldība līdz brīdim, kad Ministru kabinets izdod rīkojumu par to ierakstīšanu zemesgrāmatā uz valsts vārda vai tie tiek ierakstīti zemesgrāmatā uz vietējās pašvaldības vārda.\n(2) Vietējai pašvaldībai ir tiesības iznomāt šā panta pirmajā daļā minētos zemes gabalus saskaņā ar normatīvajiem aktiem par publiskas personas zemes nomu, kuri regulē pašvaldības zemes iznomāšanu. Nomas līgumā paredz vietējās pašvaldības tiesības vienpusēji izbeigt līgumu, ja Ministru kabinets izdod rīkojumu par iznomātā zemes gabala ierakstīšanu zemesgrāmatā uz valsts vārda, ja iznomātais zemes gabals tiek piešķirts īpašumā kā līdzvērtīgā zeme.\n(3) Šā panta pirmajā daļā minētajos zemes gabalos ir aizliegta tādu jaunu būvju būvniecība, kuras atbilstoši zemesgrāmatu darbību regulējošiem normatīvajiem aktiem ierakstāmas zemesgrāmatā kā patstāvīgi īpašuma objekti. Ja saskaņā ar normatīvajiem aktiem noteiktu darbību veikšanai ir nepieciešams īpašnieka saskaņojums, vietējā pašvaldība saskaņo šā panta pirmajā daļā minētajos zemes gabalos veicamās darbības.\n(4) Kamēr Ministru kabinets nav izdevis rīkojumu par zemes reformas pabeigšanu attiecīgās pašvaldības administratīvajā teritorijā vai novada pašvaldības teritoriālajā vienībā, vietējās pašvaldības dome var pieņemt lēmumu par rezerves zemes fondā ieskaitītā zemes gabala piederību vai piekritību pašvaldībai un Ministru kabinets var izdot rīkojumu par zemes gabala piederību vai piekritību valstij, ja rezerves zemes fondā ieskaitītais zemes gabals ir valstij vai pašvaldībai piederošā vai piekrītošā zeme atbilstoši likumam \"Par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās\".\n(5) Valstij un vietējām pašvaldībām pēc zemes reformas pabeigšanas piederošo un piekrītošo zemi izvērtē Ministru kabineta noteiktajā kārtībā divu gadu laikā pēc tam, kad Ministru kabinets izdevis rīkojumu par zemes reformas pabeigšanu attiecīgās vietējās pašvaldības administratīvajā teritorijā vai visās novada teritoriālā iedalījuma vienībās.\n(6) Šā panta pirmajā daļā minētie zemes gabali, par kuriem šā panta piektajā daļā noteiktajā termiņā pašvaldības un ministrijas Valsts zemes dienesta publicētajos rezerves zemes fondā ieskaitītās un īpašuma tiesību atjaunošanai neizmantotās zemes izvērtēšanas sarakstos nav izdarījušas atzīmi par zemes gabala piederību vai piekritību pašvaldībai vai valstij, piekrīt vietējai pašvaldībai tās administratīvajā teritorijā. Lēmumu par šo zemes gabalu ierakstīšanu zemesgrāmatās pieņem pašvaldība. Līdz brīdim, kad zemes gabals ir ierakstīts zemesgrāmatā uz pašvaldības vārda, Ministru kabinets var izdot rīkojumu par šā zemes gabala piekritību valstij, ja tas nepieciešams valsts pārvaldes funkciju īstenošanai."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Zemes un augsnes aizsardzība un kvalitātes novērtējums",
+      "section": "18",
+      "title": "Degradēto teritoriju pārvaldība un degradācijas novēršanas pasākumi",
+      "content": "(1) Zemes degradācijas novēršanas pasākumu mērķis ir novērst degradācijas cēloņus un sekas, lai sekmētu ilgtspējīgu zemes izmantošanu.\n(2) Vietējā pašvaldība teritorijas attīstības plānošanas dokumentos nosaka un atzīmē degradētās teritorijas, kā arī paredz nepieciešamos zemes izmantošanas nosacījumus. Informāciju par degradētajām teritorijām iekļauj un uztur Teritorijas attīstības plānošanas informācijas sistēmā.\n(3) Zemes īpašnieks vai valdītājs nodrošina augsnes rekultivāciju. Ja augsnes degradāciju izraisa citai personai piederošs vai tās valdījumā esošs objekts, augsnes rekultivācijas izdevumus sedz šā objekta īpašnieks vai valdītājs.\n(4) Teritorijas, kurās konstatētas augsnes degradācijas pazīmes, ir izmantojamas tā, lai ierobežotu turpmāku augsnes degradāciju un nodrošinātu augsnes auglības saglabāšanu.\n(5) Ja zemes degradācijas novēršanas pasākumus nepieciešams veikt sabiedrības kopējo interešu nodrošināšanai, tai skaitā invazīvo augu sugu izplatības ierobežošanai, vietējā pašvaldība par to informē zemes īpašnieku vai valdītāju un lūdz veikt minētos pasākumus noteiktā termiņā.\n(6) Ja zemes īpašnieks vai valdītājs neveic zemes degradācijas novēršanas pasākumus pašvaldības noteiktajā termiņā, vietējai pašvaldībai ir tiesības nepieciešamos pasākumus veikt neatkarīgi no īpašuma piederības, iepriekš par pieņemto lēmumu informējot attiecīgo īpašnieku vai valdītāju. Par zemes degradācijas novēršanas pasākumiem lemj vietējās pašvaldības dome. Pašvaldības domes lēmumu var pārsūdzēt tiesā mēneša laikā no tā paziņošanas dienas. Ar zemes degradācijas novēršanas pasākumiem saistītos izdevumus sedz zemes īpašnieks vai valdītājs."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Zemes un augsnes aizsardzība un kvalitātes novērtējums",
+      "section": "19",
+      "title": "Augsnes kartēšana un zemes kvalitātes vērtēšana",
+      "content": "(1) Augsnes kartēšanu un zemes kvalitātes vērtēšanu veic lauksaimniecībā izmantojamai zemei ne retāk kā reizi 20 gados.\n(2) Augšņu kartētājiem un zemes kvalitātes vērtētājiem, kā arī vides vai nacionālā meža monitoringa veicējiem, pildot darba pienākumus, ir tiesības bez ierobežojumiem pārvietoties un ņemt augsnes paraugus lauksaimniecības un meža zemēs, ja nepieciešams, uzrādot dienesta vai darba apliecību.\n(3) Teksta un telpisko informāciju par augsnes kartēšanu un augšņu agroķīmiskās izpētes rezultātiem, kā arī datus par citiem augsni un zemes kvalitāti raksturojošiem rādītājiem apkopo, uzglabā un aktualizē valsts informācijas sistēmā — Augšņu informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Zemes un augsnes aizsardzība un kvalitātes novērtējums",
+      "section": "20",
+      "title": "Zemes lietošanas kategorijas maiņa",
+      "content": "(1) Ja iecerēto darbību īstenošanai ir nepieciešams mainīt zemes lietošanas kategoriju, to maina, ņemot vērā vietējās pašvaldības teritorijas attīstības plānošanas dokumentu un citu normatīvo aktu prasības.\n(2) Ja zemes lietošanas kategorijas maiņa tiek ierosināta attiecībā uz meliorēto zemi, Meliorācijas likumā noteiktajos gadījumos tehniskos noteikumus meliorētajā zemē veicamajām darbībām izdod par meliorāciju atbildīgā institūcija.\n(3) Izmaiņas attiecībā uz zemes lietošanas kategoriju platībām Nekustamā īpašuma valsts kadastra reģistrā tiek aktualizētas Nekustamā īpašuma valsts kadastra likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "21",
+      "title": "Zemes pārraudzības īstenošana",
+      "content": "(1) Zemes pārraudzību īsteno šādi:\n1) Valsts zemes dienests, izmantojot Nekustamā īpašuma valsts kadastra informācijas sistēmas datus, katru gadu līdz 15.martam pēc stāvokļa 1.janvārī sagatavo ikgadējo pārskatu par zemes sadalījumu atbilstoši teritorijas atļautajai izmantošanai, zemes lietošanas veidiem un īpašuma tiesību statusam katrā administratīvajā teritorijā, teritoriālā iedalījuma vienībā un valstī kopumā;\n2) reizi piecos gados tiek sagatavots zemes pārskats, izmantojot šā likuma 22.pantā minēto informācijas sistēmu telpiskos un teksta datus;\n3) normatīvajos aktos noteiktajā kārtībā tiek veikta zemes periodiskā apsekošana.\n(2) Informāciju, kas iegūta, īstenojot zemes pārraudzību, izmanto teritorijas attīstības un zemes izmantošanas plānošanā, kā arī zemes politikas izstrādē un ieviešanā vietējā, reģionālajā un valsts līmenī.\n(3) Šā panta pirmās daļas 2.punktā minētajā zemes pārskatā, ņemot vērā administratīvās teritorijas un to teritoriālo iedalījumu, iekļauj informāciju par:\n1) teritorijas sadalījumu atbilstoši zemes lietošanas kategorijām;\n2) teritorijas sadalījumu atbilstoši teritorijas atļautajai izmantošanai;\n3) teritorijas sadalījumu atbilstoši īpašuma tiesību statusam un zemes īpašnieku statusam, tai skaitā norādot ārvalstniekiem un ārvalstīs reģistrētām juridiskajām personām piederošo zemi;\n4) neapsaimniekotajām lauksaimniecībā izmantojamās zemes platībām;\n5) degradētajām teritorijām un to platību;\n6) meliorētās zemes platības izmaiņām;\n7) piesārņotajām un potenciāli piesārņotajām vietām;\n8) īpaši aizsargājamām dabas teritorijām;\n9) zemes apaugumu;\n10) izmaiņām zemes kvalitātes novērtējumā, ja tas ir aktualizēts;\n11) citām izmaiņām zemes izmantošanā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "22",
+      "title": "Ar zemi saistītās informācijas infrastruktūra",
+      "content": "(1) Piekļuvi zemes pārvaldībai nepieciešamajiem datiem nodrošina šādas informācijas sistēmas:\n1) Nekustamā īpašuma valsts kadastra informācijas sistēma — datiem par zemes sadalījumu atbilstoši īpašuma tiesību statusam un zemes īpašnieku statusam, zemes lietošanas veidiem un zemes kadastrālo vērtību;\n2) Valsts adrešu reģistra informācijas sistēma — telpiskajiem datiem par administratīvo teritoriju un to teritoriālā iedalījuma vienību robežām;\n3) Ģeotelpisko pamatdatu informācijas sistēma — topogrāfisko karšu datiem;\n4) Teritorijas attīstības plānošanas informācijas sistēma — datiem par teritorijas atļauto izmantošanu;\n5) Apgrūtināto teritoriju informācijas sistēma — datiem par apgrūtinātajām teritorijām;\n6) Augšņu informācijas sistēma — datiem par augšņu kartēšanas un augšņu agroķīmiskās izpētes rezultātiem, kā arī citiem augsni un zemes kvalitāti raksturojošiem rādītājiem;\n7) (izslēgts ar 07.03.2019 . likumu) ;\n8) Piesārņoto un potenciāli piesārņoto vietu reģistrs — datiem par piesārņotajām un potenciāli piesārņotajām vietām;\n9) Lauku reģistra ģeogrāfiskās informācijas sistēma — datiem par lauku blokiem;\n10) Meliorācijas kadastra informācijas sistēma — datiem par meliorācijas sistēmām;\n11) Meža valsts reģistrs — datiem par mežu un meža zemi;\n12) Iedzīvotāju reģistrs — datiem par ārvalstu fiziskajām personām;\n13) Komercreģistrs — datiem par ārvalstīs reģistrētām juridiskajām personām;\n14) Valsts vienotā datorizētā zemesgrāmata — datiem par zemes īpašuma tiesībām.\n(2) Piekļuvi ģeotelpisko datu kopām, kas nepieciešamas par zemes pārskata izstrādi atbildīgajai institūcijai zemes pārvaldības vajadzībām, to izmantošanu un sadarbspēju nodrošina ģeotelpisko datu kopu turētāji normatīvajos aktos noteiktajā kārtībā, izmantojot valsts vienotā ģeotelpiskās informācijas portāla infrastruktūru.\n(3) Piekļuvi teksta datiem, kas nepieciešami par zemes pārskata izstrādi atbildīgajai institūcijai zemes pārvaldības vajadzībām, nodrošina attiecīgo informācijas sistēmu turētāji bez maksas."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn1",
+      "title": "1. Šā likuma 14.panta pirmajā un otrajā daļā minētos neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumus apstiprina līdz 2016.gada 1.janvārim.",
+      "content": "1. Šā likuma 14.panta pirmajā un otrajā daļā minētos neapbūvētās zemes un degradētās teritorijas izmantošanas iespēju izvērtējumus apstiprina līdz 2016.gada 1.janvārim."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn2",
+      "title": "2. Šā likuma 6.pants un 15.panta trešā daļa stājas spēkā 2016.gada 1.janvārī.",
+      "content": "2. Šā likuma 6.pants un 15.panta trešā daļa stājas spēkā 2016.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn3",
+      "title": "3. Šā likuma 16.panta otrā un trešā daļa stājas spēkā 2017.gada 1.janvārī.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.09.2018 . likumu, kas stājas spēkā 25.10.2018. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn4",
+      "title": "4. Šā likuma III nodaļa stājas spēkā 2023.gada 1.janvārī.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 22.11.2017. un 13.11.2019 . likumu, kas stājas spēkā 01.01.2020. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn5",
+      "title": "5. Ministru kabinets:",
+      "content": "1) līdz 2015.gada 31.decembrim izdod šā likuma 13.panta pirmās daļas 2., 12. un 13.punktā minētos noteikumus;\n2) līdz 2016.gada 31.decembrim izdod šā likuma 13.panta pirmās daļas 9. punktā minētos noteikumus;\n3) līdz 2019. gada 31. decembrim izdod šā likuma 13. panta pirmās daļas 6. punktā minētos noteikumus;\n4) līdz 2018.gada 31.decembrim izdod šā likuma 13.panta pirmās daļas 10.punktā minētos noteikumus;\n5) (izslēgts ar 20.10.2022 . likumu) ;\n6) līdz 2023. gada 31. decembrim izdod šā likuma 13. panta pirmās daļas 5. punktā minētos noteikumus;\n7) līdz 2024. gada 31. decembrim izdod šā likuma 13. panta pirmās daļas 7. un 8. punktā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 5.1",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn5.1",
+      "title": "5. 1 Šā likuma 19. panta trešā daļa stājas spēkā 2025. gada 1. janvārī.",
+      "content": "( 07.03.2019 . likuma redakcijā, kas stājas spēkā 04.04.2019. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn6",
+      "title": "6. Šā likuma 21.panta pirmās daļas 2.punktā minēto zemes pārskatu pirmo reizi sagatavo līdz 2018.gada 1.janvārim.",
+      "content": "6. Šā likuma 21.panta pirmās daļas 2.punktā minēto zemes pārskatu pirmo reizi sagatavo līdz 2018.gada 1.janvārim."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn7",
+      "title": "7. Ja zemes reforma vietējās pašvaldības administratīvajā teritorijā pabeigta līdz šā likuma spēkā stāšanās dienai, valstij un vietējai pašvaldībai piederošo un piekrītošo zemi attiecīgās pašvaldības administratīvajā teritorijā nosaka līdz 2018.gada 1.februārim.",
+      "content": "7. Ja zemes reforma vietējās pašvaldības administratīvajā teritorijā pabeigta līdz šā likuma spēkā stāšanās dienai, valstij un vietējai pašvaldībai piederošo un piekrītošo zemi attiecīgās pašvaldības administratīvajā teritorijā nosaka līdz 2018.gada 1.februārim."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn8",
+      "title": "8. Šā likuma 22 .panta pirmās daļas 4. un 5. punkts stājas spēkā 2016. gada 1. janvārī, bet 6. punkts — 2028. gada 1. janvārī.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 07.03.2019 . likumu, kas stājas spēkā 04.04.2019. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn9",
+      "title": "9. Pirmo augsnes kartēšanu un zemes kvalitātes vērtēšanu lauksaimniecībā izmantojamai zemei uzsāk līdz 2028. gada 1. janvārim.",
+      "content": "( 07.03.2019 . likuma redakcijā, kas stājas spēkā 04.04.2019. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn10",
+      "title": "10. Šā likuma 5. panta sestā daļa neattiecas uz tiem teritorijas plānojumiem, kuros līdz attiecīgā regulējuma spēkā stāšanās dienai teritorijām, kas paredzētas publiskās infrastruktūras attīstībai, noteikti īpaši izmantošanas nosacījumi. Ja attiecīgajos teritorijas plānojumos ietvertie teritorijas izmantošanas nosacījumi rada personai zaudējumus, persona var prasīt, lai atbildīgā institūcija civiltiesiskā kārtībā atlīdzina šos zaudējumus.",
+      "content": "( 27.09.2018 . likuma redakcijā ar grozījumiem, kas izdarīti ar 03.02.2022 . likumu, kas stājas spēkā 02.03.2022. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn11",
+      "title": "11. Ministru kabineta rīkojumu par šā likuma 17. panta pirmajā daļā minētajiem zemes gabaliem, kuri Ministru kabineta noteiktajā kārtībā izvērtēti un Valsts zemes dienesta publicētajā rezerves zemes fondā ieskaitītās un īpašuma tiesību atjaunošanai neizmantotās zemes izvērtēšanas sarakstā atzīmēti kā valstij piederoši vai piekrītoši, var izdot arī pēc šā likuma 17. panta piektajā daļā noteiktā termiņa.",
+      "content": "( 27.09.2018 . likuma redakcijā, kas stājas spēkā 25.10.2018. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn12",
+      "title": "12. Šā likuma 15. panta devītajā daļā noteikto prasību attiecībā uz grāmatvedības uzskaiti par jūras piekrastes ūdeņiem un jūras piekrastes sauszemes daļu nepiemēro līdz jūras piekrastes joslas pirmreizējai reģistrācijai Nekustamā īpašuma valsts kadastra informācijas sistēmā un gada laikā pēc tās.",
+      "content": "( 03.02.2022 . likuma redakcijā, kas stājas spēkā 02.03.2022. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VI nodaļa Zemes pārraudzība un ar zemi saistītā informācija",
+      "section": "pn13",
+      "title": "13. Šā likuma III nodaļa stājas spēkā 2023. gada 1. janvārī.",
+      "content": "( 20.10.2022 . likuma redakcijā, kas stājas spēkā 14.11.2022. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "augsne",
+      "definition": "virsējais irdenais un auglīgais zemes garozas slānis, kas veidojies dabas procesu un cilvēka darbības ietekmē un sastāv no minerālā un organiskā materiāla, šķidrumiem un gāzveida vielām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "augsnes degradācija",
+      "definition": "dabas procesu un cilvēka darbības ietekmē radušās vai notiekošas izmaiņas, kuru dēļ samazinās iespēja izmantot augsni ekonomisko, vides aizsardzības un kultūras funkciju īstenošanā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "augsnes rekultivācija",
+      "definition": "pasākumu kopums, kas veicina augsnes auglības atjaunošanos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "degradētā teritorija",
+      "definition": "teritorija ar izpostītu vai bojātu zemes virskārtu vai pamesta apbūves, derīgo izrakteņu ieguves, saimnieciskās vai militārās darbības teritorija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iekšzemes publiskie ūdeņi",
+      "definition": "Civillikuma I pielikumā norādītie publiskie ezeri un upes",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jūras piekrastes josla",
+      "definition": "teritorija, kurā ietilpst jūras piekrastes ūdeņi un jūras piekrastes sauszemes daļa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jūras piekrastes ūdeņi",
+      "definition": "šā likuma izpratnē: akvatorija divu kilometru platumā no jūras krasta līnijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jūras piekrastes sauszemes daļa",
+      "definition": "teritorija starp jūras krasta līniju un vietu, kuru sasniedz jūras augstākās bangas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jūras krasta līnija",
+      "definition": "robeža starp jūras piekrastes sauszemes daļu un jūras piekrastes ūdeņiem normālā stāvoklī",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "neapbūvēta zemes vienība",
+      "definition": "šā likuma izpratnē: zeme, uz kuras neatrodas būves vai atrodas tikai tādas būves, kuras saskaņā ar normatīvajiem aktiem par nekustamā īpašuma ierakstīšanu zemesgrāmatā nav ierakstāmas zemesgrāmatā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes aizsardzība",
+      "definition": "pasākumi zemes degradācijas un degradācijas riska novēršanai un zemes derīgo īpašību saglabāšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes degradācija",
+      "definition": "zemes un ar to saistīto resursu ekonomiskās vai ekoloģiskās vērtības samazināšanās vai izzušana cilvēka darbības vai bezdarbības vai dabas procesu rezultātā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes konsolidācija",
+      "definition": "pasākumu kopums, kura ietvaros tiek veikta kompleksa zemes robežu pārkārtošana, lai veidotu racionālu saimniecību struktūru un zemes gabalu platību, veicinātu lauku infrastruktūras un lauku attīstību, kā arī vides aizsardzību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes pārraudzība",
+      "definition": "zemi un tās izmantošanu raksturojošu datu iegūšana no valsts informācijas sistēmām, to analītiska apstrāde un zemes periodiska apsekošana apvidū, lai noteiktu zemes stāvokli un raksturotu tā izmaiņas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes pārvaldība",
+      "definition": "zemes politikas īstenošanas pasākumu kopums, kura mērķis ir veicināt ilgtspējīgu zemes izmantošanu un aizsardzību.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

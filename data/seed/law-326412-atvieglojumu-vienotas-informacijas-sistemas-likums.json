@@ -1,0 +1,134 @@
+{
+  "id": "lv-law-326412",
+  "type": "statute",
+  "title": "Atvieglojumu vienotās informācijas sistēmas likums",
+  "title_en": "Unified Relief Information System Law",
+  "short_name": "TA-326412",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/326412-atvieglojumu-vienotas-informacijas-sistemas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) atvieglojums — dotācija, kompensācija, atlaide, pabalsts vai cits maksājums, kas tiek piešķirts privātpersonai saskaņā ar normatīvajiem aktiem vai līgumu;\n2) atvieglojuma devējs — publiskas personas institūcija, privātpersona, kurai deleģēts valsts pārvaldes uzdevums, vai komersants, kuram nav deleģēts valsts pārvaldes uzdevums piešķirt vai administrēt atvieglojumu;\n3) atvieglojuma saņēmējs — privātpersona, kurai piešķirts vismaz viens atvieglojums;\n4) atvieglojuma pakalpojumu sniedzējs — publiskas personas institūcija vai privātpersona, kas, pamatojoties uz noslēgto līgumu ar atvieglojuma devēju, sniedz pakalpojumu vai preci, piemērojot atvieglojumu;\n5) atvieglojuma norādījums — atvieglojuma piešķiršanas nosacījumi atvieglojuma summas aprēķinam, kas noteikti normatīvajos aktos vai ko noteicis komersants, kuram nav deleģēts valsts pārvaldes uzdevums;\n6) atvieglojuma dati — datu kopums, kas nepieciešams precīzai atvieglojuma norādījuma izpildei, kā arī izmantoto atvieglojumu datu uzskaitei un pārvaldībai."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt drošu, ērtu un efektīvu atvieglojumu datu uzskaiti un pārvaldību, izveidojot atvieglojumu vienoto informācijas sistēmu (turpmāk — informācijas sistēma) un nodrošinot tās darbību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums attiecas uz atvieglojumiem, kuru piemērošanas brīdī nepieciešams identificēt atvieglojuma saņēmēju vai atvieglojuma saņēmējam izsniegto identifikācijas līdzekli, lai nodrošinātu precīzu atvieglojumu norādījumu izpildi un izmantotā atvieglojuma datu uzskaiti.\n(2) Likums netiek piemērots atvieglojumiem, kas saistīti ar nodokļiem un nodevām, publiskas personas nekustamā īpašuma nomu, valsts sociālajiem pabalstiem, valsts sociālās apdrošināšanas pabalstiem un darba devēja izmaksātajiem pabalstiem, kā arī ar precēm un pakalpojumiem, kas neatbilst normatīvajiem aktiem par to drošumu vai atbilstības novērtēšanu.\n(3) Likums netiek piemērots atvieglojuma devēja un atvieglojuma pakalpojumu sniedzēja savstarpējos norēķinos."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Informācijas sistēmas pārzinis un turētājs",
+      "content": "(1) Informācijas sistēmas pārzinis ir Vides aizsardzības un reģionālās attīstības ministrija.\n(2) Informācijas sistēmas turētājs ir Valsts reģionālās attīstības aģentūra."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Informācijas sistēmas finansēšana",
+      "content": "Informācijas sistēmas uzturēšanu un pilnveidošanu finansē no valsts budžetā šiem mērķiem paredzētajiem līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Informācijas sistēmas izmantošana",
+      "content": "(1) Informācijas sistēmas izmantošana ir obligāta:\n1) atvieglojuma devējam, kas no valsts vai pašvaldības budžeta piešķir vai administrē atvieglojumu;\n2) atvieglojuma pakalpojumu sniedzējiem, izņemot valsts noteikto braukšanas maksas atvieglojuma pakalpojumu sniedzējus, kuri atbilstoši normatīvajiem aktiem nodrošina informācijas apriti valsts noteikto braukšanas maksas atvieglojumu saņēmēju informācijas sistēmā.\n(2) Informācijas sistēmu var izmantot:\n1) atvieglojuma devējs, kas no saviem līdzekļiem piešķir vai administrē atvieglojumu;\n2) atvieglojuma saņēmējs, kas iekļauts informācijas sistēmā un saņem informāciju par piešķirto un izmantoto atvieglojumu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Informācijas sistēmas un tajā iekļauto datu apstrādes mērķis",
+      "content": "(1) Informācijas sistēmu izmanto, lai veiktu atvieglojumu uzskaiti un pārvaldību, izvērtētu atvieglojumu datus atvieglojumu piešķiršanas un izmantošanas pasākumu īstenošanai un turpmākai attīstībai, kā arī nodrošinātu savstarpēju atvieglojuma devēja, atvieglojuma pakalpojumu sniedzēja un atvieglojuma saņēmēja informācijas apmaiņu.\n(2) Informācijas sistēmas mērķis ir:\n1) uzlabot un efektivizēt valsts politikas un budžeta plānošanu atvieglojumu pārvaldības procesā, ņemot vērā precīzus atvieglojumu datus;\n2) samazināt administratīvo slogu atvieglojumu administrēšanā, pārvaldībā, nodrošināšanā un saņemšanā;\n3) mazināt krāpniecisku darījumu apjomu, nodrošinot to, ka atvieglojumus saņem tikai tās personas, kurām tie pienākas."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Datu aprite informācijas sistēmā",
+      "content": "Informācijas sistēma ir valsts informācijas sistēmu savietotājs, kurā informācijas aprite tiek nodrošināta atbilstoši normatīvajiem aktiem par valsts informācijas sistēmu savietotāja darbību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Informācijas sistēmas dati un darbība",
+      "content": "(1) Informācijas sistēmā datus iekļaušanai un aktualizēšanai sniedz:\n1) Pilsonības un migrācijas lietu pārvalde — no fizisko personu reģistra;\n2) Uzņēmumu reģistrs — no publisko personu un iestāžu saraksta, komercreģistra un biedrību un nodibinājumu reģistra;\n3) Izglītības un zinātnes ministrija — no valsts izglītības informācijas sistēmas;\n4) Veselības un darbspēju ekspertīzes ārstu valsts komisija — no invaliditātes informatīvās sistēmas;\n5) Valsts bērnu tiesību aizsardzības inspekcija — no bāreņu apliecību informācijas sistēmas;\n6) Sabiedrības integrācijas fonds — no informācijas uzkrāšanas un analīzes sistēmas (no goda ģimenes apliecību reģistra);\n7) Valsts sociālās apdrošināšanas aģentūra — no sociālās apdrošināšanas informācijas sistēmas;\n8) valsts sabiedrība ar ierobežotu atbildību \"Autotransporta direkcija\" — no valsts noteikto braukšanas maksas atvieglojumu saņēmēju informācijas sistēmas;\n9) atvieglojuma devējs — no savas atvieglojuma administrēšanas un uzskaites informācijas sistēmas, ja tāda ir izveidota;\n10) atvieglojuma pakalpojumu sniedzējs — no savas pakalpojumu pārvaldības informācijas sistēmas, ja tāda ir izveidota;\n11) elektronisko pakalpojumu sniedzējs — no savas elektronisko pakalpojumu pārvaldības informācijas sistēmas.\n(2) Šā panta pirmajā daļā minētie subjekti ir atbildīgi par to, lai informācijas sistēmas pārzinim iekļaušanai informācijas sistēmā tiktu sniegti precīzi dati.\n(3) Atvieglojuma saņēmēja datus informācijas sistēmā glabā trīs gadus pēc tam, kad tas saskaņā ar normatīvajiem aktiem vai izbeidzoties līgumam ir zaudējis tiesības saņemt atvieglojumu. Pēc minētā termiņa beigām atvieglojuma saņēmēja dati informācijas sistēmā tiek dzēsti.\n(4) Ministru kabinets nosaka informācijas sistēmā iekļaujamo datu apjomu un datu iekļaušanas un saņemšanas kārtību, kārtību, kādā šā panta pirmajā daļā minētie subjekti sniedz datus iekļaušanai un aktualizēšanai informācijas sistēmā, piekļuves nodrošināšanas kārtību, kā arī iekļauto datu apstrādes kārtību un informācijas sistēmas darbības principus."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Tāda komersanta tiesības izmantot informācijas sistēmu, kuram nav deleģēts valsts pārvaldes uzdevums",
+      "content": "(1) Komersants, kuram nav deleģēts valsts pārvaldes uzdevums, iesniedz Vides aizsardzības un reģionālās attīstības ministrijai iesniegumu par piekļuvi informācijas sistēmai. Ministru kabinets nosaka iesnieguma saturu un iesniegumam pievienojamos dokumentus.\n(2) Lēmumu par tāda komersanta piekļuvi informācijas sistēmai, kuram nav deleģēts valsts pārvaldes uzdevums, vai lēmumu par atteikumu nodrošināt piekļuvi informācijas sistēmai vai par piekļuves atcelšanu, ja komersants neatbilst attiecīgajiem kritērijiem, pieņem vides aizsardzības un reģionālās attīstības ministra izveidota komisija.\n(3) Ministru kabinets nosaka atbilstības kritērijus un kārtību, kādā komisija izvērtē un pieņem lēmumus par to komersantu piekļuvi informācijas sistēmai, kuriem nav deleģēts valsts pārvaldes uzdevums.\n(4) Komisijas lēmumu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā.\n(5) Komersanti, kuriem nav deleģēts valsts pārvaldes uzdevums, izmanto informācijas sistēmu normatīvajos aktos noteiktajos gadījumos un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Informācijas sistēmas lietošanas vadlīnijas",
+      "content": "(1) Informācijas sistēmas pārzinis izstrādā informācijas sistēmas lietošanas vadlīnijas (turpmāk — vadlīnijas), kurās nosaka:\n1) informācijas sistēmas standartizēto datu apmaiņas saskarņu integrācijas instrukciju, piemērus un lietošanas tiesības;\n2) informācijas sistēmā iekļauto atvieglojumu un to saņemšanas nosacījumu datu specifikāciju.\n(2) Pārzinis vadlīnijas ievieto savā tīmekļvietnē un, ja nepieciešams, aktualizē."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Tiesības saņemt un izmantot informācijas sistēmā iekļautos datus",
+      "content": "Tiesības saņemt un izmantot informācijas sistēmā iekļautos datus ir arī:\n1) atvieglojuma devējiem;\n2) atvieglojuma pakalpojumu sniedzējiem;\n3) atvieglojuma saņēmējiem."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Atvieglojuma devējam, kas no valsts vai pašvaldības budžeta piešķir vai administrē atvieglojumu, kā arī atvieglojuma pakalpojumu sniedzējam atvieglojumu vienotās informācijas sistēmas lietošana ir obligāta, sākot ar 2024. gada 1. novembri.",
+      "content": "1. Atvieglojuma devējam, kas no valsts vai pašvaldības budžeta piešķir vai administrē atvieglojumu, kā arī atvieglojuma pakalpojumu sniedzējam atvieglojumu vienotās informācijas sistēmas lietošana ir obligāta, sākot ar 2024. gada 1. novembri."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2022. gada 31. martam izdod šā likuma 10. panta pirmajā un trešajā daļā minētos noteikumus.",
+      "content": "2. Ministru kabinets līdz 2022. gada 31. martam izdod šā likuma 10. panta pirmajā un trešajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Šā likuma normas attiecībā uz atvieglojuma saņēmējiem — juridiskajām personām — nepiemēro līdz 2023. gada 31. decembrim.",
+      "content": "3. Šā likuma normas attiecībā uz atvieglojuma saņēmējiem — juridiskajām personām — nepiemēro līdz 2023. gada 31. decembrim."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atvieglojums",
+      "definition": "dotācija, kompensācija, atlaide, pabalsts vai cits maksājums, kas tiek piešķirts privātpersonai saskaņā ar normatīvajiem aktiem vai līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvieglojuma devējs",
+      "definition": "publiskas personas institūcija, privātpersona, kurai deleģēts valsts pārvaldes uzdevums, vai komersants, kuram nav deleģēts valsts pārvaldes uzdevums piešķirt vai administrēt atvieglojumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvieglojuma saņēmējs",
+      "definition": "privātpersona, kurai piešķirts vismaz viens atvieglojums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvieglojuma pakalpojumu sniedzējs",
+      "definition": "publiskas personas institūcija vai privātpersona, kas, pamatojoties uz noslēgto līgumu ar atvieglojuma devēju, sniedz pakalpojumu vai preci, piemērojot atvieglojumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvieglojuma norādījums",
+      "definition": "atvieglojuma piešķiršanas nosacījumi atvieglojuma summas aprēķinam, kas noteikti normatīvajos aktos vai ko noteicis komersants, kuram nav deleģēts valsts pārvaldes uzdevums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvieglojuma dati",
+      "definition": "datu kopums, kas nepieciešams precīzai atvieglojuma norādījuma izpildei, kā arī izmantoto atvieglojumu datu uzskaitei un pārvaldībai.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

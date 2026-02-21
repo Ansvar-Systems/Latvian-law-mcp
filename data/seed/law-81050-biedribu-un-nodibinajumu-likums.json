@@ -1,0 +1,958 @@
+{
+  "id": "lv-law-81050",
+  "type": "statute",
+  "title": "Biedrību un nodibinājumu likums",
+  "title_en": "Associations And Foundations Law",
+  "short_name": "TA-81050",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/81050-biedribu-un-nodibinajumu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "(1) Šā likuma mērķis ir veicināt biedrību un nodibinājumu darbību un to ilgtermiņa attīstību, kā arī sekmēt demokrātiskas un pilsoniskas sabiedrības nostiprināšanu.\n(2) Šis likums regulē biedrību un nodibinājumu darbības pamatprincipus, organizatorisko struktūru, likvidāciju un reorganizāciju."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "2",
+      "title": "Biedrības un nodibinājuma jēdziens",
+      "content": "(1) Biedrība ir brīvprātīga personu apvienība, kas nodibināta, lai sasniegtu statūtos noteikto mērķi, kam nav pelņas gūšanas rakstura.\n(2) Nodibinājums, arī fonds, ir mantas kopums, kurš nodalīts dibinātāja noteiktā mērķa sasniegšanai, kam nav peļņas gūšanas rakstura."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "3",
+      "title": "Biedrības un nodibinājuma tiesiskais statuss",
+      "content": "Biedrība un nodibinājums iegūst juridiskās personas statusu ar brīdi, kad tie ierakstīti biedrību un nodibinājumu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "4",
+      "title": "Biedrības un nodibinājuma atbildības norobežošana",
+      "content": "(1) Biedrība un nodibinājums par savām saistībām atbild ar visu savu mantu.\n(2) Biedrība neatbild par biedra saistībām. Biedrs neatbild par biedrības saistībām.\n(3) Nodibinājums neatbild par dibinātāja saistībām. Dibinātājs neatbild par nodibinājuma saistībām."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "5",
+      "title": "Biedrības un nodibinājuma juridiskā adrese",
+      "content": "(1) Biedrības un nodibinājuma juridiskā adrese ir adrese, kura ierakstīta biedrību un nodibinājumu reģistrā. Biedrību un nodibinājumu reģistra iestādei piesakāma juridiskās adreses maiņa.\n(2) Ja biedrībai vai nodibinājumam tiek nosūtītas ziņas, dokumenti vai cita korespondence uz biedrību un nodibinājumu reģistrā ierakstīto juridisko adresi, uzskatāms, ka biedrība vai nodibinājums šos dokumentus, ziņas vai citu korespondenci ir saņēmis septītajā dienā, ja nosūtītājs pierādījis, ka šāda nosūtīšana ir veikta."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "6",
+      "title": "Biedrības un nodibinājuma nosaukums un simbolika",
+      "content": "(1) Biedrības un nodibinājuma nosaukums un simbolika nedrīkst būt pretrunā ar normatīvajiem aktiem un labiem tikumiem, piemēram, tajā nedrīkst ietvert militāra formējuma vai tādas organizācijas vai grupas nosaukumu vai simboliku, kura atzīta par noziedzīgu vai antikonstitucionālu, nosaukums un simbolika nedrīkst radīt pozitīvu attieksmi pret vardarbību.\n(2) Nodibinājuma nosaukumā jāietver vārds \"nodibinājums\" vai \"fonds\".\n(3) Nosaukumam skaidri un noteikti jāatšķiras no citiem biedrību un nodibinājumu reģistrā vai citos reģistra iestādes reģistros jau reģistrētiem vai reģistrācijai pieteiktiem biedrību vai nodibinājumu nosaukumiem.\n(4) Biedrību un nodibinājumu nosaukumā lietojami vienīgi latviešu vai latīņu alfabēta burti.\n(5) Nosaukumā nedrīkst ietvert maldinošas ziņas par biedrības vai nodibinājuma darbības mērķi, darbības veidu un tiesisko formu.\n(6) Biedrību un nodibinājumu nosaukums nedrīkst sakrist ar valsts vai pašvaldību institūciju (iestāžu) nosaukumiem, kā arī ietvert maldinošas ziņas par to, ka biedrība vai nodibinājums ir apveltīts ar publisku varu.\n(7) Biedrība vai nodibinājums, kura tiesības ir aizskartas, prettiesīgi izmantojot tā nosaukumu vai simboliku, var no aizskārēja prasīt, lai tas izbeidz izmantot šo nosaukumu vai simboliku, kā arī lai atlīdzina biedrībai vai nodibinājumam ar tā nosaukuma vai simbolikas prettiesīgu izmantošanu nodarītos zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "7",
+      "title": "Biedrības un nodibinājuma tiesības veikt saimniecisko darbību",
+      "content": "(1) Biedrībai un nodibinājumam ir tiesības papilddarbības veidā veikt saimniecisko darbību, kas saistīta ar sava īpašuma uzturēšanu vai izmantošanu, kā arī veikt citu saimniecisko darbību, lai sasniegtu biedrības un nodibinājuma mērķus.\n(2) Biedrības un nodibinājuma ienākumus drīkst izmantot vienīgi statūtos noteiktā mērķa sasniegšanai. Peļņu, kas gūta no biedrības un nodibinājuma veiktās saimnieciskās darbības, nedrīkst sadalīt starp biedrības biedriem vai nodibinājuma dibinātājiem."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "8",
+      "title": "Brīvprātīgā darba organizēšana",
+      "content": "Biedrības un nodibinājumi brīvprātīgo darbu organizē saskaņā ar Brīvprātīgā darba likumu ."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "9",
+      "title": "Atlīdzība par darbību biedrībā vai nodibinājumā",
+      "content": "Ja persona saņem atlīdzību (atalgojumu) par darbību biedrībā vai nodibinājumā, šī atlīdzība (atalgojums) nosakāma atbilstoši attiecīgās personas pienākumu apjomam un biedrības vai nodibinājuma finansiālajam stāvoklim."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "10",
+      "title": "Publiskā darbība",
+      "content": "(1) Biedrībai un nodibinājumam, lai sasniegtu statūtos noteikto mērķi, ir tiesības veikt darbību, kas nav pretrunā ar likumu, it īpaši brīvi izplatīt informāciju par savu darbību, izveidot savus preses izdevumus un citus masu informācijas līdzekļus, organizēt sapulces, gājienus un piketus, kā arī veikt citu publisko darbību.\n(1 1 ) Biedrībai un nodibinājumam savā darbībā aizliegts vērsties pret Latvijas Republikas neatkarību, teritoriālo nedalāmību, izteikt vai izplatīt priekšlikumus par Latvijas valsts iekārtas vardarbīgu grozīšanu, aicināt nepildīt likumus, ja to nepildīšana apdraud valsts drošību, sabiedrisko drošību vai kārtību, sludināt vardarbību vai terorismu, klaju nacisma, fašisma vai komunisma ideoloģiju, propagandēt karu, veikt darbības, kas vērstas uz nacionālā, etniskā, rasu, reliģiskā naida vai nesaticības izraisīšanu, slavēt vai aicināt izdarīt noziedzīgus nodarījumus.\n(2) Jautājumos, kas saistīti ar attiecīgās biedrības vai nodibinājuma darbības mērķi, biedrība un nodibinājums var vērsties valsts un pašvaldību institūcijās, kā arī tiesā un aizstāvēt savu biedru tiesības vai ar likumu aizsargātās intereses.\n(3) Biedrībām un nodibinājumiem, kuru statūtos noteiktie mērķi vērsti uz cilvēktiesību vai indivīda tiesību aizsardzību, ir tiesības ar aizskartās fiziskās personas piekrišanu vērsties iestādēs vai tiesā un aizstāvēt šīs personas tiesības vai likumiskās intereses lietās, kas saistītas ar atšķirīgas attieksmes aizlieguma pārkāpumu vai ar tādu personu nodarbināšanu, kuras nav tiesīgas uzturēties Latvijas Republikā.\n(4) Biedrības vai nodibinājuma vēršanās iestādē vai tiesā, aizstāvot tādu personu tiesības vai likumiskās intereses, kuras nav tiesīgas uzturēties Latvijas Republikā, nav uzskatāma par atbalstu nodrošināšanai ar iespēju nelikumīgi uzturēties Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "10.1",
+      "title": "10. 1 pants. Papildu pienākumu uzlikšana",
+      "content": "(1) Ja ir pamats uzskatīt, ka biedrības vai nodibinājuma rīcība ar finanšu līdzekļiem vai citiem mantiskiem labumiem ir vērsta uz kāda šā likuma 10. panta 1. 1 daļā minētā aizlieguma pārkāpumu, Valsts ieņēmumu dienests, pamatojoties uz valsts drošības iestādes motivētu atzinumu, pieņem lēmumu par šādu papildu pienākumu uzlikšanu biedrībai vai nodibinājumam uz vienu gadu no lēmuma paziņošanas dienas:\n1) iesniegt bilances, ieņēmumu un izdevumu pārskatus, ziedojumu un dāvinājumu pārskatus, detalizētu informāciju par izlietotajiem ziedojumiem un dāvinājumiem četras reizes gadā atbilstoši normatīvajiem aktiem, kas regulē gada pārskatu sagatavošanu;\n2) iesniegt noslēgto darījumu apliecinošus dokumentus;\n3) uzrādīt finansējuma avotus.\n(2) Lēmumu par papildu pienākumu uzlikšanu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "11",
+      "title": "Aizliegums veidot bruņotas vai militarizētas vienības",
+      "content": "Biedrībai un nodibinājumam ir aizliegts apbruņot savus biedrus vai citas personas, organizēt tiem militāras mācības un veidot militarizētas vienības."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "12",
+      "title": "Likumi, kas regulē citu bezpeļņas personu apvienību un nodibinājumu darbību",
+      "content": "Politisko partiju, reliģisko organizāciju, profesionālo organizāciju un to apvienību darbību, kuras ir publisko tiesību autonomi subjekti, kā arī publisko nodibinājumu (fondu) darbību regulē citi likumi."
+    },
+    {
+      "provision_ref": "Art. 12.1",
+      "chapter": "I nodaļa Pamatnoteikumi",
+      "section": "12.1",
+      "title": "12. 1 pants. Biedrību un nodibinājumu klasifikācija",
+      "content": "(1) Biedrības un nodibinājumi tiek klasificēti atbilstoši to darbības jomai.\n(2) Ministru kabinets nosaka biedrību un nodibinājumu:\n1) klasifikāciju atbilstoši to darbības jomai;\n2) darbības jomas pieteikšanas un maiņas kārtību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "13",
+      "title": "Biedrību un nodibinājumu reģistra vešana",
+      "content": "(1) Biedrību un nodibinājumu reģistrā (turpmāk arī — reģistrs) ieraksta ziņas par biedrībām un nodibinājumiem.\n(2) Reģistru ved ar likumu tam pilnvarota valsts iestāde (turpmāk arī — reģistra iestāde).\n(3) (Izslēgta no 01.07.2024. ar 22.02.2024 . likumu. Sk. pārejas noteikumu 11. punktu)"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "14",
+      "title": "Reģistra atklātums",
+      "content": "(1) Ikvienam ir tiesības iepazīties ar reģistra ierakstiem un reģistra iestādei iesniegtajiem dokumentiem.\n(2) Ikvienam pēc attiecīga rakstveida pieprasījuma iesniegšanas ir tiesības par maksu saņemt izziņu no reģistra ierakstiem, kā arī reģistra lietā esoša dokumenta izrakstu vai kopiju. Pēc saņēmēja pieprasījuma izraksta vai kopijas pareizība apliecināma ar reģistra iestādes amatpersonas parakstu un zīmogu, norādot tās izsniegšanas datumu.\n(3) Pēc saņēmēja pieprasījuma reģistra iestādes amatpersona izsniedz izziņu par to, ka noteikts reģistra ieraksts nav grozīts, vai arī par to, ka reģistrā nav izdarīts noteikts ieraksts."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "15",
+      "title": "Reģistrā ierakstāmās ziņas",
+      "content": "Reģistrā ieraksta šādas ziņas:\n1) biedrības vai nodibinājuma nosaukumu;\n2) biedrības vai nodibinājuma juridisko adresi;\n3) biedrības vai nodibinājuma mērķi, kā arī darbības jomu atbilstoši Ministru kabineta noteiktajai klasifikācijai;\n4) datumu, kad pieņemts lēmums par dibināšanu;\n5) valdes locekļu vārdu, uzvārdu, personas kodu (ja tāda nav, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi), norādot, vai viņiem ir tiesības pārstāvēt biedrību vai nodibinājumu atsevišķi vai kopīgi;\n6) biedrības vai nodibinājuma darbības termiņu, ja biedrība vai nodibinājums dibināts uz laiku;\n7) ziņas par biedrības vai nodibinājuma publiskās darbības vai citas darbības aizliegumu, darbības izbeigšanu, turpināšanu, biedrības vai nodibinājuma maksātnespējas procesa pasludināšanu un izbeigšanu, likvidāciju un reorganizāciju;\n8) ziņas par likvidatora iecelšanu, norādot viņa vārdu, uzvārdu, personas kodu (ja tāda nav, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un tiesības pārstāvēt biedrību vai nodibinājumu kopīgi vai atsevišķi;\n9) ziņas par administratora iecelšanu maksātnespējas procesa lietā, norādot administratora vārdu, uzvārdu, personas kodu (ja tāda nav, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un sertifikāta numuru;\n10) ieraksta izdarīšanas datumu;\n11) citas ziņas, ja to tieši paredz likums."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "16",
+      "title": "Reģistra iestādei iesniedzamie dokumenti un to glabāšana",
+      "content": "(1) Reģistra iestādei iesniedzami dokumenti, kas pamato ieraksta izdarīšanu reģistrā ( 15.pants ) un to grozījumus, kā arī citi likumā noteiktie dokumenti ( 95.panta ceturtā daļa). Reģistra iestādei iesniedz attiecīgā dokumenta oriģinālu vai tā attiecīgi apliecinātu kopiju. Ārvalstīs izdotus publiskus dokumentus legalizē starptautiskajos līgumos noteiktajā kārtībā, un tiem pievieno notariāli apliecinātu tulkojumu latviešu valodā.\n(2) Pēc reģistra iestādes pieprasījuma biedrība rakstveidā sniedz ziņas par tās biedru skaitu.\n(3) Reģistra iestādei iesniegtie dokumenti glabājas attiecīgās biedrības vai nodibinājuma reģistrācijas lietā, ja uz to pamata ir izdarīts ieraksts reģistrā.\n(4) (Izslēgta ar 23.03.2017 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "17",
+      "title": "Ieraksta izdarīšana reģistrā",
+      "content": "(1) Ieraksts reģistrā tiek izdarīts uz pieteikuma vai tiesas nolēmuma pamata.\n(2) Pieteikumu par biedrības vai nodibinājuma ierakstīšanu reģistrā paraksta visi dibinātāji vai vismaz divas dibināšanas sapulcē pilnvarotas personas, bet attiecībā uz testamentāro nodibinājumu — testamenta izpildītājs, mantinieks vai aizgādnis.\n(2 1 ) Ieraksta izdarīšanai reģistrā iesniedz pieteikumu, kurā norāda ziņas atbilstoši pieteikuma būtībai:\n1) pieteikumā par izmaiņu ierakstīšanu — ziņas par izmaiņu būtību un jaunās ziņas, kuras par biedrību vai nodibinājumu tiek pieteiktas ierakstīšanai reģistrā;\n2) pieteikumā par reorganizāciju — reorganizācijas veidu (ja biedrību vai nodibinājumu reorganizē sadalīšanas ceļā, norāda arī sadalīšanas veidu), katra reorganizācijā iesaistītā tiesību subjekta nosaukumu un reģistrācijas numuru, atbilstoši reorganizācijas veidam norādot, vai tiesību subjekts ir pievienojamais, sadalāmais vai iegūstošais;\n3) pieteikumā par darbības izbeigšanu — pieteiktā ieraksta būtību;\n4) pieteikumā par darbības turpināšanu — pieteiktā ieraksta būtību un šā likuma 15. panta 5. punktā minētās ziņas;\n5) pieteikumā par likvidācijas pabeigšanu un biedrības vai nodibinājuma izslēgšanu no reģistra — pieteiktā ieraksta būtību.\n(3) Lēmumu par ieraksta izdarīšanu reģistrā, atteikumu izdarīt ierakstu vai ieraksta izdarīšanas atlikšanu reģistra iestādes amatpersona pieņem septiņu dienu laikā no pieteikuma saņemšanas dienas. Tādā pašā termiņā reģistra iestādes amatpersona pieņem lēmumu par ieraksta izdarīšanu reģistrā uz tiesas nolēmuma pamata.\n(4) Lēmumu par ieraksta izdarīšanas atlikšanu reģistra iestādes amatpersona pieņem, ja:\n1) izstrādājot statūtus vai izvēloties nosaukumu, nav ievērotas šā likuma un citu likumu prasības;\n2) nav iesniegti visi likumā noteiktie dokumenti.\n(5) Lēmumu par atteikumu izdarīt ierakstu reģistra iestādes amatpersona pieņem, ja:\n1) statūtos noteiktais mērķis ir pretrunā ar Satversmi , likumiem vai Latvijai saistošiem starptautiskajiem līgumiem;\n2) pārkāpta šajā likumā noteiktā biedrības vai nodibinājuma dibināšanas kārtība;\n3) pēc tam, kad pieņemts lēmums par ieraksta izdarīšanas atlikšanu, noteiktajā termiņā (šā panta sestā daļa) nav novērsti trūkumi biedrības vai nodibinājuma statūtos vai nosaukumā.\n(6) Lēmumam par atteikumu izdarīt ierakstu reģistrā vai ieraksta izdarīšanas atlikšanu jābūt motivētam. Lēmumā par ieraksta izdarīšanas atlikšanu norāda termiņu trūkumu novēršanai.\n(7) Reģistra iestādes amatpersona šā panta trešajā daļā minēto lēmumu nosūta pieteikuma iesniedzējam triju dienu laikā no lēmuma pieņemšanas dienas.\n(8) Pieteikuma iesniedzējam ir tiesības apstrīdēt un pārsūdzēt reģistra iestādes amatpersonas lēmumu normatīvajos aktos noteiktajā kārtībā.\n(9) Ieraksts reģistrā izdarāms tajā pašā dienā, kad pieņemts lēmums par ieraksta izdarīšanu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "18",
+      "title": "Reģistrācijas apliecība",
+      "content": "(Izslēgts ar 22.02.2024 . likumu, kas stājas spēkā 20.03.2024. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "19",
+      "title": "Biedrības vai nodibinājuma izslēgšana no reģistra",
+      "content": "Biedrību vai nodibinājumu izslēdz no reģistra, pamatojoties uz:\n1) biedrības vai nodibinājuma likvidatora pieteikumu;\n2) maksātnespējīgās biedrības vai nodibinājuma administratora pieteikumu;\n3) biedrības vai nodibinājuma pieteikumu reorganizācijas ieraksta izdarīšanai;\n4) tiesas nolēmumu;\n5) reģistra iestādes lēmumu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "20",
+      "title": "Valsts nodeva un maksa par pakalpojumu",
+      "content": "(1) Par ieraksta izdarīšanu reģistrā maksājama valsts nodeva, kuras apmēru nosaka Ministru kabinets.\n(2) Par reģistra izraksta un reģistra lietā esoša dokumenta izraksta vai kopijas, kā arī par izziņas izsniegšanu maksā normatīvajos aktos noteiktajā apmērā.\n(3) Valsts nodeva par ieraksta izdarīšanu reģistrā nedrīkst pārsniegt administratīvos izdevumus, kas saistīti ar lēmuma pieņemšanu par reģistrāciju un attiecīgā ieraksta izdarīšanu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "21",
+      "title": "Ziņu iesniegšanas termiņš",
+      "content": "Ziņas, uz kuru pamata izdarāmi jauni ieraksti reģistrā, kā arī likumā noteiktie dokumenti iesniedzami reģistra iestādei 14 dienu laikā no attiecīgā lēmuma pieņemšanas dienas, ja šajā likumā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "II nodaļa Biedrību un nodibinājumu reģistrs",
+      "section": "22",
+      "title": "Atbildība par nepatiesu ziņu sniegšanu reģistra iestādei",
+      "content": "Par nepatiesu ziņu sniegšanu reģistra iestādei attiecīgās personas saucamas pie likumā paredzētās atbildības."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa Biedrības dibināšana",
+      "section": "23",
+      "title": "Dibinātāji",
+      "content": "(1) Par biedrības dibinātājiem var būt fiziskās un juridiskās personas, kā arī tiesībspējīgas personālsabiedrības, ja šā panta 1. 1 daļā nav noteikts citādi.\n(1 1 ) Par sporta organizācijas dibinātājiem var būt arī sporta izglītības iestādes Sporta likuma izpratnē, kurām nav juridiskās personas statusa.\n(2) Dibinātāju skaits nedrīkst būt mazāks par diviem."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa Biedrības dibināšana",
+      "section": "24",
+      "title": "Lēmums par biedrības dibināšanu",
+      "content": "(1) Lai nodibinātu biedrību, dibinātāji pieņem lēmumu par biedrības dibināšanu.\n(2) Lēmumā par biedrības dibināšanu norāda:\n1) biedrības nosaukumu;\n2) biedrības mērķi;\n3) dibinātāju vārdu, uzvārdu un personas kodu (ja tāda nav, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi), bet juridiskajai personai un personālsabiedrībai — nosaukumu, reģistrācijas numuru un juridisko adresi;\n4) dibinātāju tiesības un pienākumus, ja dibinātāji par tādiem ir vienojušies;\n5) pilnvarojumu (ja tāds ir dots) atsevišķiem dibinātājiem parakstīt statūtus un pieteikumu reģistra iestādei;\n6) citas ziņas, kuras dibinātāji uzskata par nepieciešamām.\n(3) Pēc tam, kad ir pieņemts lēmums par biedrības dibināšanu, dibinātāji apstiprina biedrības statūtus, ievēlē biedrības izpildinstitūciju (turpmāk — valde), kura var būt koleģiāla vai vienpersoniska, un citas institūcijas, ja tādas paredzētas statūtos.\n(4) Lēmumu par biedrības dibināšanu sagatavo rakstveidā, un to paraksta visi biedrības dibinātāji. Dibinātāja vārdā lēmumu var parakstīt viņa pilnvarota persona, kas piedalījusies lēmuma pieņemšanā. Rakstveida pilnvara pievienojama lēmumam."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa Biedrības dibināšana",
+      "section": "25",
+      "title": "Biedrības statūti",
+      "content": "(1) Biedrības statūtus sagatavo rakstveidā.\n(2) Statūtos norāda:\n1) biedrības nosaukumu;\n2) biedrības mērķi;\n3) biedrības darbības termiņu (ja biedrība tiek dibināta uz noteiktu laiku);\n4) biedru iestāšanās un izstāšanās priekšnoteikumus;\n5) biedru tiesības un pienākumus;\n6) kārtību, kādā var noteikt biedrības teritoriālo un citu struktūrvienību (ja tādas tiek dibinātas) tiesības un pienākumus;\n7) biedru sapulces sasaukšanas un lēmumu pieņemšanas kārtību;\n8) izpildinstitūcijas nosaukumu, tās skaitlisko sastāvu, nosakot izpildinstitūcijas locekļu tiesības pārstāvēt biedrību atsevišķi vai kopīgi;\n9) saimnieciskās un finansiālās darbības revīzijas institūcijas uzbūvi, ievēlēšanas kārtību, kompetenci, lēmumu pieņemšanas kārtību un pilnvaru termiņus vai zvērināta revidenta iecelšanas kārtību un pilnvaru termiņus.\n(3) Statūtos var paredzēt citus noteikumus, kas nav pretrunā ar likumu. Ja statūti ir pretrunā ar likumu, piemērojami likuma noteikumi.\n(4) Statūtus paraksta visi dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji, un statūtos norāda to apstiprināšanas datumu."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "III nodaļa Biedrības dibināšana",
+      "section": "26",
+      "title": "Pieteikums par biedrības ierakstīšanu reģistrā",
+      "content": "(1) Dibinātāji iesniedz reģistra iestādei pieteikumu par biedrības ierakstīšanu reģistrā. Pieteikumā norāda šā likuma 15.panta 1.-6. punktā minētās ziņas.\n(2) Pieteikumam pievieno:\n1) lēmumu par biedrības dibināšanu;\n2) statūtus;\n3) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli.\n(3) Pieteikumu paraksta visi dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "III nodaļa Biedrības dibināšana",
+      "section": "27",
+      "title": "Atbildība par saistībām, kuras radušās pirms biedrības ierakstīšanas reģistrā",
+      "content": "(1) Dibinātājs, kurš dibināmās biedrības vārdā rīkojies pirms biedrības ierakstīšanas reģistrā, atbild par saistībām, kas izriet no šīs rīcības. Ja dibināmās biedrības vārdā rīkojušies vairāki dibinātāji, viņi atbild solidāri.\n(2) Šā panta pirmajā daļā minētās saistības pāriet biedrībai ar brīdi, kad tā ierakstīta reģistrā, ja dibinātājam bija tiesības rīkoties dibināmās biedrības vārdā.\n(3) Ja dibinātājam nav bijis tiesību rīkoties biedrības vārdā, saistības, kas izriet no šādas rīcības, pāriet biedrībai, ja biedru sapulce noteikti apstiprina šīs saistības."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Biedri",
+      "section": "28",
+      "title": "Minimālais biedru skaits",
+      "content": "(1) Biedrība sastāv vismaz no diviem biedriem, ja statūti nenosaka lielāku biedru skaitu. Pēc biedrības ierakstīšanas reģistrā biedrības dibinātāji iegūst biedrības biedra statusu.\n(2) Ikviena biedrība ved savu biedru reģistru, kurā norādīts katra biedra vārds, uzvārds, personas kods (ja tāda nav, — dzimšanas datums, personu apliecinoša dokumenta numurs un izdošanas datums, valsts un institūcija, kas dokumentu izdevusi) un dzīvesvietas adrese (juridiskās personas nosaukums un adrese). Informācija par biedrības biedriem ir pieejama tikai attiecīgās biedrības biedriem, kā arī kontrolējošām un tiesībaizsardzības institūcijām."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa Biedri",
+      "section": "29",
+      "title": "Biedra dalība biedrībā",
+      "content": "(1) Valde pieņem lēmumu par biedra uzņemšanu biedrībā, ja vien statūti nenosaka citādi.\n(2) Ja valde vai cita institūcija (izņemot biedru sapulci), kuras kompetencē ir biedru uzņemšana, pieņem lēmumu par atteikumu uzņemt biedru, personai, kura vēlas kļūt par biedru, ir tiesības prasīt jautājuma izskatīšanu statūtos noteiktajā kārtībā.\n(3) Saistības biedriem nosakāmas tikai saskaņā ar statūtos paredzēto kārtību.\n(4) Biedra dalība biedrībā nav nododama trešajām personām vai mantojama, ja vien likums nenosaka citādi. Biedra dalība izbeidzas līdz ar izstāšanos vai izslēgšanu no biedrības, kā arī biedra — fiziskās personas nāvi vai biedra — juridiskās personas izbeigšanos.\n(5) Biedra — juridiskās personas dalība saglabājas, ja juridiskā persona tiek reorganizēta, pārveidojot to likumā noteiktajā kārtībā. Ja juridiskā persona tiek reorganizēta, to apvienojot ar citu subjektu vai sadalot, šīs personas dalība biedrībā izbeidzas.\n(6) Reorganizējot biedru — juridisko personu nodalīšanas ceļā, sadalāmās juridiskās personas dalība biedrībā saglabājas.\n(7) Ar juridisko personu šā panta ceturtās, piektās un sestās daļas izpratnē saprotama arī tiesībspējīga personālsabiedrība.\n(8) Biedrības darbībā var piedalīties personas ar īpašu statusu (biedru kandidāti, goda biedri, asociētie biedri, vecbiedri u.tml.), kuru tiesības un pienākumus nosaka statūti.\n(9) Ja sporta organizācijas dibinātājs vai vēlāk uzņemtais biedrs ir sporta izglītības iestāde Sporta likuma izpratnē, kurai nav juridiskās personas statusa, attiecībā uz šāda biedra dalību biedrībā pēc analoģijas piemērojami šā likuma noteikumi, kas reglamentē biedrības biedra — juridiskās personas — dalību biedrībā."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa Biedri",
+      "section": "30",
+      "title": "Izstāšanās no biedrības",
+      "content": "Biedrs var jebkurā laikā izstāties no biedrības, iesniedzot rakstveida paziņojumu biedrības valdei, ja statūtos nav noteikts, ka šāds paziņojums iesniedzams citai pārvaldes institūcijai."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa Biedri",
+      "section": "31",
+      "title": "Izslēgšana no biedrības",
+      "content": "(1) Biedru var izslēgt no biedrības, pamatojoties uz valdes vai citas institūcijas lēmumu statūtos noteiktajos gadījumos un kārtībā. Statūtos var noteikt, ka biedru var izslēgt no biedrības, pamatojoties uz biedru sapulces lēmumu.\n(2) Neatkarīgi no statūtu noteikumiem biedru var izslēgt no biedrības, ja tam ir svarīgs iemesls. Par svarīgu iemeslu jebkurā gadījumā uzskatāms rupjš statūtu pārkāpums vai būtiska kaitējuma nodarīšana biedrībai.\n(3) Biedrības valdei ir pienākums piecu dienu laikā rakstveidā paziņot biedram lēmumu par viņa izslēgšanu no biedrības un šā lēmuma motivāciju (pamatojumu).\n(4) Ja lēmumu par biedra izslēgšanu pieņem valde vai cita institūcija, biedram ir tiesības prasīt jautājuma izskatīšanu biedru sapulcē."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Biedri",
+      "section": "32",
+      "title": "Biedra dalības izbeigšanās sekas",
+      "content": "(1) Ja biedra dalība biedrībā izbeidzas, statūtos paredzētā un iemaksātā biedra nauda viņam netiek atmaksāta.\n(2) Personai, kuras dalība biedrībā izbeigusies, nav tiesību uz biedrības īpašumu.\n(3) (Izslēgta ar 21.10.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "33",
+      "title": "Biedrības pārvaldes institūcijas",
+      "content": "(1) Biedrības pārvaldes institūcijas ir biedru sapulce (kopsapulce) un valde.\n(2) Papildus šā panta pirmajā daļā minētajām pārvaldes institūcijām statūtos var paredzēt pārstāvju sapulci ( 41.pants ), kā arī citas pārvaldes institūcijas, nosakot to izveides kārtību un kompetenci."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "34",
+      "title": "Biedru sapulce",
+      "content": "(1) Biedrības augstākā institūcija ir biedru sapulce.\n(2) Visiem biedrības biedriem ir tiesības piedalīties biedru sapulcē, ja likumā nav noteikts citādi. Biedrs var piedalīties biedru sapulcē arī ar pārstāvja starpniecību, ja biedrības statūtos nav noteikts citādi. Pilnvara piedalīties un balsot biedru sapulcē izdodama rakstveidā."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "35",
+      "title": "Biedru sapulces kompetence",
+      "content": "(1) Biedru sapulces kompetencē ietilpst:\n1) grozījumu izdarīšana statūtos;\n2) valdes un revīzijas institūciju locekļu ievēlēšana un atsaukšana, ja statūtos šādas tiesības nav piešķirtas citai pārvaldes institūcijai;\n3) lēmuma pieņemšana par biedrības darbības izbeigšanu, turpināšanu vai reorganizāciju;\n4) citi jautājumi, kuri saskaņā ar likumu vai statūtiem ir biedru sapulces kompetencē.\n(2) Biedru sapulcei ir tiesības pieņemt arī tādus lēmumus, kas ietilpst valdes un citu statūtos paredzēto institūciju kompetencē, ja statūtos nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "36",
+      "title": "Biedru sapulces sasaukšana",
+      "content": "(1) Valde sasauc biedru sapulci saskaņā ar likumā vai statūtos noteikto kārtību likumā vai statūtos noteiktajos gadījumos vai tad, ja biedru sapulces sasaukšana nepieciešama biedrības interesēs.\n(2) Valde nekavējoties (bez vainojamas vilcināšanās) sasauc biedru sapulci, ja to rakstveidā, norādot sasaukšanas iemeslu, prasa ne mazāk kā viena desmitdaļa biedru un ja statūtos nav noteikts mazāks biedru skaits.\n(3) Ja valde nesasauc biedru sapulci, pamatojoties uz šā panta otro daļu, biedri, kuri prasa sapulces sasaukšanu, var patstāvīgi sasaukt biedru sapulci, ievērojot noteikto sapulces sasaukšanas kārtību.\n(4) Par biedru sapulces sasaukšanu, ja tajā paredzēts lemt par 35.panta pirmās daļas 1.-3.punktā minētajiem jautājumiem, valde biedriem paziņo un tās darba kārtību dara zināmu vismaz 14 dienas pirms sapulces sasaukšanas, ja statūtos nav noteikts garāks termiņš."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "37",
+      "title": "Biedru sapulces norise",
+      "content": "(1) Biedru sapulce ir lemttiesīga, ja tajā piedalās vairāk nekā puse no biedriem, ja statūtos nav noteikts citādi. Attiecībā uz grozījumu izdarīšanu statūtos biedru sapulce ir lemttiesīga, ja tajā piedalās vairāk nekā puse no biedriem, ja statūtos nav noteikts lielāks kvorums.\n(2) Ja biedru sapulcei nav tiesību pieņemt lēmumus saskaņā ar šā panta pirmo daļu, valde ne vēlāk kā pēc piecām nedēļām, ievērojot šā likuma 36.panta ceturtās daļas noteikumus, no jauna sasauc biedru sapulci ar tādu pašu darba kārtību. Sasauktā biedru sapulce ir tiesīga pieņemt lēmumus neatkarīgi no klātesošo biedru skaita, bet tikai tādā gadījumā, ja biedru sapulcē piedalās vismaz divi biedri.\n(3) Ja, sasaucot sapulci, ir pārkāpti likuma vai statūtu noteikumi par sapulces sasaukšanas kārtību un termiņiem, biedru sapulce nav tiesīga pieņemt lēmumus, izņemot gadījumus, kad biedru sapulcē piedalās visi biedri.\n(4) Biedru sapulci vada valdes priekšsēdētājs, ja biedri neievēlē citu sapulces vadītāju. Biedru sapulces gaita tiek protokolēta. Protokolu paraksta sapulces vadītājs un protokolists.\n(4 1 ) Biedru sapulces protokolā norāda:\n1) biedrības nosaukumu;\n2) institūciju (personu), kura sasauc biedru sapulci;\n3) biedru sapulces norises vietu un laiku un, ja biedru sapulce notiek attālināti, — arī informāciju par to, ka biedru sapulce notiek attālināti, izmantojot elektroniskos saziņas līdzekļus;\n4) laiku, kad biedriem paziņots par biedru sapulces sasaukšanu, un paziņošanas veidu;\n5) biedrības kopējo biedru skaitu un, ja sapulcē saskaņā ar biedrības statūtiem piedalās biedru pārstāvji, — biedru pārstāvju kopējo skaitu, kāds nepieciešams, lai būtu pārstāvēti visi biedri;\n6) sapulcē klātesošo biedru (biedru pārstāvju) skaitu;\n6 1 ) to biedru skaitu, kuri izmantojuši tiesības balsot pirms biedru sapulces;\n7) darba kārtības jautājumus;\n8) darba kārtības jautājumu apspriešanas gaitu un saturu;\n9) balsošanas rezultātus, norādot balsu skaitu “par” vai “pret” par katru lēmumu;\n10) pieņemtos lēmumus.\n(5) Biedru sapulces notiek atklāti, ja motivētu lēmumu par citādu sapulces norises kārtību nepieņem biedru sapulce."
+    },
+    {
+      "provision_ref": "Art. 37.1",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "37.1",
+      "title": "37. 1 pants. Attālinātā dalība un balsošana biedru sapulcē",
+      "content": "(1) Par biedru sapulces darba kārtībā iekļautajiem jautājumiem biedram ir tiesības balsot rakstveidā (arī izmantojot elektroniskos saziņas līdzekļus) pirms biedru sapulces, savu balsojumu nosūtot biedrībai ne vēlāk kā dienu pirms biedru sapulces norises dienas, ja statūtos nav noteikts citādi. Valde nosaka biedru identifikācijas un šo tiesību izmantošanas kārtību, ja statūtos nav noteikts citādi.\n(2) Biedrs, kurš balsojis pirms biedru sapulces, var lūgt biedrību apstiprināt balsojuma saņemšanu. Tādā gadījumā biedrība pēc balsojuma saņemšanas nekavējoties nosūta biedram apstiprinājumu.\n(3) Biedram ir tiesības piedalīties un balsot biedru sapulcē, izmantojot elektroniskos saziņas līdzekļus, ja statūtos nav noteikts citādi. Valde nosaka biedru identifikācijas un šo tiesību izmantošanas kārtību, ja statūtos nav noteikts citādi.\n(4) Biedra tiesības balsot pirms biedru sapulces vai piedalīties un balsot biedru sapulcē, izmantojot elektroniskos saziņas līdzekļus, neierobežo biedra tiesības piedalīties un balsot biedru sapulcē klātienē.\n(5) Biedrs, kurš balsojis pirms biedru sapulces, drīkst balsot biedru sapulcē klātienē vai izmantojot elektroniskos saziņas līdzekļus. Tādā gadījumā pirms biedru sapulces nodotā balss ir anulējama.\n(6) Biedrs, kurš balso pirms biedru sapulces vai piedalās un balso biedru sapulcē, izmantojot elektroniskos saziņas līdzekļus, ir uzskatāms par klātesošu biedru sapulcē. Valde sastāda to biedru sarakstu, kuri balsojuši pirms biedru sapulces, un pirms balsojuma iepazīstina ar to biedru sapulces dalībniekus."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "38",
+      "title": "Biedru sapulces lēmumi",
+      "content": "(1) Biedru sapulces lēmums ir pieņemts, ja par to nobalso vairāk nekā puse no klātesošajiem biedriem, ja likumā vai statūtos nav noteikts lielāks balsu skaits.\n(2) Katram biedram biedru sapulcē ir viena balss. Biedram nav balsstiesību, ja biedru sapulce lemj par darījuma noslēgšanu ar šo biedru vai prasības celšanu vai lietas izbeigšanu pret šo biedru.\n(3) Lai grozītu vai izbeigtu biedra tiesības, kas atšķiras no citu biedru tiesībām, vai noteiktu biedram saistības, kas atšķiras no citu biedru saistībām, nepieciešama šā biedra piekrišana."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "39",
+      "title": "Statūtu grozījumi",
+      "content": "(1) (Izslēgta ar 21.01.2010 . likumu)\n(2) Statūtu grozījumi stājas spēkā ar to pieņemšanas brīdi, ja statūtos vai lēmumā nav noteikts citādi, bet attiecībā uz trešajām personām — tikai pēc statūtu grozījumu reģistrēšanas reģistrā.\n(3) Statūtu grozījumus piesaka reģistra iestādei, pievienojot biedru sapulces protokola izrakstu vai balsošanas protokola izrakstu ar lēmumu par grozījumiem statūtos un pilnu statūtu tekstu jaunajā redakcijā."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "40",
+      "title": "Biedru sapulces lēmuma atzīšana par spēkā neesošu",
+      "content": "(1) Tiesa, pamatojoties uz biedrības biedra, valdes locekļa, revidenta (arī citas institūcijas, ja tas noteikts statūtos) pieteikumu, var atzīt biedru sapulces lēmumu par spēkā neesošu, ja šāds lēmums vai tā pieņemšanas procedūra ir pretrunā ar likumu vai statūtiem vai ir pieļauti būtiski pārkāpumi sapulces sasaukšanā vai lēmuma pieņemšanā. Prasību var celt triju mēnešu laikā no dienas, kad attiecīgā persona uzzināja vai tai vajadzēja uzzināt par biedru sapulces lēmumu, bet ne vēlāk par gadu no lēmuma pieņemšanas dienas.\n(2) Saskaņā ar šā panta pirmās daļas noteikumiem tiesa var atzīt par spēkā neesošiem arī citu biedrības institūciju lēmumus."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "41",
+      "title": "Pārstāvju sapulce",
+      "content": "(1) Statūtos var noteikt, ka biedru sapulces pienākumus statūtos noteiktajā apjomā pilda no biedru kopskaita ievēlēta pārstāvju sapulce. Pārstāvības normu, pārstāvju izvirzīšanas un ievēlēšanas kārtību nosaka valde, ja statūtos nav noteikts citādi. Visiem biedrības biedriem ir tiesības piedalīties pārstāvju vēlēšanās.\n(2) Šā likuma noteikumi par biedru sapulci piemērojami attiecībā uz pārstāvju sapulci, ja likumā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "42",
+      "title": "Valde",
+      "content": "(1) Valde vada un pārstāv biedrību.\n(2) Valdē var būt viens loceklis vai vairāki locekļi.\n(3) Par valdes locekļiem var būt pilngadīgas fiziskās personas, kuru rīcībspēju nav ierobežojusi tiesa.\n(4) (Izslēgta ar 23.09.2004 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "43",
+      "title": "Valdes kompetence",
+      "content": "(1) Valde pārzina un vada biedrības lietas. Tā pārvalda biedrības mantu un rīkojas ar tās līdzekļiem atbilstoši likumiem, statūtiem, biedru sapulces vai citu institūciju lēmumiem.\n(2) Valde organizē biedrības grāmatvedības uzskaiti saskaņā ar normatīvajiem aktiem un veic citus pienākumus saskaņā ar statūtos noteikto kompetenci."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "44",
+      "title": "Valdes pārstāvības tiesības",
+      "content": "(1) Visiem valdes locekļiem ir pārstāvības tiesības. Valdes locekļi pārstāv biedrību kopīgi, ja statūtos nav noteikts citādi.\n(2) Valdes pārstāvības tiesības attiecībā uz trešajām personām nevar ierobežot. Statūtos noteiktās valdes locekļu tiesības pārstāvēt biedrību kopīgi vai atsevišķi nav uzskatāmas par valdes pārstāvības tiesību ierobežojumu šā panta izpratnē.\n(3) Attiecībā uz biedrību valdei ir jāievēro pārstāvības ierobežojumi, kas noteikti statūtos, biedru sapulces un citu statūtos noteikto institūciju lēmumos."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "45",
+      "title": "Valdes locekļu ievēlēšana, atsaukšana un tiesības atstāt amatu",
+      "content": "(1) Valdes locekļus ievēlē ar biedru sapulces lēmumu, ja statūtos nav noteikts citādi.\n(1 1 ) Ja valdes sastāvā ir vairāki locekļi, biedru sapulce no valdes locekļu vidus ievēlē valdes priekšsēdētāju. Statūtos var noteikt, ka valdes priekšsēdētāju ievēlē valde vai valdes darbību pārraugoša institūcija, ja tāda izveidota.\n(2) Valdes locekli var atsaukt institūcija, kas šo valdes locekli ievēlējusi, vai biedru sapulce.\n(3) Statūtos var paredzēt, ka valdes locekli var atsaukt tikai tad, ja tam ir svarīgs iemesls. Par šādu iemeslu jebkurā gadījumā uzskatāma pienākumu neizpilde vai nepienācīga izpilde, nespēja vadīt biedrību, kaitējuma nodarīšana biedrības interesēm, kā arī uzticības zaudēšana.\n(4) Valdes loceklim nav tiesību nodot savas pilnvaras trešajām personām.\n(5) Valdes loceklis var jebkurā laikā iesniegt biedrībai paziņojumu par valdes locekļa amata atstāšanu.\n(6) Valdes locekļa ievēlēšana vai viņa pilnvaru izbeigšanās piesakāma ierakstīšanai reģistrā, pieteikumam pievienojot biedru sapulces vai citas statūtos noteiktās institūcijas protokola izrakstu ar lēmumu par valdes locekļa ievēlēšanu, pievienojot tam valdes locekļa rakstveida piekrišanu būt par valdes locekli, vai viņa atsaukšanu."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "46",
+      "title": "Valdes lēmumu pieņemšana",
+      "content": "(1) Valde ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse no valdes locekļiem un ja statūtos nav noteikts lielāks kvorums.\n(2) Ja valdē ir vairāki locekļi, lēmumu pieņem ar klātesošo valdes locekļu vienkāršu balsu vairākumu, ja statūtos nav noteikts lielāks balsu vairākums.\n(3) Neatkarīgi no šā panta pirmās un otrās daļas noteikumiem valde ir tiesīga pieņemt lēmumus bez sēdes sasaukšanas, ja visi valdes locekļi rakstveidā nobalso par lēmuma pieņemšanu un ja statūtos nav noteikts citādi.\n(4) Biedrības valdes sēdes tiek protokolētas. Protokolā obligāti ieraksta pieņemtos lēmumus, norādot katra valdes locekļa balsojumu \"par\" vai \"pret\" par katru lēmumu."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "47",
+      "title": "Atlīdzība un izdevumu segšana",
+      "content": "(1) Valdes loceklis pilda savus pienākumus bez atlīdzības, ja statūtos nav noteikts citādi.\n(2) Ja statūtos paredzētas valdes locekļa tiesības saņemt atlīdzību, tās apmēru un izmaksas kārtību nosaka ar biedru sapulces lēmumu, ja statūtos nav noteikts citādi.\n(3) Valdes loceklis var prasīt tādu izdevumu segšanu, kuri radušies viņa pienākumu izpildes gaitā, ja statūtos nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "48",
+      "title": "Citas biedrības institūcijas",
+      "content": "Statūtos var noteikt, ka papildus valdei izveidojama cita institūcija atsevišķu darbību veikšanai ar statūtos noteiktu iecelšanas (ievēlēšanas) kārtību un kompetenci."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "49",
+      "title": "Valdes un citu institūciju locekļu atbildība",
+      "content": "(1) Valdes un citu institūciju locekļi ir solidāri atbildīgi par zaudējumiem, kas nodarīti biedrībai viņu vainas dēļ.\n(2) Biedrība var celt prasību pret valdes vai citas institūcijas locekli piecu gadu laikā, skaitot no tiesību aizskāruma dienas vai dienas, kad kļuva zināms par tiesību aizskārumu."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "50",
+      "title": "Biedrības struktūrvienības",
+      "content": "(1) Biedrībai var būt savas teritoriālas un citas organizatoriski patstāvīgas struktūrvienības. Biedrības struktūrvienības nav juridiskās personas.\n(2) Ja biedrības struktūrvienībai ir sava biedru sapulce un valde, attiecībā uz tām piemērojami šā likuma 33. , 34. , 36. - 38. , 40. - 43. , 45. - 47. un 49.panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "51",
+      "title": "Biedru sapulces kontroles tiesības",
+      "content": "(1) Valde nodrošina biedrības biedrus ar nepieciešamajām ziņām un dokumentiem, kas attiecas uz biedrības darbību, kā arī sagatavo attiecīgu pārskatu pēc viņu pieprasījuma.\n(2) Biedru sapulce kontrolē citu pārvaldes institūciju darbību. Šim nolūkam biedru sapulce ir tiesīga noteikt biedrības iekšējo revīziju.\n(3) Valdes locekļiem ir pienākums sniegt revīzijas institūcijai visas revīzijas veikšanai nepieciešamās ziņas un dokumentus.\n(4) Revidents sagatavo atzinumu par revīzijas rezultātiem, kas tiek iesniegts biedru sapulcei."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "V nodaļa Biedrības organizatoriskā struktūra",
+      "section": "52",
+      "title": "Biedrības gada pārskats",
+      "content": "(1) Pēc pārskata gada beigām valde saskaņā ar Grāmatvedības likumu un citiem normatīvajiem aktiem grāmatvedības kārtošanas un pārskatu sagatavošanas jomā sagatavo biedrības gada pārskatu.\n(2) Biedrības gada pārskatu pārbauda saimnieciskās un finansiālās darbības revīzijas institūcija vai zvērināts revidents. Biedrības biedriem ir tiesības iepazīties ar gada pārskatu.\n(3) Katru gadu ne vēlāk kā līdz 31. martam biedrība gada pārskatu normatīvajos aktos par pārskatu sagatavošanu un iesniegšanu noteiktajā kārtībā iesniedz Valsts ieņēmumu dienestam. Ministru kabinets nosaka, kādos gadījumos kopā ar gada pārskatu iesniedzams saimnieciskās un finansiālās darbības revīzijas institūcijas vai zvērināta revidenta ziņojums."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "53",
+      "title": "Biedrības darbības izbeigšanās pamati",
+      "content": "Biedrības darbība izbeidzas:\n1) ar biedru sapulces lēmumu;\n2) uzsākot biedrības bankrota procedūru;\n3) biedru skaitam samazinoties līdz vienam biedram vai citam statūtos noteiktajam skaitam;\n4) izbeidzoties statūtos noteiktajam termiņam (ja biedrība dibināta uz noteiktu laiku);\n4 1 ) ar reģistra iestādes lēmumu;\n4 2 ) ar Valsts ieņēmumu dienesta lēmumu;\n5) ar tiesas nolēmumu;\n6) uz cita likumā vai statūtos noteiktā pamata."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "54",
+      "title": "Biedrības darbības izbeigšana ar biedru sapulces lēmumu",
+      "content": "Biedru sapulces lēmums par biedrības darbības izbeigšanu ir pieņemts, ja par to nobalso vairāk nekā divas trešdaļas no klātesošajiem biedriem un ja statūtos nav noteikts lielāks balsu vairākums."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "55",
+      "title": "Biedrības darbības izbeigšana, uzsākot bankrota procedūru",
+      "content": "Kārtību, kādā izbeidzama biedrības darbība bankrota gadījumā, nosaka Maksātnespējas likums ."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "56",
+      "title": "Biedrības darbības izbeigšana ar valdes lēmumu",
+      "content": "Ja biedru skaits samazinās līdz vienam biedram vai citam statūtos noteiktajam skaitam, kā arī tad, ja izbeidzas statūtos noteiktais termiņš, uz kādu biedrība bija dibināta, lēmumu par darbības izbeigšanu pieņem biedrības valde. Ja biedrības darbību izbeidz ar valdes lēmumu, pieteikumam par darbības izbeigšanu pievieno valdes lēmumu."
+    },
+    {
+      "provision_ref": "Art. 56.1",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "56.1",
+      "title": "56. 1 pants. Biedrības darbības izbeigšana ar reģistra iestādes vai Valsts ieņēmumu dienesta lēmumu",
+      "content": "(1) Biedrības darbību var izbeigt ar reģistra iestādes lēmumu, ja:\n1) biedrības valdei ilgāk par diviem gadiem nav pārstāvības tiesību un biedrība sešu mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādīto trūkumu;\n2) biedrība nav sasniedzama tās juridiskajā adresē un sešu mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādīto trūkumu.\n(2) Biedrības darbību var izbeigt ar Valsts ieņēmumu dienesta lēmumu, ja biedrība triju mēnešu laikā pēc administratīvā soda uzlikšanas nav iesniegusi gada pārskatu un kopš pārkāpuma izdarīšanas ir pagājuši vismaz divi gadi.\n(3) Reģistra iestādes vai Valsts ieņēmumu dienesta lēmums par biedrības darbības izbeigšanu stājas spēkā brīdī, kad tas paziņots adresātam. Reģistra iestāde pēc tam, kad tās vai Valsts ieņēmumu dienesta lēmums par biedrības darbības izbeigšanu ir kļuvis neapstrīdams, izdara reģistrā ierakstu par biedrības darbības izbeigšanu.\n(4) Ja biedrības darbība izbeigta ar reģistra iestādes vai Valsts ieņēmumu dienesta lēmumu, biedrības likvidācijā ieinteresēta persona ir tiesīga šā likuma 59. 1 pantā noteiktajā kārtībā pieteikt reģistra iestādei likvidatoru."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "57",
+      "title": "Biedrības darbības izbeigšana ar tiesas nolēmumu",
+      "content": "(1) Biedrības darbību, pamatojoties uz tiesas nolēmumu, var izbeigt:\n1) ja biedrības darbība apdraud valsts drošību, sabiedrisko drošību vai kārtību vai citādi ir pretrunā ar Satversmi , likumiem vai citiem normatīvajiem aktiem;\n2) ja par biedrības pamatdarbību kļuvusi saimnieciskā darbība, kam ir peļņas gūšanas raksturs;\n3) ja biedrības valde nav iesniegusi pieteikumu par biedrības darbības izbeigšanu saskaņā ar šo likumu;\n4) citos likumā noteiktajos gadījumos.\n(2) Pieteikumu tiesā var iesniegt prokurors vai Valsts ieņēmumu dienests, ja biedrība:\n1) pēc Valsts ieņēmumu dienesta vai prokurora rakstveida brīdinājuma vai prokurora iesnieguma saņemšanas attiecīgajā brīdinājumā vai prokurora iesniegumā noteiktajā termiņā nav novērsusi pārkāpumus. Termiņš pārkāpumu novēršanai nosakāms ne īsāks par 15 dienām un ne garāks par trim mēnešiem, izņemot šā likuma 57. 3 panta pirmajā daļā minēto gadījumu, kad prokurors termiņu nosaka iesniegumā;\n2) gada laikā pēc brīdinājuma saņemšanas atkārtoti izdara pārkāpumu, it īpaši savā publiskajā darbībā;\n3) ir pārkāpusi šā likuma 10. panta 1. 1 daļā noteikto aizliegumu;\n4) nav izpildījusi saskaņā ar šā likuma 10. 1 panta pirmo daļu uzliktos papildu pienākumus.\n(3) Tiesa, ņemot vērā biedrības izdarītā pārkāpuma smagumu un sekas, kā arī vērtējot biedrības mērķi un darbību kopumā, var aprobežoties ar brīdinājuma izteikšanu biedrībai, neizbeidzot tās darbību."
+    },
+    {
+      "provision_ref": "Art. 57.1",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "57.1",
+      "title": "57. 1 pants. Aizliegums biedrībai veikt publisko darbību vai citu darbību",
+      "content": "(1) Pēc Valsts ieņēmumu dienesta vai prokurora motivēta pieteikuma tiesa var aizliegt biedrībai līdz galīgā nolēmuma pieņemšanai lietā veikt publisko darbību vai citu darbību. Izskatīt jautājumu par biedrības publiskās darbības vai citas darbības aizlieguma noteikšanu pieļaujams jebkurā procesa stadijā, kā arī pirms prasības par biedrības darbības izbeigšanu celšanas tiesā.\n(2) Pieteikumu par biedrības publiskās darbības vai citas darbības aizliegumu tiesa vai tiesnesis izlemj 15 dienu laikā pēc pieteikuma saņemšanas vai lietas ierosināšanas dienas, ja pieteikums iesniegts vienlaikus ar prasības pieteikumu par biedrības darbības izbeigšanu, iepriekš par to paziņojot biedrībai. Biedrības pārstāvju neierašanās nav šķērslis pieteikuma izskatīšanai.\n(3) Ja kavēšanās pieņemt lēmumu par biedrības publiskās darbības vai citas darbības aizliegumu varētu radīt valsts vai sabiedriskās drošības apdraudējumu, pieteikumu par biedrības publiskās darbības vai citas darbības aizliegumu tiesa vai tiesnesis izlemj ne vēlāk kā nākamajā darbdienā pēc pieteikuma saņemšanas, iepriekš par to nepaziņojot lietas dalībniekiem. Ja lēmums par biedrības publiskās darbības vai citas darbības aizliegumu pieņemts bez biedrības pārstāvju klātbūtnes, biedrībai paziņo šo lēmumu ne vēlāk kā minētā lēmuma izpildes brīdī.\n(4) Ja pieteikums par biedrības publiskās darbības aizlieguma noteikšanu iesniegts pirms šā likuma 57. 3 pantā minētās prasības, tiesa vai tiesnesis piemēro šā likuma 57. 3 panta ceturtās un piektās daļas noteikumus.\n(5) Apmierinot pieteikumu par biedrības publiskās darbības vai citas darbības aizliegumu pirms prasības par biedrības darbības izbeigšanu celšanas tiesā, tiesa vai tiesnesis nosaka Valsts ieņēmumu dienestam vai prokuroram termiņu prasības pieteikuma iesniegšanai tiesā, ne ilgāku par diviem mēnešiem. Ja tiesas noteiktajā termiņā prasība nav celta, tiesa vai tiesnesis pieņem lēmumu par biedrības publiskās darbības vai citas darbības aizlieguma atcelšanu.\n(6) Lēmumā par biedrības publiskās darbības vai citas darbības aizliegumu tiesnesis norāda biedrības publisko darbību vai citu darbību, kura tiek aizliegta pilnīgi vai daļēji, aizliegšanas mērķi un pamatu.\n(7) Lēmums par biedrības publiskās darbības vai citas darbības aizliegumu un lēmums par biedrības publiskās darbības vai citas darbības aizlieguma atcelšanu izpildāms nekavējoties pēc tā pieņemšanas. Tiesa nosūta attiecīgo lēmumu reģistra iestādei ieraksta izdarīšanai reģistrā. Reģistra iestāde nodrošina, ka tās mājaslapā internetā bez maksas ir pieejama informācija par ieraksta izdarīšanu par biedrības publiskās darbības vai citas darbības aizliegumu.\n(8) Biedrības publiskās darbības vai citas darbības aizliegumu pēc lietas dalībnieka pieteikuma var atcelt tā pati tiesa, kura noteikusi biedrības publiskās darbības vai citas darbības aizliegumu, vai tiesa, kuras lietvedībā atrodas lietas izskatīšana pēc būtības. Šo pieteikumu šā panta otrajā daļā noteiktajā termiņā izlemj tiesas sēdē, iepriekš par to paziņojot lietas dalībniekiem.\n(9) Apmierinot prasību par biedrības darbības izbeigšanu, biedrības publiskās darbības vai citas darbības aizliegums ir spēkā līdz dienai, kad spriedums stājas likumīgā spēkā.\n(10) Noraidot prasību par biedrības darbības izbeigšanu, tiesa spriedumā atceļ biedrības publiskās darbības vai citas darbības aizliegumu. Spriedums daļā par biedrības publiskās darbības vai citas darbības aizlieguma atcelšanu stājas spēkā nekavējoties.\n(11) Ja prasība par biedrības darbības izbeigšanu atstāta bez izskatīšanas vai tiesvedība izbeigta, tiesa ar lēmumu atceļ biedrības publiskās darbības vai citas darbības aizliegumu. Lēmums par biedrības publiskās darbības vai citas darbības aizlieguma atcelšanu stājas spēkā nekavējoties.\n(12) Ja līdz galīgā nolēmuma pieņemšanai lietā biedrība pārkāpj tiesas lēmumu, kas pieņemts šā panta pirmajā daļā paredzētajā kārtībā, vai neievēro attiecīgā lēmuma nosacījumus, tiesa pēc pieteicēja ierosinājuma piemēro biedrībai procesuālu sankciju (brīdinājumu vai naudas sodu) un brīdina par kriminālatbildību, kas iestājas, ja biedrība turpina pārkāpt tiesas lēmumu."
+    },
+    {
+      "provision_ref": "Art. 57.2",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "57.2",
+      "title": "57. 2 pants. Pieņemtā lēmuma par biedrības publiskās darbības vai citas darbības aizlieguma noteikšanu pārsūdzēšana",
+      "content": "(1) Par lēmumu, ar kuru noraidīts pieteikums par biedrības publiskās darbības vai citas darbības aizlieguma noteikšanu, un lēmumu, ar kuru noraidīts pieteikums par biedrības publiskās darbības vai citas darbības aizlieguma atcelšanu, 10 dienu laikā no lēmuma paziņošanas dienas var iesniegt blakus sūdzību Civilprocesa likumā noteiktajā kārtībā.\n(2) Blakus sūdzības iesniegšana par šā panta pirmajā daļā minētajiem lēmumiem neaptur to izpildi."
+    },
+    {
+      "provision_ref": "Art. 57.3",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "57.3",
+      "title": "57. 3 pants. Biedrības darbības izbeigšana ar tiesas nolēmumu, ja biedrības darbība apdraud valsts vai sabiedrisko drošību",
+      "content": "(1) Ja biedrības darbība ir vērsta uz kāda šā likuma 10. panta 1. 1 daļā minētā aizlieguma pārkāpumu, prokurors biedrībai rakstveidā izsaka brīdinājumu vai iesniedz iesniegumu. Ja biedrība pēc prokurora iesnieguma saņemšanas šajā iesniegumā noteiktajā termiņā nav novērsusi pārkāpumu vai izdara pārkāpumu, par kura nepieļaujamību iepriekš ir brīdināta, prokurors ceļ prasību Rīgas pilsētas tiesā par biedrības darbības izbeigšanu.\n(2) Ja biedrības darbība pārkāpj kādu šā likuma 10. panta 1. 1 daļā minēto aizliegumu vai biedrības darbība ir pretrunā ar Satversmi , likumiem vai citiem normatīvajiem aktiem un apdraud valsts vai sabiedrisko drošību, prokurors ceļ prasību Rīgas pilsētas tiesā par biedrības darbības izbeigšanu.\n(3) Rīgas pilsētas tiesa lietas par biedrības darbības izbeigšanu, ja tas skar valsts vai sabiedriskās drošības intereses, izskata nekavējoties, piemērojot Civilprocesa likumā noteikto kārtību.\n(4) Lai prasījuma robežās noskaidrotu patiesos lietas apstākļus un panāktu tiesisku un taisnīgu lietas izskatīšanu, tiesa, izskatot lietas par biedrības darbības izbeigšanu, ja tas skar valsts vai sabiedriskās drošības intereses, noskaidro lietas apstākļus, pārbauda pierādījumus, kā arī, ja iesniegtie pierādījumi nav pietiekami, pieprasa tos pēc savas iniciatīvas.\n(5) Ja, izskatot lietas par biedrības darbības izbeigšanu, kā pierādījumu izmanto operatīvās darbības pasākumos iegūtās ziņas, kas ir valsts noslēpuma objekts, tikai tiesa pēc lietas dalībnieku motivēta lūguma drīkst iepazīties ar operatīvās darbības materiāliem, kas nav pievienoti lietai un attiecas uz pierādīšanas priekšmetu, nolēmumā norādot, ka šie materiāli ir izvērtēti.\n(6) Tiesas spriedumu lietā par biedrības darbības izbeigšanu var pārsūdzēt Civilprocesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "58",
+      "title": "Biedrības likvidācija",
+      "content": "(1) Biedrības darbības izbeigšanās gadījumā notiek tās likvidācija, ja likumā nav noteikts citādi.\n(2) Biedrības nosaukumam pievieno vārdu \"likvidējamā\".\n(3) Šā likuma 56. 1 pantā minētajā gadījumā biedrības likvidācija nenotiek un reģistra iestāde pieņem lēmumu par biedrības izslēgšanu no reģistra, ja neviena biedrības likvidācijā ieinteresēta persona nav saskaņā ar šā likuma 59. 1 pantu iesniegusi reģistra iestādei pieteikumu par likvidatora iecelšanu un biedrībai nav pasludināts maksātnespējas process."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "59",
+      "title": "Biedrības likvidatori",
+      "content": "(1) Likvidāciju veic valdes locekļi, ja statūtos, biedru sapulces lēmumā vai tiesas nolēmumā nav noteikts citādi.\n(2) Ja likvidatoru ieceļ biedru sapulce, tā nosaka viņa atlīdzības apmēru un izmaksas kārtību.\n(3) Ja biedrības darbība tiek izbeigta, pamatojoties uz tiesas nolēmumu, likvidatoru ieceļ un viņa atlīdzības apmēru un izmaksas kārtību nosaka tiesa.\n(3 1 ) Ja likvidatoru ieceļ saskaņā ar šā likuma 59. 1 pantu, likvidatora atlīdzības apmēru un izmaksas kārtību nosaka biedrības likvidācijā ieinteresētā persona, kura iesniegusi pieteikumu par likvidatora iecelšanu.\n(4) Par likvidatoru var būt pilngadīga fiziskā persona, kuras rīcībspēju nav ierobežojusi tiesa."
+    },
+    {
+      "provision_ref": "Art. 59.1",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "59.1",
+      "title": "59. 1 pants. Likvidatora iecelšana, pamatojoties uz biedrības likvidācijā ieinteresētas personas pieteikumu",
+      "content": "(1) Šā likuma 56. 1 pantā minētajā gadījumā reģistra iestāde pēc tam, kad reģistrā izdarīts ieraksts par biedrības darbības izbeigšanu, oficiālajā izdevumā \"Latvijas Vēstnesis\" publicē paziņojumu par biedrības darbības izbeigšanu. Paziņojumā uzaicina biedrības likvidācijā ieinteresētas personas triju mēnešu laikā pēc paziņojuma publicēšanas dienas iesniegt reģistra iestādei pieteikumu par likvidatora iecelšanu.\n(2) Šā panta pirmajā daļā minētajā pieteikumā biedrības likvidācijā ieinteresēta persona norāda savu vārdu, uzvārdu un personas kodu (ja tāda nav, norāda dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi) un apliecina savu atbilstību likvidācijā ieinteresētas personas statusam, kā arī norāda šā likuma 60. panta pirmajā daļā minētās ziņas par likvidatoru.\n(3) Reģistra iestāde izdara reģistrā ierakstu par likvidatora iecelšanu, pamatojoties uz pirmo biedrības likvidācijā ieinteresētas personas iesniegto pieteikumu par likvidatora iecelšanu."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "60",
+      "title": "Pieteikums par biedrības darbības izbeigšanu un tās likvidāciju",
+      "content": "(1) Ja biedrības darbība izbeidzas sakarā ar šā likuma 53. panta 1., 3. vai 4. punktā minētajiem apstākļiem, valde iesniedz reģistra iestādei pieteikumu par biedrības darbības izbeigšanu. Pieteikumā norāda likvidatora vārdu, uzvārdu un personas kodu (ja tāda nav, norāda dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi). Pieteikumam pievieno:\n1) katra likvidatora rakstveida piekrišanu būt par likvidatoru. Rakstveida piekrišanā likvidators norāda tās biedrības nosaukumu un reģistrācijas numuru, par kuras likvidatoru piekrīt kļūt;\n2) biedru sapulces protokola izrakstu ar lēmumu par biedrības darbības izbeigšanu, ja biedrības darbība izbeigusies ar biedru sapulces lēmumu.\n(2) Ja biedrības darbība izbeidzas ar tiesas nolēmumu, tiesa nosūta attiecīgo nolēmumu ieraksta izdarīšanai reģistrā. Likvidators triju dienu laikā pēc nolēmuma stāšanās spēkā iesniedz reģistra iestādei šā panta pirmās daļas otrajā teikumā un 1. punktā minētās ziņas.\n(3) Ja likvidāciju veic valdes locekļi, šo faktu norāda pieteikumā vai tiesas nolēmumā un tam nav jāpievieno šā panta pirmās daļas 1. punktā minētās ziņas.\n(4) Ja biedrības darbība izbeidzas ar Valsts ieņēmumu dienesta lēmumu, Valsts ieņēmumu dienests pēc tam, kad lēmums kļuvis neapstrīdams, nosūta attiecīgo lēmumu reģistra iestādei ieraksta izdarīšanai reģistrā."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "61",
+      "title": "Likvidatora atcelšana",
+      "content": "(1) Likvidatoru var atcelt ar biedru sapulces lēmumu, vienlaikus ieceļot citu likvidatoru.\n(2) Likvidatoru var atcelt ar tiesas nolēmumu, pamatojoties uz biedra vai citas ieinteresētas personas pieteikumu, ja tam ir svarīgi iemesli.\n(3) Tiesas iecelto likvidatoru var atcelt tikai ar tiesas nolēmumu, pamatojoties uz biedra vai citas ieinteresētas personas pieteikumu, ja tam ir svarīgi iemesli, vienlaikus ieceļot citu likvidatoru.\n(3 1 ) Likvidatoru, kurš iecelts, pamatojoties uz reģistra iestādei iesniegto biedrības likvidācijā ieinteresētās personas pieteikumu, var atcelt tikai tiesa vai ieinteresētā persona, kura likvidatoru iecēlusi.\n(4) Lēmumu par likvidatora atcelšanu jaunais likvidators iesniedz reģistra iestādei triju dienu laikā no lēmuma pieņemšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "62",
+      "title": "Likvidatora tiesības un pienākumi",
+      "content": "(1) Likvidatoram ir visas valdes un citu statūtos paredzēto institūciju (izņemot biedru sapulci) tiesības un pienākumi, kas nav pretrunā ar likvidācijas mērķi.\n(2) Likvidators piedzen parādus, pārdod biedrības mantu, apmierina kreditoru prasījumus un pēc likvidācijas izdevumu segšanas un kreditoru prasījumu apmierināšanas sadala atlikušo biedrības mantu starp personām, kurām ir tiesības uz šo mantu. Ja likvidējamai biedrībai ir piešķirts sabiedriskā labuma organizācijas statuss saskaņā ar Sabiedriskā labuma organizāciju likumu , likvidators informē institūciju, kura saskaņā ar minēto likumu pieņem lēmumus par sabiedriskā labuma organizācijas statusa piešķiršanu un atņemšanu, par likvidācijas procesa uzsākšanu.\n(3) Likvidators drīkst slēgt tikai tos darījumus, kuri nepieciešami biedrības likvidācijai."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "63",
+      "title": "Likvidatora pārstāvības tiesības",
+      "content": "(1) Ja biedrības likvidāciju veic vairāki likvidatori, viņiem ir tiesības pārstāvēt biedrību tikai kopīgi, ja statūtos, biedru sapulces lēmumā vai tiesas nolēmumā nav noteikts citādi. Noteikums par atsevišķo pārstāvību ir spēkā attiecībā uz trešajām personām, ja tas ir ierakstīts reģistrā.\n(2) Likvidatori var pilnvarot vienu vai vairākas personas no sava vidus atsevišķu tiesisku darbību veikšanai."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "64",
+      "title": "Maksātnespējas procesa pieteikuma iesniegšana",
+      "content": "Ja likvidācijas gaitā atklājas, ka likvidējamās biedrības mantas nepietiek, lai apmierinātu visus pamatotos kreditoru prasījumus, likvidatoram ir pienākums iesniegt maksātnespējas procesa pieteikumu likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "65",
+      "title": "Kreditoru informēšana un prasījumu pieteikšana",
+      "content": "(1) Likvidators paziņojumu par biedrības darbības izbeigšanu un tās likvidāciju izsludina oficiālajā izdevumā \"Latvijas Vēstnesis\" 15 dienu laikā no dienas, kad izdarīts ieraksts biedrību un nodibinājumu reģistrā.\n(2) Likvidators nosūta paziņojumu par likvidācijas uzsākšanu visiem zināmajiem biedrības kreditoriem.\n(3) Šā panta pirmajā un otrajā daļā minētajā paziņojumā biedrības kreditori uzaicināmi pieteikt savus prasījumus triju mēnešu laikā pēc paziņojuma publicēšanas dienas, ja biedru sapulces lēmumā vai tiesas nolēmumā par biedrības darbības izbeigšanu nav noteikts garāks kreditoru prasījumu pieteikšanas termiņš.\n(4) Kreditori noteiktā termiņā piesaka likvidatoram savus prasījumus pret biedrību. Prasījumā norādāms prasījuma saturs, pamats un apmērs, un tam pievienojami prasījumu pamatojošie dokumenti."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "66",
+      "title": "Likvidācijas sākuma finanšu pārskats",
+      "content": "Pēc kreditoru prasījumu pieteikšanas termiņa beigām likvidators sagatavo biedrības likvidācijas sākuma finanšu pārskatu saskaņā ar Grāmatvedības likuma 21. pantu un normatīvajiem aktiem, kas nosaka mantas, arī prasījumu un saistību, novērtēšanu grāmatvedībā un atspoguļošanu finanšu pārskatos, ja uzņēmuma vai tā struktūrvienības darbība tiek izbeigta. Ja saskaņā ar Grāmatvedības likumu un citiem normatīvajiem aktiem grāmatvedības kārtošanas un pārskatu sagatavošanas jomā biedrība kārto grāmatvedību vienkāršā ieraksta sistēmā, bilanci, kas iekļaujama likvidācijas sākuma finanšu pārskatā, sastāda, pamatojoties uz visas biedrības mantas, arī prasījumu un saistību, inventarizācijas datiem biedrības likvidācijas sākumā."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "67",
+      "title": "Kreditoru aizsardzība",
+      "content": "(1) Ja zināms kreditors nepiesaka savu prasījumu, nepieņem izpildījumu vai saistība vēl nav izpildāma, summas, kuras viņam pienākas, tiek deponētas pie zvērināta notāra.\n(2) Pastāvot strīdīgam kreditora prasījumam, biedrības mantu var sadalīt tikai tad, ja attiecīgajam kreditoram ir dots nodrošinājums."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "68",
+      "title": "Biedrības slēguma finanšu pārskats un mantas sadale",
+      "content": "(1) Pēc kreditoru prasījumu apmierināšanas vai viņiem paredzētās naudas deponēšanas un likvidācijas izdevumu segšanas likvidators sagatavo biedrības slēguma finanšu pārskatu, attiecīgi piemērojot šā likuma 66.panta noteikumus, un sadala atlikušo biedrības mantu starp personām, kurām ir tiesības uz šo mantu saskaņā ar statūtiem vai likumu.\n(2) Statūtos var noteikt, ka pirms biedrības mantas sadales biedru sapulce nosaka personas, kurām ir tiesības uz šo mantu, ja likumā nav noteikts citādi. Šādas tiesības nevar noteikt biedrības dibinātājiem, valdes vai citu pārvaldes institūciju locekļiem, kā arī citām personām ar līdzīgu mantisku ieinteresētību, it īpaši laulātajiem, radiniekiem un svaiņiem, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei.\n(3) Ja statūti vai biedru sapulces lēmumi neparedz personas, kurām ir tiesības uz atlikušo mantu, tā sadalāma līdzīgās daļās starp personām, kuras bija biedri biedrības darbības izbeigšanas brīdī, ja likumā nav noteikts citādi.\n(4) Ja biedrības mantu nevar sadalīt saskaņā ar šā panta pirmajā, otrajā un trešajā daļā noteikto kārtību, biedrības manta piekrīt valstij.\n(5) Ja biedrības darbība izbeigta saskaņā ar šā likuma 57.panta pirmās daļas 1. un 2.punkta noteikumiem, pēc likvidācijas izdevumu segšanas un kreditoru prasījumu apmierināšanas atlikusī biedrības manta piekrīt valstij.\n(5 1 ) Biedrības, kura ir sabiedriskā labuma organizācija, kā arī tādas biedrības, kurai sabiedriskā labuma organizācijas statuss ir atņemts, bet kura iepriekšējā kalendārajā gadā pirms likvidācijas uzsākšanas kā sabiedriskā labuma organizācija ir saņēmusi ziedojumus, mantas sadali likvidācijas gadījumā veic atbilstoši Sabiedriskā labuma organizāciju likumam .\n(5 2 ) Manta, kas palikusi pēc biedrības izslēgšanas no reģistra šā likuma 58. panta trešajā daļā noteiktajā kārtībā, piekrīt valstij.\n(6) Biedrības mantu drīkst sadalīt ne agrāk kā sešus mēnešus pēc dienas, kad publicēts paziņojums par biedrības darbības izbeigšanu. Tiesa var atļaut atlikušo biedrības mantu sadalīt pirms noteiktā termiņa, ja ar to netiek nodarīti zaudējumi kreditoriem."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "69",
+      "title": "Biedrības dokumentu glabāšana",
+      "content": "Likvidators veic nepieciešamās darbības biedrības dokumentu sakārtošanai un nodošanai glabāšanā Latvijas Nacionālajam arhīvam saskaņā ar Arhīvu likumu un īslaicīgi glabājamo dokumentu saglabāšanai un pieejamības nodrošināšanai atbilstoši glabāšanas termiņam, saskaņojot ar Latvijas Nacionālo arhīvu to glabāšanas vietu. Izdevumi, kas saistīti ar dokumentu sakārtošanu un nodošanu arhīviem, tiek segti no likvidējamās biedrības mantas."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "70",
+      "title": "Biedrības darbības turpināšana",
+      "content": "(1) Ja biedrības darbības izbeigšana paredzēta statūtos vai ja lēmumu par biedrības darbības izbeigšanu pieņem biedru sapulce, biedri līdz mantas sadales sākumam var pieņemt lēmumu par biedrības darbības turpināšanu vai reorganizāciju. Lēmums uzskatāms par pieņemtu, ja par to nobalso vairāk nekā divas trešdaļas no klātesošajiem biedriem.\n(2) Pieņemot lēmumu par biedrības darbības turpināšanu, vienlaikus izveidojama valde un citas statūtos paredzētās institūcijas.\n(3) Likvidators iesniedz reģistra iestādei pieteikumu par biedrības darbības turpināšanu, pieteikumam pievienojot biedru sapulces protokola izrakstu ar lēmumu par biedrības darbības turpināšanu un valdes locekļu ievēlēšanu, kā arī katra valdes locekļa rakstveida piekrišanu būt par valdes locekli. Lēmums par biedrības darbības turpināšanu stājas spēkā pēc tā ierakstīšanas reģistrā."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "71",
+      "title": "Izslēgšana no reģistra",
+      "content": "(1) Pēc atlikušās biedrības mantas sadales likvidators iesniedz reģistra iestādei pieteikumu par likvidācijas pabeigšanu. Pieteikumam pievieno biedrības slēguma finanšu pārskatu.\n(2) Pieteikumā likvidators apliecina, ka:\n1) biedrības slēguma finanšu pārskats nav apstrīdēts tiesā vai ka attiecīgā prasība tikusi noraidīta;\n2) visi kreditoru prasījumi apmierināti vai tiem paredzētā nauda deponēta;\n3) biedrības dokumenti ir nodoti glabāšanā Latvijas Nacionālajā arhīvā."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "VI nodaļa Aizliegums biedrībai veikt publisko darbību vai citu darbību, biedrības darbības izbeigšanās un likvidācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "72",
+      "title": "Likvidatoru atbildība",
+      "content": "(1) Likvidators ir atbildīgs par savas vainas dēļ nodarītajiem zaudējumiem.\n(2) Ja ir vairāki likvidatori, viņi par savas vainas dēļ nodarītajiem zaudējumiem atbild solidāri."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "73",
+      "title": "Reorganizācija",
+      "content": "(1) Biedrību var reorganizēt apvienošanas vai sadalīšanas ceļā.\n(2) Reorganizācijas procesā drīkst piedalīties tikai biedrības, ja likumā nav noteikts citādi.\n(3) Statūtos var paredzēt, ka reorganizācija ir atļauta vai nav atļauta, pastāvot zināmiem priekšnoteikumiem."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "74",
+      "title": "Apvienošana",
+      "content": "(1) Biedrību var apvienot ar citu biedrību pievienošanas vai saplūšanas ceļā.\n(2) Pievienošana ir process, kurā biedrība (pievienojamā biedrība) nodod visu savu mantu citai biedrībai (iegūstošā biedrība).\n(3) Saplūšana ir process, kurā divas vai vairākas biedrības (pievienojamās biedrības) nodod visu savu mantu jaundibināmai biedrībai (iegūstošā biedrība).\n(4) Apvienošanas gadījumā pievienojamā biedrība beidz pastāvēt bez likvidācijas procesa.\n(5) Apvienošanas gadījumā pievienojamās biedrības tiesības un saistības pāriet iegūstošajai biedrībai. Pievienojamās biedrības biedri kļūst par iegūstošās biedrības biedriem.\n(6) Attiecībā uz jaundibināmo biedrību piemērojami šā likuma noteikumi par biedrības dibināšanu, ciktāl šajā nodaļā nav noteikts citādi. Par biedrības dibinātājiem uzskatāmas pievienojamās biedrības."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "75",
+      "title": "Sadalīšana",
+      "content": "(1) Sadalīšana ir process, kurā biedrība (sadalāmā biedrība) nodod savu mantu vienai biedrībai vai vairākām citām biedrībām (iegūstošās biedrības) sašķelšanas vai nodalīšanas ceļā.\n(2) Sašķelšanas gadījumā sadalāmā biedrība nodod visu savu mantu (tiesības un saistības) divām vai vairākām iegūstošajām biedrībām un beidz pastāvēt bez likvidācijas procesa.\n(3) Sašķelšanas gadījumā sadalāmās biedrības biedri kļūst par iegūstošo biedrību biedriem saskaņā ar reorganizācijas līgumu vai lēmumu par reorganizāciju.\n(4) Nodalīšanas gadījumā sadalāmā biedrība nodod daļu savas mantas (tiesības un saistības) vienai iegūstošajai biedrībai vai vairākām šādām biedrībām. Nodalīšanas gadījumā sadalāmā biedrība turpina pastāvēt.\n(5) Nodalīšanas gadījumā visi sadalāmās biedrības biedri vai daļa no viņiem kļūst par iegūstošo biedrību biedriem saskaņā ar lēmumu par reorganizāciju vai reorganizācijas līgumu.\n(6) Iegūstošā biedrība var būt jau esoša vai jaundibināma biedrība. Attiecībā uz jaundibināmo biedrību piemērojami šā likuma noteikumi par biedrības dibināšanu, ciktāl šajā nodaļā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "76",
+      "title": "Reorganizācijas līgums",
+      "content": "(1) Ja reorganizācijas procesā piedalās divas vai vairākas jau pastāvošas biedrības, tās slēdz reorganizācijas līgumu. Līgums slēdzams rakstveidā.\n(2) Līgumā norāda:\n1) reorganizācijā iesaistīto biedrību nosaukumu, reģistrācijas numuru un juridisko adresi;\n2) tiesības, kuras iegūstošā biedrība piešķir pievienojamās vai sadalāmās biedrības biedriem;\n3) reorganizācijas sekas reorganizācijas procesā iesaistīto biedrību darbiniekiem;\n4) sadalīšanas gadījumā — katrai iegūstošajai biedrībai nododamās mantiskās un nemantiskās tiesības un saistības;\n5) saplūšanas gadījumā — katras biedrības nemantisko tiesību turpmāko izmantošanu.\n(3) Biedrību saplūšanas gadījumā reorganizācijas līgumā papildus šā panta otrajā daļā minētajām ziņām norāda iegūstošās (jaundibināmās) biedrības nosaukumu un juridisko adresi.\n(4) Ja sadalīšanas procesā nav iesaistīta cita jau pastāvoša biedrība, sadalāmā biedrība pieņem lēmumu par sadalīšanu, kas aizstāj šajā pantā minēto līgumu. Lēmumā par sadalīšanu papildus šā panta otrajā daļā minētajām ziņām norāda iegūstošās biedrības nosaukumu, juridisko adresi un ziņas par sadalāmās biedrības mantas sadali. Mantas sadales aktu var pievienot lēmumam atsevišķa dokumenta veidā."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "77",
+      "title": "Lēmums par reorganizāciju",
+      "content": "(1) Reorganizācijas līguma projektu izskata un lēmumu par reorganizāciju pieņem katras reorganizācijas procesā iesaistītās biedrības biedru sapulce.\n(2) Ne mazāk kā mēnesi pirms dienas, kad paredzēta biedru sapulce par līguma apstiprināšanu, visiem biedrības biedriem dodama iespēja biedrībās pēc to juridiskās adreses iepazīties ar līguma projektu.\n(3) Lēmums par reorganizāciju uzskatāms par pieņemtu, ja par to nobalso vairāk nekā divas trešdaļas no klātesošajiem biedriem un ja statūtos nav noteikts lielāks balsu vairākums.\n(4) Lēmums par reorganizāciju sagatavojams atsevišķa dokumenta veidā.\n(5) Ja iegūstošā biedrība ir jaundibināma biedrība, katras reorganizācijas procesā iesaistītās biedrības biedru sapulcē izskata jaundibināmās biedrības statūtu projektu. Vienlaicīgi ar lēmuma par reorganizāciju pieņemšanu apstiprina jaundibināmās biedrības statūtus.\n(6) Pamatojoties uz lēmumu par reorganizāciju, attiecīgās biedrības noslēdz līgumu."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "78",
+      "title": "Kreditoru interešu aizsardzība",
+      "content": "(1) Piecpadsmit dienu laikā no dienas, kad pieņemts lēmums par reorganizāciju, katra reorganizācijas procesā iesaistītā biedrība par reorganizāciju rakstveidā informē visus zināmos kreditorus, kuriem līdz lēmuma par reorganizāciju pieņemšanai bija prasījuma tiesības pret biedrību.\n(2) Katrai reorganizācijas procesā iesaistītajai biedrībai ir pienākums publicēt oficiālajā izdevumā \"Latvijas Vēstnesis\" paziņojumu, ka pieņemts lēmums par reorganizāciju. Paziņojumā norāda:\n1) biedrības nosaukumu, reģistrācijas numuru un juridisko adresi;\n2) pārējo reorganizācijā iesaistīto biedrību nosaukumu, reģistrācijas numuru un juridisko adresi;\n3) faktu, ka pieņemts lēmums par reorganizāciju, norādot tās veidu;\n4) kreditoru prasījumu pieteikšanas vietu un termiņu, kurš nedrīkst būt īsāks par vienu mēnesi no paziņojuma publicēšanas dienas.\n(3) Pievienojamā vai sadalāmā biedrība nodrošina kreditora prasījumu, ja viņš to prasa un ja tas pieteikts šā panta otrajā daļā minētajā paziņojumā noteiktajā termiņā. Iegūstošās biedrības kreditors var prasīt sava prasījuma nodrošināšanu tikai tad, ja pierāda, ka apvienošana apdraud viņa prasījuma apmierināšanu.\n(4) Nodrošinātais kreditors var prasīt nodrošinājumu tikai parāda nenodrošinātās daļas apmērā."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "79",
+      "title": "Lēmuma par reorganizāciju apstrīdēšana",
+      "content": "(1) Pamatojoties uz reorganizācijā iesaistītās biedrības biedra vai valdes locekļa prasību, tiesa lēmumu par reorganizāciju var atzīt par spēkā neesošu, ja tas pieņemts, pārkāpjot likumu vai statūtus un šos pārkāpumus nav iespējams novērst vai tie netiek novērsti tiesas noteiktajā termiņā.\n(2) Prasības celšanas termiņš ir trīs mēneši pēc šā likuma 78.pantā minētā paziņojuma publicēšanas dienas.\n(3) Biedrībai, kuras biedru sapulces lēmums par reorganizāciju atzīts par spēkā neesošu, ir pienākums par to publicēt paziņojumu oficiālajā izdevumā \"Latvijas Vēstnesis\" 15 dienu laikā no tiesas nolēmuma spēkā stāšanās dienas.\n(4) Ja lēmums par reorganizāciju tiek atzīts par spēkā neesošu, tas neietekmē saistības, kuras biedrība reorganizācijas procesā uzņēmusies pret trešajām personām."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "80",
+      "title": "Pieteikums reģistra iestādei",
+      "content": "(1) Katra reorganizācijas procesā iesaistītā biedrība ne agrāk kā trīs mēnešus pēc paziņojuma publicēšanas dienas iesniedz reģistra iestādei pieteikumu ieraksta par reorganizāciju izdarīšanai. Pieteikumam pievieno:\n1) reorganizācijas līgumu vai tā attiecīgi apliecinātu kopiju;\n2) protokola izrakstu un lēmumu par reorganizāciju;\n3) iegūstošās biedrības statūtus (ja reorganizācijas rezultātā tiek izveidota jauna biedrība);\n4) iegūstošās biedrības valdes locekļu sarakstu (ja reorganizācijas rezultātā tiek izveidota jauna biedrība);\n5) ja reorganizācijas rezultātā tiek dibināta jauna biedrība, — pieteikumu par biedrības ierakstīšanu reģistrā.\n(2) Pieteikumā biedrība apliecina, ka ir nodrošināti vai apmierināti to kreditoru prasījumi, kuri savus prasījumus pieteikuši noteiktā termiņā, un ka lēmums par reorganizāciju nav apstrīdēts tiesā vai ka attiecīgā prasība nav apmierināta.\n(3) Biedrību saplūšanas gadījumā pievienojamās biedrības iesniedz reģistra iestādei kopīgu pieteikumu par jaundibināmās biedrības ierakstīšanu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "81",
+      "title": "Iegūstošās biedrības nosaukums",
+      "content": "Iegūstošā biedrība drīkst turpināt savu darbību, izmantojot pievienotās biedrības nosaukumu."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "82",
+      "title": "Reģistrā izdarāmais ieraksts par reorganizāciju",
+      "content": "(1) Ieraksts par pievienojamo biedrību reģistrā tiek izdarīts pēc tam, kad izdarīti ieraksti par visām iegūstošajām biedrībām.\n(2) Pievienojamās biedrības lieta pēc tam, kad reģistrā izdarīts ieraksts par šīs biedrības pievienošanu, tiek pievienota iegūstošās biedrības reģistra lietai, un pievienotā biedrība tiek izslēgta no reģistra.\n(3) Pēc tam, kad reģistrā izdarīts ieraksts par sadalāmās biedrības reorganizāciju, iegūstošo biedrību lietām tiek pievienoti attiecīgi izraksti no sadalāmās biedrības lietas un gadījumos, kad sadalīšana notiek sašķelšanas ceļā, sadalāmā biedrība tiek izslēgta no reģistra."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "83",
+      "title": "Reģistrā izdarītā ieraksta par reorganizāciju tiesiskā nozīme",
+      "content": "(1) Reorganizācija uzskatāma par spēkā stājušos ar brīdi, kad reģistrā izdarīti ieraksti par visām reorganizācijas procesā iesaistītajām biedrībām, ieskaitot jaundibinātās biedrības.\n(2) Ar reorganizācijas spēkā stāšanās brīdi:\n1) pievienojamās biedrības manta uzskatāma par pārgājušu iegūstošās biedrības īpašumā;\n2) sadalāmās biedrības manta uzskatāma par pārgājušu iegūstošo biedrību īpašumā atbilstoši līgumam.\n(3) Līdz ar biedrības izslēgšanu no reģistra šī biedrība uzskatāma par likvidētu."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "84",
+      "title": "Reorganizācijas procesā iesaistīto biedrību atbildība",
+      "content": "(1) Iegūstošā biedrība atbild par visām pievienojamās biedrības saistībām.\n(2) Par sadalāmās biedrības saistībām, kas radušās līdz reorganizācijas spēkā stāšanās brīdim, atbild solidāri visas sadalīšanā iesaistītās biedrības, ieskaitot jaundibinātās biedrības. Solidāro parādnieku savstarpējās attiecībās par saistīto subjektu uzskatāma tikai tā persona, kuras saistības ir paredzētas līgumā.\n(3) Ja kādas sadalīšanā iesaistītas biedrības saistības nav noteiktas līgumā, tā atbild solidāri līdz ar citām sadalīšanā iesaistītajām biedrībām par sadalāmās biedrības saistībām, kuras radušās līdz reorganizācijas spēkā stāšanās brīdim un kuru izpildes termiņš iestājas piecu gadu laikā no reorganizācijas spēkā stāšanās brīža."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "VII nodaļa Biedrību reorganizācija",
+      "section": "85",
+      "title": "Valdes locekļu atbildība",
+      "content": "(1) Reorganizācijā iesaistīto biedrību valdes locekļi atbild solidāri par zaudējumiem, kas reorganizācijas gaitā viņu vainas dēļ nodarīti biedrībai.\n(2) Šā panta pirmajā daļā minētais prasījums noilgst piecu gadu laikā no reorganizācijas spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "86",
+      "title": "Dibinātāji",
+      "content": "(1) Nodibinājumu var dibināt viena vai vairākas personas.\n(2) Ja nodibinājumam ir vairāki dibinātāji, viņi savas dibinātāja tiesības īsteno tikai kopīgi.\n(3) Personas, kuras piešķīrušas mantu nodibinājumam pēc tā ierakstīšanas reģistrā, nav uzskatāmas par dibinātājiem.\n(4) Dibinātāja statuss nav mantojams, un to nevar nodot trešajām personām. Ja dibinātājs uzņēmies saistības pirms nodibinājuma ierakstīšanas reģistrā, piemērojami šā likuma 27.panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "87",
+      "title": "Dibināšanas pamats",
+      "content": "Nodibinājumu dibina, pamatojoties uz personas lēmumu par nodibinājuma dibināšanu vai testamentu."
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "88",
+      "title": "Lēmums par nodibinājuma dibināšanu",
+      "content": "Uz lēmumu par nodibinājuma dibināšanu attiecināmi šā likuma 24.panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "89",
+      "title": "Testamentārā nodibinājuma dibināšana",
+      "content": "(1) Dibinot nodibinājumu vispārnoderīgiem un labdarīgiem mērķiem, pamatojoties uz testamentu (testamentārais nodibinājums), piemērojami Civillikuma noteikumi, ciktāl šis likums nenosaka citādi.\n(2) Ja testamentā nav šā likuma 24.pantā minēto ziņu, nav izstrādāti dibināmā nodibinājuma statūti vai nav iecelti valdes locekļi, testamenta izpildītājs, mantinieks vai aizgādnis ( Civillikuma 496.pants ) veic attiecīgās darbības (statūtu izstrāde, valdes locekļu iecelšana). Veicot šajā pantā minētās darbības, testamenta izpildītājam, mantiniekam vai aizgādnim pēc iespējas jāievēro testatora griba.\n(3) Līdz valdes locekļu iecelšanai testamenta izpildītājs, mantinieks vai aizgādnis izmanto dibinātāja tiesības, pārvalda mantu, kas nodota dibināmajam nodibinājumam, kā arī veic citas likumā noteiktās darbības.\n(4) Šajā pantā noteiktās testamenta izpildītāja, mantinieka vai aizgādņa pilnvaras izbeidzas ar dienu, kad nodibinājums ierakstīts reģistrā."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "90",
+      "title": "Nodibinājuma statūti",
+      "content": "(1) Nodibinājuma statūtos norāda:\n1) nodibinājuma nosaukumu;\n2) nodibinājuma mērķi;\n3) kārtību, kādā manta nododama nodibinājumam;\n4) nodibinājuma līdzekļu izmantošanas kārtību;\n5) nodibinājuma darbības termiņu (ja nodibinājums tiek dibināts uz noteiktu laiku);\n6) nodibinājuma mantas sadales kārtību nodibinājuma likvidācijas gadījumā;\n7) valdes locekļu iecelšanas un atcelšanas kārtību, viņu skaitlisko sastāvu, pārstāvības tiesības un darbības termiņu;\n8) citu pārvaldes institūciju (ja tādas ir paredzētas) locekļu iecelšanas un atcelšanas kārtību un viņu darbības termiņu;\n9) saimnieciskās un finansiālās darbības revīzijas institūcijas uzbūvi, ievēlēšanas kārtību, kompetenci, lēmumu pieņemšanas kārtību un pilnvaru termiņus vai zvērināta revidenta iecelšanas kārtību un pilnvaru termiņus;\n10) statūtu grozījumu izdarīšanas gadījumus un kārtību.\n(2) Statūtos var paredzēt citus noteikumus, kas nav pretrunā ar likumu. Ja statūti ir pretrunā ar likumu, piemērojami likuma noteikumi.\n(3) Statūtus paraksta visi nodibinājuma dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji, bet, dibinot testamentāro nodibinājumu, — testamenta izpildītājs, mantinieks vai aizgādnis."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "91",
+      "title": "Labumu saņēmējs un nodibinājuma darbības ierobežojumi",
+      "content": "(1) Statūtos var noteikt labumu saņēmēju loku. Šaubu gadījumā par labumu saņēmēju uzskatāma persona, kurai var izmaksāt līdzekļus no nodibinājuma mantas saskaņā ar nodibinājuma statūtiem.\n(2) Nodibinājumam aizliegts piešķirt finanšu līdzekļus, sniegt galvojumus, izdot vekseļus vai citādi finansēt dibinātājus, valdes un citu pārvaldes institūciju (ja tādas izveidotas) locekļus, kā arī citas personas, kurām ir līdzīga mantiskā ieinteresētība, it īpaši laulātos, radiniekus un svaiņus, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "VIII nodaļa Nodibinājuma dibināšana",
+      "section": "92",
+      "title": "Pieteikums par nodibinājuma ierakstīšanu reģistrā",
+      "content": "(1) Dibinātājs iesniedz reģistra iestādei pieteikumu par nodibinājuma ierakstīšanu reģistrā. Pieteikumā norāda šā likuma 15.panta 1.-6.punktā minētās ziņas.\n(2) Pieteikumu paraksta visi nodibinājuma dibinātāji vai vismaz divi viņu pilnvaroti pārstāvji, bet, dibinot testamentāro nodibinājumu, — testamenta izpildītājs, mantinieks vai aizgādnis.\n(3) Pieteikumam pievieno:\n1) lēmumu par dibināšanu;\n2) statūtus;\n3) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli.\n(4) Dibinot testamentāro nodibinājumu, pievieno nevis lēmumu par dibināšanu, bet gan attiecīgi apliecināta testamenta norakstu, kā arī dokumentus, kas apliecina aizgādņa pilnvaras ( Civillikuma 496.pants ) un testamenta stāšanos likumīgā spēkā."
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "93",
+      "title": "Nodibinājuma pārvaldes institūcijas",
+      "content": "(1) Nodibinājuma pārvaldes institūcija ir valde.\n(2) Statūtos var paredzēt citu pārvaldes institūciju veidošanu, nosakot to izveides kārtību un kompetenci, kā arī pārvaldes kompetences piešķiršanu citiem subjektiem vai to institūcijām (turpmāk — citas pārvaldes institūcijas)."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "94",
+      "title": "Valde",
+      "content": "(1) Šā likuma 42. - 45.panta un 49.panta noteikumi piemērojami arī attiecībā uz nodibinājuma valdi, ciktāl šajā nodaļā nav noteikts citādi.\n(2) Statūtos var noteikt ierobežojumus attiecībā uz valdes locekļiem. Par valdes locekli nedrīkst būt šā likuma 89.panta otrajā daļā minētās personas, ja testamentā nav noteikts citādi.\n(3) Valdē jābūt vismaz trim valdes locekļiem. Ja saskaņā ar nodibinājuma statūtiem ir izveidota un darbojas cita pārvaldes institūcija, kura sastāv vismaz no trim locekļiem un kuras uzdevumos ietilpst valdes darbības pārraudzība, valdes sastāvā var būt viens valdes loceklis.\n(4) Valde savā darbībā ievēro dibinātāja lēmumā un statūtos noteikto nodibinājuma mērķi, testatora gribu, citu pārvaldes institūciju norādījumus (ja statūtos paredzēta šādu norādījumu došana), kā arī likumā un statūtos noteikto kompetenci."
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "95",
+      "title": "Valdes locekļu iecelšana, atsaukšana un tiesības atstāt amatu",
+      "content": "(1) Ja nodibinājums tiek dibināts dibinātāja dzīves laikā, valdes locekļus ieceļ dibinātājs. Ja tiek dibināts testamentārais nodibinājums, — valdes locekļus ieceļ šā likuma 89.panta otrajā daļā minētās personas, izņemot gadījumu, kad valdes locekļi ir iecelti ar testamentu.\n(2) Lēmumu par turpmākajām izmaiņām valdes sastāvā, kā arī valdes locekļu atsaukšanu pieņem statūtos noteiktajā kārtībā.\n(3) Valdes loceklis var jebkurā laikā iesniegt nodibinājumam paziņojumu par valdes locekļa amata atstāšanu.\n(4) Valdes locekļa iecelšana vai viņa pilnvaru izbeigšanās piesakāma ierakstīšanai reģistrā. Ja saskaņā ar statūtiem lēmumu par valdes locekļa iecelšanu un atsaukšanu pieņem cita pārvaldes institūcija, pieteikumam pievienojams attiecīgais institūcijas lēmums, kā arī valdes locekļa rakstveida piekrišana būt par valdes locekli. Ja valdes loceklis atstāj amatu saskaņā ar šā panta trešo daļu, pieteikumam pievienojams attiecīgais valdes locekļa paziņojums."
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "96",
+      "title": "Atlīdzība un izdevumu segšana",
+      "content": "(1) Valdes loceklis pilda savus pienākumus bez atlīdzības, ja statūtos nav noteikts citādi.\n(2) Ja statūtos paredzētas valdes locekļa tiesības uz atlīdzību, tās apmēru un izmaksas kārtību nosaka persona vai institūcija, kurai ir tiesības iecelt valdes locekļus saskaņā ar statūtiem.\n(3) Valdes loceklis var prasīt tādu izdevumu segšanu, kuri radušies viņa pienākumu izpildes gaitā, ja statūtos nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "97",
+      "title": "Valdes lēmumu pieņemšana",
+      "content": "(1) Valde ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse no valdes locekļiem.\n(2) Valde pieņem savus lēmumus ar klātesošo valdes locekļu vienkāršu balsu vairākumu, ja statūtos nav noteikts lielāks balsu vairākums.\n(3) Valdes sēdes tiek protokolētas. Protokolā norāda:\n1) nodibinājuma nosaukumu;\n2) valdes sēdes norises vietu un laiku;\n3) sēdes dalībniekus;\n4) darba kārtības jautājumus;\n5) darba kārtības jautājumu apspriešanas kārtību un gaitu;\n6) balsošanas rezultātus, norādot katra valdes locekļa balsojumu \"par\" vai \"pret\" par katru lēmumu;\n7) pieņemtos lēmumus.\n(4) Ja valdes loceklis nepiekrīt valdes lēmumam un balso pret to, valdes locekļa atšķirīgais viedoklis pēc viņa pieprasījuma ierakstāms valdes sēdes protokolā.\n(5) Valdes sēžu protokolus paraksta sēdē klātesošie valdes locekļi."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "98",
+      "title": "Citas pārvaldes institūcijas",
+      "content": "(1) Ja statūtos paredzēta citas pārvaldes institūcijas veidošana vai pārvaldes kompetences piešķiršana citam subjektam vai tā institūcijai, tad šis subjekts vai institūcija drīkst pieņemt lēmumus vienīgi jautājumos, kas neietilpst valdes kompetencē saskaņā ar likumu vai statūtiem.\n(2) Attiecībā uz koleģiālu pārvaldes institūciju piemērojami šā likuma 97.panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "IX nodaļa Nodibinājuma organizatoriskā struktūra",
+      "section": "99",
+      "title": "Ierobežojumi valdes un citu pārvaldes institūciju locekļiem",
+      "content": "(1) Ja nodibinājuma intereses saduras ar kāda valdes vai citas pārvaldes institūcijas locekļa, viņa laulātā, radinieka vai svaiņa interesēm, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei, jautājumu izlemj institūcijas sēdē, kurā ieinteresētajam pārvaldes institūcijas loceklim nav tiesību piedalīties jautājuma apspriešanā, kā arī nav balsstiesību, un tas ierakstāms pārvaldes institūcijas sēdes protokolā. Pārvaldes institūcijas loceklim ir pienākums par šīm interesēm paziņot pirms attiecīgās sēdes sākuma. Pārvaldes institūcijas loceklim ir pienākums paziņot pārvaldes institūcijai par šīm interesēm arī pēc institūcijas sēdes.\n(2) Pārvaldes institūcijas loceklim, kurš pārkāpis šā panta pirmās daļas noteikumus, ir pienākums atlīdzināt nodibinājumam nodarītos zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "X nodaļa Lēmuma par dibināšanu un statūtu atcelšana un grozīšana",
+      "section": "100",
+      "title": "Lēmuma par dibināšanu un statūtu atcelšana vai grozīšana pirms nodibinājuma ierakstīšanas reģistrā",
+      "content": "(1) Dibinātājs var atcelt vai grozīt lēmumu par dibināšanu vai statūtus.\n(2) Dibinātāja — fiziskās personas nāves vai dibinātāja — juridiskās personas izbeigšanās gadījumā pārējiem dibinātājiem nav tiesību atcelt lēmumu par dibināšanu, ja lēmums par dibināšanu vai cita dibinātāju vienošanās neparedz citādi."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "X nodaļa Lēmuma par dibināšanu un statūtu atcelšana un grozīšana",
+      "section": "101",
+      "title": "Statūtu grozīšana pēc nodibinājuma ierakstīšanas reģistrā",
+      "content": "(1) Pēc nodibinājuma ierakstīšanas reģistrā izdarīt grozījumus statūtos var tikai valde. Valde drīkst izdarīt grozījumus statūtos tikai statūtos paredzētajos gadījumos vai ja grozījumu nepieciešamība pamatota ar to, ka mainījušies apstākļi, no kuriem izrietēja nodibinājuma darbības mērķi.\n(2) Statūtos var paredzēt, ka statūtu grozījumu izdarīšanai nepieciešama citas pārvaldes institūcijas piekrišana.\n(3) Statūtu grozījumi stājas spēkā ar to pieņemšanas brīdi, ja lēmumā nav noteikts citādi, bet attiecībā uz trešajām personām — tikai pēc statūtu grozījumu reģistrēšanas reģistrā.\n(4) Piesakot statūtu grozījumus reģistra iestādei, pievieno valdes sēdes protokolu ar lēmumu par grozījumu izdarīšanu statūtos, dokumentu, kas apliecina citas pārvaldes institūcijas piekrišanu statūtu grozījumu izdarīšanai (ja statūtos tas ir paredzēts), un pilnu statūtu tekstu jaunajā redakcijā."
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "XI nodaļa Nodibinājuma gada pārskats un kontrole",
+      "section": "102",
+      "title": "Nodibinājuma gada pārskats",
+      "content": "Pēc pārskata gada beigām valde sagatavo un iesniedz nodibinājuma gada pārskatu atbilstoši šā likuma 52.panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 103",
+      "chapter": "XI nodaļa Nodibinājuma gada pārskats un kontrole",
+      "section": "103",
+      "title": "Ziedotāju kontroles tiesības",
+      "content": "Personas, kuras ziedo nodibinājumam, var jebkurā laikā pārliecināties par nodibinājuma darbību, kā arī iepazīties ar visiem dokumentiem, izņemot grāmatvedības dokumentus un ziņas par citām personām, kuras ir ziedojušas nodibinājumam."
+    },
+    {
+      "provision_ref": "Art. 104",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "104",
+      "title": "Nodibinājuma darbības izbeigšanās pamati",
+      "content": "Nodibinājuma darbība izbeidzas:\n1) ar tiesas nolēmumu;\n2) izbeidzoties termiņam (ja nodibinājums dibināts uz noteiktu laiku);\n2 1 ) ar valdes lēmumu;\n3) uzsākot nodibinājuma bankrota procedūru;\n3 1 ) ar reģistra iestādes lēmumu;\n3 2 ) ar Valsts ieņēmumu dienesta lēmumu;\n4) uz cita likumā vai statūtos noteiktā pamata."
+    },
+    {
+      "provision_ref": "Art. 105",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "105",
+      "title": "Nodibinājuma darbības izbeigšana ar tiesas nolēmumu",
+      "content": "(1) Nodibinājuma darbību, pamatojoties uz tiesas lēmumu, var izbeigt:\n1) ja sasniegts nodibinājuma mērķis vai tā sasniegšana ir kļuvusi neiespējama un statūtos valdei nav piešķirtas tiesības grozīt nodibinājuma mērķi vai valde nesaņem citu pārvaldes institūciju piekrišanu mērķa grozīšanai (ja statūtos tas ir paredzēts);\n2) ja nodibinājuma darbība apdraud valsts drošību, sabiedrisko drošību vai kārtību vai citādi ir pretrunā ar Satversmi , likumiem vai citiem normatīvajiem aktiem;\n3) ja nodibinājuma darbība neatbilst statūtos noteiktajam mērķim;\n4) ja par nodibinājuma pamatdarbību kļuvusi saimnieciskā darbība, kam ir peļņas gūšanas raksturs;\n5) citos likumā noteiktajos gadījumos.\n(2) Šā panta pirmās daļas 1. punktā minētajā gadījumā pieteikumu par nodibinājuma darbības izbeigšanu iesniedz valde.\n(3) Šā panta pirmās daļas 2., 3., 4. un 5. punktā minētajos gadījumos pieteikumu tiesā iesniedz prokurors vai Valsts ieņēmumu dienests, ja nodibinājums:\n1) pēc Valsts ieņēmumu dienesta vai prokurora rakstveida brīdinājuma vai prokurora iesnieguma saņemšanas attiecīgajā brīdinājumā vai prokurora iesniegumā noteiktajā termiņā nav novērsis pārkāpumus. Termiņš pārkāpumu novēršanai nosakāms ne īsāks par 15 dienām un ne garāks par trim mēnešiem, izņemot šā likuma 57. 3 panta pirmajā daļā minēto gadījumu, kad prokurors termiņu nosaka iesniegumā;\n2) gada laikā pēc brīdinājuma saņemšanas atkārtoti izdara pārkāpumu, it īpaši savā publiskajā darbībā;\n3) ir pārkāpis šā likuma 10. panta 1. 1 daļā noteikto aizliegumu;\n4) nav izpildījis saskaņā ar šā likuma 10. 1 panta pirmo daļu uzliktos papildu pienākumus.\n(4) Tiesa, ņemot vērā nodibinājuma izdarītā pārkāpuma smagumu un sekas, kā arī vērtējot nodibinājuma mērķi un darbību kopumā, var aprobežoties ar brīdinājuma izteikšanu nodibinājumam, neizbeidzot tā darbību.\n(5) Attiecībā uz aizliegumu nodibinājumam veikt publisko darbību vai citu darbību, kā arī nodibinājuma darbības izbeigšanu ar tiesas nolēmumu, ja nodibinājuma darbība apdraud valsts vai sabiedrisko drošību, piemērojami šā likuma 57. 1 , 57. 2 un 57. 3 panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 105.1",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "105.1",
+      "title": "105. 1 pants. Nodibinājuma darbības izbeigšanās ar valdes lēmumu",
+      "content": "(1) Valdes lēmums par nodibinājuma darbības izbeigšanu uzskatāms par pieņemtu, ja par to nobalso vairāk nekā divas trešdaļas no valdes locekļiem, ja statūti neparedz lielāku balsu vairākumu.\n(2) Statūtos var paredzēt, ka lēmumam par nodibinājuma darbības izbeigšanu nepieciešama citas pārvaldes institūcijas piekrišana."
+    },
+    {
+      "provision_ref": "Art. 106",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "106",
+      "title": "Nodibinājuma darbības izbeigšanās, uzsākot bankrota procedūru",
+      "content": "Kārtību, kādā izbeidzama nodibinājuma darbība bankrota gadījumā, nosaka Maksātnespējas likums ."
+    },
+    {
+      "provision_ref": "Art. 106.1",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "106.1",
+      "title": "106. 1 pants. Nodibinājuma darbības izbeigšana ar reģistra iestādes vai Valsts ieņēmumu dienesta lēmumu",
+      "content": "Šā likuma VI nodaļas noteikumi par biedrības darbības izbeigšanu ar reģistra iestādes vai Valsts ieņēmumu dienesta lēmumu attiecīgi piemērojami nodibinājumiem, ciktāl šajā nodaļā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 107",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "107",
+      "title": "Nodibinājuma likvidācija",
+      "content": "(1) Šā likuma VI nodaļas noteikumi par biedrības likvidāciju attiecīgi piemērojami nodibinājumiem, ciktāl šajā nodaļā nav noteikts citādi.\n(1 1 ) Šā likuma 56. 1 pantā minētajā gadījumā nodibinājuma likvidācija nenotiek un reģistra iestāde pieņem lēmumu par nodibinājuma izslēgšanu no reģistra, ja neviena nodibinājuma likvidācijā ieinteresēta persona nav saskaņā ar šā likuma 59. 1 pantu iesniegusi reģistra iestādei pieteikumu par likvidatora iecelšanu un nodibinājumam nav pasludināts maksātnespējas process.\n(2) Likvidāciju veic valdes locekļi, ja statūtos nav noteikts citādi. Ja likvidāciju veic citas personas, kas nav valdes locekļi, statūtos paredzama šo likvidatoru iecelšanas kārtība.\n(3) Ja nodibinājuma darbība izbeidzas, iestājoties šā likuma 104.panta 2., 2. 1 vai 4.punktā minētajiem apstākļiem, valde iesniedz pieteikumu reģistra iestādei par nodibinājuma darbības izbeigšanu. Pieteikumā norāda ziņas par likvidatora vārdu, uzvārdu un personas kodu (ja tāda nav, norāda dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti un institūciju, kas dokumentu izdevusi).\n(3 1 ) Pieteikumam pievieno katra likvidatora rakstveida piekrišanu būt par likvidatoru. Rakstveida piekrišanā likvidators norāda tā nodibinājuma nosaukumu un reģistrācijas numuru, par kura likvidatoru piekrīt kļūt.\n(4) Ja nodibinājuma darbība izbeidzas, pamatojoties uz tiesas nolēmumu, tiesa nosūta attiecīgo nolēmumu ieraksta izdarīšanai reģistrā. Likvidators triju dienu laikā pēc nolēmuma stāšanās spēkā iesniedz reģistra iestādei šā panta trešās daļas otrajā teikumā un 3. 1 daļā minētās ziņas.\n(5) Ja likvidāciju veic valdes locekļi, šo faktu norāda pieteikumā vai tiesas nolēmumā un tam nav jāpievieno šā panta 3. 1 daļā minētās ziņas.\n(6) Likvidatoru var atcelt tikai ar tiesas nolēmumu, pamatojoties uz ieinteresētas personas pieteikumu, ja tam ir svarīgi iemesli, vienlaikus ieceļot citu likvidatoru.\n(7) Lēmumu par nodibinājuma darbības turpināšanu pieņem valde vai citas statūtos paredzētās pārvaldes institūcijas."
+    },
+    {
+      "provision_ref": "Art. 108",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "108",
+      "title": "Nodibinājuma slēguma finanšu pārskats un mantas sadale",
+      "content": "(1) Pēc kreditoru prasījumu apmierināšanas vai viņiem paredzētās naudas deponēšanas un likvidācijas izdevumu segšanas likvidators sagatavo nodibinājuma slēguma finanšu pārskatu, attiecīgi piemērojot šā likuma 66.panta noteikumus, un sadala atlikušo nodibinājuma mantu starp personām, kurām ir tiesības uz šo mantu saskaņā ar statūtiem, ja likumā nav noteikts citādi. Manta starp šīm personām sadalāma līdzīgās daļās, ja statūtos nav noteikts citādi.\n(2) Ja nodibinājuma darbība izbeigta saskaņā ar šā likuma 105. panta pirmās daļas 2., 3., 4. vai 5. punkta noteikumiem, tad pēc likvidācijas izdevumu segšanas un kreditoru prasījumu apmierināšanas atlikusī nodibinājuma manta piekrīt valstij.\n(2 1 ) Nodibinājuma, kurš ir sabiedriskā labuma organizācija, kā arī tāda nodibinājuma, kuram sabiedriskā labuma organizācijas statuss ir atņemts, bet kurš iepriekšējā kalendārajā gadā pirms likvidācijas uzsākšanas kā sabiedriskā labuma organizācija ir saņēmis ziedojumus, mantas sadali likvidācijas gadījumā veic atbilstoši Sabiedriskā labuma organizāciju likumam .\n(2 2 ) Manta, kas palikusi pēc nodibinājuma izslēgšanas no reģistra šā likuma 107. panta 1. 1 daļā noteiktajā kārtībā, piekrīt valstij.\n(3) Nodibinājuma mantu nedrīkst sadalīt starp dibinātājiem, valdes vai citu pārvaldes institūciju locekļiem, kā arī starp citām personām ar līdzīgu mantisku ieinteresētību, it īpaši laulātajiem, radiniekiem un svaiņiem, skaitot radniecību līdz otrajai pakāpei un svainību līdz pirmajai pakāpei."
+    },
+    {
+      "provision_ref": "Art. 109",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "109",
+      "title": "Nodibinājuma reorganizācija",
+      "content": "(1) Šā likuma noteikumi par biedrības reorganizāciju attiecīgi piemērojami nodibinājumiem, ciktāl šajā pantā nav noteikts citādi.\n(2) Reorganizāciju var veikt vienīgi statūtos noteiktajos gadījumos. Testamentārā nodibinājuma reorganizācija nav atļauta.\n(3) Lēmumu par reorganizāciju pieņem katra reorganizācijas procesā iesaistītā nodibinājuma valde. Statūtos var paredzēt, ka lēmumam par reorganizāciju nepieciešama citas pārvaldes institūcijas piekrišana. Lēmums par reorganizāciju uzskatāms par pieņemtu, ja par to nobalso vairāk nekā divas trešdaļas no valdes locekļiem un ja statūti neparedz lielāku balsu vairākumu. Lēmums sagatavojams atsevišķa dokumenta veidā.\n(4) Reorganizācijas līgumā norāda:\n1) reorganizācijā iesaistīto nodibinājumu nosaukumu, reģistrācijas numuru un juridisko adresi;\n2) reorganizācijas sekas reorganizācijas procesā iesaistīto nodibinājumu darbiniekiem;\n3) sadalīšanās gadījumā — katram nodibinājumam nododamo mantu.\n(5) Ja sadalīšanās procesā nav iesaistīts cits jau pastāvošs nodibinājums, sadalāmais nodibinājums pieņem lēmumu par sadalīšanu, kas aizstāj šajā pantā minēto līgumu. Lēmumā par sadalīšanu papildus šā panta trešajā daļā minētajām ziņām norāda iegūstošā nodibinājuma nosaukumu, juridisko adresi un ziņas par sadalāmā nodibinājuma mantas sadali. Mantas sadales aktu var pievienot lēmumam atsevišķa dokumenta veidā.\n(6) Pieteikumam par reorganizācijas ieraksta izdarīšanu papildus pievieno dokumentu, kas apliecina citas pārvaldes institūcijas piekrišanu reorganizācijai (ja statūtos ir paredzēta šādas piekrišanas došana)."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn1",
+      "title": "1. Likuma spēkā stāšanās kārtību nosaka ar īpašu likumu.",
+      "content": "1. Likuma spēkā stāšanās kārtību nosaka ar īpašu likumu."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn2",
+      "title": "2. Likuma 15.panta 9.punkts, 19.panta 2.punkts, 53.panta 2.punkts, 55. un 64.pants , 104.panta 3.punkts un 106.pants stājas spēkā vienlaikus ar likumu, kurš regulē biedrību un nodibinājumu maksātnespēju.",
+      "content": "2. Likuma 15.panta 9.punkts, 19.panta 2.punkts, 53.panta 2.punkts, 55. un 64.pants , 104.panta 3.punkts un 106.pants stājas spēkā vienlaikus ar likumu, kurš regulē biedrību un nodibinājumu maksātnespēju."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn3",
+      "title": "3. Grozījums šā likuma 6.panta trešajā daļā stājas spēkā vienlaikus ar grozījumiem likumā “ Par Latvijas Republikas Uzņēmumu reģistru ”, kas paredz nosaukumu veidošanā un reģistrācijā ievērot nosacījumu, ka reģistrācijai pieteiktais nosaukums nedrīkst sakrist ar reģistra iestādes reģistros ierakstīšanai pieteiktu vai ierakstītu nosaukumu.",
+      "content": "( 21.01.2010 . likuma redakcijā, kas stājas spēkā 24.02.2010. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn4",
+      "title": "4. Grozījums šā likuma 6.panta trešajā daļā par nosaukumu atšķiramību no citos reģistra iestādes reģistros jau ierakstītajiem nosaukumiem neskar biedrību un nodibinājumu tiesības uz nosaukumu, kas ierakstīts reģistrā līdz šo grozījumu spēkā stāšanās dienai.",
+      "content": "( 21.01.2010 . likuma redakcijā, kas stājas spēkā 24.02.2010. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn5",
+      "title": "5. Grozījumi par šā likuma 68.panta papildināšanu ar 5. 1 daļu un 108.panta papildināšanu ar 2. 1 daļu stājas spēkā 2010.gada 1.jūlijā.",
+      "content": "( 21.01.2010 . likuma redakcijā, kas stājas spēkā 24.02.2010. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn6",
+      "title": "6. Šā likuma grozījums par 52.panta izteikšanu jaunā redakcijā, kas paredzēja biedrībām un nodibinājumiem, kuru apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem pārskata gadā nepārsniedz 25 000 latu un kuri grāmatvedību kārto vienkāršā ieraksta sistēmā, sagatavot, pārbaudīt un iesniegt Valsts ieņēmumu dienestam tikai atsevišķas gada pārskata daļas — ieņēmumu un izdevumu pārskatu un ziedojumu un dāvinājumu pārskatu —, attiecināms uz iesniedzamajiem biedrību un nodibinājumu gada pārskatiem par 2012.gadu un 2013.gadu. Biedrību un nodibinājumu gada pārskati par laiku līdz 2011.gada 31.decembrim Valsts ieņēmumu dienestam iesniedzami atbilstoši to normatīvo aktu prasībām, kuri bija spēkā līdz 2011.gada 31.decembrim.",
+      "content": "( 15.12.2011 . likuma redakcijā ar grozījumiem, kas izdarīti ar 12.09.2013. un 03.10.2013 . likumu, kas stājas spēkā 02.01.2014. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn7",
+      "title": "7. (Izslēgts ar 03.10.2013 . likumu, kas stājas spēkā 02.01.2014. )",
+      "content": "7. (Izslēgts ar 03.10.2013 . likumu, kas stājas spēkā 02.01.2014. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn8",
+      "title": "8. Šā likuma 15.panta 3.punktā minēto ierakstu par biedrības vai nodibinājuma darbības jomu līdz dienai, kad stājas spēkā tādi normatīvie akti, kuri paredz noteiktas biedrību un nodibinājumu darbības jomas, izdara tikai par darba devēju organizācijām un to apvienībām, kas dibinātas saskaņā ar Darba devēju organizāciju un to apvienību likumu , pamatojoties uz attiecīgu darba devēju organizācijas vai darba devēju organizāciju apvienības pieteikumu par darba devēju organizācijas vai darba devēju organizāciju apvienības ierakstīšanu biedrību un nodibinājumu reģistrā, kā arī — pēc Arodbiedrību likuma spēkā stāšanās — par arodbiedrībām un to apvienībām.",
+      "content": "( 03.10.2013 . likuma redakcijā, kas stājas spēkā 02.01.2014. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn9",
+      "title": "9. Šā likuma 15.panta 3.punktā minēto ierakstu par biedrības darbības jomu attiecībā uz tām biedrībām, kuras dibinātas un darbojas saskaņā ar Darba devēju organizāciju un to apvienību likumu un ir ierakstītas biedrību un nodibinājumu reģistrā līdz šā likuma 15.panta 3.punkta spēkā stāšanās dienai, izdara, pamatojoties uz attiecīgu darba devēju organizācijas vai darba devēju organizāciju apvienības pieteikumu, kurā tā apliecina savu atbilstību darba devēju organizācijas vai darba devēju organizāciju apvienības darbības jomai.",
+      "content": "( 03.10.2013 . likuma redakcijā, kas stājas spēkā 02.01.2014. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn10",
+      "title": "10. Ministru kabinets līdz 2014.gada 2.jūlijam izstrādā šā likuma 13.panta trešajā daļā minētos noteikumus.",
+      "content": "( 03.10.2013 . likuma redakcijā, kas stājas spēkā 02.01.2014. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn11",
+      "title": "11. Šā likuma 12. 1 pants, kā arī grozījumi 13. pantā un 15. panta 3. punktā attiecībā uz biedrību un nodibinājumu darbības jomas obligātu norādīšanu stājas spēkā 2024. gada 1. jūlijā.",
+      "content": "( 22.02.2024 . likuma redakcijā, kas stājas spēkā 20.03.2024. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn12",
+      "title": "12. Šā likuma 37. 1 pants attiecībā uz attālinātu dalību un balsošanu biedru sapulcē stājas spēkā 2024. gada 1. jūlijā.",
+      "content": "( 22.02.2024 . likuma redakcijā, kas stājas spēkā 20.03.2024. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn13",
+      "title": "13. Šā likuma 19. panta 5. punkts, 53. panta 4. 1 un 4. 2 punkts, 56. 1 pants, 58. panta trešā daļa, 59. panta 3. 1 daļa, 59. 1 pants, 60. panta ceturtā daļa, 61. panta 3. 1 daļa, 68. panta 5. 2 daļa, 104. panta 3. 1 un 3. 2 punkts, 106. 1 pants, 107. panta 1. 1 daļa un 108. panta 2. 2 daļa attiecībā uz biedrību un nodibinājumu darbības izbeigšanu ar reģistra iestādes vai Valsts ieņēmumu dienesta lēmumu stājas spēkā 2024. gada 1. jūlijā.",
+      "content": "( 22.02.2024 . likuma redakcijā, kas stājas spēkā 20.03.2024. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn14",
+      "title": "14. Tās biedrības un nodibinājumi, kuri ir ierakstīti biedrību un nodibinājumu reģistrā līdz 2024. gada 30. jūnijam, darbības jomu norāda, iesniedzot Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmā gada pārskatu par 2024. gadu.",
+      "content": "( 22.02.2024 . likuma redakcijā, kas stājas spēkā 20.03.2024. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "XII nodaļa Aizliegums nodibinājumam veikt publisko darbību vai citu darbību, nodibinājuma darbības izbeigšanās, likvidācija un reorganizācija (Nodaļas nosaukums 02.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )",
+      "section": "pn15",
+      "title": "15. Ministru kabinets līdz 2024. gada 30. jūnijam izdod šā likuma 12. 1 pantā minētos noteikumus.",
+      "content": "( 22.02.2024 . likuma redakcijā, kas stājas spēkā 20.03.2024. )"
+    },
+    {
+      "provision_ref": "Art. 213",
+      "chapter": "Informatīva atsauce uz Eiropas Savienības direktīvām ( 02.11.2006 . likuma redakcijā ar grozījumiem, kas izdarīti ar 16.06.2011 . likumu, kas stājas spēkā 20.07.2011. )",
+      "section": "213",
+      "title": "Likumā iekļautas tiesību normas, kas izriet no:",
+      "content": "1) Padomes 2000.gada 29.jūnija direktīvas 2000/43/EK , ar ko ievieš vienādas attieksmes principu pret personām neatkarīgi no rasu vai etniskās piederības;\n2) Padomes 2000.gada 27.novembra direktīvas 2000/78/EK , ar ko nosaka kopēju sistēmu vienlīdzīgai attieksmei pret nodarbinātību un profesiju;\n3) Padomes 2004.gada 13.decembra direktīvas 2004/113/EK , ar kuru īsteno principu, kas paredz vienlīdzīgu attieksmi pret vīriešiem un sievietēm, attiecībā uz pieeju precēm un pakalpojumiem, preču piegādi un pakalpojumu sniegšanu;\n4) Eiropas Parlamenta un Padomes 2006.gada 5.jūlija direktīvas 2006/54/EK par tāda principa īstenošanu, kas paredz vienlīdzīgas iespējas un attieksmi pret vīriešiem un sievietēm nodarbinātības un profesijas jautājumos;\n5) Eiropas Parlamenta un Padomes 2009.gada 18.jūnija direktīvas 2009/52/EK , ar ko nosaka minimālos standartus sankcijām un pasākumiem pret darba devējiem, kas nodarbina trešo valstu valstspiederīgos, kuri dalībvalstīs uzturas nelikumīgi;\n6) Eiropas Parlamenta un Padomes 2010.gada 7.jūlija direktīvas 2010/41/ES par to, kā piemērot vienlīdzīgas attieksmes principu vīriešiem un sievietēm, kas darbojas pašnodarbinātas personas statusā, un ar kuru atceļ Padomes direktīvu 86/613/EEK ."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,919 @@
+{
+  "id": "lv-law-177507",
+  "type": "statute",
+  "title": "Pārapdrošināšanas likums",
+  "short_name": "TA-177507",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/177507-parapdrosinasanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "(1) Likumā ir lietoti šādi termini:",
+      "content": "1) pārapdrošināšana — cedēto risku pieņemšana no apdrošināšanas komersanta, pārapdrošināšanas komersanta vai privātā pensiju fonda;\n2) cedētā pārapdrošināšana — apdrošināto risku nodošana apdrošināšanas komersantam vai pārapdrošināšanas komersantam;\n3) retrocesija — pārapdrošināto risku nodošana apdrošināšanas komersantam vai pārapdrošināšanas komersantam;\n4) pārapdrošinātājs — Latvijā reģistrēta:\na) komercsabiedrība, kas reģistrēta kā akciju sabiedrība vai sabiedrība ar ierobežotu atbildību, vai Eiropas komercsabiedrība, kurai saskaņā ar šo likumu ir tiesības nodarboties ar pārapdrošināšanu (turpmāk — pārapdrošināšanas sabiedrība),\nb) ārvalsts pārapdrošinātāja filiāle, kurai saskaņā ar šo likumu ir tiesības nodarboties ar pārapdrošināšanu;\n5) dalībvalsts pārapdrošinātājs — ārvalsts pārapdrošinātājs, kurš reģistrēts dalībvalstī un kuram mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanu;\n6) ārvalsts pārapdrošinātājs — ārpus Latvijas reģistrēta persona, kurai mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanu;\n7) nedalībvalsts pārapdrošinātājs — ārpus dalībvalsts reģistrēta persona, kurai mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanu;\n8) filiāle — pārapdrošināšanas komersanta filiāle. Šā likuma izpratnē filiālei pielīdzināma pārapdrošināšanas komersanta pastāvīga klātbūtne dalībvalstī, un šo klātbūtni pārapdrošināšanas komersants nodrošina, izveidojot dalībvalstī biroju vai arī nodarbinot kādu neatkarīgu personu, kurai pārapdrošināšanas komersants piešķir pastāvīgas pilnvaras rīkoties tā vārdā tādā veidā, kādā to darītu filiāle;\n9) pārapdrošināšanas sabiedrības filiāle — ārvalstī pārapdrošināšanas sabiedrības izveidota un reģistrēta filiāle, kura darbojas pārapdrošināšanas sabiedrības vārdā;\n10) ārvalsts pārapdrošinātāja filiāle — Latvijā izveidota un reģistrēta ārvalsts pārapdrošinātāja filiāle, kura darbojas kā:\na) dalībvalsts pārapdrošinātāja filiāle — Latvijā izveidota un reģistrēta dalībvalsts pārapdrošinātāja filiāle,\nb) nedalībvalsts pārapdrošinātāja filiāle — Latvijā izveidota un reģistrēta nedalībvalsts pārapdrošinātāja filiāle;\n11) pārapdrošināšanas komersants — juridiskā persona, kas dalībvalstī ir tiesīga nodarboties ar pārapdrošināšanu;\n12) pārapdrošinājuma ņēmējs — apdrošināšanas komersants, pārapdrošināšanas komersants vai privātais pensiju fonds, kas noslēdz cedētās pārapdrošināšanas vai retrocesijas līgumu, ar kuru apdrošināšanas komersants vai pārapdrošināšanas komersants cedē apdrošinātos vai pārapdrošinātos riskus citam apdrošināšanas komersantam vai pārapdrošināšanas komersantam vai ar kuru privātais pensiju fonds cedē biometriskos riskus apdrošināšanas komersantam vai pārapdrošināšanas komersantam;\n13) mītnes (reģistrācijas) valsts — valsts, kurā atrodas pārapdrošināšanas sabiedrības vadība (sabiedrības sēdeklis);\n14) dalībvalsts — Eiropas Savienības vai Eiropas Ekonomikas zonas valsts;\n15) filiāles dalībvalsts — dalībvalsts, kurā atrodas pārapdrošināšanas sabiedrības filiāle;\n16) kontrole — personas kontrole pār komercsabiedrību, kas izpaužas tādā veidā, ka:\na) šai personai komercsabiedrībā ir izšķirošā ietekme uz līdzdalības pamata,\nb) šai personai komercsabiedrībā ir izšķirošā ietekme uz koncerna līguma pamata,\nc) starp šo personu un komercsabiedrību pastāv jebkādas citas šā punkta “a” vai “b” apakšpunktā minētajām attiecībām analogas attiecības;\n17) būtiska līdzdalība — personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības darbību;\n18) ciešas attiecības — divu vai vairāku personu savstarpēja saistība:\na) dalības veidā — personai tiešā vai kontroles veidā ir 20 un vairāk procentu balsstiesību komercsabiedrībā vai persona tiešā vai kontroles veidā ieguvusi līdzdalību, kas aptver 20 un vairāk procentu no komercsabiedrības pamatkapitāla vai balss­tiesīgo akciju vai daļu skaita,\nb) kontroles veidā,\nc) ar vienu un to pašu personu kontroles veidā;\n19) mātes sabiedrība — komercsabiedrība, kura kontrolē citu komercsabiedrību;\n20) meitas sabiedrība — komercsabiedrība, kuru kontrolē cita komercsabiedrība. Jebkuras meitas sabiedrības meitas sabiedrība ir uzskatāma par tās mātes sabiedrības meitas sabiedrību;\n21) dalības sabiedrība — mātes sabiedrība vai komercsabiedrība, kura tiešā vai kontroles veidā ieguvusi 20 vai vairāk procentu balsstiesību kādā komercsabiedrībā vai arī tiešā vai kontroles veidā ieguvusi komercsabiedrībā līdzdalību, kas aptver 20 un vairāk procentu no pamatkapitāla vai balsstiesīgo akciju skaita;\n22) saistītā sabiedrība — meitas sabiedrība vai komercsabiedrība, kurā tiešā vai kontroles veidā ir iegūti 20 vai vairāk procentu balsstiesību vai arī tiešā vai kontroles veidā iegūta līdzdalība, kas aptver 20 un vairāk procentu no pamatkapitāla vai balsstiesīgo akciju skaita;\n23) finanšu uzņēmums ir:\na) kredītiestāde, finanšu iestāde Kredīt­iestāžu likuma izpratnē vai komercsabiedrība, kuras pamatdarbība ir nekustamā īpašuma iegāde vai pārvaldīšana, datu apstrādes pakalpojumu sniegšana vai jebkāda cita līdzīga darbība, kas papildina vienas vai vairāku kredītiestāžu pamatdarbību,\nb) apdrošināšanas komercsabiedrība, pārapdrošināšanas komercsabiedrība vai apdrošināšanas pārvaldītājsabiedrība,\nc) ieguldījumu brokeru sabiedrība vai finanšu iestāde Finanšu instrumentu tirgus likuma izpratnē,\nd) jaukta finanšu pārvaldītājsabiedrība;\n24) pārapdrošināšanas gadījums — ar pārapdrošināto risku cēloņsakarīgi saistīts notikums, kuram iestājoties paredzēta pārapdrošināšanas atlīdzības izmaksa atbilstoši pārapdrošināšanas līgumam;\n25) pārapdrošināšanas prēmija — pārapdrošināšanas, cedētās pārapdrošināšanas vai retrocesijas līgumā noteiktais maksājums par apdrošināto, pārapdrošināto vai biometrisko risku nodošanu apdrošināšanas komersantam vai pārapdrošināšanas komersantam;\n26) pārapdrošināšanas atlīdzība — par pārapdrošināšanas gadījumu atbilstoši pārapdrošināšanas līgumam izmaksājamā naudas summa;\n27) pārapdrošinātāju uzraudzības institūcijas — valsts iestādes, kurām saskaņā ar likumu ir piešķirtas tiesības uzraudzīt pārapdrošināšanas komersantus;\n28) ārpakalpojumu sniedzējs — persona, kura, pamatojoties uz rakstveida līgumu ar pārapdrošināšanas sabiedrību vai nedalībvalsts pārapdrošinātāja filiāli, apņemas sniegt vai sniedz ārpakalpojumus pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei;\n29) brīvais kapitāls — personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem;\n30) starptautiskā reitinga aģentūra — dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī (turpmāk — OECD dalībvalsts) reģistrēta reitinga aģentūra, kura sniedz vērtējumu par finanšu un kapitāla tirgus dalībnieku, tostarp pārapdrošināšanas komersantu, finanšu drošību un kuras vērtējumu atzīst dalībvalstu apdrošinātāju uzraudzības institūcijas;\n31) kritiskās situācijas analīze — analīze, ko veic pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, lai noteiktu un izvērtētu dažādu ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu iespējamo ietekmi uz pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles spēju pilnībā izpildīt no pārapdrošināšanas līgumiem izrietošās saistības un nodrošināt finansiālās darbības stabilitāti.\n(2) Likumā ir lietoti arī termini, kuri atbilst Finanšu konglomerātu likumā lietotajiem terminiem."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "(1) Likums nosaka pārapdrošināšanas pakalpojumu sniegšanas kārtību.",
+      "content": "(2) Kārtību, kādā bankrota gadījumā izbeidz pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbību, un to likvidācijas kārtību regulē Maksātnespējas likums, ciktāl tas nav pretrunā ar šo likumu.\n(3) Kārtību, kādā likvidē pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāli, nosaka normatīvie akti, kas regulē akciju sabiedrību, sabiedrību ar ierobežotu atbildību, Eiropas komercsabiedrību vai ārvalstu komersantu filiāļu likvidāciju, ciktāl tie nav pretrunā ar šo likumu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Šis likums neattiecas uz:",
+      "content": "1) apdrošināšanas komersantiem, ja šajā likumā nav noteikts citādi;\n2) Apdrošināšanas sabiedrību un to uzraudzības likuma 3.pantā noteiktajām personām;\n3) pārapdrošināšanas pakalpojumiem, ko sniedz vai pilnībā garantē dalībvalsts valdība, ja tā būtisku sabiedrības interešu vārdā rīkojas kā pārapdrošinātājs, kā arī apstākļos, kad atbilstoša pārapdrošināšanas seguma iegūšana tirgū nav iespējama."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Komersantam aizliegts izmantot firmā vārdu “pārapdrošināšana” vai vārdu “pārapdrošinātājs” jebkurā locījumā un vārdu savienojumā tādā veidā, kas varētu radīt maldīgu priekšstatu par tā tiesībām nodarboties ar pārapdrošināšanu vai pārapdrošināšanas starpniecību.",
+      "content": "4.pants. Komersantam aizliegts izmantot firmā vārdu “pārapdrošināšana” vai vārdu “pārapdrošinātājs” jebkurā locījumā un vārdu savienojumā tādā veidā, kas varētu radīt maldīgu priekšstatu par tā tiesībām nodarboties ar pārapdrošināšanu vai pārapdrošināšanas starpniecību."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle veic:",
+      "content": "1) pārapdrošināšanu Finanšu un kapitāla tirgus komisijas izsniegtajā pārapdrošināšanas licencē norādītajos pārapdrošināšanas veidos;\n2) komercdarbību, kas tieši saistīta ar pārapdrošināšanu;\n3) komercdarbību, kas tieši saistīta ar pārapdrošināšanas starpniecību.\n(2) Pārapdrošināšanas komersants nedrīkst:\n1) veikt komercdarbību, kas nav noteikta šā panta pirmajā daļā;\n2) izpaust pārapdrošināšanas gaitā uzzināto informāciju, izņemot šajā likumā un citos likumos paredzētos gadījumus. Ja informācija tiek izpausta likumos paredzētajos gadījumos, pārapdrošināšanas komersants nav atbildīgs par informācijas izpaušanas sekām.\n(3) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nedrīkst emitēt parāda vērtspapīrus un ņemt aizņēmumus. Šis ierobežojums neattiecas uz aizņēmumiem, kuri tiek iekļauti pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pašu līdzekļu aprēķinā, un uz aizņēmumiem, kuru termiņš nav ilgāks par trim mēnešiem, ja šie aizņēmumi ņemti, lai nodrošinātu pārapdrošināšanas atlīdzību (par kuru izmaksu pieņemts pārapdrošinātāja lēmums) savlaicīgas izmaksas, un pirms ņemšanas saskaņoti ar Finanšu un kapitāla tirgus komisiju.\n(4) Nedalībvalsts pārapdrošinātāja filiāle drīkst pārapdrošināt tos apdrošinātos riskus, ar kuriem saistītie apdrošināšanas objekti atrodas Latvijā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "6",
+      "title": "(1) Pārapdrošināšanai Latvijā pārapdrošinātājs un dalībvalsts pārapdrošinātājs drīkst izmantot tikai tādu pārapdrošināšanas starpnieku pakalpojumus, kuri ir tiesīgi sniegt pārapdrošināšanas starpnieku pakalpojumus Latvijā.",
+      "content": "(2) Pārapdrošināšanai ārvalstī pārapdrošināšanas sabiedrība, ievērojot attiecīgās valsts normatīvos aktus, drīkst izmantot tikai tādu pārapdrošināšanas starpnieku pakalpojumus, kuri ir tiesīgi sniegt pārapdrošināšanas starpnieku pakalpojumus attiecīgajā valstī."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "7",
+      "title": "(1) Vienīgi pārapdrošināšanas komersantam, kurš ir tiesīgs nodarboties ar pārapdrošināšanu Latvijā, ir tiesības reklamēt sniedzamos pārapdrošināšanas pakalpojumus Latvijas teritorijā.",
+      "content": "(2) Pārapdrošināšanas sabiedrībai, ievērojot attiecīgās valsts normatīvos aktus, ir tiesības reklamēt sniedzamos pārapdrošināšanas pakalpojumus vienīgi tajā valstī, kurā pārapdrošināšanas sabiedrībai ir tiesības atvērt filiāli vai kurā tai ir tiesības sniegt pārapdrošināšanas pakalpojumus, ievērojot pakalpojumu sniegšanas brīvības principu, neatverot filiāli."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Pārapdrošināšanas komersantam un šā likuma 86.panta pirmajā daļā minētajām personām nedrīkst piederēt pārapdrošinātājs, kas nodrošina pārapdrošināšanas segumu tikai tiem riskiem, kas attiecas uz komersantu vai komersantu grupu, kurai tas pieder vai kurā tas ietilpst (kaptīvs pārapdrošinātājs).",
+      "content": "8.pants. Pārapdrošināšanas komersantam un šā likuma 86.panta pirmajā daļā minētajām personām nedrīkst piederēt pārapdrošinātājs, kas nodrošina pārapdrošināšanas segumu tikai tiem riskiem, kas attiecas uz komersantu vai komersantu grupu, kurai tas pieder vai kurā tas ietilpst (kaptīvs pārapdrošinātājs)."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "9",
+      "title": "Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt pārapdrošināšanas sabiedrības akcionāru un pārapdrošināšanas sabiedrības ar ierobežotu atbildību vai pārapdrošināšanas Eiropas komercsabiedrības dalībnieku identitāti, bet, ja pārapdrošināšanas sabiedrības akcionāri vai pārapdrošināšanas sabiedrības ar ierobežotu atbildību vai pārapdrošināšanas Eiropas komercsabiedrības dalībnieki ir juridiskās personas, — ziņas par to akcionāriem vai dalībniekiem un īpašniekiem (patiesajiem labuma guvējiem), līdz ir iegūta informācija par īpašniekiem (patiesajiem labuma guvējiem) — fiziskajām personām. Minētajām personām ir pienākums sniegt Finanšu un kapitāla tirgus komisijai šo informāciju, ja tā nav pieejama publiskajos reģistros, no kuriem Finanšu un kapitāla tirgus komisija ir tiesīga šādu informāciju saņemt.",
+      "content": "9.pants. Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt pārapdrošināšanas sabiedrības akcionāru un pārapdrošināšanas sabiedrības ar ierobežotu atbildību vai pārapdrošināšanas Eiropas komercsabiedrības dalībnieku identitāti, bet, ja pārapdrošināšanas sabiedrības akcionāri vai pārapdrošināšanas sabiedrības ar ierobežotu atbildību vai pārapdrošināšanas Eiropas komercsabiedrības dalībnieki ir juridiskās personas, — ziņas par to akcionāriem vai dalībniekiem un īpašniekiem (patiesajiem labuma guvējiem), līdz ir iegūta informācija par īpašniekiem (patiesajiem labuma guvējiem) — fiziskajām personām. Minētajām personām ir pienākums sniegt Finanšu un kapitāla tirgus komisijai šo informāciju, ja tā nav pieejama publiskajos reģistros, no kuriem Finanšu un kapitāla tirgus komisija ir tiesīga šādu informāciju saņemt."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "10",
+      "title": "(1) Latvijā ir aizliegts dibināt sabiedrību īpašam nolūkam.",
+      "content": "(2) Par īpašam nolūkam dibinātu sabiedrību uzskatāma komercsabiedrība, kura nav apdrošināšanas komercsabiedrība vai pārapdrošināšanas komercsabiedrība, kura uzņemas apdrošināšanas komercsabiedrības vai pārapdrošināšanas komercsabiedrības riskus un kura savu pakļautību šādiem riskiem pilnībā finansē ar aizņēmumiem vai ar kādu citu finansēšanas mehānismu, ja šāda aizņēmuma ņemšana vai cits finansēšanas mehānisms ir pakļauts šādas komercsabiedrības pārapdrošināšanas saistībām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "11",
+      "title": "(1) Pārapdrošinātājs uzskatāms par finanšu un kapitāla tirgus dalībnieku Finanšu un kapitāla tirgus komisijas likuma izpratnē, un uz to attiecas Finanšu un kapitāla tirgus komisijas likuma normas, kas regulē finanšu un kapitāla tirgus dalībnieku darbību.",
+      "content": "(2) Pārapdrošinātājs Finanšu un kapitāla tirgus komisijas darbības finansēšanai maksā līdz 0,7 procentiem no ceturksnī saņemto pārapdrošināšanas prēmiju kopsummas.\n(3) Pārapdrošinātājs Finanšu un kapitāla tirgus komisijas noteiktajā kārtībā un termiņos iesniedz pārskatu, kas nepieciešams šā panta otrajā daļā noteikto maksājumu aprēķināšanai, un līdz ceturksnim sekojošā mēneša trīsdesmitajam datumam veic attiecīgos maksājumus.\n(4) Finanšu un kapitāla tirgus komisija izdod normatīvos noteikumus par šā panta trešajā daļā minēto pārskatu iesniegšanas un maksājumu aprēķināšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "12",
+      "title": "(1) Pārapdrošinātājs var uzsākt pārapdrošināšanu tikai pēc tā ierakstīšanas komercreģistrā, pārapdrošināšanas licences saņemšanas un šā likuma prasību izpildes.",
+      "content": "(2) Pārapdrošināšanas licenci izsniedz uz nenoteiktu laiku saskaņā ar šo likumu, citiem normatīvajiem aktiem un Finanšu un kapitāla tirgus komisijas noteikto kārtību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "13",
+      "title": "(1) Pārapdrošināšanas sabiedrībai izsniegtā pārapdrošināšanas licence ir derīga dalībvalstīs.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija izsniedz pārapdrošināšanas licenci šādiem pārapdrošināšanas veidiem:\n1) dzīvības apdrošināšanas risku pārapdrošināšanai;\n2) nedzīvības apdrošināšanas risku pārapdrošināšanai;\n3) dzīvības apdrošināšanas risku un nedzīvības apdrošināšanas risku pārapdrošināšanai.\n(3) Pārapdrošināšanas licenci izsniedz katram pārapdrošināšanas veidam atsevišķi, ievērojot šā likuma nosacījumus.\n(4) Licence dzīvības apdrošināšanas risku pārapdrošināšanai ļauj pārapdrošināt dzīvības apdrošināšanas riskus.\n(5) Licence nedzīvības apdrošināšanas risku pārapdrošināšanai ļauj pārapdrošināt nedzīvības apdrošināšanas riskus.\n(6) Licence dzīvības apdrošināšanas risku un nedzīvības apdrošināšanas risku pārapdrošināšanai ļauj pārapdrošināt dzīvības apdrošināšanas un nedzīvības apdrošināšanas riskus."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "14",
+      "title": "Finanšu un kapitāla tirgus komisija nosaka kārtību, kādā pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles sniedz informāciju par personām, ar kurām pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātājam, kurš atvēris filiāli Latvijā, ir ciešas attiecības.",
+      "content": "14.pants. Finanšu un kapitāla tirgus komisija nosaka kārtību, kādā pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles sniedz informāciju par personām, ar kurām pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātājam, kurš atvēris filiāli Latvijā, ir ciešas attiecības."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "15",
+      "title": "(1) Lai saņemtu pārapdrošināšanas licenci, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātājs iesniedz Finanšu un kapitāla tirgus komisijai:",
+      "content": "1) iesniegumu par pārapdrošināšanas licences izsniegšanu;\n2) akcionāru vai dalībnieku sarakstu un grupas struktūru;\n3) to personu sarakstu, ar kurām pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātājam ir ciešas attiecības;\n4) bankas dokumentu, kas apstiprina naudas iemaksu garantijas fonda izveidei;\n5) (izslēgts ar 26.02.2009 . likumu) ;\n6) ziņas par amatpersonām saskaņā ar šā likuma 20. un 21.panta prasībām;\n7) darbības nodrošināšanas struktūru, arī administratīvo dienestu izveidei nepieciešamo izdevumu aprēķinu un informāciju par līdzekļu avotiem šo izdevumu segšanai;\n8) darbības plānu pirmajiem trim darbības gadiem. Plānā ietver:\na) pārapdrošināmo risku aprakstu,\nb) informāciju par pārapdrošināšanas līgumu veidiem, kādus pārap­drošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle plāno slēgt ar cedentiem,\nc) galvenos retrocesijas principus un procedūru,\nd) informāciju par plānotajiem administratīvajiem izdevumiem, kas nav izveidošanas izmaksas, proti, kārtējiem vispārējiem izdevumiem un komisijas atlīdzībām,\ne) informāciju par plānotajām pārapdrošināšanas prēmijām vai citām iemaksām, kā arī par pārapdrošināšanas atlīdzībām,\nf) tarifu aprēķināšanas politiku un procedūru,\ng) tehnisko rezervju aprēķināšanas politiku un procedūru,\nh) pārapdrošinātā riska parakstīšanas un pārapdrošināšanas prēmijas noteikšanas politiku un procedūru,\ni) ieguldījumu veidošanas politiku un procedūru,\nj) informāciju par finanšu resursiem pārapdrošināšanas saistību izpildes un maksātspējas prasības izpildes nodrošināšanai,\nk) pārskata projektu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskata projektu par finansiālās darbības rezultātiem pārskata periodā;\n9) pārvaldības sistēmas politiku un procedūru, ietverot šādu informāciju:\na) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles organizatorisko struktūru ar skaidri norādītu tās vadītāju pilnvaru un pienākumu sadali, struktūrvienību uzdevumiem un to vadītāju pienākumiem,\nb) grāmatvedības politikas un uzskaites organizācijas galvenos principus,\nc) risku pārvaldīšanas politiku un procedūru,\nd) vadības informācijas sistēmas aprakstu,\ne) informācijas sistēmu aizsardzības politiku un procedūru,\nf) iekšējās revīzijas funkciju nodrošināšanas aprakstu,\ng) neparastu un aizdomīgu finanšu darījumu identifikācijas procedūru;\n10) bankas dokumentu, kas apstiprina, ka nedalībvalsts pārapdrošinātāja filiāle ir noguldījusi kā drošības naudu Latvijā reģistrētā kredītiestādē ne mazāk kā 25 procentus no garantijas fonda minimālā lieluma.\n(2) Lai saņemtu pārapdrošināšanas licenci citam pārapdrošināšanas veidam, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle iesniedz Finanšu un kapitāla tirgus komisijai:\n1) iesniegumu par pārapdrošināšanas licences izsniegšanu citam pārapdrošināšanas veidam;\n2) jaunā pārapdrošināšanas veida ieviešanai nepieciešamo papildu izdevumu aprēķinu un informāciju par to segšanai nepieciešamo līdzekļu avotiem;\n3) darbības plānu trim gadiem attiecībā uz to pārapdrošināšanas veidu, kuram tiek pieprasīta pārapdrošināšanas licence, norādot tehnisko rezervju plānoto apmēru."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "16",
+      "title": "(1) Par pārapdrošināšanas sabiedrības akcionāru un pārapdrošināšanas sabiedrības ar ierobežotu atbildību vai pārapdrošināšanas Eiropas komercsabiedrības dalībnieku ir tiesīga būt:",
+      "content": "1) fiziskā persona;\n2) juridiskā (reģistrēta) persona, kuras:\na) darbības laiks nav mazāks par trim finanšu gadiem,\nb) finanšu pārskati tiek gatavoti saskaņā ar starptautiskajiem grāmat­vedības standartiem un starptautiskajiem finanšu pārskatu standartiem, revidēti saskaņā ar starptautiskajiem revīzijas standartiem, un tiem ir pievienots zvērināta revidenta ziņojums. Dalībvalstī reģistrētas juridiskās personas finanšu pārskati var būt sagatavoti saskaņā ar attiecīgajā dalībvalstī spēkā esošajiem grāmatvedības standartiem;\n3) valsts vai pašvaldība.\n(2) Šā panta pirmajā daļā minētajām personām ir nepieciešama nevainojama reputācija un brīvais kapitāls vismaz pilna paredzamā ieguldījuma (akciju vai daļu iegādes darījumā) apjomā.\n(3) Izvērtējot personas reputāciju un brīvā kapitāla pietiekamību, Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt šā panta pirmajā daļā minēto personu identitāti, sodāmību un dokumentus par brīvo kapitālu, kuri ļauj pārliecināties par brīvā kapitāla pietiekamību izdarīto ieguldījumu apmērā, kā arī pārbaudīt, vai ieguldītie līdzekļi nav iegūti neparastos vai aizdomīgos darījumos.\n(4) Par pārapdrošināšanas sabiedrības akcionāriem un pārapdrošināšanas sabiedrības ar ierobežotu atbildību vai pārapdrošināšanas Eiropas komercsabiedrības dalībniekiem nevar būt fiziskās personas, kā arī tās juridiskās personas, uz kuru akcionāriem vai dalībniekiem un īpašniekiem (patiesajiem labuma guvējiem) — fiziskajām personām — var attiecināt šā likuma 22.panta pirmās daļas 1., 2., 3. vai 4.punktu vai kuras ir pildījušas padomes vai valdes locekļa pienākumus finanšu uzņēmumā, kas atzīts par maksātnespējīgu minēto pienākumu pildīšanas laikā, vai kuras ir pildījušas padomes vai valdes locekļa pienākumus citā komercsabiedrībā un savas nolaidības dēļ vai tīši novedušas šo komercsabiedrību līdz kriminālsodāmai maksātnespējai vai bankrotam.\n(5) Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt pārapdrošināšanas sabiedrības akcionāru, pārapdrošināšanas sabiedrības ar ierobežotu atbildību un pārapdrošināšanas Eiropas komercsabiedrības dalībnieku identitāti, bet, ja jaunizveidotas pārapdrošināšanas sabiedrības ar ierobežotu atbildību un pārapdrošināšanas Eiropas komercsabiedrības dalībnieki ir juridiskās personas, — ziņas par to akcionāriem vai dalībniekiem un īpašniekiem (patiesajiem labuma guvējiem), līdz ir iegūta informācija par īpašniekiem (patiesajiem labuma guvējiem) — fiziskajām personām. Minētajām personām ir pienākums sniegt Finanšu un kapitāla tirgus komisijai šo informāciju, ja tā nav pieejama publiskajos reģistros, no kuriem Finanšu un kapitāla tirgus komisija ir tiesīga šādu informāciju saņemt."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "17",
+      "title": "(1) Finanšu un kapitāla tirgus komisija neizsniedz pārapdrošināšanas licenci, ja:",
+      "content": "1) pārapdrošināšana nav ekonomiski pamatota;\n2) pretendenta ciešas attiecības ar trešajām personām var apdraudēt tā stabilitāti un ierobežot Finanšu un kapitāla tirgus komisijas iespējas veikt uzraudzības funkcijas;\n3) citas valsts likumi un citi normatīvie akti, kas attiecas uz personām, kurām ir ciešas attiecības ar pretendentu, ierobežo Finanšu un kapitāla tirgus komisijas tiesības veikt uzraudzības funkcijas;\n4) pretendenta iesniegtie dokumenti satur nepatiesas vai nepilnīgas ziņas;\n5) viena vai vairākas no šā likuma 20.pantā minētajām personām neatbilst likuma prasībām;\n6) Finanšu un kapitāla tirgus komisija konstatē, ka finanšu līdzekļi, kuri ieguldīti pamatkapitālā vai nodoti nedalībvalsts pārapdrošinātāja filiāles rīcībā, iegūti neparastos vai aizdomīgos finanšu darījumos vai nav dokumentāri pierādīta šo finanšu līdzekļu tiesiska ieguve;\n7) nav iespējams pārliecināties par pretendenta akcionāru vai dalībnieku un to īpašnieku (patieso labuma guvēju) — fizisko personu — identitāti, nevainojamu reputāciju, brīvā kapitāla pietiekamību, kā arī pārbaudīt, vai brīvais kapitāls nav iegūts neparastos vai aizdomīgos darījumos;\n8) pretendenta akcionāri vai dalībnieki un to īpašnieki (patiesie labuma guvēji) neatbilst šā likuma prasībām;\n9) pretendenta organizatoriskās struktūras dēļ nav iespējama tā uzraudzība;\n10) pretendenta plānotā darbība neatbilst šā likuma un citu normatīvo aktu prasībām;\n11) Finanšu un kapitāla tirgus komisija nesaņem vai pārapdrošināšanas sabiedrība atsakās sniegt šā likuma 16.pantā noteikto informāciju;\n12) tiek īstenots finansiālā stāvokļa uzlabošanas plāns.\n(2) Papildus šā panta pirmajā daļā noteiktajiem gadījumiem Finanšu un kapitāla tirgus komisija nedalībvalsts pārapdrošinātāja filiālei neizsniedz pārapdrošināšanas licenci, ja:\n1) Finanšu un kapitāla tirgus komisija nav vienojusies ar nedalībvalsts pārapdrošinātāja mītnes (reģistrācijas) valsts pārapdrošinātāju uzraudzības institūciju par uzraudzības funkciju veikšanai nepieciešamās informācijas apmaiņu un sadarbību pārapdrošināšanas uzraudzības jomā;\n2) saskaņā ar nedalībvalsts pārapdrošinātāja mītnes (reģistrācijas) valsts likumiem Finanšu un kapitāla tirgus komisijai ir ierobežotas tiesības veikt nedalībvalsts pārapdrošinātāja filiāles uzraudzības funkcijas.\n(3) Finanšu un kapitāla tirgus komisija nav tiesīga atteikt pārapdrošināšanas licences izsniegšanu, pamatojoties uz tirgus ekonomiskajām vajadzībām.\n(4) Finanšu un kapitāla tirgus komisijas lēmumam par atteikšanos izsniegt pārapdrošināšanas licenci jābūt pamatotam. Lēmumu par atteikšanos izsniegt pārapdrošināšanas licenci var pārsūdzēt tiesā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "18",
+      "title": "Finanšu un kapitāla tirgus komisija iesniegumu par pārapdrošināšanas licences izsniegšanu izskata un lēmumu pieņem triju mēnešu laikā pēc visu nepieciešamo dokumentu saņemšanas.",
+      "content": "18.pants. Finanšu un kapitāla tirgus komisija iesniegumu par pārapdrošināšanas licences izsniegšanu izskata un lēmumu pieņem triju mēnešu laikā pēc visu nepieciešamo dokumentu saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "II nodaļa. Pārapdrošināšanas darbības uzsākšana un licencēšana",
+      "section": "19",
+      "title": "(1) Finanšu un kapitāla tirgus komisija konsultējas ar attiecīgās dalībvalsts uzraudzības institūciju pirms pārapdrošināšanas licences izsniegšanas tādai pārapdrošināšanas sabiedrībai:",
+      "content": "1) kura ir dalībvalsts apdrošinātāja vai dalībvalsts pārapdrošinātāja, vai dalībvalstī reģistrētas kredītiestādes, vai ieguldījumu brokeru sabiedrības meitas sabiedrība;\n2) kura ir meitas sabiedrība tādai mātes sabiedrībai, kuras cita meitas sabiedrība ir dalībvalsts apdrošinātājs, dalībvalsts pārapdrošinātājs, dalībvalstī reģistrēta kredītiestāde vai ieguldījumu brokeru sabiedrība;\n3) kuru kontrolē tāda fiziskā vai juridiskā persona, kas kontrolē dalībvalsts apdrošinātāju vai dalībvalsts pārapdrošinātāju, vai dalībvalstī reģistrētu kredītiestādi, vai ieguldījumu brokeru sabiedrību.\n(2) Finanšu un kapitāla tirgus komisija pirms pārapdrošināšanas licences izsniegšanas, kā arī licencētās pārapdrošināšanas sabiedrības uzraudzības gaitā konsultējas ar attiecīgās dalībvalsts uzraudzības institūciju, novērtējot akcionāru vai dalībnieku atbilstību šā likuma prasībām, kā arī to valdes locekļu reputāciju un pieredzi, kuri iesaistīti tāda dalībvalsts apdrošinātāja, dalībvalsts pārapdrošinātāja, kredītiestādes vai ieguldījumu brokeru sabiedrības vadībā, kas ietilpst vienā grupā ar attiecīgo pārapdrošināšanas sabiedrību.\n(3) Finanšu un kapitāla tirgus komisija, ja nepieciešams, informē šā panta pirmajā daļā noteiktās dalībvalsts uzraudzības institūcijas par visiem apstākļiem, kas attiecas uz akcionāru vai dalībnieku atbilstību šā likuma prasībām un amatpersonu reputāciju un pieredzi un kas ir svarīgi citām dalībvalstu uzraudzības institūcijām, kuras piešķir licences, kā arī pastāvīgi uzrauga darbības nosacījumu izpildi."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa. Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles amatpersonas",
+      "section": "20",
+      "title": "(1) Par pārapdrošināšanas sabiedrības valdes priekšsēdētāju, valdes locekli, iekšējā audita (revīzijas) dienesta vadītāju, nedalībvalsts pārapdrošinātāja filiāles vadītāju, kā arī personu, kas, pieņemot būtiskus lēmumus pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vārdā, rada pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei civiltiesiskas saistības, var būt persona, kura atbilst šādām prasībām:",
+      "content": "1) tā ir pietiekami kompetenta jomā, par kuru ir atbildīga, nodrošinot, ka pārapdrošināšanas sabiedrības valde tiek izveidota tā, lai pārapdrošināšanas sabiedrība būtu spējīga pastāvīgi, profesionāli, kvalitatīvi un atbilstoši normatīvo aktu prasībām nodarboties ar pārapdrošināšanu;\n2) tai ir nepieciešamā izglītība un ne mazāk kā triju gadu darba pieredze attiecīgajā jomā;\n3) tai ir nevainojama reputācija;\n4) tai nav atņemtas un nav bijušas atņemtas tiesības veikt komercdarbību.\n(2) Pirms šā panta pirmajā daļā minētās personas sāk pildīt pienākumus, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle par to informē Finanšu un kapitāla tirgus komisiju.\n(3) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja pienākums ir pašam vai pēc Finanšu un kapitāla tirgus komisijas ierosinājuma nekavējoties at­saukt no amata šā panta pirmajā daļā minēto personu, ja tiek konstatēts, ka:\n1) tā neatbilst amatam;\n2) tās rīcība ir kaitējusi pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālajai stabilitātei vai radījusi situāciju, kas var apdraudēt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālo stabilitāti;\n3) tā neievēro pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdroši­nātāja filiāles izstrādāto politiku un procedūras;\n4) tā neatbilst šā panta pirmās daļas un šā likuma 21.panta prasībām.\n(4) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa. Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles amatpersonas",
+      "section": "21",
+      "title": "(1) Par pārapdrošināšanas sabiedrības valdes priekšsēdētāju, valdes locekli, iekšējā audita (revīzijas) dienesta vadītāju, nedalībvalsts pārapdrošinātāja filiāles vadītāju, kā arī personu, kas, pieņemot būtiskus lēmumus pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vārdā, rada pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei civiltiesiskas saistības, nevar būt persona:",
+      "content": "1) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, arī ļaunprātīgu bankrotu;\n2) kura ir notiesāta par tīša noziedzīga nodarījuma izdarīšanu, kaut arī atbrīvota no soda izciešanas sakarā ar noilgumu, apžēlošanu vai amnestiju;\n3) pret kuru ierosinātais kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu ir izbeigts sakarā ar noilgumu vai amnestiju;\n4) kura saukta pie kriminālatbildības par tīša noziedzīga nodarījuma izdarīšanu, bet kriminālprocess pret to izbeigts uz nereabilitējoša pamata.\n(2) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja pienākums ir pašam vai pēc Finanšu un kapitāla tirgus komisijas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minētās personas, ja uz tām var attiecināt šā panta pirmās daļas 1., 2., 3. vai 4.punkta nosacījumus.\n(3) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa. Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles amatpersonas",
+      "section": "22",
+      "title": "Finanšu un kapitāla tirgus komisijai iesniedzamie dokumenti, kas apliecina šā likuma 21.panta pirmās daļas nosacījumu izpildi, nedrīkst būt vecāki par trim mēnešiem.",
+      "content": "22.pants. Finanšu un kapitāla tirgus komisijai iesniedzamie dokumenti, kas apliecina šā likuma 21.panta pirmās daļas nosacījumu izpildi, nedrīkst būt vecāki par trim mēnešiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa. Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles amatpersonas",
+      "section": "23",
+      "title": "(1) Par pārapdrošināšanas sabiedrības padomes locekli var būt persona, kura atbilst šā likuma 20.panta pirmās daļas 1., 2., 3. un 4.punkta prasībām. Par pārapdrošināšanas sabiedrības padomes locekli nevar būt persona, uz kuru attiecināmi šā likuma 21.panta pirmās daļas 1., 2., 3. vai 4.punkta nosacījumi.",
+      "content": "(2) Akcionāru vai dalībnieku sapulces pienākums ir pašai vai pēc Finanšu un kapitāla tirgus komisijas ierosinājuma nekavējoties atsaukt no amata šā panta pirmajā daļā minēto personu, ja tiek konstatēts, ka tā neatbilst amatam, ka tās rīcība ir kaitējusi pārapdrošināšanas sabiedrības finansiālajai stabilitātei vai radījusi situāciju, kas var apdraudēt pārapdrošināšanas sabiedrības finansiālo stabilitāti, kā arī ja tā neatbilst šā panta prasībām.\n(3) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par šā panta pirmajā daļā minēto personu atsaukšanu no amata tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa. Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles amatpersonas",
+      "section": "24",
+      "title": "(1) Lai pārliecinātos par šā likuma 20.panta pirmajā daļā un 23.panta pirmajā daļā noteikto personu atbilstību šā likuma prasībām, Finanšu un kapitāla tirgus komisijai ir tiesības uzaicināt uz pārrunām šā likuma 20.panta pirmajā daļā un 23.panta pirmajā daļā minētās personas.",
+      "content": "(2) Finanšu un kapitāla tirgus komisijai 30 dienu laikā pēc visu nepieciešamo dokumentu saņemšanas ir tiesības neatļaut šā likuma 20.panta pirmajā daļā un 23.panta pirmajā daļā minētajai personai sākt uzticēto pienākumu pildīšanu pārapdrošināšanas sabiedrībā vai nedalībvalsts pārapdrošinātāja filiālē, ja tā neatbilst šā likuma prasībām vai ja Finanšu un kapitāla tirgus komisija nevar pārliecināties par tās atbilstību šā likuma prasībām. Šā likuma 20.panta pirmajā daļā un 23.panta pirmajā daļā minētās amatpersonas var sākt pildīt savus pienākumus pēc Finanšu un kapitāla tirgus komisijas atļaujas saņemšanas.\n(2 1 ) Ja šā likuma 20.panta pirmajā daļā un 23.panta pirmajā daļā minētā amatpersona netiek ievēlēta (iecelta) amatā vai beidz pildīt amata pienākumus, pārapdrošināšanas sabiedrība rakstveidā, norādot iemeslus, paziņo to Finanšu un kapitāla tirgus komisijai. Pārapdrošināšanas sabiedrība šajā daļā minēto informāciju sniedz 10 darbdienu laikā pēc attiecīgā lēmuma pieņemšanas.\n(3) Finanšu un kapitāla tirgus komisija nosaka iesniedzamos dokumentus un kārtību, kādā tā izvērtē šā likuma 20.panta pirmajā daļā un 23.panta pirmajā daļā minēto personu atbilstību šā likuma prasībām."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "25",
+      "title": "Finanšu un kapitāla tirgus komisijai nav tiesību neatzīt pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles noslēgto retrocesijas līgumu ar pārapdrošināšanas komersantu vai ar apdrošināšanas komersantu, pamatojoties uz tādiem apsvērumiem, kas saistīti ar attiecīgā pārapdrošināšanas komersanta vai attiecīgā apdrošināšanas komersanta finansiālo stabilitāti.",
+      "content": "25.pants. Finanšu un kapitāla tirgus komisijai nav tiesību neatzīt pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles noslēgto retrocesijas līgumu ar pārapdrošināšanas komersantu vai ar apdrošināšanas komersantu, pamatojoties uz tādiem apsvērumiem, kas saistīti ar attiecīgā pārapdrošināšanas komersanta vai attiecīgā apdrošināšanas komersanta finansiālo stabilitāti."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "26",
+      "title": "(1) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nodrošina tās darbības raksturam, apjomam un sarežģītībai atbilstošas visaptverošas un efektīvas pārvaldības sistēmas izveidi un darbību.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija nosaka minimālās prasības pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles pārvaldības sistēmas izveidei un darbībai.\n(3) Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles vadība ir atbildīga par pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles politiku un procedūru izstrādi un nosaka atbildīgo par politiku un procedūru ievērošanu."
+    },
+    {
+      "provision_ref": "Art. 26.1",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "26.1",
+      "title": "26. 1 pants. (1) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle vismaz reizi gadā veic kritiskās situācijas analīzi, kurā izvērtē un dokumentē iespējamos attīstības scenārijus. Kritiskās situācijas analīzei izmanto jutīguma un scenāriju testus. Jutīguma testus veic, lai noteiktu atsevišķa riska faktora nelabvēlīgu izmaiņu ietekmi, un scenāriju testus veic, lai noteiktu vairāku riska faktoru vienlaicīgu nelabvēlīgu izmaiņu ietekmi, novērtējot ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu cēloni. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadība, ņemot vērā būtiskos riskus un tiem atbilstošos riska faktorus, izstrādā un apstiprina kritiskās situācijas analīzes veikšanas kārtību un ir atbildīga par šīs kārtības ievērošanu.",
+      "content": "(2) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadība apstiprina kritiskās situācijas analīzes rezultātus un pieņem lēmumu par veicamajām darbībām kritiskās situācijas analīzē minēto notikumu vai tirgus nosacījumu izmaiņu iestāšanās gadījumā. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle kritiskās situācijas analīzes rezultātus un lēmumu par veicamajām darbībām iesniedz Finanšu un kapitāla tirgus komisijai 10 dienu laikā pēc šā lēmuma pieņemšanas.\n(3) Finanšu un kapitāla tirgus komisijai ir tiesības noteikt papildu prasības kritiskās situācijas analīzes veikšanai un šīs analīzes veikšanas kārtību.\n(4) Papildus šā panta pirmajā daļā noteiktajam Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle veic kritiskās situācijas analīzi, un noteikt testējamos faktorus un scenārijus."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "27",
+      "title": "(1) Pārapdrošināšana ir brīvprātīga. Pārapdrošināšanas prēmiju lielumu nosaka pārapdrošinātājs.",
+      "content": "(2) Pārapdrošināšanas prēmija ir tik liela, lai izpildītu pārapdrošināšanas līgumā paredzētās saistības un segtu pārapdrošināšanas izdevumus.\n(3) Pārapdrošinātājs kārto tieši un ar pārapdrošināšanas starpnieku palīdzību noslēgto pārapdrošināšanas līgumu reģistru."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "28",
+      "title": "(1) Pārapdrošināšanas sabiedrība, nedalībvalsts pārapdrošinātāja filiāle, apdrošināšanas sabiedrība vai nedalībvalsts apdrošinātāja filiāle var visus noslēgtos pārapdrošināšanas līgumus vai daļu no tiem nodot citam pārapdroši­nāšanas komersantam vai nedalībvalsts pārapdrošinātāja filiālei, kurai ir tiesības nodarboties ar pārapdrošināšanu dalībvalstī, vai nodot apdrošināšanas komer­santam vai nedalībvalsts apdrošināšanas filiālei, kurai ir tiesības nodarboties ar apdrošināšanu dalībvalstī. Pārapdrošināšanas sabiedrība vai apdrošināšanas sabiedrība nedrīkst nodot pārapdrošināšanas līgumus nedalībvalsts pārapdrošinātājam vai nedalībvalsts pārapdrošinātāja filiālei, kura reģistrēta nedalībvalstī.",
+      "content": "(2) Atļauju visu noslēgto pārapdrošināšanas līgumu vai to daļas nodošanai izsniedz un pārapdrošināšanas līgumu nodošanas kārtību nosaka Finanšu un kapitāla tirgus komisija. Lēmumu par atļaujas izsniegšanu vai par atteikumu to izsniegt Finanšu un kapitāla tirgus komisija pieņem 30 dienu laikā pēc visu nepieciešamo dokumentu saņemšanas.\n(3) Apdrošināšanas sabiedrība, pārapdrošināšanas sabiedrība, nedalībvalsts apdrošinātāja filiāle vai nedalībvalsts pārapdrošinātāja filiāle, kas pārņem pārapdrošināšanas līgumus, iesniedz Finanšu un kapitāla tirgus komisijai informāciju, kura apliecina šā likuma vai Apdrošināšanas sabiedrību un to uzraudzības likuma prasību izpildi pēc pārapdrošināšanas līgumu pārņemšanas.\n(4) Ja visi noslēgtie pārapdrošināšanas līgumi vai to daļa tiek nodota apdrošināšanas sabiedrībai, pārapdrošināšanas sabiedrībai, nedalībvalsts apdrošinātāja filiālei vai nedalībvalsts pārapdrošinātāja filiālei Latvijā, Finanšu un kapitāla tirgus komisija ir tiesīga pieņemt lēmumu par atļaujas izsniegšanu, ja tā pārliecinājusies, ka pēc pārapdrošināšanas līgumu pārņemšanas tiks izpildītas šā likuma vai Apdrošināšanas sabiedrību un to uzraudzības likuma prasības.\n(5) Ja Finanšu un kapitāla tirgus komisija pieņem lēmumu par atļaujas izsniegšanu, tā nosūta dalībvalsts pārapdrošinātāja uzraudzības institūcijai vai dalībvalsts apdrošinātāja uzraudzības institūcijai apliecinājumu, kurā norāda, ka pēc pārapdrošināšanas līgumu pārņemšanas apdrošināšanas sabiedrība, pārapdrošināšanas sabiedrība, nedalībvalsts apdrošinātāja filiāle vai nedalībvalsts pārapdrošinātāja filiāle izpildīs maksātspējas prasību.\n(6) Ja visi noslēgtie pārapdrošināšanas līgumi vai to daļa tiek nodota dalībvalsts apdrošinātājam vai dalībvalsts pārapdrošinātājam, Finanšu un kapitāla tirgus komisija ir tiesīga pieņemt lēmumu par atļaujas izsniegšanu pēc tam, kad saņemts attiecīgās dalībvalsts apdrošinātāja uzraudzības institūcijas vai dalībvalsts pārapdrošinātāja uzraudzības institūcijas apliecinājums, kurā norādīts, ka pēc pārapdrošināšanas līgumu pārņemšanas dalībvalsts apdroši­nātājs vai dalībvalsts pārapdrošinātājs izpildīs maksātspējas prasību.\n(7) Ja visi noslēgtie pārapdrošināšanas līgumi vai to daļa tiek nodota nedalībvalsts apdrošinātāja filiālei vai nedalībvalsts pārapdrošinātāja filiālei, kurai citā dalībvalstī ir tiesības nodarboties ar apdrošināšanu vai pārapdrošināšanu, Finanšu un kapitāla tirgus komisija ir tiesīga pieņemt lēmumu par atļaujas izsniegšanu pēc tam, kad saņemts attiecīgās dalībvalsts apdrošinātāja uzraudzības institūcijas vai dalībvalsts pārapdrošinātāja uzraudzības institūcijas apliecinājums, kurā norādīts, ka pēc pārapdrošināšanas līgumu pārņemšanas tiks izpildīta maksātspējas prasība."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "29",
+      "title": "(1) Pārapdrošināšanas līgumus citam apdrošināšanas komersantam vai pārapdrošināšanas komersantam nodod kopā ar tiem atbilstošajiem tehnisko rezervju seguma nodrošināšanai nepieciešamajiem aktīviem.",
+      "content": "(2) Ja pārapdrošināšanas līgumi tiek nodoti bez atbilstošajiem tehnisko rezervju seguma nodrošināšanai nepieciešamajiem aktīviem, apdrošināšanas sabiedrība, nedalībvalsts apdrošinātāja filiāle, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kas pārņem šos līgumus, iesniedz Finanšu un kapitāla tirgus komisijai tehnisko rezervju seguma atjaunošanas plānu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa. Pārapdrošināšanas veikšana",
+      "section": "30",
+      "title": "Pārapdrošināšanas līguma nodošana no šā darījuma spēkā stāšanās dienas ir saistoša pārapdrošinājuma ņēmējiem un citām personām, kurām ir tiesības un pienākumi atbilstoši noslēgtajiem un nodotajiem pārapdrošināšanas līgumiem. Pēc pārapdrošināšanas līgumu pārņemšanas paliek spēkā visas no šiem līgumiem izrietošās pušu tiesības un pienākumi.",
+      "content": "30.pants. Pārapdrošināšanas līguma nodošana no šā darījuma spēkā stāšanās dienas ir saistoša pārapdrošinājuma ņēmējiem un citām personām, kurām ir tiesības un pienākumi atbilstoši noslēgtajiem un nodotajiem pārapdrošināšanas līgumiem. Pēc pārapdrošināšanas līgumu pārņemšanas paliek spēkā visas no šiem līgumiem izrietošās pušu tiesības un pienākumi."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "31",
+      "title": "(1) Būtisku līdzdalību pārapdrošināšanas sabiedrībā drīkst iegūt vienīgi persona, kura atbilst šā likuma 16.panta prasībām un nodrošina 32.panta piektajā daļā noteikto kritēriju izpildi, turklāt šai personai jābūt finansiāli stabilai vismaz pēdējos trīs gadus, lai tā, ja nepieciešams, spētu veikt papildu ieguldījumu pārapdrošināšanas sabiedrības pašu līdzekļu atjaunošanai, nodrošinot pārapdrošināšanas sabiedrības garantijas fonda un maksātspējas normas atbilstību likuma prasībām un pārapdrošināšanas sabiedrību darbību regulējošo prasību izpildi.",
+      "content": "(2) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt informāciju par personām, kas pretendē uz būtisku līdzdalību (būtisku līdzdalību faktiski ieguvušajām vai aizdomās par šādas līdzdalības iegūšanu turamajām personām), to skaitā par juridisko (reģistrēto) personu īpašniekiem (patiesajiem labuma guvējiem) — fiziskajām personām, lai izvērtētu šo personu atbilstību šā likuma 32.panta piektajā daļā noteiktajiem kritērijiem.\n(3) Finanšu un kapitāla tirgus komisijai ir tiesības identificēt uz būtisku līdzdalību pretendējošo (būtisku līdzdalību faktiski ieguvušo vai aizdomās par šādas līdzdalības iegūšanu turamo) juridisko personu akcionārus vai dalībniekus un īpašniekus (patiesos labuma guvējus), līdz ir iegūta informācija par īpašniekiem (patiesajiem labuma guvējiem) — fiziskajām personām. Minētajām juridiskajām personām ir pienākums iesniegt Finanšu un kapitāla tirgus komisijai tās pieprasīto informāciju, kas nepieciešama šo personu identificēšanai, ja informācija nav pieejama publiskajos reģistros, no kuriem Finanšu un kapitāla tirgus komisija ir tiesīga šādu informāciju saņemt.\n(4) Ja personas, kuras tiek turētas aizdomās par būtiskas līdzdalības iegūšanu pārapdrošināšanas sabiedrībā, nesniedz vai atsakās sniegt šā panta otrajā vai trešajā daļā minēto informāciju un kopā to līdzdalība aptver 10 un vairāk procentu no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita, šie akcionāri vai dalībnieki nevar izmantot visu tiem piederošo akciju vai daļu balsstiesības. Finanšu un kapitāla tirgus komisija nekavējoties par šo faktu informē attiecīgos akcionārus vai dalībniekus un pārapdrošināšanas sabiedrību."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "32",
+      "title": "(1) Persona, kas vēlas iegūt būtisku līdzdalību pārapdrošināšanas sabiedrībā, par to iepriekš rakstveidā paziņo Finanšu un kapitāla tirgus komisijai. Paziņojumā norāda iegūstamo līdzdalības apmēru procentos no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita. Paziņojumam pievieno Finanšu un kapitāla tirgus komisijas normatīvajos noteikumos paredzēto informāciju, kas nepieciešama, lai izvērtētu personas atbilstību šā panta piektajā daļā noteiktajiem kritērijiem. Paziņojumam pievienojamās informācijas saraksts publicējams Finanšu un kapitāla tirgus komisijas mājaslapā internetā.",
+      "content": "(2) Ja persona vēlas palielināt savu būtisko līdzdalību, sasniedzot vai pārsniedzot 20, 33 vai 50 procentus no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita, vai ja pārapdrošināšanas sabiedrība kļūst par šīs personas meitas sabiedrību, attiecīgā persona iepriekš rakstveidā par to paziņo Finanšu un kapitāla tirgus komisijai. Paziņojumā norāda iegūstamo līdzdalības apmēru procentos no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita. Paziņojumam pievieno Finanšu un kapitāla tirgus komisijas normatīvajos noteikumos paredzēto informāciju, kas nepieciešama, lai izvērtētu personas atbilstību šā panta piektajā daļā noteiktajiem kritērijiem. Paziņojumam pievienojamās informācijas saraksts publicējams Finanšu un kapitāla tirgus komisijas mājaslapā internetā.\n(3) Finanšu un kapitāla tirgus komisija divu darbdienu laikā no dienas, kad saņemts šā panta pirmajā vai otrajā daļā minētais paziņojums, vai divu darbdienu laikā pēc Finanšu un kapitāla tirgus komisijas pieprasītās papildu informācijas saņemšanas rakstveidā informē personu par paziņojuma vai papildu informācijas saņemšanu un par vērtēšanas perioda beigu datumu.\n(4) Finanšu un kapitāla tirgus komisijai šā panta piektajā daļā noteiktajā vērtēšanas periodā, bet ne vēlāk kā vērtēšanas perioda 50. darbdienā ir tiesības pieprasīt papildu informāciju par šajā pantā minētajām personām, lai izvērtētu šo personu atbilstību šā panta piektajā daļā noteiktajiem kritērijiem.\n(5) Finanšu un kapitāla tirgus komisija ne vēlāk kā 60 darbdienu laikā no dienas, kad personai nosūtīta šā panta trešajā daļā minētā informācija par paziņojuma saņemšanu, izvērtē personas brīvā kapitāla pietiekamību, finansiālo stabilitāti un plānotās līdzdalības iegūšanas finansiālo pamatotību, lai nodrošinātu tās pārapdrošināšanas sabiedrības noturīgu un rūpīgu pārvaldību, kurā plānots iegūt līdzdalību, kā arī personas iespējamo ietekmi uz pārapdrošināšanas sabiedrības vadību un darbību. Izvērtēšanas procesā Finanšu un kapitāla tirgus komisija ņem vērā arī šādus kritērijus:\n1) personas nevainojama reputācija un atbilstība šā likuma 16.panta prasībām;\n2) tās personas nevainojama reputācija un profesionālā pieredze, kura plānotās līdzdalības iegūšanas rezultātā vadīs pārapdrošināšanas sabiedrības darbību;\n3) personas finanšu stabilitāte, it īpaši saistībā ar veiktās vai plānotās saimnieciskās darbības veidu pārapdrošināšanas sabiedrībā, kurā plānots iegūt līdzdalību;\n4) vai pārapdrošināšanas sabiedrība spēs pildīt šajā likumā un citos normatīvajos aktos noteiktās regulējošās prasības un vai tās uzņēmumu grupas struktūra, kuras sastāvā tā iekļausies, neierobežo Finanšu un kapitāla tirgus komisijas iespējas veikt tai likumā noteiktās uzraudzības funkcijas, nodrošināt efektīvu informācijas apmaiņu starp pārapdrošinātāju uzraudzības institūcijām un noteikt pārapdrošinātāju uzraudzības institūciju uzraudzības pilnvaru sadalījumu;\n5) vai nepastāv pamatotas šaubas, ka saistībā ar plānoto līdzdalības iegūšanu ir veikta nelikumīgi iegūtu līdzekļu legalizēšana un terorisma finansēšana vai mēģināts veikt šādas darbības vai ka plānotā līdzdalības iegūšana varētu palielināt šādu risku.\nJa Finanšu un kapitāla tirgus komisija saskaņā ar šā panta sesto daļu ir pārtraukusi vērtēšanas periodu, šo pārtraukuma laiku vērtēšanas periodā neieskaita.\n(6) Pieprasot šā panta ceturtajā daļā minēto papildu informāciju, Finanšu un kapitāla tirgus komisijai ir tiesības vienu reizi pārtraukt vērtēšanas periodu līdz dienai, kad šī informācija tiek saņemta, bet ne ilgāk kā uz 20 darbdienām. Finanšu un kapitāla tirgus komisijai ir tiesības pagarināt minēto vērtēšanas perioda pārtraukumu līdz 30 darbdienām, ja persona, kura vēlas iegūt, ir ieguvusi, vēlas palielināt vai ir palielinājusi savu būtisko līdzdalību pārapdrošināšanas sabiedrībā, nav pakļauta kredītiestāžu, apdrošināšanas sabiedrību, pārapdrošināšanas sabiedrību, ieguldījumu pārvaldes sabiedrību vai ieguldījumu brokeru sabiedrību darbības uzraudzībai vai šīs personas mītnes (reģistrācijas) vieta nav dalībvalstī.\n(7) Finanšu un kapitāla tirgus komisija šā panta piektajā daļā minētajā termiņā pieņem lēmumu, ar kuru aizliedz personai iegūt vai palielināt būtisku līdzdalību pārapdrošināšanas sabiedrībā, ja:\n1) persona neatbilst šā panta piektajā daļā noteiktajiem kritērijiem;\n2) persona nesniedz vai atsakās sniegt Finanšu un kapitāla tirgus komisijai šajā likumā noteikto informāciju vai Finanšu un kapitāla tirgus komisijas pieprasīto papildu informāciju;\n3) no personas neatkarīgu apstākļu dēļ tai nav iespējams sniegt šajā likumā noteikto informāciju vai Finanšu un kapitāla tirgus komisijas pieprasīto papildu informāciju.\n(8) Finanšu un kapitāla tirgus komisija divu darbdienu laikā, nepārsniedzot šā panta piektajā daļā noteikto vērtēšanas periodu, pēc šā panta septītajā daļā minētā lēmuma pieņemšanas nosūta to personai, kurai aizliedz iegūt vai palielināt būtisku līdzdalību pārapdrošināšanas sabiedrībā.\n(9) Ja Finanšu un kapitāla tirgus komisija šā panta piektajā daļā minētajā termiņā nenosūta personai lēmumu, ar kuru aizliedz šai personai iegūt vai palielināt būtisku līdzdalību pārapdrošināšanas sabiedrībā, uzskatāms, ka tā piekrīt personas būtiskas līdzdalības iegūšanai vai palielināšanai pārapdrošināšanas sabiedrībā.\n(10) Šā panta septītās daļas 3.punkta noteikumi nav attiecināmi uz juridisko personu, ja tās akcijas tiek kotētas Latvijas vai citas dalībvalsts regulētajā tirgū vai tādā regulētajā tirgū, kura organizētājs ir Starptautiskās Fondu biržu federācijas pilntiesīgs loceklis, un šī juridiskā persona Finanšu un kapitāla tirgus komisijai sniedz ziņas par saviem akcionāriem, kuriem tajā ir būtiska līdzdalība.\n(11) Ja Finanšu un kapitāla tirgus komisija ir piekritusi, ka persona iegūst vai palielina būtisku līdzdalību pārapdrošināšanas sabiedrībā, šī persona savu būtisko līdzdalību pārapdrošināšanas sabiedrībā iegūst vai palielina ne vēlāk kā sešu mēnešu laikā no dienas, kad nosūtīta šā panta trešajā daļā minētā informācija par paziņojuma vai papildu informācijas saņemšanu. Ja līdz minētā termiņa beigām persona nav ieguvusi vai palielinājusi būtisku līdzdalību pārapdrošināšanas sabiedrībā, Finanšu un kapitāla tirgus komisijas piekrišana tās būtiskas līdzdalības iegūšanai vai palielināšanai pārapdrošināšanas sabiedrībā zaudē spēku. Pēc personas motivēta rakstveida lūguma Finanšu un kapitāla tirgus komisija var lemt par minētā termiņa pagarināšanu.\n(12) Šā panta septītajā daļā minētā Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "33",
+      "title": "(1) Izvērtējot šā likuma 32.panta pirmajā un otrajā daļā minētos paziņojumus, Finanšu un kapitāla tirgus komisija konsultējas ar attiecīgās dalībvalsts uzraudzības institūcijām, ja būtiskas līdzdalības ieguvējs ir dalībvalsts apdrošinātājs, dalībvalsts pārapdrošinātājs, dalībvalstī reģistrēta kredītiestāde, ieguldījumu pārvaldes sabiedrība vai ieguldījumu brokeru sabiedrība, kā arī dalībvalsts apdrošinātāja, dalībvalsts pārapdrošinātāja, dalībvalstī reģistrētas kredītiestādes, ieguldījumu pārvaldes sabiedrības vai ieguldījumu brokeru sabiedrības mātes sabiedrība vai persona, kas kontrolē dalībvalsts apdrošinātāju, dalībvalsts pārapdrošinātāju, dalībvalstī reģistrētu kredītiestādi, ieguldījumu pārvaldes sabiedrību vai ieguldījumu brokeru sabiedrību, un ja, attiecīgajai personai iegūstot vai palielinot būtisku līdzdalību, pārapdrošināšanas sabiedrība kļūst par šīs personas meitas sabiedrību vai nonāk tās kontrolē.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija pēc dalībvalsts uzraudzības institūciju pieprasījuma informē šīs institūcijas par visiem apstākļiem, kas attiecas uz dalībvalsts pārapdrošinātāja akcionāru vai dalībnieku atbilstību šā likuma prasībām."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "34",
+      "title": "(1) Ja persona vēlas izbeigt savu būtisko līdzdalību pārapdrošināšanas sabiedrībā, tā par šādu lēmumu iepriekš rakstveidā paziņo, iesniedzot iesniegumu Finanšu un kapitāla tirgus komisijai. Iesniegumā norāda personai paliekošo pārapdrošināšanas sabiedrības pamatkapitāla daļu vai balsstiesīgo akciju vai daļu skaitu procentos.",
+      "content": "(2) Ja persona vēlas samazināt savu būtisko līdzdalību zem 20, 33 vai 50 procentiem no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai pārapdrošināšanas sabiedrība pārstāj būt šīs personas meitas sabiedrība, šī persona par šādu lēmumu iepriekš rakstveidā paziņo, iesniedzot iesniegumu Finanšu un kapitāla tirgus komisijai."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "35",
+      "title": "(1) Pārapdrošināšanas sabiedrība nekavējoties, tiklīdz par to ir uzzinājusi, rakstveidā paziņo, iesniedzot iesniegumu Finanšu un kapitāla tirgus komisijai, par ikvienas personas būtiskas līdzdalības iegūšanu, palielināšanu vai samazināšanu. Iesniegumā norāda attiecīgās personas līdzdalības apmēru procentos no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita vai informāciju par būtiskas līdzdalības izbeigšanu.",
+      "content": "(2) Pārapdrošināšanas sabiedrība, likumā noteiktajā kārtībā iesniedzot Finanšu un kapitāla tirgus komisijai gada pārskatu, vienlaikus iesniedz arī visu to akcionāru vai dalībnieku sarakstu, kuriem pieder būtiska līdzdalība pārapdrošināšanas sabiedrībā. Tajā norāda saskaņā ar likumu akcionāru sapulcei sagatavojamā akcionāru sarakstā vai dalībnieku sarakstā ietveramo informāciju un attiecīgo akcionāru vai dalībnieku būtiskas līdzdalības apmēru procentos no pārapdrošināšanas sabiedrības pamatkapitāla vai balsstiesīgo akciju vai daļu skaita."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "36",
+      "title": "(1) Ja pārapdrošināšanas sabiedrības akcionāra vai dalībnieka ietekme uz pārapdrošināšanas sabiedrību apdraud vai var apdraudēt tās finansiāli stabilu, piesardzīgu un normatīvajiem aktiem atbilstošu vadību un darbību vai būtisku līdzdalību ieguvusī persona neatbilst šajā likumā pārapdrošināšanas sabiedrības akcionāriem vai dalībniekiem noteiktajām prasībām, tā nav finansiāli stabila, nesniedz vai atsakās sniegt šā likuma 31.panta otrajā vai trešajā daļā minēto informāciju, Finanšu un kapitāla tirgus komisija ir tiesīga:",
+      "content": "1) pieprasīt, lai nekavējoties tiek pārtraukta šāda ietekme;\n2) pieprasīt, lai tiek atsaukta pārapdrošināšanas sabiedrības padome vai valde vai kāds padomes vai valdes loceklis;\n3) aizliegt akcionāram vai dalībniekam izmantot visu viņam piederošo akciju vai daļu balsstiesības.\n(2) Akcionāram vai dalībniekam nav tiesību izmantot visu viņam piederošo akciju vai daļu balsstiesības pārapdrošināšanas sabiedrībā, un akcionāru vai dalībnieku sapulces lēmumi, kas pieņemti, izmantojot šo akciju vai daļu balsstiesības, nav spēkā no to pieņemšanas brīža, un nedrīkst prasīt, lai uz šo lēmumu pamata tiktu izdarīti ieraksti komercreģistrā un citos publiskajos reģistros, ja:\n1) Finanšu un kapitāla tirgus komisija šajā likumā minētajos gadījumos ir aizliegusi personai izmantot tai piederošo akciju vai daļu balsstiesības;\n2) persona ir ieguvusi vai palielinājusi būtisku līdzdalību pārapdrošināšanas sabiedrībā pirms šā likuma 32.panta pirmajā vai otrajā daļā minētā paziņojuma iesniegšanas Finanšu un kapitāla tirgus komisijai;\n3) persona ir ieguvusi vai palielinājusi būtisku līdzdalību pārapdrošināšanas sabiedrībā šā likuma 32.panta pirmajā vai otrajā daļā minētā paziņojuma izskatīšanas laikā.\n(3) Ja pārapdrošināšanas sabiedrības akcionāram vai dalībniekam ir aizliegts izmantot viņam piederošo akciju vai daļu balsstiesības pārapdrošināšanas sabiedrībā, kopējo lemttiesīgo akciju vai daļu skaitu aprēķina, no visām balsstiesīgajām akcijām vai daļām atņemot tās akcijas vai daļas, kuru balsstiesību izmantošana ir aizliegta.\n(4) Šā likuma noteikumi par būtisku līdzdalību nav attiecināmi uz pārapdrošināšanas sabiedrības akcionāru vai dalībnieku, kuram būtiska līdzdalība pārapdrošināšanas sabiedrībā rodas citam akcionāram vai dalībniekam piemērotā balsstiesību aizlieguma dēļ.\n(5) Šā panta pirmajā daļā minētā Finanšu un kapitāla tirgus komisijas izdotā administratīvā akta pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "V nodaļa. Būtiska līdzdalība",
+      "section": "37",
+      "title": "Nosakot personas netiešā ceļā iegūtās līdzdalības apmēru pārapdrošināšanas sabiedrībā, ņem vērā šādas personas (turpmāk — konkrētā persona) iegūtās balsstiesības pārapdrošināšanas sabiedrībā:",
+      "content": "1) balsstiesības, kuras ir tiesīga izmantot trešā persona, ar kuru konkrētā persona noslēgusi vienošanos, uzliekot par pienākumu saskaņot balsstiesību izmantošanas un rīcības politiku ilgtermiņā attiecībā uz konkrētā emitenta pārvaldi;\n2) balsstiesības, kuras ir tiesīga izmantot trešā persona saskaņā ar vienošanos, kas noslēgta ar konkrēto personu un paredz attiecīgo balsstiesību pagaidu nodošanu;\n3) balsstiesības, kuras izriet no akcijām vai daļām, ko konkrētā persona saņēmusi kā nodrošinājumu, ja tā var izmantot balss­tiesības un ir paudusi savu nodomu tās izmantot;\n4) balsstiesības, kuras ir tiesīga izmantot konkrētā persona neierobežotā laikposmā;\n5) balsstiesības, kuras ir tiesīga izmantot konkrētās personas kontrolētā komercsabiedrība vai kuras šāda komercsabiedrība var izmantot saskaņā ar šīs daļas 1. , 2. , 3. un 4.punkta noteikumiem;\n6) balsstiesības, kuras izriet no akcijām vai daļām, kas nodotas glabāšanā konkrētajai personai, un kuras tā var izmantot pēc saviem ieskatiem, ja nav saņemti īpaši norādījumi;\n7) balsstiesības, kuras izriet no trešās personas vārdā un konkrētās personas labā turētām akcijām vai daļām;\n8) balsstiesības, kuras konkrētā persona var realizēt kā pilnvarnieks, kad tā ir tiesīga izmantot balsstiesības pēc saviem ieskatiem, ja nav saņēmusi īpašus norādījumus;\n9) balsstiesības, kuras izriet no jebkurā citā netiešā veidā konkrētās personas iegūtajām akcijām vai daļām."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VI nodaļa. Ārpakalpojumi",
+      "section": "38",
+      "title": "(1) Darbības (ārpakalpoju­mus), kuras nepieciešamas pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbības nodrošināšanai un pārapdrošināšanas veikšanai, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle var deleģēt vienam vai vairākiem ārpakalpojumu sniedzējiem. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nedrīkst deleģēt:",
+      "content": "1) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pārvaldes institūciju pienākumus;\n2) galvojumu un citu tādu saistību dokumentu izsniegšanu, ar kuriem pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle uzņēmusies pienākumu atbildēt kreditoram par trešās personas parādu;\n3) ārpakalpojumu sniedzējiem visus ārpakalpojumus, kas nodrošina pārapdrošināšanas licencē atļauto pārapdrošināšanas veikšanu.\n(2) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle ārpakalpojumu sniegšanu drīkst deleģēt tādam ārpakalpojumu sniedzējam, kam ir nepieciešamā kvalifikācija un pieredze tādu ārpakalpojumu sniegšanā, kurus pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle plāno deleģēt ārpakalpojumu sniedzējam.\n(3) Ārpakalpojumi, par kuriem šajā pantā noteiktajā kārtībā pirms to deleģēšanas ārpakalpojumu sniedzējam informējama Finanšu un kapitāla tirgus komisija, ir pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles:\n1) grāmatvedības kārtošana;\n2) informācijas un komunikācijas tehnoloģiju infrastruktūras uzturēšana;\n3) pārvaldības organizēšana;\n4) ieguldījumu veikšana;\n5) pārapdrošināšanas riska parakstīšana;\n6) pārapdrošināšanas atlīdzību noregulēšana.\n(4) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles iekšējā revīzijas dienesta pienākumus drīkst deleģēt vienīgi zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai.\n(5) Vismaz 30 dienas pirms ārpakalpojuma saņemšanas pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle iesniedz Finanšu un kapitāla tirgus komisijai motivētu rakstveida iesniegumu, pievienojot tam dokumentu, kurā ietverta ārpakalpojuma saņemšanas politika un ārpakalpojuma kvalitātes uzraudzības procedūra, un ārpakalpojuma līguma projektu. Ja ārpakalpojuma saņemšanas politikā, ārpakalpojuma kvalitātes uzraudzības procedūrā vai ārpakalpojuma līgumā tiek izdarīti grozījumi, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle tos iesniedz Finanšu un kapitāla tirgus komisijai ne vēlāk kā nākamajā darbdienā pēc attiecīgo grozījumu apstiprināšanas."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VI nodaļa. Ārpakalpojumi",
+      "section": "39",
+      "title": "(1) Šā likuma 38.panta trešajā daļā noteiktajos gadījumos ārpakalpojuma līgumā ietver:",
+      "content": "1) saņemamā ārpakalpojuma aprakstu;\n2) precīzas ārpakalpojuma apjoma un kvalitātes prasības;\n3) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles un ārpakalpojumu sniedzēja tiesības un pienākumus, to skaitā:\na) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles tiesības pastāvīgi uzraudzīt ārpakalpojuma sniegšanas kvalitāti,\nb) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles tiesības dot ārpakalpojumu sniedzējam obligāti izpildāmus norādījumus jautājumos, kas saistīti ar ārpakalpojuma godprātīgu, kvalitatīvu, savlaicīgu un normatīvajiem aktiem atbilstošu izpildi,\nc) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles tiesības iesniegt ārpakalpojumu sniedzējam motivētu rakstveida pieprasījumu nekavējoties izbeigt ārpakalpojuma līgumu, ja pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle konstatējusi, ka ārpakalpojumu sniedzējs nepilda ārpakalpojuma līgumā noteiktās apjoma vai kvalitātes prasības,\nd) ārpakalpojumu sniedzēja pienākumu nodrošināt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles iespēju veikt ārpakal­pojuma sniegšanas kvalitātes pastāvīgu uzraudzību,\ne) ārpakalpojumu sniedzēja pienākumu nekavējoties pēc pārapdroši­nāšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles rakstveida pieprasījuma saņemšanas izbeigt ārpakalpojuma līgumu;\n4) Finanšu un kapitāla tirgus komisijas tiesības iepazīties ar visiem dokumentiem, grāmatvedības un dokumentu reģistriem, kā arī pieprasīt no ārpakalpojumu sniedzēja jebkuru informāciju, kas saistīta ar ārpakalpojuma sniegšanu vai kas nepieciešama Finanšu un kapitāla tirgus komisijas funkciju veikšanai.\n(2) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izstrādā attiecīgu ārpakalpojumu saņemšanas politiku un procedūru. Tajā nosaka:\n1) iekšējo kārtību, kādā tiek pieņemti lēmumi par ārpakalpojuma saņemšanu;\n2) ārpakalpojuma līguma slēgšanas, izpildes uzraudzības un izbeigšanas kārtību;\n3) personas (amatpersonas un darbiniekus) un struktūrvienības, kas atbildīgas par sadarbību ar ārpakalpojumu sniedzēju un saņemtā ārpakalpojuma apjoma un kvalitātes uzraudzību, kā arī šo personu tiesības un pienākumus;\n4) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles rīcību, ja ārpakalpojumu sniedzējs nepilda vai nevarēs pildīt ārpakalpojuma līguma noteikumus.\n(3) Finanšu un kapitāla tirgus komisijai ir tiesības pārbaudīt ārpakalpo­jumu sniedzēja darbību tā atrašanās vai ārpakalpojuma sniegšanas vietā, iepazīties ar visiem dokumentiem, dokumentu un grāmatvedības reģistriem, izgatavot to kopijas, kā arī pieprasīt no ārpakalpojumu sniedzēja informāciju, kas saistīta ar ārpakalpojuma sniegšanu vai kas nepieciešama Finanšu un kapitāla tirgus komisijas funkciju veikšanai.\n(4) Ārpakalpojumu sniedzējs sāk sniegt pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei ārpakalpojumu, ja pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle 30 dienu laikā no visu šā likuma 38.panta piektajā daļā minēto dokumentu iesniegšanas dienas nav saņēmusi Finanšu un kapitāla tirgus komisijas aizliegumu ārpakalpojuma saņemšanai."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VI nodaļa. Ārpakalpojumi",
+      "section": "40",
+      "title": "(1) Finanšu un kapitāla tirgus komisija aizliedz pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei saņemt plānoto ārpakalpojumu no ārpakalpojumu sniedzēja, ja:",
+      "content": "1) nav ievēroti šā likuma noteikumi;\n2) ārpakalpojuma saņemšana var ierobežot pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pārvaldes institūciju iespējas veikt tām normatīvajos aktos, statūtos vai citos pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles iekšējos normatīvajos aktos noteiktos pienākumus;\n3) ārpakalpojuma saņemšana liedz vai ierobežo Finanšu un kapitāla tirgus komisijas iespēju veikt tai likumā noteiktās funkcijas;\n4) ārpakalpojuma līgums neatbilst likumam un nesniedz skaidru un patiesu priekšstatu par pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles un ārpakalpojumu sniedzēja paredzamo sadarbību, kā arī par ārpakalpojuma apjoma un kvalitātes prasībām.\n(2) Ārpakalpojuma saņemšana neatbrīvo pārapdrošināšanas sabiedrību vai nedalībvalsts pārapdrošinātāja filiāli no atbildības par likumā vai ārpakalpojuma līgumā noteikto saistību izpildi.\n(3) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle novērš trūkumus, kas radušies, saņemot ārpakalpojumu, un noteikt šo trūkumu novēršanas termiņu. Ja Finanšu un kapitāla tirgus komisijas noteiktajā termiņā trūkumi netiek novērsti, Finanšu un kapitāla tirgus komisija pieprasa, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izbeidz ārpakalpojuma līgumu, un nosaka tā izbeigšanas termiņu, kas nedrīkst būt ilgāks par trim mēnešiem.\n(4) Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nekavējoties izbeidz ārpakalpojuma līgumu, ja Finanšu un kapitāla tirgus komisija konstatē, ka:\n1) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle neveic ārpakalpojuma sniegšanas kvalitātes pastāvīgu uzraudzību vai veic to neregulāri un nepietiekami;\n2) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle neveic ar ārpakalpojuma sniegšanu saistīto risku pārvaldīšanu vai veic to nepietiekami un nekvalitatīvi;\n3) ārpakalpojumu sniedzēja darbībā ir būtiski trūkumi, kas apdraud vai var apdraudēt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles saistību izpildi;\n4) iestājies kāds no šā panta pirmajā daļā minētajiem apstākļiem.\n(5) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nekavējoties informē Finanšu un kapitāla tirgus komisiju, ja pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle konstatējusi, ka ārpakalpo­jumu sniedzējs neievēro līgumā noteiktās ārpakalpojuma apjoma vai kvalitātes prasības.\n(6) Ārpakalpojuma saņemšana neatbrīvo pārapdrošināšanas sabiedrību vai nedalībvalsts pārapdrošinātāja filiāli un tās pārvaldes institūcijas no pienākuma veikt normatīvajos aktos noteikto ar pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbību saistīto risku pārvaldīšanu.\n(7) Ārpakalpojumu sniedzējs ir tiesīgs ārpakalpojuma sniegšanu deleģēt citai personai tikai ar pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles rakstveida piekrišanu. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle pirms ārpakalpojuma tālākas deleģēšanas rakstveidā informē Finanšu un kapitāla tirgus komisiju un iesniedz tai šā likuma 38.panta piektajā daļā minētos dokumentus. Uz ārpakalpojuma sniegšanas tālāku deleģēšanu un ārpakalpojuma galīgo sniedzēju attiecināmi šā likuma noteikumi.\n(8) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par aizliegumu pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei saņemt ārpakalpojumu no ārpakalpojumu sniedzēja, par pieprasījumu pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei novērst trūkumus, kas radušies, saņemot ārpakalpojumu, vai par pieprasījumu pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei nekavējoties pārtraukt ārpakalpojuma līgumu tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VII nodaļa. Informācijas apmaiņa",
+      "section": "41",
+      "title": "Finanšu un kapitāla tirgus komisija pēc dalībvalsts pārapdrošinātāja uzraudzības institūcijas pieprasījuma sniedz tai informāciju par pārapdrošināšanas sabiedrības veikto pārapdrošināšanu attiecīgajā dalībvalstī, izmantojot tiesības dibināt filiāli vai pakalpojumu sniegšanas brīvības principu, kā arī sniedzot pārapdrošināšanas pakalpojumus, neatverot filiāli, un citu dalībvalsts pārapdrošinātāja uzraudzības institūcijas uzraudzības funkciju veikšanai nepieciešamo informāciju.",
+      "content": "41.pants. Finanšu un kapitāla tirgus komisija pēc dalībvalsts pārapdrošinātāja uzraudzības institūcijas pieprasījuma sniedz tai informāciju par pārapdrošināšanas sabiedrības veikto pārapdrošināšanu attiecīgajā dalībvalstī, izmantojot tiesības dibināt filiāli vai pakalpojumu sniegšanas brīvības principu, kā arī sniedzot pārapdrošināšanas pakalpojumus, neatverot filiāli, un citu dalībvalsts pārapdrošinātāja uzraudzības institūcijas uzraudzības funkciju veikšanai nepieciešamo informāciju."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VII nodaļa. Informācijas apmaiņa",
+      "section": "42",
+      "title": "(1) Informācija par pārapdrošināšanas komersantu un tā klientu, kura iepriekš nav bijusi likumā noteiktajā kārtībā publicēta vai kuras izpaušanu nenosaka citi likumi, vai kuru par publiski pieejamu nav apstiprinājusi Finanšu un kapitāla tirgus komisijas padome, uzskatāma par ierobežotas pieejamības informāciju, un šī informācija nav izpaužama trešajām personām citādi kā pārskata vai apkopojuma formā tā, lai nebūtu iespējams identificēt kādu konkrētu pārapdrošināšanas komersantu vai tā klientu.",
+      "content": "(2) Ja pārapdrošināšanas komersants atzīts par maksātnespējīgu vai likvidējamu, ierobežotas pieejamības informāciju, kas neattiecas uz trešajām personām, kuras iesaistītas pārapdrošināšanas komersanta finansiālā stāvokļa uzlabošanai nepieciešamās darbībās, var izpaust, izskatot tiesā civillietas vai krimināllietas.\n(3) Šā panta pirmās daļas noteikumi neierobežo Finanšu un kapitāla tirgus komisiju atbilstoši tās kompetencei apmainīties ar ierobežotas pieejamības informāciju ar dalībvalstu finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām, saglabājot sniegtajai informācijai ierobežotas pieejamības statusu.\n(4) Finanšu un kapitāla tirgus komisija ir tiesīga slēgt informācijas apmaiņas līgumus ar nedalībvalstu pārapdrošinātāju uzraudzības institūcijām vai attiecīgās nedalībvalsts institūcijām, kas pielīdzināmas šā panta sestās daļas 1., 2., 3., 4., 6., 7. un 8.punktā minētajām iestādēm, ja šīs nedalībvalsts normatīvie akti paredz līdzvērtīgu atbildību Latvijas normatīvajos aktos noteiktajai atbildībai par ierobežotas pieejamības informācijas neatļautu izpaušanu. Šāda informācija izmantojama vienīgi finanšu un kapitāla tirgus dalībnieku un pārapdrošināšanas komersantu uzraudzības veikšanai vai attiecīgajām iestādēm likumā noteikto funkciju pildīšanai. Saņemto informāciju attiecīgās nedalībvalsts iestādes ir tiesīgas izpaust vienīgi ar Finanšu un kapitāla tirgus komisijas iepriekšēju rakstveida piekrišanu un tikai tam nolūkam, kādam šī piekrišana dota.\n(5) Finanšu un kapitāla tirgus komisija šā panta trešajā un sestajā daļā minēto saņemto informāciju ir tiesīga izmantot vienīgi savu uzraudzības funkciju pildīšanai:\n1) lai pārliecinātos par pārapdrošinātāju dibināšanu un darbību reglamentējošo normatīvo aktu ievērošanu, īpaši attiecībā uz tehniskajām rezervēm, maksātspēju, vadības un grāmatvedības organizāciju un pārvaldības mehānismiem;\n2) lai piemērotu likumā noteiktos tiesību ierobežojumus un sodus;\n3) tiesvedības procesā, kurā tiek pārsūdzēti Finanšu un kapitāla tirgus komisijas izdotie administratīvie akti vai tās faktiskā rīcība;\n4) tiesvedībā, kas ierosināta, pamatojoties uz noteikumiem, kuri paredzēti šajā likumā un citos likumos, kas attiecas uz apdrošināšanas un pārapdrošināšanas darbību.\n(6) Šā panta pirmās un piektās daļas noteikumi neierobežo Finanšu un kapitāla tirgus komisiju atbilstoši tās kompetencei apmainīties ar ierobežotas pieejamības informāciju, ja tā nepieciešama noteikto funkciju pildīšanai, ar:\n1) dalībvalstu finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām;\n2) iestādēm vai personām, kas Latvijā vai dalībvalstīs ir atbildīgas par apdrošināšanas komersantu vai pārapdrošināšanas komersantu bankrota procedūras, likvidācijas un citu līdzīgu procedūru veikšanu;\n3) personām, kas Latvijā vai citās dalībvalstīs veic likumā noteiktās iekšējās pārbaudes un revīzijas apdrošināšanas komersantos, pārapdrošināšanas komersantos un citās finanšu iestādēs;\n4) dalībvalsts iestādēm, kas pārvalda ieguldījumu un noguldījumu kompensācijas shēmas (fondus);\n5) Latvijas Banku;\n6) institūcijām, kas veic uzraudzību pār iestādēm, kuras Latvijā vai dalībvalstīs ir atbildīgas par apdrošināšanas komersantu vai pārapdrošināšanas komersantu bankrota procedūras, likvidācijas un citu līdzīgu procedūru veikšanu;\n7) iestādēm, kas veic uzraudzību pār personām, kuras Latvijā vai citās dalībvalstīs veic likumā noteiktās iekšējās pārbaudes un revīzijas apdrošināšanas komersantos, pārapdrošināšanas komersantos un citās finanšu iestādēs;\n8) neatkarīgiem apdrošināšanas komersantu vai pārapdrošināšanas komersantu aktuāriem, kas veic šo komersantu tiesisko uzraudzību, un iestādēm, kuras veic neatkarīgo aktuāru uzraudzību;\n9) iestādēm vai personām, kas ir atbildīgas par komerctiesību pārkāpumu atklāšanu un izmeklēšanu, lai stiprinātu finanšu sistēmas stabilitāti, tai skaitā tās vienotību;\n10) citām valsts pārvaldes iestādēm, kuras ir atbildīgas par normatīvo aktu ievērošanu finanšu un kapitāla tirgus dalībnieku un pārapdrošinātāju uzraudzības jomā, un darbiniekiem, kas rīkojas minēto iestāžu uzdevumā, ja informācijas izpaušana ir vajadzīga piesardzīgai uzraudzības veikšanai;\n11) Eiropas Apdrošināšanas un aroda pensiju iestādi un Eiropas Sistēmisko risku padomi.\n(7) Šā panta sestajā daļā noteiktās iestādes un personas attiecībā uz informāciju, kas saņemta no Finanšu un kapitāla tirgus komisijas un dalībvalsts finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijām, ievēro šādas prasības:\n1) iestādes un personas saņemto informāciju izmanto tikai to kompetencē esošo pienākumu veikšanai;\n2) šā panta sestajā daļā noteiktajām iestādēm un personām, tai skaitā to darbiniekiem, pienākumu pildīšanas laikā un pēc tam, kad izbeigtas darba un cita veida līgumattiecības ar šā panta sestajā daļā noteiktajām iestādēm vai personām, ir aizliegts publiski vai citā veidā izpaust ar pārapdrošināšanas komersantu darbību saistītu informāciju, kura iepriekš nav bijusi likumā noteiktajā kārtībā publicēta vai kuras izpaušanu nenosaka citi likumi. Šajā daļā minētās iestādes vai personas normatīvajos aktos noteiktajā kārtībā ir atbildīgas par ierobežotas pieejamības informācijas nelikumīgu izpaušanu un par zaudējumiem, kas trešajām personām radušies šajā daļā minēto iestāžu vai personu prettiesiskas rīcības dēļ;\n3) saņemto informāciju šā panta sestās daļas 6., 7., 8. un 9.punktā noteiktās iestādes vai personas ir tiesīgas izpaust vienīgi ar to personu iepriekšēju rakstveida piekrišanu, kuras tām attiecīgo informāciju sniegušas, un vienīgi nolūkam, kādam šī piekrišana dota.\n(8) Pirms šā panta sestās daļas 9.punktā noteiktajām iestādēm vai personām tiek nosūtīta informācija, informācijas sniedzējiem paziņo to personu vārdu un uzvārdu, kurām tieši informācija sūtāma, un šo personu precīzus pienākumus.\n(9) Finanšu un kapitāla tirgus komisija informē Eiropas Komisiju un citas dalībvalstis par to iestāžu nosaukumiem, kuras drīkst saņemt informāciju atbilstoši šā panta sestās daļas 6., 7., 8. un 9.punktam.\n(10) Šā panta sestās daļas 10.punktā noteiktajām iestādēm un personām informācija, kas saņemta atbilstoši šā panta trešajai daļai un sestās daļas 1., 2., 3. un 4.punktam vai kas iegūta, veicot pārbaudes, tiek sniegta, ja dalībvalsts finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijas, no kurām šāda informācija saņemta, vai to dalībvalstu finanšu un kapitāla tirgus dalībnieku uzraudzības institūcijas, kurās veikta pārbaude, ir devušas piekrišanu šādai informācijas izpaušanai."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VII nodaļa. Informācijas apmaiņa",
+      "section": "43",
+      "title": "(1) Finanšu un kapitāla tirgus komisija nosūta Eiropas Komisijai un dalībvalstu pārapdrošinātāju uzraudzības institūcijām paziņojumus, informējot par šādiem gadījumiem:",
+      "content": "1) pārapdrošināšanas licence izsniegta pārapdrošināšanas sabiedrībai, kuras mātes sabiedrība vai tās mātes sabiedrība nav reģistrēta dalībvalstī;\n2) komercsabiedrība, kas nav reģistrēta dalībvalstī, ir kļuvusi par pārapdrošināšanas sabiedrības mātes sabiedrību.\n(2) Ja pārapdrošināšanas licence izsniegta pārapdrošināšanas sabiedrībai, kuras mātes sabiedrība vai tās mātes sabiedrība nav reģistrēta dalībvalstī, Finanšu un kapitāla tirgus komisija papildus šā panta pirmās daļas 1.punktā minētajai informācijai nosūta Eiropas Komisijai ziņas par pārapdrošināšanas sabiedrības grupas struktūru."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VII nodaļa. Informācijas apmaiņa",
+      "section": "44",
+      "title": "(1) Veicot uzraudzību, Finanšu un kapitāla tirgus komisija sadarbojas un konsultējas ar Eiropas Komisiju.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija informē Eiropas Komisiju par būtiskām problēmām, ar kādām saskaras pārapdrošināšanas sabiedrības, uzsākot vai veicot pārapdrošināšanu nedalībvalstīs.\n(3) Finanšu un kapitāla tirgus komisija sadarbojas ar Eiropas Komisiju, lai atvieglotu pārapdrošināšanas uzraudzību dalībvalstīs un apzinātu grūtības, kas var rasties, piemērojot šo likumu un Apdrošināšanas sabiedrību un to uzraudzības likumu."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VIII nodaļa. Pārapdrošinātāju pārskati",
+      "section": "45",
+      "title": "(1) Pārapdrošinātājs kārto grāmatvedību atbilstoši likumam “Par grāmatvedību”, šim likumam un Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem.",
+      "content": "(2) Gada pārskatu pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle sastāda atbilstoši šā panta pir­majai daļai un Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem.\n(3) Pārapdrošināšanas sabiedrība, kura ir grupas mātes sabiedrība, sagatavo konsolidēto gada pārskatu atbilstoši Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VIII nodaļa. Pārapdrošinātāju pārskati",
+      "section": "46",
+      "title": "Finanšu un kapitāla tirgus komisija pieprasa no pārapdrošinātāja pārskatus par tā darbību, nosakot šo pārskatu formu, saturu un iesniegšanas termiņu.",
+      "content": "46.pants. Finanšu un kapitāla tirgus komisija pieprasa no pārapdrošinātāja pārskatus par tā darbību, nosakot šo pārskatu formu, saturu un iesniegšanas termiņu."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VIII nodaļa. Pārapdrošinātāju pārskati",
+      "section": "47",
+      "title": "(1) Zvērināts revidents vai zvērinātu revidentu komercsabiedrība sagatavo ziņojumu pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadībai. Ziņojuma norakstu iesniedz Finanšu un kapitāla tirgus komisijai 15 dienu laikā pēc gada pārskata apstiprināšanas akcionāru vai dalībnieku sapulcē, bet ne vēlāk kā pārskata gadam sekojošā gada 15.maijā.",
+      "content": "(2) Ja ziņojumā, ko sagatavojis zvērināts revidents vai zvērinātu revidentu komercsabiedrība, ir piezīmes, dividendes drīkst izmaksāt tikai tad, kad šī izmaksa ir saskaņota ar Finanšu un kapitāla tirgus komisiju.\n(3) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt no zvērināta revidenta vai zvērinātu revidentu komercsabiedrības informāciju par veikto pārbaudi."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VIII nodaļa. Pārapdrošinātāju pārskati",
+      "section": "48",
+      "title": "(1) Pārapdrošināšanas sabiedrība, kura ir grupas mātes sabiedrība, konsolidēto gada pārskatu sagatavo ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām.",
+      "content": "(2) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle gada pārskatu sagatavo ne vēlāk kā četrus mēnešus pēc pārskata gada beigām.\n(3) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle ne vēlāk kā 15 dienu laikā pēc gada pārskata apstiprināšanas un ne vēlāk kā pārskata gadam sekojošā gada 15.maijā iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei pēc pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles reģistrācijas vietas gada pārskata un zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojuma kopiju kopā ar akcionāru vai dalībnieku sapulces protokola izrakstu par gada pārskata apstiprināšanu. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura sagatavo konsolidēto gada pārskatu, papildus šīs daļas pirmajā teikumā noteiktajam ne vēlāk kā 15 dienu laikā pēc konsolidētā gada pārskata apstiprināšanas un ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei pēc pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles reģistrācijas vietas arī konsolidētā gada pārskata un zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojuma kopiju kopā ar akcionāru vai dalībnieku sapulces protokola izrakstu par konsolidētā gada pārskata apstiprināšanu. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle šajā daļā minētos dokumentus iesniedz papīra formā vai elektroniski.\n(4) Šā panta trešajā daļā minētos dokumentus, ja tie iesniegti elektroniski, vai šo dokumentu elektroniskas kopijas, ja tie iesniegti papīra formā, Valsts ieņēmumu dienests ne vēlāk kā piecu darbdienu laikā elektroniski nodod Uzņēmumu reģistram. Uzņēmumu reģistrs nodrošina saņemto dokumentu publisku pieejamību. Elektronisko dokumentu nodošanas un apliecināšanas kārtību nosaka starpresoru vienošanās, kuru noslēdzis Valsts ieņēmumu dienests un Uzņēmumu reģistrs.\n(5) Uzņēmumu reģistrs pēc šā panta ceturtajā daļā minēto dokumentu saņemšanas ne vēlāk kā piecu darbdienu laikā publicē oficiālajā izdevumā “Latvijas Vēstnesis” paziņojumu, ka šā panta trešajā daļā minētā informācija pieejama Uzņēmumu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VIII nodaļa. Pārapdrošinātāju pārskati",
+      "section": "49",
+      "title": "(1) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle papildus šā likuma 48.panta trešajā daļā noteiktajam pati nodrošina, ka gada pārskats pēc tā apstiprināšanas kopā ar zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojumu tiek publiskots ne vēlāk kā pārskata gadam sekojošā gada 15.maijā, bet konsolidētais gada pārskats kopā ar zvērināta revidenta vai zvērinātu revidentu komercsabiedrības ziņojumu — ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām. Minētajam gada pārskatam un konsolidētajam gada pārskatam jābūt identiskam ar zvērināta revidenta vai zvērinātu revidentu komercsabiedrības pārbaudīto. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle attiecīgo informāciju var publiskot savā mājaslapā internetā vai arī izvēlēties informācijas publiskošanai citu piemērotu informācijas nesēju vai vietu.",
+      "content": "(2) Ārvalsts pārapdrošinātāja filiāle nodrošina, ka ārvalsts pārapdrošinātāja gada pārskats tiek publiskots ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām. Vismaz pārskatu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskatu par finansiālās darbības rezultātiem pārskata periodā, kā arī zvērināta revidenta atzinumu publisko tulkotu latviešu valodā. Attiecīgo informāciju ārvalsts pārapdrošinātāja filiāle var publiskot savā mājaslapā internetā vai arī izvēlēties informācijas publiskošanai citu piemērotu informācijas nesēju vai vietu."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "IX nodaļa. Tehniskās rezerves",
+      "section": "50",
+      "title": "(1) Tehniskās rezerves izveido tajā pašā valūtā, kurā pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle uzņēmusies saistības atbilstoši noslēgtajiem pārapdrošināšanas līgumiem.",
+      "content": "(2) Tehniskās rezerves izveido pietiekamā apmērā, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle varētu pilnībā izpildīt savas saistības atbilstoši noslēgtajiem pārapdrošināšanas līgumiem un nodrošināt finansiālās darbības stabilitāti. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadība izstrādā un apstiprina tehnisko rezervju veidošanas politiku un procedūru un ir atbildīga par šīs politikas un procedūras ievērošanu. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle tehnisko rezervju veidošanas politiku un procedūru rakstveidā iesniedz Finanšu un kapitāla tirgus komisijai 10 dienu laikā pēc šīs politikas un procedūras apstiprināšanas, kā arī informē par visām izmaiņām tajā.\n(3) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle veic tehnisko rezervju aprēķinus katram pārapdrošināšanas līgumam.\n(4) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles peļņu samazina par tehniskajās rezervēs gada laikā ieskaitīto summu. Savukārt peļņu palielina par summu, kas gada laikā ir atskaitīta no tehniskajām rezervēm, un šo summu ieskaita pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ienākumos."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "IX nodaļa. Tehniskās rezerves",
+      "section": "51",
+      "title": "(1) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura veic pārapdrošināšanu šā likuma 13.panta otrās daļas 1.punktā minētajā pārapdrošināšanas veidā, izveido dzīvības apdrošināšanas tehnisko rezervi.",
+      "content": "(2) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura veic pārapdrošināšanu šā likuma 13.panta otrās daļas 2.punktā minētajā pārapdrošināšanas veidā, izveido:\n1) nenopelnīto pārapdrošināšanas prēmiju tehnisko rezervi;\n2) atlikto pārapdrošināšanas atlīdzību tehnisko rezervi, kas attiecas uz gadījumiem:\na) par kuriem ir saņemts pārapdrošināšanas atlīdzības pieteikums, bet pārapdrošināšanas atlīdzība nav izmaksāta vai nav izmaksāta pilnībā,\nb) kuri notikuši, bet par kuriem vēl nav saņemts pārapdrošināšanas atlīdzības pieteikums.\n(3) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura veic pārapdrošināšanu Apdrošināšanas sabiedrību un to uzraudzības likuma 12.panta pirmās daļas 14.punktā minētajā apdrošināšanas veidā, papildus šā panta pirmajā daļā minētajām tehniskajām rezervēm Finanšu un kapitāla tirgus komisijas noteiktajā kārtībā izveido izlīdzināšanas tehnisko rezervi.\n(4) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura veic pārapdrošināšanu Apdrošināšanas sabiedrību un to uzraudzības likuma 12.panta pirmās daļas 10., 11., 12. un 13.punktā minētajos apdrošināšanas veidos, izveido izlīdzināšanas tehnisko rezervi.\n(5) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura veic pārapdrošināšanu:\n1) šā likuma 13.panta otrās daļas 2.punktā minētajā pārapdrošināšanas veidā, izņemot Apdrošināšanas sabiedrību un to uzraudzības likuma 12.panta pirmās daļas 10., 11., 12., 13. un 14.punktā minēto apdrošināšanas veidu pārapdrošināšanu, lai nodrošinātu šā likuma 50.panta prasību izpildi, kā arī ņemot vērā pārapdrošināšanas veidu īpatnības, papildus šā panta pirmajā daļā minētajām tehniskajām rezervēm var izveidot izlīdzināšanas tehnisko rezervi;\n2) šā likuma 13.panta otrās daļas 2.punktā minētajā pārapdrošināšanas veidā, lai nodrošinātu šā likuma 50.panta prasību izpildi, kā arī ņemot vērā pārapdrošināšanas veidu īpatnības, papildus šā panta pirmajā daļā minētajām tehniskajām rezervēm var izveidot neparedzēta riska tehnisko rezervi.\n(6) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, kura veic pārapdrošināšanu šā likuma 13.panta otrās daļas 1.punktā minētajā pārapdrošināšanas veidā, lai nodrošinātu šā likuma 50.panta prasību izpildi, kā arī ņemot vērā pārapdrošināšanas veida īpatnības, papildus šā panta pirmajā daļā minētajām tehniskajām rezervēm var izveidot tehnisko rezervi gratifikācijām.\n(7) Finanšu un kapitāla tirgus komisija izdod normatīvos noteikumus par tehnisko rezervju aprēķināšanas metodēm."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "IX nodaļa. Tehniskās rezerves",
+      "section": "52",
+      "title": "(1) Tehniskajām rezervēm nepārtraukti jābūt pilnā apmērā segtām ar tehnisko rezervju segumu.",
+      "content": "(2) Tehnisko rezervju segumam un tehniskajām rezervēm jābūt saskaņotām pa valūtu veidiem un sagaidāmo pārapdrošināšanas atlīdzību izmaksu termiņiem."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "X nodaļa. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieguldījumi",
+      "section": "53",
+      "title": "(1) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieguldījumiem jābūt drošiem, daudzveidīgiem, likvīdiem un peļņu nesošiem, lai tie nodrošinātu pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālo stabilitāti un garantētu pārapdrošināšanas līgumos paredzēto saistību izpildi. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadība izstrādā un apstiprina pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieguldījumu veidošanas politiku un procedūru un ir atbildīga par šīs politikas un procedūras ievērošanu. Pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles vadība ne retāk kā reizi gadā pārskata ieguldījumu veidošanas procedūru, saskaņojot to pa ieguldījumu veidiem, ģeogrāfisko izvietojumu, darījumu partneriem, finanšu instrumentu regulētiem un neregulētiem tirgiem un nekustamā īpašuma tirgiem. Pirms darījumiem ar atvasinātajiem finanšu instrumentiem pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadība izstrādā un apstiprina atvasināto finanšu instrumentu izmantošanas politiku un procedūru, kas saskaņota ar pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pamatdarbību, tās ieguldījumu veidošanas kārtību un atbilstošo risku pārvaldību.",
+      "content": "(2) Nedalībvalsts pārapdrošinātāja filiāle uz tehnisko rezervju segumu var attiecināt tikai Latvijā ieguldītus aktīvus."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "X nodaļa. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieguldījumi",
+      "section": "54",
+      "title": "Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles tehnisko rezervju segumam jāatbilst šādām prasībām:",
+      "content": "1) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nodrošina tehnisko rezervju segumu ar aktīviem atbilstoši tās darbībai, ņemot vērā sagaidāmo pārapdrošināšanas atlīdzību izmaksu raksturu, apmēru un izmaksu veikšanas ilgumu un nodrošinot tehnisko rezervju segumam izmantoto aktīvu pietiekamību, likviditāti, drošību, kvalitāti, pelnītspēju un saskaņotību;\n2) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nodrošina, lai tehnisko rezervju segumam izmantotie aktīvi ir daudzveidīgi un pietiekami izkliedēti un ļautu pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei adekvāti reaģēt uz mainīgiem ekonomiskajiem apstākļiem, jo īpaši saistībā ar finanšu tirgus un nekustamā īpašuma tirgus attīstību vai saistībā ar lielām katastrofām. Lai nodrošinātu tehnisko rezervju segumu, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle novērtē nepastāvīgu tirgus izmaiņu ietekmi uz saviem aktīviem un tos dažādo, lai samazinātu negatīvo ietekmi;\n3) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle tehnisko rezervju seguma nodrošināšanai izmantotos aktīvus, kas netiek tirgoti regulētā tirgū, uztur piesardzīgā līmenī;\n4) tehnisko rezervju segumam pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle var izmantot atvasinātos finanšu instru­mentus, ja tie samazina ieguldījumu risku vai veicina efektīvāku ieguldījumu portfeļa pārvaldi. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle atvasinātos finanšu instrumentus novērtē piesardzīgi, novērtējot aktīvus, ar kuriem attiecīgais atvasinātais finanšu instruments ir saistīts, un tos iekļauj pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles aktīvu novērtējumā. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izvairās no pārmērīga riska attiecībā uz vienu darījuma partneri un darījumiem ar atvasinātajiem finanšu instrumentiem;\n5) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle tehnisko rezervju segumam izmantojamos aktīvus atbilstoši dažādo, lai nepieļautu pārmērīgu atkarību no kāda viena konkrēta aktīva, emitenta vai komercsabiedrību grupas un nepieļautu ieguldījumu portfeļa kopējā riska uzkrāšanu. Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, izmantojot tehnisko rezervju segumam aktīvus, ko emitējis viens emitents vai emitenti, kas pieder vienai grupai, nedrīkst pakļaut pārapdrošināšanas sabiedrību vai nedalībvalsts pārapdrošinātāja filiāli pārmērīgai riska koncentrācijai. Šis ierobežojums neattiecas uz Latvijas, citas dalībvalsts vai OECD dalībvalsts parāda vērtspapīriem, kurus emitējusi valsts."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "X nodaļa. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieguldījumi",
+      "section": "55",
+      "title": "(1) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, veidojot aktīvu struktūru tehnisko rezervju segumam, ievēro šādus noteikumus:",
+      "content": "1) tehnisko rezervju segums ar valūtās nesaskaņotiem aktīviem nedrīkst pārsniegt 30 procentus no kopējā tehnisko rezervju apmēra;\n2) uz tehnisko rezervju segumu drīkst attiecināt akcijas un citus apgrozāmos vērtspapīrus, kam ir akciju, obligāciju un parāda vērtspapīru īpašības un ko netirgo regulētā tirgū, nepārsniedzot 30 procentus no kopējām tehniskajām rezervēm;\n3) uz tehnisko rezervju segumu drīkst attiecināt vienas un tās pašas komercsabiedrības akcijas, citus apgrozāmos vērtspapīrus, kam ir akciju, obligāciju un parāda vērtspapīru īpašības, kā arī naudas un kapitāla tirgus instrumentus, nepārsniedzot piecus procentus no kopējām tehniskajām rezervēm;\n4) uz tehnisko rezervju segumu drīkst attiecināt pie vienas un tās pašas grupas piederošu komercsabiedrību akcijas, citus apgrozāmos vērtspapīrus, kam ir akciju, obligāciju un parāda vērtspapīru īpašības, kā arī naudas un kapitāla tirgus instrumentus, nepārsniedzot 10 procentus no kopējām tehniskajām rezervēm.\n(2) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt, lai tiek mainīts to aktīvu sastāvs un struktūra, kuri attiecināti uz tehnisko rezervju segumu, ja esošais aktīvu sastāvs un struktūra kaitē vai var kaitēt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālajai stabilitātei un var apdraudēt saistību izpildi atbilstoši noslēgtajiem pārapdrošināšanas līgumiem un ja tiek konstatēts kāds no šādiem nosacījumiem:\n1) pastāv pārmērīga paļaušanās uz kādu aktīvu kategoriju, ieguldījumu tirgu vai atsevišķu ieguldījumu;\n2) aktīvu rakstura vai emitenta kvalitātes dēļ aktīvi ir saistīti ar lielu risku;\n3) ir liels nelikvīdu aktīvu īpatsvars.\n(3) Aktīvu vērtību nosaka saskaņā ar Finanšu un kapitāla tirgus komisijas normatīvajiem noteikumiem par pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdroši­nātāja filiāles gada pārskatu sagatavošanu."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "X nodaļa. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieguldījumi",
+      "section": "56",
+      "title": "Pārapdrošināšanas sabiedrība nedrīkst tieši vai netieši izsniegt aizdevumu pašu izlaisto akciju vai daļu iegādei, kā arī pieņemt par saistību nodrošinājumu pašu akcijas vai daļas.",
+      "content": "56.pants. Pārapdrošināšanas sabiedrība nedrīkst tieši vai netieši izsniegt aizdevumu pašu izlaisto akciju vai daļu iegādei, kā arī pieņemt par saistību nodrošinājumu pašu akcijas vai daļas."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "57",
+      "title": "(1) Lai nodrošinātu pārapdrošināšanas sabiedrības vai nedalīb­valsts pārapdrošinātāja filiāles finansiālās darbības stabilitāti, pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles rīcībā pastāvīgi jābūt pašu līdzekļiem.",
+      "content": "(2) Pašu līdzekļu aprēķināšanas kārtību nosaka Finanšu un kapitāla tirgus komisija."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "58",
+      "title": "(1) Lai novērtētu pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles finansiālā stāvokļa stabilitāti, pārapdrošināšanas sabiedrības un nedalībvalsts pārapdrošinātāja filiāles pašu līdzekļus salīdzina ar maksātspējas normu. Pārapdrošināšanas sabiedrība un nedalībvalsts pār­apdrošinātāja filiāle izpilda maksātspējas prasību, ja pašu līdzekļi ir vienādi ar maksātspējas normu vai lielāki par to.",
+      "content": "(2) Maksātspējas norma ir Finanšu un kapitāla tirgus komisijas noteiktajā kārtībā aprēķināts lielums. Maksātspējas norma nedrīkst būt zemāka par garantijas fonda minimālo lielumu.\n(3) Finanšu un kapitāla tirgus komisija pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei var noteikt lielāku maksātspējas normu, ja:\n1) ir pieprasīts, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle sagatavo šā likuma 66.pantā minēto finansiālā stāvokļa uzlabošanas plānu;\n2) pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle būtiski samazina vai pārtrauc pārapdrošināšanu;\n3) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles retrocesijas līgumu veids un piemērošanas nosacījumi kopš iepriekšējā finanšu gada ir ievērojami mainījušies;\n4) saskaņā ar pārapdrošināšanas sabiedrības vai nedalībvalsts pār­apdrošinātāja filiāles retrocesijas līgumiem nav nodotu risku vai arī nodoto risku apjoms ir nebūtisks."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "59",
+      "title": "(1) Nedalībvalsts pārapdrošinātāja filiāles rīcībā jābūt nodotiem naudas līdzekļiem garantijas fonda minimālā lieluma apmērā, un nedalībvalsts pārapdrošinātāja filiāle ne mazāk kā 25 procentus no garantijas fonda minimālā lieluma nogulda kā drošības naudu Latvijā reģistrētā kredītiestādē. Noguldījumam jābūt brīvi pieejamam, tas nedrīkst būt apgrūtināts, un tā pārvietošana iespējama tikai ar Finanšu un kapitāla tirgus komisijas atļauju. Drošības naudas apmēru ņem vērā, aprēķinot nedalībvalsts pārapdrošinātāja filiāles pašu līdzekļus.",
+      "content": "(2) Nedalībvalsts pārapdrošinātāja filiāle pašu līdzekļus aprēķinātās maksātspējas normas apmērā iegulda dalībvalstīs, garantijas fonda apmērā — Latvijā, atbilstoši šā likuma 53.panta pirmajā daļā noteiktajiem kritērijiem."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "60",
+      "title": "(1) Garantijas fonds ir lielākais no šādiem diviem lielumiem:",
+      "content": "1) viena trešdaļa no aprēķinātās maksātspējas normas;\n2) garantijas fonda minimālais lielums.\n(2) Garantijas fonda minimālais lielums ir šāds:\n1) pārapdrošināšanas sabiedrībām un nedalībvalstu pārapdrošinātāju filiālēm — 3,6 miljoni euro ;\n2) kaptīviem pārapdrošinātājiem — 1,2 miljoni euro .\n(3) Šā panta otrajā daļā noteiktais garantijas fonda minimālais lielums tiek pārskatīts reizi gadā un indeksēts, ja saskaņā ar statistikas biroja Eurostat sniegto informāciju patēriņa cenu indekss Eiropas Ekonomikas zonas valstīs pieaudzis par pieciem procentiem vai vairāk. Minimālā garantijas fonda palielinājuma summa tiek noapaļota uz augšu līdz tuvākajiem 100 000 euro . Lēmumu par indeksācijas veikšanu un minimālā garantijas fonda palielinājuma apjomu attiecīgajā gadā paziņo Eiropas Komisija.\n(4) Finanšu un kapitāla tirgus komisija precizē minimālā garantijas fonda lielumu, ievērojot Eiropas Komisijas paziņojumu.\n(5) Pārapdrošināšanas sabiedrība pamatkapitālā var ieguldīt tikai naudas līdzekļus, izņemot gadījumus, kad pārapdrošināšanas sabiedrība tiek reorganizēta.\n(6) Dibinot pārapdrošināšanas sabiedrību, tās pašu līdzekļi nedrīkst būt mazāki par garantijas fonda minimālo lielumu."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "61",
+      "title": "Ja pārapdrošināšanas sabiedrība nav izpildījusi šā likuma un citu normatīvo aktu prasības attiecībā uz tehnisko rezervju izveidošanu un aprēķināšanas metodēm, Finanšu un kapitāla tirgus komisija, par savu nodomu iepriekš paziņojot tās dalībvalsts pārapdrošinātāju uzraudzības institūcijām, kurā pārapdrošināšanas komersantam ir filiāle vai kurā pārapdrošināšanas komersants sniedz pārapdrošināšanas pakalpojumus (iesaistītā dalībvalsts), drīkst pārapdrošināšanas sabiedrībai aizliegt brīvi rīkoties ar tās aktīviem.",
+      "content": "61.pants. Ja pārapdrošināšanas sabiedrība nav izpildījusi šā likuma un citu normatīvo aktu prasības attiecībā uz tehnisko rezervju izveidošanu un aprēķināšanas metodēm, Finanšu un kapitāla tirgus komisija, par savu nodomu iepriekš paziņojot tās dalībvalsts pārapdrošinātāju uzraudzības institūcijām, kurā pārapdrošināšanas komersantam ir filiāle vai kurā pārapdrošināšanas komersants sniedz pārapdrošināšanas pakalpojumus (iesaistītā dalībvalsts), drīkst pārapdrošināšanas sabiedrībai aizliegt brīvi rīkoties ar tās aktīviem."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "62",
+      "title": "(1) Ja pārapdrošināšanas sa­biedrības vai nedalībvalsts pārap­drošinātāja filiāles pašu līdzekļu summa ir mazāka par aprēķināto maksātspējas normu, bet lielāka par garantijas fondu, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle iesniedz saskaņošanai Finanšu un kapitāla tirgus komisijai plānu pašu līdzekļu summas atjaunošanai līdz aprēķinātajai maksātspējas normai.",
+      "content": "(2) Ja, iestājoties šā panta pirmajā daļā noteiktajam gadījumam, Finanšu un kapitāla tirgus komisija uzskata, ka pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālā situācija turpinās pasliktināties, Finanšu un kapitāla tirgus komisija var arī ierobežot vai aizliegt pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei brīvi rīkoties ar tās aktīviem.\n(3) Finanšu un kapitāla tirgus komisija informē iesaistīto dalībvalstu pārapdrošinātāju uzraudzības institūcijas, kuru teritorijā pārapdrošināšanas sabiedrība veic pārapdrošināšanu, par visiem pasākumiem, kādus tā saskaņā ar šā panta otro daļu veikusi attiecībā uz pārapdrošināšanas sabiedrību, un pieprasa, lai tās piemēro pārapdrošināšanas sabiedrībai adekvātus pasākumus iesaistītās dalībvalsts teritorijā.\n(4) Pārapdrošināšanas sabiedrība mēnesi pirms akcionāru sapulces paziņo Finanšu un kapitāla tirgus komisijai par nodomu izmaksāt dividendes. Finanšu un kapitāla tirgus komisijai ir tiesības aizliegt pārapdrošināšanas sabiedrībai izmaksāt dividendes, ja pārapdrošināšanas sabiedrība neizpilda šā likuma 58.pantā noteikto maksātspējas prasību vai, izmaksājot dividendes, maksātspējas prasība varētu tikt neizpildīta."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "63",
+      "title": "(1) Ja pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pašu līdzekļu summa ir mazāka par garantijas fondu, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle iesniedz saskaņošanai Finanšu un kapitāla tirgus komisijai plānu pašu līdzekļu summas tūlītējai atjaunošanai līdz garantijas fonda apmēram.",
+      "content": "(2) Iestājoties šā panta pirmajā daļā noteiktajam gadījumam, Finanšu un kapitāla tirgus komisija var arī ierobežot vai aizliegt pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei brīvi rīkoties ar tās aktīviem.\n(3) Finanšu un kapitāla tirgus komisija informē iesaistīto dalībvalstu pārapdrošinātāju uzraudzības institūcijas, kuru teritorijā pārapdrošināšanas sabiedrība veic pārapdrošināšanu, par visiem pasākumiem, kādus tā saskaņā ar šā panta otro daļu veikusi attiecībā uz pārapdrošināšanas sabiedrību, un pieprasa, lai tās piemēro pārapdrošināšanas sabiedrībai adekvātus pasākumus iesaistītās dalībvalsts teritorijā."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "64",
+      "title": "Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pienākums ir informēt Finanšu un kapitāla tirgus komisiju par visiem apstākļiem, kuri var būtiski ietekmēt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles turpmāko darbību.",
+      "content": "64.pants. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pienākums ir informēt Finanšu un kapitāla tirgus komisiju par visiem apstākļiem, kuri var būtiski ietekmēt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles turpmāko darbību."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "65",
+      "title": "Finanšu un kapitāla tirgus komisija, saņēmusi no dalībvalsts pārapdrošinātāja uzraudzības institūcijas pieprasījumu aizliegt vai ierobežot brīvu rīcību ar dalībvalsts pārapdrošinātāja aktīviem Latvijā, saskaņā ar normatīvajiem aktiem veic nepieciešamos pasākumus, lai nodrošinātu attiecīgus aizliegumus vai ierobežojumus brīvai rīcībai ar tiem aktīviem, kuriem dalībvalsts pārapdrošinātāja uzraudzības institūcija ir lūgusi piemērot brīvas rīcības aizliegumu vai ierobežojumu.",
+      "content": "65.pants. Finanšu un kapitāla tirgus komisija, saņēmusi no dalībvalsts pārapdrošinātāja uzraudzības institūcijas pieprasījumu aizliegt vai ierobežot brīvu rīcību ar dalībvalsts pārapdrošinātāja aktīviem Latvijā, saskaņā ar normatīvajiem aktiem veic nepieciešamos pasākumus, lai nodrošinātu attiecīgus aizliegumus vai ierobežojumus brīvai rīcībai ar tiem aktīviem, kuriem dalībvalsts pārapdrošinātāja uzraudzības institūcija ir lūgusi piemērot brīvas rīcības aizliegumu vai ierobežojumu."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "XI nodaļa. Pašu līdzekļi un garantijas fonds",
+      "section": "66",
+      "title": "(1) Finanšu un kapitāla tirgus komisija, pamatojoties uz iesniegtajiem finanšu pārskatiem un pārbaužu rezultātiem, var pieprasīt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālā stāvokļa uzlabošanas plānu.",
+      "content": "(2) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles vadība ir atbildīga par finansiālā stāvokļa uzlabošanas plāna savlaicīgu izstrādi un izpildi.\n(3) Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālā stāvokļa uzlabošanas plānu izstrādā turpmākajiem trim gadiem. Plānā norāda:\n1) ar darbību saistītos izdevumus (administratīvos un klientu piesaistīšanas izdevumus);\n2) pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles ieņēmumus par veikto pārapdrošināšanu un retrocesiju un ar tām saistītās izmaksas;\n3) pārskata projektu, kas atspoguļo finanšu stāvokli pārskata perioda beigās, un pārskata projektu par finansiālās darbības rezultātiem pārskata periodā;\n4) no pārapdrošināšanas izrietošo saistību izpildei un maksātspējas prasības izpildes nodrošināšanai nepieciešamo finanšu avotus;\n5) retrocesijas programmu;\n6) veicamos pasākumus un to izpildes termiņus.\n(4) Ja pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālā situācija pasliktinās un ir apdraudēta no pārapdrošināšanas līgumiem izrietošo pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja saistību izpilde, Finanšu un kapitāla tirgus komisija ir tiesīga noteikt pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei augstāku maksātspējas normu, lai nodrošinātu, ka pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle tuvākajā laikā spēj izpildīt maksātspējas prasību. Finanšu un kapitāla tirgus komisija augstāku maksātspējas normu nosaka, pamatojoties uz šā panta trešajā daļā norādīto finansiālā stāvokļa uzlabošanas plānu.\n(5) Ja Finanšu un kapitāla tirgus komisija ir pieprasījusi no pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālā stāvokļa uzlabošanas plānu saskaņā ar šā panta pirmo daļu, Finanšu un kapitāla tirgus komisija pieņem lēmumu par šā likuma 28.panta piektajā daļā noteiktās atļaujas neizsniegšanu un apliecinājuma nenosūtīšanu, kamēr ir apdraudēta no pārapdrošināšanas līgumiem izrietošo saistību izpilde.\n(6) Finanšu un kapitāla tirgus komisija piemēro drošības pasākumus, ja pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle atsakās iesniegt finansiālā stāvokļa uzlabošanas plānu vai iesniegtajā plānā paredzētie pasākumi nenodrošina konstatēto trūkumu novēršanu un pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles finansiālā stāvokļa uzlabošanu, vai iesniegtais plāns netiek īstenots.\n(7) Ja iestājas kāds no šā panta sestajā daļā noteiktajiem gadījumiem, Finanšu un kapitāla tirgus komisija veic šādus drošības pasākumus:\n1) ierobežo pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdroši­nātāja filiāles tiesības brīvi rīkoties ar saviem aktīviem un uzņemties jaunas saistības;\n2) nosaka visu pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles veicamo izmaksu vai to daļas obligātu iepriekšēju saskaņošanu ar Finanšu un kapitāla tirgus komisiju.\n(8) Finanšu un kapitāla tirgus komisija par pārapdrošināšanas sabiedrībai piemērotajiem ierobežojumiem vai aizliegumiem informē tās dalībvalsts pār­apdrošinātāju uzraudzības institūciju, kuras teritorijā pārapdrošināšanas sabiedrība atvērusi filiāli vai kuras teritorijā pārapdrošināšanas sabiedrība veic pārapdrošināšanu, ievērojot pakalpojumu sniegšanas brīvības principu, neatverot filiāli, un Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt, lai dalībvalsts pārapdrošinātāja uzraudzības institūcija noteiktu pārapdrošināšanas sabiedrībai adekvātus ierobežojumus vai aizliegumus.\n(9) Finanšu un kapitāla tirgus komisijai ir tiesības pēc dalībvalsts, kura ir dalībvalsts pārapdrošinātāja mītnes (reģistrācijas) valsts, pārapdrošinātāju uzraudzības institūcijas pieprasījuma noteikt dalībvalsts pārapdrošinātājam adekvātus ierobežojumus vai aizliegumus, kādus dalībvalsts pārapdrošinātāju uzraudzības institūcija noteikusi attiecībā uz dalībvalsts pārapdrošinātāju."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "XII nodaļa. Retrocesija",
+      "section": "67",
+      "title": "(1) Atbilstoši veiktajām un plānotajām retrocesijas operācijām pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izstrādā un apstiprina retrocesijas programmu un ir atbildīga par tās izpildi. Vismaz reizi gadā pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izvērtē retrocesijas izkārtojuma atbilstību retrocesijas programmai.",
+      "content": "(2) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izvēlas pārapdrošināšanas komersantu vai apdrošināšanas komersantu saskaņā ar retrocesijas programmu, ņemot vērā šajā likumā noteiktos ierobežojumus. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pienākums ir pirms risku nodošanas retrocesijā un visā retrocesijas līgumu darbības laikā nepārtraukti vākt un analizēt informāciju par pārapdrošināšanas komersanta vai apdrošināšanas komersanta finansiālo stāvokli (maksātspēju) un reputāciju.\n(3) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle ir tiesīga riskus nodot retrocesijā tikai:\n1) apdrošinātājam, kuram ir spēkā esoša apdrošināšanas licence;\n2) dalībvalsts apdrošinātājam, kuram ir spēkā esoša licence apdrošināšanas operāciju veikšanai mītnes (reģistrācijas) valstī;\n3) pārapdrošinātājam, kuram ir spēkā esoša pārapdrošināšanas licence;\n4) dalībvalsts pārapdrošinātājam, kuram ir spēkā esoša licence pārapdrošināšanas operāciju veikšanai mītnes (reģistrācijas) valstī;\n5) nedalībvalsts apdrošinātājam, kuram ir atļauja apdrošināšanas veikšanai mītnes (reģistrācijas) valstī, kuram starptautiskās reitinga aģentūras devušas vērtējumu investīciju kategorijā un kura spējas pildīt savas saistības neviena starptautiskā reitinga aģentūra nav apšaubījusi;\n6) nedalībvalsts pārapdrošinātājam, kuram starptautiskās reitinga aģentūras devušas vērtējumu investīciju kategorijā un kura spējas pildīt savas saistības neviena starptautiskā reitinga aģentūra nav apšaubījusi.\n(4) Finanšu un kapitāla tirgus komisijai, pamatojoties uz tai iesniegtajiem pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pārskatiem un pašas komisijas veikto pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbības pārbaužu rezultātiem, ir tiesības pieprasīt, lai pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle maina retrocesijas izkārtojumu, nodrošinot no pārapdrošināšanas līgumiem izrietošo apdraudēto saistību izpildi."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "XII nodaļa. Retrocesija",
+      "section": "68",
+      "title": "Ja riskus nodod retrocesijā, izmantojot pārapdrošināšanas starpnieka pakalpojumus, pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pienākums ir pirms līguma noslēgšanas un visā līguma darbības laikā nepārtraukti novērtēt pārapdrošināšanas starpnieka finansiālo stāvokli un reputāciju. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles rīcībā jābūt dokumentiem, kuri parāda retrocesijas izkārtojumu un pārapdrošināšanas starpniekam samaksātās komisijas atlīdzības apmēru.",
+      "content": "68.pants. Ja riskus nodod retrocesijā, izmantojot pārapdrošināšanas starpnieka pakalpojumus, pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pienākums ir pirms līguma noslēgšanas un visā līguma darbības laikā nepārtraukti novērtēt pārapdrošināšanas starpnieka finansiālo stāvokli un reputāciju. Pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles rīcībā jābūt dokumentiem, kuri parāda retrocesijas izkārtojumu un pārapdrošināšanas starpniekam samaksātās komisijas atlīdzības apmēru."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "XIII nodaļa. Pārapdrošināšanas licences anulēšana",
+      "section": "69",
+      "title": "(1) Finanšu un kapitāla tirgus komisija ir tiesīga anulēt izsniegto pārapdrošināšanas licenci, ja pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle:",
+      "content": "1) nav uzsākusi pārapdrošināšanu 12 mēnešu laikā no pārapdrošināšanas licences saņemšanas dienas;\n2) pārtraukusi pārapdrošināšanu uz laiku, kas ir ilgāks par sešiem mēnešiem;\n3) atsakās no pārapdrošināšanas licences;\n4) pārkāpj šo likumu, saskaņā ar to izdotos Finanšu un kapitāla tirgus komisijas normatīvos noteikumus un Finanšu un kapitāla tirgus komisijas rīkojumus vai neievēro pārapdrošināšanas licences nosacījumus;\n5) neveic plānā paredzētos pasākumus pašu līdzekļu summas atjaunošanai līdz aprēķinātajai maksātspējas normai vai pašu līdzekļu summas tūlītējai atjaunošanai līdz garantijas fonda apmēram;\n6) nenodrošina, ka tehniskās rezerves tiek pilnībā segtas ar šā likuma prasībām atbilstošiem aktīviem;\n7) būtiski pārkāpj likumus un citus normatīvos aktus, kas regulē komercdarbību;\n8) neveic pasākumus, kas paredzēti finansiālā stāvokļa uzlabošanas plānā;\n9) nespēj izpildīt no pārapdrošināšanas līgumiem izrietošās saistības;\n10) tiek likvidēta.\n(1 1 ) Papildus šā panta pirmajā daļā minētajiem nosacījumiem Finanšu un kapitāla tirgus komisija ir tiesīga anulēt izsniegto pārapdrošināšanas licenci, ja pārapdrošināšanas sabiedrības akcionāriem ar būtisku līdzdalību iestājies tiem piederošo akciju balsstiesību izmantošanas aizliegums un tas ilgst vairāk nekā sešus mēnešus.\n(2) Finanšu un kapitāla tirgus komisija sniedz iesaistītās dalībvalsts pārapdrošinātāju uzraudzības institūcijai informāciju par pārapdrošināšanas licences darbības anulēšanu.\n(3) Ja Finanšu un kapitāla tirgus komisija ir saņēmusi informāciju no dalībvalsts pārapdrošinātāju uzraudzības institūcijas par to, ka šī institūcija dalībvalsts pārapdrošinātājam anulējusi pārapdrošināšanas licenci, Finanšu un kapitāla tirgus komisija veic visus nepieciešamos pasākumus, kas liedz attiecīgajam dalībvalsts pārapdrošinātājam Latvijā slēgt jaunus pārapdrošināšanas līgumus, izmantojot tiesības dibināt filiāli vai, ja tiek ievērots pakalpojumu sniegšanas brīvības princips, sniegt pārapdrošināšanas pakalpojumus, neatverot filiāli.\n(4) Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par pārapdrošināšanas licences anulēšanu tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "XIII nodaļa. Pārapdrošināšanas licences anulēšana",
+      "section": "70",
+      "title": "(1) Finanšu un kapitāla tirgus komisija var anulēt pārapdrošināšanas licenci vienam vai vairākiem pārapdrošināšanas veidiem. Ja pārapdrošināšanas licence tiek anulēta, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle nedrīkst slēgt jaunus pārapdrošināšanas līgumus attiecīgajā pārapdrošināšanas veidā, mainīt spēkā esošo pārapdrošināšanas līgumu nosacījumus vai pagarināt to darbības termiņus, bet turpina pildīt no pārapdrošināšanas līgumiem izrietošās saistības.",
+      "content": "(2) Pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle ir likvidējama, ja tiek anulēta pārapdrošināšanas licence visiem tās veiktajiem pārapdrošināšanas veidiem, izņemot gadījumu, kad pārapdrošināšanas sa­biedrība reorganizācijas ceļā vai bez reorganizācijas veikšanas tiek pārveidota par juridisko personu, kas neveic pārapdrošināšanu. Pārapdrošināšanas sabiedrību reorganizācijas ceļā vai bez reorganizācijas veikšanas drīkst pārveidot par juridisko personu, kas neveic pārapdrošināšanu, tikai ar Finanšu un kapitāla tirgus komisijas atļauju.\n(3) Gadījumā, kad pārapdrošināšanas sabiedrību paredzēts pārveidot par juridisko personu, kas neveic pārapdrošināšanu, Finanšu un kapitāla tirgus komisija atļauju izsniedz, ja pārapdrošināšanas sabiedrība ir izpildījusi visas no pārapdrošināšanas līgumiem izrietošās saistības."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "XIII nodaļa. Pārapdrošināšanas licences anulēšana",
+      "section": "71",
+      "title": "(1) Finanšu un kapitāla tirgus komisija, anulējot pārapdroši­nāšanas licenci, ir tiesīga ierobežot pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbības ar tās aktīviem, izmaksu veikšanu un jaunu saistību uzņemšanos.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija nekavējoties paziņo pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei par izsniegtās pārapdrošināšanas licences anulēšanu.\n(3) Lēmumu par izsniegtās pārapdrošināšanas licences anulēšanu pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle var pārsūdzēt tiesā mēneša laikā pēc tā saņemšanas.\n(4) Finanšu un kapitāla tirgus komisija nekavējoties publicē oficiālajā izdevumā “Latvijas Vēstnesis” paziņojumu par izsniegtās pārapdrošināšanas licences anulēšanu.\n(5) Finanšu un kapitāla tirgus komisija turpina uzraudzīt pārapdrošināšanas sabiedrību vai nedalībvalsts pārapdrošinātāja filiāli līdz pilnīgai pārapdrošināšanas saistību izpildei vai līdz pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pasludināšanai par maksātnespējīgu."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "XIV nodaļa. Tiesības dibināt filiāli un pakalpojumu sniegšanas brīvības princips, sniedzot pārapdrošināšanas pakalpojumus, neatverot filiāli",
+      "section": "72",
+      "title": "(1) Ja Finanšu un kapitāla tirgus komisija konstatē, ka dalībvalsts pārapdrošinātāja filiāle vai dalībvalsts pārapdrošinātājs, kas, ievērojot pakalpojumu sniegšanas brīvības principu, sniedz pārapdrošināšanas pakalpojumus, neatverot filiāli, veic darbības, kuras ir pretrunā ar Latvijas likumiem, tā nekavējoties pieprasa, lai dalībvalsts pārapdrošinātājs izbeidz šādas darbības. Par konstatētajiem pārkāpumiem Finanšu un kapitāla tirgus komisija paziņo dalībvalsts pārapdrošinātāja mītnes (reģistrācijas) valsts pārapdrošinātāju uzraudzības institūcijai. Finanšu un kapitāla tirgus komisija sadarbojas un konsultējas ar dalībvalstu pārapdrošinātāju uzraudzības institūcijām, lai nodrošinātu dalībvalstu pārapdrošinātāju darbības uzraudzību Latvijā.",
+      "content": "(2) Ja dalībvalsts pārapdrošinātāja filiāle vai dalībvalsts pārapdrošinātājs, kas, ievērojot pakalpojumu sniegšanas brīvības principu, sniedz pārapdroši­nāšanas pakalpojumus, neatverot filiāli, turpina veikt darbības, kuras ir pretrunā ar Latvijas likumiem, Finanšu un kapitāla tirgus komisija informē par to attiecīgās dalībvalsts pārapdrošinātāju uzraudzības institūciju un veic pasākumus, lai šādus pārkāpumus novērstu, kā arī lemj par normatīvajos aktos paredzēto sodu piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "XIV nodaļa. Tiesības dibināt filiāli un pakalpojumu sniegšanas brīvības princips, sniedzot pārapdrošināšanas pakalpojumus, neatverot filiāli",
+      "section": "73",
+      "title": "Pārapdrošināšanas sabiedrības likvidācijas gadījumā saistības, kas izriet no pārapdrošināšanas līgumiem, kurus noslēgusi pārapdrošināšanas sabiedrība, izmantojot tiesības dibināt filiāli vai pakalpojumu sniegšanas brīvības principu, neatverot filiāli, izpildāmas tāpat kā tās, kas izriet no citiem pārapdrošināšanas sabiedrības noslēgtajiem pārapdrošināšanas līgumiem.",
+      "content": "73.pants. Pārapdrošināšanas sabiedrības likvidācijas gadījumā saistības, kas izriet no pārapdrošināšanas līgumiem, kurus noslēgusi pārapdrošināšanas sabiedrība, izmantojot tiesības dibināt filiāli vai pakalpojumu sniegšanas brīvības principu, neatverot filiāli, izpildāmas tāpat kā tās, kas izriet no citiem pārapdrošināšanas sabiedrības noslēgtajiem pārapdrošināšanas līgumiem."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "74",
+      "title": "(1) Pārapdrošināšanas uzraudzību, kā arī šajā likumā noteikto pārapdrošināšanas papildu uzraudzību veic Finanšu un kapitāla tirgus komisija.",
+      "content": "(2) Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt informāciju no dalībvalsts pārapdrošinātāja filiāles, kā arī pieprasīt, lai tiktu novērsta tās darbības neatbilstība normatīvo aktu prasībām. Par saviem lēmumiem Finanšu un kapitāla tirgus komisija paziņo dalībvalsts pārapdrošinātāju vadībai un mītnes (reģistrācijas) valsts pārapdrošinātāju uzraudzības institūcijai. Finanšu un kapitāla tirgus komisija sadarbojas un konsultējas ar dalībvalstu pārapdrošinātāju uzraudzības institūcijām, lai nodrošinātu dalībvalstu pārapdrošinātāju darbības uzraudzību Latvijā.\n(3) Finanšu un kapitāla tirgus komisija ir tiesīga pieprasīt informāciju no dalībvalsts pārapdrošinātāja, kurš, ievērojot pakalpojumu sniegšanas brīvības principu, sniedz pārapdrošināšanas pakalpojumus Latvijā, neatverot filiāli, un prasīt, lai tiktu novērsta tā darbības neatbilstība normatīvo aktu prasībām. Par saviem lēmumiem Finanšu un kapitāla tirgus komisija paziņo dalībvalsts pārapdrošinātāja vadībai un mītnes (reģistrācijas) valsts pārapdrošinātāju uzraudzības institūcijai. Finanšu un kapitāla tirgus komisija sadarbojas un konsultējas ar dalībvalstu pārapdrošinātāju uzraudzības institūcijām, lai nodrošinātu dalībvalstu apdrošinātāju darbības uzraudzību Latvijā.\n(3 1 ) Finanšu un kapitāla tirgus komisija uzraudzības procesā pirms lēmumu pieņemšanas, balstoties uz tās rīcībā esošo informāciju, izvērtē lēmumu iespējamo ietekmi uz citas dalībvalsts finanšu sistēmas stabilitāti.\n(4) Finanšu un kapitāla tirgus komisijas administratīvo aktu, kas izdots saskaņā ar šo likumu, var pārsūdzēt Administratīvajā apgabaltiesā. Tiesa lietu izskata kā pirmās instances tiesa. Lieta tiek izskatīta triju tiesnešu sastāvā. Administratīvās apgabaltiesas spriedumu var pārsūdzēt, iesniedzot kasācijas sūdzību."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "75",
+      "title": "(1) Finanšu un kapitāla tirgus komisija uzrauga pārapdrošināšanas sabiedrības, dalībvalstīs izveidotās pārapdrošināšanas sabiedrību filiāles, kā arī pārapdrošināšanas sabiedrību pārapdrošināšanas pakalpojumus, ko tās sniedz dalībvalstīs, ievērojot pakalpojumu sniegšanas brīvības principu, neatverot filiāli. Finanšu un kapitāla tirgus komisija, veicot uzraudzību, sadarbojas un konsultējas ar dalībvalstu pārapdrošinātāju uzraudzības institūcijām.",
+      "content": "(2) Šā panta pirmajā daļā un šā likuma 76.panta otrajā daļā noteiktajos gadījumos veicamā uzraudzība ietver pārapdrošināšanas sabiedrības darbību pārbaudi, maksātspējas prasību izpildes pārbaudi, tehnisko rezervju izveidošanas un tehnisko rezervju seguma nodrošināšanas pārbaudi, lai noteiktu to atbilstību normatīvo aktu prasībām."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "76",
+      "title": "(1) Ja Finanšu un kapitāla tirgus komisijai ir pamats uzskatīt, ka dalībvalsts pārapdrošinātāja darbības varētu ietekmēt tā finansiālo stabilitāti, Finanšu un kapitāla tirgus komisija par to informē attiecīgās dalībvalsts pārapdrošinātāju uzraudzības institūciju.",
+      "content": "(2) Ja Finanšu un kapitāla tirgus komisija no dalībvalsts pārapdrošinātāju uzraudzības institūcijas saņēmusi informāciju par to, ka dalībvalsts pārapdrošinātāju uzraudzības institūcijai ir pamats uzskatīt, ka pārapdrošināšanas sabiedrības veiktās darbības dalībvalstī varētu ietekmēt tās finansiālo stabilitāti, Finanšu un kapitāla tirgus komisija izvērtē pārapdrošināšanas sabiedrības veikto darbību atbilstību normatīvo aktu prasībām."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "77",
+      "title": "Finanšu un kapitāla tirgus komisija, lai izpildītu tai šajā likumā un citos normatīvajos aktos paredzētos uzdevumus, ir tiesīga izdot pārapdrošinātājiem saistošus normatīvos noteikumus un rīkojumus.",
+      "content": "77.pants. Finanšu un kapitāla tirgus komisija, lai izpildītu tai šajā likumā un citos normatīvajos aktos paredzētos uzdevumus, ir tiesīga izdot pārapdrošinātājiem saistošus normatīvos noteikumus un rīkojumus."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "78",
+      "title": "(1) Finanšu un kapitāla tirgus komisija ir tiesīga pārbaudīt pārapdrošināšanas sabiedrības un pārapdrošināšanas sabiedrības filiāles dalībvalstī, ja iepriekš par to ir informēta attiecīgās dalībvalsts pārapdrošinātāju uzraudzības institūcija, vai nedalībvalsts pārapdrošinātāja filiāles darbību un dokumentus, kā arī bez balss­tiesībām piedalīties pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles pārvaldes institūciju sēdēs.",
+      "content": "(2) Ja dalībvalsts pārapdrošinātāja uzraudzības institūcija pārbauda dalībvalsts pārapdrošinātāja filiāli Latvijā, Finanšu un kapitāla tirgus komisija var piedalīties minētās pārbaudes veikšanā.\n(3) Pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei ir pienākums sadarboties ar Finanšu un kapitāla tirgus komisijas pārstāvi, viņam veicot šā panta pirmajā daļā minētās darbības."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "79",
+      "title": "(1) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt no pārapdrošinātājiem informāciju un dokumentus par to darbību, tai skaitā par apdrošināšanas operācijām, kas veiktas, izmantojot pārapdrošināšanas starpnieku pakalpojumus.",
+      "content": "(2) Pārapdrošinātāji pieprasīto informāciju iesniedz Finanšu un kapitāla tirgus komisijas noteiktajos termiņos. Tie nedrīkst atteikties iesniegt informāciju, aizbildinoties ar komercnoslēpumu."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "80",
+      "title": "Finanšu un kapitāla tirgus komisijai ir tiesības neatļaut pārapdrošināšanas sabiedrībai nodibināt ciešas attiecības ar trešajām personām vai pieprasīt, lai pārapdrošināšanas sabiedrība izbeidz ciešas attiecības ar trešajām personām, vai aizliegt darījumus ar trešajām personām, ja šādas attiecības var apdraudēt vai apdraud pārapdrošināšanas sabiedrības finansiālo stabilitāti vai traucē Finanšu un kapitāla tirgus komisijai veikt uzraudzības funkcijas.",
+      "content": "80.pants. Finanšu un kapitāla tirgus komisijai ir tiesības neatļaut pārapdrošināšanas sabiedrībai nodibināt ciešas attiecības ar trešajām personām vai pieprasīt, lai pārapdrošināšanas sabiedrība izbeidz ciešas attiecības ar trešajām personām, vai aizliegt darījumus ar trešajām personām, ja šādas attiecības var apdraudēt vai apdraud pārapdrošināšanas sabiedrības finansiālo stabilitāti vai traucē Finanšu un kapitāla tirgus komisijai veikt uzraudzības funkcijas."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "81",
+      "title": "Finanšu un kapitāla tirgus komisijai ir tiesības ierosināt, lai tiek sasaukta pārapdrošināšanas sabiedrības valdes sēde, padomes sēde vai akcionāru vai dalībnieku sapulce, un noteikt attiecīgajā sēdē izskatāmos jautājumus.",
+      "content": "81.pants. Finanšu un kapitāla tirgus komisijai ir tiesības ierosināt, lai tiek sasaukta pārapdrošināšanas sabiedrības valdes sēde, padomes sēde vai akcionāru vai dalībnieku sapulce, un noteikt attiecīgajā sēdē izskatāmos jautājumus."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "82",
+      "title": "Finanšu un kapitāla tirgus komisijai vai tās pilnvarotai personai ir tiesības veikt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbības pārbaudi. Finanšu un kapitāla tirgus komisijai ir tiesības pilnvarot šā uzdevuma veikšanai zvērinātu revidentu vai zvērinātu revidentu komercsabiedrību.",
+      "content": "82.pants. Finanšu un kapitāla tirgus komisijai vai tās pilnvarotai personai ir tiesības veikt pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles darbības pārbaudi. Finanšu un kapitāla tirgus komisijai ir tiesības pilnvarot šā uzdevuma veikšanai zvērinātu revidentu vai zvērinātu revidentu komercsabiedrību."
+    },
+    {
+      "provision_ref": "Art. 82.1",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "82.1",
+      "title": "82. 1 pants. Ja Finanšu un kapitāla tirgus komisija konstatē, ka pārapdrošinātājs neievēro šā likuma, Eiropas Savienības tieši piemērojamo tiesību aktu, citu pārapdrošinātāju darbību regulējošo normatīvo aktu vai Finanšu un kapitāla tirgus komisijas izdoto normatīvo noteikumu vai pieņemto lēmumu prasības, vai ja pārapdrošinātāja darbība apdraud minēto prasību izpildi, Finanšu un kapitāla tirgus komisija, pieņemot lēmumu, ir tiesīga īstenot vienu vai vairākas šādas darbības:",
+      "content": "1) pieprasīt, lai pārapdrošinātājs nekavējoties veic nepieciešamās darbības attiecīgās situācijas novēršanai un iesniedz Finanšu un kapitāla tirgus komisijai tās noteiktajā termiņā pasākumu plānu konstatētā pārkāpuma novēršanai;\n2) brīdināt pārapdrošinātāju;\n3) dot pārapdrošinātājam saistošus rakstveida norādījumus, kas nepieciešami attiecīgās situācijas novēršanai;\n4) uzlikt šajā likumā paredzēto soda naudu."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "83",
+      "title": "(1) Ja netiek pildīti šā likuma un noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanu regulējošā likuma noteikumi, Finanšu un kapitāla tirgus komisija ir tiesīga uzlikt pārapdrošinātājam soda naudu līdz 142 300 euro .",
+      "content": "(2) Finanšu un kapitāla tirgus komisijas uzlikto soda naudu persona samaksā ne vēlāk kā viena mēneša laikā no dienas, kad stājies spēkā Finanšu un kapitāla tirgus komisijas lēmums par soda naudas uzlikšanu.\n(3) Labprātīgi neizpildīta Finanšu un kapitāla tirgus komisijas lēmuma piespiedu izpildi veic tiesu izpildītājs Civilprocesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "84",
+      "title": "(Izslēgts ar 05.06.2014 . likumu, kas stājas spēkā 03.07.2014. )",
+      "content": "84.pants. (Izslēgts ar 05.06.2014 . likumu, kas stājas spēkā 03.07.2014. )"
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "XV nodaļa. Pārapdrošināšanas uzraudzība",
+      "section": "85",
+      "title": "Finanšu un kapitāla tirgus komisija, tās darbinieki un pilnvarnieki nav atbildīgi par zaudējumiem, kas radušies apdrošinātājam, dalībvalsts apdrošinātājam, pārapdrošinātājam, dalībvalsts pārapdrošinātājam, apdrošināšanas starpniekam, pārapdrošināšanas starpniekam vai trešajām personām, turklāt viņus nevar saukt pie atbildības par darbībām, kuras viņi tiesiski, precīzi, pamatoti un labticīgi veikuši, pienācīgi pildot uzraudzības funkcijas šajā likumā un citos normatīvajos aktos noteiktajā kārtībā.",
+      "content": "85.pants. Finanšu un kapitāla tirgus komisija, tās darbinieki un pilnvarnieki nav atbildīgi par zaudējumiem, kas radušies apdrošinātājam, dalībvalsts apdrošinātājam, pārapdrošinātājam, dalībvalsts pārapdrošinātājam, apdrošināšanas starpniekam, pārapdrošināšanas starpniekam vai trešajām personām, turklāt viņus nevar saukt pie atbildības par darbībām, kuras viņi tiesiski, precīzi, pamatoti un labticīgi veikuši, pienācīgi pildot uzraudzības funkcijas šajā likumā un citos normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "86",
+      "title": "(1) Papildu uzraudzībai ir pakļauta pārapdrošināšanas sabiedrība, kura ir:",
+      "content": "1) dalības sabiedrība vismaz vienā apdrošināšanas sabiedrībā, pārapdroši­nāšanas sabiedrībā, ārvalsts apdrošinātājā vai ārvalsts pārapdrošinātājā;\n2) apdrošināšanas pārvaldītājsabiedrības, jauktas finanšu pārvaldītājsabiedrības, nedalībvalsts apdrošinātāja vai nedalībvalsts pārapdrošinātāja meitas sabiedrība;\n3) daudznozaru apdrošināšanas pārvaldītājsabiedrības meitas sabiedrība.\n(2) Veicot papildu uzraudzību, šajā likumā minētajos gadījumos ņem vērā komercsabiedrību, kura ir:\n1) pārapdrošināšanas sabiedrības dalības sabiedrība;\n2) pārapdrošināšanas sabiedrības saistītā sabiedrība;\n3) pārapdrošināšanas sabiedrības dalības sabiedrības saistītā sabiedrība.\n(3) Papildu uzraudzība ietver:\n1) Finanšu un kapitāla tirgus komisijas tiesības pieprasīt informāciju;\n2) informācijas sniegšanu Finanšu un kapitāla tirgus komisijai;\n3) Finanšu un kapitāla tirgus komisijas tiesības klātienē pārbaudīt iesniegtās informācijas patiesumu šā panta otrajā daļā minētajās komercsabiedrībās;\n4) šā likuma 90.pantā minēto savstarpējo darījumu uzraudzību;\n5) koriģētās maksātspējas prasības izpildes uzraudzību.\n(4) Ja viena un tā pati apdrošināšanas pārvaldītājsabiedrība, jaukta finanšu pārvaldītājsabiedrība, nedalībvalsts apdrošinātājs, nedalībvalsts pārapdrošinātājs vai daudznozaru apdrošināšanas pārvaldītājsabiedrība ir mātes sabiedrība apdrošināšanas sabiedrībai vai pārapdrošināšanas sabiedrībai un dalībvalsts apdrošinātājam vai dalībvalsts pārapdrošinātājam, Finanšu un kapitāla tirgus komisija vienojas ar attiecīgo dalībvalsts apdrošinātāju uzraudzības institūciju vai dalībvalsts pārapdrošinātāju uzraudzības institūciju, kura no abām veiks papildu uzraudzību."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "87",
+      "title": "(1) Papildu uzraudzībai pakļautā pārapdrošināšanas sabiedrība sniedz Finanšu un kapitāla tirgus komisijai visu papildu uzraudzības veikšanai nepieciešamo informāciju.",
+      "content": "2) Finanšu un kapitāla tirgus komisijai ir tiesības pieprasīt papildu uzraudzībai nepieciešamo informāciju tieši no pārapdrošināšanas sabiedrības saistītās sabiedrības, dalības sabiedrības un dalības sabiedrības saistītās sabiedrības, ja šī informācija nav saņemta no pārapdrošināšanas sabiedrības.\n(3) Finanšu un kapitāla tirgus komisija vai tās pilnvarotas personas papildu uzraudzībai iesniegtās informācijas patiesumu šā likuma 86.panta otrajā daļā minētajās komercsabiedrībās var pārbaudīt klātienē, un šīs komercsabiedrības nedrīkst atteikties sniegt informāciju, aizbildinoties ar komercnoslēpumu.\n(4) Pēc dalībvalsts pārapdrošinātāja uzraudzības institūcijas pieprasījuma Finanšu un kapitāla tirgus komisija vai tās pilnvarotas personas, vai dalībvalsts pārapdrošinātāja uzraudzības institūcija (ar Finanšu un kapitāla tirgus komisijas piekrišanu), vai tās pilnvarotas personas var pārbaudīt papildu uzraudzībai sniegtās informācijas patiesumu Latvijā reģistrētajās komercsabiedrībās, kas ir dalībvalstī reģistrētas papildu uzraudzībai pakļautā dalībvalsts pārapdrošinātāja dalības sabiedrības, saistītās sabiedrības vai dalības sabiedrības saistītās sabiedrības."
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "88",
+      "title": "(1) Pārapdrošināšanas sabiedrība, kura ir pakļauta papildu uzraudzībai saskaņā ar šā likuma 86.panta pirmās daļas 1.punkta prasībām, izveido atbilstošu risku vadības un pārvaldības sistēmu un izstrādā procedūras, lai pienācīgi noteiktu, novērtētu un kontrolētu papildu uzraudzībai nepieciešamos rādītājus un informāciju. Finanšu un kapitāla tirgus komisija nosaka minimālās prasības papildu uzraudzībai pakļautas pārapdrošināšanas sabiedrības pārvaldības sistēmas izveidei un darbībai.",
+      "content": "(2) Papildu uzraudzībai pakļautajai pārapdrošināšanas sabiedrībai, tās dalības sabiedrībām un saistītajām sabiedrībām ir tiesības savstarpēji apmainīties ar attiecīgo informāciju, kas Finanšu un kapitāla tirgus komisijai vai dalībvalsts pārapdrošinātāja uzraudzības institūcijai nepieciešama papildu uzraudzības veikšanai."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "89",
+      "title": "(1) Par apdrošināšanas pār­valdītājsabiedrības izpildinstitūcijas locekli var būt persona, kura atbilst šādām prasībām:",
+      "content": "1) tā ir pietiekami kompetenta jomā, par kuru ir atbildīga;\n2) tai ir ne mazāk kā triju gadu darba pieredze attiecīgajā jomā;\n3) tai ir nevainojama reputācija;\n4) tai nav atņemtas un nav bijušas atņemtas tiesības veikt komercdarbību;\n5) tā nav sodīta par tīšiem noziedzīgiem nodarījumiem vai ir reabilitēta, vai tai ir noņemta vai dzēsta sodāmība, vai tā nav saukta pie kriminālatbildības.\n(2) Pirms šā panta pirmajā daļā minētā persona sāk pildīt savus pienākumus, pārapdrošināšanas sabiedrība par to informē Finanšu un kapitāla tirgus komisiju. Finanšu un kapitāla tirgus komisija ne vēlāk kā mēneša laikā no dienas, kad saņemta šajā daļā minētā informācija, izvērtē personas atbilstību šā panta pirmās daļas prasībām. Finanšu un kapitāla tirgus komisija šajā daļā minētajā termiņā pieņem lēmumu aizliegt personai ieņemt šā panta pirmajā daļā noteikto amatu, ja minētā persona neatbilst šā panta pirmās daļas prasībām, un nekavējoties par to paziņo attiecīgajai personai un pārapdrošināšanas sabiedrībai.\n(3) Finanšu un kapitāla tirgus komisija var ierosināt, lai no amata nekavējoties tiek atsaukts apdrošināšanas pārvaldītājsabiedrības izpildinstitūcijas loceklis, ja tas neatbilst šā panta pirmās daļas prasībām vai neievēro pārapdrošināšanas sabiedrības izstrādāto politiku un procedūras."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "90",
+      "title": "(1) Pārapdrošināšanas sabiedrība kā krietns un rūpīgs saimnieks veic savstarpējos darījumus starp pārapdrošināšanas sabiedrību, kas pakļauta papildu uzraudzībai, tās dalības sabiedrību, saistīto sabiedrību, dalības sabiedrības sais­tīto sabiedrību un fizisko personu, kura tieši vai kontroles veidā ir ieguvusi 20 vai vairāk procentu balsstiesību vai arī tieši vai kontroles veidā ieguvusi līdzdalību, kas aptver 20 un vairāk procentu no pamatkapitāla vai balsstiesīgo akciju vai daļu skaita pārapdrošināšanas sabiedrībā, tās saistītajā sabiedrībā, dalības sabiedrībā vai dalības sabiedrības saistītajā sabiedrībā.",
+      "content": "(2) Šā panta pirmajā daļā minētie savstarpējie darījumi ir:\n1) aizdevumi un aizņēmumi;\n2) garantijas un citi ārpusbilancē atspoguļoti darījumi;\n3) darījumi, kas atspoguļoti pozīcijās, kuras iekļautas koriģēto pašu līdzekļu aprēķinā;\n4) ieguldījumi;\n5) pārapdrošināšanas un retrocesijas darījumi;\n6) vienošanās par kopīgo izmaksu segšanu.\n(3) Finanšu un kapitāla tirgus komisija nosaka kārtību, kādā iesniedzama informācija par savstarpējiem darījumiem, un tās saturu."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "91",
+      "title": "(1) Koriģēto maksātspējas normu un kārtību, kādā aprēķināmi koriģētie pašu līdzekļi un iesniedzami attiecīgie pārskati, šā likuma 86.panta pirmās daļas 1. un 2.punktā norādītajām pārapdrošināšanas sabiedrībām nosaka Finanšu un kapitāla tirgus komisija.",
+      "content": "(2) Koriģētā maksātspējas prasība ir izpildīta, ja koriģēto pašu līdzekļu apjoms ir vienāds ar koriģēto maksātspējas normu vai lielāks par to.\n(3) Ja koriģētā maksātspējas prasība netiek vai var netikt izpildīta atbilstoši šā likuma prasībām, papildu uzraudzībai pakļautā pārapdrošināšanas sabiedrība iesniedz saskaņošanai Finanšu un kapitāla tirgus komisijai to pasākumu plānu, kurus paredzēts veikt, lai nodrošinātu šā likuma prasību ievērošanu."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "92",
+      "title": "Ja pēc šā likuma 90.panta otrajā daļā minētās informācijas iegūšanas Finanšu un kapitāla tirgus komisija secina, ka pārapdrošināšanas sabiedrības finansiālā stabilitāte ir vai var tikt apdraudēta, tā pieprasa, lai pārapdrošināšanas sabiedrība veic pasākumus finansiālās stabilitātes uzlabošanai.",
+      "content": "92.pants. Ja pēc šā likuma 90.panta otrajā daļā minētās informācijas iegūšanas Finanšu un kapitāla tirgus komisija secina, ka pārapdrošināšanas sabiedrības finansiālā stabilitāte ir vai var tikt apdraudēta, tā pieprasa, lai pārapdrošināšanas sabiedrība veic pasākumus finansiālās stabilitātes uzlabošanai."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn1",
+      "title": "1. Pārapdrošināšanas sabiedrība, kas pirms šā likuma spēkā stāšanās sniedza un bija tiesīga sniegt pārapdrošināšanas pakalpojumus Latvijā, šā likuma spēkā stāšanās dienā nodrošina, lai:",
+      "content": "a) pārapdrošināšanas sabiedrības rīcībā būtu tāda pašu līdzekļu summa, kas nav mazāka par garantijas fonda minimālo lielumu;\nb) tiktu izpildītas prasības, kas noteiktas pārapdrošināšanas sabiedrības valdes priekšsēdētājam, valdes loceklim, iekšējā audita (revīzijas) dienesta vadītājam, kā arī personai, kas, pieņemot būtiskus lēmumus pārapdrošināšanas sabiedrības vārdā, rada pārapdrošināšanas sabiedrībai civiltiesiskas saistības;\nc) tiktu izpildītas pārapdrošināšanas sabiedrībām noteiktās prasības attiecībā uz personām, kurām ir būtiska līdzdalība pārapdrošināšanas sabiedrībā."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn2",
+      "title": "2. Šo pārejas noteikumu 1.punktā minētās pārapdrošināšanas sabiedrības ne vēlāk kā 15 dienu laikā pēc šā likuma spēkā stāšanās iesniedz Finanšu un kapitāla tirgus komisijai dokumentus, kas apliecina šo pārejas noteikumu 1.punktā paredzēto prasību izpildi. Finanšu un kapitāla tirgus komisija triju mēnešu laikā no visu nepieciešamo dokumentu saņemšanas dienas izvērtē pārapdrošināšanas sabiedrības darbības atbilstību šo pārejas noteikumu 1.punkta prasībām.",
+      "content": "Līdz brīdim, kad Finanšu un kapitāla tirgus komisija ir izvērtējusi iesniegto dokumentu atbilstību šo pārejas noteikumu 1.punkta prasībām un pieņēmusi lēmumu par pārapdrošināšanas licences izsniegšanu, pārapdrošināšanas sabiedrība ir tiesīga sniegt pārapdrošināšanas pakalpojumus bez pārapdrošināšanas licences."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn3",
+      "title": "3. Ja Finanšu un kapitāla tirgus komisija, izskatot saskaņā ar šo pārejas noteikumu 2.punktu saņemtos dokumentus, konstatē, ka pārapdrošināšanas sabiedrība ir izpildījusi šo pārejas noteikumu 1.punkta prasības, Finanšu un kapitāla tirgus komisija izsniedz pārapdrošināšanas sabiedrībai pārapdrošināšanas licenci atbilstoši tās sniegtajiem pārapdrošināšanas pakalpojumiem.",
+      "content": "3. Ja Finanšu un kapitāla tirgus komisija, izskatot saskaņā ar šo pārejas noteikumu 2.punktu saņemtos dokumentus, konstatē, ka pārapdrošināšanas sabiedrība ir izpildījusi šo pārejas noteikumu 1.punkta prasības, Finanšu un kapitāla tirgus komisija izsniedz pārapdrošināšanas sabiedrībai pārapdrošināšanas licenci atbilstoši tās sniegtajiem pārapdrošināšanas pakalpojumiem."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn4",
+      "title": "4. Ja Finanšu un kapitāla tirgus komisija, izskatot saskaņā ar šo pārejas noteikumu 2.punktu saņemtos dokumentus, konstatē, ka pārapdrošināšanas sabiedrība nav izpildījusi šo pārejas noteikumu 1.punkta prasības, Finanšu un kapitāla tirgus komisija aizliedz pārapdrošināšanas sabiedrībai sniegt pārapdrošināšanas pakalpojumus.",
+      "content": "Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par aizliegumu pārapdrošināšanas sabiedrībai sniegt pārapdrošināšanas pakalpojumus tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn5",
+      "title": "5. Šo pārejas noteikumu 1.punktā minētās pārapdrošināšanas sabiedrības līdz 2008.gada 10.decembrim izpilda šādas normatīvo aktu prasības:",
+      "content": "a) komercdarbības veikšanas prasības;\nb) ciešām attiecībām noteiktās prasības;\nc) tehnisko rezervju izveidošanai, aprēķināšanai un tehnisko rezervju segumam noteiktās prasības;\nd) maksātspējas normas un tās aprēķināšanas prasības;\ne) garantijas fondam noteiktās prasības."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn6",
+      "title": "6. Šo pārejas noteikumu 1.punktā minētās pārapdrošināšanas sabiedrības līdz 2008.gada 10.decembrim iesniedz Finanšu un kapitāla tirgus komisijai dokumentus, kas apliecina šo pārejas noteikumu 5.punkta prasību izpildi.",
+      "content": "6. Šo pārejas noteikumu 1.punktā minētās pārapdrošināšanas sabiedrības līdz 2008.gada 10.decembrim iesniedz Finanšu un kapitāla tirgus komisijai dokumentus, kas apliecina šo pārejas noteikumu 5.punkta prasību izpildi."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn7",
+      "title": "7. Ja Finanšu un kapitāla tirgus komisija konstatē, ka pārapdrošināšanas sabiedrība nav izpildījusi šo pārejas noteikumu 5.punkta prasības, Finanšu un kapitāla tirgus komisija anulē pārapdrošināšanas sabiedrībai izsniegto pārapdrošināšanas licenci.",
+      "content": "Ja Finanšu un kapitāla tirgus komisijas izdotais administratīvais akts par pārapdrošināšanas licences anulēšanu tiek pārsūdzēts, pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn8",
+      "title": "8. Šis likums, izņemot tā pārejas noteikumu 9.punktu, neattiecas uz pārapdrošināšanas sabiedrībām, kuras līdz šā likuma spēkā stāšanās dienai pārtraukušas jaunu pārapdrošināšanas līgumu slēgšanu, bet turpina pildīt spēkā esošos pārapdrošināšanas līgumus.",
+      "content": "8. Šis likums, izņemot tā pārejas noteikumu 9.punktu, neattiecas uz pārapdrošināšanas sabiedrībām, kuras līdz šā likuma spēkā stāšanās dienai pārtraukušas jaunu pārapdrošināšanas līgumu slēgšanu, bet turpina pildīt spēkā esošos pārapdrošināšanas līgumus."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn9",
+      "title": "9. Šo pārejas noteikumu 8.punktā minētās pārapdrošināšanas sabiedrības ne vēlāk kā 15 dienu laikā pēc šā likuma spēkā stāšanās iesniedz Finanšu un kapitāla tirgus komisijai dokumentus, kas apliecina pārapdrošināšanas sabiedrības vēlmi pārtraukt pārapdrošināšanas pakalpojumu sniegšanu, un norāda tā spēkā esošā pārapdrošināšanas līguma darbības beigu datumu, kuram darbības termiņš beidzas visvēlāk.",
+      "content": "9. Šo pārejas noteikumu 8.punktā minētās pārapdrošināšanas sabiedrības ne vēlāk kā 15 dienu laikā pēc šā likuma spēkā stāšanās iesniedz Finanšu un kapitāla tirgus komisijai dokumentus, kas apliecina pārapdrošināšanas sabiedrības vēlmi pārtraukt pārapdrošināšanas pakalpojumu sniegšanu, un norāda tā spēkā esošā pārapdrošināšanas līguma darbības beigu datumu, kuram darbības termiņš beidzas visvēlāk."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn10",
+      "title": "10. Finanšu un kapitāla tirgus komisija pēc šo pārejas noteikumu 9.punktā paredzēto dokumentu saņemšanas informē dalībvalstis par tām pārapdrošināšanas sabiedrībām, kuras minētas šo pārejas noteikumu 8.punktā.",
+      "content": "10. Finanšu un kapitāla tirgus komisija pēc šo pārejas noteikumu 9.punktā paredzēto dokumentu saņemšanas informē dalībvalstis par tām pārapdrošināšanas sabiedrībām, kuras minētas šo pārejas noteikumu 8.punktā."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn11",
+      "title": "11. Šā likuma 38. , 39. un 40.panta prasības attiecībā uz ārpakalpojumiem, kuri noteikti šā likuma 38.panta trešajā daļā un kurus pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle saņem, pirms stājies spēkā šis likums, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izpilda sešu mēnešu laikā no šā likuma spēkā stāšanās dienas.",
+      "content": "11. Šā likuma 38. , 39. un 40.panta prasības attiecībā uz ārpakalpojumiem, kuri noteikti šā likuma 38.panta trešajā daļā un kurus pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle saņem, pirms stājies spēkā šis likums, pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle izpilda sešu mēnešu laikā no šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn12",
+      "title": "12. Finanšu un kapitāla tirgus komisija šā likuma 42.panta devītās daļas prasību izpilda 30 dienu laikā no šā likuma spēkā stāšanās dienas.",
+      "content": "12. Finanšu un kapitāla tirgus komisija šā likuma 42.panta devītās daļas prasību izpilda 30 dienu laikā no šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn13",
+      "title": "13. Šā likuma 48.panta trešā, ceturtā un piektā daļa piemērojama pārskatiem, kuri iesniegti Valsts ieņēmumu dienestam 2008.gada 1.jūlijā vai vēlāk.",
+      "content": "13. Šā likuma 48.panta trešā, ceturtā un piektā daļa piemērojama pārskatiem, kuri iesniegti Valsts ieņēmumu dienestam 2008.gada 1.jūlijā vai vēlāk."
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "XVI nodaļa. Papildu uzraudzība",
+      "section": "pn14",
+      "title": "14. Grozījumi šā likuma 60.panta otrās daļas 1.punktā par garantijas fonda minimālā lieluma palielināšanu no 3,4 uz 3,6 miljoniem euro stājas spēkā 2015.gada 1.janvārī.",
+      "content": "1) Padomes 1968.gada 9.marta Pirmās direktīvas 68/151/EEK par to, kā vienādošanas nolūkā koordinēt nodrošinājumus, ko dalībvalstis prasa no sabiedrībām Līguma 58.panta otrās daļas nozīmē, lai aizsargātu sabiedrību dalībnieku un trešo personu intereses;\n2) Eiropas Parlamenta un Padomes 1998.gada 27.oktobra direktīvas 98/78/EK par apdrošināšanas grupu apdrošināšanas uzņēmumu papildu uzraudzību;\n3) Eiropas Parlamenta un Padomes 2003.gada 15.jūlija direktīvas 2003/58/EK , ar ko Padomes direktīvu 68/151/EEK groza attiecībā uz atklātības prasībām dažāda veida uzņēmējsabiedrībām;\n4) Eiropas Parlamenta un Padomes 2005.gada 16.novembra direktīvas 2005/68/EK par pārapdrošināšanu un Padomes direktīvu 73/239/EEK un 92/49/EEK grozījumiem, kā arī direktīvu 98/78/EK un 2002/83/EK grozījumiem;\n5) Eiropas Parlamenta un Padomes 2007.gada 5.septembra direktīvas 2007/44/EK , ar ko groza Padomes direktīvu 92/49/EEK un direktīvas 2002/83/EK , 2004/39/EK, 2005/68/EK un 2006/48/EK attiecībā uz procedūras noteikumiem un vērtēšanas kritērijiem, kas piemērojami, veicot piesardzīgu novērtējumu par līdzdalības iegūšanu un palielināšanu finanšu nozarē;\n6) Eiropas Parlamenta un Padomes 2011.gada 16.novembra direktīvas 2011/89/ES , ar ko attiecībā uz finanšu konglomerātā esošo finanšu sabiedrību papildu uzraudzību groza direktīvu 98/78/EK , 2002/87/EK, 2006/48/EK un 2009/138/EK."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "pārapdrošināšana",
+      "definition": "cedēto risku pieņemšana no apdrošināšanas komersanta, pārapdrošināšanas komersanta vai privātā pensiju fonda",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "cedētā pārapdrošināšana",
+      "definition": "apdrošināto risku nodošana apdrošināšanas komersantam vai pārapdrošināšanas komersantam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "retrocesija",
+      "definition": "pārapdrošināto risku nodošana apdrošināšanas komersantam vai pārapdrošināšanas komersantam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošinātājs",
+      "definition": "Latvijā reģistrēta:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts pārapdrošinātājs",
+      "definition": "ārvalsts pārapdrošinātājs, kurš reģistrēts dalībvalstī un kuram mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ārvalsts pārapdrošinātājs",
+      "definition": "ārpus Latvijas reģistrēta persona, kurai mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nedalībvalsts pārapdrošinātājs",
+      "definition": "ārpus dalībvalsts reģistrēta persona, kurai mītnes (reģistrācijas) valstī ir tiesības nodarboties ar pārapdrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "filiāle",
+      "definition": "pārapdrošināšanas komersanta filiāle. Šā likuma izpratnē filiālei pielīdzināma pārapdrošināšanas komersanta pastāvīga klātbūtne dalībvalstī, un šo klātbūtni pārapdrošināšanas komersants nodrošina, izveidojot dalībvalstī biroju vai arī nodarbinot kādu neatkarīgu personu, kurai pārapdrošināšanas komersants piešķir pastāvīgas pilnvaras rīkoties tā vārdā tādā veidā, kādā to darītu filiāle",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas sabiedrības filiāle",
+      "definition": "ārvalstī pārapdrošināšanas sabiedrības izveidota un reģistrēta filiāle, kura darbojas pārapdrošināšanas sabiedrības vārdā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ārvalsts pārapdrošinātāja filiāle",
+      "definition": "Latvijā izveidota un reģistrēta ārvalsts pārapdrošinātāja filiāle, kura darbojas kā:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas komersants",
+      "definition": "juridiskā persona, kas dalībvalstī ir tiesīga nodarboties ar pārapdrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošinājuma ņēmējs",
+      "definition": "apdrošināšanas komersants, pārapdrošināšanas komersants vai privātais pensiju fonds, kas noslēdz cedētās pārapdrošināšanas vai retrocesijas līgumu, ar kuru apdrošināšanas komersants vai pārapdrošināšanas komersants cedē apdrošinātos vai pārapdrošinātos riskus citam apdrošināšanas komersantam vai pārapdrošināšanas komersantam vai ar kuru privātais pensiju fonds cedē biometriskos riskus apdrošināšanas komersantam vai pārapdrošināšanas komersantam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mītnes (reģistrācijas) valsts",
+      "definition": "valsts, kurā atrodas pārapdrošināšanas sabiedrības vadība (sabiedrības sēdeklis)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts",
+      "definition": "Eiropas Savienības vai Eiropas Ekonomikas zonas valsts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "filiāles dalībvalsts",
+      "definition": "dalībvalsts, kurā atrodas pārapdrošināšanas sabiedrības filiāle",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kontrole",
+      "definition": "personas kontrole pār komercsabiedrību, kas izpaužas tādā veidā, ka:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būtiska līdzdalība",
+      "definition": "personas vai vairāku personu, kas uz vienošanās pamata rīkojas saskaņoti, tieši vai netieši iegūta līdzdalība, kura aptver 10 un vairāk procentu no komercsabiedrības pamatkapitāla vai balsstiesīgo akciju skaita vai dod iespēju būtiski ietekmēt komercsabiedrības darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ciešas attiecības",
+      "definition": "divu vai vairāku personu savstarpēja saistība:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mātes sabiedrība",
+      "definition": "komercsabiedrība, kura kontrolē citu komercsabiedrību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "meitas sabiedrība",
+      "definition": "komercsabiedrība, kuru kontrolē cita komercsabiedrība. Jebkuras meitas sabiedrības meitas sabiedrība ir uzskatāma par tās mātes sabiedrības meitas sabiedrību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalības sabiedrība",
+      "definition": "mātes sabiedrība vai komercsabiedrība, kura tiešā vai kontroles veidā ieguvusi 20 vai vairāk procentu balsstiesību kādā komercsabiedrībā vai arī tiešā vai kontroles veidā ieguvusi komercsabiedrībā līdzdalību, kas aptver 20 un vairāk procentu no pamatkapitāla vai balsstiesīgo akciju skaita",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "saistītā sabiedrība",
+      "definition": "meitas sabiedrība vai komercsabiedrība, kurā tiešā vai kontroles veidā ir iegūti 20 vai vairāk procentu balsstiesību vai arī tiešā vai kontroles veidā iegūta līdzdalība, kas aptver 20 un vairāk procentu no pamatkapitāla vai balsstiesīgo akciju skaita",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas gadījums",
+      "definition": "ar pārapdrošināto risku cēloņsakarīgi saistīts notikums, kuram iestājoties paredzēta pārapdrošināšanas atlīdzības izmaksa atbilstoši pārapdrošināšanas līgumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas prēmija",
+      "definition": "pārapdrošināšanas, cedētās pārapdrošināšanas vai retrocesijas līgumā noteiktais maksājums par apdrošināto, pārapdrošināto vai biometrisko risku nodošanu apdrošināšanas komersantam vai pārapdrošināšanas komersantam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošināšanas atlīdzība",
+      "definition": "par pārapdrošināšanas gadījumu atbilstoši pārapdrošināšanas līgumam izmaksājamā naudas summa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārapdrošinātāju uzraudzības institūcijas",
+      "definition": "valsts iestādes, kurām saskaņā ar likumu ir piešķirtas tiesības uzraudzīt pārapdrošināšanas komersantus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ārpakalpojumu sniedzējs",
+      "definition": "persona, kura, pamatojoties uz rakstveida līgumu ar pārapdrošināšanas sabiedrību vai nedalībvalsts pārapdrošinātāja filiāli, apņemas sniegt vai sniedz ārpakalpojumus pārapdrošināšanas sabiedrībai vai nedalībvalsts pārapdrošinātāja filiālei",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "brīvais kapitāls",
+      "definition": "personai piederošo aktīvu vērtība, kas samazināta par šīs personas saistību vērtību un to aktīvu vērtību, kuri uzskatāmi par ilgtermiņa ieguldījumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "starptautiskā reitinga aģentūra",
+      "definition": "dalībvalstī vai Ekonomiskās sadarbības un attīstības organizācijas dalībvalstī (turpmāk — OECD dalībvalsts) reģistrēta reitinga aģentūra, kura sniedz vērtējumu par finanšu un kapitāla tirgus dalībnieku, tostarp pārapdrošināšanas komersantu, finanšu drošību un kuras vērtējumu atzīst dalībvalstu apdrošinātāju uzraudzības institūcijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kritiskās situācijas analīze",
+      "definition": "analīze, ko veic pārapdrošināšanas sabiedrība vai nedalībvalsts pārapdrošinātāja filiāle, lai noteiktu un izvērtētu dažādu ārkārtēju, bet iespējami nelabvēlīgu notikumu vai tirgus nosacījumu izmaiņu iespējamo ietekmi uz pārapdrošināšanas sabiedrības vai nedalībvalsts pārapdrošinātāja filiāles spēju pilnībā izpildīt no pārapdrošināšanas līgumiem izrietošās saistības un nodrošināt finansiālās darbības stabilitāti.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

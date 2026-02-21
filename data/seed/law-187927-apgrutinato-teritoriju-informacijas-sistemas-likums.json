@@ -1,0 +1,132 @@
+{
+  "id": "lv-law-187927",
+  "type": "statute",
+  "title": "Apgrūtināto teritoriju informācijas sistēmas likums",
+  "title_en": "Law On The Information System Of Restricted Territories",
+  "short_name": "TA-187927",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/187927-apgrutinato-teritoriju-informacijas-sistemas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) apgrūtinātā teritorija — teritorija, kurai atbilstoši likumam ir noteikti lietošanas tiesību aprobežojumi;\n2) objekts — dabas veidojums, būve vai cits mākslīgs veidojums, kuram saskaņā ar Aizsargjoslu likumu nosaka aizsargjoslu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt aktuālu un pieejamu informāciju par apgrūtinātajām teritorijām un objektiem, izveidojot Apgrūtināto teritoriju informācijas sistēmu (turpmāk — Informācijas sistēma) un nodrošinot tās darbību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Informācijas sistēmas dati un darbība",
+      "content": "(1) Informācijas sistēma ir valsts informācijas sistēma, kurā iekļauj datus par:\n1) apgrūtinātajām teritorijām un to robežām;\n2) objektiem un to robežām.\n(2) Datus par objektiem Informācijas sistēmā iekļauj, lai:\n1) Informācijas sistēmā automātiski attēlotu apgrūtināto teritoriju robežas;\n2) uzturētu, aktualizētu un precizētu Informācijas sistēmā iekļautos datus par objektiem un to robežām, kā arī apgrūtināto teritoriju robežām.\n(3) (Izslēgta ar 06.10.2022 . likumu)\n(4) Informācijas sistēmas darbības nodrošināšanai izmanto šādus kartogrāfiskos materiālus:\n1) aktuālākās topogrāfiskās kartes, topogrāfiskos plānus un ortofotokartes;\n2) datus par administratīvo teritoriju un to teritoriālo vienību robežām;\n3) Nekustamā īpašuma valsts kadastra informācijas sistēmas datus.\n(5) Ministru kabinets nosaka Informācijas sistēmas izveides, uzturēšanas un informācijas aprites kārtību, tajā skaitā ietverot prasības par:\n1) iesniedzamo datu apjomu, formātu un precizitāti, specifikāciju un klasificēšanu;\n2) Informācijas sistēmas datu saturu;\n3) kārtību, kādā Informācijas sistēmas darbības nodrošināšanai iesniedzami un izmantojami kartogrāfiskie materiāli;\n4) Informācijas sistēmas datu iesniegšanas, glabāšanas, aktualizācijas, pieprasīšanas un izsniegšanas kārtību, kā arī bez maksas un par maksu izsniedzamo datu veidu.\n(6) Informācijas sistēmas dati ir savietojami ar Nekustamā īpašuma valsts kadastra informācijas sistēmas datiem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Informācijas sistēmas pārzinis",
+      "content": "Informācijas sistēmas pārzinis ir Valsts zemes dienests."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Datu sniedzēji",
+      "content": "(1) Informācijas sistēmā iekļaujamo datu sniedzējs ir objekta īpašnieks (valdītājs) vai institūcija, kas atbild par objekta datu sagatavošanu vai apgrūtinātās teritorijas izveidošanu un tās robežu datu sagatavošanu (turpmāk — atbildīgā institūcija).\n(2) Datu sniedzēji šā likuma 7.pantā minētos datus par apgrūtinātajām teritorijām un to robežām un šā likuma 8.pantā minētos datus par objektiem un to robežām sniedz bez maksas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Apgrūtināto teritoriju robežu attēlošana pēc objekta datu iekļaušanas Informācijas sistēmā",
+      "content": "(1) Informācijas sistēma automātiski attēlo apgrūtinātās teritorijas robežu, ja Informācijas sistēmā ir iekļauti objekta dati un ja apgrūtinātās teritorijas lielums Aizsargjoslu likumā vai citos attiecīgajos normatīvajos aktos ir noteikts precīzi un bez papildu nosacījumiem.\n(2) Ja Informācijas sistēma pēc tam, kad tajā iekļauti objekta dati, nevar automātiski attēlot apgrūtinātās teritorijas robežu, datus par apgrūtināto teritoriju un tās robežu sniedz datu sniedzējs."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Apgrūtināto teritoriju datu sniegšana iekļaušanai Informācijas sistēmā",
+      "content": "Datu sniedzēji par apgrūtinātajām teritorijām un to robežām sniedz šādus datus:\n1) valsts sabiedrība ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\" — par:\na) piesārņotām un potenciāli piesārņotām vietām,\nb) valsts nozīmes zemes dzīļu nogabaliem,\nc) aizsargjoslām ap valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un ap citiem stacionāriem valsts nozīmes monitoringa punktiem un posteņiem;\n2) Dabas aizsardzības pārvalde — par:\na) valsts izveidotajām īpaši aizsargājamām dabas teritorijām un to funkcionālajām zonām,\nb) mikroliegumiem un to buferzonām,\nc) pašvaldības izveidotajām īpaši aizsargājamām dabas teritorijām;\n3) Zemkopības ministrija — par tauvas joslas teritoriju zvejas vajadzībām;\n4) Satiksmes ministrija — par tauvas joslas teritoriju kuģošanas vajadzībām;\n5) Nacionālā kultūras mantojuma pārvalde — par valsts aizsargājamām kultūras pieminekļu teritorijām un to aizsargjoslām (aizsardzības zonām);\n6) Valsts meža dienests — par aizsargjoslām ap purviem;\n7) valsts sabiedrība ar ierobežotu atbildību \"Zemkopības ministrijas nekustamie īpašumi\" — par:\na) aizsargjoslām ap hidrometriskajiem posteņiem,\nb) aizsargjoslām ap valsts, valsts nozīmes, pašvaldības un koplietošanas meliorācijas būvēm un ierīcēm;\n8) valsts akciju sabiedrība \"Latvijas gaisa satiksme\" — par aizsargjoslām ap navigācijas tehniskajiem līdzekļiem civilās aviācijas gaisa kuģu lidojumu drošības nodrošināšanai;\n9) ostu pārvaldes un valsts sabiedrība ar ierobežotu atbildību \"Latvijas Jūras administrācija\" — par aizsargjoslām ap navigācijas tehniskajiem līdzekļiem kuģošanas drošības nodrošināšanai;\n10) Valsts aizsardzības militāro objektu un iepirkumu centrs — par:\na) aizsargjoslām ap valsts aizsardzības objektiem,\nb) aizsargjoslām ap valsts aizsardzības vajadzībām paredzētajiem navigācijas tehniskajiem līdzekļiem,\nc) aizsargjoslām ap militārajiem jūras novērošanas tehniskajiem līdzekļiem;\n11) Valsts robežsardze — par teritorijām, kas apgrūtinātas valsts robežas joslas, patrulēšanas joslas, robežzīmju uzraudzības joslas, pierobežas joslas un pierobežas dēļ;\n12) pašvaldības — par:\na) (izslēgts ar 06.10.2022 . likumu) ,\nb) Baltijas jūras un Rīgas jūras līča piekrastes aizsargjoslu,\nc) virszemes ūdensobjektu aizsargjoslām,\nd) tauvas joslām, izņemot tauvas joslas teritorijas zvejas un kuģošanas vajadzībām,\ne) aizsargjoslām ap ūdens ņemšanas vietām,\nf) mežu aizsargjoslām ap pilsētām,\ng) aizsargjoslām ap kapsētām,\nh) aizsargjoslām ap dzīvnieku kapsētām,\ni) aizsargjoslām ap atkritumu apglabāšanas poligoniem, atkritumu izgāztuvēm, ap izmantošanai pārtikā neparedzēto dzīvnieku izcelsmes blakusproduktu lieljaudas sadedzināšanas uzņēmumiem vai pārstrādes uzņēmumiem un ap notekūdeņu attīrīšanas ietaisēm,\nj) aizsargjoslām ap aizsprostiem,\nk) aizsargjoslām gar ielām un autoceļiem,\nl) aizsargjoslām gar dzelzceļiem, tai skaitā gar dzelzceļiem, pa kuriem pārvadā naftu, naftas produktus, bīstamas ķīmiskās vielas un produktus,\nm) gājēju celiņiem un transportlīdzekļu stāvvietām, ko pašvaldība noteikusi, lai nodrošinātu piekļuvi publiskajiem ūdeņiem un īpaši aizsargājamām dabas teritorijām,\nn) būvniecības ierobežojumu teritorijām, kas noteiktas teritorijas attīstības plānošanas dokumentos."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Objektu datu sniegšana iekļaušanai Informācijas sistēmā",
+      "content": "Datu sniedzēji par objektiem un to robežām sniedz šādus datus:\n1) Latvijas Ģeotelpiskās informācijas aģentūra — par:\na) ģeodēziskajiem punktiem,\nb) virszemes ūdensobjektiem,\nc) purviem;\n2) Nacionālā kultūras mantojuma pārvalde — par valsts aizsargājamiem kultūras pieminekļiem;\n3) valsts sabiedrība ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\" — par:\na) ūdens ņemšanas vietām,\nb) valsts meteoroloģisko un hidroloģisko novērojumu stacijām un posteņiem un citiem valsts vides monitoringa programmas stacionāriem valsts nozīmes monitoringa punktiem un posteņiem;\n4) valsts akciju sabiedrība \"Latvijas Valsts ceļi\" — par valsts autoceļiem;\n5) dzelzceļa infrastruktūras īpašnieks vai valstij piederošas dzelzceļa infrastruktūras valdītājs — par dzelzceļiem un ar tiem saistītiem infrastruktūras objektiem šā likuma ietvaros;\n6) elektronisko sakaru operatori un privāto elektronisko sakaru tīklu īpašnieki vai valdītāji — par elektroniskajiem sakaru tīkliem, to infrastruktūras būvēm un stacionārajiem radiomonitoringa punktiem;\n7) licencēti elektroenerģijas pārvades un sadales sistēmu operatori — par elektriskajiem tīkliem, to iekārtām un būvēm;\n8) valsts sabiedrība ar ierobežotu atbildību \"Zemkopības ministrijas nekustamie īpašumi\" — par:\na) valsts, valsts nozīmes, pašvaldības un koplietošanas meliorācijas būvēm un ierīcēm,\nb) hidrometriskajiem posteņiem;\n9) valsts akciju sabiedrība \"Latvijas gaisa satiksme\" — par navigācijas tehniskajiem līdzekļiem civilās aviācijas gaisa kuģu lidojumu drošības nodrošināšanai;\n10) ostu pārvaldes un valsts sabiedrība ar ierobežotu atbildību \"Latvijas Jūras administrācija\" — par navigācijas tehniskajiem līdzekļiem kuģošanas drošības nodrošināšanai;\n11) Valsts aizsardzības militāro objektu un iepirkumu centrs — par:\na) valsts aizsardzības objektiem, kuriem saskaņā ar normatīvajiem aktiem nosaka aizsargjoslu,\nb) valsts aizsardzības vajadzībām paredzētajiem navigācijas tehniskajiem līdzekļiem,\nc) militārajiem jūras novērošanas tehniskajiem līdzekļiem;\n12) attiecīgo objektu īpašnieki (valdītāji) vai atbildīgās institūcijas — par:\na) siltumtīkliem, to iekārtām un būvēm, kā arī virszemes siltumvadiem,\nb) ūdensvadu un kanalizācijas tīkliem,\nc) aizsprostu drošuma noteikšanas kontrolmērietaisēm,\nd) kapsētām,\ne) dzīvnieku kapsētām,\nf) ogļūdeņražu ieguves vietām, naftas, naftas produktu, bīstamu ķīmisko vielu un produktu cauruļvadiem, tilpnēm, krātuvēm, pārstrādes un pārkraušanas uzņēmumiem, degvielas uzpildes stacijām,\ng) aizsprostiem,\nh) atkritumu apglabāšanas poligoniem un atkritumu izgāztuvēm, izmantošanai pārtikā neparedzēto dzīvnieku izcelsmes blakusproduktu lieljaudas sadedzināšanas uzņēmumiem vai pārstrādes uzņēmumiem un notekūdeņu attīrīšanas ietaisēm,\ni) (izslēgts ar 06.10.2022 . likumu) ,\nj) pašvaldību autoceļiem un ielām,\nk) optiskajiem teleskopiem un radioteleskopiem,\nl) sašķidrinātās ogļūdeņražu gāzes noliktavām, krātuvēm un uzpildes stacijām, sašķidrinātās ogļūdeņražu gāzes balonu noliktavām un tirdzniecības punktiem, automobiļu gāzes uzpildes stacijām,\nm) gāzes vadiem, gāzapgādes iekārtām un būvēm, gāzes noliktavām un krātuvēm, citiem Aizsargjoslu likumā noteiktajiem objektiem, kas saistīti ar gāzapgādi,\nn) ielu apgaismojuma tīkliem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Informācijas sistēmas pārziņa pienākums un tiesības",
+      "content": "(1) Informācijas sistēmas pārziņa pienākums ir pieņemt un iekļaut Informācijas sistēmā datu sniedzēju sniegtos datus, kas atbilst šā likuma prasībām.\n(2) Ja datu sniedzēja sniegtie dati neatbilst šā likuma prasībām, Informācijas sistēmas pārzinis var atteikties pieņemt šos datus, norādot atteikuma iemeslu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Datu sniedzēja pienākumi un atbildība",
+      "content": "(1) Datu sniedzēja pienākums ir iesniegt Informācijas sistēmas pārzinim datu sniedzēja rīcībā esošos datus pirmreizējai Informācijas sistēmas aizpildīšanai un datu aktualizācijai.\n(2) Ja datu sniedzējs ir saņēmis Informācijas sistēmas pārziņa atteikumu šā likuma 9.panta otrajā daļā minētajā gadījumā, tas pēc atteikuma saņemšanas šos datus precizē atbilstoši šā likuma prasībām un mēneša laikā iesniedz Informācijas sistēmas pārzinim atkārtoti.\n(3) Datu sniedzējs nekavējoties iesniedz Informācijas sistēmas pārzinim datus aktualizācijai, ja tā rīcībā ir aktuālāki vai precīzāki dati salīdzinājumā ar Informācijas sistēmā iekļautajiem datiem, arī tad, ja tas ir saņēmis informāciju par datu neatbilstību situācijai apvidū šā likuma 11.pantā minētajos gadījumos.\n(4) Ja datu sniedzējs konstatē, ka tā sniegtie dati Informācijas sistēmā iekļauti kļūdaini, datu sniedzējs pieprasa, lai Informācijas sistēmas pārzinis šos datus labo.\n(5) Iesniedzot datus, datu sniedzējam ir pienākums informēt Informācijas sistēmas pārzini, ja tie ir ierobežotas pieejamības dati (izņemot datus par apgrūtinātajām teritorijām un to robežām). Aktualizējot datus, datu sniedzējs informē Informācijas sistēmas pārzini, ja datiem ir atcelts ierobežotas pieejamības statuss vai beidzies termiņš, uz kādu datiem noteikts ierobežotas pieejamības statuss. Informācijas sistēmas datus, kuri saskaņā ar Ātrdarbīga elektronisko sakaru tīkla likumā noteikto ir vispārpieejama informācija, izsniedz identificētai personai kā vispārpieejamu informāciju arī tad, ja datu sniedzējs ir norādījis uz tās ierobežotas pieejamības statusu.\n(6) Datu sniedzējs ir atbildīgs par tā sniegto datu atbilstību šā likuma un citu normatīvo aktu prasībām, tajā skaitā tām prasībām, kuras regulē aizsargjoslu noteikšanu vai attēlošanu."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Prasības Informācijas sistēmas datu izmantotājam",
+      "content": "(1) Ja, veicot topogrāfisko un zemes kadastrālo uzmērīšanu, darba veicējs konstatē Informācijas sistēmas datu neatbilstību situācijai apvidū, darba veicēja pienākums ir par to informēt datu sniedzēju.\n(2) Ja persona, kura nav datu sniedzējs šā likuma izpratnē vai kura nav topogrāfisko un zemes kadastrālās uzmērīšanas darbu veicējs, izmantojot Informācijas sistēmas datus, konstatē datu neatbilstību situācijai apvidū, tā ir tiesīga par to informēt datu sniedzēju.\n(3) Lai izmantotu Informācijas sistēmas datus, nav nepieciešams saņemt Ģeotelpiskās informācijas likumā minēto atļauju ģeotelpiskās datu kopas atkalizmantošanai vai kopīgai izmantošanai.\n(4) Informācijas sistēmas datiem piekļūst un tos izmanto identificēta persona."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Informācijas sistēmas finansēšana",
+      "content": "(1) Informācijas sistēmas izveidošana un uzturēšana, kā arī informācijas sagatavošana un izsniegšana elektroniskā veidā bez maksas tiek finansēta no gadskārtējā valsts budžeta likumā šim mērķim piešķirtās dotācijas no vispārējiem ieņēmumiem.\n(2) Informācijas sistēmas pārzinis šā panta pirmajā daļā minētos izdevumus ir tiesīgs segt arī no pašu ieņēmumiem par sniegtajiem maksas pakalpojumiem, kā arī no ārvalstu finanšu palīdzības līdzekļiem.\n(3) Ministru kabinets izdod noteikumus, kuros reglamentē kārtību, kādā veicama samaksa par Informācijas sistēmas datu sagatavošanu un izsniegšanu.\n(4) Informācijas sistēmas pārzinis pēc savas iniciatīvas nodrošina identificētai personai piekļuvi bez maksas vispārpieejamiem Informācijas sistēmas datiem. Informācijas sistēmas datu sagatavošana un izsniegšana citos veidos ir maksas pakalpojums, izņemot šā panta piektajā daļā minētajos gadījumos.\n(5) Informācijas sistēmas pārzinis pēc pieprasījuma Informācijas sistēmas datus bez maksas un atbilstoši piekļuves tiesībām sagatavo un izsniedz:\n1) datu sniedzējam — par tā iesniegtajām apgrūtinātajām teritorijām un objektiem, kā arī šiem objektiem Informācijas sistēmā automātiski attēlotajām apgrūtinātajām teritorijām;\n2) valsts tiešās pārvaldes iestādēm, vietējām pašvaldībām, privātpersonām, kas pilda tām deleģētos valsts pārvaldes uzdevumus, Saeimai, Valsts kontrolei, valsts drošības iestādēm, izmeklēšanas iestādēm, prokuratūrai un tiesām — tām noteikto funkciju un uzdevumu veikšanai;\n3) Nekustamā īpašuma valsts kadastra informācijas sistēmā reģistrēta kadastra objekta īpašniekam vai, ja tāda nav, tiesiskajam valdītājam, vai, ja tāda nav, lietotājam — par savām zemes vienībām, izmantojot specializētu elektronisko pakalpojumu;\n4) personām ģeodēziskajiem, zemes ierīcības un zemes kadastrālās uzmērīšanas darbiem, meža inventarizācijai — sertificēto personu profesionālo darbību veikšanai."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ministru kabinets ne vēlāk kā līdz 2010.gada 31.decembrim izdod šā likuma 3.panta piektajā daļā un 12.panta trešajā daļā minētos noteikumus.",
+      "content": "1. Ministru kabinets ne vēlāk kā līdz 2010.gada 31.decembrim izdod šā likuma 3.panta piektajā daļā un 12.panta trešajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Informācijas sistēmas pārzinis izstrādā Informācijas sistēmas programmatūru ne vēlāk kā līdz 2013.gada 31.decembrim.",
+      "content": "2. Informācijas sistēmas pārzinis izstrādā Informācijas sistēmas programmatūru ne vēlāk kā līdz 2013.gada 31.decembrim."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Šā likuma 7. un 8. pantā minētos datus datu sniedzējs pirmreizēji iesniedz Informācijas sistēmas pārzinim, sākot ar 2014. gada 1. janvāri. Datus par šā likuma 7. panta 8. un 9. punktā un 12. punkta \"k\" un \"l\" apakšpunktā minētajām apgrūtinātajām teritorijām un to robežām un 8. panta 4., 5., 6., 7., 9. un 10. punktā un 12. punkta \"a\", \"b\", \"j\" un \"m\" apakšpunktā minētajiem objektiem un to robežām datu sniedzēji pirmreizēji iesniedz līdz 2017. gada 30. jūnijam. Pārējie šo pantu normās minētie pirmreizējie dati iesniedzami līdz 2017. gada 31. decembrim.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 06.11.2013. , 17.12.2014. un 23.03.2017 . likumu, kas stājas spēkā 19.04.2017. )"
+    },
+    {
+      "provision_ref": "PN 3.1",
+      "section": "pn3.1",
+      "title": "3. 1 Informācijas sistēmas pārzinis pirmreizēji iesniegtos datus Informācijas sistēmā reģistrē, sākot ar 2016.gada 1.janvāri.",
+      "content": "( 17.12.2014 . likuma redakcijā, kas stājas spēkā 01.01.2015. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. (Izslēgts ar 06.11.2013 . likumu, kas stājas spēkā 01.01.2014. )",
+      "content": "4. (Izslēgts ar 06.11.2013 . likumu, kas stājas spēkā 01.01.2014. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Informācijas sistēmas pārzinis nodrošina Informācijas sistēmā reģistrēto datu sagatavošanu un izsniegšanu, sākot ar 2017. gada 1. jūliju.",
+      "content": "( 23.03.2017 . likuma redakcijā, kas stājas spēkā 19.04.2017. )\n( 23.03.2017 . likuma redakcijā, kas stājas spēkā 19.04.2017. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apgrūtinātā teritorija",
+      "definition": "teritorija, kurai atbilstoši likumam ir noteikti lietošanas tiesību aprobežojumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "objekts",
+      "definition": "dabas veidojums, būve vai cits mākslīgs veidojums, kuram saskaņā ar Aizsargjoslu likumu nosaka aizsargjoslu.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

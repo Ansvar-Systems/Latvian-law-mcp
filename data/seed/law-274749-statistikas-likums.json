@@ -1,0 +1,328 @@
+{
+  "id": "lv-law-274749",
+  "type": "statute",
+  "title": "Statistikas likums",
+  "title_en": "Statistics Law",
+  "short_name": "TA-274749",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/274749-statistikas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) administratīvie datu avoti — reģistri, datubāzes, informācijas sistēmas un citi informācijas avoti;\n2) dati — fiziskās personas dati, dati par privāto tiesību juridisko personu un šādu personu apvienību, kā arī dati par valsts institūciju;\n3) klasifikācija — sistematizēts objektu sadalījums pēc noteiktām pazīmēm, kurā katram objektam vai objektu grupai ir piešķirts kods;\n4) oficiālā statistika — statistika, kas atbilst šajā likumā noteiktajiem mērķiem un kritērijiem un ir iekļauta oficiālās statistikas programmā;\n5) oficiālās statistikas nodrošināšana — darbību un paņēmienu kopums, kas nodrošina oficiālās statistikas plānošanu, izstrādi, datu iegūšanu, apstrādi, analīzi un izplatīšanu;\n6) respondents — privātpersona vai valsts institūcija, kurai pieprasa datus par statistisko vienību;\n7) statistikas jomas standarts — dokuments (tiesību akts, rokasgrāmata, labā prakse, vadlīnijas vai cits dokuments) un informācijas tehnoloģiju instruments, kas nosaka oficiālās statistikas nodrošināšanas prasības;\n8) statistika — informācija, kas raksturo statistisko vienību kopumu vai procesu;\n9) statistikas iestāde — valsts institūcija, kura nodrošina oficiālo statistiku;\n10) statistiskā vienība — novērojamā pamatvienība (piemēram, fiziskā persona, juridiskā persona, mājsaimniecība, valsts institūcija), uz kuru attiecas dati;\n11) valsts institūcija — Ministru kabinetam padota tiešās pārvaldes iestāde, pārvaldes iestāde, kas nav padota Ministru kabinetam, atvasināta publiska persona un tās iestāde, tiesu varas institūcija, kā arī privātpersona, kurai deleģēti valsts pārvaldes uzdevumi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt oficiālo statistiku par sabiedrībā notiekošajām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī par vidi."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma piemērošanas izņēmums",
+      "content": "Likums neattiecas uz statistiku, kuru Latvijas Banka nodrošina saskaņā ar Latvijas Bankas likumu ."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Oficiālās statistikas nodrošināšanas sistēma",
+      "section": "4",
+      "title": "Oficiālās statistikas nodrošināšanas sistēmas iestādes",
+      "content": "(1) Oficiālās statistikas nodrošināšanas sistēmu veido statistikas iestādes un Statistikas padome.\n(2) Oficiālās statistikas sistēmas vadošā iestāde ir Centrālā statistikas pārvalde (turpmāk — Pārvalde). Pārvalde ir tiešās pārvaldes iestāde, kura darbojas Ekonomikas ministrijas pārraudzībā.\n(3) Pārvalde īsteno funkcionālo padotību attiecībā uz citām statistikas iestādēm oficiālās statistikas nodrošināšanas jomā, sniedzot metodiskos norādījumus, pārraugot oficiālās statistikas nodrošināšanas atbilstību tiesību aktiem, kā arī izdodot rīkojumus, kas nepieciešami oficiālās statistikas nodrošināšanai.\n(4) Statistikas iestādes izdotu administratīvo aktu oficiālās statistikas nodrošināšanas jomā var apstrīdēt Pārvaldei. Pārvaldes lēmums pārsūdzams tiesā. Ja sākotnējo administratīvo aktu oficiālās statistikas nodrošināšanas jomā izdevusi Pārvalde, to var apstrīdēt Pārvaldes vadītājam. Pārvaldes vadītāja lēmumu var pārsūdzēt tiesā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Oficiālās statistikas nodrošināšanas sistēma",
+      "section": "5",
+      "title": "Oficiālās statistikas nodrošināšanas mērķi un oficiālās statistikas kritēriji",
+      "content": "(1) Oficiālo statistiku nodrošina, lai sasniegtu kādu no šādiem mērķiem:\n1) normatīvo aktu vai attīstības plānošanas dokumentu izstrāde, ieviešana, uzraudzība vai novērtēšana vai attīstības scenāriju vai prognožu izstrāde;\n2) normatīvajos aktos noteikto valsts institūciju funkciju izpilde, izņemot privātpersonu kontrolēšanas, uzraudzības vai sodīšanas funkciju izpildi;\n3) sabiedrības vispusīga informēšana.\n(2) Statistiku iekļauj oficiālās statistikas programmā, balstoties uz šādiem kritērijiem:\n1) statistikas nodrošināšana ir pamatota ar likumu, Ministru kabineta tiesību aktu, Eiropas Savienības tieši piemērojamo tiesību aktu vai Latvijai saistošu starptautisko līgumu;\n2) statistikas nodrošināšana atbilst statistikas jomas standartiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Oficiālās statistikas nodrošināšanas sistēma",
+      "section": "6",
+      "title": "Oficiālās statistikas nodrošināšanas plānošana un oficiālās statistikas programma",
+      "content": "(1) Oficiālās statistikas nodrošināšanu valsts institūcija plāno triju gadu periodam (turpmāk — plānošanas periods), ņemot vērā esošās vai plānotās aktivitātes šā likuma 5.panta pirmajā daļā noteikto mērķu sasniegšanai, statistikas lietotāju vajadzības un statistikas nodrošināšanas lietderību.\n(2) Oficiālās statistikas programma ir plānošanas periodā nodrošināmās oficiālās statistikas saraksts. Oficiālās statistikas programmu apstiprina Ministru kabinets, izdodot noteikumus, kuros nosaka:\n1) oficiālās statistikas (apsekojuma vai aprēķina) nosaukumu un publicējamos rādītājus;\n2) katra publicējamā rādītāja detalizāciju;\n3) statistikas iestādi, kura ir atbildīga par oficiālās statistikas nodrošināšanu;\n4) oficiālās statistikas publicēšanas periodiskumu;\n5) datu iegūšanas veidu un avotu;\n6) no privātpersonas un administratīvajiem datu avotiem iegūstamo fiziskās personas datu veidu, apjomu un izmantošanas mērķi."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Oficiālās statistikas nodrošināšanas sistēma",
+      "section": "7",
+      "title": "Statistikas iestādes kompetence, nodrošinot oficiālo statistiku",
+      "content": "(1) Statistikas iestāde oficiālo statistiku nodrošina patstāvīgi. Statistikas iestādei rīkojumus par oficiālās statistikas nodrošināšanu dot un statistikas iestādes darbības tiesiskumu oficiālās statistikas nodrošināšanas jomā vērtēt var tikai Pārvalde.\n(2) Statistikas iestāde:\n1) savas kompetences un piešķirto finanšu līdzekļu ietvaros, sadarbojoties ar statistikas lietotājiem, plāno oficiālās statistikas nodrošināšanu;\n2) savlaicīgi nodrošina oficiālās statistikas programmā noteikto oficiālo statistiku;\n3) lemj par atbilstošākā statistikas jomas standarta piemērošanu, tai skaitā nosaka respondentus;\n4) nodrošina oficiālo statistiku saskaņā ar statistikas jomas standartiem;\n5) dokumentē un dara zināmas sabiedrībai tās izmaiņas statistikas jomas standartos, kuras ietekmē oficiālās statistikas salīdzināmību;\n6) nosaka datu pārbaudes un kvalitātes novērtēšanas metodes;\n7) izplata oficiālo statistiku, nodrošinot vienlīdzīgu attieksmi pret visiem tās lietotājiem;\n8) nodrošina statistisko konfidencialitāti šajā likumā noteiktajā kārtībā;\n9) savas kompetences jomā publicē savā tīmekļa vietnē oficiālās statistikas veidlapas aizpildāmā formā vai nodrošina tām piekļuvi, izmantojot savu tīmekļa vietni;\n10) veic pasākumus oficiālās statistikas izmaksu efektivitātes paaugstināšanai un administratīvā sloga samazināšanai, to skaitā oficiālās statistikas nodrošināšanā izvēlas administratīvos datu avotus, ievērojot šā likuma 15.pantu ;\n11) savas kompetences ietvaros nodrošina Eiropas Parlamenta un Padomes 2009.gada 11.marta regulas Nr. 223/2009 par Eiropas statistiku un ar ko atceļ Eiropas Parlamenta un Padomes regulu (EK, Euratom) Nr. 1101/2008 par tādas statistikas informācijas nosūtīšanu Eiropas Kopienu Statistikas birojam, uz kuru attiecas konfidencialitāte, Padomes regulu (EK) Nr. 322/97 par Kopienas statistiku un Padomes lēmumu 89/382/EEK , Euratom, ar ko nodibina Eiropas Kopienu Statistikas programmu komiteju (turpmāk — Regula Nr. 223/2009 ) prasību ievērošanu;\n12) pēc Pārvaldes pieprasījuma sniedz informāciju Pārvaldei par savas kompetences jomā esošās oficiālās statistikas nodrošināšanu, kā arī par Regulas Nr. 223/2009 prasību ievērošanu;\n13) lieto nacionālās, Eiropas Savienības vai starptautisko organizāciju izveidotās statistiskās klasifikācijas oficiālās statistikas nodrošināšanā;\n14) pilda citus šajā likumā noteiktos pienākumus.\n(3) Statistikas iestādei ir tiesības:\n1) nodrošināt privātpersonām statistikas izstrādes, datu iegūšanas, apstrādes, analīzes un izplatīšanas pakalpojumus saskaņā ar statistikas iestādes maksas pakalpojumu cenrādi;\n2) pēc valsts institūcijas lūguma nodrošināt statistikas izstrādes, datu iegūšanas, apstrādes, analīzes un izplatīšanas pakalpojumus, kuri nav iekļauti oficiālās statistikas programmā un kuru nodrošināšana ietver oficiālās statistikas nodrošināšanā neievāktu datu iegūšanu vai papildu datu apstrādi. Šādus pakalpojumus statistikas iestāde nodrošina, ja valsts institūcija kompensē to nodrošināšanas izmaksas Ministru kabineta noteiktajā apmērā, ja vien tas neapdraud statistikas iestādes funkciju pienācīgu izpildi;\n3) nodrošināt starptautiskajām organizācijām statistikas izstrādes, datu iegūšanas, apstrādes, analīzes un izplatīšanas pakalpojumus saskaņā ar starptautiskās organizācijas izteikto piedāvājumu, ja vien tas neapdraud statistikas iestādes funkciju pienācīgu izpildi.\n(4) Ministru kabinets izdod noteikumus, kuros nosaka šā panta trešās daļas 2.punktā minēto pakalpojumu nodrošināšanas izmaksu apmēru.\n(5) Lai veiktu šā panta trešajā daļā, šā likuma 8. panta otrās daļas 1. punktā, 16. pantā un citos normatīvajos aktos noteiktos statistikas nodrošināšanas vai datu apstrādes uzdevumus, statistikas iestādei ir tiesības apstrādāt oficiālās statistikas nodrošināšanas procesā iegūtos datus un saņemt apstrādei jaunus datus saskaņā ar šā likuma 14. un 15. pantu, ievērojot oficiālās statistikas nodrošināšanā piemērojamo statistiskās konfidencialitātes principu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Oficiālās statistikas nodrošināšanas sistēma",
+      "section": "8",
+      "title": "Pārvaldes kompetence",
+      "content": "(1) Pārvalde:\n1) koordinē oficiālās statistikas nodrošināšanas sistēmas attīstības procesus;\n2) sagatavo oficiālās statistikas programmu, tai skaitā izvērtē un lemj par to, vai valsts institūcijas statistika, kuru attiecīgā institūcija plāno iekļaut oficiālās statistikas programmā, atbilst oficiālās statistikas mērķiem un kritērijiem;\n3) sagatavo skaitīšanas programmu;\n4) sagatavo statistisko klasifikāciju un oficiālās statistikas veidlapu katalogu;\n5) veic patēriņa preču un pakalpojumu cenu statistisko novērošanu;\n6) piedalās valsts institūciju pārziņā esošo administratīvo datu avotu ierakstu sākotnējā izstrādē, turpmākajā pilnveidošanā un lēmuma pieņemšanā par to izmantošanas pārtraukšanu, veicinot administratīvo datu avotu ierakstu turpmāku izmantošanu oficiālās statistikas nodrošināšanas mērķiem, un koordinē tādu valsts institūciju pārziņā esošu administratīvo datu avotu ierakstu standartizāciju, kuriem ir būtiska nozīme, sagatavojot datus, kas izmantojami oficiālās statistikas nodrošināšanai;\n7) nodrošina Eiropas statistikas izstrādes, sagatavošanas un izplatīšanas darbību koordinēšanu valsts līmenī saskaņā ar Regulu Nr. 223/2009 un Eiropas statistikas jautājumos darbojas kā Eiropas Komisijas kontaktpunkts Latvijā.\n(2) Pārvaldei ir šādas tiesības:\n1) slēgt dotāciju līgumus un publisko iepirkumu līgumus ar Eiropas Komisiju;\n2) kompensēt valsts institūcijai izmaksas par administratīvo datu avotu datu sagatavošanu, kā arī citu datu sagatavošanu atbilstoši Pārvaldes noteiktajai datu struktūrai;\n3) īstenot citas šajā likumā noteiktās tiesības."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Oficiālās statistikas nodrošināšanas sistēma",
+      "section": "9",
+      "title": "Statistikas padome",
+      "content": "(1) Statistikas padome ir konsultatīva institūcija, kuras mērķis ir veicināt oficiālās statistikas nodrošināšanas sistēmas attīstību, sniegt statistikas iestādēm rekomendācijas par oficiālās statistikas nodrošināšanas sistēmu, veicināt sadarbību starp statistikas iestādēm, respondentiem un oficiālās statistikas lietotājiem, kā arī sniegt viedokli par oficiālās statistikas programmas projektu.\n(2) Statistikas padomes nolikumu un sastāvu apstiprina ekonomikas ministrs. Statistikas padomes locekļu pilnvaru termiņš ir četri gadi. Statistikas padomes locekli darbam padomē var apstiprināt atkārtoti.\n(3) Statistikas padomes loceklis par līdzdalību Statistikas padomē atlīdzību nesaņem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "10",
+      "title": "Oficiālās statistikas programmas sagatavošanas kārtība",
+      "content": "(1) Valsts institūcija atbilstoši šā likuma 5.pantam un 6.panta pirmajai daļai izvērtē statistiku, kuru tā plāno iekļaut oficiālās statistikas programmā, un līdz kārtējā gada 1.jūnijam izvērtēšanas rezultātus paziņo Pārvaldei.\n(2) Saskaņā ar šā panta pirmo daļu valsts institūcija sniedz Pārvaldei izvērtējumu, kurā norāda vismaz šādu informāciju:\n1) statistikas (apsekojuma vai aprēķina) nosaukumu un publicējamos rādītājus;\n2) katra publicējamā rādītāja detalizāciju;\n3) statistikas sagatavošanas nepieciešamību un detalizētu pamatojumu, ievērojot šā likuma 5.panta pirmo daļu un 6.panta pirmo daļu;\n4) statistikas kritēriju izvērtējumu, ievērojot šā likuma 5.panta otro daļu;\n5) datu iegūšanas veidu un avotu;\n6) statistikas publicēšanas periodiskumu;\n7) apstrādājamo personas datu veidus, apjomu un izmantošanas mērķi.\n(3) Valsts institūcija, pamatojoties uz Pārvaldes pieprasījumu, precizē iesniegto izvērtējumu.\n(4) Pārvalde sagatavo oficiālās statistikas programmas projektu, ņemot vērā šā likuma 8.panta pirmās daļas 2.punktu. Pirms oficiālās statistikas programmas projekta izsludināšanas valsts sekretāru sanāksmē to izskata Statistikas padome.\n(5) Ja valsts institūcija plānošanas periodā plāno oficiālās statistikas programmā iekļaut jaunu oficiālo statistiku, grozījumus oficiālās statistikas programmā sagatavo Pārvalde, ievērojot šā panta otrajā, trešajā un ceturtajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "11",
+      "title": "Oficiālās statistikas veidlapas",
+      "content": "Ministru kabinets apstiprina statistikas iestāžu izstrādāto oficiālo statistikas veidlapu paraugus un nosaka veidlapu iesniegšanas un aizpildīšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "12",
+      "title": "Oficiālās statistikas veidlapu katalogs",
+      "content": "(1) Oficiālās statistikas nodrošināšanai izmantojamās oficiālās statistikas veidlapas tiek iekļautas oficiālās statistikas veidlapu katalogā (turpmāk — veidlapu katalogs).\n(2) Pārvalde nosaka veidlapu katalogā ietveramo informāciju, publicē veidlapu katalogu savā tīmekļa vietnē un aktualizē to reizi gadā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "13",
+      "title": "Datu avoti un datu iegūšanas veidi",
+      "content": "(1) Statistikas iestāde oficiālās statistikas nodrošināšanai datus par statistiskajām vienībām iegūst:\n1) tieši no respondentiem;\n2) tieši, novērojot statistiskās vienības;\n3) netieši no administratīvajiem datu avotiem.\n(2) Statistikas iestāde oficiālās statistikas nodrošināšanā izmanto administratīvos datu avotus, izņemot šādus gadījumus:\n1) administratīvajos datu avotos lietotā statistiskās vienības definīcija neatbilst statistikas iestādes lietotajai statistiskās vienības definīcijai;\n2) administratīvo datu avotu rādītāji neatbilst statistikas iestādes datu avotu rādītāja definīcijai;\n3) administratīvie datu avoti datu klasificēšanai izmanto klasifikācijas, kas nav saderīgas ar vispāratzītām vai tiesību aktos noteiktajām statistiskajām klasifikācijām;\n4) datus no administratīvajiem datu avotiem nevar iegūt oficiālās statistikas nodrošināšanai noteiktajos apstrādes un publicēšanas termiņos;\n5) administratīvie datu avoti ir neprecīzi, kļūdaini vai nesatur oficiālās statistikas nodrošināšanai nepieciešamos datus;\n6) normatīvajos aktos noteiktajos gadījumos valsts institūcija, privāto tiesību juridiskā persona vai šo personu apvienība nav tiesīga nodot datus statistikas iestādei.\n(3) Ja statistikas iestāde šā panta otrajā daļā noteiktajos gadījumos neizmanto administratīvos datu avotus, tā pieprasa datus no respondenta saskaņā ar šā likuma 14.panta pirmo daļu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "14",
+      "title": "Datu iegūšana no respondenta",
+      "content": "(1) Statistikas iestādei ir tiesības pieprasīt, lai respondents sagatavo un sniedz datus par statistisko vienību, arī ierobežotas pieejamības informāciju nolūkā nodrošināt oficiālo statistiku. Respondents statistikas iestādei tās noteiktajā termiņā, formā un apjomā sniedz patiesus datus. Pēc statistikas iestādes pieprasījuma respondents sniedz rakstveida vai mutvārdu paskaidrojumus par šiem datiem.\n(2) Pēc Pārvaldes pieprasījuma šā likuma 8.panta pirmās daļas 5.punktā noteiktajā gadījumā privātpersonai ir pienākums atļaut novērot faktiskās cenas un sniegt patiesu un pilnīgu pamatinformāciju par cenām un tarifiem. Ar jēdzienu \"pamatinformācija\" šīs daļas ietvaros saprot visas cenu statistikas aprēķiniem nepieciešamās preču un pakalpojumu cenas un svarus, kas atspoguļo šo preču vai pakalpojumu patēriņa līmeni, laiku un struktūru atbilstoši cenu noteicošajām pazīmēm.\n(3) Statistikas iestāde par pienākumu sniegt datus saskaņā ar šā panta pirmo daļu paziņo vismaz 20 dienas pirms datu sniegšanai noteiktā termiņa, izņemot gadījumus, kad datus pieprasa mājsaimniecības apsekojumā, fiziskās personas izlases apsekojumā, kā arī skaitīšanā.\n(4) Respondentam ir tiesības no statistikas iestādes saņemt informāciju par:\n1) datu pieprasījuma tiesisko pamatu;\n2) statistiskās konfidencialitātes nodrošināšanu;\n3) tās personas pienākumiem un tiesībām, kura viņu intervē, ja oficiālās statistikas apsekojums tiek veikts intervijas veidā.\n(5) Statistikas iestāde fizisko personu un mājsaimniecību apsekojumos respondentiem par datu sniegšanu var paredzēt kompensāciju, lai veicinātu atbildētību.\n(6) Mājsaimniecību apsekojumus statistikas iestāde veic telefoninterviju vai citā attālinātā veidā. Ja nav pieejama kontaktinformācija attālinātai saziņai vai respondentu nevar sasniegt attālināti, apsekojumu veic klātienē."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "15",
+      "title": "Datu iegūšana no administratīvajiem datu avotiem un sadarbība ar valsts institūcijām, kuru pārziņā ir administratīvie datu avoti",
+      "content": "(1) Valsts institūcija un privāto tiesību juridiskā persona statistikas iestādei pēc tās pamatota pieprasījuma atklāj informāciju par datiem, ko tā apstrādā savos administratīvajos datu avotos, lai statistikas iestāde var izvērtēt datu izmantošanas iespējas oficiālās statistikas nodrošināšanai.\n(2) Privāto tiesību juridiskajai personai, šo personu apvienībai un valsts institūcijai ir pienākums pēc statistikas iestādes pamatota pieprasījuma sniegt tai no saviem administratīvajiem datu avotiem oficiālās statistikas nodrošināšanai nepieciešamos datus, arī ierobežotas pieejamības informāciju. Datus no valsts institūcijas administratīvajiem datu avotiem sniedz bez maksas.\n(3) Statistikas iestāde pieprasījumā par datu izsniegšanu no administratīvajiem datu avotiem norāda šādu informāciju:\n1) datu pieprasījuma tiesisko pamatu;\n2) izsniedzamo datu apjomu;\n3) datu izsniegšanas formu;\n4) informāciju par statistiskās konfidencialitātes nodrošināšanu.\n(4) Valsts institūcija, uzturot, plānojot, ieviešot un pilnveidojot administratīvo datu avotu struktūru un saturu, veido šos avotus tā, lai dati atbilstu oficiālās statistikas nodrošināšanas vajadzībām un tos varētu sniegt statistikas iestādei oficiālās statistikas nodrošināšanai. Datu atbilstību oficiālās statistikas nodrošināšanas vajadzībām vērtē saskaņā ar šā likuma 13.panta otrajā daļā noteiktajiem datu neatbilstības veidiem.\n(5) Lai veiktu oficiālās statistikas nodrošināšanai nepieciešamo saziņu, Pārvaldei ir tiesības pieprasīt no valsts institūcijām to rīcībā esošo informāciju par privātpersonu paziņotajiem tālruņa numuriem un elektroniskā pasta adresēm atbilstoši Pārvaldes sagatavotajam izlases sarakstam, kurā noteikts datu apstrādes apjoms."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "16",
+      "title": "Pētījumi jaunas statistikas un statistikas jomas standartu izstrādei",
+      "content": "(1) Statistikas iestādei ir tiesības veikt pētījumus, lai izstrādātu jaunus statistikas jomas standartus vai tādu statistiku, kas nav iekļauta oficiālās statistikas programmā, un lemtu par šīs statistikas iekļaušanu šajā programmā.\n(2) (Izslēgta ar 14.12.2023 . likumu)\n(3) (Izslēgta ar 14.12.2023 . likumu)\n(4) (Izslēgta ar 14.12.2023 . likumu)\n(5) (Izslēgta ar 14.12.2023 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "17",
+      "title": "Datu apstrāde un statistiskā konfidencialitāte",
+      "content": "(1) Datus, kas iegūti saskaņā ar šā likuma 14. un 15. pantu, statistikas iestāde izmanto oficiālās statistikas nodrošināšanai un citu likumā noteikto statistikas nodrošināšanas vai datu apstrādes uzdevumu izpildei, izņemot šā likuma 25. un 26. pantā minētos gadījumus.\n(2) Datus var pārveidot, papildināt vai savienot ar citiem statistikas iestādes rīcībā esošajiem datiem, kā arī atkārtoti izmantot likumā noteikto statistikas nodrošināšanas vai datu apstrādes uzdevumu izpildei.\n(3) Statistikas iestādei, izmantojot datus, ir tiesības veidot un uzturēt statistiskos reģistrus oficiālās statistikas nodrošināšanai.\n(4) Statistikas iestāde nosaka datu glabāšanas ilgumu, ņemot vērā oficiālās statistikas nodrošināšanas vajadzības.\n(5) Fiziskās personas datus, kas iegūti oficiālās statistikas nodrošināšanai, anonimizē nekavējoties pēc to iegūšanas, pārbaudes un savienošanas, izņemot gadījumu, kad personas dati joprojām ir nepieciešami oficiālās statistikas nodrošināšanai. Statistikas iestāde nodrošina identificējošo datu atsevišķu un drošu glabāšanu no pārējiem datiem.\n(6) Statistikas iestāde veic nepieciešamos pasākumus, lai novērstu neatļautu piekļuvi datiem, to sagrozīšanu vai izplatīšanu, nejaušu vai neatļautu iznīcināšanu.\n(7) Statistikas iestādes nodarbinātajiem aizliegts izpaust datus un citu ierobežotas pieejamības informāciju, kas viņiem kļuvusi zināma, pildot dienesta vai darba pienākumus. Šajā daļā noteiktais attiecas arī uz personām, kuras uz laiku ir iesaistītas oficiālās statistikas nodrošināšanā vai ar kurām izbeigtas darba vai dienesta tiesiskās attiecības."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "18",
+      "title": "Privātpersonas un valsts institūcijas tiesības iepazīties ar datiem",
+      "content": "(1) Privātpersonai un valsts institūcijai ir tiesības vērsties statistikas iestādē un iepazīties ar datiem, kas par viņu ir savākti un glabājas statistikas iestādes informācijas sistēmā, kā arī lūgt, lai tos precizē.\n(2) Statistikas iestāde atsaka precizēt datus, ja privātpersonas vai valsts institūcijas pieprasījums ir nepamatots faktisku vai tiesisku iemeslu dēļ."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "19",
+      "title": "Oficiālās statistikas izplatīšana",
+      "content": "(1) Statistikas iestāde izplata oficiālo statistiku tādā veidā, kas neļauj ne tieši, ne netieši identificēt privātpersonu vai valsts institūciju, izņemot šā likuma 25.pantā noteiktos gadījumus.\n(2) Statistikas iestāde oficiālo statistiku, kuru tā nodrošina saskaņā ar oficiālās statistikas programmu, publicē iepriekš noteiktā brīdī sabiedrībai pieejamā veidā oficiālās statistikas portālā. Līdz oficiālās statistikas publicēšanas brīdim šo statistiku nepublisko.\n(3) Statistikas iestādei, lai nodrošinātu sabiedrības vajadzības pēc oficiālās statistikas, ir tiesības izplatīt šo statistiku citos veidos."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "20",
+      "title": "Oficiālās statistikas portāls",
+      "content": "(1) Visu statistikas iestāžu oficiālo statistiku, metadatus un oficiālās statistikas publicēšanas kalendāru publicē oficiālās statistikas portālā, kura darbību tehniski un organizatoriski nodrošina Pārvalde.\n(2) Ministru kabinets nosaka oficiālās statistikas portāla tehniskās, kā arī oficiālās statistikas publicēšanas un uzturēšanas prasības."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Oficiālās statistikas nodrošināšanas organizēšana",
+      "section": "21",
+      "title": "Statistiskās klasifikācijas",
+      "content": "Lai garantētu oficiālās statistikas salīdzināmību un apriti Latvijā, Eiropas Ekonomikas zonā un starptautiskajā līmenī, Ministru kabinets:\n1) nosaka nacionālās statistiskās klasifikācijas;\n2) apstiprina statistisko klasifikāciju sarakstu un nosaka šajā sarakstā iekļauto statistisko klasifikāciju ieviešanas, uzturēšanas un publicēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Skaitīšana (Nodaļa izslēgta ar 14.12.2023 . likumu, kas stājas spēkā 12.01.2024. )",
+      "section": "22",
+      "title": "Skaitīšana, tās veidi un skaitīšanas organizācijas vispārīgie noteikumi",
+      "content": "(Izslēgts ar 14.12.2023 . likumu, kas stājas spēkā 12.01.2024. )"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Skaitīšana (Nodaļa izslēgta ar 14.12.2023 . likumu, kas stājas spēkā 12.01.2024. )",
+      "section": "23",
+      "title": "Skaitīšanas programma",
+      "content": "(Izslēgts ar 14.12.2023 . likumu, kas stājas spēkā 12.01.2024. )"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Skaitīšana (Nodaļa izslēgta ar 14.12.2023 . likumu, kas stājas spēkā 12.01.2024. )",
+      "section": "24",
+      "title": "Skaitīšanas organizēšana par īpašām personu grupām",
+      "content": "(Izslēgts ar 14.12.2023 . likumu, kas stājas spēkā 12.01.2024. )"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Datu izplatīšanas noteikumi",
+      "section": "25",
+      "title": "Datu pieejamības vispārējie noteikumi",
+      "content": "(1) Statistikas iestādei ir tiesības nodot datus citai statistikas iestādei oficiālās statistikas nodrošināšanai. Šādi saņemtos datus drīkst nodot tālāk citai statistikas iestādei oficiālās statistikas, arī Eiropas statistikas nodrošināšanai ar tās statistikas iestādes atļauju, no kuras attiecīgie dati saņemti.\n(2) Saskaņā ar Regulu Nr. 223/2009 statistikas iestāde drīkst nodot datus Eiropas Savienības Statistikas birojam, citu Eiropas Savienības dalībvalstu statistikas iestādēm, Eiropas Centrālajai bankai un Eiropas Centrālo banku sistēmas dalībniekiem.\n(3) Datus un oficiālo statistiku, kas pieļauj tiešu vai netiešu privātpersonas identifikāciju, drīkst izplatīt, ja ir saņemta attiecīgās privātpersonas rakstveida atļauja, kurā norādīts izplatāmo datu veids un laikposms.\n(4) Datus, kuri netieši ļauj identificēt privātpersonu vai valsts institūciju, drīkst izmantot pētnieciskam darbam šajā nodaļā noteiktajā kārtībā. Pētniecisks darbs šīs nodaļas izpratnē ir darbs, kas nodrošina situācijas izpēti, analīzi, konceptuālu priekšlikumu izstrādi vai ietekmes izvērtēšanu.\n(5) Šā panta trešajā un ceturtajā daļā noteiktie datu izplatīšanas ierobežojumi neattiecas uz šādiem datiem par fizisko personu, kura veic saimniecisko darbību, privāto tiesību juridisko personu, šādu personu apvienību un valsts institūciju, kā arī tās darbību:\n1) nosaukums, adrese un darbības veids;\n2) nodarbināto personu skaits;\n3) izstrādājumu veids, ko iegūst, apstrādā, ražo, transportē, uzkrāj, pērk vai pārdod, sniegto pakalpojumu veidi, kā arī preču eksporta un importa partnervalsts;\n4) emisija vidē, vides kvalitāte, vides aizsardzības pasākumi vai dabas resursu lietošana;\n5) publiski pieejama informācija, ja tā tiek publicēta nepārveidota, vai aprēķini, kas balstīti uz publiski pieejamu informāciju;\n6) netieša statistiskās vienības identifikācija statistikā, kas nodrošināta saskaņā ar šo likumu, attiecībā uz:\na) nodarbināto personu skaitu ģeotelpiskās vienībās sadalījumā pa profesijām un darbības veidiem,\nb) pievienoto vērtību ģeotelpiskās vienībās sadalījumā pa profesijām un darbības veidiem,\nc) saražotās produkcijas vērtību ģeotelpiskās vienībās sadalījumā pa profesijām un darbības veidiem.\n(6) Šā panta trešajā un ceturtajā daļā noteiktie datu izplatīšanas izņēmumi neattiecas arī uz šādiem datiem par valsts institūciju un tās darbību:\n1) dati, kas neatklāj privātpersonas datus, izņemot privātpersonu, kurai deleģēti valsts pārvaldes uzdevumi;\n2) dati, kuriem nav noteikts ierobežotas pieejamības informācijas statuss citos normatīvajos aktos.\n(7) Statistikas iestāde pēc pieprasījuma vai savas iniciatīvas var nodot datus Pārvaldei, kā arī kriminālprocesa virzītājam vai tiesai tādu lietu izskatīšanā, kuras skar statistikas nodrošināšanai nepieciešamo datu iesniegšanas kārtības vai statistiskās konfidencialitātes prasību pārkāpumus."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Datu izplatīšanas noteikumi",
+      "section": "26",
+      "title": "Netieši identificējamu datu izmantošana pētnieciskam darbam un informācijas pieejamība",
+      "content": "(1) Statistikas iestāde nodrošina piekļuvi pētnieciskam darbam tādiem netieši identificējamiem datiem, kurus tā var aizsargāt ar atbilstošām datu izpaušanas kontroles metodēm, kas novērš datu izmantošanu neatbilstošiem mērķiem.\n(2) Statistikas iestāde oficiālās statistikas portālā publicē informāciju:\n1) par netieši identificējamiem datiem, kuri ir pieejami izmantošanai pētnieciskam darbam;\n2) par netieši identificējamu datu piekļuves veidiem;\n3) par noslēgtajiem netieši identificējamu datu izmantošanas līgumiem;\n4) par tādu pētījumu rezultātiem, kuros izmantoti netieši identificējami dati."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Datu izplatīšanas noteikumi",
+      "section": "27",
+      "title": "Netieši identificējamu datu pieprasījums pētnieciskam darbam un pieprasījuma precizēšana",
+      "content": "(1) Lai iegūtu tiesības pētnieciskam darbam izmantot netieši identificējamus datus, datu pieprasītājs (privātpersona vai valsts institūcija) iesniedz statistikas iestādei iesniegumu, kurā norāda:\n1) netieši identificējamu datu izmantošanas mērķi;\n2) veicamā pētnieciskā darba projekta aprakstu;\n3) pamatojumu, kāpēc pētnieciskajam darbam ir nepieciešami netieši identificējami dati;\n4) nepieciešamos netieši identificējamos datus un rādītāju uzskaitījumu;\n5) speciālistu, kurš izmantos netieši identificējamus datus, viņa kvalifikācijas un pieredzes aprakstu;\n6) informāciju par iepriekš veikto pētniecisko darbu;\n7) informāciju par pētnieciskā darba rezultātu publicēšanu;\n8) informāciju par datu aizsardzības un izpaušanas kontroles metodēm;\n9) vēlamo piekļuves veidu.\n(2) Pēc statistikas iestādes pieprasījuma datu pieprasītājam ir pienākums precizēt vai papildināt iesniegumā norādīto informāciju.\n(3) Valsts institūcija iesniegumā var nenorādīt šā panta pirmās daļas 2. un 3.punktā minēto informāciju, ja pētnieciskā darba projekta apraksts paredz atklāt ierobežotas pieejamības informāciju un par to iesniegumā ietverta attiecīga norāde."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Datu izplatīšanas noteikumi",
+      "section": "28",
+      "title": "Piekļuves piešķiršana netieši identificējamiem datiem",
+      "content": "(1) Ja nepastāv šā panta piektajā daļā minētie apstākļi, statistikas iestāde piešķir piekļuvi netieši identificējamiem datiem, slēdzot līgumu par netieši identificējamu datu izmantošanu pētnieciskam darbam (turpmāk — līgums), kurā nosaka kārtību, kādā tiek nodrošināta piekļuve netieši identificējamiem datiem. Līgumu slēdz bez augstākas iestādes piekrišanas.\n(2) Statistikas iestāde līgumā iekļauj vismaz noteikumus par:\n1) netieši identificējamu datu izmantošanas mērķi un līguma darbības termiņu, kas atbilst pētnieciskā darba izpildes termiņam;\n2) netieši identificējamu datu nodošanas tehnisko veidu un pušu tiesības un pienākumus šā veida izmantošanā;\n3) zaudējumu atlīdzības kārtību par līguma pārkāpumu, ja līgums tiek slēgts ar privātpersonu.\n(3) Statistikas iestādei ir tiesības vienpusēji atkāpties no līguma, ja privātpersona vai valsts institūcija pārkāpj normatīvajos aktos vai līgumā noteiktos datu apstrādes noteikumus.\n(4) Ja datu pieprasītājam līgumā norādītā pētnieciskā darba veikšanai ir papildus nepieciešami netieši identificējami dati, viņš iesniedz statistikas iestādei atkārtotu pieprasījumu.\n(5) Statistikas iestāde nepiešķir piekļuvi netieši identificējamiem datiem, ja pastāv kāds no šādiem apstākļiem:\n1) netieši identificējamu datu izmantošana nav saistīta ar pētniecisko darbu;\n2) pētnieciskā darba veikšanai nav nepieciešami netieši identificējami dati;\n3) pieprasītie netieši identificējamie dati nenodrošina pētnieciskā darba veikšanu;\n4) datu pieprasītājs nenodrošina atbilstošu netieši identificējamo datu aizsardzības un izpaušanas kontroli;\n5) pētnieciskā darba rezultāti nebūs pieejami sabiedrībai;\n6) iepriekšējie pētnieciskā darba rezultāti, kuri tika radīti uz citu saņemto netieši identificējamo datu pamata, netika publiskoti;\n7) iepriekš noslēgtā līguma ietvaros privātpersona vai valsts institūcija, ar kuru noslēgts līgums, vai persona, kura privātpersonas vai valsts institūcijas uzdevumā apstrādāja šādus datus, ir pārkāpusi normatīvajos aktos vai līgumā noteiktos datu apstrādes noteikumus.\n(6) Šā panta piektās daļas 5. un 6.punktu nepiemēro attiecībā uz valsts institūcijām, kuras pieprasa netieši identificējamus datus, ja pētnieciskā darba rezultāti ir valsts institūcijas iekšējās lietošanas informācija un valsts institūcija tai ir noteikusi ierobežotas pieejamības informācijas statusu.\n(7) Statistikas iestāde neatsaka piekļuvi netieši identificējamiem datiem saskaņā ar šā panta piektās daļas 2. un 3.punktu, ja valsts institūcija nav sniegusi vai ir sniegusi daļēju informāciju saskaņā ar šā likuma 27.panta pirmās daļas 2. un 3.punktu, pamatojoties uz apstākļiem, kas minēti šā likuma 27.panta trešajā daļā.\n(8) Statistikas iestādei ir tiesības pieņemt lēmumu par piekļuves liegšanu netieši identificējamiem datiem uz laiku līdz trim gadiem privātpersonai vai valsts institūcijai, kura pārkāpusi normatīvajos aktos vai līgumā noteiktos datu apstrādes noteikumus."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Datu izplatīšanas noteikumi",
+      "section": "29",
+      "title": "Netieši identificējamu datu izmantošana",
+      "content": "Datu pieprasītājam, kuram ir piešķirta piekļuve netieši identificējamiem datiem, ir pienākums:\n1) nodrošināt pētnieciskā darba rezultātu pārbaudi, lai tie nesaturētu privātpersonu vai valsts institūciju netieši identificējošu informāciju;\n2) pēc līguma termiņa beigām iznīcināt saņemtos netieši identificējamos datus un jebkurus citus datus, kas ļauj identificēt privātpersonu vai valsts institūciju;\n3) nodrošināt, lai datu pieprasītāja (juridiskās personas) nodarbinātā vai pilnvarotā persona, kura apstrādās saskaņā ar netieši identificējamo datu nodošanas līgumu nodotos netieši identificējamos datus, paraksta apliecinājumu par normatīvo aktu un līguma noteikumu ievērošanu;\n4) informēt par pētnieciskā darba rezultātu publiskošanu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Datu izplatīšanas noteikumi",
+      "section": "30",
+      "title": "Pētniecībai sniegto datu aizsardzība",
+      "content": "Personām, kuras saskaņā ar šā likuma 28.pantu ir saņēmušas netieši identificējamus datus, aizliegts tos izpaust trešajām personām vai izmantot pretēji mērķim, kādam šie dati ir pieprasīti un sniegti."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "31",
+      "title": "Oficiālās statistikas nodrošināšanai nepieciešamo datu neiesniegšana vai pētnieciskam darbam saņemtu datu izpaušana",
+      "content": "(1) Par oficiālās statistikas nodrošināšanai nepieciešamo datu neiesniegšanu, ja pienākums iesniegt datus ir noteikts ārējā normatīvajā aktā, vai faktiskās cenas novērošanas neatļaušanu, vai patiesas un pilnīgas pamatinformācijas par cenām un tarifiem nesniegšanu normatīvajos aktos noteiktajā kārtībā piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no sešām līdz simt četrdesmit naudas soda vienībām.\n(2) Par pētnieciskam darbam saņemtu netieši identificējamu datu izpaušanu trešajām personām vai izmantošanu pretēji mērķim, kādam šie dati ir pieprasīti un sniegti, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no sešām līdz simt četrdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "32",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 31. pantā minētajiem pārkāpumiem veic Centrālā statistikas pārvalde."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē:",
+      "content": "1) Valsts statistikas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 24.nr.; 1999, 5.nr.; 2004, 8., 21.nr.; 2006, 8.nr.; 2008, 1.nr.; 2009, 6.nr.);\n2) Tautas skaitīšanas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 2.nr.; 2009, 20.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2017.gada 31.maijam izdod šā likuma 11. un 21.pantā paredzētos Ministru kabineta noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 31.maijam ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2006.gada 6.novembra noteikumi Nr.922 \" Valsts statistikas pārskatu un anketu veidlapu paraugu apstiprināšanas noteikumi \";\n2) Ministru kabineta 2008.gada 15.janvāra noteikumi Nr.11 \" Noteikumi par rūpniecības produkcijas klasifikāciju (PRODCOM) \";\n3) Ministru kabineta 2008.gada 8.aprīļa noteikumi Nr.246 \" Noteikumi par Tautību klasifikatoru \";\n4) Ministru kabineta 2008.gada 28.aprīļa noteikumi Nr.307 \" Noteikumi par Adrešu klasifikatoru \";\n5) Ministru kabineta 2008.gada 26.maija noteikumi Nr.363 \" Noteikumi par vienoto ekonomiskās informācijas klasifikācijas sistēmu un tās ieviešanas un lietošanas kārtību \";\n6) Ministru kabineta 2008.gada 2.decembra noteikumi Nr.990 \" Noteikumi par Latvijas izglītības klasifikāciju \";\n7) Ministru kabineta 2008.gada 22.decembra noteikumi Nr.1075 \" Noteikumi par vides aizsardzības valsts statistikas pārskatu veidlapām \";\n8) Ministru kabineta 2009.gada 6.janvāra noteikumi Nr.10 \" Noteikumi par valsts statistikas pārskatiem veselības aprūpes jomā \";\n9) Ministru kabineta 2009.gada 3.februāra noteikumi Nr.98 \" Noteikumi par Latvijas iedzīvotāju reģistrācijas sistēmas klasifikatoru \";\n10) Ministru kabineta 2009.gada 7.jūlija noteikumi Nr.739 \" Noteikumi par izdevējdarbības valsts statistikas pārskata veidlapas paraugu un pārskata iesniegšanas un aizpildīšanas kārtību \";\n11) Ministru kabineta 2009.gada 22.septembra noteikumi Nr.1074 \" Noteikumi par valsts statistikas apkopošanu kultūras jomā \";\n12) Ministru kabineta 2009.gada 22.decembra noteikumi Nr.1620 \" Noteikumi par būvju klasifikāciju \";\n13) Ministru kabineta 2010.gada 30.marta noteikumi Nr.315 \" Noteikumi par Administratīvo teritoriju un teritoriālo vienību klasifikatoru \";\n14) Ministru kabineta 2010.gada 30.marta noteikumi Nr.318 \" Noteikumi par ūdens saimniecisko iecirkņu klasifikatoru \";\n15) Ministru kabineta 2010.gada 6.aprīļa noteikumi Nr.338 \" Noteikumi par valsts statistikas pārskatiem sociālo pakalpojumu un sociālās palīdzības jomā \";\n16) Ministru kabineta 2010.gada 18.maija noteikumi Nr.461 \" Noteikumi par Profesiju klasifikatoru, profesijai atbilstošiem pamatuzdevumiem un kvalifikācijas pamatprasībām un Profesiju klasifikatora lietošanas un aktualizēšanas kārtību \";\n17) Ministru kabineta 2010.gada 27.jūlija noteikumi Nr.686 \" Noteikumi par valsts statistikas datu apkopošanu par pasažieru regulārajiem komercpārvadājumiem ar autobusiem \";\n18) Ministru kabineta 2010.gada 21.decembra noteikumi Nr.1182 \" Noteikumi par valsts statistikas pārskatu veidlapu paraugiem iepirkumu jomā un pārskatu iesniegšanas un aizpildīšanas kārtību \";\n19) Ministru kabineta 2011.gada 4.oktobra noteikumi Nr.763 \" Noteikumi par bāriņtiesas ikgadējā pārskata veidlapas paraugu un pārskata iesniegšanas un aizpildīšanas kārtību \";\n20) Ministru kabineta 2011.gada 22.novembra noteikumi Nr.891 \" Noteikumi par valsts statistikas pārskatu par pašvaldību palīdzību dzīvokļa jautājumu risināšanā \";\n21) Ministru kabineta 2012.gada 14.augusta noteikumi Nr.551 \" Noteikumi par ūdenstilpju klasifikatoru \";\n22) Ministru kabineta 2013.gada 20.augusta noteikumi Nr.594 \" Noteikumi par valsts statistikas pārskatu veidlapu paraugiem izglītības jomā \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "pn3",
+      "title": "3. Šā likuma 20.pants stājas spēkā 2018.gada 1.janvārī.",
+      "content": "3. Šā likuma 20.pants stājas spēkā 2018.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "pn4",
+      "title": "4. Ministru kabineta noteikumi par Valsts statistiskās informācijas programmu 2016.gadam , kas izdoti, pamatojoties uz Valsts statistikas likumu , ir piemērojami līdz 2016.gada 31.decembrim, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "4. Ministru kabineta noteikumi par Valsts statistiskās informācijas programmu 2016.gadam , kas izdoti, pamatojoties uz Valsts statistikas likumu , ir piemērojami līdz 2016.gada 31.decembrim, ciktāl tie nav pretrunā ar šo likumu."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi statistikas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 5. punktu)",
+      "section": "pn5",
+      "title": "5. Šā likuma VI nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 24.10.2019 . likuma redakcijā, kas stājas spēkā 20.11.2019. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administratīvie datu avoti",
+      "definition": "reģistri, datubāzes, informācijas sistēmas un citi informācijas avoti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dati",
+      "definition": "fiziskās personas dati, dati par privāto tiesību juridisko personu un šādu personu apvienību, kā arī dati par valsts institūciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "klasifikācija",
+      "definition": "sistematizēts objektu sadalījums pēc noteiktām pazīmēm, kurā katram objektam vai objektu grupai ir piešķirts kods",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "oficiālā statistika",
+      "definition": "statistika, kas atbilst šajā likumā noteiktajiem mērķiem un kritērijiem un ir iekļauta oficiālās statistikas programmā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "oficiālās statistikas nodrošināšana",
+      "definition": "darbību un paņēmienu kopums, kas nodrošina oficiālās statistikas plānošanu, izstrādi, datu iegūšanu, apstrādi, analīzi un izplatīšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "respondents",
+      "definition": "privātpersona vai valsts institūcija, kurai pieprasa datus par statistisko vienību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "statistikas jomas standarts",
+      "definition": "dokuments (tiesību akts, rokasgrāmata, labā prakse, vadlīnijas vai cits dokuments) un informācijas tehnoloģiju instruments, kas nosaka oficiālās statistikas nodrošināšanas prasības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "statistika",
+      "definition": "informācija, kas raksturo statistisko vienību kopumu vai procesu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "statistikas iestāde",
+      "definition": "valsts institūcija, kura nodrošina oficiālo statistiku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "statistiskā vienība",
+      "definition": "novērojamā pamatvienība (piemēram, fiziskā persona, juridiskā persona, mājsaimniecība, valsts institūcija), uz kuru attiecas dati",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts institūcija",
+      "definition": "Ministru kabinetam padota tiešās pārvaldes iestāde, pārvaldes iestāde, kas nav padota Ministru kabinetam, atvasināta publiska persona un tās iestāde, tiesu varas institūcija, kā arī privātpersona, kurai deleģēti valsts pārvaldes uzdevumi.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "id": "lv-law-298656",
+  "type": "statute",
+  "title": "Kooperatīvo sabiedrību likums",
+  "title_en": "Cooperative Societies Law",
+  "short_name": "TA-298656",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/298656-kooperativo-sabiedribu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir radīt labvēlīgus pārvaldes nosacījumus kooperatīvajām sabiedrībām (turpmāk — sabiedrība) — brīvprātīgām personu apvienībām, kuru nolūks ir veicināt biedru kopīgo ekonomisko interešu efektīvu īstenošanu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma darbības joma",
+      "content": "(1) Šis likums regulē sabiedrības darbības pamatprincipus, organizatorisko struktūru, dibināšanu, likvidāciju un reorganizāciju.\n(2) Ja sabiedrība īsteno izšķirošo ietekmi kapitālsabiedrībā, tai piemēro koncernu regulējošos normatīvos aktus.\n(3) Sabiedrībai piemēro Komerclikuma noteikumus par uzņēmumu un filiāli, prokūru un parasto komercpilnvaru.\n(4) Sabiedrības darījumiem, izņemot darījumus starp sabiedrību un tās biedru sabiedrības sniegto pakalpojumu ietvaros, piemēro Komerclikuma noteikumus par komercdarījumiem."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Sabiedrības tiesiskais statuss",
+      "content": "(1) Sabiedrība ir juridiskā persona.\n(2) Sabiedrība uzskatāma par nodibinātu un iegūst juridiskās personas statusu ar dienu, kad tā ierakstīta Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Sabiedrības atbildības norobežošana",
+      "content": "(1) Sabiedrība par savām saistībām atbild ar visu savu mantu.\n(2) Sabiedrība neatbild par tās biedra saistībām.\n(3) Sabiedrības biedrs neatbild par sabiedrības saistībām."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Sabiedrības nosaukums",
+      "content": "(1) Sabiedrības nosaukumā ietver norādi \"kooperatīvā sabiedrība\".\n(2) Sabiedrības nosaukumā var norādīt attiecīgās sabiedrības darbības veidu.\n(3) Sabiedrība, kuras tiesības ir aizskartas, prettiesīgi izmantojot tās nosaukumu vai simboliku, var no aizskārēja prasīt, lai tas izbeidz izmantot šo nosaukumu vai simboliku, kā arī lai atlīdzina sabiedrībai ar tās nosaukuma vai simbolikas prettiesīgu izmantošanu nodarītos zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Fiziskajai personai noteiktie komercdarbības ierobežojumi",
+      "content": "(1) Ja fiziskajai personai, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, atņemtas tiesības veikt visu veidu vai noteikta veida komercdarbību, attiecīgajā nolēmumā noteiktajā aizlieguma periodā tai ir aizliegts:\n1) būt par sabiedrības dibinātāju;\n2) kļūt par sabiedrības biedru, izņemot gadījumu, kad sabiedrības pajas tiek mantotas;\n3) kļūt par pārstāvi sabiedrības pārstāvju sapulcē;\n4) būt par sabiedrības valdes locekli;\n5) būt par sabiedrības padomes locekli;\n6) būt par sabiedrības revidentu;\n7) būt par sabiedrības likvidatoru;\n8) sniegt padomus, dot norādījumus šajā daļā minētajām personām vai citādi tās ietekmēt.\n(2) Ja fiziskajai personai atņemtas tiesības veikt noteikta veida komercdarbību, šā panta pirmajā daļā minētie aizliegumi attiecināmi tikai uz attiecīgajā nolēmumā noteikto komercdarbības veidu. Ja šādai personai tiesiskais statuss ļauj pieņemt lēmumus sabiedrībā vai pārstāvēt sabiedrību, tai nav balsstiesību un ir aizliegts pārstāvēt sabiedrību jautājumos par attiecīgajā nolēmumā noteikto komercdarbības veidu.\n(3) Ja fiziskajai personai atņemtas tiesības veikt visu veidu vai noteikta veida komercdarbību, tās pienākums ir nekavējoties pēc attiecīgā nolēmuma spēkā stāšanās par to informēt sabiedrību un tās biedrus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Fiziskajai personai noteiktie amatu ieņemšanas ierobežojumi",
+      "content": "(1) Ja fiziskajai personai, pamatojoties uz kriminālprocesa vai administratīvā pārkāpuma procesa ietvaros pieņemtu nolēmumu, atņemtas tiesības ieņemt noteiktus amatus sabiedrībā vai tās pārvaldes institūcijās, tai ir aizliegts būt par sabiedrības:\n1) valdes locekli;\n2) padomes locekli;\n3) revidentu;\n4) likvidatoru.\n(2) Ja tiesa, pamatojoties uz civilprocesa ietvaros pieņemtu nolēmumu, ierobežojusi pilngadīgas fiziskās personas rīcībspēju (garīga rakstura vai citu veselības traucējumu dēļ vai personas izlaidīgas vai izšķērdīgas dzīves dēļ), attiecīgā fiziskā persona nav tiesīga ieņemt šā panta pirmajā daļā minētos amatus.\n(3) Ja fiziskajai personai atņemtas tiesības ieņemt noteiktus amatus sabiedrībā vai tās pārvaldes institūcijās vai ja tiesa ir ierobežojusi pilngadīgas fiziskās personas rīcībspēju, tās pienākums ir nekavējoties pēc attiecīgā nolēmuma spēkā stāšanās par to informēt sabiedrību un tās biedrus. Ja fiziskajai personai ir ierobežota rīcībspēja un nodibināta aizgādnība, informēšanas pienākums ir attiecīgās fiziskās personas aizgādnim, kas informāciju sniedz nekavējoties, tiklīdz ir uzzinājis vai viņam vajadzēja uzzināt, ka attiecīgā persona ieņem noteiktu amatu.\n(4) Šajā pantā noteiktais pārstāvības tiesību ierobežojums nav spēkā attiecībā uz trešām personām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Atbalsts atsevišķiem sabiedrību darbības veidiem",
+      "content": "(1) Sabiedrība var saņemt valsts un Eiropas Savienības atbalstu lauksaimniecībai un lauku attīstībai, ja tā ir ieguvusi atbilstības statusu un ja prasība par šo statusu noteikta attiecīgā atbalsta piešķiršanas jomu regulējošā normatīvajā aktā. Atbilstības statusu sabiedrībai piešķir, ja tā atbilst normatīvajos aktos noteiktajiem kritērijiem par sabiedrības pārvaldi, peļņas sadali, biedru skaitu un to statusu, sabiedrības darbības tiesiskumu, nodokļu (nodevu) parāda pieļaujamo apmēru, maksātnespējas vai likvidācijas procesa neesību, sabiedrības darbības veidu un ilgumu, saražotās produkcijas izcelsmi, sabiedrības preču un pakalpojumu apgrozījuma veidu un apjomu, kā arī citiem sabiedrības saimnieciskās darbības kvantitatīvajiem kritērijiem.\n(2) Ministru kabinets nosaka:\n1) sabiedrības atbilstības kritērijus;\n2) atbilstības statusa piešķiršanas un anulēšanas kārtību;\n3) termiņu, uz kādu piešķir atbilstības statusu;\n4) atbilstīgās sabiedrības darbības uzraudzības kārtību;\n5) maksas pakalpojumu cenrādi par atbilstības statusa piešķiršanu sabiedrībai.\n(3) Zemkopības ministrija piešķir un anulē atbilstības statusu, kā arī īsteno atbilstīgās sabiedrības darbības uzraudzību. Zemkopības ministrija attiecīgos valsts pārvaldes uzdevumus var deleģēt privātpersonai saskaņā ar deleģēšanas līgumu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Sabiedrības dibināšana",
+      "section": "9",
+      "title": "Sabiedrības dibināšanas kārtība",
+      "content": "(1) Sabiedrības dibinātāju skaits nedrīkst būt mazāks par trim.\n(2) Dibinot sabiedrību, dibinātāji veic šādas darbības:\n1) izstrādā un paraksta sabiedrības dibināšanas dokumentus saskaņā ar šā likuma 11. un 12. pantu ;\n2) apmaksā pamatkapitālu noteiktā apmērā, dibināmās sabiedrības vārdā atver kontu kredītiestādē un organizē dibinātāju naudas iemaksāšanu;\n3) organizē mantiskā ieguldījuma novērtēšanu (ja tiek izdarīts mantiskais ieguldījums);\n4) izveido sabiedrības pārvaldes institūcijas un, ja tas ir sabiedrībā paredzēts, ieceļ revidentu;\n5) samaksā valsts nodevu par ierakstīšanu Uzņēmumu reģistra žurnālā un maksu par reģistra ieraksta izsludināšanu;\n6) iesniedz pieteikumu Latvijas Republikas Uzņēmumu reģistram (turpmāk — Uzņēmumu reģistrs).\n(3) Dibinātāji ar sabiedrības dibināšanu saistītās darbības veic kopīgi, ja dibināšanas līgumā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Sabiedrības dibināšana",
+      "section": "10",
+      "title": "Sabiedrības dibināšanas dokumenti",
+      "content": "(1) Sabiedrības dibināšanas dokumenti ir dibināšanas līgums un statūti.\n(2) Pēc grozījumu izdarīšanas sabiedrības dibināšanas dokumentos Uzņēmumu reģistram iesniedz grozījumu tekstu, kā arī pilnu šo dokumentu tekstu jaunajā redakcijā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Sabiedrības dibināšana",
+      "section": "11",
+      "title": "Sabiedrības dibināšanas līgums",
+      "content": "(1) Dibināšanas līgumā norāda:\n1) ziņas par dibinātājiem:\na) fiziskajai personai — vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi) un adresi, kurā tā sasniedzama,\nb) juridiskajai personai un personālsabiedrībai — nosaukumu, reģistrācijas numuru, juridisko adresi, tās pārstāvja vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi), amatu un adresi, kurā tas sasniedzams, kā arī personu, kura juridiskās personas vai personālsabiedrības vārdā paraksta dibināšanas līgumu;\n2) sabiedrības nosaukumu;\n3) sabiedrības mērķi un uzdevumus;\n4) pamatkapitāla lielumu, pajas nominālvērtību, paju sadalījumu starp dibinātājiem un to apmaksas termiņus;\n5) sabiedrības valdes locekļu vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi) un adresi, kurā tie sasniedzami;\n6) sabiedrības padomes locekļu vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi) un adresi, kurā tie sasniedzami, ja sabiedrībai ir padome;\n7) revidenta vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi) un adresi, kurā tas sasniedzams, ja sabiedrībai paredzēts revidents;\n8) citus noteikumus, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar likumu.\n(2) Dibināšanas līgumu paraksta visi dibinātāji."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Sabiedrības dibināšana",
+      "section": "12",
+      "title": "Sabiedrības statūti",
+      "content": "(1) Sabiedrības statūtos norāda:\n1) sabiedrības nosaukumu;\n2) darbības mērķi un uzdevumus;\n3) darbības termiņu (ja sabiedrība dibināta uz noteiktu laiku);\n4) valdes skaitlisko sastāvu, nosakot valdes locekļu tiesības pārstāvēt sabiedrību atsevišķi vai kopīgi;\n5) padomes skaitlisko sastāvu (ja sabiedrībai paredzēta padome);\n6) pārstāvju izvirzīšanas un ievēlēšanas kārtību (ja sabiedrībai paredzēta pārstāvju sapulce);\n7) pamatkapitāla minimālo lielumu un pajas nominālvērtību;\n8) iestāšanās maksas un biedra naudas lielumu (ja tādas paredzētas);\n9) kritērijus biedra statusa iegūšanai;\n10) citus noteikumus, kas nav pretrunā ar likumu.\n(2) Dibinot sabiedrību, statūtus paraksta visi dibinātāji."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Sabiedrības dibināšana",
+      "section": "13",
+      "title": "Pieteikums ierakstīšanai Uzņēmumu reģistra žurnālā",
+      "content": "(1) Pieteikumā sabiedrības ierakstīšanai Uzņēmumu reģistra žurnālā sabiedrība norāda likumā \" Par Latvijas Republikas Uzņēmumu reģistru \" minētās ziņas.\n(2) Pieteikumu paraksta visi dibinātāji.\n(3) Pieteikumam pievieno:\n1) dibināšanas dokumentus;\n2) kredītiestādes izziņu vai citu dokumentu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā);\n3) dokumentus, kas apliecina katra mantiskā ieguldījuma vērtību (ja izdarīts mantiskais ieguldījums);\n4) katra valdes locekļa rakstveida piekrišanu būt par valdes locekli;\n5) katra padomes locekļa rakstveida piekrišanu būt par padomes locekli (ja sabiedrībai ir padome);\n6) valdes paziņojumu par sabiedrības juridisko adresi.\n(4) Pieteikumu sabiedrības ierakstīšanai Uzņēmumu reģistra žurnālā sabiedrība iesniedz pēc tam, kad dibinātāji izpildījuši šā likuma 9. panta otrajā daļā minētās darbības."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Biedri",
+      "section": "14",
+      "title": "Sabiedrības biedri",
+      "content": "(1) Biedrs ir persona, kas ierakstīta biedru reģistrā.\n(2) Persona iegūst biedra statusu ar brīdi, kad tā ierakstīta biedru reģistrā, bet zaudē biedra statusu, kad tā izslēgta no biedru reģistra.\n(3) Par sabiedrības biedru var būt persona, kas izmanto sabiedrības pakalpojumus un atbilst statūtos noteiktajiem biedra statusa kritērijiem.\n(4) Sabiedrības dibinātāji kļūst par tās biedriem ar brīdi, kad sabiedrība reģistrēta Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Biedri",
+      "section": "15",
+      "title": "Biedra uzņemšana sabiedrībā",
+      "content": "(1) Persona, kas vēlas kļūt par biedru, iesniedz sabiedrībai rakstveida pieteikumu. Pieteikumā norāda biedra uzņemšanai un biedru reģistra vešanai nepieciešamās ziņas.\n(2) Personas rakstveida pieteikumu par iestāšanos sabiedrībā izskata nekavējoties, bet ne vēlāk kā triju mēnešu laikā no tā iesniegšanas dienas. Lēmumu par biedra uzņemšanu pieņem valde, ja statūtos nav noteikta cita pārvaldes institūcija.\n(3) Personai var atteikt uzņemšanu sabiedrībā šādos gadījumos:\n1) persona neatbilst statūtos vai likumā noteiktajiem biedra statusa kritērijiem;\n2) persona izslēgta no sabiedrības saskaņā ar šā likuma 18. panta pirmās daļas 2. vai 3. punktu;\n3) atbilstoši statūtiem sabiedrība apkalpo tikai savus biedrus un nespēj sekmīgi apkalpot lielāku biedru skaitu.\n(4) Ja personai atteikta uzņemšana, sabiedrība piecu dienu laikā rakstveidā informē pieteikuma iesniedzēju, norādot atteikuma iemeslu. Pieteikuma iesniedzējs viena mēneša laikā no lēmuma paziņošanas dienas var prasīt jautājuma izskatīšanu nākamajā padomes sēdē vai, ja tādas nav, biedru kopsapulcē. Sabiedrības statūtos var noteikt citu iekšējās apstrīdēšanas kārtību, paredzot, ka lēmums apstrīdams vismaz vienā sabiedrības institūcijā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Biedri",
+      "section": "16",
+      "title": "Sabiedrības biedru reģistrs",
+      "content": "(1) Sabiedrības valde ved biedru reģistru. Reģistrā norāda:\n1) ziņas par biedriem:\na) fiziskajai personai — vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi) un adresi, kurā tā sasniedzama,\nb) juridiskajai personai un personālsabiedrībai — nosaukumu, reģistrācijas numuru un juridisko adresi;\n2) datumu, kad biedrs ierakstīts biedru reģistrā;\n3) katram biedram piederošo paju skaitu un to nominālvērtību;\n4) ziņas par biedra balsstiesību ierobežojumu;\n5) izmaiņas, kas notikušas ar pajām;\n6) datumu, kad biedrs izslēgts no biedru reģistra un kad notikusi galīgā norēķināšanās ar bijušo biedru;\n7) citu informāciju, kuru sabiedrība uzskata par būtisku.\n(2) Valde izdara ierakstu biedru reģistrā nekavējoties pēc tam, kad tā saņēmusi paziņojumu par izmaiņām biedru reģistrā ierakstāmajās ziņās. Ja valde pieņem lēmumu par biedra uzņemšanu, izmaiņas biedru reģistrā veic vienlaikus ar lēmuma pieņemšanu. Ja lēmumu par biedra uzņemšanu pieņem cita sabiedrības institūcija, valde veic izmaiņas biedru reģistrā ne vēlāk kā triju dienu laikā no lēmuma pieņemšanas dienas.\n(3) Lai izmantotu savas likumā noteiktās tiesības, biedri, padomes locekļi, revidents, kā arī kompetentas publiskas iestādes ir tiesīgas iepazīties ar biedru reģistru.\n(4) Biedram ir tiesības saņemt valdes apliecinātu sabiedrības biedru reģistra izrakstu par sevi."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Biedri",
+      "section": "17",
+      "title": "Izstāšanās no sabiedrības",
+      "content": "(1) Biedrs var izstāties no sabiedrības, iesniedzot sabiedrībai rakstveida paziņojumu. Biedrs nevar pieteikt izstāšanos pēc tam, kad pieņemts lēmums par sabiedrības darbības izbeigšanu vai lēmums par maksātnespējas procesa lietas ierosināšanu.\n(2) Biedru izslēdz no biedru reģistra nekavējoties, bet ne vēlāk kā triju mēnešu laikā no dienas, kad iesniegts paziņojums par izstāšanos."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Biedri",
+      "section": "18",
+      "title": "Izslēgšana no sabiedrības",
+      "content": "(1) Biedru var izslēgt no sabiedrības, ja:\n1) tas neatbilst likumā vai statūtos noteiktajiem biedra statusa kritērijiem;\n2) tas būtiski pārkāpis šā likuma vai statūtu noteikumus;\n3) tā darbība negatīvi ietekmē sabiedrības reputāciju vai nodara būtisku kaitējumu tās interesēm.\n(2) Lēmumu par izslēgšanu pieņem valde, ja statūtos nav noteikta cita institūcija.\n(3) Sabiedrība piecu dienu laikā rakstveidā paziņo biedram lēmumu, norādot tā pamatojumu.\n(4) Biedrs viena mēneša laikā no lēmuma paziņošanas dienas var prasīt jautājuma izskatīšanu nākamajā padomes sēdē vai, ja tādas nav, biedru kopsapulcē. Sabiedrības statūtos var noteikt citu iekšējās apstrīdēšanas kārtību, paredzot, ka lēmums apstrīdams vismaz vienā sabiedrības institūcijā.\n(5) Ja biedrs lēmumu par izslēgšanu nav apstrīdējis, to nekavējoties izslēdz no biedru reģistra pēc šā panta ceturtajā daļā minētā termiņa notecējuma. Ja biedrs lēmumu ir apstrīdējis, to izslēdz no biedru reģistra pēc tam, kad iekšējās apstrīdēšanas kārtībā atbildīgā sabiedrības institūcija pieņēmusi biedram nelabvēlīgu lēmumu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Biedri",
+      "section": "19",
+      "title": "Biedra dalības izbeigšanās sekas",
+      "content": "(1) Ja biedru izslēdz no biedru reģistra, sabiedrība dzēš tam piederošās pajas.\n(2) Sabiedrība izmaksā pajas personai, kura izslēgta no biedru reģistra, gada laikā no nākamā gada pārskata apstiprināšanas dienas.\n(3) Šā panta otrajā daļā minētajai izmaksai sabiedrība pieskaita peļņu vai ietur no tās zaudējumus par pēdējo pārskata gadu proporcionāli laikam, kad persona, kura izslēgta no biedru reģistra, bijusi biedra statusā.\n(4) Sabiedrība var pagarināt šā panta otrajā daļā minēto termiņu, ja izmaksa, kura veicama pārskata gada laikā, vienai vai vairākām personām kopā pārsniedz trīs procentus no sabiedrības pamatkapitāla. Termiņa pagarinājumu piemēro izmaksas daļai, kura pārsniedz trīs procentus no sabiedrības pamatkapitāla.\n(5) Ja sabiedrība pagarinājusi izmaksas termiņu saskaņā ar šā panta ceturto daļu, izmaksu veic vienmērīgi pa gadiem, bet ne vēlāk kā triju gadu laikā no šā panta otrajā daļā minētā gada pārskata apstiprināšanas dienas. Sabiedrības statūtos var noteikt citu izmaksas termiņu.\n(6) Sabiedrība maksā likumiskos procentus par paredzētajā apmērā un termiņā neizdarītajām izmaksām personai, kura izslēgta no biedru reģistra."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Biedri",
+      "section": "20",
+      "title": "Rīcība ar pajām biedra nāves gadījumā",
+      "content": "(1) Biedra nāves gadījumā pajas manto mantinieks.\n(2) Mantinieks var kļūt par biedru šā likuma 15. pantā noteiktajā kārtībā. Ja mantinieks kļūst par sabiedrības biedru, viņš nemaksā iestāšanās maksu.\n(3) Ja biedra nāves gadījumā mantinieks nekļūst par sabiedrības biedru, sabiedrība veic izmaksas viņam atbilstoši šā likuma 19. panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Biedri",
+      "section": "21",
+      "title": "Biedra tiesības uz informāciju",
+      "content": "Biedram ir tiesības saņemt no sabiedrības informāciju jebkurā ar tās darbību saistītā jautājumā, ja tai nav noteikts komercnoslēpuma statuss."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa Biedri",
+      "section": "22",
+      "title": "Biedra tiesības uz dokumentu pieejamību",
+      "content": "(1) Ja šajā likumā paredzētas tiesības biedriem iepazīties ar dokumentiem vai informāciju, sabiedrība likumā noteiktajā termiņā nodrošina visiem biedriem iespējas iepazīties ar tiem sabiedrības juridiskajā adresē. Biedriem ir tiesības saņemt dokumentu kopijas vai izrakstus.\n(2) Šā panta pirmo daļu nepiemēro, ja sabiedrība nodrošina dokumentu vai informācijas nepārtrauktu bezmaksas pieejamību un to lejupielādi elektroniskajā vidē."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Sabiedrības pamatkapitāls un peļņas izlietošana",
+      "section": "23",
+      "title": "Sabiedrības pamatkapitāls",
+      "content": "(1) Sabiedrības pamatkapitālu veido paju nominālvērtību kopsumma. Pamatkapitāls ir mainīgs.\n(2) Pamatkapitāla minimālo lielumu nosaka sabiedrības statūtos.\n(3) Ja pašu kapitāls kļūst mazāks par sabiedrības statūtos noteikto pamatkapitāla minimālo lielumu, valde triju mēnešu laikā sasauc biedru kopsapulci, kurā lemj par sabiedrības tālāko darbību."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Sabiedrības pamatkapitāls un peļņas izlietošana",
+      "section": "24",
+      "title": "Paja",
+      "content": "(1) Paja ir biedra ieguldījuma daļa sabiedrības pamatkapitālā. Visām pajām ir vienāda nominālvērtība.\n(2) Katrs biedrs veic ieguldījumu pamatkapitālā vismaz vienas pajas apmērā.\n(3) Visiem biedriem ir vienāds paju skaits, ja statūtos nav noteikts citādi. Ja atbilstoši statūtiem biedriem var būt atšķirīgs paju skaits, statūtos norāda kārtību paju skaita noteikšanai un paju apmaksai."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Sabiedrības pamatkapitāls un peļņas izlietošana",
+      "section": "25",
+      "title": "Pamatkapitāla palielināšana un apmaksa",
+      "content": "(1) Biedrs veic papildu ieguldījumu pamatkapitālā statūtos vai biedru kopsapulces lēmumā noteiktajā kārtībā. Papildu ieguldījumus veic proporcionāli katra biedra ieguldījuma apmēram, ja statūtos vai biedru kopsapulces lēmumā, kas pieņemts atbilstoši šā likuma 38. panta piektās daļas noteikumiem, nav noteikts citādi.\n(2) Pamatkapitālu apmaksā naudā, ja dibināšanas dokumenti neparedz mantisko ieguldījumu.\n(3) Mantiskajam ieguldījumam piemēro Komerclikuma 153. pantu .\n(4) Mantisko ieguldījumu novērtē un atzinumu sniedz visi biedri (dibinātāji), vai arī mantiskais ieguldījums tiek novērtēts atbilstoši Komerclikuma 154. panta pirmās, trešās un ceturtās daļas noteikumiem.\n(5) Personas, kas novērtējušas mantisko ieguldījumu, solidāri atbild par zaudējumiem, kuri nodarīti nepareizas mantiskā ieguldījuma novērtēšanas dēļ.\n(6) Pamatkapitālā ieguldītās lietas kļūst par sabiedrības īpašumu."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Sabiedrības pamatkapitāls un peļņas izlietošana",
+      "section": "26",
+      "title": "Sabiedrības gada pārskats",
+      "content": "(1) Pēc pārskata gada beigām valde sastāda un paraksta sabiedrības gada pārskatu un iesniedz to padomei, ja sabiedrībai ir padome, un zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai (turpmāk — zvērināts revidents).\n(2) Sabiedrības gada pārskatu pārbauda (revidē) un atzinumu par to sniedz biedru kopsapulcē ievēlēts zvērināts revidents, ja to paredz likums, statūti vai biedru kopsapulces lēmums.\n(3) Pēc zvērināta revidenta un padomes, ja sabiedrībai ir padome, atzinumu saņemšanas valde sasauc biedru kopsapulci, kas apstiprina sabiedrības gada pārskatu.\n(4) Ja biedru kopsapulce sasaukta šā likuma 32. panta ceturtajā vai piektajā daļā minētajā kārtībā, biedru kopsapulce var apstiprināt sabiedrības gada pārskatu bez padomes atzinuma saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa Sabiedrības pamatkapitāls un peļņas izlietošana",
+      "section": "27",
+      "title": "Sabiedrības peļņas izlietošana",
+      "content": "(1) Valde sagatavo un iesniedz biedru kopsapulcei priekšlikumu par peļņas izlietošanu. Priekšlikumā norāda:\n1) sabiedrības pārskata gada peļņas apmēru;\n2) biedriem izmaksājamās peļņas daļu;\n3) peļņas izlietošanu citiem mērķiem.\n(2) Biedram izmaksājamās peļņas daļu nosaka proporcionāli tā izmantoto sabiedrības pakalpojumu apjomam.\n(3) Sabiedrības statūtos var noteikt, ka visu biedram izmaksājamo peļņu vai daļu no tās nosaka proporcionāli biedra apmaksāto paju skaitam.\n(4) Ja biedrs līdz peļņas sadalei nav apmaksājis savas pajas, neapmaksāto summu ietur no tam pienākošās peļņas daļas."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Sabiedrības pamatkapitāls un peļņas izlietošana",
+      "section": "28",
+      "title": "Sabiedrības zaudējumi",
+      "content": "Ja sabiedrība noslēdz saimnieciskās darbības gadu ar zaudējumiem, biedru kopsapulce lemj par zaudējumu segšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "29",
+      "title": "Sabiedrības pārvaldes institūcijas",
+      "content": "Sabiedrības pārvaldes institūcijas ir biedru kopsapulce un valde, kā arī pārstāvju sapulce un padome (ja sabiedrībai ir padome)."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "30",
+      "title": "Biedru kopsapulce",
+      "content": "Biedru kopsapulce ir augstākā sabiedrības pārvaldes institūcija."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "31",
+      "title": "Biedru kopsapulces kompetence",
+      "content": "(1) Tikai biedru kopsapulces kompetencē ietilpst:\n1) padomes locekļu un revidenta ievēlēšana un atsaukšana;\n2) atlīdzības noteikšana padomes locekļiem un revidentam;\n3) gada pārskata apstiprināšana, iepriekšējā saimnieciskās darbības gada peļņas sadale vai zaudējumu segšanas kārtības noteikšana;\n4) lēmuma par sabiedrības darbības izbeigšanu, turpināšanu vai reorganizāciju pieņemšana;\n5) grozījumu izdarīšana statūtos;\n6) lēmuma par prasības celšanu pret valdes vai padomes locekli vai par atteikšanos no prasības pret viņiem pieņemšana;\n7) lēmuma par sabiedrības pārstāvja iecelšanu prasības uzturēšanai pret valdes vai padomes locekli, kā arī valdes celtajās prasībās pret sabiedrību pieņemšana;\n8) valdes locekļu ievēlēšana un atsaukšana, izņemot gadījumu, kad sabiedrības statūtos ir paredzēts, ka šie lēmumi ir padomes kompetencē;\n9) atlīdzības noteikšana valdes locekļiem, izņemot gadījumu, kad sabiedrības statūtos ir paredzēts, ka šis lēmums ir padomes kompetencē;\n10) valdes locekļiem paredzētās atlīdzības noteikšanas vispārējie principi, veidi un kritēriji, ja sabiedrības statūtos ir paredzēts, ka valdes locekļu ievēlēšana un atsaukšana, kā arī atlīdzības noteikšana valdes locekļiem ir padomes kompetencē.\n(2) Sabiedrības statūtos var paredzēt arī citus jautājumus, kuru izlemšana ir vienīgi biedru kopsapulces kompetencē."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "32",
+      "title": "Biedru kopsapulces sasaukšana",
+      "content": "(1) Biedru kopsapulci sasauc valde pēc savas iniciatīvas vai tad, ja to pieprasa padome, revidents vai vismaz viena desmitdaļa biedru.\n(2) Ja valde saņēmusi pieprasījumu biedru kopsapulces sasaukšanai, tā sasauc biedru kopsapulci ne vēlāk kā triju mēnešu laikā no pieprasījuma saņemšanas dienas.\n(3) Ja valde mēneša laikā pēc pieprasījuma iesniegšanas dienas neizsludina biedru kopsapulci, to sasauc padome vai revidents.\n(4) Ja biedru kopsapulce nav notikusi triju mēnešu laikā pēc pieprasījuma iesniegšanas dienas, to var sasaukt vismaz viena desmitdaļa biedru.\n(5) Ja pienākums sasaukt biedru kopsapulci izriet no likuma vai statūtiem un biedru kopsapulce nav notikusi paredzētajā termiņā, to nekavējoties sasauc padome vai revidents. Šīs tiesības var izmantot arī vismaz viena desmitdaļa biedru."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "33",
+      "title": "Biedru kopsapulces sasaukšanas kārtība",
+      "content": "(1) Paziņojumu par biedru kopsapulces sasaukšanu valde rakstveidā dara zināmu visiem biedriem vismaz 30 dienas pirms biedru kopsapulces. Sabiedrība statūtos var paredzēt citu paziņošanas veidu, kas nodrošina visiem biedriem paziņojuma saņemšanu.\n(2) Paziņojumā norāda:\n1) sabiedrības nosaukumu un reģistrācijas numuru;\n2) institūciju, kura sasauc biedru kopsapulci;\n3) kopsapulces norises vietu un laiku;\n4) darba kārtību;\n4 1 ) kārtību un termiņus, kādos biedri var izmantot tiesības balsot pirms biedru kopsapulces vai piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus;\n5) vietu un laiku, kur un kad biedri var iepazīties ar lēmuma projektiem un dokumentiem, kuriem ir nozīme lēmuma pieņemšanā.\n(3) Ja biedru kopsapulci sasauc šā likuma 32. panta trešajā, ceturtajā un piektajā daļā minētā institūcija (persona), paziņojumā norāda kontaktinformāciju, kur pieteikt papildu jautājumus biedru kopsapulces darba kārtībai.\n(4) Ja biedru kopsapulcē paredzēts grozīt sabiedrības statūtus, lēmuma projektam par statūtu grozījumiem pievieno dokumentu, kurā norāda, kurus statūtu punktus ierosināts atzīt par spēku zaudējušiem vai grozīt, un šo punktu jauno redakciju.\n(5) Biedriem ir tiesības iepazīties ar šā panta otrās daļas 5. punktā minēto informāciju vismaz 10 dienas pirms biedru kopsapulces.\n(6) Ja sabiedrības statūtos noteikts, ka sabiedrība sasauc biedru kopsapulci, izmantojot elektroniskos līdzekļus, šā panta pirmajā daļā minēto paziņojumu valde dara zināmu visiem biedriem vismaz 20 dienas pirms biedru kopsapulces."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "34",
+      "title": "Lēmuma pieņemšana bez biedru kopsapulces sasaukšanas",
+      "content": "(1) Biedri var pieņemt lēmumu bez biedru kopsapulces sasaukšanas, izņemot šā likuma 31. panta pirmās daļas 1., 3., 4., 5. un 8. punktā noteiktos jautājumus. Sabiedrības statūtos var noteikt citus jautājumus, par kuriem var lemt tikai biedru kopsapulce.\n(2) Valde visiem biedriem nosūta rakstveida lēmuma projektu un dokumentus, kuriem ir nozīme lēmuma pieņemšanā, norādot termiņu, kurā biedrs rakstveidā var balsot par lēmuma pieņemšanu. Šāds termiņš nedrīkst būt īsāks par 10 dienām no paziņojuma nosūtīšanas dienas. Ja valde nosūta lēmuma projektu un dokumentus, izmantojot elektroniskos līdzekļus, šo termiņu var samazināt līdz piecām dienām.\n(3) Par balsošanas rezultātiem valde sastāda protokolu un piecu dienu laikā no šā panta otrajā daļā minētā termiņa beigām nosūta to visiem biedriem. Protokolā norāda:\n1) lēmuma projekta nosūtīšanas dienu un balsošanai noteikto termiņu;\n2) šā likuma 40. panta pirmās daļas 1., 7., 8., 9. un 10. punktā minēto informāciju.\n(4) Šā panta pirmajā daļā minētais lēmums ir pieņemts, ja par to nobalsojuši vairāk par pusi no visiem balsstiesīgajiem biedriem, ja likumā vai statūtos nav noteikts lielāks balsu skaits.\n(5) Ja biedrs šā panta otrajā daļā noteiktajā termiņā nav devis rakstveida atbildi, uzskatāms, ka tas balsojis pret lēmuma pieņemšanu.\n(6) Biedru lēmuma atzīšanai par spēkā neesošu piemēro šā likuma 41. panta noteikumus."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "35",
+      "title": "Biedru kopsapulces darba kārtība",
+      "content": "(1) Biedru kopsapulces darba kārtībā iekļaujamos jautājumus nosaka institūcija (persona), kas ierosina sasaukt sapulci.\n(2) Biedrs 10 dienu laikā no šā likuma 33. panta otrajā daļā minētā paziņojuma saņemšanas dienas var prasīt papildu jautājumu iekļaušanu biedru kopsapulces darba kārtībā, ja statūtos vai paziņojumā nav noteikts garāks termiņš. Ja statūtos noteikts, ka biedrs var prasīt papildu jautājumu iekļaušanu biedru kopsapulces darba kārtībā, izmantojot tikai elektroniskos līdzekļus, šo termiņu var samazināt līdz piecām dienām.\n(3) Papildu jautājumus iekļauj biedru kopsapulces darba kārtībā un paziņo par izmaiņām darba kārtībā šā likuma 33. panta pirmajā daļā noteiktajā kārtībā ne vēlāk kā 10 dienas pirms biedru kopsapulces.\n(4) Biedru kopsapulce var pieņemt lēmumus tikai tajos darba kārtības jautājumos, kuri iekļauti šā likuma 33. panta otrajā daļā un šā panta trešajā daļā minētajā paziņojumā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "36",
+      "title": "Piedalīšanās biedru kopsapulcē",
+      "content": "(1) Biedrs var piedalīties biedru kopsapulcē personiski vai ar pilnvarnieka starpniecību. Pilnvara piedalīties un balsot biedru kopsapulcē izdodama rakstveidā. Pilnvaru pievieno sapulces protokolam.\n(2) Viena persona uz pilnvaras pamata var pārstāvēt ne vairāk kā trīs sabiedrības biedrus, izņemot gadījumu, kad pilnvarā ietverts balsošanas uzdevums par katru attiecīgās biedru kopsapulces darba kārtības jautājumu.\n(3) Sevišķa pilnvara nav vajadzīga personām, kuras biedru pārstāv uz likuma pamata. Šīs personas uzrāda dokumentu, kas apliecina to pārstāvības tiesības.\n(4) (Izslēgta no 01.07.2024. ar 25.04.2024 . likumu. Sk. pārejas noteikumu 19. punktu)\n(5) (Izslēgta no 01.07.2024. ar 25.04.2024 . likumu. Sk. pārejas noteikumu 19. punktu)\n(6) (Izslēgta no 01.07.2024. ar 25.04.2024 . likumu. Sk. pārejas noteikumu 19. punktu)\n(7) (Izslēgta no 01.07.2024. ar 25.04.2024 . likumu. Sk. pārejas noteikumu 19. punktu)"
+    },
+    {
+      "provision_ref": "Art. 36.1",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "36.1",
+      "title": "36. 1 pants. Attālināta piedalīšanās un balsošana biedru kopsapulcē",
+      "content": "(1) Valde pēc savas iniciatīvas vai gadījumā, kad to pieprasa vismaz 10 procenti no biedru kopskaita, vai gadījumā, kad tas paredzēts statūtos, nodrošina biedram tiesības piedalīties un balsot biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus. Biedra tiesības piedalīties un balsot kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, neierobežo tā tiesības piedalīties un balsot kopsapulcē klātienē.\n(2) Valdei ir tiesības noteikt, ka biedru kopsapulce notiek tikai elektroniskā formā (biedri piedalās un balso, izmantojot elektroniskos saziņas līdzekļus). Ja sabiedrībā ir izveidota padome, valdei ir nepieciešama padomes piekrišana kopsapulces organizēšanai tikai elektroniskā formā. Biedru kopsapulce tikai elektroniskā formā nenotiek, ja pret to iebilst vismaz 10 procenti no biedru kopskaita. Ja biedrs objektīvu iemeslu dēļ nevar piedalīties kopsapulcē, kas notiek tikai elektroniskā formā, valde nodrošina šim biedram iespēju kopsapulcē piedalīties klātienē.\n(3) Valde pēc savas iniciatīvas vai gadījumā, kad tas paredzēts statūtos, nodrošina biedram tiesības balsot pirms kopsapulces rakstveidā, tostarp izmantojot elektroniskos saziņas līdzekļus, savu balsojumu nododot sabiedrībai ne vēlāk kā iepriekšējā dienā pirms kopsapulces. Ja sabiedrībā ir izveidota padome, valdei ir nepieciešama padomes piekrišana rakstveida balsojuma organizēšanai pirms kopsapulces. Sabiedrība nekavējoties nosūta biedram apstiprinājumu par rakstveida balsojuma saņemšanu, ja biedrs ir lūdzis šādu apstiprinājumu. Biedrs, kas balsojis pirms kopsapulces, drīkst balsot kopsapulcē klātienē vai izmantojot elektroniskos saziņas līdzekļus. Šādā gadījumā pirms kopsapulces nodotā balss ir anulējama.\n(4) Prasības attiecībā uz biedru identifikāciju un kārtību, kādā biedri piedalās un balso biedru kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, vai balso pirms kopsapulces, nosaka statūtos vai deleģē to noteikt valdei.\n(5) Valde nodrošina, ka kopsapulces norise un biedru balsojums, tostarp izmantojot elektroniskos saziņas līdzekļus, tiek ierakstīti un saglabāti datu nesējos. Tiesības iepazīties ar sapulces materiāliem ir biedriem, valdes un padomes locekļiem, revidentam un kompetentajām institūcijām.\n(6) Biedrs, kurš balsojis pirms kopsapulces vai piedalās un balso kopsapulcē, izmantojot elektroniskos saziņas līdzekļus, ir uzskatāms par kopsapulcē klātesošu. Valde pirms balsojuma informē kopsapulces dalībniekus, kuri biedri ir balsojuši pirms kopsapulces, bet pēc balsošanas beigām publisko visu biedru balsojumus."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "37",
+      "title": "Biedra balsstiesības",
+      "content": "(1) Kopsapulcē katram sabiedrības biedram neatkarīgi no tam piederošo paju skaita ir viena balss.\n(2) Biedram nav balsstiesību biedru kopsapulcē, ja:\n1) tas līdz biedru kopsapulcei nav nokārtojis statūtos un biedru kopsapulces lēmumos noteiktās saistības;\n2) tam, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, atņemtas tiesības veikt visu veidu komercdarbību.\n(3) Biedram nav balsstiesību, ja:\n1) tas ir padomes vai valdes loceklis, likvidators, revidents, — pieņemot lēmumu par prasības celšanu pret to;\n2) tiek pieņemts lēmums par tiesībām, kuras sabiedrība var izmantot pret to;\n3) tiek pieņemts lēmums par darījuma slēgšanu ar to vai saistīto personu;\n4) pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, tam ir atņemtas tiesības veikt noteikta veida komercdarbību, — jautājumos par attiecīgajā nolēmumā noteikto komercdarbības veidu."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "38",
+      "title": "Biedru kopsapulces norise",
+      "content": "(1) Biedru kopsapulce ir tiesīga pieņemt lēmumus neatkarīgi no tajā klātesošo biedru skaita, ja statūtos nav noteikta pārstāvības norma.\n(2) Ja biedru kopsapulce nav tiesīga pārstāvības normas neizpildes dēļ, viena mēneša laikā tiek sasaukta atkārtota biedru kopsapulce ar tādu pašu darba kārtību, un tā ir tiesīga neatkarīgi no klātesošo biedru skaita. Paziņojumu par atkārtotās biedru kopsapulces sasaukšanu dara zināmu visiem biedriem vismaz 10 dienas pirms sapulces.\n(3) Biedru kopsapulcē balsošana notiek atklāti, izņemot gadījumu, kad aizklātu balsošanu pieprasa ne mazāk kā viena desmitdaļa klātesošo balsstiesīgo biedru. Sabiedrības statūtos var paredzēt jautājumus, par kuriem notiek aizklāta balsošana.\n(4) Biedru kopsapulce pieņem lēmumus ar klātesošo biedru balsu vairākumu, ja statūtos nav noteikts lielāks balsu skaits.\n(5) Lēmumu par grozījumu izdarīšanu statūtos, sabiedrības darbības izbeigšanu vai turpināšanu un sabiedrības reorganizāciju pieņem, ja par to balso ne mazāk par trim ceturtdaļām kopsapulcē klātesošo biedru, ja statūtos nav noteikts lielāks balsu skaits.\n(6) Biedru kopsapulces lēmums attiecībā uz sabiedrību, tās padomes un valdes locekļiem, revidentu un biedriem ir spēkā ar tā pieņemšanas brīdi, ja šajā lēmumā vai likumā nav noteikts cits lēmuma spēkā stāšanās termiņš."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "39",
+      "title": "Biedru kopsapulcē klātesošo biedru saraksts",
+      "content": "(1) Pirms biedru kopsapulces atklāšanas valde sastāda klātesošo biedru sarakstu.\n(2) Ja biedrs piedalās ar pilnvarnieka starpniecību, biedru sarakstā norāda pilnvarnieka vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi), bet juridiskajām personām — nosaukumu, reģistrācijas numuru un tās pārstāvja vārdu, uzvārdu, personas kodu (ja personai nav personas koda — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi).\n(3) Biedrs ar parakstu apliecina savu klātbūtni biedru kopsapulcē, izņemot gadījumu, kad tas piedalās biedru kopsapulcē vai balso, izmantojot elektroniskās saziņas līdzekļus vai balso pirms biedru kopsapulces.\n(4) Biedru sarakstu pievieno biedru kopsapulces protokolam."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "40",
+      "title": "Biedru kopsapulces protokols",
+      "content": "(1) Biedru kopsapulces gaita tiek protokolēta. Protokolā norāda:\n1) sabiedrības nosaukumu;\n2) institūciju (personu), kura sasauc kopsapulci;\n3) kopsapulces norises vietu un laiku;\n4) laiku, kad paziņots par kopsapulces sasaukšanu, un paziņošanas veidu;\n5) sabiedrības kopējo balsstiesīgo biedru skaitu;\n6) pārstāvju skaitu, kāds nepieciešams, lai būtu pārstāvēti visi biedri (ja sasaukta pārstāvju sapulce);\n7) kopsapulcē klātesošo biedru skaitu;\n8) darba kārtības jautājumus;\n9) balsošanas rezultātus, norādot attiecībā uz katru lēmumu nodoto \"par\" balsu skaitu;\n10) pieņemtos lēmumus;\n11) kopsapulces vadītāju un protokolētāju.\n(2) Protokolu paraksta sapulces vadītājs un protokolētājs. Ja, pieņemot biedru kopsapulces lēmumu, nepieciešams pieteikt izmaiņas Uzņēmumu reģistra žurnāla ierakstos vai pieteikt dokumentu reģistrāciju, Uzņēmumu reģistram iesniedz biedru kopsapulces protokolu vai tā atvasinājumu.\n(3) Biedrs ir tiesīgs iepazīties ar protokolu un tam pievienotajiem dokumentiem."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "41",
+      "title": "Biedru kopsapulces lēmuma atzīšana par spēkā neesošu",
+      "content": "(1) Pamatojoties uz biedra, valdes vai padomes locekļa prasību, tiesa var atzīt biedru kopsapulces lēmumu par spēkā neesošu, ja šāds lēmums vai tā pieņemšanas procedūra ir pretrunā ar likumu vai statūtiem vai pieļauti būtiski pārkāpumi kopsapulces sasaukšanā vai lēmuma pieņemšanā.\n(2) Prasību par biedru kopsapulces lēmuma atzīšanu par spēkā neesošu var celt triju mēnešu laikā no dienas, kad biedrs uzzināja vai kad tam vajadzēja uzzināt par kopsapulces lēmumu, bet ne ilgāk par gadu no biedru kopsapulces dienas.\n(3) Ja lēmums pieņemts, pārkāpjot lēmuma pieņemšanas procedūru vai nav ievērota kopsapulces sasaukšanas kārtība, lēmums nav apstrīdams, ja par tā pieņemšanu nobalsojuši visi sabiedrības biedri."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "42",
+      "title": "Atbildība par biedru kopsapulces lēmuma nepamatotu apstrīdēšanu",
+      "content": "Prasītājs atbild par sabiedrībai nodarītajiem zaudējumiem, kas radušies biedru kopsapulces lēmuma nepamatotas apstrīdēšanas dēļ, ja viņš prasību cēlis ļaunā nolūkā vai aiz rupjas neuzmanības."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "43",
+      "title": "Pārstāvju sapulce",
+      "content": "(1) Biedru kopsapulci aizstāj pārstāvju sapulce, ja to paredz statūti un sabiedrībā ir vairāk nekā 100 balsstiesīgo biedru. Statūtos var paredzēt lielāku minimālo biedru skaitu, kāds nepieciešams, lai sasauktu pārstāvju sapulci.\n(2) Par pārstāvi var būt tikai sabiedrības biedrs.\n(3) Pārstāvjus ievēlē un atsauc sabiedrības biedri atbilstoši statūtos noteiktajai pārstāvju ievēlēšanas kārtībai, pilnvaru termiņam un pārstāvības normai.\n(4) Minimālais pārstāvju skaits ir 20.\n(5) Pārstāvju sapulces darbībai un kompetencei piemēro šā likuma normas par biedru kopsapulces darbību un kompetenci. Pārstāvju tiesībām piemēro šā likuma 31. , 32. , 33. , 34. , 35. , 36. , 36. 1 , 37. , 38. , 39. , 40. , 41. un 42. pantu, izņemot 36. panta pirmo un otro daļu un 39. panta otro daļu.\n(6) Pārstāvju sapulce ir tiesīga pieņemt lēmumus, ja tajā piedalās vairāk par pusi no statūtos paredzētā pārstāvju skaita, ja statūti neparedz lielāku pārstāvības normu.\n(7) Ja biedru kopsapulces pienākumus pilda pārstāvju sapulce, biedriem saglabājas šā likuma 33. panta piektajā daļā, 40. panta trešajā daļā, 41. un 42. pantā , 81. panta trešajā un ceturtajā daļā, 95. panta trešajā daļā un 98. pantā minētās tiesības un pienākumi."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "44",
+      "title": "Pārstāvju saraksts",
+      "content": "(1) Ja atbilstoši statūtiem biedru kopsapulces pienākumus pilda pārstāvju sapulce, valde ved pārstāvju sarakstu, kurā norāda pārstāvja vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi), pārstāvības termiņu, kontaktinformāciju, kā arī pārstāvamos biedrus vai pārstāvamo biedru kopumu.\n(2) Katram biedram ir tiesības iepazīties ar pārstāvju sarakstu un tā pārstāvja kontaktinformāciju, kas pārstāv attiecīgo biedru."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "45",
+      "title": "Padome",
+      "content": "(1) Padome ir sabiedrības pārraudzības institūcija, kas pārstāv biedru intereses biedru kopsapulču starplaikā un uzrauga valdes darbību.\n(2) Ja sabiedrība padomi neizveido, tās funkcijas pilda biedru kopsapulce."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "46",
+      "title": "Padomes uzdevumi",
+      "content": "(1) Padomei ir šādi uzdevumi:\n1) pastāvīgi uzraudzīt valdes darbību un raudzīties, lai sabiedrība darbotos saskaņā ar likumiem, sabiedrības statūtiem un biedru kopsapulces lēmumiem;\n2) sniegt atzinumu par biedru kopsapulces darba kārtības jautājumiem;\n3) pēc vienas trešdaļas biedru motivēta pieprasījuma pārbaudīt valdes darbu. Ja padome šādu pārbaudi mēneša laikā pēc pieprasījuma saņemšanas neizdara, biedriem ir tiesības šo jautājumu nodot izskatīšanai biedru kopsapulcei;\n4) pārstāvēt sabiedrību tiesā visās sabiedrības celtajās prasībās pret valdes locekļiem, kā arī valdes locekļu celtajās prasībās pret sabiedrību un pārstāvēt sabiedrību citās tiesiskajās attiecībās ar valdes locekļiem;\n5) sagatavot ziņojumu par valdes iesniegto gada pārskatu, ziņojumā iekļaujot sabiedrības darbības un finansiālā stāvokļa izvērtējumu, valdes izvērtējumu un pārskatu par padomes darbību pārskata periodā.\n(2) Sabiedrības statūtos var paredzēt, ka padome ievēlē un atsauc valdes locekļus, kā arī nosaka atlīdzību valdes locekļiem."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "47",
+      "title": "Padomes tiesības",
+      "content": "(1) Padomei ir šādas tiesības:\n1) jebkurā laikā pieprasīt no valdes pārskatu par sabiedrības stāvokli un iepazīties ar visām valdes darbībām;\n2) pārbaudīt sabiedrības reģistrus, dokumentus un sabiedrības mantu;\n3) iesniegt biedru kopsapulcei ziņojumu, kurā novērtēta sabiedrības darbība un valdes ziņojums, kā arī izteikt priekšlikumus par sabiedrības darbības uzlabošanu;\n4) uz sabiedrības rēķina pieaicināt ekspertus sabiedrības darbības pārbaudei.\n(2) Padomei nav tiesību izlemt jautājumus, kas ir valdes kompetencē."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "48",
+      "title": "Padomes sastāvs",
+      "content": "(1) Par padomes locekli var būt tikai fiziskā persona.\n(2) Par padomes locekli nevar būt sabiedrības valdes loceklis, revidents un prokūrists. Statūtos var noteikt stingrākus ierobežojumus padomes loceklim.\n(3) Minimālais padomes locekļu skaits ir trīs.\n(4) Padomes locekli ievēlē uz pieciem gadiem, ja statūtos nav noteikts īsāks termiņš.\n(5) Padomes locekļi no sava vidus ievēlē padomes priekšsēdētāju. Statūtos var noteikt, ka padomes priekšsēdētāju ievēlē biedru kopsapulce."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "49",
+      "title": "Padomes sēdes sasaukšana",
+      "content": "(1) Padomes sēdi sasauc padomes priekšsēdētājs ne retāk kā reizi trijos mēnešos.\n(2) Katrs padomes loceklis, kā arī valde var pieprasīt padomes sēdes sasaukšanu, motivējot sēdes sasaukšanas nepieciešamību.\n(3) Ja divu nedēļu laikā pēc šā panta otrajā daļā minētā pieprasījuma saņemšanas padomes sēde nav notikusi, sēdes sasaukšanas ierosinātājs var sasaukt padomes sēdi, paskaidrojot lietas apstākļus."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "50",
+      "title": "Padomes lēmumu pieņemšana",
+      "content": "(1) Padome ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse no statūtos noteiktā padomes locekļu skaita.\n(2) Padome pieņem lēmumus ar vienkāršu klātesošo balsu vairākumu, ja statūtos nav noteikts lielāks balsu skaits. Sabiedrības statūtos var noteikt, ka, balsīm sadaloties līdzīgi, izšķirošā ir padomes priekšsēdētāja balss.\n(3) Padomes sēdes tiek protokolētas. Protokola pareizību apliecina visi klātesošie padomes locekļi.\n(4) Ja padomes loceklis nepiekrīt padomes lēmumam un balso pret to, šā padomes locekļa atšķirīgo viedokli pēc viņa pieprasījuma ieraksta padomes sēdes protokolā."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "51",
+      "title": "Valde",
+      "content": "(1) Valde ir sabiedrības izpildinstitūcija, kas vada un pārstāv sabiedrību.\n(2) Valde pārzina un vada sabiedrības lietas. Tā atbild par sabiedrības saimniecisko darbību, kā arī par likumam atbilstošu grāmatvedību.\n(3) Valde pārvalda sabiedrības mantu un rīkojas ar tās līdzekļiem atbilstoši likumiem, statūtiem un biedru kopsapulces lēmumiem.\n(4) Par valdes locekli var būt tikai fiziskā persona."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "52",
+      "title": "Valdes tiesības vadīt sabiedrību",
+      "content": "Valdes locekļi sabiedrību vada tikai kopīgi."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "53",
+      "title": "Valdes tiesības pārstāvēt sabiedrību",
+      "content": "(1) Visiem valdes locekļiem ir pārstāvības tiesības. Valdes locekļi pārstāv sabiedrību kopīgi, ja statūtos nav noteikts citādi.\n(2) Kopīgas pārstāvības gadījumā valdes locekļi var pilnvarot no sava vidus vienu vai vairākus valdes locekļus slēgt noteiktus darījumus vai noteikta veida darījumus.\n(3) Valdes pārstāvības tiesības attiecībā uz trešām personām nevar ierobežot. Statūtos noteiktās valdes locekļu tiesības pārstāvēt sabiedrību kopīgi vai atsevišķi nav uzskatāmas par valdes pārstāvības tiesību ierobežojumu šā panta izpratnē."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "54",
+      "title": "Valdes locekļu ievēlēšana",
+      "content": "(1) Valdes locekli ievēlē amatā uz pieciem gadiem, ja statūti neparedz īsāku termiņu.\n(2) Valdes locekļi no sava vidus ievēlē valdes priekšsēdētāju. Statūtos var noteikt, ka valdes priekšsēdētāju ievēlē biedru kopsapulce."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "55",
+      "title": "Valdes lēmumu pieņemšana",
+      "content": "(1) Valde ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse no statūtos noteiktā valdes locekļu skaita.\n(2) Valde pieņem lēmumu ar klātesošo valdes locekļu balsu vairākumu. Ja valde sastāv no vismaz trim valdes locekļiem, statūtos var noteikt, ka, balsīm sadaloties līdzīgi, izšķirošā ir valdes priekšsēdētāja balss.\n(3) Ja valdes loceklis nepiekrīt valdes lēmumam un balso pret to, šā valdes locekļa atšķirīgo viedokli pēc viņa pieprasījuma ieraksta valdes sēdes protokolā.\n(4) Valdes sēdes protokola pareizību apliecina visi klātesošie valdes locekļi."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "56",
+      "title": "Piekrišana valdes rīcībai",
+      "content": "(1) Statūtos var noteikt, ka svarīgu jautājumu izlemšanā valdei vajadzīga biedru kopsapulces vai padomes piekrišana. Par svarīgiem uzskatāmi šādi jautājumi:\n1) līdzdalības iegūšana citā sabiedrībā vai komercsabiedrībā, līdzdalības palielināšana, samazināšana vai izbeigšana;\n2) citas sabiedrības vai komercsabiedrības dibināšana, darbības izbeigšana, turpināšana vai reorganizācija;\n3) uzņēmuma iegūšana vai atsavināšana;\n4) nekustamo īpašumu pirkšana, pārdošana vai apgrūtināšana ar lietu tiesībām;\n5) filiāļu un pārstāvniecību atvēršana vai slēgšana;\n6) tādu aizdevumu izsniegšana, kuri nav saistīti ar sabiedrības parasti veicamo saimniecisko darbību;\n7) jaunu darbības veidu uzsākšana, kā arī esošo darbības veidu izbeigšana.\n(2) Ja padome noraida valdes iesniegto priekšlikumu, valde var ierosināt šā jautājuma izskatīšanu biedru kopsapulcē.\n(3) Fakts, ka valde nav saņēmusi biedru kopsapulces vai padomes piekrišanu, nav saistošs trešai personai, izņemot gadījumu, kad trešā persona zināja, ka nepieciešama biedru kopsapulces vai padomes piekrišana un ka tā nav dota."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "V nodaļa Sabiedrības pārvalde",
+      "section": "57",
+      "title": "Finansiālās un saimnieciskās darbības iekšējā revīzija",
+      "content": "(1) Biedru kopsapulce sabiedrības finansiālās un saimnieciskās darbības iekšējās revīzijas veikšanai var iecelt vienu vai vairākus revidentus (turpmāk šajā pantā — iekšējais revidents). Ja sabiedrība finansiālās un saimnieciskās darbības kontrolei ir piesaistījusi iekšējo revidentu, tā nav atbrīvota no pienākuma likumā noteiktajā gadījumā piesaistīt zvērinātu revidentu sabiedrības gada pārskata pārbaudei (revīzijai).\n(2) Iekšējais revidents nevar būt sabiedrības valdes loceklis.\n(3) Iekšējais revidents:\n1) veic sabiedrības mantas un finanšu līdzekļu revīziju, pārbauda saimniecisko darbību;\n2) dod atzinumu par sabiedrības budžetu;\n3) izvērtē sabiedrības grāmatvedības un lietvedības darbu;\n4) sniedz ieteikumus par sabiedrības finansiālās un saimnieciskās darbības uzlabošanu.\n(4) Valdei ir pienākums sniegt iekšējam revidentam visas revīzijas veikšanai nepieciešamās ziņas un dokumentus.\n(5) Par gada laikā atklātām nepilnībām iekšējais revidents ziņo sabiedrības pārvaldes institūcijām, iesniedzot atzinumu par revīzijas rezultātiem."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "58",
+      "title": "Dibinātāju atbildība par sabiedrības saistībām, kuras radušās pirms sabiedrības ierakstīšanas Uzņēmumu reģistra žurnālā",
+      "content": "(1) Dibinātāji, kuri dibināmās sabiedrības vārdā rīkojušies pirms sabiedrības ierakstīšanas Uzņēmumu reģistra žurnālā, solidāri atbild par saistībām, kas izriet no šīs rīcības.\n(2) Vienošanās, kas ir pretēja šā panta pirmās daļas noteikumiem, nav spēkā attiecībā uz trešām personām.\n(3) Šā panta pirmajā daļā minētās saistības pāriet sabiedrībai, ja tās valde vai vismaz viena desmitdaļa no balsstiesīgajiem biedriem triju mēnešu laikā pēc sabiedrības ierakstīšanas Uzņēmumu reģistra žurnālā neceļ iebildumus pret šo saistību pāreju sabiedrībai. Ja šādi iebildumi ir celti, jautājumu par saistību pāreju izlemj biedru kopsapulce. Saistību pāreja neierobežo sabiedrības tiesības prasīt no dibinātājiem saistību izpildi.\n(4) Ja sabiedrības kreditoru prasījumu apmierināšanai sabiedrības mantas nepietiek, dibinātāji solidāri atbild kreditoriem par sabiedrības saistībām tā sabiedrības mantas samazinājuma apjomā, kāds radies no saistībām, kuras uzņēmusies dibināmā sabiedrība. Šādi prasījumi noilgst triju gadu laikā no dienas, kad sabiedrība ierakstīta Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "59",
+      "title": "Dibinātāju atbildība par nepatiesu ziņu sniegšanu",
+      "content": "Sabiedrības dibinātāji solidāri atbild sabiedrībai par tādu nepatiesu ziņu rezultātā nodarītajiem zaudējumiem, kuras sniegtas līdz sabiedrības ierakstīšanai Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "60",
+      "title": "Dibinātāju atbildība par sabiedrībai un trešām personām nodarītajiem zaudējumiem",
+      "content": "(1) Dibinātāji solidāri atbild sabiedrībai un trešām personām par zaudējumiem, kas nodarīti sabiedrības dibināšanas laikā pašu dibinātāju ļaunprātīgas vai nolaidīgas rīcības dēļ.\n(2) Rīcība, kura ir pretrunā ar likumu vai dibināšanas līgumu, jebkurā gadījumā uzskatāma par ļaunprātīgu.\n(3) Šajā pantā minētie prasījumi noilgst piecu gadu laikā no dienas, kad sabiedrība ierakstīta Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "61",
+      "title": "Valdes un padomes locekļu atbildība",
+      "content": "(1) Valdes un padomes loceklim savi pienākumi jāpilda kā krietnam un rūpīgam saimniekam.\n(2) Valdes un padomes locekļi solidāri atbild par zaudējumiem, ko tie nodarījuši sabiedrībai.\n(3) Valdes un padomes loceklis neatbild saskaņā ar šā panta otro daļu, ja pierāda, ka rīkojies kā krietns un rūpīgs saimnieks.\n(4) Valdes un padomes locekļi neatbild par nodarīto zaudējumu, ja rīkojušies labā ticībā saskaņā ar biedru kopsapulces likumīgu lēmumu. Tas, ka padome apstiprinājusi valdes rīcību, neizslēdz valdes locekļu atbildību sabiedrības priekšā.\n(5) Prasījumi pret valdes un padomes locekli noilgst piecu gadu laikā no zaudējumu nodarīšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "62",
+      "title": "Atbrīvošana no atbildības",
+      "content": "(1) Biedru kopsapulce var atbrīvot valdes vai padomes locekļus no atbildības vai pieņemt lēmumu par izlīguma slēgšanu tikai par viņu faktiski veiktu konkrētu biedru kopsapulcē atklātu rīcību, kuras rezultātā nodarīts zaudējums sabiedrībai.\n(2) Biedru kopsapulces lēmums par valdes vai padomes locekļu atbrīvošanu no atbildības vai par izlīguma slēgšanu neierobežo biedru mazākuma tiesības celt prasību saskaņā ar šā likuma 66. panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "63",
+      "title": "Atbildība par sabiedrības valdes, padomes locekļu, prokūristu un komercpilnvarnieku ietekmēšanu",
+      "content": "(1) Persona, kura ar ļaunu nolūku panāk to, ka sabiedrības valdes vai padomes loceklis, prokūrists vai komercpilnvarnieks rīkojas pretēji šīs sabiedrības vai tās biedru interesēm, atbild sabiedrībai par šādas rīcības rezultātā nodarītajiem zaudējumiem.\n(2) Ja šā panta pirmajā daļā minētajā gadījumā ir pamats sabiedrības valdes vai padomes locekļa saukšanai pie atbildības saskaņā ar šā likuma 61. pantu , viņš atbild solidāri ar personu, kura izmantojusi savu ietekmi. Ja ir pamats saukt pie atbildības prokūristu vai komercpilnvarnieku, viņš atbild solidāri ar personu, kura izmantojusi savu ietekmi.\n(3) Sabiedrības valdes loceklis, padomes loceklis, prokūrists vai komercpilnvarnieks neatbild saskaņā ar šā panta otro daļu, ja pierāda, ka rīkojies kā krietns un rūpīgs saimnieks.\n(4) Šā panta pirmajā un otrajā daļā minētie prasījumi noilgst piecu gadu laikā no prasījuma tiesību rašanās dienas."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "64",
+      "title": "Sabiedrības revidenta atbildība",
+      "content": "Revidents ir atbildīgs par zaudējumiem, kas radušies sabiedrībai, tās biedriem vai trešām personām, ja viņš apzināti vai nolaidības dēļ nav izpildījis uzticētos pienākumus."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "65",
+      "title": "Sabiedrības likvidatora atbildība",
+      "content": "Likvidatora atbildībai piemēro šā likuma 61. panta noteikumus."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "VI nodaļa Atbildība",
+      "section": "66",
+      "title": "Sabiedrības prasības celšana",
+      "content": "(1) Prasību pret dibinātājiem, valdes vai padomes locekļiem vai revidentu sabiedrība ceļ, pamatojoties uz biedru kopsapulces lēmumu.\n(2) Sabiedrībai ir pienākums celt prasību pret šā panta pirmajā daļā minētajām personām arī tad, ja to pieprasa biedru mazākums — vismaz viena desmitdaļa sabiedrības biedru.\n(3) Lietas kārtošanai biedru kopsapulce ievēlē savus pārstāvjus. Ja prasības celšanu pieprasa biedru mazākums saskaņā ar šā panta otro daļu, tā izraudzītās personas tiek pilnvarotas par pārstāvjiem lietas kārtošanā.\n(4) Par zaudējumiem, kas sabiedrībai radušies nepamatotas prasības dēļ, solidāri atbild tie par prasības celšanu balsojušie biedri vai biedru mazākums, kuru rīcībā konstatēts ļauns nolūks vai rupja neuzmanība."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "67",
+      "title": "Sabiedrības darbības izbeigšanas pamats",
+      "content": "Sabiedrības darbība tiek izbeigta:\n1) ar biedru kopsapulces lēmumu;\n2) ar valdes lēmumu;\n3) ar tiesas nolēmumu;\n4) ar Uzņēmumu reģistra lēmumu;\n5) ar Valsts ieņēmumu dienesta lēmumu;\n6) saskaņā ar maksātnespējas jomu regulējošiem normatīvajiem aktiem;\n7) citos likumā noteiktajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "68",
+      "title": "Pienākums lemt par sabiedrības darbības izbeigšanu",
+      "content": "(1) Biedru kopsapulce pieņem lēmumu par sabiedrības darbības izbeigšanu:\n1) ja sabiedrības biedru skaits vismaz trīs mēnešus pēc kārtas ir bijis mazāks par likumā vai statūtos noteikto;\n2) izbeidzoties statūtos noteiktajam termiņam, ja sabiedrība dibināta uz noteiktu termiņu;\n3) sasniedzot statūtos noteiktos mērķus, ja sabiedrība dibināta noteiktu mērķu sasniegšanai;\n4) ja iestājas cits statūtos noteikts gadījums.\n(2) Ja biedru kopsapulce triju mēnešu laikā no šā panta pirmajā daļā minēto apstākļu iestāšanās brīža nav pieņēmusi šā panta pirmajā daļā minēto lēmumu vai nav novērsusi minētos apstākļus, lēmumu par sabiedrības darbības izbeigšanu pieņem valde."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "69",
+      "title": "Sabiedrības darbības izbeigšana ar tiesas nolēmumu",
+      "content": "(1) Sabiedrības biedrs, valdes loceklis vai padomes loceklis var celt prasību tiesā par sabiedrības darbības izbeigšanu:\n1) ja sabiedrības dibināšanas dokumenti ir pretrunā ar likumu;\n2) ja sabiedrība neiesniedz Uzņēmumu reģistram likumā paredzētās ziņas vai dokumentus;\n3) citos likumā noteiktajos gadījumos.\n(2) Uzņēmumu reģistrs var celt prasību tiesā šā panta pirmās daļas 1. un 2. punktā minētajos gadījumos, ja sabiedrība triju mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādītos trūkumus.\n(3) Trešā persona, kuras likumiskās tiesības ir aizskartas, var celt prasību tiesā šā panta pirmās daļas 2. punktā minētajā gadījumā.\n(4) Līdz brīdim, kad pieņemts nolēmums par sabiedrības darbības izbeigšanu, tiesa var noteikt termiņu, kurā sabiedrībai jānovērš trūkumi, kas ir pamatā tās darbības izbeigšanai. Trūkumu novēršanai noteiktais termiņš nevar būt ilgāks par trim mēnešiem.\n(5) Ja tiesā ir celta prasība par sabiedrības darbības izbeigšanu, likvidatoru ieceļ tiesa, pamatojoties uz jebkuras sabiedrības likvidācijā ieinteresētās personas ieteikumu. Likvidācijā ieinteresētā persona norāda šā likuma 76. panta pirmās daļas 2. punktā minētās ziņas par likvidatoru, kā arī kreditoru prasījumu pieteikšanas vietu un pievieno šā likuma 76. panta otrajā daļā minēto dokumentu."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "70",
+      "title": "Sabiedrības darbības izbeigšana ar Uzņēmumu reģistra vai Valsts ieņēmumu dienesta lēmumu",
+      "content": "(1) Sabiedrības darbību var izbeigt ar Uzņēmumu reģistra lēmumu, ja:\n1) sabiedrības valdei ilgāk par trim mēnešiem nav pārstāvības tiesību un sabiedrība triju mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādīto trūkumu;\n2) sabiedrība nav sasniedzama tās juridiskajā adresē un viena mēneša laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādīto trūkumu.\n(2) Sabiedrības darbību var izbeigt ar Valsts ieņēmumu dienesta lēmumu, ja:\n1) sabiedrība viena mēneša laikā pēc administratīvā soda uzlikšanas nav iesniegusi gada pārskatu un kopš pārkāpuma izdarīšanas ir pagājuši vismaz seši mēneši;\n2) sabiedrība viena mēneša laikā pēc administratīvā soda uzlikšanas nav iesniegusi nodokļu likumos paredzētās deklarācijas par sešu mēnešu periodu;\n3) sabiedrības darbība ir apturēta, pamatojoties uz Valsts ieņēmumu dienesta lēmumu, un triju mēnešu laikā pēc darbības apturēšanas sabiedrība nav novērsusi norādīto trūkumu.\n(3) Uzņēmumu reģistra vai Valsts ieņēmumu dienesta lēmums par sabiedrības darbības izbeigšanu stājas spēkā brīdī, kad tas paziņots adresātam. Uzņēmumu reģistrs izdara ierakstu Uzņēmumu reģistra žurnālā par sabiedrības darbības izbeigšanu pēc tam, kad Uzņēmumu reģistra vai Valsts ieņēmumu dienesta lēmums par sabiedrības darbības izbeigšanu ir kļuvis neapstrīdams.\n(4) Ja sabiedrības darbība izbeigta, pamatojoties uz Uzņēmumu reģistra vai Valsts ieņēmumu dienesta lēmumu, sabiedrības likvidācijā ieinteresētā persona ir tiesīga pieteikt likvidatoru Uzņēmumu reģistram šā likuma 74. pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "71",
+      "title": "Likvidācija",
+      "content": "(1) Ja sabiedrības darbība ir izbeigta, notiek tās likvidācija.\n(2) Sabiedrības likvidācija nenotiek un Uzņēmumu reģistrs pieņem lēmumu par sabiedrības izslēgšanu no Uzņēmumu reģistra žurnāla, ja neviena sabiedrības likvidācijā ieinteresētā persona neiesniedz tiesai (šā likuma 69. panta piektā daļa) vai Uzņēmumu reģistram (šā likuma 74. pants ) pieteikumu par likvidatora iecelšanu un sabiedrībai nav pasludināts maksātnespējas process.\n(3) Manta, kas palikusi pēc sabiedrības izslēgšanas no Uzņēmumu reģistra žurnāla šā panta otrajā daļā noteiktajā kārtībā, pielīdzināma bezmantinieku mantai atbilstoši Civillikuma 416. panta noteikumiem.\n(4) Likvidācijas laikā sabiedrības nosaukumam pievieno vārdu \"likvidējamā\"."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "72",
+      "title": "Likvidatora tiesības un pienākumi",
+      "content": "(1) Likvidatoram ir visas valdes un padomes tiesības un pienākumi, kas nav pretrunā ar likvidācijas mērķi.\n(2) Par likvidatoru var būt tikai fiziskā persona.\n(3) Likvidatoram ir pienākums paziņot biedriem par iespējamiem šķēršļiem šā amata ieņemšanai saskaņā ar šā likuma 6. un 7. pantu vai apliecināt, ka viņam šādu šķēršļu nav.\n(4) Likvidators piedzen parādus, apmierina kreditoru prasījumus un sadala atlikušo sabiedrības mantu starp personām, kurām ir tiesības uz šo mantu.\n(5) Likvidators drīkst slēgt tikai tos darījumus, kuri nepieciešami sabiedrības likvidācijai.\n(6) Ja sabiedrības likvidāciju veic vairāki likvidatori, viņiem ir tiesības pārstāvēt sabiedrību tikai kopīgi. Likvidatori var pilnvarot vienu vai vairākas personas no sava vidus atsevišķu darbību vai atsevišķu darbības veidu veikšanai.\n(7) Likvidatora pārstāvības ierobežojumi nav saistoši trešām personām."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "73",
+      "title": "Likvidatora iecelšana",
+      "content": "Likvidāciju veic valdes locekļi, ja likumā, statūtos vai biedru kopsapulces lēmumā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "74",
+      "title": "Likvidatora iecelšana, pamatojoties uz sabiedrības likvidācijā ieinteresētās personas pieteikumu",
+      "content": "(1) Šā likuma 70. pantā minētajā gadījumā Uzņēmumu reģistrs pēc tam, kad Uzņēmumu reģistra žurnālā izdarīts ieraksts par sabiedrības darbības izbeigšanu, oficiālajā izdevumā \"Latvijas Vēstnesis\" izsludina paziņojumu par sabiedrības darbības izbeigšanu. Paziņojumā uzaicina sabiedrības likvidācijā ieinteresētās personas mēneša laikā pēc tā publicēšanas dienas iesniegt Uzņēmumu reģistram pieteikumu par likvidatora iecelšanu.\n(2) Šā panta pirmajā daļā minētajā pieteikumā sabiedrības likvidācijā ieinteresētā persona norāda šā likuma 76. panta pirmās daļas 2. punktā minētās ziņas par likvidatoru, kā arī kreditoru prasījumu pieteikšanas vietu. Pieteikumam pievieno šā likuma 76. panta otrajā daļā minēto dokumentu.\n(3) Uzņēmumu reģistrs izdara ierakstu par likvidatora iecelšanu, pamatojoties uz pirmo sabiedrības likvidācijā ieinteresētās personas iesniegto pieteikumu par likvidatora iecelšanu.\n(4) Šajā pantā minēto kārtību piemēro arī tad, ja sabiedrības darbība ir izbeigta, pamatojoties uz tiesas nolēmumu, un neviena ieinteresētā persona nav ieteikusi tiesai likvidatora kandidātu."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "75",
+      "title": "Likvidatora atlīdzības noteikšana",
+      "content": "(1) Likvidatoram ir tiesības uz atlīdzību, kas atbilst viņa pienākumiem un sabiedrības finansiālajam stāvoklim.\n(2) Ja likvidatoru ieceļ biedru kopsapulce, tā nosaka likvidatora atlīdzības apmēru un izmaksas kārtību.\n(3) Ja likvidatoru ieceļ tiesa saskaņā ar šā likuma 69. panta piekto daļu, likvidatora atlīdzības apmēru un izmaksas kārtību nosaka tiesa.\n(4) Ja likvidatoru ieceļ saskaņā ar šā likuma 74. pantu , likvidatora atlīdzības apmēru un izmaksas kārtību nosaka sabiedrības likvidācijā ieinteresētā persona, kura iesniegusi pieteikumu par likvidatora iecelšanu."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "76",
+      "title": "Pieteikums par sabiedrības darbības izbeigšanu un tās likvidāciju",
+      "content": "(1) Lēmumu par sabiedrības darbības izbeigšanu sabiedrība triju dienu laikā no tā pieņemšanas dienas iesniedz Uzņēmumu reģistram ierakstīšanai Uzņēmumu reģistra žurnālā. Pieteikumā norāda:\n1) darbības izbeigšanas pamatu;\n2) likvidatora vārdu, uzvārdu, personas kodu (ja personai nav personas koda, — dzimšanas datumu, personu apliecinoša dokumenta numuru un izdošanas datumu, valsti, kas dokumentu izdevusi) un adresi, kurā tas sasniedzams.\n(2) Pieteikumam pievieno katra likvidatora rakstveida piekrišanu būt par likvidatoru. Rakstveida piekrišanā likvidators norāda tās sabiedrības nosaukumu un reģistrācijas numuru, par kuras likvidatoru piekrīt kļūt.\n(3) Ja likvidāciju veic valdes locekļi, šo faktu norāda pieteikumā un tam nav jāpievieno šā panta otrajā daļā minētie dokumenti.\n(4) Ja lēmumu par sabiedrības darbības izbeigšanu pieņem valde vai biedru kopsapulce, pieteikumam pievieno protokola izrakstu ar lēmumu par sabiedrības darbības izbeigšanu.\n(5) Ja tiesa pieņem nolēmumu par sabiedrības darbības izbeigšanu, tā triju dienu laikā no nolēmuma spēkā stāšanās dienas nosūta attiecīgo nolēmumu ieraksta izdarīšanai Uzņēmumu reģistra žurnālā.\n(6) Ja sabiedrība darbību izbeidz, pamatojoties uz Valsts ieņēmumu dienesta lēmumu, Valsts ieņēmumu dienests pēc tam, kad lēmums kļuvis neapstrīdams, nosūta attiecīgo lēmumu ieraksta izdarīšanai Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "77",
+      "title": "Likvidatora atcelšana",
+      "content": "(1) Likvidatoru var atcelt ar biedru kopsapulces lēmumu. Likvidatoru var atcelt ar tiesas nolēmumu, pamatojoties uz biedra vai trešās personas, kuras likumiskās tiesības ir aizskartas, pieteikumu, ja tam ir svarīgi iemesli.\n(2) Tiesas iecelto likvidatoru var atcelt tikai ar tiesas nolēmumu, pamatojoties uz sabiedrības likvidācijā ieinteresētās personas pieteikumu, ja tam ir svarīgi iemesli.\n(3) Likvidatoru, kurš iecelts, pamatojoties uz sabiedrības likvidācijā ieinteresētās personas pieteikumu Uzņēmumu reģistram, var atcelt tikai tiesa vai ieinteresētā persona, kura likvidatoru iecēlusi.\n(4) Ar lēmumu par likvidatora atcelšanu persona (institūcija), kas atceļ likvidatoru, ieceļ jaunu likvidatoru.\n(5) Lēmumu par likvidatora atcelšanu iesniedz Uzņēmumu reģistram triju dienu laikā no lēmuma pieņemšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "78",
+      "title": "Likvidācijas izmaksu segšana",
+      "content": "(1) Likvidācijas izmaksas sedz no sabiedrības mantas.\n(2) Šā likuma 74. pantā minētajā gadījumā likvidācijas izmaksas sedz sabiedrības likvidācijā ieinteresētā persona, kura ir iesniegusi šā likuma 74. panta trešajā daļā minēto pieteikumu. Sabiedrības likvidācijā ieinteresētās personas segtās likvidācijas izmaksas atmaksā no sabiedrības mantas."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "79",
+      "title": "Kreditoru informēšana",
+      "content": "(1) Uzņēmumu reģistrs uz likvidējamās sabiedrības rēķina izsludina paziņojumu par sabiedrības darbības izbeigšanu un tās likvidāciju oficiālajā izdevumā \"Latvijas Vēstnesis\" triju dienu laikā no dienas, kad izdarīts ieraksts Uzņēmumu reģistra žurnālā.\n(2) Likvidators paziņo par likvidācijas uzsākšanu visiem zināmajiem sabiedrības kreditoriem.\n(3) Šā panta pirmajā un otrajā daļā minētajā paziņojumā par sabiedrības darbības izbeigšanu sabiedrības kreditori uzaicināmi pieteikt savus prasījumus triju mēnešu laikā pēc paziņojuma publicēšanas dienas, ja biedru kopsapulces lēmumā vai tiesas nolēmumā par sabiedrības darbības izbeigšanu nav noteikts garāks kreditoru prasījumu pieteikšanas termiņš. Prasījumā norāda prasījuma saturu, pamatu un apmēru, un tam pievienojami prasījumu pamatojošie dokumenti."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "80",
+      "title": "Kreditoru aizsardzība",
+      "content": "(1) Ja zināms kreditors nepiesaka savu prasījumu, nepieņem izpildījumu vai saistība vēl nav izpildāma, viņam pienākošās summas deponē pie zvērināta notāra pēc sabiedrības juridiskās adreses.\n(2) Pastāvot strīdīgam kreditora prasījumam, sabiedrības mantu var sadalīt starp biedriem tikai tad, ja attiecīgajam kreditoram ir dots nodrošinājums."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "81",
+      "title": "Slēguma finanšu pārskats un mantas sadales plāns",
+      "content": "(1) Pēc kreditoru prasījumu apmierināšanas vai viņiem paredzētās naudas deponēšanas un likvidācijas izdevumu segšanas likvidators sastāda likvidācijas slēguma finanšu pārskatu un sabiedrības atlikušās mantas sadales plānu, kurā nosaka likvidācijas kvotu.\n(2) Likvidācijas slēguma finanšu pārskatu un sabiedrības atlikušās mantas sadales plānu pārbauda revidents, ja saskaņā ar statūtiem ir paredzēts, ka revidents pārbauda sabiedrības gada pārskatu, vai ja tā nolemj biedru kopsapulce.\n(3) Likvidators nosūta visiem biedriem likvidācijas slēguma finanšu pārskatu un sabiedrības atlikušās mantas sadales plānu.\n(4) Ja likvidācijas slēguma finanšu pārskata un sabiedrības atlikušās mantas sadales plāna sastādīšanā ir pārkāpts likums, statūti vai biedru kopsapulces lēmumi, tiesa, pamatojoties uz ieinteresētās personas prasību, var lemt par jauna likvidācijas slēguma finanšu pārskata un sabiedrības atlikušās mantas sadales plāna sastādīšanu vai par papildu likvidācijas darbību veikšanu. Prasības celšanas termiņš ir divi mēneši no dienas, kad likvidācijas slēguma finanšu pārskats un sabiedrības atlikušās mantas sadales plāns paziņots biedriem."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "82",
+      "title": "Sabiedrības atlikušās mantas sadale",
+      "content": "(1) Sabiedrības atlikušo mantu sadala starp biedriem saskaņā ar likvidatora sastādīto mantas sadales plānu proporcionāli katra biedra ieguldījuma daļai, ja dibināšanas dokumentos nav noteikts citādi.\n(2) Mantu drīkst sadalīt ne agrāk kā divus mēnešus no dienas, kad likvidācijas slēguma finanšu pārskats un sabiedrības atlikušās mantas sadales plāns ir paziņots biedriem.\n(3) Mantu drīkst sadalīt pirms šā panta otrajā daļā noteiktā termiņa, ja tam piekrīt visi biedri."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "83",
+      "title": "Sabiedrības darbības turpināšana",
+      "content": "(1) Ja sabiedrība tiek likvidēta, pamatojoties uz valdes vai biedru kopsapulces lēmumu, biedru kopsapulce līdz mantas sadales sākumam var pieņemt lēmumu par sabiedrības darbības turpināšanu vai sabiedrības reorganizāciju. Lēmums uzskatāms par pieņemtu, ja par to nobalso klātesošie biedri ar tādu balsu skaitu, kāds paredzēts lēmuma pieņemšanai par sabiedrības darbības izbeigšanu.\n(2) Pieņemot lēmumu par sabiedrības darbības turpināšanu, vienlaikus izveido sabiedrības valdi un citas statūtos paredzētās institūcijas.\n(3) Sabiedrība iesniedz Uzņēmumu reģistram pieteikumu par sabiedrības darbības turpināšanu. Lēmums par sabiedrības darbības turpināšanu stājas spēkā pēc tā ierakstīšanas Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "84",
+      "title": "Sabiedrības dokumentu glabāšana",
+      "content": "Likvidators, ievērojot Arhīvu likuma noteikumus, nodrošina sabiedrības dokumentu saglabāšanu un pieejamību. Sabiedrības dokumentus likvidators nodod glabāšanā vienam no sabiedrības biedriem vai trešai personai Latvijā, saskaņojot ar Latvijas Nacionālo arhīvu to glabāšanas vietu. Sabiedrības arhīviski vērtīgos dokumentus, ievērojot Arhīvu likuma noteikumus, nodod glabāšanā Latvijas Nacionālajam arhīvam. Izdevumi, kas saistīti ar dokumentu nodošanu glabāšanā Latvijas Nacionālajam arhīvam, tiek segti no likvidējamās sabiedrības mantas."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "VII nodaļa Sabiedrības darbības izbeigšana un likvidācija",
+      "section": "85",
+      "title": "Sabiedrības izslēgšana no Uzņēmumu reģistra žurnāla",
+      "content": "(1) Pēc sabiedrības atlikušās mantas sadales likvidators iesniedz Uzņēmumu reģistram pieteikumu par likvidācijas pabeigšanu. Pieteikumam pievieno:\n1) likvidācijas slēguma finanšu pārskatu;\n2) sabiedrības atlikušās mantas sadales plānu;\n3) revidenta atzinumu, ja tika veikta revidenta pārbaude.\n(2) Pieteikumā likvidators apliecina, ka:\n1) likvidācijas slēguma finanšu pārskats un sabiedrības atlikušās mantas sadales plāns nav apstrīdēts tiesā vai prasība tikusi noraidīta;\n2) visi kreditoru prasījumi ir apmierināti vai tiem paredzētā nauda ir deponēta un ir segti visi likvidācijas izdevumi;\n3) sabiedrības dokumenti ir nodoti glabāšanā atbilstoši šā likuma 84. pantam ;\n4) šā likuma 82. panta trešajā daļā minētajā gadījumā visi biedri ir piekrituši sabiedrības atlikušās mantas sadalei pirms šā likuma 82. panta otrajā daļā noteiktā termiņa."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "86",
+      "title": "Reorganizācijas veidi",
+      "content": "Sabiedrību var reorganizēt apvienošanas, sadalīšanas vai pārveidošanas ceļā."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "87",
+      "title": "Sabiedrību apvienošana",
+      "content": "(1) Sabiedrību apvienošana var notikt kā pievienošana vai saplūšana.\n(2) Pievienošana ir process, kurā pievienojamā sabiedrība nodod visu savu mantu iegūstošajai sabiedrībai.\n(3) Saplūšana ir process, kurā divas vai vairākas pievienojamās sabiedrības nodod visu savu mantu jaundibināmai iegūstošajai sabiedrībai.\n(4) Apvienošanas gadījumā pievienojamās sabiedrības tiesības un saistības pāriet iegūstošajai sabiedrībai.\n(5) Apvienošanas gadījumā pievienojamā sabiedrība beidz pastāvēt bez likvidācijas procesa.\n(6) Apvienošanas gadījumā pievienojamās sabiedrības biedri kļūst par iegūstošās sabiedrības biedriem."
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "88",
+      "title": "Sabiedrību sadalīšana",
+      "content": "(1) Sadalīšana ir process, kurā sadalāmā sabiedrība nodod savu mantu vienai vai vairākām iegūstošajām sabiedrībām sašķelšanas vai nodalīšanas ceļā.\n(2) Sašķelšanas gadījumā sadalāmā sabiedrība nodod visu savu mantu divām vai vairākām iegūstošajām sabiedrībām un beidz pastāvēt bez likvidācijas procesa.\n(3) Sašķelšanas gadījumā sadalāmās sabiedrības biedri kļūst par iegūstošo sabiedrību biedriem, ja visi biedri nevienojas par citu sadalījumu.\n(4) Nodalīšanas gadījumā sadalāmā sabiedrība nodod daļu savas mantas vienai vai vairākām iegūstošajām sabiedrībām. Nodalīšanas gadījumā sadalāmā sabiedrība turpina pastāvēt.\n(5) Nodalīšanas gadījumā visi sadalāmās sabiedrības biedri kļūst par iegūstošās sabiedrības biedriem, ja visi biedri nevienojas par citu sadalījumu."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "89",
+      "title": "Sabiedrības pārveidošana",
+      "content": "(1) Pārveidošana ir process, kurā sabiedrību pārveido par kapitālsabiedrību. Ja iegūstošā kapitālsabiedrība ir sabiedrība ar ierobežotu atbildību, tās pamatkapitāls nedrīkst būt mazāks par Komerclikuma 185. pantā noteikto.\n(2) Pārveidošanas gadījumā visa pārveidojamās sabiedrības manta pāriet iegūstošajai kapitālsabiedrībai.\n(3) Pārveidošanas gadījumā pārveidojamās sabiedrības biedri kļūst par iegūstošās kapitālsabiedrības dalībniekiem (akcionāriem).\n(4) Pārveidošanas gadījumā pārveidojamā sabiedrība beidz pastāvēt bez likvidācijas procesa."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "90",
+      "title": "Reorganizācijas līgums",
+      "content": "(1) Ja reorganizācijas procesā piedalās divas vai vairākas pastāvošas sabiedrības, tās rakstveidā slēdz reorganizācijas līgumu (turpmāk — līgums), kurā norāda:\n1) reorganizācijā iesaistīto sabiedrību nosaukumus, juridiskās adreses un reģistrācijas numurus;\n2) paju apmaiņas koeficientu un piemaksu (ja tādas paredzētas) lielumu;\n3) paju sadalījumu starp iegūstošās sabiedrības biedriem;\n4) dienu, ar kuru pievienojamās, sadalāmās vai pārveidojamās sabiedrības darījumi iegūstošās sabiedrības grāmatvedībā tiks uzskatīti par iegūstošās sabiedrības darījumiem;\n5) reorganizācijas sekas reorganizācijā iesaistīto sabiedrību darbiniekiem;\n6) reorganizācijas procesā veicamās darbības un to veikšanas termiņus.\n(2) Ja līgums paredz atliekošus nosacījumus un tie neiestājas triju gadu laikā no līguma noslēgšanas dienas, katra reorganizācijas procesā iesaistītā sabiedrība drīkst vienpusēji atkāpties no līguma, paziņojot par to pārējām līgumslēdzējām pusēm ne vēlāk kā sešus mēnešus iepriekš, ja līgums neparedz īsāku paziņošanas termiņu.\n(3) Katra reorganizācijas procesā iesaistītā sabiedrība iesniedz Uzņēmumu reģistram paziņojumu par reorganizāciju, pievienojot līguma projektu. Oficiālajā izdevumā \"Latvijas Vēstnesis\" izsludina līguma projekta un tā grozījumu reģistrācijas datumu un tās Uzņēmumu reģistra lietas numuru, kurā līguma projekts atrodas."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "91",
+      "title": "Reorganizācijas prospekts",
+      "content": "(1) Katra reorganizācijas procesā iesaistītā sabiedrība rakstveidā sagatavo reorganizācijas prospektu (turpmāk — prospekts), kurā norāda un izskaidro:\n1) līguma projekta noteikumus;\n2) reorganizācijas tiesiskos un saimnieciskos aspektus;\n3) paju apmaiņas koeficientu un piemaksu (ja tādas paredzētas) lielumu.\n(2) Sabiedrības var sagatavot kopīgu prospektu. Šādā gadījumā katra reorganizācijas procesā iesaistītā sabiedrība prospektā norāda šā panta pirmajā daļā minētās ziņas.\n(3) Sabiedrībai prospekts nav jāsagatavo, ja tam piekrīt visi biedri."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "92",
+      "title": "Revidenta pārbaude",
+      "content": "(1) Līguma projektu pārbauda zvērināts revidents. Reorganizācijas procesā iesaistītās sabiedrības var ievēlēt kopīgu revidentu.\n(2) Līgumu revidents nepārbauda, ja tam piekrīt visi biedri.\n(3) Sabiedrības, kuras piedalās reorganizācijas procesā, nodrošina revidentam pieeju visiem dokumentiem un informācijai, kam ir nozīme revidenta pienākumu veikšanā."
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "93",
+      "title": "Revidenta atzinums",
+      "content": "(1) Par līguma projekta pārbaudes rezultātiem revidents sastāda rakstveida atzinumu un iesniedz to sabiedrībai. Ja ir ievēlēts viens revidents visām sabiedrībām, viņš iesniedz atzinumu visām sabiedrībām.\n(2) Atzinumā norāda:\n1) vai revidentam ir iesniegti visi nepieciešamie dokumenti;\n2) vai līguma projektā norādītais paju apmaiņas koeficients un piemaksu lielums ir taisnīgs un pamatots;\n3) vai reorganizācija var radīt zaudējumus sabiedrības kreditoriem;\n4) vai metodes, kuras izmantotas paju apmaiņas koeficienta un piemaksu lieluma noteikšanai, ir atbilstošas;\n5) īpašās grūtības, kuras radušās, vērtēšanā piemērojot izraudzītās metodes."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "94",
+      "title": "Saimnieciskās darbības pārskats",
+      "content": "(1) Ne agrāk kā trīs mēnešus līdz šā likuma 90. panta trešajā daļā minētā paziņojuma iesniegšanai Uzņēmumu reģistram katra reorganizācijas procesā iesaistītā sabiedrība sagatavo saimnieciskās darbības pārskatu.\n(2) Sabiedrības saimnieciskās darbības pārskatu sagatavo saskaņā ar likuma prasībām par gada pārskata sastādīšanu.\n(3) Sabiedrībai saimnieciskās darbības pārskats nav jāsagatavo, ja iepriekšējais gada pārskats sastādīts ne agrāk kā sešus mēnešus pirms šā likuma 90. panta trešajā daļā minētā paziņojuma iesniegšanas Uzņēmumu reģistram vai ja tam piekrīt visi biedri."
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "95",
+      "title": "Lēmums par reorganizāciju",
+      "content": "(1) Līguma projektu izskata un lēmumu par reorganizāciju pieņem katras reorganizācijas procesā iesaistītās sabiedrības biedru kopsapulce, kuru notur ne agrāk kā mēnesi pēc tam, kad saskaņā ar šā likuma 90. panta trešo daļu izsludinātas ziņas par līguma projektu.\n(2) Ja sakarā ar reorganizāciju izdarāmi statūtu grozījumi, tos apstiprina vienlaikus ar lēmumu par reorganizāciju.\n(3) Ne vēlāk kā mēnesi līdz dienai, kad paredzēta biedru kopsapulce par līguma apstiprināšanu, visiem biedriem ir tiesības iepazīties ar:\n1) līguma projektu;\n2) prospektu;\n3) revidenta atzinumu;\n4) visu reorganizācijā iesaistīto sabiedrību gada pārskatiem par pēdējiem trim pārskata gadiem;\n5) sabiedrības saimnieciskās darbības pārskatu (ja tāds saskaņā ar likumu sagatavojams).\n(4) Biedru kopsapulcē sabiedrības valde pēc biedra pieprasījuma sniedz paskaidrojumus par līguma projektu un prospektu, par reorganizācijas tiesiskajām un saimnieciskajām sekām, kā arī ziņas par citām reorganizācijas procesā iesaistītajām sabiedrībām.\n(5) Lēmums par reorganizāciju sastādāms atsevišķa dokumenta veidā.\n(6) Pamatojoties uz lēmumu par reorganizāciju, attiecīgā sabiedrība noslēdz līgumu.\n(7) Lēmumam par reorganizāciju pievienojams to biedru saraksts (ar viņu parakstiem), kuri biedru kopsapulcē balsojuši pret šo lēmumu vai šā panta astotajā daļā minētajā kārtībā informējuši, ka nepiekrīt reorganizācijai.\n(8) Ja biedru kopsapulci aizstāj pārstāvju sapulce, biedrs ir tiesīgs viena mēneša laikā no lēmuma par reorganizāciju pieņemšanas dienas informēt sabiedrību, ka nepiekrīt reorganizācijai. Pārstāvju sapulces lēmums par reorganizāciju stājas spēkā, ja mēneša laikā vismaz viena ceturtdaļa no balsstiesīgajiem biedriem neinformē, ka nepiekrīt reorganizācijai."
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "96",
+      "title": "Paziņošanas pienākums par būtiskajām izmaiņām sabiedrības mantiskajā stāvoklī",
+      "content": "Pievienojamās vai sadalāmās sabiedrības valde paziņo biedru kopsapulcei un iegūstošajai sabiedrībai par visām būtiskajām izmaiņām, kuras pievienojamās vai sadalāmās sabiedrības mantiskajā stāvoklī notikušas līdz valdes pilnvaru beigām vai līdz reorganizācijas spēkā stāšanās brīdim."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "97",
+      "title": "Kreditoru aizsardzība",
+      "content": "(1) Katrai reorganizācijas procesā iesaistītajai sabiedrībai ir pienākums 15 dienu laikā no lēmuma par reorganizāciju spēkā stāšanās dienas publicēt oficiālajā izdevumā \"Latvijas Vēstnesis\" paziņojumu, ka pieņemts lēmums par reorganizāciju. Paziņojumā kreditoriem norāda:\n1) sabiedrības nosaukumu, reģistrācijas numuru un juridisko adresi;\n2) pārējo reorganizācijā iesaistīto sabiedrību nosaukumus, reģistrācijas numurus un juridiskās adreses;\n3) reorganizācijas veidu;\n4) kreditoru prasību pieteikšanas vietu un termiņu, kurš nedrīkst būt īsāks par vienu mēnesi no paziņojuma publicēšanas dienas.\n(2) Pievienojamā vai sadalāmā sabiedrība nodrošina kreditora prasījumu, ja viņš to prasa un ja tas pieteikts šā panta pirmajā daļā minētajā paziņojumā noteiktajā termiņā.\n(3) Iegūstošās sabiedrības kreditors var prasīt sava prasījuma nodrošināšanu tikai tad, ja pierāda, ka reorganizācija apdraud viņa prasījuma apmierināšanu.\n(4) Nodrošinātais kreditors var prasīt nodrošinājumu tikai parāda nenodrošinātās daļas apmērā.\n(5) Šā panta noteikumus nepiemēro, ja sabiedrību pārveido par kapitālsabiedrību."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "98",
+      "title": "Lēmuma par reorganizāciju apstrīdēšana",
+      "content": "(1) Pamatojoties uz reorganizācijā iesaistītās sabiedrības biedra, valdes vai padomes locekļa prasību, tiesa var atzīt lēmumu par reorganizāciju par spēkā neesošu, ja tas pieņemts, pārkāpjot likumu vai sabiedrības statūtus, un šos pārkāpumus nav iespējams novērst vai tie netiek novērsti tiesas noteiktajā termiņā.\n(2) Prasības celšanas termiņš ir trīs mēneši pēc šā likuma 97. panta pirmajā daļā minētā paziņojuma publicēšanas dienas.\n(3) Sabiedrībai, kuras biedru kopsapulces lēmums par reorganizāciju atzīts par spēkā neesošu, ir pienākums par to publicēt paziņojumu oficiālajā izdevumā \"Latvijas Vēstnesis\" 15 dienu laikā no tiesas nolēmuma spēkā stāšanās dienas.\n(4) Lēmuma par reorganizāciju atzīšana par spēkā neesošu neietekmē saistības, kuras sabiedrība ir uzņēmusies reorganizācijas procesā pret trešām personām.\n(5) Lēmumu par reorganizāciju nevar atzīt par spēkā neesošu tikai tādēļ, ka noteikts pārāk zems paju apmaiņas koeficients vai piemaksu lielums.\n(6) Ja noteikts pārāk zems paju apmaiņas koeficients, pievienojamās, sadalāmās vai pārveidojamās sabiedrības biedrs var prasīt no iegūstošās sabiedrības vienreizēju papildu samaksu."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "99",
+      "title": "Pieteikums Uzņēmumu reģistram",
+      "content": "(1) Katra reorganizācijas procesā iesaistītā sabiedrība ne agrāk kā trīs mēnešus pēc šā likuma 97. panta pirmajā daļā minētā paziņojuma publicēšanas dienas iesniedz Uzņēmumu reģistram pieteikumu, lai Uzņēmumu reģistra žurnālā izdarītu ierakstu par reorganizāciju. Pieteikumam pievieno:\n1) līgumu vai attiecīgi apliecinātu tā kopiju;\n2) protokola izrakstu un lēmumu par reorganizāciju;\n3) šā likuma 95. panta septītajā daļā minēto biedru sarakstu;\n4) prospektu (ja likumā noteikta prospekta sagatavošana);\n5) revidenta atzinumu (ja likumā noteikta revidenta pārbaude);\n6) pievienojamās vai sašķelšanas ceļā sadalāmās sabiedrības slēguma finanšu pārskatu (ja iesniegumu iesniedz pievienojamā vai sadalāmā sabiedrība);\n7) iegūstošās sabiedrības statūtus (ja reorganizācijas rezultātā izveido jaunu sabiedrību);\n8) to iegūstošās sabiedrības valdes locekļu sarakstu, kuriem ir tiesības pārstāvēt sabiedrību (ja reorganizācijas rezultātā izveido jaunu sabiedrību);\n9) iegūstošās sabiedrības padomes locekļu sarakstu (ja reorganizācijas rezultātā izveido jaunu sabiedrību un ja iegūstošajai sabiedrībai paredzēta padome).\n(2) Pieteikumā sabiedrība apliecina, ka:\n1) ir nodrošināti vai apmierināti to kreditoru prasījumi, kuri pieteikuši savus prasījumus noteiktajā termiņā;\n2) lēmums par reorganizāciju nav apstrīdēts tiesā vai attiecīgā prasība nav apmierināta;\n3) šā likuma 91. panta trešajā daļā minētajā gadījumā visi biedri ir piekrituši, ka reorganizācijas prospekts netiek sagatavots;\n4) šā likuma 92. panta otrajā daļā minētajā gadījumā visi biedri ir piekrituši, ka revidents nepārbauda līgumu;\n5) šā likuma 94. panta trešajā daļā minētajā gadījumā visi biedri ir piekrituši, ka saimnieciskās darbības pārskats nav jāsagatavo."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "100",
+      "title": "Iegūstošās sabiedrības nosaukums",
+      "content": "(1) Iegūstošā sabiedrība pēc reorganizācijas drīkst izmantot pievienojamās sabiedrības nosaukumu.\n(2) Sadalāmās sabiedrības nosaukuma turpmākās izmantošanas noteikumus paredz līgumā."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "101",
+      "title": "Ieraksts par reorganizāciju Uzņēmumu reģistra žurnālā",
+      "content": "(1) Ierakstu par pievienojamo vai sadalāmo sabiedrību Uzņēmumu reģistra žurnālā izdara pēc tam, kad izdarīti ieraksti par visām iegūstošajām sabiedrībām.\n(2) Pēc tam kad izdarīts ieraksts Uzņēmumu reģistra žurnālā par reorganizāciju, pievienoto sabiedrību izslēdz no Uzņēmumu reģistra žurnāla.\n(3) Pēc tam kad izdarīts ieraksts par sadalāmās sabiedrības reorganizāciju, iegūstošo sabiedrību lietām pievieno attiecīgus izrakstus no sadalāmās sabiedrības lietas un, ja sadalīšana notiek sašķelšanas ceļā, sadalāmā sabiedrība tiek izslēgta no Uzņēmumu reģistra žurnāla.\n(4) Pārveidošanas gadījumā iegūstošo kapitālsabiedrību var ierakstīt komercreģistrā pēc tam, kad izdarīts ieraksts par pārveidojamās sabiedrības reorganizāciju."
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "102",
+      "title": "Uzņēmumu reģistra žurnāla ieraksta par reorganizāciju tiesiskā nozīme",
+      "content": "(1) Reorganizācija uzskatāma par spēkā stājušos ar brīdi, kad Uzņēmumu reģistra žurnālā (pārveidošanas gadījumā — arī komercreģistrā) izdarīti ieraksti par visām reorganizācijas procesā iesaistītajām sabiedrībām.\n(2) Ar reorganizācijas spēkā stāšanās brīdi:\n1) pievienojamās sabiedrības manta uzskatāma par pārgājušu iegūstošās sabiedrības īpašumā;\n2) sadalāmās sabiedrības manta uzskatāma par pārgājušu iegūstošās sabiedrības īpašumā.\n(3) Līdz ar sabiedrības izslēgšanu no Uzņēmumu reģistra žurnāla šī sabiedrība uzskatāma par likvidētu.\n(4) No reorganizācijas spēkā stāšanās brīža pievienojamās vai sadalāmās sabiedrības biedri kļūst par iegūstošās sabiedrības biedriem, un to pajas apmaina pret iegūstošās sabiedrības pajām proporcionāli tiem piederošajām pajām. No reorganizācijas spēkā stāšanās brīža pārveidojamās sabiedrības biedri kļūst par iegūstošās kapitālsabiedrības dalībniekiem (akcionāriem), un to pajas apmaina pret iegūstošās kapitālsabiedrības pamatkapitāla daļām (akcijām) proporcionāli tiem piederošajām pajām.\n(5) Trešo personu tiesības uz pievienojamās, sadalāmās vai pārveidojamās sabiedrības pajām saglabājas attiecībā uz iegūstošās sabiedrības pajām (pamatkapitāla daļām vai akcijām).\n(6) Pievienojamās vai sadalāmās sabiedrības pajas, kas piederējušas iegūstošajai sabiedrībai vai personai, kura darbojas savā vārdā, bet attiecīgi pievienojamās, sadalāmās vai iegūstošās sabiedrības labā, netiek apmainītas un ir dzēšamas.\n(7) Reorganizāciju pēc tās stāšanās spēkā nevar apstrīdēt tiesā."
+    },
+    {
+      "provision_ref": "Art. 103",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "103",
+      "title": "Reorganizācijas procesā iesaistīto sabiedrību atbildība",
+      "content": "(1) Iegūstošā sabiedrība atbild par visām pievienojamās vai pārveidojamās sabiedrības saistībām.\n(2) Par sadalāmās sabiedrības saistībām, kas radušās līdz reorganizācijas spēkā stāšanās brīdim, solidāri atbild visas sadalīšanā iesaistītās sabiedrības, ieskaitot jaundibinātās sabiedrības. Solidāro parādnieku savstarpējās attiecībās par saistīto subjektu uzskatāma tikai tā persona, kuras saistības paredzētas līgumā.\n(3) Ja kādas sadalīšanā iesaistītās sabiedrības saistības nav noteiktas līgumā, tā atbild solidāri līdz ar citām sadalīšanā iesaistītajām sabiedrībām par sadalāmās sabiedrības saistībām, kuras radušās līdz reorganizācijas spēkā stāšanās brīdim un kuru izpildes termiņš iestājas piecu gadu laikā no reorganizācijas spēkā stāšanās brīža.\n(4) Sašķelšanas gadījumā mantu, kuras sadalījums nav noteikts līgumā, sadala starp iegūstošajām sabiedrībām proporcionāli mantas daļai, ko tās ieguvušas no sadalāmās sabiedrības saskaņā ar līgumu."
+    },
+    {
+      "provision_ref": "Art. 104",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "104",
+      "title": "Reorganizācijas procesā iesaistīto sabiedrību valdes un padomes locekļu atbildība",
+      "content": "(1) Reorganizācijā iesaistīto sabiedrību padomes un valdes locekļi solidāri atbild par zaudējumiem, kas reorganizācijas gaitā viņu vainas dēļ nodarīti tās biedriem vai kreditoriem.\n(2) Šā panta pirmajā daļā minētie prasījumi noilgst piecu gadu laikā no reorganizācijas spēkā stāšanās brīža."
+    },
+    {
+      "provision_ref": "Art. 105",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "105",
+      "title": "Paju izmaksa biedram, kurš nepiekrīt reorganizācijai",
+      "content": "(1) Sabiedrības biedrs, kurš nepiekrīt reorganizācijai, ir tiesīgs divu mēnešu laikā no reorganizācijas spēkā stāšanās brīža pieprasīt, lai iegūstošā sabiedrība izmaksā iegūstošās sabiedrības pajas. Pajas izmaksā triju mēnešu laikā no reorganizācijas spēkā stāšanās dienas.\n(2) Šā panta pirmajā daļā minētās tiesības ir biedram, kurš ierakstīts šā likuma 95. panta septītajā daļā minētajā sarakstā.\n(3) Ja sabiedrību pārveido par kapitālsabiedrību, šā panta otrajā daļā minētajā sarakstā iekļautais biedrs ir tiesīgs prasīt, lai iegūstošā kapitālsabiedrība atpērk tā daļas (akcijas) iegūstošajā sabiedrībā Komerclikuma 353. pantā minētajā kārtībā.\n(4) No reorganizācijas spēkā stāšanās brīža iegūstošā sabiedrība maksā likumiskos procentus par paredzētajā apmērā un termiņā neizdarītajām paju izmaksām."
+    },
+    {
+      "provision_ref": "Art. 106",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "106",
+      "title": "Sabiedrības dibināšana, sabiedrībām saplūstot",
+      "content": "(1) Dibinot jauno sabiedrību, piemērojami sabiedrības dibināšanas noteikumi, ja šajā nodaļā nav noteikts citādi.\n(2) Līgumā papildus šā likuma 90. panta pirmajā daļā minētajām ziņām norāda iegūstošās sabiedrības nosaukumu un juridisko adresi. Līgumam pievieno dibināmās sabiedrības statūtu projektu, ko apstiprina ar visu pievienojamo sabiedrību biedru kopsapulču lēmumiem par reorganizāciju.\n(3) Pievienojamās sabiedrības iesniedz Uzņēmumu reģistram kopīgu pieteikumu par jaunās sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 107",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "107",
+      "title": "Sabiedrības dibināšana, sabiedrībai sadaloties",
+      "content": "(1) Iegūstošās sabiedrības dibināšanā ievēro sabiedrības dibināšanas noteikumus, ja šajā nodaļā nav noteikts citādi.\n(2) Ja, sabiedrībai sadaloties, dibina jaunu iegūstošo sabiedrību un reorganizācijā nav iesaistīta cita jau pastāvoša sabiedrība, sadalāmā sabiedrība pieņem lēmumu par sadalīšanu, kas aizstāj šā likuma 90. pantā minēto līgumu. Lēmumā par sadalīšanu papildus šā likuma 90. panta pirmajā daļā minētajām ziņām norāda iegūstošās sabiedrības nosaukumu, juridisko adresi un sadalāmās sabiedrības mantas sadali starp iegūstošajām sabiedrībām. Mantas sadales aktu var pievienot lēmumam atsevišķa dokumenta veidā.\n(3) Līguma vai lēmuma projektam pievieno iegūstošās sabiedrības statūtu projektu.\n(4) Kopā ar reorganizācijas pieteikumu sadalāmā sabiedrība iesniedz Uzņēmumu reģistram arī pieteikumu par iegūstošās sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā."
+    },
+    {
+      "provision_ref": "Art. 108",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "108",
+      "title": "Kapitālsabiedrības dibināšana, sabiedrību pārveidojot",
+      "content": "(1) Sabiedrības pārveidošanā piemēro kapitālsabiedrības dibināšanas noteikumus, ja šajā nodaļā nav noteikts citādi.\n(2) Ja sabiedrība tiek pārveidota, biedru kopsapulce pieņem lēmumu par pārveidošanu, kas aizstāj šā likuma 90. pantā minēto līgumu. Lēmumā papildus šā likuma 90. panta pirmajā daļā minētajām ziņām norāda iegūstošās kapitālsabiedrības veidu, nosaukumu un juridisko adresi.\n(3) Lēmumam pievieno iegūstošās kapitālsabiedrības statūtu projektu, kuru apstiprina ar biedru kopsapulces lēmumu par reorganizāciju.\n(4) Vienlaikus ar lēmumu par pārveidošanu ievēlē iegūstošās kapitālsabiedrības valdi un padomi, ja tāda saskaņā ar likumu vai statūtiem ir nepieciešama."
+    },
+    {
+      "provision_ref": "Art. 109",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "109",
+      "title": "Mantas novērtēšana sabiedrības pārveidošanā",
+      "content": "(1) Ja sabiedrība tiek pārveidota, nepieciešams novērtēt mantisko ieguldījumu, lai konstatētu pārveidojamās sabiedrības mantas pietiekamību iegūstošās kapitālsabiedrības pamatkapitāla izveidošanai.\n(2) Mantu novērtē Komerclikumā noteiktajā kārtībā, un novērtējumu apliecinošos dokumentus iesniedz Uzņēmumu reģistram kopā ar pieteikumu par pārveidošanu."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē Kooperatīvo sabiedrību likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 6. nr.; 2000, 10. nr.; 2002, 16., 22. nr.; 2006, 21. nr.; 2007, 23. nr.; 2009, 14. nr.; Latvijas Vēstnesis, 2012, 154. nr.; 2013, 193. nr.; 2015, 208. nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē Kooperatīvo sabiedrību likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 6. nr.; 2000, 10. nr.; 2002, 16., 22. nr.; 2006, 21. nr.; 2007, 23. nr.; 2009, 14. nr.; Latvijas Vēstnesis, 2012, 154. nr.; 2013, 193. nr.; 2015, 208. nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn2",
+      "title": "2. Ja sabiedrībai atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim, nebija noteikts komersanta statuss, tās darījumiem, kas noslēgti līdz 2018. gada 31. decembrim, nepiemēro Komerclikuma noteikumus par komercdarījumiem.",
+      "content": "2. Ja sabiedrībai atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim, nebija noteikts komersanta statuss, tās darījumiem, kas noslēgti līdz 2018. gada 31. decembrim, nepiemēro Komerclikuma noteikumus par komercdarījumiem."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn3",
+      "title": "3. Sabiedrība, kas ierakstīta Uzņēmumu reģistra žurnālā līdz 2018. gada 31. decembrim, savā nosaukumā var saglabāt vārdus \"kopdarbības sabiedrība\" vai \"kooperatīvā biedrība\", ja tā nepiesaka Uzņēmumu reģistram izmaiņas sabiedrības nosaukumā.",
+      "content": "3. Sabiedrība, kas ierakstīta Uzņēmumu reģistra žurnālā līdz 2018. gada 31. decembrim, savā nosaukumā var saglabāt vārdus \"kopdarbības sabiedrība\" vai \"kooperatīvā biedrība\", ja tā nepiesaka Uzņēmumu reģistram izmaiņas sabiedrības nosaukumā."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn4",
+      "title": "4. Ja atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim, Uzņēmumu reģistram bija iesniegti dibināšanas dokumenti un pieteikums, Uzņēmumu reģistra valsts notārs var pieņemt lēmumu par sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā, izmaiņu veikšanu Uzņēmumu reģistra žurnālā, kā arī dokumentu reģistrāciju (pievienošanu lietai).",
+      "content": "4. Ja atbilstoši tiesiskajam regulējumam, kas bija spēkā līdz 2018. gada 31. decembrim, Uzņēmumu reģistram bija iesniegti dibināšanas dokumenti un pieteikums, Uzņēmumu reģistra valsts notārs var pieņemt lēmumu par sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā, izmaiņu veikšanu Uzņēmumu reģistra žurnālā, kā arī dokumentu reģistrāciju (pievienošanu lietai)."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn5",
+      "title": "5. Ja persona, kas vēlas kļūt par biedru, līdz 2018. gada 31. decembrim iesniedz sabiedrībai rakstveida pieteikumu par uzņemšanu sabiedrībā, personas uzņemšanai piemēro likuma un statūtu noteikumus, kas bija spēkā pieteikuma iesniegšanas dienā.",
+      "content": "5. Ja persona, kas vēlas kļūt par biedru, līdz 2018. gada 31. decembrim iesniedz sabiedrībai rakstveida pieteikumu par uzņemšanu sabiedrībā, personas uzņemšanai piemēro likuma un statūtu noteikumus, kas bija spēkā pieteikuma iesniegšanas dienā."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn6",
+      "title": "6. Ja biedrs līdz 2018. gada 31. decembrim iesniedz sabiedrībai paziņojumu par izstāšanos no sabiedrības, biedra izstāšanās kārtībai un paju izmaksai piemēro likuma un statūtu noteikumus, kas bija spēkā paziņojuma iesniegšanas dienā.",
+      "content": "6. Ja biedrs līdz 2018. gada 31. decembrim iesniedz sabiedrībai paziņojumu par izstāšanos no sabiedrības, biedra izstāšanās kārtībai un paju izmaksai piemēro likuma un statūtu noteikumus, kas bija spēkā paziņojuma iesniegšanas dienā."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn7",
+      "title": "7. Ja sabiedrība līdz 2018. gada 31. decembrim pieņem lēmumu par biedra izslēgšanu no sabiedrības, biedra izslēgšanas kārtībai un paju izmaksai piemēro likuma un statūtu noteikumus, kas bija spēkā lēmuma pieņemšanas dienā.",
+      "content": "7. Ja sabiedrība līdz 2018. gada 31. decembrim pieņem lēmumu par biedra izslēgšanu no sabiedrības, biedra izslēgšanas kārtībai un paju izmaksai piemēro likuma un statūtu noteikumus, kas bija spēkā lēmuma pieņemšanas dienā."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn8",
+      "title": "8. Sabiedrībai, kura reģistrēta Uzņēmumu reģistra žurnālā vai pieteikta reģistrēšanai Uzņēmumu reģistra žurnālā līdz 2018. gada 31. decembrim un kuras statūtos nav paredzēts, ka biedriem var būt atšķirīgs paju skaits, var saglabāt paju sadalījumu starp biedriem, kāds tas bija 2018. gada 31. decembrī.",
+      "content": "8. Sabiedrībai, kura reģistrēta Uzņēmumu reģistra žurnālā vai pieteikta reģistrēšanai Uzņēmumu reģistra žurnālā līdz 2018. gada 31. decembrim un kuras statūtos nav paredzēts, ka biedriem var būt atšķirīgs paju skaits, var saglabāt paju sadalījumu starp biedriem, kāds tas bija 2018. gada 31. decembrī."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn9",
+      "title": "9. Šā likuma noteikumus par peļņas izlietošanu (27. pants) un zaudējumu segšanu (28. pants) piemēro, sākot ar 2019. pārskata gadu. Peļņas sadalei un zaudējumu segšanai par 2018. pārskata gadu piemēro likuma normas un statūtu noteikumus, kas bija spēkā lēmuma par peļņas izlietošanu vai zaudējumu segšanu pieņemšanas dienā.",
+      "content": "9. Šā likuma noteikumus par peļņas izlietošanu (27. pants) un zaudējumu segšanu (28. pants) piemēro, sākot ar 2019. pārskata gadu. Peļņas sadalei un zaudējumu segšanai par 2018. pārskata gadu piemēro likuma normas un statūtu noteikumus, kas bija spēkā lēmuma par peļņas izlietošanu vai zaudējumu segšanu pieņemšanas dienā."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn10",
+      "title": "10. Ja biedru kopsapulce (pilnvaroto sapulce) izziņota līdz 2018. gada 31. decembrim, biedru kopsapulces (pilnvaroto sapulces), kā arī atkārtotas biedru kopsapulces (pilnvaroto sapulces) kompetencei, sasaukšanai, norisei, biedru (pilnvaroto) dalībai un balsstiesību noteikšanai piemēro likuma un statūtu noteikumus, kas bija spēkā sapulces izziņošanas dienā.",
+      "content": "10. Ja biedru kopsapulce (pilnvaroto sapulce) izziņota līdz 2018. gada 31. decembrim, biedru kopsapulces (pilnvaroto sapulces), kā arī atkārtotas biedru kopsapulces (pilnvaroto sapulces) kompetencei, sasaukšanai, norisei, biedru (pilnvaroto) dalībai un balsstiesību noteikšanai piemēro likuma un statūtu noteikumus, kas bija spēkā sapulces izziņošanas dienā."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn11",
+      "title": "11. Ja sabiedrības valdes vai padomes loceklis ievēlēts līdz 2018. gada 31. decembrim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar likuma un statūtu noteikumiem, kas bija spēkā valdes vai padomes locekļa ievēlēšanas dienā.",
+      "content": "11. Ja sabiedrības valdes vai padomes loceklis ievēlēts līdz 2018. gada 31. decembrim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar likuma un statūtu noteikumiem, kas bija spēkā valdes vai padomes locekļa ievēlēšanas dienā."
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn12",
+      "title": "12. Ja sabiedrības statūtos noteikts, ka sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu, sākot ar 2019. gada 1. janvāri, uzskatāms, ka sabiedrību pārstāv valdes locekļi kopīgi.",
+      "content": "12. Ja sabiedrības statūtos noteikts, ka sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu, sākot ar 2019. gada 1. janvāri, uzskatāms, ka sabiedrību pārstāv valdes locekļi kopīgi."
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn13",
+      "title": "13. Ja sabiedrības statūtos noteikts, ka sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu un sabiedrība pirms 2019. gada 1. janvāra nav pieteikusi attiecīgus statūtu grozījumus, Uzņēmumu reģistrs, nepieņemot atsevišķu lēmumu, veic izmaiņas Uzņēmumu reģistra žurnālā, kopīgu pārstāvību ar prokūristu aizstājot ar valdes locekļu kopīgu pārstāvību.",
+      "content": "13. Ja sabiedrības statūtos noteikts, ka sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu un sabiedrība pirms 2019. gada 1. janvāra nav pieteikusi attiecīgus statūtu grozījumus, Uzņēmumu reģistrs, nepieņemot atsevišķu lēmumu, veic izmaiņas Uzņēmumu reģistra žurnālā, kopīgu pārstāvību ar prokūristu aizstājot ar valdes locekļu kopīgu pārstāvību."
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn14",
+      "title": "14. Līdz 2018. gada 31. decembrim ievēlētā revīzijas komisija (revidents) ir uzskatāma par iekšējo revidentu šā likuma 57. panta izpratnē. Ja revīzijas komisijas loceklis ievēlēts līdz 2018. gada 31. decembrim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar likuma un statūtu noteikumiem, kas bija spēkā revīzijas komisijas locekļa ievēlēšanas dienā.",
+      "content": "14. Līdz 2018. gada 31. decembrim ievēlētā revīzijas komisija (revidents) ir uzskatāma par iekšējo revidentu šā likuma 57. panta izpratnē. Ja revīzijas komisijas loceklis ievēlēts līdz 2018. gada 31. decembrim, viņa pilnvaru termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar likuma un statūtu noteikumiem, kas bija spēkā revīzijas komisijas locekļa ievēlēšanas dienā."
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn15",
+      "title": "15. Ja 2019. gada 1. janvārī dibinātāju, valdes un padomes locekļu atbildības noilguma termiņš atbilstoši Civillikumam nav notecējis, piemērojams šā likuma 60. un 61. pantā noteiktais noilguma termiņš, kurš skaitāms no 2019. gada 1. janvāra. Ja pēc šāda aprēķina noilguma termiņš ir garāks par līdzšinējo noilguma termiņu, noilguma termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar Civillikumu .",
+      "content": "15. Ja 2019. gada 1. janvārī dibinātāju, valdes un padomes locekļu atbildības noilguma termiņš atbilstoši Civillikumam nav notecējis, piemērojams šā likuma 60. un 61. pantā noteiktais noilguma termiņš, kurš skaitāms no 2019. gada 1. janvāra. Ja pēc šāda aprēķina noilguma termiņš ir garāks par līdzšinējo noilguma termiņu, noilguma termiņš izbeidzas tajā dienā, kad tas būtu notecējis saskaņā ar Civillikumu ."
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn16",
+      "title": "16. Likvidācijas vai reorganizācijas procesam, kas uzsākts līdz 2018. gada 31. decembrim, piemēro likuma un statūtu normas, kas bija spēkā likvidācijas vai reorganizācijas procesa uzsākšanas brīdī.",
+      "content": "16. Likvidācijas vai reorganizācijas procesam, kas uzsākts līdz 2018. gada 31. decembrim, piemēro likuma un statūtu normas, kas bija spēkā likvidācijas vai reorganizācijas procesa uzsākšanas brīdī."
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn17",
+      "title": "17. Sākot ar 2019. gada 1. jūliju, sabiedrība, piesakot Uzņēmumu reģistram izmaiņas Uzņēmumu reģistra žurnāla ierakstos vai piesakot dokumentu reģistrāciju (pievienošanu reģistrācijas lietai), vienlaikus iesniedz Uzņēmumu reģistram statūtu grozījumus, kas nodrošina to atbilstību šā likuma prasībām.",
+      "content": "17. Sākot ar 2019. gada 1. jūliju, sabiedrība, piesakot Uzņēmumu reģistram izmaiņas Uzņēmumu reģistra žurnāla ierakstos vai piesakot dokumentu reģistrāciju (pievienošanu reģistrācijas lietai), vienlaikus iesniedz Uzņēmumu reģistram statūtu grozījumus, kas nodrošina to atbilstību šā likuma prasībām."
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn18",
+      "title": "18. Līdz šā likuma 8. panta otrajā daļā paredzēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2019. gada 31. jūlijam piemērojami Ministru kabineta 2016. gada 2. februāra noteikumi Nr. 77 \" Noteikumi par lauksaimniecības pakalpojumu kooperatīvo sabiedrību un mežsaimniecības pakalpojumu kooperatīvo sabiedrību atbilstības izvērtēšanu \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.05.2019 . likumu, kas stājas spēkā 05.06.2019. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VIII nodaļa Reorganizācija",
+      "section": "pn19",
+      "title": "19. Šā likuma 33. panta otrās daļas 4. 1 punkts, 36. 1 pants (attiecībā uz attālinātu dalību un balsošanu biedru sapulcē) un 43. panta piektās daļas otrā teikuma jaunā redakcija, kā arī grozījums 36. pantā par ceturtās, piektās, sestās un septītās daļas izslēgšanu un grozījums 39. panta trešajā daļā stājas spēkā 2024. gada 1. jūlijā.",
+      "content": "( 25.04.2024 . likuma redakcijā, kas stājas spēkā 23.05.2024. )"
+    }
+  ],
+  "definitions": []
+}

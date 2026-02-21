@@ -1,0 +1,260 @@
+{
+  "id": "lv-law-62324",
+  "type": "statute",
+  "title": "Valsts informācijas sistēmu likums",
+  "title_en": "Law On State Information Systems",
+  "short_name": "TA-62324",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/62324-valsts-informacijas-sistemu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) valsts informācijas sistēma — informācijas sistēma, kuras darbību nodrošina tiešās pārvaldes iestāde, valsts institūcija, kas nav Ministru kabineta padotībā, atvasināta publiska persona vai tās iestāde, tiesu iestāde, prokuratūra, kā arī privātpersona, kurai deleģēts valsts pārvaldes uzdevums, (turpmāk — institūcija) un kura nodrošina valsts pārvaldes funkcijas vai deleģēta valsts pārvaldes uzdevuma izpildei nepieciešamās informācijas ierosināšanu, radīšanu, apkopošanu, uzkrāšanu, apstrādāšanu, izmantošanu un iznīcināšanu (turpmāk — informācijas aprite);\n2) valsts informācijas sistēmas pārzinis — institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmas darbību;\n3) (izslēgts ar 05.05.2022 . likumu) ;\n4) valsts informācijas sistēmas lietotājs — juridiskā vai fiziskā persona, kura noslēgusi līgumu ar valsts informācijas sistēmas pārzini par datu lietošanu vai kura uz pieprasījuma pamata saņem datus valsts informācijas sistēmas pārziņa vai normatīvajos aktos noteiktajā kārtībā;\n5) valsts informācijas sistēmas datu subjekts — institūcija vai privātpersona, kura normatīvajos aktos noteiktajā kārtībā sniedz datus par sevi un sev piekritīgajiem reģistrējamiem juridiski dokumentētiem objektiem (turpmāk — piekritīgie reģistrējamie objekti);\n6) integrēta valsts informācijas sistēma — loģiska valsts informācijas sistēmu apvienība, kuras ietvaros vienotā informācijas laukā tiek uzturēti atsevišķu valsts informācijas sistēmu dati;\n7) (izslēgts ar 26.09.2019 . likumu) ;\n8) valsts informācijas sistēmu savietotājs — centralizēts informācijas tehnoloģiju kopums, ar kura palīdzību var nodrošināt informācijas apriti integrētas valsts informācijas sistēmas ietvaros, kā arī starp valsts informācijas sistēmām un citām informācijas sistēmām, kuras veido un uztur institūcijas vai privātpersonas;\n9) (izslēgts ar 05.06.2014 . likumu) ;\n10) (izslēgts ar 09.06.2011 . likumu) ;\n11) valsts informācijas sistēmu savietotāja pārzinis — institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmu savietotāja darbību;\n12) valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēma — valsts informācijas sistēma, kas nodrošina valsts informācijas sistēmām un to darbībai nepieciešamo informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu reģistrāciju un pārvaldību;\n13) institūcijas informācijas sistēma — informācijas sistēma, kas nav valsts informācijas sistēma, atrodas institūcijas pārvaldībā un nodrošina informācijas apriti ar valsts informācijas sistēmu;\n14) institūcijas informācijas sistēmas pārzinis — institūcija, kas organizē un vada institūcijas informācijas sistēmas darbību;\n15) valsts platforma — informācijas un komunikācijas tehnoloģiju resurss vai informācijas un komunikācijas tehnoloģiju resursu kopums, kas nodrošina valsts pārvaldes funkcijas vai deleģēta valsts pārvaldes uzdevuma veikšanu un paredzēts vairāku institūciju funkciju un uzdevumu izpildei un, ja valsts platformas pārzinis ir noteicis, arī pakalpojumu sniegšanai privātpersonām;\n16) valsts platformas pārzinis — institūcija, kas normatīvajos aktos par valsts platformu noteiktajā kārtībā organizē un vada valsts platformas darbību."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis un uzdevumi",
+      "content": "(1) Likuma mērķis ir nodrošināt institūciju sniedzamās informācijas pieejamību un kvalitāti valsts informācijas sistēmās.\n(2) Likuma uzdevumi ir šādi:\n1) noteikt vienotu kārtību, kādā veido, reģistrē, uztur, lieto, koplieto, reorganizē vai likvidē valsts platformas un valsts vai institūcijas informācijas sistēmas;\n2) (izslēgts ar 05.06.2014 . likumu) ;\n3) noteikt valsts informācijas sistēmas pārziņa funkcijas un valsts informācijas sistēmas datu subjekta (turpmāk — datu subjekts) tiesības un pienākumus;\n4) regulēt valsts informācijas sistēmu drošības pārvaldību;\n5) noteikt prasības, kas ievērojamas valsts informācijas sistēmu savietotāju un integrētā valsts informācijas sistēmā ietilpstošo valsts informācijas sistēmu aizsardzībai;\n6) regulēt kārtību, kādā ar valsts informācijas sistēmu savietotāja palīdzību tiek nodrošināta informācijas aprite;\n7) regulēt kārtību, kādā privātpersonas izmanto valsts platformu savu pakalpojumu sniegšanai."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums attiecas uz valsts informācijas sistēmām, kuras lietojot tiek nodrošināta institūcijām normatīvajos aktos un Latvijai saistošos starptautiskajos līgumos noteikto funkciju un uzdevumu izpilde.\n(2) Likums attiecas arī uz institūcijas informācijas sistēmām, kuras nodrošina informācijas apriti ar valsts informācijas sistēmām.\n(3) (Izslēgta ar 05.05.2022 . likumu)\n(4) Likums neattiecas uz informācijas sistēmām, ko valsts un pašvaldību institūcijas veido un uztur iekšējās lietošanas informācijas apritei."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Valsts informācijas sistēmu vai institūcijas informācijas sistēmu darbības koordinācija",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrija koordinē valsts informācijas sistēmu vai institūcijas informācijas sistēmu darbību integrētas valsts informācijas sistēmas ietvaros, realizējot vienotu valsts politiku valsts informācijas sistēmu vai institūcijas informācijas sistēmu attīstības un uzturēšanas jomā.\n(2) Valsts informācijas sistēmu vai institūcijas informācijas sistēmu un to darbībai nepieciešamo informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu attīstības aktivitāšu un likvidēšanas uzraudzības kārtību, kā arī valsts informācijas sistēmu vai institūcijas informācijas sistēmu vispārējās tehniskās un drošības prasības nosaka Ministru kabinets.\n(3) Vides aizsardzības un reģionālās attīstības ministrija koordinē pētījumus un investīcijas integrētas valsts informācijas sistēmas izveidošanai un valsts informācijas sistēmu darbības pilnveidošanai, piesaista ekspertus valsts informācijas sistēmu ekspertīzēm un iesniedz priekšlikumus Ministru kabinetam par valsts informācijas sistēmu attīstību.\n(4) (Izslēgta ar 05.05.2022 . likumu)\n(5) (Izslēgta ar 05.06.2014 . likumu)\n(6) (Izslēgta ar 05.06.2014 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Valsts informācijas sistēmu vai institūcijas informācijas sistēmu izveidošana, reorganizācija un likvidācija",
+      "content": "(1) Valsts informācijas sistēmu izstrādā, pamatojoties uz ārējiem normatīvajiem aktiem, politikas plānošanas dokumentiem vai informatīvo ziņojumu.\n(1 1 ) Valsts informācijas sistēmu izmanto, pamatojoties uz ārējiem normatīvajiem aktiem, kuros norāda vismaz:\n1) noteiktās funkcijas, uzdevumus un mērķus, kuru izpildei nepieciešamās informācijas apriti nodrošina valsts informācijas sistēma;\n2) valsts informācijas sistēmā iekļaujamo informāciju funkciju, uzdevumu un mērķu sasniegšanai;\n3) valsts informācijas sistēmas pārzini;\n4) valsts informācijas sistēmā iekļaujamās informācijas apjomu;\n5) kārtību, kādā informāciju apstrādā valsts informācijas sistēmā;\n6) nosacījumus piekļuves nodrošināšanai valsts informācijas sistēmā iekļautajai informācijai.\n(1 2 ) Ministru kabinets izdod noteikumus šā panta 1. 1 daļas 3., 4., 5. un 6. punkta prasību izpildei.\n(2) (Izslēgta ar 05.05.2022.)\n(2 1 ) Izveidojot valsts informācijas sistēmu vai institūcijas informācijas sistēmu, valsts informācijas sistēmas vai institūcijas informācijas sistēmas pārzinis reģistrē to valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēmā.\n(3) Katras valsts informācijas sistēmas izveidošanas, reorganizēšanas vai likvidēšanas projektu izstrādā attiecīgās valsts informācijas sistēmas pārzinis un saskaņo to ar Vides aizsardzības un reģionālās attīstības ministriju."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Valsts informācijas sistēmu darbības principi",
+      "content": "(1) Valsts informācijas sistēmas apvieno integrētā valsts informācijas sistēmā.\n(2) Aizliegts vākt no datu subjektiem un ievadīt valsts informācijas sistēmu datu bāzēs datus, kas ir pieejami integrētā valsts informācijas sistēmā.\n(3) Valsts informācijas sistēmu darbības gaitā informācija par datu subjektu un tam piekritīgajiem reģistrējamiem objektiem reģistrējama tikai vienu reizi atbilstošajā reģistrā — integrētā valsts informācijas sistēmā normatīvajos aktos noteikto reģistrējamo objektu identificēšanai, nodrošinot datu aktualizāciju un iekļaušanu citā valsts informācijas sistēmā.\n(4) (Izslēgta ar 05.05.2022 . likumu)\n(5) (Izslēgta ar 05.06.2014 . likumu)\n(6) (Izslēgta ar 05.06.2014 . likumu)\n(7) (Izslēgta ar 05.06.2014 . likumu)\n(8) (Izslēgta ar 05.06.2014 . likumu)\n(9) (Izslēgta ar 05.06.2014 . likumu)\n(10) Valsts informācijas sistēmas pārzinis var nodrošināt informācijas apriti starp valsts informācijas sistēmu un privātpersonu pārziņā esošajām informācijas sistēmām, sadarbojoties ar privātpersonām normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 6.1",
+      "section": "6.1",
+      "title": "6. 1 pants. Informācijas un komunikācijas tehnoloģiju pakalpojumu izmantošana",
+      "content": "Valsts informācijas sistēmu un institūcijas informācijas sistēmu, valsts platformu un valsts informācijas sistēmu savietotāju pārzinis savu funkciju izpildes nodrošināšanai var izmantot citu institūciju vai privātpersonu sniegtus informācijas un komunikācijas tehnoloģiju pakalpojumus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Valsts informācijas sistēmu vai institūcijas informācijas sistēmu uzturēšana",
+      "content": "(1) Valsts informācijas sistēmas uzturēšanai nepieciešamos līdzekļus plāno un pieprasa valsts informācijas sistēmas pārzinis.\n(2) Valsts informācijas sistēmas vai institūcijas informācijas sistēmas tiek uzturētas no attiecīgās institūcijas gadskārtējā budžeta līdzekļiem.\n(3) Valsts informācijas sistēmas pārziņa gadskārtējā valsts budžeta pieprasījumam par līdzekļu piešķiršanu valsts informācijas sistēmas izveidošanai, attīstībai un uzturēšanai pievienojams Vides aizsardzības un reģionālās attīstības ministrijas atzinums."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Valsts informācijas sistēmas pārziņa funkcijas",
+      "content": "Valsts informācijas sistēmas pārzinis saskaņā ar normatīvajiem aktiem nodrošina un atbild par:\n1) datu vākšanu, reģistrēšanu, ievadīšanu, apstrādi, glabāšanu, izmantošanu, pārraidīšanu, publicēšanu, atbilstību iesniegtajiem datiem, aktualizēšanu, labošanu valsts informācijas sistēmā, kā arī datu kvalitāti valsts informācijas sistēmā vismaz šādā minimālajā apjomā — datu saskaņotība un salīdzināmība, izmantojot vienotus klasifikatorus un identifikatorus, kā arī pieejamība un skaidrība, aprakstot un darot pieejamus metadatus;\n2) datu ieguves avotu norādi, ja dati nav iegūti tieši no datu subjekta;\n3) datu lietošanu un to apmaiņu starp valsts informācijas sistēmām elektroniskā veidā;\n4) piekļūšanu apritē esošajai informācijai elektroniskā veidā, ja vien ar likumu nav noteikts citādi;\n5) (izslēgts ar 05.06.2014 . likumu) ;\n6) valsts informācijas sistēmas arhīva formēšanu elektroniskā veidā, tā saglabāšanu, datu rezerves kopiju sagatavošanu, datu drošību un aizsardzību;\n7) valsts informācijas sistēmas lietošanu valsts valodā, paredzot arī citas, starptautiskajās saistībās noteiktas valodas lietošanu;\n8) normatīvajos aktos noteikto klasifikāciju un klasifikatoru (kodu sistēmu) izmantošanu;\n9) licencētas vai speciāli attiecīgajai valsts informācijas sistēmai paredzētas un atbilstoši Latvijas standartiem izstrādātas programmatūras izmantošanu;\n10) valsts informācijas sistēmas dokumentācijas izstrādāšanu, uzturēšanu un pieejamību atbilstoši Latvijas standartiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Datu subjekta tiesības un pienākums",
+      "content": "(1) Datu subjekta tiesības ir šādas:\n1) saņemt no valsts informācijas sistēmas datus, kas uz to attiecas;\n2) paziņot valsts informācijas sistēmas pārzinim par pamanītajām nepilnībām datos, kas uz to attiecas, un pieprasīt šo datu labošanu.\n(2) Datu subjekta pienākums ir sniegt pilnīgu un patiesu informāciju normatīvajos aktos noteiktajā kārtībā par sevi un sev piekritīgajiem reģistrējamiem objektiem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Informācijas un valsts informācijas sistēmas lietotāju identificēšana",
+      "content": "(1) Valsts informācijas sistēmas pārzinis nodrošina iespēju identificēt informāciju jebkurā informācijas aprites posmā.\n(2) Lai aizsargātu valsts informācijas sistēmu no nesankcionētas pieejas, valsts informācijas sistēmas pārzinis nodrošina valsts informācijas sistēmas lietotāju identitātes un piekļuves tiesību pārbaudi."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Informācijas pieejamība",
+      "content": "(1) Valsts informācijas sistēmas turētājs nodrošina piekļūšanu valsts informācijas sistēmas vispārpieejamai informācijai globālajā datoru tīklā (internetā).\n(2) Valsts informācijas sistēmās esošā informācija ir pieejama saskaņā ar normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Īpašumtiesības uz datu bāzi un informācijas tehnoloģijām",
+      "content": "(1) Valsts informācijas sistēmas vai institūcijas informācijas sistēmas datu bāze ir institūcijas īpašums.\n(2) Informācijas tehnoloģijas un informācijas pārraides līdzekļi, kas nodrošina valsts informācijas sistēmas vai institūcijas informācijas sistēmas darbību, var būt publiskais vai privātais īpašums (tai skaitā valsts vai pašvaldības privātais īpašums).\n(3) Ja šā panta pirmajā daļā minētā datu bāze ir autortiesību (blakustiesību) objekts, valsts informācijas sistēmas vai institūcijas informācijas sistēmas pārzinis vienojas ar attiecīgo autortiesību (blakustiesību) subjektu par šā objekta izmantošanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Valsts informācijas sistēmu vai institūcijas informācijas sistēmu un to darbībai nepieciešamo informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu reģistrācija un pārvaldība",
+      "content": "(1) Ministru kabinets nosaka valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēmas pārzini, tajā iekļaujamās informācijas apjomu, reģistrēšanas, izmantošanas un apstrādes kārtību, kā arī valsts informācijas sistēmu vai institūcijas informācijas sistēmu darbībai nepieciešamo informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu pārvaldības kārtību.\n(2) Valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēmā neiekļauj informāciju, kas saskaņā ar likumu \" Par valsts noslēpumu \" atzīta par valsts noslēpuma objektu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Valsts informācijas sistēmas drošības pārvaldība",
+      "content": "(1) Normatīvajos aktos noteikto valsts informācijas sistēmas drošības prasību ievērošanu nodrošina valsts informācijas sistēmas pārzinis.\n(2) Valsts informācijas sistēmas pārzinis valsts informācijas sistēmas drošības pārvaldībai nosaka valsts informācijas sistēmas drošības pārvaldnieku.\n(3) Ja valsts institūcijas pārziņā ir vairākas valsts informācijas sistēmas, visu šo sistēmu drošības pārvaldībai drīkst noteikt vienu valsts informācijas sistēmas drošības pārvaldnieku."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Valsts informācijas sistēmas drošības pārvaldnieks",
+      "content": "(1) Valsts informācijas sistēmas drošības pārvaldnieks ir persona, kura īsteno valsts informācijas sistēmas drošības pārvaldību.\n(2) Valsts informācijas sistēmas drošības pārvaldnieka — fiziskās personas — darbība atbilst normatīvajos aktos par profesiju klasifikatoru minētajai profesijai — informācijas sistēmas drošības pārvaldnieks — noteiktajiem pamatuzdevumiem un kvalifikācijas pamatprasībām. Ja valsts informācijas sistēmas drošības pārvaldnieks ir juridiskā persona, tā nodrošina, ka attiecīgo pienākumu izpildi veic šīs daļas pirmajā teikumā noteiktajām prasībām atbilstoša fiziskā persona."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "section": "16",
+      "title": "Aizsardzības prasības",
+      "content": "Valsts informācijas sistēmu savietotāju, valsts platformu un integrētā valsts informācijas sistēmā ietilpstošo valsts informācijas sistēmu aizsardzības prasības nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "section": "17",
+      "title": "Informācijas aprites nodrošināšana, izmantojot valsts informācijas sistēmu savietotāju",
+      "content": "(1) Valsts informācijas sistēmu savietotāja darbība nodrošina informācijas apriti atbilstoši šādiem kritērijiem:\n1) valsts informācijas sistēmu savietotāja darbība nedublē informācijas apriti, kuru var nodrošināt ar cita valsts informācijas sistēmu savietotāja palīdzību;\n2) valsts informācijas sistēmu savietotāja darbība nodrošina pēc iespējas vienkāršu un vienveidīgu informācijas apriti;\n3) valsts informācijas sistēmu savietotāja darbība nodrošina tādu informācijas aprites drošības līmeni, kas ir samērojams ar drošības līmeni, nodrošinot informācijas apriti bez valsts informācijas sistēmu savietotāja;\n4) valsts informācijas sistēmu savietotāja darbība nepalielina informācijas aprites izmaksas salīdzinājumā ar izmaksām, nodrošinot informācijas apriti bez valsts informācijas sistēmu savietotāja.\n(2) Valsts informācijas sistēmu savietotāja izveidošanas, attīstīšanas vai likvidēšanas lietderību izvērtē, ievērojot šā panta pirmajā daļā minētos kritērijus.\n(3) Katra valsts informācijas sistēmu savietotāja izveidošanas, attīstīšanas vai likvidēšanas projektu izstrādā attiecīgā valsts informācijas sistēmu savietotāja pārzinis un saskaņo to ar Vides aizsardzības un reģionālās attīstības ministriju.\n(4) Lēmumu par informācijas aprites nodrošināšanu, izmantojot valsts informācijas sistēmu savietotāju, pieņem valsts informācijas sistēmu pārziņi, ievērojot šā panta pirmajā daļā minētos kritērijus.\n(5) Valsts informācijas sistēmu savietotāja pārzinis lemj par līguma slēgšanu ar valsts informācijas sistēmu pārziņiem, kā arī ar tām valsts vai pašvaldību institūcijām vai privātpersonām, kuru pārziņā esošās informācijas sistēmas ir iesaistītas informācijas aprites nodrošināšanā ar valsts informācijas sistēmām, un var atteikt līguma slēgšanu, ja normatīvajos aktos noteiktie informācijas aprites nosacījumi ir pietiekami informācijas aprites nodrošināšanai, izmantojot valsts informācijas sistēmu savietotāju.\n(5 1 ) Valsts informācijas sistēmu pārziņi, kā arī citu informācijas sistēmu pārziņi, kas informācijas apritē izmanto Valsts reģionālās attīstības aģentūras pārziņā esošo valsts informācijas sistēmu savietotāju, vienošanos par attiecīgās informācijas apriti slēdz valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēmas ietvaros.\n(6) Kārtību, kādā nodrošina informācijas apriti, izmantojot valsts informācijas sistēmu savietotāju, kā arī izveido, attīsta un likvidē valsts informācijas sistēmu savietotāju, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "section": "18",
+      "title": "Valsts platformu izmantošana",
+      "content": "(1) Valsts platformas pārzinis var nodrošināt iespēju valsts platformu izmantot privātpersonām, kurām nav deleģēts valsts pārvaldes uzdevums.\n(2) Privātpersona, kurai nav deleģēts valsts pārvaldes uzdevums, izmanto valsts platformu atbilstoši normatīvajiem aktiem, kas nosaka attiecīgās valsts platformas darbību.\n(3) Valsts platformas pārzinis var nodrošināt iespēju valsts platformu izmantot privātpersonām, kurām nav deleģēts valsts pārvaldes uzdevums, ja ir saņemts Satversmes aizsardzības biroja saskaņojums.\n(4) Vispārējās kvalifikācijas prasības un to pārbaudes kārtību privātpersonām, kurām nav deleģēts valsts pārvaldes uzdevums un kuras izmanto valsts platformu, nosaka Ministru kabinets.\n(5) Ministru kabinets nosaka:\n1) valsts platformas pārzini, tā pienākumus un atbildību, kā arī funkcijas un uzdevumus, kuru izpildei nepieciešama valsts platformas izmantošana;\n2) valsts platformas darbības, finansēšanas un izmantošanas kārtību;\n3) speciālās kvalifikācijas prasības un to pārbaudes kārtību valsts platformas izmantošanai privātpersonām, kurām nav deleģēti valsts pārvaldes uzdevumi, kā arī pieteikšanās un atļaujas izsniegšanas un anulēšanas kārtību šīs valsts platformas izmantošanai.\n(6) Valsts platformas pārzinis par valsts platformas izmantošanas pakalpojuma nodrošināšanu var prasīt maksu, kas nepārsniedz ar šā pakalpojuma sniegšanu saistītās izmaksas."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2005.gada 1.augustam izdod šā likuma 13.panta pirmajā daļā minētos noteikumus par valsts informācijas sistēmu reģistrāciju.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 09.06.2005 . likumu, kas stājas spēkā 06.07.2005. )"
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Līdz šo pārejas noteikumu 1.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai izveidotās valsts informācijas sistēmas reģistrējamas valsts informācijas sistēmu reģistrā sešu mēnešu laikā no minēto Ministru kabineta noteikumu spēkā stāšanās dienas.",
+      "content": "2. Līdz šo pārejas noteikumu 1.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai izveidotās valsts informācijas sistēmas reģistrējamas valsts informācijas sistēmu reģistrā sešu mēnešu laikā no minēto Ministru kabineta noteikumu spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā sešus mēnešus no šā likuma spēkā stāšanās dienas ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) 1996.gada 19.marta noteikumi nr.70 \" Noteikumi par valsts nozīmes datorizēto informācijas sistēmu statusa piešķiršanas kārtību un tehniskās realizācijas prasībām \";\n2) 1999.gada 7.decembra noteikumi nr.402 \" Integrētās valsts nozīmes informācijas sistēmas uzraudzības padomes nolikums \";\n3) 2000.gada 14.marta noteikumi nr.104 \" Noteikumi par integrētas valsts nozīmes informācijas sistēmas (megasistēmas) izveides nodrošināšanu \";\n4) 2000.gada 21.marta noteikumi nr.106 \" Informācijas sistēmu drošības noteikumi \";\n5) 2000.gada 20.jūnija noteikumi nr.201 \" Pašvaldību vienotās informācijas sistēmas projekta uzraudzības padomes nolikums \"."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2005.gada 1.augustam izdod šā likuma 4.panta otrajā daļā minētos noteikumus par:",
+      "content": "1) valsts informācijas sistēmu attīstības projektu uzraudzības kārtību;\n2) valsts informācijas sistēmu tehnisko prasību ievērošanu;\n3) valsts informācijas sistēmu drošības prasībām."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Šā likuma 15.pants un 16.panta otrā daļa stājas spēkā 2010.gada 1.janvārī.",
+      "content": "( 13.11.2008 . likuma redakcijā, kas stājas spēkā 16.12.2008 )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. (Izslēgts ar 09.06.2011 . likumu, kas stājas spēkā 13.07.2011. )",
+      "content": "6. (Izslēgts ar 09.06.2011 . likumu, kas stājas spēkā 13.07.2011. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 16.pantā minētos noteikumus par prasībām, kas ievērojamas valsts informācijas sistēmu savietotāju un integrētā valsts informācijas sistēmā ietilpstošo valsts informācijas sistēmu aizsardzībai.",
+      "content": "( 09.06.2011 . likuma redakcijā, kas stājas spēkā 13.07.2011. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Ministru kabinets līdz 2014.gada 1.oktobrim izdod šā likuma 17.panta sestajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 1.oktobrim ir piemērojami Ministru kabineta 2009.gada 6.oktobra noteikumi Nr.1131 \" Valsts informācijas sistēmu savietotāju izveidošanas, uzturēšanas un darbības kārtība un valsts informācijas sistēmas funkcionalitātes nodrošināšanas kārtība integrētas valsts informācijas sistēmas ietvaros \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 05.06.2014 . likuma redakcijā, kas stājas spēkā 26.06.2014. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Attiecībā uz valsts informācijas sistēmām, kuras izveidotas līdz 2022. gada 31. maijam, nepiemēro šā likuma 5. panta 1. 1 daļu līdz 2023. gada 31. jūlijam.",
+      "content": "( 05.05.2022 . likuma redakcijā, kas stājas spēkā 01.06.2022. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. Šā likuma grozījums par tā papildināšanu ar 18. pantu par valsts platformu izmantošanu stājas spēkā 2022. gada 1. decembrī. Ministru kabinets līdz 2022. gada 30. novembrim izdod šā likuma 18. panta ceturtajā un piektajā daļā minētos noteikumus.",
+      "content": "( 05.05.2022 . likuma redakcijā, kas stājas spēkā 01.06.2022. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "section": "pn11",
+      "title": "11. Šā likuma grozījums par 17. panta papildināšanu ar 5. 1 daļu stājas spēkā 2024. gada 1. janvārī.",
+      "content": "( 05.05.2022 . likuma redakcijā, kas stājas spēkā 01.06.2022. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "section": "pn12",
+      "title": "12. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 31. decembrim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) 2005. gada 11. oktobra noteikumi Nr. 764 \" Valsts informācijas sistēmu vispārējās tehniskās prasības \";\n2) 2012. gada 19. jūnija noteikumi Nr. 421 \" Valsts informācijas sistēmu savietotāju un integrēto valsts informācijas sistēmu aizsardzības prasības \";\n3) 2019. gada 5. novembra noteikumi Nr. 523 \" Valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēmas noteikumi \";\n4) 2021. gada 31. augusta noteikumi Nr. 597 \" Valsts informācijas sistēmu attīstības projektu uzraudzības kārtība \"."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "valsts informācijas sistēma",
+      "definition": "informācijas sistēma, kuras darbību nodrošina tiešās pārvaldes iestāde, valsts institūcija, kas nav Ministru kabineta padotībā, atvasināta publiska persona vai tās iestāde, tiesu iestāde, prokuratūra, kā arī privātpersona, kurai deleģēts valsts pārvaldes uzdevums, (turpmāk — institūcija) un kura nodrošina valsts pārvaldes funkcijas vai deleģēta valsts pārvaldes uzdevuma izpildei nepieciešamās informācijas ierosināšanu, radīšanu, apkopošanu, uzkrāšanu, apstrādāšanu, izmantošanu un iznīcināšanu (turpmāk — informācijas aprite)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts informācijas sistēmas pārzinis",
+      "definition": "institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmas darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts informācijas sistēmas lietotājs",
+      "definition": "juridiskā vai fiziskā persona, kura noslēgusi līgumu ar valsts informācijas sistēmas pārzini par datu lietošanu vai kura uz pieprasījuma pamata saņem datus valsts informācijas sistēmas pārziņa vai normatīvajos aktos noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts informācijas sistēmas datu subjekts",
+      "definition": "institūcija vai privātpersona, kura normatīvajos aktos noteiktajā kārtībā sniedz datus par sevi un sev piekritīgajiem reģistrējamiem juridiski dokumentētiem objektiem (turpmāk — piekritīgie reģistrējamie objekti)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "integrēta valsts informācijas sistēma",
+      "definition": "loģiska valsts informācijas sistēmu apvienība, kuras ietvaros vienotā informācijas laukā tiek uzturēti atsevišķu valsts informācijas sistēmu dati",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts informācijas sistēmu savietotājs",
+      "definition": "centralizēts informācijas tehnoloģiju kopums, ar kura palīdzību var nodrošināt informācijas apriti integrētas valsts informācijas sistēmas ietvaros, kā arī starp valsts informācijas sistēmām un citām informācijas sistēmām, kuras veido un uztur institūcijas vai privātpersonas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts informācijas sistēmu savietotāja pārzinis",
+      "definition": "institūcija, kas normatīvajos aktos noteiktajā kārtībā organizē un vada valsts informācijas sistēmu savietotāja darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts informācijas resursu, sistēmu un sadarbspējas informācijas sistēma",
+      "definition": "valsts informācijas sistēma, kas nodrošina valsts informācijas sistēmām un to darbībai nepieciešamo informācijas un komunikācijas tehnoloģiju resursu un pakalpojumu reģistrāciju un pārvaldību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "institūcijas informācijas sistēma",
+      "definition": "informācijas sistēma, kas nav valsts informācijas sistēma, atrodas institūcijas pārvaldībā un nodrošina informācijas apriti ar valsts informācijas sistēmu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "institūcijas informācijas sistēmas pārzinis",
+      "definition": "institūcija, kas organizē un vada institūcijas informācijas sistēmas darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts platforma",
+      "definition": "informācijas un komunikācijas tehnoloģiju resurss vai informācijas un komunikācijas tehnoloģiju resursu kopums, kas nodrošina valsts pārvaldes funkcijas vai deleģēta valsts pārvaldes uzdevuma veikšanu un paredzēts vairāku institūciju funkciju un uzdevumu izpildei un, ja valsts platformas pārzinis ir noteicis, arī pakalpojumu sniegšanai privātpersonām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts platformas pārzinis",
+      "definition": "institūcija, kas normatīvajos aktos par valsts platformu noteiktajā kārtībā organizē un vada valsts platformas darbību.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

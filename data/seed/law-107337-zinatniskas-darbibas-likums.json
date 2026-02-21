@@ -1,0 +1,695 @@
+{
+  "id": "lv-law-107337",
+  "type": "statute",
+  "title": "Zinātniskās darbības likums",
+  "title_en": "Law On Scientific Activity",
+  "short_name": "TA-107337",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/107337-zinatniskas-darbibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) inovācija — jaunu zinātniskās, tehniskās, sociālās, kultūras vai citas jomas ideju, izstrādņu un tehnoloģiju īstenošana produktā vai pakalpojumā;\n2) pētniecība — mērķtiecīga darbība ar zinātnes metodēm iegūto faktu, teoriju un dabas likumu izmantošanai jaunu produktu, procesu un metožu radīšanā vai pilnveidošanā;\n2 1 ) tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskā izmantošana (komercializācija) — mantisko tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni atsavināšana vai izmantošana pret atlīdzību vai bez atlīdzības;\n2 2 ) tehnoloģiju tiesības — zinātība, patenti, funkcionālie modeļi, dizainparauga tiesības, pusvadītāju izstrādājumu topogrāfijas, papildu aizsardzības sertifikāti medicīnas produktiem vai citiem produktiem, attiecībā uz kuriem iespējams saņemt šādus papildu aizsardzības sertifikātus, augu selekcionāru sertifikāti, programmatūras autortiesības, tai skaitā minēto tiesību pieteikumi vai reģistrācijas pieteikumi, kā arī minēto tiesību kombinācija;\n2 3 ) zinātība — praktiskas informācijas kopums, kas rodas pieredzes un testēšanas rezultātā un ir slepens (nav vispārzināms vai viegli pieejams), būtisks (svarīgs un noderīgs līguma produktu ražošanai), precīzs (aprakstīts pietiekami vispusīgi, lai būtu iespējams pārbaudīt tā atbilstību slepenības un būtiskuma kritērijiem) un atbilst Komisijas 2014. gada 21. marta regulas (ES) Nr. 316/2014 par Līguma par Eiropas Savienības darbību 101. panta 3. punkta piemērošanu tehnoloģiju nodošanas nolīgumu kategorijām (Dokuments attiecas uz EEZ) 1. panta 1. punkta \"i\" apakšpunktā noteiktajai definīcijai;\n3) zinātne — intelektuālās darbības sfēra, kurā ar teorētiskām vai eksperimentālām metodēm tiek iegūtas un apkopotas zināšanas par dabā un sabiedrībā pastāvošajām likumsakarībām;\n4) zinātniskā darbība — radoša darbība, kas ietver zinātni, pētniecību un inovācijas;\n5) zinātnes tehniskais personāls — personas, kurām ir nepieciešamās tehniskās zināšanas un pieredze vienā vai vairākās jomās un kuras zinātnieku vadībā piedalās zinātniskajā darbībā, veicot tehniskos uzdevumus. Zinātnes tehniskajā personālā ietilpst inženieri, tehniķi, laboranti, tehnologi, operatori;\n6) zinātni apkalpojošais personāls — personas, kuras veic zinātniskajai darbībai nepieciešamās palīgfunkcijas (plānošanas, ekonomisko, finanšu, zinātniski tehniskās informācijas struktūrvienību darbinieki, speciālo un zinātniski tehnisko bibliotēku darbinieki, patentu dienesta speciālisti, arhivāri u.tml.);\n7) zinātniskās institūcijas — zinātniskie institūti, augstskolas, komercsabiedrības, kā arī citas institūcijas, kuru statūtos, nolikumā vai satversmē ir paredzēta zinātniskā darbība, piedalīšanās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā un kuras ir reģistrētas zinātnisko institūciju reģistrā. Zinātniskajā institūcijā jābūt vismaz piecām personām ar zinātnes doktora grādu institūcijas darbībai atbilstošajā pētījumu virzienā;\n8) Latvijas Zinātnes padomes eksperts — zinātnieks, kurš ir sasniedzis noteiktus zinātniskās darbības rezultātus zinātnes nozarē atbilstoši izvirzītajiem eksperta kvalifikācijas kritērijiem un kuram Latvijas Zinātnes padome piešķīrusi eksperta tiesības zinātnes nozarē;\n9) valsts zinātniskā institūcija — valsts augstskola, tai skaitā augstskola — atvasināta publiska persona, valsts augstskolas struktūrvienība, valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona, valsts zinātniskais institūts, tai skaitā zinātniskais institūts — atvasināta publiska persona, cita valsts publiskā institūcija, publiskas personas kapitālsabiedrība, kuru statūtos, nolikumā vai satversmē ir paredzēta zinātniskā darbība, piedalīšanās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā un kuras ir reģistrētas zinātnisko institūciju reģistrā. Valsts zinātniskajā institūcijā jābūt vismaz piecām personām ar zinātnes doktora grādu institūcijas darbībai atbilstošajā pētījumu virzienā.\n(2) Likumā lietotie termini atbilst Augu šķirņu aizsardzības likumā un Patentu likumā lietotajiem terminiem un to skaidrojumam."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "(1) Šā likuma mērķis ir nostiprināt valsts rūpes par zinātni kā īpaši svarīgu sabiedrības attīstības faktoru.\n(2) Likums nosaka zinātnes un augstākās izglītības vienotību, zinātnieku tiesības, atbildību, neatkarību un akadēmisko brīvību, profesionālās un sociālās garantijas, valsts institūciju kompetenci un saistības zinātniskās darbības nodrošināšanā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Tiesības veikt zinātnisko darbību",
+      "content": "Tiesības veikt zinātnisko darbību ir jebkurai personai neatkarīgi no rases, tautības, dzimuma, valodas, vecuma, politiskās un reliģiskās pārliecības, sociālās izcelsmes, mantiskā, ģimenes vai dienesta stāvokļa un citiem apstākļiem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Zinātniskie darbinieki",
+      "content": "Zinātniskie darbinieki ir:\n1) (izslēgts ar 14.03.2024 . likumu) ;\n1 1 ) vadošais pētnieks, pētnieks, zinātniskais asistents un šo amatu pienākumu izpildītāji;\n2) zinātnes tehniskais personāls;\n3) zinātni apkalpojošais personāls."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Zinātnieka statuss",
+      "content": "(1) Zinātnieka statuss ir fiziskajai personai, kurai normatīvajos aktos noteiktajā kārtībā ir piešķirts zinātnes doktora grāds vai ārvalstī izsniegtais izglītības dokuments vai ārvalstī piešķirtais akadēmiskais grāds atbilst vai ir pielīdzināts Latvijā piešķiramam zinātnes doktora grādam un kura veic zinātnisko darbību.\n(2) Jaunais zinātnieks ir fiziskā persona, kurai pēdējo 10 gadu laikā ir piešķirts zinātnes doktora grāds vai minētajā termiņā ārvalstī izsniegtais izglītības dokuments vai ārvalstī piešķirtais akadēmiskais grāds atbilst vai ir pielīdzināts Latvijā piešķiramam zinātnes doktora grādam un kura veic zinātnisko darbību."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Zinātnieka pienākumi",
+      "content": "Zinātnieka vispārīgie pienākumi ir šādi:\n1) veicot zinātnisko darbību, nodrošināt zinātnisko pētījumu objektivitāti;\n2) informēt sabiedrību par savu zinātnisko pētījumu rezultātiem, kā arī savas kompetences ietvaros sniegt konsultācijas un eksperta atzinumus;\n3) popularizēt zinātnes sasniegumus un atziņas, sniegt atzinumus par moderno tehnoloģiju un organizatorisko paņēmienu izmantošanas iespējām Latvijas tautas labklājības un valsts saimnieciskās konkurētspējas attīstībai;\n4) pilnveidot savu zinātnisko kvalifikāciju un piedalīties jaunu zinātnieku sagatavošanā;\n5) pārtraukt zinātniskos pētījumus, ja tie, pēc zinātnieka atzinuma, var radīt draudus cilvēcei, sabiedrībai vai dabai, un informēt par to sabiedrību;\n6) piedalīties tādu zinātnisko pētījumu uzdevumu formulēšanā, kuru mērķis ir attīstīt Latvijas saimniecisko konkurētspēju un nacionālo identitāti;\n7) piedalīties izglītības sistēmas zinātniskās attīstības un pilnveidošanas procesā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Zinātnieka atbildība",
+      "content": "(1) Zinātnieks atbild par savu zinātnisko pētījumu rezultātu objektivitāti un par saviem secinājumiem, kas izdarīti, pamatojoties uz šiem rezultātiem.\n(2) Zinātnieks atbild par savas kompetences pārsniegšanu, ja tās rezultātā sabiedrībai tiek sniegtas rekomendācijas, kas neizriet no konkrētiem zinātnisko pētījumu rezultātiem.\n(3) Zinātnieks atbild par to, lai viņam zinātniskās darbības veikšanai nodotie materiāli, finanšu līdzekļi un informācija tiktu izmantota vienīgi izvirzīto mērķu sasniegšanai.\n(4) Zinātnieks neatbild par zinātnisko pētījumu rezultātu tālākas izmantošanas sekām, izņemot gadījumu, kad viņš pats šos pētījumu rezultātus izmantojis vai sagatavojis izmantošanai vai arī kad starp zinātnieku un viņa pētījumu rezultātu izmantotāju pastāv vienošanās par zinātnieka atbildību."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Zinātnieka tiesības",
+      "content": "(1) Zinātniekam ir tiesības:\n1) brīvi izvēlēties zinātnisko pētījumu virzienu un metodes atbilstoši savām zinātniskajām interesēm, kompetencei un humānisma principiem;\n2) ar individuālu vai kolektīvu zinātnisko pētījumu projektu piedalīties jebkuros atklātos zinātniskās darbības konkursos Latvijā un ārvalstīs;\n3) neatkarīgi no darba tiesiskajām attiecībām saņemt valsts un citu personu piešķirto finansējumu likumā noteiktajā kārtībā. Attiecībā uz šādi iegūtiem līdzekļiem zinātniekam ir tiesības būt kredīta rīkotājam;\n4) piedalīties atklātos konkursos, lai iegūtu līdzekļus savas kvalifikācijas pilnveidošanai, kā arī zinātniskās darbības norisēs un izpausmēs Latvijā un ārvalstīs;\n5) bez cenzūras iesniegt savas zinātniskās darbības rezultātus publicēšanai paša izraudzītos izdevumos.\n(2) Zinātniskajās institūcijās nodarbinātajiem zinātniekiem ik gadu pienākas apmaksāts ikgadējais astoņu kalendāra nedēļu atvaļinājums, neskaitot svētku dienas, bet ik pēc sešiem gadiem var tikt piešķirts apmaksāts 26 kalendāra nedēļu akadēmiskais atvaļinājums, neskaitot svētku dienas, zinātnisku pētījumu veikšanai vai kvalifikācijas pilnveidošanai ārpus savas darbavietas.\n(3) Zinātniekam ir ekskluzīvas tiesības uz intelektuālo īpašumu, kas radies viņa zinātniskās darbības rezultātā, ja līgumā nav noteikts citādi.\n(4) Ja zinātnieks strādājis uz līguma pamata, viņa tiesības uz zinātniskās darbības rezultātā radīto īpašumu nosaka līgums. Zinātnieka mantiskās tiesības uz izgudrojumu, kas radīts valsts, pašvaldības, Eiropas Savienības fondu vai citas publiskas personas finansētas zinātniskās darbības rezultātā, reglamentē šā likuma 39. 1 , 39. 2 , 39. 3 , 39. 4 , 39. 5 un 39. 6 panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Atklātums informācijā par zinātniskajiem pētījumiem",
+      "content": "(1) Informācija par zinātniskajiem pētījumiem, kas finansēti no valsts vai pašvaldības budžeta, ir atklāta.\n(2) Par zinātnisko pētījumu, kas finansēti no valsts budžeta vai atvasinātu publisku personu budžeta, veikšanu atbildīgā institūcija, kas pētījumu pasūtījusi, nodrošina pētījumu rezultātu vispārēju pieejamību.\n(3) Likumā noteiktajos gadījumos pieejamību informācijai, kas attiecas uz zinātniskajiem pētījumiem, var ierobežot."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Zinātniskā kvalifikācija",
+      "content": "(1) Zinātnisko kvalifikāciju apliecina zinātnes doktora grāds, kuru piešķir Zinātnes doktora grāda piešķiršanas padome (Promocijas padome). Ārvalstīs iegūta zinātnes doktora grāda pielīdzināšana notiek saskaņā ar Latvijai saistošiem starp­tautiskajiem līgumiem.\n(2) Persona iegūst zinātnieka statusu, kad attiecībā uz šo personu stājas spēkā lēmums par zinātnes doktora grāda piešķiršanu vai ārvalstīs iegūtās kvalifikācijas pielīdzināšanu.\n(2 1 ) (Izslēgta ar 14.03.2024 . likumu)\n(3) (Izslēgta ar 14.03.2024 . likumu)\n(4) Habilitētajiem doktoriem ir attiecīgās zinātnes nozares doktora tiesības.\n(5) (Zaudējusi spēku ar 01.01.2011. Sk. Pārejas noteikumu 16.punktu)\n(6) Nav atļauts zinātnes doktora grādam pielīdzināt Padomju Sociālistisko Republiku Savienībā iegūto zinātnes doktora grādu, kas iegūts, pamatojoties uz darbu marksismā-ļeņinismā, zinātniskajā komunismā, Padomju Savienības Komunistiskās (boļševiku) partijas vēsturē, zinātniskajā ateismā, padomju tiesībās, padomju ideoloģisko organizāciju apoloģētikā, kā arī darbu, kurā slavināta totalitāra ideoloģija vai kurā noniecināts vai noliegts Latvijas Republikas valstiskums.\n(7) (Izslēgta ar 14.07.2022 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Zinātnes doktora grāda piešķiršanas kārtība",
+      "content": "(1) Zinātnes doktora grādu personai piešķir pēc sekmīgas promocijas darba aizstāvēšanas Promocijas padomē. Zinātnes doktora grāda piešķiršanas (promocijas) kārtību nosaka Ministru kabinets.\n(2) Ar promocijas darbu zinātnes doktora grāda pretendents apliecina, ka viņš ir patstāvīgi veicis oriģinālu zinātnisku pētījumu, prot patstāvīgi plānot pētījumu, ir apguvis pētījumu veikšanas metodoloģiju un darbam specialitātē nepieciešamās metodes, spēj patstāvīgi analizēt iegūtos rezultātus un izdarīt tiem atbilstošus secinājumus. Promocijas darbu ir tiesības aizstāvēt zinātnes doktora grāda pretendentam, kas ir persona, kura sekmīgi apguvusi akreditētas doktora studiju programmas akadēmisko daļu un sagatavojusi promocijas darbu aizstāvēšanai vai kuras akadēmiskā darbība, kas veikta ārpus šīs programmas, tiek tai pielīdzināta, ievērojot šajā programmā paredzēto kārtību un atbilstoši Ministru kabineta noteiktajiem kritērijiem, un kura ir sekmīgi nokārtojusi eksāmenus izraudzītajā zinātnes nozarē.\n(3) Zinātnes doktora grāda piešķiršanas (promocijas) tiesības augstskolai deleģē Ministru kabinets pēc Latvijas Zinātnes padomes atzinuma. Augstskola var iesniegt Latvijas Zinātnes padomei pieteikumu deleģēt tai tiesības piešķirt zinātnes doktora grādu, ja tajā tiek īstenota akreditēta attiecīgā doktorantūras studiju programma un šīs programmas īstenošanā iesaistīti ne mazāk par trim Latvijas Zinātnes padomes ekspertiem.\n(4) Zinātnes doktora grāda piešķiršanu pārrauga Ministru kabineta izveidota Valsts zinātniskās kvalifikācijas komisija. Šī komisija darbojas Ministru kabineta noteiktajā kārtībā.\n(5) Promocijas darbu var iesniegt valsts valodā vai kādā no Eiropas Savienības oficiālajām valodām, pievienojot izvērsta promocijas darba kopsavilkuma tulkojumu valsts valodā. Publiskā aizstāvēšana var notikt valsts valodā vai kādā no Eiropas Savienības oficiālajām valodām — pēc vienošanās ar autoru un ar attiecīgās Zinātnes doktora grādu piešķiršanas padomes akceptu. Promocijas darbu iesniegšana un publiska aizstāvēšana zinātnes doktora grāda valodniecības un literatūrzinātnes nozarē ieguvei var notikt arī citā svešvalodā, ja darbs veltīts tieši attiecīgās valodas izpētei."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Goda doktora grāda piešķiršana",
+      "content": "(1) Universitātes un Latvijas Zinātņu akadēmija par īpašiem nopelniem zinātnē var piešķirt Goda doktora (Doctor honoris causa, Dr.h.c.) grādu. Piešķiršanas procedūru un kārtību nosaka šo iestāžu koleģiālo pārvaldes institūciju apstiprināts nolikums.\n(2) Goda doktora grāds nerada personai zinātnieka tiesības vai tiesības, kādas ir personai ar zinātnes doktora grādu."
+    },
+    {
+      "provision_ref": "Art. 12.1",
+      "section": "12.1",
+      "title": "12. 1 pants. Valsts emeritētā zinātnieka statusa piešķiršana",
+      "content": "(1) Izciliem, starptautiski atzītiem zinātniekiem pēc likumā noteiktā pensijas vecuma sasniegšanas var piešķirt valsts emeritētā zinātnieka statusu.\n(2) Lēmumu par valsts emeritētā zinātnieka statusa piešķiršanu pieņem Latvijas Zinātņu akadēmija, noskaidrojot Valsts emeritēto zinātnieku padomes viedokli. Valsts emeritēto zinātnieku padomes sastāvu apstiprina izglītības un zinātnes ministrs uz četriem gadiem.\n(3) Valsts emeritētajam zinātniekam piešķir mūža grantu — pabalstu, ko maksā papildus vecuma pensijai. To izmaksā Latvijas Zinātņu akadēmija no Izglītības un zinātnes ministrijas budžetā zinātniskajai darbībai paredzētajiem finanšu līdzekļiem.\n(4) Ministru kabinets nosaka valsts emeritētā zinātnieka statusa pretendentu izvirzīšanas kārtību, atlases kritērijus un kārtību, kādā piešķir valsts emeritētā zinātnieka statusu un mūža grantu, piešķiramā mūža granta apmēru, kā arī Valsts emeritēto zinātnieku padomes izveidošanas kārtību un darbības pamatnoteikumus."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Zinātniskās darbības nodrošināšana",
+      "content": "(1) (Izslēgta ar 21.06.2007 . likumu.)\n(2) Ministru kabinets:\n1) nosaka valsts zinātnes un tehnoloģiju attīstības, kā arī inovācijas politiku;\n2) (izslēgts ar 13.06.2019 . likumu) ;\n3) apstiprina valsts pētījumu programmas;\n3 1 ) nosaka Latvijas zinātnes nozaru grupas, zinātnes nozares un apakšnozares;\n3 2 ) apstiprina atbalsta programmas tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskajai izmantošanai (komercializācijai);\n4) veic citas šajā likumā noteiktās darbības.\n(3) Izglītības un zinātnes ministrija:\n1) izstrādā valsts zinātnes un tehnoloģijas attīstības politiku;\n2) sagatavo pieprasījumu ikgadējo valsts budžeta līdzekļu piešķiršanai zinātniskās darbības nodrošināšanai atbilstoši valsts zinātnes un tehnoloģijas attīstības politikai;\n3) var slēgt deleģēšanas un līdzdarbības līgumus par starptautiskās sadarbības projektu un programmu ieviešanu, Latvijas zinātnes atpazīstamības nodrošināšanu un sabiedrības izpratnes veidošanu par zinātnes nozīmi ilgtspējīgā valsts attīstībā;\n4) koordinē starptautiskās sadarbības programmas pētniecības un tehnoloģiju jomās un Ministru kabineta noteiktajā kārtībā nodrošina atbalstu dalībai šajās programmās;\n4 1 ) uztur un aktualizē Nacionālo zinātniskās darbības informācijas sistēmu;\n5) veic citas likumā noteiktās darbības.\n(4) Ekonomikas ministrija:\n1) izstrādā inovācijas politiku;\n2) var slēgt deleģēšanas un līdzdarbības līgumus par starptautisku tehnoloģiju pārneses projektu ieviešanu un īstenošanu, inovācijas labās prakses piemēru popularizēšanas un inovatīvi aktīvas sabiedrības veidošanas pasākumu īstenošanu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Latvijas Zinātnes padome",
+      "content": "(1) Latvijas Zinātnes padome ir izglītības un zinātnes ministra pārraudzībā esoša tiešās pārvaldes iestāde, kas darbojas saskaņā ar šo likumu, citiem normatīvajiem aktiem un Latvijas Zinātnes padomes nolikumu .\n(2) Latvijas Zinātnes padome īsteno valsts zinātnes un tehnoloģiju attīstības politiku, pildot šādas funkcijas:\n1) stratēģiska zinātnes politikas ieviešana un zinātnes stratēģiskā komunikācija;\n2) zinātnisko pētījumu programmu plānošana un īstenošana;\n3) zinātniskās ekspertīzes nodrošināšana publiskā un privātā sektora vajadzībām;\n4) starptautiskās zinātniskās sadarbības veicināšana un koordinēšana.\n(3) Latvijas Zinātnes padomes direktoru, kas ir starptautiski atzīts zinātnieks ar pieredzi zinātniskās institūcijas vai tās struktūrvienības, vai Latvijas Zinātnes padomei līdzvērtīgas organizācijas vadītāja amatā, uz pieciem gadiem amatā ieceļ un no amata atbrīvo izglītības un zinātnes ministrs. Viena un tā pati persona par Latvijas Zinātnes padomes direktoru var būt ne ilgāk kā divus termiņus pēc kārtas.\n(4) Latvijas Zinātnes padomes pieņemtos lēmumus var pārsūdzēt tiesā likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Latvijas Zinātnes padomes sastāvs",
+      "content": "(Izslēgts ar 14.11.2019 . likumu, kas stājas spēkā 01.07.2020. )"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "section": "16",
+      "title": "Latvijas Zinātnes padomes kompetence",
+      "content": "Latvijas Zinātnes padomes kompetencē ietilpst:\n1) priekšlikumu sagatavošana valsts zinātnes un tehnoloģijas attīstības politikas izstrādei;\n2) priekšlikumu izstrāde zinātnes finansēšanai nepieciešamā valsts budžeta projekta sagatavošanai;\n3) zinātniskajai darbībai piešķirto valsts budžeta līdzekļu sadale Ministru kabineta noteiktajā kārtībā, kā arī atzinumu sniegšana par piešķirto valsts budžeta līdzekļu izlietojuma zinātnisko lietderību;\n4) konkursa kārtībā pieteikto no valsts budžeta finansēto zinātnisko pētījumu projektu un programmu izvērtēšana un lēmuma pieņemšana par konkursa kārtībā pieteikta un no valsts budžeta finansējama zinātniskā pētījuma projekta vai programmas projekta apstiprināšanu vai noraidīšanu. Lēmumu pieņem sešu mēnešu laikā no attiecīgā konkursa nolikumā noteiktā projekta iesniegšanas beigu datuma, nodrošinot lēmuma pieņemšanas procesa atklātumu;\n4 1 ) neatkarīgas zinātniskās ekspertīzes nodrošināšana zinātnisko pētījumu projektiem un programmām;\n5) no valsts budžeta finansēto zinātnisko pētījumu rezultātu zinātniska izvērtēšana un apkopošana, rezultātu pieejamības nodrošināšana;\n6) starptautiskās zinātniskās sadarbības organizēšana un finansēšana;\n7) atzinumu sniegšana par licencēšanai iesniegto doktora studiju programmu vai par doktora studiju programmu, kas iekļauta akreditācijai iesniegtajā studiju virzienā;\n8) Latvijas Zinātnes padomes eksperta tiesību piešķiršana;\n8 1 ) augstskolu doktorantūras studiju programmu īstenošanā iesaistīto Latvijas Zinātnes padomes ekspertu apstiprināšana atbilstoši šā likuma 11. panta trešajā daļā noteiktajam;\n9) ar tās darbību saistītās informācijas sagatavošana un publicēšana;\n10) pētniecības ētikas un zinātnisko diskusiju principu noteikšana sadarbībā ar Latvijas Zinātņu akadēmiju;\n11) ziņu ievade, apstrāde un aktualizēšana Latvijas Zinātnes padomes ekspertu datubāzē."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "section": "17",
+      "title": "Latvijas Zinātnes padomes tiesības",
+      "content": "(1) Latvijas Zinātnes padome ir tiesīga:\n1) pieprasīt un saņemt zinātnisko pētījumu projektu un programmu izvērtēšanas, īstenošanas un rezultātu monitoringa nodrošināšanai nepieciešamo informāciju;\n2) (izslēgts ar 14.03.2024 . likumu);\n3) pieprasīt un saņemt publisku informāciju, kura attiecas uz zinātnisko darbību Latvijas Republikā;\n4) algot darbiniekus savas darbības nodrošināšanai kārtējam gadam piešķirto valsts budžeta līdzekļu ietvaros;\n5) pieaicināt ekspertus un veidot darba grupas šajā likumā noteikto Latvijas Zinātnes padomes funkciju izpildei.\n(2) Latvijas Zinātnes padome nav tiesīga ierobežot zinātniskajos pētījumos iesais­tīto zinātnieku tiesības, kas noteiktas šā likuma 8.pantā ."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "section": "18",
+      "title": "Latvijas Zinātnes padomes eksperti",
+      "content": "(1) (Izslēgta ar 14.03.2024 . likumu)\n(2) (Izslēgta ar 14.03.2024 . likumu)\n(3) (Izslēgta ar 14.03.2024 . likumu)\n(4) (Izslēgta ar 14.03.2024 . likumu)\n(5) (Izslēgta ar 14.03.2024 . likumu)\n(6) Latvijas Zinātnes padomes apstiprinātos ekspertus reģistrē Latvijas Zinātnes padomes ekspertu datubāzē, kurā par ekspertu ietver šādas ziņas:\n1) vārdu, uzvārdu;\n2) personas kodu;\n3) zinātnes doktora grādu;\n4) zinātnes nozari;\n5) ekspertīzes jomu.\n(7) Latvijas Zinātnes padomes eksperta tiesības piešķir uz trim gadiem. Zinātniekam var būt piešķirtas Latvijas Zinātnes padomes eksperta tiesības vairākās zinātnes nozarēs.\n(8) Latvijas Zinātnes padomes eksperta kvalifikācijas kritērijus zinātnes nozarē, to izvērtēšanas un Latvijas Zinātnes padomes eksperta tiesību piešķiršanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 18.1",
+      "section": "18.1",
+      "title": "18. 1 pants. Studiju un zinātnes administrācija",
+      "content": "(Izslēgts ar 14.11.2019 . likumu, kas stājas spēkā 01.07.2020. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "section": "19",
+      "title": "Zinātniskā darbība augstskolās",
+      "content": "(1) Augstskolu pienākums ir veikt zinātnisko darbību un izdot zinātnisko rakstu krājumus vai žurnālus.\n(2) Zinātniskā darbība augstskolās tiek veikta saskaņā ar šo likumu, Augstskolu likumu un attiecīgās augstskolas satversmi.\n(3) Augstskola publicē pārskatu par savu zinātnisko darbību atsevišķa izdevuma formā un internetā ne vēlāk kā sešus mēnešus pēc pārskata gada beigām."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "section": "20",
+      "title": "Latvijas Zinātņu akadēmija",
+      "content": "Latvijas Zinātņu akadēmija sastāv no vēlētiem Latvijas Zinātņu akadēmijas locekļiem un valsts pārvaldes sistēmā ir atvasināta publisko tiesību persona ar autonomu kompetenci, kuras tiesības un pienākumi noteikti tās Hartā, šajā likumā un citos likumos, kā arī tās statūtos un kuru daļēji finansē no valsts budžeta. Latvijas Zinātņu akadēmijas Hartu apstiprina Saeima, un tajā ir norādīti Latvijas Zinātņu akadēmijas darbības mērķi, pamatvirzieni, tiesiskie un ekonomiskie pamati, pārvaldes sistēma, tiesības un pienākumi."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "section": "21",
+      "title": "Zinātniskais institūts",
+      "content": "(1) Zinātniskais institūts veic zinātnisko darbību, kā arī ar zinātniskās kvalifikācijas iegūšanu un pilnveidošanu saistītas darbības tā dibinātāja vai izveidotāja noteiktajā zinātnisko pētījumu nozarē. Zinātniskais institūts akadēmisko mērķu sasniegšanā ir brīvs no dibinātāja vai izveidotāja ietekmes.\n(2) Zinātniskais institūts var būt:\n1) publiska aģentūra;\n2) atvasināta publiska persona;\n3) valsts augstskolas struktūrvienība;\n4) privāto tiesību juridiskā persona vai tās struktūrvienība.\n(3) Valsts zinātnisko institūtu var izveidot kā valsts aģentūru vai atvasinātu publisku personu. Valsts zinātniskais institūts atrodas izglītības un zinātnes ministra vai attiecīgās nozares ministra pārraudzībā.\n(4) Valsts zinātnisko institūtu izveidošanai, reorganizēšanai un likvidēšanai ir nepieciešams Latvijas Zinātnes padomes atzinums.\n(5) Valsts dibinātas universitātes zinātnisko institūtu var izveidot kā atvasinātu publisku personu. Valsts dibinātas universitātes izveidots zinātniskais institūts — atvasināta publiska persona — atrodas attiecīgās universitātes pārraudzībā.\n(6) Valsts zinātnisko institūtu — atvasinātu publisku personu reorganizē:\n1) apvienojot to ar citu valsts zinātnisko institūtu — atvasinātu publisku personu, bet uz reorganizējamo institūtu bāzes izveidojot jaunu valsts zinātnisko institūtu — atvasinātu publisku personu;\n2) nododot to valsts augstskolai — atvasinātai publiskai personai, bet uz reorganizējamā institūta bāzes izveidojot valsts augstskolas struktūrvienību, valsts augstskolas publisku aģentūru vai valsts dibinātas universitātes zinātnisko institūtu — atvasinātu publisku personu;\n3) pievienojot to citam valsts zinātniskajam institūtam — atvasinātai publiskai personai, valsts augstskolai — atvasinātai publiskai personai vai valsts dibinātas universitātes zinātniskajam institūtam — atvasinātai publiskai personai, ja pievienojamais valsts zinātniskais institūts beidz pastāvēt.\n(7) Lēmumu par valsts zinātniskā institūta — atvasinātas publiskas personas — reorganizāciju vai likvidāciju pieņem Ministru kabinets pēc izglītības un zinātnes ministra vai attiecīgās nozares ministra ierosinājuma. Ministru kabineta rīkojuma projektam par valsts zinātniskā institūta — atvasinātas publiskas personas — reorganizāciju vai likvidāciju pievienojams Latvijas Zinātnes padomes atzinums. Ja Ministru kabineta rīkojuma projektu iesniedz attiecīgās nozares ministrs, šis projekts ir saskaņojams arī ar izglītības un zinātnes ministru."
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "section": "21.1",
+      "title": "21. 1 pants. Zinātniskais institūts — publiska aģentūra",
+      "content": "(1) Zinātnisko institūtu — publisku aģentūru — izveido ar attiecīgās publiskās personas lēmējinstitūcijas lēmumu.\n(2) Zinātniskā institūta — publiskas aģentūras — darbību nosaka šis likums, Publisko aģentūru likums un citi normatīvie akti.\n(3) Zinātniskais institūts — publiska aģentūra — normatīvajos aktos noteiktajā kārtībā un atbilstoši savam nolikumam rīkojas ar tā rīcībā nodoto mantu un finanšu līdzekļiem, izsludina konkursus, slēdz līgumus, nosaka maksu par sniegtajiem pakalpojumiem pētniecības un kvalifikācijas pilnveidošanas jomā."
+    },
+    {
+      "provision_ref": "Art. 21.2",
+      "section": "21.2",
+      "title": "21. 2 pants. Zinātniskais institūts — atvasināta publiska persona",
+      "content": "(1) Zinātnisko institūtu — atvasinātu publisku personu — izveido ar Ministru kabineta lēmumu.\n(2) Zinātniskā institūta — atvasinātas publiskas personas — lēmējinstitūcija ir zinātniskā institūta zinātniskā padome.\n(3) Zinātniskā institūta — atvasinātas publiskas personas — zinātniskā padome papildus citos normatīvajos aktos noteiktajai kompetencei apstiprina zinātniskā institūta nolikumu un budžetu, kā arī var izveidot, reorganizēt un likvidēt iestādes un dibināt, reorganizēt un likvidēt kapitālsabiedrības, lemt par dalību biedrībās, nodibinājumos un kapitālsabiedrībās.\n(4) Zinātniskais institūts — atvasināta publiska persona — nav tiesīgs veidot citu zinātnisko institūtu.\n(5) Valsts zinātnisko institūtu — valsts aģentūru — ar Ministru kabineta lēmumu var pārveidot par valsts zinātnisko institūtu — atvasinātu publisku personu. Pārveidojot tiek izvērtēti šādi zinātniskā institūta darbības aspekti:\n1) piesaistītā privātā sektora finansējuma apjoms;\n2) līdzšinējā zinātniskā institūta sadarbībā ar komersantiem gūtie rezultāti un tautsaimniecības ekspertu atzinumi par tiem.\n(6) Valsts zinātniskie institūti \"Elektronikas un datorzinātņu institūts\", \"Fizikālās enerģētikas institūts\", \"Latvijas Biomedicīnas pētījumu un studiju centrs\", \"Latvijas Organiskās sintēzes institūts\", \"Latvijas Valsts koksnes ķīmijas institūts\" un \"Latvijas Valsts mežzinātnes institūts \"Silava\", kā arī Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts \"BIOR\" ir valsts zinātniskie institūti — atvasinātas publiskas personas."
+    },
+    {
+      "provision_ref": "Art. 21.3",
+      "section": "21.3",
+      "title": "21. 3 pants. Zinātniskais institūts — augstskolas struktūrvienība",
+      "content": "Zinātnisko institūtu var izveidot kā augstskolas struktūrvienību, ievērojot Augstskolu likuma , šā likuma un citu normatīvo aktu noteikumus."
+    },
+    {
+      "provision_ref": "Art. 21.4",
+      "section": "21.4",
+      "title": "21. 4 pants. Zinātniskais institūts — privāto tiesību juridiskā persona",
+      "content": "(1) Zinātniskais institūts — privāto tiesību juridiskā persona — tiek izveidots vai nodibināts un darbojas saskaņā ar šo likumu, Komerclikumu , Biedrību un nodibinājumu likumu, kā arī citiem normatīvajiem aktiem.\n(2) Zinātnisko institūtu — privāto tiesību juridisko personu — var nodibināt arī kā valsts vai pašvaldības kapitālsabiedrību."
+    },
+    {
+      "provision_ref": "Art. 21.5",
+      "section": "21.5",
+      "title": "21. 5 pants. Valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona",
+      "content": "(1) Lēmumu par valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas — dibināšanu vai likvidēšanu pieņem valsts dibinātas universitātes senāts. Senāta pieņemto lēmumu apstiprina Ministru kabinets. Valsts dibinātas universitātes senāts lēmumā nosaka to valsts dibinātas universitātes kustamo un nekustamo mantu, kas nododama zinātniskā institūta — atvasinātas publiskas personas — īpašumā, valdījumā vai lietošanā. Valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas — nolikumu pieņem zinātniskā institūta lēmējinstitūcija, un pēc valsts dibinātas universitātes senāta ieteikuma to apstiprina Ministru kabinets.\n(2) Valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas — lēmējinstitūcija ir zinātniskā institūta zinātniskā padome.\n(3) Valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas — zinātniskā padome atbilstoši tās noteiktajai kompetencei var izveidot, reorganizēt un likvidēt iestādes un dibināt, reorganizēt un likvidēt kapitālsabiedrības, lemt par dalību biedrībās, nodibinājumos un kapitālsabiedrībās.\n(4) Valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona — nav tiesīgs veidot citu zinātnisko institūtu.\n(5) Ministru kabineta lēmums, ar kuru tas apstiprina valsts dibinātas universitātes senāta lēmumu par valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas — dibināšanu vai likvidēšanu, nav administratīvs akts."
+    },
+    {
+      "provision_ref": "Art. 21.6",
+      "section": "21.6",
+      "title": "21. 6 pants. Zinātniskā institūta — atvasinātas publiskas personas — manta",
+      "content": "(1) Zinātniskā institūta — atvasinātas publiskas personas — mantu Latvijā un ārvalstīs saskaņā ar spēkā esošajiem normatīvajiem aktiem veido:\n1) naudas līdzekļi, cita kustama un nekustama manta, kas zinātniskajam institūtam dāvināta vai ziedota, ko tas mantojis vai ieguvis par pašu līdzekļiem;\n2) par valsts budžeta līdzekļiem iegādātā manta. Nekustamais īpašums ierakstāms zemesgrāmatā kā zinātniskā institūta īpašums;\n3) zinātniskā institūta intelektuālais īpašums;\n4) nekustamais īpašums, ko tam bez atlīdzības nodevusi cita atvasināta publiska persona vai valsts.\n(2) Zinātniskajam institūtam — atvasinātai publiskai personai — ir tiesības rīkoties ar savu mantu tā darbības stratēģijā norādīto mērķu sasniegšanai, ievērojot spēkā esošos normatīvos aktus un institūta nolikumu.\n(3) Rīcību ar šā panta pirmās daļas 4.punktā minēto īpašumu un tā turpmāko izmantošanu nosaka Publiskas personas mantas atsavināšanas likums.\n(4) Zinātniskā institūta — atvasinātas publiskas personas — manta tiek pārvaldīta nošķirti no tam valdījumā nodotās valsts mantas.\n(5) Valsts mantu var nodot zinātniskā institūta — atvasinātas publiskas personas — īpašumā, valdījumā vai lietošanā ar Ministru kabineta lēmumu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "section": "22",
+      "title": "Zinātniskā institūta pārvalde",
+      "content": "Zinātnisko institūtu pārvalda zinātniskā institūta zinātnieku koleģiāla institūcija — zinātniskā padome un tās ievēlēts direktors."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "section": "23",
+      "title": "Zinātniskā institūta zinātniskā padome",
+      "content": "(1) Zinātniskā institūta zinātnisko padomi ievēlē zinātniskā institūta zinātnieku pilnsapulce uz laiku, kas nepārsniedz piecus gadus.\n(2) Zinātniskās padomes kompetencē ietilpst:\n1) zinātniskā institūta zinātniskās darbības galveno virzienu noteikšana dibinātāja izraudzītajā zinātnisko pētījumu nozarē;\n2) zinātniskā institūta direktora ievēlēšana un zinātniskās darbības vadības amatpersonu apstiprināšana;\n3) personu ievēlēšana akadēmiskajos amatos;\n4) jautājuma ierosināšana par vadošā pētnieka, pētnieka vai zinātniskā asistenta atcelšanu no amata pirms pilnvaru beigām;\n5) pārstāvju ievēlēšana budžeta, saimnieciskajā un administratīvajā komisijā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "section": "24",
+      "title": "Zinātniskā institūta direktors",
+      "content": "(1) Zinātniskā institūta direktors ir augstākā amatpersona, kas īsteno institūta vispārējo administratīvo vadību un bez īpaša pilnvarojuma pārstāv institūtu.\n(2) Uz zinātniskā institūta direktora amatu tiek izsludināts atklāts konkurss Nacionālajā zinātniskās darbības informācijas sistēmā un Nodarbinātības valsts aģentūras vakanču portālā. Direktoru amatā ievēlē zinātniskā institūta zinātniskā padome uz laiku, kas nepārsniedz piecus gadus, un ne vairāk kā divas reizes pēc kārtas.\n(3) Valsts zinātniskā institūta — valsts aģentūras — zinātniskās padomes ievēlēto zinātniskā institūta direktoru amatā apstiprina ministrs, kura pārraudzībā atrodas attiecīgā valsts aģentūra.\n(4) Zinātniskā institūta — atvasinātas publiskas personas aģentūras — zinātniskās padomes ievēlēto zinātniskā institūta direktoru amatā apstiprina attiecīgās atvasinātās publiskās personas vadītājs — augstskolas rektors vai pašvaldības izpilddirektors. Zinātniskā institūta — valsts augstskolas struktūrvienības — zinātniskās padomes ievēlēto zinātniskā institūta direktoru amatā apstiprina valsts augstskolas rektors.\n(5) Zinātniskā institūta — privāto tiesību juridiskās personas vai tās struktūrvienības — zinātniskās padomes ievēlēto zinātniskā institūta direktoru amatā apstiprina attiecīgās privāto tiesību juridiskās personas izpildinstitūcija.\n(6) Valsts zinātniskā institūta — atvasinātas publiskas personas — direktoru ievēlē zinātniskā padome.\n(7) Konkursu uz direktora amatu zinātniskais institūts izsludina vismaz divus mēnešus pirms līdzšinējā direktora pilnvaru beigām. Līdz jaunievēlētā direktora apstiprināšanai direktora pienākumus pilda līdzšinējais direktors.\n(8) Pēc zinātniskā institūta — valsts aģentūras — izveidošanas ministrs, kura pārraudzībā atrodas attiecīgais zinātniskais institūts, ieceļ direktora pienākumu izpildītāju uz laiku, kamēr amatā nav stājies zinātniskās padomes ievēlētais direktors. Pārējos gadījumos direktora pienākumu izpildītāju ieceļ zinātniskā institūta izveidotājs.\n(9) Direktors amata pienākumus sāk pildīt pēc ievēlēšanas, bet gadījumos, kad ievēlētais direktors apstiprināms amatā, — pēc viņa apstiprināšanas amatā. Ja direktors netiek apstiprināts vai ievēlēts, valsts zinātniskais institūts divu mēnešu laikā atkārtoti organizē direktora vēlēšanas. Līdz atkārtotajās vēlēšanās ievēlētā direktora apstiprināšanai valsts zinātniskā institūta direktora pienākumu izpildītāju ieceļ ministrs, kura pārraudzībā atrodas attiecīgais zinātniskais institūts, bet citos gadījumos — attiecīgā zinātniskā institūta izveidotājs.\n(10) Šā panta trešajā, ceturtajā vai piektajā daļā minētā zinātniskā institūta direktoru, ievērojot normatīvo aktu prasības, pēc savas vai zinātniskās padomes iniciatīvas no amata atbrīvo tā amatpersona, kas saskaņā ar šā panta noteikumiem zinātniskā institūta direktoru apstiprina amatā. Šā panta sestajā daļā minētā zinātniskā institūta direktoru, ievērojot normatīvo aktu prasības, no amata atbrīvo zinātniskā institūta zinātniskā padome.\n(11) Izglītības un zinātnes ministrs vai attiecīgās nozares ministrs ir tiesīgs atcelt valsts zinātniskā institūta direktora pieņemtos prettiesiskos lēmumus.\n(12) Direktora kompetencē ietilpst:\n1) zinātniskā institūta administratīvās, organizatoriskās un materiāltehniskās funkcionēšanas nodrošināšana;\n2) zinātniskā institūta finanšu līdzekļu un tam īpašumā, valdījumā vai lietošanā nodotās valsts mantas daļas pārvaldīšana un atbildība par to izmantošanu;\n3) zinātniskā institūta zinātniskās padomes pieņemto lēmumu īstenošana;\n4) zinātniskā institūta attīstības pro­grammu apstiprināšana.\n(13) Direktors nav tiesīgs pieņemt lēmumus, kas ietver zinātnisko pētījumu izvērtējumu."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "section": "25",
+      "title": "Zinātniskā padome komercsabiedrībā",
+      "content": "Komercsabiedrībā, kura veic zinātnisko darbību, zinātniskā padome darbojas šā likuma 23.panta otrās daļas 3., 4. un 5.punktā noteiktās kompetences ietvaros."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "section": "26",
+      "title": "Akadēmiskie amati zinātniskajās institūcijās",
+      "content": "(1) Zinātniskajās institūcijās ir šādi akadēmiskie amati:\n1) vadošais pētnieks;\n2) pētnieks;\n3) zinātniskais asistents.\n(2) Personas akadēmiskajos amatos ievēlē uz sešiem gadiem atklāta konkursa rezultātā zinātniskā institūta nolikumā vai komercsabiedrības statūtos noteiktajā kārtībā. Konkursu izsludina, vismaz mēnesi iepriekš publicējot paziņojumu Nacionālajā zinātniskās darbības informācijas sistēmā un Nodarbinātības valsts aģentūras vakanču portālā.\n(3) Vadošā pētnieka amatā var ievēlēt personas ar zinātnes doktora grādu. Pētnieka amatā var ievēlēt personas ar zinātnes doktora vai maģistra grādu.\n(4) Akadēmiskajā amatā ievēlētā persona slēdz darba līgumu ar zinātnisko institūciju.\n(5) Uz akadēmiskajos amatos ievēlētajām personām neattiecas Darba likuma 45.panta pirmajā daļā noteiktais darba līguma termiņa ierobežojums.\n(6) Persona vadošā pētnieka, pētnieka un zinātniskā asistenta amatā var būt ievēlēta tikai vienā zinātniskajā institūcijā. Akadēmiskajā amatā ievēlēta un nodarbināta persona zinātniskajā institūcijā, kurā tā ir ievēlēta, kā arī citā zinātniskajā institūcijā var veikt arī vadošā pētnieka, pētnieka vai zinātniskā asistenta amata pienākumu izpildītāja pienākumus atbilstoši darba tiesiskajam regulējumam un ievērojot šā panta septīto daļu.\n(7) Zinātniskajai institūcijai tās noteiktā kārtībā ir tiesības bez konkursa pieņemt darbā vadošā pētnieka, pētnieka vai zinātniskā asistenta amata pienākumu izpildītāju uz zinātniskās institūcijas akadēmiskajā amatā ievēlētās un nodarbinātās personas pamatotas prombūtnes laiku. Vadošā pētnieka, pētnieka vai zinātniskā asistenta amata pienākumu izpildītājam ir tādas pašas tiesības un pienākumi kā attiecīgajam zinātniskās institūcijas akadēmiskajā amatā ievēlētajam un nodarbinātajam, bet pienākumu izpildītājam nav tiesību kandidēt uz zinātniskās institūcijas zinātniskās padomes locekļa amatu."
+    },
+    {
+      "provision_ref": "Art. 26.1",
+      "section": "26.1",
+      "title": "26. 1 pants. Zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistrs",
+      "content": "(1) Personas, kuras ieņem vēlētus akadēmiskos amatus zinātniskajās institūcijās (vadošais pētnieks, pētnieks, zinātniskais asistents), kā arī personas, kuras ir nodarbinātas kā zinātnisko institūciju vadošo pētnieku, pētnieku un zinātnisko asistentu amata pienākumu izpildītājas, reģistrē zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistrā (turpmāk — akadēmiskajos amatos ievēlēto personu reģistrs). Akadēmiskajos amatos ievēlēto personu reģistrs ir Nacionālās zinātniskās darbības informācijas sistēmas sastāvdaļa.\n(2) Akadēmiskajos amatos ievēlēto personu reģistrā ieraksta šādas ziņas:\n1) personas vārdu un uzvārdu;\n2) personas kodu;\n3) tā akadēmiskā amata nosaukumu, kurā persona ir ievēlēta, vai tā akadēmiskā amata nosaukumu, kuru šī persona izpilda;\n4) amata pienākumu pildīšanas sākuma un beigu datumu;\n5) tās zinātniskās institūcijas nosaukumu, kurā šī persona ieņem akadēmisko amatu, vai tā akadēmiskā amata nosaukumu, kuru šī persona izpilda;\n6) zinātnes doktora grādu un nozari;\n7) personas dzimumu;\n8) personas dzimšanas un miršanas datumu;\n9) personas identifikatorus starptautiskajās zinātniskās darbības rezultātu datubāzēs.\n(3) Ziņas akadēmiskajos amatos ievēlēto personu reģistrā ieraksta un aktualizē zinātniskās institūcijas vadītājs vai viņa pilnvarota persona. Izmaiņas šā panta otrajā daļā minētajās ziņās zinātniskā institūcija aktualizē ne vēlāk kā mēnesi pēc notikušajām izmaiņām.\n(4) Ziņas par personām, kas ievēlētas vadošā pētnieka un pētnieka amatos augstskolā, ieraksta un aktualizē akadēmiskā personāla reģistrā Augstskolu likumā noteiktajā kārtībā.\n(5) Šā panta otrās daļas 1., 3., 4., 5., 6. un 9. punktā minētās ziņas ir publiski pieejamas Nacionālajā zinātniskās darbības informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "section": "27",
+      "title": "Zinātnisko institūciju reģistrs un šā reģistra atklātums",
+      "content": "(1) Zinātnisko institūciju reģistrs (turpmāk — reģistrs) ir reģistrs, kurā ieraksta ziņas par zinātniskajām institūcijām un glabā normatīvajos aktos noteiktos dokumentus par zinātniskajām institūcijām. Reģistru kārto Ministru kabineta noteiktas institūcijas pilnvarota amatpersona, kura ir atbildīga par reģistra izveidošanu un uzturēšanu (turpmāk — reģistra amatpersona).\n(2) Ikvienam ir tiesības iepazīties ar reģistrā izdarītajiem ierakstiem un reģistram iesniegtajiem dokumentiem. Ikvienam pēc attiecīga rakstveida pieprasījuma iesniegšanas ir tiesības bez maksas saņemt izziņu par reģistrā izdarītajiem ierakstiem, kā arī reģistra lietā esoša dokumenta izrakstu, norakstu vai kopiju. Pēc saņēmēja pieprasījuma izraksta, noraksta vai kopijas pareizība apliecināma ar reģistra amatpersonas parakstu un zīmogu, norādot tās izsniegšanas datumu.\n(3) Pēc saņēmēja pieprasījuma reģistra amatpersona izsniedz izziņu par to, ka attiecīgs ieraksts reģistrā nav grozīts, vai arī par to, ka attiecīgs ieraksts reģistrā nav izdarīts."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "section": "28",
+      "title": "Reģistrā ierakstāmās ziņas",
+      "content": "(1) Reģistrā par zinātnisko institūciju norāda šādas ziņas:\n1) zinātniskās institūcijas nosaukums;\n2) zinātniskās institūcijas juridiskā adrese;\n3) zinātniskās institūcijas dibinātājs un vadītājs;\n4) zinātniskās institūcijas juridiskais statuss;\n5) datums, kad pieņemts lēmums par zinātniskās institūcijas dibināšanu;\n6) zinātniskās institūcijas tālruņa numurs, elektroniskā pasta un tīmekļvietnes adrese;\n7) (izslēgts ar 21.06.2018 . likumu) ;\n8) ziņas par zinātniskās institūcijas telpu nodrošinājumu;\n9) (izslēgts ar 21.06.2007 . likumu) ;\n10) (izslēgts ar 21.06.2007 . likumu) ;\n11) (izslēgts ar 21.06.2007 . likumu) ;\n12) citas ziņas, ja to tieši paredz likums.\n(2) Zinātnisko institūciju reģistrā reģistrē zinātnisko institūtu (publisku aģentūru, atvasinātu publisku personu, valsts augstskolas struktūrvienību, privāto tiesību juridisko personu vai tās struktūrvienību), ja tas atbilst visiem šādiem kritērijiem:\n1) zinātniskajā institūtā vēlētus akadēmiskos amatus ieņem vismaz piecas personas ar zinātnes doktora grādu;\n2) zinātniskā institūta darbības jomai atbilstošajā zinātnes nozarē vismaz 10 procentiem no institūta zinātniskajiem darbiniekiem ir zinātnes doktora grāds;\n3) zinātniskā institūta īpašumā, valdījumā vai lietošanā ir zinātniskā institūta darbības jomai atbilstošas telpas;\n4) zinātniskā institūta zinātniskie darbinieki publicē zinātniskus rakstus vai patentē izgudrojumus, vai izstrādā tehnoloģijas.\n(3) Augstskola tiek reģistrēta zinātnisko institūciju reģistrā, ja tā atbilst šādiem kritērijiem:\n1) augstskola ir akreditēta;\n2) augstskolā vismaz pusi no vēlētajiem augstskolas akadēmiskā personāla amatiem ieņem personas ar zinātnes doktora grādu, izņemot Latvijas Mākslas akadēmiju, Jāzepa Vītola Latvijas Mūzikas akadēmiju, Latvijas Kultūras akadēmiju un Latvijas Nacionālo aizsardzības akadēmiju, kurās vismaz 20 procentus no vēlētajiem augstskolas akadēmiskā personāla amatiem ieņem personas ar zinātnes doktora grādu;\n3) augstskola īsteno vismaz vienu akreditētu doktora studiju programmu. Šis kritērijs nav attiecināms uz augstskolu, kas atbilst lietišķo zinātņu augstskolas tipam vai lietišķo zinātņu universitātes tipam;\n4) augstskola izdod zinātniskus rakstus un veic zinātnisko darbību (īsteno projektus, līgumpētījumus vai patentē izgudrojumus, vai izstrādā tehnoloģijas) zinātnes nozaru grupās atbilstoši augstskolas dibinātāja noteiktajai augstskolas stratēģiskajai specializācijai;\n5) augstskola īsteno starptautisko sadarbību zinātnes nozarēs atbilstoši augstskolas dibinātāja noteiktajai tās stratēģiskajai specializācijai.\n(4) Lai zinātnisko institūciju reģistrā reģistrētu komercsabiedrību, tai jāatbilst šādiem kritērijiem:\n1) komercsabiedrība atbilstoši tās statūtiem veic zinātnisko darbību;\n2) tajā darbojas zinātniskā padome;\n3) komercsabiedrībā vēlētus akadēmiskos amatus ieņem vismaz piecas personas ar zinātnes doktora grādu;\n4) komercsabiedrība sagatavo zinātnisku produkciju (tehnoloģijas, patenti vai publikācijas);\n5) (izslēgts ar 14.07.2022 . likumu) .\n(5) Lai zinātnisko institūciju reģistrā reģistrētu biedrību vai nodibinājumu, tam jāatbilst šādiem kritērijiem:\n1) biedrība vai nodibinājums atbilstoši statūtiem veic zinātnisko darbību — īsteno projektus vai līgumpētījumus — vai tajā nodarbinātie zinātniskie darbinieki publicē zinātniskus rakstus vai patentē izgudrojumus, vai izstrādā tehnoloģijas;\n2) biedrība vai nodibinājums atbilstoši statūtiem piedalās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā;\n3) biedrībā vai nodibinājumā darbojas zinātniskā padome;\n4) biedrībā vai nodibinājumā vēlētus akadēmiskos amatus ieņem vismaz piecas personas ar zinātnes doktora grādu.\n(5 1 ) Ja zinātniskais institūts ir augstskolas struktūrvienība, zinātnisko institūciju reģistrā reģistrē vai nu augstskolu, vai tās struktūrvienību — zinātnisko institūtu. Lēmumu par zinātnisko institūciju reģistrā reģistrējamo zinātnisko institūciju pieņem augstskola.\n(6) (Izslēgta ar 08.12.2016 . likumu)\n(7) (Izslēgta ar 08.12.2016 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "section": "29",
+      "title": "Reģistram iesniedzamie dokumenti un to glabāšana",
+      "content": "(1) Zinātniskās institūcijas vadītājs iesniedz Izglītības un zinātnes ministrijai iesniegumu par zinātniskās institūcijas reģistrēšanu. Reģistram iesniedzami arī dokumenti, kas pamato ierakstu izdarīšanu reģistrā vai to grozījumus, kā arī citi likumā noteiktie dokumenti. Reģistram iesniedz attiecīgā dokumenta oriģinālu vai šā dokumenta attiecīgi apliecinātu kopiju. Ārvalstīs izdotus publiskus dokumentus legalizē starptautiskajos līgumos noteiktajā kārtībā, un tiem pievieno notariāli apliecinātu tulkojumu latviešu valodā. Reģistram iesniedzamie dokumenti, uz kuru pamata izdarīti ieraksti reģistrā vai to grozījumi, ir derīgi, ja šie dokumenti izsniegti ne agrāk kā mēnesi pirms to iesniegšanas reģistram. Noteikums par dokumentu derīguma termiņu neattiecas uz tiesas nolēmumiem un zinātnes doktora grādu apliecinošiem dokumentiem.\n(2) Latvijas Zinātnes padomei ir tiesības pārbaudīt reģistram sniegto ziņu un dokumentu atbilstību īstenībai. Reģistram iesniegtie dokumenti glabājas attiecīgās zinātniskās institūcijas reģistrācijas lietā, ja uz to pamata izdarīts ieraksts reģistrā.\n(3) Ja reģistrā norādāmās ziņas, kas minētas šā likuma 28.panta pirmās daļas 1., 2., 3., 4. un 5.punktā, mainās, zinātniskās institūcijas vadītājam ir pienākums viena mēneša laikā iesniegt reģistram attiecīgu iesniegumu, pievienojot attiecīgās ziņas pamatojošus dokumentus. Lēmums par zinātniskās institūcijas reorganizāciju vai likvidāciju 10 dienu laikā paziņojams reģistram.\n(4) Ziņas, kas minētas šā likuma 28.panta pirmās daļas 6., 8. un 12. punktā, reģistrā ieraksta viena mēneša laikā zinātniskās institūcijas vadītājs vai viņa pilnvarota persona. Institūcijas vadītājs atbild par reģistrā ierakstīto ziņu precizitāti un atbilstību īstenībai, bet reģistra amatpersonai ir tiesības pārliecināties par ziņu atbilstību īstenībai."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "section": "30",
+      "title": "Ieraksta izdarīšana reģistrā",
+      "content": "(1) Ieraksts reģistrā tiek izdarīts uz iesnieguma, Latvijas Republikas Uzņēmumu reģistra (turpmāk — Uzņēmumu reģistrs) lēmuma vai tiesas nolēmuma pamata, kā arī elektroniskā veidā šā likuma 29.panta ceturtajā daļā minētajā gadījumā. Lēmumu par ieraksta izdarīšanu reģistrā vai atteikumu izdarīt ierakstu reģistra amatpersona pieņem mēneša laikā, bet par ieraksta izdarīšanas atlikšanu — septiņu dienu laikā no iesnieguma, Uzņēmumu reģistra lēmuma vai tiesas nolēmuma saņemšanas dienas. Ieraksts reģistrā izdarāms tajā pašā dienā, kad pieņemts lēmums par ieraksta izdarīšanu.\n(2) Reģistra amatpersona pieņem lēmumu par atteikumu izdarīt ierakstu vai ieraksta izdarīšanas atlikšanu, ja iesniegums vai tam pievienotie dokumenti neatbilst normatīvo aktu noteikumiem vai konstatēts, ka iesniedzējs sniedzis nepatiesas ziņas. Lēmumam jābūt motivētam. Lēmumā par ieraksta izdarīšanas atlikšanu norādāms termiņš trūkumu novēršanai.\n(3) Ja mainījušās šā likuma 28.panta pirmās daļas 1., 2., 3., 4. un 5.punktā minētās ziņas, reģistra amatpersona izdod rakstveida lēmumu par grozījumu izdarīšanu reģistrā vai par ieraksta izdarīšanas atlikšanu, vai par atteikumu izdarīt ierakstu, attiecīgi izdara grozījumus reģistrā un, ja nepieciešams, izdod jaunu reģistrācijas apliecību."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "section": "31",
+      "title": "Reģistrācijas apliecība",
+      "content": "Pēc tam, kad zinātniskā institūcija ierakstīta reģistrā, tai izsniedz reģistrācijas apliecību, ko paraksta un ar zīmogu apliecina reģistra amatpersona. Reģistrācijas apliecībā norāda zinātniskās institūcijas:\n1) nosaukumu un juridisko statusu;\n2) reģistrācijas numuru;\n3) reģistrācijas vietu;\n4) reģistrācijas datumu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "section": "32",
+      "title": "Zinātnisko institūciju izslēgšana no reģistra",
+      "content": "(1) Zinātnisko institūciju no reģistra izslēdz ar reģistra amatpersonas lēmumu šādos gadījumos:\n1) saņemts dibinātāja iesniegums par zinātniskās institūcijas likvidēšanu;\n2) zinātniskajā institūcijā bez licences tiek īstenota izglītības programma vai arī tiek izsniegti izglītību vai zinātnisko kvalifikāciju apliecinoši dokumenti, pārkāpjot normatīvos aktus;\n3) Izglītības un zinātnes ministrija vai cita iestāde atbilstoši savai kompetencei atkārtoti gada laikā konstatējusi zinātniskās institūcijas darbībā likumu pārkāpumus, kuri saistīti ar zinātnisko vai izglītojošo darbību;\n4) reģistrācijas procesā apzināti sniegtas nepatiesas ziņas, kas bijušas par pamatu zinātniskās institūcijas reģistrēšanai;\n5) dibinātājs vai zinātniskā institūcija sešu mēnešu laikā pēc Izglītības un zinātnes ministrijas vai Latvijas Zinātnes padomes rakstveida pieprasījuma nav sniegusi nepieciešamo informāciju;\n6) reģistrā iekļaujamās ziņas ir mainījušās, un zinātniskā institūcija sešu mēnešu laikā par to nav informējusi Izglītības un zinātnes ministriju;\n7) (izslēgts ar 21.06.2007 . likumu) ;\n8) pamatojoties uz tiesas nolēmumu.\n(2) Latvijas Zinātnes padome var ierosināt izslēgt zinātnisko institūciju no reģistra, ja tā savas kompetences ietvaros konstatējusi zinātniskās institūcijas darbības neatbilstību normatīvajiem aktiem vai citas nepilnības.\n(3) Zinātnisko institūciju izslēdz no reģistra, ja tā gada laikā nav īstenojusi nevienu zinātnisku projektu un nav publicējusi nevienu zinātnisku rakstu."
+    },
+    {
+      "provision_ref": "Art. 32.1",
+      "section": "32.1",
+      "title": "32. 1 pants. Valsts zinātniskās institūcijas saimnieciskā darbība",
+      "content": "(1) Valsts zinātniskā institūcija izstrādā stratēģiju finanšu un citu ieguldījumu veikšanai jaunos vai esošos uzņēmumos nolūkā veicināt tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni pārnesi, tajā ietverot:\n1) sasniedzamos mērķus un uzdevumus tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni pārnesi jomā;\n2) intelektuālā īpašuma tiesību pārvaldības un izmantošanas politiku;\n3) finanšu un citu ieguldījumu veikšanas un uzraudzības kārtību.\n(2) Šā panta pirmajā daļā minēto stratēģiju apstiprina dibinātājs vai dibinātāja pilnvarota institūcija.\n(3) Valsts zinātniskā institūcija atbilstoši šā panta pirmajā daļā minētajā stratēģijā noteiktajam veic finanšu un citus ieguldījumus jaunos vai esošos uzņēmumos, kā arī Eiropas Savienībā regulētos ieguldījumu fondos un citos finanšu instrumentos Ministru kabineta noteiktajā kārtībā, kā arī nosaka:\n1) prasības par finanšu līdzekļu, tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni ieguldīšanu esoša vai jauna uzņēmuma pamatkapitālā vai par to nodošanu lietošanā esošam vai jaunam uzņēmumam, vienojoties par nosacījumiem;\n2) prasības komercdarbības atbalsta kontroles nosacījumiem.\n(4) Valsts zinātniskā institūcija šā panta pirmajā daļā minētās stratēģijas īstenošanā var ieguldīt arī ieņēmumus, kas gūti no tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni pārneses.\n(5) Valsts zinātniskajai institūcijai ir tiesības piesaistīt investīcijas un aizņēmumus zinātniskās darbības un tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni pārneses veicināšanai, ievērojot Ministru kabineta noteiktos nosacījumus un kārtību.\n(6) Valsts zinātniskajai institūcijai, īstenojot šā panta pirmajā daļā minēto stratēģiju, ir tiesības pretendēt uz valsts uzņēmējdarbības un pētniecības atbalsta finansējumu.\n(7) Ministru kabinets nosaka:\n1) nosacījumus un kārtību valsts zinātnisko institūciju ieguldījumu novērtēšanai — pieļaujamo risku līmeni (risku tolerance) veikto ieguldījumu attiecībai pret iespējamiem zaudējumiem, laika periodu, kādā mēra risku toleranci, prasības pieļaujamā riska līmeņa nodrošināšanai un uzraudzībai, rīcību gadījumos, kad konstatē, ka noteiktais risku līmenis ir pārsniegts;\n2) nosacījumus un kārtību, kādā saimnieciski izmantojamas (komercializējamas) valsts, pašvaldības, Eiropas Savienības fondu vai citas publiskas personas finansētu valsts zinātnisko institūciju zinātnisko pētījumu rezultātā radītās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni;\n3) kārtību, kādā nosaka atlīdzību par tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimniecisko izmantošanu (komercializāciju) pret atlīdzību vai bez atlīdzības, atlīdzības veidus, kā arī to noteikšanas kritērijus.\n(8) Valsts zinātniskā institūcija šajā pantā noteiktās tiesības īsteno, ciktāl citos normatīvajos aktos nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "section": "33",
+      "title": "Zinātniskās darbības finansēšana no valsts budžeta līdzekļiem",
+      "content": "(1) Valsts budžeta līdzekļus zinātniskajai darbībai var piešķirt zinātnisko institūciju reģistrā reģistrētajām institūcijām. Komersantiem valsts budžeta līdzekļus valsts atbalsta veidā piešķir projektu īstenošanai pētniecības, tehnoloģiju attīstības un inovāciju jomā saskaņā ar attiecīgajām valsts atbalsta programmām.\n(2) Ministru kabinets, iesniedzot Saeimai gadskārtējo likumu par valsts budžetu, paredz ikgadēju finansējuma pieaugumu zinātniskajai darbībai ne mazāku par 0,15procentiem no iekšzemes kopprodukta, līdz valsts piešķirtais finansējums zinātniskajai darbībai sasniedz vismaz vienu procentu no iekšzemes kopprodukta.\n(3) Kārtību, kādā piešķir valsts atbalstu zinātnisko institūciju reģistrā reģistrētajām institūcijām, kā arī komersantiem projektu īstenošanai pētniecības, tehnoloģiju attīstības un inovāciju jomā, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "section": "34",
+      "title": "Fundamentālo un lietišķo pētījumu finansēšana",
+      "content": "(1) Fundamentālo un lietišķo pētījumu finansējums tiek piešķirts noteiktiem projektiem konkursa kārtībā grantu veidā. Projektu pieteikumus izvirza zinātnieki. Pētījumu tematus, mērķus un uzdevumus formulē paši zinātnieki.\n(2) Granta piešķiršanas galvenais kritērijs ir projekta zinātniskā kvalitāte.\n(3) Fundamentālo un lietišķo pētījumu projektus izvērtē, administrē un finansējumu sadala Latvijas Zinātnes padome Ministru kabineta noteiktajā kārtībā. Latvijas Zinātnes padome katru gadu sniedz Izglītības un zinātnes ministrijai pārskatu par fundamentālajiem un lietišķajiem pētījumiem piešķirto valsts budžeta līdzekļu izlietojumu.\n(4) (Izslēgta ar 14.07.2022 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 35",
+      "section": "35",
+      "title": "Valsts pētījumu programmas",
+      "content": "(1) Valsts pētījumu programmas ir valsts pasūtījums zinātnisku pētījumu veikšanai noteiktā ekonomikas, izglītības, kultūras vai citā valstij prioritārā nozarē ar mērķi veicināt šīs nozares attīstību.\n(2) Valsts pētījumu programmu mērķus un uzdevumus nosaka attiecīgās nozaru ministrijas, konsultējoties ar Latvijas Zinātņu akadēmiju un Latvijas Zinātnes padomi. Izglītības un zinātnes ministrija vai citas nozaru ministrijas valsts pētījumu programmu projektu konkursa kārtībā var piešķirt valsts pētījumu programmu projektiem finansējumu no zinātnes finansēšanai piešķirtajiem valsts budžeta līdzekļiem. Valsts pētījumu programmu projektu konkursu organizē un īsteno Latvijas Zinātnes padome.\n(3) Valsts pētījumu programmu projektu pieteikšanas, ekspertīzes, īstenošanas un finansēšanas kārtību, kā arī valsts pētījumu programmu projektu īstenošanai piešķirto finanšu līdzekļu izlietojuma kontroles kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "section": "36",
+      "title": "Tirgus orientēto pētījumu finansēšana",
+      "content": "Tirgus orientēto pētījumu finansēšana notiek, piešķirot valsts budžeta līdzekļus praktiskas ievirzes projektiem, kuru mērķis ir veicināt zinātnes un ražošanas integrāciju, tehnoloģiski orientētu nozaru attīstību, jaunu darba vietu radīšanu. Finansējumu tirgus orientēto pētījumu projektiem sadala Izglītības un zinātnes ministrija, pamatojoties uz zinātnisko un tautsaimniecisko ekspertīzi, saskaņā ar Ministru kabineta noteikumiem. Projektu zinātnisko ekspertīzi nodrošina Latvijas Zinātnes padome."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "section": "37",
+      "title": "Valsts pārvaldes institūcijas pasūtītie pētījumi",
+      "content": "Valsts pārvaldes institūcijas pasūtītie pētījumi ir iepirkums valsts vajadzībām, kura mērķis ir ar pētniecības palīdzību veicināt nozares attīstību un konkrētu problēmu risināšanu attiecīgās valsts pārvaldes institūcijas kompetences jomā. Valsts pārvaldes institūcija šādus pētījumus pasūta konkursa kārtībā sava budžeta ietvaros."
+    },
+    {
+      "provision_ref": "Art. 37.1",
+      "section": "37.1",
+      "title": "37. 1 pants. Valsts zinātniskā institūta, valsts augstskolas vai valsts augstskolas zinātniskā institūta zinātnisko darbinieku atlīdzība",
+      "content": "(1) Valsts zinātniskā institūta, valsts augstskolas, valsts augstskolas zinātniskā institūta, tai skaitā valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas —, zinātnisko darbinieku atlīdzību nosaka:\n1) zinātniskajiem darbiniekiem, kuri ieņem akadēmiskos amatus, — saskaņā ar normatīvajiem aktiem par bāzes finansējuma piešķiršanas kārtību, kā arī no valsts zinātniskā institūta, valsts augstskolas vai valsts augstskolas zinātniskā institūta noslēgto līgumu īstenošanai iegūtajiem finanšu līdzekļiem, tās apmēru paredzot atbilstoši zinātniskā institūta iekšējai darba samaksas kārtībai;\n2) zinātniskajiem darbiniekiem, kuri neieņem akadēmiskos amatus, — saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu , ievērojot tajā noteiktos gadījumus, kad minētā likuma normas var nepiemērot, saskaņā ar normatīvajiem aktiem par bāzes finansējuma piešķiršanas kārtību, kā arī no valsts vai valsts augstskolas zinātniskā institūta noslēgto līgumu īstenošanai iegūtajiem finanšu līdzekļiem, tās apmēru paredzot atbilstoši zinātniskā institūta iekšējai darba samaksas kārtībai.\n(2) No valsts budžeta, Eiropas Savienības un ārvalstu finanšu atbalsta līdzekļiem finansēto pētījumu projektu īstenošanai izmantotā laika un paveiktā darba uzskaites sistēmu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 37.2",
+      "section": "37.2",
+      "title": "37. 2 pants. Ārvalstu pētnieku piedalīšanās zinātnisko institūciju īstenotajos zinātnisko pētījumu projektos",
+      "content": "(1) Zinātnisko institūciju reģistrā reģistrēta zinātniskā institūcija ir tiesīga uzaicināt piedalīties tās īstenotajos zinātnisko pētījumu projektos ārzemnieku, kas nav Eiropas Savienības pilsonis, ja tam ir zinātnes doktora grāds vai zinātnes doktora grāda ieguvei nepieciešamā septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstoša augstākā izglītība (turpmāk šajā pantā — ārvalsts pētnieks). Šādā gadījumā zinātniskā institūcija slēdz ar ārvalsts pētnieku darba līgumu, kurā tiek paredzēti pētījuma projekta īstenošanas nosacījumi. Darba līgumu paraksta zinātniskās institūcijas pilnvarota persona un ārvalsts pētnieks. Darba līgums tiek slēgts uz zinātniskā pētījuma projekta īstenošanas termiņu un nevar pārsniegt ārvalsts pētniekam izsniegtās termiņuzturēšanās atļaujas derīguma termiņu. Darba līgums izbeidzams, ja ārvalsts pētniekam Latvijā tiek atteikts atjaunot uzturēšanās atļauju vai arī tā tiek anulēta. Noteikumus, kurus zinātniskās institūcijas ievēro, noslēdzot un izbeidzot darba līgumus ar ārvalstu pētniekiem, nosaka Ministru kabinets.\n(2) Ārvalsts pētnieka ceļa izdevumus sedz zinātniskā institūcija, kuras īstenotajā zinātniskajā projektā ārvalsts pētnieks piedalās.\n(3) Ārvalsts pētnieka ģimenes locekļu tiesības uzturēties Latvijā nosaka Imigrācijas likums ."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "section": "38",
+      "title": "Zinātniskās darbības bāzes finansējums",
+      "content": "(1) Zinātniskajām institūcijām bāzes finansējumu piešķir dibinātājs. Bāzes finansējumu valsts zinātniskajiem institūtiem, valsts augstskolām, valsts augstskolu zinātniskajiem institūtiem, tai skaitā valsts dibināto universitāšu zinātniskajiem institūtiem — atvasinātām publiskām personām —, kuri reģistrēti zinātnisko institūciju reģistrā, piešķir Ministru kabineta noteiktajā kārtībā.\n(2) Zinātnisko institūciju bāzes finansējumu veido līdzekļi:\n1) zinātnisko institūciju uzturēšanai (būvju un iekārtu uzturēšanai, komunālo pakalpojumu samaksai, zinātnes tehniskā personāla un zinātni apkalpojošā personāla darba samaksai);\n2) dibinātāja noteikto zinātnisko pētījumu veikšanā iesaistīto zinātnisko institūciju akadēmiskajos amatos ievēlēto personu un akadēmisko amatu pienākumu izpildītāju atlīdzībai;\n3) zinātnisko institūciju reģistrā reģistrēto valsts zinātnisko institūtu, valsts augstskolu un valsts augstskolu zinātnisko institūtu attīstībai šo institūciju darbības stratēģijā noteikto mērķu sasniegšanai, tai skaitā izgudrojumu patentēšanai, uzturēšanai spēkā, jaunu augu šķirņu reģistrēšanai un to izmantošanas tiesību aizsardzībai, kā arī saimnieciskās izmantošanas (komercializācijas) sagatavošanai."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "section": "39",
+      "title": "Zinātniskās institūcijas grāmatvedības uzskaite un konti",
+      "content": "(1) Zinātniskā institūcija veic grāmatvedības uzskaiti, atver kontus un rīkojas ar tiem normatīvajos aktos noteiktajā kārtībā.\n(2) Zinātniskais institūts — atvasināta publiska persona —, valsts augstskola, kurai ir atvasinātas publiskas personas statuss, un valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona — Valsts kasē atver norēķinu kontu, kurā attiecīgā ministrija atbilstoši valsts budžeta apropriācijai ieskaita bāzes finansējuma līdzekļus saskaņā ar šā likuma 38.pantu , kā arī veic atbilstošo izdevumu apmaksu no šā konta.\n(3) Komersantu piešķirtos finanšu līdzekļus konkrētu pasūtījuma projektu īstenošanai un citus pašu ieņēmumus zinātniskais institūts — atvasināta publiska persona —, valsts augstskola, kurai ir atvasinātas publiskas personas statuss, un valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona — var saņemt kredītiestādes kontā. Atbilstošo izdevumu apmaksa tiek veikta no šā konta.\n(4) Gada beigās zinātniskā institūta — atvasinātas publiskas personas —, valsts augstskolas, kurai ir atvasinātas publiskas personas statuss, un valsts dibinātas universitātes zinātniskā institūta — atvasinātas publiskas personas — kontā atlikušie līdzekļi no šo institūciju zinātniskās darbības ieņēmumiem, ja tie nepārsniedz gada laikā faktiski saņemto līdzekļu apjomu, paliek institūcijas rīcībā un tiek izlietoti nākamajā gadā.\n(5) Konkursa kārtībā iegūto valsts un starptautisko zinātnisko pētījumu projektu un programmu finansējumu zinātniskais institūts — atvasināta publiska persona —, valsts augstskola, kurai ir atvasinātas publiskas personas statuss, un valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona — saņem Valsts kases norēķinu kontā, kā arī veic atbilstošo izdevumu apmaksu no šā konta."
+    },
+    {
+      "provision_ref": "Art. 39.1",
+      "section": "39.1",
+      "title": "39. 1 pants. Valsts zinātniskās institūcijas mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni",
+      "content": "(1) Valsts zinātniskajai institūcijai pieder mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, ja tā pilnībā radīta valsts, pašvaldības, Eiropas Savienības fondu vai citas publiskas ārvalstu finanšu palīdzības finansēta pētījuma rezultātā.\n(2) Mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, kas radīta valsts zinātniskās institūcijas un citu institūciju vai zinātnieku sadarbības rezultātā, valsts zinātniskajai institūcijai pieder apjomā, kas ir proporcionāls līgumā par zinātniskā pētījuma īstenošanu noteiktajam institūcijas ieguldījumam."
+    },
+    {
+      "provision_ref": "Art. 39.2",
+      "section": "39.2",
+      "title": "39. 2 pants. Valsts zinātniskās institūcijas zinātības un tehnoloģijas autora, izgudrotāja vai augu šķirnes selekcionāra mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni",
+      "content": "(1) Ja valsts, pašvaldības, Eiropas Savienības fondu vai citas publiskas ārvalstu finanšu palīdzības finansēta pētījuma ietvaros zinātību, tehnoloģiju, izgudrojumu vai augu šķirni radījis viens vai vairāki valsts zinātniskās institūcijas darbinieki, kuru darba pienākumi ietver izgudrotājdarbību, pētniecību, projektēšanu, konstruēšanu vai tehnoloģiskās izstrādnes sagatavošanu, tad mantiskās tiesības uz šo zinātību, tehnoloģiju, izgudrojumu vai augu šķirni pieder valsts zinātniskajai institūcijai, ar kuru šis darbinieks vai šie darbinieki ir darba tiesiskajās attiecībās. Ja valsts zinātniskajā institūcijā īstenots citas personas finansēts zinātniskais pētījums un tā ietvaros izgudrojumu vai augu šķirni radījis viens vai vairāki valsts zinātniskās institūcijas darbinieki, tad mantiskās tiesības uz šo zinātību, tehnoloģiju, izgudrojumu vai augu šķirni nosaka līgums, atbilstoši kuram zinātniskais pētījums īstenots.\n(2) Tā zinātības un tehnoloģiju autora, izgudrotāja vai augu šķirnes selekcionāra, kas nav valsts zinātniskās institūcijas darbinieks, mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni nosaka līgums starp zinātības un tehnoloģijas autoru, izgudrotāju vai augu šķirnes selekcionāru un valsts zinātnisko institūciju, kurā zinātniskais pētījums īstenots."
+    },
+    {
+      "provision_ref": "Art. 39.3",
+      "section": "39.3",
+      "title": "39. 3 pants. Lēmumu pieņemšana par mantisko tiesību uz jaunu izgudrojumu vai augu šķirni reģistrēšanu",
+      "content": "(1) Valsts zinātniskās institūcijas darbinieks rakstveidā informē valsts zinātnisko institūciju par jaunas zinātības, jaunas tehnoloģijas, jauna izgudrojuma vai jaunas augu šķirnes radīšanas faktu.\n(2) Valsts zinātniskā institūcija, izvērtējusi tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskās izmantošanas (komercializācijas) potenciālu, pieņem lēmumu par mantisko tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni izmantošanu triju mēnešu laikā pēc šā panta pirmajā daļā minētās informācijas saņemšanas, kā arī paziņo darbiniekam, kas ir radījis zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, par savu nodomu šīs mantiskās tiesības izmantot. Ja valsts zinātniskā institūcija triju mēnešu laikā nepaziņo darbiniekam par savu nodomu izmantot šīs mantiskās tiesības vai no tām atsakās, mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai selekcionāra tiesības uz augu šķirni var izmantot darbinieks, kas radījis zinātību, tehnoloģiju, izgudrojumu vai augu šķirni.\n(3) Valsts zinātniskajai institūcijai, kura reģistrējusi mantiskās tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, ir tiesības no tām atteikties, ja šī institūcija ir pieņēmusi lēmumu, ka turpmāka tiesību saimnieciska izmantošana (komercializācija) nav lietderīga, ievērojot Ministru kabineta noteikumus.\n(4) Ministru kabinets nosaka:\n1) nosacījumus un kārtību, kādā valsts zinātniskās institūcijas darbinieks informē valsts zinātnisko institūciju par jaunu zinātību, tehnoloģiju, izgudrojumu vai augu šķirni;\n2) kritērijus, pēc kuriem valsts zinātniskā institūcija izvērtē tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskās izmantošanas (komercializācijas) potenciālu un īstenošanu;\n3) gadījumus un kritērijus, atbilstoši kuriem valsts zinātniskā institūcija var pieņemt lēmumu par atteikšanos no tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskās izmantošanas (komercializācijas).\n(5) Ja tiesības uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, kas izgudrotājam vai selekcionāram nodotas saskaņā ar šā panta noteikumiem ir sākts komerciāli izmantot piecu gadu laikā, valsts zinātniskajai institūcijai brīdī, kad izgudrotājs vai selekcionārs ir uzsācis zinātības, tehnoloģijas, izgudrojuma vai augu šķirnes komerciālu izmantošanu, ir tiesības uz atlīdzību, kas līdzvērtīga tirgus cenai."
+    },
+    {
+      "provision_ref": "Art. 39.4",
+      "section": "39.4",
+      "title": "39. 4 pants. Mantisko tiesību uz izgudrojumu vai augu šķirni aizsardzība",
+      "content": "(1) Valsts zinātniskā institūcija nodrošina tās tiesību aizsardzību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, piesakot un uzturot spēkā patentu uz izgudrojumu vai tiesības uz zinātību un tehnoloģiju vai augu šķirni.\n(2) Valsts zinātniskās institūcijas lēmējinstitūcijai saskaņā ar tās iekšējiem normatīvajiem aktiem ir tiesības lemt par patenta vai tiesību uz augu šķirni turpmāku uzturēšanu, ņemot vērā paredzamo ieguvumu no reģistrētā patenta vai augu šķirnes komercializācijas.\n(3) Valsts zinātniskajai institūcijai ir pienākums nodrošināt zinātības, tehnoloģijas, izgudrojuma vai augu šķirnes būtības neizpaušanu trešajām personām, pirms iesniegts patenta pieteikums vai iesniegums par selekcionāra tiesību piešķiršanu.\n(4) Valsts zinātniskā institūcija ir tiesīga izpaust trešajām personām zinātības, tehnoloģijas, izgudrojuma vai augu šķirnes būtību, pirms tiek publicēts šā panta trešajā daļā minētā patenta pieteikums, iesniegums vai lēmums par selekcionāra tiesību piešķiršanu, ja vien līgumā par zinātniskā pētījuma projekta īstenošanu nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 39.5",
+      "section": "39.5",
+      "title": "39. 5 pants. Tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializācija",
+      "content": "Valsts zinātniskā institūcija veic tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializāciju pēc iespējas valstij izdevīgākā veidā, saņemot tādu atlīdzību, kas ir līdzvērtīga tirgus cenai."
+    },
+    {
+      "provision_ref": "Art. 39.6",
+      "section": "39.6",
+      "title": "39. 6 pants. Darbinieka tiesības uz atlīdzību no mantisko tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializācijas rezultātā gūtajiem ienākumiem",
+      "content": "Valsts zinātniskās institūcijas darbiniekam, kas ir radījis zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, ir tiesības uz taisnīgu atlīdzību no mantisko tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializācijas rezultātā gūtajiem ienākumiem. Valsts zinātniskās institūcijas darbinieka tiesību uz taisnīgu atlīdzību noteikšanas principus, nosacījumus un kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "section": "40",
+      "title": "Pārskats par zinātniskās institūcijas zinātnisko darbību",
+      "content": "(1) Zinātniskā institūcija sagatavo un ik gadu ievada Nacionālajā zinātniskās darbības informācijas sistēmā pārskatu par zinātnisko darbību , kurā ietver ziņas par zinātniskās institūcijas darbības mērķiem un rezultātiem, kā arī piešķirtajiem valsts budžeta līdzekļiem un to izlietojumu.\n(2) Pārskatā par zinātnisko darbību iekļaujamo ziņu apjomu, iesniegšanas, izmantošanas un publiskošanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "section": "41",
+      "title": "Zinātnisko institūciju darbības starptautiskais novērtējums",
+      "content": "(1) Zinātnisko institūciju darbības starptautiskais novērtējums ir ārvalstu ekspertu sagatavots ziņojums, kas ietver ziņas par zinātniskās institūcijas:\n1) zinātniskās darbības kvalitāti;\n2) zinātniskās darbības ietekmi uz attiecīgo zinātnes nozari;\n3) zinātniskās darbības ekonomisko un sociālo ietekmi;\n4) infrastruktūru un tās atbilstību zinātniskās institūcijas darbībai;\n5) attīstības potenciālu.\n(2) Ārvalstu ekspertu darbu organizē, veidojot koleģiālas zinātnes nozaru ekspertu grupas.\n(3) Kārtību, kādā Izglītības un zinātnes ministrija reizi sešos gados organizē zinātnisko institūciju darbības starptautisko novērtējumu, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "section": "42",
+      "title": "Nacionālā zinātniskās darbības informācijas sistēma",
+      "content": "(1) Nacionālā zinātniskās darbības informācijas sistēma ir valsts informācijas sistēma, kurā apkopo ziņas par zinātnisko institūciju veikto zinātnisko darbību un tajā iesaistītajām personām.\n(2) Nacionālā zinātniskās darbības informācijas sistēma ietver:\n1) zinātnisko institūciju reģistru;\n2) zinātnisko institūciju akadēmiskajos amatos ievēlēto personu reģistru;\n3) Latvijas Zinātnes padomes ekspertu datubāzi un Latvijas Zinātnes padomes eksperta tiesību pieteikuma iesniegšanas elektronisko sistēmu;\n4) zinātniskās darbības projektu administrēšanas informācijas sistēmu;\n5) zinātniskās darbības rezultātu datubāzi;\n6) zinātnisko institūciju zinātniskās darbības pārskatus;\n7) zinātnisko institūciju darbības starptautisko novērtējumu datubāzi;\n8) zinātnisko iekārtu un programmatūras datubāzi;\n9) ziņas par konkursiem uz zinātnisko institūtu direktora amatu un konkursiem uz akadēmiskajiem amatiem zinātniskajās institūcijās.\n(3) Zinātniskās darbības projektu administrēšanas informācijas sistēma ietver:\n1) ziņas par izsludinātajiem zinātniskās darbības projektu konkursiem;\n2) zinātniskās darbības projektu pieteikumus;\n3) ekspertu atzinumus par zinātniskās darbības projektiem;\n4) ziņas par zinātniskās darbības projektiem piešķirto vai piesaistīto finansējumu;\n5) ziņas par zinātniskās darbības projektu īstenošanā un administrēšanā iesaistītajām personām;\n6) ziņas par sasniegtajiem rezultātiem un pārskatus par zinātniskās darbības projektu izpildi.\n(4) Zinātniskās darbības rezultātu datubāze ietver ziņas par:\n1) publikācijām;\n2) intelektuālo īpašumu;\n3) dalību zinātniskajās konferencēs.\n(4 1 ) Zinātnisko iekārtu un programmatūras datubāze ietver ziņas par zinātniskajām iekārtām un programmatūru, kas tiek izmantota zinātniskajai darbībai.\n(5) Nacionālās zinātniskās darbības informācijas sistēmas dati ir publiski pieejami tiešsaistē šīs informācijas sistēmas tīmekļvietnē, ja to pieejamība nav ierobežota atbilstoši šā likuma un citu normatīvo aktu noteikumiem.\n(6) Ministru kabinets nosaka kārtību, kādā ziņas Nacionālajā zinātniskās darbības informācijas sistēmā tiek ievadītas, apstrādātas, aktualizētas, uzkrātas, glabātas, publiskotas, arhivētas un dzēstas, kā arī šo ziņu apjomu."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par zinātnisko darbību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 15.nr.; 1998, 13.nr.; 2001, 12.nr.; 2003, 12., 15.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par zinātnisko darbību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 15.nr.; 1998, 13.nr.; 2001, 12.nr.; 2003, 12., 15.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2.Laiks, kurā persona (uz kuru attiecas šajā likumā noteiktie ierobežojumi) atrodas vēlētā amatā vai vēlētas koleģiālas institūcijas sastāvā, skaitāms no ievēlēšanas dienas.",
+      "content": "2.Laiks, kurā persona (uz kuru attiecas šajā likumā noteiktie ierobežojumi) atrodas vēlētā amatā vai vēlētas koleģiālas institūcijas sastāvā, skaitāms no ievēlēšanas dienas."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas Ministru kabinets izdod šajā likumā minētos normatīvos aktus. Līdz attiecīgo normatīvo aktu spēkā stāšanās dienai piemērojami uz likuma \" Par zinātnisko darbību \" pamata izdotie Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā sešus mēnešus no šā likuma spēkā stāšanās dienas.",
+      "content": "3. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas Ministru kabinets izdod šajā likumā minētos normatīvos aktus. Līdz attiecīgo normatīvo aktu spēkā stāšanās dienai piemērojami uz likuma \" Par zinātnisko darbību \" pamata izdotie Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu, bet ne ilgāk kā sešus mēnešus no šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Gada laikā no šā likuma spēkā stāšanās dienas valsts bezpeļņas zinātniskie uzņēmumi (uzņēmējsabiedrības) reorganizējami atbilstoši Komerclikuma spēkā stāšanās kārtības likuma noteikumiem.",
+      "content": "4. Gada laikā no šā likuma spēkā stāšanās dienas valsts bezpeļņas zinātniskie uzņēmumi (uzņēmējsabiedrības) reorganizējami atbilstoši Komerclikuma spēkā stāšanās kārtības likuma noteikumiem."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Ikgadējais kopējais valsts un privātpersonu finansējuma apjoms zinātniskajai darbībai — 3procenti no iekšzemes kopprodukta — sasniedzams līdz 2010.gadam.",
+      "content": "5. Ikgadējais kopējais valsts un privātpersonu finansējuma apjoms zinātniskajai darbībai — 3procenti no iekšzemes kopprodukta — sasniedzams līdz 2010.gadam."
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Šā likuma 1.panta 7.punkta otrā teikuma noteikums attiecībā uz lauksaimniecības nozares zinātniskajām institūcijām stājas spēkā 2010.gada 1.janvārī.",
+      "content": "6. Šā likuma 1.panta 7.punkta otrā teikuma noteikums attiecībā uz lauksaimniecības nozares zinātniskajām institūcijām stājas spēkā 2010.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Šā likuma 33.panta pirmā daļa stājas spēkā 2006.gada 1.janvārī.",
+      "content": "7. Šā likuma 33.panta pirmā daļa stājas spēkā 2006.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Šā likuma 21. 2 panta sestajā daļā minētie valsts zinātniskie institūti ir valsts zinātnisko institūtu — valsts aģentūru \"Elektronikas un datorzinātņu institūts\", \"Fizikālās enerģētikas institūts\", \"Latvijas Biomedicīnas pētījumu un studiju centrs\", \"Latvijas Hidroekoloģijas institūts\", \"Latvijas Organiskās sintēzes institūts\", \"Latvijas Valsts agrārās ekonomikas institūts\", \"Latvijas Valsts augļkopības institūts\", \"Latvijas Valsts koksnes ķīmijas institūts\", \"Latvijas Valsts mežzinātnes institūts \"Silava\"\", \"Valsts Priekuļu laukaugu selekcijas institūts\" un \"Valsts Stendes graudaugu selekcijas institūts\" tiesību un pienākumu pārņēmēji.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 20.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Šā likuma 21. 2 panta sestajā daļā minēto zinātnisko institūtu — atvasinātu publisku personu — lēmējinstitūcijas ir attiecīgo pārveidoto zinātnisko institūtu — valsts aģentūru zinātniskās padomes, kas ievēlētas laikā līdz 2007.gada 6.janvārim un darbojas līdz tām noteiktā pilnvaru termiņa beigām.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 20.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. Šā likuma 12.panta otrajā daļā noteiktais neattiecas uz personām, kurām piešķirts Goda doktora grāds un kuras ieguvušas habilitētā doktora tiesības, pamatojoties uz Ministru padomes 1991.gada 4.oktobra lēmumu Nr.262 \"Par Nolikumu par zinātnisko grādu piešķiršanu\".",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 20.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "section": "pn11",
+      "title": "11. Personas, kas līdz 2007.gada 19.jūlijam ievēlētas vadošā pētnieka, pētnieka vai zinātniskā asistenta amatā bez termiņa nosacījumiem, tiek uzskatītas par ievēlētām uz sešiem gadiem, skaitot no 2007.gada 20.jūlija.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 20.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "section": "pn12",
+      "title": "12. Saskaņā ar šo likumu valsts un pašvaldību institūcijās noteikto atlīdzību (darba samaksu, prēmijas, naudas balvas, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam “Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā”.",
+      "content": "( 12.12.2008 . likuma redakcijā, kas stājas spēkā 01.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "section": "pn13",
+      "title": "13. Grozījumi šā likuma 38.panta otrajā daļā attiecībā uz papildināšanu ar 3.punktu stājas spēkā 2010.gada 1.janvārī.",
+      "content": "( 16.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "section": "pn14",
+      "title": "14. Zinātnisko institūciju reģistrā reģistrētie valsts zinātniskie institūti, valsts augstskolas un valsts augstskolu zinātniskie institūti līdz 2009.gada 31.oktobrim izstrādā un iesniedz apstiprināšanai attiecīgajā nozares ministrijā zinātniskās institūcijas darbības stratēģiju.",
+      "content": "( 16.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "section": "pn15",
+      "title": "15. Šā likuma 12. 1 pants stājas spēkā 2010.gada 1.jūlijā. Ministru kabinets līdz 2010.gada 30.jūnijam izdod šā likuma 12. 1 panta ceturtajā daļā paredzētos Ministru kabineta noteikumus.",
+      "content": "( 04.03.2010 . likuma redakcijā, kas stājas spēkā 07.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "section": "pn16",
+      "title": "16. Šā likuma 10.panta piektā daļa zaudē spēku ar 2011.gada 1.janvāri.",
+      "content": "( 04.03.2010 . likuma redakcijā, kas stājas spēkā 07.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "section": "pn17",
+      "title": "17. Lai zinātnisko institūciju reģistrā nodrošinātu zinātnisko institūtu reģistrācijas atbilstību šā likuma 28.panta 5. 1 daļas prasībām, līdz 2013.gada 15.aprīlim augstskola iesniedz zinātnisko institūciju reģistrā iesniegumu par zinātniskās institūcijas — augstskolas — vai zinātniskā institūta — augstskolas struktūrvienības — izslēgšanu no zinātnisko institūciju reģistra. Ja augstskola līdz 2013.gada 15.aprīlim nav iesniegusi šādu iesniegumu, tad ar 2013.gada 15.maiju zinātniskais institūts — attiecīgās augstskolas struktūrvienība — tiek izslēgts no zinātnisko institūciju reģistra.",
+      "content": "( 14.03.2013 . likuma redakcijā, kas stājas spēkā 10.04.2013. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "section": "pn18",
+      "title": "18. Zinātniskajai institūcijai, kas reģistrēta zinātnisko institūciju reģistrā un pirmo sešu gadu periodā kopš 2005.gada 19.maija nav saņēmusi savas darbības starptautisko vērtējumu, termiņš šā likuma 28.panta septītās daļas 4.punktā noteikto ziņu iesniegšanai zinātnisko institūciju reģistram tiek pagarināts līdz 2013.gada 31.decembrim.",
+      "content": "( 14.03.2013 . likuma redakcijā, kas stājas spēkā 10.04.2013. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "section": "pn19",
+      "title": "19. Lēmumu par valsts dibinātas universitātes zinātniskā institūta pārveidošanu par valsts dibinātas universitātes zinātnisko institūtu — atvasinātu publisku personu — apstiprina Ministru kabinets pēc valsts dibinātas universitātes senāta ieteikuma. Pārveidotā zinātniskā institūta — atvasinātas publiskas personas — nolikumu apstiprina šā likuma 21. 5 panta pirmajā daļā noteiktajā kārtībā.",
+      "content": "( 14.03.2013 . likuma redakcijā, kas stājas spēkā 10.04.2013. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "section": "pn20",
+      "title": "20. Šā likuma 18.panta sestā daļa, 26. 1 pants , grozījumi 29.pantā par 28.panta pirmajā daļā paredzēto ziņu ierakstīšanu zinātnisko institūciju reģistrā un 30.panta trešās daļas jaunā redakcija par reģistra amatpersonas rīcību zinātnisko institūciju reģistrā ierakstāmo ziņu izmaiņu gadījumā stājas spēkā 2017.gada 1.martā.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "section": "pn21",
+      "title": "21. Ar Ministru kabineta 2015.gada 21.oktobra rīkojumu Nr.640 \" Par atvasinātu publisku personu \"Valsts Priekuļu laukaugu selekcijas institūts\", \"Valsts Stendes graudaugu selekcijas institūts\", \"Latvijas Valsts agrārās ekonomikas institūts\" un \"Latvijas Valsts augļkopības institūts\" reorganizāciju \" izveidotā Latvijas Lauksaimniecības universitātes zinātniskā institūta — atvasinātas publiskas personas \"Dārzkopības institūts\" — un Latvijas Lauksaimniecības universitātes zinātniskā institūta — atvasinātas publiskas personas \"Agroresursu un ekonomikas institūts\" — nolikumu apstiprina šā likuma 21. 5 panta pirmajā daļā noteiktajā kārtībā.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "section": "pn22",
+      "title": "22. Šā likuma 41.pantā minēto starptautisko novērtējumu pirmo reizi organizē 2019.gadā.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "section": "pn23",
+      "title": "23. Šā likuma 40.panta jaunā redakcija par pārskatu par zinātnisko institūciju zinātnisko darbību stājas spēkā 2017.gada 1.jūnijā.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "section": "pn24",
+      "title": "24. Ministru kabinets līdz 2017.gada 28.februārim izdod šā likuma 13.panta otrās daļas 3. 1 punktā un 42.panta sestajā daļā minētos noteikumus.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "section": "pn25",
+      "title": "25. Ministru kabinets līdz 2017.gada 30.jūnijam izdod šā likuma 40.panta otrajā daļā minētos noteikumus.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "section": "pn26",
+      "title": "26. Ministru kabinets līdz 2017.gada 31.decembrim izdod šā likuma 41.panta trešajā daļā minētos noteikumus.",
+      "content": "( 08.12.2016 . likuma redakcijā, kas stājas spēkā 22.12.2016. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "section": "pn27",
+      "title": "27. Ministru kabinets līdz 2018. gada 30. jūnijam izdod šā likuma 35. panta trešajā daļā minētos noteikumus.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 12.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "section": "pn28",
+      "title": "28. To valsts pētījumu programmu īstenošanā, kuras apstiprinātas ar Ministru kabineta 2014. gada 7. oktobra rīkojumu Nr. 558 \" Par valsts pētījumu programmām \" un Ministru kabineta 2014. gada 7. oktobra rīkojumu Nr. 559 \" Par papildu valsts pētījumu programmām \", līdz 2018. gada 31. decembrim piemēro Ministru kabineta 2006. gada 30. maija noteikumus Nr. 443 \" Valsts pētījumu programmu pieteikšanas, ekspertīzes un finansēšanas kārtība \" un Ministru kabineta 2014. gada 30. septembra noteikumus Nr. 597 \" Kārtība, kādā veic valsts pētījumu programmu īstenošanai piešķirto finanšu līdzekļu izlietojuma kontroli \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 12.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "section": "pn29",
+      "title": "29. Šā likuma 28. panta trešās daļas 2. punktu par Latvijas Mākslas akadēmiju, Jāzepa Vītola Latvijas Mūzikas akadēmiju un Latvijas Kultūras akadēmiju, kurās vismaz 20 procentiem no vēlētā akadēmiskā personāla ir zinātnes doktora grāds, piemēro no 2023. gada 1. janvāra. Līdz 2022. gada 31. decembrim šajās augstskolās zinātnes doktora grāds ir vismaz 10 procentiem no vēlētā akadēmiskā personāla.",
+      "content": "( 14.07.2022 . likuma redakcijā, kas stājas spēkā 29.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "section": "pn30",
+      "title": "30. Ministru kabinets līdz 2019. gada 31. jūlijam izdod šā likuma 18. panta piektajā un astotajā daļā minētos noteikumus.",
+      "content": "( 13.06.2019 . likuma redakcijā, kas stājas spēkā 01.07.2019. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "section": "pn31",
+      "title": "31. Latvijas Zinātnes padomes ekspertu komisijas, kas uzsākušas darbību līdz 2019. gada 30. jūnijam, turpina darboties arī pēc 2019. gada 30. jūnija līdz jaunu ekspertu komisiju izveidošanai, bet ne ilgāk kā līdz 2019. gada 15. oktobrim.",
+      "content": "( 13.06.2019 . likuma redakcijā, kas stājas spēkā 01.07.2019. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "section": "pn32",
+      "title": "32. Latvijas Zinātnes padome, kas apstiprināta līdz 2019. gada 30. jūnijam, turpina darboties arī pēc 2019. gada 30. jūnija, bet ne ilgāk kā līdz 2020. gada 30. jūnijam.",
+      "content": "( 13.06.2019 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.10.2019 . likumu, kas stājas spēkā 23.10.2019. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "section": "pn33",
+      "title": "33. Lai nodrošinātu Latvijas Zinātnes padomes ekspertu tiesību piešķiršanu līdz šā likuma 18. panta astotajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, piemēro Ministru kabineta 2017. gada 12. decembra noteikumus Nr. 724 \" Noteikumi par Latvijas Zinātnes padomes ekspertu kvalifikācijas kritērijiem, ekspertu komisiju izveidošanu un to darbības organizēšanu \".",
+      "content": "( 13.06.2019 . likuma redakcijā, kas stājas spēkā 01.07.2019. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "section": "pn34",
+      "title": "34. Ministru kabinets līdz 2020. gada 31. janvārim Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pieņem lēmumu par Studiju un zinātnes administrācijas likvidācijas vai reorganizācijas pabeigšanu līdz 2020. gada 30. jūnijam, nodrošinot šā likuma 18. 1 panta otrajā daļā minēto uzdevumu nodošanu Latvijas Zinātnes padomei.",
+      "content": "( 14.11.2019 . likuma redakcijā, kas stājas spēkā 01.07.2020. )"
+    },
+    {
+      "provision_ref": "PN 35",
+      "section": "pn35",
+      "title": "35. Šā likuma 14. panta jaunā redakcija, grozījumi par šā likuma 15. un 18. 1 panta izslēgšanu, grozījumi 17. panta pirmajā daļā par tās papildināšanu ar 5. punktu, grozījumi šā likuma 34. panta trešajā daļā (par pirmā teikuma papildināšanu pēc vārda \"izvērtē\" ar vārdu \"administrē\" un vārdu \"Studiju un zinātnes administrācija\" aizstāšanu otrajā teikumā ar vārdiem \"Latvijas Zinātnes padome\") stājas spēkā 2020. gada 1. jūlijā.",
+      "content": "( 14.11.2019 . likuma redakcijā, kas stājas spēkā 01.07.2020. )"
+    },
+    {
+      "provision_ref": "PN 36",
+      "section": "pn36",
+      "title": "36. Šā likuma 28. panta trešās daļas 2. punktu attiecībā uz Latvijas Nacionālās aizsardzības akadēmiju piemēro no 2025. gada 1. janvāra.",
+      "content": "( 14.07.2022 . likuma redakcijā, kas stājas spēkā 29.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 37",
+      "section": "pn37",
+      "title": "37. Prioritārie virzieni zinātnē, kas apstiprināti ar Ministru kabineta 2017. gada 13. decembra rīkojumu Nr. 746 \"Par prioritārajiem virzieniem zinātnē 2018.—2021. gadā\", ir spēkā līdz 2022. gada 31. decembrim. Šo rīkojumu piemēro līdz 2018., 2019., 2020., 2021. un 2022. gadā fundamentālo un lietišķo pētījumu projektu konkursa ietvaros noslēgto projektu īstenošanas līgumu izpildei pilnā apjomā.",
+      "content": "( 14.07.2022 . likuma redakcijā, kas stājas spēkā 29.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 38",
+      "section": "pn38",
+      "title": "38. Ministru kabinets līdz 2022. gada 31. augustam izdara grozījumus:",
+      "content": "1) Ministru kabineta 2017. gada 27. jūnija noteikumos Nr. 381 \" Nacionālās zinātniskās darbības informācijas sistēmas noteikumi \";\n2) Ministru kabineta 2018. gada 23. janvāra noteikumos Nr. 49 \" Noteikumi par Latvijas zinātnes nozarēm un apakšnozarēm \"."
+    },
+    {
+      "provision_ref": "PN 39",
+      "section": "pn39",
+      "title": "39. Grozījumi šā likuma 24. panta otrajā daļā, 26. panta otrajā daļā un 42. panta otrās daļas 9. punkts stājas spēkā 2022. gada 1. septembrī.",
+      "content": "( 14.07.2022 . likuma redakcijā, kas stājas spēkā 29.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 40",
+      "section": "pn40",
+      "title": "40. Grozījumi par šā likuma 1. panta pirmās daļas 8. punkta izslēgšanu, 10. panta pirmās daļas izteikšanu jaunā redakcijā un otrās daļas izslēgšanu, 11. panta izslēgšanu un 16. panta 8. 1 un 11. punkta izslēgšanu stājas spēkā 2027. gada 1. janvārī.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.05.2024. Minētie grozījumi iekļauti likuma redakcijā uz 01.01.2027. )"
+    },
+    {
+      "provision_ref": "PN 41",
+      "section": "pn41",
+      "title": "41. Līdz 2026. gada 31. decembrim promocijas darba aizstāvēšana un zinātnes doktora grāda piešķiršana (promocija) notiek saskaņā ar šo likumu, sākot ar 2027. gada 1. janvāri — saskaņā ar Augstskolu likumu .",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.05.2024. )"
+    },
+    {
+      "provision_ref": "PN 42",
+      "section": "pn42",
+      "title": "42. Izglītības un zinātnes ministrija Ministru kabineta noteiktajā kārtībā:",
+      "content": "1) līdz 2024. gada 31. maijam nodrošina Latvijas Zinātnes padomes eksperta tiesību pieteikuma iesniegšanas un Latvijas Zinātnes padomes komisiju vēlēšanu elektroniskajā sistēmā ietverto Latvijas Zinātnes padomes komisiju vēlēšanu datu glabāšanu, arhivēšanu un dzēšanu;\n2) līdz 2027. gada 31. janvārim nodrošina Latvijas Zinātnes padomes ekspertu datubāzē un Latvijas Zinātnes padomes eksperta tiesību pieteikuma iesniegšanas elektroniskajā sistēmā ietverto datu glabāšanu, arhivēšanu un dzēšanu."
+    },
+    {
+      "provision_ref": "PN 43",
+      "section": "pn43",
+      "title": "43. Šā likuma 16. panta 8. punkts, 18. pants un 42. panta otrās daļas 3. punkts zaudē spēku 2026. gada 31. decembrī.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.05.2024. Minētie grozījumi iekļauti likuma redakcijā uz 31.12.2026. )"
+    },
+    {
+      "provision_ref": "PN 44",
+      "section": "pn44",
+      "title": "44. Latvijas Zinātnes padomes eksperta tiesības, kas personai piešķirtas saskaņā ar šā likuma 18. panta septīto daļu, ir atzīstamas par spēkā neesošām, sākot ar 2027. gada 1. janvāri.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.05.2024. )"
+    },
+    {
+      "provision_ref": "PN 45",
+      "section": "pn45",
+      "title": "45. Ministru kabinets līdz 2025. gada 30. jūnijam izdod šā likuma 32. 1 panta septītajā daļā, 39. 3 panta ceturtajā daļā un 39. 6 pantā minētos noteikumus.",
+      "content": "( 04.12.2024 . likuma redakcijā, kas stājas spēkā 01.01.2025. )"
+    },
+    {
+      "provision_ref": "PN 46",
+      "section": "pn46",
+      "title": "46. Līdz šā likuma pārejas noteikumu 45. punktā minēto Ministru kabineta noteikumu izdošanai valsts zinātniskās institūcijas piemēro to iekšējos normatīvajos aktos vai valsts zinātniskās institūcijas darbības nolikumā noteikto, kā valsts zinātniskā institūcija:",
+      "content": "1) paziņo darbiniekam par tās mantisko tiesību izmantošanu;\n2) izvērtē tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni saimnieciskās izmantošanas (komercializācijas) potenciālu un īstenošanu;\n3) nosaka darbinieka, kas ir radījis zinātību, tehnoloģiju, izgudrojumu vai augu šķirni, tiesības uz taisnīgu atlīdzību no mantisko tiesību uz zinātību, tehnoloģiju, izgudrojumu vai augu šķirni komercializācijas rezultātā gūtajiem ienākumiem."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "inovācija",
+      "definition": "jaunu zinātniskās, tehniskās, sociālās, kultūras vai citas jomas ideju, izstrādņu un tehnoloģiju īstenošana produktā vai pakalpojumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pētniecība",
+      "definition": "mērķtiecīga darbība ar zinātnes metodēm iegūto faktu, teoriju un dabas likumu izmantošanai jaunu produktu, procesu un metožu radīšanā vai pilnveidošanā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zinātne",
+      "definition": "intelektuālās darbības sfēra, kurā ar teorētiskām vai eksperimentālām metodēm tiek iegūtas un apkopotas zināšanas par dabā un sabiedrībā pastāvošajām likumsakarībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zinātniskā darbība",
+      "definition": "radoša darbība, kas ietver zinātni, pētniecību un inovācijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zinātnes tehniskais personāls",
+      "definition": "personas, kurām ir nepieciešamās tehniskās zināšanas un pieredze vienā vai vairākās jomās un kuras zinātnieku vadībā piedalās zinātniskajā darbībā, veicot tehniskos uzdevumus. Zinātnes tehniskajā personālā ietilpst inženieri, tehniķi, laboranti, tehnologi, operatori",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zinātni apkalpojošais personāls",
+      "definition": "personas, kuras veic zinātniskajai darbībai nepieciešamās palīgfunkcijas (plānošanas, ekonomisko, finanšu, zinātniski tehniskās informācijas struktūrvienību darbinieki, speciālo un zinātniski tehnisko bibliotēku darbinieki, patentu dienesta speciālisti, arhivāri u.tml.)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zinātniskās institūcijas",
+      "definition": "zinātniskie institūti, augstskolas, komercsabiedrības, kā arī citas institūcijas, kuru statūtos, nolikumā vai satversmē ir paredzēta zinātniskā darbība, piedalīšanās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā un kuras ir reģistrētas zinātnisko institūciju reģistrā. Zinātniskajā institūcijā jābūt vismaz piecām personām ar zinātnes doktora grādu institūcijas darbībai atbilstošajā pētījumu virzienā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Latvijas Zinātnes padomes eksperts",
+      "definition": "zinātnieks, kurš ir sasniedzis noteiktus zinātniskās darbības rezultātus zinātnes nozarē atbilstoši izvirzītajiem eksperta kvalifikācijas kritērijiem un kuram Latvijas Zinātnes padome piešķīrusi eksperta tiesības zinātnes nozarē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts zinātniskā institūcija",
+      "definition": "valsts augstskola, tai skaitā augstskola — atvasināta publiska persona, valsts augstskolas struktūrvienība, valsts dibinātas universitātes zinātniskais institūts — atvasināta publiska persona, valsts zinātniskais institūts, tai skaitā zinātniskais institūts — atvasināta publiska persona, cita valsts publiskā institūcija, publiskas personas kapitālsabiedrība, kuru statūtos, nolikumā vai satversmē ir paredzēta zinātniskā darbība, piedalīšanās zinātniskās kvalifikācijas iegūšanas un pilnveidošanas procesā un kuras ir reģistrētas zinātnisko institūciju reģistrā. Valsts zinātniskajā institūcijā jābūt vismaz piecām personām ar zinātnes doktora grādu institūcijas darbībai atbilstošajā pētījumu virzienā.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

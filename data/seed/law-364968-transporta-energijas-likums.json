@@ -1,0 +1,309 @@
+{
+  "id": "lv-law-364968",
+  "type": "statute",
+  "title": "Transporta enerģijas likums",
+  "short_name": "TA-364968",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/364968-transporta-energijas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) atjaunīgā elektroenerģija — no atjaunīgiem energoresursiem ražota elektroenerģija, kas tiek izmantota Eiropas Parlamenta un Padomes 2008. gada 22. oktobra regulas (EK) Nr. 1099/2008 par enerģētikas statistiku A pielikuma 2.6.2. punktā definētajā transporta sektorā (turpmāk — transporta sektors);\n2) biodegviela — šķidrā degviela, kuru izmanto transporta sektorā un iegūst no biomasas;\n3) biomasas degviela — no biomasas ražota gāzveida degviela, tostarp biogāze (arī atkritumu poligonu gāze un notekūdeņu gāze), un biometāns, kura sastāvā ir vismaz 90 procentu (masas procenti) no biomasas ražota metāna;\n4) degviela — naftas izcelsmes degviela (ieskaitot maisījumus ar biodegvielu) vai cita fosila šķidrā vai gāzveida viela, kuru var izmantot kā transporta enerģiju;\n5) degvielas piegādātājs — komersants, kurš patēriņam transportā Latvijā realizē transporta enerģiju vairāk nekā 100 tonnu gadā un kurš atbilst vienam vai abiem šādiem nosacījumiem:\na) ir saņēmis speciālo atļauju (licenci) darbībām ar naftas produktiem vai dabasgāzi, ir dabasgāzes tirgotājs, maksā akcīzes nodokli par naftas produktiem, dabasgāzi, kas tiek izmantota par degvielu, vai citiem produktiem, kas tiek realizēti vai paredzēti realizācijai, kā arī tiek izmantoti vai paredzēti izmantošanai par degvielu,\nb) realizē patēriņam transportā Latvijā tādus produktus, kuri nav apliekami ar akcīzes nodokli saskaņā ar likuma \" Par akcīzes nodokli \" 5. panta ceturtajā daļā noteikto;\n6) lignocelulozes materiāls — materiāls, kuru veido lignīns, celuloze un hemiceluloze, (piemēram, mežos iegūta biomasa, enerģētiskās kokaugu kultūras un uz koksnes resursiem balstītu nozaru atlikumi un atkritumi);\n7) nebioloģiskas izcelsmes atjaunīgā degviela — šķidrā vai gāzveida degviela, kuras enerģijas saturu veido atjaunīgie energoresursi (izņemot biomasu);\n8) pārstrādātā oglekļa degviela — šķidrā vai gāzveida degviela, kuru ražo no fosilas izcelsmes šķidro vai cieto atkritumu plūsmām, kas nav piemērotas materiālu reģenerācijai saskaņā ar atkritumu apsaimniekošanas normatīvajos aktos noteikto atkritumu apsaimniekošanas darbību prioritāro secību, vai no atkritumu apstrādes fosilas izcelsmes gāzes un atgāzes, kas nenovēršami un netīši rodas ražošanas procesā no rūpnieciskām iekārtām;\n9) pārtikas un dzīvnieku barības kultūraugi — kultūraugi ar augstu cietes saturu, cukura kultūraugi un eļļas kultūraugi, kurus audzē lauksaimniecības zemē kā galvenos kultūraugus (izņemot atlikumus, atkritumus, lignocelulozes materiālus) vai starpposma kultūraugus (piemēram, starpkultūras un virsaugus), ar nosacījumu, ka šādu starpposma kultūraugu izmantošana nerada pieprasījumu pēc papildu zemes platībām;\n10) transporta enerģija — prece ar noteiktu vērtību, kuras nesēji ir degviela, alternatīvā degviela vai cita viela vai produkts, ar ko nodrošina jebkāda veida transportlīdzekļa kustību un tajā uzstādīto iekārtu vai agregātu darbību.\n(2) Šajā likumā lietotie termini \"alternatīvā degviela\", \"elektrotransportlīdzeklis\", \"lieljaudas uzlādes punkts\", \"pilsētas mezgls\", \"sašķidrināts metāns\", \"uzlādes punkts\", \"uzlādes punkta operators\", \"uzpildes punkts\" un \"mobilitātes pakalpojumu sniedzējs\" atbilst Eiropas Parlamenta un Padomes 2023. gada 13. septembra regulas (ES) 2023/1804 par alternatīvo degvielu infrastruktūras ieviešanu un ar ko atceļ direktīvu 2014/94/ES (turpmāk — regula Nr. 2023/1804) 2. pantā lietotajiem terminiem.\n(3) Šajā likumā termins \"atkritumi\" ir lietots Atkritumu apsaimniekošanas likuma izpratnē (izņemot vielas, kas tīši pārveidotas vai piesārņotas, lai tās uzskatītu par atkritumiem).\n(4) Citi termini šajā likumā ir lietoti Enerģētikas likuma izpratnē, ciktāl šajā likumā nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir:\n1) veicināt cilvēku veselībai un videi drošu transporta enerģijas apriti;\n2) sekmēt atjaunīgās enerģijas izmantošanu transportā;\n3) veicināt atjaunīgās enerģijas piedāvājumu un pieprasījumu tirgū;\n4) attīstīt alternatīvo degvielu infrastruktūru;\n5) samazināt siltumnīcefekta gāzu emisiju un gaisu piesārņojošo vielu emisijas;\n6) nodrošināt sabiedrības informētību par pieejamiem un izmantojamiem transporta enerģijas veidiem;\n7) sekmēt ilgtspējīgu tautsaimniecības attīstību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "Šis likums nosaka transporta enerģijas aprites, infrastruktūras attīstības, transporta enerģijas kvalitātes un tās atbilstības novērtēšanas prasības, kā arī šo prasību uzraudzības kārtību."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Transporta enerģijas kvalitātes prasības",
+      "content": "(1) Latvijas Republikas teritorijā atļauts realizēt tikai tādu transporta enerģiju, kura atbilst šajā likumā un citos normatīvajos aktos noteiktajām transporta enerģijas kvalitātes prasībām un rādītājiem, kas apliecināti ar šā likuma 5. panta pirmajā daļā minēto dokumentu. Šie nosacījumi neattiecas uz transportlīdzekļos izmantoto elektroenerģiju.\n(2) Transporta enerģijas apritē iesaistītās personas ir atbildīgas par šajā likumā un citos normatīvajos aktos noteikto transporta enerģijas kvalitātes prasību un rādītāju ievērošanu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Transporta enerģijas kvalitātes atbilstības novērtēšana",
+      "content": "(1) Transporta enerģijas atbilstību normatīvajos aktos minētajām kvalitātes prasībām un rādītājiem apliecina ar vienu no šādiem dokumentiem:\n1) ar atbilstības sertifikātu, kuru, pamatojoties uz akreditētas testēšanas laboratorijas testēšanas pārskatiem, izdod atbilstības novērtēšanas institūcija, kas akreditēta nacionālajā akreditācijas institūcijā saskaņā ar normatīvajos aktos noteikto par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību, vai Eiropas Ekonomikas zonas valstī akreditēta atbilstības novērtēšanas institūcija;\n2) ja transporta enerģija ražota Eiropas Savienībā, — ar atbilstības apliecinājumu, kuram pievienots akreditētas testēšanas laboratorijas transporta enerģijas testēšanas pārskats par attiecīgo transporta enerģijas partiju.\n(2) Transporta enerģijas kvalitātes atbilstību normatīvo aktu prasībām apliecina abos šādos gadījumos:\n1) ja transporta enerģija tiek ievesta Latvijas teritorijā, izņemot gadījumu, kad tai tiek piemērota pagaidu uzglabāšana, muitas procedūra \"tranzīts\" vai uzglabāšana muitas noliktavā vai brīvajā zonā;\n2) ja transporta enerģija no akcīzes preču noliktavas tiek realizēta patēriņam transporta sektorā, izņemot gadījumu, kad no Eiropas Savienības dalībvalsts ievestā transporta enerģija akcīzes preču noliktavā tiek uzglabāta atsevišķā glabātavā.\n(3) Atbilstības sertifikāti, atbilstības apliecinājumi vai to kopijas, kā arī citi ar transporta enerģijas kvalitātes apliecināšanu saistītie dokumenti uzglabājami vismaz piecus gadus."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Transporta enerģijas tirgus uzraudzība",
+      "content": "(1) Valsts vides dienests ir normatīvajos aktos par atbilstības novērtēšanu noteiktā tirgus uzraudzības iestāde, kas veic šajos normatīvajos aktos paredzētās tirgus uzraudzības iestādes funkcijas.\n(2) Valsts vides dienestam ir tiesības ņemt transporta enerģijas paraugus bez maksas.\n(3) Ja Valsts vides dienests konstatē transporta enerģijas neatbilstību normatīvajos aktos noteiktajām transporta enerģijas kvalitātes prasībām un rādītājiem, tas pieprasa degvielas piegādātājam konkrētā termiņā veikt normatīvajos aktos par atbilstības novērtēšanu paredzētās korektīvās darbības un pasākumus, lai transporta enerģija atbilstu noteiktajām kvalitātes prasībām un rādītājiem.\n(4) Ja degvielas piegādātājs konkrētajā termiņā labprātīgi neveic atbilstošas korektīvās darbības, lai nodrošinātu transporta enerģijas atbilstību prasībām, Valsts vides dienests ir tiesīgs pieņemt lēmumu par korektīvajām darbībām, tostarp uzliekot liegumu realizēt transporta enerģiju.\n(5) Transporta enerģiju, kura neatbilst normatīvajos aktos noteiktajām kvalitātes prasībām un kuras atbilstība netiek nodrošināta, arī veicot korektīvās darbības, degvielas piegādātājs atdod personai, no kuras transporta enerģija ir iegādāta, vai pārstrādā, vai iznīcina.\n(6) Izdevumus, kas saistīti ar transporta enerģijas kvalitātes atbilstības novērtēšanu, tostarp ar prasībām par neatbilstošas transporta enerģijas glabāšanu, transportēšanu vai atdošanu personai, no kuras transporta enerģija ir iegādāta, kā arī ar pārstrādāšanu vai iznīcināšanu, sedz degvielas piegādātājs."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Ministru kabineta kompetence transporta enerģijas tirgus uzraudzības jomā",
+      "content": "Ministru kabinets nosaka:\n1) transporta enerģijas kvalitātes rādītājus un tās ražošanas, pārstrādes, pārvietošanas, realizēšanas un atbilstības nodrošināšanas prasības;\n2) transporta enerģijas kvalitātes uzraudzību un transporta enerģijas tirgus uzraudzības nosacījumus, tostarp nacionālās sistēmas darbības nosacījumus;\n3) kvalitātes prasībām neatbilstošas transporta enerģijas atdošanas, pārstrādes vai iznīcināšanas procedūru, kritērijus un nosacījumus;\n4) transporta enerģijas bezmaksas paraugu ņemšanas un noformēšanas procedūru."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Alternatīvās degvielas infrastruktūra",
+      "content": "(1) Satiksmes ministrija sadarbībā ar Klimata un enerģētikas ministriju, Ekonomikas ministriju, Viedās administrācijas un reģionālās attīstības ministriju un attiecīgajām pašvaldībām, ievērojot regulas Nr. 2023/1804 14. panta 1. un 11. punktā noteikto, izstrādā attīstības plānošanas dokumentu, lai veicinātu alternatīvo degvielu infrastruktūras ieviešanu un attīstību, un, īstenojot tajā noteiktos pasākumus, nodrošina, ka:\n1) pie Eiropas transporta tīkla valsts autoceļiem vai to tiešā tuvumā, nepārsniedzot triju kilometru attālumu, un pilsētas mezglā tiek uzstādīti jauni lieljaudas uzlādes punkti lielas noslodzes transportlīdzekļu uzlādei;\n2) pie Eiropas transporta tīkla valsts autoceļiem vai to tiešā tuvumā, nepārsniedzot triju kilometru attālumu, un pilsētas mezglā tiek izveidoti publiski pieejami nebioloģiskas izcelsmes atjaunīgās degvielas un sašķidrināta biometāna uzpildes punkti lielas noslodzes transportlīdzekļu uzpildei;\n3) tiek sasniegti regulas Nr. 2023/1804 3. panta 4. punktā, 4. panta 1. punktā, 6. panta 1. punktā un 8. pantā noteiktie mērķrādītāji.\n(2) Komersants, būvējot jaunu publiski pieejamu degvielas uzpildes staciju un pārbūvējot vai renovējot esošu publiski pieejamu degvielas uzpildes staciju, kā arī esošajās publiski pieejamās degvielas uzpildes stacijās nodrošina vismaz vienu uzlādes punktu vai alternatīvās degvielas uzpildes punktu atbilstoši tehniskajām iespējām, izmaksu efektivitātei un ieguldījumu rentabilitātei, ņemot vērā, ka tad, ja degvielas uzpildes stacijas atrodas pie Eiropas transporta tīkla valsts autoceļiem, paredzams vismaz viens lieljaudas uzlādes punkts.\n(3) Valsts sabiedrība ar ierobežotu atbildību \"Latvijas Valsts ceļi\" veic regulas Nr. 2023/1804 20. panta 1. punktā minētos Identifikācijas reģistrācijas organizācijas ( IDRO ) uzdevumus, kā arī nodrošina publiski pieejamo alternatīvo degvielu uzlādes punktu, uzpildes punktu operatoru, mobilitātes pakalpojumu sniedzēju un šā panta otrajā daļā minēto komersantu reģistrāciju reģistrā, tostarp piešķirot identifikatorus ar valsts kodu un nosakot identifikatoru sastāvu.\n(4) Publiski pieejama uzlādes punkta vai alternatīvās degvielas uzpildes punkta operators, mobilitātes pakalpojumu sniedzējs, kā arī šā panta otrajā daļā minētais komersants reģistrējas valsts sabiedrības ar ierobežotu atbildību \"Latvijas Valsts ceļi\" reģistrā un nodrošina regulas Nr. 2023/1804 20. panta 2. un 3. punktā noteikto pienākumu izpildi attiecībā uz informācijas sniegšanu.\n(5) Par šā panta ceturtajā daļā noteiktās informācijas nesniegšanu, tās nepilnīgu sniegšanu vai nepatiesas informācijas sniegšanu valsts sabiedrība ar ierobežotu atbildību \"Latvijas Valsts ceļi\" nosaka pienākumu noteiktā termiņā novērst konstatētās neatbilstības.\n(6) Ministru kabinets nosaka:\n1) prasības attiecībā uz publiski pieejamiem uzlādes punktiem, publiski pieejamiem alternatīvās degvielas uzpildes punktiem, sašķidrinātās dabasgāzes uzpildes punktiem un krasta elektroapgādes punktiem, to uzstādīšanas un ekspluatācijas prasības, kā arī krasta elektropadeves iekārtu tehniskās specifikācijas;\n2) kritērijus un nosacījumus publiski pieejama uzlādes punkta vai alternatīvās degvielas uzpildes punkta izveidei degvielas uzpildes stacijās;\n3) šā panta otrajā daļā minētā pienākuma izpildes ziņošanas kārtību, tostarp ziņošanas veidu un tvērumu;\n4) kārtību, kādā veicama uzlādes punktu operatoru, uzlādes punktu un mobilitātes pakalpojuma sniedzēju reģistrācija, tostarp identifikatoru sastāva noteikšana, piešķiršana un pārvaldība, kā arī kārtību, kādā minētā informācija tiek publiskota."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Nosacījumi attiecībā uz valstspilsētu pašvaldību teritorijās izmantotajiem transportlīdzekļiem",
+      "content": "(1) Valstspilsētu pašvaldību teritorijās tiek nodrošināts, ka:\n1) no valstspilsētu sabiedriskajos transportlīdzekļos izmantotās transporta enerģijas apjoma vismaz 30 procentu ir atjaunīgā enerģija vai elektroenerģija (vai abu veidu enerģijas kopā);\n2) no valstspilsētu pašvaldību transportlīdzekļos izmantotās transporta enerģijas apjoma vismaz 30 procentu ir atjaunīgā enerģija vai elektroenerģija (vai abu veidu enerģijas kopā). Šajā apjomā neieskaita šīs daļas 1. punktā minētajos transportlīdzekļos izmantoto transporta enerģiju.\n(2) Šā panta pirmo daļu var nepiemērot attiecībā uz transporta enerģiju transportlīdzekļos, kurus izmanto operatīvo darbību veikšanai un meklēšanas, glābšanas un neatliekamās medicīniskās palīdzības sniegšanas procesā.\n(3) Valstspilsētu pašvaldības reizi divos gados ziņo Valsts vides dienestam par šā panta pirmajā daļā minēto pienākumu izpildes progresu, sniedzot informāciju par:\n1) atjaunīgās enerģijas un elektroenerģijas īpatsvaru valstspilsētu sabiedriskajos transportlīdzekļos izmantotās transporta enerģijas apjomā;\n2) atjaunīgās enerģijas un elektroenerģijas īpatsvaru valstspilsētu pašvaldību transportlīdzekļos izmantotās transporta enerģijas apjomā.\n(4) Ja valstspilsēta kā teritoriālā iedalījuma vienība ietilpst kādā novadā, šajā pantā noteiktos valstspilsētu pašvaldību uzdevumus īsteno attiecīgā novada pašvaldība.\n(5) Šā panta pirmajā daļā minētie pienākumi nav piemērojami, ja tiek izsludināta valsts enerģētiskā krīze naftas produktu apgādē atbilstoši Enerģētikas likumam , dabas katastrofu vai antropogēno katastrofu gadījumā — atbilstoši Civilās aizsardzības un katastrofas pārvaldīšanas likumam vai iekšējo un ārējo valsts apdraudējumu gadījumā — atbilstoši Nacionālās drošības likumam ."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Patērētājiem sniedzamā informācija",
+      "content": "(1) Publiski pieejama uzlādes punkta operators savā tīmekļvietnē vai mobilajā lietotnē publicē informāciju par publiski pieejama uzlādes punkta ģeogrāfisko izvietojumu, reāllaika pieejamību un vēsturisko un reāllaika uzlādes informāciju.\n(2) Publiski pieejamā uzlādes punktā un publiski pieejamā uzpildes punktā norāda informāciju par tajos pieejamiem alternatīvās degvielas veidiem vai norāda iespēju, kā minēto informāciju var saņemt elektroniski.\n(3) Ja degvielas uzpildes stacijā patēriņam tiek realizēta vairāku veidu degviela un no tās vismaz viens veids ir alternatīvā degviela, publiski pieejamā uzpildes punktā norāda cenas salīdzināmās vienībās, nemaldinot lietotājus un neradot tiem neskaidrības. Minēto informāciju, ja tas ir tehniski iespējams, var sniegt, izmantojot elektronisko sakaru pakalpojumus (tostarp tiešsaistes režīmā tīmekļvietnē vai mobilajā lietotnē).\n(4) Ministru kabinets nosaka:\n1) uz publiski pieejamo uzpildes punktu, publiski pieejamo uzlādes punktu vai citu publiski pieejamo transporta enerģijas tirdzniecības vietu (turpmāk — publiski pieejamā transporta enerģijas tirdzniecības vieta) attiecināmās prasības uzlādes un uzpildes iekārtām, kā arī prasības patērētāju informēšanai par šo punktu un tirdzniecības vietu pieejamību un izmantošanu;\n2) uz publiski pieejamo transporta enerģijas tirdzniecības vietu attiecināmās prasības patērētāju informēšanai par transporta enerģijas veidu, izcelsmi, sastāvu, īpašībām un salīdzināmajām cenām;\n3) kārtību, kādā komersanti, kas realizē regulas Nr. 2023/1804 2. panta 4. punktā noteiktās alternatīvās degvielas, energoresursu informācijas sistēmā sniedz informāciju par transporta enerģijas mazumtirdzniecības cenām;\n4) salīdzināmo transporta enerģijas cenu aprēķināšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākums",
+      "content": "(1) Degvielas piegādātājs nodrošina, lai visu veidu transportā tā realizētās atjaunīgās transporta enerģijas siltumnīcefekta gāzu emisiju ietaupījuma apjoms salīdzinājumā ar konkrētā gada bāzlīniju (visu veidu transportā tā realizētā transporta enerģijas apjoma reizinājums ar normatīvajos aktos noteikto fosilo degvielu komparatoru), sākot no 2030. gada 1. janvāra, katru gadu sasniedz vismaz 16 procentus.\n(2) Siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākums neattiecas uz tādu degvielas piegādātāju, kas patēriņam transportā realizē tikai alternatīvās degvielas, un uz Eiropas Parlamenta un Padomes 2023. gada 18. oktobra regulas (ES) 2023/2405 par vienlīdzīgu konkurences apstākļu nodrošināšanu ilgtspējīgam gaisa transportam 3. panta 19. punktā minēto aviācijas degvielas piegādātāju (turpmāk — aviācijas degvielas piegādātājs), kas patēriņam transportā realizē tikai aviācijas degvielu.\n(3) Siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākums neattiecas uz transporta enerģiju, kura iezīmēta (marķēta) saskaņā ar likuma \" Par akcīzes nodokli \" 28. panta pirmajā daļā noteikto un kuru izmanto atbilstoši likuma \" Par akcīzes nodokli \" 18. panta piektajā vai 6. 4 daļā minētajam veidam, mērķiem un nosacījumiem."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākuma izpildes nosacījumi",
+      "content": "(1) Degvielas piegādātājs šā likuma 11. panta pirmajā daļā noteikto pienākumu var izpildīt, patēriņam transporta sektorā realizējot:\n1) biodegvielu vai biomasas degvielu, kas nav ražota no šā likuma pielikumā minētajām izejvielām, bet ir ražota no pārtikas un dzīvnieku barības kultūraugiem, ņemot vērā arī to biomasas degvielas apjomu, kas ievadīts Latvijas dabasgāzes sadales vai pārvades sistēmā;\n2) biodegvielu vai biomasas degvielu, kas nav ražota no šā likuma pielikumā minētajām izejvielām un nav ražota no pārtikas un dzīvnieku barības kultūraugiem, ņemot vērā arī to biomasas degvielas apjomu, kas ievadīts Latvijas dabasgāzes sadales vai pārvades sistēmā;\n3) biodegvielu vai biomasas degvielu, kas ir ražota no šā likuma pielikuma B daļā minētajām izejvielām, ņemot vērā arī to biomasas degvielas apjomu, kas ievadīts Latvijas dabasgāzes sadales vai pārvades sistēmā;\n4) biodegvielu, kas ir ražota no šā likuma pielikuma A daļā minētajām izejvielām (turpmāk — modernā biodegviela), ja šīs biodegvielas atbilstība modernās biodegvielas kritērijiem ir attiecīgi pamatota, vai biomasas degvielu, kas ir ražota no šā likuma pielikuma A daļā minētajām izejvielām (turpmāk — modernā biomasas degviela), ja šīs biomasas degvielas atbilstība modernās biogāzes kritērijiem un tās izcelsme ir attiecīgi pamatota, ņemot vērā arī to biomasas degvielas apjomu, kas ievadīts Latvijas dabasgāzes sadales vai pārvades sistēmā;\n5) nebioloģiskas izcelsmes atjaunīgo degvielu, arī gadījumā, kad to izmanto kā starpproduktu:\na) degvielas ražošanā,\nb) biodegvielu ražošanā, ja nebioloģiskas izcelsmes atjaunīgās degvielas izmantošanā nodrošinātais siltumnīcefekta gāzu emisiju ietaupījums nav jau ieskaitīts saražotās biodegvielas siltumnīcefekta gāzu emisiju ietaupījuma aprēķinā;\n6) pārstrādātā oglekļa degvielu;\n7) atjaunīgo elektroenerģiju.\n(2) Degvielas piegādātājs siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākuma izpildei transporta sektorā var izmantot tikai tādu šā panta pirmās daļas 1., 2., 3., 4., 5. un 6. punktā minēto transporta enerģiju, kas atbilst šā likuma 16. pantā noteiktajiem ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījumu kritērijiem."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Transporta enerģijas modernizēšanas pienākums",
+      "content": "(1) Degvielas piegādātājs nodrošina, ka tā patēriņam transporta sektorā realizētais moderno biodegvielu, modernās biomasas degvielas un nebioloģiskas izcelsmes atjaunīgo degvielu īpatsvars kopējā realizētā transporta enerģijas apjomā līdz 2029. gada 31. decembrim ik gadu nav mazāks par vienu enerģijas procentu un turpmāk katru gadu ir vismaz 5,5 enerģijas procenti, no kuriem vismaz vienu procentpunktu veido nebioloģiskas izcelsmes atjaunīgo degvielu apjoms.\n(2) Degvielas piegādātājs šā panta pirmajā daļā noteikto pienākumu var izpildīt, patēriņam transporta sektorā realizējot šā likuma 12. panta pirmās daļas 4. un 5. punktā minēto veidu transporta enerģiju.\n(3) Transporta enerģijas modernizēšanas pienākums neattiecas uz tādu degvielas piegādātāju, kas patēriņam transportā realizē tikai elektroenerģiju, nebioloģiskas izcelsmes atjaunīgo degvielu vai citu veidu alternatīvo degvielu, un uz aviācijas degvielas piegādātāju, kas patēriņam transportā realizē tikai aviācijas degvielu.\n(4) Transporta enerģijas modernizēšanas pienākums neattiecas uz transporta enerģiju, kura iezīmēta (marķēta) saskaņā ar likuma \" Par akcīzes nodokli \" 28. panta pirmajā daļā noteikto un kuru izmanto atbilstoši likuma \" Par akcīzes nodokli \" 18. panta piektajā vai 6. 4 daļā minētajam veidam, mērķiem un nosacījumiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Transporta enerģijas modernizēšanas pienākuma izpildes nosacījumi",
+      "content": "Lai izpildītu transporta enerģijas modernizēšanas pienākumu, degvielas piegādātājs patēriņam transporta sektorā var realizēt tikai tādu transporta enerģiju, kas atbilst šā likuma 16. pantā noteiktajiem ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījumu kritērijiem."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Ministru kabineta kompetence siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākuma un transporta enerģijas modernizēšanas pienākuma izpildes jomā",
+      "content": "(1) Ministru kabinets nosaka:\n1) siltumnīcefekta gāzu emisiju intensitātes aprēķina nosacījumus un kārtību;\n2) šā likuma 11. panta pirmajā daļā minētās bāzlīnijas aprēķina nosacījumus un kārtību;\n3) nosacījumus un kārtību, kādā degvielas piegādātājs pamato modernās biomasas degvielas izcelsmi;\n4) nosacījumus un kārtību moderno biodegvielu, moderno biomasas degvielu un nebioloģiskas izcelsmes atjaunīgo degvielu īpatsvara aprēķināšanai kopējā realizētajā transporta enerģijas apjomā;\n5) siltumnīcefekta gāzu emisiju intensitātes un transporta enerģijas modernizēšanas pienākuma elastības mehānismu (vienību apmaiņas mehānismu), tā dalībniekus un izmantošanas nosacījumus;\n6) no šā likuma pielikumā minētajām izejvielām iegūtu degvielu sarakstu;\n7) atjaunīgās transporta enerģijas veidus, ko nevar izmantot siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākuma un transporta enerģijas modernizēšanas pienākuma izpildē;\n8) atjaunīgās transporta enerģijas veidus, ko siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākuma un transporta enerģijas modernizēšanas pienākuma izpildē var ieskaitīt ierobežotā apmērā, ņemot vērā minēto veidu atjaunīgās transporta enerģijas apjomus, izejvielas un izcelsmi, kā arī šo ierobežojumu apmēru;\n9) siltumnīcefekta gāzu emisiju intensitātes un transporta enerģijas modernizēšanas pienākuma izpildes uzraudzības noteikumus.\n(2) Ja normatīvajos aktos par enerģētiku minētajā progresa ziņojumā tiek secināts, ka no Nacionālā enerģētikas un klimata plāna izrietošās saistības atjaunīgo energoresursu izmantošanas un atjaunīgās enerģijas ražošanas un izmantošanas veicināšanas jomā kādā saistību perioda gadā nav izpildītas, Ministru kabinets ir tiesīgs noteikt ikgadējo šā likuma 11. panta pirmajā daļā minēto pienākumu laikposmam līdz 2030. gadam, sākot no nākamā kalendāra gada pēc progresa ziņojuma iesniegšanas, tomēr nepārsniedzot šā likuma 11. panta pirmajā daļā noteikto pienākuma apjomu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "section": "16",
+      "title": "Atbilstības apliecināšana ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem",
+      "content": "(1) Latvijas Republikā vai citā Eiropas Savienības dalībvalstī ražotām, ievestām vai importētām biodegvielām, biomasas degvielām, nebioloģiskas izcelsmes atjaunīgām degvielām vai pārstrādātā oglekļa degvielām nepieciešams atbilst ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem, kas tiek piemēroti neatkarīgi no ģeogrāfiskās izcelsmes.\n(2) Latvijas Republikā vai citā Eiropas Savienības dalībvalstī ražotām, ievestām vai importētām biodegvielām un biomasas degvielām, kuras ražo no atkritumiem un atlikumiem, kas nav lauksaimniecības, akvakultūras, zvejniecības un mežsaimniecības atlikumi (atlikumi, ko tiešā veidā rada lauksaimniecības, akvakultūras, zivsaimniecības un mežsaimniecības nozarēs, neietverot atlikumus, kas radušies saistītajās nozarēs vai pārstrādē), kā arī no atkritumiem un atlikumiem, ko vispirms pārstrādā produktā, kuru pēc tam pārstrādā biodegvielās vai biomasas degvielās, nepieciešams atbilst tikai siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem, kas tiek piemēroti neatkarīgi no šo degvielu ģeogrāfiskās izcelsmes.\n(3) Biodegvielas, biomasas degvielas, nebioloģiskas izcelsmes atjaunīgās degvielas un pārstrādātā oglekļa degvielas atbilstību ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem (ja attiecināms) apliecina vienā no šādiem veidiem:\n1) brīvprātīgās shēmas ietvaros;\n2) citas Eiropas Savienības dalībvalsts izveidotas nacionālās shēmas ietvaros."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "section": "17",
+      "title": "Piegādes ķēdes un masas bilances sistēma",
+      "content": "(1) Lai pamatotu, ka visā piegādes ķēdē — no izejvielu iegūšanas līdz šā likuma 16. panta pirmajā daļā minētās transporta enerģijas realizēšanai patēriņam transporta sektorā — ir ievēroti ilgtspējas kritēriji un siltumnīcefekta gāzu emisiju kritēriji, visā piegādes ķēdē iesaistītās personas ar neatkarīgu un pārredzamu revīziju atbilstoši Komisijas 2022. gada 14. jūnija īstenošanas regulas (ES) 2022/996 par ilgtspējas kritēriju, siltumnīcefekta gāzu emisiju aiztaupījuma kritēriju un zema netiešas zemes izmantojuma maiņas riska kritēriju verifikācijas noteikumiem (turpmāk — regula Nr. 2022/996) III nodaļā noteiktajam pierāda šā likuma 16. panta pirmajā daļā minēto veidu transporta enerģijas atbilstību ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju kritērijiem.\n(2) Visā piegādes ķēdē iesaistītās personas izmanto masas bilances sistēmu, kura visā piegādes ķēdē nodrošina informācijas nodošanu par šā likuma 16. panta pirmajā daļā minēto veidu transporta enerģijas atbilstību ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju kritērijiem un kurā ir iekļauta informācija par to, vai izejvielu ražošanai ir sniegts jebkāda veida finansiāls atbalsts, tostarp komercdarbības atbalsts, un, ja tas sniegts, — informācija par atbalsta shēmas veidu.\n(3) Piegādes ķēdē iesaistītās personas regulas Nr. 2022/996 2. panta 28. punktā minētajā Eiropas Savienības datubāzē, kuras administrators ir Valsts vides dienests, ievada datus atbilstoši šīs regulas 18. pantam. Brīvprātīgās shēmas nodrošina, ka piegādes ķēdē iesaistītās personas pareizi ievada datus Eiropas Savienības datubāzē.\n(4) Regulas Nr. 2022/996 2. panta 14. punktā minētās brīvprātīgo shēmu sertifikācijas institūcijas (turpmāk — sertifikācijas institūcijas) nodrošina ievadīto datu verifikāciju un precizitātes pārbaudi. Vienotais dabasgāzes pārvades un uzglabāšanas sistēmas operators pārbauda Eiropas Savienības datubāzē ievadīto informāciju attiecībā uz gāzveida degvielas izcelsmes apliecinājumiem."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "section": "18",
+      "title": "Sertifikācijas institūciju darbība brīvprātīgās shēmas ietvaros",
+      "content": "(1) Regulas Nr. 2022/996 III nodaļā minētās revīzijas brīvprātīgās shēmas ietvaros veic sertifikācijas institūcijas, kuras akreditētas nacionālajā akreditācijas institūcijā vai saskaņā ar minēto regulu akreditētas vai atzītas citās Eiropas Savienības dalībvalstīs vai Eiropas Ekonomikas zonas valstīs.\n(2) Sertifikācijas institūcijas, kuras akreditētas nacionālajā akreditācijas institūcijā, pēc nacionālās akreditācijas institūcijas pieprasījuma iesniedz tai visu attiecīgo informāciju, kas nepieciešama, lai varētu veikt minēto sertifikācijas institūciju uzraudzību, tostarp norādot revīzijas dienu, laiku un vietu.\n(3) Ja nacionālā akreditācijas institūcija, veicot normatīvajos aktos par atbilstības novērtēšanu un normatīvajos aktos par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību, konstatē neatbilstību normatīvajiem aktiem, kā arī nacionālās akreditācijas institūcijas prasībām, tā nekavējoties informē brīvprātīgo shēmu, kuras ietvaros darbojas attiecīgā sertifikācijas institūcija.\n(4) Brīvprātīgo shēmu tīmekļvietnēs vismaz reizi gadā tiek publicēts to sertifikācijas institūciju saraksts, kuras brīvprātīgās shēmas ietvaros izmanto neatkarīgas revīzijas veikšanai, par katru šādu struktūru norādot, kura valsts un kura tās iestāde ir akreditējusi attiecīgo institūciju un kura veic tās darbības uzraudzību."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "section": "19",
+      "title": "Ministru kabineta kompetence atbilstības apliecināšanas jomā",
+      "content": "Ministru kabinets nosaka:\n1) biodegvielu un biomasas degvielu siltumnīcefekta gāzu ietaupījuma kritēriju aprēķina nosacījumus un kārtību;\n2) transporta sektorā realizējamo biodegvielu un biomasas degvielu ilgtspējas kritērijus;\n3) biodegvielu, biomasas degvielu, nebioloģiskas izcelsmes atjaunīgo degvielu un pārstrādātā oglekļa degvielu siltumnīcefekta gāzu emisiju ietaupījuma kritērijus, kas piemērojami, tās realizējot patēriņam transporta sektorā;\n4) procedūru, kādā pārbauda un uzrauga transporta enerģijas atbilstību ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem;\n5) atbilstības ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem pamatošanas kārtību un nosacījumus un ar atbilstības pamatošanu saistītās informācijas aprites nosacījumus un kārtību;\n6) kārtību, kādā par šā likuma 17. panta pirmajā daļā minētajiem pierādījumiem tiek ziņots energoresursu informācijas sistēmā;\n7) šā likuma 17. panta trešajā daļā minētajā datubāzē ievadāmo informāciju un tās ievades, uzraudzības un pārbaudes pienākumus, nosacījumus un kārtību."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "section": "20",
+      "title": "Ziņošanas pienākumi",
+      "content": "(1) Publiski pieejama uzlādes punkta operators katru gadu ziņo Centrālajai statistikas pārvaldei par tā uzlādes punktā elektrotransportlīdzekļos uzlādēto elektroenerģijas apjomu un uzlādes punkta pieslēguma veidu, tostarp par to, vai uzlādes punktam ir tiešais pieslēgums iekārtai, kura ražo atjaunīgo elektroenerģiju. Centrālā statistikas pārvalde šajā daļā minētos datus iegūst, apstrādā un izplata Statistikas likumā noteiktajā kārtībā, kā arī izmanto, aprēķinot atjaunīgās enerģijas īpatsvaru kopējā enerģijas bruto galapatēriņā.\n(2) Degvielas piegādātājs katru gadu līdz 31. maijam energoresursu informācijas sistēmā, kuras pārzinis un turētājs ir Valsts vides dienests un kurā datu apriti nodrošina elektronisko dokumentu un strukturētu datu veidā, iesniedz Valsts vides dienestam pārbaudītu pārskatu par šā piegādātāja darbību iepriekšējā kalendāra gadā (turpmāk — vispārīgais ziņojums). Vispārīgais ziņojums ietver:\n1) datus par nodrošināto siltumnīcefekta gāzu emisiju intensitātes samazinājumu un nodrošināto modernās biodegvielas, modernās biomasas degvielas un nebioloģiskas izcelsmes atjaunīgās degvielas īpatsvaru;\n2) datus par transporta enerģijas apjomu dalījumā pa transporta enerģijas veidiem, to izejvielu veidiem un biodegvielu kategorijām, kā arī informāciju par transporta enerģijas zemākajām siltumspējas vērtībām;\n3) datus par transporta enerģijas siltumnīcefekta gāzu emisijām, tostarp visus parametrus, kas izmantoti siltumnīcefekta gāzu emisiju aprēķinā, un datus par transporta enerģijas siltumnīcefekta gāzu emisiju intensitāti;\n4) informāciju par realizētās biodegvielas un biomasas degvielas ģeogrāfisko izcelsmi.\n(3) Vispārīgo ziņojumu pārbauda neatkarīga inspicēšanas institūcija, kas akreditēta nacionālajā akreditācijas institūcijā atbilstoši normatīvajiem aktiem par atbilstības novērtēšanas institūciju novērtēšanu, akreditāciju un uzraudzību, vai citā Eiropas Savienības dalībvalstī akreditēta validēšanas un verificēšanas institūcija.\n(4) Degvielas piegādātājs nodrošina, ka visi dokumenti un informācija, kas pamato vispārīgajā ziņojumā sniegtos datus, tiek uzglabāta vismaz 10 gadus.\n(5) Valsts vides dienests izvērtē iesniegto vispārīgo ziņojumu. Valsts vides dienestam ir tiesības pārbaudīt degvielas piegādātāju datus, kas izmantoti vispārīgā ziņojuma sagatavošanai, kā arī šā panta ceturtajā daļā minētos dokumentus un informāciju, kas atrodas degvielas piegādātāja vai šā panta trešajā daļā minētās institūcijas rīcībā.\n(6) Valsts vides dienests katru gadu Latvijas Atvērto datu portālā un savā tīmekļvietnē atvērto datu veidā publicē:\n1) apkopotu informāciju par degvielas piegādātāju patēriņam transporta sektorā realizētās biodegvielas un biomasas degvielas ģeogrāfisko izcelsmi un izejvielu veidu;\n2) datus par katra degvielas piegādātāja šā likuma 11. panta pirmajā daļā un 13. panta pirmajā daļā noteikto mērķu izpildes apjomu.\n(7) Valsts vides dienests, ņemot vērā normatīvajos aktos par enerģētiku iekļautos nosacījumus attiecībā uz divgadu integrētā nacionālā enerģētikas un klimata progresa ziņojuma sagatavošanu, vispārīgo ziņojumu, transporta enerģijas tirgus uzraudzības ietvaros iegūtos datus un no Valsts ieņēmumu dienesta saņemtos datus, sagatavo:\n1) katru gadu — transporta enerģijas kvalitātes pārskatu par iepriekšējo kalendāra gadu;\n2) reizi divos gados — Komisijas 2022. gada 15. novembra īstenošanas regulas (ES) 2022/2299, ar ko paredz noteikumus par to, kā piemērot Eiropas Parlamenta un Padomes regulu (ES) 2018/1999 attiecībā uz integrēto nacionālo enerģētikas un klimata progresa ziņojumu struktūru, formātu, tehniskajiem aspektiem un procesu II pielikuma 5. tabulā noteikto informāciju;\n3) apkopotu informāciju par biodegvielas un biomasas degvielas atbilstību ilgtspējas kritērijiem un siltumnīcefekta gāzu emisiju ietaupījumu apjomiem.\n(8) Ministru kabinets nosaka vispārīgā ziņojuma un šā panta septītajā daļā minēto ziņojumu sagatavošanas, iesniegšanas un pārbaudes nosacījumus un kārtību."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "section": "21",
+      "title": "Likumā noteikto prasību un pienākumu izpildes uzraudzība",
+      "content": "(1) Valsts vides dienests uzrauga un kontrolē šā likuma 4. , 11. , 13. un 20. pantā minēto prasību un pienākumu izpildi, tostarp veic ikgadēju transporta enerģijas kvalitātes uzraudzību un nodrošina transporta enerģijas tirgus uzraudzību.\n(2) Valsts ieņēmumu dienests katru gadu līdz 1. aprīlim iesniedz Valsts vides dienestam informāciju par komersantiem, kas iepriekšējā kalendāra gadā realizējuši patēriņam naftas produktus, dabasgāzi vai citus produktus un aprēķinājuši maksājamo akcīzes nodokli, kā arī iesniedz datus par patēriņam realizēto apjomu.\n(3) Ja Valsts vides dienestam, veicot šā panta pirmajā daļā minētās uzraudzības un kontroles darbības, rodas aizdomas par iespējamām krāpnieciskām darbībām vai to veikšanu vai ja šī institūcija konstatē neatbilstības, tā nekavējoties informē attiecīgi Latvijas Republikas tiesībaizsardzības institūcijas vai Eiropas Komisiju un citas Eiropas Savienības dalībvalstis, izmantojot atbilstošās sadarbības platformas.\n(4) Ar transporta enerģijas kvalitātes uzraudzību saistītos izdevumus sedz no Valsts vides dienesta finanšu līdzekļiem. Ja tiek konstatēts, ka transporta enerģijas kvalitāte neatbilst normatīvo aktu prasībām, ar kvalitātes uzraudzību saistītos izdevumus sedz attiecīgais transporta enerģijas īpašnieks vai valdītājs. Izdevumi atlīdzināmi 30 dienu laikā pēc maksājuma paziņojuma saņemšanas. Ja attiecīgā persona atsakās segt izdevumus, Valsts vides dienests tos piedzen civilprocesuālā kārtībā.\n(5) Patērētāju tiesību aizsardzības centrs atbilstoši kompetencei uzrauga un kontrolē šā likuma 10. panta prasību izpildi."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "section": "22",
+      "title": "Siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākuma izpildes nodrošināšana",
+      "content": "(1) Ja degvielas piegādātājs nav izpildījis šā likuma 11. panta pirmajā daļā noteikto siltumnīcefekta gāzu emisiju intensitātes samazināšanas pienākumu, degvielas piegādātājs veic iemaksu šā panta trešajā daļā minētajā kontā 90 euro apmērā par katru nesamazināto siltumnīcefekta gāzu emisiju tonnu.\n(2) Valsts vides dienests līdz kārtējā gada 15. septembrim pieņem lēmumu par kopējās veicamās iemaksas apmēru, ievērojot šā panta pirmajā daļā noteikto iemaksas apmēru par katru nesamazināto siltumnīcefekta gāzu emisiju tonnu.\n(3) Degvielas piegādātājs 30 dienu laikā pēc dienas, kad stājies spēkā šā panta otrajā daļā minētais Valsts vides dienesta lēmums, šajā pantā noteikto iemaksu ieskaita ar tāda maksājumu pakalpojumu sniedzēja starpniecību, kuram ir tiesības sniegt maksājumu pakalpojumus Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē. Iemaksu ieskaita šim mērķim izveidotai Klimata un enerģētikas ministrijas budžeta programmai (apakšprogrammai) atvērtajā valsts pamatbudžeta izdevumu kontā Valsts kasē un uzskaita kā iestādes citus pašu ieņēmumus."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "section": "23",
+      "title": "Transporta enerģijas modernizēšanas pienākuma izpildes nodrošināšana",
+      "content": "(1) Ja degvielas piegādātājs nav izpildījis šā likuma 13. panta pirmajā daļā noteikto transporta enerģijas modernizēšanas pienākumu, degvielas piegādātājs veic iemaksu šā panta ceturtajā daļā minētajā kontā 70 euro apmērā par katru nenodrošināto enerģijas vienību, kas izteikta gigadžoulos.\n(2) Ja vispārīgais ziņojums nav iesniegts, degvielas piegādātāja iemaksa ir pieci procenti no iepriekšējā pārskata gada peļņas vai zaudējumu aprēķinā norādītā neto apgrozījuma.\n(3) Valsts vides dienests līdz kārtējā gada 15. septembrim pieņem lēmumu par kopējās veicamās iemaksas apmēru, ievērojot šā panta pirmajā un otrajā daļā noteiktos iemaksas apmērus.\n(4) Degvielas piegādātājs 30 dienu laikā pēc dienas, kad stājies spēkā šā panta trešajā daļā minētais Valsts vides dienesta lēmums, šajā pantā noteikto iemaksu ieskaita ar tāda maksājumu pakalpojumu sniedzēja starpniecību, kuram ir tiesības sniegt maksājumu pakalpojumus Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē. Iemaksu ieskaita šim mērķim izveidotai Klimata un enerģētikas ministrijas budžeta programmai (apakšprogrammai) atvērtajā valsts pamatbudžeta izdevumu kontā Valsts kasē un uzskaita kā iestādes citus pašu ieņēmumus."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "section": "24",
+      "title": "Atjaunīgās enerģijas izmantošanas veicināšana un energoefektivitātes uzlabošana transporta sektorā",
+      "content": "(1) Šā likuma 22. un 23. pantā minētie līdzekļi izmantojami, lai veicinātu atjaunīgās enerģijas izmantošanu un uzlabotu energoefektivitāti transporta sektorā.\n(2) Ministru kabinets nosaka:\n1) katras atbalsta shēmas nosacījumus un īstenošanas kārtību, atbalsta mērķi, atbalsta shēmas ietvaros pieejamo finansējumu, atbalstāmo darbību un izmaksu attiecināmības nosacījumus, kā arī līguma vai vienošanās par projekta īstenošanu vienpusēja uzteikuma nosacījumus;\n2) prasības atbalsta shēmas projekta iesniedzējam, atbalsta shēmas projekta iesniegumu vērtēšanas kritērijus, kā arī atbalsta shēmas projekta iesniegumu iesniegšanas, izskatīšanas, apstiprināšanas un finansējuma piešķiršanas kārtību;\n3) atbalsta shēmas projektu īstenošanas, pārskatu iesniegšanas un pārbaudes kārtību;\n4) komercdarbības atbalsta piešķiršanas nosacījumus un kārtību."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē Biodegvielas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 8. nr.; 2006, 65. nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē Biodegvielas likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2005, 8. nr.; 2006, 65. nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 7. pantā, 10. panta ceturtajā daļā, 15. panta pirmajā daļā, 19. pantā un 20. panta astotajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. decembrim ir spēkā Ministru kabineta 2005. gada 18. oktobra noteikumi Nr. 772 \" Noteikumi par biodegvielas kvalitātes prasībām, atbilstības novērtēšanu, tirgus uzraudzību un patērētāju informēšanas kārtību \".",
+      "content": "2. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 7. pantā, 10. panta ceturtajā daļā, 15. panta pirmajā daļā, 19. pantā un 20. panta astotajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. decembrim ir spēkā Ministru kabineta 2005. gada 18. oktobra noteikumi Nr. 772 \" Noteikumi par biodegvielas kvalitātes prasībām, atbilstības novērtēšanu, tirgus uzraudzību un patērētāju informēšanas kārtību \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Šā likuma 8. panta otrajā daļā minēto pienākumu nodrošināt vismaz vienu uzlādes punktu vai alternatīvās degvielas uzpildes punktu publiski pieejamās degvielas uzpildes stacijās komersants izpilda līdz 2030. gada 31. decembrim.",
+      "content": "3. Šā likuma 8. panta otrajā daļā minēto pienākumu nodrošināt vismaz vienu uzlādes punktu vai alternatīvās degvielas uzpildes punktu publiski pieejamās degvielas uzpildes stacijās komersants izpilda līdz 2030. gada 31. decembrim."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 8. panta sestajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. decembrim ir piemērojami Ministru kabineta 2018. gada 6. februāra noteikumi Nr. 78 \" Prasības elektrotransportlīdzekļu uzlādes, dabasgāzes uzpildes, ūdeņraža uzpildes un krasta elektropadeves iekārtām \".",
+      "content": "4. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 8. panta sestajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2026. gada 31. decembrim ir piemērojami Ministru kabineta 2018. gada 6. februāra noteikumi Nr. 78 \" Prasības elektrotransportlīdzekļu uzlādes, dabasgāzes uzpildes, ūdeņraža uzpildes un krasta elektropadeves iekārtām \"."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Šā likuma 9. panta pirmā daļa stājas spēkā 2030. gada 1. janvārī.",
+      "content": "5. Šā likuma 9. panta pirmā daļa stājas spēkā 2030. gada 1. janvārī."
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Šā likuma 9. panta trešajā daļā noteikto informāciju par izpildes progresu valstspilsētas pašvaldības pirmo reizi sniedz līdz 2027. gada 30. aprīlim.",
+      "content": "6. Šā likuma 9. panta trešajā daļā noteikto informāciju par izpildes progresu valstspilsētas pašvaldības pirmo reizi sniedz līdz 2027. gada 30. aprīlim."
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Publiski pieejama uzlādes punkta operators šā likuma 20. panta pirmajā daļā minēto informāciju par iepriekšējo kalendāra gadu pirmo reizi iesniedz līdz 2026. gada 31. martam.",
+      "content": "7. Publiski pieejama uzlādes punkta operators šā likuma 20. panta pirmajā daļā minēto informāciju par iepriekšējo kalendāra gadu pirmo reizi iesniedz līdz 2026. gada 31. martam."
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Degvielas piegādātājs šā likuma 20. panta otrajā daļā minēto ziņojumu par iepriekšējo kalendāra gadu pirmo reizi iesniedz līdz 2027. gada 31. maijam.",
+      "content": "8. Degvielas piegādātājs šā likuma 20. panta otrajā daļā minēto ziņojumu par iepriekšējo kalendāra gadu pirmo reizi iesniedz līdz 2027. gada 31. maijam."
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Līdz šā likuma 20. panta otrajā daļā minētās energoresursu informācijas sistēmas funkcionalitātes izstrādei degvielas piegādātājs vispārīgo ziņojumu iesniedz elektroniska dokumenta veidā atbilstoši normatīvajiem aktiem par elektronisko dokumentu noformēšanu, izmantojot Valsts vides dienesta tīmekļvietnē pieejamo ziņojuma veidlapas paraugu.",
+      "content": "9. Līdz šā likuma 20. panta otrajā daļā minētās energoresursu informācijas sistēmas funkcionalitātes izstrādei degvielas piegādātājs vispārīgo ziņojumu iesniedz elektroniska dokumenta veidā atbilstoši normatīvajiem aktiem par elektronisko dokumentu noformēšanu, izmantojot Valsts vides dienesta tīmekļvietnē pieejamo ziņojuma veidlapas paraugu."
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. Šā likuma 20. panta trešā daļa stājas spēkā 2030. gada 1. janvārī.",
+      "content": "10. Šā likuma 20. panta trešā daļa stājas spēkā 2030. gada 1. janvārī."
+    },
+    {
+      "provision_ref": "PN 11",
+      "section": "pn11",
+      "title": "11. Valsts vides dienests šā likuma 20. panta septītās daļas 2. punktā minēto informāciju pirmo reizi sagatavo, sākot ar 2027. gadu.",
+      "content": "11. Valsts vides dienests šā likuma 20. panta septītās daļas 2. punktā minēto informāciju pirmo reizi sagatavo, sākot ar 2027. gadu."
+    },
+    {
+      "provision_ref": "PN 12",
+      "section": "pn12",
+      "title": "12. Šā likuma 23. pants stājas spēkā 2028. gada 1. janvārī.",
+      "content": "12. Šā likuma 23. pants stājas spēkā 2028. gada 1. janvārī."
+    },
+    {
+      "provision_ref": "PN 13",
+      "section": "pn13",
+      "title": "13. Līdz 2026. gada 31. martam ir atļauts realizēt dīzeļdegvielu, kurai nav pievienota biodegviela.",
+      "content": "13. Līdz 2026. gada 31. martam ir atļauts realizēt dīzeļdegvielu, kurai nav pievienota biodegviela."
+    },
+    {
+      "provision_ref": "PN 14",
+      "section": "pn14",
+      "title": "14. Līdz 2029. gada 31. decembrim ir atļauts realizēt:",
+      "content": "1) benzīnu, kura pētnieciskais oktānskaitlis ir 95 vai lielāks, bet mazāks par 98 (95. markas benzīns), ja tam ne mazāk kā 9,5 tilpumprocentu apjomā no kopējā maisījuma tilpuma ir pievienota biodegviela vai modernā biodegviela, vai biodegviela kopā ar moderno biodegvielu, kas atbilst šā likuma 16. pantā noteiktajiem ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem;\n2) dīzeļdegvielu, ja tai ne mazāk kā 6,5 tilpumprocentu apjomā no kopējā maisījuma tilpuma ir pievienota biodegviela vai modernā biodegviela, vai biodegviela kopā ar moderno biodegvielu, kas atbilst šā likuma 16. pantā noteiktajiem ilgtspējas un siltumnīcefekta gāzu emisiju ietaupījuma kritērijiem."
+    },
+    {
+      "provision_ref": "PN 15",
+      "section": "pn15",
+      "title": "15. Šo pārejas noteikumu 14. punkta prasības nepiemēro šāda veida transporta enerģijai:",
+      "content": "1) benzīnam, kuru izmanto sacīkšu sporta automašīnu iekšdedzes dzinējos ar dzirksteļu aizdedzi, ja sacīkšu sporta automašīna noteiktā kārtībā ir reģistrēta Ceļu satiksmes drošības direkcijā un transportlīdzekļa reģistrācijas apliecībā ir atzīme \"sporta\";\n2) benzīnam un dīzeļdegvielai, kuru izmanto aviācijas transporta dzinējos;\n3) dīzeļdegvielai, kuru izmanto jūras transporta flotes kuģu dzinējos."
+    },
+    {
+      "provision_ref": "PN 16",
+      "section": "pn16",
+      "title": "16. Degvielas piegādātājam ir atļauts realizēt dīzeļdegvielu, kurai ir pievienota biodegviela mazākā apjomā, nekā noteikts šo pārejas noteikumu 14. punkta 2. apakšpunktā, ja piegādātājs šajā periodā patēriņam transportā realizē moderno biomasas degvielu, moderno biodegvielu vai no šā likuma pielikuma B daļā minētajām izejvielām ražotu biodegvielu vai biomasas degvielu apjomā, kas aizstāj nepievienotās biodegvielas apjomu tā, lai vidēji kalendāra gadā sasniegtu šo pārejas noteikumu 14. punkta 2. apakšpunktā noteikto biodegvielas apjomu enerģijas vienībās. Degvielas piegādātājs Ministru kabineta noteiktajā kārtībā par minētās atkāpes izmantošanu līdz kalendāra gada 15. janvārim paziņo Valsts vides dienestam, kas šo informāciju izmanto transporta enerģijas tirgus uzraudzībā.",
+      "content": "16. Degvielas piegādātājam ir atļauts realizēt dīzeļdegvielu, kurai ir pievienota biodegviela mazākā apjomā, nekā noteikts šo pārejas noteikumu 14. punkta 2. apakšpunktā, ja piegādātājs šajā periodā patēriņam transportā realizē moderno biomasas degvielu, moderno biodegvielu vai no šā likuma pielikuma B daļā minētajām izejvielām ražotu biodegvielu vai biomasas degvielu apjomā, kas aizstāj nepievienotās biodegvielas apjomu tā, lai vidēji kalendāra gadā sasniegtu šo pārejas noteikumu 14. punkta 2. apakšpunktā noteikto biodegvielas apjomu enerģijas vienībās. Degvielas piegādātājs Ministru kabineta noteiktajā kārtībā par minētās atkāpes izmantošanu līdz kalendāra gada 15. janvārim paziņo Valsts vides dienestam, kas šo informāciju izmanto transporta enerģijas tirgus uzraudzībā."
+    },
+    {
+      "provision_ref": "PN 17",
+      "section": "pn17",
+      "title": "17. Ja līdz 2028. gada 31. decembrim tiek konstatēts, ka 2027. gadā aviācijas degvielas piegādātāji kopumā ir ziņojuši par nodrošināto ilgtspējīgu aviācijas degvielu īpatsvaru to kopējā realizētajā aviācijas degvielu apjomā par vismaz astoņiem procentiem, šā likuma 11. panta pirmajā daļā minētais emisiju ietaupījuma apjoms ir 14,5 procenti.",
+      "content": "1) Eiropas Parlamenta un Padomes 1998. gada 13. oktobra direktīvas 98/70/EK , kas attiecas uz benzīna un dīzeļdegvielu kvalitāti un ar ko groza Padomes direktīvu 93/12/EEK ;\n2) Eiropas Parlamenta un Padomes 2003. gada 3. marta direktīvas 2003/17/EK , ar ko groza direktīvu 98/70/EK , kas attiecas uz benzīna un dīzeļdegvielas kvalitāti;\n3) Eiropas Parlamenta un Padomes 2009. gada 23. aprīļa direktīvas 2009/30/EK , ar ko groza direktīvu 98/70/EK attiecībā uz benzīna, dīzeļdegvielas un gāzeļļas specifikācijām un ievieš mehānismu autotransporta līdzekļos lietojamās degvielas radītās siltumnīcefekta gāzu emisijas kontrolei un samazināšanai, groza Padomes direktīvu 1999/32/EK attiecībā uz tās degvielas specifikācijām, kuru lieto iekšējo ūdensceļu kuģos, un atceļ direktīvu 93/12/EEK ;\n4) Eiropas Parlamenta un Padomes 2015. gada 9. septembra direktīvas (ES) 2015/1513, ar kuru groza direktīvu 98/70/EK , kas attiecas uz benzīna un dīzeļdegvielu kvalitāti, un direktīvu 2009/28/EK par atjaunojamo energoresursu izmantošanas veicināšanu;\n5) Eiropas Parlamenta un Padomes 2018. gada 11. decembra direktīvas (ES) 2018/2001 par no atjaunojamajiem energoresursiem iegūtas enerģijas izmantošanas veicināšanu;\n6) Eiropas Parlamenta un Padomes 2023. gada 18. oktobra direktīvas (ES) 2023/2413, ar ko attiecībā uz atjaunīgo energoresursu enerģijas izmantošanas veicināšanu groza direktīvu (ES) 2018/2001, regulu (ES) 2018/1999 un direktīvu 98/70/EK un atceļ Padomes direktīvu (ES) 2015/652;\n7) Komisijas 2024. gada 14. marta deleģētās direktīvas (ES) 2024/1405, ar ko attiecībā uz biodegvielu un biogāzes ražošanai izmantojamo izejvielu pievienošanu groza Eiropas Parlamenta un Padomes direktīvas (ES) 2018/2001 IX pielikumu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atjaunīgā elektroenerģija",
+      "definition": "no atjaunīgiem energoresursiem ražota elektroenerģija, kas tiek izmantota Eiropas Parlamenta un Padomes 2008. gada 22. oktobra regulas (EK) Nr. 1099/2008 par enerģētikas statistiku A pielikuma 2.6.2. punktā definētajā transporta sektorā (turpmāk — transporta sektors)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "biodegviela",
+      "definition": "šķidrā degviela, kuru izmanto transporta sektorā un iegūst no biomasas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "biomasas degviela",
+      "definition": "no biomasas ražota gāzveida degviela, tostarp biogāze (arī atkritumu poligonu gāze un notekūdeņu gāze), un biometāns, kura sastāvā ir vismaz 90 procentu (masas procenti) no biomasas ražota metāna",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "degviela",
+      "definition": "naftas izcelsmes degviela (ieskaitot maisījumus ar biodegvielu) vai cita fosila šķidrā vai gāzveida viela, kuru var izmantot kā transporta enerģiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "degvielas piegādātājs",
+      "definition": "komersants, kurš patēriņam transportā Latvijā realizē transporta enerģiju vairāk nekā 100 tonnu gadā un kurš atbilst vienam vai abiem šādiem nosacījumiem:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "lignocelulozes materiāls",
+      "definition": "materiāls, kuru veido lignīns, celuloze un hemiceluloze, (piemēram, mežos iegūta biomasa, enerģētiskās kokaugu kultūras un uz koksnes resursiem balstītu nozaru atlikumi un atkritumi)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nebioloģiskas izcelsmes atjaunīgā degviela",
+      "definition": "šķidrā vai gāzveida degviela, kuras enerģijas saturu veido atjaunīgie energoresursi (izņemot biomasu)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārstrādātā oglekļa degviela",
+      "definition": "šķidrā vai gāzveida degviela, kuru ražo no fosilas izcelsmes šķidro vai cieto atkritumu plūsmām, kas nav piemērotas materiālu reģenerācijai saskaņā ar atkritumu apsaimniekošanas normatīvajos aktos noteikto atkritumu apsaimniekošanas darbību prioritāro secību, vai no atkritumu apstrādes fosilas izcelsmes gāzes un atgāzes, kas nenovēršami un netīši rodas ražošanas procesā no rūpnieciskām iekārtām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārtikas un dzīvnieku barības kultūraugi",
+      "definition": "kultūraugi ar augstu cietes saturu, cukura kultūraugi un eļļas kultūraugi, kurus audzē lauksaimniecības zemē kā galvenos kultūraugus (izņemot atlikumus, atkritumus, lignocelulozes materiālus) vai starpposma kultūraugus (piemēram, starpkultūras un virsaugus), ar nosacījumu, ka šādu starpposma kultūraugu izmantošana nerada pieprasījumu pēc papildu zemes platībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "transporta enerģija",
+      "definition": "prece ar noteiktu vērtību, kuras nesēji ir degviela, alternatīvā degviela vai cita viela vai produkts, ar ko nodrošina jebkāda veida transportlīdzekļa kustību un tajā uzstādīto iekārtu vai agregātu darbību.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

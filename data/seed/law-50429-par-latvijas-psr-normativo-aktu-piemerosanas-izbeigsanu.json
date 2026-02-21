@@ -1,0 +1,30 @@
+{
+  "id": "lv-law-50429",
+  "type": "statute",
+  "title": "Par Latvijas PSR normatīvo aktu piemērošanas izbeigšanu",
+  "short_name": "TA-50429",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/50429-par-latvijas-psr-normativo-aktu-piemerosanas-izbeigsanu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Ar 1999.gada 1.janvāri spēku zaudē Latvijas PSR likumi, kā arī Latvijas PSR Augstākās padomes lēmumi un tās Prezidija dekrēti un lēmumi, kas pieņemti pirms 1990.gada 4.maija, izņemot:",
+      "content": "1) Latvijas Administratīvo pārkāpumu kodeksu;\n2) Latvijas Civilprocesa kodeksu;\n3) Latvijas Darba likumu kodeksu;\n4) Latvijas Kriminālkodeksu;\n5) Latvijas Kriminālprocesa kodeksu;\n6) Latvijas Sodu izpildes kodeksu;\n7) Latvijas Republikas Valodu likumu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Ministru kabinets nosaka kārtību, kādā spēku zaudē Latvijas PSR Ministru padomes lēmumi, ministriju pavēles un instrukcijas, kā arī citu valsts pārvaldes institūciju akti, kuriem ir normatīvs raksturs.",
+      "content": "2.pants. Ministru kabinets nosaka kārtību, kādā spēku zaudē Latvijas PSR Ministru padomes lēmumi, ministriju pavēles un instrukcijas, kā arī citu valsts pārvaldes institūciju akti, kuriem ir normatīvs raksturs."
+    },
+    {
+      "provision_ref": "PN 1991",
+      "section": "pn1991",
+      "title": "Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās padomes lēmums \" Par Latvijas PSR likumdošanas aktu piemērošanu Latvijas Republikas teritorijā \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 35./36.nr.).",
+      "content": "Ar šā likuma spēkā stāšanos spēku zaudē Latvijas Republikas Augstākās padomes lēmums \" Par Latvijas PSR likumdošanas aktu piemērošanu Latvijas Republikas teritorijā \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 35./36.nr.)."
+    }
+  ],
+  "definitions": []
+}

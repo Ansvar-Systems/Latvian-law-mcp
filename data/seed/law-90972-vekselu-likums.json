@@ -1,0 +1,852 @@
+{
+  "id": "lv-law-90972",
+  "type": "statute",
+  "title": "Vekseļu likums",
+  "short_name": "TA-90972",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/90972-vekselu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "1",
+      "title": "1. Trata (pārvedu vekselis) ir vērtspapīrs, kuru izdod trasants—komersants un kurš ietver rakstveida uzdevumu maksātājam (trasātam—komersantam) samaksāt vekselī norādīto naudas summu trešajai personai. Tratā jābūt:",
+      "content": "1) apzīmējumam, kas izteic, ka akts ir trata. Apzīmējumu izsaka akta tekstā valodā, kurā akts uzrakstīts;\n2) beznosacījuma uzdevumam maksāt noteiktu naudas summu;\n3) komersanta nosaukumam, juridiskajai adresei un reģistrācijas numuram;\n4) maksāšanas termiņa apzīmējumam;\n5) maksāšanas vietas apzīmējumam. Tratā norāda maksāšanas vietas pilnu adresi un, ja tratu samaksā bankā, — arī bankas nosaukumu un konta numuru. Ja nav norādīta maksāšanas vieta, par tādu uzskatāma tratas izrakstīšanas vieta;\n6) tās personas vārdam, uzvārdam un personas kodam, kurai vai uz kuras ordera izdarāma samaksa. Ja personai nav personas koda, norāda tās dzimšanas gadu, mēnesi, dienu un vietu. Juridiskajai personai norāda tās nosaukumu, juridisko adresi un reģistrācijas numuru;\n7) tratas izrakstīšanas vietas pilnai adresei. Ja nav norādīta tratas izrakstīšanas vieta, par tādu tiek uzskatīta trasanta (personas, kura izdod tratu) dzīves vieta;\n8) tratas izrakstīšanas datumam (cipariem);\n9) trasanta parakstam. Parakstot tratu, nedrīkst lietot faksimilzīmogu;\n10) (izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu) .\n(Otrā daļa izslēgta ar 16.06.2022 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "2",
+      "title": "2. Akts, kurā trūkst kāda no 1. pantā norādītām sastāvdaļām, nav spēkā kā trata, izņemot šinī pantā zemāk minētos gadījumus.",
+      "content": "Trata, kurā nav norādīts maksāšanas termiņš, jāuzskata par maksājamu pie uzrādīšanas.\nJa nav cita norādijuma, tad vieta, kas apzīmēta blakus maksātāja vārdam, jāuzskata par maksāšanas vietu un tanī pašā laikā par maksātāja dzīves vietu.\nTrata, kurā nav norādīta tās izrakstīšanas vieta, jāuzskata par izrakstītu tanī vietā, kas apzīmēta blakus trasanta vārdam."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "3",
+      "title": "3. Trašants var noteikt sevi pašu par pirmo tratas ņēmēju (trata paša orderam).",
+      "content": "Trasants var noteikt sevi pašu par maksātāju (trata uz sevi).\nTrasants var izrakstīt tratu savā vārdā, bet uz trešās personas rēķinu (komisijas trata)."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "4",
+      "title": "4. Trata var būt maksājama trešās personas dzīves vietā — tur, kur maksātājam ir dzīves vieta, vai arī kādā citā vietā.",
+      "content": "4. Trata var būt maksājama trešās personas dzīves vietā — tur, kur maksātājam ir dzīves vieta, vai arī kādā citā vietā."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "5",
+      "title": "5. Tratā, kas maksājama pie uzrādīšanas vai noteiktā laikā pēc uzrādīšanas, trasants var noteikt, ka par tratas summu maksājami procenti. Katrā citā tratā šis noteikums jāuzskata par neierakstītu.",
+      "content": "Procentu likme jānorāda pašā tratā; pretējā gadījumā atzīme par procentiem jāuzskata par neierakstītu.\nProcenti sāk tecēt no tratas izrakstīšanas dienas, ja vien nav paredzēta kāda cita diena."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "6",
+      "title": "6. Ja tratas summa uzrakstīta reizē burtiem un cipariem, tad nesaskaņas gadijumā tratā ir spēkā burtiem izteiktā summā.",
+      "content": "Ja tratas summa uzrakstīta vairākas reizes burtiem vai arī vairākas reizes cipariem, tad nesaskaņas gadijumā tratā ir spēkā tikai mazākā summā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "7",
+      "title": "7. Ja uz tratas atrodas tādu personu paraksti, kurām trūkst spēja uzņemties saistību pēc tratas, viltoti paraksti, izdomātu personu paraksti vai paraksti, kas kādu citu iemeslu dēļ nav saistoši pašiem parakstītājiem vai personām, kuru vārdā trata parakstīta, tad pārējo parakstītāju saistības tomēr paliek spēkā.",
+      "content": "7. Ja uz tratas atrodas tādu personu paraksti, kurām trūkst spēja uzņemties saistību pēc tratas, viltoti paraksti, izdomātu personu paraksti vai paraksti, kas kādu citu iemeslu dēļ nav saistoši pašiem parakstītājiem vai personām, kuru vārdā trata parakstīta, tad pārējo parakstītāju saistības tomēr paliek spēkā."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "8",
+      "title": "8. Kas parakstījis tratu kā vietnieks, lai gan viņam nav bijis pilnvarojuma, ir pats atbildīgs uz tratas pamata, un viņam, ja tas tratu samaksājis, ir tādas pašas tiesības, kādas būtu varējusi izlietot šķietami atvietotā persona. Tādu pašu atbildību nes vietnieks, kas pārkāpis savu pilnvarojumu.",
+      "content": "8. Kas parakstījis tratu kā vietnieks, lai gan viņam nav bijis pilnvarojuma, ir pats atbildīgs uz tratas pamata, un viņam, ja tas tratu samaksājis, ir tādas pašas tiesības, kādas būtu varējusi izlietot šķietami atvietotā persona. Tādu pašu atbildību nes vietnieks, kas pārkāpis savu pilnvarojumu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "9",
+      "title": "9. Trasants atbild par tratas pieņemšanu un samaksu.",
+      "content": "Trasants var atbrīvoties no atbildības par tratas pieņemšanu; katra atzīme, ka viņš atbrīvo sevi no atbildības par samaksu, jāuzskata par neierakstītu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "10",
+      "title": "10. Ja trata bija nepilnīga, to pirmam ņēmējam iedodot, un vēlāk aizpildīta pretēji norunai, tad pret tratas turētāju nevar celt iebildumu par norunas neievērošanu, ja vien viņš tratu nav ieguvis vai aizpildījis ļaunā ticībā vai, to iegūstot vai aizpildot, nav pielaidis rupju neuzmanību.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 15.04.2010 . likumu, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "Pirmā apakšnodaļa Tratas izrakstīšana un forma",
+      "section": "10.1",
+      "title": "10. 1 Uz tratas pamata atbildīgā persona nevar būt fiziskā persona, izņemot šā likuma 8. pantā paredzētos gadījumus.",
+      "content": "( 16.06.2022 . likuma redakcijā, kas stājas spēkā 20.07.2022. Pants stājas spēkā 01.10.2022. Sk. pārejas noteikumu 3. punktu)"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "11",
+      "title": "11. Katru tratu, kaut arī tā nebūtu tieši izrakstīta orderam, var dot tālāk ar indosamentu. Indosaments ir pārveduma uzraksts vekseļa otrā pusē, kurš apliecina šā vekseļa pāriešanu citas personas rokās.",
+      "content": "Ja trasants iespraudis tratā vārdus ,,ne orderam\" vai arī kādu līdzīgu atzīmi, tad tratu var dot tālāk tikai parastās cesijas ceļā un ar tās sekām.\nIndosamentu var taisīt pat maksātāja labā, neatkarīgi no tā, vai viņš tratu pieņēmis, vai nav pieņēmis, un tāpat arī trasanta vai kuras katras citas uz tratas pamata atbildīgas personas labā. Šīs personas var tratu indosēt no jauna."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "12",
+      "title": "12. Indosamentam jābūt bez nosacijumiem. Katrs indosamentam pievienotais nosacījums jāuzskata par neierakstītu.",
+      "content": "Daļas indosaments nav spēkā.\nIndosaments uz uzrādītāju ir spēkā kā blanko indosaments."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "13",
+      "title": "13. Indosaments jāraksta uz tratas vai uz tai piemetinātas lapas (alonžs).*)",
+      "content": "*) Pēc izlabojuma Vald.. Vēstn. š. g. 227. numurā.\nIndosaments jāparaksta indosantam.*)\nIndosamentā var neapzīmēt indosataru, un tas var pat izteikties tikai indosanta parakstā (blanko indosaments). Pēdējā gadijumā indosaments, lai tas būtu spēkā, jāraksta tratas otrā pusē vai uz piemetinātas lapas."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "14",
+      "title": "14. Indosaments pārnes visas no tratas izrietošas tiesības.",
+      "content": "Ja indosaments taisīts blanko, tad tratas turētājs var:\n1) aizpildīt indosamentu uz savu vai uz citas personas vārdu;\n2) indosēt tratu no jauna blanko vai uz kādas citas personas vārdu;\n3) dot tratu tālāk, neaizpildot blanko indosamentu un netaisot jaunu indosamentu."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "15",
+      "title": "15. Ja nav pretēja satura atzīmes, indosants (persona, kas izdara indosamentu) atbild par tratas pieņemšanu un samaksu.",
+      "content": "Indosants var aizliegt taisīt jaunu indosamentu; tādā gadijumā viņš neatbild personām, kurām tratā pēc tam indosēta."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "16",
+      "title": "16. Persona, pie kuras atrodas trata, jāatzīst par tās likumīgu turētāju, ja viņa pierāda savu tiesību ar nepārtrauktu indosamentu rindu un pie tam pat tad, ja pēdējais indosaments taisīts blanko. Šai ziņā izsvītrotie indosamenti jāuzskata par neierakstītiem. Ja blanko indosamentam seko kāds cits indosaments, tad jāpieņem, ka šā pēdējā indosamenta parakstītājs ieguvis tratu uz blanko indosamenta pamata.",
+      "content": "Kad trata kaut kādā veidā nozudusi tās agrākajam turētājam, tad pašreizējam tratas turētājam, kas savu tiesību pierāda šā panta pirmā daļā minētā veidā, ir tikai tad jāatdod trata, ja viņš to ieguvis ļaunā ticībā vai pielaižot rupju neuzmanību."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "17",
+      "title": "17. Personas, pret kurām celta prasība pēc tratas, nevar aizstāvēties pret tratas turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar trasantu vai ar iepriekšējiem tratas turētājiem, ja vien pašreizējais tratas turētājs, iegūstot tratu, nav rīkojies apzināti par ļaunu parādniekam.",
+      "content": "17. Personas, pret kurām celta prasība pēc tratas, nevar aizstāvēties pret tratas turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar trasantu vai ar iepriekšējiem tratas turētājiem, ja vien pašreizējais tratas turētājs, iegūstot tratu, nav rīkojies apzināti par ļaunu parādniekam."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "18",
+      "title": "18. Ja indosamentā ir atzīme \"vērtība iekasēšanai\", \"iekasēšanai\", \"uz prokuras pamata\" vai kāda cita atzīme, kas izteic pilnvarojumu, tad tratas turētājs var izlietot visas no tratas izrietošās tiesības, bet tratu viņš var dot tālāk tikai ar prokuras indosamentu.",
+      "content": "Šai gadijumā uz tratas pamata atbildīgas personas var pret tratas turētāju celt tikai tādus iebildumus, kādus viņas varētu celt pret indosantu.\nProkuras indosamentā izteiktais pilnvarojums neizbeidzas ar pilnvarotāja nāvi vai rīcības spējas zaudēšanu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "19",
+      "title": "19. Ja indosamentā ir atzīme \"vērtība nodrošināšanai\" vai \"vērtība ķīlā\"*), vai kāda cita atzīme, kas izteic ieķīlājumu, tad tratas turētājs var izlietot visas no tratas izrietošās tiesības, bet viņa taisītais indosaments ir spēkā tikai kā prokuras indosaments.",
+      "content": "*) Pēc izlabojuma Vald. Vēstn. š. g. 227. numurā.\nUz tratas pamata atbildīgas personas nevar aizstāvēties pret tratas turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar indosantu, ja vien tratas turētājs, iegūstot tratu, nav rīkojies apzināti par ļaunu parādniekam."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Otrā apakšnodaļa Indosaments",
+      "section": "20",
+      "title": "20. Pēc maksāšanas termiņa iestāšanās taisītais indosaments rada tās pašas sekas, kā indosaments, kas taisīts pirms šā termiņa iestāšanās. Tomēr indosamentam, kas taisīts pēc protesta nesamaksas dēļ, vai pēc protesta izdarīšanai paredzētā laika notecēšanas, ir tikai parastās cesijas sekas.",
+      "content": "Kamēr nav pierādīts pretējais, indosaments bez datuma jāuzskata par taisītu pirms protesta izdarīšanai paredzētā laika notecēšanas."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "21",
+      "title": "21. Pieņemšana (akcepts) ir maksātāja piekrišana samaksāt vekselī norādīto naudas summu vekselī paredzētajā termiņā.",
+      "content": "Katrs likumīgs tratas turētājs vai katra persona, pie kuras atrodas trata, var līdz maksāšanas termiņam un maksātāja dzīves vietā uzrādīt tratu maksātājam pieņemšanai."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "22",
+      "title": "22. Katrā tratā trasants, noteicot vai nenoteicot laiku, var paredzēt, ka trata uzrādāma pieņemšanai.",
+      "content": "Trasants var aizliegt uzrādīt tratu pieņemšanai, izņemot tratu, kas maksājama trešās personas dzīves vietā, tratu, kas maksājama citā vietā, nekā maksātāja dzīves vieta, vai tratu, kas maksājama noteiktā laikā pēc uzrādīšanas.\nTrasants var arī paredzēt, ka tratu nevar uzrādīt pieņemšanai pirms noteikta termiņa.\nJa vien trasants nav aizliedzis uzrādīt tratu pieņemšanai, katrs indosants var noteikt, ka trata uzrādāma pieņemšanai, un pie tam paredzēt vai neparedzēt laiku tratas uzrādīšanai."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "23",
+      "title": "23. Tratas, kas maksājamas noteiktā laikā pēc uzrādīšanas, jāuzrāda pieņemšanai gada laikā pēc izrakstīšanas dienas.",
+      "content": "Trasants var šo laiku saīsināt vai pagarināt.\nIndosanti var šo laiku saīsināt."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "24",
+      "title": "24. Maksātājs var pieprasīt, lai nākošā dienā pēc pirmās uzrādīšanas viņam vēlreiz uzrāda tratu. Apgalvot, ka šāds pieprasījums nav ievērots, ieinteresētās personas var tikai tad, ja par to minēts protesta aktā.",
+      "content": "Tratas turētājam nav jāatstāj pie maksātāja pieņemšanai uzrādītā trata."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "25",
+      "title": "25. Pieņemšanu raksta uz tratas. To izteic ar vārdu \"pieņemta\" vai līdzīgu vārdu un paraksta maksātājs. Maksātāja paraksts tratas priekšpusē nozīmē tratas pieņemšanu.",
+      "content": "Kad trata maksājama noteiktā laikā pēc uzrādīšanas vai kad trata uzrādāma pieņemšanai laikā, kas paredzēts īpašā atzīmē, tad pieņemšanas uzrakstā jāatzīmē arī pieņemšanas datums, ja vien tratas turētājs nepieprasa ierakstīt tratas uzrādīšanas datumu. Ja datums nav atzīmēts, tad tratas turētājam, lai paturētu sev regresa tiesību pret indosantiem un trasantu, ar savlaicīgu protestu jākonstatē šis izlaidums."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "26",
+      "title": "26. Pieņemšanai jābūt bez nosacijumiem, bet maksātājs var pieņemšanu ierobežot ar tratas summas daļu.",
+      "content": "Katra cita pieņemšanas uzrakstā izteiktā novirzīšanās no tratas noteikumiem jāuzskata par atteikšanos pieņemt tratu. Pieņēmējs tomēr ir saistīts ar savu pieņemšanas izteikumu."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "27",
+      "title": "27. Ja trasants norādījis tratā kādu citu maksāšanas vietu, kas nav maksātāja dzīves vieta, bet nav nozīmējis trešo personu, kuras dzīves vietā izdarāma samaksa, tad, pieņemot tratu, maksātājs var norādīt šo trešo personu. Trūkstot šādam norādījumam, jāuzskata, ka pieņēmējs apņēmies maksāšanas vietā pats samaksāt tratu.",
+      "content": "Ja trata maksājama maksātāja dzīves vietā, tad pieņemšanas uzrakstā maksātājs var uzdot šai vietā kādu īpašu adresi, kur izdarāma samaksa."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "28",
+      "title": "28. Pieņemot tratu, maksātājs apņemas to samaksāt maksāšanas termiņā.",
+      "content": "Ja samaksa nenotiek, tratas turētājam, kaut arī viņš būtu trasants, ir pret pieņēmēju tieša no tratas izrietoša prasība par visu to, ko var pieprasīt uz 48. un 49. pantu pamata."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "Trešā apakšnodaļa Pieņemšana (akcepts)",
+      "section": "29",
+      "title": "29. Ja maksātājs, kas taisijis pieņemšanas uzrakstu, to izsvītro pirms tratas atdošanas, tad pieņemšana jāuzskata par noraidītu. Kamēr nav pierādīts pretējais, izsvītrojums jāuzskata par notikušu pirms tratas atdošanas.",
+      "content": "Tomēr, ja maksātājs par pieņemšanu jau rakstiski paziņojis tratas turētājam vai kādam parakstītājam, tad viņš tiem atbild saskaņā ar savu pieņemšanas izteikumu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "Ceturtā apakšnodaļa Galvojums (avals)",
+      "section": "30",
+      "title": "30. Tratas samaksu var nodrošināt ar galvojumu (avalu) pilnā tratas summā vai summas daļā. Galvojums ir galvinieka uzraksts uz tratas vai vienkārša vekseļa, ar kuru galvinieks samaksas saņēmējam garantē tratā vai vienkāršajā vekselī minētās summas vai tās daļas samaksu.",
+      "content": "Šādu nodrošinājumu var dot trešā persona vai pat kāds no tratas parakstītājiem."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "Ceturtā apakšnodaļa Galvojums (avals)",
+      "section": "31",
+      "title": "31. Galvojumu dod uzrakstā uz tratas vai uz piemetinātas lapas.",
+      "content": "Galvojumu izteic vārdiem \"kā galvinieks\" vai ar citu līdzīgu atzīmi. Galvojumu paraksta galvinieks.\nGalvojums jāuzskata par izrietošu tikai no galvinieka paraksta tratas priekšpusē, izņemot gadijumu, kad parakstu dod trasants vai maksātājs.\nGalvojumā jānorāda, kam par labu tas dots. Trūkstot šādam norādījumam, jāuzskata, ka galvojums dots par trasantu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "Ceturtā apakšnodaļa Galvojums (avals)",
+      "section": "32",
+      "title": "32. Galvinieks atbild tādā pašā veidā kā tas, par kuru galvojums dots.",
+      "content": "Galvojums ir spēkā pat tad, ja pati nodrošinātā saistība nebūtu spēkā kaut kādu iemeslu dēļ, izņemot tikai formas trūkumus.\nSamaksājis tratu, galvinieks iegūst visas no tratas izrietošās tiesības pret personu, par kuru viņš galvojis, un tāpat arī pret tiem, kas savukārt atbild šai personai uz tratas pamata."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "Piektā apakšnodaļa Maksāšanas termiņš",
+      "section": "33",
+      "title": "33. Tratu var izrakstīt ar maksāšanas termiņu:",
+      "content": "pie uzrādīšanas,\nnoteiktā laikā pēc uzrādīšanas,\nnoteiktā laikā pēc izrakstīšanas,\nnoteiktā dienā.\nNav spēkā tratas ar citādiem maksāšanas termiņiem vai ar vairākiem cits citam sekojošiem maksāšanas termiņiem."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "Piektā apakšnodaļa Maksāšanas termiņš",
+      "section": "34",
+      "title": "34. Trata ar maksāšanas termiņu pie uzrādīšanas jāmaksā tratu uzrādot. Tā jāuzrāda samaksai viena gada laikā pēc izrakstīšanas. Trasants var saīsināt vai pagarināt šo laiku. Indosanti var to saīsināt.",
+      "content": "Trasants var noteikt, ka trata, kas maksājama pie uzrādīšanas, nav uzrādāma samaksai pirms noteiktā termiņa. Šai gadijumā uzrādīšanas laiks skaitās no minētā termiņa."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "Piektā apakšnodaļa Maksāšanas termiņš",
+      "section": "35",
+      "title": "35. Noteicot maksāšanas termiņu tratai, kas maksājama noteiktā laikā pēc uzrādīšanas, par pamatu jāņem tratas pieņemšanas vai protesta datums.",
+      "content": "Ja pieņemšanas izteikumā nav uzdots datums un protests nav izdarīts, tad attiecībā uz pieņēmēju trata jāuzskata par pieņemtu tā laika pēdējā dienā, kas ir paredzēts tratas uzrādīšanai pieņemšanai."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "Piektā apakšnodaļa Maksāšanas termiņš",
+      "section": "36",
+      "title": "36. Maksāšanas termiņš, kas noteikts ar mēnesi vai vairākiem mēnešiem pēc tratas izrakstīšanas vai uzrādīšanas, iestājas tā mēneša atbilstošā dienā, kurā izdarāma samaksa. Ja attiecīgā mēnesī nav tādas dienas, tad maksāšanas termiņš iestājas šā mēneša pēdējā dienā.",
+      "content": "Ja trata izrakstīta uz pusotra mēneša vai uz vairākiem mēnešiem ar pusi pēc tās izrakstīšanas vai uzrādīšanas, tad vispirms aprēķina veselus mēnešus.\nJa maksāšanas termiņš noteikts mēneša sākumā, vidū vai beigās, tad ar šiem termiņiem jāsaprot mēneša pirmā, piecpadsmitā un pēdējā diena.\nJa maksāšanas termiņš noteikts nedēļās pēc tratas izrakstīšanas, tad maksāšanas termiņš iestājas tajā nedēļas dienā, kura pēc nosaukuma atbilst vekseļa izrakstīšanas dienai.\nIzteicieni ,,astoņas dienas\" vai «piecpadsmit dienas\" nozīmē nevis vienu vai divas nedēļas, bet tiešām astoņas vai piecpadsmit dienas. Izteiciens ,,pusmēnesis\" nozīmē piecpadsmit dienas."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "Piektā apakšnodaļa Maksāšanas termiņš",
+      "section": "37",
+      "title": "37. Ja trata maksājama noteiktā dienā tādā vietā, kur ir spēkā kalendārs, kas nesakrīt ar tratas izrakstīšanas vietas kalendāru, maksāšanas termiņu nosaka pēc maksāšanas vietas kalendāra.",
+      "content": "Ja trata tiek izrakstīta, nosakot maksāšanas termiņu noteiktā dienā, tratā ierakstāms (vārdiem) gads, datums un mēnesis, kurā izdarāma samaksa. Samaksas termiņš iestājas tratā ierakstītajā datumā.\nJa trata maksājama noteiktā laikā pēc izrakstīšanas un tās izrakstīšanas un maksāšanas vietu kalendāri nesakrīt, izrakstīšanas dienu pārrēķina pēc maksāšanas vietas kalendāra un saskaņā ar to nosaka maksāšanas termiņu.\nTratu uzrādīšanai paredzētie laiki aprēķināmi saskaņā ar šā panta trešās daļas noteikumiem.\nŠā panta noteikumi nav piemērojami, ja no atzīmes tratā un pat vispārīgi no tās satura izriet nodoms rīkoties citādi."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "Sestā apakšnodaļa Samaksa",
+      "section": "38",
+      "title": "38. Tratu, kas maksājama noteiktā dienā vai noteiktā laikā pēc izrakstīšanas vai uzrādīšanas, tratas turētājs uzrāda maksātājam samaksai maksāšanas termiņa iestāšanās dienā vai vienā no divām maksāšanas termiņam sekojošām Latvijā noteiktajām darbdienām.",
+      "content": "Tratas turētājam ir tiesības šā panta pirmajā daļā minēto tratu uzrādīt notāram, ja ir iestājies tratas uzrādīšanas termiņš un tratas uzrādītājam maksātāja atrašanās vieta nav zināma.\nNotārs šā panta otrajā daļā minētajā gadījumā taisa apliecinājumu par paziņojuma nodošanu maksātājam saskaņā ar Notariāta likuma XVI nodaļas noteikumiem.\nJa maksātājs paziņojumā norādītajā termiņā atbild uz paziņojumu, piemērojami šā likuma noteikumi par tratas samaksu.\nJa maksātājs paziņojumā norādītajā termiņā neatbild uz paziņojumu, notārs taisa apliecinājumu par tratas uzrādīšanas laiku saskaņā ar Notariāta likuma XII nodaļas noteikumiem un tratas uzrādīšana notāram pielīdzināma uzrādīšanai samaksai."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "Sestā apakšnodaļa Samaksa",
+      "section": "39",
+      "title": "39. Samaksājot tratu, maksātājs var prasīt, lai viņam to atdod ar turētāja kvitējumu par samaksu.",
+      "content": "Tratas turētājs nevar atteikties pieņemt daļas samaksu.\nDaļas samaksas gadijumā maksātājs var prasīt, lai par šo daļas samaksu atzīmē uz tratas un izdod viņam kvīti."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "Sestā apakšnodaļa Samaksa",
+      "section": "40",
+      "title": "40. Tratas turētājs nav spiests pieņemt samaksu pirms maksāšanas termiņa iestāšanās.",
+      "content": "Maksātājs, kas maksā pirms maksāšanas termiņa iestāšanās, rīkojas uz savu risku.\nKas maksā termiņam iestājoties, kļūst brīvs no savas saistības, ja vien viņš nav rīkojies ar ļaunu nodomu vai nav pielaidis rupju neuzmanību. Viņam jāpārbauda, vai indosamentu rinda ir nepārtraukta, bet nav jāpārliecinās par indosantu parakstu īstumu."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "Sestā apakšnodaļa Samaksa",
+      "section": "41",
+      "title": "41. Ja trata izrakstīta valūtā, kura nav apgrozībā maksāšanas vietā, tad tratas summu var maksāt vietējā naudā pēc maksāšanas dienas kursa. Ja parādnieks nokavējis samaksu, tad tratas turētājam ir tiesība, tratas summas samaksu vietējā naudā pieprasot, izvēlēties tratas summas pārrēķināšanai vai nu maksāšanas termiņa, vai faktiskās samaksas dienas kursu. Par ārvalsts valūtā ārvalstī izrakstītu tratu, kura maksājama Latvijā, kā arī par Latvijā ārvalsts valūtā izrakstītu tratu, kura tiktu uzrādīta Latvijā, maksājams euro pēc tratā norādītā valūtas kursa, bet, ja tratā tas nav norādīts, — saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu.",
+      "content": "(Otrā daļa izslēgta ar 15.04.2010 . likumu)\nTomēr trasants pašā tratā var noteikt kursu tratas summas pārrēķināšanai.\nNav jāpiemēro šā ( 41. ) panta pirmās daļas noteikumi, ja trasants noteicis, ka samaksa izdarāma noteiktā valūtā (efektivklauzula).\nTomēr šī atzīme nav spēkā, ja Latvijā iestājušies ārkārtēji apstākļi, kas ietekmē naudas kursus. Pazīmes, kas raksturo ārkārtējus apstākļus, tāpat arī šo apstākļu rašanos un izbeigšanos, noteic valdība.\nJa tratas summa ir noteikta valūtā, kurai vienāds nosaukums, bet cita vērtība valstī, kur trata izrakstīta, un valstī, kur tā maksājama, tad jāpieņem, ka domāta tās valsts valūta, kur trata maksājama."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "Sestā apakšnodaļa Samaksa",
+      "section": "42",
+      "title": "42. Ja tratu neuzrāda samaksai 38. pantā paredzētā laikā, tad katram parādniekam ir tiesība iemaksāt tratas summu notāra depozītā uz tratas turētāja rēķinu un risku.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 15.04.2010. un 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "43",
+      "title": "43. Tratas turētājam ir regresa tiesība pret indosantiem, trasantu un citām uz tratas pamata atbildīgām personām:",
+      "content": "ja, maksāšanas termiņam iestājoties, tratu nesamaksā;\npat pirms maksāšanas termiņa iestāšanās:\n1) kad tratas pieņemšana ir pilnīgi vai pa daļai noraidīta,\n2) kad par maksātāja mantu, vienalga, vai viņš ir pieņēmis vai nav pieņēmis tratu, atklāts konkurss, vai nodibināta administrācija, un pat tad, kad maksātājs tikai pārtraucis savus maksājumus, lai gan šis apstāklis nav vēl konstatēts ar tiesas spriedumu, vai kad nav bijis panākumu piedziņai uz maksātāja mantu,\n3) kad par pieņemšanai neuzrādāmas tratas devēja mantu atklāts konkurss vai nodibināta administrācija."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "44",
+      "title": "44. Atteikšanās no tratas pieņemšanas vai samaksas jākonstatē ar publisku aktu (protestu nepieņemšanas vai nesamaksas dēļ).",
+      "content": "Protests nepieņemšanas dēļ jāizdara laikā, kurā trata uzrādāma pieņemšanai.\nJa 24. panta pirmā daļā paredzētā gadījumā uzrādīšana pirmo reizi notikusi uzrādīšanas laika pēdējā dienā, tad protestu var izdarīt vēl nākamajā Latvijā noteiktajā darbdienā.\nProtests nesamaksas dēļ tratai, kas maksājama noteiktā dienā vai noteiktā laikā pēc izrakstīšanas vai uzrādīšanas, jāizdara vienā no divām maksāšanas termiņam sekojošām Latvijā noteiktajām darbdienām. Trata ar termiņu pie uzrādīšanas jāprotestē nesamaksas dēļ pēc noteikumiem, kas paredzēti šā ( 44. ) panta otrā daļā protestam nepieņemšanas dēļ.\nProtests nepieņemšanas dēļ atsvabina tratas turētāju no tratas uzrādīšanas samaksai un no protesta nesamaksas dēļ.\nKad maksātājs pārtrauc savus maksājumus, vienalga, vai viņš ir pieņēmis vai nav pieņēmis tratu, vai arī, kad nav bijis panākuma piedziņai uz maksātāja mantu, tratas turētājs tikai tad var izlietot regresu, ja viņš papriekš uzrāda tratu maksātājam samaksai un izdara protestu.\nJa par maksātāja mantu, vienalga, vai viņš ir pieņēmis vai nav pieņēmis tratu, vai par pieņemšanai neuzrādāmas tratas devēja mantu ir atklāts konkurss vai nodibināta administrācija, tad, lai tratas turētājs varētu izlietot regresu, pietiek uzrādīt attiecīgu tiesas lēmumu. Lēmuma uzrādīšanai pielīdzināta lēmuma sludinājuma uzrādīšana oficiālā periodiskā izdevumā vai izdevumā, kas īpaši domāts tiesas iestāžu sludinājumiem.\nLatvijā izrakstīta trata iesniedzama notāram ne vēlāk kā dienu pirms tās dienas, kas šajā pantā paredzēta kā pēdējā diena protesta izdarīšanai. Trata noprotestējama protesta izdarīšanai paredzētajā dienā, kas seko tai dienai, kurā izdarīts šā likuma 80.pantā paredzētais uzaicinājums."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "45",
+      "title": "45. Tanī dienā, kad izdarāms protests tratas nepieņemšanas vai nesamaksas dēļ, notāram ir pienākums par protesta izdarīšanu rakstiski paziņot visām uz tratas pamata atbildīgām personām, kuru adreses atzīmētas tratā, vai zināmas notāram, vai kuru adreses ir paziņojusi persona, kas pieprasījusi protesta izdarīšanu, jebkurā gadījumā paziņojumu nosūtot uz juridisko adresi vai oficiālo elektronisko adresi, ja ir aktivizēts oficiālās elektroniskās adreses konts. Paziņošanas izdevumi jāpierēķina protesta izdevumiem.",
+      "content": "Tratas turētājam, kam uz īpašas tratā ierakstītas atzīmes pamata regresa izlietošanai nav jāizdara protests tratas nepieņemšanas vai nesamaksas dēļ, četru darbdienu laikā pēc tratas uzrādīšanas dienas jāpaziņo savam tiešam indosantam un arī trasantam par tratas nepieņemšanu vai nesamaksu. Divu darbdienu laikā pēc paziņojuma saņemšanas katram indosantam savukārt ir pienākums par saņemto paziņojumu informēt savu priekšgājēju, norādot iepriekšējo paziņotāju vārdus un adreses, un tā jārīkojas tālāk, kamēr nonāk līdz trasantam. Minētais laiks tek no iepriekšējā paziņojuma saņemšanas brīža.\nJa saskaņā ar šā ( 45. ) panta otro daļu ir nosūtīts paziņojums kādai tratu parakstijušai personai, tad tāda paša satura paziņojums un tādā pašā laikā jānosūta arī šīs personas galviniekam.\nJa indosants nav atzīmējis savu adresi vai to atzīmējis nesalasāmā veidā, tad pietiek ar paziņojuma nosūtīšanu šā indosanta tiešam priekšgājējam.\nTas, kam ir pienākums nosūtīt paziņojumu, var to izdarīt kurā katrā formā un pat nosūtot tikai pašu tratu.\nViņam jāpierāda, ka paziņojums nosūtīts paredzētā laikā. Laiks jāuzskata par ievērotu, ja šinī laikā nodota pastam vēstule, kurā atrodas paziņojums.\nKas nav nosūtijis paziņojumu augšminētā laikā, tas ar to vēl nav zaudējis regresa iespēju; viņš atbild par zaudējumiem, kas radušies ar viņa neuzmanību, bet zaudējumu atlīdzība nevar pārsniegt tratas summu."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "46",
+      "title": "46. Ar atzīmi \"bez izdevumiem\", \"bez protesta\" vai līdzīgu atzīmi, kas ierakstīta tratā un pēc tam parakstīta, trasants, indosants vai galvinieks var atbrīvot tratas turētāju no pienākuma regresa tiesības izlietošanai protestēt tratu nepieņemšanas vai nesamaksas dēļ. Šādas atzīmes izdarīšana neatbrīvo no pienākuma regresa tiesības izlietošanai protestēt vienkāršo vekseli nesamaksas dēļ, ja uz vienkāršā vekseļa pamata atbildīgā persona ir fiziskā persona.",
+      "content": "Atzīme neatbrīvo tratas turētāju no tratas uzrādīšanas pienākuma likumā noteiktā laikā, tāpat arī neatbrīvo no paziņošanas pienākuma. Minētā laika neievērošana jāpierāda tam, kas uz to dibina savus iebildumus pret tratas turētāju.\nAtzīme, kuru ieraksta trasants, rada sekas pret visām tratu parakstījušām personām, turpretim atzīme, kuru ieraksta indosants vai galvinieks, rada sekas tikai pret viņiem pašiem. Ja, neskatoties uz trasanta ierakstīto atzīmi, tratas turētājs tomēr nodod tratu protestam, tad tikai viņam ir pienākums maksāt protesta izdevumus. Ja atzīmi ieraksta indosants vai galvinieks, tad protesta izdevumus var pieprasīt no visiem tratas parakstītājiem."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "47",
+      "title": "47. Visi, kas tratu izrakstījuši, pieņēmuši, indosējuši vai uzņēmušies galvojumu, atbild solidāri tratas turētājam.",
+      "content": "Tratas turētājam ir tiesība celt prasību pret visām minētām personām, pret katru atsevišķi vai visām kopā, un viņam nav jāievēro kārtība, kurā šīs personas uzņēmušās saistību pēc tratas.\nTās pašas tiesības pieder katram tratas parakstītājam, kas to izpircis.\nPrasības celšana pret vienu tratas saistībā atbildīgu personu nekavē tratas turētāju prasīt samaksu arī no pārējām atbildīgām personām; viņš var prasīt samaksu pat no tām personām, kas seko jau izsūdzētam tratas parakstītājam."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "48",
+      "title": "48. Regresa ceļā tratas turētājs var prasīt:",
+      "content": "1) nepieņemtas vai nesamaksātas tratas summu ar procentiem, ja tie norunāti;\n2) sešus procentus, skaitot no maksāšanas termiņa;\n3) protesta, paziņojuma un citus izdevumus;\n4) atlīdzību vienas trešdaļas procenta apmērā no tratas summas.\nJa regresu izlieto pirms maksāšanas termiņa iestāšanās, tad no tratas summas atvelk diskontu. Diskontu aprēķina, piemērojot likumisko procentu likmi. Ja Latvijas Bankas noteiktā refinansēšanas likme pārsniedz likumisko procentu likmi, tad piemērojama regresa dienā spēkā esošā Latvijas Bankas noteiktā refinansēšanas likme."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "49",
+      "title": "49. Kas samaksājis tratu, tam ir tiesība prasīt no regresa kārtībā atbildīgām personām:",
+      "content": "1) pilnu summu, kuru viņš samaksājis;\n2) sešus procentus no šīs summas, skaitot no tratas izpirkšanas dienas;\n3) savus izdevumus;\n4) atlīdzību pēc 48. panta pirmās daļas 4. punktā paredzētā aprēķina."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "50",
+      "title": "50. Katra tratas saistībā atbildīga persona, no kuras prasa vai no kuras var prasīt tratas samaksu uz regresa tiesības pamata, maksājot regresa summu, var prasīt atdot viņai tratu ar protesta aktu un kvitētu rēķinu.",
+      "content": "Katrs indosants, kas izpircis tratu, var izsvītrot savu paša indosamentu un sekojošos indosamentus."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "51",
+      "title": "51. Ja izlieto regresu pēc tratas, kas pieņemta tikai daļā, tad tas, kas samaksā arī to summu, kurā trata nav pieņemta, var prasīt, lai samaksāto summu atzīmē uz tratas un lai viņam par to izdod kvīti. Bez tam tratas turētājam jāizdod viņam apliecināts tratas noraksts un protesta akts, lai būtu iespējams tālākais regress.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "52",
+      "title": "52. Ja nav norunāts pretējais, katrs, kam ir regresa tiesība, var apmierināt savu prasījumu ar jaunas tratas (regresa tratas) palīdzību, izrakstot to uz vienu no sev atbildīgām personām, ar maksāšanas termiņu pie uzrādīšanas un ar maksāšanas vietu šīs personas dzīves vietā.",
+      "content": "Regresa trata ietver sevī bez 48. un 49. pantos minētām summām arī īpašu starpnieka atlīdzību.\nJa regresa tratu izraksta tratas turētājs, tad šīs regresa tratas summa jāaprēķina pēc tādas tratas kursa, kurai ir maksāšanas termiņš pie uzrādīšanas un kas izdota pirmējās tratas maksāšanas vietā, bet maksājama uz regresa pamata atbildīgas personas dzīves vietā. Ja regresa tratu izraksta indosants, tad šīs regresa tratas summa jāaprēķina pēc tādas tratas kursa, kurai ir maksāšanas termiņš pie uzrādīšanas un kas izdota regresa tratas devēja dzīves vietā, bet maksājama uz regresa pamata atbildīgas personas dzīves vietā."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "53",
+      "title": "53. Pēc tā laika notecēšanas, kas noteikts:",
+      "content": "tratas uzrādīšanai, kas maksājama pie uzrādīšanas vai noteiktā laikā pēc uzrādīšanas;\nprotesta izdarīšanai tratas nepieņemšanas vai nesamaksas dēļ;\ntratas uzrādīšanai samaksai, ja tanī ir atzīme \"bez izdevumiem\" -\ntratas turētājs zaudē savas tiesības pret indosantiem, trasantu un pārējām tratas saistībā atbildīgām personām, izņemot tratas pieņēmēju.\nTratas turētājs, kas tratu neuzrāda pieņemšanai trasanta noteiktā laikā, zaudē regresa tiesību tratas nepieņemšanas un tāpat arī nesamaksas gadījumā, ja vien no tratas teksta neizriet, ka trasants domājis tikai atsvabināties no atbildības par pieņemšanu.\nJa laiks tratas uzrādīšanai paredzēts indosamentā, tad uz to var atsaukties tikai pats indosants."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "Septītā apakšnodaļa Regress tratas nepieņemšanas un nesamaksas dēļ",
+      "section": "54",
+      "title": "54. Ja nepārvaramu šķēršļu dēļ (kādas valsts likumīgi rīkojumi vai citi nepārvaramas varas gadījumi) noteiktā laikā nav iespējams uzrādīt tratu vai izdarīt protestu, tad šo laiku pagarina.",
+      "content": "Tratas turētājam par nepārvaramas varas gadījumiem nekavējoties jāpaziņo savam tiešam indosantam un par šo paziņojumu jāatzīmē uz tratas vai uz piemetinātās lapas, minot datumu un parakstoties. Bez tam jāpiemēro 45. panta noteikumi.\nIzbeidzoties nepārvaramas varas gadījumam, tratas turētājam nekavējoties jāuzrāda trata pieņemšanai vai samaksai un vajadzības gadījumā tā jāiesniedz protestam.\nJa nepārvarama vara ilgst pāri par trīsdesmit dienām pēc maksāšanas termiņa, tad var izlietot regresu, nemaz neuzrādot tratu un neizdarot protestu.\nTratām ar maksāšanas termiņu pie uzrādīšanas vai noteiktā laikā pēc uzrādīšanas, pat pirms uzrādīšanas laika notecējuma, trīsdesmit dienas jāskaita no tās dienas, kad tratas turētājs par nepārvaramas varas gadījumu paziņojis savam indosantam; tratai ar maksāšanas termiņu noteiktā laikā pēc uzrādīšanas trīsdesmit dienas pagarinātas ar tratā minēto laika sprīdi pēc tratas uzrādīšanas.\nNav jāuzskata par nepārvaramas varas gadijumiem tādi apstākļi, kas skar tīri personīgi tratas turētāju vai personu, kurai viņš uzdevis uzrādīt tratu vai izdarīt protestu."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "1. Vispārīgi noteikumi",
+      "section": "55",
+      "title": "55. Trasants, indosants vai galvinieks var norādīt īpašu personu, kas spaidu gadījumā pieņems vai samaksās tratu.",
+      "content": "Zemāk minētos nosacījumos tratu var pieņemt vai samaksāt persona, kas uzstājas par starpnieku kura katra uz regresa pamata atbildīga parādnieka labā.\nPar starpnieku var būt trešā persona, pat maksātājs un tāda persona, kas jau ir atbildīga pēc tratas, izņemot tratas pieņēmēju.\nStarpniekam divu darbdienu laikā jāpaziņo par savu starpniecību tam, kura labā viņš uzstājies, ja šis laiks nav ievērots, starpnieks atbild par zaudējumiem, kuri celtos sakarā ar viņa nolaidību, tomēr ne pāri par tratas summu."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "2. Starpniecība tratas pieņemšanā",
+      "section": "56",
+      "title": "56. Starpniecība iespējama visos gadijumos, kad tratas turētājs var izlietot regresu pirms maksāšanas termiņa iestāšanās, ja vien trasants nav aizliedzis uzrādīt tratu pieņemšanai.",
+      "content": "Ja trata ir norādīta persona, kurai spaidu gadijumā trata maksāšanas vietā jāpieņem vai jāsamaksā, tad tratas turētājs pirms maksāšanas termiņa iestāšanās tikai tad var izlietot regresu pret starpnieku norādījušo parādnieku un tāpat arī pret sekojošiem parakstītājiem, ja viņš uzrādijis tratu tanī minētam starpniekam, bet starpnieks to atteicies pieņemt, un nepieņemšana konstatēta ar protestu.\nVisos pārējos starpniecības gadījumos tratas turētājs var noraidīt starpniecību tratas pieņemšanā. Tratas turētājs, kurš tomēr pielaiž starpniecību, zaudē regresa iespēju, kas pirms maksāšanas termiņa iestāšanās viņam ir pret to, kura labā trata pieņemta, un tāpat arī pret sekojošiem parakstītājiem."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "2. Starpniecība tratas pieņemšanā",
+      "section": "57",
+      "title": "57. Starpniecība tratas pieņemšanā jāatzīmē uz tratas un jāparaksta starpniekam, norādot, kā labā trata pieņemta. Trūkstot šādam norādījumam, pieņemšana jāuzskata par izdarītu trasanta labā.",
+      "content": "57. Starpniecība tratas pieņemšanā jāatzīmē uz tratas un jāparaksta starpniekam, norādot, kā labā trata pieņemta. Trūkstot šādam norādījumam, pieņemšana jāuzskata par izdarītu trasanta labā."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "2. Starpniecība tratas pieņemšanā",
+      "section": "58",
+      "title": "58. Pieņemot tratu, starpnieks atbild tratas turētājam un tiem indosantiem, kas seko personai, kuras labā trata pieņemta, tādā pašā veidā, kā šī pēdējā persona.",
+      "content": "Lai gan trata ir pieņemta starpniecības kārtībā, tomēr tas, kura labā notikusi starpniecība, un viņam atbildīgās personas var pret 48. pantā paredzētās summas samaksu pieprasīt no tratas turētāja tratu, protesta aktu un kvitētu rēķinu."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "3. Starpniecība tratas samaksā",
+      "section": "59",
+      "title": "59. Starpniecība tratas samaksā iespējama visos gadījumos, kad, maksāšanas termiņam iestājoties vai arī pirms šā termiņa iestāšanās, tratas turētājs var izlietot regresu.",
+      "content": "Starpnieka maksājumam jāaptver visa tā summa, kas būtu jāmaksā personai, kuras labā starpnieks samaksā tratu.\nSamaksa jāizdara vēlākais tanī dienā, kas seko pēdējai dienai, kura paredzēta protesta izdarīšanai nesamaksas dēļ."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "3. Starpniecība tratas samaksā",
+      "section": "60",
+      "title": "60. Ja tratu pieņēmuši tādi starpnieki, kuru dzīves vieta ir tratas maksāšanas vietā, vai ja tratā ir norādītas maksāšanas vietā dzīvojošas personas, kurām tā jāsamaksā spaidu gadijumā, tad tratas turētājam vēlākais tanī dienā, kas seko pēdējai protesta celšanai paredzētai dienai, jāuzrāda trata visām minētām personām un, samaksu nesaņemot, jāizdara protests nesamaksas dēļ.",
+      "content": "Ja minētā laikā protests nav izdarīts, tad tas, kas norādījis starpnieku vai kura labā trata pieņemta, un arī vēlākie indosanti atbrīvojas no saistības."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "3. Starpniecība tratas samaksā",
+      "section": "61",
+      "title": "61. Tratas turētājs, kas atraida starpnieka piedāvāto maksājumu, zaudē regresa tiesību pret tiem, kuri ar šo samaksu būtu atbrīvoti.",
+      "content": "61. Tratas turētājs, kas atraida starpnieka piedāvāto maksājumu, zaudē regresa tiesību pret tiem, kuri ar šo samaksu būtu atbrīvoti."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "3. Starpniecība tratas samaksā",
+      "section": "62",
+      "title": "62. Starpnieka izdarītā samaksa jāapliecina ar kvitējumu uz tratas, norādot personu, kuras labā samaksa izdarīta. Trūkstot šādam norādījumam, samaksa jāuzskata par izdarītu trasanta labā.",
+      "content": "Trata un protesta akts, ja protests ir izdarīts, jānodod tratu samaksājušam starpniekam."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "3. Starpniecība tratas samaksā",
+      "section": "63",
+      "title": "63. Starpnieks, kas samaksājis tratu, iegūst visas no tratas izrietošās tiesības pret to, kura labā trata samaksāta, un arī pret personām, kas tam atbildīgas uz tratas pamata. Viņš tomēr nevar indosēt tratu no jauna.",
+      "content": "Indosanti, kas seko personai, kuras labā samaksāta trata, atbrīvojas no saistības.\nJa samaksu piedāvā vairāki starpnieki, tad priekšroka ir tam, ar kura samaksu kļūst atsvabināts lielāks tratas saistībā atbildīgo personu skaits. Starpnieks, kas, zinādams lietas apstākļus, tomēr izdara samaksu, pārkāpjot minēto noteikumu, zaudē regresa iespēju pret tiem, kuri citādi būtu atsvabināti no atbildības pēc tratas."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "Dublikāti",
+      "section": "64",
+      "title": "64. Tratu var izrakstīt vairākos vienāda satura eksemplāros.",
+      "content": "Šiem eksemplāriem jābūt numurētiem pašā tratas tekstā; pretējā gadijumā katrs eksemplārs jāuzskata par patstāvīgu tratu.\nKatrs tratas turētājs var prasīt uz savu rēķinu, lai viņam iedod vairākus tratas eksemplārus, ja vien tratā nav pateikts, ka tā izrakstīta tikai vienā eksemplārā. Šai nolūkā tratas turētājam jāgriežas pie sava tiešā indosanta, kas savukārt griežas pie sava priekšgājēja, šādā rindas kārtībā nonākot līdz trasantam. Uz jauniem eksemplāriem indosantiem jāatkārto savi indosamenti."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "Dublikāti",
+      "section": "65",
+      "title": "65. Ar viena eksemplāra samaksu atkrīt atbildība pēc pārējiem eksemplāriem, pat ja uz tiem nebūtu atzīmes, ka ar samaksu pret vienu eksemplāru pārējie eksemplāri zaudē spēku. Tomēr maksātājs paliek saistīts pēc katra pieņemtā eksemplāra, kura atdošanu viņš nav panācis.",
+      "content": "Indosants, kas tratas eksemplārus iedevis dažādām personām, un tāpat arī sekojošie indosanti atbild pēc visiem neatdotiem eksemplāriem, uz kuriem atrodas viņu paraksts."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "Dublikāti",
+      "section": "66",
+      "title": "66. Kas nosūtijis vienu tratas eksemplāru pieņemšanai, tam jāatzīmē uz pārējiem eksemplāriem, pie kādas personas atrodas nosūtītais eksemplārs. Šai personai ir pienākums savu eksemplāru atdot cita eksemplāra likumīgam turētājam.",
+      "content": "Kad minētā persona liedzas atdot savu tratas eksemplāru, tratas turētājs tikai tad var izlietot regresu, ja protesta ceļā ir konstatēts:\n1) ka pieņemšanai nosūtītais eksemplārs uz viņa pieprasījumu nav atdots atpakaļ;\n2) ka nav bijis iespējams panākt pieņemšanu vai samaksu pēc cita eksemplāra."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "Noraksti",
+      "section": "67",
+      "title": "67. Katram tratas turētājam ir tiesība taisīt tratas norakstus.",
+      "content": "Norakstam pareizi jāatveido oriģināls ar indosamentiem un visām pārējām atzīmēm, kas tur atrodas. Norakstā jāatzīmē, kur tas beidzas.\nUz noraksta var taisīt indosamentus un galvojuma uzrakstus tai pašā veidā un ar tām pašām sekām, kā uz oriģināla."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "Noraksti",
+      "section": "68",
+      "title": "68. Norakstā jānorāda oriģinaltratas turētājs. Viņa pienākums ir atdot tratas oriģinālu likumīgam noraksta turētājam.",
+      "content": "Kad oriģinaltratas turētājs izvairās no atdošanas, noraksta turētājs tikai tad var izlietot regresu pret personām, kas taisījušas uz noraksta indosamentus vai galvojuma uzrakstus, ja ar protestu konstatēts, ka oriģinaltrata nav atdota uz noraksta turētāja pieprasījumu.\nJa oriģinaltratā aiz pēdējā indosamenta, kas taisīts līdz noraksta izgatavošanai, atrodas atzīme ,,sākot ar šo vietu indosamenti ir spēkā tikai uz noraksta\" vai cita līdzīga atzīme, tad ir nederīgs uz oriģināla vēlāk taisītais indosaments."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "Desmitā apakšnodaļa Grozijumi",
+      "section": "69",
+      "title": "69. Ja tratas teksts ir grozīts, tad tie, kas tratu parakstījuši pēc grozījuma taisīšanas, atbild saskaņā ar grozīto tekstu; turpretim agrākie parakstītāji atbild saskaņā ar pirmējo tekstu.",
+      "content": "69. Ja tratas teksts ir grozīts, tad tie, kas tratu parakstījuši pēc grozījuma taisīšanas, atbild saskaņā ar grozīto tekstu; turpretim agrākie parakstītāji atbild saskaņā ar pirmējo tekstu."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "Vienpadsmitā apakšnodaļa Noilgums",
+      "section": "70",
+      "title": "70. Visas pret tratas pieņēmēju no tratas izrietošās prasības noilgst triju gadu laikā pēc maksāšanas termiņa.",
+      "content": "Tratas turētāja prasības pret indosantiem un trasantu noilgst gada laikā pēc savlaicīgi izdarītā protesta dienas, bet ja uz tratas ir atzīme ,,bez izdevumiem\", tad gada laikā pēc maksāšanas termiņa.\nIndosantu prasības savā starpā un pret trasantu noilgst sešu mēnešu laikā pēc tās dienas, kad indosants samaksājis tratu vai kad pret viņu pašu celta prasība."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "Vienpadsmitā apakšnodaļa Noilgums",
+      "section": "71",
+      "title": "71. Noilguma tecējuma pārtraukuma gadijumus noteic attiecīgu likumu noteikumi; noilguma tecējumu nekādā gadījumā nevar apturēt.",
+      "content": "Noilguma pārtraukums rada sekas tikai pret to tratas saistībā atbildīgo personu, uz kuru attiecas noilgumu pārtraucēja darbība."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "Divpadsmitā apakšnodaļa Vispārīgi noteikumi",
+      "section": "72",
+      "title": "72. Ja tratas maksāšanas termiņš iekrīt likumīgā svinamā dienā, tad tratas samaksu var pieprasīt tai sekojošā darbdienā. Tāpat arī visi citi darbi, kas attiecas uz tratu, it īpaši uzrādīšana pieņemšanai un protests, jāizdara tikai darbdienā.",
+      "content": "Ja kāds no šādiem darbiem jāizpilda noteiktā laika sprīdī, kura pēdējā diena ir likumīga svinamā diena, tad šis laiks jāpagarina līdz nākošai darbdienai. Laika sprīdi aprēķinot, jāskaita līdzi svinamās dienas, kas iekrīt laika tecējumā."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "Divpadsmitā apakšnodaļa Vispārīgi noteikumi",
+      "section": "73",
+      "title": "73. Aprēķinot likumiskus vai tratā noteiktus termiņus, nav jāskaita līdzi diena, pēc kuras tie sāk tecēt.",
+      "content": "73. Aprēķinot likumiskus vai tratā noteiktus termiņus, nav jāskaita līdzi diena, pēc kuras tie sāk tecēt."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "Divpadsmitā apakšnodaļa Vispārīgi noteikumi",
+      "section": "74",
+      "title": "74. Nav pielaižamas nekādas uz likumu vai tiesas spriedumu pamatotas papildu dienas.",
+      "content": "74. Nav pielaižamas nekādas uz likumu vai tiesas spriedumu pamatotas papildu dienas."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "OTRĀ NODAĻA Vienkāršais vekselis",
+      "section": "75",
+      "title": "75. Vekselis ir vērtspapīrs, kas dod tā turētājam tiesības prasīt no vekseļa devēja vai akceptētāja samaksāt noteiktu naudas summu līdz 15 000 euro (piecpadsmit tūkstošiem euro ) noteiktā termiņā un vietā.",
+      "content": "(Otrā daļa izslēgta ar 16.06.2022 . likumu)\nVienkāršā vekselī jābūt:\n1) apzīmējumam, kas izteic, ka akts ir vekselis. Apzīmējumu izsaka akta tekstā valodā, kurā akts uzrakstīts;\n2) norādei, ka vekseli var izdot tikai vienai personai, kas ir pirmais vekseļa ņēmējs;\n3) norādei, ka vekseli var izrakstīt paša orderim un svešam orderim;\n4) beznosacījuma solījumam maksāt noteiktu naudas summu;\n5) maksāšanas termiņa apzīmējumam;\n6) maksāšanas vietas apzīmējumam. Vekselī norāda maksāšanas vietas pilnu adresi un, ja vekseli samaksā bankā, — arī bankas nosaukumu un konta numuru. Ja nav norādīta maksāšanas vieta, par tādu uzskatāma vekseļa izrakstīšanas vieta;\n7) tās personas vārdam, uzvārdam un personas kodam, kurai vai uz kuras ordera izdarāma samaksa. Ja personai nav personas koda, norāda tās dzimšanas gadu, mēnesi, dienu un vietu. Juridiskajai personai norāda tās nosaukumu, juridisko adresi un reģistrācijas numuru;\n8) vekseļa izrakstīšanas vietas pilnai adresei. Ja nav norādīta vekseļa izrakstīšanas vieta, par tādu tiek uzskatīta izrakstītāja dzīves vieta;\n9) vekseļa izrakstīšanas datumam (cipariem);\n10) vekseļa devēja parakstam. Parakstot vekseli, nedrīkst lietot faksimilzīmogu;\n11) (izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu) .\nJa vienkāršā vekseļa devējs, indosants, galvinieks, starpnieks vai cita uz vienkāršā vekseļa pamata atbildīgā persona ir fiziskā persona, vienkāršais vekselis izdodams notariālā akta formā.\nJa vienkāršais vekselis tiek izdots notariālā akta formā, visa korespondence, kas tiek nosūtīta uz notariālajā aktā norādīto adresi, tiek uzskatīta par saņemtu."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "OTRĀ NODAĻA Vienkāršais vekselis",
+      "section": "76",
+      "title": "76. Akts, kurā trūkst kāda no iepriekšējā ( 75. ) pantā paredzētām sastāvdaļām, nav spēkā kā vekselis, izņemot šinī pantā zemāk minētos gadījumus.",
+      "content": "Vekselis, kurā nav norādīts maksāšanas termiņš, jāuzskata par maksājamu pie uzrādīšanas.\nJa nav cita norādijuma, izrakstīšanas vieta jāuzskata par maksāšanas vietu un tanī pašā laikā par vekseļa devēja dzīves vietu.\nVekselis, kurā nav norādīta izrakstīšanas vieta, jāuzskata par izrakstītu tanī vietā, kas apzīmēta blakus vekseļa devēja vārdam."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "OTRĀ NODAĻA Vienkāršais vekselis",
+      "section": "77",
+      "title": "77. Vienkāršam vekselim jāpiemēro tratai paredzētie noteikumi par:",
+      "content": "indosamentu (11.—20. p.),\nmaksāšanas termiņu (33.—37. p.),\nsamaksu (38.—42. p.),\nregresu nesamaksas dēļ (43.—50. p., 52.—54. p.),\nstarpniecību (55., 59.—63. p.),\nnorakstiem (67. un 68. p.),\ngrozijumiem (69. p.),\nnoilgumu (70. un 71. p.),\nsvinamām dienām, laika aprēķinu un papildu dienu aizliegumiem (72., 73. un 74. p.),\nciktāl visi šie noteikumi nerunā pretim vienkāršā vekseļa būtībai.\nBez tam vienkāršam vekselim jāpiemēro noteikumi par tratu, kas maksājama trešās personas dzīves vietā vai tādā maksāšanas vietā, kas nesakrīt ar maksātāja dzīves vietu (4. un 27. p), par procentu atzīmi (5. p.), par nesaskaņām tratas apzīmējumā (6. p.), par nederīga paraksta sekām (7. p.) vai par tādas personas paraksta sekām, kura rīkojas bez pilnvarojuma vai to pārkāpjot (8. p.), un blanko tratu (10. p.).\nTāpat vienkāršam vekselim jāpiemēro noteikumi par galvojumu (30.—32. p.); 31. panta ceturtā daļā paredzētā gadījumā, ja galvojuma uzrakstā nav norādīts, par kādu īsti personu galvojums dots, tas uzskatams par dotu vekseļa devēja labā.\nVienkāršais vekselis iesniedzams notāram ne vēlāk kā trešajā dienā pēc maksāšanas termiņa iestāšanās. Ja trešā diena pēc maksāšanas termiņa iestāšanās ir sestdiena, svētdiena vai likumā noteiktā svētku diena, vienkāršo vekseli var iesniegt notāram vēl nākamajā darbdienā.\nProtests vienkāršā vekseļa nesamaksas dēļ izdarāms divdesmitajā maksāšanas termiņam sekojošā dienā. Ja divdesmitā maksāšanas termiņam sekojošā diena ir sestdiena, svētdiena vai likumā noteiktā svētku diena, protests vienkāršā vekseļa nesamaksas dēļ izdarāms nākamajā darbdienā."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "OTRĀ NODAĻA Vienkāršais vekselis",
+      "section": "78",
+      "title": "78. Vienkāršā vekseļa devējs atbild tādā pašā veidā kā tratas pieņēmējs.",
+      "content": "Vienkāršie vekseļi ar maksāšanas termiņu noteiktā laikā pēc uzrādīšanas jāuzrāda vekseļa devējam 23. pantā paredzētā laikā. Šādos vekseļos paredzētais noteiktais laiks pēc vekseļa uzrādīšanas sāk tecēt pēc tās dienas, kas minēta uz vekseļa taisītā un vekseļa devēja parakstītā atzīmē par vekseļa uzrādīšanu. Vekseļa devēja atteikšanās taisīt atzīmi par vekseļa uzrādīšanas dienu jākonstatē ar protestu ( 25. p. ); tādā gadijumā noteiktais laiks pēc vekseļa uzrādīšanas sāk tecēt pēc protesta dienas."
+    },
+    {
+      "provision_ref": "Art. 78.1",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.1",
+      "title": "78. 1 Elektroniskais vekselis ir vērtspapīrs, kas dod tā turētājam tiesības prasīt no vekseļa devēja vai akceptētāja samaksāt noteiktu naudas summu noteiktā termiņā un vietā un ir noformēts atbilstoši elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām.",
+      "content": "78. 1 Elektroniskais vekselis ir vērtspapīrs, kas dod tā turētājam tiesības prasīt no vekseļa devēja vai akceptētāja samaksāt noteiktu naudas summu noteiktā termiņā un vietā un ir noformēts atbilstoši elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām."
+    },
+    {
+      "provision_ref": "Art. 78.2",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.2",
+      "title": "78. 2 Elektroniskajā vekselī jābūt:",
+      "content": "1) apzīmējumam, kas izteic, ka akts ir elektroniskais vekselis. Apzīmējumu izsaka tajā valodā, kurā akts uzrakstīts;\n2) beznosacījuma solījumam maksāt noteiktu naudas summu;\n3) maksāšanas termiņam;\n4) maksāšanas vietas apzīmējumam. Elektroniskajā vekselī norāda maksāšanas vietas pilnu adresi un, ja elektronisko vekseli samaksā bankā, — arī bankas nosaukumu un konta numuru;\n5) tās personas vārdam, uzvārdam un personas kodam, kurai vai uz kuras ordera izdarāma samaksa. Ja personai nav personas koda, norāda tās dzimšanas gadu, mēnesi, dienu un vietu. Juridiskajai personai norāda tās nosaukumu, juridisko adresi un reģistrācijas numuru;\n6) elektroniskā vekseļa parakstīšanas laikam. Elektroniskā vekseļa parakstīšanas laiks ir laika zīmoga pievienošanas datums un laiks;\n7) drošam elektroniskajam parakstam."
+    },
+    {
+      "provision_ref": "Art. 78.3",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.3",
+      "title": "78. 3 (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "content": "78. 3 (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)"
+    },
+    {
+      "provision_ref": "Art. 78.4",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.4",
+      "title": "78. 4 Akts, kurā trūkst kāda no šā likuma 78. 2 pantā paredzētajām sastāvdaļām, nav spēkā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "Art. 78.5",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.5",
+      "title": "78. 5 Elektroniskajam vekselim piemērojami tratai paredzētie noteikumi, izņemot noteikumus par:",
+      "content": "pieņemšanu (akceptu) (21.p. otrā daļa un 25.p. otrā daļa),\ndublikātiem (64.—66.p.)."
+    },
+    {
+      "provision_ref": "Art. 78.6",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.6",
+      "title": "78. 6 Visas atzīmes, uzrakstus un apstiprinājumus elektroniskajam vekselim izstrādā un pievieno atbilstoši normatīvajiem aktiem par elektronisko dokumentu izstrādāšanu un noformēšanu vai kā atsevišķu datni, kuru paraksta kopā ar elektronisko vekseli.",
+      "content": "78. 6 Visas atzīmes, uzrakstus un apstiprinājumus elektroniskajam vekselim izstrādā un pievieno atbilstoši normatīvajiem aktiem par elektronisko dokumentu izstrādāšanu un noformēšanu vai kā atsevišķu datni, kuru paraksta kopā ar elektronisko vekseli."
+    },
+    {
+      "provision_ref": "Art. 78.7",
+      "chapter": "OTRĀ \"A\" NODAĻA Elektroniskais vekselis (Nodaļa 09.05.2013. likuma redakcijā, kas stājas spēkā 05.06.2013. )",
+      "section": "78.7",
+      "title": "78. 7 Elektroniskā vekseļa devējs atbild tādā pašā veidā kā tratas pieņēmējs.",
+      "content": "78. 7 Elektroniskā vekseļa devējs atbild tādā pašā veidā kā tratas pieņēmējs."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "79",
+      "title": "79. Protests ir juridisks akts, kuru sastāda notārs un kurā tiek apliecināts fakts, ka vekselis nav samaksāts tajā norādītajā termiņā.",
+      "content": "( 15.04.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "80",
+      "title": "80. Notārs, kuram protesta izdarīšanai iesniegts vekselis, rakstiski uzaicina tās personas, uz kurām protests attiecas, izpildīt savu saistību pēc vekseļa, uzaicinājumu nosūtot uz deklarēto dzīvesvietas adresi, juridisko adresi vai oficiālo elektronisko adresi, ja personai ir aktivizēts oficiālās elektroniskās adreses konts. Uzaicinājumu nosūta arī uz vienkāršā vekseļa turētāja norādīto uz vienkāršā vekseļa pamata atbildīgās personas adresi, ja tā atšķiras no iepriekš norādītajām adresēm.",
+      "content": "Ja saistība pēc vekseļa nav nokārtota,*) tad notāram jāsastāda protesta akts. Protesta aktu noformē atbilstoši Ministru kabineta apstiprinātajam paraugam.\nElektroniskā vekseļa protesta aktu sastāda kā elektronisku dokumentu atbilstoši šā likuma un elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām.\nProtesta akts par notariālā akta formā izdotu vienkāršo vekseli ir izpildu dokuments, kuru izpilda Civilprocesa likumā noteiktajā tiesas spriedumu izpildes kārtībā."
+    },
+    {
+      "provision_ref": "Art. 80.1",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "80.1",
+      "title": "80. 1 Rakstisku lūgumu izdarīt protestu un vekseli notāram iesniedz vekseļa turētājs vai viņa pārstāvis. Lūgumu izdarīt elektroniskā vekseļa protestu notāram var iesniegt elektroniski, parakstot lūgumu ar drošu elektronisko parakstu un pievienojot laika zīmogu.",
+      "content": "( 09.05.2013 . likuma redakcijā, kas stājas spēkā 05.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "81",
+      "title": "81. Protesta aktā jābūt:",
+      "content": "1) protesta izdarīšanas datumam;*)\n*) Pēc izlabojuma Vald. Vēstn. š. g. 227. numurā.\n2) protesta akta numuram;\n3) personas vārdam, kuras labā protests izdarīts, un personas vārdam, pret kuru protests izdarīts;\n4) norādījumam, ka persona, pret kuru izdarīts protests, uzaicināta nokārtot saistību pēc vekseļa, un ka šim uzaicinājumam nav bijis panākuma;\n5) izdarītā vai bez panākumiem palikušā uzaicinājuma vietas un laika apzīmējumam;\n6) protesta izdevumu apmēram;\n7) vekseļa summai.\nJa maksātājs, kam trata uzrādīta pieņemšanai, pieprasa, lai viņam sekojošā dienā tratu uzrāda vēlreiz, tad par to jāatzīmē protesta aktā.\nProtesta aktu paraksta notārs un uzspiež amata zīmogu. Protesta aktu, kas sastādīts kā elektronisks dokuments, notārs paraksta ar drošu elektronisko parakstu un pievieno laika zīmogu. Šāda protesta izdarīšanas datums un laiks ir laika zīmogā norādītais datums un laiks.\nP i e z ī m e. Protesta akts jāieraksta notāra reģistrā."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "82",
+      "title": "82. Protesta akts jāraksta uz vekseļa vai uz tam piemetinātās lapas.",
+      "content": "Protesta akts jāraksta vekseļa otrā pusē tieši aiz beidzamā uzraksta; ja nav neviena uzraksta, tad protesta akts jāraksta vienā no otras puses malām.\nJa protesta aktu raksta uz piemetinātās lapas, tad sametinājuma vietā jāuzspiež amata zīmogs. Šādā gadījumā nav vairs nepieciešams uzspiest zīmogu blakus notāra parakstam.\nJa protestam nodoti vairāki tā paša vekseļa eksemplāri vai oriģinalakts un noraksts, tad pietiek ar protestu tikai uz viena eksemplāra vai uz oriģināla. Uz citiem eksemplāriem vai uz noraksta atzīmes veidā jānorāda, uz kura eksemplāra taisīts protesta akts vai ka tas taisīts uz oriģinalakta. Taisot atzīmi, jāpiemēro šā ( 82. ) panta otrās daļas un trešās daļas 1. teikuma noteikumi. Atzīmi paraksta notārs."
+    },
+    {
+      "provision_ref": "Art. 82.1",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "82.1",
+      "title": "82. 1 Protesta aktu, kas sastādīts kā elektronisks dokuments atbilstoši šā likuma un elektronisko dokumentu izstrādāšanu un noformēšanu reglamentējošo normatīvo aktu prasībām, noformē kā atsevišķu datni, kuru paraksta kopā ar elektronisko vekseli.",
+      "content": "( 09.05.2013 . likuma redakcijā, kas stājas spēkā 05.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "83",
+      "title": "83. Protests, kuru 68. panta otrās daļas kārtībā pieprasa noraksta turētājs pret personu, kas neatdod oriģinalaktu, jātaisa uz noraksta vai uz tam piemetinātās lapas.",
+      "content": "Ja izdarīts protests, ka trata pieņemta tikai tās summas daļā, tad jāizgatavo tratas noraksts, un protesta akts jāraksta uz šā noraksta vai uz tam piemetinātās lapas. Norakstā jābūt visiem tiem indosamentiem un citiem uzrakstiem, kas atrodas uz tratas.\nJāpiemēro 82. panta otrās un trešās daļu noteikumi."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "84",
+      "title": "84. Pietiek ar vienu pašu protesta aktu, ja izpildijums pēc vekseļa pieprasāms no vairākām personām vai vairākas reizes no vienas personas.",
+      "content": "84. Pietiek ar vienu pašu protesta aktu, ja izpildijums pēc vekseļa pieprasāms no vairākām personām vai vairākas reizes no vienas personas."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "85",
+      "title": "85. Vekseli var samaksāt notāram. Viņam nevar atņemt tiesību saņemt samaksu.",
+      "content": "85. Vekseli var samaksāt notāram. Viņam nevar atņemt tiesību saņemt samaksu."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "86",
+      "title": "86. Kļūdas, izlaidumi vai citi protesta akta trūkumi notāram jāizlabo līdz protesta akta izsniegšanai personai, uz kuras pieprasījumu protests izdarīts. Izlabojumi jāatrunā īpašā atzīmē, ko paraksta notārs.",
+      "content": "86. Kļūdas, izlaidumi vai citi protesta akta trūkumi notāram jāizlabo līdz protesta akta izsniegšanai personai, uz kuras pieprasījumu protests izdarīts. Izlabojumi jāatrunā īpašā atzīmē, ko paraksta notārs."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "Pirmā apakšnodaļa Protests",
+      "section": "87",
+      "title": "87. Protesta akta un vekseļa apliecinātu norakstu glabā vekseļu protesta aktu grāmatā. Elektroniskā vekseļa protesta aktam sagatavo un glabā papīra formā elektroniskā vekseļa apliecinātu norakstu un elektroniskā vekseļa protesta akta norakstu.",
+      "content": "( 09.05.2013 . likuma redakcijā, kas stājas spēkā 05.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "Otrā apakšnodaļa Netaisna iedzīvošanās",
+      "section": "88",
+      "title": "88. Ja trasanta, tratas pieņēmēja vai vienkāršā vekseļa devēja saistības izbeigušās ar noilgumu vai arī tādēļ, ka nav izdarīta regresa tiesības paturēšanai nepieciešamā darbība, tad tomēr minētās personas atbild vekseļa turētājam tādā apmērā, kādā viņas netaisni iedzīvojušās uz turētāja rēķinu. Prasība par iedzīvojuma atmaksu noilgst triju gadu laikā pēc tam, kad izbeigusies saistība uz vekseļa pamata.",
+      "content": "Šāda prasība nav iespējama pret indosantiem, kuru saistības ir izbeigušās."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "Trešā apakšnodaļa Nozudušie, nozagtie vai iznīcinātie vekseļi un protesta akti",
+      "section": "89",
+      "title": "89. Nozudušu, nozagtu vai iznīcinātu vekseli var atzīt par anulētu Civilprocesa likumā paredzētā uzaicinājuma kārtībā. Uzaicinājuma laiks ir divi mēneši; tas tek no maksāšanas termiņa, ja šis termiņš nav vēl iestājies.",
+      "content": "Par ierosināto uzaicinājumu, ciktāl tas iespējams, jāpaziņo visām vekselī minētām personām."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "Trešā apakšnodaļa Nozudušie, nozagtie vai iznīcinātie vekseļi un protesta akti",
+      "section": "90",
+      "title": "90. Kad ierosināta uzaicinājuma izdarīšana, tiesa var piešķirt lūdzējam tiesību, maksāšanas termiņam iestājoties, prasīt samaksu no tratas pieņēmēja vai vienkāršā vekseļa devēja, ja lūdzējs dod nodrošinājumu uz laiku līdz vekseļa atzīšanai par anulētu. Nedodot nodrošinājumu, lūdzējam ir tikai tiesība prasīt, lai vekseļa summu uz viņa rēķinu nogulda tiesu depozītā. Vekseļa saistībā atbildīga persona, kas izpildījusi šo pieprasijumu, atbrīvojas no savas saistības.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "Trešā apakšnodaļa Nozudušie, nozagtie vai iznīcinātie vekseļi un protesta akti",
+      "section": "91",
+      "title": "91. Persona, uz kuras lūgumu anulēts vekselis, var izlietot pret atbildīgām personām no šā vekseļa izrietošās tiesības.",
+      "content": "Kad tiesas lēmums par vekseļa anulēšanu ir pārsūdzēts un atcelts, tad maksājumi, kurus ir izdarījusi uz šā lēmuma pamata atbildīgā persona, paliek joprojām spēkā pat pret trešām personām un īpaši pret to, kas pārsūdzējis lēmumu, ja vien atbildīgā persona, maksājumu izdarot, nav zinājusi par lēmuma atcelšanu."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "Trešā apakšnodaļa Nozudušie, nozagtie vai iznīcinātie vekseļi un protesta akti",
+      "section": "92",
+      "title": "92. Nozudušu vai iznīcinātu protesta aktu var atvietot ar apliecību par izdarīto protestu; šo apliecību izdod notārs, kas uzglabā apliecinātu protesta akta norakstu. Apliecībā jānorāda protesta akta un 87. pantā minēto atzīmju saturs.",
+      "content": "92. Nozudušu vai iznīcinātu protesta aktu var atvietot ar apliecību par izdarīto protestu; šo apliecību izdod notārs, kas uzglabā apliecinātu protesta akta norakstu. Apliecībā jānorāda protesta akta un 87. pantā minēto atzīmju saturs."
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "CETURTĀ NODAĻA Valsts nodeva (Nodaļa izslēgta no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "section": "93",
+      "title": "93. (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "content": "93. (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)"
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "CETURTĀ NODAĻA Valsts nodeva (Nodaļa izslēgta no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "section": "94",
+      "title": "94. (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "content": "94. (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)"
+    },
+    {
+      "provision_ref": "Art. 94.1",
+      "chapter": "CETURTĀ NODAĻA Valsts nodeva (Nodaļa izslēgta no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "section": "94.1",
+      "title": "94. 1 (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)",
+      "content": "94. 1 (Izslēgts no 01.10.2022. ar 16.06.2022 . likumu, kas stājas spēkā 20.07.2022. Sk. pārejas noteikumu 7. punktu)"
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "95",
+      "title": "95. Personas spēju uzņemties saistību pēc vekseļa noteic tās valsts likums, pie kuras viņa pieder. Ja šis likums norāda uz citas valsts likumu, tad jāpiemēro norādītais likums.",
+      "content": "Persona, kurai pēc šā ( 95. ) panta pirmā daļā minētā likuma nav spējas uzņemties saistību pēc vekseļa, kļūst tomēr atbildīga, ja paraksta vekseli tādas valsts teritorijā, pēc kuras likuma viņai ir attiecīga spēja. Šis noteikums nav jāpiemēro Latvijā, ja Latvijas pilsonis saistību pēc vekseļa uzņēmies ārzemēs."
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "96",
+      "title": "96. Saistībai pēc vekseļa izteikuma formu noteic tās valsts likums, kuras teritorijā izteikums parakstīts.",
+      "content": "Tomēr, ja pēc šā ( 96. ) panta pirmās daļas izteikums nav spēkā, bet saskan ar tās valsts likumu, kuras teritorijā parakstīts kāds vēlāk izdarītais*) izteikums, tad tas apstāklis, ka pirmam izteikumam ir formas trūkumi, neskar vēlākā izteikuma spēku.\n*) Pēc izlabojuma Vald. Vēstn. š. g. 227. numurā.\nLatvijas pilsoņa ārzemēs pēc vekseļa uzņemtā saistība ir spēkā attiecībā uz citiem Latvijas pilsoņiem Latvijas teritorijā, ja saistības izteikuma forma atbilst Latvijas likumam."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "97",
+      "title": "97. Tratas pieņēmēja un vienkārša vekseļa devēja saistību sekas noteic maksāšanas vietas likums.",
+      "content": "Pārējo uz vekseļa pamata atbildīgo personu parakstu sekas noteic tās valsts likums, kuras teritorijā ir doti šie paraksti."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "98",
+      "title": "98. Laiku regresa prasības izlietošanai visām uz vekseļa pamata saistītām personām noteic vekseļa izrakstīšanas vietas likums.",
+      "content": "98. Laiku regresa prasības izlietošanai visām uz vekseļa pamata saistītām personām noteic vekseļa izrakstīšanas vietas likums."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "99",
+      "title": "99. Tratas izrakstīšanas vietas likums noteic, vai tratas turētājs iegūst prasījumu, kas bijis par pamatu tratas izrakstīšanai.",
+      "content": "99. Tratas izrakstīšanas vietas likums noteic, vai tratas turētājs iegūst prasījumu, kas bijis par pamatu tratas izrakstīšanai."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "100",
+      "title": "100. Maksāšanas vietas likums noteic, vai tratas pieņemšanu var aprobežot ar summas daļu un vai tratas turētājam jāpieņem daļas samaksa.",
+      "content": "Tas pats noteikums jāpiemēro samaksai pēc vienkārša vekseļa."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "101",
+      "title": "101. Protesta formu un laiku protesta celšanai, tāpat arī citas tādas darbības formu, kas nepieciešama, lai izlietotu vai paturētu tiesību pēc vekseļa, noteic likums, kas ir spēkā tās valsts teritorijā, kurā izdarāms protests vai minētā darbība.",
+      "content": "101. Protesta formu un laiku protesta celšanai, tāpat arī citas tādas darbības formu, kas nepieciešama, lai izlietotu vai paturētu tiesību pēc vekseļa, noteic likums, kas ir spēkā tās valsts teritorijā, kurā izdarāms protests vai minētā darbība."
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "102",
+      "title": "102. Maksāšanas vietas likums noteic tos līdzekļus, kas izlietojami vekseļa nozušanas vai zādzības gadījumā.",
+      "content": "102. Maksāšanas vietas likums noteic tos līdzekļus, kas izlietojami vekseļa nozušanas vai zādzības gadījumā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn1",
+      "title": "1. Vekseļiem, kas izrakstīti pirms šā likuma spēkā stāšanās, pat ja uz tiem ir uzraksti, kas taisīti pēc šā likuma spēkā stāšanās, jāpiemēro Vekseļu nolikuma (1932. gada izd.) noteikumi. Izdarot protestu, aprēķinot protesta termiņus un anulējot nozudušos, nozagtos vai iznīcinātos vekseļus, jāpiemēro šā likuma noteikumi.",
+      "content": "1. Vekseļiem, kas izrakstīti pirms šā likuma spēkā stāšanās, pat ja uz tiem ir uzraksti, kas taisīti pēc šā likuma spēkā stāšanās, jāpiemēro Vekseļu nolikuma (1932. gada izd.) noteikumi. Izdarot protestu, aprēķinot protesta termiņus un anulējot nozudušos, nozagtos vai iznīcinātos vekseļus, jāpiemēro šā likuma noteikumi."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn2",
+      "title": "2. Ja šā likuma spēkā stāšanās dienā līdzšinējais noilguma termiņš nav notecējis, bet šis likums nosaka īsāku termiņu, tad jāpiemēro jaunais noilguma termiņš, to skaitot no šā likuma spēkā stāšanās dienas. Ja pēc šāda aprēķina noilguma laiks iznāk garāks par līdzšinējo noilguma termiņu, noilguma termiņš izbeidzas tanī dienā, kad tas būtu notecējis pēc Vekseļu nolikuma (1932. g. izd.).",
+      "content": "Ar šā likuma spēkā stāšanos atcelts Vekseļu nolikums (1932. g. izd.)."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn3",
+      "title": "3. Grozījumi šā likuma 1. panta pirmās daļas ievaddaļā un 3. punktā un šā likuma 10. 1 pants stājas spēkā 2022. gada 1. oktobrī.",
+      "content": "( 16.06.2022 . likuma redakcijā, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn4",
+      "title": "4. Fiziskās personas atbildību pēc tratas, kas izdota atbilstoši regulējumam, kurš bija spēkā līdz 2022. gada 30. septembrim, no 2022. gada 1. oktobra var prasīt tikai tiesas ceļā.",
+      "content": "( 16.06.2022 . likuma redakcijā, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn5",
+      "title": "5. Šā likuma 75. panta ceturtā daļa stājas spēkā 2022. gada 1. oktobrī.",
+      "content": "( 16.06.2022 . likuma redakcijā, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn6",
+      "title": "6. Atbildību pēc vienkāršā vekseļa, ko izdevusi vai kur par indosantu, galvinieku vai starpnieku uzstājusies fiziskā persona līdz 2022. gada 30. septembrim un kur vienkāršais vekselis neatbilst šā likuma 75. panta ceturtajā daļā noteiktajām formas prasībām, no 2022. gada 1. oktobra var prasīt tikai tiesas ceļā.",
+      "content": "( 16.06.2022 . likuma redakcijā, kas stājas spēkā 20.07.2022. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "PIEKTĀ NODAĻA Konfliktnormas",
+      "section": "pn7",
+      "title": "7. Grozījumi par šā likuma 1. panta pirmās daļas 10. punkta, 75. panta trešās daļas 11. punkta, 78. 3 panta un ceturtās nodaļas izslēgšanu stājas spēkā 2022. gada 1. oktobrī.",
+      "content": "( 16.06.2022 . likuma redakcijā, kas stājas spēkā 20.07.2022. )"
+    }
+  ],
+  "definitions": []
+}

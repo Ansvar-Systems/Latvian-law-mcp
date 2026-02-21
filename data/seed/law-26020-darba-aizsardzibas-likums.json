@@ -1,0 +1,474 @@
+{
+  "id": "lv-law-26020",
+  "type": "statute",
+  "title": "Darba aizsardzības likums",
+  "title_en": "Labour Protection Law",
+  "short_name": "TA-26020",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/26020-darba-aizsardzibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) darba aizsardzība — nodarbināto drošība un veselība darbā;\n2) darba aizsardzības pasākumi — preventīvi tiesiski, saimnieciski, sociāli, tehniski un organizatoriski pasākumi, kuru mērķis ir izveidot drošu un veselībai nekaitīgu darba vidi, kā arī novērst nelaimes gadījumus darbā un arodslimības;\n3) darba aizsardzības speciālists — uzņēmuma darbinieks vai dienesta attiecībās esoša persona, kuras pienākums ir organizēt un kontrolēt darba aizsardzības pasākumus un veikt darba vides iekšējo uzraudzību un kurš ir apmācīts Ministru kabineta noteiktajā kārtībā;\n4) darba aprīkojums — jebkura ierīce (mašīna, mehānisms), aparāts, darbarīks vai iekārta, ko lieto darbā;\n5) darba devējs — fiziskā persona, juridiskā persona vai tiesībspējīga personālsabiedrība, kura nodarbina vismaz vienu nodarbināto;\n6) darba vide — darba vieta ar tās fizikālajiem, ķīmiskajiem, psiholoģiskajiem, bioloģiskajiem, fizioloģiskajiem un citiem faktoriem, kuriem nodarbinātais pakļauts, veicot savu darbu;\n7) darba vides iekšējā uzraudzība — uzņēmuma darbības plānošana, organizēšana, īstenošana un vadīšana tādā veidā, lai garantētu drošu un veselībai nekaitīgu darba vidi;\n8) darba vides risks — varbūtība, ka nodarbināto drošībai vai veselībai darba vidē var rasties kaitējums, un šā kaitējuma iespējamā smaguma pakāpe;\n9) darba vieta — vieta, kurā nodarbinātais veic savu darbu, kā arī uzņēmuma ietvaros jebkura cita vieta, kura nodarbinātajam ir pieejama darba gaitā vai kur nodarbinātais strādā ar darba devēja atļauju vai rīkojumu;\n10) kompetenta institūcija — institūcija, kura uz attiecīga līguma pamata kā ārpakalpojuma sniedzējs veic darba vides iekšējo uzraudzību uzņēmumā un kuras kompetence darba aizsardzības jautājumos novērtēta Ministru kabineta noteiktajā kārtībā;\n11) kompetents speciālists — speciālists, kurš uz attiecīga līguma pamata kā ārpakalpojuma sniedzējs veic darba vides iekšējo uzraudzību uzņēmumā un kura kompetence darba aizsardzības jautājumos novērtēta Ministru kabineta noteiktajā kārtībā;\n12) konsultēšanās — viedokļu apmaiņa un dialoga veidošana starp nodarbināto pārstāvjiem un darba devēju, lai panāktu vienošanos;\n13) nodarbinātais — jebkura fiziskā persona, kuru nodarbina darba devējs, arī valsts civildienesta ierēdņi un personas, kuras nodarbinātas ražošanas vai mācību prakses laikā;\n14) nodarbināto pārstāvji — nodarbināto arodbiedrība, kuras vārdā rīkojas tās statūtos pilnvarota arodbiedrības institūcija vai amatpersona, un nodarbināto pilnvaroti pārstāvji, kuru pilnvarās neietilpst tās tiesības, kas ir vienīgi nodarbināto arodbiedrībām;\n15) nopietnas un tiešas briesmas — draudi nodarbinātā dzīvībai un veselībai, kas var rasties pēkšņi, īsā laika sprīdī un neatgriezeniski ietekmēt nodarbinātā veselību;\n16) preventīvie pasākumi — rīcība vai pasākumi, ko uzņēmumā veic vai plāno visos darba posmos, lai novērstu vai mazinātu darba vides risku;\n17) uzņēmums — organizatoriska vienība, kurā darba devējs nodarbina nodarbinātos;\n18) uzticības persona — nodarbināto ievēlēta persona, kura apmācīta Ministru kabineta noteiktajā kārtībā un pārstāv nodarbināto intereses darba aizsardzībā;\n19) īpašs risks — darba vides risks, kas saistīts ar tādu paaugstinātu psiholoģisko vai fizisko slodzi vai tādu paaugstinātu risku nodarbinātā drošībai un veselībai, ko nevar novērst vai līdz pieļaujamam līmenim samazināt ar citiem darba aizsardzības pasākumiem, kā vien saīsinot darba laiku, kurā nodarbinātais pakļauts šim riskam;\n20) attālinātais darbs — tāds darba izpildes veids, ka darbs, kuru nodarbinātais varētu veikt darba devēja uzņēmuma ietvaros, pastāvīgi vai regulāri tiek veikts ārpus uzņēmuma, tai skaitā darbs, ko veic, izmantojot informācijas un komunikācijas tehnoloģijas. Par attālināto darbu šā likuma izpratnē netiek uzskatīts darbs, kas tā rakstura dēļ ir saistīts ar regulāru pārvietošanos;\n21) pašnodarbinātais — fiziskā persona, kura veic darbu patstāvīgi un šā likuma izpratnē nav uzskatāma par nodarbināto;\n22) tieši draudi — darba vides risks, kas novedis vai var novest pie nodarbinātā nāves vai pie tā, ka viņa veselībai tiek nodarīti smagi traucējumi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir garantēt un uzlabot nodarbināto un pašnodarbināto drošību un veselības aizsardzību darbā, nosakot darba devēju, nodarbināto un viņu pārstāvju, pašnodarbināto, kā arī valsts institūciju pienākumus, tiesības un savstarpējās attiecības darba aizsardzībā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma piemērošanas joma",
+      "content": "Likums piemērojams visās nodarbinātības jomās, ja citos likumos nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Darba aizsardzības vispārīgie principi",
+      "content": "(1) Darba aizsardzības pasākumus darba devējs veic saskaņā ar šādiem darba aizsardzības vispārīgajiem principiem:\n1) darba vidi izveido tā, lai izvairītos no darba vides riska vai mazinātu nenovēršama darba vides riska ietekmi;\n2) novērš darba vides riska cēloņus;\n3) darbu pielāgo indivīdam, galvenokārt darba vietas iekārtojuma, darba aprīkojuma, kā arī darba un ražošanas metožu izvēles ziņā, īpašu uzmanību pievērš tam, lai atvieglotu vienmuļu darbu un darbu ar iepriekš noteiktu ritmu un mazinātu tā negatīvo ietekmi uz veselību;\n4) ņem vērā tehnikas, higiēnas un medicīnas attīstību;\n5) bīstamo aizstāj ar drošo vai mazāk bīstamo;\n6) izveido saskaņotu un visaptverošu darba aizsardzības pasākumu sistēmu;\n7) dod priekšroku kolektīvajiem darba aizsardzības pasākumiem salīdzinājumā ar individuālajiem darba aizsardzības pasākumiem;\n8) novērš darba vides riska ietekmi uz to nodarbināto drošību un veselību, kuriem saskaņā ar normatīvajiem aktiem noteikta īpaša aizsardzība;\n9) veic nodarbināto instruktāžu un apmācību darba aizsardzības jomā;\n10) darba aizsardzības jomā sadarbojas ar nodarbinātajiem un uzticības personām.\n(2) Pašnodarbinātajam, ievērojot šā panta pirmajā daļā noteiktos darba aizsardzības vispārīgos principus, ir pienākums rūpēties par savu drošību un veselību darbā, kā arī par to personu drošību un veselību, kuras ietekmē vai var ietekmēt viņa darbs."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "5",
+      "title": "Darba aizsardzības sistēmas organizēšana",
+      "content": "(1) Saskaņā ar darba aizsardzības vispārīgajiem principiem darba devējam ir pienākums organizēt darba aizsardzības sistēmu, kurā ietilpst:\n1) darba vides iekšējā uzraudzība, tai skaitā darba vides riska novērtēšana;\n2) darba aizsardzības organizatoriskās struktūras izveidošana;\n3) konsultēšanās ar nodarbinātajiem, lai viņus iesaistītu darba aizsardzības uzlabošanā.\n(2) Darba devējam ir pienākums nodrošināt darba aizsardzības sistēmas darbību uzņēmumā.\n(3) Ar darba aizsardzību saistītos izdevumus sedz darba devējs, kā arī likumā noteiktajā kārtībā — no darba negadījumu speciālā budžeta."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "6",
+      "title": "Darba devēja tiesības",
+      "content": "Organizējot darba aizsardzību uzņēmumā, darba devējam ir šādas tiesības:\n1) saskaņā ar likumu piemērot nodarbinātajiem disciplinārsodus par darba aizsardzības normatīvo aktu un citu darba aizsardzības noteikumu pārkāpumiem, kā arī darba devēja prasību neizpildi darba aizsardzības jautājumos;\n2) noteikt papildu apmācību darba aizsardzības jautājumos nodarbinātajam, kurš pārkāpis darba aizsardzības normatīvos aktus vai citus darba aizsardzības noteikumus, ja šāds pārkāpums nav radījis risku citu cilvēku drošībai un veselībai, apmācības laikā nodarbinātajam saglabājot minimālo darba algu;\n3) piemērot darba vides riska novērtēšanai metodi un standartus, kas atbilst uzņēmuma tehniskajiem un ekonomiskajiem resursiem, komercdarbības veidam un darba apstākļiem;\n4) noteikt nodarbinātajiem garantijas un atvieglojumus darba aizsardzības jomā papildus normatīvajos aktos noteiktajām garantijām un atvieglojumiem;\n5) ierosināt noslēgt vienošanos ar nodarbinātajiem darba aizsardzības pasākumu, tiem nepieciešamo līdzekļu apjoma un to izmantošanas kārtības noteikšanai saskaņā ar darba aizsardzības normatīvo aktu prasībām;\n6) apstrīdēt Valsts darba inspekcijas amatpersonu brīdinājumus, rīkojumus vai lēmumus likumā noteiktā kārtībā;\n7) izmantot informācijas tehnoloģiju risinājumus ar darba aizsardzību saistīto procesu dokumentēšanā, tai skaitā darba vides riska novērtēšanas rezultātu dokumentēšanā. Ar darba aizsardzību saistītos elektroniskos dokumentus paraksta atbilstoši elektroniskus dokumentus regulējošiem normatīvajiem aktiem. Darba devējs nodrošina valsts uzraudzības un kontroles iestādēm iespēju piekļūt ar darba aizsardzību saistītajiem elektroniskajiem dokumentiem un pārliecināties par to autentiskumu un integritāti. Strīda gadījumā darba devējam ir pienākums pierādīt, ka attiecībā uz elektronisko dokumentu un elektronisko parakstu ir ievērotas normatīvo aktu prasības."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "7",
+      "title": "Darba vides iekšējā uzraudzība",
+      "content": "(1) Darba devējs nodrošina darba vides iekšējo uzraudzību uzņēmumā.\n(2) (Izslēgta ar 03.10.2019 . likumu)\n(3) (Izslēgta ar 03.10.2019 . likumu)\n(4) Kārtību, kādā veicama darba vides iekšējā uzraudzība, tai skaitā darba vides riska novērtēšana, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "8",
+      "title": "Darba vides riska novērtēšana",
+      "content": "(1) Darba devējs novērtē darba vides risku šādā kārtībā:\n1) konstatē darba vides faktorus, kuri rada vai var radīt risku nodarbināto drošībai un veselībai;\n2) nosaka nodarbinātos vai citas personas, kuru drošība un veselība ir pakļauta darba vides riskam;\n3) izvērtē darba vides riska apjomu un raksturu;\n4) nosaka, kādi darba aizsardzības pasākumi (piemēram, individuālo aizsardzības līdzekļu izsniegšana, obligāto veselības pārbaužu veikšana, nodarbināto apmācība, darba aprīkojuma nomaiņa) ir nepieciešami, lai novērstu vai mazinātu darba vides risku.\n(1 1 ) Nodarbinātais, kurš veic attālināto darbu, sadarbojas ar darba devēju darba vides riska novērtēšanā un sniedz darba devējam informāciju par attālinātā darba vietas apstākļiem, kas, nodarbinātajam veicot darbu, var ietekmēt viņa drošību un veselību.\n(2) Darba vides riska novērtēšana uzņēmumā veicama atbilstoši katram tā darbības veidam. Ja darba apstākļi ir līdzīgi, pietiek ar darba vides riska novērtēšanu attiecībā uz vienu darba vietu vai darba veidu. Ja nodarbinātais attālināto darbu veic dažādās vietās, darba devējs darba vides riska novērtēšanu veic attiecībā uz konkrēto darba veidu, bet, ja nodarbinātais attālināto darbu veic pastāvīgi vienā vietā, darba devējs darba vides riska novērtēšanu veic attiecībā uz konkrēto darba vietu, ja darba devējs un nodarbinātais par to ir vienojušies. Darba vides riska novērtēšanā iesaista uzticības personu vai nodarbināto pārstāvi un nodarbināto, kurš pārzina konkrēto darba vietu.\n(3) Novērtējot darba vides risku, darba devējs ņem vērā, ka risku nodarbināto drošībai un veselībai galvenokārt var radīt:\n1) darba vietu izvietojums un iekārtojums;\n2) darba aprīkojuma izvēle un lietošana;\n3) fizikālo, ķīmisko, psiholoģisko, bioloģisko, fizioloģisko un citu darba vides faktoru iedarbība;\n4) darba un ražošanas metožu izvēle un lietošana, kā arī darba gaitas un darba laika organizācija;\n5) nepietiekama nodarbināto profesionālā sagatavotība un instruēšana, arī darba aizsardzības jomā;\n6) visu šajā panta daļā minēto apstākļu kopums.\n(4) (Izslēgta ar 25.03.2010 . likumu)\n(5) Darba devējs nodrošina darba vides riska novērtēšanas rezultātu dokumentēšanu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "9",
+      "title": "Darba aizsardzības organizatoriskā struktūra",
+      "content": "(1) Darba devējs, ņemot vērā uzņēmumā nodarbināto skaitu un darbības veidu, norīko vai pieņem darbā vienu vai vairākus darba aizsardzības speciālistus vai noslēdz līgumu ar kompetentu speciālistu vai kompetentu institūciju. Darba aizsardzības speciālistu, darba aizsardzības koordinatoru, darba devēju, nodarbināto un uzticības personu apmācības kārtību nosaka Ministru kabinets.\n(1 1 ) Ja uzņēmumā ir 250 vai vairāk nodarbināto un tas nodarbojas ar komercdarbības veidiem, kuros atbilstoši normatīvajiem aktiem darba devējam jāiesaista kompetenta institūcija, bet kuros, ievērojot normatīvajos aktos paredzēto izņēmumu, kompetentā institūcija nav iesaistīta, darba devējs norīko vai pieņem darbā vismaz divus darba aizsardzības speciālistus.\n(2) Darba devējs piešķir darba aizsardzības speciālistam un šā panta ceturtajā daļā minētajai kontaktpersonai nepieciešamos līdzekļus un laiku (darba laika ietvaros), lai viņš varētu veikt savus pienākumus. Nodarbinātā norīkošana par darba aizsardzības speciālistu nedrīkst radīt viņam nelabvēlīgas sekas vai kā citādi ierobežot viņa tiesības.\n(3) (Izslēgta ar 03.10.2019 . likumu)\n(4) Ja darba devējs darba aizsardzības sistēmas izveidē un uzturēšanā iesaista kompetentu institūciju vai kompetentu speciālistu, uzņēmumā norīko kontaktpersonu sadarbībai ar kompetento institūciju vai kompetento speciālistu. Darba devējs informē kompetento institūciju vai kompetento speciālistu par uzņēmuma darbību, darba aizsardzības pasākumiem un uzņēmumā pastāvošajiem darba vides riska faktoriem, kā arī sniedz citu informāciju, kura var būt noderīga darba vides iekšējās uzraudzības veikšanai un kuru pieprasa kompetentā institūcija vai kompetentais speciālists.\n(5) Tos komercdarbības veidus, kuros darba devējs iesaista kompetentu institūciju, šīs institūcijas iesaistīšanas kārtību, kā arī gadījumus, kad darba devējs, veicot minēto komercdarbību, drīkst neiesaistīt kompetentu institūciju, nosaka Ministru kabinets. Tas attiecas arī uz tiem darba devējiem, kuri nekomerciālos nolūkos vai sava uzņēmuma vajadzībām veic darbības, kas atbilst minētajiem komercdarbības veidiem.\n(6) Ministru kabinets nosaka prasības kompetentām institūcijām un kompetentiem speciālistiem darba aizsardzības jautājumos, kā arī kārtību, kādā tiek novērtēta šo institūciju un speciālistu kompetence.\n(7) Juridiskā persona ir tiesīga sniegt ar darba vides iekšējās uzraudzības veikšanu saistītus darba aizsardzības pakalpojumus tikai tad, ja tai piešķirts kompetentas institūcijas statuss."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "10",
+      "title": "Konsultēšanās, nodarbināto informēšana un līdzdalība darba aizsardzībā",
+      "content": "(1) Darba devēja pienākums ir darba aizsardzības jomā konsultēties ar nodarbinātajiem vai uzticības personām, kā arī nodrošināt uzticības personām iespēju piedalīties apspriedēs par jautājumiem, kas attiecas uz:\n1) pasākumiem, kuri var ietekmēt nodarbināto drošību un veselību;\n2) darba aizsardzības organizatoriskās struktūras izveidošanu un darbību;\n3) to nodarbināto norīkošanu, kuriem uzticēta pirmās palīdzības sniegšana, ugunsdzēsības un nodarbināto evakuācijas pasākumu veikšana;\n4) darba vides iekšējo uzraudzību, nodarbināto informēšanu par darba aizsardzību , arī gadījumos, kad darbs ir pie cita darba devēja vai vairākiem darba devējiem;\n5) instruktāžas un apmācības plānošanu un organizēšanu darba aizsardzības jomā;\n6) citiem darba aizsardzības jautājumiem.\n(2) Darba devējs informē nodarbinātos un uzticības personas par darba vides risku, par darba aizsardzības pasākumiem uzņēmumā kopumā un tiem darba aizsardzības pasākumiem, kas tieši attiecas uz katru darba vietu un darba veidu, kā arī par pasākumiem, kas veikti atbilstoši šā likuma 12.panta otrās daļas noteikumiem.\n(3) Darba devējs nodrošina, lai darba aizsardzības speciālistiem, uzticības personām un nodarbinātajiem būtu pieejama informācija par:\n1) darba vides riska novērtēšanas rezultātiem;\n2) darba devēja noteiktajiem darba aizsardzības pasākumiem un izmantojamiem aizsardzības līdzekļiem;\n3) nelaimes gadījumiem darbā un arodslimību gadījumiem;\n4) Valsts darba inspekcijas paskaidrojumiem, atzinumiem un norādījumiem darba aizsardzības jautājumos, kā arī par Valsts darba inspekcijas brīdinājumiem, rīkojumiem un lēmumiem, kas attiecas uz darba aizsardzības sistēmu uzņēmumā;\n5) citiem darba aizsardzības jautājumiem uzņēmumā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "11",
+      "title": "Aizsardzība pret nopietnām un tiešām briesmām",
+      "content": "(1) Darba devējs nodrošina, lai:\n1) nodarbinātie, kuriem saskaņā ar darba vides riska novērtējumu darbā var draudēt nopietnas un tiešas briesmas, nekavējoties tiktu informēti par šīm briesmām, kā arī par veiktajiem vai veicamajiem darba aizsardzības pasākumiem;\n2) darba vietas, kur saskaņā ar darba vides riska novērtējumu nodarbinātajiem darbā var draudēt nopietnas un tiešas briesmas, būtu pieejamas tikai tiem nodarbinātajiem, kuri instruēti vai apmācīti darba aizsardzības jomā, ņemot vērā attiecīgās darba vietas specifiku;\n3) gadījumā, kad nopietnas un tiešas briesmas apdraud nodarbināto un citu personu drošību un ar tiešo darba vadītāju vai darba aizsardzības speciālistu, uzticības personu vai darba devēju nav iespējams sazināties, — nodarbinātie atbilstoši savām zināšanām un viņu rīcībā esošajiem tehniskajiem līdzekļiem spētu veikt piemērotus pasākumus, kas ļautu izvairīties no šādām briesmām;\n4) nopietnu un tiešu briesmu gadījumā nodarbinātie spētu pārtraukt darbu un atstāt apdraudēto darba vietu.\n(2) Darba devējs nav tiesīgs prasīt, lai nodarbinātie atsāk darbu, ja nav veikti nepieciešamie pasākumi briesmu novēršanai."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "12",
+      "title": "Pirmā palīdzība un citi neatliekamie pasākumi",
+      "content": "(1) Darba devējs uzņēmumā nodrošina pasākumus, kas nepieciešami pirmās palīdzības sniegšanai, bīstamo iekārtu avārijas seku ierobežošanai vai likvidēšanai, ugunsdzēšanai, nodarbināto un citu personu evakuēšanai.\n(2) Darba devējs:\n1) nodrošina sazināšanos ar ārējiem dienestiem, īpaši ar dienestu, kas sniedz neatliekamo medicīnisko palīdzību un veic ugunsdzēsības un glābšanas darbus;\n2) norīko nodarbinātos, kuri apmācīti šā panta pirmajā daļā minēto pasākumu veikšanā, un nodrošina, lai šie nodarbinātie būtu pietiekamā skaitā, attiecīgi instruēti un apgādāti ar nepieciešamo aprīkojumu.\n(3) Kārtību, kādā nodrošināma apmācība pirmās palīdzības sniegšanā, nosaka Ministru kabinets.\n(4) Pirmās palīdzības sniegšanai nepieciešamo medicīnisko materiālu minimumu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "13",
+      "title": "Nelaimes gadījumu darbā un arodslimību izmeklēšana un uzskaite",
+      "content": "(1) Darba devējs nodrošina nelaimes gadījumu darbā izmeklēšanu un veic to uzskaiti. Nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtību nosaka Ministru kabinets.\n(2) Ministru kabinets nosaka arodslimību izmeklēšanas un uzskaites kārtību, arodslimību sarakstu, kā arī arodslimību izraisītājfaktoru un to pielietojuma kategoriju sarakstu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "14",
+      "title": "Nodarbināto un uzticības personu instruktāža un apmācība",
+      "content": "(1) Darba devējs nodrošina, lai ikviens nodarbinātais saņemtu instruktāžu un tiktu apmācīts darba aizsardzības jomā, kas tieši attiecas uz viņa darba vietu un darba veikšanu. Šādu instruktāžu un apmācību veic, uzsākot darbu, mainoties darba raksturam vai darba apstākļiem, ieviešot jaunu vai mainot iepriekšējo darba aprīkojumu un ieviešot jaunu tehnoloģiju. Nodarbināto instruktāžu un apmācību pielāgo darba vides riska pārmaiņām un periodiski atkārto.\n(2) Darba devējs nodrošina uzticības personu papildu apmācības uzsākšanu darba aizsardzības jomā mēneša laikā pēc to ievēlēšanas.\n(3) Uzticības personu papildu apmācība darba aizsardzības jomā veicama darba laikā. Izdevumus, kas saistīti ar papildu apmācību, sedz darba devējs.\n(4) Darba aizsardzības instrukcijām un apmācībai ir jābūt nodarbinātajiem saprotamai un piemērotai viņu profesionālajai sagatavotībai. Darba devējs pārliecinās par to, ka nodarbinātais ir sapratis darba aizsardzības instrukcijas un apmācību."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "15",
+      "title": "Obligāta veselības pārbaude",
+      "content": "(1) Darba devējs nodrošina obligātu veselības pārbaudi tiem nodarbinātajiem, kuru veselības stāvokli ietekmē vai var ietekmēt veselībai kaitīgie darba vides faktori, un tiem nodarbinātajiem, kuriem darbā ir īpaši apstākļi. Kārtību, kādā veicama obligātā veselības pārbaude, nosaka Ministru kabinets.\n(2) Izdevumus, kas saistīti ar nodarbināto obligātām veselības pārbaudēm, sedz darba devējs.\n(3) Izdevumus, kas saistīti ar obligātām veselības pārbaudēm pirms darba tiesisko vai valsts civildienesta tiesisko attiecību uzsākšanas, pēc savstarpējas vienošanās sedz attiecīgā persona no saviem līdzekļiem vai darba devējs."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "16",
+      "title": "Vairāku darba devēju sadarbība",
+      "content": "(1) Ja vienā darba vietā nodarbināti vairāku darba devēju nodarbinātie, darba devējiem, veicot darba aizsardzības pasākumus, ir pienākums sadarboties. Ņemot vērā darba raksturu un darba apstākļus, darba devēju pienākums ir saskaņot veicamos darba aizsardzības pasākumus un informēt citam citu, savus nodarbinātos un uzticības personas par darba vides risku, kā arī atbilstoši sniegt instruktāžu nodarbinātajiem.\n(2) Darba devējs veic nepieciešamos pasākumus, lai tā uzņēmumā no cita uzņēmuma iesaistīto nodarbināto darba devējs laikus (pirms šādas iesaistīšanas) saņemtu informāciju par darba vides risku, par darba aizsardzības pasākumiem uzņēmumā kopumā un tiem darba aizsardzības pasākumiem, kas tieši attiecas uz katru darba vietu un darba veidu, kā arī par pasākumiem, kas veikti atbilstoši šā likuma 12.panta otrās daļas noteikumiem.\n(3) Darba devējs nodrošina, lai tā uzņēmuma darbā iesaistītie cita darba devēja nodarbinātie saņemtu instruktāžu un vispārīgu informāciju par darba aizsardzību uzņēmumā pirms darba uzsākšanas un visā laikposmā, kad viņi tiek nodarbināti uzņēmumā.\n(4) Ja cita darba devēja nodarbinātie sniedz tādu specifisku pakalpojumu, kas parasti pie darba devēja kā pakalpojuma saņēmēja netiek veikts, instruktāžu nodrošina darba devējs, kura nodarbinātie sniedz attiecīgo specifisko pakalpojumu."
+    },
+    {
+      "provision_ref": "Art. 16.1",
+      "chapter": "II nodaļa Darba devēja pienākumi un tiesības",
+      "section": "16.1",
+      "title": "16. 1 pants. Pašnodarbināto drošība un veselības aizsardzība",
+      "content": "(1) Pakalpojuma saņēmējs, kas noslēdzis līgumu ar pašnodarbināto, nodrošina viņam tikpat drošu darba vidi kā savā uzņēmumā nodarbinātajiem, ja pašnodarbinātais veic darbu šā uzņēmuma darba vidē.\n(2) Pašnodarbinātajam, veicot darbu pakalpojuma saņēmēja uzņēmuma darba vidē, ir pienākums ievērot pakalpojuma saņēmēja norādījumus darba aizsardzības jautājumos un informēt pakalpojuma saņēmēju par sava darba specifiku, lietotajām metodēm un izmantoto aprīkojumu, ja tas var ietekmēt citu nodarbināto drošību un veselības aizsardzību.\n(3) Pakalpojuma saņēmējs, kas noslēdzis līgumu ar pašnodarbināto par darba veikšanu pakalpojuma saņēmēja uzņēmuma darba vidē, ir tiesīgs nepielaist viņu pie darba vai apturēt viņa darbu, ja konstatē, ka viņš pārkāpj darba aizsardzības noteikumus, tai skaitā noteikumus par darba aprīkojuma un individuālo aizsardzības līdzekļu lietošanu, vai apdraud savu vai citu personu drošību un veselību.\n(4) Ja pakalpojuma saņēmēja uzņēmuma darba vidē notiek nelaimes gadījums, kurā cieš pašnodarbinātais, tad pakalpojuma saņēmējs, kas noslēdzis līgumu ar viņu, noskaidro un izvērtē nelaimes gadījuma cēloņus, kā arī veic nepieciešamos preventīvos pasākumus līdzīgu nelaimes gadījumu novēršanai, ja tas var ietekmēt šajā uzņēmumā veicamo darbu.\n(5) Veicot darbu pakalpojuma saņēmēja uzņēmuma darba vidē, pašnodarbinātais ievēro šā likuma 17. pantā noteiktos nodarbinātā pienākumus, ciktāl tas nav pretrunā ar pašnodarbinātā statusu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Nodarbinātā un uzticības personas pienākumi un tiesības",
+      "section": "17",
+      "title": "Nodarbinātā pienākumi",
+      "content": "Nodarbinātajam darba aizsardzības jomā ir pienākums:\n1) rūpēties par savu drošību un veselību un to personu drošību un veselību, kuras ietekmē vai var ietekmēt nodarbinātā darbs;\n2) lietot darba aprīkojumu, bīstamas vielas, transportu un citus ražošanas līdzekļus saskaņā ar normatīvajos aktos noteikto dokumentāciju (ražotāja instrukcijas, ķīmisko vielu un maisījumu drošības datu lapas u.c.);\n3) lietot kolektīvos aizsardzības līdzekļus, kā arī viņa rīcībā nodotos individuālos aizsardzības līdzekļus saskaņā ar normatīvajos aktos noteikto dokumentāciju (ražotāja instrukcijas, ķīmisko vielu un maisījumu drošības datu lapas u.c.) un pēc lietošanas attiecīgos aizsardzības līdzekļus novietot tiem paredzētajā vietā;\n4) ievērot drošības zīmes, kā arī lietot drošības ierīces, ar ko apgādāts darba aprīkojums un darba vieta, saskaņā ar normatīvajos aktos noteikto dokumentāciju (ražotāja instrukcijas, ķīmisko vielu un maisījumu drošības datu lapas u.c.) un atturēties no attiecīgo drošības ierīču patvaļīgas iedarbināšanas, mainīšanas vai pārvietošanas;\n5) nekavējoties ziņot darba devējam, tiešajam darba vadītājam vai darba aizsardzības speciālistam par nelaimes gadījumu darbā, kā arī par jebkuriem darba vides faktoriem, kuri rada vai var radīt risku personu drošībai un veselībai, arī par trūkumiem uzņēmuma darba aizsardzības sistēmā;\n6) piedalīties darba devēja rīkotajās instruktāžās un apmācībās darba aizsardzības jomā;\n7) sadarboties ar darba devēju vai darba aizsardzības speciālistu, lai izpildītu prasības, kas ietvertas Valsts darba inspekcijas atzinumos, brīdinājumos, rīkojumos vai lēmumos par uzņēmuma darba aizsardzības sistēmu;\n8) sadarboties ar darba devēju vai darba aizsardzības speciālistu drošas darba vides un darba apstākļu nodrošināšanā, lai neradītu risku nodarbinātā drošībai un veselībai;\n9) apmeklēt obligātās veselības pārbaudes saskaņā ar darba devēja rīkojumu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Nodarbinātā un uzticības personas pienākumi un tiesības",
+      "section": "18",
+      "title": "Nodarbinātā tiesības atteikties no darba veikšanas un līdzdalība darba aizsardzības pasākumos",
+      "content": "(1) Nodarbinātajam ir tiesības atteikties no darba veikšanas, ja:\n1) attiecīgā darba veikšana rada vai var radīt risku nodarbinātā vai citu personu drošībai un veselībai un šāds risks nav novēršams citādā veidā;\n2) lietojamais darba aprīkojums vai darba vieta nav apgādāta ar nepieciešamajām drošības ierīcēm vai nodarbinātā rīcībā nav nodoti nepieciešamie individuālie aizsardzības līdzekļi;\n3) attiecīgā darba veikšana saistīta ar tāda darba aprīkojuma lietošanu, kas neatbilst nodarbinātā profesionālajai sagatavotībai vai darba devēja sniegtajai instruktāžai un apmācībai darba aizsardzības jomā;\n4) nav ievēroti Valsts darba inspekcijas brīdinājumi, rīkojumi vai lēmumi par darba aizsardzības organizāciju attiecīgajā darba vietā.\n(2) Par atteikšanos no darba veikšanas nodarbinātais nekavējoties paziņo tiešajam darba vadītājam vai darba aizsardzības speciālistam, vai darba devējam.\n(3) Nav pieļaujama nekādu nelabvēlīgu seku radīšana nodarbinātajiem par šajā pantā un šā likuma 11.panta pirmās daļas 4.punktā minēto rīcību, izņemot rupju neuzmanību vai gadījumus, kad darbinieki rīkojušies ar ļaunu nolūku.\n(4) Nodarbinātajam ir tiesības vērsties Valsts darba inspekcijā ar iesniegumu, ja viņš uzskata, ka darba devēja veiktie darba aizsardzības pasākumi, kā arī piešķirtie un izmantotie līdzekļi nav pietiekami, lai nodrošinātu nodarbināto drošību un veselības aizsardzību darbā.\n(5) Lai noteiktu darba aizsardzības pasākumus, tiem nepieciešamo līdzekļu apjomu un to izmantošanas kārtību saskaņā ar darba aizsardzības normatīvo aktu prasībām, nodarbinātie vai nodarbināto pārstāvji var ierosināt noslēgt vienošanos starp darba devēju un nodarbinātajiem."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Nodarbinātā un uzticības personas pienākumi un tiesības",
+      "section": "19",
+      "title": "Nodarbinātā tiesības uz atlīdzību, izbeidzot darba vai civildienesta attiecības sakarā ar drošības un veselības apdraudējumu darbā",
+      "content": "Ja nodarbinātais ir ziņojis darba devējam par darba vides faktoriem, kuri rada vai var radīt risku personu drošībai un veselībai, bet darba devējs neveic Valsts darba inspekcijas norādītos darba aizsardzības pasākumus tiešu draudu novēršanai, tādējādi apdraudot nodarbinātā drošību un veselību darbā, un nodarbinātais minētā iemesla dēļ vienpusēji izbeidz darba tiesiskās vai civildienesta attiecības, darba devējam ir pienākums izmaksāt nodarbinātajam atlīdzību, kas nav mazāka par sešu mēnešu vidējo izpeļņu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Nodarbinātā un uzticības personas pienākumi un tiesības",
+      "section": "20",
+      "title": "Nodarbināto pārstāvība darba aizsardzības jomā",
+      "content": "(1) Uzņēmumā vai tā struktūrvienībā, kurā nodarbināti pieci vai vairāki nodarbinātie, šie nodarbinātie vai viņu pārstāvji, ņemot vērā nodarbināto skaitu, uzņēmuma darbības raksturu un darba vides risku, var ievēlēt vienu vai vairākas uzticības personas. Nodarbinātā ievēlēšana par uzticības personu nedrīkst radīt viņam nelabvēlīgas sekas vai kā citādi ierobežot viņa tiesības.\n(2) Ja uzņēmumā vai tā struktūrvienībā ievēlētas vismaz divas uzticības personas, tās no sava vidus ievēlē galveno uzticības personu. Ja uzņēmumā ievēlētas vismaz 10 uzticības personas, tās izveido uzticības personu komiteju, kas koordinē uzticības personu darbību.\n(3) Darba devējs nodrošina uzticības personas ar nepieciešamajiem līdzekļiem, kā arī darba laika ietvaros piešķir tām laiku, kas uzticības personu pienākumu veikšanai noteikts koplīgumā vai citā rakstveida līgumā starp darba devēju un nodarbinātajiem, lai uzticības persona varētu īstenot savas tiesības un pienākumus darba aizsardzības jomā. Darba devējs izmaksā uzticības personām vidējo izpeļņu par šo laiku.\n(4) (Izslēgta ar 25.03.2010 . likumu)\n(5) Uzticības personu ievēlēšanas un darbības kārtību, ņemot vērā nodarbināto skaitu, uzņēmuma darbības raksturu un darba vides risku, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Nodarbinātā un uzticības personas pienākumi un tiesības",
+      "section": "21",
+      "title": "Uzticības personas līdzdalība darba vides iekšējā uzraudzībā",
+      "content": "(1) Uzticības persona līdzdarbojas darba vides iekšējās uzraudzības veikšanā, tai skaitā piedalās darba vides risku novērtēšanā, darba aizsardzības pasākumu plānošanā, nelaimes gadījumu darbā un arodslimību gadījumu izmeklēšanā, ražošanas iekārtu un objektu nodošanā ekspluatācijā un darba aprīkojuma atbilstības novērtēšanā, kā arī sadarbojas ar darba devēju un darba aizsardzības speciālistu darba apstākļu uzlabošanā uzņēmumā.\n(2) Pārstāvot nodarbināto intereses darba aizsardzības jomā, uzticības personai ir tiesības:\n1) brīvi izteikt pamatotu gan nodarbināto, gan savu viedokli par uzņēmuma darba aizsardzības sistēmu, tai skaitā darba vides iekšējo uzraudzību;\n2) saņemt no darba devēja informāciju, kas attiecas uz darba aizsardzības sistēmu uzņēmumā un ir nepieciešama uzticības personas pienākumu veikšanai;\n3) piekļūt darba vietām saskaņā ar uzņēmumā noteikto kārtību;\n4) ierosināt, lai darba devējs veic darba vides riska faktoru mērījumus, ja saņemtas nodarbināto sūdzības par veselībai kaitīgiem darba vides riska faktoriem;\n5) ierosināt veikt atkārtotu darba vides risku novērtēšanu darba vietās, kurās noticis nelaimes gadījums vai radušās nopietnas un tiešas briesmas nodarbinātā dzīvībai un veselībai;\n6) pieprasīt, lai darba devējs veic darba aizsardzības pasākumus, un izteikt priekšlikumus, kuru īstenošana novērstu vai mazinātu risku nodarbināto drošībai un veselībai;\n7) ierosināt, lai darba devējs noslēdz ar nodarbinātajiem vienošanos par darba aizsardzības pasākumu, tiem nepieciešamo līdzekļu un to izmantošanas kārtības noteikšanu saskaņā ar darba aizsardzības normatīvo aktu prasībām, kā arī piedalīties sarunās par darba koplīguma nosacījumiem un grozījumiem darba aizsardzības jomā;\n8) kopā ar Valsts darba inspekcijas amatpersonām piedalīties darba vietu pārbaudēs."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa Nodarbinātā un uzticības personas pienākumi un tiesības",
+      "section": "22",
+      "title": "Atvieglojumi",
+      "content": "Tiem nodarbinātajiem, kuriem saskaņā ar normatīvajiem aktiem noteikta īpaša aizsardzība (piemēram, personām līdz 18 gadu vecumam, grūtniecēm, sievietēm pēcdzemdību periodā, personām ar invaliditāti), atbilstoši darba vides riska novērtējumam, kā arī ārsta atzinumam ir tiesības uz darba devēja noteiktiem papildu atvieglojumiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Valsts kompetence darba aizsardzības jomā (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 03.10.2019 . likumu, kas stājas spēkā 01.07.2020. )",
+      "section": "23",
+      "title": "Valsts politika darba aizsardzības jomā",
+      "content": "(1) Valsts politika darba aizsardzības jomā ir vērsta uz preventīvu pasākumu veikšanu un pamatojas uz:\n1) nodarbinātā drošības un veselības aizsardzības prioritāti;\n2) valsts, pašvaldību, darba devēju organizāciju un nodarbināto arodbiedrību sadarbību darba aizsardzības jautājumos;\n3) darba aizsardzības jautājumu koordinēšanu ar citiem ekonomiskajiem un sociālajiem jautājumiem;\n4) zinātnisko pētījumu rezultātiem darba aizsardzības jomā;\n5) valsts līdzdalību darba aizsardzības pasākumu finansēšanā;\n6) drošu tehnoloģisko procesu, darba aprīkojuma, kolektīvo un individuālo aizsardzības līdzekļu projektēšanas, ražošanas un iegādes stimulēšanu;\n7) apmācību izglītības iestādēs darba aizsardzības jomā;\n8) valsts uzraudzību un kontroli darba aizsardzības jomā;\n9) nodarbināto sociālo aizsardzību sakarā ar nelaimes gadījumiem darbā un arodslimībām;\n10) Eiropas Savienības un Starptautiskās darba organizācijas prasībām;\n11) starptautisku sadarbību darba aizsardzības jomā.\n(2) Darba aizsardzības pasākumu veikšana no valsts budžeta finansētās iestādēs tiek nodrošināta gadskārtējā valsts budžeta likumā noteikto līdzekļu ietvaros."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Valsts kompetence darba aizsardzības jomā (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 03.10.2019 . likumu, kas stājas spēkā 01.07.2020. )",
+      "section": "24",
+      "title": "Valsts pārvalde darba aizsardzības jomā",
+      "content": "(1) Valsts pārvaldi darba aizsardzības jomā īsteno Ministru kabinets un tā uzdevumā — Labklājības ministrija.\n(2) Labklājības ministrija:\n1) izstrādā valsts politiku darba aizsardzības jomā un koordinē tās īstenošanu;\n2) koordinē valsts pārvaldes institūciju darbību darba aizsardzības jautājumos;\n3) pārrauga Valsts darba inspekcijas darbību;\n4) izstrādā un saskaņo Nacionālajā trīspusējās sadarbības padomē nacionālās programmas darba aizsardzības jomā;\n5) izstrādā un saskaņo Nacionālajā trīspusējās sadarbības padomē darba aizsardzības normatīvos aktus;\n6) koordinē darba aizsardzības jautājumu iekļaušanu starptautiskajos līgumos;\n7) nosaka valsts statistiskās uzskaites un statistisko pārskatu sistēmu darba aizsardzības jomā pēc saskaņošanas ar Centrālo statistikas pārvaldi.\n(3) Izglītības un zinātnes ministrija likumā noteiktajā kārtībā izstrādā darba aizsardzības speciālistu un uzticības personu sagatavošanas programmu (izņemot studiju programmas) paraugus un apmācības programmu paraugus darba aizsardzības jomā.\n(4) Valsts pārvaldes institūcijas atbilstoši savai darbības jomai izstrādā projektus darba aizsardzības normatīvajiem aktiem, kurus izdod Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Valsts kompetence darba aizsardzības jomā (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 03.10.2019 . likumu, kas stājas spēkā 01.07.2020. )",
+      "section": "25",
+      "title": "Pilnvarojums Ministru kabinetam izdot noteikumus par darba aizsardzību",
+      "content": "Ministru kabinets izdod noteikumus par darba aizsardzības prasībām:\n1) darba vietās;\n2) lietojot darba aprīkojumu;\n3) lietojot individuālos aizsardzības līdzekļus;\n4) strādājot ar displeju;\n5) pārvietojot smagumus;\n6) veicot būvdarbus;\n7) drošības zīmju lietošanā;\n8) derīgo izrakteņu ieguvē, tos izurbjot;\n9) virszemes un apakšzemes derīgo izrakteņu ieguvē;\n10) darbā uz zvejas kuģiem;\n11) saskaroties ar ķīmiskām vielām;\n12) saskaroties ar bioloģiskām vielām;\n13) attiecībā uz trokšņa līmeni darbā;\n14) darbā ar azbestu;\n15) attiecībā uz medicīnisko aprūpi uz kuģiem;\n16) saskaroties ar kancerogēnām vielām;\n17) strādājot augstumā;\n18) attiecībā uz citām prasībām, ko regulē Eiropas Savienības direktīvas darba aizsardzībā;\n19) veicot darbus mežsaimniecībā."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Uzraudzība, kontrole un atbildība darba aizsardzības jomā",
+      "section": "26",
+      "title": "Valsts uzraudzība un kontrole darba aizsardzības jomā",
+      "content": "Valsts uzraudzību un kontroli darba aizsardzības jomā veic Valsts darba inspekcija un citas normatīvajos aktos pilnvarotas institūcijas atbilstoši savai kompetencei."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Uzraudzība, kontrole un atbildība darba aizsardzības jomā",
+      "section": "27",
+      "title": "Darba devēja un citu personu atbildība",
+      "content": "(1) Darba devējs ir atbildīgs par nodarbināto drošību un veselību darbā.\n(2) Darba devēja atbildību neierobežo nodarbināto un kompetentu institūciju vai kompetentu speciālistu pienākumi darba aizsardzības jomā.\n(3) Savas kompetences ietvaros par nodarbināto drošību un veselību darbā atbild arī darba devēja — juridiskās personas — pārraudzības institūcija vai izpildinstitūcija, persona, kura ir īpaši pilnvarota pārstāvēt personālsabiedrību, un citas normatīvajos aktos noteiktā kārtībā pilnvarotas personas."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Uzraudzība, kontrole un atbildība darba aizsardzības jomā",
+      "section": "28",
+      "title": "Atbildība par likuma pārkāpumiem",
+      "content": "Par darba aizsardzības normatīvo aktu pārkāpumiem vainīgās personas saucamas pie likumā noteiktās atbildības."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "29",
+      "title": "Darba vides riska novērtējuma neveikšana vai darba aizsardzības pasākumu plāna neizstrādāšana",
+      "content": "Par darba vides riska novērtējuma neveikšanu vai darba aizsardzības pasākumu plāna neizstrādāšanu vai tā neatbilstību darba aizsardzību regulējošo normatīvo aktu prasībām piemēro brīdinājumu vai naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz divsimt divdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "30",
+      "title": "Nodarbināšana bez obligātās veselības pārbaudes",
+      "content": "Par nodarbināšanu bez obligātās veselības pārbaudes, ja normatīvajos aktos tā paredzēta, piemēro brīdinājumu vai naudas sodu darba devējam fiziskajai personai no četrpadsmit līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz simt četrdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "31",
+      "title": "Darbā notikuša nelaimes gadījuma neizmeklēšana",
+      "content": "Par darbā notikuša nelaimes gadījuma neizmeklēšanu atbilstoši normatīvo aktu prasībām vai slēpšanu piemēro brīdinājumu vai naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no divdesmit astoņām līdz simt naudas soda vienībām, bet juridiskajai personai — no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "32",
+      "title": "Tāda darbā notikuša nelaimes gadījuma neizmeklēšana, kura rezultātā nodarbinātajam radušies smagi veselības traucējumi vai iestājusies viņa nāve",
+      "content": "Par tāda darbā notikuša nelaimes gadījuma neizmeklēšanu atbilstoši normatīvo aktu prasībām vai slēpšanu, kura rezultātā nodarbinātajam radušies smagi veselības traucējumi vai iestājusies viņa nāve, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no simt līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no četrsimt divdesmit līdz astoņsimt sešdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "33",
+      "title": "Drošības zīmju nelietošana un to atbilstoša neizvietošana darba vidē",
+      "content": "Par drošības zīmju nelietošanu un to atbilstošu neizvietošanu darba vidē, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "34",
+      "title": "Nodarbināto nenodrošināšana ar darbam nepieciešamajiem individuālajiem aizsardzības līdzekļiem",
+      "content": "Par nodarbināto nenodrošināšanu ar darbam nepieciešamajiem individuālajiem aizsardzības līdzekļiem, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "35",
+      "title": "Neatbilstoša darba aprīkojuma lietošana vai drošības prasību neievērošana",
+      "content": "Par darba aizsardzību regulējošo normatīvo aktu prasībām neatbilstoša darba aprīkojuma lietošanu vai drošības prasību neievērošanu, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "36",
+      "title": "Nodarbināto neinstruēšana vai apmācības neveikšana jautājumos par nodarbinātā drošību un veselību darbā",
+      "content": "Par nodarbināto neinstruēšanu vai apmācības neveikšanu jautājumos par nodarbinātā drošību un veselību darbā, ja tas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "37",
+      "title": "Citu darba aizsardzību regulējošo normatīvo aktu pārkāpšana, kas rada tiešus draudus nodarbināto drošībai un veselībai",
+      "content": "Par tādu darba aizsardzību regulējošo normatīvo aktu pārkāpšanu, kuri rada tiešus draudus nodarbināto drošībai un veselībai, izņemot šā likuma 33. , 34. , 35. un 36. pantā minētos pārkāpumus, piemēro naudas sodu darba devējam vai darbaspēka nodrošināšanas pakalpojumu saņēmējam fiziskajai personai no simt līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divsimt astoņdesmit līdz piecsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "38",
+      "title": "Darba aizsardzības pakalpojumu sniegšana, pārkāpjot normatīvajos aktos kompetentiem speciālistiem un kompetentām institūcijām noteiktās prasības",
+      "content": "Par darba aizsardzības pakalpojumu sniegšanu, pārkāpjot normatīvajos aktos kompetentiem speciālistiem un kompetentām institūcijām noteiktās prasības, izņemot šā likuma 39. pantā minētos pārkāpumus, vai par darba aizsardzības pakalpojumu sniegšanu bez kompetenta speciālista sertifikāta vai kompetentas institūcijas kvalitātes sistēmas sertifikāta piemēro naudas sodu fiziskajai personai no septiņdesmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no simt piecdesmit līdz piecsimt astoņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "39",
+      "title": "Neatbilstoša darba vides iekšējā uzraudzība, sniedzot darba aizsardzības pakalpojumus",
+      "content": "(1) Par darba aizsardzību regulējošo normatīvo aktu prasībām neatbilstošu darba vides iekšējo uzraudzību, tai skaitā riska novērtēšanu, ko veicis kompetentais speciālists vai kompetentā institūcija, piemēro brīdinājumu vai naudas sodu fiziskajai personai no divdesmit astoņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.\n(2) Par darba aizsardzību regulējošo normatīvo aktu prasībām neatbilstošu darba vides iekšējo uzraudzību, tai skaitā riska novērtēšanu, ko veicis kompetentais speciālists vai kompetentā institūcija, vai par normatīvajos aktos kompetentiem speciālistiem un kompetentām institūcijām noteikto prasību pārkāpšanu, kas rada tiešus draudus nodarbināto drošībai un veselībai, piemēro naudas sodu kompetentam speciālistam no simt līdz simt četrdesmit naudas soda vienībām, bet kompetentai institūcijai — no divsimt astoņdesmit līdz astoņsimt sešdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "40",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 29. , 30. , 31. , 32. , 33. , 34. , 35. , 36. , 37. , 38. un 39. pantā minētajiem pārkāpumiem veic Valsts darba inspekcija."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par darba aizsardzību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 20.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 8.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par darba aizsardzību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 20.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 8.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2002.gada 30.jūnijam izdod šā likuma 7. , 8. , 9. , 12. , 13. , 15. , 20. un 25.pantā minētos noteikumus.",
+      "content": "2. Ministru kabinets līdz 2002.gada 30.jūnijam izdod šā likuma 7. , 8. , 9. , 12. , 13. , 15. , 20. un 25.pantā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn3",
+      "title": "3. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk par 2002.gada 30.jūniju, piemērojami šādi Ministru kabineta noteikumi:",
+      "content": "1) 2001.gada 3.aprīļa noteikumi nr.153 \" Darba drošības un veselības aizsardzības noteikumi, strādājot ar displeju un iekārtojot darbstaciju \";\n2) 2001.gada 13.februāra noteikumi nr.72 \" Darba drošības un veselības aizsardzības prasības, strādājot ar ķīmiskajām vielām un ķīmiskajiem produktiem darba vietās \";\n3) 2000.gada 19.septembra noteikumi nr.318 \" Noteikumi par darba drošības un veselības aizsardzības organizēšanas un darba vietu iekārtošanas prasībām būvlaukumos \";\n4) 2000.gada 2.maija noteikumi nr.167 \" Ar Iekšlietu ministrijas sistēmas iestāžu darbiniekiem notikušo nelaimes gadījumu izmeklēšanas un uzskaites kārtība \";\n5) 2000.gada 25.aprīļa noteikumi nr.159 \" Noteikumi par individuālo aizsardzības līdzekļu lietošanu darbā \";\n6) 2000.gada 8.februāra noteikumi nr.44 \" Noteikumi par minimālajām darba drošības un veselības aizsardzības prasībām darba aprīkojuma lietošanā \";\n7) 1999.gada 3.augusta noteikumi nr.270 \" Noteikumi par darba drošības un veselības aizsardzības prasībām, pārvietojot smagumus \";\n8) 1998.gada 22.decembra noteikumi nr.470 \" Nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtība \";\n9) 1998.gada 25.augusta noteikumi nr.317 \" Noteikumi par darbinieku drošību un veselības aizsardzību darbā ar azbestu \";\n10) 1998.gada 25.augusta noteikumi nr.318 \" Prasības drošības zīmju lietošanai darba vietās \";\n11) 1994.gada 4.oktobra noteikumi nr.201 \"Par grozījumiem Ministru kabineta 1994.gada 22.februāra noteikumos nr.53 \" Par darba aizsardzības, drošības tehnikas un bīstamo iekārtu tehniskās uzraudzības normatīvo aktu izstrādāšanas un apstiprināšanas kārtību \"\";\n12) 1994.gada 22.februāra noteikumi nr.53 \" Par darba aizsardzības, drošības tehnikas un bīstamo iekārtu tehniskās uzraudzības normatīvo aktu izstrādāšanas un apstiprināšanas kārtību \"."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2002.gada 31.decembrim izstrādā noteikumus par:",
+      "content": "1) darba drošības un veselības aizsardzības prasībām darbā uz zvejas kuģiem;\n2) darba drošības un veselības aizsardzības prasībām attiecībā uz medicīnisko aprūpi uz kuģiem;\n3) nodarbināto drošību un veselības aizsardzību darbā sprādzienbīstamā vidē."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn5",
+      "title": "5. Izglītības un zinātnes ministrija līdz 2002.gada 1.martam izstrādā šā likuma 24.panta trešajā daļā minēto programmu paraugus.",
+      "content": "5. Izglītības un zinātnes ministrija līdz 2002.gada 1.martam izstrādā šā likuma 24.panta trešajā daļā minēto programmu paraugus."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn6",
+      "title": "6. Veselības ministrija izstrādā un Ministru kabinets līdz 2005.gada 30.jūnijam izdod šā likuma 12.panta ceturtajā daļā minētos noteikumus.",
+      "content": "( 16.12.2004 . likuma redakcijā, kas stājas spēkā 11.01.2005. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn7",
+      "title": "7. Labklājības ministrija izstrādā un Ministru kabinets izdod šā likuma 13.pantā minētos noteikumus. Līdz to spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 30.jūnijam piemērojami Ministru kabineta 2002.gada 9.jūlija noteikumi Nr.293 \" Nelaimes gadījumu darbā izmeklēšanas un uzskaites kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 16.12.2004 . likuma redakcijā, kas stājas spēkā 11.01.2005. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn8",
+      "title": "8. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā sešus mēnešus no šā likuma 9.panta pirmās daļas jaunās redakcijas spēkā stāšanās dienas tiek piemēroti Ministru kabineta 2003.gada 17.jūnija noteikumi Nr.323 “ Noteikumi par apmācību darba aizsardzības jautājumos ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 25.03.2010 . likuma redakcijā, kas stājas spēkā 28.04.2010. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VI nodaļa Administratīvie pārkāpumi darba aizsardzības jomā un kompetence administratīvo pārkāpumu procesā ( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn9",
+      "title": "9. Šā likuma VI nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 31.10.2019 . likuma redakcijā, kas stājas spēkā 03.12.2019. )\n( 25.03.2010 . likuma redakcijā, kas stājas spēkā 28.04.2010. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "darba aizsardzība",
+      "definition": "nodarbināto drošība un veselība darbā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba aizsardzības pasākumi",
+      "definition": "preventīvi tiesiski, saimnieciski, sociāli, tehniski un organizatoriski pasākumi, kuru mērķis ir izveidot drošu un veselībai nekaitīgu darba vidi, kā arī novērst nelaimes gadījumus darbā un arodslimības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba aizsardzības speciālists",
+      "definition": "uzņēmuma darbinieks vai dienesta attiecībās esoša persona, kuras pienākums ir organizēt un kontrolēt darba aizsardzības pasākumus un veikt darba vides iekšējo uzraudzību un kurš ir apmācīts Ministru kabineta noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba aprīkojums",
+      "definition": "jebkura ierīce (mašīna, mehānisms), aparāts, darbarīks vai iekārta, ko lieto darbā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba devējs",
+      "definition": "fiziskā persona, juridiskā persona vai tiesībspējīga personālsabiedrība, kura nodarbina vismaz vienu nodarbināto",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba vide",
+      "definition": "darba vieta ar tās fizikālajiem, ķīmiskajiem, psiholoģiskajiem, bioloģiskajiem, fizioloģiskajiem un citiem faktoriem, kuriem nodarbinātais pakļauts, veicot savu darbu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba vides iekšējā uzraudzība",
+      "definition": "uzņēmuma darbības plānošana, organizēšana, īstenošana un vadīšana tādā veidā, lai garantētu drošu un veselībai nekaitīgu darba vidi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba vides risks",
+      "definition": "varbūtība, ka nodarbināto drošībai vai veselībai darba vidē var rasties kaitējums, un šā kaitējuma iespējamā smaguma pakāpe",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba vieta",
+      "definition": "vieta, kurā nodarbinātais veic savu darbu, kā arī uzņēmuma ietvaros jebkura cita vieta, kura nodarbinātajam ir pieejama darba gaitā vai kur nodarbinātais strādā ar darba devēja atļauju vai rīkojumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kompetenta institūcija",
+      "definition": "institūcija, kura uz attiecīga līguma pamata kā ārpakalpojuma sniedzējs veic darba vides iekšējo uzraudzību uzņēmumā un kuras kompetence darba aizsardzības jautājumos novērtēta Ministru kabineta noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kompetents speciālists",
+      "definition": "speciālists, kurš uz attiecīga līguma pamata kā ārpakalpojuma sniedzējs veic darba vides iekšējo uzraudzību uzņēmumā un kura kompetence darba aizsardzības jautājumos novērtēta Ministru kabineta noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konsultēšanās",
+      "definition": "viedokļu apmaiņa un dialoga veidošana starp nodarbināto pārstāvjiem un darba devēju, lai panāktu vienošanos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodarbinātais",
+      "definition": "jebkura fiziskā persona, kuru nodarbina darba devējs, arī valsts civildienesta ierēdņi un personas, kuras nodarbinātas ražošanas vai mācību prakses laikā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodarbināto pārstāvji",
+      "definition": "nodarbināto arodbiedrība, kuras vārdā rīkojas tās statūtos pilnvarota arodbiedrības institūcija vai amatpersona, un nodarbināto pilnvaroti pārstāvji, kuru pilnvarās neietilpst tās tiesības, kas ir vienīgi nodarbināto arodbiedrībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nopietnas un tiešas briesmas",
+      "definition": "draudi nodarbinātā dzīvībai un veselībai, kas var rasties pēkšņi, īsā laika sprīdī un neatgriezeniski ietekmēt nodarbinātā veselību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "preventīvie pasākumi",
+      "definition": "rīcība vai pasākumi, ko uzņēmumā veic vai plāno visos darba posmos, lai novērstu vai mazinātu darba vides risku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uzņēmums",
+      "definition": "organizatoriska vienība, kurā darba devējs nodarbina nodarbinātos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uzticības persona",
+      "definition": "nodarbināto ievēlēta persona, kura apmācīta Ministru kabineta noteiktajā kārtībā un pārstāv nodarbināto intereses darba aizsardzībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "īpašs risks",
+      "definition": "darba vides risks, kas saistīts ar tādu paaugstinātu psiholoģisko vai fizisko slodzi vai tādu paaugstinātu risku nodarbinātā drošībai un veselībai, ko nevar novērst vai līdz pieļaujamam līmenim samazināt ar citiem darba aizsardzības pasākumiem, kā vien saīsinot darba laiku, kurā nodarbinātais pakļauts šim riskam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "attālinātais darbs",
+      "definition": "tāds darba izpildes veids, ka darbs, kuru nodarbinātais varētu veikt darba devēja uzņēmuma ietvaros, pastāvīgi vai regulāri tiek veikts ārpus uzņēmuma, tai skaitā darbs, ko veic, izmantojot informācijas un komunikācijas tehnoloģijas. Par attālināto darbu šā likuma izpratnē netiek uzskatīts darbs, kas tā rakstura dēļ ir saistīts ar regulāru pārvietošanos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pašnodarbinātais",
+      "definition": "fiziskā persona, kura veic darbu patstāvīgi un šā likuma izpratnē nav uzskatāma par nodarbināto",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tieši draudi",
+      "definition": "darba vides risks, kas novedis vai var novest pie nodarbinātā nāves vai pie tā, ka viņa veselībai tiek nodarīti smagi traucējumi.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": "lv-law-16470",
+  "type": "statute",
+  "title": "Par konsolidētajiem gada pārskatiem",
+  "short_name": "TA-16470",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/16470-par-konsolidetajiem-gada-parskatiem",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) (izslēgts ar 20.11.2003 . likumu) ;\n2) būtiska ietekme — uzņēmuma ietekme uz citu uzņēmumu, kas tiek nodrošināta ar ne mazāk kā 20, bet ne vairāk par 50 procentiem no akcionāru vai dalībnieku balsstiesībām šajā uzņēmumā;\n3) konsolidācija — koncerna uzņēmumu gada pārskatu apvienošana, izmantojot īpašas, šajā likumā noteiktas konsolidācijas metodes;\n4) konsolidētais gada pārskats — koncerna gada pārskats, kas, izmantojot īpašas, šajā likumā noteiktas konsolidācijas metodes, sagatavots kā viena atsevišķa uzņēmuma gada pārskats un sniedz informāciju par visu koncernu kopumā kā par vienu uzņēmumu;\n5) konsolidētais ziņojums — koncerna ziņojums par konsolidācijā iesaistīto uzņēmumu kā kopuma attīstību pārskata gadā;\n6) mazākumakcionāri — koncerna meitas uzņēmuma akcionāri vai dalībnieki, kuri nav ne koncerna mātes uzņēmuma akcionāri vai dalībnieki, ne arī citi konsolidācijā iesaistītie meitas uzņēmumi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir noteikt vispārīgos konsolidēto gada pārskatu sagatavošanas noteikumus, konsolidācijā iesaistāmos uzņēmumus, kā arī konsolidētā gada pārskata un konsolidētā ziņojuma sagatavošanas, pārbaudes, apstiprināšanas un publicēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbība",
+      "content": "(1) Šis likums attiecas uz Latvijā reģistrētajiem uzņēmumiem likuma \" Par uzņēmumu gada pārskatiem \" izpratnē, ja tie ir koncerna mātes uzņēmumi.\n(2) Šis likums neattiecas uz bankām, apdrošināšanas komercsabiedrībām akciju sabiedrību formā, savstarpējās apdrošināšanas kooperatīvajām biedrībām, privātajiem pensiju fondiem, ieguldījumu brokeru sabiedrībām un ieguldījumu pārvaldes sabiedrībām.\n(3) Šis likums neattiecas uz iestādēm, kuras tiek finansētas no valsts budžeta vai pašvaldību budžetiem.\n(4) Komercsabiedrība, kura veic pārapdrošināšanu, sagatavo konsolidēto gada pārskatu, ievērojot Finanšu un kapitāla tirgus komisijas noteikumus, kas ir saistoši apdrošināšanas komercsabiedrībām akciju sabiedrības formā attiecībā uz konsolidētā gada pārskata sagatavošanu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Pienākums sagatavot konsolidēto gada pārskatu",
+      "content": "Koncerna mātes uzņēmumam ir pienākums sagatavot konsolidēto gada pārskatu par katru pārskata gadu, ja šis mātes uzņēmums tieši vai netieši (ar viena vai vairāku šā koncerna meitas uzņēmumu līdzdalību) ir ieguvis ietekmi pēc vismaz viena no šādiem nosacījumiem:\n1) tam ir akcionāru vai dalībnieku balsstiesību vairākums (vairāk par 50 procentiem balsstiesību), kas pamatojas uz kapitāla līdzdalību attiecīgajā meitas uzņēmumā (neatkarīgi no šīs līdzdalības daļas lieluma);\n2) tam ir tiesības iecelt vai atcelt meitas uzņēmuma pārraudzības institūcijas vai izpildinstitūcijas locekļu vairākumu (vairāk par 50 procentiem locekļu skaita), pamatojoties uz kapitāla līdzdalību attiecīgajā meitas uzņēmumā (neatkarīgi no šīs līdzdalības daļas lieluma);\n3) tam ir tiesības izmantot šā panta 1. vai 2.punktā minētās tiesības, pamatojoties uz līgumu, kas noslēgts ar citiem meitas uzņēmuma akcionāriem vai dalībniekiem vai saskaņā ar šā uzņēmuma statūtiem (neatkarīgi no tā, vai mātes uzņēmumam ir kapitāla līdzdalības daļas šajā uzņēmumā vai nav)."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Balsstiesību, pārraudzības institūcijas un izpildinstitūcijas locekļu skaita aprēķināšana",
+      "content": "Šā likuma 4.pantā minēto balsstiesību, pārraudzības institūcijas un izpildinstitūcijas locekļu skaitu aprēķina šādi:\n1) koncerna mātes uzņēmuma akcionāru vai dalībnieku balsstiesību, pārraudzības institūciju un izpildinstitūciju locekļu skaitu saskaita kopā attiecīgi ar to balsstiesību, pārraudzības institūciju un izpildinstitūciju locekļu skaitu, kas ir citiem šā koncerna meitas uzņēmumiem vai personām, kuras darbojas savā vārdā, bet koncerna mātes uzņēmuma vai šā koncerna meitas uzņēmumu labā;\n2) koncerna meitas uzņēmuma akcionāru vai dalībnieku balsstiesību kopskaitu samazina par balsstiesībām, kas attiecas uz tādām akcijām vai daļām:\na) kuras pieder mazākumakcionāriem un tiek izmantotas pašu šo mazākumakcionāru labā,\nb) kuras tiek turētas kā saistību nodrošinājums tādā apjomā, kādā balsstiesības tiek izmantotas tās personas labā, kurai sniegts saistību nodrošinājums, vai saskaņā ar aizdevuma devēja nosacījumiem,\nc) kuru turētājs ir pats attiecīgais meitas uzņēmums vai tā meitas uzņēmums, vai persona, kura darbojas savā vārdā, bet pašas attiecīgā meitas uzņēmuma vai tā meitas uzņēmuma labā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Par konsolidētā gada pārskata sagatavošanu atbildīgās personas",
+      "content": "Par konsolidētā gada pārskata sagatavošanu koncerna mātes uzņēmumā ir atbildīga tā persona vai institūcija, kura saskaņā ar likumu \" Par uzņēmumu gada pārskatiem \" ir atbildīga par attiecīgā mātes uzņēmuma gada pārskata sagatavošanu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Konsolidācijā iesaistāmie uzņēmumi",
+      "content": "(1) Sagatavojot konsolidēto gada pārskatu, konsolidācijā iesaistāmi koncerna mātes uzņēmums un visi tā meitas uzņēmumi, izņemot meitas uzņēmumus, kurus saskaņā ar šā likuma 10.pantu neiesaista konsolidācijā.\n(2) Šā likuma izpratnē par koncerna mātes uzņēmuma meitas uzņēmumu uzskata arī ikvienu šā koncerna meitas uzņēmuma meitas uzņēmumu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Atbrīvojums no pienākuma sagatavot konsolidēto gada pārskatu",
+      "content": "(1) Šā likuma 3.panta pirmajā daļā minētais koncerna mātes uzņēmums ir atbrīvots no pienākuma sagatavot konsolidēto gada pārskatu, ja tas kopā ar saviem meitas uzņēmumiem saskaņā ar visu minēto uzņēmumu gada pārskatiem divus gadus pēc kārtas nepārsniedz vismaz divus no šādiem kritērijiem:\n1) bilances kopsumma — 1 000 000 latu;\n2) neto apgrozījums — 2 400 000 latu;\n3) vidējais darbinieku skaits pārskata gadā — 250.\n(2) Šā panta pirmās daļas 1.punktā minētā bilances kopsumma ir likuma \" Par uzņēmumu gada pārskatiem \" 10.pantā norādītā aktīva posteņu kopsumma. Šā panta pirmās daļas 3.punktā minētais vidējais darbinieku skaits aprēķināms, saskaitot pārskata gada katra mēneša pēdējā datumā uzņēmumā strādājošos (ar nodokļu grāmatiņu vai nodokļu karti) darbiniekus un iegūto kopsummu izdalot ar mēnešu skaitu pārskata gadā.\n(3) Šajā pantā paredzēto atbrīvojumu nepiemēro, ja koncerna mātes uzņēmuma vai tā meitas uzņēmuma akcijas ir iekļautas Rīgas Fondu biržā (vai Eiropas Savienības Fondu biržā) kotējamo vērtspapīru sarakstos."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "9",
+      "title": "Atbrīvojums koncerna mātes uzņēmumam, kurš pats ir cita koncerna meitas uzņēmums, no pienākuma sagatavot konsolidēto gada pārskatu",
+      "content": "(1) Šā likuma 3.panta pirmajā daļā minētais koncerna mātes uzņēmums, kas vienlaikus pats ir cita koncerna meitas uzņēmums, ir atbrīvots no pienākuma sagatavot konsolidēto gada pārskatu, ja tā mātes uzņēmums ir Latvijā reģistrēts uzņēmums, kurš atbilst vismaz vienam no šādiem nosacījumiem:\n1) tam pieder visas (100 procenti) šajā pantā noteiktajā kārtībā no konsolidētā gada pārskata sagatavošanas pienākuma atbrīvotā uzņēmuma akcijas vai daļas;\n2) tam pieder vismaz 90 procenti šajā pantā noteiktajā kārtībā no konsolidētā gada pārskata sagatavošanas pienākuma atbrīvotā uzņēmuma akciju vai daļu, un pārējie šā uzņēmuma akcionāri vai dalībnieki (mazākumakcionāri) ir piekrituši minētā atbrīvojuma piemērošanai.\n(2) Šajā pantā paredzēto atbrīvojumu piemēro saskaņā ar šādiem nosacījumiem:\n1) no konsolidētā gada pārskata sagatavošanas pienākuma atbrīvotajam koncerna mātes uzņēmumam un visiem tā meitas uzņēmumiem jābūt iekļautiem tā mātes uzņēmuma konsolidētajā gada pārskatā, kurš ir Latvijā reģistrēts uzņēmums, un šim pārskatam jābūt pārbaudītam un publicētam atbilstoši šā likuma prasībām;\n2) no konsolidētā gada pārskata sagatavošanas pienākuma atbrīvotā koncerna mātes uzņēmuma gada pārskata pielikumā jābūt tā mātes uzņēmuma identifikācijas datiem (nosaukums, juridiskā adrese un reģistrācijas numurs Uzņēmumu reģistrā vai komercreģistrā) un informācijai par to, ka uzņēmums ir atbrīvots no pienākuma sagatavot konsolidēto gada pārskatu.\n(3) Šajā pantā paredzēto atbrīvojumu nepiemēro, ja koncerna mātes uzņēmuma vai tā meitas uzņēmuma akcijas ir iekļautas Rīgas Fondu biržā (vai Eiropas Savienības Fondu biržā) kotējamo vērtspapīru sarakstos."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "10",
+      "title": "Koncerna meitas uzņēmuma neiesaistīšana konsolidācijā",
+      "content": "(1) Koncerna meitas uzņēmumu konsolidācijā var neiesaistīt, ja pastāv vismaz viens no šādiem apstākļiem:\n1) stingri ilglaicīgi ierobežojumi būtiski apgrūtina tā mātes uzņēmuma iespējas realizēt savas tiesības attiecībā uz šā uzņēmuma mantu un vadību;\n2) konsolidētā gada pārskata sagatavošanai nepieciešamo informāciju iespējams iegūt, vienīgi kavējot šā likuma 34. un 35.pantā noteiktos termiņus un ar pārmērīgi lielām izmaksām;\n3) koncerna meitas uzņēmuma akcijas vai daļas tā mātes uzņēmumā atrodas īslaicīgi, ir parādītas apgrozāmo līdzekļu sastāvā un tiek turētas, lai 12 mēnešu laikā no iegādes brīža tās pārdotu.\n(2) Koncerna meitas uzņēmumu konsolidācijā var neiesaistīt, ja informācija par šo uzņēmumu ir nenozīmīga šā likuma 13.panta pirmās daļas prasību īstenošanai. Tomēr, ja vienā un tajā pašā koncernā ir vairāki šādi meitas uzņēmumi un tie ir nozīmīgi kā kopums, kuru izslēdzot no konsolidācijas netiktu sniegts patiess un skaidrs priekšstats par šā koncerna darbības rezultātiem un finansiālo stāvokli, tad tos izslēgt no konsolidācijas nav atļauts."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "11",
+      "title": "Koncerna meitas uzņēmumu izslēgšana no konsolidācijas",
+      "content": "(Izslēgts ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )"
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "12",
+      "title": "Konsolidētā gada pārskata saturs",
+      "content": "(1) Konsolidētais gada pārskats kā vienots kopums sastāv no konsolidētajiem finanšu pārskatiem — konsolidētās bilances, konsolidētā peļņas vai zaudējumu aprēķina, konsolidētā pašu kapitāla izmaiņu pārskata, konsolidētā naudas plūsmas pārskata un konsolidētā gada pārskata pielikuma —, kuriem pievienots konsolidētais ziņojums.\n(2) Konsolidētajā gada pārskatā lietojama Latvijas naudas vienība — lats un skaitļi noapaļojami līdz veseliem skaitļiem. Konsolidēto gada pārskatu sagatavo latviešu valodā.\n(3) Konsolidēto gada pārskatu sagatavo skaidri, pārskatāmi un atbilstoši likumam \" Par grāmatvedību \" un šim likumam."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "13",
+      "title": "Patiess un skaidrs priekšstats",
+      "content": "(1) Konsolidētajam gada pārskatam jāsniedz patiess un skaidrs priekšstats par koncerna līdzekļiem, saistībām, finansiālo stāvokli un peļņu vai zaudējumiem.\n(2) Ja atbilstoši šim likumam sagatavotā konsolidētajā gada pārskatā ietvertā informācija nedod pietiekami patiesu un skaidru priekšstatu par koncernu, jāsniedz papildu informācija.\n(3) Lai par koncernu sniegtu patiesu un skaidru priekšstatu šā panta pirmās daļas izpratnē, izņēmuma gadījumos var atkāpties no šā likuma 14. , 16. , 17. , 18. , 19. , 21. , 22. , 23. , 24. , 25. , 26. , 27. , 28. , 29. un 30.panta prasībām. Katrs šāds atkāpšanās gadījums jāpaskaidro konsolidētā gada pārskata pielikumā , norādot minētās atkāpšanās iemeslu un ietekmi uz koncerna līdzekļiem, saistībām, finansiālo stāvokli, peļņu un zaudējumiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "14",
+      "title": "Konsolidēto finanšu pārskatu shēmas",
+      "content": "(1) Konsolidēto bilanci sagatavo atbilstoši likuma \" Par uzņēmumu gada pārskatiem \" 10.pantā norādītajai shēmai, ņemot vērā šā likuma 18. , 19. un 23.pantā norādītos posteņus. Konsolidētā peļņas vai zaudējumu aprēķina sagatavošanai var izvēlēties vienu no likuma \" Par uzņēmumu gada pārskatiem \" 11. , 12. , 13. un 14.pantā norādītajām shēmām, ņemot vērā šā likuma 23. , 27. un 29.pantā norādītos posteņus.\n(2) Konsolidētā peļņas vai zaudējumu aprēķina shēmu nākamajā gadā drīkst mainīt tikai izņēmuma gadījumos, ja to prasa īpaši apstākļi un ja pēc vienas un tās pašas shēmas aprēķins ir sagatavots vismaz divus gadus pēc kārtas. Maiņas iemeslu paskaidro konsolidētā gada pārskata pielikumā .\n(3) Konsolidēto pašu kapitāla izmaiņu pārskatu un konsolidēto naudas plūsmas pārskatu sagatavo saskaņā ar Ministru kabineta noteiktajiem obligāti piemērojamiem Latvijas grāmatvedības standartiem.\n(4) Konsolidētās bilances un konsolidētā peļņas vai zaudējumu aprēķina posteņiem piemēro likuma \" Par uzņēmumu gada pārskatiem \" 6. , 7. , 8. , 9. , 15. , 16. , 17. , 18. , 19. , 20. , 20. 1 , 20. 2 , 21. , 22. un 23.panta prasības.\n(5) Izņēmuma gadījumos konsolidētajā bilancē drīkst apvienot krājumu posteņus, ja šāda apvienošana ir pamatota ar īpašiem apstākļiem, kuros krājumu sadalīšana pa atsevišķiem posteņiem saistīta ar pārmērīgi lielām izmaksām."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "15",
+      "title": "Konsolidācijas metodes",
+      "content": "(Izslēgts ar 26.05.2005 . likumu, kas stājas spēkā 24.06.2005. )"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "16",
+      "title": "Konsolidācijā iesaistīto uzņēmumu gada pārskatu apvienošanas kārtība",
+      "content": "(1) Konsolidēto gada pārskatu sagatavo, ar konsolidācijas metodēm apvienojot koncerna mātes uzņēmuma gada pārskatā un konsolidācijā iesaistīto meitas uzņēmumu gada pārskatos attiecīgajos posteņos norādītās līdzekļu, saistību, pašu kapitāla, ieņēmumu un izdevumu (izmaksu) summas. Konsolidācijā iesaistīto uzņēmumu gada bilanču aktīva un pasīva posteņus pilnībā iekļauj konsolidētajā bilancē. Šo uzņēmumu peļņas un zaudējumu aprēķina posteņus pilnībā ietver konsolidētajā peļņas un zaudējumu aprēķinā.\n(2) Lai konsolidētais gada pārskats būtu sagatavots kā viena atsevišķa uzņēmuma gada pārskats, ievēro šādu konsolidācijas procedūru:\n1) koriģē koncerna meitas uzņēmumu gada pārskatus, kuros izmantotas citādas grāmatvedības metodes un citi novērtēšanas noteikumi;\n2) pārrēķina latos ārvalstīs reģistrēto koncerna meitas uzņēmumu gada pārskatus;\n3) savstarpēji izslēdz koncerna mātes uzņēmuma ieguldījuma vērtību un tai atbilstošo līdzdalības daļas vērtību meitas uzņēmuma pašu kapitālā (pašu kapitāla konsolidācija);\n4) pilnībā izslēdz konsolidācijā iesaistīto uzņēmumu savstarpējo darījumu rezultātus (ieņēmumu un izmaksu koriģēšana) un savstarpējo norēķinu atlikumu summas;\n5) izslēdz vēl neiegūto (nerealizējušos) peļņu, kas radusies no konsolidācijā iesaistīto uzņēmumu savstarpējiem darījumiem un ietverta līdzekļu vērtībā;\n6) izslēdz vēl neesošos (nerealizējušos) zaudējumus, kuri radušies no konsolidācijā iesaistīto uzņēmumu savstarpējiem darījumiem un par kuru summu ir samazināta līdzekļu uzskaites vērtība;\n7) nosaka mazākumakcionāru līdzdalības daļu pilnā konsolidācijā iesaistīto meitas uzņēmumu pašu kapitālā un neto ienākumos.\n(3) Konsolidētos gada pārskatus pamato ar aprēķiniem un tabulām, kuru sagatavošanā ievēro likuma \" Par grāmatvedību \" 6. , 7. un 10.pantā attaisnojuma dokumentiem un grāmatvedības reģistriem noteiktās prasības. Minēto aprēķinu un tabulu glabāšanas laiks ir 10 gadi."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "17",
+      "title": "Koncerna meitas uzņēmumu gada pārskata koriģēšana, ja izmantotas citādas grāmatvedības metodes un citi novērtēšanas noteikumi",
+      "content": "(1) Sagatavojot konsolidēto gada pārskatu, posteņu novērtēšanā koncerna ietvaros izmanto vienas un tās pašas grāmatvedības metodes un vienus un tos pašus novērtēšanas noteikumus, kas paredzēti likuma \" Par uzņēmumu gada pārskatiem \" 25. , 26. , 27. , 28. , 29. , 30. , 31. , 32. , 35. , 36. , 37. , 55. 1 , 55. 2 , 55. 3 un 55. 5 pantā .\n(2) Ja, sagatavojot gada pārskatu, koncerna meitas uzņēmums izmanto citādas grāmatvedības metodes un citus novērtēšanas noteikumus, nevis tos, kurus piemēro koncerna mātes uzņēmums, šā koncerna meitas uzņēmuma gada pārskatu koncerna mātes uzņēmums, sagatavojot konsolidēto gada pārskatu, attiecīgi koriģē.\n(3) Ja aprēķināt korekciju summas faktiski nav iespējams, to norāda konsolidētā gada pārskata pielikumā , sniedzot informāciju arī par tādu meitas uzņēmumu īpatsvaru konsolidētajā gada pārskatā, kuriem izmantotas citādas grāmatvedības metodes un citi novērtēšanas noteikumi.\n(4) Šajā pantā noteiktajā kārtībā aprēķinātās korekciju summas apmērā attiecīgi palielina vai samazina koncerna meitas uzņēmuma bilances posteņu vērtību un koriģē attiecīgos peļņas un zaudējumu aprēķina posteņus."
+    },
+    {
+      "provision_ref": "Art. 17.1",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "17.1",
+      "title": "17. 1 pants. Atļauja sagatavot konsolidētos gada pārskatus saskaņā ar starptautiskajiem grāmatvedības standartiem",
+      "content": "Pamatojoties uz Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulas (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu (turpmāk— regula) 5.pantu, koncerna mātes uzņēmumi var sagatavot konsolidētos gada pārskatus saskaņā ar starptautiskajiem grāmatvedības standartiem, kas ieviesti saskaņā ar regulas 6.panta 2.punktā noteikto procedūru. Šiem koncerna mātes uzņēmumiem atļauts atkāpties no šā likuma 14.panta trešās un ceturtās daļas, 17.panta pirmās daļas, kā arī 27. , 28. un 29.panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "18",
+      "title": "Ārvalstīs reģistrēto koncerna meitas uzņēmumu gada pārskatu pārrēķināšana latos",
+      "content": "(1) Lai konsolidētajā gada pārskatā iekļautu ārvalstīs reģistrēto koncerna meitas uzņēmumu, ārvalstu valūtā sagatavoto šā meitas uzņēmuma gada pārskatu pārrēķina latos. Izdarot pārrēķinus, ievēro šādus noteikumus:\n1) aktīvus un pasīvus (līdzekļus, saistības un pašu kapitālu) pārrēķina latos pēc Latvijas Bankas noteiktā ārvalstu valūtas kursa pārskata gada pēdējā dienā;\n2) ieņēmumus un izdevumus (izmaksas) pārrēķina latos pēc Latvijas Bankas noteiktā ārvalstu valūtas kursa darījuma dienā. Par darījuma dienu uzskatāma attiecīgi naudas saņemšanas vai maksāšanas diena, preču un pakalpojumu pirkšanas vai pārdošanas diena, kā arī jebkura cita diena, kurā faktiski tiek iegūti vai atsavināti līdzekļi (rodas vai izbeidzas saistības) un tiek pārņemti vai nodoti visi ar īpašumu saistītie riski.\n(2) Šā panta pirmās daļas 2.punktā minēto ieņēmumu un izdevumu (izmaksu) pārrēķināšanai latos drīkst izmantot nedēļas, mēneša vai pārskata gada vidējo kursu, kas aprēķināts, saskaitot visās attiecīgā laikposma kalendāra dienās spēkā esošo Latvijas Bankas noteikto attiecīgās ārvalstu valūtas kursu un iegūto kopsummu dalot ar attiecīgā laikposma kalendāra dienu skaitu.\n(3) Ja šajā pantā noteiktās pārrēķināšanas rezultātā izveidojas bilances vai peļņas un zaudējumu aprēķina posteņu vērtības starpības, tās norāda tieši konsolidētajās rezervēs. Konsolidētajā bilancē minētajās rezervēs ietvertās pozitīvās vai negatīvās starpības var norādīt atsevišķā postenī \"Ārvalstu valūtas pārrēķināšanas rezerve\" vai kopējā konsolidēto rezervju summā, ietverot šīs summas sadalījumu konsolidētā gada pārskata pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "19",
+      "title": "Pašu kapitāla konsolidācija",
+      "content": "(1) Saskaņā ar šā likuma 16.panta otrās daļas 3.punkta prasībām savstarpēji izslēdz koncerna mātes uzņēmuma ieguldījuma vērtību ikvienā konsolidācijā iesaistītā meitas uzņēmumā un tai atbilstošās līdzdalības daļas vērtību katra šāda meitas uzņēmuma pašu kapitālā.\n(2) Šā panta pirmajā daļā minēto savstarpējo izslēgšanu veic, pamatojoties uz konsolidācijā iesaistīto meitas uzņēmumu akciju vai daļu vērtību datumā, kurš atbilst vienam no šādiem nosacījumiem:\n1) tas ir datums, kad meitas uzņēmums pirmo reizi tika iesaistīts konsolidācijā;\n2) tas ir šo meitas uzņēmuma akciju vai daļu iegādes (pirkšanas) datums;\n3) tas ir datums, ar kuru šis uzņēmums ir kļuvis par koncerna meitas uzņēmumu [ja šā meitas uzņēmuma akcijas vai daļas ir iegādātas (pirktas) dažādos datumos]. Konsolidētā gada pārskata pielikumā norāda vērtības noteikšanas datumu.\n(3) Savstarpējās izslēgšanas rezultātā radušos pozitīvo starpību iegrāmato, attiecīgi palielinot vai samazinot konsolidētās bilances posteņu vērtību, ja šī vērtība ir augstāka vai zemāka par sākotnēji bilancē norādīto vērtību. Ja nav iespējams minēto starpību pilnībā attiecināt uz konsolidētās bilances posteņiem, jebkuru atlikušo summu norāda atsevišķā postenī \"Uzņēmuma nemateriālā vērtība\" šīs bilances aktīvā. Radušos negatīvo starpību nekavējoties iekļauj peļņas vai zaudējumu aprēķinā.\n(4) Konsolidētā gada pārskata pielikumā sniedz informāciju par izmantotajām metodēm, postenī \"Uzņēmuma nemateriālā vērtība\" ietverto summu un tās izmaiņām salīdzinājumā ar iepriekšējo pārskata gadu.\n(5) Konsolidētās bilances postenī \"Uzņēmuma nemateriālā vērtība\" norādīto summu pēc sākotnējās uzskaites novērtē izmaksās, no kurām atskaitīti uzkrātie zaudējumi no vērtības samazināšanās.\n(6) (Izslēgta ar 26.05.2005 . likumu.)\n(7) Šajā pantā noteikto kārtību nepiemēro koncerna mātes uzņēmuma akcijām vai daļām, kas atrodas šā mātes uzņēmuma paša vai kāda konsolidācijā iesaistītā meitas uzņēmuma īpašumā. Konsolidētajā bilancē šādas akcijas un daļas norāda postenī \"Pašu akcijas un daļas\"."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "20",
+      "title": "Pašu kapitāla konsolidācija, izmantojot interešu saplūšanas metodi",
+      "content": "(Izslēgts ar 26.05.2005 . likumu, kas stājas spēkā 24.06.2005. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "21",
+      "title": "Ieņēmumu un izmaksu koriģēšana",
+      "content": "(1) No konsolidētā peļņas un zaudējumu aprēķina posteņiem izslēdz konsolidācijā iesaistīto uzņēmumu savstarpējo darījumu rezultātā iegūtos ieņēmumus un ar šiem ieņēmumiem saistītās izmaksas, šajos uzņēmumos aprēķinātās un uz konsolidācijā iesaistītajiem uzņēmumiem attiecinātās dividendes, procentu ieņēmumus un maksājumus un tamlīdzīgas izmaksas, kā arī būtiskus ieņēmumus un izdevumus, kas attiecas uz citu pārskata gadu un ir parādīti kā ārkārtas ieņēmumi vai ārkārtas izmaksas.\n(2) Īpašos gadījumos drīkst atkāpties no šā panta pirmās daļas prasībām, ja konsolidācijā iesaistīto uzņēmumu savstarpējo darījumu rezultātā radušās ieņēmumu un izmaksu summas ir tik mazas, ka arī bez to izslēgšanas ir iespējams sniegt patiesu un skaidru priekšstatu par koncerna darbības rezultātiem (ieņēmumiem, izdevumiem un peļņu vai zaudējumiem)."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "22",
+      "title": "Savstarpējo norēķinu atlikumu summu un līdzekļu vērtības koriģēšana",
+      "content": "(1) No konsolidētās bilances posteņiem izslēdz šādas konsolidācijā iesaistīto uzņēmumu savstarpējo darījumu rezultātā iegrāmatotās summas:\n1) savstarpējo norēķinu atlikumu summas (arī par dividendēm), kuras ietvertas debitoru un kreditoru parādu, kā arī uzkrājumu posteņos;\n2) uz citiem pārskata periodiem attiecinātās ieņēmumu un izdevumu summas, kuras ietvertas nākamo periodu ieņēmumu vai nākamo periodu izmaksu posteņos;\n3) pamatlīdzekļu, krājumu un citu līdzekļu vērtības pieauguma vai samazinājuma summas, kuras ietvertas attiecīgos bilances aktīva un peļņas un zaudējumu aprēķina posteņos.\n(2) Īpašos gadījumos drīkst atkāpties no šā panta pirmās daļas prasībām, ja konsolidācijā iesaistīto uzņēmumu savstarpējo darījumu rezultātā radušās savstarpējo norēķinu atlikumu summas vai līdzekļu vērtības pieauguma vai samazinājuma summas ir tik mazas, ka arī bez to izslēgšanas ir iespējams sniegt patiesu un skaidru priekšstatu par koncerna līdzekļiem, saistībām un finansiālo stāvokli. Ja šāda atkāpšanās attiecas uz šā panta pirmās daļas 3.punktu, tas jāpaskaidro konsolidētā gada pārskata pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "23",
+      "title": "Mazākumakcionāru līdzdalības daļas atspoguļošana",
+      "content": "(1) Konsolidācijā iesaistīto meitas uzņēmumu pašu kapitāla attiecīgo daļu tādā apmērā, kādā tā attiecas uz akcijām un daļām, kuras pieder mazākumakcionāriem, norāda atsevišķā pašu kapitāla postenī \"Mazākumakcionāru līdzdalības daļa\".\n(2) Konsolidācijā iesaistīto meitas uzņēmumu pārskata gada peļņu vai zaudējumus, kas attiecas uz akcijām un daļām, kuras pieder mazākumakcionāriem, norāda konsolidētā peļņas vai zaudējumu aprēķina atsevišķā postenī \"Mazākumakcionāru peļņas vai zaudējumu daļa\"."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "24",
+      "title": "Konsolidētā gada pārskata bilances datums",
+      "content": "(1) Konsolidētā gada pārskata, koncerna mātes uzņēmuma gada pārskata un konsolidācijā iesaistīto meitas uzņēmumu gada pārskatu bilances datumiem jābūt vienādiem, un tos datē ar to pašu dienu, kad sagatavots mātes uzņēmuma gada pārskats.\n(2) Ja konsolidācijā iesaistītā koncerna meitas uzņēmuma gada pārskata bilances datums atšķiras no mātes uzņēmuma gada pārskata bilances datuma par trim mēnešiem un vairāk, šādu meitas uzņēmumu iesaista konsolidācijā, pamatojoties uz konsolidācijai īpaši sagatavotiem finanšu pārskatiem, kuru bilances datums atbilst konsolidētā gada pārskata bilances datumam."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "25",
+      "title": "Koncerna meitas uzņēmuma atsavināšana vai likvidācija",
+      "content": "(1) Atsavinātā vai likvidētā koncerna meitas uzņēmuma darbības rezultātus iekļauj konsolidētajā peļņas un zaudējumu aprēķinā līdz šā uzņēmuma atsavināšanas vai likvidācijas dienai, t.i., līdz datumam, ar kuru izbeidzas koncerna mātes uzņēmuma izšķirošā ietekme uz meitas uzņēmumu.\n(2) Starpību starp ieņēmumiem no koncerna meitas uzņēmuma atsavināšanas vai likvidācijas un atsavinātā vai likvidētā uzņēmuma līdzekļiem uzskaites vērtībā [atskaitot tā saistības pēc stāvokļa atsavināšanas (likvidācijas) dienā] norāda konsolidētajā peļņas un zaudējumu aprēķinā kā peļņu vai zaudējumus no meitas uzņēmuma atsavināšanas vai likvidācijas."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "26",
+      "title": "Koncerna sastāva izmaiņas",
+      "content": "(1) Ja pārskata gada laikā konsolidācijā iesaistīto uzņēmumu sastāvā ir notikušas nozīmīgas izmaiņas, konsolidētajā gada pārskatā iekļauj informāciju, kas ļauj šo pārskatu salīdzināt ar iepriekšējo gadu konsolidētajiem pārskatiem.\n(2) Īpašos gadījumos (ja pārskata gadā konsolidācijā iesaistīto uzņēmumu sastāva izmaiņas ir ievērojamas) šā panta pirmajā daļā minētās prasības izpildei drīkst sagatavot koriģētu sākuma bilanci un koriģētu peļņas un zaudējumu aprēķinu."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "27",
+      "title": "Konsolidācijas rezultātā aprēķinātās nodokļu izmaksu starpības atspoguļošana",
+      "content": "(1) Atbilstoši šim likumam sagatavotā konsolidētajā gada pārskatā norādītais peļņas vai zaudējumu apmērs pirms nodokļiem var būt zemāks vai augstāks par konsolidācijā iesaistīto uzņēmumu peļņas vai zaudējumu kopsummu. Tādā gadījumā nodokļu izmaksas par kārtējo pārskata gadu vai par iepriekšējiem pārskata gadiem koriģē, izdarot ierakstu atbilstoši vienam no šādiem nosacījumiem:\n1) konsolidētās bilances aktīva postenī \"Nākamo periodu izmaksas\" — ja nodokļu izmaksas ir pārāk augstas salīdzinājumā ar šo uzņēmumu gada rezultātiem;\n2) konsolidētās bilances pasīva postenī \"Uzkrājumi paredzamajiem nodokļiem\" — ja nodokļu izmaksas ir pārāk zemas salīdzinājumā ar šo uzņēmumu gada rezultātiem.\n(2) Korekcijas veic tādā apmērā, kādā ir sagaidāms, ka konsolidācijas rezultātā aprēķinātās nodokļu izmaksu starpības tiks atgūtas vai dzēstas nākamajos pārskata periodos.\n(3) Konsolidācijas rezultātā aprēķinātās nodokļu izmaksu starpības norāda konsolidētajā peļņas un zaudējumu aprēķinā atsevišķā postenī \"Konsolidācijas rezultātā aprēķinātā nodokļu starpība\" vai kopējā nodokļu izmaksu summā, ietverot šīs summas sadalījumu konsolidētā gada pārskata pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "28",
+      "title": "Kopīgi pārvaldīta uzņēmuma gada pārskata posteņu iekļaušana konsolidētajā gada pārskatā",
+      "content": "(1) Ja konsolidācijā iesaistīts uzņēmums un viens vai vairāki šajā konsolidācijā neiesaistīti uzņēmumi kopīgi pārvalda citu uzņēmumu, tad šā kopīgi pārvaldītā uzņēmuma līdzekļus, saistības, pašu kapitālu, ieņēmumus un izdevumus (izmaksas) drīkst iekļaut konsolidētajā gada pārskatā proporcionāli konsolidācijā iesaistīto uzņēmumu kapitāla līdzdalības daļai šajā uzņēmumā.\n(2) Kopīgi pārvaldīta uzņēmuma iekļaušana konsolidācijā, izmantojot šā panta pirmajā daļā norādīto metodi, ir iespējama tikai tad, ja attiecīgi ievēro šā likuma 10. , 11. , 12. , 13. , 14. , 16. , 17. , 18. , 19. , 21. , 22. , 23. , 24. , 25. , 26. un 27.panta prasības."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "29",
+      "title": "Asociētā uzņēmuma peļņas vai zaudējumu un kapitāla līdzdalības daļas atspoguļošana konsolidētajā gada pārskatā",
+      "content": "(1) Konsolidācijā iesaistīto uzņēmumu līdzdalību asociētā uzņēmuma peļņā vai zaudējumos un pašu kapitālā atspoguļo konsolidētajā gada pārskatā šā panta otrajā, trešajā, ceturtajā, piektajā un sestajā daļā noteiktajā kārtībā.\n(2) Asociētā uzņēmuma gada pārskatu, ja iespējams, sagatavo atbilstoši koncernā izmantotajām grāmatvedības metodēm un novērtēšanas noteikumiem vai koriģē saskaņā ar šā likuma 17.panta otro daļu. Ja asociētais uzņēmums reģistrēts ārvalstīs, tā ārvalstu valūtā sagatavoto gada pārskatu pārrēķina latos saskaņā ar šā likuma 18.pantu .\n(3) Šā likuma 16.panta otrās daļas 5. un 6.punktā paredzēto peļņas un zaudējumu izslēgšanu no asociētā uzņēmuma bilances posteņiem veic tikai tādā apmērā, kādā tā ir pamatota ar attaisnojuma dokumentiem vai faktiem, par kuriem ir iespējams iegūt attaisnojuma dokumentus.\n(4) Sākotnēji iekļaujot konsolidētajā bilancē līdzdalību asociētā uzņēmuma kapitālā, to norāda postenī \"Līdzdalība asociēto uzņēmumu kapitālā\" summā, kura saskaņā ar pēdējās bilances datiem atbilst ieguldītā kapitāla īpatsvaram procentos asociētā uzņēmuma kapitālā.\n(5) Starpību starp asociētā uzņēmuma akciju vai daļu iegādes vērtību, kas aprēķināta atbilstoši likumā \" Par uzņēmumu gada pārskatiem \" paredzētajiem novērtēšanas noteikumiem, un summu, kura saskaņā ar pēdējās bilances datiem atbilst ieguldītā kapitāla īpatsvaram procentos šā uzņēmuma pašu kapitālā, norāda konsolidētā gada pārskata pielikumā . Minēto starpību aprēķina pēc stāvokļa datumā, kurā pašu kapitāla metode ir piemērota pirmo reizi.\n(6) Nākamajos gados pēc tam, kad līdzdalība asociētā uzņēmuma kapitālā sākotnēji iekļauta konsolidētajā bilancē, pamatojoties uz summu, kura atbilst ieguldītā kapitāla īpatsvaram procentos asociētā uzņēmuma pašu kapitālā, postenī \"Līdzdalība asociēto uzņēmumu kapitālā\" norādīto summu koriģē, to palielinot vai samazinot atkarībā no asociētā uzņēmuma pašu kapitāla summas palielinājuma vai samazinājuma.\n(7) Postenī \"Līdzdalība asociēto uzņēmumu kapitālā\" norādīto summu katra pārskata gada beigās samazina arī par asociētā uzņēmuma aprēķināto dividenžu summu, kura attiecas uz šo līdzdalību.\n(8) Asociētā uzņēmuma pārskata gada peļņas vai zaudējumu summu, kas attiecas uz akcijām vai daļām, kuras pieder konsolidācijā iesaistītajiem uzņēmumiem, norāda atsevišķā konsolidētā peļņas un zaudējumu aprēķina postenī, ievērojot vienu no šādiem nosacījumiem:\n1) \"Ieņēmumi no līdzdalības asociētā uzņēmuma kapitālā\" — ja tā ir asociētā uzņēmuma peļņas daļa,\n2) \"Ilgtermiņa finanšu ieguldījumu asociētos uzņēmumos vērtības samazināšanās\" — ja tā ir asociētā uzņēmuma zaudējumu daļa.\n(9) (Izslēgta ar 26.05.2005 . likumu)\n(10) (Izslēgta ar 26.05.2005 . likumu)\n(11) Asociētajam uzņēmumam ir pienākums nodrošināt uzņēmumus, kuru būtiskā ietekmē tas atrodas, ar asociētā uzņēmuma akcionāru vai dalībnieku pilnsapulcē apstiprināta gada pārskata norakstu. Ja asociētais uzņēmums sagatavo konsolidēto gada pārskatu, šis pants attiecas uz asociēto uzņēmumu konsolidēto gada pārskatu.\n(12) Šajā pantā noteikto kārtību nepiemēro, ja informācija par līdzdalību asociētā uzņēmuma kapitālā un peļņā vai zaudējumos ir nenozīmīga šā likuma 13.panta pirmajā daļā noteikto prasību īstenošanai."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "II nodaļa Konsolidētā gada pārskata sagatavošanas noteikumi",
+      "section": "30",
+      "title": "Konsolidētā gada pārskata pielikuma sagatavošana",
+      "content": "(1) Papildus citai šajā likumā paredzētajai informācijai konsolidētā gada pārskata pielikumā norāda:\n1) novērtēšanas metodes, kuras piemērotas dažādu posteņu novērtēšanai konsolidētajā gada pārskatā, kā arī pamatlīdzekļu nolietojuma, nemateriālo ieguldījumu, ilgtermiņa finanšu ieguldījumu un citu aktīvu vērtības samazināšanas un norakstīšanas metodes. Ja kāds no konsolidētā gada pārskata posteņiem sākotnēji bijis izteikts ārvalstu valūtā, norāda pārrēķināšanai izmantoto lata kursu un tā pamatojumu;\n2) konsolidācijā iesaistīto uzņēmumu nosaukumu un juridisko adresi, kā arī šo uzņēmumu (izņemot koncerna mātes uzņēmumu) kapitāla daļas procentos, kas pieder konsolidācijā iesaistītajiem uzņēmumiem vai personām, kuras darbojas savā vārdā, bet konsolidācijā iesaistīto uzņēmumu labā, turklāt norāda arī to, kurš no šā likuma 4.pantā paredzētajiem nosacījumiem pamato uzņēmuma iesaistīšanu konsolidācijā. Šajā punktā minētās ziņas sniedz arī par tiem koncerna meitas uzņēmumiem, kuri saskaņā ar šā likuma 10.pantu nav iesaistīti konsolidācijā, kā arī paskaidro neiesaistīšanas iemeslu;\n3) asociēto uzņēmumu nosaukumu un juridisko adresi, kā arī šo uzņēmumu kapitāla daļas (procentos), kas pieder konsolidācijā iesaistītajiem uzņēmumiem vai personām, kuras darbojas savā vārdā, bet konsolidācijā iesaistīto uzņēmumu labā. Šajā punktā minētās ziņas sniedzamas arī par tiem asociētajiem uzņēmumiem, kuri saskaņā ar šā likuma 29.panta divpadsmitās daļas noteikumiem nav iekļauti konsolidētajā gada pārskatā, norādot neiekļaušanas pamatojumu;\n4) kopīgi pārvaldīto uzņēmumu nosaukumu, juridisko adresi un šo uzņēmumu kopīgās pārvaldes pamatojumu, kā arī šo uzņēmumu kapitāla daļas (procentos), kas pieder konsolidācijā iesaistītajiem uzņēmumiem vai personām, kuras darbojas savā vārdā, bet konsolidācijā iesaistīto uzņēmumu labā;\n5) to pārējo uzņēmumu nosaukumu un juridisko adresi, kuri nav minēti šā panta pirmās daļas 2., 3. un 4.punktā un kuros konsolidācijā iesaistītajiem uzņēmumiem pašiem vai ar tādu personu starpniecību, kuras darbojas savā vārdā, bet šo uzņēmumu labā, pieder vismaz tāda kapitāla daļa, kas ir lielāka par 20 procentiem, norādot kapitāla līdzdalības daļas lielumu, pašu kapitāla apmēru un attiecīgā uzņēmuma peļņu vai zaudējumus pēdējā pārskata gadā, par kuru ir apstiprināti uzņēmumu gada pārskati. Šo informāciju var nesniegt, ja tai nav būtiskas nozīmes no patiesa un skaidra priekšstata radīšanas viedokļa. Informāciju, kas attiecas uz pašu kapitālu un uz peļņu vai zaudējumiem, var nesniegt arī tad, ja attiecīgais uzņēmums nepublicē savu gada pārskatu un konsolidācijā iesaistītajiem uzņēmumiem (tieši vai netieši) pieder mazāk par 50 procentiem attiecīgā uzņēmuma kapitāla daļu;\n6) kreditoru parādu kopsummu, kura norādīta konsolidētajā bilancē un kuras samaksas termiņš ir ilgāks par pieciem gadiem pēc bilances datuma, kā arī kreditoru parādu kopsummu, kas norādīta konsolidētajā bilancē un ir segta ar nodrošinājumu, ko snieguši konsolidācijā iesaistītie uzņēmumi, norādot nodrošinājuma veidu un formu;\n7) jebkuru konsolidētajā bilancē neatspoguļoto saistību kopsummu, ja šāda informācija ir svarīga konsolidācijā iesaistīto uzņēmumu finansiālā stāvokļa novērtēšanai. Atsevišķi norādāmas saistības pret darbiniekiem attiecībā uz pensijām un saistības pret koncerna uzņēmumiem, kuri nav iesaistīti konsolidācijā;\n8) konsolidētajā peļņas un zaudējumu aprēķinā norādīto neto apgrozījumu sadalījumā pa pamatdarbības veidiem un ģeogrāfiskajiem tirgiem, ja konsolidācijā iesaistīto uzņēmumu pamatdarbības (produkcijas pārdošanas un pakalpojumu sniegšanas) veidi un tirgi būtiski atšķiras;\n9) konsolidācijā iesaistīto uzņēmumu pārskata gada vidējo darbinieku skaitu sadalījumā pa kategorijām, ar pārskata gadu saistītās personāla izmaksas, sadalot tās atbilstoši likuma \" Par uzņēmumu gada pārskatiem \" 11.pantā norādītajam 6. postenim vai 13.pantā norādītajam 3.postenim, ja šāds sadalījums nav ietverts konsolidētajā peļņas un zaudējumu aprēķinā. Atsevišķi sniedzama informācija par kopīgi pārvaldītajos uzņēmumos nodarbināto personu vidējo skaitu pārskata gadā;\n10) koncerna mātes uzņēmuma pārraudzības institūcijas un izpildinstitūcijas locekļiem par viņu funkciju pildīšanu mātes uzņēmumā un tā meitas uzņēmumos piešķirto atlīdzību kopsummu sadalījumā pa atsevišķām amatu grupām (padomes, valdes, direkcijas vai administrācijas locekļi, rīkotājdirektori u.c.). Tas pats attiecas uz pensijām un līdzīgām saistībām pret bijušajiem pārraudzības un izpildinstitūcijas locekļiem;\n11) koncerna mātes uzņēmuma pārraudzības institūcijas un izpildinstitūcijas locekļiem mātes uzņēmumā vai tā meitas uzņēmumos izsniegto avansu, aizdevumu vai galvojumu saistību summu sadalījumā pa atsevišķām amatu grupām (padomes, valdes, direkcijas vai administrācijas locekļi, rīkotājdirektori u.c.), norādot procentu likmes, svarīgākos nosacījumus un atmaksājamās summas;\n12) koncerna mātes uzņēmuma akcijas vai daļas, kas atrodas šā mātes uzņēmuma paša īpašumā vai pieder tā meitas uzņēmumiem vai personām, kuras darbojas savā vārdā, bet koncerna uzņēmumu labā, norādot šo akciju vai daļu skaitu un nominālvērtību.\n(2) Šā panta pirmās daļas 2., 3., 4., 5. un 8.punktā minēto informāciju drīkst nesniegt, ja tā varētu nopietni kaitēt attiecīgajiem uzņēmumiem. Katru šādas informācijas nesniegšanas gadījumu pamato konsolidētā gada pārskata pielikumā .\n(3) Ja finanšu instrumenti ir novērtēti patiesajā vērtībā, piemērojot likuma \" Par uzņēmumu gada pārskatiem \" 55. 1 , 55. 2 un 55. 3 pantu , konsolidētā gada pārskata pielikumā norāda arī:\n1) nozīmīgākos pieņēmumus, uz kuriem pamatojas izmantoto novērtēšanas modeļu un metožu izvēle, ja šo instrumentu patiesā vērtība noteikta saskaņā ar likuma \" Par uzņēmumu gada pārskatiem \" 55. 2 panta pirmās daļas 2.punktu;\n2) finanšu instrumentu patieso vērtību un šīs vērtības izmaiņas, kas saskaņā ar likuma \" Par uzņēmumu gada pārskatiem \" 55. 3 pantu iekļautas peļņas vai zaudējumu aprēķinā vai bilances postenī \"Finanšu instrumentu pārvērtēšanas rezerve\" sadalījumā pa šādām finanšu aktīvu kategorijām:\na) aizdevumi un prasījumi,\nb) līdz termiņa beigām turēti ieguldījumi,\nc) pārdošanai pieejami finanšu aktīvi,\nd) tirdzniecības nolūkā turēti finanšu aktīvi vai finanšu saistības;\n3) sadalījumā pa atvasināto finanšu instrumentu grupām — skaidrojumus par šiem instrumentiem, norādot kopsummas, kā arī informāciju par būtiskiem noteikumiem un nosacījumiem, kas varētu ietekmēt nākotnē gaidāmo naudas plūsmu lielumu, rašanās laiku un noteiktību;\n4) tabulu, kas atspoguļo bilances posteņa \"Finanšu instrumentu pārvērtēšanas rezerve\" izmaiņas pārskata gadā.\n(4) Ja nav izmantota likuma \" Par uzņēmumu gada pārskatiem \" 55. 1 pantā paredzētā iespēja finanšu instrumentiem piemērot novērtēšanu patiesajā vērtībā, konsolidētā gada pārskata pielikumā sniedz skaidrojumus par atvasināto finanšu instrumentu apmēru un būtību sadalījumā pa šo instrumentu grupām, norādot bilances vērtību un patieso vērtību, ja to var noteikt ar kādu no likuma \" Par uzņēmumu gada pārskatiem \" 55. 2 panta pirmajā daļā minētajām metodēm.\n(5) Ja nav izmantota likuma \" Par uzņēmumu gada pārskatiem \" 28.panta otrajā daļā paredzētā iespēja piemērot vērtības samazināšanu likuma \" Par uzņēmumu gada pārskatiem \" 55. 1 panta ceturtajā daļā minētajiem ilgtermiņa finanšu ieguldījumiem, kuru patiesā vērtība ir mazāka par bilances vērtību, konsolidētā gada pārskata pielikumā sniedz informāciju par atsevišķu aktīvu vai attiecīgu aktīvu grupu bilances vērtību un patieso vērtību, paskaidrojot, kādēļ netiek piemērota vērtības samazināšana, un norādot ziņas, kas liecina, ka vērtības pazemināšanās ir īslaicīga un radusies pārejošu apstākļu dēļ."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "III nodaļa Konsolidētais ziņojums",
+      "section": "31",
+      "title": "Konsolidētā ziņojuma saturs",
+      "content": "(1) Konsolidētajā ziņojumā, pamatojoties uz konsolidēto finanšu pārskatu analīzi, sniedz skaidru informāciju par konsolidācijā iesaistīto uzņēmumu kā kopuma attīstību pārskata gadā un pašreizējo stāvokli, kā arī informāciju par būtiskiem riskiem un neskaidriem apstākļiem, ar kuriem saskārušies konsolidācijā iesaistītie uzņēmumi un kuri ietekmējuši to finansiālo stāvokli un darbības finansiālos rezultātus pārskata gadā. Konsolidētajā ziņojumā sniedz arī informāciju par vides aizsardzības prasību ietekmi, ja tas ir būtiski, lai novērtētu konsolidācijā iesaistīto uzņēmumu kā kopuma aktīvus, saistības, finansiālo stāvokli un peļņu vai zaudējumus.\n(2) Attiecībā uz konsolidācijā iesaistītajiem uzņēmumiem kā kopumu konsolidētajā ziņojumā sniedz arī ziņas par:\n1) jebkādiem svarīgiem notikumiem uzņēmumu kā kopuma darbībā pēc pārskata gada beigām;\n2) šo uzņēmumu kā kopuma turpmākās attīstības perspektīvām;\n3) pētniecības darbiem un attīstības pasākumiem;\n4) konsolidācijā iesaistīto uzņēmumu filiālēm un pārstāvniecībām ārvalstīs;\n5) finanšu instrumentu izmantošanu un, ja tas ir būtiski aktīvu, saistību, finansiālā stāvokļa un peļņas vai zaudējumu novērtēšanā, — par finanšu riska vadības mērķiem un politiku, arī par pieņemto riska vadības politiku attiecībā uz katru nozīmīgāko prognozēto nākotnes darījumu veidu, kam tiek piemērota riska ierobežošanas uzskaite, un par konsolidācijā iesaistīto uzņēmumu kā kopuma pakļautību cenas riskam, kredītriskam, likviditātes riskam un naudas plūsmas riskam."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Konsolidētā gada pārskata pārbaude",
+      "section": "32",
+      "title": "Zvērinātiem revidentiem izvirzāmās prasības attiecībā uz konsolidēto gada pārskatu pārbaudi",
+      "content": "(1) Koncerna mātes uzņēmuma sagatavoto konsolidēto gada pārskatu pārbauda viens vai vairāki zvērināti revidenti, kuriem atbilstoši likumam \" Par zvērinātiem revidentiem \" ir zvērināta revidenta sertifikāts un uz kuriem neattiecas šā panta otrajā daļā minētie ierobežojumi.\n(2) Konsolidētā gada pārskata pārbaudi nav tiesīgs veikt zvērināts revidents, uz kuru attiecas vismaz viens no šādiem apstākļiem:\n1) viņam ir saimnieciski sakari ar kādu no attiecīgā koncerna uzņēmumiem;\n2) viņš strādā kādā no šā koncerna uzņēmumiem;\n3) viņš kārto vai pēdējo divu gadu laikā ir kārtojis šā koncerna uzņēmuma grāmatvedību vai sagatavojis tā gada pārskatu;\n4) viņš personiski ir tieši vai netieši ieinteresēts konsolidētā pārskata pārbaudes iznākumā;\n5) viņš vai viņa laulātais ir radniecības vai svainības attiecībās (skaitot radniecību un svainību līdz pirmajai pakāpei atbilstoši Civillikumam ) ar kādas šā koncerna uzņēmuma pārraudzības institūcijas vai izpildinstitūcijas locekli, direktoru vai citu personu, kas veic uzņēmuma operatīvo vadību.\n(3) Saņēmis uzaicinājumu pārbaudīt konsolidēto gada pārskatu, zvērināts revidents rakstveidā informē koncerna mātes uzņēmuma izpildinstitūciju par to, vai uz viņu neattiecas šā panta otrajā daļā minētie ierobežojumi."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IV nodaļa Konsolidētā gada pārskata pārbaude",
+      "section": "33",
+      "title": "Zvērināta revidenta darbība konsolidētā gada pārskata pārbaudē",
+      "content": "(1) Zvērināta revidenta uzdevums ir pārbaudīt, vai konsolidētais gada pārskats ir pareizi sagatavots, vai tas atbilst normatīvajiem aktiem, konsolidācijā iesaistīto uzņēmumu statūtiem un reģistriem, vai sniedz patiesu un skaidru priekšstatu par koncerna līdzekļiem, saistībām, finansiālo stāvokli, peļņu vai zaudējumiem un naudas plūsmu, kā arī novērtēt konsolidētā ziņojuma atbilstību konsolidētajiem finanšu pārskatiem.\n(2) Zvērinātam revidentam ir tiesības pieprasīt no koncerna mātes uzņēmuma un tā meitas uzņēmumiem, kā arī no personām, kuras darbojas savā vārdā, bet koncerna meitas uzņēmuma labā, visas ziņas, dokumentus un paskaidrojumus, kas vajadzīgi rūpīgai pārbaudei. Zvērinātam revidentam ir tiesības pieaicināt ekspertus vai lietpratējus, uzņemoties atbildību par minēto personu veiktajām darbībām.\n(3) Koncerna uzņēmumu likumīgie pārstāvji nodrošina zvērinātam revidentam iespēju iepazīties ar grāmatvedības reģistriem, attaisnojuma un citiem dokumentiem, kā arī pārbaudīt šo uzņēmumu mantu (arī vērtspapīrus un naudu), parādus un citas saistības.\n(4) Zvērināts revidents pēc veiktās pārbaudes sagatavo revidenta ziņojumu par konsolidēto gada pārskatu un iesniedz to koncerna mātes uzņēmuma izpildinstitūcijai. Ziņojumā viņš izsaka viedokli arī par konsolidētā ziņojuma atbilstību konsolidētajiem finanšu pārskatiem.\n(5) Ja koncerna mātes uzņēmuma gada pārskatu un konsolidēto gada pārskatu pārbauda viens un tas pats zvērināts revidents (tie paši vairāki zvērināti revidenti) un saskaņā ar šā likuma 35.panta prasībām šie pārskati tiek iesniegti vienlaicīgi, revidenta ziņojumu par konsolidēto gada pārskatu var apvienot ar revidenta ziņojumu par gada pārskatu."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "V nodaļa Konsolidētā gada pārskata apstiprināšana un publicēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )",
+      "section": "34",
+      "title": "Konsolidētā gada pārskata apstiprināšana un parakstīšana",
+      "content": "(1) Konsolidēto gada pārskatu paraksta koncerna mātes uzņēmuma vadība:\n1) kapitālsabiedrībās un kooperatīvajās sabiedrībās — valde;\n2) personālsabiedrībās — visi šīs sabiedrības biedri vai tie sabiedrības biedri, kuri ir īpaši pilnvaroti pārstāvēt šo sabiedrību.\n(2) Ja kapitālsabiedrības vai kooperatīvās sabiedrības valdes loceklis vai personālsabiedrības biedrs uzskata, ka konsolidētais gada pārskats nav apstipri­nāms, vai izvirza iebildumus, viņš savu atšķirīgo viedokli norāda īpašā piezīmē.\n(3) Konsolidēto gada pārskatu kopā ar attiecīgā uzņēmuma gada pārskatu septiņu mēnešu laikā pēc pārskata gada beigām apstiprina koncerna mātes uzņēmuma akcionāru vai dalībnieku kārtējā pilnsapulce."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "V nodaļa Konsolidētā gada pārskata apstiprināšana un publicēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )",
+      "section": "35",
+      "title": "Konsolidētā gada pārskata publicēšanas noteikumi",
+      "content": "(1) Ne vēlāk kā mēnesi pēc konsolidētā gada pārskata apstiprināšanas koncerna mātes uzņēmuma akcionāru vai dalībnieku kārtējā pilnsapulcē un ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām koncerna mātes uzņēmums iesniedz Uzņēmumu reģistram un Valsts ieņēmumu dienesta teritoriālajai iestādei (pēc koncerna mātes uzņēmuma atrašanās vietas) šā likuma 34.pantā noteiktajā kārtībā apstiprinātā konsolidētā gada pārskata norakstu kopā ar šā uzņēmuma akcionāru vai dalībnieku pilnsapulcē apstiprinātā gada pārskata norakstu un zvērinātu revidentu ziņojumu norakstiem. Minētos dokumentus var iesniegt elektroniskā veidā, pievienojot rakstveida apliecinājumu par to atbilstību dokumentu oriģināliem.\n(2) Ne vēlāk kā divus mēnešus pēc konsolidētā gada pārskata apstiprināšanas koncerna mātes uzņēmuma akcionāru vai dalībnieku kārtējā pilnsapulcē un ne vēlāk kā astoņus mēnešus pēc pārskata gada beigām koncerna mātes uzņēmums par saviem līdzekļiem iesniedz publicēšanai laikrakstā \"Latvijas Vēstnesis\" konsolidētā gada pārskata norakstu kopā ar šā uzņēmuma akcionāru vai dalībnieku pilnsapulcē apstiprinātā gada pārskata norakstu un zvērinātu revidentu ziņojumu norakstiem. Zvērināta revidenta ziņojumu laikrakstā \"Latvijas Vēstnesis\" publicē pilnībā.\n(3) Ja šā panta pirmajā daļā minētie pārskati netiek pilnībā publicēti, skaidri jānorāda, ka tie publicēti saīsinātā formā un pilnībā pieejami Uzņēmumu reģistrā. Zvērināta revidenta ziņojumu šai gadījumā nepublicē, bet publikācijā paziņo, vai zvērinātam revidentam ir bijuši iebildumi vai piezīmes, vai viņš ir sniedzis negatīvu atzinumu vai atteicies sniegt atzinumu.\n(4) Ja koncerna mātes uzņēmums nav iesniedzis vai publicējis konsolidēto gada pārskatu un zvērināta revidenta atzinumu vai nav ievērojis citas šā panta pirmās, otrās vai trešās daļas prasības, tas tiek saukts pie atbildības normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "V nodaļa Konsolidētā gada pārskata apstiprināšana un publicēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )",
+      "section": "pn1",
+      "title": "1. Likuma 3.panta otrā daļa attiecībā uz ieguldījumu brokeru sabiedrībām un ieguldījumu pārvaldes sabiedrībām piemērojama, sākot ar 2005.pārskata gadu.",
+      "content": "1. Likuma 3.panta otrā daļa attiecībā uz ieguldījumu brokeru sabiedrībām un ieguldījumu pārvaldes sabiedrībām piemērojama, sākot ar 2005.pārskata gadu."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "V nodaļa Konsolidētā gada pārskata apstiprināšana un publicēšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )",
+      "section": "pn2",
+      "title": "2. Līdz dienai, kad stājas spēkā attiecīgi grozījumi likumā \"Par ieguldījumu sabiedrībām\", ar terminu \"ieguldījumu pārvaldes sabiedrība\" saprot terminu \"ieguldījumu sabiedrība\".",
+      "content": "1) Padomes 1983.gada 13.jūnija Septītās direktīvas 83/349/EEK , kas pamatojas uz Līguma 54.panta 3.punkta \"g\" apakš­punktu un attiecas uz konsolidētajiem pārskatiem;\n2) Padomes 1989.gada 21.decembra Vienpadsmitās direktīvas 89/666/EEK par informācijas sniegšanas prasībām attiecībā uz filiālēm, ko kādā dalībvalstī atvērušas noteiktu veidu sabiedrības, uz kurām attiecas citas valsts tiesību akti;\n3) Padomes 1990.gada 8.novembra direktīvas 90/604/EEK , ar ko direktīvu 78/660/EEK par gada pārskatiem un direktīvu 83/349/EEK par konsolidētajiem pārskatiem groza saistībā ar atbrīvojumiem, kuri attiecas uz mazajiem un vidējiem uzņēmumiem, un saistībā ar pārskatu publicēšanu ECU;\n4) Padomes 1990.gada 8.novembra direktīvas 90/605/EEK , ar ko attiecībā uz darbības jomu groza direktīvu 78/660/EEK par gada pārskatiem un direktīvu 83/349/EEK par konsolidētajiem pārskatiem;\n5) Eiropas Parlamenta un Padomes 2001.gada 27.septembra direktīvas 2001/65/EK , ar ko direktīvas 78/660/EEK , 83/349/EEK un 86/635/EEK groza attiecībā uz novērtēšanas noteikumiem, ko piemēro noteiktu veidu sabiedrību, kā arī banku un citu finanšu iestāžu gada pārskatiem un konsolidētajiem pārskatiem;\n6) Eiropas Parlamenta un Padomes 2003.gada 18.jūnija direktīvas 2003/51/EK , ar ko attiecībā uz noteikta veida sabiedrību, banku un citu finanšu iestāžu un apdrošināšanas uzņēmumu gada un konsolidētajiem pārskatiem groza direktīvas 78/660/EEK , 83/349/EEK , 86/635/EEK un 91/674/EEK."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "būtiska ietekme",
+      "definition": "uzņēmuma ietekme uz citu uzņēmumu, kas tiek nodrošināta ar ne mazāk kā 20, bet ne vairāk par 50 procentiem no akcionāru vai dalībnieku balsstiesībām šajā uzņēmumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konsolidācija",
+      "definition": "koncerna uzņēmumu gada pārskatu apvienošana, izmantojot īpašas, šajā likumā noteiktas konsolidācijas metodes",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konsolidētais gada pārskats",
+      "definition": "koncerna gada pārskats, kas, izmantojot īpašas, šajā likumā noteiktas konsolidācijas metodes, sagatavots kā viena atsevišķa uzņēmuma gada pārskats un sniedz informāciju par visu koncernu kopumā kā par vienu uzņēmumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konsolidētais ziņojums",
+      "definition": "koncerna ziņojums par konsolidācijā iesaistīto uzņēmumu kā kopuma attīstību pārskata gadā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mazākumakcionāri",
+      "definition": "koncerna meitas uzņēmuma akcionāri vai dalībnieki, kuri nav ne koncerna mātes uzņēmuma akcionāri vai dalībnieki, ne arī citi konsolidācijā iesaistītie meitas uzņēmumi.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

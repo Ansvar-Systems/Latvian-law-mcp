@@ -1,0 +1,876 @@
+{
+  "id": "lv-law-14940",
+  "type": "statute",
+  "title": "Dzīvnieku aizsardzības likums",
+  "title_en": "Animal Protection Law",
+  "short_name": "TA-14940",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/14940-dzivnieku-aizsardzibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "(1) Likumā ir lietoti šādi termini:",
+      "content": "1) atrakciju dzīvnieks — dzīvnieks, kuru tur publiskai izrādīšanai izklaides vai sabiedrības izglītošanas nolūkā, kā arī cirka dzīvnieks, izņemot dzīvnieku, kuru tur zooloģiskajā dārzā;\n2) dzīvnieka īpašnieks — juridiskā vai fiziskā persona, kurai pieder dzīvnieks;\n3) dzīvnieka turētājs — persona, kuras rīcībā un aprūpē atrodas dzīvnieks;\n4) (izslēgts ar 14.03.2024 . likumu) ;\n5) dzīvnieku viesnīca — speciāli aprīkota vieta, kur mājas (istabas) dzīvnieka īpašnieks uz noteiktu laiku var atstāt aprūpē savu dzīvnieku;\n6) eitanāzija — dzīvnieka dzīvības funkciju pārtraukšana nesāpīgā veidā;\n7) izmēģinājumu dzīvnieks — procedūrām audzēts vai tajās izmantojams dzīvnieks;\n8) izmēģinājumu dzīvnieka audzētājs — persona, kas audzē šā likuma pielikumā minētos dzīvniekus izmantošanai procedūrās vai to audu vai orgānu izmantošanai zinātniskiem mērķiem vai kas galvenokārt šiem mērķiem audzē citus dzīvniekus, gūstot vai negūstot no tā peļņu;\n9) izmēģinājumu dzīvnieka lietotājs — persona, kas izmanto dzīvnieku procedūrā, gūstot vai negūstot peļņu;\n10) izmēģinājumu dzīvnieka piegādātājs — persona, kas nav dzīvnieka audzētājs un kas piegādā izmēģinājumu dzīvnieku izmantošanai procedūrās vai tā audu vai orgānu izmantošanai zinātniskiem mērķiem, gūstot vai negūstot peļņu;\n11) izmēģinājuma projekts — darba programma ar noteiktu zinātnisku mērķi, kura ietver vienu vai vairākas procedūras;\n12) labturība — dzīvnieka fizioloģisko un etoloģisko vajadzību nodrošināšanas pasākumu kopums;\n13) lauksaimniecības dzīvnieks — dzīvnieks, kuru audzē un tur dzīvnieku izcelsmes produktu iegūšanai vai citos lauksaimnieciskos nolūkos, tai skaitā ierobežotā platībā turēts savvaļas sugas dzīvnieks un ar ģenētiskās modifikācijas metodēm iegūts dzīvnieks;\n14) mājas (istabas) dzīvnieks — dzīvnieks, kuru cilvēks tur savam priekam;\n15) procedūra — dzīvnieka invazīva vai neinvazīva tāda izmantošana eksperimentālam vai citam zinātniskam mērķim ar zināmu vai nezināmu iznākumu vai izglītības mērķiem, kura var dzīvniekam izraisīt sāpes, ciešanas, diskomfortu vai ilgstošu kaitējumu, kas līdzinās tam, ko izraisa adatas ievadīšana atbilstīgi veterinārmedicīniskajai praksei, vai pārsniedz to. Tas ietver jebkuras darbības, kas izraisa vai var izraisīt dzīvnieka piedzimšanu vai izšķilšanos vai jaunas ģenētiski modificētas dzīvnieku līnijas rašanos un uzturēšanu šādos apstākļos, taču neattiecas uz dzīvnieku nogalināšanu tikai tādēļ, lai izmantotu to orgānus vai audus;\n16) savvaļas sugas dzīvnieks — dzīvnieks, kura evolūciju nav apzināti ietekmējis cilvēks, lai apmierinātu savas vajadzības;\n17) sporta un darba dzīvnieks — dzīvnieks, kurš ir apguvis specifiskas iemaņas un veic cilvēka noteiktu darbību;\n18) zooloģiskais dārzs — pastāvīga vieta, kur savvaļas sugu dzīvnieki tiek turēti izstādīšanai publikas apskatei septiņas vai vairāk dienas gadā sugas saglabāšanas, pavairošanas, reintrodukcijas, pētniecības un sabiedrības izglītošanas nolūkā.\n(2) Likumā lietotais termins \"dzīvnieku patversme\" atbilst Komisijas 2019. gada 28. jūnija deleģētās regulas (ES) 2019/2035 , ar ko attiecībā uz noteikumiem, kurus piemēro sauszemes dzīvnieku turēšanas objektiem un inkubatoriem, un attiecībā uz konkrētu sauszemes dzīvnieku un inkubējamu olu izsekojamību papildina Eiropas Parlamenta un Padomes regulu (ES) 2016/429 (turpmāk — regula (ES) 2019/2035 ) 2. panta 8. punktā lietotajam terminam."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Šis likums nosaka personas tiesības un pienākumus dzīvnieku aizsardzības un labturības jomā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "(1) Dzīvniekus pēc to faktiskā stāvokļa iedala šādi:",
+      "content": "1) savvaļas dzīvnieki;\n2) nebrīvē audzēti dzīvnieki.\n(2) Savvaļas dzīvniekus pēc to izmantošanas veida iedala šādi:\n1) medījamie dzīvnieki;\n2) nemedījamie dzīvnieki.\n(3) Nebrīvē audzētus dzīvniekus pēc to izmantošanas veida iedala šādi:\n1) lauksaimniecības dzīvnieki;\n2) mājas (istabas) dzīvnieki;\n3) sporta, darba un atrakciju dzīvnieki;\n4) izmēģinājumu dzīvnieki;\n5) dzīvnieki, kurus tur zooloģiskajā dārzā;\n6) savvaļas sugu dzīvnieki, kurus tur reģistrētā savvaļas sugas dzīvnieku turēšanas vietā."
+    },
+    {
+      "provision_ref": "Art. 3.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3.1",
+      "title": "3. 1 pants. (1) Aizliegts iegādāties, turēt nebrīvē, atsavināt vai turēt pārdošanai vai apmaiņai un piedāvāt tirdzniecībā šādus dzīvniekus:",
+      "content": "1) plēsēju kārtas savvaļas sugas dzīvnieku;\n2) primātu;\n3) jūras zīdītāju;\n4) krokodilu kārtas dzīvnieku;\n5) čūskveidīgo dzīvnieku.\n(2) Aizliegts dzīvnieku barot ar dzīviem siltasiņu dzīvniekiem.\n(3) Šā panta pirmajā un otrajā daļā minētie aizliegumi neattiecas uz zooloģiskajiem dārziem un reģistrētām savvaļas sugu dzīvnieku turēšanas vietām."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "(1) Aizliegta cietsirdīga izturēšanās pret dzīvniekiem, tas ir:",
+      "content": "1) dzīvnieka nogalināšana, izņemot šajā likumā noteiktos gadījumus;\n2) dzīvnieka sakropļošana, mocīšana un spīdzināšana;\n3) dzīvnieka atstāšana bez aprūpes;\n4) dzīvnieka atstāšana bezpalīdzīgā stāvoklī;\n5) dzīvnieka kaitināšana un uzrīdīšana, izņemot gadījumus, kad tas nepieciešams darba dzīvnieka apmācībai;\n6) dzīvnieku cīņu organizēšana, dzīvnieku iesaistīšana šajās cīņās un šo cīņu atbalstīšana;\n7) dzīvnieka pakļaušana izskatu pārveidojošām vai citām neārstnieciskām procedūrām, ja to nepieciešamību nav noteicis un tās nav veicis praktizējošs veterinārārsts vai cita persona saskaņā ar lauksaimniecības dzīvnieku labturību regulējošiem normatīvajiem aktiem. Praktizējošam veterinārārstam atļauts izdarīt astes apgriešanu šā likuma 18. 1 pantā noteikto šķirņu suņiem;\n8) dzīvnieka izmantošana par mērķi šaušanas apmācībās vai sacensībās;\n9) dzīvnieka izmantošana citu sugu dzīvnieku apmācībai, izņemot medību suņu apmācību;\n10) dzīvnieka izmantošana, liekot tam veikt darbības, kas attiecīgajam dzīvniekam nav raksturīgas dabiskā vidē un pārsniedz tā dabiskās spējas, kā arī var kaitēt dzīvnieka veselībai un radīt tam ciešanas;\n11) savvaļas sugas dzīvnieka demonstrēšana ārpus zooloģiskā dārza vai reģistrētas savvaļas sugu dzīvnieku turēšanas vietas;\n12) dzīvnieka mātītes piedāvāšana un izmantošana dzīvnieka tēviņa dzimumtieksmju apmierināšanai bez nolūka iegūt pēcnācējus;\n13) citu tādu darbību veikšana, kuras izraisa vai var izraisīt dzīvnieka sakropļošanu vai nāvi, radīt tam ciešanas, izņemot gadījumus, kad šīs darbības veiktas ārstēšanas, izmēģinājumu nolūkos, vai gadījumus, kad tiek apdraudēta cilvēka dzīvība vai veselība;\n14) dzīvnieku turēšanas noteikumu, labturības prasību un pārvadāšanas noteikumu neievērošana, kas apdraud dzīvnieka veselību vai var izraisīt tā nāvi;\n15) kaušanai paredzēto dzīvnieku aizsardzības prasību neievērošana;\n16) dzīvnieka izmantošana reliģiskos rituālos un izlozēs.\n(2) Personai ir aizliegts turēt dzīvnieku, ja tā ir sodīta par cietsirdīgu izturēšanos pret dzīvnieku."
+    },
+    {
+      "provision_ref": "Art. 4.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4.1",
+      "title": "4. 1 pants. (1) Ir aizliegta tāda mājas (istabas) dzīvnieka dalība sacensībās, tirgos un izsolēs, kā arī demonstrēšana publiskā izstādē, kuram veikta izskatu pārveidojoša operācija, izņemot:",
+      "content": "1) dzīvnieku, kuram šīs operācijas nepieciešamību apliecina praktizējošs veterinārārsts, veicot ierakstu dzīvnieka pasē vai vakcinācijas apliecībā;\n2) šajā likumā noteiktas šķirnes suni, kuram atļauta astes apgriešana;\n3) dzīvnieku, kura izcelsmes valsts normatīvajos aktos ir atļauts veikt attiecīgo izskatu pārveidojošo operāciju.\n(2) Bez saskaņošanas ar Pārtikas un veterināro dienestu aizliegts dzīvnieku izmantot publiskos pasākumos, kas nav specializēti pasākumi ar dzīvnieka piedalīšanos, vai dāvināt dzīvnieku publiskā pasākumā bez apdāvināmās personas piekrišanas un bez saskaņošanas ar Pārtikas un veterināro dienestu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Dzīvnieka īpašniekam ir Civillikumā noteiktā vara pār dzīvnieku, izņemot šajā likumā un citos normatīvajos aktos noteiktos gadījumus.",
+      "content": "(2) Dzīvnieka īpašniekam ir šādi pienākumi:\n1) rūpēties par dzīvnieka veselību, labturību un izmantošanu atbilstoši tā sugai, vecumam un fizioloģijai;\n2) rūpēties par labvēlīgu sabiedrības attieksmi pret viņa īpašumā esošo dzīvnieku;\n3) nodrošināt, lai dzīvnieks netraucētu un neapdraudētu cilvēkus vai citus dzīvniekus;\n4) nepieļaut nekontrolētu dzīvnieka vairošanos;\n5) nodrošināt dzīvnieka turēšanas apstākļu, aprīkojuma, barības un ūdens atbilstību tā fizioloģiskajām un etoloģiskajām vajadzībām, ņemot vērā attiecīgā dzīvnieka sugu, attīstības, adaptācijas un pieradināšanas pakāpi;\n6) nepakļaut dzīvnieku sāpēm un ciešanām, kā arī novērst tā savainošanās iespējas;\n7) ņemot vērā dzīvnieka fizioloģiskās un etoloģiskās vajadzības, nodrošināt dzīvniekam fizisko aktivitāti, bet dzīvniekam, kura pārvietošanās ir ierobežota, — pietiekamu turēšanas platību;\n8) nekavējoties pēc šā likuma 9.pantā minēto iestāžu amatpersonu pieprasījuma atbilstoši to kompetencei uzrādīt dzīvnieku, tā turēšanas vietu, kā arī dzīvnieka pasi vai vakcinācijas apliecību un citus dokumentus, kas saistīti ar dzīvnieku;\n9) nodrošināt sterilizēta kaķa apzīmēšanu, ja kaķis uzturas pilsētā vai lauku apdzīvotā vietā dzīvojamo māju tuvumā.\n(3) Ja dzīvnieka īpašnieks nespēj pildīt šā panta otrajā daļā minētos pienākumus, dzīvnieku atsavina personai, kas spēj pildīt šos pienākumus, nodod dzīvnieku patversmei vai nogalina normatīvajos aktos noteiktajā kārtībā.\n(4) Šā panta otrajā daļā minētie pienākumi ir arī dzīvnieka turētājam, kuram īpašnieks uzticējis dzīvnieku vai kura valdījumā dzīvnieks nokļuvis citādā veidā.\n(5) Tikai dzīvnieka īpašniekam ir tiesības dot atļauju dzīvnieka izmantošanai par donoru un — šajā likumā noteiktajos gadījumos — tā nogalināšanai, kā arī tikai dzīvnieka īpašniekam vai viņa pilnvarotai personai ir tiesības demonstrēt dzīvnieku publiskā izstādē."
+    },
+    {
+      "provision_ref": "Art. 5.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5.1",
+      "title": "5. 1 pants. (Izslēgts ar 03.12.2025 . likumu, kas stājas spēkā 01.01.2026. )",
+      "content": "5. 1 pants. (Izslēgts ar 03.12.2025 . likumu, kas stājas spēkā 01.01.2026. )"
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Dzīvnieka īpašnieks nodrošina dzīvnieka reģistrēšanu un apzīmēšanu normatīvajos aktos noteiktajā kārtībā. Dzīvnieka identitāti apliecinošu dokumentu — dzīvnieka pasi vai vakcinācijas apliecību, kurā ierakstīts dzīvnieka identitātes numurs, — izsniedz un apliecina kompetentas iestādes pilnvarota persona.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 14.04.2005 . likumu, kas stājas spēkā 19.05.2005. )"
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Ievainotam vai slimam dzīvniekam sniedzama palīdzība, ja nepieciešams, pieaicinot praktizējošu veterinārārstu.",
+      "content": "7.pants. Ievainotam vai slimam dzīvniekam sniedzama palīdzība, ja nepieciešams, pieaicinot praktizējošu veterinārārstu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "(1) Bez pajumtes un īpašnieka aprūpes vai uzraudzības palicis dzīvnieks (izņemot savvaļas dzīvnieku) uzskatāms par klaiņojošu dzīvnieku. Par klaiņojošu dzīvnieku nav uzskatāms sterilizēts kaķis, kas uzturas pilsētā vai lauku apdzīvotā vietā dzīvojamo māju tuvumā.",
+      "content": "(2) Jebkura persona par klaiņojošu vai bezpalīdzīgā stāvoklī nonākušu dzīvnieku nekavējoties paziņo vietējās pašvaldības institūcijai.\n(3) Saskaņā ar pašvaldības saistošajiem noteikumiem un normatīvajiem aktiem, kas reglamentē dzīvnieku labturības jomu, vietējā pašvaldība organizē klaiņojošu vai bezpalīdzīgā stāvoklī nonākušu dzīvnieku izķeršanu un, ja nepieciešams, nogalināšanu.\n(4) Saskaņā ar pašvaldības saistošajiem noteikumiem vietējā pašvaldība var atļaut pilsētā vai lauku apdzīvotā vietā dzīvojamo māju tuvumā turēt sterilizētu bezsaimnieka kaķi, ja tiek nodrošināta tā labturība un apzīmēšana.\n(5) Latvijas Veterinārārstu biedrība apmāca klaiņojošu suņu un kaķu ķērājus, izsniedz un anulē dzīvnieku ķērāja apliecību un reģistrē apmācītos dzīvnieku ķērājus.\n(6) Pildot šā panta piektajā daļā minētos valsts pārvaldes uzdevumus, tai skaitā izdodot attiecīgus administratīvos aktus, Latvijas Veterinārārstu biedrība atrodas Zemkopības ministrijas funkcionālā pakļautībā.\n(7) Šā panta piektajā daļā minēto uzdevumu izpildei pieņemtā Latvijas Veterinārārstu biedrības lēmuma apstrīdēšana vai pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "9",
+      "title": "(1) Šā likuma prasību ievērošanu uzrauga un kontrolē:",
+      "content": "1) Zemkopības ministrijas padotībā esošās iestādes:\na) Pārtikas un veterinārais dienests — attiecībā uz nebrīvē audzētu dzīvnieku aizsardzību un labturību un izmēģinājumu dzīvnieku aizsardzību, kā arī uz dzīvnieku importa, eksporta un tranzītpārvadājumu kontroli normatīvajos aktos noteiktajos valsts robežkontroles punktos atbilstoši savai kompetencei, bet attiecībā uz mājas (istabas) dzīvnieku labturību — tikai valsts veterinārās uzraudzības objektos un gadījumos, kad ir aizdomas vai sūdzības par normatīvo aktu pārkāpumiem, kā arī attiecībā uz sludinājumiem par suņu, kaķu vai mājas (istabas) sesku atsavināšanu,\nb) Valsts meža dienests — attiecībā uz medījamo savvaļas sugu dzīvnieku aizsardzību;\n2) Vides aizsardzības un reģionālās attīstības ministrijas padotībā esošās iestādes — attiecībā uz savvaļā dzīvojošo nemedījamo savvaļas sugu dzīvnieku aizsardzību, uz starptautiskās tirdzniecības apdraudēto savvaļas sugu dzīvnieku aizsardzību un uz īpaši aizsargājamo un ierobežoti izmantojamo savvaļas sugu dzīvnieku aizsardzību saskaņā ar dabas aizsardzības normatīvajiem aktiem;\n3) pašvaldības — attiecībā uz mājas (istabas) dzīvnieku labturību to administratīvajā teritorijā.\n(1 1 ) Pašvaldība saistībā ar mājas (istabas) dzīvnieku labturības uzraudzību un kontroli ir tiesīga izdot administratīvu aktu, kurā noteikts pienākums atbilstošā veidā un termiņā novērst pārkāpumu dzīvnieku labturības jomā.\n(2) Šā panta pirmajā daļā minētās institūcijas šā likuma prasību ievērošanas uzraudzībā var iesaistīt sabiedriskās dzīvnieku aizsardzības organizācijas.\n(3) Pārtikas un veterinārais dienests uzrauga un kontrolē Eiropas Savienības tieši piemērojamo tiesību aktu izpildi dzīvnieku labturības un aizsardzības jomā, kā arī sniedz Eiropas Savienības institūciju pieprasīto informāciju.\n(4) Kompetentā iestāde par dzīvnieku aizsardzību pārvadāšanas un ar to saistīto darbību laikā ir Pārtikas un veterinārais dienests saskaņā ar Padomes 2004.gada 22.decembra regulu (EK) Nr. 1/2005 par dzīvnieku aizsardzību pārvadāšanas un saistīto darbību laikā un grozījumiem direktīvās 64/432/EEK un 93/119/EK un regulā (EK) Nr. 1255/97 .\n(5) Kompetentā iestāde par dzīvnieku veselības prasībām attiecībā uz cirka dzīvnieku pārvietošanu ir Pārtikas un veterinārais dienests saskaņā ar Komisijas 2005.gada 21.oktobra regulu (EK) Nr. 1739/2005 , ar kuru nosaka dzīvnieku veselības prasības attiecībā uz cirka dzīvnieku pārvietošanu starp dalībvalstīm.\n(6) Valsts ieņēmumu dienesta muitas iestādes atbilstoši kompetencei nodrošina šajā likumā minēto prasību izpildes uzraudzību un kontroli attiecībā uz šā likuma 35. 1 pantā noteikto roņu mazuļu ādu un ādas izstrādājumu importēšanu.\n(7) Zemkopības ministrija apmācību lauksaimniecības dzīvnieku labturības jautājumos Valsts pārvaldes iekārtas likumā noteiktajā kārtībā var deleģēt ar līgumu privāto vai publisko tiesību subjektam, kurš par šo apmācību izdod administratīvo aktu. Privāto vai publisko tiesību subjekta izdotos administratīvos aktus var apstrīdēt Pārtikas un veterinārajā dienestā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "10",
+      "title": "Ministru kabinets nosaka:",
+      "content": "1) lauksaimniecības dzīvnieku turēšanas un izmantošanas kārtību un nosaka labturības prasības katras lauksaimniecības dzīvnieku sugas turēšanai un izmantošanai, prasības kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzībai, kā arī lauksaimniecības dzīvnieka turētāja tiesības un pienākumus;\n2) (izslēgts ar 14.03.2024 . likumu) ;\n3) labturības prasības sporta, darba un atrakciju dzīvnieku turēšanai, apmācībai un izmantošanai sacensībām, darbam vai atrakcijām;\n4) izmēģinājumu dzīvnieku aizsardzības jomā:\na) izmēģinājumu dzīvnieku audzētāju, piegādātāju un lietotāju reģistrācijas un tās anulēšanas kārtību,\nb) prasības izmēģinājumu dzīvnieku audzētājiem, piegādātājiem un lietotājiem,\nc) kārtību, kādā par izmēģinājuma projektu atbildīgajai personai izsniedz un anulē atļauju,\nd) kārtību, kādā izsniedz, groza, atjauno un anulē izmēģinājuma projekta atļauju,\ne) labturības prasības izmēģinājumu dzīvnieka iegūšanai, apzīmēšanai, audzēšanai, turēšanai, kopšanai, piegādei un izmantošanai,\nf) to dzīvnieku sarakstu, kurus audzē izmantošanai procedūrās,\ng) izmēģinājuma projektu izvērtēšanas kārtību,\nh) prasības telpām, iekārtām, inventāram, aprīkojumam,\ni) prasības audzētāju, piegādātāju un lietotāju darbiniekiem,\nj) prasības labturības struktūrai un struktūras uzdevumus,\nk) izmēģinājumu dzīvnieku nogalināšanas metodes,\nl) kārtību, kādā iesniedzami dokumenti izmēģinājuma projekta atļaujas saņemšanai,\nm) prasības procedūru smaguma klasifikācijai,\nn) prasības atkārtotai izmēģinājumu dzīvnieku izmantošanai procedūrā,\no) informācijas reģistrēšanas, apkopošanas un pārskatu iesniegšanas, kā arī dokumentācijas glabāšanas kārtību;\n5) kārtību, kādā notiek dzīvnieku populācijas atjaunošana (reintrodukcija) dabā un Latvijas dabai neraksturīgo savvaļas sugu dzīvnieku ieviešana (introdukcija);\n6) (izslēgts ar 06.12.2001 . likumu);\n7) dzīvnieku labturības prasības dzīvnieku veterinārmedicīniskās aprūpes iestādēs;\n8) dzīvnieku pārvadāšanas kārtību, labturības prasības dzīvnieku pārvadāšanai transportlīdzeklī, kā arī kārtību, kādā izsniedz un reģistrē dzīvnieku pārvadātāja atļauju un atļauju transportlīdzeklim dzīvnieku pārvadāšanai;\n9) (izslēgts ar 08.03.2012 . likumu) ;\n10) kārtību un prasības tādu savvaļas dzīvnieku turēšanai iežogotās platībās (briežu dārzos, savvaļas putnu fermās u.c.), kuri izmantojami dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijas nolūkos;\n11) (izslēgts ar 03.12.2025 . likumu);\n12) (izslēgts ar 14.03.2024 . likumu) ;\n13) (izslēgts ar 03.12.2025 . likumu);\n14) (izslēgts ar 03.12.2025 . likumu);\n15) (izslēgts no 01.01.2018. ar 15.06.2017 . likumu. Sk. Pārejas noteikumu 18. punktu) ;\n16) valsts nodevas apmēru un samaksas kārtību par dzīvnieka pārvadātāja apliecības izsniegšanu;\n17) valsts nodevas apmēru un samaksas kārtību par atļaujas izsniegšanu transportlīdzeklim dzīvnieku pārvadāšanai;\n18) valsts nodevas apmēru un samaksas kārtību par savvaļas sugu dzīvnieku turēšanas vietas reģistrāciju;\n19) (izslēgts ar 08.03.2012 . likumu) ;\n20) prasības klaiņojošu suņu un kaķu izķeršanai, dzīvnieku ķērāja pienākumus, apmācības programmu, apmācības un reģistrācijas kārtību, samaksu par dzīvnieku ķērāja apmācību un apliecības izgatavošanu un izsniegšanu, kā arī dzīvnieku ķērāja apliecību izsniegšanas un anulēšanas kārtību;\n21) prasības savvaļas sugu dzīvnieku turēšanai zooloģiskajā dārzā un prasības zooloģiskā dārza izveidošanai un reģistrācijai ;\n22) savvaļas sugu dzīvnieku turēšanas vietu reģistrācijas kārtību;\n23) kārtību, kādā veicama apmācība dzīvnieku labturības jautājumos, apmācības programmu, kārtību, kādā izsniedzams un anulējams apliecinājums par veikto apmācību, kā arī apmācīto personu reģistrācijas kārtību;\n24) valsts nodevas apmēru un kārtību, kādā veicama samaksa par atļaujas izsniegšanu atbildīgajai personai par izmēģinājuma, izmēģinājumā iesaistīto personu un izmēģinājumu dzīvnieku pārraudzību."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "11",
+      "title": "(1) Dzīvnieku aizsardzības un labturības konsultatīvā padome ir konsultatīva institūcija, kas izglīto sabiedrību un dod ieteikumus valsts pārvaldes iestādēm un pašvaldībām dzīvnieku aizsardzības un labturības jomā. Lai veicinātu sabiedrības līdzdalību dzīvnieku aizsardzības un labturības jautājumu risināšanā, šīs padomes sastāvā ir valsts pārvaldes iestāžu un zinātnisko institūciju, kā arī biedrību un nodibinājumu pārstāvji. Ievērojot proporcionalitātes principu, padomes sastāvā iekļauj pārstāvjus no biedrībām un nodibinājumiem, kas darbojas dzīvnieku aizsardzības un labturības jomā, kā arī apvieno lauksaimniecības dzīvnieku audzētājus.",
+      "content": "(2) Ministru kabinets apstiprina Dzīvnieku aizsardzības un labturības konsultatīvās padomes nolikumu .\n(3) Dzīvnieku aizsardzības un labturības konsultatīvās padomes sastāvu apstiprina zemkopības ministrs."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "12",
+      "title": "(1) Par šā likuma pārkāpumiem personas saucamas pie likumā noteiktās atbildības.",
+      "content": "(2) Personas saukšana pie administratīvās vai kriminālās atbildības neatbrīvo šo personu no pienākuma atlīdzināt likuma pārkāpumu rezultātā nodarītos zaudējumus.\n(3) Ja dzīvnieka īpašnieks veic vai pieļauj šā likuma 4.pantā minētās darbības vai neveic 5.panta otrajā daļā minētās darbības, 9.panta pirmajā daļā minēto iestāžu amatpersonas savas kompetences ietvaros var dzīvnieku konfiscēt likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Lauksaimniecības dzīvnieku aizsardzība",
+      "section": "13",
+      "title": "Savvaļas sugas dzīvnieku turēt ierobežotā platībā dzīvnieku izcelsmes produktu ieguvei vai citos lauksaimnieciskos nolūkos atļauts normatīvajos aktos noteiktajā kārtībā.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 13.1",
+      "chapter": "II nodaļa Lauksaimniecības dzīvnieku aizsardzība",
+      "section": "13.1",
+      "title": "13. 1 pants. (Pants stājas spēkā 01.01.2028. un iekļauts likuma redakcijā uz 01.01.2028. . Sk. pārejas noteikumu 22. punktu)",
+      "content": "13. 1 pants. (Pants stājas spēkā 01.01.2028. un iekļauts likuma redakcijā uz 01.01.2028. . Sk. pārejas noteikumu 22. punktu)"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Lauksaimniecības dzīvnieku aizsardzība",
+      "section": "14",
+      "title": "Ja lauksaimniecības dzīvnieks ir slims vai guvis traumu, dzīvnieka īpašnieks vai turētājs nekavējoties nodrošina tam nepieciešamo aprūpi un pieaicina praktizējošu veterinārārstu ārstnieciskās palīdzības sniegšanai.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Lauksaimniecības dzīvnieku aizsardzība",
+      "section": "15",
+      "title": "(Izslēgts ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )",
+      "content": "15.pants. (Izslēgts ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "16",
+      "title": "(Izslēgts ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )",
+      "content": "16.pants. (Izslēgts ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 16.1",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "16.1",
+      "title": "16. 1 pants. Ministru kabinets attiecībā uz mājas (istabas) dzīvnieku labturību un aizsardzību nosaka:",
+      "content": "1) prasības attiecībā uz mājas (istabas) dzīvnieku turēšanas vietām, barošanu, dzirdināšanu, fiziskām aktivitātēm un pārvadāšanu;\n2) prasības suņa turēšanai ārpus telpām tā īpašnieka vai turētāja lietošanā esošā teritorijā;\n3) prasības, kas jāievēro, lai suns, kaķis vai mājas (istabas) sesks varētu uzturēties ārpus tā īpašnieka vai turētāja lietošanā esošas teritorijas;\n4) prasības attiecībā uz mājas (istabas) dzīvnieku demonstrēšanu publiskā izstādē;\n5) gadījumus, kad suni atļauts piesiet;\n6) (punkts stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu)."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "17",
+      "title": "Mājas (istabas) dzīvnieku aizliegts:",
+      "content": "1) izmantot darbam par vilcējspēku (izņemot suņus speciālā aizjūgā);\n2) audzēt un izmantot pārtikas un kažokādu ieguvei."
+    },
+    {
+      "provision_ref": "Art. 17.1",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "17.1",
+      "title": "17. 1 pants. (1) Mājas (istabas) dzīvnieku pavairo, nekaitējot dzīvnieka veselībai, atbilstoši tā etoloģijai un tādā vecumā, kad tas ir sasniedzis vaislas dzimumgatavību.",
+      "content": "(2) Mājas (istabas) dzīvniekam — suņa, kaķa vai seska mātītei — gada laikā nedrīkst būt vairāk par vienu mazuļu metienu.\n(3) Pavairošanai nedrīkst izmantot slimus mājas (istabas) dzīvniekus, dzīvniekus ar iedzimtām patoloģijām, kā arī fizioloģiski un ģenētiski nesaderīgus dzīvniekus."
+    },
+    {
+      "provision_ref": "Art. 17.2",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "17.2",
+      "title": "17. 2 pants. Suni aizliegts turēt piesietu, izņemot mājas (istabas) dzīvnieku labturības un aizsardzības jomu regulējošos normatīvajos aktos minētus gadījumus.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.07.2024. Sk. pārejas noteikumu 23. punktu)"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18",
+      "title": "Aizliegts izdarīt ķirurģiskas operācijas mājas (istabas) dzīvniekam, lai pārveidotu tā ārējo izskatu vai citos neārstnieciskos nolūkos, izņemot gadījumus, kad operāciju noteicis praktizējošs veterinārārsts. Praktizējošam veterinārārstam atļauts šā likuma 18. 1 pantā noteikto šķirņu suņiem izdarīt astes apgriešanu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. Sk. pārejas noteikumu 9.punktu)"
+    },
+    {
+      "provision_ref": "Art. 18.1",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18.1",
+      "title": "18. 1 pants. Praktizējošam veterinārārstam atļauts izdarīt astes apgriešanu šādu šķirņu suņiem:",
+      "content": "1) asspalvainais foksterjers;\n2) gludspalvainais foksterjers;\n3) krievu medību spaniels;\n4) vācu asspalvainais putnusuns;\n5) vācu īsspalvainais putnusuns;\n6) vācu medību terjers;\n7) Velsas terjers."
+    },
+    {
+      "provision_ref": "Art. 18.2",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18.2",
+      "title": "18. 2 pants. (1) Mājas (istabas) dzīvnieka — suņa, kaķa vai mājas (istabas) seska — īpašniekam vai turētājam, kurš pavairo dzīvnieku, ir pienākums reģistrēt dzīvnieka pavairošanas faktu, izdarot atzīmi mājas (istabas) dzīvnieku reģistra datubāzē.",
+      "content": "(2) Mājas (istabas) dzīvnieka īpašnieks, kas pavairo sev piederošu suni, kaķi vai mājas (istabas) sesku un atsavina tā pēcnācējus, ir apmācīts mājas (istabas) dzīvnieku labturības un aizsardzības jomā un ir saņēmis apliecinājumu par to.\n(3) Ministru kabinets attiecībā uz apmācību mājas (istabas) dzīvnieku labturības un aizsardzības jomā nosaka:\n1) prasības attiecībā uz izglītību un darba pieredzi personām, kas ir tiesīgas apmācīt;\n2) prasības attiecībā uz izglītību un darba pieredzi personām, kurām nav nepieciešama papildu apmācība;\n3) apmācības programmas saturu un apjomu, periodiskumu un pārbaudījuma norises kārtību;\n4) prasības attiecībā uz apmācīto personu uzskaiti un apliecībā par apmācību norādāmo informāciju.\n(4) Ministru kabinets attiecībā uz mājas (istabas) dzīvnieku — suņu, kaķu vai mājas (istabas) sesku — pavairošanu nosaka:\n1) prasības attiecībā uz telpām, aprīkojumu, inventāru un dzīvnieku kopēju;\n2) prasības attiecībā uz dzīvnieku apzīmēšanu un reģistrāciju;\n3) labturības prasības attiecībā uz dzīvnieku turēšanu, tostarp veselību, barošanu, dzirdināšanu, fiziskām aktivitātēm un socializāciju;\n4) dzīvnieku atsavināšanas prasības un kārtību;\n5) prasības attiecībā uz veterinārmedicīnisko aprūpi;\n6) prasības attiecībā uz blakusproduktu savākšanu un uzglabāšanu;\n7) dezinsekcijas un dezinfekcijas kārtību."
+    },
+    {
+      "provision_ref": "Art. 18.3",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18.3",
+      "title": "18. 3 pants. (1) Mājas (istabas) dzīvnieka īpašnieks, atsavinot dzīvnieku, tā nākamajam īpašniekam sniedz rakstveida informāciju par dzīvnieka vecumu, sugu un šķirni, izcelsmes valsti, veselības stāvokli, apzīmēšanu un reģistrāciju, uzvedības un turēšanas īpatnībām.",
+      "content": "(2) Persona, kas piedāvā atsavināšanai suni, kaķi vai mājas (istabas) sesku, sludinājumā norāda informāciju atbilstoši normatīvajiem aktiem par mājas (istabas) dzīvnieka atsavināšanu.\n(3) Ministru kabinets nosaka:\n1) prasības attiecībā uz minimālo vecumu, kādā mājas (istabas) dzīvnieku var atsavināt;\n2) prasības attiecībā uz atsavināmā mājas (istabas) dzīvnieka fizioloģiju un veselības stāvokli;\n3) sludinājumā par suņa, kaķa vai mājas (istabas) seska piedāvāšanu atsavināšanai sniedzamo informāciju par dzīvnieka vecumu, šķirni, izcelsmes valsti, veselības stāvokli, apzīmēšanu un reģistrāciju;\n4) dokumentus, ar kuriem mājas (istabas) dzīvnieku atsavina, to nododot nākamajam īpašniekam."
+    },
+    {
+      "provision_ref": "Art. 18.4",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18.4",
+      "title": "18. 4 pants. (1) Specializētās tirdzniecības vietas īpašnieks nodrošina, ka vismaz viens tirdzniecības vietas darbinieks ir apmācīts mājas (istabas) dzīvnieku labturības un aizsardzības jomā un ir saņēmis apliecinājumu par to.",
+      "content": "(2) Ministru kabinets specializētajām tirdzniecības vietām nosaka:\n1) prasības attiecībā uz to telpām, aprīkojumu un inventāru;\n2) dezinfekcijas kārtību;\n3) blakusproduktu savākšanas un uzglabāšanas kārtību;\n4) prasības attiecībā uz mājas (istabas) dzīvnieku turēšanu, barošanu un dzirdināšanu;\n5) mājas (istabas) dzīvnieka pircējam sniedzamo informāciju par attiecīgās sugas dzīvnieka turēšanas prasībām;\n6) prasības attiecībā uz mājas (istabas) dzīvnieka sugu, fizioloģiju un veselības stāvokli, kuras jāievēro, lai dzīvnieku pieņemtu tirdzniecībai specializētajā tirdzniecības vietā;\n7) kārtību, kādā mājas (istabas) dzīvnieku pieņem tirdzniecībai specializētajā tirdzniecības vietā."
+    },
+    {
+      "provision_ref": "Art. 18.5",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18.5",
+      "title": "18. 5 pants. Lai suns neapdraudētu cilvēkus vai citus dzīvniekus, pašvaldības nosaka, kurās attiecīgās pašvaldības administratīvās teritorijas publiskajās vietās un kurā laikā atļauts:",
+      "content": "1) atrasties ar suni;\n2) atrasties ar suni bez pavadas."
+    },
+    {
+      "provision_ref": "Art. 18.6",
+      "chapter": "III nodaļa Mājas (istabas) dzīvnieku aizsardzība",
+      "section": "18.6",
+      "title": "18. 6 pants. (Pants stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu)",
+      "content": "18. 6 pants. (Pants stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu)"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Sporta, darba un atrakciju dzīvnieku aizsardzība un labturība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "19",
+      "title": "Dzīvnieku sacensību organizētājs atbilstoši normatīvajiem aktiem par kārtību, kādā organizējamas dzīvnieku sacensības, tirgi, izsoles, izstādes un citi pasākumi ar dzīvnieku piedalīšanos, informē attiecīgo Pārtikas un veterinārā dienesta teritoriālo struktūrvienību par sacensību norises vietu un laiku.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Sporta, darba un atrakciju dzīvnieku aizsardzība un labturība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "20",
+      "title": "(Izslēgts ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )",
+      "content": "20.pants. (Izslēgts ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Sporta, darba un atrakciju dzīvnieku aizsardzība un labturība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "21",
+      "title": "Aizliegts dzīvniekam ievadīt zāļu līdzekļus (dopingu), kas ietekmē tā dabiskās spējas.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Sporta, darba un atrakciju dzīvnieku aizsardzība un labturība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "22",
+      "title": "Sporta, darba vai atrakciju dzīvnieku izvēlas atbilstoši izmantošanas veidam, izmantošanas apstākļiem un paredzēto funkciju veikšanai.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Sporta, darba un atrakciju dzīvnieku aizsardzība un labturība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "23",
+      "title": "Persona drīkst izmantot sporta, darba vai atrakciju dzīvnieku, ja tā pārzina un ievēro attiecīgās dzīvnieku sugas turēšanu, apmācību un izmantošanu atbilstoši normatīvajiem aktiem par labturības prasībām sporta, darba un atrakciju dzīvnieku turēšanai, apmācībai un izmantošanai sacensībās, darbā vai atrakcijās.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 23.1",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "23.1",
+      "title": "23. 1 pants. Izmēģinājumu dzīvnieka lietotājs procedūras vietā vienmēr, kad vien iespējams, izmanto zinātniski apmierinošu metodi vai testēšanas stratēģiju, kas nav saistīta ar dzīvu dzīvnieku izmantošanu.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 23.2",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "23.2",
+      "title": "23. 2 pants. Izmēģinājumu dzīvnieka audzētājs, piegādātājs un lietotājs pilnveido dzīvnieku audzēšanas, turēšanas, kopšanas un procedūrās izmantojamās metodes, lai likvidētu vai līdz minimumam samazinātu jebkuras iespējamās sāpes, ciešanas, diskomfortu vai ilgstošu kaitējumu dzīvniekiem.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "24",
+      "title": "Procedūrās aizliegts izmantot:",
+      "content": "1) dzīvniekus, ja pastāv cita zinātniska metode vai testēšanas stratēģija, kas nav saistīta ar dzīvu dzīvnieku izmantošanu;\n2) dzīvus dzīvniekus, ja vajadzīgo rezultātu iegūšanai Eiropas Savienības tiesību aktos ir atzīta cita metode vai testēšanas stratēģija, kas nav saistīta ar dzīvu dzīvnieku izmantošanu, neskarot Latvijas Republikas normatīvos aktus, ar kuriem aizliedz noteiktus metožu veidus;\n3) dzīvniekus, kas pieder pie apdraudētajām sugām, kuras minētas 1973.gada Vašingtonas konvencijā par starptautisko tirdzniecību ar apdraudētajām savvaļas dzīvnieku un augu sugām un Padomes 1996.gada 9.decembra regulas (EK) Nr. 338/97 par savvaļas dzīvnieku un augu sugu aizsardzību, reglamentējot to tirdzniecību, A pielikumā;\n4) dzīvniekus, kas sagūstīti savvaļā;\n5) primātus, kas nav cilvēkveidīgie primāti, tostarp cilvēkveidīgos pērtiķus;\n6) klaiņojošus un mājas (istabas) dzīvniekus."
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "24.1",
+      "title": "24. 1 pants. Pārtikas un veterinārais dienests atbilstoši Ministru kabineta noteiktajām prasībām var atļaut izmantot procedūrās savvaļā sagūstītos dzīvniekus, primātus, kas nav cilvēkveidīgie primāti, izņemot cilvēkveidīgos pērtiķus, un apdraudēto dzīvnieku sugu dzīvniekus.",
+      "content": "( 08.03.2012 . likuma redakcijā ar grozījumiem, kas izdarīti ar 21.11.2019 . likumu, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 24.2",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "24.2",
+      "title": "24. 2 pants. Ministru kabinets nosaka kārtību, kādā savvaļā sagūstītos dzīvniekus, primātus, kas nav cilvēkveidīgie primāti, izņemot cilvēkveidīgos pērtiķus, un apdraudēto dzīvnieku sugu dzīvniekus izmanto procedūrās.",
+      "content": "( 08.03.2012 . likuma redakcijā ar grozījumiem, kas izdarīti ar 21.11.2019 . likumu, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "25",
+      "title": "Izmēģinājumu dzīvnieku atļauts izmantot procedūrās, ja to mērķis ir:",
+      "content": "1) pamatpētījumi;\n2) praktiskie vai lietišķie pētījumi, kuru nolūks ir:\na) nepieļaut, novērst, diagnosticēt vai ārstēt cilvēku un dzīvnieku vai augu slimības, veselības traucējumus vai citas anomālijas vai to izraisīto ietekmi,\nb) novērtēt, noteikt, regulēt vai mainīt cilvēka, dzīvnieku vai augu fizioloģisko stāvokli,\nc) nodrošināt dzīvnieku labturību un uzlabot lauksaimniecības dzīvnieku turēšanas apstākļus;\n3) zāļu, pārtikas, barības un citu vielu vai produktu izstrāde, ražošana vai kvalitātes, efektivitātes un drošības pārbaude šā panta 2. punktā minētajos nolūkos;\n4) dabiskās vides aizsardzība cilvēka vai dzīvnieku veselības vai labklājības interesēs;\n5) pētījumi, kuru nolūks ir saglabāt dzīvnieku sugu;\n6) augstākā izglītība vai apmācība, kuras nolūks ir iegūt, uzturēt vai uzlabot arodprasmes;\n7) tiesu medicīniskā ekspertīze."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "26",
+      "title": "Izmēģinājumu dzīvnieka izmantošanai zinātniskos, eksperimentālos vai izglītošanas nolūkos izraugāma tāda procedūra, kurā:",
+      "content": "1) izmanto minimālu dzīvnieku skaitu;\n2) iesaista izmēģinājumu dzīvniekus ar zemāko spēju just sāpes, ciešanas, diskomfortu vai ilgstošu kaitējumu;\n3) rada izmēģinājumu dzīvniekam vismazākās iespējamās sāpes, ciešanas, diskomfortu vai ilgstošu kaitējumu;\n4) ir vislielākā iespēja nodrošināt apmierinošus rezultātus."
+    },
+    {
+      "provision_ref": "Art. 26.1",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "26.1",
+      "title": "26. 1 pants. (1) Dzīvnieka izmantošanai procedūrās ir nepieciešama Pārtikas un veterinārā dienesta izdota izmēģinājuma projekta atļauja un atļauja par izmēģinājuma projektu atbildīgajai personai.",
+      "content": "(2) Papildus šā panta pirmajā daļā noteiktajam procedūrās atļauts izmantot dzīvniekus, kas mīt savvaļā, ja ir saņemta Valsts meža dienesta atļauja medījamo savvaļas sugu dzīvnieku izmantošanai procedūrā vai Dabas aizsardzības pārvaldes atļauja nemedījamo savvaļas sugu dzīvnieku izmantošanai procedūrā.\n(3) Izmēģinājuma projekta atļauju Pārtikas un veterinārais dienests izdod 40 darbdienu laikā pēc tam, kad saņemti visi nepieciešamie dokumenti, kuri sagatavoti atbilstoši normatīvajos aktos noteiktajām prasībām un kuros pilnīgi ietverta ar normatīvajiem aktiem pieprasītā informācija. Atļaujas izsniegšanas termiņu var pagarināt vienu reizi uz laiku līdz 15 darbdienām, ja tas pamatots ar izmēģinājuma projekta sarežģītību vai daudzdisciplināro būtību.\n(4) Izmēģinājuma projekta atļaujas izsniegšana ir maksas pakalpojums.\n(5) Maksas apmēru un samaksas kārtību par izmēģinājuma projekta atļaujas izsniegšanu, grozīšanu un atjaunošanu, kā arī maksas apmēru un samaksas kārtību par izmēģinājuma projekta izvērtēšanā nepieciešamo ekspertu (pētnieku) piesaisti nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 26.2",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "26.2",
+      "title": "26. 2 pants. Valsts zinātniskais institūts \"Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts \"BIOR\"\":",
+      "content": "1) informē Eiropas Komisiju par laboratorijām, kas spēj nodrošināt atbilstības novērtēšanu (validāciju), izmantojot alternatīvas pieejas metodes, kuras nav saistītas ar dzīvnieku izmantošanu vai kurās izmanto mazāk dzīvnieku, vai kuras saistītas ar mazāk sāpīgām procedūrām;\n2) konsultē ieinteresētās personas par atbilstības novērtēšanai (validācijai) ieteiktās alternatīvās pieejas atbilstību un piemērotību."
+    },
+    {
+      "provision_ref": "Art. 26.3",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "26.3",
+      "title": "26. 3 pants. (1) Valsts zinātniskais institūts \"Pārtikas drošības, dzīvnieku veselības un vides zinātniskais institūts \"BIOR\"\" izveido zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komiteju un koordinē tās darbību. Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komitejā iekļauj zinātnisko institūciju, kā arī biedrību un nodibinājumu pārstāvjus, kas darbojas dzīvnieku aizsardzības un labturības jomā.",
+      "content": "(2) Ministru kabinets apstiprina zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komitejas nolikumu ."
+    },
+    {
+      "provision_ref": "Art. 26.4",
+      "chapter": "V nodaļa Izmēģinājumu dzīvnieku aizsardzība (Nodaļas nosaukums 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )",
+      "section": "26.4",
+      "title": "26. 4 pants. Zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komiteja:",
+      "content": "1) konsultē kompetentās iestādes un dzīvnieku labturības struktūras, kas saistītas ar izmēģinājumu dzīvnieku iegūšanu, audzēšanu, izmitināšanu, kopšanu un izmantošanu procedūrās, un nodrošina paraugprakses apmaiņu;\n2) apmainās ar informāciju ar citu Eiropas Savienības dalībvalstu kompetentajām institūcijām par izmēģinājumu dzīvnieku labturības struktūru darbību un izmēģinājumu projektu izvērtēšanu, kā arī dalās paraugprakses pieredzē ar Eiropas Savienības dalībvalstīm."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "27",
+      "title": "Savvaļas abiniekus, rāpuļus, putnus un zīdītājus aizliegts sagūstīt un turēt nebrīvē, izņemot šajā likumā un dabas aizsardzību un medības reglamentējošos normatīvajos aktos noteiktos gadījumus.",
+      "content": "( 31.03.2010 . likuma redakcijā ar grozījumiem, kas izdarīti ar 15.06.2017 . likumu, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 27.1",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "27.1",
+      "title": "27. 1 pants. Savvaļas sugas dzīvnieku (gan savvaļā iegūtu, gan nebrīvē audzētu) aizliegts apmācīt un izmantot kā atrakciju dzīvnieku un to izrādīt publiski kā atrakciju dzīvnieku.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "28",
+      "title": "28.pants.",
+      "content": "(Izslēgts ar 06.12.2001 . likumu, kas stājas spēkā 05.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "29",
+      "title": "Pieradinātu un dzīvei savvaļā nepielāgotu savvaļas dzīvnieku aizliegts izlaist brīvā dabā.",
+      "content": "29.pants. Pieradinātu un dzīvei savvaļā nepielāgotu savvaļas dzīvnieku aizliegts izlaist brīvā dabā."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "30",
+      "title": "30.pants.",
+      "content": "(Izslēgts ar 06.12.2001 . likumu, kas stājas spēkā 05.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "31",
+      "title": "Zooloģiskajam dārzam ir pienākums radīt katrai dzīvnieku sugai tās dabiskajai videi tuvinātus apstākļus un nodrošināt dzīvnieka fizioloģisko un zoopsiholoģisko vajadzību apmierināšanu, kā arī sniegt apmeklētājiem informāciju par publikas apskatei izstādītajām sugām un to dabisko dzīves vidi.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "32",
+      "title": "(1) Dabas aizsardzības pārvalde izsniedz zooloģiskā dārza izveidošanas atļauju.",
+      "content": "(2) Šā likuma 3. 1 panta pirmajā daļā minēto dzīvnieku īpašnieks (turētājs) savvaļas sugas dzīvnieku turēšanas vietu piesaka reģistrācijai Pārtikas un veterinārajā dienestā Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "33",
+      "title": "Savvaļas sugas dzīvnieku īpašniekam (turētājam) nepieciešams normatīvajos aktos paredzēts dokuments par katra dzīvnieka izcelsmi (likumīgu iegūšanu).",
+      "content": "(Ar grozījumiem, kas izdarīti ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "34",
+      "title": "Savvaļas sugas dzīvnieku īpašnieka (turētāja) pienākums ir radīt katras sugas dzīvniekiem to dabiskajai videi tuvinātus apstākļus un nodrošināt katras sugas dzīvnieku fizioloģisko un zoopsiholoģisko vajadzību apmierināšanu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 31.03.2010 . likumu, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "35",
+      "title": "Savvaļas dzīvnieku ieved valstī un izved no valsts saskaņā ar attiecīgu normatīvo aktu prasībām.",
+      "content": "( 06.12.2001 . likuma redakcijā, kas stājas spēkā 05.01.2002. )"
+    },
+    {
+      "provision_ref": "Art. 35.1",
+      "chapter": "VI nodaļa Savvaļas dzīvnieku aizsardzība",
+      "section": "35.1",
+      "title": "35. 1 pants. Lai nodrošinātu Grenlandes roņu Phoca groenlandica balto pūkaino mazuļu un zilmuguras roņu Cystophora cristata mazuļu starptautisku aizsardzību, aizliegts komerciālos nolūkos importēt to jēlādas, miecētas vai apdarinātas (arī dažādā veidā komplektētas) kažokādas, kā arī kažokādu izstrādājumus.",
+      "content": "( 20.12.2007 . likuma redakcijā, kas stājas spēkā 18.01.2008. )"
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VII nodaļa Dzīvnieku aizsardzība, tos pārvadājot",
+      "section": "36",
+      "title": "(1) Dzīvnieku pārvadā piemērotos transportlīdzekļos, nodrošinot tā veselībai nekaitīgus apstākļus.",
+      "content": "(2) Ja nepieciešams, pirms pārvadāšanas vai pārvadāšanas laikā dzīvniekam drīkst ievadīt nomierinošus zāļu līdzekļus, ievērojot praktizējoša veterinārārsta norādījumus.\n(3) (Izslēgta ar 31.03.2010 . likumu)\n(4) (Izslēgta ar 31.03.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VII nodaļa Dzīvnieku aizsardzība, tos pārvadājot",
+      "section": "37",
+      "title": "Dzīvnieka īpašnieks vai tā pilnvarota persona atbild par šā likuma prasību ievērošanu dzīvnieka pārvadāšanas laikā.",
+      "content": "37.pants. Dzīvnieka īpašnieks vai tā pilnvarota persona atbild par šā likuma prasību ievērošanu dzīvnieka pārvadāšanas laikā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VII nodaļa Dzīvnieku aizsardzība, tos pārvadājot",
+      "section": "38",
+      "title": "(1) Pārvadājamā dzīvnieka muitas kontrole veicama ārpus kārtas.",
+      "content": "(2) Aizkavēt dzīvnieka pārvadāšanu ir pieļaujams tikai dzīvnieka labā vai gadījumos, kad radušās aizdomas par dzīvnieka saslimšanu ar infekcijas slimību."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VIII nodaļa Dzīvnieku patversmes un dzīvnieku viesnīcas",
+      "section": "39",
+      "title": "Vietējās pašvaldības izveido un uztur dzīvnieku patversmes, izķer, izmitina un aprūpē izķertos un atsavinātos mājas (istabas) dzīvniekus, kā arī izmitina un aprūpē bezpalīdzīgā stāvoklī nonākušus savvaļas dzīvniekus vai slēdz līgumu ar Pārtikas un veterinārajā dienestā reģistrētu dzīvnieku patversmi par šādu dzīvnieku izķeršanu, izmitināšanu, uzturēšanu un aprūpi, kā arī ar dzīvnieku ķērāju par dzīvnieku izķeršanu.",
+      "content": "( 31.03.2010 . likuma redakcijā ar grozījumiem, kas izdarīti ar 14.03.2024 . likumu, kas stājas spēkā 01.07.2024. Grozījums par vārdu \"fizisko vai juridisko personu par šādu dzīvnieku izķeršanu, izmitināšanu, uzturēšanu un aprūpi\" aizstāšanu ar vārdiem \"Pārtikas un veterinārajā dienestā reģistrētu dzīvnieku patversmi par šādu dzīvnieku izķeršanu, izmitināšanu, uzturēšanu un aprūpi, kā arī ar dzīvnieku ķērāju par dzīvnieku izķeršanu\" stājas spēkā 01.01.2025. Sk. pārejas noteikumu 24. punktu)"
+    },
+    {
+      "provision_ref": "Art. 39.1",
+      "chapter": "VIII nodaļa Dzīvnieku patversmes un dzīvnieku viesnīcas",
+      "section": "39.1",
+      "title": "39. 1 pants. (1) Persona, kas speciāli aprīkotā telpā vai teritorijā sistemātiski izmitina un aprūpē klaiņojušus un bezpalīdzīgā stāvoklī nonākušus dzīvniekus, kā arī pieņem turēšanai un atsavināšanai dzīvniekus, lai atrastu tiem īpašniekus, minēto dzīvnieku turēšanas vietu reģistrē Pārtikas un veterinārajā dienestā kā dzīvnieku patversmi.",
+      "content": "(2) Persona, kas speciāli aprīkotā telpā vai teritorijā sistemātiski par samaksu noteiktu laiku aprūpē tai īpašnieka atstātu mājas (istabas) dzīvnieku, minēto dzīvnieku aprūpēšanas vietu reģistrē Pārtikas un veterinārajā dienestā kā dzīvnieku viesnīcu.\n(3) Ministru kabinets dzīvnieku patversmēm un dzīvnieku viesnīcām nosaka:\n1) dzīvnieku patversmes reģistrācijas un apstiprināšanas, darbības apturēšanas, kā arī reģistrācijas un apstiprināšanas anulēšanas kārtību;\n2) dzīvnieku viesnīcas reģistrācijas, darbības apturēšanas, kā arī reģistrācijas anulēšanas kārtību;\n3) prasības attiecībā uz telpām, aprīkojumu un inventāru, kā arī personālu;\n4) prasības attiecībā uz dzīvnieku uzņemšanu, apzīmēšanu un reģistrāciju;\n5) labturības prasības attiecībā uz dzīvnieku turēšanu, tostarp barošanu, dzirdināšanu un fiziskām aktivitātēm;\n6) dzīvnieku atsavināšanas prasības un kārtību;\n7) dzīvnieku aprites pārskatu sagatavošanas kārtību;\n8) prasības attiecībā uz veterinārmedicīnisko aprūpi un praktizējoša veterinārārsta pienākumus;\n9) prasības attiecībā uz blakusproduktu savākšanu un uzglabāšanu;\n10) dezinfekcijas kārtību.\n(4) Pārtikas un veterinārais dienests apstiprina patversmes, no kurām suņus, kaķus un mājas (istabas) seskus atsavina uz citu Eiropas Savienības dalībvalsti, atbilstoši regulā (ES) 2019/2035 noteiktajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VIII nodaļa Dzīvnieku patversmes un dzīvnieku viesnīcas",
+      "section": "40",
+      "title": "Patversmē nedrīkst pieļaut dzīvnieku vairošanos.",
+      "content": "40.pants. Patversmē nedrīkst pieļaut dzīvnieku vairošanos."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VIII nodaļa Dzīvnieku patversmes un dzīvnieku viesnīcas",
+      "section": "41",
+      "title": "(1) Patversme drīkst atdot dzīvnieku personai, kas sasniegusi 18 gadu vecumu un apņemas nodrošināt attiecīgā dzīvnieka labturību.",
+      "content": "(2) Patversme nodrošina dzīvnieka sterilizāciju, ja 14 dienu laikā nav izdevies atrast tā īpašnieku vai turētāju.\n(3) Informāciju par dzīvnieka nākamo īpašnieku patversme saglabā ne mazāk par vienu gadu."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VIII nodaļa Dzīvnieku patversmes un dzīvnieku viesnīcas",
+      "section": "42",
+      "title": "Patversme sniedz dzīvnieka nākamajam īpašniekam informāciju par dzīvnieka uzvedības un kopšanas īpatnībām.",
+      "content": "42.pants. Patversme sniedz dzīvnieka nākamajam īpašniekam informāciju par dzīvnieka uzvedības un kopšanas īpatnībām."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VIII nodaļa Dzīvnieku patversmes un dzīvnieku viesnīcas",
+      "section": "43",
+      "title": "Dzīvnieka īpašnieks var uz noteiktu laiku dzīvnieku atstāt dzīvnieku viesnīcas aprūpē.",
+      "content": "43.pants. Dzīvnieka īpašnieks var uz noteiktu laiku dzīvnieku atstāt dzīvnieku viesnīcas aprūpē."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "44",
+      "title": "Dzīvnieku aizliegts nogalināt. Aizliegums neattiecas uz:",
+      "content": "1) lauksaimniecības dzīvniekiem;\n2) dzīvnieka eitanāziju;\n3) medībām;\n4) zveju;\n5) bezmugurkaulniekiem, ciktāl citos likumos nav noteikts citādi, kā arī uz dezinsekciju un peļveidīgo grauzēju deratizāciju;\n6) gadījumiem, kad dzīvnieks, uzbrūkot cilvēkam, apdraud viņa veselību vai dzīvību;\n7) gadījumiem, kad dzīvnieka nogalināšana paredzēta infekcijas slimību vai invazīvo sugu apkarošanas programmā;\n8) izmēģinājumu dzīvnieku nogalināšanu, ja to paredz izmēģinājuma mērķis;\n9) kurmju ķeršanu ar mehāniskām lamatām."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "45",
+      "title": "Dzīvnieku atļauts nogalināt tikai ar dzīvnieka īpašnieka atļauju (eitanāzijas gadījumā — ar rakstveida atļauju), izņemot šā likuma 5.panta trešajā daļā un 44.panta 5., 6. un 7.punktā noteiktos gadījumus.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "46",
+      "title": "Dzīvnieka nogalināšanai izraugāms veids, kas dzīvniekam rada vismazāk ciešanu.",
+      "content": "46.pants. Dzīvnieka nogalināšanai izraugāms veids, kas dzīvniekam rada vismazāk ciešanu."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "47",
+      "title": "Lauksaimniecības dzīvnieku drīkst nokaut, ja:",
+      "content": "1) tas audzēts cilvēka uzturam paredzētas dzīvnieku izcelsmes pārtikas produkcijas un rūpniecības izejvielu ieguvei;\n2) dzīvnieka turēšana tā neproduktivitātes dēļ kļuvusi ekonomiski neizdevīga;\n3) dzīvniekam draud bojāeja slimības vai traumas dēļ;\n4) tas paredzēts infekcijas slimību apkarošanas programmā."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "48",
+      "title": "(1) Lauksaimniecības dzīvnieku atļauts nokaut, izmantojot pirmskaušanas apdullināšanu, izņemot ierobežotās platībās turētu savvaļas sugas dzīvnieku un brīvās turēšanas sistēmā turētu gaļas šķirnes liellopu.",
+      "content": "(2) Lauksaimniecības dzīvnieku, izmantojot pēckaušanas apdullināšanu, atļauts nokaut kautuvē saskaņā ar reliģisko kopienu tradicionālajām gaļas ieguves metodēm un normatīvajiem aktiem par labturības prasībām kaušanai paredzēto lauksaimniecības dzīvnieku aizsardzībai.\n(3) Lauksaimniecības dzīvnieku atļauts nokaut bez apdullināšanas galējas nepieciešamības gadījumā, kā arī gadījumā, kad slimības vai traumas dēļ iespējama dzīvnieka nobeigšanās."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "49",
+      "title": "Grūsna lauksaimniecības dzīvnieka tīša nokaušana ir aizliegta, izņemot praktizējoša veterinārārsta noteiktos gadījumus.",
+      "content": "49.pants. Grūsna lauksaimniecības dzīvnieka tīša nokaušana ir aizliegta, izņemot praktizējoša veterinārārsta noteiktos gadījumus."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "50",
+      "title": "Dzīvnieka eitanāziju atļauts veikt, ja:",
+      "content": "1) dzīvnieks ir neārstējami slims vai tam novecošanas procesā radušās neatgriezeniskas izmaiņas, kas dzīvniekam sagādā ciešanas;\n2) dzīvnieks savas agresivitātes dēļ kļuvis bīstams cilvēkiem vai citiem dzīvniekiem;\n3) īpašnieks nespēj pildīt šā likuma 5.panta otrajā daļā minētos pienākumus un saskaņā ar šā likuma 5.panta trešo daļu nav spējis atsavināt dzīvnieku citai personai;\n4) tas paredzēts infekcijas slimību apkarošanas programmā;\n5) klaiņojošam dzīvniekam 14 dienu laikā nav atrasts tā iepriekšējais īpašnieks vai jauns turētājs;\n6) klaiņojošs dzīvnieks ir atrasts smagā traumatiskā stāvoklī;\n7) 30 dienu laikā pēc tam, kad stājies spēkā lēmums par dzīvnieka konfiskāciju, neizdodas atrast tam jaunu īpašnieku;\n8) (izslēgts ar 03.12.2025 . likumu);\n9) (punkts stājas spēkā 01.07.2026. un iekļauts likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 26. punktu)."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "51",
+      "title": "Dzīvnieka eitanāziju izdara praktizējošs veterinārārsts.",
+      "content": "51.pants. Dzīvnieka eitanāziju izdara praktizējošs veterinārārsts."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "IX nodaļa Dzīvnieku nogalināšana",
+      "section": "52",
+      "title": "(1) Eitanāzijai izmanto zāļu līdzekļus, kuri izraisa tūlītēju un neatgriezenisku samaņas zudumu un nāvi.",
+      "content": "(2) Pēc eitanāzijas praktizējošam veterinārārstam jāpārliecinās, ka iestājusies dzīvnieka bioloģiskā nāve."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "53",
+      "title": "(1) Par mājas (istabas) dzīvnieku atsavināšanas noteikumu pārkāpšanu piemēro naudas sodu fiziskajai personai līdz četrdesmit četrām naudas soda vienībām, bet juridiskajai personai — no sešām līdz astoņdesmit četrām naudas soda vienībām.",
+      "content": "(2) Par tādu mājas (istabas) dzīvnieku piedalīšanos sacensībās, tirgos un izsolēs, kā arī demonstrēšanu publiskās izstādēs, kuriem izdarīta izskatu pārveidojoša operācija, piemēro naudas sodu fiziskajai personai līdz divdesmit divām naudas soda vienībām, bet juridiskajai personai — no trim līdz četrdesmit divām naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "54",
+      "title": "(1) Par dzīvnieku pārvadāšanu bez izsniegtas dzīvnieku pārvadātāja atļaujas, kvalifikācijas sertifikāta par dzīvnieku labturību pārvadāšanas laikā vai transportlīdzekļa atbilstības sertifikāta piemēro naudas sodu fiziskajai personai līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no trim līdz simt četrdesmit naudas soda vienībām.",
+      "content": "(2) Par mājas (istabas) dzīvnieku pārvadāšanai transportlīdzeklī noteikto prasību neievērošanu piemēro naudas sodu fiziskajai personai līdz četrpadsmit naudas soda vienībām, bet juridiskajai personai — no divdesmit divām līdz piecdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "55",
+      "title": "(1) Par izmēģinājumu dzīvnieku izmantošanu procedūrā, ja tā veikta pretrunā ar izmēģinājumu dzīvnieku aizsardzību regulējošiem normatīvajiem aktiem, piemēro naudas sodu fiziskajai personai no desmit līdz simt naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divsimt naudas soda vienībām.",
+      "content": "(2) Par dzīvnieku izmantošanu procedūrā bez Pārtikas un veterinārā dienesta izsniegtas izmēģinājuma projekta atļaujas piemēro naudas sodu fiziskajai personai no desmit līdz simt naudas soda vienībām, bet juridiskajai personai — no divdesmit līdz divsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "56",
+      "title": "(1) Par tādu normatīvo aktu pārkāpšanu, kuri regulē savvaļas sugu dzīvnieku ieguvi, iegādi, turēšanu nebrīvē, atsavināšanu vai turēšanu pārdošanai vai apmaiņai un piedāvāšanu tirdzniecībā, piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.",
+      "content": "(2) Par savvaļas sugu dzīvnieku turēšanai zooloģiskajā dārzā noteikto prasību un zooloģiskā dārza izveidošanai un reģistrācijai noteikto prasību pārkāpšanu piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.\n(3) Par savvaļas sugas dzīvnieka (gan savvaļā iegūta, gan nebrīvē audzēta) apmācīšanu un izmantošanu kā atrakciju dzīvnieku un tā izrādīšanu publiski kā atrakciju dzīvnieku piemēro naudas sodu fiziskajai personai no divdesmit līdz divsimt naudas soda vienībām, bet juridiskajai personai — no trīsdesmit līdz trīssimt piecdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "57",
+      "title": "Par dzīvnieku labturības prasību pārkāpumiem piemēro naudas sodu fiziskajai personai līdz trīssimt piecdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit divām līdz piecsimt naudas soda vienībām.",
+      "content": "( 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)"
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "58",
+      "title": "Par dzīvnieku turēšanas noteikumu pārkāpšanu, ar ko citam dzīvniekam nodarīts fizisks kaitējums vai cilvēkam nodarīts fizisks vai materiāls kaitējums, piemēro naudas sodu fiziskajai personai no četrpadsmit līdz trīssimt septiņdesmit piecām naudas soda vienībām, bet juridiskajai personai — no divdesmit divām līdz sešsimt naudas soda vienībām.",
+      "content": "( 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)"
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "59",
+      "title": "Par cietsirdīgu izturēšanos pret dzīvnieku piemēro naudas sodu fiziskajai personai no divdesmit līdz četrsimt naudas soda vienībām, bet juridiskajai personai — no četrdesmit līdz septiņsimt naudas soda vienībām, nosakot dzīvnieku turēšanas tiesību aizliegumu uz laiku līdz diviem gadiem.",
+      "content": "( 21.11.2019 . likuma redakcijā ar grozījumiem, kas izdarīti ar 14.03.2024 . likumu, kas stājas spēkā 01.07.2024. )"
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "60",
+      "title": "(1) Administratīvā pārkāpuma procesu par šā likuma 54. panta otrajā daļā, 57. un 58. pantā (ja ar pārkāpumu nodarīts kaitējums cilvēkam) minētajiem pārkāpumiem līdz lietas izskatīšanai veic pašvaldības policija vai pašvaldības administratīvā inspekcija, bet administratīvā pārkāpuma lietu izskata pašvaldības administratīvā komisija vai apakškomisija.",
+      "content": "(2) Administratīvā pārkāpuma procesu par šā likuma 54. panta otrajā daļā un 58. pantā (ja ar pārkāpumu nodarīts kaitējums cilvēkam) minētajiem pārkāpumiem veic Valsts policija.\n(3) Administratīvā pārkāpuma procesu par šā likuma 53. , 54. panta pirmajā daļā, 55. pantā , 56. panta pirmajā un trešajā daļā, 57. un 58. pantā (ja ar pārkāpumu nodarīts kaitējums dzīvniekam), kā arī 59. pantā minētajiem pārkāpumiem veic Pārtikas un veterinārais dienests.\n(3 1 ) Administratīvā pārkāpuma procesu par šā likuma 58. pantā (ja ar pārkāpumu nodarīts kaitējums dzīvniekam) un 59. pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī pašvaldības policija, pašvaldības administratīvā inspekcija vai Valsts policija, bet administratīvā pārkāpuma lietu izskata Pārtikas un veterinārais dienests.\n(4) Administratīvā pārkāpuma procesu par šā likuma 56. pantā minētajiem pārkāpumiem veic Dabas aizsardzības pārvalde.\n(5) Administratīvā pārkāpuma procesu par šā likuma 56. panta pirmajā daļā minētajiem pārkāpumiem līdz administratīvās lietas izskatīšanai veic Valsts policija vai pašvaldības policija, bet administratīvā pārkāpuma lietu izskata Pārtikas un veterinārais dienests vai Dabas aizsardzības pārvalde.\n(6) Administratīvā pārkāpuma procesu par šā likuma 57. pantā minētajiem pārkāpumiem līdz administratīvā pārkāpuma lietas izskatīšanai veic arī Valsts policija, bet administratīvā pārkāpuma lietu izskata Pārtikas un veterinārais dienests."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn1",
+      "title": "1. Personas, kuru īpašumā šā likuma spēkā stāšanās brīdī ir 16.pantā minētie dzīvnieki, nedrīkst pieļaut šo dzīvnieku vairošanos un līdz 2000.gada 1.jūlijam nodrošina dzīvnieku turēšanu savvaļas dzīvnieku kolekcijās, bet, ja tas nav iespējams, — eitanāziju.",
+      "content": "1. Personas, kuru īpašumā šā likuma spēkā stāšanās brīdī ir 16.pantā minētie dzīvnieki, nedrīkst pieļaut šo dzīvnieku vairošanos un līdz 2000.gada 1.jūlijam nodrošina dzīvnieku turēšanu savvaļas dzīvnieku kolekcijās, bet, ja tas nav iespējams, — eitanāziju."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2006.gada 1.janvārim izdod noteikumus, kas reglamentē:",
+      "content": "1) labturības prasības sporta, darba un atrakciju dzīvnieku turēšanai, apmācībai un izmantošanai sacensībām, darbam vai atrakcijām;\n2) labturības prasības dzīvnieku patversmēs un dzīvnieku viesnīcās un kārtību, kādā dzīvnieku nodod dzīvnieku patversmē vai dzīvnieku viesnīcā;\n3) kritērijus un kārtību, kādā suni atzīst par bīstamu, nosaka turpmāko rīcību ar to un prasības bīstama suņa turēšanai;\n4) labturības prasības mājas (istabas) dzīvnieku turēšanai, tirdzniecībai un demonstrēšanai publiskās izstādēs, suņa apmācībai un mājas (istabas) dzīvnieka īpašnieka un turētāja tiesības un pienākumus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn3",
+      "title": "3. Ministru kabinets līdz 2003.gada 1.jūlijam:",
+      "content": "1) apstiprina prasības mājas (istabas) dzīvnieku turēšanai, testēšanai, apmācībai, tirdzniecībai un demonstrēšanai publiskās izstādēs, prasības bīstama suņa turēšanai, kā arī mājas (istabas) dzīvnieka īpašnieka un turētāja tiesības un pienākumus;\n2) apstiprina Dzīvnieku aizsardzības ētikas padomes nolikumu , nosakot tās funkcijas un darbību."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn4",
+      "title": "4.Likuma 8.panta trešā daļa un grozījumi 39.pantā attiecībā uz vietējo pašvaldību uzdevumiem dzīvnieku aizsardzībā stājas spēkā 2006.gada 1.janvārī.",
+      "content": "( 14.04.2005 . likuma redakcijā, kas stājas spēkā 19.05.2005. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn5",
+      "title": "5. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 10.panta 4., 5., 15., 18., 19., 20., 21. un 22.punktā minētos noteikumus.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn6",
+      "title": "6. Līdz šā likuma 10.panta 4., 5., 15., 18., 20., 21. un 22.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 31.decembrim piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2001.gada 23.janvāra noteikumi Nr.34 “ Nemedījamo sugu indivīdu iegūšanas, Latvijas dabai neraksturīgo savvaļas dzīvnieku ieviešanas (introdukcijas), kā arī dzīvnieku populācijas atjaunošanas dabā (reintrodukcijas) atļauju izsniegšanas kārtība ”;\n2) Ministru kabineta 2001.gada 8.maija noteikumi Nr.185 “ Noteikumi par prasībām savvaļas dzīvnieku turēšanai nebrīvē un savvaļas dzīvnieku kolekciju izveidošanai ”;\n3) Ministru kabineta 2001.gada 23.oktobra noteikumi Nr.450 “ Eksperimentos un zinātniskos nolūkos izmantojamo dzīvnieku turēšanas, izmantošanas, tirdzniecības un nogalināšanas kārtība ”;\n4) Ministru kabineta 2003.gada 15.aprīļa noteikumi Nr.180 “ Dzīvnieku izcelsmes produktu ieguvei vai sugas selekcijai izmantojamo savvaļas dzīvnieku turēšanas kārtība iežogotās platībās ”;\n5) Ministru kabineta 2007.gada 4.septembra noteikumi Nr.606 “Prasības attiecībā uz klaiņojošu suņu un kaķu izķeršanu”;\n6) Ministru kabineta 2007.gada 18.septembra noteikumi Nr.634 “ Noteikumi par valsts nodevu par atļauju izmantot dzīvnieku eksperimentos un apmācībās ”;\n7) Ministru kabineta 2007.gada 13.novembra noteikumi Nr.757 “ Noteikumi par valsts nodevu par atļauju savvaļas dzīvnieku kolekcijas izveidei un darbībai ”."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn7",
+      "title": "7. Šā likuma 4. 1 pants neattiecas uz mājas (istabas) dzīvniekiem, kas dzimuši pirms 2010.gada 1.jūnija.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn8",
+      "title": "8. Grozījumi šā likuma 10.panta 18.punktā stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā “ Par nodokļiem un nodevām ”.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn9",
+      "title": "9. Šā likuma 18. 1 pants stājas spēkā vienlaikus ar attiecīgiem grozījumiem Veterinārmedicīnas likumā.",
+      "content": "( 31.03.2010 . likuma redakcijā, kas stājas spēkā 04.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn10",
+      "title": "10. Ministru kabinets līdz 2012.gada 10.novembrim izdod šā likuma 10.panta 4.punkta “a”, “b”, “c”, “d”, “e”, “f” “g”, “h”, “i”, “j”, “k”, “l”, “m”, “n” un “o” apakšpunktā un 24. 2 pantā minētos noteikumus.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn11",
+      "title": "11. Ministru kabinets līdz 2012.gada 31.decembrim izdod šā likuma 10.panta 8., 15., 20. un 23.punktā minētos noteikumus.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn12",
+      "title": "12. Līdz šā likuma pārejas noteikumu 10. un 11.punktā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2012.gada 31.decembrim piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2008.gada 22.decembra noteikumi Nr.1079 “ Dzīvnieku pārvadāšanas noteikumi ”;\n2) Ministru kabineta 2010.gada 21.decembra noteikumi Nr.1131 “ Noteikumi par izmēģinājumu dzīvnieku audzētāju, piegādātāju un lietotāju reģistrāciju, kārtība, kādā veicamas darbības ar izmēģinājumu dzīvniekiem, un izmēģinājumu dzīvniekiem nodrošināmās labturības prasības ”;\n3) Ministru kabineta 2010.gada 28.decembra noteikumi Nr.1191 “ Noteikumi par valsts nodevu par atļauju izmantot dzīvnieku izmēģinājumā ”;\n4) Ministru kabineta 2010.gada 28.decembra noteikumi Nr.1192 “ Klaiņojošu suņu un kaķu izķeršanas kārtība ”."
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn13",
+      "title": "13. Ministru kabinets līdz 2013.gada 30.jūnijam izdod šā likuma 11.panta otrajā daļā minēto Dzīvnieku aizsardzības ētikas padomes nolikumu . Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 30.jūnijam piemērojami Ministru kabineta 2011.gada 8.novembra noteikumi Nr.864 “ Dzīvnieku aizsardzības ētikas padomes nolikums ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn14",
+      "title": "14. Grozījumi šā likuma 10.panta 15. un 19.punktā stājas spēkā vienlaikus ar attiecīgiem grozījumiem likumā “ Par nodokļiem un nodevām ”.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn15",
+      "title": "15. Šā likuma 24. 1 pants un 26. 1 panta trešā daļa stājas spēkā 2013.gada 1.janvārī.",
+      "content": "( 08.03.2012 . likuma redakcijā, kas stājas spēkā 15.04.2012. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn16",
+      "title": "16. Ministru kabinets līdz 2014.gada 1.oktobrim apstiprina Dzīvnieku aizsardzības un labturības konsultatīvās padomes nolikumu .",
+      "content": "( 12.06.2014 . likuma redakcijā, kas stājas spēkā 11.07.2014. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn17",
+      "title": "17. Ministru kabinets līdz 2014.gada 31.decembrim apstiprina zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzības komitejas nolikumu .",
+      "content": "( 12.06.2014 . likuma redakcijā, kas stājas spēkā 11.07.2014. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn18",
+      "title": "18. Grozījums šā likuma 10. pantā par 15. punkta izslēgšanu stājas spēkā 2018. gada 1. janvārī.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn19",
+      "title": "19. Šā likuma 10. panta 24. punkts un 26. 1 panta ceturtā daļa stājas spēkā 2018. gada 1. janvārī.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn20",
+      "title": "20. Šā likuma 10. panta 24. punktā un 26. 1 panta piektajā daļā minētos noteikumus Ministru kabinets izdod līdz 2017. gada 31. decembrim.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 13.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn21",
+      "title": "21. Šā likuma X nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn22",
+      "title": "22. Šā likuma 13. 1 pants stājas spēkā 2028. gada 1. janvārī.",
+      "content": "( 22.09.2022 . likuma redakcijā, kas stājas spēkā 17.10.2022. 13. 1 pants iekļauts likuma redakcijā uz 01.01.2028. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn23",
+      "title": "23. Šā likuma 17. 2 pantā noteiktais aizliegums suni turēt piesietu nav attiecināms uz tādiem suņiem, kas dzimuši līdz 2023. gada 31. augustam.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.07.2024. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn24",
+      "title": "24. Šā likuma 18. 2 pants un grozījums 39. pantā stājas spēkā 2025. gada 1. janvārī.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.07.2024. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn25",
+      "title": "25. Persona, kas pēc šā likuma 39. 1 panta spēkā stāšanās dienas speciāli aprīkotā telpā vai teritorijā veic šā likuma 39. 1 panta pirmajā vai otrajā daļā minētās darbības, ne vēlāk kā līdz 2024. gada 31. decembrim nodrošina iepriekš nereģistrētu attiecīgo dzīvnieku turēšanas vai aprūpēšanas vietu reģistrāciju Pārtikas un veterinārajā dienestā. Pēc noteiktā termiņa šādu nereģistrētu attiecīgo dzīvnieku turēšanas vai aprūpēšanas vietu izmantošana minēto darbību veikšanai ir aizliegta.",
+      "content": "( 14.03.2024 . likuma redakcijā, kas stājas spēkā 01.07.2024. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn26",
+      "title": "26. Grozījumi šā likuma 9. panta pirmās daļas 1. punkta \"a\" apakšpunktā un 1. 1 daļā, kā arī šā likuma 16. 1 panta 6. punkts, 18. 6 pants un 50. panta 9. punkts stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.12.2025 . likuma redakcijā, kas stājas spēkā 01.01.2026. Minētie grozījumi iekļauti likuma redakcijā uz 01.07.2026. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "X nodaļa Administratīvie pārkāpumi dzīvnieku aizsardzības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.11.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 21. punktu)",
+      "section": "pn27",
+      "title": "27. Līdz 2025. gada 31. decembrim saņemtos iesniegumus par suņa uzbrukumu Pārtikas un veterinārais dienests izskata, piemērojot to kārtību suņa atzīšanai par bīstamu, kura bija spēkā iesnieguma iesniegšanas dienā. Par suni, kas atzīts par bīstamu, tā mājas (istabas) dzīvnieka pasē un mājas (istabas) dzīvnieku reģistra datubāzē izdarīto ierakstu saglabā suņa dzīves laikā.",
+      "content": "1) Eiropas Padomes 1983.gada 28.marta direktīvas 83/129/EEK par noteiktu ronēnu ādu un ādas izstrādājumu importēšanu dalībvalstīs;\n2) Eiropas Padomes 1989.gada 8.jūnija direktīvas 89/370/EEK , ar ko groza direktīvu 83/129/EEK par noteiktu ronēnu ādu un ādas izstrādājumu importēšanu dalībvalstīs;\n3) (Izslēgts ar 08.03.2012 . likumu, kas stājas spēkā 15.04.2012. ) ;\n4) Padomes 1998.gada 20.jūlija direktīvas 98/58/EK par lauksaimniecībā izmantojamo dzīvnieku aizsardzību;\n5) Padomes 1999.gada 29.marta direktīvas 1999/22/EK attiecībā uz savvaļas dzīvnieku turēšanu zooloģiskajos dārzos;\n6) Eiropas Parlamenta un Padomes 2010.gada 22.septembra direktīvas 2010/63/ES par zinātniskiem mērķiem izmantojamo dzīvnieku aizsardzību. (Dokuments attiecas uz EEZ.)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atrakciju dzīvnieks",
+      "definition": "dzīvnieks, kuru tur publiskai izrādīšanai izklaides vai sabiedrības izglītošanas nolūkā, kā arī cirka dzīvnieks, izņemot dzīvnieku, kuru tur zooloģiskajā dārzā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dzīvnieka īpašnieks",
+      "definition": "juridiskā vai fiziskā persona, kurai pieder dzīvnieks",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dzīvnieka turētājs",
+      "definition": "persona, kuras rīcībā un aprūpē atrodas dzīvnieks",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dzīvnieku viesnīca",
+      "definition": "speciāli aprīkota vieta, kur mājas (istabas) dzīvnieka īpašnieks uz noteiktu laiku var atstāt aprūpē savu dzīvnieku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "eitanāzija",
+      "definition": "dzīvnieka dzīvības funkciju pārtraukšana nesāpīgā veidā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izmēģinājumu dzīvnieks",
+      "definition": "procedūrām audzēts vai tajās izmantojams dzīvnieks",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izmēģinājumu dzīvnieka audzētājs",
+      "definition": "persona, kas audzē šā likuma pielikumā minētos dzīvniekus izmantošanai procedūrās vai to audu vai orgānu izmantošanai zinātniskiem mērķiem vai kas galvenokārt šiem mērķiem audzē citus dzīvniekus, gūstot vai negūstot no tā peļņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izmēģinājumu dzīvnieka lietotājs",
+      "definition": "persona, kas izmanto dzīvnieku procedūrā, gūstot vai negūstot peļņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izmēģinājumu dzīvnieka piegādātājs",
+      "definition": "persona, kas nav dzīvnieka audzētājs un kas piegādā izmēģinājumu dzīvnieku izmantošanai procedūrās vai tā audu vai orgānu izmantošanai zinātniskiem mērķiem, gūstot vai negūstot peļņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izmēģinājuma projekts",
+      "definition": "darba programma ar noteiktu zinātnisku mērķi, kura ietver vienu vai vairākas procedūras",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "labturība",
+      "definition": "dzīvnieka fizioloģisko un etoloģisko vajadzību nodrošināšanas pasākumu kopums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "lauksaimniecības dzīvnieks",
+      "definition": "dzīvnieks, kuru audzē un tur dzīvnieku izcelsmes produktu iegūšanai vai citos lauksaimnieciskos nolūkos, tai skaitā ierobežotā platībā turēts savvaļas sugas dzīvnieks un ar ģenētiskās modifikācijas metodēm iegūts dzīvnieks",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mājas (istabas) dzīvnieks",
+      "definition": "dzīvnieks, kuru cilvēks tur savam priekam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "procedūra",
+      "definition": "dzīvnieka invazīva vai neinvazīva tāda izmantošana eksperimentālam vai citam zinātniskam mērķim ar zināmu vai nezināmu iznākumu vai izglītības mērķiem, kura var dzīvniekam izraisīt sāpes, ciešanas, diskomfortu vai ilgstošu kaitējumu, kas līdzinās tam, ko izraisa adatas ievadīšana atbilstīgi veterinārmedicīniskajai praksei, vai pārsniedz to. Tas ietver jebkuras darbības, kas izraisa vai var izraisīt dzīvnieka piedzimšanu vai izšķilšanos vai jaunas ģenētiski modificētas dzīvnieku līnijas rašanos un uzturēšanu šādos apstākļos, taču neattiecas uz dzīvnieku nogalināšanu tikai tādēļ, lai izmantotu to orgānus vai audus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "savvaļas sugas dzīvnieks",
+      "definition": "dzīvnieks, kura evolūciju nav apzināti ietekmējis cilvēks, lai apmierinātu savas vajadzības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sporta un darba dzīvnieks",
+      "definition": "dzīvnieks, kurš ir apguvis specifiskas iemaņas un veic cilvēka noteiktu darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zooloģiskais dārzs",
+      "definition": "pastāvīga vieta, kur savvaļas sugu dzīvnieki tiek turēti izstādīšanai publikas apskatei septiņas vai vairāk dienas gadā sugas saglabāšanas, pavairošanas, reintrodukcijas, pētniecības un sabiedrības izglītošanas nolūkā.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

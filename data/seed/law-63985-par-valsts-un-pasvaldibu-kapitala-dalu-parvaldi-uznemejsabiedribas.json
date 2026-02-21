@@ -1,0 +1,295 @@
+{
+  "id": "lv-law-63985",
+  "type": "statute",
+  "title": "Par valsts un pašvaldību kapitāla daļu pārvaldi uzņēmējsabiedrībās",
+  "short_name": "TA-63985",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/63985-par-valsts-un-pasvaldibu-kapitala-dalu-parvaldi-uznemejsabiedribas",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Šis likums nosaka kārtību, kādā tiek pārvaldītas valsts un pašvaldību kapitāla daļas uzņēmējsabiedrībās Latvijas Republikā.",
+      "content": "1.pants. Šis likums nosaka kārtību, kādā tiek pārvaldītas valsts un pašvaldību kapitāla daļas uzņēmējsabiedrībās Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) uzņēmējsabiedrība — šā likuma izpratnē: statūtsabiedrība vai līgumsabiedrība;\n2) statūtsabiedrība — šā likuma izpratnē: akciju sabiedrība, sabiedrība ar ierobežotu atbildību vai paju sabiedrība;\n3) valsts (pašvaldības) statūtsabiedrība — statūtsabiedrība, kurā visas akcijas vai balsis (akciju sabiedrībā), kapitāla daļas (sabiedrībā ar ierobežotu atbildību) vai pajas (paju sabiedrībā) pieder valstij (pašvaldībai);\n4) līgumsabiedrība (līgumsabiedrība ar pilnu atbildību vai komanditsabiedrībai) — šā likuma izpratnē: uzņēmēju (uzņēmumu) apvienība, kura izveidota saskaņā ar tās dibinātāju (uzņēmēju) noslēgtu līgumu un kurā valsts (pašvaldība), valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība ir izdarījusi ieguldījumu;\n5) valsts (pašvaldības) kapitāla daļa — akcija, daļa, paja vai ieguldījums, ko valsts (pašvaldība), valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība ir ieguldījusi uzņēmējsabiedrībā;\n6) pilnvarnieks — šā likuma izpratnē: fiziskā persona, kuru ieceļ valsts (pašvaldības) kapitāla daļas turētājs akcionāra vai dalībnieka tiesību un pienākumu realizēšanai uzņēmējsabiedrībā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "II nodaļa. Kapitāla daļas turētājs",
+      "section": "3",
+      "title": "Valsts (pašvaldības) kapitāla daļas turētājs (turpmāk— turētājs) uzņēmējsabiedrībā ir:",
+      "content": "1) valsts institūcija, kuru Ministru kabinets ir iecēlis par valsts kapitāla daļas turētāju, ja kapitāla daļu uzņēmējsabiedrībā ir ieguldījusi valsts;\n2) pašvaldība, ja kapitāla daļu uzņēmējsabiedrībā ir ieguldījusi pašvaldība;\n3) institūcija, kura ir pieņēmusi lēmumu par valsts (pašvaldības) uzņēmuma pārveidošanu statūtsabiedrībā, ja statūtsabiedrība ir izveidota, pārveidojot valsts (pašvaldības) uzņēmumu;\n4) valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība, ja valsts (pašvaldības) kapitāla daļu uzņēmējsabiedrībā likumā noteiktajā kārtībā ir ieguldījis valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība;\n5) Privatizācijas aģentūra, ja valsts kapitāla daļa uzņēmējsabiedrībā ir izveidojusies privatizācijas procesā vai privatizācijas rezultātā vai ja valsts kapitāla daļa ir nodota privatizācijai kā atsevišķs objekts;\n6) Valsts sociālās apdrošināšanas aģentūra, ja kapitāla daļa uzņēmējsabiedrībā ir nodota valsts pensiju speciālajam budžetam."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa. Kapitāla daļas turētājs",
+      "section": "4",
+      "title": ". Ja uzņēmējsabiedrība izveidota citādi, nevis pārveidojot valsts uzņēmumu statūtsabiedrībā vai valsts uzņēmumam vai valsts statūtsabiedrībai ieguldot valsts kapitālu uzņēmējsabiedrībā, turētāju tajā nosaka Ministru kabinets.",
+      "content": "4.pants . Ja uzņēmējsabiedrība izveidota citādi, nevis pārveidojot valsts uzņēmumu statūtsabiedrībā vai valsts uzņēmumam vai valsts statūtsabiedrībai ieguldot valsts kapitālu uzņēmējsabiedrībā, turētāju tajā nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa. Kapitāla daļas turētājs",
+      "section": "5",
+      "title": "Balsstiesību un balsu skaita ierobežojumus valsts (pašvaldības) kapitāla daļai uzņēmējsabiedrības statūtos vai līgumā var noteikt tikai ar turētāja rakstveida piekrišanu.",
+      "content": "5.pants. Balsstiesību un balsu skaita ierobežojumus valsts (pašvaldības) kapitāla daļai uzņēmējsabiedrības statūtos vai līgumā var noteikt tikai ar turētāja rakstveida piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III nodaļa. Pilnvarnieka iecelšana",
+      "section": "6",
+      "title": "Turētājs Ministru kabineta noteiktajā kārtībā var iecelt vienu vai vairākus pilnvarniekus akcionāra vai dalībnieka tiesību un pienākumu realizēšanai uzņēmējsabiedrībā. Ministru kabinets, nosakot valsts pilnvarnieku skaitu, ņem vērā uzņēmējsabiedrības lielumu raksturojošos kritērijus (bilances kopsummu, neto apgrozījumu bez valsts budžeta dotācijas pēc pēdējā apstiprinātā gada pārskata, darbinieku vidējo skaitu). Vairāki turētāji vienā uzņēmējsabiedrībā var iecelt vienu pilnvarnieku.",
+      "content": "( 23.11.2000 . likuma redakcijā, kas stājas spēkā 26.12.2000. )"
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa. Pilnvarnieka iecelšana",
+      "section": "7",
+      "title": ". Par pilnvarnieku var iecelt fizisko personu, kuras pieredze un zināšanas nodrošina pilnvarojuma līgumā norādītā uzdevuma izpildi. Pilnvarnieku ieceļ konkursa kārtībā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 23.11.2000 . likumu, kas stājas spēkā 26.12.2000. )"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa. Pilnvarnieka iecelšana",
+      "section": "8",
+      "title": "(1) Kapitāla daļas turētājs par pilnvarnieku var iecelt jebkuru valsts amatpersonu, izņemot:",
+      "content": "1) Valsts prezidentu;\n2) Saeimas deputātu;\n3) Ministru prezidentu, Ministru prezidenta biedru, ministru, valsts ministru un parlamentāro sekretāru;\n4) Latvijas Bankas prezidentu, viņa vietnieku un Latvijas Bankas padomes locekli;\n5) valsts kontrolieri, Valsts kontroles padomes locekli un Valsts kontroles revīzijas departamenta kolēģijas locekli;\n6) Centrālās vēlēšanu komisijas priekšsēdētāju, viņa vietnieku un Centrālās vēlēšanu komisijas sekretāru;\n7) Satversmes aizsardzības biroja direktoru un viņa vietnieku, Valsts cilvēktiesību biroja direktoru un viņa vietnieku;\n8) Radio un televīzijas padomes locekli;\n9) Valsts ieņēmumu dienesta ģenerāldirektoru un departamenta direktoru;\n10) tiesnesi, prokuroru un zvērinātu notāru;\n11) policijas darbinieku un robežsargu;\n12) Nacionālo bruņoto spēku aktīvā militārā dienesta virsnieku, instruktoru un virsdienesta karavīru;\n13) pašvaldības institūcijas amatpersonu, ja attiecīgā pašvaldība ir uzņēmējsabiedrības kapitāla daļas turētājs.\n(2) Kapitāla daļas turētājs šā panta pirmajā daļā minētās valsts amatpersonas var iecelt par pilnvarniekiem tad, ja šādu iecelšanu paredz citi likumi.\n(3) Valsts (pašvaldības) institūcijas var iecelt valsts amatpersonu par pilnvarnieku vienlaikus ne vairāk kā trijās uzņēmējsabiedrībās."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa. Pilnvarnieka iecelšana",
+      "section": "9",
+      "title": ". Pilnvarnieks ieceļams līdz valsts (pašvaldības) kapitāla daļas ieguldīšanas reģistrācijai Uzņēmumu reģistrā.",
+      "content": "9.pants . Pilnvarnieks ieceļams līdz valsts (pašvaldības) kapitāla daļas ieguldīšanas reģistrācijai Uzņēmumu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "IV nodaļa. Pilnvarojuma līgums",
+      "section": "10",
+      "title": "Ieceļot pilnvarnieku, turētājs noslēdz ar viņu rakstveida pilnvarojuma līgumu saskaņā ar Civillikuma 2289. — 2317.pantu un Ministru kabineta apstiprināto pilnvarojuma parauglīgumu.",
+      "content": "10.pants. Ieceļot pilnvarnieku, turētājs noslēdz ar viņu rakstveida pilnvarojuma līgumu saskaņā ar Civillikuma 2289. — 2317.pantu un Ministru kabineta apstiprināto pilnvarojuma parauglīgumu."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa. Pilnvarojuma līgums",
+      "section": "11",
+      "title": ". Vienam pilnvarojuma līguma eksemplāram jāglabājas Uzņēmumu reģistrā.",
+      "content": "11.pants . Vienam pilnvarojuma līguma eksemplāram jāglabājas Uzņēmumu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa. Pilnvarojuma līgums",
+      "section": "12",
+      "title": ". Pilnvarojuma līguma termiņš nedrīkst būt īsāks par vienu gadu un garāks par pieciem gadiem. Pilnvarojuma līguma termiņu var saistīt arī ar konkrēta mērķa sasniegšanu.",
+      "content": "12.pants . Pilnvarojuma līguma termiņš nedrīkst būt īsāks par vienu gadu un garāks par pieciem gadiem. Pilnvarojuma līguma termiņu var saistīt arī ar konkrēta mērķa sasniegšanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa. Pilnvarojuma līgums",
+      "section": "13",
+      "title": ". Pilnvarojuma līgums izbeidzas Civillikuma 2312.pantā paredzētajos gadījumos.",
+      "content": "13.pants . Pilnvarojuma līgums izbeidzas Civillikuma 2312.pantā paredzētajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa. Pilnvarojuma līgums",
+      "section": "14",
+      "title": "Turētājam jāziņo Uzņēmumu reģistram par pilnvarojuma līguma izbeigšanos.",
+      "content": "14.pants. Turētājam jāziņo Uzņēmumu reģistram par pilnvarojuma līguma izbeigšanos."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa. Pilnvarojuma līgums",
+      "section": "15",
+      "title": ". Ja ieceltais pilnvarnieks slimības vai cita iemesla dēļ nespēj veikt savus pienākumus, turētājs ar speciālpilnvaru var uzdot veikt pilnvarnieka pienākumus citai personai.",
+      "content": "15.pants . Ja ieceltais pilnvarnieks slimības vai cita iemesla dēļ nespēj veikt savus pienākumus, turētājs ar speciālpilnvaru var uzdot veikt pilnvarnieka pienākumus citai personai."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa. Pilnvarnieka pienākumi un tiesības",
+      "section": "16",
+      "title": "Pilnvarniekam savi pienākumi jāpilda saskaņā ar pilnvarojuma līgumu.",
+      "content": "16.pants. Pilnvarniekam savi pienākumi jāpilda saskaņā ar pilnvarojuma līgumu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa. Pilnvarnieka pienākumi un tiesības",
+      "section": "17",
+      "title": ". Pilnvarnieks nedrīkst savus pienākumus deleģēt citai personai.",
+      "content": "17.pants . Pilnvarnieks nedrīkst savus pienākumus deleģēt citai personai."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa. Pilnvarnieka pienākumi un tiesības",
+      "section": "18",
+      "title": ". Pilnvarniekam jāveicina uzņēmējsabiedrības statūtos vai pilnvarojuma līgumā noteikto uzņēmējsabiedrības darbības mērķu sasniegšana.",
+      "content": "18.pants . Pilnvarniekam jāveicina uzņēmējsabiedrības statūtos vai pilnvarojuma līgumā noteikto uzņēmējsabiedrības darbības mērķu sasniegšana."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa. Pilnvarnieka pienākumi un tiesības",
+      "section": "19",
+      "title": ". Pilnvarnieks nedrīkst atsavināt, ieķīlāt vai apgrūtināt akcijas, kapitāla daļas vai pajas.",
+      "content": "19.pants . Pilnvarnieks nedrīkst atsavināt, ieķīlāt vai apgrūtināt akcijas, kapitāla daļas vai pajas."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa. Pilnvarnieka pienākumi un tiesības",
+      "section": "20",
+      "title": "Pilnvarnieku nevar ievēlēt tās valsts (pašvaldības) statūtsabiedrības valdē, citā izpildinstitūcijā vai revīzijas komisijā, kurā viņš ir iecelts par pilnvarnieku, un pilnvarnieks nevar būt par minētās statūtsabiedrības revidentu (zvērinātu revidentu).",
+      "content": "20.pants. Pilnvarnieku nevar ievēlēt tās valsts (pašvaldības) statūtsabiedrības valdē, citā izpildinstitūcijā vai revīzijas komisijā, kurā viņš ir iecelts par pilnvarnieku, un pilnvarnieks nevar būt par minētās statūtsabiedrības revidentu (zvērinātu revidentu)."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa. Atlīdzība pilnvarniekam",
+      "section": "21",
+      "title": "Pilnvarojuma līgumā noteikto atlīdzību turētājs pilnvarniekam izmaksā no saviem līdzekļiem Ministru kabineta noteikumos paredzētajā kārtībā un apmērā. Valsts (pašvaldības) statūtsabiedrībās atlīdzību pilnvarniekam izmaksā no statūtsabiedrības līdzekļiem.",
+      "content": "21.pants. Pilnvarojuma līgumā noteikto atlīdzību turētājs pilnvarniekam izmaksā no saviem līdzekļiem Ministru kabineta noteikumos paredzētajā kārtībā un apmērā. Valsts (pašvaldības) statūtsabiedrībās atlīdzību pilnvarniekam izmaksā no statūtsabiedrības līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa. Atlīdzība pilnvarniekam",
+      "section": "22",
+      "title": ". Pilnvarniekam, kas ievēlēts uzņēmējsabiedrības padomē, valdē vai citā izpildinstitūcijā, atalgojumu par attiecīgo pienākumu pildīšanu uzņēmējsabiedrība izmaksā no saviem līdzekļiem.",
+      "content": "22.pants . Pilnvarniekam, kas ievēlēts uzņēmējsabiedrības padomē, valdē vai citā izpildinstitūcijā, atalgojumu par attiecīgo pienākumu pildīšanu uzņēmējsabiedrība izmaksā no saviem līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VII nodaļa. Ierobežojumi pilnvarniekam",
+      "section": "23",
+      "title": ". Par pilnvarnieku nevar būt:",
+      "content": "1) persona, kura pati vai kuras laulātais vai radinieks, skaitot radniecību līdz trešajai pakāpei un svainību līdz otrajai pakāpei:\na) ir vai pēdējā gada laikā ir bijusi par attiecīgās uzņēmējsabiedrības valdes, citas izpildinstitūcijas vai revīzijas komisijas locekli vai revidentu (zvērinātu revidentu),\nb) ir vai pēdējā gada laikā bija noslēgusi darījumus ar attiecīgo uzņēmējsabiedrību, piedalās vai ir piedalījusies ar attiecīgo uzņēmējsabiedrību saistītos darījumos (izņemot uzņēmējdarbības tipveida darījumus, kurus uzņēmējsabiedrība slēdz visā Latvijas teritorijā par pakalpojumu sniegšanu iedzīvotājiem), kuru dēļ attiecīgās personas intereses varētu nonākt pretrunā ar turētāja interesēm,\nc) citādi piedalās vai pēdējā gada laikā ir piedalījusies attiecīgajā uzņēmējsabiedrībā;\n2) persona, kurai pašai vai kuras laulātajam un radiniekam, skaitot radniecību līdz trešajai pakāpei un svainību līdz otrajai pakāpei, attiecīgajā uzņēmējsabiedrībā pieder vai pēdējā gada laikā ir piederējušas akcijas, kapitāla daļas, pajas vai ieguldījumi."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VII nodaļa. Ierobežojumi pilnvarniekam",
+      "section": "24",
+      "title": ". Pilnvarojuma līguma darbības laikā un trīs gadus pēc pilnvarojuma līguma izbeigšanās pilnvarniekam ir aizliegts:",
+      "content": "1) tieši vai ar trešo personu starpniecību saņemt jebkāda veida atalgojumu, materiālās vērtības vai dāvanas no uzņēmējsabiedrības, tās pārvaldes institūcijas vai izpildinstitūcijas locekļiem vai amatpersonām;\n2) kļūt par uzņēmējsabiedrības akcionāru, kapitāla daļas, paju vai citas mantas īpašnieku."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VII nodaļa. Ierobežojumi pilnvarniekam",
+      "section": "25",
+      "title": "Šā likuma 24.pantā minētie ierobežojumi attiecas arī uz pilnvarnieka laulāto un radiniekiem, skaitot radniecību līdz trešajai pakāpei un svainību līdz otrajai pakāpei.",
+      "content": "25.pants. Šā likuma 24.pantā minētie ierobežojumi attiecas arī uz pilnvarnieka laulāto un radiniekiem, skaitot radniecību līdz trešajai pakāpei un svainību līdz otrajai pakāpei."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VIII nodaļa. Pilnvarnieka atbildība",
+      "section": "26",
+      "title": "Par šā likuma pārkāpšanu pilnvarnieks tiek saukts pie atbildības likumos noteiktajā kārtībā.",
+      "content": "26.pants. Par šā likuma pārkāpšanu pilnvarnieks tiek saukts pie atbildības likumos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VIII nodaļa. Pilnvarnieka atbildība",
+      "section": "27",
+      "title": ". Par nodarītajiem zaudējumiem pilnvarnieks ir atbildīgs Civillikumā un citos likumos noteiktajā kārtībā. Ja turētājs vienā uzņēmējsabiedrībā ir iecēlis vairākus pilnvarniekus, viņi par nodarītajiem zaudējumiem ir atbildīgi Civillikuma 2306.pantā noteiktajā kārtībā.",
+      "content": "27.pants . Par nodarītajiem zaudējumiem pilnvarnieks ir atbildīgs Civillikumā un citos likumos noteiktajā kārtībā. Ja turētājs vienā uzņēmējsabiedrībā ir iecēlis vairākus pilnvarniekus, viņi par nodarītajiem zaudējumiem ir atbildīgi Civillikuma 2306.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IX nodaļa. Turētāja reorganizācija vai likvidācija",
+      "section": "28",
+      "title": ". Ja tiek likvidēts Ministru kabineta ieceltais turētājs, Ministru kabinets ieceļ citu turētāju.",
+      "content": "28.pants . Ja tiek likvidēts Ministru kabineta ieceltais turētājs, Ministru kabinets ieceļ citu turētāju."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IX nodaļa. Turētāja reorganizācija vai likvidācija",
+      "section": "29",
+      "title": ". Ja valsts uzņēmums vai valsts uzņēmējsabiedrība, kuras kapitāla daļas turētājs ir Ministru kabineta iecelta valsts institūcija, tiek nodota privatizācijai, šīs institūcijas vietā par valsts kapitāla daļas turētāju kļūst Privatizācijas aģentūra.",
+      "content": "29.pants . Ja valsts uzņēmums vai valsts uzņēmējsabiedrība, kuras kapitāla daļas turētājs ir Ministru kabineta iecelta valsts institūcija, tiek nodota privatizācijai, šīs institūcijas vietā par valsts kapitāla daļas turētāju kļūst Privatizācijas aģentūra."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IX nodaļa. Turētāja reorganizācija vai likvidācija",
+      "section": "30",
+      "title": ". Ja tiek likvidēts valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība, kas ir kapitāla daļas turētāja, attiecīgā kapitāla daļa tiek iekļauta likvidējamā uzņēmuma vai statūtsabiedrības mantas sastāvā.",
+      "content": "30.pants . Ja tiek likvidēts valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība, kas ir kapitāla daļas turētāja, attiecīgā kapitāla daļa tiek iekļauta likvidējamā uzņēmuma vai statūtsabiedrības mantas sastāvā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IX nodaļa. Turētāja reorganizācija vai likvidācija",
+      "section": "31",
+      "title": ". Ja tiek reorganizēts valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība, kas ir kapitāla daļas turētāja, attiecīgās kapitāla daļas turētājs jānorāda uzņēmuma vai statūtsabiedrības saistību sadales aktā.",
+      "content": "31.pants . Ja tiek reorganizēts valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība, kas ir kapitāla daļas turētāja, attiecīgās kapitāla daļas turētājs jānorāda uzņēmuma vai statūtsabiedrības saistību sadales aktā."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "X nodaļa. Dividendes no kapitāla daļām",
+      "section": "32",
+      "title": ". Šā likuma 3.panta 1., 3. (kas attiecas uz valsts kapitāla daļām) un 5.punktā minētajām valsts kapitāla daļām atbilstošās dividendes tiek ieskaitītas valsts budžetā.",
+      "content": "32.pants . Šā likuma 3.panta 1., 3. (kas attiecas uz valsts kapitāla daļām) un 5.punktā minētajām valsts kapitāla daļām atbilstošās dividendes tiek ieskaitītas valsts budžetā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "X nodaļa. Dividendes no kapitāla daļām",
+      "section": "33",
+      "title": ". Šā likuma 3.panta 2., 3.(izņemot valsts kapitāla daļām atbilstošās dividendes), 4. un 6.punktā minētajām kapitāla daļām atbilstošās dividendes tiek pārskaitītas attiecīgās kapitāla daļas turētājam.",
+      "content": "33.pants . Šā likuma 3.panta 2., 3.(izņemot valsts kapitāla daļām atbilstošās dividendes), 4. un 6.punktā minētajām kapitāla daļām atbilstošās dividendes tiek pārskaitītas attiecīgās kapitāla daļas turētājam."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "X nodaļa. Dividendes no kapitāla daļām",
+      "section": "pn1",
+      "title": "1. Darba līgumi, kuri ar pilnvarniekiem noslēgti līdz šā likuma spēkā stāšanās dienai, jāpārskata un jāatjauno vai jāizbeidz atbilstoši šim likumam triju mēnešu laikā no šā likuma spēkā stāšanās dienas.",
+      "content": "1. Darba līgumi, kuri ar pilnvarniekiem noslēgti līdz šā likuma spēkā stāšanās dienai, jāpārskata un jāatjauno vai jāizbeidz atbilstoši šim likumam triju mēnešu laikā no šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "X nodaļa. Dividendes no kapitāla daļām",
+      "section": "pn2",
+      "title": "2. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par valsts un pašvaldību īpašuma pārvaldi uzņēmējsabiedrībās\" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 26.nr.), Ministru padomes 1992.gada 24.augusta lēmums nr.353 \"Par darba samaksu valsts pilnvarniekam (pārstāvim) uzņēmējsabiedrībā\" (oficiāls izdevums AP MP, 1992,49.nr.) un Ministru kabineta noteikumi nr. 127 \"Noteikumi par valsts un pašvaldības kapitāla daļu pārvaldi uzņēmējsabiedrībās\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 11.nr.).",
+      "content": "2. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par valsts un pašvaldību īpašuma pārvaldi uzņēmējsabiedrībās\" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 26.nr.), Ministru padomes 1992.gada 24.augusta lēmums nr.353 \"Par darba samaksu valsts pilnvarniekam (pārstāvim) uzņēmējsabiedrībā\" (oficiāls izdevums AP MP, 1992,49.nr.) un Ministru kabineta noteikumi nr. 127 \"Noteikumi par valsts un pašvaldības kapitāla daļu pārvaldi uzņēmējsabiedrībās\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 11.nr.)."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "X nodaļa. Dividendes no kapitāla daļām",
+      "section": "pn3",
+      "title": "3. Grozījumi likuma 8.panta pirmās daļas 13.punktā stājas spēkā 2001.gada 1.jūnijā.",
+      "content": "( 23.11.2000 . likuma redakcijā, kas stājas spēkā 26.12.2000. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "uzņēmējsabiedrība",
+      "definition": "šā likuma izpratnē: statūtsabiedrība vai līgumsabiedrība",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "statūtsabiedrība",
+      "definition": "šā likuma izpratnē: akciju sabiedrība, sabiedrība ar ierobežotu atbildību vai paju sabiedrība",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "valsts (pašvaldības) statūtsabiedrība",
+      "definition": "statūtsabiedrība, kurā visas akcijas vai balsis (akciju sabiedrībā), kapitāla daļas (sabiedrībā ar ierobežotu atbildību) vai pajas (paju sabiedrībā) pieder valstij (pašvaldībai)",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "līgumsabiedrība (līgumsabiedrība ar pilnu atbildību vai komanditsabiedrībai)",
+      "definition": "šā likuma izpratnē: uzņēmēju (uzņēmumu) apvienība, kura izveidota saskaņā ar tās dibinātāju (uzņēmēju) noslēgtu līgumu un kurā valsts (pašvaldība), valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība ir izdarījusi ieguldījumu",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "valsts (pašvaldības) kapitāla daļa",
+      "definition": "akcija, daļa, paja vai ieguldījums, ko valsts (pašvaldība), valsts (pašvaldības) uzņēmums vai valsts (pašvaldības) statūtsabiedrība ir ieguldījusi uzņēmējsabiedrībā",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "pilnvarnieks",
+      "definition": "šā likuma izpratnē: fiziskā persona, kuru ieceļ valsts (pašvaldības) kapitāla daļas turētājs akcionāra vai dalībnieka tiesību un pienākumu realizēšanai uzņēmējsabiedrībā.",
+      "source_provision": "Art. 2"
+    }
+  ]
+}

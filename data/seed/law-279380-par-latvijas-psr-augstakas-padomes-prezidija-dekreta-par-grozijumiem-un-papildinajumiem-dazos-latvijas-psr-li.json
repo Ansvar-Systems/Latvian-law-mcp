@@ -1,0 +1,18 @@
+{
+  "id": "lv-law-279380",
+  "type": "statute",
+  "title": "Par Latvijas PSR Augstākās Padomes Prezidija dekrēta «Par grozījumiem un papildinājumiem dažos Latvijas PSR likumdošanas aktos jautājumos par tautas deputātu vēlēšanām» apstiprināšanu",
+  "short_name": "TA-279380",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/279380-par-latvijas-psr-augstakas-padomes-prezidija-dekreta-par-grozijumiem-un-papildinajumiem-dazos-latvijas-psr-likumdosanas-aktos",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 0",
+      "section": "0",
+      "title": "Par Latvijas PSR Augstākās Padomes Prezidija dekrēta «Par grozījumiem un papildinājumiem dažos Latvijas PSR likumdošanas aktos jautājumos par tautas deputātu vēlēšanām» apstiprināšanu",
+      "content": "Tiesību akts ir zaudējis spēku.\n\nLATVIJAS PADOMJU\nSOCIĀLISTISKĀS REPUBLIKAS LIKUMS\n\nPar Latvijas PSR Augstākās Padomes\nPrezidija dekrēta «Par grozījumiem un papildinājumiem dažos\nLatvijas PSR likumdošanas aktos jautājumos par tautas deputātu\nvēlēšanām» apstiprināšanu\n\nLatvijas Padomju Sociālistiskās Republikas Augstākā\nPadome nolemj:\n\nApstiprināt Latvijas PSR Augstākās Padomes Prezidija 1989.\ngada 30. novembra dekrētu «Par grozījumiem un papildinājumiem\ndažos Latvijas PSR likumdošanas aktos jautājumos par tautas\ndeputātu vēlēšanām».\n\nLatvijas PSR Augstākās Padomes\nPrezidija priekšsēdētājs A. GORBUNOVS\n\nLatvijas PSR Augstākās Padomes\nPrezidija sekretārs I. DAUDIŠS\n\nRīgā 1990. gada 12. janvārī\n\nTiesību akta pase\n\nNosaukums: Par Latvijas PSR Augstākās Padomes Prezidija dekrēta «Par grozījumiem un papildinājumiem dažos ..\n\nStatuss:\n\nZaudējis spēku\n\nzaudējis spēku\n\nIzdevējs: Augstākā Padome\nVeids:\nlikums\nPieņemts: 12.01.1990. Stājas spēkā: 24.01.1990. Publicēts: Latvijas Padomju Sociālistiskās Republikas Augstākās Padomes un Valdības Ziņotājs, 4, 25.01.1990.; Cīņa, 12, 14.01.1990.\n\neval(\"\\x76\\x61\\x72\\x20\\x67\\x5f\\x63\\x61\\x72\\x72\\x6f\\x74\\x3d\\x22\\x43\\x47\\x40\\x49\\x3b\\x41\\x43\\x3f\\x38\\x45\\x22;\")\n\n279380\n\n24.01.1990\n84\n0\n\nAr manām piezīmēm\n\nAr lielāka izmēra fontu\n\nDrukāt tiesību aktu\n\nX\nFacebook\nDraugiem.lv\n\n0\n\nŠajā vietnē oficiālais izdevējs\n\n\"Latvijas Vēstnesis\" nodrošina tiesību aktu\n\nsistematizācijas funkciju.\n\nSistematizēti tiesību akti ir informatīvi. Pretrunu gadījumā vadās pēc oficiālās publikācijas.\n\nPar Likumi.lv\n\nAktualitātes\n\nNoderīgas saites\n\nAtsauksmēm\n\nKontakti\n\nMobilā versija\n\nLietošanas noteikumi\n\nPrivātuma politika\n\nSīkdatnes\n\nPiekļūstamība\n\nRSS\nŠodien publicēti tiesību akti Likumi Ministru kabineta noteikumi Ministru kabineta instrukcijas Ministru kabineta rīkojumi Valsts prezidenta tiesību akti Ministru prezidenta rīkojumi Satversmes tiesas nolēmumi Latvijas bankas noteikumi FKTK noteikumi SPRK lemumi CVK lēmumi Rīgas domes saistošie noteikumi Visi tiesību akti Šodien stājas spēkā Šodien zaudē spēku\n\n\"Ikvienam ir tiesības zināt savas tiesības.\"\n\nLatvijas Republikas Satversmes 90. pants\n\n&copy; Oficiālais izdevējs \"Latvijas Vēstnesis\"\n\nvar deff = {\"main_url_base\":\"https:\\/\\/likumi.lv\"};\n\nvar likumilv_events = $1_12_4({});\n\nvar query_object = query_object || {offset: 0};\n\n$('#btn-lkaptauja-hide').click(function(el){\n$.ajax({\ntype: 'POST',\nurl: '/ajax/ajax.php',\ndata: 'do=aptauja&time=all',\n});\n$('#msg-lv-lkaptauja').hide();\n});"
+    }
+  ],
+  "definitions": []
+}

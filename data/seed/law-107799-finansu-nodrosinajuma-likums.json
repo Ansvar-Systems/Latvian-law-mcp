@@ -1,0 +1,155 @@
+{
+  "id": "lv-law-107799",
+  "type": "statute",
+  "title": "Finanšu nodrošinājuma likums",
+  "title_en": "Financial Collateral Law",
+  "short_name": "TA-107799",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/107799-finansu-nodrosinajuma-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) finanšu nodrošinājums — finanšu līdzekļi, finanšu instrumenti vai kredītprasības, kas, pamatojoties uz finanšu nodrošinājuma līgumu, izmantotas par nodrošinājumu finanšu saistību izpildei;\n2) finanšu nodrošinājuma līgums — līgums par finanšu nodrošinājumu ar īpašuma tiesību pāreju vai finanšu ķīlas līgums;\n3) līgums par finanšu nodrošinājumu ar īpašuma tiesību pāreju — līgums (arī finanšu instrumentu pirkuma līgums ar atpakaļpirkuma vai atpakaļpārdevuma nosacījumiem) vai cits darījuma akts, ar kuru nodrošinājuma devēja īpašuma tiesības vai prasījuma tiesības uz finanšu nodrošinājumu pāriet nodrošinājuma ņēmējam attiecīgo finansiālo saistību izpildes nodrošināšanai;\n4) finanšu ķīlas līgums — līgums vai cits darījuma akts, ar kuru nodrošinājuma devējs ieķīlā nodrošinājuma ņēmējam finanšu nodrošinājumu (finanšu ķīla), saglabājot īpašuma tiesības vai prasījuma tiesības uz finanšu nodrošinājumu;\n5) finanšu līdzekļi — nauda (izņemot bank­notes un monētas), kas jebkurā valūtā kreditēta kādā kontā (arī visu veidu noguldījumi);\n6) nodrošinātās finanšu saistības — saistības, kuru izpilde garantēta ar finanšu nodrošinājumu un ļauj prasīt finanšu līdzekļu un finanšu instrumentu saņemšanu vai pārņemt kredītprasības (arī pastāvošās vai iespējamās saistības, saistības ar atliekošiem un atceļošiem nosacījumiem, kā arī saistības, kas pret nodrošinājuma ņēmēju ir trešajai personai, kura nav nodrošinājuma devējs);\n7) attiecīgais konts — finanšu instrumentu konts vai reģistrs vai finanšu līdzekļu konts, kurā izdarīts ieraksts (grāmatojums), kas apliecina finanšu nodrošinājuma sniegšanu neatkarīgi no tā, vai šis konts atrodas pie nodrošinājuma ņēmēja vai tā pilnvarotas trešās personas (turpmāk arī— pilnvarnieks);\n8) līdzvērtīgs finanšu nodrošinājums:\na) finanšu līdzekļiem — tādas pašas summas maksājums vienā un tajā pašā valūtā,\nb) finanšu instrumentiem — viena un tā paša emitenta vai debitora viena un tā paša veida, emisijas un kategorijas finanšu instrumenti, kuriem ir viena un tā pati vienā un tajā pašā valūtā izteikta nominālvērtība vai citas lietas (aktīvi), ja finanšu nodrošinājuma līgumā noteikts, ka finanšu instrumentu vietā pieļaujama citu lietu (aktīvu) nodošana, ja iestājies kāds notikums, kurš saistīts ar finanšu instrumentiem, ko izmanto par finanšu nodrošinājumu, vai ietekmē šos finanšu instrumentus;\n9) likvidācijas process — process, kurā atsavina personai piederošas lietas (aktīvus) un iegūtos līdzekļus, ņemot vērā normatīvo aktu noteikumus un faktiskos apstākļus, un sadala tos starp šīs personas kreditoriem, akcionāriem vai dalībniekiem [neatkarīgi no tā, vai šajā procesā atbilstoši savai kompetencei lēmumus pieņem tiesa, valsts pārvaldes iestāde, pašvaldības iestāde, aģentūra (administratīva iestāde), kā arī no tā, vai process ir uzsākts brīvprātīgi vai piespiedu kārtā];\n10) maksātnespējas procesa pasākumi — sanācija, mierizlīgums, kā arī citi tiesiski pasākumi, kas tiek veikti maksātnespējas procesā un ir vērsti uz personas maksātspējas atjaunošanu vai saglabāšanu;\n11) izpildes notikums — finanšu saistību neizpilde vai kāds cits tai pielīdzināms notikums, par ko līdzēji vienojušies, ka, tam iestājoties, finanšu nodrošinājuma ņēmējs ir tiesīgs atsavināt (arī sev par labu) attiecīgo finanšu nodrošinājumu saskaņā ar finanšu nodrošinājuma līguma noteikumiem vai normatīvajiem aktiem, kuros paredzēta šāda iespēja, vai arī veikt izslēdzošo ieskaitu;\n12) finanšu ķīlas izmantošanas tiesības — finanšu nodrošinājuma ņēmēja tiesības saskaņā ar finanšu nodrošinājuma līguma noteikumiem atsavināt vai citādi rīkoties ar finanšu ķīlu tāpat kā pašam īpašniekam;\n13) finanšu nodrošinājuma sniegšana — visas nepieciešamās tiesiskās darbības (arī kredītprasību cesija vai ķīla, finanšu līdzekļu vai finanšu instrumentu pārvedums, turēšana, reģistrēšana vai bloķēšana attiecīgajā kontā), kas garantē prasījuma tiesību uz finanšu nodrošinājumu pāreju finanšu nodrošinājuma ņēmējam vai finanšu nodrošinājuma nonākšanu finanšu nodrošinājuma ņēmēja vai tā pilnvarnieka valdījumā;\n14) dalībvalsts — Eiropas Savienības, Eiropas Ekonomikas zonas valsts vai Ekonomiskās sadarbības un attīstības organizācijas valsts;\n15) finanšu instrumentu pirkuma līgums ar atpakaļpirkuma vai atpakaļpārdevuma nosacījumiem — līgums, ar kuru persona pārdod vai pērk finanšu instrumentus ar nosacījumu atpirkt vai pārdot atpakaļ šos finanšu instrumentus vai tiem līdzvērtīgus finanšu instrumentus par iepriekš noteiktu cenu iepriekš noteiktā dienā nākotnē;\n16) kredītprasības — prasījumi, kas izriet no līguma vai cita darījuma akta, saskaņā ar kuru kredītiestāde vai krājaizdevu sabiedrība izsniegusi aizdevumu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir:\n1) veicināt finanšu sistēmas stabilitāti, garantējot finanšu nodrošinājuma sniegšanas un izmantošanas drošību un efektivitāti;\n2) nodrošināt līdzēju — finanšu nodrošinājuma līgumu subjektu— tiesību aizsardzību, ja tiek veikts līdzēja likvidācijas process vai maksātnespējas procesa pasākumi."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma subjekti",
+      "content": "(1) Likums regulē finanšu nodrošinājuma sniegšanas, pieņemšanas un izmantošanas kārtību tikai tādos gadījumos, ja līdzēji ir:\n1) Latvijas Republika un tās atvasināta publiska persona, tiešā un pastarpinātā valsts pārvaldes iestāde, pašvaldības iestāde vai šīm iestādēm pielīdzināmas citas dalībvalsts personas (arī iestādes, kas ir atbildīgas par valsts parāda pārvaldīšanu vai piedalās tā pārvaldīšanā, un iestādes, kas tiesīgas veikt naudas kontu vai finanšu instrumentu turēšanu klienta vārdā);\n2) Latvijas Banka, citu dalībvalstu centrālās bankas, Eiropas Centrālā banka, Starptautisko norēķinu banka, Starptautiskais valūtas fonds, Eiropas Investīciju banka;\n3) šādas daudzpusējās attīstības bankas:\na) Starptautiskā rekonstrukcijas un attīstības banka,\nb) Starptautiskā finanšu sabiedrība,\nc) Amerikas Attīstības banka,\nd) Āzijas Attīstības banka,\ne) Āfrikas Attīstības banka,\nf) Eiropas Padomes Rekonstrukcijas fonds,\ng) Ziemeļvalstu Investīciju banka,\nh) Karību jūras baseina valstu Attīstības banka,\ni) Eiropas Rekonstrukcijas un attīstības banka,\nj) Eiropas Investīciju fonds,\nk) Ziemeļamerikas un Dienvidamerikas ieguldījumu sabiedrība;\n4) šādas finanšu institūcijas, kuru uzraudzību veic Latvijas Republikas vai citu dalībvalstu kompetentas finanšu un kapitāla tirgus uzraudzības institūcijas:\na) kredītiestādes,\nb) ieguldījumu brokeru sabiedrības,\nc) apdrošināšanas sabiedrības,\nd) ieguldījumu fondi vai tiem pielīdzināmi kolektīvo ieguldījumu uzņēmumi,\ne) ieguldījumu pārvaldes sabiedrības,\nf) citas finanšu institūcijas;\n5) centrālais vērtspapīru depozitārijs, centrālais darījumu starpnieks vai norēķinu aģents.\n(2) Šis likums nosaka finanšu nodrošinājuma sniegšanas, pieņemšanas un izmantošanas kārtību arī tādā gadījumā, ja viens no līdzējiem ir šā panta pirmajā daļā minēta persona, bet otrs — fiziskā, juridiskā vai cita persona vai šo personu apvienība."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Finanšu nodrošinājuma līguma noslēgšanas un finanšu nodrošinājuma sniegšanas apliecinājums",
+      "content": "(1) Uz finanšu nodrošinājuma līguma sagatavošanu, noslēgšanu, spēkā esamību un izpildi nav attiecināmas citos normatīvajos aktos paredzētās prasības par noteiktas līguma formas ievērošanu, reģistrēšanu (ierakstīšanu) publiskos reģistros, paziņošanu aizņēmējam vai reģistrēšanu (ierakstīšanu) uzraudzības institūcijās un citas tiesisko seku ziņā paziņošanai vai reģistrācijai (ierakstīšanai) pielīdzināmas prasības.\n(2) Ievērojot šā panta pirmās daļas noteikumus, šā likuma noteikumi piemērojami tikai tādam finanšu nodrošinājumam, kura sniegšanu var apliecināt:\n1) ar finanšu nodrošinājuma ņēmējam iesniegtu kredītprasību sarakstu un kura sniegšanas apliecinājums ļauj precīzi identificēt katras finanšu nodrošinājumam dotās kredītprasības summu, finanšu nodrošinājuma sniegšanas laiku, kā arī ir iespējams apliecināt faktu, ka noslēgts finanšu nodrošinājuma līgums, pamatojoties uz kuru sniegts finanšu nodrošinājums;\n2) ar finanšu instrumentu vai finanšu līdzekļu ierakstu (grāmatojumu) kontā, kas atvērts pie finanšu nodrošinājuma ņēmēja vai tā pilnvarnieka, un kura sniegšanas apliecinājums ļauj precīzi identificēt tā sniegšanas laiku, kā arī ir iespējams apliecināt faktu, ka noslēgts finanšu nodrošinājuma līgums, pamatojoties uz kuru sniegts finanšu nodrošinājums.\n(3) Šā panta otrajā daļā minētajam apliecinājumam jābūt rakstveidā. Par rakstveida apliecinājumu atzīstams jebkurš apliecinājums, kas glabājas elektroniskos vai cita veida pastāvīgos informācijas (datu) nesējos.\n(4) Finanšu nodrošinājuma ņēmēja pienākums ir nodrošināt finanšu līdzekļu vai finanšu instrumentu iegrāmatošanu kontā tā, lai jebkurā laikā varētu nekļūdīgi identificēt finanšu nodrošinājumā sniegto finanšu līdzekļu summu vai finanšu instrumentu skaitu.\n(5) Finanšu nodrošinājuma līguma un atsevišķu tā noteikumu un nosacījumu spēkā esamību un izpildi negroza un neizbeidz finanšu nodrošinājuma ņēmēja vai finanšu nodrošinājuma devēja likvidācijas procesa vai maksātnespējas procesa pasākumu uzsākšana vai turpināšana. Administratora, likvidatora vai cita normatīvajos aktos noteikta likvidācijas procesa vai maksātnespējas procesa pasākumu veicēja pienākums ir nodrošināt finanšu nodrošinājuma līguma savlaicīgu un pienācīgu izpildi saskaņā ar visiem finanšu nodrošinājuma līguma noteikumiem un nosacījumiem.\n(6) Papildus finanšu nodrošinājuma līguma noslēgšanai vienīgais finanšu nodrošinājuma spēkā esamības nepieciešamais noteikums ir:\n1) ja finanšu nodrošinājums ir kredītprasības, — šīs kredītprasības pamatojošo dokumentu, tai skaitā kredīta nodrošinājuma dokumentu, nodošana nodrošinājuma ņēmējam vai tā pilnvarniekam, vienlaikus neliedzot nodrošinājuma devējam tiesības sākotnēji doto finanšu nodrošinājumu aizstāt ar līdzvērtīgu vai tiesības saņemt atpakaļ finanšu nodrošinājuma pārsniegumu;\n2) ja finanšu nodrošinājums ir finanšu līdzekļi vai finanšu instrumenti, — šā nodrošinājuma nodošana nodrošinājuma ņēmēja vai tā pilnvarnieka valdījumā, nodrošinājuma ņēmējam vai tā pilnvarniekam šo nodrošinājumu turot, reģistrējot vai citādi valdot, vienlaikus neliedzot nodrošinājuma devējam tiesības sākotnēji doto finanšu nodrošinājumu aizstāt ar līdzvērtīgu vai tiesības saņemt atpakaļ finanšu nodrošinājuma pārsniegumu.\n(7) Ieķīlājot kredītprasības un ievērojot šā panta trešajā daļā noteikto apliecinājuma formu:\n1) aizņēmējam, kas nav patērētājs Patērētāju tiesību aizsardzības likuma izpratnē, ir tiesības atteikties no savām ieskaita tiesībām pret aizdevēju un personām, kam aizdevējs varētu cedēt, ieķīlāt vai kā citādi izmantot kredītprasību kā nodrošinājumu;\n2) aizņēmējam ir tiesības piekrist tam, ka finanšu nodrošinājuma ņēmējam tiek izpaustas ziņas par klientu, kas saskaņā ar Kredītiestāžu likumu noteiktas par neizpaužamām.\n(8) Kredītprasības nevar būt vienlaikus par finanšu nodrošinājumu vairākiem finanšu nodrošinājuma ņēmējiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Pirmtiesības uz finanšu nodrošinājumu",
+      "content": "(1) Tiesiskās attiecības, kuras izriet no finanšu nodrošinājuma līguma, citi normatīvie akti regulē tiktāl, ciktāl tie nav pretrunā ar šā likuma noteikumiem.\n(2) Ja finanšu līdzekļi vai finanšu instrumenti, kas sniegti kā finanšu nodrošinājums saskaņā ar šā likuma noteikumiem, ieķīlāti arī saskaņā ar citu ķīlas veidu regulējošu normatīvo aktu noteikumiem, pirmtiesības uz prasījumu apmierināšanu ar šādiem finanšu līdzekļiem un finanšu instrumentiem ir personai, kurai sniegts finanšu nodrošinājums saskaņā ar šā likuma noteikumiem.\n(3) Finanšu nodrošinājuma līgumā un šajā likumā noteiktās finanšu nodrošinājuma ņēmēja tiesības uz finanšu nodrošinājumu negroza, neizbeidz un neierobežo tiesu un citu institūciju (amatpersonu) nolēmumi, kas jāizpilda citos normatīvajos aktos noteiktajā kārtībā, un pamatojoties uz šiem nolēmumiem izsniegto izpildu dokumentu iesniegšana izpildei finanšu nodrošinājuma ņēmējam vai tā pilnvarniekam.\n(4) Finanšu nodrošinājuma devējam ir tiesības aizstāt finanšu nodrošinājumu ar citu līdzvērtīgu finanšu nodrošinājumu, saņemt finanšu nodrošinājuma pārsniegumu vai — kredītprasību gadījumā — saņemt maksājumus no kredītprasībām. Šo tiesību izmantošana neietekmē tiesiskās attiecības, kas izriet no finanšu nodrošinājuma līguma."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Tiesības izmantot finanšu ķīlu",
+      "content": "(1) Finanšu ķīlas ņēmējs finanšu ķīlas līguma darbības laikā ir tiesīgs izmantot finanšu ķīlu tikai tādā gadījumā, ja tas paredzēts finanšu ķīlas līguma noteikumos, un tikai saskaņā ar minētā līguma un šā likuma noteikumiem un nosacījumiem.\n(2) Ja finanšu ķīlas ņēmējs finanšu ķīlas līguma darbības laikā izmanto finanšu ķīlu, tam ir pienākums sākotnēji sniegto ķīlu aizstāt ar līdzvērtīgu ne vēlāk kā dienā, kas ir noteikta par attiecīgo ar finanšu ķīlu nodrošināto finanšu saistību izpildes termiņu.\n(3) Finanšu ķīlas līgumā vai citā darījuma aktā, kas ietver līdzēju vienošanos par finanšu ķīlu, noteiktajā saistību izpildes dienā ķīlas ņēmējs atdod atpakaļ ķīlas devējam finanšu ķīlu vai, ja tas paredzēts līgumā vai citā darījuma aktā, izmanto tam noteiktās tiesības līgumā vai citā darījuma aktā paredzētajā apmērā samazināt ķīlas devēja saistības par finanšu ķīlas summu vai pilnībā dzēst šīs saistības ar finanšu ķīlu.\n(4) Ja šā panta otrajā daļā minētajā gadījumā finanšu ķīlas ņēmējs sākotnēji sniegto finanšu ķīlu aizstāj ar līdzvērtīgu, tad līdzvērtīgajai finanšu ķīlai pilnībā piemēro visus finanšu ķīlas līguma noteikumus un nosacījumus, kas regulēja sākotnēji sniegto finanšu ķīlu. Šajā gadījumā tiek uzskatīts, ka līdzvērtīgā finanšu ķīla sniegta saskaņā ar sākotnēji noslēgtā finanšu ķīlas līguma noteikumiem un nosacījumiem tajā pašā laikā, kad sniegta sākotnējā finanšu ķīla.\n(5) Tas, ka finanšu ķīlas ņēmējs izmanto šā panta pirmajā daļā noteiktās tiesības, neietekmē finanšu ķīlas līgumā noteiktās finanšu ķīlas devēja un finanšu ķīlas ņēmēja tiesības un pienākumus.\n(6) Ja izpildes notikums iestājas pirms līdzēju sākotnēji noteiktās saistību izpildes dienas un finanšu ķīlas ņēmējs nevar izpildīt šā panta otrajā daļā noteikto, tas ir tiesīgs saistības pret finanšu ķīlas devēju izpildīt ar izslēdzošo ieskaitu.\n(7) Uz finanšu ķīlas nākamajām sastāvdaļām šā likuma noteikumi nav attiecināmi, ja vien finanšu nodrošinājuma līgumā nav nepārprotami noteikts citādi.\n(8) Ja finanšu nodrošinājums ir kredītprasības, finanšu ķīlas ņēmējs finanšu ķīlas līguma darbības laikā nav tiesīgs izmantot finanšu ķīlu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Finanšu ķīlas realizācija",
+      "content": "(1) Iestājoties izpildes notikumam, finanšu ķīlas ņēmējs ir tiesīgs, ievērojot finanšu ķīlas līguma noteikumus un nosacījumus, brīvi, bez jebkādu citu papildu procedūru veikšanas, rīkoties ar finanšu ķīlu šādi:\n1) ja finanšu ķīla ir finanšu instrumenti, — atsavināt tos trešajai personai vai par labu sev, attiecīgi par saņemto summu samazināt nodrošināto finanšu saistību apjomu vai pilnīgi dzēst šīs saistības;\n2) ja finanšu ķīla ir finanšu līdzekļi, — izmantojot šos finanšu līdzekļus, samazināt nodrošināto finanšu saistību apjomu vai pilnīgi dzēst šīs saistības;\n3) ja finanšu ķīla ir kredītprasības, — atsavināt tās kopumā vai pa daļām trešajai personai vai par labu sev un attiecīgi par saņemto summu samazināt nodrošināto finanšu saistību apjomu vai pilnīgi dzēst šīs saistības.\n(2) Iestājoties izpildes notikumam, finanšu instrumentu tūlītēja nonākšana finanšu ķīlas ņēmēja īpašumā ir atļauta tikai tad, ja finanšu ķīlas līgumā līdzēji to nepārprotami pielīguši un vienojušies par finanšu instrumentu vai kredītprasību cenas noteikšanas kārtību.\n(3) Ja finanšu ķīlas līgumā nav paredzēts citādi, finanšu ķīlas ņēmējam šā panta pirmajā daļā noteiktajai rīcībai ar finanšu ķīlu nav saistoši šādi vai tiesisko seku ziņā tiem līdzīgi pienākumi:\n1) iepriekšēja paziņošana finanšu ķīlas devējam par finanšu ķīlas atsavināšanu;\n2) finanšu ķīlas atsavināšanas noteikumu apstiprināšana tiesā, saskaņošana ar tiesas vai komercsabiedrības kapitāla daļu turētāja ieceltu personu, maksātnespējas procesa administratoru, valsts pārvaldes iestādi, pašvaldības iestādi vai aģentūru vai ar minēto iestāžu un aģentūru ierēdņiem, darbiniekiem vai to ieceltām personām;\n3) finanšu ķīlas pārdošana izsolē vai kādā citā tikai normatīvajā aktā noteiktajā veidā;\n4) noteikta termiņa iestāšanās sagaidīšana pēc izpildes notikuma iestāšanās brīža vai pēc tam, kad nosūtīts paziņojums par izpildes notikumu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Līguma par finanšu nodrošinājumu ar īpašuma tiesību pāreju spēkā esamība",
+      "content": "(1) Līgums par finanšu nodrošinājumu ar īpašuma tiesību pāreju ir spēkā un tam piemērojami šā likuma noteikumi, ja noteikums par īpašuma tiesību pāreju ir nepārprotami ietverts finanšu nodrošinājuma līgumā un finanšu nodrošinājums sniegts, izpildot visus šā likuma 4.panta otrās un ceturtās daļas noteikumus.\n(2) Finanšu instrumenti un finanšu līdzekļi, kas nodoti nodrošinājuma ņēmēja īpašumā, pamatojoties uz finanšu instrumentu pirkuma līgumu ar atpakaļpirkuma vai atpakaļpārdevuma nosacījumiem un cita veida līgumu vai darījuma aktu, kurā ietverti finanšu instrumentu atpakaļpirkuma vai atpakaļpārdevuma nosacījumi, ir uzskatāmi par nodotiem nodrošinājuma ņēmēja īpašumā saskaņā ar līgumu par finanšu nodrošinājumu ar īpašuma tiesību pāreju, un tiem piemērojami šā likuma noteikumi arī tādā gadījumā, ja nodrošinājuma ņēmējam nodotie finanšu līdzekļi un finanšu instrumenti nav līguma vai cita darījuma akta tekstā nepārprotami nosaukti par finanšu nodrošinājumu.\n(3) Ja izpildes notikums iestājas dienā, kad finanšu nodrošinājuma ņēmējs vēl nav pilnībā izpildījis līgumā par finanšu nodrošinājumu ar īpašuma tiesību pāreju noteiktās saistības par līdzvērtīga nodrošinājuma atdošanu, šo saistību var izpildīt ar izslēdzošo ieskaitu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Izslēdzošais ieskaits",
+      "content": "(1) Izslēdzošais ieskaits ir finanšu nodrošinājuma līgumā vai citā līgumā (darījuma aktā), kas paredz finanšu nodrošinājuma sniegšanu, ietvertie noteikumi, saskaņā ar kuriem, iestājoties izpildes notikumam, pēc savstarpēja pārrēķina, ieskaita vai citām tiesisko seku ziņā pielīdzināmām darbībām:\n1) līdzēju savstarpējās saistības tiek grozītas tā, ka tās kļūst izpildāmas nekavējoties, un līdzēju maksājamās summas tiek noteiktas, ņemot vērā līdzēju sākotnējo saistību pašreizējo vērtību, vai līdzēju savstarpējās saistības tiek izbeigtas un aizstātas ar savstarpējo pienākumu samaksāt summas, kas tiek noteiktas, ņemot vērā līdzēju sākotnējo saistību pašreizējo vērtību;\n2) tiek sagatavots aprēķins par summām, kas vienam līdzējam jāatmaksā otram lī­dzējam, pamatojoties uz to sav­star­pējām saistībām, un tas līdzējs, kura maksājamā summa ir lielāka, samaksā otram līdzējam tikai otra līdzēja maksājamās summas pārsniegumu (neto saldo).\n(2) Izslēdzošo ieskaitu piemēro arī tādā gadījumā, ja tā noteikumi nav ie­tverti finanšu nodrošinājuma līgumā vai citā līgumā (darījuma aktā), kas paredz finanšu nodrošinājuma sniegšanu, bet tā piemērošana noteikta normatīvajos aktos.\n(3) Izslēdzošo ieskaitu var piemērot un tā izpildi neietekmē:\n1) finanšu nodrošinājuma devēja vai finanšu nodrošinājuma ņēmēja likvidācijas process vai maksātnespējas procesa pasākumi;\n2) cesija, ar tiesas nolēmumu vai citādi veikta finanšu nodrošinājuma apķīlāšana, arests vai jebkura cita tiesiska darbība, kas vērsta uz finanšu nodrošinājuma atsavināšanu tādas personas prasījumu apmierināšanai, kura nav finanšu nodrošinājuma ņēmējs.\n(4) Ja līdzēji nav vienojušies citādi, uz izslēdzošo ieskaitu attiecināmi šā likuma 7.panta trešās daļas noteikumi."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Atsevišķu likvidācijas procesu un maksātnespējas procesa pasākumus regulējošo tiesību normu nepiemērošana",
+      "content": "(1) Finanšu nodrošinājuma līgumu, kā arī saskaņā ar tā noteikumiem veiktā finanšu nodrošinājuma sniegšanu nevar atzīt par spēkā neesošu vai atcelt tikai tāpēc, ka finanšu nodrošinājuma līgums stājies spēkā vai finanšu nodrošinājuma sniegšana notikusi:\n1) nodrošinājuma devēja likvidācijas gadījumā saskaņā ar tā dalībnieku lēmumu par darbības izbeigšanu (brīvprātīga likvidācija) — jebkurā termiņā pirms dienas, kad publicēts Uzņēmumu reģistra paziņojums par nodrošinājuma devēja darbības izbeigšanu un likvidācijas uzsākšanu;\n2) nodrošinājuma devēja likvidācijas gadījumā, pamatojoties uz administratīvās iestādes lēmumu vai tiesas nolēmumu, — jebkurā termiņā pirms dienas, kad publicēts Uzņēmumu reģistra paziņojums par nodrošinājuma devēja darbības izbeigšanu un likvidācijas uzsākšanu;\n3) maksātnespējas procesa pasākumu gadījumā — jebkurā termiņā pirms normatīvajos aktos noteiktajā kārtībā izdarītā paziņojuma par nodrošinājuma devēja maksātnespēju publicēšanas dienas;\n4) komercsabiedrību (arī kredītiestāžu) likvidācijas procesu vai maksātnespējas procesa pasākumus regulējošā normatīvajā aktā noteiktajā termiņā pirms šo procesu un pasākumu uzsākšanas dienas, kurā slēgtos darījumus var prasīt atzīt par spēkā neesošiem.\n(2) Finanšu nodrošinājuma līgums un saskaņā ar tā noteikumiem nodrošinātās finanšu saistības vai finanšu nodrošinājuma sniegšana ir spēkā un ir saistoša trešajām personām arī gadījumos, kad finanšu nodrošinājuma līgums noslēgts un saskaņā ar tā noteikumiem nodrošinātās finanšu saistības radušās vai finanšu nodrošinājums sniegts pēc šā panta pirmajā daļā minēto termiņu iestāšanās, ja finanšu nodrošinājuma ņēmējs pierāda, ka nav zinājis un nevarēja zināt par likvidācijas procesa vai maksātnespējas procesa pasākumu uzsākšanu.\n(3) Ja finanšu nodrošinājuma līgums paredz pienākumu sniegt finanšu nodrošinājumu vai papildu finanšu nodrošinājumu, ņemot vērā izmaiņas finanšu nodrošinājuma vērtībā vai nodrošināto finanšu saistību vērtībā, vai tiesības atsaukt finanšu nodrošinājumu, aizstājot vai apmainot to ar citu līdzvērtīgu finanšu nodrošinājumu, finanšu nodrošinājuma sniegšana, papildu finanšu nodrošinājuma sniegšana vai atsauktā finanšu nodrošinājuma aizstājošā līdzvērtīgā finanšu nodrošinājuma sniegšana nevar tikt uzskatīta par spēkā neesošu vai tikt atcelta tikai tāpēc, ka:\n1) finanšu nodrošinājums, papildu finanšu nodrošinājums vai atsaukto finanšu nodrošinājumu aizstājošais līdzvērtīgais finanšu nodrošinājums ticis sniegts šā panta pirmās daļas 1., 2., 3. un 4.punktā minētajā termiņā;\n2) ar finanšu nodrošinājumu garantētās finanšu saistības ir radušās pirms finanšu nodrošinājuma, papildu finanšu nodrošinājuma vai atsaukto finanšu nodrošinājumu aizstājošā līdzvērtīgā finanšu nodrošinājuma sniegšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Tiesību normu kolīzija",
+      "content": "(1) Ja finanšu nodrošinājums ir finanšu instrumenti, kuri pārvedami ar ierakstu (grāmatojumu) kontā vai reģistrā, un attiecīgais konts vai reģistrs atrodas Latvijā, šā panta otrajā daļā minētie tiesību jautājumi apspriežami tikai atbilstoši Latvijas likumam, neņemot vērā nekādus noteikumus, kuri paredz, ka jāpiemēro kāds ārvalsts likums.\n(2) Šā panta pirmajā daļā noteiktajā kārtībā apspriežamie tiesību jautājumi ir:\n1) finanšu nodrošinājuma tiesiskais statuss un īpašuma tiesības uz to;\n2) finanšu nodrošinājuma līguma slēgšanas prasības, finanšu nodrošinājuma sniegšanas prasības, kas jāievēro, lai attiecīgais līgums un uz to pamatojoties sniegtais finanšu nodrošinājums būtu saistošs trešajām personām;\n3) personas tiesību uz finanšu nodrošinājumu iespējamā pakārtotība attiecībā pret trešo personu tiesībām uz finanšu instrumentiem, kas sniegti nodrošinājuma ņēmējam kā finanšu nodrošinājums;\n4) finanšu nodrošinājuma ieguvēja labticības noskaidrošana;\n5) finanšu nodrošinājuma izmantošanas noteikumi, kas jāievēro, iestājoties izpildes notikumam.\n(3) Attiecībā uz patērētāju Patērētāju tiesību aizsardzības likuma izpratnē kreditēšanu šajā likumā iekļautās tiesību normas piemērojamas tiktāl, ciktāl tās nav pretrunā ar tiesību normām, kas regulē patērētāju kreditēšanu.\n1) Eiropas Parlamenta un Padomes 2002.gada 6.jūnija direktīvas 2002/47/EK par finanšu nodrošinājuma līgumiem;\n2) Eiropas Parlamenta un Padomes 2000.gada 20.marta direktīvas 2000/12/EK par kredītiestāžu darbības sākšanu un veikšanu;\n3) Eiropas Parlamenta un Padomes 2009.gada 6.maija direktīvas 2009/44/EK , ar ko direktīvu 98/26/EK par norēķinu galīgumu maksājumu un vērtspapīru norēķinu sistēmās un direktīvu 2002/47/EK par finanšu nodrošinājuma līgumiem groza attiecībā uz saistītām sistēmām un kredītprasībām."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "finanšu nodrošinājums",
+      "definition": "finanšu līdzekļi, finanšu instrumenti vai kredītprasības, kas, pamatojoties uz finanšu nodrošinājuma līgumu, izmantotas par nodrošinājumu finanšu saistību izpildei",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "finanšu nodrošinājuma līgums",
+      "definition": "līgums par finanšu nodrošinājumu ar īpašuma tiesību pāreju vai finanšu ķīlas līgums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "līgums par finanšu nodrošinājumu ar īpašuma tiesību pāreju",
+      "definition": "līgums (arī finanšu instrumentu pirkuma līgums ar atpakaļpirkuma vai atpakaļpārdevuma nosacījumiem) vai cits darījuma akts, ar kuru nodrošinājuma devēja īpašuma tiesības vai prasījuma tiesības uz finanšu nodrošinājumu pāriet nodrošinājuma ņēmējam attiecīgo finansiālo saistību izpildes nodrošināšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "finanšu ķīlas līgums",
+      "definition": "līgums vai cits darījuma akts, ar kuru nodrošinājuma devējs ieķīlā nodrošinājuma ņēmējam finanšu nodrošinājumu (finanšu ķīla), saglabājot īpašuma tiesības vai prasījuma tiesības uz finanšu nodrošinājumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "finanšu līdzekļi",
+      "definition": "nauda (izņemot bank­notes un monētas), kas jebkurā valūtā kreditēta kādā kontā (arī visu veidu noguldījumi)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodrošinātās finanšu saistības",
+      "definition": "saistības, kuru izpilde garantēta ar finanšu nodrošinājumu un ļauj prasīt finanšu līdzekļu un finanšu instrumentu saņemšanu vai pārņemt kredītprasības (arī pastāvošās vai iespējamās saistības, saistības ar atliekošiem un atceļošiem nosacījumiem, kā arī saistības, kas pret nodrošinājuma ņēmēju ir trešajai personai, kura nav nodrošinājuma devējs)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "attiecīgais konts",
+      "definition": "finanšu instrumentu konts vai reģistrs vai finanšu līdzekļu konts, kurā izdarīts ieraksts (grāmatojums), kas apliecina finanšu nodrošinājuma sniegšanu neatkarīgi no tā, vai šis konts atrodas pie nodrošinājuma ņēmēja vai tā pilnvarotas trešās personas (turpmāk arī— pilnvarnieks)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "likvidācijas process",
+      "definition": "process, kurā atsavina personai piederošas lietas (aktīvus) un iegūtos līdzekļus, ņemot vērā normatīvo aktu noteikumus un faktiskos apstākļus, un sadala tos starp šīs personas kreditoriem, akcionāriem vai dalībniekiem [neatkarīgi no tā, vai šajā procesā atbilstoši savai kompetencei lēmumus pieņem tiesa, valsts pārvaldes iestāde, pašvaldības iestāde, aģentūra (administratīva iestāde), kā arī no tā, vai process ir uzsākts brīvprātīgi vai piespiedu kārtā]",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksātnespējas procesa pasākumi",
+      "definition": "sanācija, mierizlīgums, kā arī citi tiesiski pasākumi, kas tiek veikti maksātnespējas procesā un ir vērsti uz personas maksātspējas atjaunošanu vai saglabāšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izpildes notikums",
+      "definition": "finanšu saistību neizpilde vai kāds cits tai pielīdzināms notikums, par ko līdzēji vienojušies, ka, tam iestājoties, finanšu nodrošinājuma ņēmējs ir tiesīgs atsavināt (arī sev par labu) attiecīgo finanšu nodrošinājumu saskaņā ar finanšu nodrošinājuma līguma noteikumiem vai normatīvajiem aktiem, kuros paredzēta šāda iespēja, vai arī veikt izslēdzošo ieskaitu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "finanšu ķīlas izmantošanas tiesības",
+      "definition": "finanšu nodrošinājuma ņēmēja tiesības saskaņā ar finanšu nodrošinājuma līguma noteikumiem atsavināt vai citādi rīkoties ar finanšu ķīlu tāpat kā pašam īpašniekam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "finanšu nodrošinājuma sniegšana",
+      "definition": "visas nepieciešamās tiesiskās darbības (arī kredītprasību cesija vai ķīla, finanšu līdzekļu vai finanšu instrumentu pārvedums, turēšana, reģistrēšana vai bloķēšana attiecīgajā kontā), kas garantē prasījuma tiesību uz finanšu nodrošinājumu pāreju finanšu nodrošinājuma ņēmējam vai finanšu nodrošinājuma nonākšanu finanšu nodrošinājuma ņēmēja vai tā pilnvarnieka valdījumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts",
+      "definition": "Eiropas Savienības, Eiropas Ekonomikas zonas valsts vai Ekonomiskās sadarbības un attīstības organizācijas valsts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "finanšu instrumentu pirkuma līgums ar atpakaļpirkuma vai atpakaļpārdevuma nosacījumiem",
+      "definition": "līgums, ar kuru persona pārdod vai pērk finanšu instrumentus ar nosacījumu atpirkt vai pārdot atpakaļ šos finanšu instrumentus vai tiem līdzvērtīgus finanšu instrumentus par iepriekš noteiktu cenu iepriekš noteiktā dienā nākotnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kredītprasības",
+      "definition": "prasījumi, kas izriet no līguma vai cita darījuma akta, saskaņā ar kuru kredītiestāde vai krājaizdevu sabiedrība izsniegusi aizdevumu.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

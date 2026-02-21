@@ -1,0 +1,854 @@
+{
+  "id": "lv-law-51522",
+  "type": "statute",
+  "title": "Par ietekmes uz vidi novērtējumu",
+  "title_en": "On Environmental Impact Assessment",
+  "short_name": "TA-51522",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/51522-par-ietekmes-uz-vidi-novertejumu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) ietekme uz vidi — paredzētās darbības vai plānošanas dokumenta īstenošanas izraisītas tiešas vai netiešas pārmaiņas vidē, kuras ietekmē vai var ietekmēt cilvēku, viņa veselību un drošību, kā arī bioloģisko daudzveidību (īpaši aizsargājamās sugas un to dzīvotnes, īpaši aizsargājamos un Eiropas Savienības nozīmes biotopus), augsni, zemes dzīles, ūdeni, gaisu, klimatu, ainavu, materiālās vērtības, kultūras un dabas mantojumu, iespējamā pakļautība avāriju vai katastrofu riskiem un visu minēto jomu mijiedarbība;\n2) ietekmes uz vidi novērtējums (turpmāk arī — ietekmes novērtējums) — procedūra, kas veicama šajā likumā noteiktajā kārtībā, lai novērtētu paredzētās darbības vai plānošanas dokumenta īstenošanas iespējamo ietekmi uz vidi un izstrādātu priekšlikumus nelabvēlīgas ietekmes novēršanai vai samazināšanai vai aizliegtu paredzētās darbības uzsākšanu normatīvajos aktos noteikto prasību pārkāpumu gadījumos;\n2 1 ) ietekmes sākotnējais izvērtējums (turpmāk arī — sākotnējais izvērtējums) — procedūra, kas šajā likumā noteiktajā kārtībā veicama paredzētajai darbībai, kurai var būt būtiska ietekme uz vidi, lai izvērtētu šīs darbības īstenošanas iespējamās nelabvēlīgās ietekmes būtiskumu un lemtu par ietekmes novērtējuma piemērošanu;\n3) paredzētā darbība — aprīkojuma, iekārtas un tehnoloģijas ieviešana, papildināšana vai maiņa, projekta īstenošana, būvniecība, dabas resursu ieguve vai izmantošana, cilvēka darbības neskartu vai mazpārveidotu teritoriju un ainavu ietekmēšana, kā arī citas darbības, kuru veikšana vai galarezultāts var būtiski ietekmēt vidi;\n4) ierosinātājs — privātpersona, atvasināta publiska persona, tiešās vai pastarpinātās pārvaldes iestāde, kura gatavojas veikt paredzēto darbību un ir iesniegusi Valsts vides dienestam vai Vides pārraudzības valsts birojam iesniegumu par attiecīgās darbības veikšanu;\n5) pārrobežu ietekme — jebkura paredzētās darbības izraisīta ietekme teritorijā, kas pakļauta ietekmētās valsts jurisdikcijai, ja šīs ietekmes fiziskais cēlonis pilnībā vai daļēji atrodas Latvijas vai citas valsts jurisdikcijā esošajā teritorijā;\n6) stratēģiskais ietekmes uz vidi novērtējums (turpmāk arī — stratēģiskais novērtējums) — ietekmes uz vidi novērtējums plānošanas dokumentam, kura īstenošana var būtiski ietekmēt vidi, arī vides pārskata sagatavošana, apspriešana, sabiedrības iesaistīšana vides pārskata apspriešanā un konsultāciju veikšana, vides pārskata un tā apspriešanas rezultātu ņemšana vērā plānošanas dokumenta sagatavošanā un izmantošana lēmumu pieņemšanai, kā arī informācijas sniegšana par pieņemto lēmumu šajā likumā noteiktajā kārtībā;\n7) vides pārskats — atsevišķa sadaļa stratēģijā, plānā, programmā, koncepcijā vai cita veida plānošanas dokumentā (turpmāk — plānošanas dokumenti), uz kuru attiecas šā likuma nosacījumi, vai atsevišķs dokuments, kas nosaka, apraksta un novērtē attiecīgā dokumenta, kā arī iespējamo alternatīvu īstenošanas ietekmi uz vidi, ņemot vērā plānošanas dokumenta mērķus, paredzēto realizācijas vietu un darbības jomu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir novērst vai samazināt fizisko un juridisko personu paredzēto darbību vai plānošanas dokumentu īstenošanas nelabvēlīgo ietekmi uz vidi."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Ietekmes novērtējuma principi",
+      "content": "Ietekmes novērtējumu veic saskaņā ar šādiem principiem:\n1) ietekmes novērtējums izdarāms pēc iespējas agrākā paredzētās darbības plānošanas, projektēšanas un lēmumu pieņemšanas stadijā;\n2) ietekmes novērtējums izdarāms, pamatojoties uz ierosinātāja sniegto informāciju un informāciju, kas iegūta no ieinteresētajām valsts institūcijām un pašvaldībām, kā arī sabiedrības līdzdalības procesā, tai skaitā no sabiedrības iesniegtajiem priekšlikumiem;\n3) (izslēgts ar 15.09.2005 . likumu) ;\n4) sabiedrībai — fiziskajām un juridiskajām personām, kā arī to apvienībām, organizācijām un grupām (turpmāk — sabiedrība) ir tiesības iegūt informāciju par paredzētajām darbībām un piedalīties ietekmes novērtēšanā;\n4 1 ) ierosinātājs nodrošina paredzētās darbības ietekmes novērtējuma sabiedrisko apspriešanu sabiedrībai pieejamā vietā un laikā;\n5) vides problēmu risināšana uzsākama, pirms vēl saņemti pilnīgi zinātniski pierādījumi par paredzētās darbības negatīvo ietekmi uz vidi. Ja ir pamatotas aizdomas, ka paredzētā darbība negatīvi ietekmēs vidi, jāveic piesardzības pasākumi;\n6) novērtējums izdarāms, ievērojot ilgtspējīgas attīstības principu, principu \"piesārņotājs maksā\", piesardzības un izvērtēšanas principu;\n7) paredzēto darbību, kurai ir vai var būt būtiska ietekme uz vidi, aizliegts sadalīt vairākās darbībās, jo tādējādi netiek pienācīgi novērtēta paredzētās darbības kopīgā ietekme;\n8) paredzētās darbības ierosinātājs, lai tiktu novērsts interešu konflikts, nedrīkst pieņemt paredzētās darbības akcepta lēmumu."
+    },
+    {
+      "provision_ref": "Art. 3.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3.1",
+      "title": "3. 1 pants. Ietekmes novērtējuma procesa termiņi (Izslēgts ar 10.06.2010 . likumu. Grozījums par panta izslēgšanu stājas spēkā 01.01.2011. Sk. Pārejas noteikumu 14.punktu)",
+      "content": "3. 1 pants. Ietekmes novērtējuma procesa termiņi\n(Izslēgts ar 10.06.2010 . likumu. Grozījums par panta izslēgšanu stājas spēkā 01.01.2011. Sk. Pārejas noteikumu 14.punktu)"
+    },
+    {
+      "provision_ref": "Art. 3.2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3.2",
+      "title": "3. 2 pants. Sākotnējā izvērtējuma nepieciešamība",
+      "content": "(1) Sākotnējais izvērtējums nepieciešams:\n1) šā likuma 2.pielikumā minētajām paredzētajām darbībām;\n2) paredzētajām darbībām, kuras var būtiski ietekmēt šā likuma 4. 1 pantā minētās teritorijas;\n3) izmaiņām esošajās darbībās:\na) ja izmaiņas atbilst šā likuma 2.pielikumā minētajām robežvērtībām,\nb) ja izmaiņu rezultātā tiks sasniegtas vai pārsniegtas šā likuma 2.pielikumā minētās robežvērtības un izmaiņu apjoms ir 25 procenti no minētās robežvērtības un vairāk,\nc) ja citas izmaiņas akceptētajās, notiekošajās vai pabeigtajās darbībās, kuras ir saistītas ar šā likuma 1. un 2.pielikumā minētajiem objektiem, var izraisīt būtisku nelabvēlīgu ietekmi uz vidi;\n4) vairākām līdzīgām paredzētajām darbībām, kuras ietekmē vienu un to pašu teritoriju un kuru izmaiņu rezultātā summāri tiks sasniegtas šā likuma 1. vai 2.pielikumā minētās robežvērtības;\n5) citām paredzētajām darbībām, kuras var būtiski ietekmēt vidi, ņemot vērā šā likuma 11.pantā minētos kritērijus.\n(2) Vērtējot darbības izmaiņu apjomu saskaņā ar šā panta pirmās daļas 3.punktu, ņem vērā plānoto un pēdējo piecu gadu laikā veikto izmaiņu summu vai plānoto un kopš iepriekšējā sākotnējā izvērtējuma pabeigšanas veikto izmaiņu summu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Ietekmes novērtējuma nepieciešamība",
+      "content": "(1) Ietekmes novērtējums nepieciešams:\n1) paredzētajām darbībām, kuras ir saistītas ar šā likuma 1.pielikumā minētajiem objektiem;\n2) paredzētajām darbībām saskaņā ar sākotnējo izvērtējumu;\n3) paredzētajām darbībām saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem;\n4) ja vairākas paredzētās darbības ietekmē vienu un to pašu teritoriju, ņemot vērā šo darbību kopējo un savstarpējo ietekmi;\n5) izmaiņām esošajās darbībās:\na) ja izmaiņas atbilst šā likuma 1.pielikumā minētajām robežvērtībām,\nb) ja izmaiņu rezultātā tiks sasniegtas vai pārsniegtas šā likuma 1.pielikumā minētās robežvērtības,\nc) ja izmaiņas paredzētas šā likuma 1.pielikumā minētajā objektā, kuram ietekmes novērtējums līdz šim nav veikts, un izmaiņu apjoms ir 50 procenti no šā likuma 1.pielikumā minētās robežvērtības.\n(2) (Izslēgta no 01.01.2015. ar 05.06.2014 . likumu)\n(2 1 ) (Izslēgta no 01.01.2015. ar 05.06.2014 . likumu)\n(3) Stratēģisko novērtējumu veic plānošanas dokumentiem, arī tiem, kuri saistīti ar Eiropas Savienības līdzfinansējuma izmantošanu, un to grozījumiem, ja attiecīgos plānošanas dokumentus saskaņā ar normatīvajiem aktiem vai citiem noteikumiem izstrādā vai pieņem Saeima, Ministru kabinets, pašvaldība, valsts pašvaldību institūcija, cita atvasināta publiska persona vai cits subjekts, kuram deleģēts valsts pārvaldes uzdevums vai valsts īpašuma apsaimniekošana:\n1) lauksaimniecības, mežsaimniecības, zivsaimniecības, enerģētikas, rūpniecības, transporta, atkritumu apsaimniekošanas, ūdens resursu apsaimniekošanas, telekomunikāciju, tūrisma, derīgo izrakteņu ieguves jomā un plānošanas dokumentiem, kuri saistīti ar reģionālo attīstību, zemes izmantošanu, teritoriju plānojumiem un ietver pamatnosacījumus šā likuma 1. vai 2.pielikumā paredzēto darbību īstenošanai;\n2) kas var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) , izņemot plānošanas dokumentus, kuri nosaka dabas aizsardzības un apsaimniekošanas prasības un pasākumus attiecībā uz šīm teritorijām.\n(4) Stratēģisko novērtējumu veic plānošanas dokumentiem jomās, kuras nav minētas šā panta trešās daļas 1.punktā, ja tie ietver pamatnosacījumus paredzēto darbību īstenošanai un plānošanas dokumentu īstenošana var būtiski ietekmēt vidi.\n(5) Šā panta trešajā daļā minētajiem plānošanas dokumentiem, kuri attiecas uz nelielu teritoriju izmantošanu vietējās pašvaldības līmenī, kā arī šā panta trešajā daļā minēto plānošanas dokumentu nelieliem grozījumiem stratēģisko novērtējumu neveic, izņemot gadījumus, kad šo dokumentu īstenošana var būtiski ietekmēt vidi.\n(6) Šā likuma noteikumi neattiecas uz:\n1) plānošanas dokumentiem, kas saistīti tikai ar valsts aizsardzību;\n2) plānošanas dokumentiem, kas saistīti tikai ar ārkārtas situācijām;\n3) plānošanas dokumentiem finanšu vai budžeta jomā.\n(7) Ministru kabinets, izdodot atsevišķu rīkojumu, var nepiemērot ietekmes novērtējumu paredzētajām darbībām, kas saistītas ar valsts aizsardzību, ja ietekmes novērtējuma procedūras piemērošana var nelabvēlīgi ietekmēt attiecīgo paredzēto darbību mērķu sasniegšanu.\n(8) Militāro poligonu infrastruktūras izbūvei nepiemēro ietekmes sākotnējo izvērtējumu un ietekmes uz vidi novērtējumu, izņemot Eiropas nozīmes aizsargājamās dabas teritorijas ( Natura 2000 )."
+    },
+    {
+      "provision_ref": "Art. 4.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4.1",
+      "title": "4. 1 pants. Paredzētās darbības Eiropas nozīmes aizsargājamās dabas teritorijās (Natura 2000)",
+      "content": "(1) Ja paredzēta darbība, kuras īstenošana saskaņā ar Valsts vides dienesta lēmumu var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) , bet kura nav minēta šā likuma 1. pielikumā un kuras īstenošanai nav jāveic ietekmes novērtējums saskaņā ar šā likuma 14. 1 pantu , tās ietekmi uz Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) novērtē saskaņā ar atsevišķi noteiktu kārtību.\n(2) Šā panta pirmajā daļā minēto atsevišķo kārtību, kādā novērtējama paredzētās darbības ietekme uz Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) , nosaka Ministru kabinets.\n(3) Ja paredzētajai darbībai veic ietekmes novērtējumu un šīs darbības īstenošana var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000) , veic novērtējumu par ietekmi uz Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000) un novērtējuma ziņojumu ietver ietekmes uz vidi novērtējuma ziņojumā (turpmāk — ziņojums) saskaņā ar normatīvajos aktos par ietekmes novērtējumu noteikto kārtību."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Ietekmes novērtējuma finansēšana",
+      "content": "Ietekmes uz vidi novērtējumu un ietekmes sākotnējo izvērtējumu finansē paredzētās darbības ierosinātājs. Stratēģisko ietekmes uz vidi novērtējumu finansē plānošanas dokumenta izstrādātājs (turpmāk — izstrādātājs). Par ietekmes sākotnējo izvērtējumu paredzētās darbības ierosinātājs maksā valsts nodevu Ministru kabineta noteiktajā apmērā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Ietekmes uz vidi novērtējuma un ietekmes sākotnējā izvērtējuma koordinācija un pārraudzība",
+      "content": "(1) Ietekmes uz vidi novērtējumu šajā likumā noteiktajā kārtībā koordinē un pārrauga Vides pārraudzības valsts birojs (turpmāk — kompetentā institūcija).\n(2) Ietekmes sākotnējo izvērtējumu šajā likumā noteiktajā kārtībā koordinē un pārrauga Valsts vides dienests."
+    },
+    {
+      "provision_ref": "Art. 6.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6.1",
+      "title": "6. 1 pants. Ietekmes novērtējuma procesa termiņi",
+      "content": "(1) Valsts vides dienests mēneša laikā no iesnieguma saņemšanas veic ietekmes sākotnējo izvērtējumu un pieņem lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu.\n(2) Kompetentā institūcija lēmumu par paredzētās darbības ietekmes uz vidi novērtējumu pieņem mēneša laikā no iesnieguma saņemšanas.\n(3) Kompetentā institūcija izsniedz ietekmes novērtējuma programmu (turpmāk — programma) 30 dienu laikā pēc pieprasījuma saņemšanas. Ja kompetentajai institūcijai nepieciešama informācija no ierosinātāja, tā pagarina programmas izsniegšanas termiņu par laikposmu, kādā ierosinātājs sniedzis informāciju.\n(4) Kompetentā institūcija izsniedz atzinumu par ziņojumu 60 dienu laikā pēc ziņojuma saņemšanas. Ja kompetentā institūcija saskaņā ar šā likuma 20.panta otro daļu pieprasa informāciju no ierosinātāja, termiņš atzinuma sniegšanai tiek pagarināts par laikposmu, kādā ierosinātājs sniedzis informāciju. Ja nepieciešams, kompetentā institūcija atbilstoši Administratīvā procesa likumā noteiktajam var pagarināt atzinuma sniegšanas termiņu, bet ne vairāk kā par vienu mēnesi.\n(5) Ja paredzētās darbības veikšanai saskaņā ar likumu “ Par īpaši aizsargājamām dabas teritorijām ” nepieciešams saņemt Eiropas Komisijas atzinumu, kompetentā institūcija atzinumu sniedz 45 dienu laikā pēc Eiropas Komisijas atzinuma saņemšanas.\n(6) Attiecīgā valsts institūcija, pašvaldība vai cita likumā noteiktā institūcija lēmumu par paredzētās darbības akceptu pieņem 60 dienu laikā pēc šā likuma 22.panta pirmajā daļā minēto ierosinātāja dokumentu saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Paredzētās darbības pieteikšana",
+      "section": "7",
+      "title": "Paredzētās darbības pieteikšana kompetentajā institūcijā",
+      "content": "(1) Ierosinātājs paredzēto darbību, kas minēta šā likuma 4.panta pirmās daļas 1., 3., 4. un 5.punktā, piesaka kompetentajai institūcijai, iesniedzot rakstveida iesniegumu, kurā norāda vismaz divus dažādus risinājumus attiecībā uz paredzētās darbības vietu vai izmantojamo tehnoloģiju veidiem.\n(2) Ja paredzētā darbība var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) , ierosinātājs iesniegumā norāda visus iespējamos risinājumus attiecībā uz paredzētās darbības vietu un izmantojamo tehnoloģiju veidiem."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Paredzētās darbības pieteikšana",
+      "section": "8",
+      "title": "Paredzētās darbības pieteikšana Valsts vides dienestam",
+      "content": "(1) Paredzēto darbību, kas minēta šā likuma 3. 2 panta pirmajā daļā, ierosinātājs piesaka Valsts vides dienestam, iesniedzot rakstveida iesniegumu, kurā norāda vismaz divus dažādus risinājumus attiecībā uz šīs darbības vietu vai izmantojamo tehnoloģiju veidiem.\n(2) Ja paredzētā darbība var būtiski ietekmēt Eiropas nozīmes aizsargājamo teritoriju ( Natura 2000 ), ierosinātājs iesniegumā norāda visus iespējamos risinājumus attiecībā uz šīs darbības vietu un izmantojamo tehnoloģiju veidiem."
+    },
+    {
+      "provision_ref": "Art. 8.1",
+      "chapter": "II nodaļa Paredzētās darbības pieteikšana",
+      "section": "8.1",
+      "title": "8. 1 pants. (Izslēgts ar 05.06.2014 . likumu, kas stājas spēkā 03.07.2014. )",
+      "content": "8. 1 pants. (Izslēgts ar 05.06.2014 . likumu, kas stājas spēkā 03.07.2014. )"
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Paredzētās darbības pieteikšana",
+      "section": "9",
+      "title": "Paredzētās darbības iesnieguma saturs",
+      "content": "Paredzētās darbības iesnieguma saturu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Paredzētās darbības ietekmes sākotnējais izvērtējums",
+      "section": "10",
+      "title": "Paredzētās darbības, kurām nepieciešams ietekmes sākotnējais izvērtējums",
+      "content": "Saskaņā ar šā likuma 8.pantu Valsts vides dienestam pieteiktajām paredzētajām darbībām jāveic sākotnējais izvērtējums, lai, pamatojoties uz šā likuma 11.pantā minētajiem kritērijiem, noteiktu, vai attiecīgajām paredzētajām darbībām ir nepieciešams ietekmes novērtējums."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Paredzētās darbības ietekmes sākotnējais izvērtējums",
+      "section": "11",
+      "title": "Kritēriji, pēc kuriem novērtējama paredzētās darbības ietekme uz vidi",
+      "content": "(1) Paredzēto darbību raksturojošie faktori ir šādi:\n1) apjoms un tehniskie risinājumi;\n2) paredzētās darbības un citu darbību savstarpējā un kopējā ietekme;\n3) dabas resursu, jo īpaši zemes dzīļu, augsnes, ūdens un bioloģiskās daudzveidības izmantošana;\n4) atkritumu rašanās;\n5) piesārņojums un traucējumi;\n6) būtisks ar paredzēto darbību saistīts avāriju vai katastrofu risks, arī tāds, kuru var radīt klimata pārmaiņas, kas pamatotas ar zinātnes atziņām;\n7) cilvēka veselības riski (piemēram, ūdens vai gaisa piesārņojuma radīts risks).\n(2) Paredzētās darbības vietu un šīs vietas ģeogrāfiskās īpatnības raksturojošie faktori ir šādi:\n1) līdzšinējais un apstiprinātais teritorijas izmantošanas veids un funkcionālais zonējums;\n2) attiecīgajā teritorijā esošo dabas resursu [tostarp augsnes, zemes dzīļu, ūdens un bioloģiskās daudzveidības (īpaši ņemot vērā aizsargājamās sugas, to dzīvotnes, īpaši aizsargājamos un Eiropas Savienības nozīmes biotopus)] relatīvais daudzums, pieejamība un pietiekamība, kvalitāte un atjaunošanās iespējas;\n3) dabiskās vides absorbcijas spēja, kas vērtējama, pievēršot īpašu uzmanību:\na) starptautiskas nozīmes mitrājiem, virszemes ūdensobjektu aizsargjoslām un upju grīvām,\nb) Baltijas jūras un Rīgas līča piekrastes aizsargjoslai un jūras videi,\nc) ar mežu klātām teritorijām,\nd) īpaši aizsargājamām dabas teritorijām un mikroliegumiem,\ne) aizsargjoslām ap pazemes ūdens ņemšanas vietām,\nf) teritorijām, kurās piesārņojuma līmenis ir augstāks vai, kā agrāk tika konstatēts, bija augstāks, nekā paredz vides kvalitātes standarti, un kurās šāda neatbilstība ir iespējama,\ng) blīvi apdzīvotām teritorijām,\nh) vēsturiski, arheoloģiski un kultūrvēsturiski nozīmīgām ainavām un vietām.\n(3) Paredzētās darbības iespējamo ietekmi uz vidi vērtē atbilstoši šā panta pirmajā un otrajā daļā noteiktajiem kritērijiem un ņemot vērā paredzētās darbības:\n1) ietekmes apjomu un telpisko izplatību (iespējamai ietekmei pakļautās teritorijas lielumu un pakļauto iedzīvotāju skaitu);\n2) ietekmes raksturu un iespējamo pārrobežu ietekmi;\n3) ietekmes intensitāti un kompleksumu;\n4) ietekmes varbūtību;\n5) ietekmes plānoto sākumu, ilgumu, biežumu un atgriezeniskumu;\n6) savstarpējo un kopējo ietekmi uz citām esošām vai apstiprinātām paredzētajām darbībām, kas ietekmē vienu un to pašu teritoriju;\n7) iespēju pilnvērtīgi samazināt paredzēto ietekmi uz vidi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Paredzētās darbības ietekmes sākotnējais izvērtējums",
+      "section": "12",
+      "title": "Sākotnējā izvērtējuma veikšanas kārtība",
+      "content": "(1) Sākotnējo izvērtējumu veic Valsts vides dienests.\n(2) Ministru kabinets nosaka kārtību, kādā veicams sākotnējais izvērtējums.\n(3) Valsts vides dienests pieņem lēmumu par atteikumu veikt sākotnējo izvērtējumu, ja paredzētā darbība ir aizliegta ar normatīvajiem aktiem, izņemot šādus gadījumus:\n1) paredzētā darbība neatbilst vietējās pašvaldības teritorijas plānojumam vai lokālplānojumam;\n2) Ministru kabinets atbilstoši likumam \" Par īpaši aizsargājamām dabas teritorijām \" ir izdevis rīkojumu par to, ka paredzētā darbība nepieciešama sabiedrībai nozīmīgu interešu apmierināšanai.\n(4) Valsts vides dienests pieņem lēmumu par sākotnējā izvērtējuma pārtraukšanu, ja, veicot sākotnējo izvērtējumu, konstatē, ka paredzētā darbība ir aizliegta ar normatīvajiem aktiem, izņemot šādus gadījumus:\n1) paredzētā darbība neatbilst vietējās pašvaldības teritorijas plānojumam vai lokālplānojumam;\n2) Ministru kabinets atbilstoši likumam \" Par īpaši aizsargājamām dabas teritorijām \" ir izdevis rīkojumu par to, ka paredzētā darbība nepieciešama sabiedrībai nozīmīgu interešu apmierināšanai.\n(5) Valsts vides dienesta lēmumu, ar kuru tas atsaka vai pārtrauc veikt sākotnējo izvērtējumu, ja paredzētā darbība ir aizliegta ar normatīvajiem aktiem, var apstrīdēt kompetentajā institūcijā. Kompetentās institūcijas lēmumu var pārsūdzēt tiesā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Paredzētās darbības ietekmes sākotnējais izvērtējums",
+      "section": "13",
+      "title": "Sākotnējā izvērtējuma rezultāts",
+      "content": "(1) Valsts vides dienests, ievērojot sākotnējā izvērtējuma rezultātu, pieņem lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu.\n(2) Ja pieņemts lēmums nepiemērot paredzētās darbības ietekmes uz vidi novērtējumu, Valsts vides dienests izdod tehniskos noteikumus attiecībā uz katru konkrēto paredzēto darbību. Tehniskos noteikumus izdod arī citos gadījumos, kas norādīti šā panta ceturtajā daļā minētajos Ministru kabineta noteikumos.\n(3) Ministru kabineta noteiktajos gadījumos Valsts vides dienests var grozīt vides aizsardzības prasības visā tehnisko noteikumu darbības laikā.\n(4) Ministru kabinets nosaka paredzētās darbības, kuru veikšanai nepieciešami tehniskie noteikumi, prasības attiecībā uz tehnisko noteikumu saturu, to pieprasīšanas un sagatavošanas kārtību.\n(5) Par tehnisko noteikumu izsniegšanu maksājama valsts nodeva. Nodevas apmēru, atvieglojumus un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "14",
+      "title": "Konsultācijas ar pašvaldību par paredzēto darbību pirms ietekmes novērtējuma veikšanas",
+      "content": "(1) Ierosinātājs pirms paredzētās darbības ietekmes novērtējuma veikšanas konsultējas ar pašvaldību par paredzētās darbības īstenošanas iespējām pašvaldības teritorijā. Paredzētajām darbībām, kuras saistītas ar transporta un elektronisko sakaru tīklu un enerģijas pārvades būvju būvniecību vai attiecībā uz kurām Ministru kabinets pieņem lēmumu par atļauju uzsākt darbību (paredzētās darbības akcepts), konsultācijas ar pašvaldību nav nepieciešamas.\n(2) Pašvaldība izvērtē paredzētās darbības īstenošanas iespējas savā teritorijā un 15 dienu laikā pēc ierosinātāja rakstveida iesnieguma saņemšanas nosūta tam savu viedokli par paredzētās darbības atbilstību šīs pašvaldības teritorijas attīstības plānošanas dokumentiem."
+    },
+    {
+      "provision_ref": "Art. 14.1",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "14.1",
+      "title": "14. 1 pants. Ietekmes novērtējuma nepieciešamības apstiprināšana",
+      "content": "(1) Valsts vides dienests lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu rakstveidā paziņo ierosinātājam, ieinteresētajām valsts institūcijām, pašvaldībai, kuras teritorijā plānota paredzētā darbība, un citai likumā noteiktajai institūcijai, kā arī ievieto savā tīmekļvietnē paziņojumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu. Lēmumu par ietekmes uz vidi novērtējuma nepieciešamību nosūta arī kompetentajai institūcijai, un tā ievieto savā tīmekļvietnē paziņojumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu. Kompetentā institūcija informē paredzētās darbības ierosinātāju un attiecīgo pašvaldību par to, vai nepieciešams organizēt sākotnējās sabiedriskās apspriešanas sanāksmi, un par nosacījumiem programmas izdošanai.\n(1 1 ) Kompetentā institūcija lēmumu par ietekmes uz vidi novērtējuma piemērošanu paredzētajai darbībai, kas pieteikta saskaņā ar šā likuma 7.panta pirmo daļu, rakstveidā paziņo ierosinātājam un ieinteresētajām valsts institūcijām, pašvaldībai, kuras teritorijā plānota paredzētā darbība, un citai likumā noteiktajai institūcijai, kā arī ievieto savā tīmekļvietnē paziņojumu par ietekmes uz vidi novērtējuma nepieciešamību.\n(2) Valsts vides dienesta lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu var apstrīdēt kompetentajā institūcijā. Kompetentās institūcijas lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.\n(3) (Izslēgta ar 23.11.2016 . likumu)\n(4) Kompetentā institūcija pieņem lēmumu par atteikumu veikt ietekmes novērtējumu, ja paredzētā darbība ir aizliegta ar normatīvajiem aktiem, izņemot šādus gadījumus:\n1) paredzētā darbība neatbilst vietējās pašvaldības teritorijas plānojumam vai lokālplānojumam;\n2) Ministru kabinets atbilstoši likumam \" Par īpaši aizsargājamām dabas teritorijām \" ir izdevis rīkojumu par to, ka paredzētā darbība nepieciešama sabiedrībai nozīmīgu interešu apmierināšanai.\n(5) Kompetentā institūcija pieņem lēmumu par ietekmes novērtējuma pārtraukšanu, ja ietekmes novērtējuma laikā konstatē, ka paredzētā darbība ir aizliegta ar normatīvajiem aktiem, izņemot šādus gadījumus:\n1) paredzētā darbība neatbilst vietējās pašvaldības teritorijas plānojumam vai lokālplānojumam;\n2) Ministru kabinets atbilstoši likumam \" Par īpaši aizsargājamām dabas teritorijām \" ir izdevis rīkojumu par to, ka paredzētā darbība nepieciešama sabiedrībai nozīmīgu interešu apmierināšanai.\n(6) Šā panta ceturtajā un piektajā daļā minēto kompetentās institūcijas lēmumu var pārsūdzēt tiesā.\n(7) Kompetentā institūcija pati vai pēc ierosinātāja lūguma var pieņemt lēmumu, ka paredzētās darbības, kurām piemērots ietekmes novērtējums un kuras rada ietekmi uz vienu un to pašu teritoriju un ir līdzīgas, novērtējamas apvienotā procedūrā.\n(8) Kompetentā institūcija lēmumā par ietekmes novērtējuma apvienoto procedūru noteic, ka ietekmes novērtējuma laikā ir apvienojama:\n1) sākotnējā sabiedriskā apspriešana;\n2) ietekmes novērtējuma ziņojuma sagatavošana;\n3) sabiedriskā apspriešana."
+    },
+    {
+      "provision_ref": "Art. 14.2",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "14.2",
+      "title": "14. 2 pants. Ietekmes novērtēšanas process",
+      "content": "Paredzētās darbības ietekmes novērtēšanas procesa posmi ir šādi: paredzētās darbības sākotnējā sabiedriskā apspriešana, programmas izstrādāšana, ietekmes novērtējuma ziņojuma sagatavošana un sabiedriskā apspriešana, kompetentās institūcijas atzinums par minēto ziņojumu un paredzētās darbības akcepta lēmums, kurā integrēts kompetentās institūcijas atzinums."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "15",
+      "title": "Paredzētās darbības ietekmes novērtējuma sākotnējā sabiedriskā apspriešana",
+      "content": "(1) Ja ir saņemts Valsts vides dienesta vai kompetentās institūcijas lēmums, ka veicams paredzētās darbības ietekmes novērtējums, ierosinātājs vismaz vienā pašvaldības izdotajā laikrakstā vai citā vietējā laikrakstā publicē paziņojumu par paredzēto darbību un sabiedrības iespēju iesniegt rakstveida priekšlikumus par šīs darbības iespējamo ietekmi uz vidi, kā arī individuāli informē tos nekustamo īpašumu īpašniekus (valdītājus), kuru nekustamie īpašumi robežojas ar paredzētās darbības teritoriju. Ierosinātājs minēto paziņojumu ievietošanai tīmekļvietnē elektroniski iesniedz kompetentajai institūcijai un pašvaldībai, kuras administratīvajā teritorijā tiek plānota paredzētā darbība.\n(2) Pēc kompetentās institūcijas vai tās pašvaldības rakstveida pieprasījuma, kuras administratīvajā teritorijā plānota paredzētā darbība, ierosinātājs nodrošina paredzamās darbības ietekmes novērtējuma sākotnējo sabiedrisko apspriešanu. Ierosinātājs var organizēt sākotnējo sabiedrisko apspriešanu pēc savas iniciatīvas. Tajā ir tiesīga piedalīties un izteikt savus priekšlikumus jebkura persona.\n(3) Paredzētās darbības, arī būvniecības ietekmes novērtējuma sākotnējā sabiedriskā apspriešana notiek Ministru kabineta noteiktajā kārtībā.\n(4) (Izslēgta ar 10.06.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "16",
+      "title": "Programmas izstrādāšana",
+      "content": "(1) Pēc ierosinātāja rakstveida pieprasījuma kompetentā institūcija izstrādā un nosūta ierosinātājam programmu, kas ietver prasības attiecībā uz informācijas apjomu un detalizācijas pakāpi, kā arī ietekmes novērtējuma turpmākai veikšanai nepieciešamo pētījumu un organizatorisko pasākumu kopumu.\n(2) Programma tiek izstrādāta, pamatojoties uz paredzētās darbības iesniegumu, tās sākotnējo izvērtējumu, ja tāds ir bijis, sākotnējās sabiedriskās apspriešanas rezultātiem, kā arī ņemot vērā sabiedrības priekšlikumus un ieinteresēto valsts institūciju, pašvaldību un citas likumā noteiktās institūcijas sniegto informāciju. Minimālās prasības programmas saturam un tās izstrādāšanas kārtību nosaka Ministru kabinets.\n(3) Izstrādājot programmu, kompetentajai institūcijai ir tiesības pieaicināt ekspertus, kā arī pieprasīt no ierosinātāja papildu informāciju.\n(4) Programma ir spēkā piecus gadus. Ierosinātājs atkārtoti pieprasa izsniegt programmu, ja tās derīguma termiņš ir beidzies, bet šā likuma 17.pantā minētais ziņojums nav iesniegts kompetentajai institūcijai."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "17",
+      "title": "Ziņojums par ietekmes novērtējumu, tā sagatavošana un sabiedriskā apspriešana",
+      "content": "(1) Pamatojoties uz programmu, ierosinātājs sagatavo ziņojumu atbilstoši šā panta trešajai daļai un ievieto savā vai tā attiecīgi pilnvarotas personas tīmekļvietnē šo ziņojumu un paziņojumu par sabiedrības iespēju iepazīties ar minēto ziņojumu un ar to saistītajiem dokumentiem, iesniegt rakstveida priekšlikumus un piedalīties sabiedriskajā apspriešanā, kā arī publicē paziņojumu vismaz vienā pašvaldības izdotajā laikrakstā vai citā vietējā laikrakstā. Ierosinātājs nodrošina ziņojuma pieejamību sabiedrībai.\n(1 1 ) Šā panta pirmajā daļā paredzēto ziņojumu izstrādā speciālisti ar atbilstošu izglītību. Kompetentā institūcija, izsniedzot programmu, norāda minimālās prasības attiecībā uz akadēmisko vai profesionālo augstāko izglītību, kāda nepieciešama ziņojumā iekļaujamo paredzētās darbības ietekmju vērtējumu sagatavošanai. Ziņojumā ietver to speciālistu sarakstu (norādot izglītību), kuri sagatavojuši paredzētās darbības ietekmju vērtējumus.\n(2) Ierosinātājs ziņojumu un paziņojumu papīra formā un elektroniski iesniedz attiecīgajai pašvaldībai, kas nodrošina paziņojuma ievietošanu savā tīmekļvietnē un ziņojuma pieejamību sabiedrībai. Ierosinātājs elektroniski iesniedz kompetentajai institūcijai paziņojumu, kuru tā ievieto savā tīmekļvietnē, nodrošinot arī saiti uz ierosinātāja tīmekļvietnē, kur pieejams ziņojums.\n(3) Ziņojumā, ņemot vērā konkrētās paredzētās darbības specifiskās īpašības un vides jomas, kas var tikt ietekmētas, nosaka, raksturo un novērtē paredzētās darbības ietekmi uz vidi. Ziņojumā sniedz informāciju par:\n1) paredzēto darbību, tās norises vietu un apjomu, kā arī iespējamām un samērīgām alternatīvām attiecībā uz paredzētās darbības vietu vai izmantojamo tehnoloģiju veidiem (arī par atteikšanos no paredzētās darbības);\n2) paredzēto darbību, tās norises vietu un apjomu, kā arī iespējamām un samērīgām alternatīvām attiecībā uz paredzētās darbības vietu un izmantojamo tehnoloģiju veidiem (arī par atteikšanos no paredzētās darbības), ja šī darbība var būtiski ietekmēt Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000);\n3) paredzētās darbības un šīs daļas 1. un 2.punktā minēto risinājumu iespējamo ietekmi uz vidi, tai skaitā uz Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000);\n4) tehnoloģiskajiem un citiem risinājumiem, kas paredzēti, lai novērstu, nepieļautu vai mazinātu un, ja iespējams, atlīdzinātu paredzētās darbības nelabvēlīgo ietekmi uz vidi;\n5) paredzētajiem kompensējošajiem pasākumiem, ja tādi nosakāmi saskaņā ar likumu “ Par īpaši aizsargājamām dabas teritorijām ”;\n5 1 ) novērtētajām alternatīvām, kas atbilst paredzētajai darbībai un tās specifiskajām īpašībām, un izraudzītās alternatīvas pamatojumu;\n6) sabiedriskās apspriešanas rezultātu, pievienojot pārskatu par sabiedrības līdzdalības pasākumiem un sabiedrības iesniegtajiem priekšlikumiem un norādot, kā iesniegtie priekšlikumi ir ņemti vērā.\n(4) Sabiedrībai ir tiesības 30 dienu laikā pēc šā panta pirmajā daļā minētā paziņojuma publicēšanas laikrakstā nosūtīt ierosinātājam un kompetentajai institūcijai rakstveida priekšlikumus vai viedokļus par ziņojumu. Ierosinātājs sabiedrisko apspriešanu rīko vismaz septiņas dienas pēc paziņojuma publicēšanas laikrakstā un ne vēlāk kā 10 dienas pirms sabiedrības priekšlikumu iesniegšanai noteiktā termiņa beigām.\n(5) Ziņojuma saturu un sagatavošanas kārtību, kā arī kārtību, kādā sabiedrība tiek informēta par ziņojumu, un paziņojuma publicēšanas kārtību nosaka Ministru kabinets.\n(6) Ierosinātāja pienākums ir noskaidrot sabiedrības viedokli, veicinot to iedzīvotāju līdzdalību sabiedriskajā apspriešanā, kurus var ietekmēt paredzētā darbība, vai aptaujājot šos iedzīvotājus.\n(7) Ierosinātājs, izvērtējis sabiedrības iesniegtos priekšlikumus un sabiedriskās apspriešanas rezultātus, precizē ziņojumu, ietverot tajā pārskatu par sabiedrības līdzdalības pasākumiem un sabiedrības iesniegtajiem priekšlikumiem un norādot, kā iesniegtie priekšlikumi ir ņemti vērā. Ierosinātājs šo ziņojumu kopā ar sabiedrības rakstveida priekšlikumu kopijām papīra formā un elektroniski iesniedz kompetentajai institūcijai, kā arī ievieto ziņojumu savā tīmekļvietnē.\n(8) Ja ziņojuma sagatavošanas gaitā ierosinātājs nolemj atteikties no paredzētās darbības, tas nekavējoties iesniedz paziņojumu par savu lēmumu (papīra formā un elektroniski) pašvaldībai, kuras administratīvajā teritorijā plānota paredzētā darbība, un kompetentajai institūcijai, kas ierosinātāja paziņojumu ievieto savā tīmekļvietnē."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "18",
+      "title": "Atzinums par darba ziņojumu",
+      "content": "(Izslēgts ar 10.06.2010 . likumu. Grozījums par panta izslēgšanu stājas spēkā 01.01.2011. Sk. Pārejas noteikumu 14.punktu)"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "19",
+      "title": "Noslēguma ziņojums par ietekmes novērtējumu",
+      "content": "(Izslēgts ar 10.06.2010 . likumu. Grozījums par panta izslēgšanu stājas spēkā 01.01.2011. Sk. Pārejas noteikumu 14.punktu)"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "20",
+      "title": "Atzinums par ziņojumu",
+      "content": "(1) Kompetentā institūcija izvērtē ziņojumu un sniedz par to atzinumu.\n(2) Kompetentā institūcija var pieaicināt ekspertus atzinuma sagatavošanai un nosūtīt ziņojumu izvērtēšanai valsts institūcijām atbilstoši to kompetencei, kā arī, ja nepieciešams, pieprasīt no ierosinātāja papildu informāciju.\n(3) Kompetentā institūcija līdz atzinuma sagatavošanai sniedz rakstveida priekšlikumus ziņojuma nepilnību novēršanai. Ierosinātājs nodrošina aktuālās ziņojuma versijas pieejamību savā vai tā attiecīgi pilnvarotas personas tīmekļvietnē un paziņojumu par aktualizēto ziņojumu elektroniski nosūta pašvaldībai ievietošanai tās tīmekļvietnē.\n(4) Ja ziņojums neatbilst programmai, normatīvo aktu prasībām vai nav ņemti vērā kompetentās institūcijas rakstveida priekšlikumi attiecībā uz ziņojumu, vai nav veikta sabiedrības informēšana, vai nav notikusi sabiedriskā apspriešana atbilstoši šā likuma un citu normatīvo aktu prasībām, kompetentā institūcija nosūta ziņojumu ierosinātājam pārstrādāšanai, norādot novēršamās nepilnības, kā arī, ja nepieciešams, uzdod ierosinātājam nodrošināt sabiedrības informēšanu un sabiedrisko apspriešanu.\n(5) Ministru kabinets nosaka kārtību, kādā kompetentā institūcija nosūta ziņojumu ierosinātājam pārstrādāšanai un sniedz atzinumu par ziņojumu.\n(6) Vides aizsardzības un reģionālās attīstības ministrija sagatavo informatīvo ziņojumu un Ministru kabineta rīkojuma projektu iesniegšanai Ministru kabinetam lēmuma pieņemšanai šādos gadījumos:\n1) ja saskaņā ar ierosinātāja iesniegto ziņojumu paredzētā darbība negatīvi ietekmēs Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000), bet paredzētā darbība ir vienīgais risinājums sabiedrībai nozīmīgu interešu, arī sociālo vai ekonomisko interešu, apmierināšanai;\n2) ja saskaņā ar ierosinātāja iesniegto ziņojumu paredzētā darbība negatīvi ietekmēs Eiropas nozīmes aizsargājamā dabas teritorijā (NATURA 2000) sastopamās Eiropas Savienības prioritārās sugas vai biotopus, bet paredzētā darbība ir vienīgais risinājums un nepieciešama sabiedrības veselības aizsardzības, sabiedrības drošības vai vides aizsardzības interešu vai citu sabiedrībai sevišķi svarīgu interešu apmierināšanai.\n(7) Prasības šā panta sestajā daļā minētajam informatīvajam ziņojumam nosaka Ministru kabinets.\n(8) Ja paredzētā darbība negatīvi ietekmēs Eiropas nozīmes aizsargājamā dabas teritorijā (NATURA 2000) sastopamās Eiropas Savienības prioritārās sugas vai biotopus un saskaņā ar Ministru kabineta lēmumu paredzētā darbība ir vienīgais risinājums un nepieciešama citu sabiedrībai sevišķi svarīgu interešu apmierināšanai, kompetentā institūcija atbilstoši likumam “ Par īpaši aizsargājamām dabas teritorijām ” nosūta informāciju Eiropas Komisijai atzinuma saņemšanai. Par pārējiem šā panta sestajā daļā minētajiem gadījumiem un kompensējošo pasākumu piemērošanu kompetentā institūcija atbilstoši likumam “ Par īpaši aizsargājamām dabas teritorijām ” informē Eiropas Komisiju.\n(9) Kompetentā institūcija atzinumu par ziņojumu nosūta ierosinātājam, ietekmes novērtēšanā iesaistītajām valsts institūcijām, citai likumā noteiktajai institūcijai un pašvaldībām (papīra formā un elektroniski), kas to ievieto savā tīmekļvietnē. Kompetentā institūcija ievieto savā tīmekļvietnē atzinumu par ziņojumu un publicē vismaz vienā pašvaldības izdotajā laikrakstā vai citā vietējā laikrakstā paziņojumu par to, ka ir sniegts atzinums par ziņojumu, kā arī informē par iespēju iepazīties ar minēto atzinumu un ziņojumu.\n(10) Kompetentā institūcija atzinumā par ziņojumu, ja nepieciešams, norāda nosacījumus, ar kādiem paredzētā darbība ir īstenojama vai nav pieļaujama. Nosacījumos var ietvert arī prasības ietekmes uz vidi monitoringam.\n(11) Atzinums par ziņojumu ir spēkā trīs gadus. Ja šajā laikā netiek pieņemts šā likuma 21.pantā minētais paredzētās darbības akcepts, veicams jauns ietekmes novērtējums."
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "IV nodaļa Ietekmes novērtējuma veikšanas kārtība",
+      "section": "20.1",
+      "title": "20. 1 pants. Paredzētās darbības, kurām var būt pārrobežu ietekme",
+      "content": "(1) Ja kompetentā institūcija lēmumā par ietekmes novērtējuma nepieciešamību norāda, ka paredzētajai darbībai var būt būtiska pārrobežu ietekme, tā rakstveidā paziņo par to ierosinātājam, Vides aizsardzības un reģionālās attīstības ministrijai un Ārlietu ministrijai, kā arī ieinteresētajām valsts institūcijām un pašvaldībām.\n(2) Kompetentā institūcija pēc saskaņošanas ar Vides aizsardzības un reģionālās attīstības ministriju un Ārlietu ministriju nosūta rakstveida paziņojumu par paredzēto darbību, kurai var būt pārrobežu ietekme, uz valsti, kuru paredzētā darbība var ietekmēt, pirms ierosinātājs informē Latvijas sabiedrību par paredzēto darbību saskaņā ar šā likuma 15.panta pirmo daļu.\n(3) Paziņojumā tiek sniegta šāda informācija:\n1) paredzētās darbības iesniegums;\n2) jebkura pieejama informācija par paredzēto darbību, kurai var būt pārrobežu ietekme;\n3) informācija par iespējamo lēmumu;\n4) termiņš un vieta, kur valsts var sniegt atbildi, norādot, vai tā ir paredzējusi piedalīties ietekmes novērtējumā.\n(4) Kompetentā institūcija, saņēmusi rakstveida pieprasījumu no jebkuras valsts, kuru paredzētā darbība var būtiski ietekmēt, nosūta tai šā panta trešajā daļā minēto paziņojumu, pirms ierosinātājs informē Latvijas sabiedrību par paredzēto darbību saskaņā ar šā likuma 15.panta pirmo daļu.\n(5) Ja valsts, kura ir saņēmusi šā panta trešajā daļā minēto paziņojumu, tajā norādītajā termiņā sniedz atbildi par to, ka tā nolēmusi piedalīties ietekmes novērtējumā, kompetentā institūcija nosūta tai programmu, ziņojumu un informāciju par ietekmes novērtējuma kārtību.\n(6) Kompetentā institūcija, sadarbojoties ar tās valsts kompetento institūciju, kura ir nolēmusi piedalīties ietekmes novērtējumā, nodrošina kārtību, kādā ietekmētās valsts ieinteresētās institūcijas un sabiedrība var iepazīties ar šā panta trešajā un piektajā daļā minēto informāciju un iesniegt priekšlikumus kompetentajai institūcijai, pirms tā sniedz atzinumu par ziņojumu. Priekšlikumu iesniegšanas termiņu noteic ne īsāku par 30 dienām no dienas, kad ietekmētās valsts ieinteresētajai institūcijai nosūtīts rakstveida paziņojums vai programma, ziņojums un informācija par ietekmes novērtējuma veikšanas kārtību.\n(6 1 ) Ja paredzēto darbību plānots īstenot ārpus Latvijas jurisdikcijā esošas teritorijas un tai var būt būtiska ietekme uz Latvijas vidi, kompetentā institūcija 14 dienu laikā pēc tam, kad no attiecīgās valsts kompetentās institūcijas saņemta šā panta trešajā vai piektajā daļā noteiktā informācija, ievieto paziņojumu par to savā tīmekļvietnē un publicē šo paziņojumu vismaz vienā vietējā laikrakstā.\n(6 2 ) Kompetentā institūcija paziņojumā norāda vietu, kur sabiedrība un ieinteresētās institūcijas var iegūt informāciju par paredzēto darbību un tās pārrobežu ietekmi, kā arī informāciju par termiņu, līdz kuram kompetentajai institūcijai var iesniegt rakstveida priekšlikumus. Kompetentā institūcija nosūta paziņojumu tām institūcijām un organizācijām, ar kurām nepieciešams konsultēties par programmu un ziņojumu.\n(6 3 ) Kompetentā institūcija apkopo sabiedrības un ieinteresēto institūciju iesniegtos priekšlikumus un nosūta tos attiecīgās valsts kompetentajai institūcijai.\n(7) Kompetentā institūcija konsultējas ar tās valsts kompetento institūciju, kura nolēmusi piedalīties ietekmes novērtējumā, par paredzētās darbības iespējamo pārrobežu ietekmi, par pasākumiem nelabvēlīgas ietekmes novēršanai vai samazināšanai, kā arī par konsultācijām nepieciešamo termiņu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa Paredzētās darbības akcepts",
+      "section": "21",
+      "title": "Paredzētās darbības akcepta jēdziens",
+      "content": "(1) Paredzētās darbības akcepts ir šajā likumā un citos normatīvajos aktos noteiktajā kārtībā pieņemts attiecīgās valsts institūcijas, pašvaldības, citas likumā noteiktās institūcijas vai Ministru kabineta lēmums par atļauju uzsākt paredzēto darbību.\n(2) Ja saskaņā ar ziņojumu paredzētās darbības ietekme uz vidi vai cilvēku veselību var skart teritoriju, kas ir lielāka par attiecīgās pašvaldības teritoriju, un attiecīgā pašvaldība ir akceptējusi paredzēto darbību, galīgo lēmumu par paredzēto darbību pieņem Ministru kabinets pēc tās pašvaldības ierosinājuma, kuras teritoriju šī darbība var ietekmēt."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Paredzētās darbības akcepts",
+      "section": "22",
+      "title": "Paredzētās darbības akceptēšana",
+      "content": "(1) Lai saņemtu atļauju uzsākt paredzēto darbību, ierosinātājs iesniedz attiecīgajai valsts institūcijai, pašvaldībai vai citai likumā noteiktajai institūcijai iesniegumu, ziņojumu un kompetentās institūcijas atzinumu par ziņojumu kopā ar citos normatīvajos aktos noteiktajiem dokumentiem.\n(2) Attiecīgā valsts institūcija, pašvaldība vai cita likumā noteiktā institūcija, vispusīgi izvērtējusi ziņojumu, pašvaldības un sabiedrības viedokli un ievērojot kompetentās institūcijas atzinumu par ziņojumu, normatīvajos aktos noteiktajā kārtībā pieņem lēmumu par paredzētās darbības akceptēšanu vai neakceptēšanu.\n(2 1 ) Ja pieņemts lēmums akceptēt paredzēto darbību, tā īstenojama, ievērojot nosacījumus, kas izvirzīti saskaņā ar šā likuma 20. panta desmito daļu.\n(3) Ja paredzēto darbību plānots veikt vairāku pašvaldību teritorijā, tā uzskatāma par akceptētu, ja lēmumu par šīs darbības akceptēšanu ir pieņēmušas visas attiecīgās pašvaldības. Ja paredzēto darbību, kas saistīta ar transporta un elektronisko sakaru tīklu un enerģijas pārvades būvju būvniecību, plānots veikt vairāku pašvaldību teritorijā un pašvaldības akceptējušas atšķirīgus paredzētās darbības vietas risinājumus, galīgo lēmumu pieņem Ministru kabinets.\n(4) Ja paredzētajai darbībai ir pārrobežu ietekme, attiecīgā valsts institūcija, pašvaldība vai cita likumā noteiktā institūcija, pieņemot lēmumu par paredzētās darbības akceptēšanu vai neakceptēšanu, izvērtē arī ietekmētās valsts ieinteresēto institūciju un sabiedrības viedokli, kā arī konsultāciju rezultātus.\n(5) Lēmumu akceptēt vai neakceptēt Latvijas Republikas iekšējos jūras ūdeņos, teritoriālajā jūrā vai ekskluzīvajā ekonomiskajā zonā paredzēto darbību pieņem Ministru kabinets.\n(6) Paredzēto darbību akceptē Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Paredzētās darbības akcepts",
+      "section": "23",
+      "title": "Informēšana par pieņemto lēmumu",
+      "content": "(1) Attiecīgā valsts institūcija, pašvaldība vai cita likumā noteiktā institūcija nosūta pieņemto lēmumu ierosinātājam un kompetentajai institūcijai.\n(2) Attiecīgā valsts institūcija, pašvaldība vai cita likumā noteiktā institūcija triju dienu laikā pēc lēmuma pieņemšanas to ievieto savā tīmekļvietnē (ja tāda ir) un piecu darbdienu laikā nosūta publicēšanai vismaz vienā pašvaldības izdotajā laikrakstā vai citā vietējā laikrakstā. Publikācijā norāda valsts institūciju vai vietējo pašvaldību, kur ieinteresētās personas var iepazīties ar:\n1) lēmuma saturu;\n2) lēmuma pamatojumu un informāciju par sabiedriskās apspriešanas procesu, norādot arī to, kā ir ņemti vērā tās valsts priekšlikumi, ar kuru notikušas konsultācijas pārrobežu ietekmes uz vidi novērtēšanas laikā;\n3) pasākumiem, kas tiks veikti, lai novērstu vai samazinātu nelabvēlīgo ietekmi uz vidi;\n4) (izslēgts ar 15.09.2005 . likumu) .\n(3) Attiecīgā valsts institūcija, pašvaldība vai cita likumā noteiktā institūcija informē ikvienu valsti, ar kuru notikušas konsultācijas ietekmes uz vidi novērtējuma procesā, un nosūta tai šā panta otrajā daļā minēto informāciju.\n(4) Ja paredzēto darbību plānots īstenot ārpus Latvijas jurisdikcijā esošas teritorijas un ir notikušas konsultācijas saskaņā ar šā likuma 20. 1 panta septīto daļu, kompetentā institūcija piecu darbdienu laikā pēc tam, kad saņemta informācija par pieņemto lēmumu, ievieto šo lēmumu savā tīmekļvietnē."
+    },
+    {
+      "provision_ref": "Art. 23.1",
+      "chapter": "V 1 nodaļa Stratēģiskā novērtējuma kārtība (Nodaļa 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )",
+      "section": "23.1",
+      "title": "23. 1 pants. Plānošanas dokumenta pieteikšana kompetentajā institūcijā",
+      "content": "(1) Uzsākot tāda plānošanas dokumenta sagatavošanu, kuram saskaņā ar šo likumu var būt būtiska ietekme uz vidi, arī uz Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) (izņemot šā panta trešajā daļā noteiktos plānošanas dokumentus), tā izstrādātājs iesniedz kompetentajai institūcijai rakstveida iesniegumu. Pirms rakstveida iesnieguma iesniegšanas izstrādātājs konsultējas ar ieinteresētajām vides un sabiedrības veselības institūcijām par plānošanas dokumenta īstenošanas iespējamo ietekmi uz vidi un cilvēku veselību un par stratēģiskā novērtējuma nepieciešamību. Iesniegumā izstrādātājs, ņemot vērā šā likuma 4.panta trešo, ceturto, piekto un sesto daļu, kā arī 23. 2 pantā noteiktos kritērijus un ieinteresēto institūciju viedokli, pamato nepieciešamību piemērot stratēģisko novērtējumu vai iemeslus, kādēļ konkrētajam plānošanas dokumentam stratēģiskais novērtējums nav nepieciešams.\n(2) Iesnieguma saturu un iesniegšanas kārtību, kā arī institūcijas, ar kurām iesniedzējs konsultējas pirms iesnieguma iesniegšanas, nosaka Ministru kabinets.\n(3) Ministru kabinets nosaka to plānošanas dokumentu veidus, kuriem nepieciešams stratēģiskais novērtējums."
+    },
+    {
+      "provision_ref": "Art. 23.2",
+      "chapter": "V 1 nodaļa Stratēģiskā novērtējuma kārtība (Nodaļa 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )",
+      "section": "23.2",
+      "title": "23. 2 pants. Stratēģiskā novērtējuma nepieciešamības kritēriji",
+      "content": "Lai pieņemtu lēmumu par stratēģiskā novērtējuma nepieciešamību, ir jāizvērtē:\n1) attiecīgā plānošanas dokumenta būtība, ņemot vērā:\na) cik lielā mērā plānošanas dokumentā ietverti priekšnoteikumi paredzēto darbību, projektu un citu pasākumu īstenošanai, ievērojot vietas izvēli, darbības veidu, apjomu, nosacījumus un resursu izmantošanu,\nb) cik lielā mērā plānošanas dokuments ietekmē citus plānošanas dokumentus, kuri ir dažādos plānošanas līmeņos,\nc) plānošanas dokumenta saistību ar vides nosacījumu iekļaušanu citu nozaru plānošanas dokumentos, īpaši, lai veicinātu ilgtspējīgu attīstību,\nd) ar konkrēto plānošanas dokumentu saistītās vides problēmas,\ne) plānošanas dokumenta saistību ar Latvijas un Eiropas Savienības normatīvo aktu noteikumu ieviešanu vides jomā, īpaši atkritumu apsaimniekošanas un ūdens resursu aizsardzības jomā;\n2) iespējamai ietekmei uz vidi pakļautās teritorijas raksturojums, ņemot vērā:\na) ietekmes iespējamību, ilgumu, biežumu un seku atgriezeniskumu,\nb) ietekmes kumulatīvo efektu,\nc) pārrobežu ietekmes raksturu,\nd) draudus cilvēku veselībai vai videi, arī avāriju risku,\ne) ietekmes apjomu un izplatību, ievērojot iespējamai ietekmei pakļautās teritorijas platību un iedzīvotāju skaitu;\n3) iespējamai ietekmei pakļautās teritorijas jutīgums un īpatnības, ņemot vērā:\na) dabas apstākļu raksturlielumus,\nb) ietekmi uz kultūras pieminekļiem,\nc) vides kvalitātes normatīvu esošos vai iespējamos pārsniegumus,\nd) zemes izmantošanas veidu un intensitāti;\n4) attiecīgā plānošanas dokumenta īstenošanas ietekme uz:\na) īpaši aizsargājamām dabas teritorijām, starptautiskas nozīmes mitrājiem, mikroliegumiem, Baltijas jūras un Rīgas līča piekrastes aizsargjoslu, virszemes ūdensobjektu aizsargjoslām,\nb) īpaši aizsargājamām sugām, to dzīvotnēm un īpaši aizsargājamiem un Eiropas Savienības nozīmes biotopiem."
+    },
+    {
+      "provision_ref": "Art. 23.3",
+      "chapter": "V 1 nodaļa Stratēģiskā novērtējuma kārtība (Nodaļa 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )",
+      "section": "23.3",
+      "title": "23. 3 pants. Lēmums par stratēģiskā novērtējuma nepieciešamību",
+      "content": "Kompetentā institūcija:\n1) pieņem motivētu lēmumu par to, vai konkrētam plānošanas dokumentam ir nepieciešams stratēģiskais novērtējums;\n2) nodrošina, ka lēmums piemērot vai nepiemērot stratēģisko novērtējumu un šo lēmumu pamatojošie dokumenti ir pieejami ikvienai personai;\n3) Ministru kabineta noteiktajā kārtībā informē sabiedrību par to, kādēļ konkrētam plānošanas dokumentam ir vai nav piemērots stratēģiskais novērtējums."
+    },
+    {
+      "provision_ref": "Art. 23.4",
+      "chapter": "V 1 nodaļa Stratēģiskā novērtējuma kārtība (Nodaļa 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )",
+      "section": "23.4",
+      "title": "23. 4 pants. Vides pārskats",
+      "content": "(1) Vides pārskatā iekļauj informāciju, ko izstrādātājs var nodrošināt, ņemot vērā pašreizējo zināšanu līmeni un novērtēšanas metodes, plānošanas dokumenta saturu, tā vietu plānošanas dokumentu hierarhijā un izstrādes un detalizācijas pakāpi, līdz kādai ir lietderīgi vērtēt ietekmi uz vidi attiecīgajā plānošanas stadijā, lai novērstu novērtējuma dublēšanos.\n(2) Ministru kabinets nosaka nepieciešamo informāciju, kas iekļaujama vides pārskatā."
+    },
+    {
+      "provision_ref": "Art. 23.5",
+      "chapter": "V 1 nodaļa Stratēģiskā novērtējuma kārtība (Nodaļa 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )",
+      "section": "23.5",
+      "title": "23. 5 pants. Stratēģiskā novērtējuma izstrādāšanas, apspriešanas un monitoringa kārtība",
+      "content": "(1) Stratēģisko novērtējumu veic plānošanas dokumenta sagatavošanas laikā, pirms šis plānošanas dokuments tiek iesniegts pieņemšanai. Ja plānošanas dokuments ir hierarhiski saistīts ar citu plānošanas dokumentu vai paredzēto darbību īstenošanu, vides pārskatā, lai izvairītos no informācijas dublēšanās, iekļauj tikai tādu informāciju, kas nepieciešama attiecīgajā plānošanas stadijā, kā arī izmanto informāciju, kas iegūta iepriekšējās plānošanas stadijās.\n(2) Izstrādātājs konsultējas ar kompetento institūciju par vides pārskata detalizācijas pakāpi.\n(3) Izstrādātājs Ministru kabineta noteiktajā kārtībā publicē paziņojumu par sabiedrības iespējām iepazīties ar vides pārskatu un plānošanas dokumenta projektu, kā arī iespējām piedalīties sabiedriskajā apspriešanā.\n(4) Plānošanas dokumenta sagatavošanas laikā un pirms tā pieņemšanas izstrādātājs izvērtē un ņem vērā:\n1) vides pārskatu, kā arī alternatīvos risinājumus nelabvēlīgās ietekmes uz cilvēku veselību un vidi novēršanai, samazināšanai vai kompensēšanai;\n2) attiecībā uz vides pārskatu saņemtos komentārus un priekšlikumus;\n3) sabiedrības viedokli;\n4) pārrobežu ietekmes gadījumā arī attiecīgo valsts institūciju komentārus un priekšlikumus un sabiedrības viedokli;\n5) Eiropas Komisijas atzinumu par plānošanas dokumentu un likumā \" Par īpaši aizsargājamām dabas teritorijām \" noteiktās prasības par kompensējošajiem pasākumiem attiecībā uz Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) , ja plānošanas dokumenta īstenošana negatīvi ietekmēs Eiropas nozīmes aizsargājamo dabas teritoriju (Natura 2000) un saskaņā ar likumu \" Par īpaši aizsargājamām dabas teritorijām \" ir nepieciešams saņemt Eiropas Komisijas atzinumu.\n(5) Izstrādātājs, ņemot vērā alternatīvo risinājumu izvērtējumu, saņemtos komentārus un priekšlikumus, kā arī sabiedrības viedokli, precizē vides pārskatu un kopā ar saņemto komentāru un priekšlikumu kopijām iesniedz to kompetentajai institūcijai.\n(6) Kompetentā institūcija Ministru kabineta noteiktajā termiņā sniedz atzinumu par vides pārskatu, ņemot vērā vides pārskata atbilstību normatīvo aktu prasībām un izraudzītā risinājuma pamatojumu, kā arī nosaka termiņus, kādos izstrādātājs pēc plānošanas dokumenta apstiprināšanas iesniedz kompetentajai institūcijai ziņojumu par plānošanas dokumenta īstenošanas tiešu vai netiešu ietekmi uz vidi, arī vides pārskatā neparedzētu ietekmi (turpmāk — monitorings). Ja izraudzītais risinājums nav pietiekami pamatots, kompetentā institūcija atzinumā norāda iebildumus, kas ņemami vērā, lemjot par plānošanas dokumenta apstiprināšanu.\n(7) Ja vides pārskats neatbilst normatīvo aktu prasībām vai izraudzītais risinājums būtiski ietekmē cilvēku veselību un vidi un nav pietiekami pamatots, kā arī ja nav veikta sabiedrības informēšana un vides pārskata apspriešana Ministru kabineta noteiktajā kārtībā vai nav izvērtēti saņemtie komentāri un priekšlikumi, kompetentā institūcija nosūta vides pārskatu izstrādātājam pārstrādāšanai, norādot novēršamās nepilnības, vai arī uzdod izpildītājam nodrošināt sabiedrības informēšanu un sabiedrisko apspriešanu.\n(7 1 ) Pirms kompetentā institūcija sniedz atzinumu, Vides aizsardzības un reģionālās attīstības ministrija sagatavo informatīvo ziņojumu un Ministru kabineta rīkojuma projektu iesniegšanai Ministru kabinetam lēmuma pieņemšanai šādos gadījumos:\n1) ja saskaņā ar izstrādātāja iesniegto vides pārskatu plānošanas dokumenta īstenošana negatīvi ietekmēs Eiropas nozīmes aizsargājamo dabas teritoriju (NATURA 2000), bet šā dokumenta īstenošana ir vienīgais risinājums sabiedrībai nozīmīgu interešu, arī sociālo vai ekonomisko interešu, apmierināšanai;\n2) ja saskaņā ar izstrādātāja iesniegto vides pārskatu plānošanas dokumenta īstenošana negatīvi ietekmēs Eiropas nozīmes aizsargājamā dabas teritorijā (NATURA 2000) sastopamās Eiropas Savienības prioritārās sugas vai biotopus, bet šā dokumenta īstenošana ir vienīgais risinājums un nepieciešama sabiedrības veselības aizsardzības, sabiedrības drošības vai vides aizsardzības interešu vai citu sabiedrībai sevišķi svarīgu interešu apmierināšanai.\n(7 2 ) Prasības šā panta 7. 1 daļā minētajam informatīvajam ziņojumam nosaka Ministru kabinets.\n(7 3 ) Ja saskaņā ar Ministru kabineta lēmumu plānošanas dokumenta īstenošana ir vienīgais risinājums, lai apmierinātu sabiedrībai nozīmīgas sociālās vai ekonomiskās intereses, kompetentā institūcija atbilstoši likumam \" Par īpaši aizsargājamām dabas teritorijām \" nosūta ziņojumu Eiropas Komisijai.\n(8) Ministru kabinets nosaka:\n1) institūcijas, kurām izstrādātājs nosūta plānošanas dokumenta projektu un vides pārskatu, lai saņemtu to komentārus un priekšlikumus;\n2) sabiedrības informēšanas un vides pārskata apspriešanas kārtību, arī pārrobežu ietekmes gadījumos;\n3) sabiedrības informēšanas noteikumus un kārtību pēc plānošanas dokumenta pieņemšanas;\n4) attiecīgo valstu informēšanas kārtību iespējamas pārrobežu ietekmes gadījumā;\n5) Eiropas Komisijas informēšanas kārtību;\n6) plānošanas dokumenta monitoringa kārtību."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VI nodaļa Ierosinātāja, izstrādātāja un pieaicināto ekspertu pienākumi un lēmumu pārskatīšanas kārtība (Nodaļas nosaukums 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "24",
+      "title": "Ierosinātāja un izstrādātāja pienākumi",
+      "content": "(1) Ierosinātāja pienākums ir nodrošināt:\n1) iesniegtās informācijas pilnīgumu un patiesumu, kā arī ziņojuma sagatavošanu atbilstoši šā likuma un citu normatīvo aktu prasībām;\n2) ziņojumā ietverto risinājumu īstenošanu, tai skaitā tādu risinājumu īstenošanu, kuri paredzēti, lai novērstu, nepieļautu vai mazinātu un, ja iespējams, atlīdzinātu paredzētās darbības būtisko negatīvo ietekmi uz vidi.\n(2) Izstrādātāja pienākums ir nodrošināt informācijas pilnīgumu un patiesumu, kā arī stratēģiskā novērtējuma veikšanu atbilstoši šā likuma un citu normatīvo aktu prasībām."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VI nodaļa Ierosinātāja, izstrādātāja un pieaicināto ekspertu pienākumi un lēmumu pārskatīšanas kārtība (Nodaļas nosaukums 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "25",
+      "title": "Pieaicināto ekspertu pienākumi",
+      "content": "Pieaicināto ekspertu pienākums ir nodrošināt:\n1) kompetentajai institūcijai iesniegto dokumentu izvērtējuma objektivitāti;\n2) sava atzinuma kvalitāti un atzinuma sagatavošanas termiņu ievērošanu."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa Ierosinātāja, izstrādātāja un pieaicināto ekspertu pienākumi un lēmumu pārskatīšanas kārtība (Nodaļas nosaukums 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "26",
+      "title": "Lēmumu pārskatīšanas kārtība",
+      "content": "(1) Jebkurš saskaņā ar šo likumu pieņemts lēmums, arī darbība vai bezdarbība, nedrīkst pārkāpt vai ignorēt normatīvajos aktos noteiktās sabiedrības tiesības uz informāciju vai līdzdalību ietekmes uz vidi novērtējuma vai stratēģiskā novērtējuma procesā.\n(2) Ja ietekmes uz vidi novērtējuma vai stratēģiskā novērtējuma procesā ir pārkāptas vai ignorētas normatīvajos aktos noteiktās sabiedrības tiesības uz informāciju vai līdzdalību, ikvienam ir tiesības iesniegt:\n1) kompetentajai institūcijai sūdzību par ierosinātāja vai izstrādātāja rīcību visā ietekmes uz vidi novērtējuma procesā līdz tam laikam, kad kompetentā institūcija ir sniegusi atzinumu par ziņojumu vai vides pārskatu;\n2) Vides aizsardzības un reģionālās attīstības ministrijai sūdzību par kompetentās institūcijas lēmumu, izskatot šīs daļas 1.punktā minēto sūdzību.\n(3) Kompetentajai institūcijai un Vides aizsardzības un reģionālās attīstības ministrijai, izskatot sūdzību, ir tiesības uzdot ierosinātājam vai izstrādātājam nodrošināt normatīvajos aktos noteiktās sabiedrības tiesības uz informāciju vai līdzdalību ietekmes uz vidi novērtējuma vai stratēģiskā novērtējuma procesā. Ja ierosinātājs vai izstrādātājs neņem vērā kompetentās institūcijas vai Vides aizsardzības un reģionālās attīstības ministrijas viedokli, kompetentā institūcija, sagatavojot atzinumu, izvērtē ierosinātāja vai izstrādātāja rīcību un, ja nepieciešams, atzinumā norāda ierosinātāja vai izstrādātāja pārkāpumus attiecībā uz sabiedrības līdzdalības nenodrošināšanu vai informācijas nesniegšanu.\n(4) Lēmumu par paredzētās darbības akceptu vai lēmumu par plānošanas dokumenta pieņemšanu, ja ir pārkāptas vai ignorētas normatīvajos aktos noteiktās sabiedrības tiesības uz informāciju vai līdzdalību ietekmes uz vidi novērtējuma vai stratēģiskā novērtējuma procesā, var apstrīdēt un pārsūdzēt normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "27",
+      "title": "Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā",
+      "content": "(1) Par paredzētās darbības veikšanu, neievērojot vides aizsardzības prasības attiecībā uz paredzētās darbības īstenošanas vietu, tehnoloģiju veidu vai ietekmes novēršanas un samazināšanas pasākumiem, kas noteikti Valsts vides dienesta izdotos tehniskajos noteikumos, piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz piecsimt astoņdesmit naudas soda vienībām.\n(2) Par paredzētās darbības veikšanu, neievērojot prasības attiecībā uz paredzētās darbības īstenošanas vietu, apjomu un tehnoloģiju veidu vai ietekmes novēršanas, samazināšanas, kompensēšanas un monitoringa prasības, kas noteiktas kompetentās institūcijas atzinumā par paredzētās darbības ietekmes uz vidi novērtējuma ziņojumu, piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no astoņdesmit sešām līdz piecsimt astoņdesmit naudas soda vienībām.\n(3) Par paredzētās darbības veikšanu bez ietekmes sākotnējā izvērtējuma vai bez Valsts vides dienesta izdotiem tehniskajiem noteikumiem piemēro naudas sodu fiziskajai personai no divdesmit astoņām līdz četrsimt naudas soda vienībām, bet juridiskajai personai — no astoņdesmit sešām līdz divtūkstoš četrsimt naudas soda vienībām.\n(4) Par paredzētās darbības veikšanu bez ietekmes uz vidi novērtējuma vai attiecīgās valsts institūcijas, pašvaldības, citas likumā noteiktas institūcijas vai Ministru kabineta paredzētās darbības akcepta saņemšanas piemēro naudas sodu fiziskajai personai no simt četrdesmit līdz četrsimt naudas soda vienībām, bet juridiskajai personai — no divsimt līdz divtūkstoš astoņsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "28",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 27. pantā minētajiem pārkāpumiem veic Valsts vides dienests."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn1",
+      "title": "1. Ministru kabinets ne vēlāk kā līdz 1999.gada 1.janvārim izveido kompetento institūciju.",
+      "content": "1. Ministru kabinets ne vēlāk kā līdz 1999.gada 1.janvārim izveido kompetento institūciju."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn2",
+      "title": "2. Vides valsts ekspertīzes pārvalde pilda kompetentās institūcijas pienākumus līdz dienai, kad darbību uzsāk kompetentā institūcija.",
+      "content": "2. Vides valsts ekspertīzes pārvalde pilda kompetentās institūcijas pienākumus līdz dienai, kad darbību uzsāk kompetentā institūcija."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn3",
+      "title": "3. (Izslēgts ar 19.06.2003 . likumu, kas stājas spēkā 24.07.2003. )",
+      "content": "3. (Izslēgts ar 19.06.2003 . likumu, kas stājas spēkā 24.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn4",
+      "title": "4. Ar šā likuma spēkā stāšanos spēku zaudē:",
+      "content": "1) likums \" Par valsts ekoloģisko ekspertīzi \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 45.nr.);\n2) Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.278 \" Noteikumi par ietekmes uz vidi novērtējumu \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 18.nr.)."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn5",
+      "title": "5. Ministru kabinets līdz 2001.gada 1.oktobrim sagatavo un apstiprina šā likuma 4.panta otrajā daļā minētos noteikumus.",
+      "content": "( 30.05.2001 . likuma redakcijā, kas stājas spēkā 27.06.2001. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn6",
+      "title": "6. Stratēģiskais novērtējums nav nepieciešams plānošanas dokumentiem, kuru izstrāde noteikta ar normatīvajiem aktiem līdz 2004.gada 21.jūlijam vai kuru izstrāde uzsākta pirms 2004.gada 21.jūlija, ja izstrādātājs līdz 2004.gada 21.jūlijam ir informējis par šādu plānošanas dokumentu kompetento institūciju un plānošanas dokumentu pieņem līdz 2006.gada 21.jūlijam, izņemot:",
+      "content": "1) gadījumus, kad pēc informācijas saņemšanas kompetentā institūcija, ņemot vērā šā likuma 23. 2 pantā minētos stratēģiskā novērtējuma nepieciešamības kritērijus un plānošanas dokumenta izstrādes stadiju, pieņem lēmumu par stratēģiskā vides novērtējuma nepieciešamību;\n2) šo pārejas noteikumu 7.punktā minētos gadījumus."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn7",
+      "title": "7. Plānošanas dokumentiem, kuru īstenošana var būtiski ietekmēt Eiropas nozīmes aizsargājamās dabas teritorijas, stratēģiskais novērtējums ir nepieciešams, ja tos pieņem pēc 2004.gada 1.maija.",
+      "content": "( 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn8",
+      "title": "8. Ja izstrādātājs piemēro plānošanas dokumentam stratēģisko novērtējumu pirms šo pārejas noteikumu 6. vai 7.punktā minēto termiņu beigām, stratēģiskais novērtējums piemērojams atbilstoši šā likuma noteikumiem.",
+      "content": "( 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn9",
+      "title": "9. Ministru kabinets izdod šajā likumā minētos noteikumus līdz 2004.gada 1.martam.",
+      "content": "( 19.06.2003 . likuma redakcijā, kas stājas spēkā 24.07.2003. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn10",
+      "title": "10. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2004.gada 1.martam ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 1999.gada 15.jūnija noteikumi nr.213 \"Kārtība, kādā novērtējama ietekme uz vidi\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1999, 14.nr.);\n2) Ministru kabineta 2001.gada 18.decembra noteikumi nr.521 \" Ietekmes uz vidi novērtējuma valsts biroja nolikums \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2002, 3.nr.)."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn11",
+      "title": "11. Ministru kabinets līdz 2006.gada 1.maijam izdod šā likuma 4. 1 pantā , 19.panta ceturtajā daļā, 22.panta piektajā daļā un 23. 5 panta 7. 2 daļā minētos noteikumus.",
+      "content": "( 15.09.2005 . likuma redakcijā, kas stājas spēkā 12.10.2005. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn12",
+      "title": "12. Ministru kabinets līdz 2008.gada 1.janvārim izdod šā likuma 5.pantā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.janvārim piemērojami Ministru kabineta 2006.gada 7.februāra noteikumi Nr.117 \"Noteikumi par Valsts vides dienesta sniegto maksas pakalpojumu cenrādi\", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 07.06.2007 . likuma redakcijā, kas stājas spēkā 11.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn13",
+      "title": "13. Grozījumi šā likuma 5.pantā attiecībā uz ierosinātāja pienākumu maksāt valsts nodevu par ietekmes uz vidi sākotnējā izvērtējuma veikšanu stājas spēkā 2008.gada 1.janvārī.",
+      "content": "( 07.06.2007 . likuma redakcijā, kas stājas spēkā 11.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn14",
+      "title": "14. Grozījumi šā likuma 4. 1 panta trešajā daļā, 14.panta pirmajā un trešajā daļā, 20. 1 panta piektajā, sestajā, 6. 1 un 6. 2 daļā un 21.panta otrajā daļā, 26.panta otrās daļas 1.punktā, kā arī grozījumi attiecībā uz šā likuma 15.panta pirmās daļas, 16.panta ceturtās daļas, 17. , 20. , 22.panta un 24.panta pirmās daļas izteikšanu jaunā redakcijā, 3. 1 panta , 14.panta ceturtās daļas, 18. un 19.panta izslēgšanu un likuma papildināšanu ar 6. 1 pantu stājas spēkā 2011.gada 1.janvārī.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 14.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn15",
+      "title": "15. Ministru kabinets ne vēlāk kā līdz 2011.gada 1.janvārim izdod šā likuma 17.panta piektajā daļā, 20.panta piektajā un septītajā daļā, kā arī 22.panta sestajā daļā minētos noteikumus.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 14.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn16",
+      "title": "16. Šā likuma 1.pielikuma 31.punkts stājas spēkā 2013.gada 1.janvārī.",
+      "content": "( 01.12.2011 . likuma redakcijā, kas stājas spēkā 28.12.2011. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn17",
+      "title": "17. Šā likuma grozījumi par 4.panta otrās un 2. 1 daļas izslēgšanu, 12. un 13.panta izteikšanu jaunā redakcijā, kā arī grozījumi 1. un 2.pielikumā stājas spēkā 2015.gada 1.janvārī.",
+      "content": "( 05.06.2014 . likuma redakcijā, kas stājas spēkā 03.07.2014. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn18",
+      "title": "18. Ministru kabinets ne vēlāk kā līdz 2015.gada 1.janvārim izdod šā likuma 12.panta otrajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2015.gada 1.janvārim piemērojami Ministru kabineta 2011.gada 25.janvāra noteikumi Nr.83 \" Kārtība, kādā novērtējama paredzētās darbības ietekme uz vidi \".",
+      "content": "( 05.06.2014 . likuma redakcijā, kas stājas spēkā 03.07.2014. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn19",
+      "title": "19. Ministru kabinets ne vēlāk kā līdz 2015.gada 1.janvārim izdod šā likuma 13.panta ceturtajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2015.gada 1.janvārim piemērojami Ministru kabineta 2004.gada 24.februāra noteikumi Nr.91 \" Kārtība, kādā reģionālā vides pārvalde izdod tehniskos noteikumus paredzētajai darbībai, kurai nav nepieciešams ietekmes uz vidi novērtējums \".",
+      "content": "( 05.06.2014 . likuma redakcijā, kas stājas spēkā 03.07.2014. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn20",
+      "title": "20. Kompetentās institūcijas lēmumi par ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu, kas pieņemti līdz 2016.gada 31.decembrim saskaņā ar sākotnējo izvērtējumu, ir spēkā.",
+      "content": "( 23.11.2016 . likuma redakcijā, kas stājas spēkā 01.01.2017. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn21",
+      "title": "21. Kompetentā institūcija atbilstoši sākotnējam izvērtējumam izdod lēmumu par paredzētās darbības ietekmes uz vidi novērtējuma piemērošanu vai nepiemērošanu, ja Valsts vides dienesta sākotnējā izvērtējuma rezultāts kopā ar izvērtējumā apkopoto informāciju un paredzētās darbības iesniegumu kompetentajā institūcijā iesniegts līdz 2016.gada 31.decembrim.",
+      "content": "( 23.11.2016 . likuma redakcijā, kas stājas spēkā 01.01.2017. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi ietekmes uz vidi novērtējuma jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 21.05.2020 . likuma redakcijā, kas stājas spēkā 17.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 22. punktu)",
+      "section": "pn22",
+      "title": "22. Grozījumi par šā likuma VI nodaļas nosaukuma izteikšanu jaunā redakcijā, 24. un 25. panta izteikšanu jaunā redakcijā, kā arī VII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "1) Eiropas Parlamenta un Padomes 2011.gada 13.decembra direktīvas 2011/92/ES par dažu sabiedrisku un privātu projektu ietekmes uz vidi novērtējumu (kodificētā redakcija);\n2) (izslēgts ar 05.06.2014 . likumu) ;\n3) Eiropas Padomes 1992.gada 21.maija direktīvas 92/43/EEK par dabisko dzīvotņu, savvaļas faunas un floras aizsardzību;\n4) Eiropas Parlamenta un Padomes 2009.gada 30.novembra direktīvas 2009/147/EK par savvaļas putnu aizsardzību;\n5) Eiropas Parlamenta un Padomes 2001.gada 27.jūnija direktīvas 2001/42/EK par noteiktu plānu un programmu ietekmes uz vidi novērtējumu;\n6) (izslēgts ar 05.06.2014 . likumu) ;\n7) (izslēgts ar 05.06.2014 . likumu) ;\n8) Eiropas Parlamenta un Padomes 2014.gada 16.aprīļa direktīvas 2014/52/ES , ar ko groza direktīvu 2011/92/ES par dažu sabiedrisku un privātu projektu ietekmes uz vidi novērtējumu."
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "1",
+      "title": "1. Iekārtas, kas paredzētas jēlnaftas, ogļu vai degakmens pārstrādei, ja pārstrādes apjoms ir 500 vai vairāk tonnu diennaktī.",
+      "content": "1. Iekārtas, kas paredzētas jēlnaftas, ogļu vai degakmens pārstrādei, ja pārstrādes apjoms ir 500 vai vairāk tonnu diennaktī."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "2",
+      "title": "2. Termoelektrostacijas un citas sadedzināšanas iekārtas ar 100 megavatu vai lielāku jaudu.",
+      "content": "2. Termoelektrostacijas un citas sadedzināšanas iekārtas ar 100 megavatu vai lielāku jaudu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "3",
+      "title": "3. Atomelektrostacijas un kodolreaktori, arī to demontāža vai likvidēšana (izņemot zinātniskās pētniecības darbam paredzētās iekārtas kodolmateriālu un transformējamo kodolmateriālu ražošanai un konversijai, ja to maksimālā jauda nepārsniedz vienu kilovatu vidējās siltumspējas). (Atomelektrostacijas vai cita kodolreaktora darbība uzskatāma par pārtrauktu, kad visa kodoldegviela un citi radioaktīvi piesārņotie elementi ir pilnībā aizvākti no iekārtas atrašanās vietas.)",
+      "content": "3. Atomelektrostacijas un kodolreaktori, arī to demontāža vai likvidēšana (izņemot zinātniskās pētniecības darbam paredzētās iekārtas kodolmateriālu un transformējamo kodolmateriālu ražošanai un konversijai, ja to maksimālā jauda nepārsniedz vienu kilovatu vidējās siltumspējas). (Atomelektrostacijas vai cita kodolreaktora darbība uzskatāma par pārtrauktu, kad visa kodoldegviela un citi radioaktīvi piesārņotie elementi ir pilnībā aizvākti no iekārtas atrašanās vietas.)"
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "4",
+      "title": "4. Iekārtas, kas paredzētas apstarotās kodoldegvielas atkārtotai apstrādei.",
+      "content": "4. Iekārtas, kas paredzētas apstarotās kodoldegvielas atkārtotai apstrādei."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "5",
+      "title": "5. Iekārtas vai zonas, kas paredzētas:",
+      "content": "1) kodoldegvielas ražošanai vai bagātināšanai;\n2) apstarotās kodoldegvielas vai augstas radioaktivitātes atkritumu apstrādei;\n3) apstarotās kodoldegvielas apglabāšanai;\n4) radioaktīvo atkritumu apglabāšanai;\n5) apstarotās kodoldegvielas vai radioaktīvo atkritumu uzglabāšanai ilgāk par 10 gadiem ārpus to ražošanas vai rašanās vietas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "6",
+      "title": "6. Integrētas čuguna vai tērauda ražotnes un iekārtas krāsaino metālu ražošanai no rūdas, koncentrātiem vai metāllūžņiem, izmantojot metalurģiskos, ķīmiskos vai elektrolītiskos procesus.",
+      "content": "6. Integrētas čuguna vai tērauda ražotnes un iekārtas krāsaino metālu ražošanai no rūdas, koncentrātiem vai metāllūžņiem, izmantojot metalurģiskos, ķīmiskos vai elektrolītiskos procesus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "7",
+      "title": "7. Iekārtas, kas paredzētas azbesta ieguvei un azbesta vai azbestu saturošu produktu apstrādei un pārstrādei:",
+      "content": "1) ja azbestcementa produktu galaprodukcijas apjoms pārsniedz 10 000 tonnu gadā;\n2) ja abrazīvo materiālu galaprodukcijas apjoms pārsniedz 50 tonnu gadā;\n3) citos gadījumos, ja iekārtas izmanto vairāk nekā 50 tonnu azbesta gadā."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "8",
+      "title": "8. Iekārtas, kas paredzētas rūpnieciskai turpmāk minēto vielu ražošanai, izmantojot vairākus secīgus ķīmisko vielu pārvēršanas procesus:",
+      "content": "1) organiskās un neorganiskās ķīmiskās pamatvielas;\n2) fosforu, slāpekli vai kāliju saturoši (vienkārši vai salikti) minerālmēsli;\n3) augu aizsardzības līdzekļi un biocīdi;\n4) farmaceitiskie produkti, kuru ražošanā tiek izmantoti ķīmiskie un bioloģiskie procesi;\n5) sprāgstvielas."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "9",
+      "title": "9. Jaunu dzelzceļa līniju būvniecība, ja to garums ir 10 kilometru un vairāk.",
+      "content": "9. Jaunu dzelzceļa līniju būvniecība, ja to garums ir 10 kilometru un vairāk."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "10",
+      "title": "10. Jaunbūvējamas lidostas ar 2,1 kilometru garu vai vēl garāku skrejceļu.",
+      "content": "10. Jaunbūvējamas lidostas ar 2,1 kilometru garu vai vēl garāku skrejceļu."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "11",
+      "title": "11. Jaunbūvējamas automaģistrāles un ātrsatiksmes autoceļi.",
+      "content": "11. Jaunbūvējamas automaģistrāles un ātrsatiksmes autoceļi."
+    },
+    {
+      "provision_ref": "Art. 11.1",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "11.1",
+      "title": "11. 1 Jaunbūvējami četru vai vairāku joslu ceļi vai esošie divu vai mazāk joslu ceļi, kas iztaisnoti un/vai paplašināti par četru vai vairāku joslu ceļiem, ja šāda būvētā, iztaisnotā un/vai paplašinātā autoceļa posms ir 10 kilometrus garš vai vēl garāks.",
+      "content": "11. 1 Jaunbūvējami četru vai vairāku joslu ceļi vai esošie divu vai mazāk joslu ceļi, kas iztaisnoti un/vai paplašināti par četru vai vairāku joslu ceļiem, ja šāda būvētā, iztaisnotā un/vai paplašinātā autoceļa posms ir 10 kilometrus garš vai vēl garāks."
+    },
+    {
+      "provision_ref": "Art. 11.2",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "11.2",
+      "title": "11. 2 Jaunbūvējami autoceļi, ja to garums ir 10 kilometru un vairāk, izņemot jaunbūvējamus autoceļus, kas nepieciešami tādu vēja elektrostaciju būvniecībai, kurām piemērojams Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likums .",
+      "content": "11. 2 Jaunbūvējami autoceļi, ja to garums ir 10 kilometru un vairāk, izņemot jaunbūvējamus autoceļus, kas nepieciešami tādu vēja elektrostaciju būvniecībai, kurām piemērojams Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likums ."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "12",
+      "title": "12. Iekšējie ūdensceļi un ostas, kas paredzētas iekšzemes ūdenstransportam ar 1350 tonnu un lielāku tilpību.",
+      "content": "12. Iekšējie ūdensceļi un ostas, kas paredzētas iekšzemes ūdenstransportam ar 1350 tonnu un lielāku tilpību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "13",
+      "title": "13. Ostas un piestātnes ārpus ostām, kas savienotas ar zemi un paredzētas kravu pārkraušanai (izņemot pasažieru kuģu piestātnes), ja tās var apkalpot kuģus ar 1350 tonnu un lielāku tilpību.",
+      "content": "13. Ostas un piestātnes ārpus ostām, kas savienotas ar zemi un paredzētas kravu pārkraušanai (izņemot pasažieru kuģu piestātnes), ja tās var apkalpot kuģus ar 1350 tonnu un lielāku tilpību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "14",
+      "title": "14. Bīstamo atkritumu apglabāšanas vietas, kā arī to sadedzināšanas un ķīmiskās pārstrādes iekārtas.",
+      "content": "14. Bīstamo atkritumu apglabāšanas vietas, kā arī to sadedzināšanas un ķīmiskās pārstrādes iekārtas."
+    },
+    {
+      "provision_ref": "Art. 14.1",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "14.1",
+      "title": "14. 1 Bīstamo atkritumu bioloģiskās, fizikālās un mehāniskās pārstrādes un apstrādes iekārtas, ja to jauda ir 10 000 tonnu gadā un vairāk.",
+      "content": "14. 1 Bīstamo atkritumu bioloģiskās, fizikālās un mehāniskās pārstrādes un apstrādes iekārtas, ja to jauda ir 10 000 tonnu gadā un vairāk."
+    },
+    {
+      "provision_ref": "Art. 14.2",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "14.2",
+      "title": "14. 2 Bīstamo atkritumu šķirošanas iekārtas, ja to jauda ir 20 000 tonnu gadā un vairāk.",
+      "content": "14. 2 Bīstamo atkritumu šķirošanas iekārtas, ja to jauda ir 20 000 tonnu gadā un vairāk."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "15",
+      "title": "15. Sadzīves atkritumu apglabāšanas vietas.",
+      "content": "15. Sadzīves atkritumu apglabāšanas vietas."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "16",
+      "title": "16. Sadzīves atkritumu sadedzināšanas un ķīmiskās pārstrādes iekārtas, ja pārstrādes apjoms ir 10 tonnu un vairāk diennaktī.",
+      "content": "16. Sadzīves atkritumu sadedzināšanas un ķīmiskās pārstrādes iekārtas, ja pārstrādes apjoms ir 10 tonnu un vairāk diennaktī."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "17",
+      "title": "17. Projekti, kas paredz pazemes ūdeņu ieguvi vai mākslīgu pazemes ūdeņu papildināšanu, ja gada kopējā aprite ir 10 miljoni kubikmetru un vairāk.",
+      "content": "17. Projekti, kas paredz pazemes ūdeņu ieguvi vai mākslīgu pazemes ūdeņu papildināšanu, ja gada kopējā aprite ir 10 miljoni kubikmetru un vairāk."
+    },
+    {
+      "provision_ref": "Art. 17.1",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "17.1",
+      "title": "17. 1 Projekti, kas paredz ūdens resursu pārdali starp upju baseiniem (izņemot centralizētu dzeramā ūdens ieguvi), ja šo resursu pārdales mērķis ir novērst iespējamo ūdens trūkumu un ja pārvietotā ūdens daudzums pārsniedz 100 miljonus kubikmetru gadā.",
+      "content": "17. 1 Projekti, kas paredz ūdens resursu pārdali starp upju baseiniem (izņemot centralizētu dzeramā ūdens ieguvi), ja šo resursu pārdales mērķis ir novērst iespējamo ūdens trūkumu un ja pārvietotā ūdens daudzums pārsniedz 100 miljonus kubikmetru gadā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "18",
+      "title": "18. Projekti, kas paredz ūdens resursu pārdali starp upju baseiniem (izņemot centralizētu dzeramā ūdens ieguvi), ja pārvietotā ūdens daudzums pārsniedz 5 procentus no tā plūsmas.",
+      "content": "18. Projekti, kas paredz ūdens resursu pārdali starp upju baseiniem (izņemot centralizētu dzeramā ūdens ieguvi), ja pārvietotā ūdens daudzums pārsniedz 5 procentus no tā plūsmas."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "19",
+      "title": "19. Notekūdeņu attīrīšanas iekārtas ar jaudu, kas pārsniedz 150 000 cilvēkekvivalentu.",
+      "content": "19. Notekūdeņu attīrīšanas iekārtas ar jaudu, kas pārsniedz 150 000 cilvēkekvivalentu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "20",
+      "title": "20. Projekti, kas paredz ogļūdeņražu ieguvi komerciālos nolūkos.",
+      "content": "20. Projekti, kas paredz ogļūdeņražu ieguvi komerciālos nolūkos."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "21",
+      "title": "21. Aizsprosti vai citas hidrobūves, kas paredzētas ūdeņu aizturēšanai vai pastāvīgai uzkrāšanai, ja to mākslīgi uzkrātā ūdens tilpums pārsniedz 10 miljonu kubikmetru.",
+      "content": "21. Aizsprosti vai citas hidrobūves, kas paredzētas ūdeņu aizturēšanai vai pastāvīgai uzkrāšanai, ja to mākslīgi uzkrātā ūdens tilpums pārsniedz 10 miljonu kubikmetru."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "22",
+      "title": "22. Cauruļvadi, kuru diametrs pārsniedz 800 milimetru un garums — 40 kilometru:",
+      "content": "1) naftas, gāzes un ķīmisko produktu transportēšanai;\n2) uztvertā oglekļa dioksīda plūsmas transportēšanai uz uzglabāšanas vietu, tai skaitā ar cauruļvadu tīklu saistītās kompresijas stacijas."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "23",
+      "title": "23. Cūku vai mājputnu intensīvās audzēšanas kompleksi ar vairāk nekā:",
+      "content": "1) 85 000 vietu broileriem;\n2) 60 000 vietu vistām;\n3) 3000 vietu cūkām, kuru masa ir lielāka par 30 kilogramiem;\n4) 900 vietām sivēnmātēm."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "24",
+      "title": "24. Rūpnieciskās iekārtas, kas paredzētas:",
+      "content": "1) celulozes ražošanai no koksnes vai līdzīgas šķiedrainas izejvielas;\n2) papīra un kartona ražošanai, ja to jauda pārsniedz 50 000 tonnu gadā."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "25",
+      "title": "25. Derīgo izrakteņu ieguve 25 hektāru vai lielākā platībā vai kūdras ieguve 150 hektāru vai lielākā platībā.",
+      "content": "25. Derīgo izrakteņu ieguve 25 hektāru vai lielākā platībā vai kūdras ieguve 150 hektāru vai lielākā platībā."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "26",
+      "title": "26. Gaisvadu augstsprieguma elektrolīnijas, kuru spriegums ir vienāds vai lielāks par 220 kilovoltiem un garums lielāks par 15 kilometriem.",
+      "content": "26. Gaisvadu augstsprieguma elektrolīnijas, kuru spriegums ir vienāds vai lielāks par 220 kilovoltiem un garums lielāks par 15 kilometriem."
+    },
+    {
+      "provision_ref": "Art. 26.1",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "26.1",
+      "title": "26. 1 Vēja elektrostaciju būvniecība, ja to kopējā jauda ir 50 megavatu un vairāk, izņemot tādu vēja elektrostaciju būvniecību, kurai piemērojams sākotnējais izvērtējums saskaņā ar Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likumu .",
+      "content": "26. 1 Vēja elektrostaciju būvniecība, ja to kopējā jauda ir 50 megavatu un vairāk, izņemot tādu vēja elektrostaciju būvniecību, kurai piemērojams sākotnējais izvērtējums saskaņā ar Enerģētiskās drošības un neatkarības veicināšanai nepieciešamās atvieglotās energoapgādes būvju būvniecības kārtības likumu ."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "27",
+      "title": "27. Naftas un naftas ķīmijas produktu glabātavas ar kopējo ietilpību 50 000 tonnu un vairāk, kā arī ķīmisko produktu glabātavas ar kopējo ietilpību 20 000 tonnu un vairāk.",
+      "content": "27. Naftas un naftas ķīmijas produktu glabātavas ar kopējo ietilpību 50 000 tonnu un vairāk, kā arī ķīmisko produktu glabātavas ar kopējo ietilpību 20 000 tonnu un vairāk."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "28",
+      "title": "28. (Izslēgts ar 19.06.2003 . likumu)",
+      "content": "28. (Izslēgts ar 19.06.2003 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "29",
+      "title": "29. Latvijas dabai neraksturīgo savvaļas sugu ieviešanas (introdukcijas) projekti.",
+      "content": "29. Latvijas dabai neraksturīgo savvaļas sugu ieviešanas (introdukcijas) projekti."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "30",
+      "title": "30. (Izslēgts ar 05.06.2014 . likumu)",
+      "content": "30. (Izslēgts ar 05.06.2014 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "31",
+      "title": "31. Ģeoloģiskajās struktūrās ierīkotas oglekļa dioksīda uzglabāšanas vietas, kas atrodas Latvijas teritorijā, ekskluzīvajā ekonomiskajā zonā un kontinentālajā šelfā. Ietekmes novērtējums nav nepieciešams uzglabāšanas vietām, kur oglekļa dioksīdu uzglabā jaunu produktu un procesu pētniecības, izstrādes vai testēšanas vajadzībām, ja kopējais paredzētais oglekļa dioksīda uzglabāšanas apjoms ir mazāks nekā 100 000 tonnu.",
+      "content": "(Punkts stājas spēkā 01.01.2013. Sk. pārejas noteikumu 16.punktu)"
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "Objekti, kuru ietekmes novērtējums ir nepieciešams",
+      "section": "32",
+      "title": "32. Oglekļa dioksīda uztveršanai paredzētu iekārtu ierīkošana, lai oglekļa dioksīdu uzglabātu ģeoloģiskajās struktūrās:",
+      "content": "1) ja oglekļa dioksīdu uztver no šajā pielikumā minētajām darbībām (iekārtām);\n2) ja gadā uztvertais oglekļa dioksīda apjoms ir 1,5 megatonnas vai lielāks."
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "1",
+      "title": "1. Lauksaimniecība, mežsaimniecība, zivsaimniecība:",
+      "content": "1) lauksaimniecībā izmantojamās zemes lietošanas kategorijas maiņa, ja šīs zemes platība ir lielāka par 50 hektāriem;\n2) daļēji pārveidotu vai saimnieciskajā darbībā neizmantotu teritoriju pārveidošana par aramzemi, ja zemes platība ir lielāka par 50 hektāriem;\n3) šādi ūdenssaimniecības projekti:\na) jauni ūdenssaimniecības projekti, tai skaitā jaunu meliorācijas un apūdeņošanas sistēmu būvniecība, ja to zemes platība ir lielāka par 100 hektāriem,\nb) esošu meliorācijas vai apūdeņošanas sistēmu pārbūve, ja to zemes platība ir lielāka par 500 hektāriem;\n4) apmežošana un atmežošana, ja zemes platība ir lielāka par 50 hektāriem;\n5) mājlopu un mājputnu intensīvas audzēšanas kompleksu būvniecība, ja tie paredzēti:\na) vairāk nekā 2000 gaļas cūkām, kuru svars pārsniedz 30 kilogramus,\nb) vairāk nekā 750 sivēnmātēm,\nc) vairāk nekā 40 000 mājputniem,\nd) saimniecībām, kurās ir 500 liellopu,\ne) saimniecībām, kurās ir 250 liellopu, ja šajās saimniecībās nav pietiekamas lauksaimniecībā izmantojamās zemes platības kūtsmēslu izkliedei (nosakot pieļaujamās dzīvnieku vienības — 1,7 dzīvnieku vienības uz vienu hektāru lauksaimniecībā izmantojamās zemes);\n6) zivju audzēšanai paredzētu dīķu ierīkošana, kuru kopējā platība pārsniedz 10 hektārus, zivju audzēšanas kompleksu ierīkošana dabiskās ūdenstilpēs un ūdenstecēs;\n7) jūras teritoriju atgūšana;\n8) Eiropas Savienībā atļautu ģenētiski modificētu kultūraugu audzēšana."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "2",
+      "title": "2. Ieguves rūpniecība:",
+      "content": "1) derīgo izrakteņu ieguve 5 hektāru vai lielākā platībā vai kūdras ieguve 25 hektāru vai lielākā platībā;\n2) derīgo izrakteņu ieguve pazemes izstrādnēs;\n3) derīgo izrakteņu ieguve, tīrot vai padziļinot virszemes ūdens objektus vai jūru (izņemot ostas akvatorijas remonta padziļināšanu sākotnējā projektētā dziļuma atjaunošanai), ja kopējais izrakteņu ieguves apjoms ir 1000 kubikmetru un vairāk;\n4) šādu dziļurbumu ierīkošana un izmantošana (izņemot urbumus, kas paredzēti inženierģeoloģiskiem pētījumiem un pazemes ūdeņu monitoringam):\na) ģeotermālie urbumi,\nb) urbumi radioaktīvo atkritumu glabāšanai,\nc) ūdens ieguves urbumi, kuri ir dziļāki par 250 metriem,\nd) ogļūdeņražu izpētes un ieguves urbumi;\n5) virszemes rūpniecisko iekārtu uzstādīšana akmeņogļu, naftas, dabasgāzes, rūdu un degakmens iegūšanai."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "3",
+      "title": "3. Enerģētiskā rūpniecība:",
+      "content": "1) rūpniecisko iekārtu uzstādīšana elektrības, tvaika un karstā ūdens ražošanai, ja to ievadītā siltuma jauda pārsniedz 50 megavatus;\n2) gāzes, tvaika un karstā ūdens pārvades līniju un augstsprieguma elektrolīniju ierīkošana, ja to garums pārsniedz 5 kilometrus;\n3) dabasgāzes virszemes un dabasgāzes un citas degošas gāzes pazemes krātuvju ierīkošana;\n4) fosilā kurināmā virszemes krātuvju ierīkošana;\n5) ogļu un brūnogļu briketēšanas iekārtu uzstādīšana;\n6) radioaktīvo atkritumu apstrādes un glabāšanas iekārtu uzstādīšana (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n7) hidroelektrostaciju būvniecība, ja:\na) tiek būvēta jauna hidroelektrostacija,\nb) tiek rekonstruēta esoša hidroelektrostacija, tādējādi ietekmējot hidroloģisko vai hidroģeoloģisko režīmu;\n8) vēja elektrostaciju būvniecība, ja:\na) to skaits ir 5 elektrostacijas un vairāk,\nb) to jauda ir 5 megavati un vairāk,\nc) tā paredzēta tuvāk nekā 500 metru attālumā no dzīvojamām mājām, izņemot gadījumus, kad vēja elektrostacija paredzēta dzīvojamās mājas elektroapgādei un tās jauda ir 20 kilovatu un vairāk,\nd) būves augstums pārsniedz 30 metrus un tā paredzēta īpaši aizsargājamā dabas teritorijā vai tuvāk nekā 1 kilometra attālumā no īpaši aizsargājamas dabas teritorijas, izņemot dabas pieminekļu — aizsargājamu akmeņu (dižakmeņu) un aizsargājamu koku (dižkoku) — teritoriju, vai no īpaši aizsargājamo putnu sugu aizsardzībai izveidota mikrolieguma;\n9) vēja elektrostaciju būvniecība Latvijas Republikas teritoriālajā jūrā un Latvijas Republikas ekskluzīvajā ekonomiskajā zonā;\n10) tādu oglekļa dioksīda uztveršanai paredzētu iekārtu ierīkošana, kuras nav minētas šā likuma 1.pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "4",
+      "title": "4. Metāla un metāla izstrādājumu ieguve un ražošana:",
+      "content": "1) iekārtas čuguna vai tērauda iegūšanai (pirmējā vai otrējā kausēšana), ietverot nepārtraukto metālliešanu, ja šo iekārtu jauda pārsniedz 2,5 tonnas stundā;\n2) iekārtas melno metālu apstrādei:\na) karstās velmētavas, kurās apstrādā vairāk nekā 20 tonnas tērauda stundā,\nb) smēdes, kuru enerģija pārsniedz 50 kilodžoulus katram mehānismam, ja patērētā siltuma jauda pārsniedz 20 megavatus,\nc) iekārtas metālu aizsargpārklājumu uzkausēšanai, kurās apstrādā vairāk nekā 2 tonnas tērauda stundā;\n3) melno metālu lietuves, kuru ražošanas jauda pārsniedz 20 tonnas diennaktī;\n4) krāsaino metālu kausēšanas iekārtas (arī krāsaino metālu sakausējumiem, izņemot dārgmetālus), kuru jauda pārsniedz 4 tonnas kausēta svina vai kadmija diennaktī vai 20 tonnas jebkura cita kausēta metāla diennaktī (arī pārstrādes produktu bagātināšanas un metālliešanas iekārtas);\n5) metāla un plastmasas izstrādājumu virsmu apstrādes iekārtas, kurās izmanto elektrolītiskos vai ķīmiskos procesus un kuru elektrolīzes vannu vai ķīmiskās apstrādes tvertnes kopējais tilpums pārsniedz 30 kubikmetrus;\n6) mehānisko transportlīdzekļu sērijveida ražošana, montāža un šādu transportlīdzekļu motoru izgatavošana;\n7) kuģu būves un remonta rūpnīcas;\n8) lidmašīnu būves un remonta rūpnīcas;\n9) dzelzceļa konstrukciju ražošana;\n10) metālu ieguve ar sprādzienu metodi;\n11) rūdu apdedzināšanas un frakcionēšanas iekārtu uzstādīšana."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "5",
+      "title": "5. Derīgo izrakteņu pārstrāde:",
+      "content": "1) koksēšanas krāšņu (ogļu sausā destilēšana) ierīkošana;\n2) cementa ražošana, ja ražošanas jauda pārsniedz 500 tonnas produkcijas diennaktī;\n3) iekārtu uzstādīšana azbesta un tādu produktu ražošanai, kuros azbests ir pamatsastāvdaļa (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n4) iekārtu uzstādīšana stikla un stikla šķiedras ražošanai, ja kausēšanas jauda pārsniedz 20 tonnas diennaktī;\n5) iekārtu uzstādīšana minerālvielu kausēšanai, arī minerālšķiedru ražošanai, ja kausēšanas jauda pārsniedz 20 tonnas diennaktī;\n6) keramikas izstrādājumu ražošana apdedzinot, kārniņu, ķieģeļu, ugunsizturīgu ķieģeļu, flīžu, māla trauku un porcelāna ražošana, ja ražošanas jauda pārsniedz 75 tonnas gatavās produkcijas diennaktī vai ja apdedzināšanas krāsns tilpums ir lielāks par 4 kubikmetriem un apdedzināšanas krāsnī var ievietot vairāk nekā 300 kilogramus produkcijas uz vienu krāsns kubikmetru."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "6",
+      "title": "6. Ķīmiskā rūpniecība:",
+      "content": "1) ķīmisko vielu rūpnieciska ražošana un starpproduktu pārstrāde (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n2) pesticīdu, farmācijas produktu, krāsu, laku, elastomēru un peroksīdu rūpnieciska ražošana (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n3) naftas, naftas ķīmijas produktu un ķīmisko produktu uzglabāšanas iekārtu (ar kopējo ietilpību 10 000 un vairāk tonnu) uzstādīšana."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "7",
+      "title": "7. Pārtikas rūpniecība:",
+      "content": "1) augu un dzīvnieku eļļas un tauku rūpnieciska ražošana, ja ražošanas jauda ir 10 000 tonnu gadā vai 25 tonnas diennaktī un vairāk;\n2) rūpnieciska augu un dzīvnieku izcelsmes produktu iepakošana un konservēšana, ja ražošanas jauda ir 10 000 tonnu gadā vai 25 tonnas diennaktī un vairāk;\n3) piena produktu rūpnieciska ražošana, ja pieņem vairāk nekā 50 tonnu piena diennaktī (ja 50 tonnu diennaktī ir gada vidējais rādītājs);\n4) brūvēšana un iesala rūpnieciska ražošana, ja ražošanas jauda ir 10 000 tonnu gadā vai 25 tonnas diennaktī un vairāk;\n5) konditorejas izstrādājumu un sīrupa rūpnieciska ražošana, ja ražošanas jauda ir 10 000 tonnu gadā vai 25 tonnas diennaktī un vairāk;\n6) tādu lopkautuvju būvniecība, kurās pārstrādā vairāk nekā 25 tonnas kautķermeņu diennaktī;\n7) cietes rūpnieciska ražošana, ja ražošanas jauda ir 10 000 tonnu gadā vai 25 tonnas diennaktī un vairāk;\n8) zivju produktu un zivju eļļas rūpnieciska ražošana uzņēmumos, kuros pārstrādā vairāk nekā 10 tonnu zivju diennaktī;\n9) cukura rūpnieciska ražošana, ja ražošanas jauda ir 10 000 tonnu gadā vai 25 tonnas diennaktī un vairāk."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "8",
+      "title": "8. Tekstilrūpniecība, ādas, koka un papīra rūpnieciska ražošana:",
+      "content": "1) papīra un kartona ražošana, ja saražo vairāk nekā 20 tonnas produkcijas diennaktī;\n2) materiālu pirmapstrāde vai šķiedru un audumu krāsošana, ja apstrādā vairāk nekā 1 tonnu materiāla diennaktī;\n3) ādu miecēšana rūpnieciskos apjomos, ja saražo vairāk nekā 5 tonnas gatavās produkcijas diennaktī;\n4) skaidu plākšņu un finiera ražošana, ja ražošanas jauda ir 20 tonnu produkcijas diennaktī;\n5) celulozes pārstrādes un ražošanas iekārtu uzstādīšana (visas darbības, uz kurām neattiecas šā likuma 1.pielikums )."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "9",
+      "title": "9. Gumijas rūpniecība — uz elastomēru bāzes veidotu produktu rūpnieciska ražošana un pārstrāde.",
+      "content": "9. Gumijas rūpniecība — uz elastomēru bāzes veidotu produktu rūpnieciska ražošana un pārstrāde."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "10",
+      "title": "10. Infrastruktūras projekti:",
+      "content": "1) rūpniecisko teritoriju ierīkošana, ja to platība ir 2,5 hektāri un vairāk;\n2) pilsētvides attīstības projekti (piemēram, tirdzniecības centri, jaunu ūdensapgādes vai kanalizācijas ārējo tīklu būvniecība, ja to kopgarums pārsniedz 20kilometrus, vairāk nekā 300automašīnām paredzētas autostāvvietas);\n3) dzelzceļa infrastruktūras projekti:\na) jaunu dzelzceļa līniju būvniecība, ja to garums pārsniedz 2,5 kilometrus,\nb) kravas pārkraušanas iekārtu un termināļu būvniecība, ja plānotais kravu apjoms ir 10 miljoni tonnu gadā un vairāk, izņemot minēto objektu atjaunošanu (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n4) lidlauku būvniecība (visas darbības, uz kurām neattiecas šā likuma 1.pielikums ), izņemot helikopteru nosēšanās laukumu ierīkošanu medicīnas, glābšanas un militārajām vajadzībām;\n5) jauna ceļa būvniecība:\na) ja tā garums ir 1 kilometrs un vairāk,\nb) ja tas paredzēts īpaši aizsargājamā dabas teritorijā, robežojas ar īpaši aizsargājamo dabas teritoriju vai paredzēts 100 metru attālumā no tās;\n5 1 ) ostu un kuģu piestātņu, arī zvejas ostu, būvniecība (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n6) jaunu iekšējo ūdensceļu būvniecība, ja to garums ir 500 metru un vairāk;\n7) aizsprostu un citu ūdens uzkrāšanai paredzētu konstrukciju būvniecība, ja ūdens tilpums ūdenskrātuvē pārsniedz 3 000 000 kubikmetrus;\n8) jaunu tramvaja un metro līniju būvniecība vai cita veida sliežu transports pasažieru pārvadāšanai, ja to garums ir 2 kilometri un vairāk;\n9) cauruļvadu ierīkošana naftas un gāzes transportēšanai, ja to garums pārsniedz 20 kilometrus;\n10) ūdensvadu ierīkošana, ja to kopgarums pārsniedz 20 kilometrus;\n11) dambju, molu un citu būvju būvniecība jūrā, kur iespējamas krasta pārmaiņas, izņemot esošo būvju uzturēšanu;\n12) pazemes ūdeņu ieguve un pazemes ūdeņu mākslīga papildināšana, ja gada kopējais apjoms ir 1 000 000 un vairāk kubikmetru;\n13) mākslīgu ūdensteču un ūdenstilpju izveidošana, ja tās ir garākas par 0,5 kilometriem vai to platība ir lielāka par 10 hektāriem;\n14) projekti, kas paredz ūdens resursu pārdali starp upju baseiniem, ja pārvietojamā ūdens daudzums pārsniedz 2 procentus no tā plūsmas;\n15) akveduktu vai maģistrālo ūdens cauruļvadu ierīkošana ūdens padevei lielos attālumos;\n16) dambju, molu un citu būvju būvniecība plūdu novēršanai;\n17) jūras krastu nostiprināšana;\n18) tādu cauruļvadu ierīkošana oglekļa dioksīda plūsmas transportēšanai, kuri nav minēti šā likuma 1.pielikumā , tai skaitā ar cauruļvadu tīklu saistītās kompresijas stacijas."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "11",
+      "title": "11. Pārējās darbības:",
+      "content": "1) sacīkšu trašu un mehānisko transportlīdzekļu izmēģinājumu poligonu izveidošana, ja tie atrodas ciemu un pilsētu robežās vai ja to garums ir 1 kilometrs un vairāk;\n2) atkritumu apglabāšanas iekārtas (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n2 1 ) atkritumu pārstrādes un apstrādes iekārtas, ja to jauda ir 5 tonnas diennaktī (visas darbības, uz kurām neattiecas šā likuma 1.pielikums );\n3) notekūdeņu attīrīšanas iekārtu būvniecība, ja to jauda pārsniedz 20 000 cilvēkekvivalentus;\n4) dūņu izvietošanas vietu būvniecība;\n5) metāllūžņu glabāšanas vietu (arī teritoriju, kas paredzētas vairāk nekā 300 nolietoto transportlīdzekļu glabāšanai) ierīkošana;\n6) motoru, turbīnu un reaktoru stacionāro izmēģinājumu stendu (laboratoriju) uzstādīšana;\n7) mākslīgo minerālšķiedru ražošanas iekārtu uzstādīšana;\n8) sprāgstvielu iznīcināšanas vai pārstrādes iekārtu uzstādīšana;\n9) kapsētu ierīkošana [arī mājas (istabas) dzīvnieku kapsētu ierīkošana];\n10) iekārtu būvniecība tādu dzīvnieku izcelsmes blakusproduktu pārstrādei, kuri nav paredzēti izmantošanai pārtikā;\n11) bīstamo atkritumu šķirošanas laukumi;\n12) ēku un būvju būvniecība, pārbūve, atjaunošana un restaurācija Baltijas jūras un Rīgas līča piekrastes krasta kāpu aizsargjoslā, izņemot:\na) esošo ēku vai būvju restaurāciju un atjaunošanu, nemainot lietošanas veidu,\nb) esošo ēku vai būvju pārbūvi, nepalielinot būves vai tās daļas apjomu un nemainot lietošanas veidu, ja tām ir nodrošināta piekļuve,\nc) pilsētās un ciemos sezonas būvju novietošanu pludmalē, ja attiecīgajam pludmales posmam ir nodrošināta piekļuve,\nd) pludmales labiekārtojuma elementu un atsevišķu labiekārtojuma elementu ierīkošanu pilsētu un ciemu publiskajā ārtelpā,\ne) ne vairāk kā divus metrus platu gājēju ceļu ar mīksto segumu vai koka dēļu klājumu būvniecību, pārbūvi vai atjaunošanu;\n13) grunts novietņu ierīkošana aizsargājamās jūras teritorijās, izņemot aizsargājamās jūras teritorijas \"Nida–Pērkone\" un \"Rīgas līča rietumu piekraste;\n14) būvju būvniecība bakterioloģiskajā aizsargjoslā ap ūdens ņemšanas vietām, izņemot:\na) esošo būvju pārbūvi un atjaunošanu vai jaunu būvju būvniecību, ja paredzēta pievienošanās centralizētajai ūdensapgādes sistēmai un centralizētajai kanalizācijas sistēmai,\nb) pirmās grupas būvju būvniecību, pārbūvi un atjaunošanu,\nc) esošo būvju restaurāciju vai nojaukšanu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "12",
+      "title": "12. Tūrisms un atpūta:",
+      "content": "1) slēpošanas trašu, pacēlāju un gaisa tramvaju ierīkošana un ar to saistītie pasākumi;\n2) jahtu un citu mazizmēra kuģošanas līdzekļu piestātņu ierīkošana, ja tās paredzētas vairāk nekā 5 mazizmēra kuģošanas līdzekļu uzņemšanai vienlaikus;\n3) viesnīcu, viesu namu vai viesnīcu kompleksu būvniecība ārpus apdzīvotajām vietām un ar to saistītie attīstības pasākumi, ja tās var nodrošināt vairāk nekā 25 cilvēku uzņemšanu vienlaikus vai ja tās paredzētas īpaši aizsargājamā dabas teritorijā;\n4) pastāvīgu kempinga vietu ierīkošana, ja tās var nodrošināt vairāk nekā 25 cilvēku uzņemšanu vienlaikus vai ja tās paredzētas īpaši aizsargājamā dabas teritorijā;\n5) tematisko parku ierīkošana."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "13",
+      "title": "13. (Izslēgts ar 05.06.2014 . likumu)",
+      "content": "13. (Izslēgts ar 05.06.2014 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Darbības, kurām nepieciešams sākotnējais izvērtējums (Pielikums 19.06.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 26.02.2004. , 15.09.2005. , 07.06.2007. , 10.06.2010. , 01.12.2011. , 05.06.2014. un 23.11.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "14",
+      "title": "14. Darbības, kuras paredzētas jaunu metožu un produktu attīstībai (izstrādei) un attiecas uz šā likuma 1.pielikumā minētajiem objektiem, un kuras turpinās ne ilgāk kā divus gadus pēc to uzsākšanas.",
+      "content": "14. Darbības, kuras paredzētas jaunu metožu un produktu attīstībai (izstrādei) un attiecas uz šā likuma 1.pielikumā minētajiem objektiem, un kuras turpinās ne ilgāk kā divus gadus pēc to uzsākšanas."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ietekme uz vidi",
+      "definition": "paredzētās darbības vai plānošanas dokumenta īstenošanas izraisītas tiešas vai netiešas pārmaiņas vidē, kuras ietekmē vai var ietekmēt cilvēku, viņa veselību un drošību, kā arī bioloģisko daudzveidību (īpaši aizsargājamās sugas un to dzīvotnes, īpaši aizsargājamos un Eiropas Savienības nozīmes biotopus), augsni, zemes dzīles, ūdeni, gaisu, klimatu, ainavu, materiālās vērtības, kultūras un dabas mantojumu, iespējamā pakļautība avāriju vai katastrofu riskiem un visu minēto jomu mijiedarbība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ietekmes uz vidi novērtējums (turpmāk arī",
+      "definition": "ietekmes novērtējums) — procedūra, kas veicama šajā likumā noteiktajā kārtībā, lai novērtētu paredzētās darbības vai plānošanas dokumenta īstenošanas iespējamo ietekmi uz vidi un izstrādātu priekšlikumus nelabvēlīgas ietekmes novēršanai vai samazināšanai vai aizliegtu paredzētās darbības uzsākšanu normatīvajos aktos noteikto prasību pārkāpumu gadījumos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "paredzētā darbība",
+      "definition": "aprīkojuma, iekārtas un tehnoloģijas ieviešana, papildināšana vai maiņa, projekta īstenošana, būvniecība, dabas resursu ieguve vai izmantošana, cilvēka darbības neskartu vai mazpārveidotu teritoriju un ainavu ietekmēšana, kā arī citas darbības, kuru veikšana vai galarezultāts var būtiski ietekmēt vidi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ierosinātājs",
+      "definition": "privātpersona, atvasināta publiska persona, tiešās vai pastarpinātās pārvaldes iestāde, kura gatavojas veikt paredzēto darbību un ir iesniegusi Valsts vides dienestam vai Vides pārraudzības valsts birojam iesniegumu par attiecīgās darbības veikšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārrobežu ietekme",
+      "definition": "jebkura paredzētās darbības izraisīta ietekme teritorijā, kas pakļauta ietekmētās valsts jurisdikcijai, ja šīs ietekmes fiziskais cēlonis pilnībā vai daļēji atrodas Latvijas vai citas valsts jurisdikcijā esošajā teritorijā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "stratēģiskais ietekmes uz vidi novērtējums (turpmāk arī",
+      "definition": "stratēģiskais novērtējums) — ietekmes uz vidi novērtējums plānošanas dokumentam, kura īstenošana var būtiski ietekmēt vidi, arī vides pārskata sagatavošana, apspriešana, sabiedrības iesaistīšana vides pārskata apspriešanā un konsultāciju veikšana, vides pārskata un tā apspriešanas rezultātu ņemšana vērā plānošanas dokumenta sagatavošanā un izmantošana lēmumu pieņemšanai, kā arī informācijas sniegšana par pieņemto lēmumu šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides pārskats",
+      "definition": "atsevišķa sadaļa stratēģijā, plānā, programmā, koncepcijā vai cita veida plānošanas dokumentā (turpmāk — plānošanas dokumenti), uz kuru attiecas šā likuma nosacījumi, vai atsevišķs dokuments, kas nosaka, apraksta un novērtē attiecīgā dokumenta, kā arī iespējamo alternatīvu īstenošanas ietekmi uz vidi, ņemot vērā plānošanas dokumenta mērķus, paredzēto realizācijas vietu un darbības jomu.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

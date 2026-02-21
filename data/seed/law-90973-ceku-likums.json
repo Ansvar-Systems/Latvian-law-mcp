@@ -1,0 +1,565 @@
+{
+  "id": "lv-law-90973",
+  "type": "statute",
+  "title": "Čeku likums",
+  "short_name": "TA-90973",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/90973-ceku-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "1",
+      "title": "1. Čekā jābūt:",
+      "content": "1) apzīmējumam, kas izteic, ka akts ir čeks; apzīmējums jāizteic akta tekstā tanī pašā valodā, kurā akts uzrakstīts;\n2) beznosacījuma uzdevumam maksāt noteiktu naudas sumu;\n3) maksātāja (trasata) vārdam;\n4) maksāšanas vietas apzīmējumam;\n5) izrakstīšanas laika un vietas apzīmējumam;\n6) čeka devēja (trasanta) parakstam."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "2",
+      "title": "2. Akts, kurā trūkst kāda no 1. pantā norādītām sastāvdaļām, nav spēkā kā čeks, izņemot šinī pantā zemāk minētos gadījumus.",
+      "content": "Ja nav cita norādījuma, tad vieta, kas apzīmēta blakus maksātāja vārdam, jāuzskata par maksāšanas vietu. Ja blakus maksātāja vārdam apzīmētas vairākas vietas, tad čeks jāmaksā pirmajā no apzīmētām vietām.\nJa nav minēto norādījumu vai arī kāda cita norādījuma, tad čeks jāmaksā maksātāja galvenā uzņēmuma vietā.\nČeks, kurā nav norādīta izrakstīšanas vieta, jāuzskata par izrakstītu tanī vietā, kas apzīmēta blakus čeka devēja vārdam."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "3",
+      "title": "3. Čeku var izrakstīt tikai uz tādu baņķieri, pie kā atrodas čeka devēja vērtības, un turklāt vēl saskaņā ar noteikti vai arī klusējot izteiktu vienošanos, ka čeka devējam ir tiesība rīkoties ar šīm vērtībām, čekus izrakstot.",
+      "content": "Akts, kas nav izrakstīts uz baņķieri, nav jāuzskata par čeku pat tad, ja tanī būtu ierakstīts čeka apzīmējums."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "4",
+      "title": "4. Čeku nevar pieņemt. Uz čeka taisītā pieņemšanas atzīme jāuzskata par neierakstītu.",
+      "content": "Tomēr, ja čeka maksātājs baņķieris uz čeka devēja pieprasījumu ieraksta čekā apstiprinājuma atzīmi, tad ar to viņš uzņemas pret čeka turētāju pienākumu samaksāt čeku. Šis pienākums viņam ir arī pret čeka devēju un indosantiem. Nevar atteikties samaksāt apstiprināto čeku pat tad, ja starplaikā par čeka devēja mantu ir atklāts konkurss.\nSaistība, kas rodas ar apstiprinājumu, izbeidzas, ja čeks nav uzrādīts samaksai astoņu dienu laikā pēc izrakstīšanas. Uzrādīšanas konstatēšanai jāpiemēro 40. pantā paredzētie noteikumi.\nRegresa prasība, kas izriet no apstiprinājuma, noilgst gada laikā pēc uzrādīšanai paredzētā termiņa.\nBaņķieris tikai tad var taisīt uz čekiem apstiprinājuma atzīmi, ja viņa rīcībā ir čeka devēja vērtības."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "5",
+      "title": "5. Čeks var būt izrakstīts:",
+      "content": "noteiktai personai, ar tiešu atzīmi \"orderam\" vai bez šādas atzīmes;\nnoteiktai personai ar atzīmi \"ne orderam\" vai līdzīgu atzīmi;\nuzrādītājam.\nČeks, kas izrakstīts noteiktai personai ar atzīmi \"vai uzrādītājam\" vai līdzīgu atzīmi, ir spēkā kā čeks uz uzrādītāju.\nČeks bez personas apzīmējuma, kurai tas izrakstīts, ir spēkā kā čeks uz uzrādītāju."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "6",
+      "title": "6. Čeks var būt čeka devēja paša orderam.",
+      "content": "Čeku var izrakstīt uz trešās personas rēķinu.\nČeku nevar izrakstīt uz pašu čeka devēju, izņemot gadījumu, kad čeks izrakstīts no viena čeka devēja uzņēmuma uz citu. Šai gadījumā čeku nevar izrakstīt uz uzrādītāju."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "7",
+      "title": "7. Katra čekā uzņemtā procentu*) atzīme jāuzskata par neierakstītu.",
+      "content": "*) Pēc izlabojuma Vald. Vēstn. š. g. 227. numurā."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "8",
+      "title": "8. Čeks var būt maksājams trešās personas dzīves vietā — tur, kur maksātājam ir dzīves vieta vai arī kādā citā vietā — bet tikai tad, ja šī trešā persona ir baņķieris.",
+      "content": "8. Čeks var būt maksājams trešās personas dzīves vietā — tur, kur maksātājam ir dzīves vieta vai arī kādā citā vietā — bet tikai tad, ja šī trešā persona ir baņķieris."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "9",
+      "title": "9. Ja čeka suma uzrakstīta reizē burtiem un cipariem, tad nesaskaņas gadījumā čeks ir spēkā burtiem izteiktā summā.",
+      "content": "Ja čeka suma uzrakstīta vairākas reizes burtiem vai arī vairākas reizes cipariem, tad nesaskaņas gadījumā čeks ir spēkā tikai mazākā summā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "10",
+      "title": "10. Ja uz čeka atrodas tādu personu paraksti, kurām trūkst spēja uzņemties čeku saistības, viltoti paraksti, izdomātu personu paraksti, vai paraksti, kas kādu citu iemeslu dēļ nav saistoši pašiem parakstītājiem vai personām, kuru vārdā čeks parakstīts, tad pārējo parakstītāju saistības tomēr paliek spēkā.",
+      "content": "10. Ja uz čeka atrodas tādu personu paraksti, kurām trūkst spēja uzņemties čeku saistības, viltoti paraksti, izdomātu personu paraksti, vai paraksti, kas kādu citu iemeslu dēļ nav saistoši pašiem parakstītājiem vai personām, kuru vārdā čeks parakstīts, tad pārējo parakstītāju saistības tomēr paliek spēkā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "11",
+      "title": "11. Kas parakstījis čeku kā vietnieks, lai gan viņam nav bijis pilnvarojuma, ir pats atbildīgs uz čeka pamata, un viņam, ja tas čeku samaksājis, ir tādas pašas tiesības, kādas būtu varējusi izlietot šķietami atvietotā persona. Tādu pašu atbildību nes vietnieks, kas pārkāpis savu pilnvarojumu.",
+      "content": "11. Kas parakstījis čeku kā vietnieks, lai gan viņam nav bijis pilnvarojuma, ir pats atbildīgs uz čeka pamata, un viņam, ja tas čeku samaksājis, ir tādas pašas tiesības, kādas būtu varējusi izlietot šķietami atvietotā persona. Tādu pašu atbildību nes vietnieks, kas pārkāpis savu pilnvarojumu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "12",
+      "title": "12. Čeka devējs atbild par čeka samaksu. Katra atzīme, ar kuru čeka devējs atbrīvo sevi no šīs atbildības, jāuzskata par neierakstītu.",
+      "content": "12. Čeka devējs atbild par čeka samaksu. Katra atzīme, ar kuru čeka devējs atbrīvo sevi no šīs atbildības, jāuzskata par neierakstītu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "PIRMĀ NODAĻA Čeka izrakstīšana un forma",
+      "section": "13",
+      "title": "13. Ja čeks bija nepilnīgs to pirmam čeka ņēmējam iedodot un vēlāk aizpildīts pretēji norunai, tad pret čeka turētāju nevar celt iebildumu par norunas neievērošanu, ja vien viņš čeku nav ieguvis ļaunā ticībā vai, to iegūstot, nav pielaidis rupju neuzmanību.",
+      "content": "13. Ja čeks bija nepilnīgs to pirmam čeka ņēmējam iedodot un vēlāk aizpildīts pretēji norunai, tad pret čeka turētāju nevar celt iebildumu par norunas neievērošanu, ja vien viņš čeku nav ieguvis ļaunā ticībā vai, to iegūstot, nav pielaidis rupju neuzmanību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "14",
+      "title": "14. Čeku, kas maksājams kādai noteiktai personai, ar atzīmi \"orderam\" vai bez šādas atzīmes, var dot tālāk ar indosamentu.",
+      "content": "Čeku, kas maksājams kādai noteiktai personai, ar atzīmi \"ne orderam\" vai līdzīgu atzīmi, var dot tālāk tikai parastās cesijas ceļā un ar tās sekām.\nIndosamentu var taisīt pat čeka devēja labā vai kuras katras — čeka saistībā atbildīgas personas labā. Šīs personas var no jauna indosēt čeku."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "15",
+      "title": "15. Indosamentam jābūt bez nosacījumiem. Katrs indosamentam pievienotais nosacījums jāuzskata par neierakstītu.",
+      "content": "Daļas indosaments nav spēkā.\nTāpat nav spēkā maksātāja indosaments.\nIndosaments uz uzrādītāju ir spēkā kā blanko indosaments.\nIndosaments uz maksātāju ir spēkā tikai kā kvīte, izņemot gadījumu, kad maksātājam ir vairāki uzņēmumi un kad indosaments ir taisīts cita uzņēmuma labā nekā tas uzņēmums, uz kuru izrakstīts čeks."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "16",
+      "title": "16. Indosaments jāraksta uz čeka vai uz tam piemetinātas lapas. Indosaments jāparaksta indosantam.",
+      "content": "Indosamentā var neapzīmēt jauno čeka ņēmēju, un tas var pat izteikties tikai indosanta parakstā (blanko indosaments). Pēdējā gadījuma indosaments ir spēkā tikai tad, ja tas rakstīts čeka otrā pusē vai uz piemetinātas lapas."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "17",
+      "title": "17. Indosaments pārnes visas no čeka izrietošas tiesības.",
+      "content": "Ja indosaments taisīts blanko, tad čeka turētājs var:\n1) aizpildīt indosamentu uz savu vai citas personas vārdu;\n2) indosēt čeku no jauna blanko vai uz kādas citas personas vārdu;\n3) dot čeku tālāk, neaizpildot blanko indosamentu un netaisot jaunu indosamentu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "18",
+      "title": "18. Ja nav pretēja satura atzīmes, indosants atbild par čeka samaksu.",
+      "content": "Indosants var aizliegt taisīt jaunu indosamentu; tādā gadījumā viņš neatbild personām, kurām čeks pēc tam indosēts."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "19",
+      "title": "19. Persona, kuras rokās atrodas čeks, ko var dot tālāk ar indosamentu, atzīstama par likumīgu čeka turētāju, ja viņa pierāda savu tiesību ar nepārtrauktu indosamentu rindu un pie tam pat tad, ja pēdējais indosaments taisīts blanko. Šai ziņā izsvītrotie indosamenti jāuzskata par neierakstītiem. Ja blanko indosamentam seko kāds cits indosaments, tad jāpieņem, ka šā pēdējā indosamenta parakstītājs ieguvis čeku uz blanko indosamenta pamata.",
+      "content": "19. Persona, kuras rokās atrodas čeks, ko var dot tālāk ar indosamentu, atzīstama par likumīgu čeka turētāju, ja viņa pierāda savu tiesību ar nepārtrauktu indosamentu rindu un pie tam pat tad, ja pēdējais indosaments taisīts blanko. Šai ziņā izsvītrotie indosamenti jāuzskata par neierakstītiem. Ja blanko indosamentam seko kāds cits indosaments, tad jāpieņem, ka šā pēdējā indosamenta parakstītājs ieguvis čeku uz blanko indosamenta pamata."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "20",
+      "title": "20. Indosaments uz čeka, kas izrakstīts uz uzrādītāju, dara indosantu atbildīgu uz regresa noteikumu pamata; bet šis indosaments tomēr nepārvērs aktu ordera čekā.",
+      "content": "20. Indosaments uz čeka, kas izrakstīts uz uzrādītāju, dara indosantu atbildīgu uz regresa noteikumu pamata; bet šis indosaments tomēr nepārvērs aktu ordera čekā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "21",
+      "title": "21. Ja čeks kaut kādā veidā nozudis tā agrākam turētājam, — vienalga, vai čeks ir uz uzrādītāju vai ir dodams tālāk ar indosamentu, un tiesība uz to pierādama 19. pantā minētā veidā, — pašreizējam turētājam ir tikai tad pienākums atdot čeku, ja viņš to ieguvis ļaunā ticībā vai pielaižot rupju neuzmanību.",
+      "content": "21. Ja čeks kaut kādā veidā nozudis tā agrākam turētājam, — vienalga, vai čeks ir uz uzrādītāju vai ir dodams tālāk ar indosamentu, un tiesība uz to pierādama 19. pantā minētā veidā, — pašreizējam turētājam ir tikai tad pienākums atdot čeku, ja viņš to ieguvis ļaunā ticībā vai pielaižot rupju neuzmanību."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "22",
+      "title": "22. Personas, pret kurām celta prasība pēc čeka, nevar aizstāvēties pret čeka turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar čeka devēju vai ar iepriekšējiem čeka turētājiem, ja vien pašreizējais čeka turētājs, iegūstot čeku, nav rīkojies apzināti par ļaunu parādniekam.",
+      "content": "22. Personas, pret kurām celta prasība pēc čeka, nevar aizstāvēties pret čeka turētāju ar iebildumiem, kas pamatojas uz viņu personīgām attiecībām ar čeka devēju vai ar iepriekšējiem čeka turētājiem, ja vien pašreizējais čeka turētājs, iegūstot čeku, nav rīkojies apzināti par ļaunu parādniekam."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "23",
+      "title": "23. Ja indosamentā ir atzīme «vērtība iekasēšanai\", \"iekasēšanai\", \"uz prokuras pamata\" vai kāda cita atzīme, kas izteic pilnvarojumu, tad čeka turētājs var izlietot visas no čeka izrietošās tiesības, bet čeku viņš var dot tālāk tikai ar prokuras indosamentu.",
+      "content": "Šinī gadījumā čeku saistībā atbildīgas personas var pret čeku turētāju celt tikai tādus iebildumus, kādus viņas varētu celt pret indosantu.\nProkuras indosamenta izteiktais pilnvarojums neizbeidzas ar pilnvarotāja nāvi vai rīcības spējas zaudēšanu."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "OTRĀ NODAĻA Čeka tālākdošana",
+      "section": "24",
+      "title": "24. Indosamentam, kas taisīts pēc protesta vai pēc līdzīga konstatējuma, vai pēc uzrādīšanas laika notecēšanas, ir tikai parastās cesijas sekas.",
+      "content": "Kamēr nav pierādīts pretējais, indosaments bez datuma jāuzskata par taisītu pirms protesta vai līdzīga konstatējuma izdarīšanas, vai pirms šā ( 24. ) panta pirmā daļā minētā laika notecēšanas."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "TREŠĀ NODAĻA Galvojums (avals)",
+      "section": "25",
+      "title": "25. Čeka samaksu var nodrošināt ar galvojumu pilnā čeka sumā vai summas daļā. Šādu nodrošinājumu var dot trešā persona, izņemot maksātāju, vai pat kāds no čeka parakstītājiem.",
+      "content": "25. Čeka samaksu var nodrošināt ar galvojumu pilnā čeka sumā vai summas daļā. Šādu nodrošinājumu var dot trešā persona, izņemot maksātāju, vai pat kāds no čeka parakstītājiem."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "TREŠĀ NODAĻA Galvojums (avals)",
+      "section": "26",
+      "title": "26. Galvojumu dod uzrakstā uz čeka vai uz piemetinātās lapas.",
+      "content": "Galvojumu izteic vārdiem \"kā galvinieks\" vai ar citu līdzīgu atzīmi. Galvojumu paraksta galvinieks.\nGalvojums jāuzskata par izrietošu tikai no galvinieka paraksta čeka priekšpusē, izņemot gadījumu, kad parakstu dod čeka devējs.\nGalvojumā jānorāda, kam par labu tas dots. Trūkstot šādam norādījumam, jāuzskata, ka galvojums dots par čeka devēju."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "TREŠĀ NODAĻA Galvojums (avals)",
+      "section": "27",
+      "title": "27. Galvinieks atbild tādā pašā veidā kā tas, par kuru galvojums dots.",
+      "content": "Galvojums ir spēkā pat tad, ja pati nodrošinātā saistība nebūtu spēkā kaut kādu iemeslu dēļ, izņemot tikai formas trūkumus.\nSamaksājis čeku, galvinieks iegūst visas no čeka izrietošās tiesības pret personu, par kuru viņš galvojis, un tāpat arī pret tiem, kas savukārt atbild šai personai uz čeka pamata."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "28",
+      "title": "28. Čeks jāsamaksā pie uzrādīšanas. Katra pretēja satura atzīme jāuzskata par neierakstītu.",
+      "content": "Čeks, ko uzrāda samaksai pirms dienas, kas apzīmēta par izrakstīšanas datumu, jāsamaksā uzrādīšanas dienā."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "29",
+      "title": "29. Čeks, kas izrakstīts un maksājams vienā un tai pašā valstī, jāuzrāda samaksai astoņu dienu laikā.",
+      "content": "Čeks, kas izrakstīts citā valstī nekā valsts, kurā tas maksājams, jāsamaksā divdesmit vai septiņdesmit dienu laikā, atkarībā no tā, vai izrakstīšanas un maksāšanas vietas atrodas vienā vai dažādās pasaules daļās.\nŠinī gadījumā Eiropas valstī izrakstīti čeki, kas maksājami Vidusjūras piekrastes valstī, vai otrādi — Vidusjūras piekrastes valstī izrakstīti čeki, kas maksājami Eiropas valstī, jāuzskata par izrakstītiem un maksājamiem vienā un tanī pašā pasaules daļā.\nŠinī pantā minētie termiņi sāk tecēt no čekā atzīmētās izrakstīšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "30",
+      "title": "30. Ja nesakrīt čeka izrakstīšanas un maksāšanas vietas kalendāri, tad izrakstīšanas diena jāpārrēķina atbilstošā dienā pēc maksāšanas vietas kalendāra.",
+      "content": "30. Ja nesakrīt čeka izrakstīšanas un maksāšanas vietas kalendāri, tad izrakstīšanas diena jāpārrēķina atbilstošā dienā pēc maksāšanas vietas kalendāra."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "31",
+      "title": "31. Čeka uzrādīšana Norēķināšanās birojā pielīdzināta uzrādīšanai samaksai.",
+      "content": "Finansu ministris noteic, kas jāuzskata par Norēķināšanās biroju un kādi nosacījumi ir čeka uzrādīšanai."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "32",
+      "title": "32. Čeka atsaukšana ir spēkā tikai pēc uzrādīšanas laika notecēšanas.",
+      "content": "Ja čeks nav atsaukts, tad maksātājs var čeku samaksāt arī pēc uzrādīšanas laika notecēšanas."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "33",
+      "title": "33. Čeka devēja nāve pēc čeka izrakstīšanas un arī rīcības spējas zaudēšana neietekmē čeka spēku.",
+      "content": "33. Čeka devēja nāve pēc čeka izrakstīšanas un arī rīcības spējas zaudēšana neietekmē čeka spēku."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "34",
+      "title": "34. Samaksājot čeku, maksātājs var prasīt, lai viņam to atdod ar turētāja kvitējumu par samaksu.",
+      "content": "Čeka turētājs nevar atteikties pieņemt daļas samaksu.\nDaļas samaksas gadījumā maksātājs var prasīt, lai par šo daļas samaksu atzīmē uz čeka un izdod viņam kvīti."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "35",
+      "title": "35. Maksātājam, kas samaksā ar indosamentu tālākdodamu čeku, jāpārbauda, vai indosamentu rinda ir nepārtraukta, bet nav jāpārliecinās par indosantu parakstu īstumu.",
+      "content": "35. Maksātājam, kas samaksā ar indosamentu tālākdodamu čeku, jāpārbauda, vai indosamentu rinda ir nepārtraukta, bet nav jāpārliecinās par indosantu parakstu īstumu."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "CETURTĀ NODAĻA Uzrādīšana un samaksa",
+      "section": "36",
+      "title": "36. Ja čeks izrakstīts valūtā, kura nav apgrozībā maksāšanas vietā, tad čeka uzrādīšanai paredzētā laikā čeka sumu var maksāt vietējā naudā pēc maksāšanas dienas kursa. Ja čeku nesamaksā pie uzrādīšanas, tad turētājam ir tiesība prasīt čeka summas samaksu vietējā naudā, izvēloties čeka summas pārrēķināšanai vai nu uzrādīšanas dienas vai samaksas dienas kursu.",
+      "content": "Ārzemju valūtas vērtību noteic pēc maksāšanas vietas tirdzniecības parašām. Tomēr čeka devējs pašā čekā var noteikt kursu čeka summas pārrēķināšanai.\nNav jāpiemēro šā ( 36. ) panta pirmās un otrās daļu noteikumi, ja čeka devējs noteicis, ka samaksa izdarāma noteiktā valūtā (efektivklauzula).\nTomēr šī atzīme nav spēkā, ja Latvijā iestājušies ārkārtēji apstākļi, kas ietekmē naudas kursus. Pazīmes, kas raksturo ārkārtējus apstākļus, tāpat arī šo apstākļu rašanos un izbeigšanos, noteic valdība.\nJa čeka suma ir noteikta valūtā, kurai vienāds nosaukums, bet cita vērtība valstī, kur čeks izrakstīts, un valstī, kur tas maksājams, tad jāpieņem, ka domāta tās valsts valūta, kur čeks maksājams."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "PIEKTĀ NODAĻA Svītrotais čeks un norēķina čeks",
+      "section": "37",
+      "title": "37. Čeka devējs vai turētājs var čeku svītrot, radot 38. pantā minētās sekas.",
+      "content": "Svītrojumu izdara ar divi līdzteku līnijām čeka priekšpusē. Tas var būt vispārīgs vai tikai speciāls svītrojums.\nSvītrojums ir vispārīgs tad, ja līniju starpā nav nekādas atzīmes vai ir apzīmējums \"baņķieris\" vai līdzīgs nosaukums; svītrojums ir speciāls — ja līniju starpā ierakstīts baņķiera vārds.\nVispārīgu svītrojumu var pārvērst speciālā, bet speciālu nevar pārvērst vispārīgā.\nSvītrojuma vai baņķiera vārda izsvītrojums jāuzskata par nenotikušu."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "PIEKTĀ NODAĻA Svītrotais čeks un norēķina čeks",
+      "section": "38",
+      "title": "38. Vispārīgi svītrotu čeku maksātājs var maksāt tikai baņķierim vai savam klientam.",
+      "content": "Speciāli svītrotu čeku maksātājs var maksāt tikai čekā apzīmētam baņķierim, bet ja šis apzīmētais baņķieris ir pats maksātājs, tad tikai savam klientam. Tomēr čekā apzīmētais baņķieris var uzticēt čeka iekasēšanu arī citam baņķierim.\nSvītrotu čeku baņķieris var iegūt tikai no sava klienta vai no cita baņķiera. Tāpat viņš var prasīt pēc tā samaksu tikai minēto personu labā.\nČeku ar vairākiem speciāliem svītrojumiem maksātājs var samaksāt tikai tādā gadījumā, ja uz tā ir ne vairāk par diviem svītrojumiem, un turklāt viens no tiem ir taisīts čeka samaksai, to iesniedzot Norēķināšanās birojam.\nMaksātājs vai baņķieris, kas rīkojas pretēji augšminētiem noteikumiem, atbild par zaudējumiem čeka summas apmērā."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "PIEKTĀ NODAĻA Svītrotais čeks un norēķina čeks",
+      "section": "39",
+      "title": "39. Čeka devējs un tāpat katrs turētājs var aizliegt čeka samaksu naudā ar čeka priekšpusē šķērsām uzrakstītu atzīmi «norēķinam\" vai līdzīgu atzīmi.",
+      "content": "Šinī gadījumā maksātājs var čeku izlietot tikai iegrāmatojuma darbībai (kredīta atvēršana, naudas pārskaitīšana no viena rēķina uz otru vai ieskaits). Šai darbībai ir samaksas spēks.\nAtzīmes \"norēķinam\" izsvītrojums jāuzskata par nenotikušu.\nMaksātājs, kas rīkojas pretēji augšminētiem noteikumiem, atbild par zaudējumiem čeka summas apmērā."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "40",
+      "title": "40. Čeka turētājam ir regresa tiesība pret indosanticm, čeka devēju un citām uz čeka pamata atbildīgām personām, ja laikā uzrādītais čeks nav samaksāts un atteikšanās no samaksas ir konstatēta:",
+      "content": "1) ar publisku aktu (protests);\n2) ar datētu maksātāja paziņojumu uz čeka, atzīmējot arī uzrādīšanas dienu;\n3) ar datētu Norēķināšanās biroja paziņojumu, ka čeks ir iesniegts laikā, bet tomēr nav samaksāts."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "41",
+      "title": "41. Protests vai tamlīdzīgs konstatējums jāizdara pirms uzrādīšanas laika notecēšanas.",
+      "content": "Ja čeks bija uzrādīts uzrādīšanas laika pēdējā dienā, tad protestu vai tamlīdzīgu konstatējumu var izdarīt nākošā darbdienā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "42",
+      "title": "42. Čeka turētājam četru darbdienu laikā pēc protesta vai līdzīga konstatējuma dienas, bet ja uz čeka ir atzīme \"bez izdevumiem\", tad četru darbdienu laikā pēc uzrādīšanas, par čeka nesamaksu jāpaziņo savam tiešam indosantam un čeka devējam. Divu darbdienu laika pēc paziņojuma saņemšanas katram indosantam savukārt ir pienākums par saņemto paziņojumu informēt savu priekšgājēju, norādot iepriekšējo paziņotāju vārdus un adreses, un tā jārīkojas tālāk, kamēr nonāk līdz čeka devējam. Minētais laiks tek no iepriekšējā paziņojuma saņemšanas brīža.",
+      "content": "Ja saskaņā ar šā ( 42. ) panta pirmo daļu ir nosūtīts paziņojums kādai čeku parakstījušai personai, tad tāda paša satura paziņojums un tādā pašā laikā jānosūta arī šīs personas galviniekam.\nJa indosants nav atzīmējis savu adresi vai to atzīmējis nesalasāmā veidā, tad pietiek ar paziņojuma nosūtīšanu šā indosanta tiešam priekšgājējam.\nTas, kam ir pienākums nosūtīt paziņojumu, var to izdarīt kurā katrā formā un pat nosūtot tikai pašu čeku.\nViņam jāpierāda, ka paziņojums nosūtīts paredzētā laikā. Laiks jāuzskata par ievērotu, ja šinī laikā nodota pastam vēstule, kurā atrodas paziņojums.\nKas nav nosūtījis paziņojumu augšminētā laikā, tas ar to vēl nezaudē regresa iespēju; viņš atbild par zaudējumiem, kas radušies ar viņa neuzmanību, bet zaudējumu atlīdzība nevar pārsniegt čeka sumu.\nJa atteikšanās samaksāt čeku ir konstatēta ar protestu, paziņojumu nosūta notārs. Šai gadījumā notāram protesta izdarīšanas dienā ir pienākums rakstiski paziņot par protestu visām uz čeka pamata atbildīgām personām, kuru adreses atzīmētas čekā vai zināmas notāram, vai kuru adreses ir paziņojusi persona, kas pieprasījusi protesta izdarīšanu. Paziņošanas izdevumi jāpierēķina protesta izdevumiem."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "43",
+      "title": "43. Ar atzīmi \"bez izdevumiem\", \"bez protesta\" vai līdzīgu atzīmi, kas ierakstīta čekā un pēc tam parakstīta, čeka devējs, indosants vai galvinieks var atbrīvot čeka turētāju no pienākuma regresa tiesības izlietošanai izdarīt protestu vai līdzīgu konstatējumu.",
+      "content": "Atzīme neatbrīvo čeka turētāju no čeka uzrādīšanas pienākuma likumā noteiktā laikā, tāpat arī neatbrīvo no paziņošanas pienākuma. Minētā laika neievērošana jāpierāda tam, kas uz to dibina savus iebildumus pret čeka turētāju.\nAtzīme, kuru ieraksta čeka devējs, rada sekas pret visām čeku parakstījušām personām, turpretim atzīme, kuru ieraksta indosants vai galvinieks, rada sekas tikai pret viņiem pašiem. Ja, neskatoties uz čeka devēja ierakstīto atzīmi, čeka turētājs tomēr nodod čeku protestam vai līdzīga konstatējuma izdarīšanai, tad tikai viņam ir pienākums maksāt attiecīgus izdevumus. Ja atzīmi ieraksta indosants vai galvinieks, tad protesta vai līdzīga konstatējuma izdevumus var pieprasīt no visiem čeka parakstītājiem."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "44",
+      "title": "44. Visas uz čeka pamata atbildīgās personas atbild solidāri čeka turētājam.",
+      "content": "Čeka turētājam ir tiesība celt prasību pret visām minētām personām, pret katru atsevišķi vai visām kopā, un viņam nav jāievēro kārtība, kurā šīs personas uzņēmušās čeka saistību.\nTās pašas tiesības pieder katram čeka parakstītājam, kas čeku izpircis.\nPrasības celšana pret vienu čeka saistībā atbildīgu personu nekavē čeka turētāju prasīt samaksu arī no pārējām atbildīgām personām; viņš var prasīt samaksu pat no tām personām, kas seko jau izsūdzētam čeka parakstītājam."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "45",
+      "title": "45. Regresa ceļā čeka turētājs var prasīt:",
+      "content": "1) nesaņemto čeka sumu;\n2) sešus procentus, skaitot no uzrādīšanas dienas;\n3) protesta paziņojuma un citus izdevumus;\n4) atlīdzību vienas trešdaļas procenta apmērā no čeka summas."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "46",
+      "title": "46. Kas samaksājis čeku, tam ir tiesība prasīt no regresa kārtībā atbildīgām personām:",
+      "content": "1) pilnu sumu, kuru viņš samaksājis;\n2) sešus procentus no šīs summas, skaitot no čeka izpirkšanas dienas;\n3) savus izdevumus;\n4) atlīdzību pēc 45. panta 4. punktā paredzētā aprēķina."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "47",
+      "title": "47. Katra čeka saistībā atbildīga persona, no kuras prasa vai no kuras var prasīt čeka samaksu uz regresa tiesības pamata, maksājot regresa sumu, var prasīt atdot viņai čeku ar protesta vai līdzīga konstatējuma aktu un kvitētu rēķinu.",
+      "content": "Katrs indosants, kas izpircis čeku, var izsvītrot savu paša indosamentu un sekojošos indosamentus."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "SESTĀ NODAĻA Regress nesamaksas dēļ",
+      "section": "48",
+      "title": "48. Ja nepārvaramu šķēršļu dēļ (kādas valsts likumīgi rīkojumi vai citi nepārvaramas varas gadījumi) noteiktā laikā nav iespējams uzrādīt čeku vai izdarīt protestu vai līdzīgu konstatējumu, tad šo laiku pagarina.",
+      "content": "Čeka turētājam par nepārvaramas varas gadījumiem nekavējoties jāpaziņo savam tiešam indosantam un par šo paziņojumu jāatzīmē uz čeka vai uz piemetinātās lapas, minot datumu un parakstoties. Bez tam jāpiemēro 42. panta noteikumi.\nIzbeidzoties nepārvaramas varas gadījumam, čeka turētājam nekavējoties jāuzrāda čeks samaksai un vajadzības gadījumā jāizdara protests vai līdzīgs konstatējums.\nJa nepārvarama vara ilgst pāri par piecpadsmit dienām pēc tās dienas, kad čeka turētājs, pat pirms uzrādīšanas laika notecēšanas, paziņojis savam priekšgājējam par nepārvaramās varas gadījumu, tad var izlietot regresu, nemaz neuzrādot čeku un neizdarot protestu vai līdzīgu konstatējumu.\nNav jāuzskata par nepārvaramas varas gadījumiem tādi apstākļi, kas skar tīri personīgi čeka turētāju vai personu, kurai viņš uzdevis uzrādīt čeku vai izdarīt protestu vai līdzīgu konstatējumu."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "SEPTĪTĀ NODAĻA Dublikāti",
+      "section": "49",
+      "title": "49. Izņemot čeku uz uzrādītāju, katru čeku, kas izrakstīts vienā valstī, bet maksājams citā valstī vai tās pašas valsts aizjūras teritorijas daļā un otrādi, vai kas izrakstīts un maksājams kādas valsts vienā vai dažādās aizjūras teritorijas daļās — var izdot vairākos līdzīgos eksemplāros. Šiem eksemplāriem jābūt numurētiem pašā čeka tekstā; pretējā gadījumā katrs eksemplārs jāuzskata par patstāvīgu čeku.",
+      "content": "49. Izņemot čeku uz uzrādītāju, katru čeku, kas izrakstīts vienā valstī, bet maksājams citā valstī vai tās pašas valsts aizjūras teritorijas daļā un otrādi, vai kas izrakstīts un maksājams kādas valsts vienā vai dažādās aizjūras teritorijas daļās — var izdot vairākos līdzīgos eksemplāros. Šiem eksemplāriem jābūt numurētiem pašā čeka tekstā; pretējā gadījumā katrs eksemplārs jāuzskata par patstāvīgu čeku."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "SEPTĪTĀ NODAĻA Dublikāti",
+      "section": "50",
+      "title": "50. Ar viena eksemplāra samaksu atkrīt atbildība pēc pārējiem eksemplāriem, pat ja uz tiem nebūtu atzīmes, ka ar samaksu pret vienu eksemplāru pārējie eksemplāri zaudē spēku.",
+      "content": "Indosants, kas čeka eksemplārus iedevis dažādām personām, un tāpat arī sekojošie indosanti atbild pēc visiem neatdotiem eksemplāriem, uz kuriem atrodas viņu paraksts."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "ASTOTĀ NODAĻA Grozījumi",
+      "section": "51",
+      "title": "51. Ja čeka teksts ir grozīts, tad tie, kas čeku parakstījuši pēc grozījuma taisīšanas, atbild saskaņā ar grozīto tekstu; turpretim agrākie parakstītāji atbild saskaņā ar pirmēju tekstu.",
+      "content": "51. Ja čeka teksts ir grozīts, tad tie, kas čeku parakstījuši pēc grozījuma taisīšanas, atbild saskaņā ar grozīto tekstu; turpretim agrākie parakstītāji atbild saskaņā ar pirmēju tekstu."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "DEVĪTĀ NODAĻA Noilgums",
+      "section": "52",
+      "title": "52. Čeka turētāja regresa prasības pret indosantiem, čeka devēju un citām uz čeka pamata atbildīgām personām noilgst sešu mēnešu laikā pēc uzrādīšanas laika notecēšanas.",
+      "content": "Uz regresa pamata atbildīgo personu savstarpīgi prasījumi noilgst sešu mēnešu laikā pēc tās dienas, kad atbildīgā persona samaksājusi čeku vai kad pret viņu pašu celta prasība."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "DEVĪTĀ NODAĻA Noilgums",
+      "section": "53",
+      "title": "53. Noilguma tecējuma pārtraukuma gadījumus noteic attiecīgu likumu noteikumi; noilguma tecējumu nekādā gadījumā nevar apturēt.",
+      "content": "Noilguma pārtraukums rada sekas tikai pret to čeka saistībā atbildīgo personu, uz kuru attiecas noilgumu pārtraucēja darbība."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "DESMITĀ NODAĻA Vispārīgi noteikumi",
+      "section": "54",
+      "title": "54. Par baņķieriem šā likuma nozīmē jāuzskata visas kredītiestādes, kas uz savu statūtu pamata pieņem naudu un izdara maksājumus uz svešu rēķinu.",
+      "content": "54. Par baņķieriem šā likuma nozīmē jāuzskata visas kredītiestādes, kas uz savu statūtu pamata pieņem naudu un izdara maksājumus uz svešu rēķinu."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "DESMITĀ NODAĻA Vispārīgi noteikumi",
+      "section": "55",
+      "title": "55. Čeku var uzrādīt un protestēt tikai darbdienā.",
+      "content": "Ja tanī laikā, kas paredzēts ar čeku saistītas darbības izdarīšanai, īpaši čeka uzrādīšanai vai protesta vai līdzīga konstatējuma izdarīšanai, pēdējā diena ir likumīga svinama diena, tad šis laiks jāpagarina līdz nākošai darbdienai. Laika sprīdi aprēķinot, jāskaita līdzi svinamas dienas, kas iekrīt laika tecējumā."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "DESMITĀ NODAĻA Vispārīgi noteikumi",
+      "section": "56",
+      "title": "56. Šinī likumā paredzētos termiņus aprēķinot, nav jāskaita līdzi diena, pēc kuras tie sāk tecēt.",
+      "content": "56. Šinī likumā paredzētos termiņus aprēķinot, nav jāskaita līdzi diena, pēc kuras tie sāk tecēt."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "DESMITĀ NODAĻA Vispārīgi noteikumi",
+      "section": "57",
+      "title": "57. Nav pielaižamas nekādas uz likumu vai tiesas spriedumu pamatotas papildu dienas.",
+      "content": "57. Nav pielaižamas nekādas uz likumu vai tiesas spriedumu pamatotas papildu dienas."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "58",
+      "title": "58. Protestu izdara notārs.",
+      "content": "58. Protestu izdara notārs."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "59",
+      "title": "59. Notārs, kuram protesta izdarīšanai iesniegts čeks, uzaicina maksātāju samaksāt čeku.",
+      "content": "Ja maksātājs čeku nesamaksā, notāram jāsastāda protesta akts."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "60",
+      "title": "60. Protesta aktā jābūt:",
+      "content": "1) protesta izdarīšanas datumam;\n2) protesta akta numuram;\n3) personas vārdam, kuras labā protests izdarīts, un personas vārdam, pret kuru protests izdarīts;\n4) norādījumam, ka maksātājs uzaicināts samaksāt čeku un ka šim uzaicinājumam nav bijis panākuma, vai ka nebija iespējams atrast maksātāja darbības vietu;\n5) izdarītā vai bez panākumiem palikušā uzaicinājuma vietas un laika apzīmējumam;\n6) protesta izdevumu apmēram.\nProtesta aktu paraksta notārs un uzspiež amata zīmogu.\nP i e z ī m e. Protesta akts jāieraksta notāra reģistrā (notāru lik. 39. p. 1. pk.)."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "61",
+      "title": "61. Protesta akts jāraksta uz čeka vai uz tam piemetinātās lapas.",
+      "content": "Protesta akts jāraksta čeka otrā pusē tieši aiz beidzamā uzraksta; ja nav neviena uzraksta, tad protesta akts jāraksta vienā no otras puses malām.\nJa protesta aktu raksta uz piemetinātās lapas, tad sametinājuma vietā jāuzspiež amata zīmogs. Šādā gadījumā nav vairs nepieciešams uzspiest zīmogu blakus notāra parakstam.\nJa protestam nodoti vairāki tā paša čeka eksemplāri, tad pietiek ar protestu tikai uz viena eksemplāra. Uz citiem eksemplāriem vai uz noraksta atzīmes veidā jānorāda, uz kura eksemplāra taisīts protesta akts. Taisot atzīmi, jāpiemēro šā ( 61. ) panta otrās daļas un trešās daļas pirmā teikuma noteikumi. Atzīmi paraksta notārs."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "62",
+      "title": "62. Čeku var samaksāt notāram. Viņam nevar atņemt tiesību saņemt samaksu.",
+      "content": "62. Čeku var samaksāt notāram. Viņam nevar atņemt tiesību saņemt samaksu."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "63",
+      "title": "63. Kļūdas, izlaidumi vai citi protesta akta trūkumi notāram jāizlabo līdz protesta akta izsniegšanai personai, uz kuras pieprasījumu protests izdarīts. Izlabojumi jāatrunā īpašā atzīmē, ko paraksta notārs.",
+      "content": "63. Kļūdas, izlaidumi vai citi protesta akta trūkumi notāram jāizlabo līdz protesta akta izsniegšanai personai, uz kuras pieprasījumu protests izdarīts. Izlabojumi jāatrunā īpašā atzīmē, ko paraksta notārs."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "VIENPADSMITĀ NODAĻA Protests",
+      "section": "64",
+      "title": "64. Jāuzglabā protesta akta apliecinātais noraksts. Jātaisa atzīme par čeka saturu. Atzīmē jāmin:",
+      "content": "1) čeka suma;\n2) izrakstīšanas laiks un vieta;\n3) čeka devēja vārds, personas vārds, kurai vai kuras orderam čeks samaksājams, un arī maksātāja vārds.\nNoraksti un atzīmes jāuzglabā labā kārtībā.\nP i e z ī m e. Šinī ( 64. ) pantā minētā atzīme jātaisa notāra reģistrā."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "DIVPADSMITĀ NODAĻA Čeka devēja netaisna iedzīvošanās un īpaša atbildība",
+      "section": "65",
+      "title": "65. Ja čeka devēja saistība izbeigusies ar noilgumu vai arī tādēļ, ka nav izdarīta regresa tiesības paturēšanai nepieciešamā darbība, tad tomēr čeka devējs atbild čeka turētājam, par cik viņš netaisni iedzīvojies uz čeka turētāja rēķinu. Prasība par iedzīvojuma atmaksu noilgst gada laikā pēc čeka izrakstīšanas dienas.",
+      "content": "Šādu prasību nevar celt pret indosantiem."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "DIVPADSMITĀ NODAĻA Čeka devēja netaisna iedzīvošanās un īpaša atbildība",
+      "section": "66",
+      "title": "66. Ja čeks nav samaksāts tāpēc, ka maksātāja rīcībā nav bijis čeka devēja vērtību vai ka šo vērtību nav pieticis, tad čeka devējs atbild par čeka turētājam nodarītiem zaudējumiem.",
+      "content": "Šādu prasību var celt gada laikā pēc čeka izrakstīšanas."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "TRĪSPADSMITĀ NODAĻA Nozuduši, nozagti vai iznīcināti čeki un protesta akti",
+      "section": "67",
+      "title": "67. Nozudušu, nozagtu vai iznīcinātu čeku var atzīt par anulētu Civilprocesa likumā paredzētā uzaicinājuma kārtībā. Uzaicinājuma laiks ir divi mēneši. Par uzaicinājuma izdarīšanu jāpaziņo, ciktāl tas iespējams, visām čekā minētām personām.",
+      "content": "67. Nozudušu, nozagtu vai iznīcinātu čeku var atzīt par anulētu Civilprocesa likumā paredzētā uzaicinājuma kārtībā. Uzaicinājuma laiks ir divi mēneši. Par uzaicinājuma izdarīšanu jāpaziņo, ciktāl tas iespējams, visām čekā minētām personām."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "TRĪSPADSMITĀ NODAĻA Nozuduši, nozagti vai iznīcināti čeki un protesta akti",
+      "section": "68",
+      "title": "68. Kad čeks laikā uzrādīts samaksai, bet baņķieris atteicies to samaksāt, tad pēc uzaicinājuma lietas ierosināšanas tiesa var piešķirt lūdzējam tiesību prasīt samaksu no čeka devēja, ja lūdzējs dod nodrošinājumu uz laiku līdz čeka atzīšanai par anulētu. Nedodot nodrošinājumu, lūdzējam ir tikai tiesība prasīt, lai čeka sumu uz viņa rēķinu nogulda tiesas depozītā. Maksātājs, kas izpildījis šo pieprasījumu, atbrīvojas no čeka saistības.",
+      "content": "68. Kad čeks laikā uzrādīts samaksai, bet baņķieris atteicies to samaksāt, tad pēc uzaicinājuma lietas ierosināšanas tiesa var piešķirt lūdzējam tiesību prasīt samaksu no čeka devēja, ja lūdzējs dod nodrošinājumu uz laiku līdz čeka atzīšanai par anulētu. Nedodot nodrošinājumu, lūdzējam ir tikai tiesība prasīt, lai čeka sumu uz viņa rēķinu nogulda tiesas depozītā. Maksātājs, kas izpildījis šo pieprasījumu, atbrīvojas no čeka saistības."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "TRĪSPADSMITĀ NODAĻA Nozuduši, nozagti vai iznīcināti čeki un protesta akti",
+      "section": "69",
+      "title": "69. Persona, uz kuras lūgumu anulēts čeks, var izlietot pret atbildīgām personām no šā čeka izrietošās tiesības.",
+      "content": "Kad tiesas lēmums par čeka anulēšanu ir pārsūdzēts un atcelts, tad maksājumi, kurus ir izdarījusi uz šā lēmuma pamata atbildīgā persona, paliek joprojām spēkā pat pret trešām personām un īpaši pret to, kas pārsūdzējis lēmumu, ja vien atbildīgā persona, maksājumu izdarot, nav zinājusi par lēmuma atcelšanu."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "TRĪSPADSMITĀ NODAĻA Nozuduši, nozagti vai iznīcināti čeki un protesta akti",
+      "section": "70",
+      "title": "70. Nozudušu vai iznīcinātu protesta aktu var atvietot ar apliecību par izdarīto protestu; šo apliecību izdod notārs, kas uzglabā apliecinātu protesta akta norakstu. Apliecībā jānorāda protesta akta un 64. pantā minēto atzīmju saturs.",
+      "content": "70. Nozudušu vai iznīcinātu protesta aktu var atvietot ar apliecību par izdarīto protestu; šo apliecību izdod notārs, kas uzglabā apliecinātu protesta akta norakstu. Apliecībā jānorāda protesta akta un 64. pantā minēto atzīmju saturs."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "71",
+      "title": "71. Personas spēju uzņemties čeka saistību noteic tās valsts likums, pie kuras viņa pieder. Ja šis likums norāda uz citas valsts likumu, tad jāpiemēro norādītais likums.",
+      "content": "Persona, kurai pēc šā ( 71. ) panta pirmā daļā minētā likuma nav spējas uzņemties saistību pēc čeka, kļūst tomēr atbildīga, ja paraksta čeku tādas valsts teritorijā, pēc kuras likuma viņai ir attiecīga spēja.\nŠis noteikums nav jāpiemēro Latvijā, ja Latvijas pilsonis uzņēmies čeka saistību ārzemēs."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "72",
+      "title": "72. Tas valsts likums, kur čeks maksājams, noteic personas, kuras var būt par čeka maksātājiem.",
+      "content": "Ja pēc minētā likuma akts ir nederīgs kā čeks maksātāja personas dēļ, tad tomēr paliek spēkā saistības uz to parakstu pamata, kas doti citās valstīs un nerunā pretim to likumam."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "73",
+      "title": "73. Čeka saistības izteikuma formu noteic tās valsts likums, kuras teritorijā izteikums parakstīts.",
+      "content": "Tomēr, ja pēc šā ( 73. ) panta pirmās daļas izteikums nav spēkā, bet saskan ar tās valsts likumu, kuras teritorijā parakstīts kāds vēlāk izdarītais izteikums, tad tas apstāklis, ka pirmām izteikumam ir formas trūkumi, neskar vēlākā izteikuma spēku.\nLatvijas pilsoņa ārzemēs pēc čeka uzņemtā saistība ir spēkā attiecībā uz citiem Latvijas pilsoņiem Latvijas teritorijā, ja saistības izteikuma forma atbilst Latvijas likumam."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "74",
+      "title": "74. Čeka saistības sekas noteic tās valsts likums, kuras teritorijā izteikums parakstīts.",
+      "content": "74. Čeka saistības sekas noteic tās valsts likums, kuras teritorijā izteikums parakstīts."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "75",
+      "title": "75. Laiku regresa prasības izlietošanai visām uz čeka pamata saistītām personām noteic čeka izrakstīšanas vietas likums.",
+      "content": "75. Laiku regresa prasības izlietošanai visām uz čeka pamata saistītām personām noteic čeka izrakstīšanas vietas likums."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "76",
+      "title": "76. Tās valsts likums, kur čeks maksājams, noteic:",
+      "content": "1) vai čeks jāmaksā pie uzrādīšanas vai noteiktā laikā pēc uzrādīšanas, un*) arī sekas tādam čekā minētam izrakstīšanas datumam, kas ir vēlāks par īsto čeka taisīšanas datumu;\n2) uzrādīšanas laiku;\n3) vai čeku var pieņemt, apliecināt, apstiprināt vai apskatīt, un kādas ir šo atzīmju sekas;\n4) vai turētājs var pieprasīt daļas samaksu un vai viņam ir pienākums to pieņemt;\n5) vai čeku var svītrot vai taisīt atzīmi \"tikai norēķinam\" vai līdzīgu atzīmi, un kādas ir svītrojuma vai norēķina atzīmes vai līdzīgu atzīmju sekas;\n6) vai turētājam ir īpaša tiesība uz segumu un kāds tai saturs;\n7) vai čeka devējs var atsaukt čeku vai iebilst pret tā samaksu;\n8) līdzekļus, kas izlietojami, čeku nozaudējot, vai kad tas nozagts;\n9) vai regresa izlietošanai pret čeka devēju, indosantiem un citām atbildīgām personām izdarāms protests vai līdzīgs konstatējums."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "77",
+      "title": "77. Protesta formu un laiku protesta celšanai, tāpat arī citas tādas darbības formu, kas nepieciešama, lai izlietotu vai paturētu tiesības pēc čeka, noteic likums, kas ir spēkā tās valsts teritorijā, kurā izdarāms protests vai minētā darbība.",
+      "content": "77. Protesta formu un laiku protesta celšanai, tāpat arī citas tādas darbības formu, kas nepieciešama, lai izlietotu vai paturētu tiesības pēc čeka, noteic likums, kas ir spēkā tās valsts teritorijā, kurā izdarāms protests vai minētā darbība."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "pn1",
+      "title": "1. Čekiem, kas izrakstīti pirms šā likuma spēkā stāšanās, pat ja uz tiem ir uzraksti, kas taisīti pēc šā likuma spēkā stāšanās, jāpiemēro likuma par čeku (Lik. kr. 1921. g. 75) noteikumi. Izdarot protestu, aprēķinot protesta termiņus un anulējot nozudušos, nozagtos vai iznīcinātos čekus, jāpiemēro šā likuma noteikumi.",
+      "content": "1. Čekiem, kas izrakstīti pirms šā likuma spēkā stāšanās, pat ja uz tiem ir uzraksti, kas taisīti pēc šā likuma spēkā stāšanās, jāpiemēro likuma par čeku (Lik. kr. 1921. g. 75) noteikumi. Izdarot protestu, aprēķinot protesta termiņus un anulējot nozudušos, nozagtos vai iznīcinātos čekus, jāpiemēro šā likuma noteikumi."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "ČETRPADSMITĀ NODAĻA Konfliktnormas",
+      "section": "pn2",
+      "title": "2. Ja šā likuma spēkā stāšanās dienā līdzšinējais noilguma termiņš nav notecējis, bet šis likums nosaka īsāku termiņu, tad jāpiemēro jaunais noilguma termiņš, to skaitot no šā likuma spēkā stāšanās dienas. Ja pēc šāda aprēķina noilguma laiks iznāk garāks par līdzšinējo noilguma termiņu, noilguma termiņš izbeidzas tanī dienā, kad tas būtu notecējis pēc likuma par čeku (Lik. kr. 1921. g. 75).",
+      "content": "2. Ja šā likuma spēkā stāšanās dienā līdzšinējais noilguma termiņš nav notecējis, bet šis likums nosaka īsāku termiņu, tad jāpiemēro jaunais noilguma termiņš, to skaitot no šā likuma spēkā stāšanās dienas. Ja pēc šāda aprēķina noilguma laiks iznāk garāks par līdzšinējo noilguma termiņu, noilguma termiņš izbeidzas tanī dienā, kad tas būtu notecējis pēc likuma par čeku (Lik. kr. 1921. g. 75).\nAr šā likuma spēkā stāšanos atcelts likums par čeku (Lik. kr. 1921. g. 75)."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,288 @@
+{
+  "id": "lv-law-44290",
+  "type": "statute",
+  "title": "Konkurences likums",
+  "short_name": "TA-44290",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/44290-konkurences-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) dabīgais monopols - tirgus dalībnieka ekonomisks (saimniecisks) izņēmuma stāvoklis konkrētā tirgū, kurā konkurences attīstības iespējas ir ierobežotas objektīvu apstākļu dēļ;\n2) dominējošais stāvoklis - tirgus dalībnieka ekonomisks (saimniecisks) izņēmuma stāvoklis, ja tā tirgus daļa konkrētajā tirgū pārsniedz 40 procentus un tam ir iespēja ievērojami kavēt, ierobežot vai deformēt konkurenci konkrētajā tirgū, darbojoties pilnīgi vai daļēji neatkarīgi no konkurentiem, klientiem vai pircējiem;\n3) izšķiroša ietekme - tāda ietekme, kad tirgus dalībniekam saskaņā ar likumu nākas iekļaut citu tirgus dalībnieku savos gada pārskatos vai tirgus dalībniekam (dalībniekiem) tieši vai netieši ir:\na) kontrole pār vairāk nekā pusi no citu tirgus dalībnieku daļām, akcijām vai balsstiesībām,\nb) tiesības rīkoties ar attiecīgu citu tirgus dalībnieku īpašuma daļu,\nc) tiesības pieņemt lēmumus, kuri ir saistoši citiem tirgus dalībniekiem,\nd) tiesības iecelt citu tirgus dalībnieku pārvaldes institūciju locekļu vairākumu.\n4) konkrētais ģeogrāfiskais tirgus - ģeogrāfiskā teritorija, kurā konkurences apstākļi konkrētās preces tirgū ir vienādi visiem tirgus dalībniekiem;\n5) konkrētais tirgus - konkrētās preces tirgus, kas izvērtēts saistībā ar konkrēto ģeogrāfisko tirgu;\n6) konkrētās preces tirgus - noteiktas preces tirgus, kurā ietverts arī visu to preču kopums, kuras var aizstāt šo noteikto preci konkrētajā ģeogrāfiskajā tirgū, ņemot vērā pieprasījuma, piedāvājuma un aizstājamības faktorus, preču pazīmes un lietošanas īpašības;\n7) konkurence - ekonomiskā (saimnieciskā) sāncensība starp diviem vai vairākiem tirgus dalībniekiem, kas sacenšas vai atrodas tādos apstākļos, kuros tie var sacensties viena veida vai savstarpēji aizstājamu preču ražošanā vai realizācijā;\n8) konkurenti - divi vai vairāki tirgus dalībnieki, kas sacenšas vai atrodas tādos apstākļos, kuros tie var sacensties viena veida vai savstarpēji aizstājamu preču ražošanā vai realizācijā konkrētajā tirgū;\n9) monopolstāvoklis - tirgus dalībnieka ekonomisks (saimniecisks) izņēmuma stāvoklis konkrētā tirgū, kurā tam nav konkurentu;\n10) prece - jebkura ķermeniska vai bezķermeniska lieta vai pakalpojums, kas apmierina kādu vajadzību un kam var noteikt vērtību, to pērkot vai pārdodot tirgū;\n11) (izslēgts ar 20.12.1999 . likumu) ;\n12) tirgus daļa - to preču daļa, kuras konkrētajā tirgū piedāvā tirgus dalībnieks, attiecībā pret visu šajā konkrētajā tirgū piedāvāto preču apjomu;\n13) tirgus dalībnieks - jebkura fiziskā vai juridiskā persona, kura veic vai gatavojas veikt uzņēmējdarbību, neatkarīgi no šīs darbības formas. Ja tirgus dalībniekam vai vairākiem tirgus dalībniekiem kopā ir izšķiroša ietekme uz vienu vai vairākiem citiem tirgus dalībniekiem, tad visi tirgus dalībnieki šā likuma izpratnē tiek uzskatīti par vienu tirgus dalībnieku;\n14) vienošanās - jebkādā formā noslēgts divu vai vairāku tirgus dalībnieku līgums vai saskaņota darbība, kurā tirgus dalībnieki piedalās kā arī lēmums, ko pieņem jebkādā formā reģistrēta dažādu tirgus dalībnieku apvienība (asociācija, savienība u.tml.) vai tās pilnvarota amatpersona."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir nodrošināt iespēju katram tirgus dalībniekam veikt ekonomisko (saimniecisko) darbību brīvas un godīgas konkurences apstākļos un labvēlīgus apstākļus konkurences aizsardzībai, saglabāšanai un attīstībai sabiedrības interesēs, ierobežojot tirgus koncentrāciju, pārtraucot konkurenci regulējošajos normatīvajos aktos aizliegtas darbības un saucot vainīgās personas pie atbildības normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Valsts loma brīvas un godīgas konkurences nodrošināšanā",
+      "content": "(1) Lai sasniegtu šajā likumā noteiktos mērķus, tiek izveidota Konkurences padome. Tās juridisko statusu un kompetenci nosaka šis likums un citi normatīvie akti.\n(2) Konkurences padomes, kā arī citu valsts pārvaldes institūciju un pašvaldību pienākums ir, pieņemot lēmumus savas kompetences ietvaros, veicināt brīvas un godīgas konkurences attīstību, kā arī nepieļaut negodīgu konkurenci."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Likuma darbība",
+      "content": "(1) Šis likums attiecas uz tirgus dalībniekiem un jebkura veida reģistrētām un nereģistrētām tirgus dalībnieku apvienībām. Uz valsts pārvaldes iestādēm, pašvaldībām un pašvaldību iestādēm šis likums attiecas tikai tad, ja tās darbojas kā tirgus dalībnieces privāttiesiskajās attiecībās.\n(2) Šis likums attiecas uz dabīgajiem un valsts monopoliem, kā arī citiem monopolstāvoklī esošiem uzņēmumiem (uzņēmējsabiedrībām)."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "5",
+      "title": "Konkurences padomes juridiskais statuss",
+      "content": "(1) Konkurences padome ir valsts iestāde, kura darbojas saskaņā ar šo likumu un citiem normatīvajiem aktiem.\n(2) Konkurences padome ir juridiskā persona, tai ir zīmogs ar papildinātā Latvijas Republikas valsts mazā ģerboņa attēlu un Konkurences padomes nosaukumu.\n(3) Konkurences padomes darbību finansē no valsts budžeta."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "6",
+      "title": "Konkurences padomes izveidošana",
+      "content": "(1) Konkurences padomi piecu cilvēku sastāvā pēc ekonomikas ministra ieteikuma ieceļ Ministru kabinets uz pieciem gadiem, pēc rotācijas principa nomainot ik gadu vienu tās locekli.\n(2) Pēc rotācijas procedūras uzsākšanas atbrīvotos Konkurences padomes locekļus var iecelt amatā no jauna.\n(3) Konkurences padomes locekļus pirms pilnvaru termiņa izbeigšanās var atcelt Ministru kabinets.\n(4) Konkurences padomes locekļa amats nav savienojams ar deputāta darbu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "7",
+      "title": "Konkurences padomes uzdevumi",
+      "content": "Konkurences padome veic šādus uzdevumus:\n1) uzrauga tirgus dalībnieku izņēmuma stāvokļa ļaunprātīgas izmantošanas un negodīgas konkurences aizlieguma ievērošanu saskaņā ar šo likumu un starptautiskajiem līgumiem;\n2) konstatē šā likuma pārkāpumus un pārkāpumus reklāmas jomā saskaņā ar spēkā esošajiem normatīvajiem aktiem;\n3) pieņem lēmumus par tirgus dalībnieku apvienošanos un šajos gadījumos tirgus dalībniekiem obligāti izpildāmiem noteikumiem;\n4) veic pasākumus normatīvo aktu pārkāpumu novēršanai konkurences aizsardzības, saglabāšanas un attīstības jomā;\n5) izskata iesniegtos ziņojumus par tirgus dalībnieku vienošanos un apvienošanos;\n6) normatīvajos aktos noteiktās kompetences ietvaros veic pasākumus sabiedrības tiesību un likumīgo interešu aizsardzībai;\n7) sagatavo atzinumus par Ministru kabinetā izstrādātajiem normatīvo aktu projektiem, kuros tieši vai netieši skarti konkurences aizsardzības, saglabāšanas vai attīstības jautājumi;\n8) piedalās valsts īpašuma privatizācijas, reorganizācijas un demonopolizācijas procesā un, ja nepieciešams, iesniedz attiecīgajai institūcijai rakstveida priekšlikumus vai atzinumus par konkurences aizsardzības, saglabāšanas vai attīstības principu ievērošanu;\n9) savas kompetences ietvaros sadarbojas ar pašvaldībām un sniedz tām palīdzību konkurences aizsardzības, saglabāšanas un attīstības jautājumos;\n10) informē sabiedrību par Konkurences padomes uzdevumu izpildi un citiem konkurences aizsardzības, saglabāšanas un attīstības jautājumiem;\n11) savas kompetences ietvaros sadarbojas ar attiecīgām ārvalstu institūcijām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "8",
+      "title": "Konkurences padomes tiesības",
+      "content": "(1) Konkurences padome ir tiesīga:\n1) savas kompetences ietvaros izstrādāt un noteiktā kārtībā iesniegt Ministru kabinetam normatīvo aktu projektus;\n2) izvērtēt citu institūciju sagatavotos normatīvo aktu projektus, ja tajos ietvertas tirgus mehānismu ietekmējošas normas, kuru realizācija tieši vai netieši var radīt draudus konkurences aizsardzībai, saglabāšanai vai attīstībai;\n3) pieprasīt no jebkuras fiziskās un juridiskās personas (arī amatpersonas), valsts pārvaldes institūcijas un pašvaldības šajā likumā noteikto uzdevumu izpildei nepieciešamo informāciju, arī tādu informāciju, kas ietver komercnoslēpumu, kā arī saņemt no attiecīgajām personām rakstveida vai mutvārdu paskaidrojumus;\n4) veikt apsekojumus, ja nepieciešams, piesaistot neatkarīgus ekspertus;\n5) dot atzinumus par tirgus dalībnieku un to amatpersonu darbības atbilstību spēkā esošajiem konkurenci reglamentējošiem normatīvajiem aktiem;\n6) pieņemt lēmumus par šā likuma pārkāpumu izbeigšanu un tās nosacījumiem;\n7) pieņemt lēmumus par soda naudas uzlikšanu šā likuma pārkāpuma gadījumā un šajā likumā paredzētajā apmērā;\n8) iesniegt tiesā prasības pieteikumu šajā likumā un citos normatīvajos aktos paredzētajos gadījumos;\n9) publicēt Konkurences padomes pieņemtos lēmumus, viedokli un ieteikumus.\n(2) Pirms lēmumu pieņemšanas Konkurences padomes uzdevums ir censties panākt pārkāpuma izbeigšanu, rīkojot sarunas ar šajā pārkāpumā iesaistītajiem tirgus dalībniekiem.\n(3) Konkurences padome ir tiesīga veikt citas normatīvajos aktos atļautās darbības, lai izpildītu šajā likumā paredzētos uzdevumus.\n(4) Konkurences padome ir atbrīvota no valsts nodevas, ja tā ceļ tiesā prasību sakarā ar šā likuma un citu šajā jomā pieņemto normatīvo aktu pārkāpumiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "9",
+      "title": "Konkurences padomes lēmumi",
+      "content": "(1) Konkurences padomes lēmumu pieņemšanas kārtību (reglamentu) nosaka Ministru kabinets.\n(2) Ministru kabinets izdod noteikumus, kuri nodrošina, ka lēmumu pieņemšanas kārtība tiek īstenota taisnīgā veidā. Šie Ministru kabineta noteikumi reglamentē:\n1) iesaistītās puses un ieinteresētās trešās puses tiesības saņemt informāciju par procedūru, tiesības tikt informētam un tiesības tikt uzklausītam;\n2) prasības un kārtību, kāda Konkurences padomei jāievēro, izmeklējot iespējamos šā likuma pārkāpumus vai pieņemot lēmumus;\n3) termiņus, kuri jāievēro Konkurences padomei un iesaistītajām pusēm.\n(3) Norādījumus par lietu izpētes uzsākšanu konkrētajā gadījumā, kā arī par to, kādā veidā veicama izpēte vai pieņemams lēmums, Konkurences padomes priekšsēdētājam un tās locekļiem nevar dot ne Ministru kabinets, ne ekonomikas ministrs.\n(4) Konkurences padomes lēmumi ir obligāti tirgus dalībniekiem, kas veic uzņēmējdarbību Latvijas Republikā.\n(5) Konkurences padomes lēmumus, izņemot tos lēmumus, kuri pieņemti šā likuma 8.panta pirmās daļas 3. un 4.punktā noteiktajos gadījumos, var pārsūdzēt normatīvajos aktos noteiktajā kārtībā.\n(6) Jebkuras fiziskās vai juridiskās personas (arī amatpersonas) pienākums ir norādītajā termiņā sniegt Konkurences padomei pieprasīto informāciju, arī tādu informāciju, kas ietver komercnoslēpumu, kā arī dot iespēju Konkurences padomes attiecīgi pilnvarotiem darbiniekiem uz vietas iepazīties ar visiem uzņēmuma (uzņēmējsabiedrības) dokumentiem un saņemt šo dokumentu kopijas."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "10",
+      "title": "Konkurences padomes darbība",
+      "content": "(1) Konkurences padomes darbu vada tās priekšsēdētājs, kuru pēc ekonomikas ministra ieteikuma šajā amatā apstiprina Ministru kabinets uz pieciem gadiem. Konkurences padomes priekšsēdētājs ir Konkurences padomes loceklis.\n(2) Konkurences padomes priekšsēdētājs:\n1) vada Konkurences padomes sēdes;\n2) bez īpaša pilnvarojuma pārstāv Konkurences padomi;\n3) pieņem darbā Konkurences biroja direktoru, kura kandidatūru akceptējusi Konkurences padome;\n4) ir tiesīgs dot tiešus rīkojumus Konkurences biroja direktoram un jebkuram Konkurences biroja darbiniekam.\n(3) Konkurences padomes priekšsēdētāja slimības vai prombūtnes laikā viņa pienākumus pilda Konkurences padomes loceklis, kuru tam pilnvaro Konkurences padomes priekšsēdētājs.\n(4) Konkurences padomes sēdes sasauc pēc Konkurences padomes priekšsēdētāja vai vismaz triju Konkurences padomes locekļu pieprasījuma. Konkurences padome ir lemttiesīga, ja sēdē piedalās ne mazāk kā trīs tās locekļi. Lēmums ir pieņemts, ja par to balsojuši vismaz trīs padomes locekļi."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "11",
+      "title": "Konkurences biroja izveidošana",
+      "content": "(1) Konkurences padomes struktūrvienība ir Konkurences birojs.\n(2) Konkurences biroja darbu vada direktors. Konkurences biroja direktors ir ierēdnis (ierēdņa kandidāts), kas ir tieši pakļauts Konkurences padomes priekšsēdētājam.\n(3) Konkurences biroja direktors:\n1) bez īpaša pilnvarojuma pārstāv Konkurences biroju un Konkurences padomi savas kompetences ietvaros;\n2) vada Konkurences biroja darbu;\n3) ir Konkurences padomes finansu līdzekļu rīkotājs un atbild par to izlietošanu;\n4) saskaņā ar likumu \"Par valsts civildienestu\" ieceļ amatā un atbrīvo no amata citus Konkurences biroja darbiniekus;\n5) pēc saskaņošanas ar Konkurences padomes priekšsēdētāju apstiprina Konkurences biroja iekšējo struktūru un štatu sarakstu, iekšējās kārtības noteikumus, dienesta instrukcijas;\n6) ir atbildīgs Konkurences padomes priekšsēdētājam par Konkurences biroja darbību.\n(4) Konkurences biroja direktora slimības vai prombūtnes laikā viņa pienākumus pilda Konkurences biroja direktora vietnieks."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "12",
+      "title": "Konkurences biroja uzdevumi",
+      "content": "Konkurences birojs veic šādus uzdevumus:\n1) izskata un analizē Konkurences padomē saņemtos iesniegumus;\n2) veic iespējamo šā likuma pārkāpumu izmeklēšanu, veic apsekojumus un sagatavo atzinumus par tirgus dalībnieku un amatpersonu darbības atbilstību šim likumam;\n3) saskaņā ar Konkurences padomes lēmumu cenšas panākt šā likuma pārkāpumu izbeigšanu, rīkojot sarunas ar atteicīgajā pārkāpumā iesaistītajiem tirgus dalībniekiem;\n4) sagatavo Konkurences padomes lēmumu projektus par šā likuma pārkāpumu novēršanu un soda uzlikšanu vainīgajām personām;\n5) sagatavo tiesā iesniedzamos prasības pieteikumus šajā likumā un citos normatīvajos aktos paredzētajos gadījumos;\n6) sagatavo atzinumu projektus par Ministru kabineta izstrādātajiem normatīvo aktu projektiem, kuru realizācija tieši vai netieši var radīt draudus konkurences aizsardzībai, saglabāšanai vai attīstībai;\n7) sagatavo atzinumu projektus par konkurences aizsardzības principu ievērošanu valsts īpašuma privatizācijas, reorganizācijas un demonopolizācijas procesos;\n8) izstrādā normatīvo aktu projektus konkurences aizsardzības jomā;\n9) veic Konkurences padomes sekretariāta funkcijas;\n10) veic citus pienākumus, ko tam uzlikusi Konkurences padome."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "13",
+      "title": "Konkurences biroja tiesības",
+      "content": "(1) Konkurences birojs ir tiesīgs:\n1) veicot iespējamo šā likuma pārkāpumu izmeklēšanu, ja tas nepieciešams, pieaicināt neatkarīgus ekspertus;\n2) pieprasīt no jebkuras personas šajā likumā noteikto uzdevumu izpildei nepieciešamo informāciju, arī tādu informāciju, kas ietver komercnoslēpumu, uz vietas iepazīties ar dokumentiem un iegūt to kopijas.\n(2) Konkurences birojs, pildot tam ar šo likumu noteiktos uzdevumus, sadarbojas ar Iekšlietu ministrijas operatīvajiem dienestiem un prokuratūras iestādēm."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa. Konkurences padome un Konkurences birojs",
+      "section": "14",
+      "title": "Konkurences padomes un Konkurences biroja amatpersonu un darbinieku atbildība",
+      "content": "(1) Konkurences padomes un Konkurences biroja amatpersonām un darbiniekiem bez Konkurences padomes priekšsēdētāja vai Konkurences biroja direktora akcepta ir aizliegts izpaust informāciju, kas tiem ir kļuvusi zināma, pildot dienesta pienākumus. Iegūtā konfidenciālā informācija nav izpaužama, izņemot normatīvajos aktos īpaši noteiktus gadījumus.\n(2) Amatpersonas un darbinieki normatīvajos aktos noteiktajā kārtībā ir atbildīgi par konfidencialitātes neievērošanu un par zaudējumiem, kas tirgus dalībniekiem radušies Konkurences padomes vai Konkurences biroja amatpersonu vai darbinieku prettiesiskas rīcības rezultātā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa. Konkurenci ierobežojošas darbības",
+      "section": "15",
+      "title": "Aizliegtas vienošanās un vienošanās, kuras atzītas par spēkā esošām",
+      "content": "(1) Ir aizliegtas un spēkā neesošas tādas tirgus dalībnieku vienošanās, kuru mērķis vai sekas ir konkurences kavēšana, ierobežošana vai deformēšana, to skaitā vienošanās par:\n1) tiešu vai netiešu cenu un tarifu noteikšanu jebkādā veidā vai to veidošanas noteikumiem, kā arī par informācijas apmaiņu, kas attiecas uz cenām vai realizācijas noteikumiem;\n2) ražošanas apjomu, tirgu, tehniskās attīstības vai investīciju ierobežošanu vai kontroli;\n3) tirgus sadali pēc teritorijas, pēc pircēju, piegādātāju vai jebkādiem citiem nosacījumiem;\n4) noteikumiem, atbilstoši kuriem līguma slēgšanu ar citu tirgus dalībnieku padara atkarīgu no tā, vai šis tirgus dalībnieks uzņemas saistības, kurām pēc savas būtības vai komerciālā pielietojuma nav sakara ar konkrētā darījuma priekšmetu;\n5) piedalīšanos vai nepiedalīšanos konkursos vai izsolēs vai par šīs darbības (bezdarbības) noteikumiem, izņemot gadījumus, kad konkurenti publiski darījuši zināmu kopīgu piedāvājumu un šā piedāvājuma mērķis nav kavēt, ierobežot vai deformēt konkurenci;\n6) nevienādu noteikumu piemērošanu ekvivalentos līgumos ar citu tirgus dalībnieku, radot tam konkurences ziņā nelabvēlīgus nosacījumus;\n7) darbībām (bezdarbību), kuru rezultātā cits tirgus dalībnieks ir spiests iziet no tirgus vai tiek apgrūtināta potenciāla dalībnieka iekļūšana tirgū.\n(2) Konkurences padome šā panta pirmajā daļā minētās vienošanās var atļaut, ja tā konstatē, ka vienošanās veicina preču ražošanas vai realizācijas uzlabošanu vai ekonomisko progresu un tādējādi dod labumu patērētājam, turklāt šīs vienošanās:\n1) neuzliek attiecīgajiem tirgus dalībniekiem ierobežojumus, kuri nav nepieciešami šo mērķu sasniegšanai, un\n2) nedod iespēju likvidēt konkurenci ievērojamā attiecīgo preču tirgus daļā.\n(3) Šā panta pirmajā daļā paredzētās vienošanās atļautas, ja tirgus dalībnieki Ministru kabineta noteiktajā kārtībā ieguvuši Konkurences padomes atļauju šādai darbībai.\n(4) Ministru kabinets izdod noteikumus, kuri reglamentē:\n1) atsevišķu uzņēmumu (uzņēmējsabiedrību) vienošanās, lēmumus un saskaņotu darbību, kas tiek atbrīvota no šā panta pirmajā daļā minētajiem aizliegumiem, ja tā atbilst konkrētām šajos noteikumos izvirzītajām prasībām;\n2) atsevišķu uzņēmumu (uzņēmējsabiedrību) vienošanās, lēmumus un saskaņotu darbību, par kuru nav jāinformē Konkurences padome saskaņā ar šā panta otro un trešo daļu, ja tās ietekme uz konkurenci ir neievērojama."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa. Konkurenci ierobežojošas darbības",
+      "section": "16",
+      "title": "Atbildība par vienošanās aizlieguma pārkāpumu",
+      "content": "(1) Ja Konkurences padome konstatē šā likuma 15.panta pirmās daļas pārkāpumu un tirgus dalībnieki šo pārkāpumu nenovērš, Konkurences padome pieņem lēmumu, ka attiecīgajiem tirgus dalībniekiem ir obligāti jāizbeidz šis pārkāpums.\n(2) Konkurences padome, konstatējusi šā likuma 15.panta pirmajā daļā norādīto vienošanās aizlieguma pārkāpumu, ko izdarījuši tirgus dalībnieki var pieņemt lēmumu par soda naudas piedziņu valsts budžetā no attiecīgajiem tirgus dalībniekiem līdz 5 procentu apmērā no to pēdējā finansu gada apgrozījuma.\n(3) Konkurences padome, konstatējusi šā likuma 15.panta pirmās daļas 1.-4.punktā norādīto vienošanās aizlieguma pārkāpumu, ko izdarījuši konkurenti, var pieņemt lēmumu par soda naudas piedziņu valsts budžetā no attiecīgajiem konkurentiem līdz 10 procentu apmērā no to pēdējā finansu gada apgrozījuma.\n(4) Konkurences padome var attiecīgajiem tirgus dalībniekiem uzlikt par pienākumu atjaunot stāvokli, kāds bija pirms pārkāpuma izdarīšanas, norādot termiņu, kādā izpildāmi uzliktie pienākumi. Pēc šā termiņa izbeigšanās attiecīgajiem tirgus dalībniekiem nekavējoties jāziņo Konkurences padomei par uzliktā pienākuma izpildi.\n(5) Konkurences padome šā panta pirmajā un ceturtajā daļā minētā lēmuma vai uzliktā pienākuma nepildīšanas gadījumā var pieņemt lēmumu par šā panta otrajā un trešajā daļā noteiktās soda naudas piedziņu valsts budžetā no attiecīgajiem tirgus dalībniekiem vai šīs soda naudas palielināšanu līdz šajās daļās noteiktajam maksimālajam apmēram.\n(6) Šajā pantā minētos Konkurences padomes lēmumus var pārsūdzēt apgabaltiesā normatīvajos aktos noteiktajā kārtībā.\n(7) Ministru kabinets izdod noteikumus, kuri reglamentē kārtību, kādā tiek aprēķināta soda nauda."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa. Konkurenci ierobežojošas darbības",
+      "section": "17",
+      "title": "Dominējošā stāvokļa ļaunprātīgas izmantošanas aizliegums",
+      "content": "Jebkuram tirgus dalībniekam, kurš atrodas dominējošā stāvoklī, ir aizliegts jebkādā veidā ļaunprātīgi to izmantot. Dominējošā stāvokļa ļaunprātīga izmantošana var izpausties kā:\n1) atsacīšanās slēgt līgumu ar citu tirgus dalībnieku bez objektīvi attaisnojoša iemesla;\n2) preču ražošanas vai realizācijas apjomu, tirgu vai tehniskās attīstības sašaurināšana bez objektīvi attaisnojoša iemesla par sliktu patērētājam;\n3) tādu noteikumu uzspiešana, atbilstoši kuriem līguma slēgšana ar jebkuru citu tirgus dalībnieku tiek padarīta atkarīga no tā, vai šis dalībnieks uzņemas papildu saistības, kurām pēc savas būtības vai komerciālā pielietojuma nav sakara ar konkrētā darījuma priekšmetu;\n4) netaisnīgu pirkšanas vai pārdošanas cenu vai citu netaisnīgu tirdzniecības noteikumu tieša vai netieša uzspiešana;\n5) nevienādu noteikumu piemērošana ekvivalentos līgumos ar citu tirgus dalībnieku, radot tam konkurences ziņā nelabvēlīgus nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa. Konkurenci ierobežojošas darbības",
+      "section": "18",
+      "title": "Atbildība par dominējošā stāvokļa ļaunprātīgu izmantošanu",
+      "content": "(1) Ja Konkurences padome konstatē šā likuma 17.panta pārkāpumu un tirgus dalībnieki šo pārkāpumu nenovērš, Konkurences padome pieņem lēmumu, ka attiecīgajiem tirgus dalībniekiem ir obligāti jāizbeidz šis pārkāpums.\n(2) Konkurences padome, konstatējusi šā likuma 17.pantā aizliegto dominējošā stāvokļa ļaunprātīgu izmantošanu, var pieņemt lēmumu par soda naudas piedziņu valsts budžetā no attiecīgā tirgus dalībnieka līdz 5 procentu apmērā no tā pēdējā finansu gada apgrozījuma, kā arī lēmumu par aizliegtās darbības rezultātā nelikumīgi gūtās peļņas ieskaitīšanu valsts budžetā.\n(3) Konkurences padome var attiecīgajam tirgus dalībniekam uzlikt par pienākumu atjaunot stāvokli, kāds bija pirms pārkāpuma izdarīšanas, norādot termiņu, kādā izpildāmi uzliktie pienākumi. Pēc šā termiņa izbeigšanās attiecīgajam tirgus dalībniekam nekavējoties jāziņo Konkurences padomei par uzliktā pienākuma izpildi.\n(4) Konkurences padomes lēmuma vai uzliktā pienākuma nepildīšanas gadījumā Konkurences padome var pieņemt lēmumu par šā panta otrajā daļā noteiktās soda naudas uzlikšanu vai tās palielināšanu līdz 10 procentiem no attiecīgā tirgus dalībnieka pēdējā finansu gada apgrozījuma, kā arī lēmumu par aizliegtās darbības rezultātā nelikumīgi gūtās peļņas piedziņu un ieskaitīšanu valsts budžetā.\n(5) Šajā pantā minētos Konkurences padomes lēmumus var pārsūdzēt apgabaltiesā normatīvajos aktos noteiktajā kārtībā.\n(6) Ministru kabinets izdod noteikumus, kuri reglamentē kārtību, kādā tiek aprēķinātas soda nauda."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa. Uzņēmumu (uzņēmējsabiedrību) apvienošanās kontrole",
+      "section": "19",
+      "title": "Uzņēmumu (uzņēmējsabiedrību) apvienošanās noteikumi",
+      "content": "(1) Uzņēmumu (uzņēmējsabiedrību) apvienošanās ir:\n1) divu vai vairāku neatkarīgu tirgus dalībnieku apvienošanās, lai kļūtu par vienu tirgus dalībnieku;\n2) viena tirgus dalībnieka pievienošanās citam tirgus dalībniekam;\n3) tāds stāvoklis, kad viena vai vairākas juridiskās vai fiziskās personas pastāvīgi vai uz laiku iegūst izšķirošu ietekmi pār citiem tirgus dalībniekiem.\n(2) Tirgus dalībnieki, kuri nolēmuši apvienoties šā panta pirmajā daļā paredzētajā veidā, iesniedz Konkurences padomei par to ziņojumu izskatīšanai saskaņā ar šā likuma 20.pantu , ja:\n1) apvienošanās dalībnieku kopējais apgrozījums iepriekšējā finansu gadā ir bijis ne mazāks par 25 miljoniem latu un\n2) vismaz viens no apvienošanās dalībniekiem pirms apvienošanās atradies dominējošā stāvoklī konkrētajā tirgū.\n(3) Šā panta pirmajā un otrajā daļā minētās uzņēmumu (uzņēmējsabiedrību) apvienošanās nevar notikt un nevar tikt reģistrētas Latvijas Republikas Uzņēmumu reģistrā, pirms nav pieņemts Konkurences padomes lēmums saskaņā ar šā likuma 20.pantu .\n(4) Ministru kabinets izdod noteikumus par ziņojumu iesniegšanas un izskatīšanas kārtību. Šie noteikumi var ietvert papildu noteikumus apgrozījuma aprēķināšanai, to skaitā īpašus noteikumus attiecībā uz kredītiestādēm un apdrošināšanas sabiedrībām."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa. Uzņēmumu (uzņēmējsabiedrību) apvienošanās kontrole",
+      "section": "20",
+      "title": "Kārtība, kādā izskatāmi ziņojumi par uzņēmumu (uzņēmējsabiedrību) apvienošanos",
+      "content": "(1) Konkurences padome izskata šā likuma 19.panta otrajā daļā paredzētos ziņojumus un iesniegto papildu informāciju 60 dienu laikā pēc tās saņemšanas Ministru kabineta noteiktajā kārtībā.\n(2) Ja Konkurences padome konstatē, ka paredzētā uzņēmumu (uzņēmējsabiedrību) apvienošanās var kavēt, ierobežot vai deformēt konkurenci, tā ar savu lēmumu aizliedz šo uzņēmumu (uzņēmējsabiedrību) apvienošanos vai izvirza attiecīgajiem tirgus dalībniekiem obligāti ievērojamus noteikumus atbilstoši šajā likumā noteiktajām prasībām.\n(3) Ja tirgus dalībnieki 60 dienu laikā no dienas, kad ziņojums iesniegts Konkurences padomei, nav saņēmuši nekādu informāciju no Konkurences padomes, attiecīgās uzņēmumu (uzņēmējsabiedrību) apvienošanās uzskatāma par atļautu.\n(4) Konkurences padome var pieņemt šā panta otrajā daļā noteiktos lēmumus arī par tādu uzņēmumu (uzņēmējsabiedrību) apvienošanos, kura nav pieteikta saskaņā ar šā likuma 19.panta otro daļu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa. Uzņēmumu (uzņēmējsabiedrību) apvienošanās kontrole",
+      "section": "21",
+      "title": "Atbildība par uzņēmumu (uzņēmējsabiedrību) nelikumīgu apvienošanos",
+      "content": "(1) Ja ziņojums nav iesniegts šajā likumā noteiktajos gadījumos, Konkurences padome var pieņemt lēmumu par soda naudas piedziņu valsts budžetā no jaunā tirgus dalībnieka līdz 1000 latiem par katru dienu.\n(2) Ja ir notikusi uzņēmumu (uzņēmējsabiedrību) apvienošanās, kas ir pretrunā ar šā likuma 20.panta otrajā vai ceturtajā daļā noteiktajā kartībā pieņemto Konkurences padomes lēmumu, Konkurences padome var pieņemt lēmumu par soda naudas piedziņu valsts budžetā no jaunā tirgus dalībnieka līdz 1000 latiem par katru dienu.\n(3) Lēmums saskaņā ar šā panta pirmo daļu vai soda naudas nomaksa neatbrīvo attiecīgos tirgus dalībniekus no pienākuma izpildīt šā likuma noteikumus.\n(4) Kad Konkurences padome ir konstatējusi, ka jaunais tirgus dalībnieks ir izbeidzis šā panta pirmajā daļā minēto nelikumīgo darbību, tā pārtrauc šā panta pirmajā daļā minēto soda naudas piedziņu.\n(5) Konkurences padomes lēmumus var pārsūdzēt normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "22",
+      "title": "Negodīgas konkurences aizliegums",
+      "content": "(1) Negodīga konkurence ir aizliegta.\n(2) Par negodīgu konkurenci uzskatāmas darbības, kuru rezultātā tiek pārkāpti normatīvie akti vai saimnieciskās darbības godīga prakse un ir radusies vai varētu rasties konkurences kavēšana, ierobežošana vai deformēšana.\n(3) Negodīga konkurence var izpausties arī kā:\n1) cita tirgus dalībnieka (eksistējoša, savu darbību izbeiguša vai reorganizēta) likumīgi lietota nosaukuma, atšķirības zīmju un citu pazīmju izmantošana vai atdarināšana, ja tas var maldināt attiecībā uz tirgus dalībnieka identitāti;\n2) cita tirgus dalībnieka ražotās vai realizētās preces nosaukuma, ārējā izskata, marķējuma, iepakojuma atdarināšana, preču zīmes izmantošana, ja tas var maldināt attiecībā uz preces izcelsmi;\n3) nepatiesas, nepilnīgas vai izkropļotas informācijas izplatīšana par citu tirgus dalībnieku vai tā darbiniekiem, kā arī par šā tirgus dalībnieka ražoto vai realizēto preču saimniecisko nozīmi, kvalitāti, izgatavošanas veidu, īpašībām, daudzumu, noderīgumu, cenām, to veidošanas un citiem noteikumiem, kas var šim tirgus dalībniekam nodarīt zaudējumus;\n4) cita tirgus dalībnieka komercnoslēpumu ietverošas informācijas iegūšana, izmantošana vai izplatīšana bez viņa piekrišanas;\n5) cita tirgus dalībnieka darbinieku ietekmēšana ar draudiem vai uzpirkšana, lai radītu priekšrocības savai ekonomiskajai darbībai, tādējādi nodarot šim tirgus dalībniekam zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "23",
+      "title": "Maldinošas reklāmas aizliegums",
+      "content": "(Izslēgts ar 20.12.1999 . likumu, kas stājas spēkā 19.01.2000. )"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "24",
+      "title": "Atbildība par negodīgu konkurenci",
+      "content": "(1) Ja tiek konstatēta šā likuma 22.pantā paredzēto noteikumu neievērošana, Konkurences padome ar savu lēmumu uzliek attiecīgajiem tirgus dalībniekiem par pienākumu izbeigt pārkāpumu. Konkurences padome vienlaikus var pieņemt lēmumu par soda naudas piedziņu valsts budžetā no attiecīgā tirgus dalībnieka līdz 5 procentu apmērā no tā pēdējā finansu gada apgrozījuma.\n(2) Konkurences padomes lēmumus par šā likuma 22.pantā paredzēto noteikumu neievērošanu var pārsūdzēt apgabaltiesā normatīvajos aktos noteiktajā kārtībā.\n(3) Konkurences padome var pieņemt lēmumu par vainīgās fiziskās personas (amatpersonas) saukšanu pie administratīvās atbildības, ja konstatē šā likuma 22.pantā noteikto prasību neievērošanu.\n(4) Par šā likuma 22.pantā noteikto prasību atkārtotu neievērošanu vainīgā fiziskā persona (amatpersona) tiek saukta pie kriminālatbildības."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par konkurenci un monopoldarbības ierobežošanu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 51.nr.; 1993, 16./17.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par konkurenci un monopoldarbības ierobežošanu \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 51.nr.; 1993, 16./17.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "pn2",
+      "title": "2. Dominējošā stāvokļa ļaunprātīga izmantošana, kas aizsākta pirms šā likuma stāšanās spēkā, bet ir aizliegta saskaņā ar šā likuma 17.pantu , izbeidzama sešu mēnešu laikā pēc šā likuma stāšanās spēkā.",
+      "content": "2. Dominējošā stāvokļa ļaunprātīga izmantošana, kas aizsākta pirms šā likuma stāšanās spēkā, bet ir aizliegta saskaņā ar šā likuma 17.pantu , izbeidzama sešu mēnešu laikā pēc šā likuma stāšanās spēkā."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "pn3",
+      "title": "3. Gada laikā no šā likuma spēkā stāšanās dienas vienošanās, lēmumi un saskaņota darbība, kas uzsākta pirms šā likuma spēkā stāšanās, bet ir aizliegta saskaņā ar šā likuma 15.panta pirmo daļu, izbeidzama vai grozāma tā, lai atbilstu 15.panta pirmajai daļai, vai arī par to ir jāziņo saskaņā ar 15.panta otro un trešo daļu.",
+      "content": "3. Gada laikā no šā likuma spēkā stāšanās dienas vienošanās, lēmumi un saskaņota darbība, kas uzsākta pirms šā likuma spēkā stāšanās, bet ir aizliegta saskaņā ar šā likuma 15.panta pirmo daļu, izbeidzama vai grozāma tā, lai atbilstu 15.panta pirmajai daļai, vai arī par to ir jāziņo saskaņā ar 15.panta otro un trešo daļu."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "pn4",
+      "title": "4. Ja lēmumu par uzņēmumu (uzņēmējsabiedrību) apvienošanos tirgus dalībnieki pieņēmuši līdz šā likuma spēkā stāšanās dienai, uzņēmumu (uzņēmējsabiedrību) apvienošanos var veikt saskaņā ar likumu \" Par konkurenci un monopoldarbības ierobežošanu \".",
+      "content": "4. Ja lēmumu par uzņēmumu (uzņēmējsabiedrību) apvienošanos tirgus dalībnieki pieņēmuši līdz šā likuma spēkā stāšanās dienai, uzņēmumu (uzņēmējsabiedrību) apvienošanos var veikt saskaņā ar likumu \" Par konkurenci un monopoldarbības ierobežošanu \"."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "pn5",
+      "title": "5. Pēc pirmajiem diviem Konkurences padomē nostrādātajiem gadiem četros nākamajos gados izlozes kārtībā atbrīvo pa vienam padomes loceklim, bet turpmākajos gados - tos, kuri ir bijuši padomes locekļi piecus gadus.",
+      "content": "5. Pēc pirmajiem diviem Konkurences padomē nostrādātajiem gadiem četros nākamajos gados izlozes kārtībā atbrīvo pa vienam padomes loceklim, bet turpmākajos gados - tos, kuri ir bijuši padomes locekļi piecus gadus."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "V nodaļa. Negodīga konkurence (Nodaļas nosaukums 20.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "pn6",
+      "title": "6. Ministru kabinets līdz 1997.gada 1.decembrim izstrādā noteikumus, kas saistīti ar šā likuma izpildi un kontroli.",
+      "content": "6. Ministru kabinets līdz 1997.gada 1.decembrim izstrādā noteikumus, kas saistīti ar šā likuma izpildi un kontroli."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dabīgais monopols",
+      "definition": "tirgus dalībnieka ekonomisks (saimniecisks) izņēmuma stāvoklis konkrētā tirgū, kurā konkurences attīstības iespējas ir ierobežotas objektīvu apstākļu dēļ",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dominējošais stāvoklis",
+      "definition": "tirgus dalībnieka ekonomisks (saimniecisks) izņēmuma stāvoklis, ja tā tirgus daļa konkrētajā tirgū pārsniedz 40 procentus un tam ir iespēja ievērojami kavēt, ierobežot vai deformēt konkurenci konkrētajā tirgū, darbojoties pilnīgi vai daļēji neatkarīgi no konkurentiem, klientiem vai pircējiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izšķiroša ietekme",
+      "definition": "tāda ietekme, kad tirgus dalībniekam saskaņā ar likumu nākas iekļaut citu tirgus dalībnieku savos gada pārskatos vai tirgus dalībniekam (dalībniekiem) tieši vai netieši ir:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konkrētais ģeogrāfiskais tirgus",
+      "definition": "ģeogrāfiskā teritorija, kurā konkurences apstākļi konkrētās preces tirgū ir vienādi visiem tirgus dalībniekiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konkrētais tirgus",
+      "definition": "konkrētās preces tirgus, kas izvērtēts saistībā ar konkrēto ģeogrāfisko tirgu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konkrētās preces tirgus",
+      "definition": "noteiktas preces tirgus, kurā ietverts arī visu to preču kopums, kuras var aizstāt šo noteikto preci konkrētajā ģeogrāfiskajā tirgū, ņemot vērā pieprasījuma, piedāvājuma un aizstājamības faktorus, preču pazīmes un lietošanas īpašības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konkurence",
+      "definition": "ekonomiskā (saimnieciskā) sāncensība starp diviem vai vairākiem tirgus dalībniekiem, kas sacenšas vai atrodas tādos apstākļos, kuros tie var sacensties viena veida vai savstarpēji aizstājamu preču ražošanā vai realizācijā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konkurenti",
+      "definition": "divi vai vairāki tirgus dalībnieki, kas sacenšas vai atrodas tādos apstākļos, kuros tie var sacensties viena veida vai savstarpēji aizstājamu preču ražošanā vai realizācijā konkrētajā tirgū",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "monopolstāvoklis",
+      "definition": "tirgus dalībnieka ekonomisks (saimniecisks) izņēmuma stāvoklis konkrētā tirgū, kurā tam nav konkurentu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "prece",
+      "definition": "jebkura ķermeniska vai bezķermeniska lieta vai pakalpojums, kas apmierina kādu vajadzību un kam var noteikt vērtību, to pērkot vai pārdodot tirgū",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tirgus daļa",
+      "definition": "to preču daļa, kuras konkrētajā tirgū piedāvā tirgus dalībnieks, attiecībā pret visu šajā konkrētajā tirgū piedāvāto preču apjomu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tirgus dalībnieks",
+      "definition": "jebkura fiziskā vai juridiskā persona, kura veic vai gatavojas veikt uzņēmējdarbību, neatkarīgi no šīs darbības formas. Ja tirgus dalībniekam vai vairākiem tirgus dalībniekiem kopā ir izšķiroša ietekme uz vienu vai vairākiem citiem tirgus dalībniekiem, tad visi tirgus dalībnieki šā likuma izpratnē tiek uzskatīti par vienu tirgus dalībnieku",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vienošanās",
+      "definition": "jebkādā formā noslēgts divu vai vairāku tirgus dalībnieku līgums vai saskaņota darbība, kurā tirgus dalībnieki piedalās kā arī lēmums, ko pieņem jebkādā formā reģistrēta dažādu tirgus dalībnieku apvienība (asociācija, savienība u.tml.) vai tās pilnvarota amatpersona.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

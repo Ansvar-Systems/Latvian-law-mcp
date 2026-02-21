@@ -1,0 +1,580 @@
+{
+  "id": "lv-law-48896",
+  "type": "statute",
+  "title": "Par apdrošināšanas līgumu",
+  "short_name": "TA-48896",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/48896-par-apdrosinasanas-ligumu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) apdrošinājuma summa — apdrošināšanas līgumā noteikta naudas summa, par kuru apdrošināšanā pret zaudējumiem un bojājumiem ir apdrošinātas mantiskas vērtības vai intereses, personu apdrošināšanā ir apdrošināta personas dzīvība, veselība vai fiziskais stāvoklis un civiltiesiskās atbildības apdrošināšanā — atbildības limits;\n2) apdrošināmā interese — interese neciest zaudējumus, iestājoties apdrošinātajam riskam;\n3) apdrošināšanas atlīdzība — apdrošinājuma summa, tās daļa vai cita par apdrošināšanas gadījumu izmaksājamā summa vai nodrošināmie pakalpojumi atbilstoši apdrošināšanas līgumam;\n4) apdrošināšanas gadījums — ar apdrošināto risku cēloņsakarīgi saistīts notikums, kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa atbilstoši apdrošināšanas līgumam;\n5) apdrošināšanas līgums — apdrošinātāja un apdrošinājuma ņēmēja vienošanās, saskaņā ar kuru apdrošinājuma ņēmējs uzņemas saistības maksāt apdrošināšanas prēmiju līgumā noteiktajā veidā, termiņos un apmērā, kā arī izpildīt citas līgumā noteiktās saistības un apdrošinātājs uzņemas saistības, iestājoties apdrošināšanas gadījumam, izmaksāt līgumā norādītajai personai apdrošināšanas atlīdzību atbilstoši apdrošināšanas līgumam;\n6) apdrošinājuma ņēmējs — juridiskā vai fiziskā persona, kas noslēdz apdrošināšanas līgumu savā vai citas personas labā;\n7) apdrošināšanas objekts:\na) apdrošināšanā pret zaudējumiem un bojājumiem — mantiskas vērtības vai intereses ,\nb) civiltiesiskās atbildības apdrošināšanā — personas civiltiesiskā atbildība,\nc) personu apdrošināšanā — personas dzīvība, veselība vai fiziskais stāvoklis;\n8) apdrošināšanas pieteikums — apdrošinātāja noteikts dokuments, kuru apdrošinājuma ņēmējs iesniedz apdrošinātājam, lai informētu to par apdrošināšanas objektu, faktiem un apstākļiem, kas nepieciešami apdrošinātā riska novērtēšanai;\n9) apdrošināšanas polise — dokuments, kas apliecina apdrošināšanas līguma noslēgšanu un ietver apdrošināšanas līguma noteikumus, kā arī visus šā līguma grozījumus un papildinājumus, par kuriem apdrošinātājs un apdrošinājuma ņēmējs ir vienojušies apdrošināšanas līguma darbības laikā;\n10) apdrošināšana pret zaudējumiem un bojājumiem — apdrošināšana, kad tiek apdrošinātas mantiskas vērtības vai intereses un izmaksājamās apdrošināšanas atlīdzības apmērs ir atkarīgs no apdrošinātajam radušos zaudējumu apmēra;\n11) apdrošināšanas prēmija — apdrošināšanas līgumā noteiktais maksājums par apdrošināšanu;\n12) apdrošinātais — juridiskā vai fiziskā persona, kurai ir apdrošināmā interese un kuras labā ir noslēgts apdrošināšanas līgums:\na) apdrošināšanā pret zaudējumiem un bojājumiem — apdrošināšanas līgumā norādītā persona, kurai paredzēta apdrošināšanas atlīdzības izmaksa zaudējumu un bojājumu gadījumos,\nb) civiltiesiskās atbildības apdrošināšanā — apdrošināšanas līgumā norādītā persona, kuras civiltiesiskā atbildība ir apdrošināta,\nc) personu apdrošināšanā — apdrošināšanas līgumā norādītā fiziskā persona, par kuras dzīvību, veselību vai fizisko stāvokli ir noslēgts apdrošināšanas līgums;\n13) apdrošinātais risks — apdrošināšanas līgumā paredzētais no apdrošinātā gribas neatkarīgs notikums, kura iestāšanās iespējama nākotnē;\n14) (izslēgts ar 24.10.2002 . likumu) ;\n15) atbildības limits — civiltiesiskās atbildības apdrošināšanā izmaksājamā maksimālā naudas summa;\n16) civiltiesiskās atbildības apdrošināšana — apdrošināšana, kad tiek apdrošināta personas civiltiesiskā atbildība par tās darbības vai bezdarbības rezultātā radītajiem zaudējumiem trešajai personai;\n17) gratifikācijas (bonusi) — dzīvības apdrošināšanā apdrošinājuma summas palielināšana un apdrošināšanas prēmijas samazināšana atkarībā no apdrošināšanas sabiedrības finansu darbības rezultātiem;\n18) labuma guvējs — personu apdrošināšanā persona, kurai izmaksājama apdrošināšanas atlīdzība atbilstoši apdrošināšanas līgumam;\n19) kopapdrošināšana — vairāku apdrošinātāju vienošanās apdrošināt vienu un to pašu apdrošināšanas objektu viena apdrošināšanas līguma ietvaros;\n20) personu apdrošināšana — personas dzīvības, veselības vai fiziskā stāvokļa apdrošināšana;\n21) trešā persona — civiltiesiskās atbildības apdrošināšanā persona, kurai paredzēta apdrošināšanas atlīdzības izmaksa;\n22) atpirkuma summa — naudas summa, kuras lielums vai aprēķināšanas kārtība noteikta dzīvības apdrošināšanas līgumā un kuru izmaksā apdrošinājuma ņēmējam, ja pēc viņa iniciatīvas apdrošināšanas līgums tiek izbeigts pirms termiņa;\n23) apdrošinātāja piedāvājums — apdrošinātāja piedāvājums noslēgt vai grozīt apdrošināšanas līgumu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma darbības joma",
+      "content": "(1) Šis likums attiecas uz visiem apdrošināšanas līgumiem, ja likumā nav noteikts citādi. Šis likums neattiecas uz valsts sociālo apdrošināšanu, kā arī uz pārapdrošināšanu.\n(2) Slēdzot apdrošināšanas līgumu, puses ir tiesīgas vienoties par jebkuras valsts attiecīgo likumu piemērošanu no apdrošināšanas līguma izrietošo līgumisko attiecību regulēšanai, ja šajā likumā nav noteikts citādi.\n(3) Noslēgtajā apdrošināšanas līgumā skaidri un nepārprotami norādāms likums, kuru puses piemēros no apdrošināšanas līguma izrietošo līgumisko attiecību regulēšanai.\n(4) Ja noslēgtajā apdrošināšanas līgumā nav norādīts likums, kuru puses piemēros no apdrošināšanas līguma izrietošo līgumisko attiecību regulēšanai, to regulēšanai piemēro šo likumu.\n(5) Ja ar apdrošināto risku saistītais apdrošināšanas objekts atrodas Eiropas Savienības dalībvalstī vai Eiropas ekonomiskās telpas valstī, apdrošināšanas līgumam jāatbilst starptautisko privāto tiesību noteikumiem un puses savu līgumisko attiecību regulēšanai ir tiesīgas piemērot:\n1) tās valsts likumu, kurā atrodas ar apdrošināto risku saistītais apdrošināšanas objekts;\n2) tās valsts likumu, kurā atrodas ar apdrošināto risku saistītais apdrošināšanas objekts, ja apdrošinājuma ņēmēja pastāvīgā atrašanās vieta vai tā darbības vadības vieta ir tajā pašā valstī;\n3) pēc apdrošināšanas līguma pušu izvēles — tās valsts likumu, kurā atrodas ar apdrošināto risku saistītais apdrošināšanas objekts, vai tās valsts likumu, kurā ir apdrošinājuma ņēmēja pastāvīgā atrašanās vieta vai tā darbības vadības vieta (ja apdrošinājuma ņēmēja pastāvīgā atrašanās vieta vai tā darbības vadības vieta ir citā valstī);\n4) pēc apdrošināšanas līguma pušu izvēles — tās valsts likumu, kurā atrodas ar apdrošināto risku saistītais apdrošināšanas objekts, vai tās valsts likumu, kurā ir apdrošinājuma ņēmēja pastāvīgā atrašanās vieta vai tā profesionālās darbības (prakses) vieta [ja apdrošinājuma ņēmējs darbojas divās vai vairākās valstīs vai ir pašnodarbinātā persona un apdrošināšanas līgums ietver divus vai vairākus ar apdrošinājuma ņēmēja darbību vai profesiju (nodarbošanos) saistītus apdrošinātos riskus un ar apdrošināto risku saistītie apdrošināšanas objekti atrodas divās vai vairākās valstīs];\n5) tās valsts likumu, kuras pilsonis (pavalstnieks) ir apdrošinājuma ņēmējs (ja apdrošinājuma ņēmējs ir fiziskā persona, kura pastāvīgi uzturas ārvalstīs);\n6) jebkuras Eiropas Savienības dalībvalsts vai Eiropas ekonomiskās telpas valsts likumu, ja apdrošināšanas līgums ietver minētajā likumā noteiktos lielos riskus.\n(5 1 ) Dzīvības apdrošināšanas līgumiem piemēro tās valsts likumu, kurā saskaņā ar dzīvības apdrošināšanas līguma noteikumiem tiks pildītas apdrošinātāja saistības.\n(5 2 ) Ja dzīvības apdrošināšanas līgumā apdrošinājuma ņēmējs ir fiziskā persona un viņa pastāvīgā dzīvesvieta ir valstī, kuras pilsonis (pavalstnieks) viņš nav, puses var izvēlēties tās valsts likumu, kuras pilsonis (pavalstnieks) ir apdrošinājuma ņēmējs.\n(6) Obligātās apdrošināšanas gadījumā apdrošināšanas līgumā ietver tās valsts normatīvajos aktos attiecīgajam obligātās apdrošināšanas veidam noteiktās prasības, kurā šī apdrošināšana ir obligāta.\n(7) Apdrošinātāja pienākums ir pirms apdrošināšanas līguma noslēgšanas informēt apdrošinājuma ņēmēju par likumu, kuru piemēros no apdrošināšanas līguma izrietošo līgumisko attiecību regulēšanai.\n(8) Šajā likumā apdrošinātājam izvirzītās prasības attiecināmas arī uz tiem dalībvalstu apdrošinātājiem, kuri, ievērojot pakalpojumu sniegšanas brīvības principu, Latvijas Republikā sniedz apdrošināšanas pakalpojumus, neatverot filiāli."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Strīdu izšķiršanas kārtība",
+      "content": "(1) Ar apdrošināšanas līgumu saistītos strīdus izšķir likumos un citos normatīvajos aktos noteiktajā kārtībā.\n(2) Pusēm vienojoties, strīdus var izšķirt šķīrējtiesa.\n(3) Apdrošinātāja pienākums ir pirms apdrošināšanas līguma noslēgšanas informēt apdrošinājuma ņēmēju — fizisko personu — par tādu sūdzību un strīdu izskatīšanas kārtību ārpustiesas ceļā, kuri izriet no apdrošināšanas līguma."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "4",
+      "title": "Apdrošināšanas pieteikums un apdrošinātāja piedāvājums",
+      "content": "(1) Apdrošināšanas līguma noslēgšanai apdrošinātājs ir tiesīgs pieprasīt no apdrošinājuma ņēmēja apdrošināšanas pieteikumu.\n(2) Apdrošināšanas pieteikums neuzliek par pienākumu nedz apdrošinātājam noslēgt apdrošināšanas līgumu vai uzņemties saistības segt zaudējumus, ko ir cietis apdrošināšanas pieteikuma iesniedzējs, nedz apdrošināšanas pieteikuma iesniedzējam uzņemties kādas saistības.\n(3) Ja apdrošinātājs 15 dienu laikā no apdrošināšanas pieteikuma saņemšanas dienas nav rakstveidā paziņojis apdrošināšanas pieteikuma iesniedzējam apdrošināšanas noteikumus, saskaņā ar kuriem apdrošinātājs ir gatavs noslēgt apdrošināšanas līgumu, vai apdrošinātājs nav paziņojis par nepieciešamību veikt pirmsapdrošināšanas pārbaudi, tiek uzskatīts, ka apdrošinātājs ir atteicies noslēgt apdrošināšanas līgumu.\n(4) Ja apdrošinātājs nosaka noteiktu termiņu atbildei uz savu piedāvājumu, tam nav tiesību atteikties no piedāvājuma līdz noteiktā termiņa beigām. Ja termiņš nav noteikts, apdrošinātājam ir tiesības ņemt atpakaļ savu piedāvājumu, ja otra puse 30 dienu laikā nav paziņojusi par piedāvājuma pieņemšanu vai noraidīšanu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "5",
+      "title": "Sākotnējā informācija par apdrošināmo risku",
+      "content": "(1) Noslēdzot apdrošināšanas līgumu, apdrošinājuma ņēmēja un apdrošinātā pienākums ir sniegt visu apdrošinātāja pieprasīto informāciju par apstākļiem, kas nepieciešama apdrošinātājam apdrošinātā riska iestāšanās iespējamības novērtēšanai un ir svarīga, slēdzot apdrošināšanas līgumu.\n(2) Apdrošinājuma ņēmējs un apdrošinātais ir atbildīgi par sniegtās informācijas patiesīgumu.\n(3) Ja apdrošinājuma ņēmējs vai apdrošinātais pirms apdrošināšanas līguma noslēgšanas nav rakstveidā iesniedzis informāciju, kuru rakstveidā pieprasījis apdrošinātājs, un apdrošinātājs ir noslēdzis apdrošināšanas līgumu, tas nevar izmantot informācijas nesniegšanas faktu kā apdrošināšanas līguma izbeigšanas vai tā noteikumu grozīšanas iemeslu, izņemot gadījumus, kad informācija nav iesniegta ar ļaunu nolūku vai rupjas neuzmanības dēļ.\n(4) Apdrošinājuma ņēmēja un apdrošinātā pienākums ir paziņot apdrošinātājam par citiem tam zināmiem spēkā esošiem apdrošināšanas līgumiem, kas attiecas uz to pašu apdrošināšanas objektu."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "6",
+      "title": "Apdrošināšanas līguma noteikumi",
+      "content": "(1) Apdrošināšanas līguma noteikumiem jābūt skaidriem un saprotamiem.\n(2) Apdrošināšanas līgumā norāda līguma noslēgšanas vietu un datumu, līguma spēkā stāšanās datumu un darbības termiņu, apdrošinātāja juridisko formu, nosaukumu un juridisko adresi (ja apdrošinātājs ir ārvalsts apdrošinātāja filiāle, norāda arī ārvalsts apdrošinātāja juridisko adresi), apdrošināto (ja tas vienlaikus nav arī apdrošinājuma ņēmējs) un apdrošinājuma ņēmēju, apdrošināto risku, apdrošināšanas objektu, apdrošināšanas summu, apdrošināšanas prēmiju, tās maksājuma termiņus un kārtību, apdrošināšanas atlīdzības saņēmēju, termiņu, līdz kuram jāpieņem lēmums par apdrošināšanas atlīdzības izmaksu vai atteikumu to izmaksāt, līguma izbeigšanas noteikumus, pušu pienākumus un atbildību par līguma noteikumu neievērošanu, kā arī strīdu izšķiršanas kārtību.\n(3) Apdrošināšanas līgumā var ietvert arī citus nosacījumus, kas atbilst šim likumam un Civillikumā paredzētajiem vispārīgiem darījuma noteikumiem, kā arī līguma raksturīgos noteikumus, kuri skar apdrošinājuma ņēmēja vai apdrošinātā intereses.\n(4) Apdrošinātājs apdrošināšanas līguma darbības laikā nekavējoties informē apdrošinājuma ņēmēju un apdrošināto (ja tas vienlaikus nav arī apdrošinājuma ņēmējs) par izmaiņām apdrošinātāja juridiskajā formā, nosaukumā, kontakttelefonu, kontaktadrešu un kontaktpersonu norādēs un citā līdzīgā informācijā, kas ir nepieciešama apdrošinājuma ņēmēja (apdrošinātā) līgumisko saistību izpildei."
+    },
+    {
+      "provision_ref": "Art. 6.1",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "6.1",
+      "title": "6. 1 pants. Apdrošināšanas līguma valoda",
+      "content": "Apdrošināšanas līgums tiek sagatavots un noslēgts valsts valodā. Ja apdrošinājuma ņēmējs vēlas apdrošināšanas līgumu noslēgt svešvalodā, šādam apdrošinājuma ņēmēja gribas izteikumam jābūt nepārprotami norādītam apdrošināšanas līgumā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "7",
+      "title": "Apdrošināšanas līguma noslēgšana",
+      "content": "(1) Apdrošināšanas līgums uzskatāms par noslēgtu tikai tad, kad apdrošinātājs un apdrošinājuma ņēmējs vienojušies par šā likuma 6.panta otrajā daļā un 55.panta pirmajā daļā minētajiem apdrošināšanas līguma noteikumiem.\n(2) Apdrošinājuma ņēmējs izsaka savu piekrišanu apdrošināšanas līguma noslēgšanai atbilstoši apdrošinātāja piedāvājumam, samaksājot apdrošināšanas prēmiju apdrošinātāja piedāvājumā noteiktajā veidā, termiņā un apmērā, vai arī izsaka savu piekrišanu apdrošināšanas līguma noslēgšanai citā apdrošinātāja piedāvājumā noteiktajā veidā. Strīda gadījumā apdrošinātājam ir pienākums pierādīt apdrošināšanas līguma noslēgšanas vai nenoslēgšanas faktu."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "7.1",
+      "title": "7. 1 pants. Apdrošināšanas līguma noslēgšana, izmantojot distances saziņas līdzekli",
+      "content": "(1) Ja apdrošināšanas līgumu noslēdz, izmantojot distances saziņas līdzekli, apdrošinātājs pirms apdrošināšanas līguma noslēgšanas paziņo apdrošinājuma ņēmējam apdrošināšanas līguma noteikumus rakstveidā vai ar cita apdrošinājuma ņēmējam pieejama pastāvīga informācijas nesēja starpniecību.\n(2) Ja apdrošināšanas līgums noslēgts pēc apdrošinājuma ņēmēja pieprasījuma, izmantojot distances saziņas līdzekli, ar kuru nebija iespējams nosūtīt apdrošināšanas līguma noteikumus rakstveidā, vai ar cita apdrošinājuma ņēmējam pieejama pastāvīga informācijas nesēja starpniecību, apdrošinātājs apdrošināšanas līguma noteikumus nosūta apdrošinājuma ņēmējam ne vēlāk kā nākamajā darbdienā pēc šā līguma noslēgšanas."
+    },
+    {
+      "provision_ref": "Art. 7.2",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "7.2",
+      "title": "7. 2 pants. Apdrošināšanas līguma spēkā esamība atkarībā no apdrošināšanas prēmijas samaksas",
+      "content": "(1) Ja puses vienojas, ka apdrošināšanas prēmija vai tās pirmā daļa tiek samaksāta pēc apdrošināšanas līguma spēkā stāšanās, tad pēc apdrošināšanas prēmijas vai tās pirmās daļas samaksas apdrošināšanas līgumā noteiktajā termiņā apdrošināšanas līgums ir spēkā ar tajā norādīto spēkā stāšanās dienu. Ja apdrošināšanas prēmija vai tās pirmā daļa nav samaksāta līdz apdrošināšanas līgumā noteiktajam termiņam, uzskatāms, ka apdrošināšanas līgums nav stājies spēkā, ievērojot šā panta otrās, trešās un ceturtās daļas noteikumus.\n(2) Ja apdrošināšanas prēmija vai tās pirmā daļa ir samaksāta pēc apdrošināšanas līgumā noteiktā termiņa, apdrošinātājam ir tiesības atmaksāt apdrošinājuma ņēmējam iemaksāto apdrošināšanas prēmiju vai tās pirmo daļu. Ja apdrošinātājs pieņem lēmumu par apdrošināšanas prēmijas vai tās pirmās daļas atmaksu, apdrošinātājam ir pienākums 10 darbdienu laikā no nokavētās apdrošināšanas prēmijas vai tās pirmās daļas samaksas dienas atmaksāt apdrošinājuma ņēmējam samaksāto apdrošināšanas prēmiju vai tās pirmo daļu vai nosūtīt apdrošinājuma ņēmējam lūgumu paziņot apdrošinātājam, kādā veidā apdrošinājuma ņēmējs vēlas saņemt apdrošināšanas prēmijas vai tās pirmās daļas atmaksu, ja apdrošinātājam nav zināms veids, kādā apdrošinājuma ņēmējs var saņemt apdrošināšanas prēmijas vai tās pirmās daļas atmaksu.\n(3) Ja apdrošinātājs šā panta otrajā daļā noteiktajā termiņā neatmaksā apdrošinājuma ņēmējam samaksāto apdrošināšanas prēmiju vai tās pirmo daļu vai nenosūta apdrošinājuma ņēmējam lūgumu paziņot apdrošinātājam, kādā veidā apdrošinājuma ņēmējs vēlas saņemt apdrošināšanas prēmijas vai tās pirmās daļas atmaksu, uzskatāms, ka apdrošinātājs ir piekritis apdrošināšanas prēmijas vai tās pirmās daļas nokavētai samaksai un apdrošināšanas līgums ir spēkā ar tajā norādīto spēkā stāšanās dienu.\n(4) Ja apdrošināšanas prēmija vai tās pirmā daļa ir samaksāta pēc apdrošināšanas līgumā noteiktā prēmijas vai tās pir­mās daļas samaksas termiņa un līdz apdrošināšanas prēmijas vai tās pirmās daļas samaksas dienai ir iestājies apdrošinātais risks, uzskatāms, ka apdrošināšanas līgums nav stājies spēkā un apdrošinātājam ir pienākums paziņot apdrošinājuma ņēmējam par šā līguma spēkā neesību un atmaksāt samaksāto apdrošināšanas prēmiju vai tās pirmo daļu. Šajā gadījumā apdrošinātājam ir pienākums 10 darbdienu laikā pēc nokavētās apdrošināšanas prēmijas vai tās pirmās daļas samaksas nosūtīt apdrošinājuma ņēmējam paziņojumu par apdrošināšanas līguma spēkā neesību un atmaksāt tam samaksāto apdrošināšanas prēmiju vai tās pirmo daļu vai nosūtīt apdrošinājuma ņēmējam paziņojumu par apdrošināšanas līguma spēkā neesību, lūdzot paziņot, kādā veidā apdrošinājuma ņēmējs vēlas saņemt apdrošināšanas prēmijas vai tās pirmās daļas atmaksu, ja apdrošinātājam nav zināms veids, kādā apdrošinājuma ņēmējs var saņemt apdrošināšanas prēmijas vai tās pirmās daļas atmaksu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "8",
+      "title": "Ļauns nolūks vai rupja neuzmanība",
+      "content": "Ja apdrošinājuma ņēmēja vai apdrošinātā ļauns nolūks ( Civillikuma 1641.pants ) vai rupja neuzmanība ( Civillikuma 1645.pants ) ir bijusi par iemeslu apdrošinātāja maldināšanai par apstākļiem, kas tam jāzina apdrošinātā riska iestāšanās iespējamības novērtēšanai, apdrošināšanas līgumu atzīst par spēkā neesošu no tā noslēgšanas brīža. Iemaksāto apdrošināšanas prēmiju apdrošinātājs neatmaksā."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "9",
+      "title": "Viegla neuzmanība",
+      "content": "(1) Ja apdrošinājuma ņēmēja vai apdrošinātā viegla neuzmanība ( Civillikuma 1646.pants ) ir bijusi par iemeslu apdrošinātāja maldināšanai par apstākļiem, kas tam jāzina apdrošinātā riska iestāšanās iespējamības novērtēšanai, apdrošināšanas līgums ir spēkā.\n(2) Apdrošinātājs 15 dienu laikā no dienas, kad tas uzzināja par apdrošinātā riska iestāšanās iespējamības faktiskajiem apstākļiem, rakstveidā piedāvā apdrošinājuma ņēmējam izdarīt grozījumus apdrošināšanas līguma noteikumos. Grozījumi apdrošināšanas līguma noteikumos stājas spēkā pēc pušu vienošanās.\n(3) Ja apdrošinājuma ņēmējs ir noraidījis apdrošinātāja piedāvājumu izdarīt grozījumus apdrošināšanas līguma noteikumos vai ir pagājušas 15 dienas no apdrošinātāja piedāvājuma nosūtīšanas dienas, apdrošinātājs var vienpusēji atkāpties no apdrošināšanas līguma. Šīs tiesības apdrošinātājs var izmantot 15 dienu laikā no noraidījuma saņemšanas dienas vai piedāvājuma termiņa beigām. Šajā gadījumā apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līgumu noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(4) Ja apdrošinātājs pierāda, ka, zinādams par apdrošinātā riska iestāšanās iespējamības faktiskajiem apstākļiem, tas nebūtu noslēdzis apdrošināšanas līgumu, apdrošinātājs var izbeigt apdrošināšanas līgumu, nosūtot par to paziņojumu 15 dienu laikā no dienas, kad tas uzzināja par šiem apstākļiem. Apdrošināšanas līguma izbeigšanas gadījumā apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(5) Ja apdrošinātājs nav nedz izbeidzis apdrošināšanas līgumu, nedz arī piedāvājis apdrošinājuma ņēmējam izdarīt grozījumus apdrošināšanas līguma noteikumos likumā paredzētajos termiņos, apdrošināšanas līgums paliek spēkā un apdrošinātājs turpmāk nevar izmantot apdrošinātā riska iestāšanās iespējamības faktisko apstākļu nepaziņošanas faktu kā apdrošināšanas līguma izbeigšanas vai tā noteikumu grozīšanas iemeslu.\n(6) Ja apdrošinājuma ņēmējs ir pieļāvis vieglu neuzmanību un apdrošināšanas gadījums notiek, pirms stājas spēkā apdrošināšanas līguma izbeigšana vai apdrošināšanas līguma noteikumu grozīšana, apdrošinātāja pienākums ir izmaksāt apdrošināšanas atlīdzību tādā proporcijā, kāda ir starp iemaksāto apdrošināšanas prēmiju un to apdrošināšanas prēmiju, kura apdrošinājuma ņēmējam būtu jāmaksā, ja tas būtu paziņojis par apdrošinātā riska iestāšanās iespējamības faktiskajiem apstākļiem.\n(7) Ja apdrošinātājs pierāda, ka tas nekādā gadījumā nebūtu noslēdzis apdrošināšanas līgumu, ja būtu zinājis par apdrošinātā riska iestāšanās iespējamības faktiskajiem apstākļiem, kuri atklājušies, iestājoties apdrošināšanas gadījumam, apdrošināšanas atlīdzība nedrīkst pārsniegt iemaksāto apdrošināšanas prēmiju.\n(8) Ja pēc apdrošināšanas līguma noslēgšanas atklājas apstākļi, kas varēja ietekmēt apdrošināšanas līguma noslēgšanu un nebija zināmi nevienai no pusēm, piemērojams šā likuma 15. un 16.pants ."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "10",
+      "title": "Apdrošināmās intereses neesamība",
+      "content": "(1) Ja laikā, kad stājas spēkā apdrošināšanas līgums, apdrošināmā interese nepastāv, apdrošināšanas līgums nav spēkā no tā noslēgšanas brīža.\n(2) Ja apdrošināšanas līgums noslēgts bez apdrošināmās intereses ar apdrošinājuma ņēmēja ļaunu nolūku vai tā rupjas neuzmanības dēļ, apdrošinājuma ņēmēja iemaksāto apdrošināšanas prēmiju apdrošinātājs neatmaksā.\n(3) Pārējos gadījumos apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(4) Ja apdrošināmā interese pārstāj pastāvēt apdrošināšanas līguma darbības laikā, apdrošināšanas līgums nav spēkā no dienas, kad pārstāj pastāvēt apdrošināmā interese. Par apdrošināmās intereses neesamību apdrošinājuma ņēmējs rakstveidā paziņo apdrošinātājam. Apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(5) Ja, iestājoties apdrošināšanas gadījumam, apdrošināmā interese nepastāv, apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "11",
+      "title": "Apdrošinātā riska iestāšanās neiespējamība",
+      "content": "(1) Ja laikā, kad stājas spēkā apdrošināšanas līgums, apdrošinātā riska iestāšanās iespējamība nepastāv vai apdrošinātais risks jau ir iestājies, apdrošināšanas līgums nav spēkā no tā noslēgšanas brīža.\n(2) Ja šā panta pirmajā daļā minētajos gadījumos apdrošinājuma ņēmējs ir slēdzis apdrošināšanas līgumu ar ļaunu nolūku vai, apdrošināšanas līgumu slēdzot, ir pieļāvis rupju neuzmanību, apdrošinātājs neatmaksā apdrošinājuma ņēmēja iemaksāto apdrošināšanas prēmiju.\n(3) Pārējos gadījumos apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(4) Ja apdrošinātā riska iestāšanās iespējamība pārstāj pastāvēt apdrošināšanas līguma darbības laikā, apdrošināšanas līgums nav spēkā no dienas, kad apdrošinātā riska iestāšanās iespējamība pārstājusi pastāvēt. Apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "12",
+      "title": "Izņēmumi",
+      "content": "(1) Apdrošinātājs nav atbildīgs par nodarītajiem zaudējumiem, kuri radušies karadarbības, masu nemieru, radioaktīvās saindēšanās, radioaktīvā piesārņojuma, dabas katastrofu un citu līdzīgu apdrošināšanas līgumā noteikto gadījumu rezultātā, ja apdrošināšanas līgumā nav paredzēts citādi.\n(2) Nav apdrošināmi zaudējumi, kuri rodas nodiluma, nolietojuma vai citu līdzīgu procesu dēļ.\n(3) Apdrošināšanas līgumslēdzējas puses apdrošināšanas līgumā var paredzēt citus izņēmuma gadījumus, kuru dēļ radušos zaudējumus apdrošinātājs nesedz.\n(4) Apdrošinātāja pienākums ir pierādīt jebkurus apstākļus, kas to atbrīvo no apdrošināšanas līgumā minēto saistību izpildes izņēmuma gadījumā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Apdrošināšanas līguma noslēgšana",
+      "section": "13",
+      "title": "Apdrošināšanas polise",
+      "content": "(1) Apdrošinātājam ir pienākums izsniegt apdrošinājuma ņēmējam rakstveida apdrošināšanas polisi uzreiz pēc apdrošināšanas līguma noslēgšanas. Ja apdrošināšanas līgums tiek noslēgts, izmantojot distances saziņas līdzekli, rakstveida apdrošināšanas polises neesība neietekmē apdrošināšanas līguma spēkā esību.\n(2) Ja apdrošinājuma ņēmējs ir fiziskā persona un apdrošināšanas līgums noslēgts, izmantojot distances saziņas līdzekli, apdrošināšanas līguma darbības laikā apdrošinātājs izsniedz apdrošinājuma ņēmējam rakstveida apdrošināšanas polisi piecu darbdienu laikā pēc apdrošinājuma ņēmēja pieprasījuma saņemšanas. Pārējiem apdrošinājuma ņēmējiem apdrošinātājs izsniedz rakstveida apdrošināšanas polisi piecu darbdienu laikā pēc apdrošinājuma ņēmēja rakstveida pieprasījuma saņemšanas.\n(3) Ja uz apdrošināšanas polises nav pušu parakstu, tas neietekmē apdrošināšanas līguma spēkā esību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Apdrošinātā riska iestāšanās iespējamības palielināšanās un samazināšanās",
+      "section": "14",
+      "title": "Izmaiņas sākotnējā informācijā",
+      "content": "(1) Apdrošinātajam vai apdrošinājuma ņēmējam apdrošināšanas līguma darbības laikā, izņemot personas dzīvības un veselības apdrošināšanas gadījumu, atbilstoši šā likuma 5.pantā noteiktajam ir pienākums rakstveidā tiklīdz tas ir iespējams paziņot apdrošinātājam par visiem tam zināmajiem apstākļiem, kuri var ievērojami palielināt apdrošinātā riska iestāšanās iespējamību vai iespējamo zaudējumu apjomu.\n(2) Pirms apdrošināšanas līguma noslēgšanas un tā darbības laikā apdrošinātājam ir tiesības apdrošināšanas līgumā noteiktajā kārtībā pārbaudīt apdrošināto objektu, lai pārliecinātos, vai nav notikušas izmaiņas sākotnējā informācijā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Apdrošinātā riska iestāšanās iespējamības palielināšanās un samazināšanās",
+      "section": "15",
+      "title": "Apdrošinātā riska iestāšanās iespējamības samazināšanās",
+      "content": "(1) Apdrošinātājs groza apdrošināšanas līguma noteikumus vai pārslēdz apdrošināšanas līgumu, ja apdrošinātā riska iestāšanās iespējamība vai iespējamais zaudējuma lielums ir ievērojami samazinājies un ja to rakstveidā pieprasa apdrošinātais vai apdrošinājuma ņēmējs.\n(2) Ja apdrošināšanas līgumslēdzējas puses par jaunajiem apdrošināšanas līguma noteikumiem nevar vienoties 15 dienu laikā no dienas, kad iesniegts apdrošinātā vai apdrošinājuma ņēmēja rakstveida pieprasījums par apdrošināšanas līguma noteikumu grozīšanu sakarā ar apdrošinātā riska iestāšanās iespējamības samazināšanos, apdrošinājuma ņēmējs var izbeigt apdrošināšanas līgumu. Šajā gadījumā apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu līdz apdrošināšanas līguma izbeigšanās brīdim, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(3) Ja attaisnojošu iemeslu dēļ 15 dienu termiņu nav iespējams ievērot, apdrošinātājs var to pagarināt uz laiku, ne ilgāku par 30 dienām, sākot ar dienu, kad iesniegts apdrošinātā vai apdrošinājuma ņēmēja rakstveida pieprasījums par apdrošināšanas līguma noteikumu grozīšanu sakarā ar apdrošinātā riska iestāšanās iespējamības samazināšanos. Apdrošinātājs 15 dienu laikā, sākot ar dienu, kad iesniegts apdrošinātā vai apdrošinājuma ņēmēja rakstveida pieprasījums par apdrošināšanas līguma noteikumu grozīšanu sakarā ar apdrošinātā riska iestāšanās iespējamības samazināšanos, nosūta apdrošinātajam vai apdrošinājuma ņēmējam motivētu rakstveida paziņojumu par termiņa pagarināšanu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Apdrošinātā riska iestāšanās iespējamības palielināšanās un samazināšanās",
+      "section": "16",
+      "title": "Apdrošinātā riska iestāšanās iespējamības palielināšanās",
+      "content": "(1) Ja apdrošinātā riska iestāšanās iespējamība ir palielinājusies apdrošināšanas līguma darbības laikā un apdrošinātājs var pierādīt, ka tas, zinot par šo palielināšanos, apdrošināšanas līgumu būtu slēdzis ar citiem apdrošināšanas noteikumiem, apdrošinātājs, izņemot dzīvības un veselības apdrošināšanas gadījumu, 30 dienu laikā no dienas, kad tas uzzinājis par apdrošinātā riska iestāšanās iespējamības palielināšanos, var rakstveidā piedāvāt apdrošinājuma ņēmējam izdarīt apdrošināšanas līguma noteikumu grozījumus un norādīt to spēkā stāšanās dienu.\n(2) Ja apdrošinātā riska iestāšanās iespējamība ir palielinājusies apdrošināšanas līguma darbības laikā un apdrošinātājs var pierādīt, ka tas, zinot par šo palielināšanos, apdrošināšanas līgumu nebūtu slēdzis, apdrošinātājs, izņemot dzīvības un veselības apdrošināšanas gadījumu, var izbeigt apdrošināšanas līgumu, paziņojot par to rakstveidā apdrošinājuma ņēmējam. Šajā gadījumā apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(3) Ja apdrošinājuma ņēmējs ir noraidījis apdrošinātāja rakstveidā piedāvātos apdrošināšanas līguma noteikumu grozījumus vai ir beidzies apdrošinātāja piedāvājuma 15 dienu termiņš un piedāvājums nav akceptēts, apdrošinātājs var izbeigt apdrošināšanas līgumu. Šīs tiesības apdrošinātājs var izmantot 15 dienu laikā no noraidījuma saņemšanas dienas vai piedāvājuma termiņa izbeigšanās dienas. Šajā gadījumā apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu p a r apdrošināšanas līguma darbības izbeigušos periodu, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(4) Ja apdrošinātājs nav izbeidzis apdrošināšanas līgumu vai rakstveidā piedāvājis apdrošinājuma ņēmējam izdarīt grozījumus apdrošināšanas līguma noteikumos šajā likumā paredzētajos termiņos, tas nevar turpmāk izmantot apdrošinātā riska iestāšanās iespējamības palielināšanās apstākļu nepaziņošanas faktu kā apdrošināšanas līguma izbeigšanas vai tā noteikumu grozīšanas iemeslu.\n(5) Ja apdrošināšanas gadījums iestājas pirms apdrošināšanas līguma noteikumu grozīšanas vai pirms tā izbeigšanas un apdrošinātais vai apdrošinājuma ņēmējs ir izpildījis šā likuma 14.pantā noteiktās prasības, apdrošinātājs izmaksā apdrošināšanas līgumā paredzēto apdrošināšanas atlīdzību.\n(6) Ja apdrošināšanas gadījums iestājas pirms apdrošināšanas līguma noteikumu grozīšanas vai pirms tā izbeigšanas un apdrošinātais vai apdrošinājuma ņēmējs nav izpildījis šā likuma 14.pantā noteiktās prasības, apdrošinātājs izmaksā:\n1) apdrošināšanas līgumā paredzēto apdrošināšanas atlīdzību — ja apdrošinātais vai apdrošinājuma ņēmējs nav vainojams apdrošinātā riska iestāšanās iespējamības palielināšanās fakta nepaziņošanā;\n2) apdrošināšanas līgumā paredzēto apdrošināšanas atlīdzību tādā attiecībā, kāda ir starp iemaksāto apdrošināšanas prēmiju un apdrošināšanas prēmiju, kura apdrošinājuma ņēmējam būtu jāmaksā, ja tas būtu paziņojis par apdrošinātā riska iestāšanās iespējamības palielināšanās faktiskajiem apstākļiem — ja nepaziņošanas iemesls ir apdrošinājuma ņēmēja viegla neuzmanība.\n(7) Ja apdrošinātais vai apdrošinājuma ņēmējs ar ļaunu nolūku vai rupjas neuzmanības dēļ nav izpildījis šā likuma 14.pantā noteiktās prasības, apdrošinātājam ir tiesības neizmaksāt apdrošināšanas atlīdzību. Šajā gadījumā apdrošinātājs var izbeigt apdrošināšanas līgumu un neatmaksāt apdrošinājuma ņēmēja iemaksāto apdrošināšanas prēmiju.\n(8) Ja apdrošinātais vai apdrošinājuma ņēmējs ar ļaunu nolūku vai rupjas neuzmanības dēļ ir veicis darbības vai pieļāvis bezdarbību, kas palielina apdrošinātā riska iestāšanās iespējamību, apdrošinātājam ir tiesības izbeigt apdrošināšanas līgumu un neatmaksāt iemaksāto apdrošināšanas prēmiju."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "17",
+      "title": "Apdrošinājuma ņēmēja un apdrošinātā savstarpējie pienākumi",
+      "content": "(1) Apdrošinājuma ņēmēja un apdrošinātā savstarpējie pienākumi, ja apdrošinājuma ņēmējs nav vienlaikus arī apdrošinātais, nosakāmi atbilstoši šim likumam un apdrošināšanas līgumam.\n(2) Apdrošinājuma ņēmēja pienākums ir informēt apdrošināto par to, ka viņš tiek apdrošināts.\n(3) Apdrošinātajam ir tiesības pieprasīt no apdrošinājuma ņēmēja informāciju par apdrošināšanas līgumu, un apdrošinājuma ņēmējs nav tiesīgs atteikt šādas informācijas sniegšanu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "18",
+      "title": "Apdrošināšanas prēmijas samaksa",
+      "content": "(1) Apdrošinājuma ņēmējam ir pienākums samaksāt apdrošināšanas prēmiju apdrošināšanas līgumā noteiktajā veidā, termiņos un apmērā.\n(2) Apdrošinātājs ir tiesīgs izbeigt apdrošināšanas līgumu šā likuma 19.pantā noteiktajā kārtībā, ja apdrošinājuma ņēmējs nav samaksājis apdrošināšanas prēmiju atbilstoši apdrošināšanas līguma noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "19",
+      "title": "Apdrošināšanas prēmijas nepilnīga samaksa",
+      "content": "(1) Ja apdrošināšanas līgumā noteiktā apdrošināšanas prēmija nav samaksāta pilnībā, apdrošinātājam ir tiesības izbeigt apdrošināšanas līgumu šajā pantā noteiktajā kārtībā.\n(2) Pirms apdrošināšanas līguma izbeigšanas apdrošinātājs nosūta apdrošinājuma ņēmējam rakstveida brīdinājumu par nepilnīgu apdrošināšanas prēmijas samaksu, uzaicinot samaksāt apdrošināšanas prēmiju atbilstoši apdrošināšanas līguma noteikumiem un norādot apdrošināšanas prēmijas samaksas termiņu un nesamaksāšanas iespējamās sekas.\n(3) Apdrošinātāja nosūtītajā brīdinājumā noteiktais apdrošināšanas prēmijas samaksas termiņš nedrīkst būt īsāks par 15 dienām un garāks par sešiem mēnešiem no brīdinājuma nosūtīšanas dienas.\n(4) Ja brīdinājumā noteiktajā apdrošināšanas prēmijas samaksas termiņā iestājas apdrošināšanas gadījums, apdrošinātājs izmaksā apdrošināšanas atlīdzību, ja apdrošināšanas prēmija ir samaksāta brīdinājumā noteiktajā apdrošināšanas prēmijas samaksas termiņā un apmērā.\n(5) Ja apdrošinājuma ņēmējs nesamaksā apdrošināšanas prēmiju brīdinājumā noteiktajā apdrošināšanas prēmijas samaksas termiņā un apmērā, apdrošināšanas līgums uzskatāms par izbeigtu, ja vien apdrošinātājs brīdinājumā nav noteicis citādi. Dzīvības apdrošināšanas līguma izbeigšana šajā pantā noteiktajā kārtībā neietekmē apdrošinājuma ņēmēja tiesības saņemt atpirkuma summu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "20",
+      "title": "Apdrošināšanas līguma darbības apturēšanas sekas",
+      "content": "(Izslēgts ar 15.03.2007 . likumu, kas stājas spēkā 18.04.2007. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "21",
+      "title": "Apdrošinātā pienākumi pēc apdrošinātā riska iestāšanās",
+      "content": "(1) Par apdrošinātā riska iestāšanos apdrošinātais nekavējoties, tiklīdz tas iespējams, paziņo apdrošinātājam un veic visus iespējamos saprātīgos pasākumus, lai samazinātu zaudējumus.\n(2) Apdrošinātais nevar iebilst pret apdrošinātāja prasību konstatēt un novērtēt zaudējumu apjomu, to rašanās apstākļus, kā arī pret prasību iesniegt apdrošinātājam visus pie sevis esošos dokumentus, kas raksturo apdrošinātā riska iestāšanos un tā izraisītos zaudējumus, tai skaitā dokumentus, kas satur sensitīvos personas datus par trešajām personām un komercnoslēpumu. Apdrošinātais sniedz arī citu savā rīcībā esošo informāciju, kuru pieprasījis apdrošinātājs, kā arī pilda citus apdrošināšanas līgumā paredzētos pienākumus.\n(3) Šā panta otrajā daļā noteiktās informācijas paziņošana nav uzskatāma par likuma un citu normatīvo aktu, kā arī līguma noteikumu pārkāpumu, un tā nerada apdrošinātajam civiltiesisko, administratīvo vai krimināltiesisko atbildību."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "22",
+      "title": "Apdrošinātā pienākumu nepildīšanas sekas",
+      "content": "(1) Apdrošinātājs var atteikties izmaksāt apdrošināšanas atlīdzību, ja apdrošinātais ar ļaunu nolūku vai rupjas neuzmanības dēļ nav izpildījis kādu no šā likuma 21.pantā noteiktajiem pienākumiem.\n(2) Apdrošinātājs var samazināt apdrošināšanas atlīdzību, bet ne vairāk kā par 50 procentiem, ja apdrošinātais vieglas neuzmanības dēļ nav izpildījis kādu no šā likuma 21.pantā noteiktajiem pienākumiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "23",
+      "title": "Glābšanas izdevumi",
+      "content": "(1) Apdrošinātājs sedz visus pieteiktos un pierādāmos apdrošinātā saprātīgos izdevumus, kas radušies sakarā ar neatliekamiem bojājumu novēršanas un samazināšanas pasākumiem, kuri veikti pēc apdrošinātā iniciatīvas vai apdrošinātāja pieprasījuma, pat tajos gadījumos, ja šie pasākumi nav bijuši sekmīgi.\n(2) Glābšanas izdevumi nedrīkst pārsniegt apdrošināšanas atlīdzības apmēru, ja apdrošināšanas līgumā nav paredzēts citādi."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "24",
+      "title": "Apdrošinātāja pienākums izmaksāt apdrošināšanas atlīdzību",
+      "content": "(1) Iestājoties apdrošināšanas gadījumam, apdrošinātājs izmaksā apdrošināšanas atlīdzību apdrošināšanas līgumā noteiktajai personai.\n(2) Apdrošinātājam nav tiesību:\n1) bez pārliecināšanās par apdrošinātā riska iestāšanos noraidīt vai apstiprināt prasību, kas iesniegta, pamatojoties uz apdrošināšanas līgumu;\n2) atteikties izmaksāt apdrošināšanas atlīdzību, nepārbaudot visu pieejamo informāciju;\n3) atteikties izmaksāt apdrošināšanas atlīdzību apdrošināšanas līgumā noteiktajā termiņā, ja saņemti pierādījumi par apdrošināšanas gadījuma iestāšanos;\n4) izmaksāt apdrošināšanas atlīdzību, ja apdrošinātā riska iestāšanos ir izraisījis apdrošinājuma ņēmēja, apdrošinātā, labuma guvēja vai trešās personas ļauns nolūks. Šajā gadījumā apdrošinātājs iemaksāto apdrošināšanas prēmiju neatmaksā.\n(3) Apdrošinātāja pienākums ir izmaksāt apdrošināšanas atlīdzību, ja apdrošinātā riska iestāšanos izraisījusi apdrošinājuma ņēmēja, apdrošinātā, labuma guvēja vai trešās personas viegla neuzmanība un ja tas nav pretrunā ar apdrošināšanas līgumu.\n(4) Pēc pušu vienošanās apdrošinātājs, pirms veikta pilnīga zaudējumu aprēķināšana, var izmaksāt daļu apdrošināšanas atlīdzības tādā apmērā, kādu neapstrīd neviena no pusēm.\n(5) Apdrošinātājam ir tiesības pēc apdrošinātā riska iestāšanās pārbaudīt, kā apdrošinātais vai apdrošinājuma ņēmējs ir ievērojis apdrošināšanas līguma noteikumus.\n(6) Apdrošinātāja pienākums ir pierādīt jebkurus apstākļus, kas to atbrīvo no apdrošināšanas līgumā noteiktajām saistībām izmaksāt apdrošināšanas atlīdzību.\n(7) Ja apdrošinātājs pieņēmis lēmumu par atteikumu izmaksāt apdrošināšanas atlīdzību, tas 10 dienu laikā pēc lēmuma pieņemšanas nosūta apdrošinājuma ņēmējam un apdrošinātajam motivētu rakstveida paziņojumu.\n(8) Ja apdrošinājuma ņēmējs ir fiziskā persona, apdrošinātājs izmaksā apdrošināšanas atlīdzību 15 dienu laikā pēc tam, kad pieņemts lēmums par apdrošināšanas atlīdzības izmaksu, ja vien apdrošināšanas atlīdzības izmaksa nav paredzēta periodisku maksājumu vai nodrošināmo pakalpojumu veidā vai apdrošinātājs un apdrošināšanas atlīdzības saņēmējs pēc tam, kad pieņemts lēmums par apdrošināšanas atlīdzības izmaksu, nav vienojušies par citu apdrošināšanas atlīdzības izmaksas kārtību."
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "IV nodaļa Apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja un apdrošinātāja pienākumi",
+      "section": "24.1",
+      "title": "24. 1 pants. Apdrošinātāja lēmuma pieņemšanas termiņš",
+      "content": "(1) Ja apdrošinājuma ņēmējs ir fiziskā persona, apdrošinātāja pienākums ir ne vēlāk kā viena mēneša laikā no dienas, kad saņemts iesniegums par apdrošināšanas atlīdzību, rakstveidā informēt apdrošinājuma ņēmēju par papildu dokumentiem, kas nepieciešami, lai varētu pieņemt lēmumu par apdrošināšanas atlīdzības izmaksu.\n(2) Ja apdrošinājuma ņēmējs ir fiziskā persona, apdrošinātājs lēmumu par apdrošināšanas atlīdzības izmaksu pieņem viena mēneša laikā no visu nepieciešamo apdrošināšanas līgumā noteikto dokumentu saņemšanas dienas. Ja apdrošinātājam objektīvu iemeslu dēļ nav iespējams ievērot šo termiņu, to var pagarināt uz laiku, kas nav ilgāks par sešiem mēnešiem no dienas, kad saņemts iesniegums par apdrošināšanas atlīdzību. Apdrošinātājs nosūta motivētu rakstveida paziņojumu par termiņa pagarināšanu personai, kurai ir tiesības saņemt apdrošināšanas atlīdzību atbilstoši noslēgtajam apdrošināšanas līgumam."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "25",
+      "title": "Apdrošināšanas līguma termiņš",
+      "content": "(1) Apdrošināšanas līguma termiņu nosaka, pusēm vienojoties, un tas nedrīkst būt ilgāks par pieciem gadiem. Šis termiņa ierobežojums neattiecas uz secīgi noslēgto apdrošināšanas līgumu kopējo termiņu, ieskaitot gadījumus, kad visu šo apdrošināšanas līgumu noteikumi paliek nemainīgi.\n(2) Dzīvības un veselības apdrošināšanas līgumu maksimālais termiņš netiek ierobežots."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "26",
+      "title": "Apdrošināšanas līguma izbeigšana vai spēkā neesamība",
+      "content": "(1) Apdrošināšanas līgumu var izbeigt pirms termiņa šādu iemeslu dēļ:\n1) apdrošinātājs pilnībā ir izpildījis savas saistības;\n2) apdrošinātā fiziskā persona un apdrošināšanas līgumā norādītais labuma guvējs ir miruši un viņiem nav mantinieku;\n3) apdrošinātā juridiskā persona ir likvidēta un tai nav tiesību pārņēmēja;\n4) puses par to ir vienojušās apdrošināšanas līguma darbības laikā;\n5) pārējos šajā likumā, citos likumos vai Ministru kabineta noteikumos paredzētajos gadījumos.\n(2) Apdrošināšanas līgumu uzskata par spēkā neesošu visos šajā likumā, citos likumos vai Ministru kabineta noteikumos paredzētajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "27",
+      "title": "Īpaši apdrošināšanas līguma izbeigšanas gadījumi",
+      "content": "(1) Apdrošinātājs un apdrošinājuma ņēmējs var izbeigt apdrošināšanas līgumu laikā starp apdrošināšanas līguma noslēgšanas dienu un apdrošināšanas līguma spēkā stāšanās dienu. Par šādu apdrošināšanas līguma izbeigšanu paziņo otrai līgumslēdzējai pusei ne vēlāk kā 15 dienu laikā pirms tā stāšanās spēkā. Ja apdrošināšanas līgums tiek izbeigts pēc apdrošinājuma ņēmēja iniciatīvas, apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas. Pārējos gadījumos apdrošinātājs atmaksā apdrošinājuma ņēmējam iemaksāto apdrošināšanas prēmiju.\n(2) Apdrošinājuma ņēmējs var izbeigt dzīvības un veselības apdrošināšanas līgumu katru gadu tajā dienā, kad apdrošināšana stājās spēkā pirmo reizi, vai dienā, kad iemaksājama ikgadējā apdrošināšanas prēmija, paziņojot par to apdrošinātājam rakstveidā ne vēlāk kā 15 dienas pirms iepriekšminētās dienas, ja apdrošināšanas līgumā nav paredzēts citādi. Šajā gadījumā apdrošinātājs atmaksā noteiktu naudas summu atbilstoši apdrošināšanas līgumam.\n(2 1 ) Visas saistības, kas izriet no apdrošināšanas līguma, apdrošinājuma ņēmējam izbeidzas ar dienu, kad apdrošinātājam nosūtīts paziņojums par līguma izbeigšanu. Apdrošinājuma ņēmēja pienākums ir pierādīt paziņojuma par līguma izbeigšanu nosūtīšanas faktu.\n(3) Apdrošinājuma ņēmējam — fiziskajai personai — ir tiesības izbeigt individuālo dzīvības apdrošināšanas līgumu 15 dienu laikā no šā līguma noslēgšanas dienas. Šajā gadījumā apdrošinātājs atmaksā visu apdrošinājuma ņēmēja iemaksāto apdrošināšanas prēmiju. Ja apdrošinājuma ņēmējs — fiziskā persona — ir noslēdzis tirgum piesaistīto dzīvības apdrošināšanas līgumu, apdrošinātājs atmaksā apdrošinājuma ņēmējam naudas summu, kas tiek aprēķināta no iemaksātās apdrošināšanas prēmijas, ņemot vērā apdrošinājuma ņēmēja izraudzīto ieguldījuma fondu daļu vērtību dienā, kad apdrošinātājs ir saņēmis paziņojumu par apdrošināšanas līguma izbeigšanu.\n(4) Šā panta trešās daļas noteikumi neattiecas uz individuālajiem dzīvības apdrošināšanas līgumiem, kuru darbības termiņš ir mazāks par sešiem mēnešiem."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "28",
+      "title": "Apdrošināšanas līguma izbeigšanas kārtība",
+      "content": "(1) Ja apdrošināšanas līgumu izbeidz, attiecīgā līgumslēdzēja puse nosūta rakstveida paziņojumu par apdrošināšanas līguma izbeigšanu.\n(2) Apdrošināšanas līgums ir izbeigts pēc 15 dienām no rakstveida paziņojuma nosūtīšanas dienas.\n(3) Šā panta pirmās un otrās daļas normas nav piemērojamas gadījumos, kuros šis likums paredz citu apdrošināšanas līguma izbeigšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "29",
+      "title": "Apdrošināšanas līguma izbeigšana pēc apdrošināšanas gadījuma iestāšanās",
+      "content": "(1) Ja apdrošināšanas līgumā ir paredzētas tiesības izbeigt šo līgumu pēc apdrošināšanas atlīdzības izmaksas, jebkura no līgumslēdzējām pusēm var izbeigt apdrošināšanas līgumu. Apdrošināšanas līgums ir izbeigts pēc 15 dienām no dienas, kad attiecīgā līgumslēdzēja puse nosūtījusi rakstveida paziņojumu par apdrošināšanas līguma izbeigšanu. Ja apdrošināšanas atlīdzība ir mazāka nekā starpība starp iemaksāto apdrošināšanas prēmiju un apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu, apdrošinātājs atmaksā apdrošinājuma ņēmējam apdrošināšanas prēmijas daļu, kuras apmēru nosaka, no samaksātās apdrošināšanas prēmijas atskaitot apdrošināšanas atlīdzību, apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu un pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(2) Ja apdrošinātais risks iestājas apdrošinātā, apdrošinājuma ņēmēja, labuma guvēja vai trešās personas ļauna nolūka dēļ, apdrošināšanas līgums uzskatāms par izbeigtu no minēto faktu konstatācijas brīža. Šajā gadījumā apdrošinātājam ir tiesības neizmaksāt apdrošināšanas atlīdzību."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "30",
+      "title": "Apdrošināšanas līguma izbeigšana apdrošinājuma ņēmēja likvidācijas vai maksātnespējas gadījumā",
+      "content": "(1) Apdrošinātājam un administratoram vai likvidatoram ir tiesības izbeigt apdrošināšanas līgumu ar rakstveida paziņojumu.\n(2) Administrators vai likvidators var izbeigt apdrošināšanas līgumu tikai viena mēneša laikā no administratora vai likvidatora iecelšanas dienas. Apdrošinātājs nevar izbeigt apdrošināšanas līgumu agrāk kā pēc viena mēneša no administratora vai likvidatora iecelšanas dienas.\n(3) Šajā pantā noteiktajos apdrošināšanas līguma izbeigšanas gadījumos apdrošinātājs atmaksā prēmiju, kuru nosaka, atskaitot no iemaksātās apdrošināšanas prēmijas daļu par apdrošināšanas līguma darbības izbeigušos periodu līdz apdrošināšanas līguma izbeigšanas brīdim, kā arī pierādāmos ar apdrošināšanas līguma noslēgšanu saistītos apdrošinātāja izdevumus, kuri nedrīkst pārsniegt 25 procentus no apdrošināšanas prēmijas.\n(4) Šā panta noteikumi neattiecas uz personu apdrošināšanu."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "31",
+      "title": "Apdrošinājuma ņēmēja nāves gadījums",
+      "content": "(1) Ja apdrošinājuma ņēmēja nāves gadījumā notiek viņa saistību pārņemšana, saistību pārņēmējs uzņemas visas apdrošinājuma ņēmēja apdrošināšanas līgumā paredzētās tiesības un pienākumus un rakstveidā paziņo par to apdrošinātājam 15 dienu laikā no saistību pārņemšanas dienas.\n(2) Apdrošinātājam un saistību pārņēmējam ir tiesības izbeigt apdrošināšanas līgumu. Saistību pārņēmējs par apdrošināšanas līguma izbeigšanu rakstveidā paziņo apdrošinātājam 15 dienu laikā no saistību pārņemšanas dienas. Apdrošinātājs par apdrošināšanas līguma izbeigšanu rakstveidā paziņo saistību pārņēmējam 15 dienu laikā no dienas, kad tas ir uzzinājis par saistību pārņemšanu.\n(3) Šā panta noteikumi neattiecas uz personu apdrošināšanu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "V nodaļa Apdrošināšanas līguma termiņš un līguma izbeigšana",
+      "section": "32",
+      "title": "Prasības noilgums",
+      "content": "(1) Tiesības iesniegt apdrošinātājam paziņojumu par apdrošinātā riska iestāšanos izbeidzas, ja persona, kurai ir tiesības pretendēt uz apdrošināšanas atlīdzību par dzīvības un civiltiesiskās atbildības apdrošināšanu, tās neizmanto 10 gadu laikā no apdrošinātā riska iestāšanās dienas. Pārējos apdrošināšanas veidos tiesības iesniegt apdrošinātājam paziņojumu par apdrošinātā riska iestāšanos izbeidzas, ja tās nav izmantotas triju gadu laikā no apdrošinātā riska iestāšanās dienas.\n(2) Pārējās saistību tiesības, kas izriet no apdrošināšanas līguma, izbeidzas, ja persona tās neizmanto divu gadu laikā.\n(3) Ja apdrošinātājs izpilda noilgušu prasību, viņam nav tiesību no personas prasīt atpakaļ izpildīto.\n(4) Šā panta pirmās daļas noteikumi nav piemērojami civiltiesiskās atbildības apdrošināšanas gadījumos, ja apdrošināšanas līgums noslēgts, ievērojot šā likuma 46.panta noteikumus."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Kopapdrošināšana un vadošais apdrošinātājs",
+      "section": "33",
+      "title": "Kopapdrošināšana",
+      "content": "Kopapdrošināšanā apdrošināšanas līgumu paraksta visi apdrošinātāji, kas noslēdz apdrošināšanas līgumu. Pušu tiesības un pienākumi tiek noteikti atbilstoši apdrošināšanas līgumam. Ja apdrošināšanas līgumā nav īpašas vienošanās starp apdrošinātājiem, kopapdrošināšana nerada apdrošinātāja pilnu (solidāru) atbildību."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VI nodaļa Kopapdrošināšana un vadošais apdrošinātājs",
+      "section": "34",
+      "title": "Vadošais apdrošinātājs",
+      "content": "(1) Vadošais apdrošinātājs norādāms apdrošināšanas līgumā. Tā tiesības un pienākumi tiek noteikti līgumā, kas noslēgts starp apdrošinātājiem. Vadošais apdrošinātājs tiek pilnvarots par visu pārējo apdrošinātāju pārstāvi. Vadošā apdrošinātāja pienākums ir uzņemties vadošo lomu tiesisko attiecību nodrošināšanā ar apdrošinājuma ņēmēju.\n(2) Apdrošinājuma ņēmējs vai apdrošinātais ar apdrošināšanas līgumu saistītos paziņojumus adresē vadošajam apdrošinātājam, ja apdrošināšanas līgumā nav paredzēts citādi.\n(3) Vadošais apdrošinātājs informē apdrošinājuma ņēmēju par apdrošinātāju tiesību un pienākumu sadali, par visām izmaiņām šo tiesību un pienākumu sadalē, kā arī par visām izmaiņām apdrošinātāju sastāvā."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "35",
+      "title": "Kompensācijas princips",
+      "content": "Apdrošināšanā pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšanā zaudējumus atlīdzina pēc kompensācijas principa. Izmaksātā apdrošināšanas atlīdzība nevar pārsniegt apdrošinātajam apdrošināšanas gadījumā radītos zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "36",
+      "title": "Virsapdrošināšana",
+      "content": "(1) Ja apdrošinājuma summa apdrošināšanā pret zaudējumiem un bojājumiem saskaņā ar vienu vai vairākiem apdrošināšanas līgumiem attiecībā uz vienu un to pašu apdrošināto risku pārsniedz apdrošinātā objekta vērtību (virsapdrošināšana), pēc jebkuras līgumslēdzējas puses prasības tā samazināma apdrošināšanas līgumu noslēgšanas hronoloģiskā secībā, sākot no pēdējā apdrošināšanas l īguma, līdz šī summa nepārsniedz apdrošinātā objekta vērtību.\n(2) Ja nepieciešams, vienu vai vairākus apdrošināšanas līgumus izbeidz.\n(3) Apdrošinātāji var vienoties par citu apdrošinājuma summas samazināšanas kārtību, ja tam piekrīt apdrošinājuma ņēmējs.\n(4) Ja apdrošināšanas gadījums ir iestājies, pirms notikusi apdrošinājuma summas samazināšana atbilstoši šā panta otrās daļas normām, apdrošinātājs izmaksā apdrošināšanas atlīdzību tādā apmērā, kādā tā būtu jāizmaksā, ja apdrošinājuma summa būtu vienāda ar apdrošinātā objekta vērtību.\n(5) Ja apdrošinājuma summa saskaņā ar vienu vai vairākiem apdrošināšanas līgumiem, kuri noslēgti ar vienu vai vairākiem apdrošinātājiem, pārsniedz apdrošinātā objekta vērtību, tie apdrošināšanas līgumi, kuri noslēgti ar apdrošinājuma ņēmēja ļaunu nolūku vai rupjas neuzmanības dēļ, nav spēkā no to noslēgšanas brīža. Šajos gadījumos iemaksāto apdrošināšanas prēmiju neatmaksā."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "37",
+      "title": "Apdrošināšanas atlīdzības izmaksu sadalījums, ja ir vairāki apdrošināšanas līgumi",
+      "content": "(1) Ja viens un tas pats apdrošinātais objekts apdrošināšanā pret zaudējumiem un bojājumiem vienā un tajā pašā apdrošināšanas veidā ir apdrošināts pie vairākiem apdrošinātājiem, katrs apdrošinātājs izmaksā apdrošināšanas atlīdzību proporcionāli katrā apdrošināšanas līgumā noteiktajai apdrošinājuma summai.\n(2) Ja civiltiesiskās atbildības apdrošināšanā viena un tā pati persona ir apdrošinājusi savu atbildību pie vairākiem apdrošinātājiem, katrs apdrošinātājs izmaksā apdrošināšanas atlīdzību proporcionāli apdrošināšanas līgumos noteiktajam atbildības limitam.\n(3) Neviens no apdrošinātājiem nevar izmantot citu apdrošināšanas līgumu esamību kā pamatojumu apdrošināšanas atlīdzības izmaksas pilnīgai vai daļējai noraidīšanai, izņemot krāpšanas gadījumus.\n(4) Apdrošinātāji var vienoties par apdrošināšanas atlīdzības izmaksas citādu kārtību, ja tam piekrīt apdrošinātais."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "38",
+      "title": "Apdrošināšanas atlīdzības izmaksa, ja ir obligātā apdrošināšana",
+      "content": "Ja apdrošināšanas objekts apdrošināts vienlaikus obligātajā un brīvprātīgajā apdrošināšanā, brīvprātīgās apdrošināšanas atlīdzību izmaksā neatkarīgi no obligātās apdrošināšanas atlīdzības izmaksas nosacījumiem, ievērojot šā likuma 35.panta normas."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "39",
+      "title": "Kaitējums personas dzīvībai, veselībai vai fiziskajam stāvoklim",
+      "content": "Ja, iestājoties apdrošināšanas gadījumam, apdrošinātā persona ir gājusi bojā vai tās veselībai vai fiziskajam stāvoklim nodarīts kaitējums, apdrošināšanas atlīdzību izmaksā saskaņā ar visiem noslēgtajiem apdrošināšanas līgumiem, kuri paredz izmaksu par šādu gadījumu, neievērojot šā likuma 35. , 36. , 37. un 38.panta normas, izņemot gadījumus, kad apdrošināšanas līgumā ir paredzēts izmantot kompensācijas principu."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "40",
+      "title": "Regresa prasība",
+      "content": "(1) Apdrošinātājs, kas ir izmaksājis apdrošināšanas atlīdzību, izmaksātās summas apmērā pārņem apdrošinātā prasības tiesības pret personu, kas ir atbildīga par zaudējumiem, izņemot gadījumus, kad ir nodarīts kaitējums personas dzīvībai, veselībai vai fiziskajam stāvoklim. Šis izņēmums nav spēkā, ja apdrošināšanas līgumā ir paredzēts piemērot kompensācijas principu.\n(2) Ja apdrošinātāja izmaksātā apdrošināšanas atlīdzība sedz tikai daļu no nodarītajiem zaudējumiem, apdrošinātājs savas tiesības uz regresa prasību var izmantot vienīgi pēc tam, kad apdrošinātā persona ir cēlusi prasību tiesā pret atbildīgo personu par nodarītajiem zaudējumiem, kuri nav nosegti ar apdrošināšanas atlīdzību.\n(3) Apdrošinātājs un apdrošinātā persona var rakstveidā vienoties par prasības celšanu tiesā vienlaikus, kā arī apdrošinātā persona var rakstveidā atteikties no prasības celšanas tiesā, un tādā gadījumā apdrošinātājs var izmantot savas tiesības uz regresa prasību, neievērojot šā panta otrās daļas normas.\n(4) Saskaņā ar tiesas nolēmumu par zaudējumu atlīdzināšanu piedziņa no atbildīgās personas vispirms tiek izdarīta par labu cietušajam un tikai pēc tam, kad pilnībā ir atlīdzināti zaudējumi cietušajam, piedziņa tiek izdarīta par labu apdrošinātājam.\n(5) Ja cietušais viena gada laikā nav cēlis tiesā prasību pret personu, kas ir atbildīga par nodarītajiem zaudējumiem, apdrošinātājs var izmantot savas tiesības uz regresa prasību, neievērojot šā panta otrās daļas normas.\n(6) Ja apdrošinātā ļauna nolūka vai rupjas neuzmanības dēļ nav iespējama regresa prasība par labu apdrošinātājam, apdrošinātājs var prasīt no apdrošinātā izmaksātās apdrošināšanas atlīdzības atmaksāšanu tādā apmērā, par kādu nav iespējama regresa prasība.\n(7) Apdrošinātājs nevar griezties ar regresa prasību pret apdrošinātā bērniem, vecākiem vai laulāto; izņēmums ir tādi apdrošināšanas gadījumi, kas izraisīti ar ļaunu nolūku vai rupjas neuzmanības dēļ.\n(8) Apdrošinātājs ir tiesīgs izmantot savas tiesības uz regresa prasību pret apdrošināto triju gadu laikā no apdrošināšanas atlīdzības izmaksas dienas."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "41",
+      "title": "Apdrošināšanas objekta vērtība",
+      "content": "(1) Apdrošināšanā pret zaudējumiem un bojājumiem apdrošinājuma summa nedrīkst pārsniegt apdrošinātā objekta vērtību.\n(2) Līgumslēdzējas puses apdrošināšanas līgumā var vienoties par apdrošināšanas objekta novērtēšanas metodi.\n(3) Līgumslēdzējas puses apdrošināšanas līgumā var vienoties par apdrošināšanu objekta atjaunošanas vērtībā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "42",
+      "title": "Īpaša neatvietojama apdrošināšanas objekta vērtība",
+      "content": "Pusēm ir tiesības, savstarpēji vienojoties, samazināt apdrošinātā objekta sākotnējo vērtību vai izbeigt apdrošināšanas līgumu, ja savu sākotnējo vērtību būtiski zaudē īpašs neatvietojams apdrošināšanas objekts."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "43",
+      "title": "Zemapdrošināšana",
+      "content": "Ja apdrošinājuma summa apdrošināšanā pret zaudējumiem un bojājumiem saskaņā ar vienu vai vairākiem apdrošināšanas līgumiem attiecībā uz vienu un to pašu apdrošināto risku ir mazāka par apdrošinātā objekta vērtību (zemapdrošināšana), apdrošinātājs izmaksā apdrošināšanas atlīdzību tādā proporcijā, kāda ir starp apdrošinājuma summu un šo vērtību, ja apdrošināšanas līgumā nav paredzēts citādi."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "44",
+      "title": "Īpašnieka maiņa",
+      "content": "(1) Ja apdrošinātajam nekustamajam īpašumam mainās īpašnieks, apdrošināšanas līgums ir spēkā par labu jaunajam īpašniekam vienu mēnesi pēc tam, kad ir noformēti visi īpašuma tiesību maiņas dokumenti.\n(2) Iepriekšminētais nosacījums nav spēkā gadījumos, kad apdrošināšanas līguma termiņš izbeidzas ātrāk, nekā tiek noformēti īpašuma tiesību maiņai nepieciešamie dokumenti, vai jaunais īpašnieks ir noslēdzis citu apdrošināšanas līgumu pirms minētā termiņa izbeigšanās.\n(3) Ja apdrošinātajam kustamajam īpašumam mainās īpašnieks un nav spēkā cita vienošanās ar apdrošinātāju, apdrošināšanas līgums izbeidzas brīdī, kad kustamais īpašums tiek nodots tā jaunajam īpašniekam."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "45",
+      "title": "Pirms apdrošināšanas līguma noslēgšanas radušies zaudējumi",
+      "content": "Civiltiesiskās atbildības apdrošināšanas līgumā var paredzēt, ka tiek segti zaudējumi, kurus izraisījis ar zaudējumiem cēloniski saistīts notikums, kas iestājies pirms apdrošināšanas līguma noslēgšanas, ja neviena no pusēm par tā iestāšanos nav zinājusi apdrošināšanas līguma noslēgšanas brīdī."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "46",
+      "title": "Zaudējumu segšana pēc apdrošināšanas līguma termiņa izbeigšanās",
+      "content": "Apdrošinātājs civiltiesiskās atbildības apdrošināšanā var segt zaudējumus, kas radušies noslēgtā apdrošināšanas līguma darbības laikā, ja apdrošinātā persona par zaudējumus izraisījušo notikumu ir iesniegusi zaudējumu piedziņas prasību triju gadu laikā pēc apdrošināšanas līguma termiņa izbeigšanās."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "47",
+      "title": "Pārstāvība civiltiesiskās atbildības apdrošināšanā",
+      "content": "(1) Apdrošinātājam ir tiesības darboties apdrošinātā labā un pārstāvēt apdrošinātā intereses apdrošināšanas līgumā noteiktā atbildības limita ietvaros no brīža, kad pret apdrošināto var tikt celta zaudējumu piedziņas prasība.\n(2) Pārstāvības pienākumu uzņemšanās nenozīmē, ka apdrošinātājs automātiski atzīst apdrošinātā atbildību, un nerada apdrošinātājam vai apdrošinātajam saistības atlīdzināt trešajai personai radītos zaudējumus.\n(3) Apdrošinātājs nevar uzņemties pārstāvības pienākumus gadījumos, kad šāda pienākumu pildīšana tieši vai netieši var negatīvi ietekmēt apdrošinātā interešu objektīvu pārstāvēšanu."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "48",
+      "title": "Vienošanās ar trešo personu civiltiesiskās atbildības apdrošināšanā",
+      "content": "(1) Ja apdrošinātais ir jebkādā veidā atlīdzinājis vai devis atlīdzības solījumu trešajai personai bez apdrošinātāja rakstveida piekrišanas, apdrošinātā darbības rezultātā radītie vai iespējamie izdevumi nav saistoši apdrošinātājam.\n(2) Ja apdrošinātā persona riska iestāšanās gadījumā ir veikusi pasākumus zaudējumu samazināšanai vai sniegusi neatliekamo palīdzību cietušajai personai, tas nedod apdrošinātājam tiesības atteikties no saistībām, kas tam noteiktas apdrošināšanas līgumā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "49",
+      "title": "Apdrošināšanas atlīdzības un citu izdevumu maksājumi civiltiesiskās atbildības apdrošināšanā",
+      "content": "(1) Apdrošinātājs saskaņā ar apdrošināšanas līguma noteikumiem izmaksā apdrošināšanas atlīdzību tikai trešajai personai, un šī atlīdzība nevar pārsniegt apdrošināšanas līgumā noteikto atbildības limitu.\n(2) Apdrošināšanas līgumā var paredzēt, ka tiek segti arī ar tiesvedību, ekspertīzi vai citām ar prasības nokārtošanu pamatotām darbībām saistītie izdevumi.\n(3) Civiltiesiskās atbildības apdrošināšanā apdrošināšanas atlīdzība nesedz naudas sodu un citus līdzīgus maksājumus.\n(4) Ja apdrošinātā ļauns nolūks vai rupja neuzmanība ir bijusi par iemeslu tam, lai tas nepiedalītos ar likumu noteiktajās izmeklēšanas darbībās vai tiesas procesā, apdrošinātais atlīdzina apdrošinātājam šīs darbības vai bezdarbības izraisītos zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "VII nodaļa Apdrošināšana pret zaudējumiem un bojājumiem un civiltiesiskās atbildības apdrošināšana",
+      "section": "50",
+      "title": "Trešās personas tiesības celt prasību",
+      "content": "Trešajai personai ir tiesības celt prasību tieši pret apdrošinātāju normatīvajos aktos noteiktajos gadījumos, un apdrošinātājam ir tiesības apstrīdēt celtās prasības pamatotību."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "51",
+      "title": "Personu apdrošināšanas veidi",
+      "content": "(1) Personu apdrošināšanas veidi ir dzīvības apdrošināšana, nelaimes gadījumu apdrošināšana un veselības apdrošināšana.\n(2) Līgumslēdzējas puses apdrošināšanas līgumā var paredzēt, ka, iestājoties apdrošināšanas gadījumam, apdrošinātājs izmaksā apdrošinājuma summu vai citu apdrošināšanas līgumā paredzēto summu, kuras apmērs ir noteikts, slēdzot apdrošināšanas līgumu. Šādos gadījumos netiek piemērots kompensācijas princips.\n(3) Personu apdrošināšanā, izņemot dzīvības apdrošināšanu, līgumslēdzējas puses apdrošināšanas līgumā var vienoties par kompensācijas principa piemērošanu apdrošināšanas atlīdzības izmaksā. Šādā gadījumā jāievēro šā likuma 35. , 36. , 37. , 38. , 39. , 40. un 43.panta normas."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "52",
+      "title": "Apdrošināšanas atlīdzība un maksājumu dažādība",
+      "content": "Ja līgumslēdzējas puses apdrošināšanas līgumā nav vienojušās citādi, maksājumi, ko apdrošinātais vai labuma guvējs saņēmis no citiem avotiem, nesamazina apdrošinātāja saistības."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "53",
+      "title": "Labuma guvējs",
+      "content": "(1) Apdrošinātajam ir tiesības dzīvības un nelaimes gadījumu apdrošināšanas līgumos norādīt vienu vai vairākas personas — labuma guvējus, kas saņems apdrošināšanas atlīdzību apdrošinātā nāves gadījumā, kā arī aizstāt šīs personas ar citām personām apdrošināšanas līguma darbības laikā, rakstveidā paziņojot par to apdrošinātājam.\n(2) Ja apdrošinātais, noslēdzot apdrošināšanas līgumu vai šā apdrošināšanas līguma darbības laikā, nav norādījis labuma guvēju, tam ir jābūt nosakāmam prasības celšanas brīdī.\n(3) Ja apdrošinātais nav norādījis labuma guvēju vai prasības celšanas brīdī to nav iespējams noteikt, apdrošināšanas atlīdzība tiek izmaksāta apdrošinātā mantiniekiem Civillikumā noteiktajā kārtībā.\n(4) Labuma guvējam ir tiesības atteikties par tādu būt."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "54",
+      "title": "Labuma guvēja tiesības iepazīties ar apdrošināšanas līgumu",
+      "content": "Labuma guvējam ir tiesības pieprasīt no apdrošinājuma ņēmēja, apdrošinātā vai apdrošinātāja informāciju par apdrošināšanas līgumu un iepazīties ar to."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "55",
+      "title": "Prasības personu apdrošināšanas līgumam",
+      "content": "(1) Papildus šā likuma 6.pantā noteiktajām prasībām personu apdrošināšanas līgumā norāda:\n1) apdrošināšanas prēmiju un apdrošinājuma summu atsevišķi katram apdrošinātajam riskam, kā arī apdrošināšanas atlīdzību vai tās noteikšanas kārtību katram apdrošināšanas gadījumam;\n2) dzīvības apdrošināšanas līgumā — atpirkuma summu un tās saņemšanas nosacījumus, apdrošinājuma ņēmēja tiesības pārveidot līgumu, mainot apdrošinājuma summu, apdrošināšanas prēmiju un tās maksāšanas kārtību, nosacījumus jauna (atjaunota) dzīvības apdrošināšanas līguma noslēgšanai, kā arī gratifikāciju (bonusu) veidus un to aprēķināšanas un piešķiršanas kārtību, bet tirgum piesaistītajā dzīvības apdrošināšanas līgumā norāda arī tam atbilstošos aktīvus un apdrošinājuma summas aprēķināšanas kārtību.\n(2) Tāda personu apdrošināšanas līguma darbības laikā, kura darbības termiņš ir garāks par vienu gadu, apdrošinātājs rakstveidā informē apdrošinājuma ņēmēju un apdrošināto par:\n1) apdrošināšanas prēmiju un apdrošināšanas atlīdzību aplikšanu ar nodokļiem un nodokļu ieturēšanas kārtību, kā arī par izmaiņām šajos nosacījumos;\n2) piešķirtajām gratifikācijām (bonusiem) — ne retāk kā reizi 12 mēnešos."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn1",
+      "title": "1. Apdrošināšanas polises, kuru paraugus ir apstiprinājusi Valsts apdrošināšanas uzraudzības inspekcija, saskaņojamas ar šā likuma prasībām viena gada laikā no likuma spēkā stāšanās dienas.",
+      "content": "1. Apdrošināšanas polises, kuru paraugus ir apstiprinājusi Valsts apdrošināšanas uzraudzības inspekcija, saskaņojamas ar šā likuma prasībām viena gada laikā no likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn2",
+      "title": "2. Apdrošināšanas polises, kuru paraugi ir apstiprināti līdz šā likuma spēkā stāšanās dienai, izmantojamas līdz šā likuma pārejas noteikumu 1.punktā minētajam termiņam.",
+      "content": "2. Apdrošināšanas polises, kuru paraugi ir apstiprināti līdz šā likuma spēkā stāšanās dienai, izmantojamas līdz šā likuma pārejas noteikumu 1.punktā minētajam termiņam."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn3",
+      "title": "3. Apdrošināšanas polises, kuru paraugi ir reģistrēti Apdrošināšanas uzraudzības inspekcijas polišu reģistrā, saskaņojamas ar likuma 55.panta prasībām līdz 2001.gada 1.aprīlim.",
+      "content": "( 01.06.2000 . likuma redakcijā, kas stājas spēkā 01.07.2000. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn4",
+      "title": "4. Grozījums likuma 32.panta otrajā daļā par noilguma termiņu attiecas arī uz saistībām, kas izriet no līgumiem, kuri noslēgti pirms šā likuma grozījumu spēkā stāšanās un pēc kuriem saistības nav izbeigušās. Šajos gadījumos noilguma termiņš skaitāms no šā likuma grozījumu spēkā stāšanās dienas. Ja pēc šāda aprēķina noilguma termiņš iznāk garāks par līdzšinējo, tas izbeidzas saskaņā ar līdzšinējo noilguma termiņu.",
+      "content": "( 01.06.2000 . likuma redakcijā, kas stājas spēkā 01.07.2000. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn5",
+      "title": "5. To apdrošināšanas polišu noteikumi, kuras ir spēkā līdz 2003.gada 1.janvārim, saskaņojami ar šā likuma prasībām līdz 2003.gada 1.jūlijam.",
+      "content": "( 24.10.2002 . likuma redakcijā, kas stājas spēkā 01.01.2003. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn6",
+      "title": "6. Šā likuma 7. 2 pants un grozījumi 19.pantā attiecībā uz tā izteikšanu jaunā redakcijā stājas spēkā 2007.gada 1.oktobrī.",
+      "content": "( 15.03.2007 . likuma redakcijā, kas stājas spēkā 18.04.2007. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa Personu apdrošināšana",
+      "section": "pn7",
+      "title": "7. Grozījumi šā likuma 21.panta otrajā daļā attiecībā uz sensitīvo personas datu un komercnoslēpumu saturošu dokumentu iesniegšanu apdrošinātājam, kā arī 21.panta trešā daļa ir piemērojama pēc attiecīgu grozījumu spēkā stāšanās Apdrošināšanas sabiedrību un to uzraudzības likumā un Fizisko personu datu aizsardzības likumā.",
+      "content": "1) Padomes 1988.gada 28.jūnija direktīvas 88/357/EEK par normatīvo un administratīvo aktu koordināciju attiecībā uz tiešo apdrošināšanu, kas nav dzīvības apdrošināšana, par noteikumiem pakalpojumu sniegšanas brīvības efektīvākai izmantošanai un par grozījumiem direktīvā 73/239/EEK ;\n2) Padomes 1992.gada 18.jūnija direktīvas 92/49/EEK par normatīvo un administratīvo aktu koordinēšanu attiecībā uz tiešo apdrošināšanu, kas nav dzīvības apdrošināšana, ar kuru groza direktīvu 73/239/EEK un direktīvu 88/357/EEK ;\n3) Eiropas Parlamenta un Padomes 2002.gada 5.novembra direktīvas 2002/83/EK par dzīvības apdrošināšanu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apdrošinājuma summa",
+      "definition": "apdrošināšanas līgumā noteikta naudas summa, par kuru apdrošināšanā pret zaudējumiem un bojājumiem ir apdrošinātas mantiskas vērtības vai intereses, personu apdrošināšanā ir apdrošināta personas dzīvība, veselība vai fiziskais stāvoklis un civiltiesiskās atbildības apdrošināšanā — atbildības limits",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināmā interese",
+      "definition": "interese neciest zaudējumus, iestājoties apdrošinātajam riskam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas atlīdzība",
+      "definition": "apdrošinājuma summa, tās daļa vai cita par apdrošināšanas gadījumu izmaksājamā summa vai nodrošināmie pakalpojumi atbilstoši apdrošināšanas līgumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas gadījums",
+      "definition": "ar apdrošināto risku cēloņsakarīgi saistīts notikums, kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa atbilstoši apdrošināšanas līgumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas līgums",
+      "definition": "apdrošinātāja un apdrošinājuma ņēmēja vienošanās, saskaņā ar kuru apdrošinājuma ņēmējs uzņemas saistības maksāt apdrošināšanas prēmiju līgumā noteiktajā veidā, termiņos un apmērā, kā arī izpildīt citas līgumā noteiktās saistības un apdrošinātājs uzņemas saistības, iestājoties apdrošināšanas gadījumam, izmaksāt līgumā norādītajai personai apdrošināšanas atlīdzību atbilstoši apdrošināšanas līgumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinājuma ņēmējs",
+      "definition": "juridiskā vai fiziskā persona, kas noslēdz apdrošināšanas līgumu savā vai citas personas labā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas pieteikums",
+      "definition": "apdrošinātāja noteikts dokuments, kuru apdrošinājuma ņēmējs iesniedz apdrošinātājam, lai informētu to par apdrošināšanas objektu, faktiem un apstākļiem, kas nepieciešami apdrošinātā riska novērtēšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas polise",
+      "definition": "dokuments, kas apliecina apdrošināšanas līguma noslēgšanu un ietver apdrošināšanas līguma noteikumus, kā arī visus šā līguma grozījumus un papildinājumus, par kuriem apdrošinātājs un apdrošinājuma ņēmējs ir vienojušies apdrošināšanas līguma darbības laikā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšana pret zaudējumiem un bojājumiem",
+      "definition": "apdrošināšana, kad tiek apdrošinātas mantiskas vērtības vai intereses un izmaksājamās apdrošināšanas atlīdzības apmērs ir atkarīgs no apdrošinātajam radušos zaudējumu apmēra",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas prēmija",
+      "definition": "apdrošināšanas līgumā noteiktais maksājums par apdrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinātais",
+      "definition": "juridiskā vai fiziskā persona, kurai ir apdrošināmā interese un kuras labā ir noslēgts apdrošināšanas līgums:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinātais risks",
+      "definition": "apdrošināšanas līgumā paredzētais no apdrošinātā gribas neatkarīgs notikums, kura iestāšanās iespējama nākotnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atbildības limits",
+      "definition": "civiltiesiskās atbildības apdrošināšanā izmaksājamā maksimālā naudas summa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "civiltiesiskās atbildības apdrošināšana",
+      "definition": "apdrošināšana, kad tiek apdrošināta personas civiltiesiskā atbildība par tās darbības vai bezdarbības rezultātā radītajiem zaudējumiem trešajai personai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gratifikācijas (bonusi)",
+      "definition": "dzīvības apdrošināšanā apdrošinājuma summas palielināšana un apdrošināšanas prēmijas samazināšana atkarībā no apdrošināšanas sabiedrības finansu darbības rezultātiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "labuma guvējs",
+      "definition": "personu apdrošināšanā persona, kurai izmaksājama apdrošināšanas atlīdzība atbilstoši apdrošināšanas līgumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kopapdrošināšana",
+      "definition": "vairāku apdrošinātāju vienošanās apdrošināt vienu un to pašu apdrošināšanas objektu viena apdrošināšanas līguma ietvaros",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "personu apdrošināšana",
+      "definition": "personas dzīvības, veselības vai fiziskā stāvokļa apdrošināšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "trešā persona",
+      "definition": "civiltiesiskās atbildības apdrošināšanā persona, kurai paredzēta apdrošināšanas atlīdzības izmaksa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atpirkuma summa",
+      "definition": "naudas summa, kuras lielums vai aprēķināšanas kārtība noteikta dzīvības apdrošināšanas līgumā un kuru izmaksā apdrošinājuma ņēmējam, ja pēc viņa iniciatīvas apdrošināšanas līgums tiek izbeigts pirms termiņa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinātāja piedāvājums",
+      "definition": "apdrošinātāja piedāvājums noslēgt vai grozīt apdrošināšanas līgumu.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

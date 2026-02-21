@@ -1,0 +1,30 @@
+{
+  "id": "lv-law-19565",
+  "type": "statute",
+  "title": "Par pagaidu pasākumiem cūkgaļas iekšējā tirgus aizsardzībai",
+  "short_name": "TA-19565",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/19565-par-pagaidu-pasakumiem-cukgalas-iekseja-tirgus-aizsardzibai",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Šā likuma mērķis ir aizsargāt cūkgaļas iekšējo tirgu.",
+      "content": "1.pants. Šā likuma mērķis ir aizsargāt cūkgaļas iekšējo tirgu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Cūkgaļas iekšējā tirgus aizsardzībai saskaņā ar likumu \"Par iekšējā tirgus aizsardzību\" kā pagaidu pasākums tiek noteikta papildu muitas nodokļa (tarifa) likme 70 procentu, bet ne mazāk kā Ls 0,34 par vienu kilogramu šādām precēm atbilstoši Latvijas preču kombinētās nomenklatūras kodam:",
+      "content": "1) 0203  svaiga, atdzesēta vai saldēta cūkgaļa;\n2) cūkgaļas izstrādājumi atbilstoši cūkgaļas īpatsvaram galaproduktā:\na) 1601  desas un līdzīgi produkti no gaļas, gaļas subproduktiem vai asinīm; pārtikas izstrādājumi uz šo produktu pamata,\nb) 1602  pārējie gatavie izstrādājumi vai konservi no gaļas, gaļas subproduktiem vai asinīm."
+    },
+    {
+      "provision_ref": "PN 1601",
+      "section": "pn1601",
+      "title": "Iekšējā tirgus aizsardzības pasākumi attiecībā uz cūkgaļas izstrādājumiem (kods 1601; kods 1602) stājas spēkā pēc Valsts iekšējā tirgus aizsardzības komisijas lēmuma par pagaidu pasākumu nepieciešamību",
+      "content": "Iekšējā tirgus aizsardzības pasākumi attiecībā uz cūkgaļas izstrādājumiem (kods 1601; kods 1602) stājas spēkā pēc Valsts iekšējā tirgus aizsardzības komisijas lēmuma par pagaidu pasākumu nepieciešamību"
+    }
+  ],
+  "definitions": []
+}

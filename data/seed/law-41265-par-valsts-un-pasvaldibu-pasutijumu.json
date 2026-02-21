@@ -1,0 +1,407 @@
+{
+  "id": "lv-law-41265",
+  "type": "statute",
+  "title": "Par valsts un pašvaldību pasūtījumu",
+  "short_name": "TA-41265",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/41265-par-valsts-un-pasvaldibu-pasutijumu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) valsts vai pašvaldības pasūtījums — preču piegādes, darbu veikšanas vai pakalpojumu sniegšanas pasūtījums, par kuru pilnīgi vai daļēji tiek samaksāts ar valsts vai pašvaldības līdzekļiem (izņemot valsts un pašvaldības uzņēmumu vai uzņēmējsabiedrību saimnieciskās darbības rezultātā gūtos līdzekļus), kā arī tā sagatavošana, piešķiršana, izpilde, pieņemšana, ar to saistītie norēķini un citas procedūras;\n2) valsts vai pašvaldības pasūtītājs — pasūtījuma līguma slēdzēja puse vai potenciālā slēdzēja puse — valsts institūcija (ministrija, aģentūra vai cita institūcija) vai tās struktūrvienība, vai pašvaldības institūcija; arī valsts vai pašvaldības uzņēmums vai uzņēmējsabiedrība, cits uzņēmums vai uzņēmējsabiedrība gadījumā, kad par precēm, darbiem vai pakalpojumiem pilnīgi vai daļēji tiek samaksāts ar valsts vai pašvaldības līdzekļiem (izņemot valsts un pašvaldības uzņēmumu vai uzņēmējsabiedrību saimnieciskās darbības rezultātā gūtos līdzekļus);\n3) valsts vai pašvaldības pasūtījuma līgums — starp valsts vai pašvaldības pasūtītāju un piegādātāju vai darbu izpildītāju noslēgts līgums, kura priekšmets ir valsts vai pašvaldības pasūtījuma izpilde;\n4) preces — šā likuma izpratnē: izejvielas, pusfabrikāti, komplektējamie izstrādājumi, gatavā produkcija, iekārta vai citi materiāli objekti, kas nav izņemti no privāttiesiskās apgrozības, kā arī intelektuālais īpašums, elektroenerģija un siltumenerģija;\n5) preču piegāde — valsts vai pašvaldības pasūtītājam saskaņā ar valsts vai pašvaldības pasūtījuma līgumu piegādājamās preces, kā arī ar minēto preču piegādi saistītie darbi vai pakalpojumi;\n6) būvdarbi — darbi un procesi, kas tiek veikti būvlaukumā (zemes gabalā) būves vai ēkas būvēšanas procesā, kā arī rekonstrukcija, restaurācija, remonts vai nojaukšana, ieskaitot būvlaukuma sagatavošanu, pagaidu un papildu darbus un teritorijas labiekārtošanu, ģeodēziskos darbus, komunikāciju un iekārtu montāžu (demontāžu), apdares un dekoratīvos darbus un tamlīdzīgus darbus;\n6. 1 ) ar būvniecību saistīti darbi — būvprojektēšana, būvekspertīze, ģeotehniskās un ģeodēziskās izpētes darbi, urbumi, teritorijas fotografēšana no Zemes vai kosmosa, seismiskie pētījumi, būvju un to konstrukciju apsekošana, pārbaude, diagnostika, kā arī citas darbības, kas saistītas ar jebkuru no minētajiem darbiem un ir atsevišķi paredzētas un noteiktas valsts vai pašvaldības pasūtījuma līgumā;\n7) pakalpojumi — transporta darbi, projektēšanas (izņemot būvprojektēšanu), konstruēšanas, tehnoloģijas izstrādāšanas darbi, apmācība un konsultāciju sniegšana, kā arī citi darbi, kas nav saistīti ar būvniecību vai preču piegādēm;\n8) pretendents — šā likuma izpratnē: jebkura juridiskā vai fiziskā persona, kas izsaka vēlēšanos, veicot šā likuma 16. , 18. un 25. pantā minētās darbības, piegādāt preces, veikt darbus vai sniegt pakalpojumus un slēgt par to valsts vai pašvaldības pasūtījuma līgumu;\n9) piegādātājs — šā likuma izpratnē: pretendents, kas šajā likumā noteiktajā kārtībā ieguvis tiesības piegādāt preces un noslēdzis par to valsts vai pašvaldības pasūtījuma līgumu;\n10) darbu izpildītājs — šā likuma izpratnē: pretendents, kas šajā likumā noteiktajā kārtībā ieguvis tiesības veikt darbus vai sniegt pakalpojumus un noslēdzis par to valsts vai pašvaldības pasūtījuma līgumu;\n11) valsts vai pašvaldības pasūtījuma piešķiršana (turpmāk — valsts pasūtījuma piešķiršana) — darbu vai piegāžu izpildes tiesību piešķiršana, piemērojot šajā likumā noteiktās valsts vai pašvaldības pasūtījuma piešķiršanas metodes;\n12) izsole — valsts vai pašvaldības pasūtījuma līguma slēgšanas tiesību publiska piešķiršana tam piegādātājam vai darbu izpildītājam, kas apņemas valsts vai pašvaldības pasūtījumu veikt ar valstij vai pašvaldībai visizdevīgākajiem noteikumiem, turklāt šo noteikumu izpildes izdevīguma vērtēšanas kritēriji tiek iepriekš noteikti izsoles nolikumā;\n13) konkurss — šā likuma izpratnē: valsts vai pašvaldības pasūtījuma līguma slēgšanas tiesību publiska piešķiršana, vispirms izskatot piedāvājumus, kurus iesnieguši pretendenti atbilstoši konkursa nolikumā formulētām vispārīgām prasībām, un pēc tam turpinot visizdevīgākā piedāvājuma izvēli uz detalizēti izstrādāta izsoles nolikuma pamata;\n14) cenu aptauja — valsts vai pašvaldības pasūtījuma līguma slēgšanas tiesību publiskas piešķiršanas vienkāršota procedūra;\n15) darbu vai pakalpojumu veikšana saimnieciskā kārtā — darbi vai pakalpojumi, kurus veic ar valsts vai pašvaldības pasūtītāja spēkiem;\n16) izsoles (konkursa) uzaicinājums — presē publicēts vai potenciālajiem pretendentiem piesūtīts paziņojums par rīkojamo izsoli (konkursu) un par nolikuma saņemšanas kārtību;\n17) izsoles (konkursa) nolikums — pirms izsoles (konkursa) izstrādāti dokumenti par izsoles (konkursa) kārtību un procedūrām, kurus apstiprina valsts vai pašvaldības pasūtītājs un ar kuriem katrs pretendents var iepazīties uzaicinājumā noteiktajā kārtībā;\n18) piedāvājuma nodrošinājums — līdzekļu summa, kuru valsts vai pašvaldības pasūtītājam pirms izsoles (konkursa) nodod pretendents, kas vēlas noslēgt valsts vai pašvaldības pasūtījuma līgumu kā garantiju izsoles (konkursa) nolikuma ievērošanai;\n19) līguma (saistību) nodrošinājums — līdzekļu summa, kuru valsts vai pašvaldības pasūtītājam, slēdzot valsts vai pašvaldības pasūtījuma līgumu, nodod piegādātājs vai darbu izpildītājs kā garantiju līguma noteikumu ievērošanai tā izpildes gaitā;\n20) valstiskā piederība — juridiskās personas reģistrācijas vieta vai fiziskās personas pastāvīgā mītnes zeme."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķi",
+      "content": "Šā likuma mērķi ir šādi:\n1) panākt racionālu valsts un pašvaldību līdzekļu izmantošanu;\n2) veicināt iespējami plaša piegādātāju un darbu izpildītāju loka iesaistīšanu valsts vai pašvaldības pasūtījumu (turpmāk — valsts pasūtījums) izpildē;\n3) nodrošināt brīvu konkurenci starp piegādātājiem un darbu izpildītājiem, kā arī vienlīdzīgu un taisnīgu attieksmi pret viņiem;\n4) panākt valsts pasūtījuma norisēs atklātumu un publiskumu, kā arī nodrošināt sabiedrības uzticību šīm norisēm."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības sfēra",
+      "content": "(1) Šis likums attiecas uz visiem valsts pasūtījumiem, kad preces tiek piegādātas, darbi veikti un pakalpojumi sniegti, samaksājot par tiem pilnīgi vai daļēji ar valsts vai pašvaldības līdzekļiem (izņemot valsts un pašvaldības uzņēmumu vai uzņēmējsabiedrību saimnieciskās darbības rezultātā gūtos līdzekļus).\n(2) Šis likums neattiecas uz valsts investīciju projektiem, kurus kopīgi īsteno Latvijas Republika un ārvalstu vai starptautiskās finansu organizācijas, ja katrā konkrētā gadījumā par to lēmis Ministru kabinets.\n(3) Šā likuma nosacījumi par izsolēm (konkursiem) nav attiecināmi uz valsts pasūtījumiem:\n1) kas saistīti ar valsts drošību un valsts aizsardzību, kā arī ar valsts materiālo rezervju veidošanu, ja pēc attiecīgās ministrijas iesnieguma katrā konkrētā gadījumā par to lēmis Ministru kabinets;\n2) ja valsts pasūtījums saistīts ar lietām, kas izņemtas no privāttiesiskās apgrozības;\n3) ja valsts pasūtījuma paredzamā vērtība vai valsts vai pašvaldības līdzekļu paredzamais apjoms daļējas finansēšanas gadījumā preču piegādei vai pakalpojumu sniegšanai (izņemot būvdarbus) ir mazāks par 5 000 latu vai būvdarbiem — par 50 000 latu, vai būvprojektēšanai — par 10 000 latu. Šādā gadījumā starp valsts vai pašvaldības pasūtītāju (turpmāk — valsts pasūtītājs) un piegādātāju (darbu izpildītāju) jānoslēdz rakstveida līgums.\n(4) Pasūtījuma vērtība nosakāma:\n1) piegādēm, būvdarbiem un ar būvniecību saistītiem darbiem — pēc konkrētā darījuma summas;\n2) pārējiem pakalpojumiem — pēc to gada apjoma.\n(5) Piešķirot valsts pasūtījumu, kas daļēji tiek finansēts no starptautisko finansu institūciju aizdevumu līdzekļiem, piemērojami starptautisko saistību noteikumi."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Latvijas starptautiskās saistības attiecībā uz valsts pasūtījuma piešķiršanas kārtību",
+      "content": "Ja starptautiskā līgumā, kuru apstiprinājusi Saeima, paredzēti citādi noteikumi nekā šajā likumā, piemērojami starptautiskā līguma noteikumi."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Pretendentu kvalifikācijas pārbaude",
+      "content": "(1) Valsts pasūtītājam ir pienākums pārbaudīt pretendenta kvalifikāciju, lai lemtu par viņa piemērotību piegādes vai darbu veikšanai vai pakalpojumu sniegšanai.\n(2) Kvalifikācijas pārbaude var notikt pirms izsoles (konkursa) dokumentu iesniegšanas, pirms pieteikumu pieņemšanas izsolei vai arī vienlaikus ar izsolei (konkursam) iesniegto piedāvājumu izskatīšanu.\n(3) Kvalifikācijas pārbaudes mērķis ir pārliecināties, vai:\n1) pretendentam ir valsts vai pašvaldības pasūtījuma līguma (turpmāk — valsts pasūtījuma līgums) izpildei nepieciešamā tehniskā kompetence, finansu resursi, iekārta un citas materiālās iespējas, kā arī attiecīgā pieredze, vadīšanas prasme, personāls un reputācija;\n2) pretendentam ir juridiskā rīcībspēja un tiesībspēja slēgt valsts pasūtījuma līgumu;\n3) pretendents nav pasludināts par maksātnespējīgu, neatrodas likvidācijas stadijā (uzņēmuma atrašanās privatizācijas stadijā nav uzskatāma par likvidāciju), viņa saimnieciskā darbība nav apturēta vai pārtraukta;\n4) pretendentam Latvijā nav nodokļu parādu.\n(4) Atsevišķos gadījumos valsts pasūtītājs var izvirzīt arī citas kvalifikācijas prasības.\n(5) Visām kvalifikācijas prasībām jābūt iepriekš noteiktām izsoles (konkursa) nolikumā vai arī atsevišķā kvalifikācijas pārbaudes nolikumā (ja tāds tiek izstrādāts); tām jāattiecas vienādi uz visiem pretendentiem.\n(6) Ja izsoles (konkursa) nolikumā paredzēts kvalifikācijas pārbaudes dokumentus izskatīt vienlaikus ar iesniegtajiem piedāvājumiem, tad ir atļauts kvalifikācijas pārbaudes dokumentus iesniegt vēlāk nekā pašu piedāvājumu, taču nepārsniedzot piedāvājuma iesniegšanai noteikto termiņu.\n(7) Ja kvalifikācijas pārbaudi paredzēts izdarīt pirms izsoles (konkursa), tad valsts pasūtītājs paziņo par to izsoles (konkursa) nolikumā, kā arī pēc pieprasījuma izsniedz (pret samaksu, ja tāda ir paredzēta) šādas pārbaudes veikšanai nepieciešamo dokumentu sarakstu, kurā jāiekļauj šādas ziņas:\n1) šā likuma 15.panta pirmās daļas 1., 2., 3. un 4.punktā minētā izsoles uzaicinājuma informācija;\n2) instrukcija par to, kā sagatavojams un iesniedzams pieteikums kvalifikācijas pārbaudei;\n3) konspektīvs pārskats par nākamā valsts pasūtījuma līguma noteikumiem;\n4) to dokumentu vai informācijas apraksts, ar kuriem pretendents varēs pierādīt savu kvalifikāciju;\n5) pieteikumu iesniegšanas vieta, laiks un kārtība, kā arī termiņš; turklāt termiņam jābūt pietiekami ilgam, lai pretendents varētu paspēt sagatavot visus nepieciešamos dokumentus.\n(8) Ja nepieciešams, valsts pasūtītājs var iekļaut sarakstā arī citus dokumentus. Valsts pasūtītājam šajā sarakstā jānorāda arī, kādā termiņā viņš paziņos savu lēmumu par pretendentu akceptēšanu vai noraidīšanu.\n(9) Valsts pasūtītājs pieņem lēmumu par pretendenta akceptēšanu, atļaujot viņam piedalīties tālākajās izsoles (konkursa) norisēs, vai arī par viņa noraidīšanu, vadoties vienīgi pēc kritērijiem, kas noteikti šā panta septītajā daļā minētajā dokumentu sarakstā.\n(10) Valsts pasūtītājs paziņo par savu lēmumu (akceptu vai noraidīšanu) katram pretendentam atsevišķi; pretendentiem, kas noraidīti, pēc viņu pieprasījuma paziņo arī noraidīšanas iemeslus.\n(11) Valsts pasūtītājs pēc pieprasījuma paziņo preses pārstāvjiem vai jebkuram interesentam tālākai izsolei (konkursam) pielaisto (bet ne noraidīto) pretendentu sarakstu.\n(12) Valsts pasūtītājam ir tiesības jebkurā laikā pieprasīt no izsolē (konkursā) pielaistajiem pretendentiem apstiprinājumu, ka viņu kvalifikācija joprojām atbilst noteiktajām prasībām. Ja pretendents to nespēj vai nedara vai arī atklājas, ka viņš sniedzis nepatiesu vai neprecīzu informāciju, valsts pasūtītājam viņš jāizslēdz no izsolei (konkursam) pielaisto pretendentu saraksta."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Pretendentu dalība",
+      "content": "(1) Valsts pasūtījumi piešķirami neatkarīgi no pretendenta valstiskās piederības, uzņēmuma reģistrēšanas un darbības vietas, uzņēmējdarbības formas un īpašuma piederības, ievērojot šā panta ceturtās — sestās daļas nosacījumus.\n(2) Ja uzaicinājumā piedalīties izsolē (konkursā) ir paziņots, ka pretendenti var piedalīties piegādē, darba veikšanā vai pakalpojuma sniegšanā neatkarīgi no savas valstiskās piederības, vēlāk šo paziņojumu nedrīkst grozīt.\n(3) Ja valsts pasūtītājs nolēmis noteikt ierobežojumus, ņemot vērā pretendentu valstisko piederību, šāda lēmuma cēloņi jāatspoguļo šā likuma 7.pantā minētajā dokumentācijā.\n(4) Šajā likumā minētās izsoles (konkursus) var rīkot kā:\n1) izsoles (konkursus) ar ārvalstu pretendentu piedalīšanos;\n2) izsoles (konkursus) bez ārvalstu pretendentu piedalīšanās.\n(5) Izsoles (konkursi) ar ārvalstu pretendentu piedalīšanos rīkojamas jebkurā no šādiem gadījumiem:\n1) valsts pasūtījuma paredzamā summa precēm un pakalpojumiem (izņemot būvdarbus) pārsniedz 104 000 latu;\n2) valsts pasūtījuma paredzamā summa būvdarbu investīciju projektam pārsniedz 4 000 000 latu.\n(6) Šā panta piektās daļas 1. un 2.punkta nosacījumus var nepiemērot, ja piegādājamās preču grupas tiek ražotas Latvijas rūpniecības jaunveidojamās un rekonstruējamās nozarēs vai arī ja Latvijā ražoto preču un Latvijas iedzīvotāju veicamo darbu vai sniedzamo pakalpojumu neizmantošana var radīt ievērojamas sociālas problēmas. Lēmumu par šo nosacījumu piemērošanu katrā konkrētā gadījumā pieņem Ministru kabinets.\n(7) Ja valsts pasūtījuma summa precēm un pakalpojumiem nepārsniedz 104 000 latu vai attiecīgi būvdarbiem un ar būvniecību saistītiem darbiem — 4 000 000 latu, valsts pasūtītājs ir tiesīgs lemt par ārvalstu pretendentu piedalīšanās lietderību."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Valsts pasūtījuma norises dokumentēšana",
+      "content": "(1) Valsts pasūtītāja pienākums ir, pamatojoties uz dokumentiem, valsts pasūtījuma piešķiršanas norisēs rakstveidā fiksēt:\n1) piegādājamo preču, veicamo darbu vai sniedzamo pakalpojumu īsu aprakstu vai arī to valsts pasūtītāja vajadzību īsu definīciju, kuru apmierināšanai viņš aicina iesniegt piedāvājumus;\n2) to pretendentu vārdu, uzvārdu, personas kodu (juridiskajām personām — nosaukumu) un adresi, kuri iesnieguši piedāvājumus vai priekšlikumus;\n3) informāciju, kas attiecas uz pretendentu kvalifikāciju;\n4) katra piedāvājuma galveno noteikumu (arī cenu) kopsavilkumu;\n5) iesniegto piedāvājumu salīdzināšanas un izvērtēšanas konspektīvu pārskatu;\n6) ja visi piedāvājumi izsolei (konkursam) ir noraidīti saskaņā ar šā likuma 23.pantu , — šāda noraidījuma pamatojumu;\n7) ja, izmantojot citas metodes, nevis izsoli (II nodaļa), nav panākta valsts pasūtījuma līguma noslēgšana, — šādas situācijas cēloņu konstatāciju un pamatojumu;\n8) ja piedāvājums noraidīts šā likuma 8.panta septītajā daļā minēto apstākļu dēļ, — informāciju par šiem apstākļiem;\n9) ja valsts pasūtītājs izsūta uzaicinājumus piedalīties izsolē (konkursā) vai kvalifikācijas pārbaudē ierobežotam pretendentu lokam, — informāciju, kāda prasīta konkursa gadījumā šā likuma 10.pantā ;\n10) ja izmantotas citas metodes, nevis izsole, — šā likuma 9.panta ceturtajā daļā paredzētos pamatojumus, kādēļ izraudzīta konkrētā metode;\n11) ja valsts pasūtītājs saskaņā ar šā likuma 6.pantu ierobežo pretendentu loku pēc viņu valstiskās piederības, — šāda ierobežojuma motīvus un pamatojumu;\n12) īsu informāciju par iesniegtajiem pieprasījumiem izskaidrot izsoles (konkursa) nolikuma vai kvalifikācijas pārbaudes dokumentus, par sniegtajām atbildēm un skaidrojumiem, kā arī par visiem grozījumiem, kas izdarīti šajos dokumentos.\n(2) Dokumentācijas daļai, kas attiecas uz šā panta pirmās daļas 1., 2. un 9.punktu, pieprasījuma gadījumā jābūt pieejamai ikvienam pēc tam, kad viens no piedāvājumiem ir pieņemts vai kad valsts pasūtījuma norises ir izbeigtas bez valsts pasūtījuma līguma noslēgšanas.\n(3) Dokumentācijas daļai, kas attiecas uz šā panta pirmās daļas 3., 4., 5., 6., 7. un 12. punktu, pieprasījuma gadījumā jābūt pieejamai tiem piegādātājiem vai darbu izpildītājiem, kuri iesnieguši piedāvājumu vai pieteikušies kvalifikācijas pārbaudei pēc tam, kad viens no piedāvājumiem ir pieņemts vai kad valsts pasūtījuma norises ir izbeigtas bez valsts pasūtījuma līguma noslēgšanas.\n(4) Informāciju, kas attiecas uz šā panta pirmās daļas 3., 4., 5. un 12.punktu, pirms viena piedāvājuma pieņemšanas likumdošanas aktos noteiktajā kārtībā var pieprasīt Valsts kontrole, tiesa, prokuratūra vai iekšlietu iestādes. Valsts pasūtītājs nedrīkst atklāt informāciju (izņemot gadījumus, kad to pieprasa tiesa):\n1) kuras atklāšana būtu pretrunā ar likumu, varētu kavēt likumu piemērošanu, būtu nevēlama no sabiedrības interešu viedokļa, varētu kaitēt ieinteresēto pušu likumīgām komerciālām interesēm vai kavēt godīgu konkurenci;\n2) kura attiecas uz piedāvājumu vai tajos paredzēto cenu pārbaudi, salīdzināšanu un izvērtēšanu.\n(5) Valsts pasūtījuma norises dokumentēšanas kārtību atbilstoši šim likumam nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Atklātums un vienlīdzīgu iespēju radīšana pretendentiem",
+      "content": "(1) Visiem pretendentiem, ja šajā likumā nav noteikts citādi, jārada vienlīdzīgas iespējas sacensties par tiesībām pildīt valsts pasūtījumu.\n(2) Valsts pasūtījumi piešķirami izsolēs; izmantot citas metodes atļauts, tikai ievērojot šā likuma 10. , 11. , 12. un 13.pantā minētos nosacījumus.\n(3) Visās valsts pasūtījuma piešķiršanas stadijās jāievēro atklātums. Informācijas apmaiņa starp valsts pasūtītāju [viņa iecelto izsoles (konkursa) komisiju] un pretendentiem jāveic rakstveidā. Valsts pasūtītāja pienākums ir šā likuma 7.pantā minēto informāciju fiksēt rakstveidā un nodrošināt tās pieejamību šā likuma 33.pantā minēto uzraudzības un kontroles institūciju amatpersonām, kā arī 7.panta otrajā un trešajā daļā minētajām personām.\n(4) Pretendentu kvalifikācijas pārbaudes noteikumi, izsoles (konkursa) nolikuma un piedāvājumu izvērtēšanas noteikumi nosakāmi un šajā likumā noteiktajā kārtībā publicējami iepriekš, un tos nedrīkst grozīt attiecīgās procedūras laikā.\n(5) Nedrīkst izvirzīt pretendentiem nevienlīdzīgas prasības attiecībā uz uzaicinājuma dokumentu, kvalifikācijas pārbaudes dokumentu, izsoles (konkursa) nolikuma dokumentu un paziņojumu izsniegšanas veidu un termiņiem, maksas ņemšanu par šiem dokumentiem, iesniedzamo kvalifikācijas pārbaudes dokumentu un izsoles (konkursa) piedāvājumu apjomu un saturu. Nedrīkst kavēt pretendentu (arī ārvalstu pretendentu) piedalīšanos izsolē (konkursā), izvirzot diskriminējošas prasības pakalpojumu vai preču aprakstiem, rasējumiem, testēšanas metodēm, preču marķēšanai, iesaiņošanai u.tml. Preču (pakalpojumu) aprakstos, rasējumos, izsoles (konkursa) nolikumos, kvalifikācijas pārbaudes prasībās pēc iespējas jālieto standartizēti apraksti, termini, simboli; ja tas nav pretrunā ar pasūtījuma būtību, aprakstos lietojama frāze \"vai līdzvērtīgus\".\n(6) Par ārvalstu pretendentus diskriminējošu nevar uzskatīt prasību par fizisko personu — būvspeciālistu sertificēšanu un būvfirmu kā juridisko personu licencēšanu, kā to nosaka Būvniecības likuma III nodaļas 10.panta trešā daļa.\n(7) Laikā no piedāvājuma iesniegšanas līdz izsoles (konkursa) rezultātu paziņošanai valsts pasūtītājam, kā arī viņa ieceltajām izsoles (konkursa) komisijām un citām amatpersonām aizliegtas jebkādas sarunas ar pretendentiem par viņu iesniegto piedāvājumu saturu; ja nepieciešams, atļauts vienīgi pieprasīt no pretendentiem papildu paskaidrojumus, kā arī apspriest iespējamos variantus atbilstoši šā likuma 24.panta devītās daļas nosacījumiem. Valsts pasūtītājam šajā laikposmā aizliegts informēt pretendentus par citu piedāvājumu esamību un to saturu.\n(8) Valsts pasūtītājam vai viņa amatpersonām aizliegts pieņemt no pretendentiem vai viņu pārstāvjiem jebkura veida atlīdzību par darbību vai tāda lēmuma pieņemšanu, kas saistīts ar izsoli (konkursu)."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa. Valsts pasūtījuma piešķiršana",
+      "section": "9",
+      "title": "Valsts pasūtījuma piešķiršanas metodes",
+      "content": "(1) Lēmumu par valsts pasūtījuma piešķiršanas metodēm saskaņā ar šo likumu pieņem valsts pasūtītājs.\n(2) Valsts pasūtījuma piešķiršanas pamatmetode ir izsole. Šā likuma 10. , 11. , 12. un 13.pantā minētajos gadījumos var lietot arī citas metodes:\n1) piešķiršanu uz konkursa pamata;\n2) piešķiršanu, veicot cenu aptauju;\n3) piešķiršanu, izskatot tikai viena piegādātāja piedāvājumu.\n(3) Ja darbu (pakalpojumu) vai piegādes raksturs to ļauj, valsts pasūtītājam ir tiesības sadalīt valsts pasūtījumu atsevišķās daļās un dot iespēju pretendentiem iesniegt piedāvājumus uz vienu vai vairākām daļām; nav atļauts valsts pasūtījumu nepamatoti sadalīt daļās, lai apietu šā likuma 3. , 6. un 11.pantā noteiktos ierobežojumus.\n(4) Ja tiek izmantotas citas metodes, nevis izsole, dokumentācijā ( 7.pants ) iekļaujami paskaidrojumi par iemesliem un nosacījumiem, kuri attaisno citu metožu izmantošanu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa. Valsts pasūtījuma piešķiršana",
+      "section": "10",
+      "title": "Nosacījumi valsts pasūtījuma piešķiršanai uz konkursa pamata",
+      "content": "Valsts pasūtītājs var piešķirt valsts pasūtījumu uz konkursa pamata ( 24.pants ), ja:\n1) valsts pasūtītājam nav iespējams formulēt preču vai pakalpojumu specifikāciju ar tādu detalizācijas pakāpi, lai varētu izsludināt izsoli, šādos gadījumos:\na) trūkst nepieciešamo tehnisko rādītāju, tādēļ nav iespējams izstrādāt izsoles nolikumu,\nb) jānoskaidro izdevīgākais, labākais un lietderīgākais projekts vai sistēma sarežģītam objektam,\nc) produkcija ir patentēta vai nepieciešama eksperimentam,\nd) pasūtītāja vajadzību apmierināšanai iespējami vairāki alternatīvi varianti;\n2) valsts pasūtītājs vēlas noslēgt līgumu, lai veiktu pētniecības darbus vai apmācību;\n3) izsole ir izsludināta, bet nav pretendentu vai valsts pasūtītājs noraidījis visus piedāvājumus saskaņā ar šā likuma 23.pantu ;\n4) lauzts iepriekšējais valsts pasūtījuma līgums izpildītāja vainas dēļ un valsts pasūtītājs nolēmis, ka izsoles rīkošana uz atlikušo valsts pasūtījuma daļu nav lietderīga."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa. Valsts pasūtījuma piešķiršana",
+      "section": "11",
+      "title": "Nosacījumi valsts pasūtījuma piešķiršanai, veicot cenu aptauju",
+      "content": "(1) Valsts pasūtītājs var piešķirt valsts pasūtījumu, iegūstot un izskatot informāciju par attiecīgās dienas cenām ( 25.pants ), iepērkot preces vai uzdodot sniegt pakalpojumus, ja preces vai pakalpojumi netiek sagatavoti pēc valsts pasūtītāja speciāla pasūtījuma vai specifikācijas, bet šādas preces jau tiek ražotas vai pakalpojumi jau tiek sniegti neatkarīgi no valsts pasūtījuma, tiem jau ir nostabilizējies tirgus un preces ir piegādātāja rīcībā.\n(2) Darbus vai piegādes, kuru raksturs atbilst šā panta pirmās daļas noteikumiem, var piešķirt ar cenu aptaujas metodi, ja valsts pasūtījuma paredzamā vērtība ir līdz 10 000 latu.\n(3) Valsts pasūtītājs nedrīkst sadalīt pasūtījuma apjomu atsevišķās daļās, lai varētu izmantot šā panta nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa. Valsts pasūtījuma piešķiršana",
+      "section": "12",
+      "title": "Nosacījumi, ar kādiem tiek izskatīts tikai viens piedāvājums",
+      "content": "(1) Valsts pasūtītājs var slēgt valsts pasūtījuma līgumu, izskatot tikai vienu piedāvājumu, ja:\n1) ir iespējams iepirkt preces vai saņemt pakalpojumus tikai no viena pretendenta un nav citas pamatotas alternatīvas vai aizvietotāju;\n2) preces vai pakalpojumi ir steidzami nepieciešami, tāpēc iesaistīšanās izsolē ir neiespējama vai nepamatota — ar nosacījumu, ka apstākļus, kuri radīja šo steidzamo nepieciešamību, valsts pasūtītājs nevarēja iepriekš paredzēt;\n3) ir radušies nepārvarami apstākļi vai ārkārtas situācija, tāpēc nav iespējams izmantot citas valsts pasūtījuma piešķiršanas metodes, kam nepieciešams ilgāks laiks;\n4) pasūtītājs, kura rīcībā jau ir no kāda piegādātāja iepirktās preces, iekārta vai tehnoloģija, nosaka, ka papildu piegādei jāizmanto iepirkums no tā paša piegādātāja standartizācijas apsvērumu dēļ vai tādēļ, lai nodrošinātu tehnisko savienojamību ar jau iepirktajām precēm, iekārtu vai tehnoloģiju, ņemot vērā sākotnējā iepirkuma efektivitāti valsts pasūtītāja vajadzību apmierināšanā, lai ierobežotu papildu iepirkuma lielumu salīdzinājumā ar sākotnējo iepirkumu, kā arī ja ir pamatotas cenas un nav pieņemamas alternatīvas;\n5) pasūtītājs vēlas slēgt līgumu, lai veiktu pētniecības darbus, eksperimentus vai ar tiem saistītās mācības vai pilnveidošanu, kas noved pie prototipa iepirkšanas, kā arī pētniecības darbus, metodiku un normatīvu projektu izstrādi un mācības, kuru paredzamā vērtība nepārsniedz 5000 latu.\n(2) Ja valsts pasūtījuma paredzamā vērtība vai valsts vai pašvaldības pasūtījuma paredzamais apjoms daļējas finansēšanas gadījumā preču piegādei vai pakalpojumu sniegšanai ir lielāks par 5000 latu vai būvdarbiem — lielāks par 50 000 latu, vai būvprojektēšanai — lielāks par 10 000 latu, paziņojumu par viena piedāvājuma izskatīšanu un šāda lēmuma pieņemšanas motīviem valsts pasūtītājs nākamajā dienā pēc lēmuma pieņemšanas nosūta Finansu ministrijai."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa. Valsts pasūtījuma piešķiršana",
+      "section": "13",
+      "title": "Nosacījumi, ar kādiem darbi tiek veikti vai pakalpojumi sniegti saimnieciskā kārtā",
+      "content": "(1) Lēmumu par darbu veikšanu vai pakalpojumu sniegšanu saimnieciskā kārtā valsts pasūtītājs pieņem, ievērojot tāmes aprēķinus.\n(2) Darbi kopumā vai pa daļām veicami saimnieciskā kārtā, ja:\n1) šāds darbu izpildes veids ir lētāks;\n2) šādu izpildes veidu prasa darba raksturs, kvalitāte vai steidzamība;\n3) atkārtota izsole (konkurss) nav devusi vēlamos rezultātus."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "14",
+      "title": "Izsoles uzaicinājuma un uzaicinājuma uz iepriekšēju kvalifikācijas pārbaudi izsludināšanas procedūra",
+      "content": "(1) Izsoles uzaicinājumu attiecībā uz preču piegādes, būvdarbu veikšanas, būvprojektēšanas vai pakalpojumu sniegšanas tiesībām un uzaicinājumu uz iepriekšēju kvalifikācijas pārbaudi (ja tāda paredzēta) sagatavo un Finansu ministrijai iesniedz valsts pasūtītājs. Finansu ministrija triju darbadienu laikā pēc uzaicinājuma saņemšanas pārbauda tā saturu un, ja uzaicinājums atbilst šā likuma 15.panta prasībām, ievieto to interneta tīklā, kā arī nosūta laikrakstam \"Latvijas Vēstnesis\". Ja uzaicinājums neatbilst šā likuma 15.panta prasībām, Finansu ministrija pieprasa paskaidrojumus vai papildinājumus un pēc to saņemšanas ievieto minētajām prasībām atbilstošu uzaicinājumu interneta tīklā, kā arī nosūta laikrakstam \"Latvijas Vēstnesis\".\n(2) Izsoles uzaicinājumu un uzaicinājumu uz iepriekšēju kvalifikācijas pārbaudi valsts pasūtītājs izsludina laikrakstā \"Latvijas Vēstnesis\", kā arī vismaz vienā vietējā laikrakstā. Ja preču piegādes vai pakalpojumu paredzamā vērtība pārsniedz 500 000 latu vai ja būvdarbu vērtība pārsniedz 4 000 000 latu, uzaicinājumu uz izsoli izsludina arī kādā starptautiskā preses izdevumā vai attiecīgās nozares izdevumā.\n(3) Pirmo sludinājumu ar šā likuma 15.panta prasībām atbilstošu izsoles uzaicinājumu publicē vismaz 40 dienas pirms piedāvājumu atvēršanas, bet, ja likums neparedz ārvalstu pretendentu piedalīšanos, — 30 dienas pirms piedāvājumu atvēršanas. Izņēmuma gadījumos, kad preču piegāde, būvdarbu veikšana vai pakalpojumu sniegšana ir steidzama, jo radušies nepārvarami apstākļi vai ārkārtas situācija, kuru valsts pasūtītājs nevarēja iepriekš paredzēt un kuras dēļ nepieciešams nekavējoties veikt valsts pasūtījumu, šo termiņu var saīsināt līdz 10 dienām. Ja izsoles uzaicinājums ir publicēts vairākos preses izdevumos, termiņu sāk skaitīt no dienas, kad tas publicēts laikrakstā \"Latvijas Vēstnesis\"."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "15",
+      "title": "Izsoles uzaicinājuma saturs",
+      "content": "(1) Izsoles uzaicinājumā norāda:\n1) valsts pasūtītāja nosaukumu un adresi;\n2) piegādājamo preču, veicamo darbu un sniedzamo pakalpojumu nosaukumu un daudzumu, kā arī vietu, kur jāpiegādā preces, jāveic darbi vai jāsniedz pakalpojumi;\n3) termiņus, kādos precēm jābūt piegādātām, darbiem veiktiem vai pakalpojumiem sniegtiem;\n4) pretendenta kvalifikācijas pārbaudes kritērijus un procedūras;\n5) kādā veidā, kad un kurā vietā var iepazīties ar izsoles nolikuma dokumentiem vai tos iegādāties, kā arī maksu par tiem;\n6) piedāvājumu iesniegšanas vietu un datumu;\n7) citus noteikumus, ja valsts pasūtītājs to uzskata par nepieciešamu.\n(2) Uzaicinājums uz kvalifikācijas pārbaudi varētu arī neietvert informāciju, kura minēta šā panta pirmās daļas 5. un 6.punktā, bet tajā ietverama vēl šāda informācija:\n1) kādā veidā un kurā vietā var saņemt nolikumus vai kvalifikācijas pārbaudes dokumentus un kāda ir maksa par šiem dokumentiem;\n2) kvalifikācijas pārbaudes dokumentu iesniegšanas vieta un termiņš.\n(3) Pēc izsoles izziņošanas interesenti var:\n1) iepazīties ar izsoles nolikumu;\n2) iepazīties ar projektiem, darbu aprakstiem un darbu izmaksu aprēķiniem;\n3) apskatīt piegādājamās produkcijas paraugus."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "16",
+      "title": "Izsoles nolikuma dokumentu pieejamība",
+      "content": "(1) Valsts pasūtītājam jānodod izsoles nolikuma dokumenti pretendentu rīcībā saskaņā ar procedūrām un prasībām, kas noteiktas izsoles uzaicinājumā. Ja ir paredzētas kvalifikācijas pārbaudes procedūras, valsts pasūtītājam jānodod izsoles nolikuma dokumentu komplekts katram pretendentam, kas izturējis kvalifikācijas pārbaudi un samaksājis par dokumentiem (ja tāda samaksa bija paredzēta).\n(2) Samaksu nosaka valsts pasūtītājs, un tai jāatbilst faktiskajiem izdevumiem par nolikuma pavairošanu un nosūtīšanu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "17",
+      "title": "Izsoles nolikuma saturs",
+      "content": "(1) Izsoles nolikumā, uz kura pamata tiks sagatavoti piedāvājumi izsolei, norāda:\n1) pamatnoteikumus par izsoles organizēšanu;\n2) pretendentu kvalifikācijas pārbaudes prasības un kārtību;\n3) izsoles objektu — preču, būvju, pakalpojumu — kvantitatīvos un kvalitatīvos raksturlielumus, līgumu slēgšanas, darbu un piegāžu izpildes un kontroles kārtību;\n4) iesniegto piedāvājumu vērtēšanas kritērijus un kārtību;\n5) preču, darbu vai pakalpojumu cenas noteikšanas un samaksas kārtību;\n6) piedāvājumu nodrošinājuma vajadzību, būtību, veidu, apjomu, maksājuma termiņus un citus nosacījumus;\n7) piedāvājumu sagatavošanas un iesniegšanas kārtību;\n8) piedāvājumu atvēršanas, vērtēšanas un līgumu slēgšanas procedūru;\n9) citus noteikumus, atsauces uz citiem normatīvajiem aktiem.\n(2) Izsoles izsludināšanas un izsoles dokumentu sagatavošanas kārtību atbilstoši šim likumam nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "18",
+      "title": "Izsoles piedāvājuma dokumentu iesniegšana",
+      "content": "(1) Valsts pasūtītājs nosaka izsoles piedāvājuma dokumentu iesniegšanas termiņu.\n(2) Ja valsts pasūtītājs šajā likumā noteiktajos gadījumos groza piedāvājuma dokumentu saturu, viņam savlaicīgi jāinformē visi pretendenti par izdarītajiem grozījumiem un jāpaziņo termiņš (ja tas nepieciešams) izsoles piedāvājuma dokumentu iesniegšanai, lai pretendentiem pietiktu laika iepazīties ar šiem grozījumiem; ja valsts pasūtītājs organizē tikšanos ar pretendentiem, viņam savlaicīgi jāizziņo tikšanās laiks un vieta, lai visiem pretendentiem būtu iespēja piedalīties.\n(3) Valsts pasūtītājs var izsludināt vēlāku laiku izsoles piedāvājuma dokumentu iesniegšanai, ja viens pretendents vai vairāki pretendenti nav spējīgi savlaicīgi iesniegt savus piedāvājumus izsolei no viņiem neatkarīgu apstākļu dēļ.\n(4) Par piedāvājuma dokumentu iesniegšanas datuma un laika maiņu valsts pasūtītājam jāpaziņo katram izsoles dalībniekam.\n(5) Valsts pasūtītājam pēc pretendenta pieprasījuma jāpaziņo piedāvājuma dokumentu saņemšanas datums un laiks.\n(6) Piedāvājuma dokumenti iesniedzami aizlīmētās aploksnēs līdz nolikumā paredzētajam termiņam. Uz aploksnes jābūt norādei par to, kurai izsolei piedāvājums adresēts.\n(7) Vienlaikus ar rakstveida piedāvājuma dokumentu iesniegšanu jāiemaksā nodrošinājums izsoles nolikumā paredzētajā apmērā un kārtībā.\n(8) Piedāvājuma dokumenti, kuri neatbilst šā likuma 17. un 18.panta prasībām, uzskatāmi par nederīgiem, un nodrošinājums izmaksājams atpakaļ.\n(9) Piedāvājuma dokumentus izsolei var iesniegt līdz nolikumā noteiktajai dienai un stundai:\n1) sūtot pa pastu tā, lai valsts pasūtītājs saņemtu tos noteiktajā termiņā;\n2) nododot tieši valsts pasūtītāja amatpersonām (izsoles komisijai).\n(10) Visi piedāvājuma dokumenti līdz izsolei glabājami aizlīmētās aploksnēs. Priekšlaicīga aplokšņu atvēršana nav pieļaujama.\n(11) Ja piedāvājuma dokumenti saņemti pēc izsoles nolikumā paredzētā termiņa, aizlīmētā aploksne ar piedāvājumu izsolei netiek atvērta un valsts pasūtītājam tā jānosūta atpakaļ attiecīgajam pretendentam.\n(12) Izsoles piedāvājuma dokumentu iesniegšanas kārtību atbilstoši šim likumam nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "19",
+      "title": "Piedāvājuma derīguma laiks",
+      "content": "(1) Piedāvājumi izsolei ir spēkā tikai izsoles nolikumā norādītajā laika posmā, kas sākas ar iesniegšanas termiņu.\n(2) Piedāvājumu derīguma laikā valsts pasūtītājs var lūgt pretendenta piekrišanu pagarināt uz noteiktu laiku piedāvājuma derīgumu. Tad:\n1) pretendents var nepiekrist laika pagarinājumam, turklāt šajā gadījumā viņš nezaudē piedāvājuma nodrošinājumu, bet piedāvājuma derīgums nepagarinātajā laika posmā tiek saglabāts;\n2) pretendentiem, kas piekrituši piedāvājuma derīguma laika pagarinājumam, nepieciešams pagarināt arī piedāvājuma nodrošinājuma derīguma laiku, bet, ja tas nav iespējams, jāpanāk jauns piedāvājuma nodrošinājums uz visu pagarinājuma laiku. Ja pretendents nepagarina nodrošinājuma termiņu vai nepanāk jaunu nodrošinājumu, tiek uzskatīts, ka viņš atteicis piedāvājuma derīguma pagarinājumu.\n(3) Ja izsoles nolikumā nav noteikts citādi, pretendents var mainīt vai atsaukt savu piedāvājumu pirms piedāvājuma iesniegšanas laika izbeigšanās, nezaudējot piedāvājuma nodrošinājumu.\n(4) Piedāvājuma grozījumi vai atsaukšana ir spēkā, ja valsts pasūtītājs to saņem pirms piedāvājumu iesniegšanas laika izbeigšanās."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "20",
+      "title": "Piedāvājuma nodrošinājums",
+      "content": "(1) Valsts pasūtītājs var pieprasīt no pretendentiem, kas piesakās izsolei, piedāvājuma nodrošinājumu, ievērojot šādus noteikumus:\n1) pieprasījums attiecināms uz visiem pretendentiem vienādi un bez izņēmuma;\n2) izsoles nolikumā nosakāms, kādas institūcijas vai organizācijas var dot piedāvājuma nodrošinājumu vai arī apliecināt, kādi piedāvājuma nodrošinājuma veidi un termiņi ir pieņemami valsts pasūtītājam;\n3) valsts pasūtītājs nav tiesīgs noraidīt piedāvājuma nodrošinājumu, ja nodrošinājums un pats piedāvājuma iesniedzējs atbilst izsoles nolikumā noteiktajām prasībām un ja nodrošinājums nav pretrunā ar likumiem;\n4) pirms piedāvājuma iesniegšanas pretendents var pieprasīt no valsts pasūtītāja apliecinājumu, ka piedāvātais nodrošinājums ir pieņemams. Valsts pasūtītājam nekavējoties jāatbild uz katru šādu pieprasījumu;\n5) apliecinājums, ka piedāvātais nodrošinājums ir pieņemams, neizslēdz iespēju valsts pasūtītājam turpmāk atteikties no nodrošinātāja, kurš atzīts par maksātnespējīgu.\n(2) Valsts pasūtītājam nekavējoties jāatdod atpakaļ nodrošinājuma dokumenti, ja:\n1) izbeidzies piedāvājuma nodrošinājuma termiņš un tas nav pagarināts;\n2) stājies spēkā valsts pasūtījuma līgums (izņemot gadījumus, kad līgums paredz izsoles nodrošinājuma ieskaitīšanu līguma nodrošinājumā);\n3) izsoles procedūra beigusies bez valsts pasūtījuma līguma stāšanās spēkā;\n4) piedāvājums atsaukts pirms noteiktā piedāvājumu iesniegšanas termiņa izbeigšanās."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "21",
+      "title": "Izsoles piedāvājumu atvēršana",
+      "content": "(1) Izsoles piedāvājumu atvēršana jāsāk izsoles nolikumā paredzētajā laikā un vietā.\n(2) Pretendenti, kas iesnieguši piedāvājumus, vai viņu pārstāvji drīkst piedalīties izsoles piedāvājumu atvēršanā, ja tas nav aizliegts izsoles nolikumā.\n(3) Valsts pasūtītāja amatpersonas (izsoles komisija) izsoles dalībnieku klātbūtnē atver aizlīmētās aploksnes un skaļi nolasa katra piedāvājuma galvenos datus (to skaitā cenu). Uz iesniegtajiem piedāvājumiem parakstās visi izsoles komisijas locekļi.\n(4) Tālāko izsoles procedūras daļu komisija veic bez pretendentu un citu piedāvājumu atvēršanā pielaisto personu klātbūtnes."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "22",
+      "title": "Piedāvājumu izskatīšana, salīdzināšana un novērtēšana",
+      "content": "(1) Valsts pasūtītājs ir tiesīgs pieprasīt no pretendentiem paskaidrojumus par viņu iesniegtajiem piedāvājumiem, ja tas nepieciešams piedāvājumu salīdzināšanai un novērtēšanai. Piedāvājuma būtībā un cenās nekādi grozījumi nav pieļaujami.\n(2) Valsts pasūtītājs ir tiesīgs labot aritmētiskas kļūdas, kas konstatētas piedāvājumu izskatīšanā, un viņam jāpaziņo pretendentam par visiem labojumiem.\n(3) Valsts pasūtītājs var uzskatīt piedāvājumu par atbilstošu vienīgi tad, ja tas atbilst visām izsoles noteikumos norādītajām prasībām.\n(4) Valsts pasūtītājs neakceptē piedāvājumu, ja:\n1) pretendents nav apliecinājis savu kvalifikāciju;\n2) pretendents, kas iesniedzis piedāvājumu, nepiekrīt aritmētisko kļūdu labojumiem, kurus izdarījis valsts pasūtītājs saskaņā ar šā panta otro daļu.\n(5) Valsts pasūtītājam jāsalīdzina un jānovērtē iesniegtie piedāvājumi, kuri bija akceptēti izsolei saskaņā ar izsoles dokumentos paredzētajiem kritērijiem un procedūrām.\n(6) Pēc iesniegto piedāvājumu izskatīšanas izsoles komisija sastāda piedāvāto cenu sarakstu, pārbauda iemaksātā nodrošinājuma lielumu un noraida nederīgos piedāvājumus.\n(7) Ja tas ir paredzēts izsoles nolikumā, valsts pasūtītājs dod iespēju vietējiem pretendentiem vai arī vietējā ražojuma precēm noteiktā kārtībā gūt priekšrocības izsoles rezultātu aprēķināšanā un visizdevīgākā piedāvājuma noteikšanā.\n(8) Izsoli var uzskatīt par sekmīgu, ja:\n1) tā pabeigta ar visizdevīgāko cenu, ievērojot valsts pasūtītāja noteiktās robežas (ja tādas bija noteiktas);\n2) valsts pasūtītājs protokolā fiksē atrunu, ka visizdevīgākā cena noteikta pēc izsoles nolikumā paredzētajiem kritērijiem. Tiem jābūt objektīviem un kvantitatīviem, ar konkrētu īpatsvaru un novērtētiem naudas izteiksmē.\n(9) Nosakot visizdevīgāko cenu izsolē, valsts pasūtītājam jāņem vērā:\n1) preču, pakalpojumu un darbu kvalitāte, transportēšanas izmaksas un citi ar to saistītie izdevumi, teritoriālie faktori, ietekme uz vidi, preču piegādes un būvdarbu pabeigšanas termiņi, preču funkcionālie raksturojumi, preču un būvdarbu nodrošinājuma samaksas termiņš;\n2) tas, kā izsoles piedāvājuma pieņemšana ietekmēs valsts maksājumu bilanci, valūtas resursus, vietējās ražošanas daļu pasūtījumā, ieskaitot ražošanu, darbu un materiālus; ekonomikas attīstības potenciālu, ieskaitot vietējās investīcijas un citas uzņēmējdarbības aktivitātes, iedzīvotāju nodarbinātību, noteikta produkcijas daudzuma rezervēšanu vietējiem piegādātājiem, jaunas tehnoloģijas ieviešanu, zinātnes attīstību un progresīvu ražošanas iemaņu attīstību.\n(10) Izsoles nolikumā valsts pasūtītājam jāparedz, ka tas izskatīs izsoles piedāvājumus un pieņems lēmumu par līguma slēgšanu ar tādu aprēķinu, lai valsts pasūtītājs varētu paziņot par to visizdevīgākā piedāvājuma iesniedzējam pirms piedāvājuma derīguma termiņa izbeigšanās pat tādā gadījumā, kad pirmā visizdevīgākā piedāvājuma iesniedzējs atsakās slēgt līgumu vai arī kādu šajā likumā minēto apstākļu dēļ zaudē tiesības slēgt līgumu. Ja piedāvājumu izskatīšana, salīdzināšana un izvērtēšana prasa ilgāku laiku vai nepieciešams veikt pētījumus un eksperimentus, vai arī nepieciešama Ministru kabineta piekrišana, valsts pasūtītājs rezultātus var paziņot vēlākā termiņā, ja tas ir paredzēts izsoles nolikumā.\n(11) Ja piedāvājuma iesniedzējam likumā noteiktajā termiņā nav paziņoti izsoles (konkursa) rezultāti, viņam ir tiesības atteikties no līguma parakstīšanas un saņemt atpakaļ nodrošinājumu.\n(12) Komisija izvēlas visizdevīgāko piedāvājumu un sastāda protokolu. Pārējiem izsoles dalībniekiem, kuri nav saņēmuši darbu vai piegāžu izpildes tiesības, 10 dienu laikā izsniedz atpakaļ nodrošinājumu.\n(13) Neatkarīgi no tā, vai pretendents bija vai nebija iesaistīts kvalifikācijas pārbaudes procedūrā, valsts pasūtītājam ir tiesības pieprasīt, lai pretendents, kura piedāvājums atzīts par visizdevīgāko, vēlreiz apliecina savu kvalifikāciju saskaņā ar izsoles nolikumā paredzētajiem kritērijiem. Otrreizējās kvalifikācijas apliecināšanas kritērijiem jābūt fiksētiem izsoles nolikumā. Ja pirms izsoles notikusi kvalifikācijas pārbaudes procedūra, otrreizējā apliecinājuma kritērijiem jābūt tādiem pašiem kā pirmajā kvalifikācijas pārbaudes procedūrā.\n(14) Ja no pretendenta, kas iesniedzis visizdevīgāko piedāvājumu, pieprasīts otrreizējs kvalifikācijas apliecinājums, bet pretendents to neiesniedz, valsts pasūtītājam viņš jāizslēdz no izsoles dalībnieku saraksta un jānosaka visizdevīgākais piedāvājums no atlikušajiem piedāvājumiem.\n(15) Ja izsolē nav iesniegts neviens piedāvājums, valsts pasūtītājs rīkojas tāpat kā tad, kad visi piedāvājumi tiek noraidīti ( 23.pants ). Ja iesniegts tikai viens piedāvājums, valsts pasūtītājs lemj, vai ir iespējama valsts pasūtījuma piešķiršana šim vienīgajam pretendentam saskaņā ar šā likuma 12.pantu .\n(16) Piedāvājumu salīdzināšanas un novērtēšanas kārtību izsolē atbilstoši šim likumam nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa. Izsoles organizēšana",
+      "section": "23",
+      "title": "Visu piedāvājumu noraidīšana",
+      "content": "(1) Valsts pasūtītājs ir tiesīgs jebkurā laikā pirms kāda piedāvājuma pieņemšanas noraidīt visus piedāvājumus. Valsts pasūtītājam jāpaziņo katram pretendentam, kas to pieprasa, visu piedāvājumu noraidīšanas iemesls, bet nav nepieciešams to juridiski, ekonomiski vai citādi pamatot.\n(2) Paziņojums par visu piedāvājumu noraidīšanu izsniedzams visiem pretendentiem, kuri iesnieguši piedāvājumus izsolē.\n(3) Valsts pasūtītājs var noraidīt visus iesniegtos piedāvājumus arī tad, ja cena tajos neatbilst valsts pasūtītāja iepriekš noteiktajām robežām (ja tādas bija noteiktas). Šādu robežu skaitlisko izteiksmi valsts pasūtītājs nedrīkst paziņot pretendentiem pirms izsoles rezultātu publicēšanas.\n(4) Valsts pasūtītājs neuzņemas nekādas saistības pret pretendentiem sakarā ar visu piedāvājumu noraidīšanu."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa. Pasūtījuma piešķiršana uz konkursa pamata un veicot cenu aptauju",
+      "section": "24",
+      "title": "Valsts pasūtījuma piešķiršana uz konkursa pamata",
+      "content": "(1) Konkurss var būt atklāts (pretendentu loks nav ierobežots) vai slēgts (pretendentu loks ir ierobežots).\n(2) Lēmumu par slēgta konkursa rīkošanu valsts pasūtītājs pieņem, ja, izvērtējot iespējamos pretendentus, secina, ka tikai nedaudziem no tiem ir pietiekama kvalifikācija sarežģīta valsts pasūtījuma veikšanai. Šie apstākļi atspoguļojami konkursa dokumentācijā.\n(3) Atklāta konkursa uzaicinājumā un paziņojumā par slēgtu konkursu norāda:\n1) ziņas par valsts pasūtītāju;\n2) piegādājamo produkciju vai veicamos darbus, sniedz to tehnisko raksturojumu;\n3) piegādājamās produkcijas vai veicamo darbu izpildes vietu un termiņu;\n4) piedāvājumu pieņemšanas termiņu (dienu un stundu), pēc kura citus piedāvājumus vairs neņem vērā;\n5) kur, kad un kā var iepazīties ar konkursa nolikumu un citiem dokumentiem un tos saņemt, kā arī maksu par šo dokumentu saņemšanu.\n(4) Konkursu organizējot, jānosaka, ir vai nav iemaksājams piedāvājuma nodrošinājums.\n(5) Atklāta konkursa uzaicinājuma un paziņojuma par slēgtu konkursu sagatavošana un izziņošana notiek šādā kārtībā:\n1) atklāta konkursa uzaicinājumu sagatavo un Finansu ministrijai nosūta valsts pasūtītājs. Finansu ministrija triju darbadienu laikā pēc uzaicinājuma saņemšanas pārbauda tā saturu un, ja uzaicinājums atbilst šā panta trešās daļas prasībām, ievieto to interneta tīklā, kā arī nosūta laikrakstam \"Latvijas Vēstnesis\". Ja uzaicinājums neatbilst šā panta trešās daļas prasībām, Finansu ministrija pieprasa paskaidrojumus vai papildinājumus un pēc to saņemšanas ievieto minētajām prasībām atbilstošu uzaicinājumu interneta tīklā, kā arī nosūta laikrakstam \"Latvijas Vēstnesis\";\n2) ja valsts pasūtījuma piešķiršana notiek, izmantojot slēgta konkursa metodi, valsts pasūtītājs sagatavo paziņojumu par slēgtu konkursu, norādot pamatojumu šādas metodes izvēlei. Paziņojumu par slēgtu konkursu valsts pasūtītājs nosūta Finansu ministrijai, kas to ievieto interneta tīklā;\n3) atklāta konkursa uzaicinājumu valsts pasūtītājs izsludina laikrakstā \"Latvijas Vēstnesis\", kā arī vismaz vienā vietējā laikrakstā. Ja preču piegādes vai pakalpojumu paredzamā vērtība pārsniedz 500 000 latu vai ja būvdarbu vērtība pārsniedz 4 000 000 latu, uzaicinājumu uz konkursu izsludina arī kādā starptautiskā preses izdevumā vai attiecīgās nozares izdevumā;\n4) pirmo sludinājumu ar uzaicinājumu piedalīties atklātā konkursā publicē laikrakstā \"Latvijas Vēstnesis\" vismaz 40 dienas pirms konkursa piedāvājumu atvēršanas, bet, ja likums neparedz ārvalstu pretendentu piedalīšanos, — 30 dienas pirms piedāvājumu atvēršanas. Izņēmuma gadījumos, kad preču piegāde, būvdarbu veikšana vai pakalpojumu sniegšana ir steidzama, jo radušies nepārvarami apstākļi vai ārkārtas situācija, kuru valsts pasūtītājs nevarēja iepriekš paredzēt un kuras dēļ nepieciešams nekavējoties veikt valsts pasūtījumu, šo termiņu var saīsināt līdz 10 dienām;\n5) uzaicinājumu piedalīties slēgtā konkursā izsūta ierakstītā vēstulē vairākiem (vismaz trim) iespējamiem pretendentiem.\n(6) Valsts pasūtītājs nosaka kritērijus, pēc kuriem novērtēs piedāvājumus, un katra kritērija īpatsvaru, kā arī kritēriju izmantošanas metodi piedāvājumu novērtēšanā.\n(7) Konkursa piedāvājumu atvēršanas dienā komisija parakstās uz iesniegtajiem rakstveida piedāvājumiem un sastāda piedāvājumu sarakstu.\n(8) Pēc uzaicinājumā noteiktās dienas un stundas komisija jaunus piedāvājumus vai papildu paziņojumus no konkursa dalībniekiem nepieņem. Komisijai ir tiesības prasīt no konkursa dalībniekiem mutvārdu vai rakstveida paskaidrojumus attiecībā uz viņu iesniegumiem.\n(9) Izvērtējot konkursam iesniegtos piedāvājumus, valsts pasūtītājs izvēlas izdevīgākos piedāvājumus. Turklāt valsts pasūtītājs var ņemt vērā ne vien pieteiktās zemākās darbu vai piegāžu izpildes cenas, bet arī uzņēmēja uzticamību, viņa agrāk izpildīto darbu un piegāžu kvalitāti, piedāvātās produkcijas īpašības, darbu izpildes steidzamību, kā arī tautsaimniecības intereses. Šādā gadījumā protokolā vai lēmumā jānorāda motīvi, kādēļ izraudzīti konkrētie piegādātāji vai uzņēmēji. Ja konkursam iesniegts tikai viens darbu vai piegāžu izpildes piedāvājums un ja tas ir izdevīgs un atbilst konkursa nosacījumiem, valsts pasūtītājs darbu vai piegāžu izpildi var uzticēt šim pretendentam.\n(10) Pēc tam, kad valsts pasūtītājs izvēlējies vienu vai vairākus izdevīgākos piedāvājumus, tam ir tiesības rīkot sarunas ar šo piedāvājumu iesniedzējiem, lai precizētu piedāvājumu detaļas un uzzinātu pretendentu domas par iespējām daļēji grozīt viņu iesniegtos risinājumus. Ir jānodrošina šo sarunu konfidencialitāte.\n(11) Pēc izdevīgāko piedāvājumu izskatīšanas un sarunu (ja tādas notikušas) rezultātu analīzes valsts pasūtītājs izvēlas sev visizdevīgāko risinājumu, izstrādā izsoles nolikumu un uz tā pamata izsludina izsoli, dodot iespēju tajā piedalīties arī citiem pretendentiem, kuri nebija iesnieguši piedāvājumus konkursam.\n(12) Pretendentam, kurš nepiekrīt valsts pasūtītāja izstrādātajam izsoles nolikumam, ir tiesības atteikties no tālākas līdzdalības konkursā, nezaudējot iemaksāto nodrošinājumu.\n(13) Konkursa sagatavošanas un norises kārtību atbilstoši šim likumam nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa. Pasūtījuma piešķiršana uz konkursa pamata un veicot cenu aptauju",
+      "section": "25",
+      "title": "Cenu aptauja",
+      "content": "(1) Valsts pasūtītājam jāpieprasa informācija par cenu no iespējami daudziem potenciālajiem piegādātājiem (darbu izpildītājiem). Katram no šiem piegādātājiem (darbu izpildītājiem) uzaicinājumā ir jāpaskaidro, vai viņa nosauktā cena attieksies tikai uz pašu preci, darbu vai pakalpojumu vai arī tajā jāietver citi izmaksu elementi, piemēram, transporta un apdrošināšanas izdevumi, muitas tarifi un nodokļi.\n(2) Katram pretendentam, no kura pieprasīta minētā informācija, ir atļauts paziņot tikai vienu cenu un nav atļauts to grozīt. Nekādas sarunas starp valsts pasūtītāju un pretendentu attiecībā uz viņa paziņoto cenu nav pieļaujamas.\n(3) Tiesības slēgt valsts pasūtījuma līgumu jāpiešķir tam, kurš paziņojis visizdevīgāko cenu.\n(4) Cenu aptaujas sagatavošanas un norises kārtību atbilstoši šim likumam nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa. Valsts pasūtījuma līgumu slēgšana un norēķini",
+      "section": "26",
+      "title": "Valsts pasūtījuma līguma saturs",
+      "content": "(1) Valsts pasūtījuma līguma slēgšanas mērķis ir noteikt visas tiesiskās, mantiskās, finansiālās un citas attiecības, kādas var rasties, veicot darbus vai piegādes vai sniedzot pakalpojumus valsts vai pašvaldības vajadzībām.\n(2) Valsts pasūtījuma līguma projektu rakstiski sagatavo un iesniedz valsts pasūtītājs. Līguma projektu vai tā galvenos noteikumus iekļauj izsoles (konkursa) nolikumā.\n(3) Valsts pasūtījuma līgumā obligāti jāparedz:\n1) līgumslēdzējas puses;\n2) līguma priekšmets (kādi darbi, piegādes vai pakalpojumi ir jāpilda, to apjoms, kvalitātes prasības, cenas, izpildes termiņi un samaksas kārtība), kā arī kontroles kārtība;\n3) darbu vai piegāžu izpildes un pieņemšanas nosacījumi saskaņā ar šā likuma prasībām;\n4) līgumslēdzēju pušu atbildība par līguma nosacījumu neievērošanu;\n5) valsts pasūtītāja augstākā institūcija, bez kuras apstiprinājuma līgums nav spēkā (ja šāds apstiprinājums ir nepieciešams);\n6) līguma grozīšanas kārtība un atkāpšanās no līguma;\n7) preču vai pakalpojumu atbilstības novērtējums obligātajās sfērās (cilvēku dzīvības, veselības, kā arī vides aizsardzība).\n(4) Sagatavojot valsts pasūtījuma līgumu būvdarbiem, kuru paredzamā vērtība pārsniedz 1 000 000 latu, piemēro Latvijas nacionālo standartu par būvdarbu līgumu vispārīgiem noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa. Valsts pasūtījuma līgumu slēgšana un norēķini",
+      "section": "27",
+      "title": "Valsts pasūtījuma līguma slēgšanas un apstiprināšanas kārtība",
+      "content": "(1) No valsts vai pašvaldības puses līgumattiecībās ar valsts pasūtījuma izpildītāju stājas valsts pasūtītājs.\n(2) Izņemot gadījumus, kad valsts pasūtītājs izmanto savas šā likuma 23.pantā paredzētās tiesības noraidīt visus piedāvājumus, tas nedrīkst atteikties no valsts pasūtījuma līguma slēgšanas ar visizdevīgākā piedāvājuma iesniedzēju, ja iesniedzējs ievērojis visas šā likuma un uz šā likuma pamata pieņemto normatīvo aktu prasības.\n(3) Līgums par darbu, piegāžu vai pakalpojumu izpildi jānoslēdz 10 dienu laikā, skaitot no tās dienas, kad izpildītājs saņēmis rakstveida paziņojumu par darbu, piegāžu vai pakalpojumu izpildes tiesību piešķiršanu un līguma projektu, ja valsts pasūtītājs nav noteicis citu termiņu. Ja darbu vai piegāžu izpildītājs šajā termiņā līgumu nenoslēdz vai neiemaksā līguma nodrošinājumu līgumā noteiktajā termiņā (ja tāds nodrošinājums līgumā paredzēts), viņš zaudē iemaksāto izsoles nodrošinājumu un tiek uzskatīts, ka viņš ir atteicies no darbu, piegāžu vai pakalpojumu pildīšanas."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa. Valsts pasūtījuma līgumu slēgšana un norēķini",
+      "section": "28",
+      "title": "Valsts pasūtījuma līguma pildīšanas noteikumi",
+      "content": "(1) Valsts pasūtītājam līgumā paredzētajā termiņā jāpieņem no izpildītāja tā veiktais darbs vai piegādātās preces un pēc tam jāsamaksā nolīgtā cena (vai arī pēdējais maksājums, ja līgumā bija paredzēta samaksa pa daļām vai avansa maksājums). Par pieņemšanu jāsastāda akts, kuru paraksta abas līgumslēdzējas puses. Aktā jānorāda preču, darbu vai pakalpojumu kvalitāte, minot defektus, kuri nav par iemeslu preču, darbu vai pakalpojumu nepieņemšanai, kā arī šo defektu novēršanas kārtība un termiņi.\n(2) Valsts pasūtītājam aizliegts:\n1) pieņemt naudu līgumā paredzēto preču, darbu vai pakalpojumu vietā;\n2) pieņemt preces, darbus vai pakalpojumus, kas neatbilst līguma nosacījumiem;\n3) noraidīt darbus vai piegādes, kas izpildīti atbilstoši līguma nosacījumiem.\n(3) Katra līgumslēdzēja puse ir atbildīga par līguma neizpildīšanu vai par to, ka līgums nav pienācīgi izpildīts tās vainas dēļ."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa. Valsts pasūtījuma līgumu slēgšana un norēķini",
+      "section": "29",
+      "title": "Norēķini par valsts pasūtījuma izpildi",
+      "content": "(1) Norēķinu kārtība jāparedz valsts pasūtījuma līgumā.\n(2) Pēc valsts pasūtījuma izpildes valsts pasūtītājs līgumā noteiktajā termiņā, bet ne vēlāk kā mēneša laikā no dienas, kad valsts pasūtītājs valsts pasūtījumu pieņēmis kā izpildītu, veic visus norēķinus, ieskaitot naudas pārskaitīšanu. Ja līgums noslēgts uz vairākiem gadiem, norēķins sastādāms atsevišķi par katru budžeta gadu.\n(3) Kamēr darbu vai piegāžu izpildītājs nav saņēmis samaksu, viņam ir tiesības iesniegt valsts pasūtītājam savus iebildumus par norēķina pareizību. Iesniedzot iebildumus, izpildītājs nezaudē tiesības uz samaksu, kas viņam atbilstoši norēķinam pienākas.\n(4) Ja darbu vai piegāžu izpildītājs šā panta trešajā daļā paredzētajā termiņā nav iesniedzis iebildumus par saņemto norēķinu, šis norēķins nav apstrīdams. Ja izpildītājs šajā termiņā iesniedzis iebildumus par norēķina pareizību, valsts pasūtītājs, kurš norēķinu izsniedzis, pārskata norēķinu un paziņo izpildītājam par rezultātiem divu mēnešu laikā."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa. Sūdzību izskatīšanas kārtība",
+      "section": "30",
+      "title": "Sūdzības sakarā ar amatpersonu rīcību valsts pasūtījuma piešķiršanas procesā",
+      "content": "(1) Katram pretendentam, kas uzskata, ka valsts pasūtītājs, pārkāpjot šā likuma nosacījumus valsts pasūtījuma piešķiršanas procesā, sagādājis viņam zaudējumus vai nodarījis citu kaitējumu, ir tiesības iesniegt sūdzību, izņemot šā panta trešajā daļā minētos gadījumus.\n(2) Sūdzības var iesniegt pakļautības kārtībā saskaņā ar Ministru kabineta noteikumiem par sūdzību izskatīšanu sakarā ar valsts pasūtījumu piešķiršanu.\n(3) Valsts pasūtītāja darbības nav pārsūdzamas jautājumos:\n1) par valsts pasūtījuma piešķiršanas metodes izvēli;\n2) par piedāvājumu salīdzināšanas un novērtēšanas metožu un kritēriju izvēli;\n3) par ierobežojumu noteikšanu atkarībā no pretendenta valstiskās piederības;\n4) par visu piedāvājumu noraidīšanu;\n5) par pretendentu kvalifikācijas pārbaudes metožu un kritēriju izvēli;\n6) par konkursa rīkošanu slēgta konkursa veidā.\n(4) Valsts un pašvaldību institūciju lēmumus par pakļautības kārtībā iesniegto sūdzību izskatīšanu var pārsūdzēt likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa. Sūdzību izskatīšanas kārtība",
+      "section": "31",
+      "title": "Sūdzības sakarā ar valsts pasūtījuma līguma pildīšanu",
+      "content": "Sūdzības par valsts institūcijas vai amatpersonas rīkojumiem, vilcināšanos vai dienesta pienākumu neizpildīšanu darbu, piegādes vai pakalpojumu līgumu pildīšanas gaitā iesniedzamas kārtībā, kādu nosaka likums \"Iesniegumu, sūdzību un priekšlikumu izskatīšanas kārtība valsts un pašvaldību institūcijās\"."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa. Sūdzību izskatīšanas kārtība",
+      "section": "32",
+      "title": "Sūdzības un prasības sakarā ar norēķinu",
+      "content": "(1) Par norēķina un pārskatītā norēķina neizsniegšanu noteiktajā laikā vai arī par pārskatītā norēķina nepareizu sastādīšanu darbu vai piegāžu izpildītājam ir tiesības iesniegt sūdzību pakļautības kārtībā vai arī celt prasību tiesā gan par dokumentu un visu viņam pienākošos naudas summu izsniegšanu, gan par tādu zaudējumu atlīdzību, kuri radušies valsts pasūtītāja vai tā amatpersonas nepareizas rīcības, vilcināšanās vai bezdarbības rezultātā.\n(2) Sūdzībā par pārskatīto norēķinu nevar celt prasības, kuras nebija minētas iebildumos pret sākotnējo norēķinu.\n(3) Sūdzības vai prasības iesniedzamas šādos termiņos:\n1) ja norēķins vispār nav izsniegts darbu vai piegāžu izpildītājam, — mēneša laikā no dienas, kurā izbeidzas norēķina paziņošanai noteiktais termiņš;\n2) ja pēc darbu vai piegāžu izpildītāja iesniegtiem iebildumiem par norēķinu nav izsniegts pārskatītais norēķins, — mēneša laikā no dienas, kad izbeidzas pārskatītā norēķina izsniegšanas termiņš;\n3) ja darbu vai piegāžu izpildītājs nav apmierināts ar izsniegto pārskatīto norēķinu, — mēneša laikā no pārskatītā norēķina paziņošanas dienas.\n(4) Ja darbu vai piegāžu izpildītājs ir iesniedzis sūdzību pakļautības kārtībā, viņš nevar celt prasību tiesā, bet, ja viņš, vēl nesaņēmis samaksu, atsauc pakļautības kārtībā iesniegto sūdzību pirms tās izspriešanas, viņš var celt prasību tiesā, kamēr vēl nav saņēmis samaksu. Pārsūdzot lēmumu, kas pieņemts, izskatot sūdzību pakļautības kārtībā, darbu vai piegāžu izpildītājs var griezties tiesā viena mēneša laikā pēc lēmuma saņemšanas par šo sūdzību.\n(5) Iesniedzot prasību tiesā, darbu vai piegāžu izpildītājs var apstrīdēt gan pašu norēķinu, gan kļūdas citos šā panta pirmajā daļā minētajos jautājumos, kas pieļautas sakarā ar līguma pildīšanu un norēķināšanos. Ja darbu vai piegāžu izpildītājs par viņam izsniegto norēķinu ir iesniedzis pakļautības kārtībā savus iebildumus, tad, griežoties pēc tam ar prasību tiesā, viņš nevar celt tādus prasījumus, kas nebija minēti viņa iesniegtajos iebildumos.\n(6) Prasība iesniedzama tiesā pēc attiecīgās valsts institūcijas atrašanās vietas, ja līgumā nav noteikts citādi.\n(7) Prasības iesniegšana tiesā neaptur valsts institūcijas vai amatpersonas rīcību, kamēr tiesas spriedums nav stājies spēkā.\n(8) Ja darbu vai piegāžu izpildītājam izsniegtajā norēķinā vēlāk tiek atrasta kāda kļūda, valsts pasūtītājs iesniedz darbu vai piegāžu izpildītājam jaunu, izlabotu norēķinu ar priekšlikumu atmaksāt pārmaksāto summu. Ja darbu vai piegāžu izpildītājs neatmaksā šo summu, valsts pasūtītājs ir tiesīgs celt prasību tiesā sešu mēnešu laikā, skaitot no atmaksas pieprasīšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VII nodaļa. Nobeiguma noteikumi",
+      "section": "33",
+      "title": "Uzraudzība, kontrole un atbildība",
+      "content": "(1) Uzraudzību un kontroli pār normatīvo aktu, valsts un pašvaldību interešu ievērošanu ministrijās un pašvaldībās valsts pasūtījuma piešķiršanas norisēs veic Ministru kabinets, Valsts kontrole un attiecīgās pašvaldības.\n(2) Valsts kontroles galvenās funkcijas attiecībā uz valsts pasūtījuma norisēm ir šādas:\n1) ne retāk kā vienu reizi divos gados dokumentāri pārbaudīt valsts pasūtījuma piešķiršanas norises ministrijās, pilsētu, rajonu un pagastu pašvaldībās, kā arī to, kā šīs norises kontrolē attiecīgo institūciju vadība;\n2) neatkarīgi no šā panta otrās daļas 1.punktā minētajām pārbaudēm izlases veidā pārbaudīt valsts pasūtījuma piešķiršanu lielāku pasūtījumu gadījumos, kā arī tāda pasūtījuma gadījumā, par kuru izcēlušās diskusijas vai ienākušas sūdzības;\n3) darīt zināmus atklātībai pārbaudēs konstatētos pārkāpumus; ja nepieciešams, iesniegt ziņojumus tiesībaizsardzības institūcijām.\n(3) Ministru kabineta galvenās funkcijas attiecībā uz valsts pasūtījuma uzraudzību un kontroli ir šādas:\n1) sekot valsts pasūtījumu piešķiršanas norisēm, analizēt attiecīgos statistikas datus, reizi ceturksnī apkopot informāciju par valsts pasūtījumu apjomiem un izpildes gaitu;\n2) analizējot šā likuma un uz šā likuma pamata pieņemto normatīvo aktu darbību, ja nepieciešams, sagatavot grozījumus minētajos normatīvajos aktos;\n3) valsts pasūtījuma un tā juridiskā nodrošinājuma jautājumos uzturēt sakarus ar attiecīgajām Baltijas valstu, citu valstu un starptautiskajām institūcijām;\n4) sniegt metodisku palīdzību un konsultācijas valsts pasūtītājiem, piegādātājiem un darbu izpildītājiem, kā arī rīkot viņiem apmācību.\n(4) Izsoles (konkursa) komisiju un citas amatpersonas, kas tieši sagatavo un veic valsts pasūtījuma piešķiršanas procedūras, ieceļ valsts pasūtītāja institūcijas vadītājs. Minētās amatpersonas rīkojas stingrā saskaņā ar šo likumu un uz šā likuma pamata pieņemtajiem normatīvajiem aktiem, kā arī atbild par šo aktu, valsts un pašvaldību interešu ievērošanu.\n(5) Valsts pasūtītāja iecelto izsoles (konkursa) komisiju locekļi un citas amatpersonas, kas piedalās valsts pasūtījuma piešķiršanas procedūru sagatavošanā un realizēšanā, ir atbildīgas par šā likuma un citu normatīvo aktu neievērošanu, kas kavē šā likuma 2.pantā minēto mērķu sasniegšanu. Ja minētās amatpersonas darbības vai bezdarbības rezultātā valsts, pašvaldības vai personu likumīgajām interesēm nodarīts kaitējums, tās saucamas pie administratīvās atbildības vai kriminālatbildības par šādiem pārkāpumiem:\n1) valsts pasūtījuma piešķiršana bez izsoles (konkursa) gadījumos, kad likums prasa izsoles (konkursa) rīkošanu, vai arī nepamatota citu metožu, nevis izsoles izmantošana;\n2) nepamatota slēgtas izsoles (konkursa) rīkošana vai pretendentu loka sašaurināšana;\n3) nevienlīdzīgu apstākļu radīšana pretendentiem (radot vienam vai dažiem pretendentiem labvēlīgākus apstākļus) informācijas saņemšanā, piedāvājuma dokumentu sagatavošanas un iesniegšanas termiņos, pretendentu atlases un piedāvājumu vērtēšanas kritēriju piemērošanā;\n4) atklātuma un publiskuma nenodrošināšana valsts pasūtījuma piešķiršanas norisē;\n5) konfidencialitātes noteikumu neievērošana;\n6) nepilnīga vai sagrozīta valsts pasūtījuma piešķiršanas procesa dokumentēšana vai arī šīs dokumentācijas nesaglabāšana."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VII nodaļa. Nobeiguma noteikumi",
+      "section": "pn1",
+      "title": "1. Ministru kabinetam iesniegt Saeimai priekšlikumus par atbilstošu grozījumu izdarīšanu Latvijas Kriminālkodeksā un Latvijas Administratīvo pārkāpumu kodeksā , kā arī likumā \" Par Valsts kontroli \" jautājumos, kas saistīti ar šā likuma darbību.",
+      "content": "1. Ministru kabinetam iesniegt Saeimai priekšlikumus par atbilstošu grozījumu izdarīšanu Latvijas Kriminālkodeksā un Latvijas Administratīvo pārkāpumu kodeksā , kā arī likumā \" Par Valsts kontroli \" jautājumos, kas saistīti ar šā likuma darbību."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VII nodaļa. Nobeiguma noteikumi",
+      "section": "pn2",
+      "title": "2. Noteikt, ka šā likuma 22.panta septītā daļa ir spēkā Eiropas līgumā noteiktajā pārejas periodā.",
+      "content": "2. Noteikt, ka šā likuma 22.panta septītā daļa ir spēkā Eiropas līgumā noteiktajā pārejas periodā."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VII nodaļa. Nobeiguma noteikumi",
+      "section": "pn3",
+      "title": "3. Noteikt, ka šā likuma 26.panta ceturtā daļa stājas spēkā 2000.gada 1.jūlijā.",
+      "content": "( 23.03.2000 . likuma redakcijā, kas stājas spēkā 27.04.2000. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VII nodaļa. Nobeiguma noteikumi",
+      "section": "pn4",
+      "title": "4. Ar šā likuma spēkā stāšanos spēku zaudē Ministru kabineta noteikumi nr. 60 \" Par darbiem un piegādēm valsts vajadzībām \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1994, 7.nr.).",
+      "content": "(Punkta numerācija grozīta ar 23.03.2000 . likumu, kas stājas spēkā 27.04.2000. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "valsts vai pašvaldības pasūtījums",
+      "definition": "preču piegādes, darbu veikšanas vai pakalpojumu sniegšanas pasūtījums, par kuru pilnīgi vai daļēji tiek samaksāts ar valsts vai pašvaldības līdzekļiem (izņemot valsts un pašvaldības uzņēmumu vai uzņēmējsabiedrību saimnieciskās darbības rezultātā gūtos līdzekļus), kā arī tā sagatavošana, piešķiršana, izpilde, pieņemšana, ar to saistītie norēķini un citas procedūras",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts vai pašvaldības pasūtītājs",
+      "definition": "pasūtījuma līguma slēdzēja puse vai potenciālā slēdzēja puse — valsts institūcija (ministrija, aģentūra vai cita institūcija) vai tās struktūrvienība, vai pašvaldības institūcija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts vai pašvaldības pasūtījuma līgums",
+      "definition": "starp valsts vai pašvaldības pasūtītāju un piegādātāju vai darbu izpildītāju noslēgts līgums, kura priekšmets ir valsts vai pašvaldības pasūtījuma izpilde",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "preces",
+      "definition": "šā likuma izpratnē: izejvielas, pusfabrikāti, komplektējamie izstrādājumi, gatavā produkcija, iekārta vai citi materiāli objekti, kas nav izņemti no privāttiesiskās apgrozības, kā arī intelektuālais īpašums, elektroenerģija un siltumenerģija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "preču piegāde",
+      "definition": "valsts vai pašvaldības pasūtītājam saskaņā ar valsts vai pašvaldības pasūtījuma līgumu piegādājamās preces, kā arī ar minēto preču piegādi saistītie darbi vai pakalpojumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "būvdarbi",
+      "definition": "darbi un procesi, kas tiek veikti būvlaukumā (zemes gabalā) būves vai ēkas būvēšanas procesā, kā arī rekonstrukcija, restaurācija, remonts vai nojaukšana, ieskaitot būvlaukuma sagatavošanu, pagaidu un papildu darbus un teritorijas labiekārtošanu, ģeodēziskos darbus, komunikāciju un iekārtu montāžu (demontāžu), apdares un dekoratīvos darbus un tamlīdzīgus darbus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pakalpojumi",
+      "definition": "transporta darbi, projektēšanas (izņemot būvprojektēšanu), konstruēšanas, tehnoloģijas izstrādāšanas darbi, apmācība un konsultāciju sniegšana, kā arī citi darbi, kas nav saistīti ar būvniecību vai preču piegādēm",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pretendents",
+      "definition": "šā likuma izpratnē: jebkura juridiskā vai fiziskā persona, kas izsaka vēlēšanos, veicot šā likuma 16. , 18. un 25. pantā minētās darbības, piegādāt preces, veikt darbus vai sniegt pakalpojumus un slēgt par to valsts vai pašvaldības pasūtījuma līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "piegādātājs",
+      "definition": "šā likuma izpratnē: pretendents, kas šajā likumā noteiktajā kārtībā ieguvis tiesības piegādāt preces un noslēdzis par to valsts vai pašvaldības pasūtījuma līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darbu izpildītājs",
+      "definition": "šā likuma izpratnē: pretendents, kas šajā likumā noteiktajā kārtībā ieguvis tiesības veikt darbus vai sniegt pakalpojumus un noslēdzis par to valsts vai pašvaldības pasūtījuma līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts vai pašvaldības pasūtījuma piešķiršana (turpmāk",
+      "definition": "valsts pasūtījuma piešķiršana) — darbu vai piegāžu izpildes tiesību piešķiršana, piemērojot šajā likumā noteiktās valsts vai pašvaldības pasūtījuma piešķiršanas metodes",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izsole",
+      "definition": "valsts vai pašvaldības pasūtījuma līguma slēgšanas tiesību publiska piešķiršana tam piegādātājam vai darbu izpildītājam, kas apņemas valsts vai pašvaldības pasūtījumu veikt ar valstij vai pašvaldībai visizdevīgākajiem noteikumiem, turklāt šo noteikumu izpildes izdevīguma vērtēšanas kritēriji tiek iepriekš noteikti izsoles nolikumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konkurss",
+      "definition": "šā likuma izpratnē: valsts vai pašvaldības pasūtījuma līguma slēgšanas tiesību publiska piešķiršana, vispirms izskatot piedāvājumus, kurus iesnieguši pretendenti atbilstoši konkursa nolikumā formulētām vispārīgām prasībām, un pēc tam turpinot visizdevīgākā piedāvājuma izvēli uz detalizēti izstrādāta izsoles nolikuma pamata",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "cenu aptauja",
+      "definition": "valsts vai pašvaldības pasūtījuma līguma slēgšanas tiesību publiskas piešķiršanas vienkāršota procedūra",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darbu vai pakalpojumu veikšana saimnieciskā kārtā",
+      "definition": "darbi vai pakalpojumi, kurus veic ar valsts vai pašvaldības pasūtītāja spēkiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izsoles (konkursa) uzaicinājums",
+      "definition": "presē publicēts vai potenciālajiem pretendentiem piesūtīts paziņojums par rīkojamo izsoli (konkursu) un par nolikuma saņemšanas kārtību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izsoles (konkursa) nolikums",
+      "definition": "pirms izsoles (konkursa) izstrādāti dokumenti par izsoles (konkursa) kārtību un procedūrām, kurus apstiprina valsts vai pašvaldības pasūtītājs un ar kuriem katrs pretendents var iepazīties uzaicinājumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "piedāvājuma nodrošinājums",
+      "definition": "līdzekļu summa, kuru valsts vai pašvaldības pasūtītājam pirms izsoles (konkursa) nodod pretendents, kas vēlas noslēgt valsts vai pašvaldības pasūtījuma līgumu kā garantiju izsoles (konkursa) nolikuma ievērošanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "līguma (saistību) nodrošinājums",
+      "definition": "līdzekļu summa, kuru valsts vai pašvaldības pasūtītājam, slēdzot valsts vai pašvaldības pasūtījuma līgumu, nodod piegādātājs vai darbu izpildītājs kā garantiju līguma noteikumu ievērošanai tā izpildes gaitā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valstiskā piederība",
+      "definition": "juridiskās personas reģistrācijas vieta vai fiziskās personas pastāvīgā mītnes zeme.",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "to pretendentu vārdu, uzvārdu, personas kodu (juridiskajām personām",
+      "definition": "nosaukumu) un adresi, kuri iesnieguši piedāvājumus vai priekšlikumus",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "ja visi piedāvājumi izsolei (konkursam) ir noraidīti saskaņā ar šā likuma 23.pantu ",
+      "definition": "šāda noraidījuma pamatojumu",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "ja, izmantojot citas metodes, nevis izsoli (II nodaļa), nav panākta valsts pasūtījuma līguma noslēgšana",
+      "definition": "šādas situācijas cēloņu konstatāciju un pamatojumu",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "ja piedāvājums noraidīts šā likuma 8.panta septītajā daļā minēto apstākļu dēļ",
+      "definition": "informāciju par šiem apstākļiem",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "ja valsts pasūtītājs izsūta uzaicinājumus piedalīties izsolē (konkursā) vai kvalifikācijas pārbaudē ierobežotam pretendentu lokam",
+      "definition": "informāciju, kāda prasīta konkursa gadījumā šā likuma 10.pantā",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "ja izmantotas citas metodes, nevis izsole",
+      "definition": "šā likuma 9.panta ceturtajā daļā paredzētos pamatojumus, kādēļ izraudzīta konkrētā metode",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "ja valsts pasūtītājs saskaņā ar šā likuma 6.pantu ierobežo pretendentu loku pēc viņu valstiskās piederības",
+      "definition": "šāda ierobežojuma motīvus un pamatojumu",
+      "source_provision": "Art. 7"
+    }
+  ]
+}

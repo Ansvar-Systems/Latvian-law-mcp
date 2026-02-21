@@ -1,0 +1,685 @@
+{
+  "id": "lv-law-47009",
+  "type": "statute",
+  "title": "Kooperatīvo sabiedrību likums",
+  "title_en": "Co Operative Societies Law",
+  "short_name": "TA-47009",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/47009-kooperativo-sabiedribu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) biedra nauda — kooperatīvās sabiedrības biedra naudas iemaksa sabiedrības uzturēšanas un kopējo izdevumu segšanai;\n2) (izslēgts ar 20.06.2002 . likumu) ;\n3) dividende — kooperatīvās sabiedrības peļņas daļa, kuru izmaksā kooperatīvās sabiedrības biedram atbilstoši viņa paju vērtībai;\n4) iestāšanās maksa — kooperatīvās sabiedrības biedra naudas iemaksa, kas paredzēta ar viņa uzņemšanu saistīto izdevumu segšanai;\n5) kooperatīvā sabiedrība — brīvprātīga fizisko un juridisko personu apvienība, kuras mērķis ir sniegt pakalpojumus tās biedru saimnieciskās darbības efektivitātes paaugstināšanai;\n6) (izslēgts ar 20.06.2002 . likumu) ;\n7) paja — fiziskās vai juridiskās personas ieguldījums attiecīgās kooperatīvās sabiedrības pamatkapitālā;\n8) pakalpojumi kooperatīvās sabiedrības biedriem — darbi, kurus kooperatīvā sabiedrība izpildījusi pēc savu biedru pasūtījuma, kā arī preču apgrozījums starp kooperatīvo sabiedrību un tās biedriem;\n9) pamatpaja — paja, kura nodrošina kooperatīvās sabiedrības biedram visas sabiedrības statūtos noteiktās biedra tiesības;\n10) papildpaja — paja, kura nodrošina kooperatīvās sabiedrības biedram tiesības saņemt dividendi un peļņas atmaksu, bet nedod balsstiesības;\n11) peļņas (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikuma) atmaksa — kooperatīvās sabiedrības peļņas (pārpalikuma) daļa, ko šajā likumā un sabiedrības statūtos noteiktajā kārtībā izmaksā sabiedrības biedriem atbilstoši viņu izmantoto kooperatīvās sabiedrības pakalpojumu apjomam;\n12) lauksaimniecības pakalpojumu kooperatīvā sabiedrība — kooperatīvā sabiedrība, kura sniedz pakalpojumus lauksaimniecības produktu ražotājiem, bet nenodarbojas ar lauksaimniecības produktu ražošanu, izņemot biedru saražotās produkcijas pārstrādi un apstrādi;\n12 1 ) atbilstīgā lauksaimniecības pakalpojumu kooperatīvā sabiedrība — lauksaimniecības pakalpojumu kooperatīvā sabiedrība, kas atbilst normatīvajos aktos noteiktajiem kritērijiem par atbalsta saņemšanu lauku attīstībai;\n12 2 ) mežsaimniecības pakalpojumu kooperatīvā sabiedrība — meža īpašnieku kooperatīvā sabiedrība, kura sniedz mežsaimniecības un mežsaimnieciskās produkcijas realizācijas pakalpojumus, bet nenodarbojas ar mežsaimnieciskās produkcijas ražošanu;\n12 3 ) atbilstīgā mežsaimniecības pakalpojumu kooperatīvā sabiedrība — mežsaimniecības pakalpojumu kooperatīvā sabiedrība, kas atbilst normatīvajos aktos noteiktajiem kritērijiem;\n13) pārpalikums atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — gada pārskatā norādītais sabiedrības ieņēmumu pārsniegums pār izmaksām attiecīgajā saimnieciskās darbības gadā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un kooperatīvo sabiedrību darbības tiesiskais pamats",
+      "content": "(1) Likuma mērķis ir:\n1) sekmēt kooperatīvo sabiedrību efektīvu saimniecisko darbību un to biedru ekonomisko un sociālo vajadzību apmierināšanu atbilstoši šā likuma 3.pantā noteiktajiem kooperatīvo sabiedrību darbības pamatprincipiem;\n2) radīt labvēlīgus apstākļus kooperatīvo sabiedrību darbībai.\n(2) Likums nosaka kārtību, kādā Latvijā dibināmas, reorganizējamas un likvidējamas kooperatīvās sabiedrības, kā arī šo sabiedrību darbības tiesiskos pamatus.\n(3) Ja kooperatīvā sabiedrība ir koncerna valdošais uzņēmums, tās darbību reglamentē arī Koncernu likums ."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Kooperatīvās sabiedrības darbības pamatprincipi",
+      "content": "Kooperatīvās sabiedrības darbības pamatprincipi ir šādi:\n1) kooperatīvā sabiedrība ir brīvprātīga organizācija, kurā var iestāties jebkura fiziskā un juridiskā persona bez jebkādas sociālās, dzimuma, politiskās un reliģiskās diskriminācijas, ja šī persona vēlas saņemt šīs organizācijas pakalpojumus un uzņemties tās biedra pienākumus atbilstoši sabiedrības statūtiem;\n2) kooperatīvās sabiedrības darbību vada tās biedri, aktīvi un demokrātiski piedaloties sabiedrības pārvaldīšanā;\n3) katram kooperatīvās sabiedrības biedram biedru kopsapulcē ir viena balss;\n4) kooperatīvās sabiedrības kapitālu veido un kontrolē, kā arī iegūto peļņu (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikumu) sadala tās biedri;\n5) (izslēgts ar 20.06.2002 . likumu) ;\n6) (izslēgts ar 20.06.2002 . likumu) ;\n7) (izslēgts ar 20.06.2002 . likumu) ;\n8) kooperatīvās sabiedrības darbības izmaksas finansē biedri paši, veidojot uzkrājumus un sedzot zaudējumus;\n9) (izslēgts ar 20.06.2002 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Kooperatīvās sabiedrības tiesiskais statuss",
+      "content": "(1) Kooperatīvā sabiedrība ir juridiskā persona.\n(2) Kooperatīvā sabiedrība uzskatāma par nodibinātu un iegūst juridiskās personas statusu ar dienu, kad tā reģistrēta Latvijas Republikas Uzņēmumu reģistrā (turpmāk — Uzņēmumu reģistrs)."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Kooperatīvās sabiedrības atbildības norobežošana",
+      "content": "(1) Kooperatīvā sabiedrība par savām saistībām atbild ar visu savu mantu.\n(2) Kooperatīvā sabiedrība neatbild par tās biedra saistībām.\n(3) Kooperatīvās sabiedrības biedrs neatbild par kooperatīvās sabiedrības saistībām."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Kooperatīvās sabiedrības komersanta statuss",
+      "content": "Kooperatīvā sabiedrība ir komersants, izņemot lauksaimniecības pakalpojumu kooperatīvās sabiedrības, mežsaimniecības pakalpojumu kooperatīvās sabiedrības, dzīvokļu īpašnieku kooperatīvās sabiedrības, automašīnu garāžu īpašnieku kooperatīvās sabiedrības, laivu garāžu īpašnieku kooperatīvās sabiedrības un dārzkopības kooperatīvās sabiedrības."
+    },
+    {
+      "provision_ref": "Art. 6.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6.1",
+      "title": "6. 1 pants. Komercnoslēpums",
+      "content": "Kooperatīvās sabiedrības komercnoslēpums tiek noteikts un aizsargāts, ievērojot Komerclikuma noteikumus."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Kooperatīvās sabiedrības nosaukums un simbolika",
+      "content": "(1) Kooperatīvās sabiedrības nosaukumā ir jābūt vārdiem \"kooperatīvā (kopdarbības) sabiedrība\" vai \"kooperatīvā biedrība\". Lauksaimniecības pakalpojumu kooperatīvās sabiedrības nosaukumā jābūt arī vārdiem \"lauksaimniecības pakalpojumu\" vai nozares nosaukumam. Mežsaimniecības pakalpojumu kooperatīvās sabiedrības nosaukumā jābūt arī vārdiem “mežsaimniecības pakalpojumu”.\n(2) Kooperatīvās sabiedrības nosaukumā var norādīt attiecīgās sabiedrības darbības veidu.\n(3) Kooperatīvās sabiedrības nosaukums jāveido atbilstoši Valodu likuma prasībām.\n(4) Kooperatīvajai sabiedrībai var būt sava simbolika."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7.1",
+      "title": "7. 1 pants. Fiziskajai personai noteiktie ierobežojumi",
+      "content": "(1) Ja fiziskajai personai, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, atņemtas tiesības veikt visu veidu vai noteikta veida komercdarbību, attiecīgajā nolēmumā noteiktajā aizlieguma periodā tai ir aizliegts:\n1) būt par kooperatīvās sabiedrības dibinātāju;\n2) kļūt par kooperatīvās sabiedrības biedru, izņemot gadījumu, kad pajas kooperatīvajā sabiedrībā tiek mantotas;\n3) kļūt par pilnvaroto kooperatīvās sabiedrības pilnvaroto sapulcē;\n4) būt par kooperatīvās sabiedrības valdes locekli, direktoru vai pārvaldnieku;\n5) būt par kooperatīvās sabiedrības padomes locekli;\n6) būt par kooperatīvās sabiedrības revīzijas komisijas locekli (revidentu);\n7) būt par kooperatīvās sabiedrības likvidācijas komisijas locekli;\n8) sniegt padomus, dot norādījumus šajā daļā minētajām personām vai citādi tās ietekmēt.\n(2) Ja fiziskajai personai atņemtas tiesības veikt noteikta veida komercdarbību, šā panta pirmajā daļā minētie aizliegumi attiecināmi tikai uz attiecīgajā nolēmumā noteikto komercdarbības veidu. Ja šādai personai tiesiskais statuss ļauj pieņemt lēmumus kooperatīvajā sabiedrībā vai pārstāvēt kooperatīvo sabiedrību, tai nav balsstiesību un ir aizliegts pārstāvēt kooperatīvo sabiedrību jautājumos par attiecīgajā nolēmumā noteikto komercdarbības veidu.\n(3) Ja fiziskajai personai, pamatojoties uz kriminālprocesa vai administratīvā pārkāpuma procesa ietvaros pieņemtu nolēmumu, atņemtas tiesības ieņemt noteiktus amatus kooperatīvajā sabiedrībā vai tās pārvaldes institūcijās, tai ir aizliegts būt par kooperatīvās sabiedrības:\n1) valdes locekli, direktoru vai pārvaldnieku;\n2) padomes locekli;\n3) revīzijas komisijas locekli (revidentu);\n4) likvidācijas komisijas locekli.\n(3 1 ) Ja tiesa, pamatojoties uz civilprocesa ietvaros pieņemtu nolēmumu, ierobežojusi pilngadīgas fiziskās personas rīcībspēju (garīga rakstura vai citu veselības traucējumu dēļ vai personas izlaidīgas vai izšķērdīgas dzīves dēļ), attiecīgā fiziskā persona nav tiesīga ieņemt šā panta trešajā daļā minētos amatus.\n(3 2 ) Šā panta trešajā daļā minētos amatus nav tiesīga ieņemt nepilngadīga persona.\n(4) Šā panta pirmajā un otrajā daļā noteiktie aizliegumi piemērojami kooperatīvajai sabiedrībai, kas atbilstoši šā likuma noteikumiem uzskatāma par komersantu, kā arī lauksaimniecības pakalpojumu kooperatīvajai sabiedrībai un mežsaimniecības pakalpojumu kooperatīvajai sabiedrībai.\n(5) Ja fiziskajai personai atņemtas tiesības veikt visu veidu vai noteikta veida komercdarbību vai ieņemt noteiktus amatus kooperatīvajā sabiedrībā vai tās pārvaldes institūcijās vai ja tiesa ir ierobežojusi pilngadīgas fiziskās personas rīcībspēju, tās pienākums ir nekavējoties pēc attiecīgā nolēmuma spēkā stāšanās par to informēt kooperatīvo sabiedrību un tās biedrus. Ja fiziskajai personai ir ierobežota rīcībspēja un nodibināta aizgādnība, informēšanas pienākums ir attiecīgās fiziskās personas aizgādnim, kas informāciju sniedz nekavējoties, tiklīdz ir uzzinājis vai viņam vajadzēja uzzināt, ka attiecīgā persona ieņem noteiktu amatu.\n(6) Šajā pantā noteiktais pārstāvības tiesību ierobežojums nav spēkā attiecībā uz trešajām personām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "8",
+      "title": "Kooperatīvās sabiedrības dibinātāji",
+      "content": "(1) Kooperatīvo sabiedrību var dibināt fiziskās vai juridiskās personas. Kooperatīvajā sabiedrībā juridisko personu pārstāv tās pilnvarots pārstāvis.\n(2) Par kooperatīvās sabiedrības dibinātājiem uzskatāmas personas, kuras parakstījušas kooperatīvās sabiedrības dibināšanas līgumu un tās statūtus, kā arī izdarījušas dibināšanas līgumā paredzēto ieguldījumu un veikušas citus dibināšanas līgumā noteiktos maksājumus. Kooperatīvās sabiedrības dibinātāji kļūst par tās biedriem ar brīdi, kad sabiedrība tiek reģistrēta Uzņēmumu reģistrā.\n(3) (Izslēgta ar 20.06.2002 . likumu.)\n(4) Kooperatīvās sabiedrības dibinātāju skaits nedrīkst būt mazāks par trim. Lauksaimniecības pakalpojumu kooperatīvās sabiedrības un mežsaimniecības pakalpojumu kooperatīvās sabiedrības dibinātāju skaits nedrīkst būt mazāks par pieciem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "9",
+      "title": "Kooperatīvās sabiedrības dibināšanas veidi",
+      "content": "Kooperatīvo sabiedrību var dibināt kā jaunu sabiedrību vai reorganizējot jau esošu komercsabiedrību šā likuma 10. - 16.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "10",
+      "title": "Kooperatīvās sabiedrības dibināšanas dokumenti",
+      "content": "(1) Ja kooperatīvo sabiedrību dibina kā jaunu sabiedrību, tās dibināšanas dokumenti ir dibināšanas līgums, statūti un dibināšanas sapulces protokols.\n(2) Ja kooperatīvo sabiedrību dibina, reorganizējot jau esošu komercsabiedrību, dibināšanas dokumenti ir reorganizējamās komercsabiedrības lēmums par šīs komercsabiedrības reorganizāciju kooperatīvajā sabiedrībā, jaunizveidotās kooperatīvās sabiedrības statūti un tās sapulces protokols, kurā pieņemts lēmums par attiecīgās komercsabiedrības reorganizāciju."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "11",
+      "title": "Kooperatīvās sabiedrības dibināšanas kārtība",
+      "content": "(1) Ja kooperatīvo sabiedrību dibina kā jaunu sabiedrību, tās dibinātāji:\n1) sagatavo un paraksta dibināšanas līgumu šā likuma 12.pantā noteiktajā kārtībā;\n2) sagatavo sabiedrības statūtu projektu šā likuma 13.pantā noteiktajā kārtībā;\n3) apmaksā pamatkapitālu noteiktā apmērā, organizē dibinātāju naudas iemaksu noguldīšanu bankā un saņem izziņu par izdarīto noguldījumu, kā arī novērtē mantisko ieguldījumu (ja tiek izdarīts mantiskais ieguldījums);\n4) sasauc kooperatīvās sabiedrības dibināšanas sapulci šā likuma 14.pantā noteiktajā kārtībā.\n(2) Ja kooperatīvo sabiedrību dibina, reorganizējot esošu komercsabiedrību, šādai reorganizācijai attiecīgi piemērojami Komerclikuma noteikumi.\n(3) Dzīvokļu īpašnieku kooperatīvās sabiedrības dibinātājs vai biedrs var būt tikai tā fiziskā vai juridiskā persona, kas ir dzīvokļu īpašnieks mājā, kuru pārvalda un apsaimnieko attiecīgā dzīvokļu īpašnieku kooperatīvā sabiedrība. Dzīvokļu īpašnieku kooperatīvās sabiedrības darbību reglamentē šis likums, likums \"Par dzīvokļa īpašumu\", kā arī citi normatīvie akti.\n(4) Lauksaimniecības pakalpojumu kooperatīvās sabiedrības dibinātāji var būt fiziskās vai juridiskās personas, kuras ražo lauksaimniecības produktus, kā arī citas lauksaimniecības pakalpojumu kooperatīvās sabiedrības.\n(5) Mežsaimniecības pakalpojumu kooperatīvās sabiedrības dibinātāji var būt fiziskās vai juridiskās personas, kas ir meža īpašnieki, kā arī citas mežsaimniecības pakalpojumu kooperatīvās sabiedrības."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "12",
+      "title": "Kooperatīvās sabiedrības dibināšanas līgums",
+      "content": "(1) Kooperatīvās sabiedrības dibinātāji noslēdz dibināšanas līgumu, kurā norādāmas šādas ziņas:\n1) ja dibinātājs ir fiziskā persona, — tās vārds un uzvārds, adrese, personas kods un pases dati; ja dibinātājs ir juridiskā persona, — tās nosaukums (firma), reģistrācijas numurs, juridiskā adrese, norēķinu konts, pilnvaroto pārstāvju amats, vārds un uzvārds, adrese, personas kods un pases dati;\n2) dibināmās kooperatīvās sabiedrības nosaukums un juridiskā adrese;\n3) dibināmās kooperatīvās sabiedrības darbības mērķi un uzdevumi;\n4) kooperatīvās sabiedrības dibināšanas kārtība un tie dibinātāju pārstāvji, kuriem pārējie dibinātāji, savstarpēji vienojoties, uzdod veikt ar sabiedrības dibināšanu saistītās darbības;\n5) pamatkapitāla veidošanas kārtība, lielums, vienas pajas vērtība, paju veidi, paju sadalījums starp dibinātājiem un to ieguldījumu termiņi un veidi, paju veidu maiņa un paju atsavināšanas kārtība;\n6) citi noteikumi, ko dibinātāji uzskata par būtiskiem un kas nav pretrunā ar šo likumu un citiem normatīvajiem aktiem.\n(2) Dibināšanas līgumu paraksta visi dibinātāji."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "13",
+      "title": "Kooperatīvās sabiedrības statūti",
+      "content": "(1) Kooperatīvās sabiedrības statūtos norādāmas šādas ziņas:\n1) kooperatīvās sabiedrības nosaukums;\n2) juridiskā adrese;\n3) darbības mērķi un uzdevumi;\n4) darbības termiņš (ja kooperatīvā sabiedrība izveidota uz noteiktu laiku);\n5) biedru uzņemšanas, izstāšanās, izslēgšanas, kā arī balsstiesību iegūšanas vai zaudēšanas noteikumi;\n6) biedru tiesības un pienākumi;\n7) valdes un padomes (ja tāda ir paredzēta) skaitliskais sastāvs, nosakot valdes locekļu tiesības pārstāvēt sabiedrību atsevišķi vai kopīgi;\n8) pilnvaroto personu izvirzīšanas un ievēlēšanas (iecelšanas) kārtība;\n9) pamatkapitāla minimālais lielums, tā palielināšanas un samazināšanas kārtība, kā arī rezerves kapitāla un citu kapitālu izveidošanas nosacījumi un kārtība;\n10) paju veidi, pajas nominālvērtība, tās palielināšanas un samazināšanas kārtība, paju atsavināšanas noteikumi;\n11) iestāšanās maksas un biedra naudas lielums vai noteikšanas kārtība;\n12) peļņas (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikuma) sadales un zaudējumu segšanas kārtība;\n13) komercsabiedrību dibināšanas, reorganizācijas un likvidācijas kārtība;\n14) kooperatīvās sabiedrības reorganizācijas un likvidācijas kārtība;\n15) biedru kopsapulču (pilnvaroto sapulču) sasaukšanas, norises un izskatāmo jautājumu iesniegšanas kārtība, kā arī lēmumu pieņemšanas un to apstrīdēšanas kārtība;\n16) (izslēgts ar 20.06.2002 . likumu) .\n(2) Statūtos var paredzēt citus noteikumus, kas nav pretrunā ar likumu. Ja statūti ir pretrunā ar likumu, piemērojami likuma noteikumi.\n(3) Statūtus paraksta visi dibinātāji vai dibināšanas sapulces pilnvarotas personas."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "14",
+      "title": "Kooperatīvās sabiedrības dibināšanas sapulce",
+      "content": "(1) Dibinātāji sasauc kooperatīvās sabiedrības dibināšanas sapulci, nosaka tās norises vietu un laiku, kā arī darba kārtību. Dibināšanas sapulci sasauc pēc tam, kad dibinātāji ir izpildījuši dibināšanas līgumā noteiktās saistības un izdarījuši nepieciešamos ieguldījumus sabiedrības pamatkapitālā.\n(2) Dibināšanas sapulcē ar balsstiesībām piedalās kooperatīvās sabiedrības dibinātāji, kas izpildījuši dibināšanas līgumā noteiktās saistības. Citas uzaicinātās personas kooperatīvās sabiedrības dibināšanas sapulcē var piedalīties bez balsstiesībām.\n(3) Dibināšanas sapulce ir lemttiesīga, ja tajā piedalās ne mazāk kā divas trešdaļas no dibinātāju skaita.\n(4) Dibināšanas sapulce:\n1) apstiprina sapulces dalībnieku pilnvaras;\n2) apstiprina kooperatīvās sabiedrības statūtus;\n3) ievēlē kooperatīvās sabiedrības pārvaldes un revīzijas institūcijas;\n4) apstiprina budžetu pirmajam saimnieciskās darbības gadam;\n5) lemj par citiem ar kooperatīvās sabiedrības darbības uzsākšanu saistītiem jautājumiem.\n(5) Dibināšanas sapulce lēmumus pieņem ar vienkāršu klātesošo balsu vairākumu. Statūtu pieņemšanai nepieciešama vairāk nekā puse visu dibinātāju balsu.\n(6 ) Dibināšanas sapulces protokolu paraksta sapulces vadītājs, sekretārs un dibinātāji, kuri piedalās sapulcē."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "15",
+      "title": "Kooperatīvās sabiedrības dibināšanas sapulces protokols",
+      "content": "Kooperatīvās sabiedrības dibināšanas sapulces protokolā jānorāda:\n1) dibināšanas līguma izpildes rezultāti;\n2) ar statūtu pieņemšanu saistītā balsojuma rezultāti;\n3) pārvaldes un revīzijas institūcijās ievēlēto personu vārds un uzvārds;\n4) citi pieņemtie lēmumi."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa Kooperatīvās sabiedrības dibināšana",
+      "section": "16",
+      "title": "Kooperatīvās sabiedrības reģistrācija un darbības uzsākšana",
+      "content": "(1) Pēc kooperatīvās sabiedrības pārvaldes un revīzijas institūciju ievēlēšanas dibinātāji ar pieņemšanas-nodošanas aktu nodod valdei kooperatīvajā sabiedrībā ieguldīto mantu, visus ar dibināšanu saistītos dokumentus, saistības un tiesības.\n(2) Kooperatīvās sabiedrības izpildinstitūcija vai dibināšanas sapulces pilnvarota persona 15 dienu laikā pēc dibināšanas sapulces iesniedz Uzņēmumu reģistram attiecīgās kooperatīvās sabiedrības reģistrācijas pieteikumu un šādus dokumentus:\n1) kooperatīvās sabiedrības dibināšanas līgumu;\n2) statūtus;\n3) dibināšanas sapulces protokolu;\n4) bankas izziņu par pamatkapitāla apmaksu (ja pamatkapitāls vai tā daļa apmaksāta naudā), kā arī dokumentus, kas apliecina katra mantiskā ieguldījuma vērtību (ja tiek izdarīts mantiskais ieguldījums);\n5) (izslēgts ar 20.06.2002 . likumu) ;\n6) citus dokumentus saskaņā ar likumu \"Par Latvijas Republikas Uzņēmumu reģistru\".\n(3) Pamatkapitāla lielumu kooperatīvās sabiedrības reģistrēšanas brīdī nosaka ieguldīto paju vērtību summa.\n(4) Dokumentus, kas iesniedzami Uzņēmumu reģistram, lai reģistrētu lauksaimniecības pakalpojumu kooperatīvo sabiedrību, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "17",
+      "title": "Kooperatīvās sabiedrības biedri",
+      "content": "(1) Par kooperatīvās sabiedrības biedriem var būt personas, kuras izmanto sabiedrības pakalpojumus, atzīst un pilda sabiedrības statūtus un ir izdarījušas ieguldījumu sabiedrības pamatkapitālā tās statūtos noteiktajā kārtībā, kā arī veic citus statūtos un sabiedrības lēmumos noteiktos maksājumus.\n(2) (Izslēgta ar 08.10.2015 . likumu)\n(3) (Izslēgta ar 08.10.2015 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "18",
+      "title": "Biedru uzņemšana kooperatīvajā sabiedrībā",
+      "content": "(1) Persona, kas vēlas iestāties kooperatīvajā sabiedrībā un kļūt par tās biedru, iesniedz kooperatīvās sabiedrības valdei rakstveida pieteikumu, sabiedrības statūtos noteiktajā kārtībā un apmērā kārto ar iestāšanos saistītos maksājumus, kā arī izdara ieguldījumus sabiedrības pamatkapitālā un norāda nepieciešamās ziņas.\n(2) Personas rakstveida pieteikumu par iestāšanos kooperatīvajā sabiedrībā valde izskata triju mēnešu laikā no tā iesniegšanas dienas. Valdes lēmums par jauna biedra uzņemšanu apstiprināms nākamajā biedru kopsapulcē (pilnvaroto sapulcē) pēc lēmuma pieņemšanas.\n(3) Nevienai personai nevar atteikt uzņemšanu kooperatīvajā sabiedrībā, ja vien šī persona nav izslēgta no kooperatīvās sabiedrības par statūtu pārkāpšanu. Atteikties uzņemt jaunus biedrus var vienīgi tās kooperatīvās sabiedrības, kuras atbilstoši statūtiem apkalpo tikai savus biedrus un nespēj sekmīgi apkalpot lielāku biedru skaitu, kā arī tās kooperatīvās sabiedrības, kuru biedri atbilst šajā likumā un sabiedrības statūtos noteiktajiem biedra statusa kritērijiem.\n(4) Ja kooperatīvās sabiedrības valde kādai personai atsaka uzņemšanu, iesniegumu par šā lēmuma pārskatīšanu var iesniegt biedru kopsapulcei (pilnvaroto sapulcei) mēneša laikā no lēmuma pieņemšanas dienas, un tas izskatāms nākamajā biedru kopsapulcē (pilnvaroto sapulcē) . Biedru kopsapulces (pilnvaroto sapulces) lēmums ir galīgs.\n(5) Biedra tiesības un pienākumi ir spēkā ar brīdi, kad valde pieņēmusi lēmumu par viņa uzņemšanu kooperatīvajā sabiedrībā (ja statūtos nav paredzēts citādi). Biedra pienākums ir mēneša laikā, ja statūtos nav noteikts garāks termiņš, pilnībā nokārtot ar iestāšanos saistītos maksājumus. Ja biedrs ar iestāšanos saistītos maksājumus nav nokārtojis noteiktajā laikā vai biedru kopsapulce (pilnvaroto sapulce) nav apstiprinājusi valdes lēmumu par biedra uzņemšanu, šis lēmums atzīstams par spēkā neesošu un izdarītie maksājumi atdodami atpakaļ to maksātājam. Lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedrs balsstiesības iegūst pēc tam, kad biedru kopsapulce (pilnvaroto sapulce) ir apstiprinājusi valdes lēmumu par viņa uzņemšanu.\n(6) Par dzīvokļu īpašnieku kooperatīvās sabiedrības biedriem var būt tikai tās fiziskās un juridiskās personas, kas ir dzīvokļu, neapdzīvojamo telpu vai mākslinieku darbnīcu īpašnieki mājā (mājās), kuru (kuras) pārvalda un apsaimnieko attiecīgā kooperatīvā sabiedrība. Atsevišķa dzīvokļa īpašuma kopīpašniekus kooperatīvajā sabiedrībā pēc savstarpējas vienošanās pārstāv viens no kopīpašniekiem, pamatojoties uz rakstveida pilnvarojumu.\n(7) Par dārzkopības kooperatīvās sabiedrības dibinātājiem vai biedriem var būt tikai tās fiziskās un juridiskās personas, kurām piešķirta lietošanā vai ir īpašumā zeme kooperatīvās sabiedrības apsaimniekotajā teritorijā.\n(8) Par lauksaimniecības pakalpojumu kooperatīvās sabiedrības biedru var būt fiziskā vai juridiskā persona, kura savā saimniecībā nodarbojas ar lauksaimniecības produktu ražošanu un izmanto lauksaimniecības pakalpojumu kooperatīvās sabiedrības pakalpojumus atbilstoši statūtu prasībām, kā arī cita lauksaimniecības pakalpojumu kooperatīvā sabiedrība.\n(9) Par mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedru var būt fiziskā vai juridiskā persona, kas ir meža īpašnieks un izmanto mežsaimniecības pakalpojumu kooperatīvās sabiedrības pakalpojumus atbilstoši statūtu prasībām, kā arī cita mežsaimniecības pakalpojumu kooperatīvā sabiedrība."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "19",
+      "title": "Kooperatīvās sabiedrības biedru reģistrs",
+      "content": "(1) Kooperatīvās sabiedrības valde iekārto biedru reģistru, kurā norāda šādas ziņas:\n1) ja biedrs ir fiziskā persona, — tās vārdu, uzvārdu, personas kodu un adresi; ja biedrs ir juridiskā persona, — tās nosaukumu (firmu), reģistrācijas numuru un juridisko adresi;\n2) datumu, kad biedrs uzņemts kooperatīvajā sabiedrībā;\n3) katram biedram piederošo pamatpaju un papildpaju skaitu un to kopējo vērtību; dzīvokļu īpašnieku kooperatīvajās sabiedrībās — arī biedra īpašumā esošo dzīvokļu skaitu;\n4) izmaiņas, kas notikušas ar pajām;\n5) datumu, kad biedrs izstājies, izslēgts vai miris (juridiskā persona izbeigusi savu darbību), kad izbeigusies viņa atbildība un notikusi galīgā norēķināšanās ar bijušo biedru.\n(2) Katram kooperatīvās sabiedrības biedram ir tiesības iepazīties ar biedru reģistru.\n(3) Biedru reģistrā var ierakstīt arī citus datus, ja biedru kopsapulce (pilnvaroto sapulce) pieņēmusi attiecīgu lēmumu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "20",
+      "title": "Paju jeb biedra karte",
+      "content": "(1) Paju jeb biedra karte ir dokuments, kas apliecina kooperatīvās sabiedrības biedram piederošo paju skaitu un to kopējo vērtību un dod tiesības piedalīties sabiedrības darbā un pārvaldē, saņemt attiecīgās dividendes un peļņas atmaksu, bet sabiedrības likvidācijas gadījumā — likvidācijas kvotu. Lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedrs saņem peļņas (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikuma) atmaksu atbilstoši izmantoto pakalpojumu apjomam, bet sabiedrības likvidācijas gadījumā — arī likvidācijas kvotu atbilstoši biedram piederošo paju skaitam.\n(2) Paju jeb biedra karti izsniedz kooperatīvās sabiedrības valde. Kooperatīvās sabiedrības biedrs to var saņemt papīra vai elektroniskā formātā, un tajā uzrādāma visa biedru reģistrā esošā informācija par attiecīgo kooperatīvās sabiedrības biedru."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "21",
+      "title": "Kooperatīvās sabiedrības biedra pienākumi",
+      "content": "(1) Kooperatīvās sabiedrības biedra pienākumi ir:\n1) pildīt sabiedrības statūtos paredzētos pienākumus un tās pārvaldes un revīzijas institūciju lēmumus;\n2) savlaicīgi izpildīt saistības, kas attiecas uz darba ieguldījumu (lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — uz saņemto pakalpojumu apjomu), kā arī uz mantisko un finansiālo līdzdalību sabiedrības darbībā statūtos noteiktajā kārtībā;\n3) saudzēt sabiedrības mantu, kā arī ziņot valdei vai revīzijas komisijai (revidentam) par konstatēto mantas izsaimniekošanu vai nesaimniecisku rīcību un veikt attiecīgus pasākumus šādu pārkāpumu novēršanai.\n(2) Kooperatīvā sabiedrība savos statūtos var iekļaut biedra pienākumu izmantot pirmām kārtām kooperatīvās sabiedrības biedriem sniedzamos pakalpojumus."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "22",
+      "title": "Kooperatīvās sabiedrības biedra tiesības",
+      "content": "(1) Kooperatīvās sabiedrības biedra tiesības nosaka šis likums un sabiedrības statūti.\n(2) Kooperatīvās sabiedrības biedram ir tiesības:\n1) piedalīties sabiedrības darbībā un pārvaldē;\n2) (izslēgts ar 20.06.2002 . likumu) ;\n3) izmantot sabiedrības biedram paredzētos atvieglojumus un priekšrocības;\n4) rīkoties ar savām pajām šajā likumā un sabiedrības statūtos noteiktajā kārtībā;\n5) saņemt dividendes vai peļņas (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikuma) atmaksu sabiedrības statūtos paredzētajā apmērā un kārtībā;\n6) saņemt no sabiedrības informāciju jebkurā ar tās darbību saistītā jautājumā, izņemot tādu informāciju, kurai noteikts komercnoslēpuma statuss;\n7) izstāties no sabiedrības šajā likumā un tās statūtos paredzētajā kārtībā.\n(3) Kooperatīvās sabiedrības statūtos tās biedram var paredzēt arī citas tiesības."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa Kooperatīvās sabiedrības biedru tiesības un pienākumi",
+      "section": "23",
+      "title": "Kooperatīvās sabiedrības biedra izstāšanās un izslēgšanas kārtība",
+      "content": "(1) Biedrs var izstāties no kooperatīvās sabiedrības, iesniedzot tās valdei rakstveida iesniegumu. Biedrs nevar pieteikt izstāšanos pēc tam, kad pieņemts lēmums par kooperatīvās sabiedrības likvidāciju.\n(2) Biedru var izslēgt no kooperatīvās sabiedrības, ja viņš nepilda tās statūtos noteiktos pienākumus un saistības. Tiesības izslēgt biedru ir biedru kopsapulcei (pilnvaroto sapulcei), ja statūtos nav noteikts citādi. Ja statūti paredz citu izslēgšanas kārtību, nepieciešams paredzēt arī iespēju pārsūdzēt lēmumu biedru kopsapulcei (pilnvaroto sapulcei). Biedru kopsapulces (pilnvaroto sapulces) lēmums par izslēgšanu ir galīgs.\n(3) Ar brīdi, kad biedrs iesniedzis iesniegumu par izstāšanos, viņš zaudē balsstiesības. Pēc tam kad pieņemts lēmums par biedra izstāšanos vai izslēgšanu, viņš zaudē tiesības piedalīties biedru kopsapulcē (pilnvaroto sapulcē) un būt kooperatīvās sabiedrības vēlēto pārvaldes un revīzijas institūciju sastāvā.\n(4) Biedram, kas izstājies no kooperatīvās sabiedrības, pajas izmaksājamas gada laikā no gada pārskata apstiprināšanas dienas, ieturot no to vērtības zaudējumus, kas radušies, vai pieskaitot dividendi. Lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedram pajas izmaksājamas statūtos noteiktajā termiņā. Ja biedra paju vērtība pārsniedz 10 procentus no sabiedrības pamatkapitāla, sabiedrības statūtos atmaksas termiņu var pagarināt līdz trim gadiem, paredzot, ka atmaksa veicama vienmērīgi pa gadiem. Ja paja s ieguldītas kustamā vai nekustamā mantā, biedram izstāšanās vai izslēgšanas gadījumā, pamatojoties uz līgumu par mantiskā ieguldījuma izdarīšanu vai pēc abpusējas vienošanās, ieguldījumu var kompensēt ar ieguldīto vai līdzvērtīgu mantu. Kooperatīvās sabiedrības biedram ir tiesības statūtos paredzētajos gadījumos atsavināt pajas par labu citam šīs sabiedrības biedram.\n(5) (Izslēgta ar 20.06.2002 . likumu.)\n(6) Kooperatīvās sabiedrības biedra nāves gadījumā pajas un dividendes (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikuma piekrītošā daļa) tiek mantotas. Dzīvokļu īpašnieku kooperatīvajās sabiedrībās pajas manto dzīvokļa īpašuma mantinieki. Ja mantinieki kooperatīvās sabiedrības valdei iesniedz pieteikumu par iestāšanos sabiedrībā, viņi kļūst par kooperatīvās sabiedrības biedriem un iegūst visas biedra tiesības un pienākumus, izņemot mirušā biedra amatus sabiedrības institūcijās. Valdes pienākums ir izdarīt attiecīgus grozījumus biedru reģistrā. Iestāšanās maksu mantinieki nemaksā.\n(7) (Izslēgta ar 20.06.2002 . likumu.)\n(8) (Izslēgta ar 11.06.2009 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "24",
+      "title": "Kooperatīvās sabiedrības pamatkapitāls",
+      "content": "(1) Kooperatīvās sabiedrības pamatkapitāls ir materiālie un naudas resursi, kurus veido visu sabiedrības biedru paju vērtību summa. Pamatkapitāls ir mainīgs.\n(2) Kooperatīvās sabiedrības pamatkapitāls palielinās vai samazinās atkarībā no paju skaita un paju nominālvērtības, kā arī no statūtos noteiktajā kārtībā izdarītajām izmaiņām paju nominālvērtībā.\n(3) Kooperatīvās sabiedrības pamatkapitāla minimālais lielums ir 2800 euro . Dzīvokļu īpašnieku kooperatīvo sabiedrību, automašīnu garāžu īpašnieku kooperatīvo sabiedrību, laivu garāžu īpašnieku kooperatīvo sabiedrību, lauksaimniecības pakalpojumu kooperatīvo sabiedrību, mežsaimniecības pakalpojumu kooperatīvo sabiedrību, dārzkopības kooperatīvo sabiedrību un meliorācijas kooperatīvo sabiedrību pamatkapitāla minimālais lielums ir 280 euro . Ja pamatkapitāls samazinās un ir mazāks par statūtos noteikto minimālo lielumu, valde triju mēnešu laikā sasauc biedru kopsapulci (pilnvaroto sapulci), kurā tiek lemts par sabiedrības tālāko darbību."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "25",
+      "title": "Pajas, to veidi un citi kooperatīvās sabiedrības biedru maksājumi",
+      "content": "(1) Kooperatīvajā sabiedrībā var būt šādas pajas:\n1) pamatpajas;\n2) papildpajas;\n3) (izslēgts ar 20.06.2002 . likumu) .\n(2) Visu veidu pajām sabiedrībā ir vienāda nominālvērtība. Pajas nominālvērtība ir statūtos noteikts lielums, ko var mainīt vienīgi šajā likumā noteiktajos gadījumos un kārtībā, izdarot attiecīgus grozījumus sabiedrības statūtos.\n(3) Pajas nominālvērtību var samazināt vienīgi tad, ja sabiedrībai pēc saimnieciskās darbības gada noslēgšanas zaudējumu segšanai nepietiek rezerves kapitāla un ir nepieciešams izmantot daļu no pamatkapitāla.\n(4) Kooperatīvās sabiedrības biedram ir vismaz viena paja. Biedra maksimālais paju skaits nosakāms statūtos.\n(5) Kooperatīvās sabiedrības biedra pajas veido viņa ieguldījums kooperatīvajā sabiedrībā. Pajas vērtību un ieguldīšanas kārtību nosaka kooperatīvās sabiedrības dibināšanas līgums un statūti.\n(6) Ja sabiedrības statūtos paredzēta iestāšanās maksa, tā nosakāma vienāda visiem biedriem. Statūtos var reglamentēt biedra naudas lielumu un tās noteikšanas kritērijus."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "26",
+      "title": "Pamatpajas",
+      "content": "(1) Kooperatīvās sabiedrības biedra paja tiek reģistrēta par pamatpaju sabiedrības statūtos noteiktajā kārtībā.\n(2) Sabiedrības statūtos var noteikt, ka biedra pamatpaju skaitam ir jāatbilst viņa izmantoto sabiedrības pakalpojumu apjomam iepriekšējā saimnieciskās darbības gadā, ievērojot šādu kārtību:\n1) statūtos jāparedz biedra izmantoto un sabiedrības sniegto pakalpojumu apjoms, par kuru biedram pienākas viena pamatpaja, kā arī kārtība, kādā tiek noteikts vienam biedram pienākošos pamatpaju skaits;\n2) valde katru gadu ne vēlāk kā četrus mēnešus pēc saimnieciskās darbības gada beigām un ne vēlāk kā divas nedēļas pirms kārtējās biedru kopsapulces (pilnvaroto sapulces) apkopo ziņas par biedru izmantoto un sabiedrības sniegto pakalpojumu apjomu iepriekšējā saimnieciskās darbības gadā un aprēķina biedra m pienākošos pamatpaju skaitu;\n3) ja iepriekšējā saimnieciskās darbības gadā biedra faktiski izmantoto un sabiedrības sniegto pakalpojumu apjoms un viņam pienākošos pamatpaju skaits pārsniedz viņam piederošo pamatpaju skaitu, par pamatpajām tiek pārreģistrētas viņam piederošās papildpajas, bet, ja viņam papildpaju nav vai to skaits ir nepietiekams, biedram šīs daļas 4.punktā un sabiedrības statūtos noteiktajā kārtībā papildus jāiegādājas attiecīgs pamatpaju skaits. Ja biedra izmantoto un sabiedrības sniegto pakalpojumu apjoms ir samazinājies, viņa pamatpajas pārreģistrējamas par papildpajām;\n4) biedram nepieciešamās pamatpajas jāiegādājas biedru kopsapulces (pilnvaroto sapulces) noteiktajos termiņos. Ja biedrs neiegulda šo paju iegādei nepieciešamos līdzekļus, viņam aprēķinātā dividende un peļņas (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikuma) atmaksa tiek ieskaitīta kā ieguldījums par iegādājamām pajām;\n5) sabiedrības saimnieciskās darbības pirmajā gadā tās dibinātājiem pienākošos pamatpaju skaitu nosaka dibināšanas līgums, bet pārējiem biedriem līdz pirmā saimnieciskās darbības gada beigām ieguldītās pajas reģistrējamas kā papildpajas.\n(3) Dzīvokļu īpašnieku kooperatīvajās sabiedrībās katram biedram ir tik pamatpaju, cik dzīvokļu ir viņa īpašumā.\n(4) Lauksaimniecības pakalpojumu kooperatīvās sabiedrības un mežsaimniecības pakalpojumu kooperatīvās sabiedrības statūtos, ņemot vērā sabiedrības un mežsaimniecības pakalpojumu kooperatīvās sabiedrības sniegto pakalpojumu specifiku, var noteikt citu pamatpaju aprēķināšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "27",
+      "title": "Papildpajas",
+      "content": "(1) Kooperatīvās sabiedrības biedriem statūtos noteiktajā kārtībā ir tiesības savstarpēji pirkt, pārdot un dāvināt savas papildpajas.\n(2) Pēc sabiedrības biedra pieprasījuma (izņemot lauksaimniecības pakalpojumu kooperatīvo sabiedrību un mežsaimniecības pakalpojumu kooperatīvo sabiedrību) viņa papildpajas var atsavināt gada laikā pēc pieprasījuma iesniegšanas kooperatīvās sabiedrības valdei, ievērojot statūtos noteikto kārtību. Atsavinātās papildpajas atlīdzināmas pēc to nominālvērtības, pieskaitot pienākošos dividendi par tām.\n(3) Lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedra papildpajas var atsavināt pēc viņa pieprasījuma iesniegšanas kooperatīvās sabiedrības valdei, ievērojot statūtos noteikto kārtību."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "28",
+      "title": "Darbinieku pajas",
+      "content": "(Izslēgts ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "29",
+      "title": "Paju iegūšanas veidi un kārtība",
+      "content": "(1) Kooperatīvās sabiedrības dibinātāji un biedri pajas var iegūt:\n1) iemaksājot paju vērtību naudā;\n2) sedzot visu pajas vērtību vai daļu no tās ar mantisko ieguldījumu šā likuma 30.pantā noteiktajā kārtībā, ja tam piekrīt kooperatīvās sabiedrības dibinātāji, bet pēc saimnieciskās darbības uzsākšanas — tās izpildinstitūcija.\n(2) Ja kooperatīvā sabiedrība netiek reģistrēta, dibinātāji saņem atpakaļ iemaksāto summu vai izdarīto mantisko ieguldījumu, kā arī dibināšanas procesā ieguldīto, bet neizmantoto līdzekļu daļu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "30",
+      "title": "Mantiskais ieguldījums",
+      "content": "(1) Attiecībā uz mantisko ieguldījumu piemērojami Komerclikuma 153.panta un 154.panta pirmās, trešās, ceturtās un sestās daļas noteikumi.\n(2) Ieguldītājam tiek piešķirts mantiskā ieguldījuma vērtībai atbilstošs paju skaits.\n(3) Dzīvokļu īpašnieku kooperatīvās sabiedrības, automašīnu garāžu īpašnieku kooperatīvās sabiedrības, laivu garāžu īpašnieku kooperatīvās sabiedrības un dārzkopības kooperatīvās sabiedrības pamatkapitāls apmaksājams tikai naudā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "31",
+      "title": "Kooperatīvās sabiedrības rezerves kapitāls",
+      "content": "(1) Kooperatīvajai sabiedrībai jāveido rezerves kapitāls, kuru ar biedru kopsapulces (pilnvaroto sapulces) lēmumu izmanto sabiedrības zaudējumu segšanai.\n(2) Rezerves kapitālu veido:\n1) iestāšanās maksa, ja tā paredzēta kooperatīvās sabiedrības statūtos;\n2) (izslēgts ar 20.06.2002 . likumu) ;\n3) neizņemtās dividendes un pajas;\n4) (izslēgts ar 11.06.2009 . likumu) ;\n5) atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — neizņemtais pārpalikums.\n(3) Rezerves kapitāla maksimālais lielums nav ierobežots."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "32",
+      "title": "Citi kapitāli",
+      "content": "Kooperatīvā sabiedrība statūtos noteiktajā kārtībā var izveidot arī citus kapitālus."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "33",
+      "title": "Nodokļu atvieglojumi kooperatīvajām sabiedrībām un nodokļu maksājumi atbilstīgajām lauksaimniecības pakalpojumu kooperatīvajām sabiedrībām un atbilstīgajām mežsaimniecības pakalpojumu kooperatīvajām sabiedrībām",
+      "content": "(1) Nodokļu atvieglojumus kooperatīvā sabiedrība saņem nodokļu likumos paredzētajā kārtībā.\n(2) Ievērojot nodokļu likumos noteikto kārtību, atbilstīgā lauksaimniecības pakalpojumu kooperatīvā sabiedrība un atbilstīgā mežsaimniecības pakalpojumu kooperatīvā sabiedrība uzņēmumu ienākuma nodokli nemaksā patstāvīgi, bet katrs atbilstīgās lauksaimniecības pakalpojumu kooperatīvās sabiedrības vai atbilstīgās mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedrs maksā attiecīgi iedzīvotāju ienākuma nodokli vai uzņēmumu ienākuma nodokli no pārpalikuma daļas, kas tam pienākas."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "34",
+      "title": "Kooperatīvās sabiedrības peļņa",
+      "content": "(1) Ar biedru kopsapulces (pilnvaroto sapulces) lēmumu peļņas atlikums pēc nodokļu nomaksas un citu obligāto maksājumu izdarīšanas tiek sadalīts šādi:\n1) statūtos noteiktā rezerves kapitāla veidošanai, kā arī citu kapitālu veidošanai;\n2) dividenžu izmaksai par pajām statūtos noteiktajā kārtībā;\n3) peļņas atmaksai statūtos noteiktajā kārtībā.\n(2) Atlikusī peļņas daļa sadalāma saskaņā ar biedru kopsapulces (pilnvaroto sapulces) lēmumu."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "35",
+      "title": "Kooperatīvās sabiedrības zaudējumu segšanas kārtība",
+      "content": "(1) Ja kooperatīvā sabiedrība noslēdz saimnieciskās darbības gadu ar zaudējumiem, tās biedru kopsapulcei (pilnvaroto sapulcei) jālemj par zaudējumu segšanas kārtību.\n(2) Kooperatīvās sabiedrības zaudējumu segšanai tiek izmantots tās rezerves kapitāls, pamatkapitāls, kā arī citi kapitāli.\n(3) Lai segtu zaudējumus, biedru kopsapulce (pilnvaroto sapulce) var lemt par papildu vienreizēju iemaksu izdarīšanu proporcionāli pamatpaju skaitam."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "36",
+      "title": "Kooperatīvo sabiedrību līdzdalība citās komercsabiedrībās",
+      "content": "(1) Kooperatīvā sabiedrība savu mērķu sasniegšanai var dibināt komercsabiedrības, kā arī būt par dalībnieku citās komercsabiedrībās.\n(2) Kooperatīvās sabiedrības komercsabiedrību dibināšanu, darbību, reorganizāciju un likvidāciju veic saskaņā ar šo likumu un citiem likumiem, kas reglamentē komercdarbību, un biedru kopsapulces (pilnvaroto sapulces) apstiprinātiem komercsabiedrības statūtiem.\n(3) (Izslēgta ar 06.04.2000 . likumu.)\n(4) (Izslēgta ar 06.04.2000 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 36.1",
+      "chapter": "IV nodaļa Kooperatīvās sabiedrības pamatkapitāls un saimnieciskā darbība (Nodaļas nosaukums 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )",
+      "section": "36.1",
+      "title": "36. 1 pants. Lauksaimniecības pakalpojumu kooperatīvās sabiedrības un mežsaimniecības pakalpojumu kooperatīvās sabiedrības atbilstība",
+      "content": "(1) Atbalstu lauku attīstībai var saņemt ikviena lauksaimniecības pakalpojumu kooperatīvā sabiedrība un mežsaimniecības pakalpojumu kooperatīvā sabiedrība, ja tā atbilst normatīvajos aktos noteiktajām prasībām.\n(2) Ministru kabinets nosaka lauksaimniecības pakalpojumu kooperatīvo sabiedrību un mežsaimniecības pakalpojumu kooperatīvo sabiedrību atbilstības kritērijus un šo sabiedrību izvērtēšanas kārtību. Zemkopības ministrija lauksaimniecības pakalpojumu kooperatīvo sabiedrību un mežsaimniecības pakalpojumu kooperatīvo sabiedrību atbilstības izvērtēšanu var Valsts pārvaldes iekārtas likumā noteiktajā kārtībā deleģēt privāto tiesību subjektam vai atvasinātai publiskai personai. Ja atbilstības izvērtēšana deleģēta privāto tiesību subjektam, tam ir tiesības izdot administratīvos aktus."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "37",
+      "title": "Kooperatīvās sabiedrības pārvaldes un revīzijas institūcijas",
+      "content": "(1) Kooperatīvās sabiedrības pārvaldes funkcijas savas kompetences ietvaros pilda tās biedru kopsapulce (pilnvaroto sapulce), padome un valde. Valdes funkcijas sabiedrības statūtos noteiktajā kārtībā var pildīt direktors vai pārvaldnieks.\n(2) Sabiedrības statūtos var paredzēt, ka tiek sasaukta nevis biedru kopsapulce, bet gan pilnvaroto sapulce, nosakot pilnvaroto pārstāvības normu un viņu ievēlēšanas kārtību.\n(2 1 ) Kooperatīvā sabiedrība, kura atbilstoši šā likuma noteikumiem nav uzskatāma par komersantu (6.pants), var sasaukt pilnvaroto sapulci, ja to paredz statūti un kooperatīvajā sabiedrībā ir vairāk nekā 200 balsstiesīgo biedru. Statūtos var paredzēt lielāku minimālo biedru skaitu, kāds nepieciešams, lai sasauktu pilnvaroto sapulci.\n(3) Kooperatīvās sabiedrības kontroles un revīzijas institūcija ir revīzijas komisija (revidents) vai zvērināts revidents.\n(4) Sabiedrības statūtos noteiktajā kārtībā var izveidot kooperatīvās sabiedrības padomi, bet, ja padome netiek izveidota, tās funkcijas pilda biedru kopsapulce (pilnvaroto sapulce)."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "38",
+      "title": "Kooperatīvās sabiedrības biedru kopsapulce (pilnvaroto sapulce)",
+      "content": "(1) Kooperatīvās sabiedrības augstākā pārvaldes institūcija ir kooperatīvās sabiedrības biedru kopsapulce. Tā var būt kārtējā un ārkārtas.\n(2) Biedru kārtējo kopsapulci (pilnvaroto sapulci) sasauc valde katru gadu ne vēlāk kā četrus mēnešus pēc saimnieciskās darbības gada beigām, bet sabiedrībai, kuras darbības apjoms pārsniedz Gada pārskatu likuma 24.panta otrajā daļā minētos kritērijus, — ne vēlāk kā septiņus mēnešus pēc saimnieciskās darbības gada beigām. Šajā biedru kopsapulcē (pilnvaroto sapulcē) pārbauda un apstiprina sabiedrības saimnieciskās darbības gada pārskatu, kārtējā gada budžetu un darbības plānu.\n(2 1 ) Ja biedru kārtējā kopsapulce (pilnvaroto sapulce) nav notikusi šā panta otrajā daļā noteiktajā termiņā, to sasauc viens vai vairāki biedri (pilnvarotie).\n(3) Īpašu jautājumu izlemšanai kooperatīvās sabiedrības valde, ja nepieciešams, statūtos noteiktajā kārtībā var sasaukt biedru ārkārtas kopsapulci (pilnvaroto sapulci). Ārkārtas kopsapulce (pilnvaroto sapulce) valdei jāsasauc arī tad, ja sabiedrības statūtos noteiktajā kārtībā to pieprasa vismaz viena desmitdaļa biedru (viena trešdaļa pilnvaroto) vai revīzijas komisija (revidents). Ja valde mēneša laikā pēc pieprasījuma iesniegšanas dienas nesasauc biedru kopsapulci (pilnvaroto sapulci), to sasauc revīzijas komisija (revidents). Ja biedru ārkārtas kopsapulce (pilnvaroto sapulce) nav notikusi triju mēnešu laikā pēc pieprasījuma iesniegšanas dienas, to sasauc vismaz viena desmitdaļa biedru (viena trešdaļa pilnvaroto).\n(4) Paziņojumu par biedru kopsapulces (pilnvaroto sapulces) norises vietu, laiku un darba kārtību (dzīvokļu īpašnieku kooperatīvajās sabiedrībās — pilnvaroto ievēlēšanas sapulces norises vietu, laiku un darba kārtību) valde statūtos noteiktajā kārtībā nosūta visiem biedriem vismaz 10 dienas pirms sapulces, ja statūtos nav noteikts garāks paziņošanas termiņš."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "39",
+      "title": "Kooperatīvās sabiedrības biedru kopsapulces (pilnvaroto sapulces) tiesīgums",
+      "content": "(1) Tikai kooperatīvās sabiedrības biedru kopsapulcei ir tiesības:\n1) ievēlēt un atsaukt pilnvarotos, kuri pilnvaroto sapulcē ir tiesīgi lemt šā panta otrajā daļā noteiktos biedru kompetencē esošos jautājumus;\n2) ievēlēt un atsaukt valdes un padomes locekļus, revīzijas komisijas locekļus (revidentu) vai zvērinātu revidentu un likvidācijas komisijas locekļus;\n3) noteikt atlīdzības lielumu valdes un padomes locekļiem, revīzijas komisijas locekļiem (revidentam) vai zvērinātam revidentam un likvidācijas komisijas locekļiem;\n4) noteikt izmaiņas valdes locekļu pārstāvības tiesībās.\n(2) Biedru kopsapulcei (pilnvaroto sapulcei) ir tiesības:\n1) pēc valdes un revīzijas komisijas (revidenta) vai zvērināta revidenta ziņojuma izskatīt un apstiprināt aizvadītā saimnieciskās darbības gada pārskatu;\n2) apstiprināt valdes sagatavoto sabiedrības budžetu un kārtējā gada darbības plānu;\n3) noteikt iestāšanās maksas (ja tāda paredzēta sabiedrības statūtos) un biedra naudas lielumu;\n4) izskatīt sūdzības par padomes vai valdes lēmumiem;\n5) (izslēgts ar 20.06.2002 . likumu) ;\n6) apstiprināt padomes vai valdes lēmumus par jaunu biedru uzņemšanu un esošo biedru izslēgšanu vai izstāšanos no sabiedrības;\n7) izlemt jautājumus, kas saistīti ar sabiedrības reorganizāciju vai likvidāciju, kā arī ar līdzdalību citās komercsabiedrībās vai izstāšanos no tām;\n8) lemt par komercsabiedrību dibināšanu, reorganizāciju vai likvidāciju;\n9) izlemt jautājumu par sabiedrības statūtu grozīšanu;\n10) sadalīt iepriekšējā saimnieciskās darbības gada peļņu (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā — pārpalikumu) un noteikt zaudējumu segšanas kārtību;\n11) saskaņā ar likumiem un citiem normatīvajiem aktiem apstiprināt un grozīt padomes, valdes, revīzijas komisijas (revidenta) vai zvērināta revidenta un likvidācijas komisijas darbības nolikumus;\n12) pārstāvēt sabiedrību tiesā ar tās pilnvarotas personas starpniecību visās sabiedrības celtajās prasībās pret valdes locekļiem, kā arī valdes celtajās prasībās pret sabiedrību;\n13) (izslēgts ar 20.06.2002 . likumu) .\n(3) Kooperatīvās sabiedrības statūtos var paredzēt arī citus jautājumus, kuru izlemšana ir vienīgi biedru kopsapulces (pilnvaroto sapulces) kompetencē."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "40",
+      "title": "Kooperatīvās sabiedrības biedru piedalīšanās kopsapulcē (pilnvaroto sapulcē)",
+      "content": "(1) Kopsapulcē (pilnvaroto sapulcē) katram kooperatīvās sabiedrības biedram neatkarīgi no viņam piederošo pamatpaju skaita ir viena balss.\n(2) Biedrs savas balsstiesības nevar nodot citam, ja kooperatīvās sabiedrības statūti neparedz īpašu pilnvarošanas kārtību.\n(3) Biedram, kurš ne vēlāk kā divas dienas pirms biedru kopsapulces (pilnvaroto sapulces) nav nokārtojis kooperatīvās sabiedrības statūtos un kopsapulces (pilnvaroto sapulces) lēmumos noteiktās saistības vai kuram, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, atņemtas tiesības veikt visu veidu komercdarbību, kopsapulcē (pilnvaroto sapulcē) nav balsstiesību, un viņu nevar ievēlēt kooperatīvās sabiedrības pārvaldes un revīzijas institūcijās. Ja biedram, pamatojoties uz kriminālprocesa ietvaros pieņemtu nolēmumu, atņemtas tiesības veikt noteikta veida komercdarbību, viņam nav balsstiesību jautājumos par attiecīgajā nolēmumā noteikto komercdarbības veidu.\n(4) Biedru kopsapulci (pilnvaroto sapulci) vada no kooperatīvās sabiedrības biedru vidus ievēlēts vadītājs. Par vadītāju nedrīkst būt kooperatīvās sabiedrības padomes priekšsēdētājs, valdes priekšsēdētājs, viņu vietnieki un revīzijas komisijas locekļi (revidents) vai zvērināts revidents."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "41",
+      "title": "Kooperatīvās sabiedrības biedru kopsapulces (pilnvaroto sapulces) norise",
+      "content": "(1) Biedru kopsapulce (pilnvaroto sapulce), dzīvokļu īpašnieku kooperatīvajās sabiedrībās — pilnvaroto ievēlēšanas sapulce, kas izziņota un organizēta šajā likumā un sabiedrības statūtos noteiktajā kārtībā, ir tiesīga, ja tajā pārstāvēta vairāk nekā puse no balsstiesīgajiem biedriem. Biedru kopsapulce (pilnvaroto sapulce) izskata jautājumus, kas ietverti izziņotajā darba kārtībā.\n(2) Biedru kopsapulce (pilnvaroto sapulce) pieņem lēmumus, atklāti balsojot, izņemot gadījumus, kad aizklātu balsošanu pieprasa ne mazāk kā viena desmitdaļa klātesošo balsstiesīgo biedru. Aizklāta balsošana ir obligāta, ievēlot vai atceļot valdes priekšsēdētāju, padomes un valdes locekļus, revīzijas komisijas locekļus (revidentu) vai zvērinātu revidentu un likvidācijas komisiju. Statūtos var paredzēt arī citus gadījumus, kad aizklāta balsošana ir obligāta.\n(3) Biedru kopsapulce (pilnvaroto sapulce) pieņem lēmumus ar vienkāršu klātesošo biedru balsu vairākumu.\n(4) Lai izdarītu grozījumus sabiedrības statūtos, pieņemtu lēmumu par kooperatīvās sabiedrības reorganizāciju vai darbības izbeigšanu, nepieciešams divu trešdaļu klātesošo biedru balsu vairākums. Sabiedrības statūtos var paredzēt arī citus jautājumus, kuri izlemjami ar divu trešdaļu klātesošo biedru balsu vairākumu.\n(5) Ja biedru kopsapulce (pilnvaroto sapulce), dzīvokļu īpašnieku kooperatīvajās sabiedrībās — pilnvaroto ievēlēšanas sapulce nav tiesīga, viena mēneša laikā, ievērojot šā likuma 38.panta ceturtajā daļā minētos noteikumus, tiek sasaukta atkārtota kopsapulce (pilnvaroto sapulce), dzīvokļu īpašnieku kooperatīvajās sabiedrībās — pilnvaroto ievēlēšanas sapulce ar tādu pašu darba kārtību, un tā ir tiesīga neatkarīgi no klātesošo biedru skaita.\n(6) Biedru kopsapulces (pilnvaroto sapulces) gaita (dzīvokļu īpašnieku kooperatīvajās sabiedrībās — pilnvaroto ievēlēšanas sapulces gaita) tiek protokolēta. Protokolu paraksta sapulces vadītājs un protokolētājs.\n(7) Protokolā norāda:\n1) kooperatīvās sabiedrības nosaukumu;\n2) institūciju (personu), kura sasauc sapulci;\n3) sapulces norises vietu un laiku;\n4) laiku, kad paziņots par sapulces sasaukšanu, un paziņošanas veidu;\n5) kooperatīvās sabiedrības kopējo balsstiesīgo biedru skaitu;\n6) pilnvaroto sapulces biedru pārstāvju kopējo skaitu, kāds nepieciešams, lai būtu pārstāvēti visi biedri (ja sasaukta pilnvaroto sapulce);\n7) sapulcē klātesošo biedru (biedru pārstāvju) skaitu;\n8) darba kārtības jautājumus;\n9) darba kārtības jautājumu apspriešanas gaitu un saturu;\n10) balsošanas rezultātus, norādot balsu skaitu \"par\" vai \"pret\" par katru lēmumu;\n11) pieņemtos lēmumus."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "42",
+      "title": "Kooperatīvās sabiedrības padome un tās sastāvs",
+      "content": "(1) Biedru kopsapulce no kooperatīvās sabiedrības biedru vidus var ievēlēt kooperatīvās sabiedrības padomi ne mazāk kā triju locekļu sastāvā. Šī padome pārstāv biedru intereses kopsapulču (pilnvaroto sapulču) starplaikā un šajā likumā un sabiedrības statūtos noteiktajos ietvaros kontrolē valdes darbību.\n(2) Ja kooperatīvā sabiedrība padomi neizveido, tās funkcijas pilda biedru kopsapulce (pilnvaroto sapulce).\n(3) Par padomes locekli nevar būt ne valdes, ne revīzijas institūcijas loceklis.\n(4) Padomes locekļu pilnvaru termiņu nosaka kooperatīvās sabiedrības statūti, bet tas nedrīkst pārsniegt trīs gadus. Padomes loceklis nevar uzticēt savu pienākumu pildīšanu citai personai.\n(5) Kooperatīvās sabiedrības padomes sastāvs un grozījumi tajā 15 dienu laikā jādara zināmi Uzņēmumu reģistram.\n(6) Padomes locekļi no sava vidus ievēlē padomes priekšsēdētāju un vienu vai vairākus viņa vietniekus, kā arī lemj par savu pienākumu sadali. Padomes priekšsēdētāja vietnieks pilda padomes priekšsēdētāja pienākumus tikai viņa uzdevumā vai viņa ilgstošas prombūtnes laikā (slimība, komandējums, atvaļinājums)."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "43",
+      "title": "Kooperatīvās sabiedrības padomes uzdevumi",
+      "content": "Kooperatīvās sabiedrības padomes uzdevumi ir šādi:\n1) pastāvīgi kontrolēt valdes darbību un raudzīties, lai kooperatīvā sabiedrība darbotos saskaņā ar likumiem, sabiedrības statūtiem un biedru kopsapulces (pilnvaroto sapulces) lēmumiem;\n2) izvērtēt valdes iesniegto saimnieciskās darbības gada pārskatu, budžeta projektu, kā arī valdes priekšlikumus par peļņas sadali un līdz ar savu atzinumu iesniegt tos apstiprināšanai biedru kopsapulcē (pilnvaroto sapulcē);\n3) izskatīt lēmumu projektus visos jautājumos, kas ir biedru kopsapulces (pilnvaroto sapulces) kompetencē vai kas pēc valdes vai padomes locekļu ierosinājuma ir ieteikti apspriešanai biedru kopsapulcē (pilnvaroto sapulcē), un sniegt atzinumu par tiem;\n4) (izslēgts ar 20.06.2002 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "44",
+      "title": "Kooperatīvās sabiedrības padomes tiesības",
+      "content": "Kooperatīvās sabiedrības padomei ir šādas tiesības:\n1) jebkurā laikā pieprasīt no valdes pārskatu par sabiedrības stāvokli;\n2) pārbaudīt sabiedrības reģistrus un dokumentus, kā arī kasi, vērtspapīrus, preces, izejvielas, nepabeigtos ražojumus, gatavo produkciju un citu mantu;\n3) dot piekrišanu svarīgu jautājumu izlemšanai valdē, ja tas paredzēts sabiedrības statūtos;\n4) pēc vienas trešdaļas biedru motivēta pieprasījuma pārbaudīt valdes darbu. Ja padome šādu pārbaudi mēneša laikā neizdara, biedriem ir tiesības šo jautājumu nodot izskatīšanai biedru kopsapulcei (pilnvaroto sapulcei);\n5) uzdot valdei sasaukt biedru kopsapulci (pilnvaroto sapulci), ja to prasa kooperatīvās sabiedrības intereses;\n6) iesniegt biedru kopsapulcei (pilnvaroto sapulcei) ziņojumu, kurā novērtēta sabiedrības darbība un valdes ziņojums, kā arī izteikt priekšlikumus par sabiedrības darbības uzlabošanu."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "45",
+      "title": "Kooperatīvās sabiedrības padomes darbība",
+      "content": "(1) Kooperatīvās sabiedrības padomes sēdes sasauc padomes priekšsēdētājs pēc vajadzības, bet ne retāk kā reizi ceturksnī. Katram padomes loceklim, kā arī valdei ir tiesības pieprasīt padomes sēdes sasaukšanu, motivējot sēdes sasaukšanas nepieciešamību.\n(2) Ja padomes priekšsēdētājs šādu padomes locekļa pieprasījumu divu nedēļu laikā neizpilda, sēdes sasaukšanas ierosinātājam ir tiesības, paskaidrojot lietas apstākļus, pašam sasaukt padomes sēdi.\n(3) Padome ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse padomes locekļu.\n(4) Padome lēmumus pieņem ar klātesošo balsstiesīgo padomes locekļu vienkāršu balsu vairākumu. Balsīm sadaloties līdzīgi, izšķirošā ir padomes priekšsēdētāja balss. Ja padomes loceklis nepiekrīt padomes lēmumam un balso pret to, viņš par pieņemto lēmumu nav atbildīgs. Šā padomes locekļa atsevišķās domas pēc viņa pieprasījuma ierakstāmas padomes sēdes protokolā. Protokolu paraksta visi klātesošie padomes locekļi."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "46",
+      "title": "Kooperatīvās sabiedrības valde",
+      "content": "(1) Kooperatīvās sabiedrības valde ir sabiedrības izpildinstitūcija, kas vada un pārstāv kooperatīvo sabiedrību.\n(2) Valde pārzina un vada kooperatīvās sabiedrības lietas. Tā atbild par sabiedrības saimniecisko darbību, kā arī par to, lai sabiedrībā kārtotā grāmatvedība atbilstu likumam.\n(3) Valde pārvalda kooperatīvās sabiedrības mantu un rīkojas ar tās līdzekļiem atbilstoši likumiem, kooperatīvās sabiedrības statūtiem un biedru kopsapulces (pilnvaroto sapulces) lēmumiem.\n(4) Valdes locekļus uz kooperatīvās sabiedrības statūtos paredzēto laiku, kas nav ilgāks par trim gadiem, ievēlē un atsauc biedru kopsapulce, aizklāti balsojot. Valdes priekšsēdētāju ievēlē biedru kopsapulce, bet viņa vietnieku — valdes locekļi no sava vidus, ja statūtos nav noteikts citādi.\n(5) Valde ir lemttiesīga, ja tās sēdē piedalās vairāk nekā puse valdes locekļu. Valdes sēdes protokolu paraksta visi klātesošie valdes locekļi, ja kooperatīvās sabiedrības statūtos nav noteikts citādi.\n(6) Valde pieņem lēmumu ar klātesošo balsstiesīgo valdes locekļu vienkāršu balsu vairākumu. Balsīm sadaloties līdzīgi, izšķirošā ir valdes priekšsēdētāja balss, bet priekšsēdētāja prombūtnes laikā — viņa vietnieka balss.\n(7) Ja valdes loceklis nepiekrīt valdes lēmumam un balso pret to, viņa atšķirīgais viedoklis pēc viņa pieprasījuma ierakstāms valdes sēdes protokolā.\n(8) Pēc saimnieciskās darbības gada noslēguma valde par savu darbību sniedz ziņojumu biedru kopsapulcei (pilnvaroto sapulcei). Ziņojumā tā atspoguļo saimnieciskās darbības rezultātus, plānoto saimnieciskās darbības politiku nākamajā saimnieciskās darbības gadā un citus ar kooperatīvās sabiedrības darbību saistītus būtiskus jautājumus.\n(9) Dzīvokļu īpašnieku kooperatīvās sabiedrības valde organizē pilnvaroto personu ievēlēšanu katras dzīvojamās mājas sapulcē pēc kooperatīvās sabiedrības statūtos noteiktās pārstāvniecības normas uz laiku, kas nav ilgāks par trim gadiem."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "47",
+      "title": "Kooperatīvās sabiedrības valdes tiesības vadīt kooperatīvo sabiedrību un tās kompetence",
+      "content": "(1) Kooperatīvās sabiedrības valdes locekļi kooperatīvo sabiedrību vada tikai kopīgi.\n(2) Kooperatīvās sabiedrības valde izlemj visus ar sabiedrības darbību saistītos jautājumus, kas nav biedru kopsapulces (pilnvaroto sapulces) vai padomes kompetencē.\n(3) Kooperatīvā sabiedrība savos statūtos var noteikt, ka valdei svarīgu jautājumu izlemšanā vajadzīga biedru kopsapulces (pilnvaroto sapulces) vai padomes (ja tāda ir izveidota) piekrišana. Par svarīgiem uzskatāmi šādi jautājumi:\n1) līdzdalības iegūšana citās sabiedrībās, tās palielināšana vai samazināšana;\n2) nekustamo īpašumu pirkšana, pārdošana vai apgrūtināšana ar lietu tiesībām;\n3) filiāļu un pārstāvniecību atvēršana vai slēgšana;\n4) tādu aizdevumu izsniegšana, kuri nav saistīti ar kooperatīvās sabiedrības parasto saimniecisko darbību;\n5) jaunu darbības veidu uzsākšana, kā arī esošo darbības veidu izbeigšana.\n(4) Ja padome noraida valdes iesniegtos priekšlikumus, valdei ir tiesības sasaukt biedru ārkārtas kopsapulci (pilnvaroto sapulci)."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "48",
+      "title": "Kooperatīvās sabiedrības valdes pārstāvības tiesības",
+      "content": "(1) Visiem kooperatīvās sabiedrības valdes locekļiem ir pārstāvības tiesības. Valdes locekļi sabiedrību pārstāv kopīgi, ja tās statūtos nav noteikts citādi. Statūtos var noteikt, ka sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu.\n(2) Kopīgas pārstāvības gadījumā valdes locekļi var pilnvarot no sava vidus vienu vai vairākus valdes locekļus slēgt noteiktus darījumus vai noteikta veida darījumus. Šis noteikums attiecīgi piemērojams arī tad, ja sabiedrību pārstāv valdes locekļi kopīgi ar prokūristu.\n(3) Valdes pārstāvības tiesības attiecībā uz trešajām personām nevar ierobežot. Kooperatīvās sabiedrības statūtos noteiktās valdes locekļu tiesības pārstāvēt sabiedrību kopīgi vai atsevišķi vai kopīgi ar prokūristu nav uzskatāmas par valdes pārstāvības tiesību ierobežojumu šā panta izpratnē.\n(4) Attiecībā uz kooperatīvās sabiedrības valdes locekļiem jāievēro pārstāvības ierobežojumi, kas noteikti tās statūtos, biedru kopsapulces un padomes (ja tāda ir izveidota) lēmumos.\n(5) Izmaiņas kooperatīvās sabiedrības valdes locekļu pārstāvības tiesībās piesakāmas reģistrācijai Uzņēmumu reģistrā, pieteikumam pievienojot biedru kopsapulces protokola izrakstu ar attiecīgo lēmumu."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "49",
+      "title": "Kooperatīvās sabiedrības revīzijas komisija (revidents)",
+      "content": "(1) Kooperatīvās sabiedrības darbību pārbauda revīzijas komisija (revidents) vai zvērināts revidents. Revīzijas komisija (revidents) ir atbildīga un sniedz pārskatu par savu darbību biedru kopsapulcei (pilnvaroto sapulcei).\n(2) Revīzijas komisiju (revidentu) uz kooperatīvās sabiedrības statūtos noteikto laiku, kas nav ilgāks par trim gadiem, ievēlē kooperatīvās sabiedrības biedru kopsapulce. Revīzijas komisijā var ievēlēt arī vienu zvērinātu revidentu, kas nav sabiedrības biedrs.\n(3) Par revīzijas komisijas locekļiem (revidentu) vai zvērinātu revidentu nedrīkst būt padomes vai valdes loceklis, kā arī personas, kurām ar valdes locekļiem vai galveno grāmatvedi ir radniecība līdz trešajai pakāpei vai svainība līdz otrajai pakāpei.\n(4) Revīzijas komisijas darbu vada tās priekšsēdētājs, kuru no sava vidus ievēlē revīzijas komisijas locekļi, ja sabiedrības statūtos nav noteikts citādi.\n(5) Revīzijas komisijas (revidenta) vai zvērināta revidenta uzdevumi ir šādi:\n1) pastāvīgi kontrolēt valdes darbību un raudzīties, lai kooperatīvā sabiedrība darbotos saskaņā ar likumiem, tās statūtiem un biedru kopsapulces (pilnvaroto sapulces) lēmumiem;\n2) izvērtēt valdes iesniegto saimnieciskās darbības gada pārskatu, budžeta projektu, kā arī valdes priekšlikumus par peļņas sadali un sniegt savu atzinumu par tiem valdei, padomei un biedru kopsapulcei (pilnvaroto sapulcei);\n3) izskatīt lēmumu projektus visos jautājumos, kas ir biedru kopsapulces (pilnvaroto sapulces) kompetencē vai kas pēc valdes locekļu ierosinājuma ir ieteikti apspriešanai biedru kopsapulcē (pilnvaroto sapulcē), u n sniegt savu atzinumu par tiem valdei un biedru kopsapulcei (pilnvaroto sapulcei).\n(6) Revīzijas komisijai (revidentam) vai zvērinātam revidentam ir šādas tiesības:\n1) jebkurā laikā pieprasīt no valdes pārskatu par kooperatīvās sabiedrības darbību;\n2) pārbaudīt sabiedrības reģistrus un dokumentus, kā arī kasi, vērtspapīrus, preces, izejvielas, nepabeigtos ražojumus, gatavo produkciju un citu mantu;\n3) iesniegt biedru kopsapulcei (pilnvaroto sapulcei) ziņojumu, kurā novērtēta sabiedrības darbība un valdes ziņojums, kā arī izteikt priekšlikumus par sabiedrības darbības uzlabošanu.\n(7) Revīzijas komisijas locekļi (revidents) vai zvērināts revidents savu darbu veic saskaņā ar šo likumu un citiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "V nodaļa Kooperatīvās sabiedrības organizatoriskā struktūra",
+      "section": "50",
+      "title": "Kooperatīvās sabiedrības darbības uzskaite un lietvedība",
+      "content": "(1) Kooperatīvā sabiedrība kārto lietvedību, grāmatvedību un statistisko uzskaiti, kā arī sastāda un iesniedz gada pārskatu saskaņā ar normatīvajiem aktiem.\n(2) Biedru kopsapulču (pilnvaroto sapulču), padomes, valdes un revīzijas komisijas (revidenta) sēžu protokoli, ziņojumi un lēmumi ir numurējami, reģistrējami un uzglabājami atsevišķos caurauklotos un apzīmogotos sējumos."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "VI nodaļa Kooperatīvās sabiedrības darbības izbeigšana",
+      "section": "51",
+      "title": "Kooperatīvās sabiedrības darbības izbeigšana",
+      "content": "(1) Kooperatīvās sabiedrības darbība izbeidzas:\n1) sabiedrības statūtos noteiktajos gadījumos;\n2) ja gada laikā pēc sabiedrības reģistrācijas tā nav uzsākusi darbību likumā noteiktajā kārtībā;\n3) ja sabiedrības biedru skaits ne mazāk kā trīs mēnešus pēc kārtas ir bijis mazāks par trim;\n4) saskaņā ar Maksātnespējas likumu ;\n5) ar biedru kopsapulces (pilnvaroto sapulces) lēmumu;\n6) (izslēgts ar 20.06.2002 . likumu) ;\n7) ar tiesas nolēmumu un citos normatīvajos aktos noteiktajos gadījumos.\n(2) (Izslēgta ar 20.06.2002 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "VI nodaļa Kooperatīvās sabiedrības darbības izbeigšana",
+      "section": "52",
+      "title": "Kooperatīvās sabiedrības atzīšana par neesošu",
+      "content": "(Izslēgts ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )"
+    },
+    {
+      "provision_ref": "Art. 52.1",
+      "chapter": "VI nodaļa Kooperatīvās sabiedrības darbības izbeigšana",
+      "section": "52.1",
+      "title": "52. 1 pants. Kooperatīvās sabiedrības darbības izbeigšana, pamatojoties uz tiesas nolēmumu",
+      "content": "(1) Katram kooperatīvās sabiedrības balsstiesīgajam biedram, sabiedrības padomei, valdei, Uzņēmumu reģistram, kā arī citām likumā noteiktajām personām ir tiesības celt tiesā prasību par kooperatīvās sabiedrības darbības izbeigšanu:\n1) ja sabiedrības dibināšanas dokumenti ir pretrunā ar šo likumu;\n2) ja sabiedrības statūti ir pretrunā ar šo likumu;\n3) ja sabiedrības pamatkapitāls neatbilst likuma prasībām;\n4) ja sabiedrība neiesniedz Uzņēmumu reģistram likumā paredzētās ziņas;\n5) ja valdei ilgāk par trim mēnešiem nav pārstāvības tiesību;\n6) citos likumā noteiktajos gadījumos.\n(2) Uzņēmumu reģistrs var celt prasību tiesā, ja kooperatīvā sabiedrība triju mēnešu laikā pēc rakstveida brīdinājuma saņemšanas nav novērsusi norādītos pārkāpumus.\n(3) Līdz brīdim, kad tiek pieņemts tiesas nolēmums par sabiedrības darbības izbeigšanu, tiesa var noteikt termiņu, kurā kooperatīvajai sabiedrībai jānovērš trūkumi, kas ir par pamatu tās darbības izbeigšanai.\n(4) Ja tiesa apmierina Uzņēmumu reģistra prasību par kooperatīvās sabiedrības darbības izbeigšanu, šīs sabiedrības likvidāciju normatīvajos aktos noteiktajā kārtībā veic Uzņēmumu reģistrs. Likvidācijas izdevumus sedz no likvidējamās kooperatīvās sabiedrības līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VI nodaļa Kooperatīvās sabiedrības darbības izbeigšana",
+      "section": "53",
+      "title": "Kooperatīvās sabiedrības likvidācijas kārtība",
+      "content": "Biedru kopsapulce (pilnvaroto sapulce) pieņem lēmumu par kooperatīvās sabiedrības likvidāciju, ievērojot šādu kārtību :\n1) tā ievēlē likvidācijas komisiju, kas vada sabiedrības likvidācijas procesu. Līdz ar likvidācijas komisijas ievēlēšanu izbeidzas padomes un valdes locekļu pilnvaras, bet to atbildība saglabājas līdz sabiedrības likvidēšanas brīdim. Biedru kopsapulce (pilnvaroto sapulce) ievēlētos likvidācijas komisijas locekļus var jebkurā laikā atsaukt un ievēlēt jaunus;\n2) likvidācijas komisija ne vēlāk kā triju darba dienu laikā pēc tās ievēlēšanas iesniedz publicēšanai oficiālajā izdevumā \"Latvijas Vēstnesis\" paziņojumu par kooperatīvās sabiedrības likvidāciju. Paziņojumā jāmin lēmuma pieņemšanas datums, likvidācijas komisijas locekļu vārds, uzvārds, darbības vieta un tālruņa numurs, kā arī jāietver uzaicinājums pieteikt savus prasījumus un jānorāda prasījumu pieņemšanas vieta, termiņš (ne mazāk kā trīs mēneši no paziņojuma publicēšanas dienas) un termiņa nokavēšanas sekas;\n3) likvidācijas komisija triju darba dienu laikā pēc tās ievēlēšanas lēmumu par kooperatīvās sabiedrības likvidāciju paziņo Uzņēmumu reģistram. Paziņojumā jānorāda likvidācijas komisijas locekļu vārds, uzvārds, darbības vieta un tālruņa numurs;\n4) pēc visu kreditoru apzināšanas (pēc sabiedrības rīcībā esošajiem datiem un iesniegtajiem prasījumiem) likvidācijas komisija izvērtē prasījumus un par katru no tiem sniedz atzinumu. Atzinumus par noraidītajiem kreditoru prasījumiem likvidācijas komisija nosūta attiecīgajam kreditoram. Ja kreditors, saņēmis atzinumu par prasījuma noraidīšanu, mēneša laikā pēc tā saņemšanas dienas nav iesniedzis prasību tiesā, atzinums stājas spēkā, un šādi kreditoru prasījumi tiek dzēsti, bet, ja iesniegta prasība tiesā, — parādi kreditoriem tiek kārtoti atbilstoši tiesas nolēmumam;\n5) likvidācijas komisija pabeidz kooperatīvās sabiedrības iesāktās darbības biedru kopsapulces (pilnvaroto sapulces) noteiktajā kārtībā un laikā, pārdod sabiedrības mantu, iekasē no debitoriem pienākošos parādus, apmierina citas pretenzijas, norēķinās ar kreditoriem un sastāda likvidācijas bilanci, sadala atlikumu starp biedriem kā likvidācijas kvotu proporcionāli biedru pamatpaju un papildpaju skaitam;\n6) ja likvidācijas gaitā atklājas, ka no kooperatīvās sabiedrības mantas nav iespējams pilnībā apmierināt visas likumīgās kreditoru prasības, likvidācijas komisija par to paziņo biedru kopsapulcei (pilnvaroto sapulcei) un iesniedz tiesā pieteikumu par maksātnespēju Maksātnespējas likumā noteiktajā kārtībā;\n7) uz likvidācijas komisijas darbību attiecināmi tie paši noteikumi, kas piemērojami kooperatīvās sabiedrības valdes darbībai, ja sabiedrības statūtos nav noteikts citādi;\n8) likvidācijas komisija iesniedz biedru kopsapulcei (pilnvaroto sapulcei) tās noteiktajos termiņos pārskatu par savu darbību, bet pēc likvidācijas pabeigšanas — arī pārskatu par darbību visā likvidācijas laikā;\n9) kooperatīvā sabiedrība uzskatāma par likvidētu pēc tās izslēgšanas no Uzņēmumu reģistra;\n10) likvidācijas komisija kooperatīvās sabiedrības arhīviski vērtīgos dokumentus, ievērojot Arhīvu likuma noteikumus, nodod glabāšanai Latvijas Nacionālajam arhīvam, bet pārējos dokumentus — vienam no kooperatīvās sabiedrības biedriem Latvijā un paziņo Latvijas Nacionālajam arhīvam par to glabāšanas vietu."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VII nodaļa Tiesiskās attiecības kooperatīvajā sabiedrībā",
+      "section": "54",
+      "title": "Kooperatīvās sabiedrības dibinātāju un biedru atbildība",
+      "content": "(1) Kooperatīvās sabiedrības dibinātāji no dibināšanas līguma noslēgšanas dienas līdz sabiedrības reģistrācijai Uzņēmumu reģistrā ir atbildīgi ar visu savu mantu par sabiedrības saistībām un trešajām personām nodarītajiem zaudējumiem.\n(2) Katrs kooperatīvās sabiedrības dibinātājs likumos noteiktajā kārtībā ir atbildīgs par zaudējumiem, kas radušies sabiedrībai, tās biedriem vai trešajām personām, ja viņš apzināti vai neuzmanības dēļ sabiedrības dibināšanas vai citos dokumentos, kas iesniegti valsts institūcijām vai sabiedrības biedriem, uzrādījis neprecīzas, nepilnīgas vai neskaidras ziņas vai citādā veidā pārkāpis likumus vai sabiedrības statūtus."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VII nodaļa Tiesiskās attiecības kooperatīvajā sabiedrībā",
+      "section": "55",
+      "title": "Kooperatīvās sabiedrības valdes un padomes locekļu atbildība",
+      "content": "(1) Katram kooperatīvās sabiedrības valdes un padomes loceklim savi pienākumi jāpilda kā krietnam un rūpīgam saimniekam.\n(2) Kooperatīvās sabiedrības valdes un padomes locekļi solidāri atbild par zaudējumiem, ko tie nodarījuši sabiedrībai.\n(3) Kooperatīvās sabiedrības valdes un padomes loceklis neatbild saskaņā ar šā panta otro daļu, ja pierāda, ka rīkojies kā krietns un rūpīgs saimnieks.\n(4) Valdes un padomes locekļi neatbild par nodarīto zaudējumu, ja rīkojušies saskaņā ar biedru kopsapulces (pilnvaroto sapulces) likumīgu lēmumu. Tas, ka padome apstiprinājusi valdes rīcību, neizslēdz valdes locekļu atbildību sabiedrības priekšā."
+    },
+    {
+      "provision_ref": "Art. 55.1",
+      "chapter": "VII nodaļa Tiesiskās attiecības kooperatīvajā sabiedrībā",
+      "section": "55.1",
+      "title": "55. 1 pants. Atbildība par kooperatīvās sabiedrības valdes un padomes locekļu ietekmēšanu",
+      "content": "(1) Persona, kura ar ļaunu nolūku panāk to, ka kooperatīvās sabiedrības valdes vai padomes loceklis, prokūrists vai komercpilnvarnieks rīkojas pretēji šīs sabiedrības vai tās biedru interesēm, atbild sabiedrībai par šādas rīcības rezultātā nodarītajiem zaudējumiem.\n(2) Ja šā panta pirmajā daļā minētajā gadījumā ir pamats kooperatīvās sabiedrības valdes vai padomes locekļa saukšanai pie atbildības saskaņā ar šā likuma 55.pantu , viņš atbild solidāri ar personu, kura izmantojusi savu ietekmi. Ja ir pamats saukt pie atbildības prokūristu vai komercpilnvarnieku, viņš atbild solidāri ar personu, kura izmantojusi savu ietekmi.\n(3) Kooperatīvās sabiedrības valdes loceklis, padomes loceklis, prokūrists vai komercpilnvarnieks neatbild saskaņā ar šā panta otro daļu, ja pierāda, ka rīkojies kā krietns un rūpīgs saimnieks.\n(4) Šā panta pirmajā un otrajā daļā minētie prasījumi noilgst piecu gadu laikā no prasījuma tiesību rašanās dienas."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "VII nodaļa Tiesiskās attiecības kooperatīvajā sabiedrībā",
+      "section": "56",
+      "title": "Kooperatīvās sabiedrības revīzijas komisijas locekļu (revidenta) vai zvērināta revidenta atbildība",
+      "content": "Revīzijas komisijas locekļi (revidents) vai zvērināti revidenti, kuriem uzticēta kooperatīvās sabiedrības darbības kontrole vai revīzija, ir atbildīgi ar visu savu mantu par zaudējumiem, kas radušies sabiedrībai, tās biedriem vai trešajām personām, ja viņi apzināti vai nolaidības dēļ nav izpildījuši viņiem uzticētos pienākumus."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "VII nodaļa Tiesiskās attiecības kooperatīvajā sabiedrībā",
+      "section": "57",
+      "title": "Kooperatīvās sabiedrības likvidācijas komisijas locekļu atbildība",
+      "content": "Kooperatīvās sabiedrības likvidācijas komisijas locekļi ir atbildīgi ar visu savu mantu par zaudējumiem, kas radušies sabiedrībai, tās biedriem vai trešajām personām, ja viņi apzināti vai nolaidības dēļ nav izpildījuši viņiem ar likumu, sabiedrības statūtiem vai biedru kopsapulces (pilnvaroto sapulces) lēmumu uzliktos pienākumus."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VII nodaļa Tiesiskās attiecības kooperatīvajā sabiedrībā",
+      "section": "58",
+      "title": "Kooperatīvās sabiedrības prasības celšana",
+      "content": "(1) Kooperatīvajai sabiedrībai jāceļ prasība tiesā pret biedriem vai amatpersonām, ja tā nolemj biedru kopsapulce (pilnvaroto sapulce) vai to pieprasa ne mazāk kā viena desmitdaļa sabiedrības biedru.\n(2) Lietas kārtošanai biedru kopsapulce (pilnvaroto sapulce) ievēlē savus pārstāvjus. Ja prasības celšanu pieprasa biedru mazākums (ne mazāk kā viena desmitdaļa sabiedrības biedru), tā izraudzītās personas tiek pilnvarotas par pārstāvjiem lietas kārtošanā.\n(3) Biedru mazākumam, kas pieprasījis prasības celšanu, jākompensē sabiedrībai tiesas izdevumi, ja tiesa prasību noraida."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par kooperatīvajām (kopdarbības) sabiedrībām \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 35.nr.; 1992, 15./16.nr.; 1993, 22./23.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 12.nr.; 1997, 9.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par kooperatīvajām (kopdarbības) sabiedrībām \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 35.nr.; 1992, 15./16.nr.; 1993, 22./23.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 12.nr.; 1997, 9.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn2",
+      "title": "2. Nodibinātajām un reģistrētajām kooperatīvajām (kopdarbības) sabiedrībām un to savienībām triju mēnešu laikā no šā likuma spēkā stāšanās dienas izdarīt grozījumus savos statūtos atbilstoši šā likuma prasībām.",
+      "content": "2. Nodibinātajām un reģistrētajām kooperatīvajām (kopdarbības) sabiedrībām un to savienībām triju mēnešu laikā no šā likuma spēkā stāšanās dienas izdarīt grozījumus savos statūtos atbilstoši šā likuma prasībām."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn3",
+      "title": "3. Grozījumi attiecībā uz likuma 36.panta trešo un ceturto daļu (par šo daļu izslēgšanu) stājas spēkā 2001.gada 1.janvārī.",
+      "content": "( 06.04.2000 . likuma redakcijā, kas stājas spēkā 11.05.2000. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2002.gada 1.decembrim sagatavo un iesniedz Saeimai nepieciešamos grozījumus nodokļu likumos un citos normatīvajos aktos, lai nodrošinātu šā likuma 33.panta otrās daļas izpildi.",
+      "content": "( 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn5",
+      "title": "5. Šā likuma 33.panta otrā daļa stājas spēkā vienlaikus ar attiecīgiem grozījumiem nodokļu likumos un citos normatīvajos aktos.",
+      "content": "( 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn6",
+      "title": "6. Uzņēmumu reģistrā reģistrētās kooperatīvās sabiedrības un kooperatīvo sabiedrību savienības atbilstoši šā likuma prasībām izdara attiecīgus grozījumus savos statūtos ne vēlāk kā līdz 2003.gada 1.jūnijam.",
+      "content": "( 20.06.2002 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.10.2002 . likumu, kas stājas spēkā 07.11.2002. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn7",
+      "title": "7. Ja kooperatīvās sabiedrības valdi, padomi (ja tāda ir izveidota) un revīzijas komisiju (revidentu) ievēlējusi kooperatīvās sabiedrības pilnvaroto sapulce, šīs institūcijas ne vēlāk kā līdz 2003.gada 1.jūnijam pārvēlē kooperatīvās sabiedrības kopsapulce.",
+      "content": "( 20.06.2002 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.10.2002 . likumu, kas stājas spēkā 07.11.2002. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn8",
+      "title": "8. Tieslietu ministrija izstrādā un līdz 2002.gada 1.septembrim publicē laikrakstā \"Latvijas Vēstnesis\" dzīvokļu īpašnieku kooperatīvo sabiedrību, automašīnu garāžu īpašnieku kooperatīvo sabiedrību, laivu garāžu īpašnieku kooperatīvo sabiedrību un dārzkopības kooperatīvo sabiedrību statūtu paraugus.",
+      "content": "( 20.06.2002 . likuma redakcijā, kas stājas spēkā 24.07.2002. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn9",
+      "title": "9. Ja dzīvokļu īpašnieku kopsapulce atbilstoši likumā \"Par dzīvokļa īpašumu\" noteiktajai kārtībai pieņēmusi lēmumu par dzīvojamās mājas pārvaldīšanas tiesību nodošanu citam apsaimniekotājam, kooperatīvā sabiedrība, kura pārvaldījusi dzīvojamo māju līdz dzīvokļu īpašnieku kopsapulces lēmuma pieņemšanai, zaudē tiesības veikt dzīvojamās mājas apsaimniekošanu. Visi iepriekšējā apsaimniekotāja prasījumi pret dzīvokļu īpašniekiem un saistības pret pakalpojumu sniedzējiem saglabājas līdz to pilnīgai izpildei.",
+      "content": "( 28.09.2006 . likuma redakcijā, kas stājas spēkā 27.10.2006. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn10",
+      "title": "10. Ministru kabinets ne vēlāk kā līdz 2007.gada 31.decembrim izdod:",
+      "content": "1) šā likuma 16.panta ceturtajā daļā paredzētos noteikumus par dokumentiem, kas iesniedzami Uzņēmumu reģistram, lai reģistrētu lauksaimniecības pakalpojumu kooperatīvo sabiedrību;\n2) šā likuma 36. 1 panta otrajā daļā paredzētos noteikumus par lauksaimniecības pakalpojumu kooperatīvo sabiedrību atbilstības kritērijiem un šo sabiedrību izvērtēšanas kārtību."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn11",
+      "title": "11. Līdz šā likuma pārejas noteikumu 10.punktā paredzēto Ministru kabineta noteikumu izdošanai, bet ne ilgāk kā līdz 2007.gada 31.decembrim piemērojami Ministru kabineta 2003.gada 17.jūnija noteikumi Nr.328 \"Noteikumi par lauksaimniecības pakalpojumu kooperatīvās sabiedrības reģistrācijai nepieciešamajiem dokumentiem un šīs sabiedrības atzīšanas kārtība\", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 18.10.2007 . likuma redakcijā, kas stājas spēkā 14.11.2007. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn12",
+      "title": "12. Šā likuma 8.panta ceturtās daļas otrais teikums stājas spēkā 2009.gada 1.jūlijā. Lauksaimniecības pakalpojumu kooperatīvās sabiedrības dibinātāju skaits nedrīkst būt mazāks par pieciem, ja lēmums par sabiedrības dibināšanu pieņemts līdz 2009.gada 1.jūlijam un reģistrācijas pieteikums iesniegts ne vēlāk kā līdz 2009.gada 1.augustam.",
+      "content": "( 11.06.2009 . likuma redakcijā, kas stājas spēkā 14.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn13",
+      "title": "13. Grozījumi šā likuma 33.panta otrajā daļā (par atbilstīgās mežsaimniecības pakalpojumu kooperatīvās sabiedrības uzņēmumu ienākuma nodokļa un atbilstīgās mežsaimniecības pakalpojumu kooperatīvās sabiedrības biedra iedzīvotāju ienākuma nodokļa maksāšanas kārtību) stājas spēkā vienlaikus ar attiecīgiem grozījumiem nodokļu likumos un citos normatīvajos aktos.",
+      "content": "( 13.09.2012 . likuma redakcijā, kas stājas spēkā 12.10.2012. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn14",
+      "title": "14. Ministru kabinets līdz 2013.gada 1.martam sagatavo un iesniedz Saeimai nepieciešamos grozījumus nodokļu likumos, lai nodrošinātu šā likuma 33.panta otrajā daļā paredzēto atbilstīgo mežsaimniecības pakalpojumu kooperatīvo sabiedrību un to biedru nodokļu maksāšanas kārtības noteikumu izpildi.",
+      "content": "( 13.09.2012 . likuma redakcijā, kas stājas spēkā 12.10.2012. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn15",
+      "title": "15. Ministru kabinets izvērtē šā likuma 33.panta otrajā daļā paredzēto atbilstīgo mežsaimniecības pakalpojumu kooperatīvo sabiedrību izveidi un to biedru nodokļu maksāšanas kārtības praktiskās īstenošanas gaitu un rezultātus un katru gadu līdz 1.oktobrim laikposmā no 2013.gada līdz 2016.gadam iesniedz Saeimai attiecīgu ziņojumu.",
+      "content": "( 13.09.2012 . likuma redakcijā, kas stājas spēkā 12.10.2012. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn16",
+      "title": "16. Šā likuma 7. 1 pants , kā arī 40.panta trešās daļas, 45.panta ceturtās daļas pirmā teikuma un 46.panta sestās daļas pirmā teikuma jaunā redakcija (par balsstiesību ierobežojumiem, ja kriminālprocesa ietvaros personai atņemtas tiesības veikt visu veidu vai noteikta veida komercdarbību) stājas spēkā 2013.gada 1.janvārī.",
+      "content": "( 13.09.2012 . likuma redakcijā, kas stājas spēkā 12.10.2012. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn17",
+      "title": "17. Grozījumi šā likuma 24.panta trešajā daļā (ar kuriem kooperatīvās sabiedrības minimālais pamatkapitāls tiek izteikts euro ) stājas spēkā 2014.gada 1.janvārī.",
+      "content": "( 19.09.2013 . likuma redakcijā, kas stājas spēkā 17.10.2013. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn18",
+      "title": "18. Sākot ar 2014.gada 1.janvāri, Uzņēmumu reģistrs var pieņemt lēmumu par kooperatīvās sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā, ja dibināšanas dokumentos pamatkapitāls un pajas nominālvērtība izteikta latos un pieteikums par kooperatīvās sabiedrības ierakstīšanu Uzņēmumu reģistra žurnālā iesniegts Uzņēmumu reģistram līdz 2013.gada 31.decembrim.",
+      "content": "( 19.09.2013 . likuma redakcijā, kas stājas spēkā 17.10.2013. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn19",
+      "title": "19. Ja kooperatīvās sabiedrības pamatkapitāls izteikts latos, tad, sākot ar 2014.gada 1.janvāri, pamatkapitāla lielums nedrīkst būt mazāks par šā likuma 24.panta trešajā daļā noteikto lielumu, kas pārrēķināts veselos latos, ievērojot latu apmaiņas kursu pret euro , kuru noteikusi Eiropas Savienības Padome saskaņā ar Līguma par Eiropas Savienības darbību 140.panta 3.punktu.",
+      "content": "( 19.09.2013 . likuma redakcijā, kas stājas spēkā 17.10.2013. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn20",
+      "title": "20. Ja kooperatīvās sabiedrības pamatkapitāls izteikts latos, no 2014.gada 1.janvāra līdz 2016.gada 1.jūlijam tā piesaka Uzņēmumu reģistram statūtu grozījumus, kas paredz pamatkapitāla minimālā lieluma un pajas nominālvērtības denomināciju no latiem uz euro . Veicot pamatkapitāla minimālā lieluma un pajas nominālvērtības denomināciju, ievēro latu apmaiņas kursu pret euro , kuru noteikusi Eiropas Savienības Padome saskaņā ar Līguma par Eiropas Savienības darbību 140.panta 3.punktā noteikto un Euro ieviešanas kārtības likuma 6.pantā noteiktos noapaļošanas principus.",
+      "content": "( 19.09.2013 . likuma redakcijā, kas stājas spēkā 17.10.2013. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn21",
+      "title": "21. Ja kooperatīvās sabiedrības pamatkapitāls izteikts latos, sākot ar 2014.gada 1.jūliju, tā var pieteikt statūtu grozījumus Uzņēmumu reģistram tikai tad, ja statūtu grozījumi vienlaikus paredz pamatkapitāla minimālā lieluma un pajas nominālvērtības denomināciju no latiem uz euro .",
+      "content": "( 19.09.2013 . likuma redakcijā, kas stājas spēkā 17.10.2013. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn22",
+      "title": "22. Ja pieteikums par statūtu grozījumiem iesniegts no 2014.gada 1.janvāra līdz 2016.gada 30.jūnijam un pieteikumā paredzēta vienīgi pamatkapitāla minimālā lieluma, pajas nominālvērtības vai citas statūtos noteiktās naudas summas denominācija no latiem uz euro , kooperatīvā sabiedrība ir atbrīvota no:",
+      "content": "1) valsts nodevas par tādu ierakstu grozīšanu Uzņēmumu reģistra žurnālā un statūtu grozījumu reģistrēšanu (pievienošanu lietai), kuri saistīti ar pamatkapitāla minimālā lieluma, pajas nominālvērtības vai citas statūtos noteiktās naudas summas denomināciju no latiem uz euro ;\n2) maksas par tādu Uzņēmumu reģistra žurnālā ierakstīto ziņu publicēšanu oficiālajā izdevumā \"Latvijas Vēstnesis\", kuras saistītas ar pamatkapitāla minimālā lieluma, pajas nominālvērtības vai citas statūtos noteiktās naudas summas denomināciju no latiem uz euro ."
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn23",
+      "title": "23. Sākot ar 2014.gada 1.janvāri, biedru kopsapulces (pilnvaroto sapulces) lēmums par statūtu grozījumiem, kas paredz vienīgi pamatkapitāla minimālā lieluma un pajas nominālvērtības denomināciju no latiem uz euro , ir pieņemts ar biedru kopsapulcē (pilnvaroto sapulcē) klātesošo biedru vienkāršu balsu vairākumu.",
+      "content": "( 19.09.2013 . likuma redakcijā, kas stājas spēkā 17.10.2013. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn24",
+      "title": "24. Ja kooperatīvās sabiedrības statūti neatbilst šā likuma prasībām par biedru kopsapulces (pilnvaroto sapulces) sasaukšanas kārtību un sapulces norises protokolēšanu (dzīvokļu īpašnieku kooperatīvajās sabiedrībās — pilnvaroto ievēlēšanas sapulces sasaukšanas kārtību un sapulces norises protokolēšanu), kooperatīvā sabiedrība izdara attiecīgus grozījumus statūtos un iesniedz tos Uzņēmumu reģistram līdz 2016.gada 1.jūlijam.",
+      "content": "( 08.10.2015 . likuma redakcijā, kas stājas spēkā 06.11.2015 )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "VIII nodaļa Kooperatīvo sabiedrību savienība (Nodaļa izslēgta ar 20.06.2002 . likumu, kas stājas spēkā 24.07.2002. )",
+      "section": "pn25",
+      "title": "25. Grozījumi šā likuma 37.panta otrajā daļā (par otrā teikuma izslēgšanu) un 2. 1 daļa (par minimālo biedru skaitu, kāds nepieciešams, lai kooperatīvā sabiedrība, kura nav uzskatāma par komersantu, varētu sasaukt pilnvaroto sapulci) stājas spēkā 2016.gada 1.janvārī. Ja kooperatīvās sabiedrības, kura nav uzskatāma par komersantu, statūti neatbilst šā likuma prasībām par pilnvaroto sapulču sasaukšanu, tā izdara attiecīgus grozījumus savos statūtos un iesniedz tos Uzņēmumu reģistram ne vēlāk kā līdz 2016.gada 1.jūlijam.",
+      "content": "( 08.10.2015 . likuma redakcijā, kas stājas spēkā 06.11.2015. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "biedra nauda",
+      "definition": "kooperatīvās sabiedrības biedra naudas iemaksa sabiedrības uzturēšanas un kopējo izdevumu segšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dividende",
+      "definition": "kooperatīvās sabiedrības peļņas daļa, kuru izmaksā kooperatīvās sabiedrības biedram atbilstoši viņa paju vērtībai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iestāšanās maksa",
+      "definition": "kooperatīvās sabiedrības biedra naudas iemaksa, kas paredzēta ar viņa uzņemšanu saistīto izdevumu segšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kooperatīvā sabiedrība",
+      "definition": "brīvprātīga fizisko un juridisko personu apvienība, kuras mērķis ir sniegt pakalpojumus tās biedru saimnieciskās darbības efektivitātes paaugstināšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "paja",
+      "definition": "fiziskās vai juridiskās personas ieguldījums attiecīgās kooperatīvās sabiedrības pamatkapitālā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pakalpojumi kooperatīvās sabiedrības biedriem",
+      "definition": "darbi, kurus kooperatīvā sabiedrība izpildījusi pēc savu biedru pasūtījuma, kā arī preču apgrozījums starp kooperatīvo sabiedrību un tās biedriem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pamatpaja",
+      "definition": "paja, kura nodrošina kooperatīvās sabiedrības biedram visas sabiedrības statūtos noteiktās biedra tiesības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "papildpaja",
+      "definition": "paja, kura nodrošina kooperatīvās sabiedrības biedram tiesības saņemt dividendi un peļņas atmaksu, bet nedod balsstiesības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "peļņas (atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā",
+      "definition": "pārpalikuma) atmaksa — kooperatīvās sabiedrības peļņas (pārpalikuma) daļa, ko šajā likumā un sabiedrības statūtos noteiktajā kārtībā izmaksā sabiedrības biedriem atbilstoši viņu izmantoto kooperatīvās sabiedrības pakalpojumu apjomam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "lauksaimniecības pakalpojumu kooperatīvā sabiedrība",
+      "definition": "kooperatīvā sabiedrība, kura sniedz pakalpojumus lauksaimniecības produktu ražotājiem, bet nenodarbojas ar lauksaimniecības produktu ražošanu, izņemot biedru saražotās produkcijas pārstrādi un apstrādi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārpalikums atbilstīgajā lauksaimniecības pakalpojumu kooperatīvajā sabiedrībā un atbilstīgajā mežsaimniecības pakalpojumu kooperatīvajā sabiedrībā",
+      "definition": "gada pārskatā norādītais sabiedrības ieņēmumu pārsniegums pār izmaksām attiecīgajā saimnieciskās darbības gadā.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

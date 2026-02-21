@@ -1,0 +1,243 @@
+{
+  "id": "lv-law-60214",
+  "type": "statute",
+  "title": "Par darba aizsardzību",
+  "short_name": "TA-60214",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/60214-par-darba-aizsardzibu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "Likums nosaka darba aizsardzības principus Latvijas Republikā, valsts institūciju, darba devēju, darbinieku vai viņu arodu organizāciju uzdevumus, atbildību un kompetenci, kā arī to savstarpējās attiecības drošas darba vides garantēšanā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "Darba aizsardzību reglamentējošie likumdošanas akti",
+      "content": "Darba aizsardzību reglamentējošie likumdošanas akti ir šis likums, citi Latvijas Republikas likumi un normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "3",
+      "title": "Likumā lietotie termini",
+      "content": "Darba aizsardzība — likumdošanas aktu un tiem atbilstošu sociālo, ekonomisko, organizatorisko, tehnisko, sanitāri higiēnisko un ārstnieciski profilaktisko pasākumu sistēma, kas garantē drošu darbu, novērš nelaimes gadījumus un arodsaslimšanu, kā arī saglabā strādājošo darbaspējas visā darba procesā.\nDarba aizsardzības normatīvie akti — Latvijas Republikas likumdošanā noteiktā kārtībā apstiprinātie standarti, normatīvi un normas, noteikumi, instrukcijas un citi dokumenti.\nDarba vieta — vieta, kura darbiniekam ir nepieciešams atrasties vai kurp viņam jādodas sakarā ar darba pienākumu pildīšanu un kura tieši vai netieši atrodas darba devēja kontrolē.\nDarba vide — darba vieta ar tās fiziskajiem un higiēniskajiem apstākļiem, kuros darbinieki atrodas, pildot darba pienākumus.\nDarba devēja pilnvarotā persona — amatpersona, kurai ar darba devēja pavēli (rīkojumu, lēmumu) ir noteikta atbildība par uzņēmuma, organizācijas, iestādes vai uzņēmējsabiedrības (turpmāk — uzņēmums) pārvaldi.\nDarbinieku vai viņu arodu organizāciju uzticības persona — darbinieku vai viņu arodu organizāciju ievēlēta persona, kura uzņēmumā pārstāv darbinieku intereses darba aizsardzībā."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "4",
+      "title": "Likuma darbības joma",
+      "content": "Šis likums tiek piemērots, ja darbus veic:\n— darbinieki, kuri ir darba līguma attiecībās ar darba devējiem neatkarīgi no to statusa un īpašuma formas;\n— darbaspējīgie ģimenes locekļi zemnieka vai zvejnieka saimniecībā, lauku amatnieka vai ģimenes uzņēmumā;\n— personas, kuras veic individuālo darbu;\n— personas, kuras profesionālā veidā izpilda darbu kopīga ienākuma gūšanai;\n— skolnieki, vidējo speciālo mācību iestāžu audzēkņi un studenti mācību un ražošanas prakses laikā;\n— personas, kuras izcieš sodu labošanas darbu iestādēs;\n— personas, kuras tiek nodarbinātas, tām uzturoties aizgādnības iestādēs;\n— obligātā valsts dienesta dienestnieki, kuri pilda aktīvo darba dienestu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "5",
+      "title": "Valsts politika darba aizsardzībā",
+      "content": "Valsts politika darba aizsardzībā pamatojas uz:\n— darba devēju organizāciju, valsts institūciju, darbinieku vai viņu arodu organizāciju savstarpēji saskaņotu rīcību darba aizsardzības jautājumos;\n— cilvēku veselības un dzīves prioritāti darba attiecību jomā;\n— cilvēka darbam drošu tehnoloģisko procesu, iekārtu, ierīču un darbinieku individuālās aizsardzības līdzekļu projektēšanas, ražošanas un iepirkšanas stimulēšanu;\n— darba aizsardzības jautājumu koordinēšanu ar citām valsts ekonomiskās un sociālās politikas sastāvdaļām;\n— darba aizsardzības zinātnisko pētījumu rezultātiem;\n— valsts līdzdalību darba aizsardzības pasākumu finansēšanā;\n— no darba devējiem un augstākam institūcijām neatkarīgu valsts darba aizsardzības kontroles un uzraudzības sistēmu;\n— apmācību darba aizsardzības jautājumos visu līmeņu mācību iestādēs;\n— darbinieku sociālo aizsardzību arodslimības un nelaimes gadījumos;\n— Starptautiskās darba organizācijas konvenciju principiem;\n— starpvalstu sadarbību darba aizsardzības jomā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "6",
+      "title": "Prasības darba videi",
+      "content": "Darba vide jāprojektē un jāorganizē tā, lai darba apstākļi tajā atbilstu valsts apstiprinātajām darba aizsardzības un darba higiēnas normatīvu prasībām.\nDarba videi jāatbilst valsts ugunsdrošības noteikumiem.\nIekārtas un materiāli, kas savas termperatūras vai citu faktoru dēļ apdraud darbiniekus, jānorobežo un jāmarķē ar atbilstošām brīdinājuma zīmēm.\nDarba vietas, ejas un ceļi jāuztur tīrībā un kārtībā.\nSmēķēšana darba vidē pieļaujama tikai speciālās, ar norādījumu zīmēm apzīmētās smēķēšanas vietās un uzņēmumu iekšējās kārtības noteikumos paredzētā kārtībā.\nDarba vide, kurā ir paaugstināts risks, jānorobežo un jāapgādā ar nepieciešamajiem glābšanas un aizsardzības līdzekļiem.\nSieviešu, jauniešu un invalīdu darba vide jāprojektē un jāorganizē atbilstoši šo kategoriju darbinieku fiziskajām un psiholoģiskajām īpatnībām."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "7",
+      "title": "Prasības darbiem ar veselībai kaitīgām un bīstamām vielām",
+      "content": "Veselībai kaitīgās un bīstamās vielas ražošanas tehnoloģijās ir atļauts lietot tikai atbilstoši darba aizsardzības normatīviem aprīkotās darba vietās."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "8",
+      "title": "Prasības darbu veikšanai",
+      "content": "Celtniecības darbos un citos augstumā veicamajos darbos, kā arī tur, kur iespējama priekšmetu krišana, darbinieki ir jānodrošina ar atbilstošiem individuālajiem aizsardzības līdzekļiem.\nDarbus veicot, ir jāievēro darbu tehnoloģiskajā procesā paredzētā secība un režīms.\nKravas pārvietošanas un kraušanas darbos kravas pacelšanas mehānismiem un palīgierīcēm ir jāatbilst normatīvo aktu prasībām un kravas svaram. Tiem ir jābūt novietotiem tā, lai novērstu nejaušas pārvietošanās vai apgāšanās iespējas. Kravas pārvietošanas darbiem ir jāatbilst šo darbu tehnoloģiskajām un darba aizsardzības normatīvu prasībām, tajos iesaistītie darbinieki ir jānodrošina ar savstarpējās sazināšanās iespējām, darbu veikšanas zonā nedrīkst iekļūt nepiederošas personas.\nPrasības, kādas jāievēro, organizējot un veicot darbus ar bīstamajām iekārtām, nosaka likums \"Par bīstamo iekārtu tehnisko uzraudzību\" un bīstamo iekārtu tehniskās uzraudzības normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "9",
+      "title": "Elektrodrošības un satiksmes drošības prasības",
+      "content": "Elektroiekārtas jāprojektē, jāizgatavo un jāuzstāda tā, lai tās neapdraudētu cilvēku veselību un dzīvību.\nDarbos ar elektroiekārtām drīkst iesaistīt tikai darbiniekus, kuriem ir atbilstoša kvalifikācija.\nTransportlīdzekļiem, pašgājējiem mašīnām un mehānismiem jāatbilst tehniskajiem noteikumiem. Tos vadīt drīkst tikai profesionālī sagatavoti darbinieki, kuriem ir atbilstošas kategorijas transportlīdzekļu vadītāja apliecība."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "10",
+      "title": "Prasības ražošanas līdzekļiem",
+      "content": "Aizliegts izmantot darbā ražošanas līdzekļus, transportlīdzekļus un individuālos aizsardzības līdzekļus, kas neatbilst Latvijas Republikas darba aizsardzības normatīvo aktu prasībām.\nMašīnas, iekārtas un citi ražošanas līdzekļi jāizmanto un jāuzglabā atbilstoši to ekspluatācijas noteikumiem.\nOrganizējot mašīnu un iekārtu montāžu, remontu un tehnisko apkopi, jāparedz:\n— elektriskās strāvas atslēgšana;\n— gāzes, tvaika un šķidrumu padeves pārtraukšana;\n— tādu pasākumu veikšana, kuri novērstu mašīnu un iekārtu, neparedzētas ieslēgšanās iespējas;\n— bīstamās zonas norobežošana;\n— stabilu sastatņu, kāpņu un pārejas tiltiņu lietošana."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "11",
+      "title": "Prasības sanitārajām un sadzīves telpām",
+      "content": "Darbinieku sanitārās un sadzīves telpas jāprojektē, jāceļ un jāiekārto atbilstoši celtniecības normām, ņemot vērā darbinieku skaitu, viņu dzimumu un darba apstākļus.\nAizliegts pieņemt ekspluatācijā ēkas un celtnes, kurās nav celtniecības normām atbilstošu sanitāro un sadzīves telpu.\nEkspluatācijā esošajās ražotnēs sanitārās un sadzīves telpas jāiekārto saskaņā ar normatīvu prasībām."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "12",
+      "title": "Prasības pirmās medicīniskas palīdzības nodrošināšanā",
+      "content": "Uzņēmumu darbinieki ir jāapmāca pirmās medicīniskās palīdzības sniegšanā nelaimes gadījumos. Darba vietas jānodrošina ar medicīniskajām aptieciņām, kurās ir nepieciešamie medikamenti."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "13",
+      "title": "Prasības apmācībai darba aizsardzībā",
+      "content": "Darba devējam, darbiniekiem, uzticības personām jābūt apmācītiem darba aizsardzībā. Apmācības noteikumus nosaka Latvijas Republikas Labklājības ministrija."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II NODAĻA VISPĀRĪGĀS PRASĪBAS DARBA DEVĒJIEM DARBA AIZSARDZĪBĀ",
+      "section": "14",
+      "title": "Nozaru darba aizsardzības normatīvie akti",
+      "content": "Noteikumus šā likuma II nodaļas piemērošanai darba nozarēs apstiprina Latvijas Republikas Labklājības ministrija, saskaņojot tos ar darba devēju organizācijām un attiecīgo arodu organizāciju republikāniskajām institūcijām."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "15",
+      "title": "Darba aizsardzības pārvalde",
+      "content": "Darba aizsardzības pārvaldi valstī veic Latvijas Republikas valdība un tās uzdevumā — Latvijas Republikas Labklājības ministrija.\nCitas valsts pārvaldes institūcijas Latvijas Republikas valdības uzdevumā veic darba aizsardzības funkcijas saskaņā ar Šo likumu un attiecīgo institūciju nolikumiem."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "16",
+      "title": "Latvijas Republikas valdības kompetence darba aizsardzībā",
+      "content": "Latvijas Republikas valdība, trīspusēji vienojoties ar darbinieku arodu organizācijām un darba devēju organizācijām, izstrādā, periodiski pārskata un realizē valsts politiku darba aizsardzībā, ka arī:\n— koordinē valsts pārvaldes institūciju un pašvaldību darbību darba aizsardzības jautājumos;\n— organizē darba aizsardzības likumdošanas aktu izstrādāšanu, apstiprina tos vai iesniedz apstiprināšanai Latvijas Republikas likumdevējiem;\n— apstiprina valsts mērķprogrammas darba aizsardzībā un organizē to realizāciju;\n— īsteno valsts uzraudzību un pilnvaro valsts institūcijas šo funkciju izpildei;\n— slēdz darba aizsardzības starpvalstu līgumus, kā arī iesniedz priekšlikumus darba aizsardzības jautājumos iekļaušanai starpvalstu līgumprojektos;\n— nosaka valsts statistiskās uzskaites un statistisko pārskatu sistēmu darba aizsardzībā;\n— nosaka kārtību, kādā tiek izstrādāti un apstiprināti darba aizsardzības normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "17",
+      "title": "Pašvaldību kompetence darba aizsardzībā",
+      "content": "Pašvaldības savas kompetences ietvaros darba aizsardzībā veic:\n— darba aizsardzības valsts politikas īstenošanu savā ādministratīvajā teritorijā esošajos uzņēmumos;\n— ekonomiskajā darbībā notikušo nelaimes gadījumu izmeklēšanu un uzskaiti savā administratīvajā teritorijā esošajos uzņēmumos, ja tajos strādā mazāk par pieciem darbiniekiem, kā arī zemnieku saimniecībās, lauku amatnieku vai ģimenes uzņēmumos saskaņā ar Latvijas Republikas valdības apstiprināto nolikumu par nelaimes gadījumu izmeklēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "18",
+      "title": "Kontrole un uzraudzība darba aizsardzībā",
+      "content": "Kontroli un uzraudzību pār Latvijas Republikas likuma \"Pai darba aizsardzību\" un citu likumdošanas aktu, standartu un normatīvu ievērošanu darba aizsardzības jomā veic:\n— Valsts darba inspekcija (turpmāk — Darba inspekcija), kura darbojas saskaņā ar Latvijas Republikas likumu \"Par Valsts darba inspekciju\" un \"Darba inspekcijas nolikumu\";\n— citas valsts pilnvarotas institūcijas atbilstoši savai kompetencei;\n— darbinieku vai viņu arodu organizācijas, veicot sabiedrisko kontroli.\nAugstāko uzraudzību pār darba aizsardzības likumdošanas aktu precīzu un vienveidīgu pildīšanu Latvijas Republikā veic Latvijas Republikas ģenerālprokurors un viņam pakļautie prokurori."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "19",
+      "title": "Darba aizsardzības organizācija uzņēmumā",
+      "content": "Par darba aizsardzību uzņēmumā atbild darba devējs vai viņa pilnvarota persona, nodrošinot darbinieku veselībai un dzīvībai nekaitīgus darba apstākļus, organizējot darba aizsardzības pasākumus un to izpildes kontroles sistēmu.\nVisus izdevumus, kas saistīti ar darba aizsardzības organizēšanu sedz darba devējs.\nDarba apstākļu uzlabošanas un darba aizsardzības pasākumus, tiem piešķirto līdzekļu un materiālu apjomu un izlietošanas kārtību nosaka darba koplīgums vai darba aizsardzības nolīgums, ko noslēdz darba devējs ar darbinieku arodu organizāciju, bet, ja tādas nav, - ar darbinieku pilnvarotiem pārstāvjiem, ari uzticības personām. To izpildes kontroli veic līgumslēdzējas puses Latvijas Republikas likumdošanas aktos paredzētajā kārtībā.\nDarba koplīgumā vai darba aizsardzības nolīgumā darbiniekiem var paredzēt labvēlīgākas darba aizsardzības normas salīdzinājumā ar darba aizsardzības normatīvos noteiktajām normām.\nDarba vietā, kur darbus vienlaikus veic vairāki darba devēji, viņi, vienojoties ar darbiniekiem vai viņu arodu organizācijām, nosaka un veic kopējus darba aizsardzības pasākumus atbilstoši Latvijas Republikas likumdošanas aktu prasībām.\nUzņēmumā, kurā nodarbināti līdz 300 darbiniekiem, darba devējs norīko speciālistu darba aizsardzības pienākumu veikšanai; ja uzņēmumā ir nodarbināti 300 un vairāk darbinieku, darba devējam jāizveido darba aizsardzības struktūrvienība, kura, sadarbojoties ar darbiniekiem vai viņu arodu organizācijām un uzticības personām, pilda darba aizsardzības uzdevumus."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "20",
+      "title": "Darbinieku un darba devēju sadarbība darba aizsardzībā",
+      "content": "Uzņēmumā, kurā nodarbināti vairāk nekā 50 darbinieku, darba devējiem, vienojoties ar darbiniekiem vai viņu arodu organizācijām, sadarbības realizēšanai darba aizsardzības jautājumos jāizveido darba aizsardzības padome, kurā vienādā skaitā ir darba devēju un darbinieku pārstāvji.\nUzņēmumā vai tā struktūrvienībā, kurā nodarbināti vairāk nekā pieci darbinieki, viņi vai to arodu organizācijas atkarībā no darbinieku skaita, darbu kaitīguma un objektu, iekārtu un darbu bīstamības pakāpes sadarbības realizēšanai ar darba devējiem darba aizsardzības jautājumos ievēlē vienu vai vairākas uzticības personas.\nUzņēmumā, kurā ir ievēlētas vismaz trīs uzticības personas, vienu no tām ievēlē par galveno uzticības personu.\nUzņēmumā vai tā struktūrvienībā, kurā darbojas vairāk nekā desmit uzticības personas, tās izveido uzticības personu komiteju. Komiteja koordinē uzticības personu darbību, sadarbojas darba aizsardzības jautājumos ar darba devējiem.\nUzticības personu ievēlēšanas, kā arī divpusējas sadarbības institūciju darbības noteikumus apstiprina Labklājības ministrija."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III NODAĻA DARBA AIZSARDZĪBAS ORGANIZĀCIJA",
+      "section": "21",
+      "title": "Uzticības personu tiesības un to tiesību garantijas",
+      "content": "Uzticības personas, veicot uzticētos pienākumus to uzraudzībai pakļautajās darba vietās, ir tiesīgas:\n— piedalīties ražošanas iekārtu un objektu pieņemšanā ekspluatācijā;\n— pieprasīt no darba devējiem darba aizsardzības likumdošanas aktus un normatīvus materiālus, kā arī paskaidrojumus, ziņas un dokumentus, kas attiecas uz darba aizsardzības jautājumiem;\n— piedalīties kopā ar Darba inspekcijas amatpersonām darbavietu apsekošanā;\n— piedalīties darba aizsardzības pasākumu plānošanā un kontrolēt to izpildi;\n— ziņot darba devējiem, kā arī valsts uzraudzības institūcijām par konstatētajiem apstākļiem, kas var radīt kaitējumu darbinieku veselībai un dzīvībai vai izraisīt avārijas situāciju;\n— piedalīties nelaimes gadījumu izmeklēšanā;\n— nebrīdinot darba devējus, darba aizsardzības jautājumos griezties Darba inspekcijā.\nUzticības personām darba aizsardzības pienākumu pildīšana darba koplīgumā jāparedz apmaksāts darba laiks saskaņā ar Latvijas Republikas darba likumdošanas aktiem.\nUzticības personas pēc darba devēju iniciatīvas var atlaist no darba tikai ar Darba inspekcijas iepriekšēju piekrišanu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV NODAĻA DARBA DEVĒJU UN DARBINIEKU PIENĀKUMI UN TIESĪBAS",
+      "section": "22",
+      "title": "Darba devēju pienākumi",
+      "content": "Organizējot darba aizsardzību uzņēmumā, darba devējiem vai viņu pilnvarotām personām ir pienākums:\n— garantēt darbinieku veselībai nekaitīgus un drošus darba apstākļus;\n— nodrošināt ciešu sadarbību ar darbiniekiem, izveidojot darba aizsardzības padomi un pamatojoties uz šā likuma 20. un 21. panta nosacījumiem;\n— ieviest jaunākos drošības tehnikas līdzekļus un nodrošināt to profilaktiskās apskates, pārbaudes un remontu, lai nepieļautu ražošanas traumatismu un nodrošinātu tādus higiēnas apstākļus, kas novērstu darbinieku saslimšanu un arodslimības;\n— instruēt darbiniekus par drošības tehnikas un darba higiēnas prasībām, darba aizsardzības instrukcijām un noteikumiem, noslēdzot darba līgumu, kā arī tad, ja mainās darba apstākļi un darba vieta;\n— kontrolēt, vai darbinieki izpilda darba aizsardzības instrukciju un noteikumu prasības;\n— nodrošināt savlaicīgus kaitīgo faktoru mērījumus darba vidē un darba vietu atestāciju;\n— nodrošināt notikušo nelaimes gadījumu izmeklēšanu Latvijas Republikas valdības noteiktajā kārtībā. Pamatojoties uz izmeklēšanas materiāliem, veikt nepieciešamos pasākumus, lai novērstu cēloņus, kas izraisa nelaimes gadījumus;\n— noteikt invalīdiem nepilnu darba laiku un citus atvieglotus darba noteikumus saskaņā ar medicīnas iestāžu ieteikumiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV NODAĻA DARBA DEVĒJU UN DARBINIEKU PIENĀKUMI UN TIESĪBAS",
+      "section": "23",
+      "title": "Darba devēju pienākums darba vietās ar sevišķiem darba apstākļiem",
+      "content": "Darba devējam ir pienākums nodrošināt darbiniekiem, kuri strādā:\n— smagos, veselībai kaitīgos, bīstamos darbos un citos darbos, kur tas ir noteikts likumdošanas aktos, iepriekšējas un periodiskas medicīniskās apskates, kā arī segt ar to organizēšanu saistītos izdevumus;\n— aukstā gadalaikā āra vai neapkurinātās telpās — attiecīgi iekārtotas telpas, kur atpūsties un sasildīties.\nDarba devējiem ir pienākums bez maksas nodrošināt darbiniekus, kuri strādā:\n— kaitīgos darba apstākļos un darbos, kas noris sevišķos meteoroloģiskos apstākļos, — ar specapģērbiem, specapaviem un citiem individuālajiem aizsardzības līdzekļiem, nodrošināt to izmantošanu paredzētam nolūkam, kā arī uzglabāšanu, mazgāšanu, žāvēšanu, tīrīšanu, dezinfekciju, degazāciju, dezaktivāciju un labošanu;\n— kaitīgos darba apstākļos — ar pienu vai citiem līdzvērtīgiem pārtikas produktiem;\n— sevišķi smagos vai kaitīgos darba apstākļos — ar ārstnieciski profilaktisko uzturu;\n— darbos, kur iespējama kaitīgo vielu iedarbība uz ādu, — ar mazgājamiem un neitralizējošiem līdzekļiem;\n— karstos cehos — ar sālīto gāzēto ūdeni.\nDarba aizsardzības un darba higiēnas normas, medicīniskās indikācijas, darba sarakstus, darbinieku kategorijas un noteikumus, pēc kuriem darba devējiem jāvadās, izpildot šā likuma 22. un 23. pantā minētos pienākumus, apstiprina Latvijas Republikas Labklājības ministrija."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV NODAĻA DARBA DEVĒJU UN DARBINIEKU PIENĀKUMI UN TIESĪBAS",
+      "section": "24",
+      "title": "Aizliegumi darba devējiem",
+      "content": "Darba devējiem aizliegts:\n— nodarbināt darbiniekus, pat ar viņu piekrišanu, darbos, kuri ir pretrunā ar medicīniskajiem ieteikumiem.\nInvalīdu, sieviešu un nepilngadīgo nodarbinātības aizliegumus regulē Latvijas Republikas darba likumdošanas akti."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV NODAĻA DARBA DEVĒJU UN DARBINIEKU PIENĀKUMI UN TIESĪBAS",
+      "section": "25",
+      "title": "Darbinieku pienākumi",
+      "content": "Darbiniekiem darba aizsardzības jomā ir pienākums:\n— ievērot darba aizsardzības instrukcijas, kas paredz darba izpildēs un uzvedības noteikumus darba vietas, lai neapdraudētu savu un apkārtējo cilvēku veselību un dzīvību;\n— izmantot darba procesā viņiem izsniegtos individuālos aizsardzības līdzekļus, specapģērbus un specapavus;\n— izpildīt darba devēju, uzticības personu vai to komiteju un Darba inspekcijas prasības darba aizsardzības jautājumos;\n— nekavējoties ziņot tiešajiem darba vadītājiem, darba devējiem vai viņu pilnvarotām personām par nelaimes gadījumu vai situāciju, kura apdraud cilvēku veselību vai dzīvību."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV NODAĻA DARBA DEVĒJU UN DARBINIEKU PIENĀKUMI UN TIESĪBAS",
+      "section": "26",
+      "title": "Darba devēju tiesības",
+      "content": "Organizējot darba aizsardzību uzņēmumā, darba devējam ir tiesības:\n— piemērot darbiniekiem disciplinārsodus par darba aizsardzības instrukciju un noteikumu pārkāpumiem;\n— pārsūdzēt tiesā Darba inspekcijas lēmumus 10 dienu laikā pēc to saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV NODAĻA DARBA DEVĒJU UN DARBINIEKU PIENĀKUMI UN TIESĪBAS",
+      "section": "27",
+      "title": "Darbinieku tiesības",
+      "content": "Pildot darba pienākumus, darbiniekam darba aizsardzības jomā ir tiesības:\n— neuzsākt vai pārtraukt darbu, ziņojot tiešajiem darba vadītajiem, darba devējiem vai viņu pilnvarotām personām, ja darba apstākli, apkalpojamā ierīce, mašīnas un citi mehānismi rada draudus personiskajai vai apkārtējo cilvēku veselībai un dzīvībai, ja darba ierīces, mašīnas un citi mehānismi nav apgādāti ar nepieciešamajām drošības ierīcēm, kā arī ietaisēm to izslēgšanai avārijas gadījumos un ja darbinieki nav apgādāti ar nepieciešamajiem individuālajiem aizsardzības līdzekļiem;\n— atteikties no mašīnu un mehānismu izmantošanas vai apkalpošanas, ja šo darbu izpilde neatbilst viņu profesionālajai sagatavotībai."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V NODAĻA NELAIMES GADĪJUMU IZMEKLĒŠANA UN UZSKAITE",
+      "section": "28",
+      "title": "Paziņojums par nelaimes gadījumu",
+      "content": "Par katru ar darbiniekiem notikušo nelaimes gadījumu, kas beidzies ar cietušā nāvi vai smagiem miesas bojājumiem, kā arī par grupveida nelaimes gadījumiem darba devējiem (pašvaldībām — šā likuma 17. pantā noteiktajos gadījumos) nekavējoties jāziņo Darba inspekcijai un prokuratūrai, kuras uzraudzības zonā noticis nelaimes gadījums."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V NODAĻA NELAIMES GADĪJUMU IZMEKLĒŠANA UN UZSKAITE",
+      "section": "29",
+      "title": "Nelaimes gadījumu izmeklēšana",
+      "content": "Nelaimes gadījumi, kas izraisījuši darbinieku darbaspēju zaudēšanu, ir jāizmeklē saskaņā ar Latvijas Republikas valdības apstiprināto nolikumu par nelaimes gadījumu izmeklēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V NODAĻA NELAIMES GADĪJUMU IZMEKLĒŠANA UN UZSKAITE",
+      "section": "30",
+      "title": "Dokumentu noformēšana par nelaimes gadījumiem un to uzskaite",
+      "content": "Par katru notikušo nelaimes gadījumu, kura rezultātā darbaspējas zaudētas ilgāk par vienu diennakti, darba devējiem jāsastāda noteikta parauga akts. Apstiprinātā akta viens eksemplārs darba devējiem jāglabā 45 gadus, otrs — noteiktā kārtībā jāizsniedz cietušajam, trešais — jānosūta Darba inspekcijai. Ja darba devējs atsakās sastādīt aktu par nelaimes gadījumu vai ja cietušais nepiekrīt aktā konstatētajiem nelaimes gadījuma apstākļiem, cietušais ir tiesīgs griezties Darba inspekcijā, kuras lēmums par akta sastādīšanu vai tā saturu darba devējam ir obligāts.\nNelaimes gadījumu uzskaiti veic darba devēji vai pašvaldības saskaņā ar Latvijas Republikas valdības apstiprināto nolikumu par nelaimes gadījumu izmeklēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI NODAĻA GARANTIJAS, ATVIEGLOJUMI UN KOMPENSĀCIJAS DARBA AIZSARDZĪBAS JOMĀ",
+      "section": "31",
+      "title": "Garantijas un atvieglojumi",
+      "content": "Darba līguma nosacījumi nedrīkst būt pretrunā ar darba aizsardzības likumdošanas aktu prasībām attiecībā uz konkrēto darba veidu. Ja Darba inspekcija konstatējusi šāda veida pārkāpumu un darba devējs tās norādījumus nepilda, darbiniekam ir tiesības lauzt darba līgumu sakarā ar tā neatbilstību likuma prasībām ( Latvijas darba likumu kodeksa 30. panta 8. punkts). Šādos gadījumos darba devēja pienākums ir izmaksāt darbiniekam atlaišanas pabalstu ne mazāk kā sešu mēnešu vidējās izpeļņas apmērā.\nDarba meklētājiem ir tiesības atteikties no piedāvātajām darba vietām, ja tajās nav nodrošināti veselībai nekaitīgi un droši darba apstākļi atbilstoši šā likuma prasībām. Šādas atteikšanās rezultātā bezdarbnieki nezaudē tiesības uz bezdarbnieka pabalstu, ja ir attiecīgs Darba inspekcijas atzinums.\nDarbiniekiem, kuri strādā kaitīgos vai smagos darba apstākļos, ir tiesības uz saīsinātu darba laiku un papildatvaļinājumu saskaņā ar Latvijas Republikas darba likumdošanas aktiem.\nDarbiniekiem, kuri strādā darbos ar sevišķi kaitīgiem vai sevišķi smagiem darba apstākļiem, ir tiesības uz pensiju ar atvieglotiem noteikumiem saskaņa ar Latvijas Republikas 1990. gada 29. novembra likumu «Par valsts pensijām» (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 1/2).\nDarba devēji ir tiesīgi no pašu līdzekļiem noteikt darbiniekiem darba aizsardzības tiesību garantijas papildus Latvijas Republikas likumdošanas aktos noteiktajām garantijām."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI NODAĻA GARANTIJAS, ATVIEGLOJUMI UN KOMPENSĀCIJAS DARBA AIZSARDZĪBAS JOMĀ",
+      "section": "32",
+      "title": "Kompensācijas darbiniekiem, ja zaudētas darbaspējas",
+      "content": "Darbiniekiem, kuri darbā gūtā sakropļojuma vai arodslimības dēļ zaudējuši darbaspējas, ir tiesības uz materiālo atlīdzību par kaitējumu veselībai. Darba devēji no saviem līdzekļiem atlīdzina darbiniekiem vai darbinieku nāves gadījumā — viņu apgādībā bijušām personām nodarīto kaitējumu likumdošanas noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VII NODAĻA ATBILDĪBA PAR DARBA AIZSARDZĪBAS LIKUMDOŠANAS AKTU PĀRKĀPŠANU",
+      "section": "33",
+      "title": "Darba devēju un amatpersonu atbildība par darba aizsardzības likumdošanas aktu pārkāpšanu",
+      "content": "Darba devēji un amatpersonas, kas vainīgas darba aizsardzības likumdošanas aktu un normatīvu pārkāpšanā vai darba koplīgumos, darba aizsardzības nolīgumos vai darba līgumos paredzēto saistību neievērošana, ir atbildīgas Latvijas Republikas likumos noteiktajā kartībā.\nDarba aizsardzības likumdošanas aktu pārkāpuma gadījumā uzņēmējdarbība tiek apturēta Latvijas Republikas likumdošanas aktos noteiktajā kārtībā."
+    }
+  ],
+  "definitions": []
+}

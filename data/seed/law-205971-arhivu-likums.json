@@ -1,0 +1,401 @@
+{
+  "id": "lv-law-205971",
+  "type": "statute",
+  "title": "Arhīvu likums",
+  "title_en": "Archives Law",
+  "short_name": "TA-205971",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/205971-arhivu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) aprakstīšana — apraksta vienības (vai tās sastāvdaļu) satura atklāsts, veicot arhīva dokumentu analīzi vai salīdzināšanu, lai fiksētu to identificēšanai un konteksta izskaidrošanai nepieciešamo informāciju;\n2) arhīva dokuments — dokuments, kas pastāvīgi vai uz laiku glabājams arhīvā tā arhīviskās vērtības dēļ;\n3) arhīviskā vērtība — dokumenta informatīvais nozīmīgums vai šā dokumenta pierādījuma vērtība, ko izvērtē šajā likumā noteiktajā kārtībā;\n4) arhīvs:\na) dokumentu kopums, ko neatkarīgi no dokumentu rašanās datuma, formas, vides un informācijas nesēja uzkrāj, glabā un izmanto to arhīviskās vērtības dēļ,\nb) publisko vai privāto tiesību juridiskā persona vai tās struktūrvienība, kura likumā noteiktajā kārtībā veic arhīva dokumentu uzkrāšanu, saglabāšanu un nodrošina to pieejamību;\n5) depozitārā glabāšana — privātpersonu vai institūciju dokumentu ar arhīvisko vērtību terminēta glabāšana Latvijas Nacionālajā arhīvā;\n6) dokumenta iznīcināšana — neatgriezeniska informācijas vai tās nesēja likvidēšana;\n7) dokumenta izvērtēšana — dokumentu kopuma vai dokumenta analīze, kas veicama, ievērojot šā likuma prasības, lai noteiktu, vai dokumentam ir arhīviskā vērtība, un dokumenta glabāšanas termiņu;\n8) dokuments — informācija, kas radusies, saņemta vai pārvērsta citā formā uz jebkura informācijas nesēja, ierosinot, turpinot, mainot vai izbeidzot kādu darbību, un kas apliecina šo darbību;\n9) dokumentu izmantošana — dokumentos ietvertās informācijas meklēšana, izpēte un lietošana zinātniskiem, tautsaimnieciskiem, sociāliem, tiesiskiem un citiem mērķiem;\n10) dokumentu pārvaldība — vadības joma, kas nodrošina publisku dokumentu radīšanu, saņemšanu, reģistrēšanu, klasifikāciju, sistematizāciju, izvērtēšanu, kontroli, glabāšanu un pieejamību līdz nodošanai glabāšanā institūcijas arhīvā, kā arī to dokumentu iznīcināšanu, kuriem nav arhīviskās vērtības;\n11) dokumentu pieejamība — normatīvajos aktos noteiktas tiesības, kā arī uzziņu sistēmas nodrošinātas iespējas un līdzekļi informācijas meklēšanai, ieguvei un izmantošanai;\n12) dokumentu saglabāšana — procesi un darbības dokumentu tehniskai un intelektuālai saglabāšanai, tai skaitā preventīvā aizsardzība, konservācija un pārnešana uz jauna informācijas nesēja;\n13) (izslēgts ar 25.03.2021 . likumu) ;\n14) dokumentu uzkrāšana — mērķtiecīga arhīva dokumentu kopuma papildināšana;\n15) iegūts dokuments — šajā likumā noteiktajā kārtībā elektroniskā formā pārvērsts dokuments glabāšanai elektroniskā vidē;\n16) institūcija — ikviena institūcija vai privātpersona, kurai ar ārēju normatīvo aktu vai publisko tiesību līgumu noteiktas valsts varas pilnvaras (tai skaitā Valsts prezidents, Saeima, Ministru kabinets, Valsts kontrole, tiesībsargs, Latvijas Banka, pašvaldība un cita atvasināta publisko tiesību juridiskā persona, tiešās vai pastarpinātās pārvaldes iestāde, Centrālā zemes komisija, Centrālā vēlēšanu komisija, prokuratūra, tiesa, notārs, tiesu izpildītājs), kapitālsabiedrība, kurā publiskai personai pieder kapitāla daļas vai akcijas, vienas vai vairāku publisku personu kapitālsabiedrības izšķirošajā ietekmē esoša kapitālsabiedrība, kā arī biedrība vai nodibinājums, kurā publiska persona ir biedrs vai dibinātājs;\n17) izmantošanas kopija — dokumenta kopija, kuru izveido, lai arhīva lietotāji varētu to izmantot un tādējādi tiktu aizsargāts dokumenta oriģināla fiziskais stāvoklis;\n18) nodrošinājuma kopija — dokumenta kopija, kuru izveido, lai dokumentu oriģināla zuduma vai bojājumu gadījumā saglabātu dokumentā iekļauto informāciju;\n19) pastāvīgi glabājams dokuments — dokuments, kas saskaņā ar likumu glabājams mūžīgi;\n20) privātais dokuments — privātpersonas darbības rezultātā radīts vai saņemts dokuments;\n21) publiskais dokuments — institūcijas darbības rezultātā radīts vai saņemts dokuments;\n22) uz laiku glabājams dokuments — dokuments, kuram noteikts īslaicīgs (līdz 10 gadiem) vai ilgstošs (ilgāks par 10 gadiem) glabāšanas termiņš;\n23) uzziņu sistēma — meklēšanas līdzekļu un sistēmu savstarpēji saistīts kopums, kas pamatojas uz vienotām klasifikācijas un aprakstīšanas metodēm un satur datus par arhīvu, tā dokumentu sastāvu, saturu, kā arī nodrošina informācijas meklēšanu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt nacionālā dokumentārā mantojuma veidošanu, uzkrāšanu, izvērtēšanu, saglabāšanu, pieejamību un izmantošanu, īstenojot atbilstošu dokumentu un arhīvu pārvaldību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "Likums attiecas uz ikvienu institūciju, kā arī šajā likumā noteiktajos gadījumos — uz privātpersonām, kuru īpašumā ir dokumenti ar arhīvisko vērtību."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Institūcijas dokumentu un arhīva pārvaldība",
+      "content": "(1) Institūcijai ir pienākums veikt dokumentu pārvaldību, nodrošinot:\n1) savas darbības dokumentēšanu — autentisku, ticamu un integrētu darbības liecību radīšanu — atbilstoši attiecīgajai institūcijai noteiktajām funkcijām un uzdevumiem;\n2) dokumentu klasifikāciju un sistematizāciju;\n3) dokumentu pārvaldības iekšējo kontroli un uzraudzību;\n4) dokumentu glabāšanu, izmantošanu un pieejamību līdz nodošanai institūcijas arhīvā.\n(2) Institūcijai ir pienākums veikt institūcijas arhīva pārvaldību, nodrošinot:\n1) dokumentu izvērtēšanu atbilstoši institūcijas funkcijām, lai noteiktu:\na) pastāvīgi un uz laiku glabājamos dokumentus,\nb) uz laiku glabājamo dokumentu glabāšanas termiņu;\n2) pastāvīgi un ilgstoši glabājamo dokumentu aprakstīšanu un institūcijas arhīvā uzkrāto dokumentu uzziņu sistēmas veidošanu;\n3) dokumentu glabāšanu institūcijas arhīvā vai akreditētā privātā arhīvā, nodrošinot šo dokumentu saglabāšanu un aizsardzību vai depozitāro glabāšanu Latvijas Nacionālajā arhīvā:\na) pastāvīgi glabājamiem dokumentiem — līdz to nodošanai pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā,\nb) uz laiku glabājamiem dokumentiem — līdz tiem noteiktā glabāšanas termiņa beigām un iznīcināšanai;\n4) dokumentu pieejamību un izmantošanu, tai skaitā izsniedzot personām izziņas, dokumentu kopijas, izrakstus, norakstus uz visu institūcijas rīcībā esošo dokumentu pamata normatīvajos aktos noteiktajā kārtībā. Institūcijas rīcībā esošie dokumenti ir arī tie dokumenti, kurus institūcija nodevusi glabāšanā akreditētam privātam arhīvam. Latvijas Nacionālajam arhīvam depozitārajā glabāšanā nodoto dokumentu saglabāšanu, aizsardzību, pieejamību un izmantošanu nodrošina Latvijas Nacionālais arhīvs.\n(3) Institūcijai ir pienākums saskaņot ar Latvijas Nacionālo arhīvu dokumentu klasifikācijas shēmas, dokumentu ar arhīvisko vērtību veidus un to glabāšanas termiņus, uzziņu sistēmas, kā arī dokumentu iznīcināšanas aktus pirms dokumentu iznīcināšanas.\n(4) Ministru kabinets nosaka glabāšanas termiņus tiem personas darba vai dienesta gaitu apliecinošiem dokumentiem, kā arī izglītojamās personas, tai skaitā studējošā, lietā esošajiem dokumentiem, kuriem ir arhīviska vērtība.\n(5) Institūcijas vadītājs ir atbildīgs par institūcijas publisko dokumentu un arhīva pārvaldības kārtības ievērošanu.\n(6) Institūcijai ir tiesības saņemt Latvijas Nacionālā arhīva konsultācijas dokumentu un arhīvu pārvaldības jautājumos.\n(7) Ministru kabinets nosaka publisko dokumentu un arhīvu pārvaldības kārtību institūcijās, kritērijus dokumentu glabāšanas termiņa noteikšanai un tehniskās prasības dokumentu saglabāšanai institūciju arhīvos (turpmāk — dokumentu un arhīvu pārvaldības noteikumi )."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Privātpersonu pienākumi privāto dokumentu pārvaldībā",
+      "content": "(1) Privāto tiesību juridiskā vai fiziskā persona, kas veic saimniecisko darbību vai uz darba, uzņēmuma vai autora līguma pamata nodarbina citas fiziskās personas, kā arī personu apvienība:\n1) nodrošina savas darbības rezultātā radīto un saņemto personas darba gaitu apliecinošu dokumentu, kā arī izglītojamās personas, tai skaitā studējošā, lietā esošo dokumentu ar arhīvisku vērtību glabāšanu;\n2) pēc citas personas pieprasījuma izsniedz šai personai izziņas un apliecinātas dokumentu kopijas, norakstus un izrakstus, kas tai nepieciešami likumā noteiktajos gadījumos savu tiesību pierādīšanai un interešu aizstāvībai.\n(2) Ministru kabinets nosaka kārtību, kādā privātie dokumenti ar arhīvisko vērtību nododami Latvijas Nacionālajā arhīvā juridiskās personas likvidācijas gadījumā.\n(3) Šā likuma 4.panta septītajā daļā minēto Ministru kabineta noteikumu piemērošana privāto dokumentu un arhīvu pārvaldībā ir brīvprātīga, ja likums nenosaka citādi.\n(4) Šā likuma 4. panta ceturtajā daļā un 8. panta otrajā daļā minētie Ministru kabineta noteikumi attiecas uz tām privāto tiesību juridiskajām vai fiziskajām personām, kas veic saimniecisko darbību vai uz darba, uzņēmuma vai autora līguma pamata nodarbina citas fiziskās personas, kā arī uz personu apvienībām."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Dokumentu nodošana pastāvīgā valsts glabāšanā",
+      "content": "(1) Dokumenti ar arhīvisko vērtību, kuri atlasīti pastāvīgai glabāšanai, tiek nodoti pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā ne vēlāk kā 15 gadus pēc to radīšanas vai saņemšanas, ja šajā vai citā likumā nav noteikts citādi.\n(2) Elektroniskie dokumenti un dokumenti, kuros ietverto informāciju veido attēls vai skaņa un kuri uztverami un izmantojami ar attiecīgu iekārtu palīdzību (audiovizuālie un kinematogrāfiskie dokumenti, fotogrāfijas un skaņu dokumenti), tiek nodoti pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā ne vēlāk kā piecus gadus pēc to radīšanas vai saņemšanas, ja citā likumā nav noteikts citādi.\n(3) Dokumentus, kuri nepieciešami institūcijas funkciju un uzdevumu pildīšanai ilgāk, nekā noteikts šā panta pirmajā vai otrajā daļā, pastāvīgā valsts glabāšanā nodod pēc tam, kad institūcijā to izmantošana vairs nav nepieciešama.\n(4) Šā panta trešajā daļā minētajā gadījumā dokumentu glabāšanas termiņu var pagarināt, ja dokumentu glabāšanai ir nodrošināti attiecīgi apstākļi un saņemta Latvijas Nacionālā arhīva atļauja Ministru kabineta noteiktajā kārtībā. Šo termiņu var pagarināt uz laiku līdz pieciem gadiem ne vairāk kā divas reizes, bet, ja tas ir pamatots ar īpašiem apstākļiem, termiņu var pagarināt vēl uz laiku līdz 10 gadiem.\n(5) Dokumentus, kuriem saskaņā ar šā likuma 13.panta otrās daļas 3.punktu noteikti pieejamības ierobežojumi, pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā nodod pēc pieejamības ierobežojuma perioda beigām.\n(6) Ministru kabinets nosaka kārtību, kādā institūcijas nodod dokumentus un uzziņu sistēmas pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā šajā pantā minētajos termiņos, kā arī gadījumos, kad dokumenti tiek nodoti pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā pirms beidzies tiem noteiktais glabāšanas termiņš institūcijas arhīvā.\n(7) Publiskos dokumentus pastāvīgā valsts glabāšanā nodod tikai Latvijas Nacionālajā arhīvā, izņemot likumā paredzētos gadījumus.\n(8) Institūcijai ir tiesības bez maksas saņemt Latvijas Nacionālā arhīva apliecinātas to dokumentu kopijas, kurus attiecīgā institūcija nodevusi pastāvīgā valsts glabāšanā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Likvidējamo un reorganizējamo institūciju dokumentu saglabāšana",
+      "content": "(1) Likvidējamo un reorganizējamo institūciju pastāvīgi glabājamie dokumenti nav dalāmi un ir nododami pastāvīgā valsts glabāšanā Latvijas Nacionālajā arhīvā sakārtotā veidā atbilstoši dokumentu un arhīvu pārvaldības noteikumi em.\n(2) Likvidējamo un reorganizējamo institūciju uz laiku glabājamie dokumenti tiek nodoti institūcijas tiesību un saistību pārņēmējam. Ja institūcijai nav tiesību un saistību pārņēmēja, uz laiku glabājamie dokumenti tiek nodoti glabāšanā Latvijas Nacionālajā arhīvā.\n(2 1 ) Institūcijas tiesību un saistību pārņēmējam var tikt nodoti likvidējamo un reorganizējamo institūciju pastāvīgi glabājamie dokumenti nodoto funkciju un uzdevumu izpildes nodrošināšanai, ja dokumentu glabāšanai ir nodrošināti attiecīgi apstākļi un saņemta Latvijas Nacionālā arhīva atļauja.\n(3) Lēmumā par institūcijas reorganizēšanu pēc Latvijas Nacionālā arhīva priekšlikuma tiek noteikta uz laiku glabājamo dokumentu turpmākās glabāšanas vieta.\n(4) Ja institūcija tiek likvidēta vai reorganizācijas rezultātā beidz pastāvēt, tās pastāvīgi glabājamo dokumentu pieņemšanu glabāšanā Latvijas Nacionālajā arhīvā finansē no attiecīgajai institūcijai piešķirtajiem valsts vai pašvaldības budžeta līdzekļiem.\n(5) Par likvidējamās vai reorganizējamās institūcijas uz laiku glabājamo dokumentu saglabāšanu un aizsardzību ir atbildīgs attiecīgās institūcijas vadītājs, tiesību un saistību pārņēmējs vai likvidators."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Dokumenta arhīviskās vērtības noteikšana",
+      "content": "(1) Dokumenta arhīvisko vērtību nosaka attiecīgā dokumenta izvērtēšanas procesā, ievērojot šādus kritērijus:\n1) dokuments atspoguļo publiskās pārvaldes darbības, valsts politikas veidošanu un īstenošanu;\n2) dokuments ir ilgstoši izmantojams institūcijas vai privātpersonas pienākumu un tiesību īstenošanai un aizsardzībai;\n3) dokumentam ir vēsturiska, sabiedriska, kultūras vai zinātniska nozīme;\n4) dokumenta izcelsme un ārējās īpatnības;\n5) dokuments atspoguļo notikuma vai fakta īpašo raksturu;\n6) dokumenta autora nozīmīgums.\n(2) Dokumenta arhīviskās vērtības noteikšanas kārtību reglamentē Ministru kabinets. Personas darba vai dienesta gaitu apliecinošus dokumentus, kā arī izglītojamās personas, tai skaitā studējošā, lietā esošos dokumentus, kuriem ir arhīviska vērtība, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Publisko dokumentu pārvēršana",
+      "content": "(1) Latvijas Nacionālajam arhīvam un institūcijām ir tiesības publiskos dokumentus pārvērst elektroniskā formā glabāšanai elektroniskā vidē, ievērojot šādus noteikumus:\n1) iegūtais dokuments nodrošina publiskā dokumenta satura un metadatu atveidošanu un izmantošanu;\n2) iegūtais dokuments nodrošina publiskā dokumenta\nintegritāti — ir pilnīgs un negrozīts;\n3) tiek nodrošināts iegūtā dokumenta autentiskums un atbilstība publiskajam dokumentam;\n4) pārvēršanas process ietver pārbaudi un kontroli, kas nodrošina iegūtā dokumenta atbilstību publiskajam dokumentam;\n5) pārvēršanas procesā dokuments tiek aizsargāts pret neatļautu piekļūšanu, papildinājumiem, izmaiņām vai iznīcināšanu;\n6) pārvēršanas process tiek dokumentēts.\n(2) Ministru kabinets nosaka kārtību, kādā publiskie dokumenti tiek pārvērsti elektroniskā formā glabāšanai elektroniskā vidē, pārvēršanas tehniskās prasības, kā arī kārtību, kādā glabājami iegūtie dokumenti un tiek iznīcināti pārvērstie publiskie dokumenti."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Iegūtā dokumenta juridiskais spēks",
+      "content": "(1) Iegūtajam dokumentam ir tāds pats juridiskais spēks kā oriģinālajam publiskajam dokumentam.\n(2) Iegūtā dokumenta kopijai, norakstam vai izrakstam papīra formā ir tāds pats juridiskais spēks kā publiskajam dokumentam, ja kopijas, noraksta vai izraksta pareizību apliecinājis institūcijas vadītājs vai viņa pilnvarota persona un kopijas, noraksta vai izraksta izsniedzējs pēc pieprasījuma var uzrādīt iegūto dokumentu elektroniskā formā un tas atbilst šā likuma prasībām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Publisko dokumentu iznīcināšana",
+      "content": "(1) Publiskos dokumentus, kuri šajā likumā noteiktajā kārtībā pārvērsti elektroniskā formā glabāšanai elektroniskā vidē, drīkst iznīcināt, izņemot šā panta otrajā daļā noteiktos gadījumus.\n(2) Nedrīkst iznīcināt tādus elektroniskā formā pārvērstus publiskos dokumentus:\n1) kuriem to ārējo īpatnību vai izcelsmes dēļ ir vēsturiska, sabiedriska, kultūras vai zinātniska nozīme;\n2) kuros ietverto informāciju veido attēls vai skaņa (audiovizuālie un kinematogrāfiskie dokumenti, fotogrāfijas un skaņu dokumenti);\n3) kuri nepieciešami institūcijas vai privātpersonas pienākumu pildīšanai un tiesību īstenošanai."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Arhīva dokumentu pieejamība un izmantošana",
+      "content": "(1) Latvijas Nacionālajā arhīvā, institūcijas arhīvā un akreditētos privātos arhīvos glabātie dokumenti vai apliecinātas to kopijas ir brīvi pieejami un izmantojami personai pieejamās arhīva telpās šajā likumā noteiktajā kārtībā, ja to pieejamību neierobežo likums. Personai ir tiesības pieprasīt un izmantot dokumentus, iesniedzot rakstveida pieprasījumu un uzrādot personas identifikācijas dokumentu.\n(2) Latvijas Nacionālajā arhīvā, institūcijas arhīvā un akreditētos privātos arhīvos personai ir tiesības pieprasīt un iegūt informāciju par sevi un mirušajiem radiniekiem vai laulāto, uzrādot personas identifikācijas dokumentu un radniecību vai laulību apliecinošus dokumentus. Citai privātpersonai vai publiskai personai ir tiesības pieprasīt un iegūt informāciju par personas datu subjektu, ja no tā saņemta rakstveida atļauja, kā arī likumā noteiktajos gadījumos. Persona, kura pieprasa informāciju, uzrāda datu subjekta rakstveida atļauju un ir atbildīga par tās patiesumu un saņemtās informācijas izmantošanu.\n(2 1 ) Latvijas Nacionālā arhīva vai akreditēta privāta arhīva dokumentu izmantošanas pieprasījumā persona norāda šādas ziņas:\n1) savu vārdu, uzvārdu un personas kodu vai ārzemniekam — dzimšanas datumu, identifikācijas kodu, kas ierakstīts ārzemnieka personu apliecinošajā dokumentā, un valsti, kas izsniegusi šo dokumentu;\n2) pieprasījuma tēmu un pamatojumu (pamato savu pieprasījumu un norāda mērķi, kādam dokumentus izmantos), kā arī personas rīcībā esošo informāciju, kas palīdz pieprasījuma izpildei;\n3) adresi atbildes saņemšanai un saziņas līdzekļus pieprasījuma izpildei vajadzīgās informācijas iegūšanai, saņemšanai un nosūtīšanai.\n(3) Latvijas Nacionālajā arhīvā, institūcijas arhīvā vai akreditētā privātā arhīvā uzkrātos dokumentus, kurus aizsargā autortiesības vai blakustiesības (audiovizuālie un kinematogrāfiskie dokumenti, fotogrāfijas, skaņu vai citi dokumenti), persona izmanto, ievērojot Autortiesību likuma prasības.\n(4) Latvijas Nacionālais arhīvs, institūcijas un akreditēti privāti arhīvi publisko dokumentu pieejamības nodrošināšanai veido un uztur publiski pieejamas bezmaksas uzziņu sistēmas.\n(5) Šā panta pirmajā daļā noteiktajai arhīva apliecinātai publiska dokumenta kopijai ir tāds pats spēks kā šā dokumenta oriģinālam.\n(6) Persona, kura atbilstoši likumā noteiktajam pieprasa no arhīva dokumenta oriģinālu, nodrošina šā dokumenta aizsardzību, saglabāšanu un atdošanu arhīvam. Par dokumenta oriģināla izsniegšanu sastāda rakstveida aktu un līgumu, kurā norāda dokumenta izsniegšanas nosacījumus un termiņu. Pēc arhīva pieprasījuma par attiecīgās personas līdzekļiem izgatavo nodrošinājuma kopiju, kas tiek uzglabāta līdz dokumenta oriģināla atdošanai arhīvam. Tiesai dokumentu oriģinālus izskatāmās lietas ietvaros izsniedz saskaņā ar procesuālajiem likumiem, pamatojoties uz tiesas vai tiesneša pieprasījumu.\n(7) Latvijas Nacionālajā arhīvā, institūcijas arhīvā vai akreditētos privātos arhīvos glabāto dokumentu izmantošanas kārtību arhīva telpās nosaka Latvijas Nacionālā arhīva direktors, institūcijas vadītājs vai akreditēta privāta arhīva dibinātājs. Persona ir atbildīga par šīs kārtības ievērošanu. Personai, kas Latvijas Nacionālā arhīva, institūcijas arhīva vai akreditēta privāta arhīva telpās (lasītavā) izmanto arhīva dokumentus, aizliegts veikt tādas darbības, kuras bojā vai var bojāt dokumentu fizisko stāvokli vai rada arhīva uzziņu sistēmas elementu zudumus, kā arī aizliegts iznest no arhīva telpām (lasītavas) arhīva dokumentus vai arhīva uzziņu sistēmas elementus.\n(8) Latvijas Nacionālajā arhīvā, institūcijas arhīvā un akreditētos privātos arhīvos glabātie publiskie dokumenti personai pieejamās arhīva telpās izmantojami bez maksas. Ja persona ar arhīva dokumentiem var iepazīties, tikai izmantojot speciālo arhīva aprīkojumu (audiovizuālie, kinematogrāfiskie un skaņu dokumenti), par šādu dokumentu izmantošanu arhīva telpās var iekasēt maksu, kuras apmēru nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Arhīva dokumentu pieejamības un izmantošanas ierobežojumi",
+      "content": "(1) Šajā pantā noteiktos dokumentu pieejamības ierobežojumus Latvijas Nacionālais arhīvs, institūcija un akreditēts privāts arhīvs piemēro tādā veidā, lai tie nebūtu pretrunā ar fizisko personu pamattiesībām un brīvībām, it īpaši privātās dzīves neaizskaramību.\n(2) Pieejamība tiek ierobežota:\n1) dokumentiem, kuri satur valsts noslēpumu saskaņā ar normatīvajiem aktiem;\n2) dokumentiem, kuru pieejamības ierobežojumus nosaka citi likumi. Ja citos likumos nav noteikts citādi, šajā punktā minētie dokumentu pieejamības ierobežojumi ir piemērojami 30 gadus pēc dokumentu radīšanas;\n3) publiskajiem dokumentiem, kuri radīti vai saņemti valsts drošības iestādēs, Aizsardzības ministrijā, Ārlietu ministrijā, Iekšlietu ministrijā, Korupcijas novēršanas un apkarošanas birojā, Valsts prezidenta kancelejā, Valsts kancelejā vai tiek glabāti Latvijas Nacionālajā arhīvā, kuri satur ar nacionālo drošību, aizsardzību vai ārlietām saistītu informāciju, kuras atklāšana var radīt kaitējumu valsts vai sabiedrības interesēm. Šiem dokumentiem attiecīgās institūcijas vadītājs var noteikt vispārēju 30 gadus ilgu informācijas pieejamības ierobežojuma periodu;\n4) dokumentiem, kuri satur īpašu kategoriju personas datus vai citu informāciju par personas privāto dzīvi (tai skaitā informāciju par personas adopciju un notariālas darbības apliecinošu informāciju), ja tajos esošo personas datu vai informācijas izmantošana būtiski var aizskart personas privāto dzīvi. Ja citos likumos nav paredzēti ierobežojumi, šādu dokumentu pieejamība tiek ierobežota uz 30 gadiem no tās personas nāves, uz kuru dokuments attiecas. Ja personas nāves datumu nav iespējams noteikt, pieejamība tiek ierobežota uz 110 gadiem pēc tās personas dzimšanas, uz kuru dokuments attiecas. Ja nav iespējams konstatēt ne personas nāves, ne dzimšanas datumu, dokumenta pieejamība tiek ierobežota uz 75 gadiem pēc dokumenta radīšanas;\n5) privātajiem dokumentiem, kuriem pieejamības ierobežojuma termiņu noteicis to īpašnieks.\n(3) Dokumentus, kuriem noteikti pieejamības ierobežojumi, atļauts izmantot:\n1) pēc pirmstiesas izmeklēšanas iestādes, prokuratūras, tiesas vai citu publisko personu pieprasījuma likumā noteiktajos gadījumos;\n2) pēc zinātnieka pieprasījuma zinātniskās darbības veikšanai, izņemot šā panta otrās daļas 5.punktā noteiktos dokumentus;\n2 1 ) pēc studējošā pieprasījuma, ja studējošais izstrādā zinātnisku vai pētniecisku darbu un pieprasījumu apstiprinājis augstskolas fakultātes dekāns, izņemot šā panta otrās daļas 5.punktā noteiktos dokumentus;\n2 2 ) pēc bibliotēkas, muzeja, arhīva vai zinātniskās institūcijas darbinieka (izņemot zinātnieka) pieprasījuma, ja darbinieks attiecīgās iestādes funkciju ietvaros veic pētniecisku darbību un pieprasījumu apstiprinājis bibliotēkas, muzeja, arhīva vai zinātniskās institūcijas vadītājs, izņemot šā panta otrās daļas 5.punktā noteiktos dokumentus;\n2 3 ) pēc fiziskās personas pieprasījuma, ja šī persona veic pētījumu, kuram ir konkrēts, precīzi formulēts un likumīgs mērķis, un ir saņemta attiecīgajā jautājumā kompetentas zinātniskās institūcijas vai akreditētas bibliotēkas, vai akreditēta muzeja vadītāja rekomendācija;\n3) šā panta otrās daļas 3.punktā noteiktajos gadījumos — ar tās institūcijas rakstveida atļauju, kura noteikusi dokumentam pieejamības ierobežojuma periodu;\n4) šā panta otrās daļas 4.punktā noteiktajos gadījumos — ar tās personas rakstveida atļauju, uz kuru dokuments attiecas, vai pēc šīs personas nāves — ar tās laulātā vai tai tuvākā radinieka rakstveida atļauju.\n(4) Persona, kurai saskaņā ar šā panta trešo daļu ir tiesības izmantot dokumentus ar pieejamības ierobežojumiem, ir atbildīga par to, ka dokumenti un tajos ietvertā informācija tiek izmantota tikai likumīgam pieprasījumā norādītajam mērķim un pieprasījumam atbilstošā apjomā.\n(5) Latvijas Nacionālā arhīva direktors vai viņa pilnvarota persona, institūcijas vadītājs vai akreditēta privāta arhīva dibinātājs var noteikt arhīva dokumenta izmantošanas ierobežojumus, lai nodrošinātu sliktā fiziskā stāvoklī esoša dokumenta oriģināla saglabāšanu, pieņemot par to rakstveida lēmumu.\n(6) Lēmumu par dokumentu izsniegšanu izmantošanai vai lēmumu par atteikumu tos izsniegt ne vēlāk kā mēneša laikā pieņem Latvijas Nacionālā arhīva direktora pilnvarota amatpersona vai struktūrvienības vadītājs, vai institūcija, kurā glabājas dokumenti. Lēmumu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 13.1",
+      "section": "13.1",
+      "title": "13. 1 pants. Personas tiesības attiecībā uz arhīva dokumentos esošo personas datu labošanu vai papildināšanu",
+      "content": "Persona īsteno tai Eiropas Parlamenta un Padomes 2016. gada 27. aprīļa regulas (ES) 2016/679 par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti un ar ko atceļ direktīvu 95/46/EK (Vispārīgā datu aizsardzības regula) 16. pantā noteiktās datu subjekta tiesības panākt personas datu labošanu vai papildināšanu, ja tie apstrādāti arhivēšanas nolūkos sabiedrības interesēs, iesniedzot Latvijas Nacionālajam arhīvam vai institūcijai, kurā glabājas dokumenti, paziņojumu par nepilnīgu vai neprecīzu personas datu papildināšanu. Kārtību, kādā tiek reģistrēti un glabāti personu iesniegtie paziņojumi par neprecīziem vai nepilnīgiem personas datiem, kā arī tiek nodrošināta paziņojumu sasaiste ar arhīva dokumentiem, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Nacionālais dokumentārais mantojums",
+      "content": "(1) Nacionālais dokumentārais mantojums ir nacionālā kultūras mantojuma daļa, ko veido:\n1) Latvijas Nacionālajā arhīvā uzkrātie dokumenti ar arhīvisko vērtību;\n2) institūciju uzkrātie pastāvīgi glabājamie dokumenti ar arhīvisko vērtību;\n3) privātie dokumenti ar arhīvisko vērtību, ievērojot šā panta otrajā daļā noteikto;\n4) no ārvalstīm iegūtie dokumenti ar arhīvisko vērtību vai apliecinātas to kopijas.\n(2) Privāto dokumentu ar arhīvisko vērtību var iekļaut nacionālajā dokumentārajā mantojumā pēc dokumenta īpašnieka vai Latvijas Nacionālā arhīva ierosinājuma saskaņā ar pušu noslēgtu līgumu, ievērojot šajā likumā noteikto kārtību.\n(3) Dokumentu ar Latvijas Nacionālā arhīva direktora lēmumu izslēdz no nacionālā dokumentārā mantojuma Ministru kabineta noteiktajā kārtībā, ja:\n1) dokuments ir gājis bojā vai zudis;\n2) dokumentam ir būtiski bojājumi un to nav iespējams atjaunot vai izmantot;\n3) tiek atrasti vairāki dokumenta eksemplāri vai beidzas dokumenta glabāšanas termiņš;\n4) izvērtēšanas rezultātā ir secināts, ka dokuments zaudējis arhīvisko vērtību;\n5) privātā dokumenta īpašnieks atsavina sev piederošu privāto dokumentu, izņemot gadījumu, kad saskaņā ar šā likuma 15.panta piekto daļu Latvijas Nacionālais arhīvs izmanto pirmpirkuma tiesības uz atsavināmo dokumentu vai beidzies privātā dokumenta īpašnieka un Latvijas Nacionālā arhīva noslēgtā līguma termiņš;\n6) konstatēts, ka dokuments ir iegūts prettiesiskā ceļā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Īpašuma tiesības uz nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem un darbības ar tiem",
+      "content": "(1) Nacionālajā dokumentārajā mantojumā iekļautie dokumenti, izņemot šā likuma 14.panta pirmās daļas 3.punktā noteiktos dokumentus, ir valsts īpašums, tie nav atsavināmi un dalāmi.\n(2) Nacionālajā dokumentārajā mantojumā iekļautie privātie dokumenti ir attiecīgās privātpersonas īpašums. Ja nacionālajā dokumentārajā mantojumā iekļautais privātais dokuments saskaņā ar noslēgto līgumu nodots glabāšanā Latvijas Nacionālajā arhīvā, tā īpašniekam ir tiesības šo dokumentu līgumā noteiktajā kārtībā uz laiku saņemt no arhīva vai izmantot bez maksas.\n(3) Attiecībā uz nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem ievērojami šādi noteikumi:\n1) institūcija vai privātpersona, kuras īpašumā vai glabāšanā ir nacionālajā dokumentārajā mantojumā iekļautie dokumenti, nodrošina to saglabāšanu un aizsardzību;\n2) nododot dokumentus citai institūcijai, institūcijas vadītājs rakstveidā saskaņo ar Latvijas Nacionālo arhīvu šo dokumentu turpmākās glabāšanas vietu;\n3) nododot privātos dokumentus citas personas īpašumā vai valdījumā, šo dokumentu īpašnieks rakstveidā par to informē Latvijas Nacionālo arhīvu;\n4) privāto dokumentu kopums nav dalāms; aizliegts atsavināt privāto dokumentu kopuma atsevišķus dokumentus;\n5) privātais dokuments ir pieejams un izmantojams, ja šā likuma 14.panta otrajā daļā minētajā līgumā nav noteikts citādi;\n6) aizliegts labot personas datus arhīva dokumentos.\n(4) Latvijas Nacionālais arhīvs var sniegt palīdzību nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma sakārtošanā, kā arī piešķirt budžeta līdzekļus nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta saglabāšanai.\n(5) Ja nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta īpašnieks atsavina attiecīgo privāto dokumentu kopumu vai privāto dokumentu, Latvijas Nacionālajam arhīvam ir pirmpirkuma tiesības vai tiesības izgatavot dokumentu kopijas. Atsavināšanas gadījumā īpašnieks atlīdzina atsavināmā privāto dokumentu kopuma vai privātā dokumenta saglabāšanai piešķirtos budžeta līdzekļus.\n(6) Ja nacionālajā dokumentārajā mantojumā iekļautā privāto dokumentu kopuma vai privātā dokumenta saglabāšana ir apdraudēta vai ir redzamas bojājuma pazīmes, Latvijas Nacionālais arhīvs ir tiesīgs noteikt šā dokumentu kopuma vai dokumenta īpašniekam saistošus dokumentu kopuma vai dokumenta saglabāšanas pasākumus vai izteikt priekšlikumu par privāto dokumentu kopuma vai privātā dokumenta atsavināšanu pret atlīdzību.\n(7) Bezīpašnieka dokumenti ar arhīvisko vērtību pāriet valsts īpašumā, un tos nodod glabāšanā Latvijas Nacionālajā arhīvā."
+    },
+    {
+      "provision_ref": "Art. 15.1",
+      "section": "15.1",
+      "title": "15. 1 pants. Aizliegums iekļaut nacionālajā dokumentārajā mantojumā prettiesiski iegūtus dokumentus",
+      "content": "Nacionālajā dokumentārajā mantojumā aizliegts iekļaut tādus dokumentus ar arhīvisko vērtību, kuri iegūti prettiesiskā ceļā, tai skaitā nozagti citā valstī vai izvesti, pārkāpjot tās valsts tiesību aktus, kura klasificējusi, definējusi vai īpaši atzinusi tos par kultūras vērtību saskaņā ar Latvijas Republikas starptautiskajām saistībām. Pirms dokumenta iekļaušanas nacionālajā dokumentārajā mantojumā Latvijas Nacionālais arhīvs vai institūcija publiski pieejamos zagtu kultūras priekšmetu reģistros pārbauda, vai nacionālajā dokumentārajā mantojumā iekļaujamais dokuments nav iegūts prettiesiskā ceļā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "section": "16",
+      "title": "Nacionālajā dokumentārajā mantojumā iekļauto dokumentu izvešana uz laiku no Latvijas Republikas",
+      "content": "(1) Ministru kabinets nosaka kārtību, kādā nacionālajā dokumentārajā mantojumā iekļauto dokumentu uz laiku drīkst izvest no Latvijas Republikas, kā arī kārtību, kādā izgatavojamas šā panta otrajā daļā noteiktās dokumenta nodrošinājuma kopijas, un to skaitu.\n(2) Dokumentam pirms tā izvešanas no Latvijas Republikas izgatavo nodrošinājuma kopijas. Dokumenta kopiju izgatavošanu organizē un apmaksā dokumenta pieprasītājs."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "section": "17",
+      "title": "Nacionālā dokumentārā mantojuma reģistrs",
+      "content": "(1) Nacionālā dokumentārā mantojuma reģistrs (turpmāk — reģistrs) ir Vienotās valsts arhīvu informācijas sistēmas sastāvdaļa, kas satur datus par nacionālajā dokumentārajā mantojumā iekļautajiem publiskajiem un privātajiem dokumentiem ar arhīvisko vērtību, par institūcijām un privātpersonām, kuru īpašumā vai valdījumā ir dokumenti ar arhīvisko vērtību, kā arī par minēto datu uzturēšanu un izmantošanu.\n(2) Reģistra pārzinis un turētājs ir Latvijas Nacionālais arhīvs. Ministru kabinets nosaka reģistra veidošanas, papildināšanas, uzturēšanas un pieejamības kārtību.\n(3) Reģistrā iekļautie dokumenti, kuri vienlaikus ietilpst nacionālajā bibliotēku krājumā, nacionālajā muzeju krājumā vai normatīvajos aktos noteiktajā kārtībā ir atzīti par valsts aizsargājamiem kultūras pieminekļiem, tiek aprakstīti un uzskaitīti Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 17.1",
+      "section": "17.1",
+      "title": "17. 1 pants. Vienotā valsts arhīvu informācijas sistēma",
+      "content": "(1) Vienotā valsts arhīvu informācijas sistēma ietver:\n1) nacionālā dokumentārā mantojuma reģistru;\n2) datus par nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem;\n3) datus par institūciju un akreditēto privāto arhīvu uzraudzību un kontroli;\n4) Latvijas Nacionālā arhīva e-pakalpojumus;\n5) citus šā likuma izpildei nepieciešamos datus.\n(2) Vienotās valsts arhīvu informācijas sistēmas pārzinis ir Latvijas Nacionālais arhīvs. Latvijas Nacionālais arhīvs nodrošina Vienotās valsts arhīvu informācijas sistēmas datu ievadīšanu un aktualizēšanu:\n1) ievadītos datus saglabājot līdz tiem noteiktā glabāšanas termiņa beigām;\n2) nosakot datu glabāšanas termiņu pēc dokumenta arhīviskās vērtības izvērtēšanas normatīvajos aktos noteiktajā kārtībā;\n3) iznīcinot neaktuālos datus pēc tiem noteiktā glabāšanas termiņa beigām.\n(3) Vienotajā valsts arhīvu informācijas sistēmā ievadāmos datus iegūst elektroniski tiešsaistes datu pārraides režīmā vai dokumentu apriti reglamentējošos normatīvajos aktos noteiktajā kārtībā. Ministru kabinets nosaka Vienotās valsts arhīvu informācijas sistēmas datu ievades un aktualizācijas, kā arī sistēmas pieejamības un izmantošanas kārtību institūcijām.\n(4) Vienotās valsts arhīvu informācijas sistēmas dati par nacionālajā dokumentārajā mantojumā iekļautajiem dokumentiem, kurus glabā Latvijas Nacionālajā arhīvā, institūciju arhīvos vai akreditētajos privātajos arhīvos, ir pieejami bez maksas tiešsaistē Latvijas Nacionālā arhīva portālā, ja to pieejamība netiek ierobežota atbilstoši šā likuma un citu normatīvo aktu noteikumiem.\n(5) (Izslēgta no 01.01.2021. ar 10.03.2016 . likumu. Sk. Pārejas noteikumu 11. punktu)"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "section": "18",
+      "title": "Kultūras ministrijas kompetence",
+      "content": "Kultūras ministrija:\n1) izstrādā valsts politiku dokumentu un arhīvu pārvaldības jomā;\n2) organizē un koordinē šā likuma un citu normatīvo aktu īstenošanu dokumentu un arhīvu pārvaldības jomā;\n3) izstrādā normatīvo aktu projektus dokumentu un arhīvu pārvaldības jomā;\n4) (izslēgts ar 10.03.2016 . likumu) ;\n5) izskata personu iesniegumus par Latvijas Nacionālā arhīva un akreditētu privātu arhīvu darbību."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "section": "19",
+      "title": "Arhīvu padome",
+      "content": "(1) Arhīvu padome ir konsultatīva institūcija, kuru izveido un kuras nolikumu apstiprina kultūras ministrs.\n(2) Arhīvu padomes sastāvā ir pieci Latvijas Nacionālā arhīva pārstāvji, divi Latvijas Arhīvistu biedrības pārstāvji, pa vienam pārstāvim no Valsts kancelejas, Tieslietu ministrijas un Kultūras ministrijas, kā arī no Latvijas Universitātes Vēstures institūta un Latvijas Pašvaldību savienības.\n(3) Arhīvu padome:\n1) piedalās arhīvu nozares attīstības stratēģijas un politikas izstrādē;\n2) sniedz atzinumus nacionālā dokumentārā mantojuma veidošanas, saglabāšanas, pieejamības un izmantošanas jautājumos;\n3) sniedz atzinumus par dokumentu un arhīvu pārvaldību regulējošo normatīvo aktu projektiem."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "section": "20",
+      "title": "Latvijas Nacionālais arhīvs",
+      "content": "(1) Latvijas Nacionālais arhīvs ir kultūras ministra pārraudzībā esoša tiešās pārvaldes iestāde, kuras struktūra veidota tā, lai šī iestāde darbotos pēc funkcionālā un teritoriālā principa un nodrošinātu savu administratīvo darbu. Latvijas Nacionālā arhīva direktoru uz pieciem gadiem ieceļ Ministru kabinets pēc kultūras ministra ierosinājuma.\n(2) Latvijas Nacionālais arhīvs pilda šādas funkcijas:\n1) uzkrāj Latvijā un ārpus Latvijas radītus dokumentus ar arhīvisko vērtību;\n2) nodrošina Latvijas Nacionālajā arhīvā glabāto dokumentu pieejamību, veicot to izvērtēšanu, aprakstīšanu un uzziņu sistēmu veidošanu;\n3) pieņem glabāšanā un saglabā Latvijas Nacionālajā arhīvā uzkrātos dokumentus ar arhīvisko vērtību, veido nodrošinājuma kopiju un izmantošanas kopiju fondu;\n4) nodrošina arhīva dokumentu pieejamību un izmantošanu, popularizēšanu un sabiedrības informēšanu, izsniedz arhīva izziņas, apliecinātas dokumentu kopijas, izrakstus un norakstus;\n5) izvērtē dokumentus šajā likumā noteiktajā kārtībā;\n6) sniedz konsultācijas dokumentu un arhīvu pārvaldības jomā, kā arī uzrauga dokumentu un arhīvu pārvaldības kārtības ievērošanu institūcijās un — šajā likumā noteiktajos gadījumos — akreditētos privātos arhīvos;\n7) veic pārbaudes institūcijās dokumentu un arhīvu pārvaldības jomā un — šajā likumā noteiktajos gadījumos — akreditētos privātos arhīvos dokumentu pārvaldības un nacionālā dokumentārā mantojuma saglabāšanas, pieejamības un izmantošanas jautājumos, izskata administratīvo pārkāpumu lietas un uzliek administratīvos sodus;\n8) akreditē privātus arhīvus;\n9) veic pētījumus un metodisko darbu dokumentu un arhīvu pārvaldības jomā;\n10) izsniedz rakstveida licences to Latvijas Nacionālajā arhīvā uzkrāto dokumentu izmantošanai, kuru autortiesības vai blakustiesības pieder valstij;\n11) izveido un uztur nepieciešamās informācijas sistēmas šajā likumā noteikto funkciju veikšanai;\n11 1 ) sniedz atzinumus par publisko dokumentu un arhīvu pārvaldību reglamentējošo normatīvo aktu projektiem;\n12) pilda citas likumā noteiktās funkcijas.\n(3) Ministru kabinets nosaka Latvijas Nacionālā arhīva dokumentu uzkrāšanas, nodošanas un pieņemšanas glabāšanā, uzskaites, aprakstīšanas un pieejamības kārtību, kā arī dokumentu saglabāšanas tehniskās prasības."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "section": "21",
+      "title": "Latvijas Nacionālā arhīva sociāli tiesiskās izziņas izsniegšana",
+      "content": "(1) Latvijas Nacionālā arhīva sociāli tiesiskā izziņa satur informāciju par darbu, mācībām, dienestu bruņotajos spēkos un citās struktūrās, īpašumu piederību, civilstāvokļa aktiem, atrašanos ārstniecības iestādēs, personu ievešanu Latvijā un izvešanu no Latvijas, tiesu spriedumiem un citiem jautājumiem, kuru privātpersona pieprasa iesniegšanai institūcijās likumā noteiktajos gadījumos.\n(2) Latvijas Nacionālā arhīva sociāli tiesiskā izziņa tiek sagatavota uz visu Latvijas Nacionālajā arhīvā glabāto dokumentu pamata un izsniegta ne vēlāk kā mēneša laikā no attiecīgās privātpersonas pieprasījuma saņemšanas dienas. Ja objektīvu iemeslu dēļ noteikto termiņu nav iespējams ievērot, ar Latvijas Nacionālā arhīva direktora lēmumu to var pagarināt uz laiku, ne ilgāku par četriem mēnešiem no iesnieguma saņemšanas dienas, par to paziņojot pieprasījuma iesniedzējam.\n(3) Par Latvijas Nacionālā arhīva sociāli tiesiskās izziņas sagatavošanu un izsniegšanu maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "section": "22",
+      "title": "Latvijas Nacionālā arhīva tiesības",
+      "content": "Latvijas Nacionālajam arhīvam likumā noteiktās kompetences ietvaros ir tiesības:\n1) iegūt (pērkot vai pieņemot dāvinājumā) dokumentus, arhīvus, dokumentālas liecības ar arhīvisko vērtību, kā arī veidot dokumentālas liecības, fiksējot valsts un sabiedrības dzīves norises;\n1 1 ) izmantojot pirmpirkuma tiesības, iegādāties privātpersonas dokumentus ar arhīvisko vērtību, ja privātpersona tādus atsavina. Ja pirmpirkuma tiesības netiek izmantotas, Latvijas Nacionālajam arhīvam ir tiesības bez maksas izgatavot atsavināmo dokumentu kopijas;\n2) bez maksas saņemt nepieciešamo informāciju no institūcijām, kā arī reģistrā iekļautajām privātpersonām;\n3) saņemot attiecīgo privāto dokumentu īpašnieku piekrišanu, izvērtēt privāto dokumentu kopumu un privātos dokumentus, kurus paredzēts iekļaut nacionālajā dokumentārajā mantojumā;\n4) pieņemt depozitārā glabāšanā dokumentus ar arhīvisko vērtību;\n5) sadarboties ar ārvalstu arhīviem un starptautiskajām profesionālajām organizācijām dokumentu un arhīvu pārvaldības jomā;\n6) izsniegt uzkrāto publisko dokumentu oriģinālus uz laiku, ievērojot šā likuma 12.panta sestajā daļā noteikto kārtību;\n7) veikt izdevējdarbību arhīva dokumentu popularizēšanai;\n8) sniegt Ministru kabineta noteiktos maksas pakalpojumus;\n9) citas likumā noteiktās tiesības."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "section": "23",
+      "title": "Latvijas Nacionālā arhīva finansēšana",
+      "content": "Latvijas Nacionālā arhīva funkciju pildīšanai nepieciešamos finanšu līdzekļus veido valsts budžeta dotācija no vispārējiem ieņēmumiem, ieņēmumi no sniegtajiem maksas pakalpojumiem un citi pašu ieņēmumi, tai skaitā ziedojumi, dāvinājumi un ārvalstu finanšu palīdzības līdzekļi. Maksas pakalpojumu un citu pašu ieņēmumu veidā iegūtie finanšu līdzekļi tiek ieskaitīti Latvijas Nacionālā arhīva pamatbudžeta kontā un izmantojami tikai Latvijas Nacionālā arhīva darbības attīstībai."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "section": "24",
+      "title": "Privāts arhīvs un akreditēts privāts arhīvs",
+      "content": "(1) Privāts arhīvs ir privāto tiesību juridiskā persona vai tās struktūrvienība, kura veic šā panta otrajā daļā noteiktās darbības. Privātā arhīva juridisko statusu nosaka tā dibinātājs.\n(2) Privāts arhīvs nodrošina:\n1) privātu dokumentu glabāšanu un aizsardzību;\n2) arhīva izziņu vai dokumentu apliecinātu kopiju, kā arī dokumentu norakstu un izrakstu izsniegšanu uz arhīvā esošo privāto dokumentu pamata;\n3) privāto dokumentu pieejamību, ievērojot šajā likumā un citos likumos noteikto kārtību.\n(3) Akreditētam privātam arhīvam papildus šā panta otrajā daļā noteiktajam ir tiesības:\n1) noslēdzot rakstveida līgumu, glabāt attiecīgās institūcijas dokumentus vai privātpersonas dokumentus ar arhīvisko vērtību atbilstoši dokumentu un arhīva pārvaldības kārtībai;\n2) sniegt metodisko palīdzību institūcijām publisko dokumentu un arhīvu pārvaldības jomā.\n(4) Privāts arhīvs, izbeidzot savu darbību, nodrošina uzkrāto dokumentu saglabāšanu, nododot privātos dokumentus to īpašniekiem vai citiem arhīviem pēc saskaņošanas ar privāto dokumentu īpašniekiem.\n(5) Akreditēts privāts arhīvs, izbeidzot darbību vai zaudējot akreditēta privāta arhīva statusu (tiek pieņemts lēmums atteikt akreditāciju vai to anulēt), nodrošina tā glabāšanā nodoto nacionālā dokumentārā mantojuma dokumentu saglabāšanu, nododot tos viena mēneša laikā īpašniekam (attiecīgajai institūcijai vai privātpersonai). Vienojoties ar attiecīgo institūciju vai privātpersonu, minētos nacionālā dokumentārā mantojuma dokumentus var nodot citam akreditētam privātam arhīvam."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "section": "25",
+      "title": "Privātu arhīvu akreditācija",
+      "content": "(1) Ikvienam privātajam arhīvam ir tiesības akreditēties. Privātu arhīvu akreditē uz pieciem gadiem, ja tas atbilst visiem šādiem nosacījumiem:\n1) ir dibinātāja apstiprināts arhīva nolikums vai statūti;\n2) ir nodrošināta šā likuma 4.panta septītajā daļā minētajiem Ministru kabineta noteikumiem atbilstoša dokumentu saglabāšanai nepieciešamā vide, telpas un drošības sistēmas;\n3) ir nodrošināta dokumentu uzskaite un aprakstīšana likumā noteiktajā kārtībā;\n4) ir nodrošināta privātā arhīvā glabāto publisko dokumentu pieejamība;\n5) (izslēgts ar 10.03.2016 . likumu) .\n(2) Akreditāciju veic un akreditācijas dokumentus izsniedz Latvijas Nacionālais arhīvs.\n(2 1 ) Latvijas Nacionālais arhīvs anulē privāta arhīva akreditāciju pirms akreditācijas termiņa beigām, ja privāts arhīvs neatbilst šajā likumā norādītajiem akreditācijas nosacījumiem.\n(3) Ministru kabinets nosaka privātu arhīvu akreditācijas kārtību."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "section": "26",
+      "title": "Arhīvu speciālistu sertifikācija",
+      "content": "(Izslēgts ar 10.03.2016 . likumu, kas stājas spēkā 05.04.2016. )"
+    },
+    {
+      "provision_ref": "Art. 27",
+      "section": "27",
+      "title": "Atbildība par šā likuma pārkāpšanu",
+      "content": "(Izslēgts no 01.07.2020. ar 03.10.2019 . likumu, kas stājas spēkā 01.11.2019. Sk. pārejas noteikumu 13. punktu)"
+    },
+    {
+      "provision_ref": "Art. 28",
+      "section": "28",
+      "title": "Administratīvie pārkāpumi dokumentu un arhīvu pārvaldībā un arhīvos glabāto dokumentu izmantošanā",
+      "content": "(1) Par dokumentu un arhīvu pārvaldības kārtības pārkāpšanu fiziskajai personai, valdes loceklim vai amatpersonai piemēro brīdinājumu vai naudas sodu no četrpadsmit līdz astoņdesmit sešām naudas soda vienībām, bet juridiskajai personai — brīdinājumu vai naudas sodu no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.\n(2) Par arhīva dokumentu izmantošanas kārtības pārkāpšanu Latvijas Nacionālā arhīva, institūcijas arhīva vai akreditēta privāta arhīva telpās (lasītavā), veicot tādas darbības, kuras bojā vai var bojāt dokumentu fizisko stāvokli vai rada arhīva uzziņu sistēmas elementu zudumus, vai par arhīva dokumentu vai arhīva uzziņu sistēmas elementu iznešanu no minēto arhīvu telpām (lasītavas) fiziskajai personai piemēro brīdinājumu vai naudas sodu no divām līdz simt naudas soda vienībām, nosakot aizliegumu izmantot dokumentus attiecīgā arhīva telpās (lasītavā) no viena mēneša līdz vienam gadam vai to nenosakot."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "section": "29",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 28. pantā minētajiem pārkāpumiem veic Latvijas Nacionālais arhīvs."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums “ Par arhīviem ” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1991, 21.nr.; 1993, 33.nr.; 2001, 1.nr.; 2005, 14.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums “ Par arhīviem ” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1991, 21.nr.; 1993, 33.nr.; 2001, 1.nr.; 2005, 14.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2010.gada 31.decembrim nodrošina valsts arhīvu sistēmas atbilstību šā likuma prasībām.",
+      "content": "2. Ministru kabinets līdz 2010.gada 31.decembrim nodrošina valsts arhīvu sistēmas atbilstību šā likuma prasībām."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Nodrošinot valsts arhīvu sistēmas atbilstību šā likuma prasībām, tiek saglabāta valsts arhīvu fonda nedalāmība, izvietojums, kā arī valsts arhīvu fonda dokumentu un lietu uzskaites un identifikācijas sistēma.",
+      "content": "3. Nodrošinot valsts arhīvu sistēmas atbilstību šā likuma prasībām, tiek saglabāta valsts arhīvu fonda nedalāmība, izvietojums, kā arī valsts arhīvu fonda dokumentu un lietu uzskaites un identifikācijas sistēma."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Valsts arhīvu fonds, kas izveidots līdz šā likuma pieņemšanai saskaņā ar likumu “ Par arhīviem ”, ir neatņemama nacionālā dokumentārā mantojuma sastāvdaļa un pieskaitāms pie šā likuma 14.panta pirmās daļas 1.punktā noteiktajiem Latvijas Nacionālajā arhīvā uzkrātajiem dokumentiem. Valsts arhīvu fonds kā vienots dokumentu kopums nav dalāms un nav atsavināms.",
+      "content": "4. Valsts arhīvu fonds, kas izveidots līdz šā likuma pieņemšanai saskaņā ar likumu “ Par arhīviem ”, ir neatņemama nacionālā dokumentārā mantojuma sastāvdaļa un pieskaitāms pie šā likuma 14.panta pirmās daļas 1.punktā noteiktajiem Latvijas Nacionālajā arhīvā uzkrātajiem dokumentiem. Valsts arhīvu fonds kā vienots dokumentu kopums nav dalāms un nav atsavināms."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Latvijas Nacionālais arhīvs darbu sāk 2011.gada 1.janvārī. Latvijas Nacionālais arhīvs ir valsts arhīvu sistēmas iestāžu saistību un mantas pārņēmējs.",
+      "content": "5. Latvijas Nacionālais arhīvs darbu sāk 2011.gada 1.janvārī. Latvijas Nacionālais arhīvs ir valsts arhīvu sistēmas iestāžu saistību un mantas pārņēmējs."
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Līdz Latvijas Nacionālā arhīva darbības uzsākšanai Valsts arhīvu ģenerāldirekcija, Latvijas Valsts vēstures arhīvs, Latvijas Valsts arhīvs, Latvijas Valsts kinofotofonodokumentu arhīvs, Personāla dokumentu valsts arhīvs, kā arī citas valsts arhīvu sistēmas iestādes, kas izveidotas saskaņā ar likumu “ Par arhīviem ”, turpina veikt attiecīgās valsts arhīvu sistēmas iestādes nolikumā noteiktās funkcijas.",
+      "content": "6. Līdz Latvijas Nacionālā arhīva darbības uzsākšanai Valsts arhīvu ģenerāldirekcija, Latvijas Valsts vēstures arhīvs, Latvijas Valsts arhīvs, Latvijas Valsts kinofotofonodokumentu arhīvs, Personāla dokumentu valsts arhīvs, kā arī citas valsts arhīvu sistēmas iestādes, kas izveidotas saskaņā ar likumu “ Par arhīviem ”, turpina veikt attiecīgās valsts arhīvu sistēmas iestādes nolikumā noteiktās funkcijas."
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Ministru kabinets līdz 2010.gada 30.septembrim izdod šajā likumā minētos Ministru kabineta noteikumus.",
+      "content": "7. Ministru kabinets līdz 2010.gada 30.septembrim izdod šajā likumā minētos Ministru kabineta noteikumus."
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Ministru kabinets izstrādā nepieciešamos grozījumus spēkā esošajos likumos, lai saskaņotu šā likuma normas ar citu likumu normām, un attiecīgos likumprojektus iesniedz Saeimai līdz 2010.gada 30.augustam.",
+      "content": "8. Ministru kabinets izstrādā nepieciešamos grozījumus spēkā esošajos likumos, lai saskaņotu šā likuma normas ar citu likumu normām, un attiecīgos likumprojektus iesniedz Saeimai līdz 2010.gada 30.augustam."
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Šā likuma 21.panta trešā daļa stājas spēkā 2013.gada 1.janvārī.",
+      "content": "9. Šā likuma 21.panta trešā daļa stājas spēkā 2013.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. (Izslēgts ar 10.03.2016 . likumu, kas stājas spēkā 05.04.2016. )",
+      "content": "10. (Izslēgts ar 10.03.2016 . likumu, kas stājas spēkā 05.04.2016. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "section": "pn11",
+      "title": "11. Šā likuma 17. 1 panta piektā daļa ir spēkā līdz 2020.gada 31.decembrim.",
+      "content": "( 10.03.2016 . likuma redakcijā, kas stājas spēkā 05.04.2016. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "section": "pn12",
+      "title": "12. Ministru kabinets izdod šā likuma 4. panta ceturtajā daļā un 8. panta otrās daļas otrajā teikumā minētos Ministru kabineta noteikumus līdz 2018. gada 30. aprīlim.",
+      "content": "( 09.11.2017 . likuma redakcijā, kas stājas spēkā 06.12.2017. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "section": "pn13",
+      "title": "13. Šā likuma 12. panta septītās daļas jaunā redakcija, 27. panta izslēgšana un likuma papildināšana ar 28. un 29. pantu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 03.10.2019 . likuma redakcijā, kas stājas spēkā 01.11.2019. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "section": "pn14",
+      "title": "14. Ministru kabinets līdz 2021. gada 30. septembrim izdod šā likuma 13. 1 un 17. 1 panta trešajā daļā minētos noteikumus.",
+      "content": "( 25.03.2021 . likuma redakcijā, kas stājas spēkā 01.05.2021. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "section": "pn15",
+      "title": "15. Ministru kabinets līdz 2021. gada 30. septembrim izdara grozījumus Ministru kabineta noteikumos atbilstoši šā likuma grozījumiem, kas stājas spēkā 2021. gada 1. maijā.",
+      "content": "( 25.03.2021 . likuma redakcijā, kas stājas spēkā 01.05.2021. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aprakstīšana",
+      "definition": "apraksta vienības (vai tās sastāvdaļu) satura atklāsts, veicot arhīva dokumentu analīzi vai salīdzināšanu, lai fiksētu to identificēšanai un konteksta izskaidrošanai nepieciešamo informāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "arhīva dokuments",
+      "definition": "dokuments, kas pastāvīgi vai uz laiku glabājams arhīvā tā arhīviskās vērtības dēļ",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "arhīviskā vērtība",
+      "definition": "dokumenta informatīvais nozīmīgums vai šā dokumenta pierādījuma vērtība, ko izvērtē šajā likumā noteiktajā kārtībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "depozitārā glabāšana",
+      "definition": "privātpersonu vai institūciju dokumentu ar arhīvisko vērtību terminēta glabāšana Latvijas Nacionālajā arhīvā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumenta iznīcināšana",
+      "definition": "neatgriezeniska informācijas vai tās nesēja likvidēšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumenta izvērtēšana",
+      "definition": "dokumentu kopuma vai dokumenta analīze, kas veicama, ievērojot šā likuma prasības, lai noteiktu, vai dokumentam ir arhīviskā vērtība, un dokumenta glabāšanas termiņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokuments",
+      "definition": "informācija, kas radusies, saņemta vai pārvērsta citā formā uz jebkura informācijas nesēja, ierosinot, turpinot, mainot vai izbeidzot kādu darbību, un kas apliecina šo darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumentu izmantošana",
+      "definition": "dokumentos ietvertās informācijas meklēšana, izpēte un lietošana zinātniskiem, tautsaimnieciskiem, sociāliem, tiesiskiem un citiem mērķiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumentu pārvaldība",
+      "definition": "vadības joma, kas nodrošina publisku dokumentu radīšanu, saņemšanu, reģistrēšanu, klasifikāciju, sistematizāciju, izvērtēšanu, kontroli, glabāšanu un pieejamību līdz nodošanai glabāšanā institūcijas arhīvā, kā arī to dokumentu iznīcināšanu, kuriem nav arhīviskās vērtības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumentu pieejamība",
+      "definition": "normatīvajos aktos noteiktas tiesības, kā arī uzziņu sistēmas nodrošinātas iespējas un līdzekļi informācijas meklēšanai, ieguvei un izmantošanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumentu saglabāšana",
+      "definition": "procesi un darbības dokumentu tehniskai un intelektuālai saglabāšanai, tai skaitā preventīvā aizsardzība, konservācija un pārnešana uz jauna informācijas nesēja",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dokumentu uzkrāšana",
+      "definition": "mērķtiecīga arhīva dokumentu kopuma papildināšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iegūts dokuments",
+      "definition": "šajā likumā noteiktajā kārtībā elektroniskā formā pārvērsts dokuments glabāšanai elektroniskā vidē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "institūcija",
+      "definition": "ikviena institūcija vai privātpersona, kurai ar ārēju normatīvo aktu vai publisko tiesību līgumu noteiktas valsts varas pilnvaras (tai skaitā Valsts prezidents, Saeima, Ministru kabinets, Valsts kontrole, tiesībsargs, Latvijas Banka, pašvaldība un cita atvasināta publisko tiesību juridiskā persona, tiešās vai pastarpinātās pārvaldes iestāde, Centrālā zemes komisija, Centrālā vēlēšanu komisija, prokuratūra, tiesa, notārs, tiesu izpildītājs), kapitālsabiedrība, kurā publiskai personai pieder kapitāla daļas vai akcijas, vienas vai vairāku publisku personu kapitālsabiedrības izšķirošajā ietekmē esoša kapitālsabiedrība, kā arī biedrība vai nodibinājums, kurā publiska persona ir biedrs vai dibinātājs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izmantošanas kopija",
+      "definition": "dokumenta kopija, kuru izveido, lai arhīva lietotāji varētu to izmantot un tādējādi tiktu aizsargāts dokumenta oriģināla fiziskais stāvoklis",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodrošinājuma kopija",
+      "definition": "dokumenta kopija, kuru izveido, lai dokumentu oriģināla zuduma vai bojājumu gadījumā saglabātu dokumentā iekļauto informāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pastāvīgi glabājams dokuments",
+      "definition": "dokuments, kas saskaņā ar likumu glabājams mūžīgi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "privātais dokuments",
+      "definition": "privātpersonas darbības rezultātā radīts vai saņemts dokuments",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "publiskais dokuments",
+      "definition": "institūcijas darbības rezultātā radīts vai saņemts dokuments",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uz laiku glabājams dokuments",
+      "definition": "dokuments, kuram noteikts īslaicīgs (līdz 10 gadiem) vai ilgstošs (ilgāks par 10 gadiem) glabāšanas termiņš",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uzziņu sistēma",
+      "definition": "meklēšanas līdzekļu un sistēmu savstarpēji saistīts kopums, kas pamatojas uz vienotām klasifikācijas un aprakstīšanas metodēm un satur datus par arhīvu, tā dokumentu sastāvu, saturu, kā arī nodrošina informācijas meklēšanu.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

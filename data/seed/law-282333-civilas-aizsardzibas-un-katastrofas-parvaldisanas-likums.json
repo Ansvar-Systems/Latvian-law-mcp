@@ -1,0 +1,353 @@
+{
+  "id": "lv-law-282333",
+  "type": "statute",
+  "title": "Civilās aizsardzības un katastrofas pārvaldīšanas likums",
+  "title_en": "Civil Protection And Disaster Management Law",
+  "short_name": "TA-282333",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/282333-civilas-aizsardzibas-un-katastrofas-parvaldisanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) civilā aizsardzība — tādu organizatorisku, inženiertehnisku, ekonomisku, finansiālu, sociālu, izglītojošu un zinātnisku pasākumu kopums, kurus īsteno valsts un pašvaldību institūcijas un sabiedrība, lai nodrošinātu cilvēku, vides un īpašuma drošību, kā arī īstenotu atbilstošu rīcību katastrofas un katastrofas draudu gadījumā;\n2) katastrofa — notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus;\n3) katastrofas draudi — situācija, kad risku novērtējums, prognozes, informācija vai citi apstākļi pamatoti liecina par katastrofas iespējamību;\n4) katastrofas pārvaldīšana — tādu vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi;\n5) preventīvie pasākumi — tādu pasākumu kopums, kuri tiek veikti, lai novērstu vai mazinātu katastrofas draudus;\n6) gatavības pasākumi — tādu pasākumu kopums, kuri tiek veikti, lai sagatavotos katastrofas gadījumā nepieciešamajai rīcībai;\n7) agrīnā brīdināšana — mērķtiecīga un nekavējoties veicama cilvēku un atbildīgo institūciju informēšana par katastrofu vai katastrofas draudiem un nepieciešamo rīcību;\n8) valsts agrīnās brīdināšanas sistēma — autonomi funkcionējoša tehnoloģiska sistēma vai šādu sistēmu kopums, kas nodrošina agrīno brīdināšanu;\n9) reaģēšanas pasākumi — tādu pasākumu kopums, kuri tiek veikti, lai mazinātu vai likvidētu postošos apstākļus un to izraisītās sekas, novērstu vai mazinātu kaitējumu cilvēkiem, videi un īpašumam;\n10) glābšanas darbi — reaģēšanas pasākumu un seku likvidēšanas pasākumu kopumā ietilpstoši pasākumi, kurus plāno, vada un veic Valsts ugunsdzēsības un glābšanas dienests, izņemot glābšanas darbus jūrā un iekšējos ūdeņos no bāzes līnijas līdz jūras krasta līnijai, kurus plāno, vada un veic Nacionālie bruņotie spēki;\n11) seku likvidēšanas pasākumi — tādu pasākumu kopums, kuri tiek veikti, lai nodrošinātu vismaz minimālās iedzīvotāju pamatvajadzības, kas saistītas ar cilvēku izdzīvošanu, un apturētu vai mazinātu veselības, vides un īpašuma apdraudējumu;\n12) atjaunošanas pasākumi — tādu pasākumu kopums, kuri tiek veikti, lai pēc iespējas savlaicīgi un samērīgi palīdzētu cietušajiem cilvēkiem un pēc iespējas atjaunotu vidi un īpašumu tādā stāvoklī, kāds tas bija pirms katastrofas;\n13) starptautiskā palīdzība — tādu pasākumu kopums, kuri, piemērojot šo likumu, tiek veikti, lai reaģētu uz katastrofu un likvidētu katastrofas sekas;\n14) pamatvajadzības — uzturs, mājoklis, veselības aprūpe, medicīniskā palīdzība, elektroapgāde, ūdensapgāde, siltumapgāde, atkritumu un notekūdeņu savākšana, sakaru nodrošinājums;\n15) koordinēšana — valsts un pašvaldību institūciju rīcības saskaņošana, veicot preventīvos, gatavības, reaģēšanas, seku likvidēšanas pasākumus, kā arī atjaunošanas pasākumus;\n16) patvertne — būve vai tās daļa, kas paredzēta cilvēku aizsardzībai no bīstamiem faktoriem, kas rodas katastrofas, militāra iebrukuma vai kara gadījumā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir noteikt civilās aizsardzības sistēmas un katastrofas pārvaldīšanas subjektu kompetenci, lai pēc iespējas pilnīgāk nodrošinātu cilvēku, vides un īpašuma drošību un aizsardzību katastrofas vai katastrofas draudu gadījumā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Civilās aizsardzības sistēma un tās uzdevumi",
+      "content": "(1) Civilās aizsardzības sistēma ir nacionālās drošības sistēmas sastāvdaļa, kuru veido valsts un pašvaldību institūcijas, juridiskās un fiziskās personas, kam ir likumā noteiktas tiesības, uzdevumi un atbildība civilās aizsardzības jomā.\n(2) Civilās aizsardzības sistēmas organizācijas pamatā ir teritoriju sadarbības princips, un civilās aizsardzības sistēmas struktūras teritoriālās pamatvienības ir novadi un republikas pilsētas.\n(3) Civilās aizsardzības sistēmas uzdevumi ir šādi:\n1) nodrošināt cilvēku, vides un īpašuma drošību;\n2) pēc iespējas nodrošināt sabiedrībai minimāli nepieciešamās pamatvajadzības katastrofas vai katastrofas draudu gadījumā;\n3) savlaicīgi prognozēt katastrofas draudus;\n4) plānot un savlaicīgi veikt preventīvos pasākumus;\n5) sniegt palīdzību katastrofā cietušajiem un mazināt kaitējumu, ko katastrofa radījusi vai var radīt cilvēkiem, videi un īpašumam;\n6) plānot un veikt atjaunošanas pasākumus;\n7) normatīvajos aktos noteiktajā kārtībā sniegt un saņemt starptautisko palīdzību;\n8) atbalstīt valsts aizsardzības sistēmu, ja noticis militārs iebrukums vai sācies karš."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Katastrofa, riska novērtēšana un katastrofas pārvaldīšana",
+      "section": "4",
+      "title": "Katastrofu veidi un mērogi",
+      "content": "(1) Atbilstoši katastrofas cēloņiem izšķir:\n1) dabas katastrofas:\na) ģeofiziskās — zemestrīces, zemes nogruvumi,\nb) hidroloģiskās — pali, plūdi, ledus sastrēgumi,\nc) meteoroloģiskās — lietusgāzes, krusa, sniega sanesumi, vētras, viesuļi,\nd) klimatoloģiskās — stiprs sals vai karstums, apledojums, sausums, mežu un kūdras purvu ugunsgrēki,\ne) bioloģiskās — epidēmijas, epizootijas, epifitotijas,\nf) kosmiskās — meteorītu nokrišana, ģeomagnētiskās vētras;\n2) cilvēku izraisītās jeb antropogēnās katastrofas:\na) tehnogēnās katastrofas, kuras rodas ķīmisko, radioaktīvo un bioloģisko vielu noplūdes, ēkās un būvēs izcēlušos ugunsgrēku, sprādzienu, dambju un citu hidrotehnisko būvju pārrāvumu, elektrotīklu bojājumu, komunālo tīklu avāriju, ēku un būvju sabrukuma vai transporta avāriju rezultātā,\nb) sabiedriskās nekārtības, terora akti un iekšējie nemieri.\n(2) Atbilstoši radīto postījumu apjomam izšķir:\n1) vietēja mēroga katastrofas — katastrofas radīto postījumu apjoms nepārsniedz vienas pašvaldības administratīvās teritorijas robežas;\n2) reģionāla mēroga katastrofas — katastrofas radīto postījumu apjoms pārsniedz vienas pašvaldības administratīvās teritorijas robežas;\n3) valsts mēroga katastrofas — katastrofas radītie postījumi ietekmē visu valsts teritoriju vai nozīmīgu tās daļu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Katastrofa, riska novērtēšana un katastrofas pārvaldīšana",
+      "section": "5",
+      "title": "Riska novērtēšana",
+      "content": "(1) Riska novērtēšana ir process, kas ietver riska identificēšanu, riska analīzi un riska izvērtēšanu.\n(2) Riska identificēšana ir riska atklāšanas, pazīšanas un aprakstīšanas process.\n(3) Riska analīze ir process, kas tiek veikts, lai saprastu riska būtību un noteiktu tā līmeni.\n(4) Riska izvērtēšana ir process, kurā riska analīzes rezultāti tiek salīdzināti ar riska kritērijiem, lai noteiktu, vai risks un tā līmenis ir pieņemams vai apmierinošs.\n(5) Riska kritēriji ir atskaites punkti, kas tiek izmantoti, lai novērtētu riska iespējamību un sekas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Katastrofa, riska novērtēšana un katastrofas pārvaldīšana",
+      "section": "6",
+      "title": "Katastrofas pārvaldīšana",
+      "content": "(1) Katastrofas pārvaldīšanu koordinē:\n1) Aizsardzības ministrija — katastrofas jūrā saskaņā ar Jūrlietu pārvaldes un jūras drošības likumā noteikto, kā arī savā īpašumā vai valdījumā esošajās militārajās ēkās un inženierbūvēs uz sauszemes;\n2) Ārlietu ministrija — katastrofas Latvijas Republikas pārstāvniecību un vēstniecību ēkās un inženierbūvēs ārvalstīs;\n3) Klimata un enerģētikas ministrija — katastrofas, kuras saistītas ar enerģijas ražošanas vai enerģijas un energoresursu transportēšanas infrastruktūru (gāzes noplūde maģistrālajos gāzes vados, avārija gāzes un degvielas apgādes sistēmās, enerģijas ražošanas iekārtu, hidroelektrostaciju hidrotehnisko būvju infrastruktūras avārija, elektrotīklu bojājumi), kā arī katastrofas, kuras saistītas ar bīstamu ķīmisko vielu un maisījumu noplūdi, izņemot noplūdi jūrā un iekšējos ūdeņos no bāzes līnijas līdz jūras krasta līnijai, tostarp gadījumos, kad piesārņots jūras krasts, ar radiācijas avāriju, kā arī ar vētrām, viesuļiem, lietusgāzēm, paliem, plūdiem, krusu, stipru salu, apledojumu, sniega sanesumiem, ledus sastrēgumiem vai lielu karstumu;\n4) Iekšlietu ministrija — katastrofas, kuras saistītas ar ugunsgrēku, zemestrīci, zemes nogruvumu, terora aktu, sabiedriskajām nekārtībām, iekšējiem nemieriem vai transporta avāriju iekšējos ūdeņos līdz jūras krasta līnijai;\n5) (izslēgts ar 05.06.2025 . likumu) ;\n6) Satiksmes ministrija — katastrofas, kuras saistītas ar dzelzceļa, autotransporta vai aviācijas transporta un attiecīgo inženierbūvju avāriju vai negadījumu, naftas un naftas produktu tranzīta cauruļvadu avāriju vai negadījumu, kā arī ar avārijām vai negadījumiem ostu un jūras hidrotehniskajās inženierbūvēs;\n7) Veselības ministrija — katastrofas, kuras saistītas ar cilvēku infekcijas slimību epidēmijām;\n8) Zemkopības ministrija — katastrofas, kuras saistītas ar mežu un kūdras purvu ugunsgrēkiem, sausumu, polderu, hidrotehnisko inženierbūvju, izņemot hidroelektrostacijas, ostu un jūras hidrotehnisko inženierbūvju avāriju; epizootijas un epifitotijas, kuras saistītas ar dzīvnieku masveida saslimšanu vai dzīvniekiem bīstamu infekcijas slimību uzliesmojumiem un augiem kaitīgu organismu savairošanos;\n9) pašvaldības — katastrofas pašvaldības administratīvajā teritorijā, kuras saistītas ar ēku un būvju sabrukšanu, avāriju siltumapgādes, ūdensapgādes, notekūdeņu vai kanalizācijas sistēmā.\n(2) Šā panta pirmajā daļā minētā ministrija, iesaistot tās padotībā esošās institūcijas, vai pašvaldība (turpmāk — katastrofas pārvaldīšanas subjekts) sadarbībā ar citām ministrijām, valsts un pašvaldību institūcijām veic šādus katastrofas pārvaldīšanas koordinēšanas uzdevumus:\n1) novērtē risku;\n2) pamatojoties uz risku novērtējumu, nosaka preventīvos, gatavības, reaģēšanas un seku likvidēšanas pasākumus, izstrādā attiecīgās jomas attīstības plānošanas dokumentus, tiesību aktus un citus dokumentus;\n3) pamatojoties uz risku novērtējumu, apzina un plāno resursus katastrofas pārvaldīšanai.\n(3) Reaģēšanas un seku likvidēšanas darbu vadītājs atkarībā no katastrofas veida tiek noteikts valsts civilās aizsardzības plānā vai sadarbības teritoriju civilās aizsardzības plānos.\n(4) Reaģēšanas un seku likvidēšanas darbu vadītājam ir tiesības reaģēšanas un seku likvidēšanas pasākumos iesaistīt valsts un pašvaldību institūcijas, juridiskās un fiziskās personas, kā arī to rīcībā esošos resursus.\n(5) Katastrofas pārvaldīšanas subjekts pēc katastrofas sadarbībā ar citām ministrijām, valsts un pašvaldību institūcijām prioritāšu secībā nosaka un veic atjaunošanas pasākumus.\n(6) Ministrijas, valsts un pašvaldību institūcijas sniedz katastrofas pārvaldīšanas subjektam katastrofas pārvaldīšanas koordinēšanas uzdevumu izpildei nepieciešamo atbalstu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Katastrofa, riska novērtēšana un katastrofas pārvaldīšana",
+      "section": "7",
+      "title": "Evakuācija",
+      "content": "(1) Evakuācija ir patstāvīga pārvietošanās norādītajā drošajā virzienā vai pārvietošana uz drošu vietu pirms katastrofas vai katastrofas laikā no teritorijas vai telpas, kur izveidojušies apstākļi rada apdraudējumu cilvēku dzīvībai un veselībai.\n(2) Lēmumu par iedzīvotāju evakuāciju pieņem katastrofu pārvaldīšanas subjekts, reaģēšanas un seku likvidēšanas darbu vadītājs vai objekta īpašnieks vai tiesiskais valdītājs, pamatojoties uz:\n1) informāciju par katastrofas draudiem;\n2) informāciju par katastrofas sekām, kuras var radīt apdraudējumu cilvēka dzīvībai un veselībai."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "II nodaļa Katastrofa, riska novērtēšana un katastrofas pārvaldīšana",
+      "section": "7.1",
+      "title": "7. 1 pants. Patvertnes",
+      "content": "(1) Patvertnes iedala šādās kategorijās:\n1) I kategorija — patvertnes aizsardzībai no sprādziena triecienviļņa, ķīmisko kaujas vielu, jonizējošā starojuma un radioaktīvo putekļu iedarbības, šķembām;\n2) II kategorija — patvertnes aizsardzībai no sprādziena triecienviļņa un šķembām;\n3) III kategorija — patvertnes, kas izveidotas, pielāgojot būves vai to daļas, un mazina ietekmi no sprādziena triecienviļņa, šķembām.\n(2) I kategorijas patvertni izbūvē, veicot tādu jaunu A un B kategorijas kritiskās infrastruktūras objektu būvniecību, kuros ikdienā paredzēts pastāvīgi uzturēties personālam.\n(3) Patvertni, kura atbilst vismaz II kategorijai, izbūvē, veicot šāda jauna objekta būvniecību:\n1) daudzdzīvokļu māja ar vairāk nekā pieciem virszemes stāviem;\n2) publiskā ēka:\na) pirmsskolas izglītības iestāde, pamatizglītības iestāde, vidējās izglītības iestāde, profesionālās izglītības iestāde, augstskola,\nb) stacionārā ārstniecības iestāde,\nc) cita publiskā ēka, kuras kopējā platība ir vismaz 2500 kvadrātmetru.\n(4) Tāda objekta īpašnieks vai valdītājs, uz kuru neattiecas šā panta otrā un trešā daļa, ir tiesīgs izveidot III kategorijas patvertni atbilstoši Valsts ugunsdzēsības un glābšanas dienesta izstrādātajām vadlīnijām par minimālajām prasībām telpu pielāgošanai III kategorijas patvertnes izveidošanai vai augstākas kategorijas patvertni.\n(5) Patvertnes īpašnieks vai valdītājs nodrošina patvertnes uzturēšanu, lai katastrofas, tās draudu, militāra iebrukuma vai kara gadījumā cilvēki varētu iekļūt patvertnē un izmantot to.\n(6) Pašvaldības uztur informāciju par to administratīvajā teritorijā esošo patvertņu izvietojumu.\n(7) Pašvaldībai ir tiesības piedalīties patvertņu izbūvē, izveidē vai aprīkošanā, tai skaitā privātpersonām piederošās ēkās un telpās. Pašvaldības dome izdod saistošos noteikumus, kuros nosaka gadījumus, kad pašvaldība piešķir personām atbalstu patvertņu izbūvei, izveidei vai aprīkošanai, un kārtību, kādā tiek piešķirts šis atbalsts. Pašvaldība, piešķirot publiskos līdzekļus šajā daļā noteikto darbību veikšanai privātpersonas īpašumā esošajās ēkās un telpās, ievēro Komercdarbības atbalsta kontroles likuma regulējumu.\n(8) Pašvaldības domes pilnvarota pašvaldības institūcija, pamatojoties uz būvniecības ierosinātāja iesniegumu un izvērtējot patvertņu pieejamību, var pieņemt lēmumu par atbrīvojumu no šā likuma 7. 1 panta trešajā daļā noteiktā pienākuma izbūvēt patvertni, ja pastāv vismaz viens no šādiem apstākļiem:\n1) patvertnes būvniecības izmaksas pārsniegtu 50 procentus no kopējām ēkas būvniecības izmaksām;\n2) 300 metru rādiusā ap būvējamo objektu jau ir patvertnes, kas nodrošina patvērumu visiem attiecīgajā teritorijā deklarētajiem iedzīvotājiem, kā arī visiem tiem cilvēkiem, kuru uzturēšanās ikdienā plānota objektā.\n(9) Pašvaldības domes pilnvarota pašvaldības institūcija, pamatojoties uz būvniecības ierosinātāja iesniegumu un izvērtējot patvertņu pieejamību, var pieņemt lēmumu par atļauju būvēt divām vai vairākām ēkām kopīgu patvertni, ja tā neatradīsies tālāk par 300 metriem no katras attiecīgās ēkas.\n(10) Atjaunojot vai pārbūvējot būvi ar patvertni, kā arī mainot tās lietošanas veidu, patvertne tiek saglabāta."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Civilās aizsardzības sistēmas un katastrofas pārvaldīšanas subjektu pienākumi, uzdevumi un tiesības",
+      "section": "8",
+      "title": "Ministru prezidenta un Ministru kabineta uzdevumi",
+      "content": "(1) Ministru prezidents:\n1) uzrauga civilās aizsardzības sistēmas darbību un tās uzdevumu izpildi;\n2) lemj par pašvaldības ierosinājumu pārņemt vietēja mēroga katastrofas pārvaldīšanas koordinēšanu.\n(2) Ministru kabinets:\n1) lemj par finansējumu, kas valsts institūcijām nepieciešams tām noteikto uzdevumu izpildei civilās aizsardzības un katastrofas pārvaldīšanas jomā;\n2) nosaka civilās aizsardzības komisijas izveidošanas kārtību, uzdevumus, tiesības, darba organizāciju un civilās aizsardzības komisijā esošo pašvaldību sadarbības teritoriju;\n3) reglamentē paaugstinātas bīstamības objektu apzināšanas, noteikšanas, civilās aizsardzības un katastrofas pārvaldīšanas plānošanas un īstenošanas kārtību un apstiprina paaugstinātas bīstamības objektu sarakstu;\n4) nosaka kārtību, kādā valsts vai pašvaldības institūcija iesaista reaģēšanas un seku likvidēšanas pasākumos juridiskās vai fiziskās personas rīcībā esošos resursus;\n5) nosaka kārtību, kādā juridiskajai vai fiziskajai personai kompensējami izdevumi un zaudējumi, kas radušies, tās resursus iesaistot reaģēšanas un seku likvidēšanas pasākumos, kā arī kompensācijas apmēra aprēķināšanas kārtību;\n6) nosaka valsts civilās aizsardzības kontaktpunkta izveidošanas kārtību, uzdevumus un tiesības, kā arī kārtību, kādā tas sadarbojas ar Ārkārtējo situāciju reaģēšanas un koordinēšanas centru, Eiroatlantijas katastrofu reaģēšanas un koordinēšanas centru un citām starptautiskajām organizācijām un ārvalstīm;\n7) nosaka valsts agrīnās brīdināšanas sistēmas izveidošanas, darbības un finansēšanas kārtību;\n8) nosaka kārtību, kādā pielāgota būve vai tās daļa atzīstama par patvertni, un kārtību, kādā veic patvertņu pārbaudes;\n9) nosaka civilās aizsardzības zīmju sarakstu un izvietošanas prasības."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Civilās aizsardzības sistēmas un katastrofas pārvaldīšanas subjektu pienākumi, uzdevumi un tiesības",
+      "section": "9",
+      "title": "Ministriju, valsts institūciju un to vadītāju uzdevumi un tiesības",
+      "content": "(1) Ministrija nodrošina civilās aizsardzības uzdevumu izpildi, nozarei nepieciešamo tiesību aktu projektu izstrādi un katastrofas pārvaldīšanas koordinēšanu valsts, reģionālā un vietējā mērogā.\n(2) Iekšlietu ministrija koordinē civilās aizsardzības sistēmas attīstības plānošanu un darbību.\n(3) Civilās aizsardzības uzdevumu izpildi valsts institūcijā nodrošina un vada valsts institūcijas administratīvais vadītājs.\n(4) Valsts institūcijas vadītāja uzdevumi ir šādi:\n1) plānot un īstenot valsts institūcijas nepārtrauktas darbības nodrošināšanai katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību;\n2) izstrādāt, saskaņot ar Valsts ugunsdzēsības un glābšanas dienestu un apstiprināt valsts institūcijas īpašumā vai valdījumā esoša objekta vai paaugstinātas bīstamības objekta civilās aizsardzības plānu;\n3) nodrošināt valsts civilās aizsardzības plānā un sadarbības teritorijas civilās aizsardzības plānā valsts institūcijai noteikto pasākumu precīzu un savlaicīgu izpildi;\n4) nodrošināt valsts institūcijas nodarbināto un apmeklētāju drošību tās īpašumā vai valdījumā esošā objektā vai paaugstinātas bīstamības objektā;\n5) pēc katastrofas pārvaldīšanas subjekta pieprasījuma sniegt informāciju par valsts institūcijas rīcībā esošajiem resursiem, kas izmantojami katastrofas pārvaldīšanai.\n(5) Ministrija un valsts institūcija atbilstoši savai darbības jomai izstrādā un sniedz rekomendācijas valsts un pašvaldību institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem un tiesiskajiem valdītājiem, kā arī sniedz iedzīvotājiem ieteikumus par rīcību katastrofas vai katastrofas draudu gadījumā.\n(6) Ministrijai un valsts institūcijai šajā likumā noteiktās kompetences ietvaros ir tiesības pieprasīt un bez maksas saņemt no valsts un pašvaldību institūcijām, juridiskajām un fiziskajām personām civilajai aizsardzībai un katastrofas pārvaldīšanai nepieciešamo informāciju.\n(7) Ministrijai un valsts institūcijai ir tiesības rakstveidā slēgt pakalpojumu un sadarbības līgumus vai vienošanās civilās aizsardzības un katastrofas pārvaldīšanas jomā ar citām valsts vai pašvaldību institūcijām, juridiskajām un fiziskajām personām.\n(8) Ministrijai ir tiesības uzlikt tās padotībā esošai institūcijai pienākumu izstrādāt attiecīga objekta civilās aizsardzības plānu, kas saskaņojams ar Valsts ugunsdzēsības un glābšanas dienestu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Civilās aizsardzības sistēmas un katastrofas pārvaldīšanas subjektu pienākumi, uzdevumi un tiesības",
+      "section": "10",
+      "title": "Valsts ugunsdzēsības un glābšanas dienesta uzdevumi un tiesības",
+      "content": "(1) Valsts ugunsdzēsības un glābšanas dienesta uzdevumi ir šādi:\n1) vadīt, koordinēt un kontrolēt civilās aizsardzības sistēmas darbību;\n2) izskatīt un saskaņot objektu un paaugstinātas bīstamības objektu civilās aizsardzības plānu projektus;\n3) izveidot un uzturēt savā rīcībā esošo, kā arī juridisko un fizisko personu īpašumā vai valdījumā esošo ugunsdzēsības un glābšanas darbos izmantojamo resursu sarakstu;\n4) veikt civilās aizsardzības prasību ievērošanas pārbaudes;\n5) plānot un organizēt sadarbības teritoriju civilās aizsardzības komisiju apmācību;\n6) norīkot Valsts ugunsdzēsības un glābšanas dienesta amatpersonu darbam sadarbības teritorijas civilās aizsardzības komisijā. Šī amatpersona ir attiecīgās komisijas priekšsēdētāja vietnieks.\n(2) Valsts ugunsdzēsības un glābšanas dienestam ir tiesības:\n1) pieprasīt un bez maksas saņemt no valsts un pašvaldību institūcijām, juridiskajām un fiziskajām personām civilās aizsardzības sistēmas darbības kontrolei nepieciešamo informāciju;\n2) uzraudzīt civilo aizsardzību reglamentējošu normatīvo aktu prasību ievērošanu, sagatavot aktus par pārbaudēs konstatētajiem pārkāpumiem un trūkumiem, kā arī sniegt valsts un pašvaldību institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem vai tiesiskajiem valdītājiem rekomendācijas pārkāpumu un trūkumu novēršanai un civilās aizsardzības pasākumu pilnveidošanai;\n3) veicot glābšanas darbus, dot iesaistītajām institūcijām, kā arī juridiskajām un fiziskajām personām norādījumus par notikuma vietā nepieciešamo rīcību;\n4) iesaistīt glābšanas darbos valsts un pašvaldību institūcijas, juridiskās un fiziskās personas, kā arī to rīcībā esošos resursus."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Civilās aizsardzības sistēmas un katastrofas pārvaldīšanas subjektu pienākumi, uzdevumi un tiesības",
+      "section": "11",
+      "title": "Pašvaldības domes, tās priekšsēdētāja, pašvaldības institūcijas un tās vadītāja uzdevumi un tiesības",
+      "content": "(1) Pašvaldības domes uzdevumi ir šādi:\n1) nodrošināt pašvaldības institūcijas ar tām civilās aizsardzības un katastrofas pārvaldīšanas jomā noteikto uzdevumu izpildei nepieciešamo finansējumu;\n2) apstiprināt sadarbības teritorijas civilās aizsardzības komisijas nolikumu un sastāvu;\n3) apstiprināt sadarbības teritorijas civilās aizsardzības plānu;\n4) pēc katastrofas pārvaldīšanas subjekta pieprasījuma sniegt informāciju par pašvaldības domes un pašvaldības institūciju rīcībā esošajiem resursiem, kas izmantojami katastrofas pārvaldīšanai;\n5) nodrošināt iedzīvotāju evakuāciju no katastrofas apdraudētajām vai skartajām teritorijām, kā arī šo iedzīvotāju uzskaiti, pagaidu izmitināšanu, ēdināšanu un sociālo aprūpi;\n6) savu iespēju robežās nodrošināt katastrofas pārvaldīšanā iesaistītajām valsts un pašvaldības institūciju amatpersonām, juridiskajām un fiziskajām personām piemērotus darba un sadzīves apstākļus;\n7) piedalīties civilās aizsardzības mācībās un organizēt pašvaldības civilās aizsardzības mācības.\n(2) Pašvaldības domei ir tiesības:\n1) šajā likumā pašvaldībām noteiktās kompetences ietvaros pieprasīt un bez maksas saņemt no valsts un pašvaldības institūcijām, juridiskajām un fiziskajām personām civilajai aizsardzībai un katastrofas pārvaldīšanai nepieciešamo informāciju;\n2) ierosināt, lai Ministru prezidents pārņem vietēja mēroga katastrofas pārvaldīšanas koordinēšanu;\n3) vietēja mēroga katastrofas pārvaldīšanas koordinēšanā iesaistīt valsts un pašvaldības institūcijas, juridiskās un fiziskās personas, kā arī to rīcībā esošos resursus;\n4) katastrofas vai katastrofas draudu gadījumā ierobežot personu pulcēšanos un pārvietošanos attiecīgajā administratīvajā teritorijā vai tās daļā uz laiku līdz divām nedēļām, par ierobežojumiem un to atcelšanu informējot Ministru kabinetu un blakus esošās pašvaldības, kā arī publicējot attiecīgus paziņojumus plašsaziņas līdzekļos;\n5) uzlikt tās padotībā esošai institūcijai pienākumu izstrādāt attiecīga objekta civilās aizsardzības plānu, kas saskaņojams ar Valsts ugunsdzēsības un glābšanas dienestu;\n6) pēc katastrofas organizēt vides sakārtošanas pasākumus publiskajā ārtelpā, kā arī, pamatojoties uz personas iesniegumu, — fiziskajai personai piederošā nekustamajā īpašumā. Vides sakārtošanas pasākumi publiskajā ārtelpā vai fiziskajai personai piederošā nekustamajā īpašumā ir darbības, kas veicamas, lai novērstu cilvēku drošības un veselības apdraudējumu un atjaunotu publiskās ārtelpas pieejamību un sanitāro tīrību.\n(3) Pašvaldības domes priekšsēdētājs vada civilās aizsardzības uzdevumu izpildi pašvaldībā un nodrošina šā likuma 6.panta pirmās daļas 9.punktā minētās vietēja mēroga katastrofas pārvaldīšanas koordinēšanu.\n(4) Ja pašvaldības domes priekšsēdētājs ir iecelts par sadarbības teritorijas civilās aizsardzības komisijas priekšsēdētāju, viņš nodrošina, ka sadarbībā ar valsts un pašvaldību institūcijām, juridiskajām un fiziskajām personām:\n1) tiek izstrādāts, ar Valsts ugunsdzēsības un glābšanas dienestu saskaņots un katras pašvaldības domei apstiprināšanai iesniegts sadarbības teritorijas civilās aizsardzības komisijas nolikums;\n2) tiek noteikts un katras pašvaldības domei apstiprināšanai iesniegts sadarbības teritorijas civilās aizsardzības komisijas sastāvs;\n3) tiek izstrādāts un iesniegts apstiprināšanai katrā pašvaldības domē sadarbības teritorijas civilās aizsardzības plāna projekts.\n(5) Civilās aizsardzības uzdevumu izpildi pašvaldības institūcijā nodrošina un vada pašvaldības institūcijas vadītājs.\n(6) Pašvaldības institūcijas vadītāja uzdevumi ir šādi:\n1) plānot un īstenot pašvaldības institūcijas nepārtrauktas darbības nodrošināšanai katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību;\n2) izstrādāt, saskaņot ar Valsts ugunsdzēsības un glābšanas dienestu un apstiprināt pašvaldības institūcijas īpašumā vai valdījumā esoša paaugstinātas bīstamības objekta civilās aizsardzības plānu;\n3) nodrošināt sadarbības teritorijas civilās aizsardzības plānā pašvaldības institūcijai noteikto pasākumu izpildi;\n4) nodrošināt pašvaldības institūcijas nodarbināto un apmeklētāju drošību tās īpašumā vai valdījumā esošā objektā vai paaugstinātas bīstamības objektā;\n5) pēc pašvaldības domes pieprasījuma sniegt informāciju par pašvaldības institūcijas rīcībā esošajiem resursiem, kas izmantojami katastrofas pārvaldīšanai.\n(7) Pašvaldības dome un pašvaldības institūcijas atbilstoši savai darbības jomai izstrādā un sniedz rekomendācijas valsts un pašvaldības institūcijām, objektu un paaugstinātas bīstamības objektu īpašniekiem un tiesiskajiem valdītājiem, kā arī sniedz iedzīvotājiem ieteikumus par katastrofas vai katastrofas draudu gadījumā nepieciešamo rīcību.\n(7 1 ) Pašvaldības dome saistošajos noteikumos nosaka to personu kategorijas, kuru īpašumā pašvaldība organizē šā panta otrās daļas 6. punktā minētos vides sakārtošanas pasākumus, un kārtību, kādā pašvaldība izskata šo personu iesniegumus, kā arī kārtību, kādā pašvaldība pēc katastrofas organizē vides sakārtošanas pasākumus citai personai piederošā nekustamajā īpašumā.\n(8) Pašvaldības domei un pašvaldības institūcijām atbilstoši savai darbības jomai ir tiesības rakstveidā slēgt pakalpojumu un sadarbības līgumus vai vienošanās civilās aizsardzības un katastrofas pārvaldīšanas jomā ar citām valsts vai pašvaldības institūcijām, juridiskajām vai fiziskajām personām.\n(9) Ja sadarbības teritoriju veido vairākas pašvaldības, tad sadarbības teritorijas civilās aizsardzības komisijas priekšsēdētājs ir pēc iedzīvotāju skaita lielākās pašvaldības domes priekšsēdētājs vai arī tas pašvaldības domes priekšsēdētājs, kuru ar vienkāršu balsu vairākumu ir ievēlējuši pārējo pašvaldību domju priekšsēdētāji, bet viņa vietnieki ir pārējo pašvaldību domju priekšsēdētāji un šā likuma 10.panta pirmās daļas 6.punktā minētā Valsts ugunsdzēsības un glābšanas dienesta amatpersona.\n(10) Sadarbības teritorijas civilās aizsardzības plānu apstiprina katra pašvaldības dome atsevišķi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Civilās aizsardzības sistēmas un katastrofas pārvaldīšanas subjektu pienākumi, uzdevumi un tiesības",
+      "section": "12",
+      "title": "Juridisko un fizisko personu pienākumi un tiesības",
+      "content": "(1) Juridisko un fizisko personu pienākumi civilās aizsardzības jomā ir šādi:\n1) atbilstoši šim likumam un citiem normatīvajiem aktiem nodrošināt savā īpašumā vai tiesiskajā valdījumā esoša īpašuma uzturēšanu un ekspluatēšanu tā, lai neradītu kaitējumu cilvēku, vides un īpašuma drošībai;\n2) nekavējoties ziņot attiecīgajām valsts vai pašvaldību institūcijām par katastrofu vai katastrofas draudiem;\n3) katastrofas vai katastrofas draudu gadījumā rīkoties saskaņā ar atbildīgo valsts vai pašvaldību institūciju sniegto informāciju un šo institūciju amatpersonu norādījumiem;\n4) nodrošināt valsts civilās aizsardzības plānā un sadarbības teritoriju civilās aizsardzības plānos juridiskajai personai noteikto pasākumu precīzu un savlaicīgu izpildi.\n(1 1 ) Elektronisko sakaru komersants, kas sniedz balss sakaru pakalpojumus publisko mobilo elektronisko sakaru tīklā, nodrošina savu elektronisko sakaru tīklu savietojamību un sadarbspēju ar valsts agrīnās brīdināšanas sistēmu, lai īstenotu iedzīvotāju un atbildīgo institūciju agrīno brīdināšanu, izmantojot šūnu apraides tehnoloģiju. Elektronisko sakaru komersants, kas sniedz balss sakaru pakalpojumus publisko mobilo elektronisko sakaru tīklā, iedzīvotāju agrīnās brīdināšanas paziņojumu, izmantojot šūnu apraides tehnoloģiju, pārraida bez maksas.\n(2) Juridisko un fizisko personu tiesības civilās aizsardzības jomā ir šādas:\n1) saņemt agrīno brīdināšanu un ieteikumus rīcībai katastrofas vai katastrofas draudu gadījumā;\n2) katastrofas vai katastrofas draudu gadījumā saņemt palīdzību no valsts un pašvaldību institūcijām."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Objekti un paaugstinātas bīstamības objekti",
+      "section": "13",
+      "title": "Objekts, tā īpašnieka vai tiesiskā valdītāja pienākumi un tiesības",
+      "content": "(1) Objekts ir ēka vai inženierbūve vai ēkas vai inženierbūves daļa, kas saistīta ar noteiktu zemesgabalu.\n(2) Objekta īpašnieks vai tiesiskais valdītājs ir atbildīgs un nodrošina:\n1) objekta drošumu, kā arī uzturēšanu un ekspluatēšanu atbilstoši normatīvo aktu prasībām un tā, lai neradītu draudus cilvēku, vides un īpašuma drošībai;\n2) to, lai objektā varētu veikt civilās aizsardzības prasību ievērošanas pārbaudi.\n(3) Objekta īpašnieks vai tiesiskais valdītājs ir atbildīgs un apdraudējuma gadījumā nodrošina:\n1) savlaicīgu agrīno brīdināšanu un cilvēku informēšanu par nepieciešamo rīcību un evakuēšanu no objekta;\n2) nekavējošu attiecīgo valsts vai pašvaldības institūciju informēšanu par apdraudējumu un veiktajiem pasākumiem tā novēršanai;\n3) īpašuma evakuēšanu no objekta, ja tā ir iespējama un nerada draudus cilvēku dzīvībai un veselībai;\n4) visa nepieciešamā atbalsta sniegšanu pēc attiecīgo valsts vai pašvaldības institūciju amatpersonu pieprasījuma.\n(4) Objekta īpašnieks vai tiesiskais valdītājs, lai izpildītu šā panta otrās un trešās daļas prasības, nodrošina:\n1) objekta plānojuma shēmas izstrādāšanu, tajā norādot ēku, telpu un inženierbūvju izvietojumu, elektroapgādes, ūdensapgādes, gāzes vai degvielas apgādes atslēguma punktus, bīstamo iekārtu atrašanās vietas;\n2) objekta iekšējo reglamentējošo dokumentu izstrādāšanu;\n3) objektā nodarbināto iepazīstināšanu ar iekšējiem reglamentējošajiem dokumentiem, objekta plānojuma shēmu, kā arī to kopiju uzglabāšanu objektā un iekšējos reglamentējošajos dokumentos noteikto prasību ievērošanas kontroli.\n(5) Objekta īpašnieks vai tiesiskais valdītājs, nododot objektu lietošanā vai pārvaldīšanā valsts vai pašvaldības institūcijai, juridiskajai vai fiziskajai personai, ir tiesīgs rakstveidā vienoties par tam noteiktās civilās aizsardzības un katastrofas pārvaldīšanas kompetences nodošanu attiecīgās valsts vai pašvaldības institūcijas administratīvajam vadītājam vai attiecīgajai juridiskajai vai fiziskajai personai, ievērojot citas jomas regulējošu normatīvo aktu prasības.\n(6) Objekta īpašnieks vai tiesiskais valdītājs izstrādā, saskaņo ar Valsts ugunsdzēsības un glābšanas dienestu un apstiprina objekta civilās aizsardzības plānu, ja objekts ir iekļauts kritiskās infrastruktūras kopumā un tajā var atrasties vairāk par 100 cilvēkiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Objekti un paaugstinātas bīstamības objekti",
+      "section": "14",
+      "title": "Paaugstinātas bīstamības objekts, tā īpašnieka vai tiesiskā valdītāja pienākumi un tiesības",
+      "content": "(1) Paaugstinātas bīstamības objekts ir ēkas vai inženierbūves, kuras tiek izmantotas saimnieciskā vai citā veidā, kas saistīts ar enerģijas ražošanu un uzkrāšanu, elektromagnētisko starojumu, ugunsnedrošu, sprādzienbīstamu, bīstamu ķīmisku vielu un maisījumu, bīstamo atkritumu, augu karantīnas organismu, bioloģiski aktīvu un radioaktīvu vielu, kodolmateriālu un to atkritumu pārstrādi, apstrādi, ražošanu, lietošanu, uzglabāšanu un transportēšanu.\n(2) Paaugstinātas bīstamības objektus klasificē šādi:\n1) A kategorijas paaugstinātas bīstamības objekts — objekts, kurš dažādu faktoru ietekmes dēļ var izraisīt valsts mēroga katastrofu vai nodarīt būtisku kaitējumu cilvēku, vides un īpašuma drošībai;\n2) B kategorijas paaugstinātas bīstamības objekts — objekts, kurš dažādu faktoru ietekmes dēļ var izraisīt reģionāla mēroga katastrofu vai nodarīt kaitējumu cilvēku, vides un īpašuma drošībai;\n3) C kategorijas paaugstinātas bīstamības objekts — objekts, kurš dažādu faktoru ietekmes dēļ var izraisīt vietēja mēroga katastrofu vai nodarīt kaitējumu cilvēku, vides un īpašuma drošībai.\n(3) Paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs ir atbildīgs un nodrošina:\n1) paaugstinātas bīstamības objekta drošumu, kā arī uzturēšanu un ekspluatēšanu atbilstoši normatīvo aktu prasībām un tā, lai neradītu draudus cilvēku, vides un īpašuma drošībai;\n2) to, lai paaugstinātas bīstamības objektā varētu tikt veikta civilās aizsardzības prasību ievērošanas pārbaude;\n3) civilās aizsardzības pasākumu plānošanu un īstenošanu;\n4) paaugstinātas bīstamības objektā nodarbināto iepazīstināšanu ar paaugstinātas bīstamības objekta civilās aizsardzības plānu, kā arī tā kopijas uzglabāšanu objektā un šā plāna ievērošanas kontroli;\n5) nodarbināto apmācību civilās aizsardzības un katastrofas pārvaldīšanas jomā.\n(4) Paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs izstrādā, saskaņo ar Valsts ugunsdzēsības un glābšanas dienestu un apstiprina paaugstinātas bīstamības objekta civilās aizsardzības plānu.\n(5) Paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs apstiprināto un saskaņoto paaugstinātas bīstamības objekta civilās aizsardzības plānu iesniedz attiecīgajai pašvaldībai.\n(6) Paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs, nododot paaugstinātas bīstamības objektu lietošanā vai pārvaldīšanā valsts vai pašvaldības institūcijai, juridiskajai vai fiziskajai personai, ir tiesīgs rakstveidā vienoties par tam noteiktās civilās aizsardzības un katastrofas pārvaldīšanas kompetences nodošanu attiecīgās valsts vai pašvaldības institūcijas administratīvajam vadītājam vai attiecīgajai juridiskajai vai fiziskajai personai, ievērojot citas jomas regulējošu normatīvo aktu prasības."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Civilās aizsardzības plānošana",
+      "section": "15",
+      "title": "Civilās aizsardzības plānošanas kārtība",
+      "content": "(1) Valsts civilās aizsardzības plāns, sadarbības teritorijas civilās aizsardzības plāns, paaugstinātas bīstamības objekta civilās aizsardzības plāns un objekta civilās aizsardzības plāns ir dokumenti, kuri sagatavoti, ņemot vērā risku novērtējumu, un kuros noteikti katastrofas pārvaldīšanas pasākumi un to īstenotāji.\n(2) Ministru kabinets nosaka valsts civilās aizsardzības plāna, sadarbības teritorijas civilās aizsardzības plāna, paaugstinātas bīstamības objekta civilās aizsardzības plāna un objekta civilās aizsardzības plāna struktūru un tajā iekļaujamo informāciju.\n(3) Iekšlietu ministrija nodrošina valsts civilās aizsardzības plāna un sadarbības teritoriju civilās aizsardzības plānu aktuālās redakcijas ievietošanu Iekšlietu ministrijas un Valsts ugunsdzēsības un glābšanas dienesta mājaslapās internetā.\n(4) Pašvaldības nodrošina, ka attiecīgās sadarbības teritorijas civilās aizsardzības plāna un attiecīgās pašvaldības administratīvajā teritorijā esošu paaugstinātas bīstamības objektu civilās aizsardzības plānu aktuālā redakcija ir pieejama pašvaldības mājaslapā internetā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Civilās aizsardzības plānošana",
+      "section": "16",
+      "title": "Valsts civilās aizsardzības plāns",
+      "content": "(1) Valsts ugunsdzēsības un glābšanas dienests sadarbībā ar citām institūcijām izstrādā valsts civilās aizsardzības plānu.\n(2) Iekšlietu ministrija izvērtē valsts civilās aizsardzības plāna izpildi, katru gadu līdz 1.maijam iesniedz Ministru kabinetam attiecīgu informatīvo ziņojumu un, ja nepieciešams, valsts civilās aizsardzības plāna grozījumu projektu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Civilās aizsardzības plānošana",
+      "section": "17",
+      "title": "Pašvaldības vai sadarbības teritorijas civilās aizsardzības plāns",
+      "content": "(1) Pašvaldības vai sadarbības teritorijas civilās aizsardzības plānu pašvaldības dome apstiprina ne retāk kā reizi četros gados.\n(2) Pašvaldības vai sadarbības teritorijas civilās aizsardzības komisija iesniedz attiecīgās pašvaldības domei priekšlikumus par pašvaldības vai sadarbības teritorijas civilās aizsardzības plānā nepieciešamajiem grozījumiem."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Civilās aizsardzības plānošana",
+      "section": "18",
+      "title": "Paaugstinātas bīstamības objekta civilās aizsardzības plāns",
+      "content": "Paaugstinātas bīstamības objekta civilās aizsardzības plānu paaugstinātas bīstamības objekta īpašnieks vai tiesiskais valdītājs apstiprina ne retāk kā reizi četros gados."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "VI nodaļa Civilās aizsardzības sistēmas darbības un atbilstības pārbaudes",
+      "section": "19",
+      "title": "Civilās aizsardzības sistēmas darbības pārbaudes",
+      "content": "(1) Valsts vai pašvaldības institūcijas vadītājs kontrolē šai institūcijai noteikto civilās aizsardzības uzdevumu izpildi, kā arī tās padotībā esošajām institūcijām noteikto civilās aizsardzības uzdevumu izpildi.\n(2) Civilās aizsardzības sistēmas gatavības pārbaudes nodrošināšanai valsts un pašvaldību institūcijas organizē civilās aizsardzības un katastrofas pārvaldīšanas mācības.\n(3) Iekšlietu ministrija koordinē civilās aizsardzības un katastrofas pārvaldīšanas mācību plānošanu un organizēšanu valsts un reģionālā mērogā atbilstoši valsts civilās aizsardzības plānā valsts un pašvaldību institūcijām noteiktajiem uzdevumiem.\n(4) Civilās aizsardzības un katastrofas pārvaldīšanas mācību veidus un organizēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VI nodaļa Civilās aizsardzības sistēmas darbības un atbilstības pārbaudes",
+      "section": "20",
+      "title": "Civilās aizsardzības prasību ievērošanas pārbaudes",
+      "content": "(1) Civilās aizsardzības prasību ievērošanas pārbaudes objektos un paaugstinātas bīstamības objektos veic Valsts ugunsdzēsības un glābšanas dienesta amatpersona ar speciālo dienesta pakāpi (turpmāk — amatpersona ar speciālo dienesta pakāpi).\n(2) Civilās aizsardzības prasību ievērošanas pārbaudes Aizsardzības ministrijas, Nacionālo bruņoto spēku un valsts drošības iestāžu objektos un paaugstinātas bīstamības objektos veic par civilo aizsardzību atbildīgā persona vai amatpersona ar speciālo dienesta pakāpi saskaņā ar starpresoru vienošanos, kas noslēgta starp Aizsardzības ministriju, Nacionālajiem bruņotajiem spēkiem vai valsts drošības iestādēm un Valsts ugunsdzēsības un glābšanas dienestu. Ārvalstu diplomātisko un konsulāro pārstāvniecību objektos un paaugstinātas bīstamības objektos civilās aizsardzības prasību ievērošanas pārbaudes amatpersona ar speciālo dienesta pakāpi veic uz attiecīgās ārvalsts diplomātiskās vai konsulārās pārstāvniecības rakstveida iesnieguma pamata.\n(3) Amatpersona ar speciālo dienesta pakāpi veic plānotas un neplānotas civilās aizsardzības prasību ievērošanas pārbaudes. Plānotā civilās aizsardzības prasību ievērošanas pārbaude (turpmāk — plānotā pārbaude) tiek veikta saskaņā ar Valsts ugunsdzēsības un glābšanas dienesta apstiprinātu civilās aizsardzības prasību ievērošanas pārbaudes plānu. Neplānotā civilās aizsardzības prasību ievērošanas pārbaude (turpmāk — neplānotā pārbaude) tiek veikta, pamatojoties uz Valsts ugunsdzēsības un glābšanas dienesta rakstveida lēmumu.\n(4) Amatpersonai ar speciālo dienesta pakāpi, kura veic civilās aizsardzības prasību ievērošanas pārbaudes, ir šādi pienākumi:\n1) iepriekš informēt objekta vai paaugstinātas bīstamības objekta īpašnieku vai tiesisko valdītāju par plānoto pārbaudi;\n2) pirms civilās aizsardzības prasību ievērošanas pārbaudes uzsākšanas nosaukt objekta vai paaugstinātas bīstamības objekta īpašniekam vai tiesiskajam valdītājam vai viņu pilnvarotajam pārstāvim savu uzvārdu, amatu un uzrādīt dienesta apliecību;\n3) pirms neplānotās pārbaudes uzsākšanas izsniegt objekta vai paaugstinātas bīstamības objekta īpašniekam vai tiesiskajam valdītājam vai viņu pilnvarotajam pārstāvim Valsts ugunsdzēsības un glābšanas dienesta rakstveida lēmumu;\n4) informēt objekta vai paaugstinātas bīstamības objekta īpašnieku vai tiesisko valdītāju vai viņu pilnvaroto pārstāvi par civilās aizsardzības prasību ievērošanas pārbaudes rezultātiem;\n5) uzdot objekta vai paaugstinātas bīstamības objekta īpašniekam vai tiesiskajam valdītājam vai viņu pilnvarotajam pārstāvim novērst normatīvajos aktos noteikto civilās aizsardzības prasību pārkāpumus.\n(5) Veicot civilās aizsardzības prasību ievērošanas pārbaudi, amatpersonai ar speciālo dienesta pakāpi ir tiesības:\n1) pārbaudīt normatīvajos aktos noteikto civilās aizsardzības prasību ievērošanu objektā un paaugstinātas bīstamības objektā;\n2) fotografējot un izdarot videoierakstus, fiksēt normatīvajos aktos noteikto civilās aizsardzības prasību pārkāpumus;\n3) lūgt uzrādīt personu apliecinošu dokumentu vai citu personu identificējošu dokumentu;\n4) apturēt vai ierobežot objekta vai paaugstinātas bīstamības objekta ekspluatāciju;\n5) izsniegt atzinumu par objekta vai paaugstinātas bīstamības objekta atbilstību normatīvajos aktos noteiktajām civilās aizsardzības prasībām;\n6) sastādīt administratīvo pārkāpumu protokolus, izskatīt administratīvo pārkāpumu lietas un uzlikt administratīvos sodus par pārkāpumiem, kuru izskatīšana ir piekritīga Valsts ugunsdzēsības un glābšanas dienestam;\n7) pieprasīt un bez maksas saņemt ar civilās aizsardzības jautājumiem saistīto informāciju."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VII nodaļa Zinātniskā pētniecība, izglītība un apmācība civilās aizsardzības un katastrofas pārvaldīšanas jomā",
+      "section": "21",
+      "title": "Zinātniskā pētniecība",
+      "content": "Lai veicinātu civilās aizsardzības sistēmas attīstību, valsts un pašvaldību institūcijas, juridiskās un fiziskās personas var veikt zinātniskās pētniecības darbu civilās aizsardzības un katastrofas pārvaldīšanas jomā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VII nodaļa Zinātniskā pētniecība, izglītība un apmācība civilās aizsardzības un katastrofas pārvaldīšanas jomā",
+      "section": "22",
+      "title": "Speciālistu apmācība",
+      "content": "Civilās aizsardzības speciālistu apmācību veic valsts akreditētas augstākās izglītības iestādes un vidējās profesionālās izglītības iestādes."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VII nodaļa Zinātniskā pētniecība, izglītība un apmācība civilās aizsardzības un katastrofas pārvaldīšanas jomā",
+      "section": "23",
+      "title": "Iedzīvotāju izglītošana",
+      "content": "(1) Izglītības iestāde nodrošina obligātā civilās aizsardzības kursa pasniegšanu izglītojamajiem augstākajā, vispārējā un profesionālajā izglītībā. Minimālās prasības attiecībā uz obligātā civilās aizsardzības kursa saturu nosaka Ministru kabinets.\n(2) Iedzīvotāju izglītošanu civilās aizsardzības jautājumos, izmantojot plašsaziņas līdzekļus un elektroniskos plašsaziņas līdzekļus, kā arī izplatot informatīvos materiālus, atbilstoši savai darbības jomai veic valsts un pašvaldību institūcijas, kā arī juridiskās un fiziskās personas.\n(3) Nodarbināto apmācību civilās aizsardzības jautājumos organizē darba devējs. Minimālās prasības attiecībā uz nodarbināto apmācību civilās aizsardzības jautājumos nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "24",
+      "title": "Starptautiskās palīdzības lūgšana un sniegšana",
+      "content": "(1) Katastrofas vai katastrofas draudu gadījumā lēmumu par starptautiskās palīdzības lūgšanu vai sniegšanu pieņem Ministru kabinets pēc katastrofas pārvaldīšanas subjekta ierosinājuma vai savas iniciatīvas.\n(2) Katastrofas vai katastrofas draudu gadījumā katastrofas pārvaldīšanas subjekts, ja ir pamatota nepieciešamība, ierosina, lai Ministru kabinets lemj par starptautiskās palīdzības pieprasīšanu katastrofas pārvaldīšanai, un norāda nepieciešamās starptautiskās palīdzības pamatojumu, veidu, apjomu un provizoriskās izmaksas, kā arī atbildīgo valsts institūciju un uzņemošās valsts atbalsta nodrošināšanas līdzatbildīgās institūcijas.\n(3) Ja no katastrofas skartas vai krīzes situācijā nonākušas valsts vai no starptautiskas organizācijas ir saņemta informācija ar lūgumu sniegt starptautisko palīdzību, katastrofas pārvaldīšanas subjekts, saskaņojot ar Ārlietu ministriju, ierosina, lai Ministru kabinets izvērtē minēto informāciju un pieņem lēmumu par starptautiskās palīdzības sniegšanu, un norāda starptautiskās palīdzības lūdzēju, palīdzības nepieciešamības pamatojumu, veidu, apjomu un provizoriskās izmaksas.\n(4) Ministru kabinets nosaka humānās palīdzības saņemšanas un sniegšanas kārtību.\n(5) Ministru kabinets nosaka kārtību, kādā valsts un pašvaldību institūcijas ierosina, lai Ministru kabinets pieņem lēmumu par starptautiskās palīdzības pieprasīšanu katastrofas vai katastrofas draudu gadījumā, lai nodrošinātu katastrofas pārvaldīšanu.\n(6) Katastrofas pārvaldīšanas subjekts reizi gadā līdz 20.janvārim izvērtē savas iespējas vajadzības gadījumā sniegt starptautisko palīdzību katastrofas skartai vai krīzes situācijā nonākušai valstij un iesniedz attiecīgo informāciju Iekšlietu ministrijai kopā ar informāciju par valsts civilās aizsardzības plāna izpildi un priekšlikumiem par valsts civilās aizsardzības plānā nepieciešamajiem grozījumiem."
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "24.1",
+      "title": "24. 1 pants. Piedalīšanās starptautiskajās misijās un operācijās",
+      "content": "(1) Amatpersona ar speciālo dienesta pakāpi piedalās starptautiskajās misijās un operācijās pēc to starptautisko organizāciju, savienību vai kopienu rezolūcijas, rekomendācijas vai lūguma, ar kurām Latvijas Republikai ir noslēgti starptautiskie līgumi.\n(2) Lēmumu par amatpersonas ar speciālo dienesta pakāpi piedalīšanos starptautiskajās misijās un operācijās pieņem Ministru kabinets.\n(3) Kārtību, kādā amatpersonu ar speciālo dienesta pakāpi nosūta dalībai starptautiskajās misijās un operācijās, nosacījumus attiecīgās amatpersonas dalībai šajās misijās un operācijās, kā arī dalības finansēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "25",
+      "title": "Civilās aizsardzības sistēmas finansēšana",
+      "content": "Valsts institūcija savas darbības jomai atbilstošo civilās aizsardzības uzdevumu izpildi finansē no tās budžetā šim mērķim paredzētajiem valsts budžeta līdzekļiem, pašvaldību institūcijas — no to budžetos šim mērķim paredzētajiem līdzekļiem, juridiskās un fiziskās personas — no saviem līdzekļiem."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē Civilās aizsardzības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 22.nr.; 2008, 16.nr.; 2009, 7., 17.nr.; Latvijas Vēstnesis, 2009, 182.nr.; 2013, 61.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē Civilās aizsardzības likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2006, 22.nr.; 2008, 16.nr.; 2009, 7., 17.nr.; Latvijas Vēstnesis, 2009, 182.nr.; 2013, 61.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2017.gada 1.februārim izdod šā likuma 8.panta otrās daļas 2., 3., 4., 5., 6. un 7.punktā, 15.panta otrajā daļā, 19.panta ceturtajā daļā, 23.panta pirmajā un trešajā daļā un 24.panta ceturtajā un piektajā daļā paredzētos Ministru kabineta noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2017.gada 1.decembrim ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2007.gada 26.jūnija noteikumi Nr.423 \" Pašvaldības, komersanta un iestādes civilās aizsardzības plāna struktūra, tā izstrādāšanas un apstiprināšanas kārtība \";\n2) Ministru kabineta 2007.gada 7.augusta noteikumi Nr.530 \" Civilās trauksmes un apziņošanas sistēmas izveidošanas, izmantošanas un finansēšanas kārtība \";\n3) Ministru kabineta 2007.gada 11.septembra noteikumi Nr.612 \" Minimālās prasības civilās aizsardzības kursa saturam un nodarbināto civilās aizsardzības apmācības saturam \";\n4) Ministru kabineta 2007.gada 18.septembra noteikumi Nr.626 \" Noteikumi par paaugstinātas bīstamības objektu noteikšanas kritērijiem un šo objektu īpašnieku (valdītāju, apsaimniekotāju) pienākumiem riska samazināšanas pasākumu nodrošināšanai šo objektu īpašnieku (valdītāju, apsaimniekotāju) pienākumiem riska samazināšanas pasākumu nodrošināšanai\";\n5) Ministru kabineta 2007.gada 11.decembra noteikumi Nr.842 \" Kārtība, kādā juridiskajām un fiziskajām personām kompensējami izdevumi un zaudējumi, kas radušies, iesaistot personu resursus reaģēšanas pasākumos, ugunsgrēka dzēšanā vai glābšanas darbos, un kompensācijas apmēra aprēķināšanas kārtība \";\n6) Ministru kabineta 2008.gada 22.septembra noteikumi Nr.772 \" Noteikumi par civilās aizsardzības mācību veidiem un organizēšanas kārtību \";\n7) Ministru kabineta 2009.gada 30.jūnija noteikumi Nr.659 \" Humānās palīdzības saņemšanas un sniegšanas kārtība \";\n8) Ministru kabineta 2009.gada 22.septembra noteikumi Nr.1072 \" Noteikumi par pašvaldību civilās aizsardzības komisiju sarakstu, komisiju darbības teritoriju un to izveidošanas kārtību \";\n9) Ministru kabineta 2009.gada 22.septembra noteikumi Nr.1078 \" Pašvaldības civilās aizsardzības komisijas paraugnolikums \";\n10) Ministru kabineta 2009.gada 3.novembra noteikumi Nr.1260 \" Noteikumi par valsts ugunsdrošības uzraudzības inspektoru kompetenci un kārtību, kādā veicama valsts ugunsdrošības uzraudzība un civilās aizsardzības prasību ievērošanas kontrole \";\n11) Ministru kabineta 2010.gada 28.septembra noteikumi Nr.910 \" Noteikumi par ātrās reaģēšanas un medicīniskā atbalsta vienību izveidošanu, uzturēšanu, apmācīšanu, finansēšanu, sociālo garantiju noteikšanu un iesaistīšanos starptautiskās palīdzības sniegšanā \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn3",
+      "title": "3. Ministru kabinets līdz 2017.gada 1.maijam apstiprina šā likuma 8.panta otrās daļas 3.punktā paredzēto paaugstinātas bīstamības objektu sarakstu.",
+      "content": "3. Ministru kabinets līdz 2017.gada 1.maijam apstiprina šā likuma 8.panta otrās daļas 3.punktā paredzēto paaugstinātas bīstamības objektu sarakstu."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn4",
+      "title": "4. Valsts civilās aizsardzības plāns, kas apstiprināts līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2017.gada 1.augustam. Ministru kabinets līdz 2017.gada 2.augustam apstiprina valsts civilās aizsardzības plānu.",
+      "content": "4. Valsts civilās aizsardzības plāns, kas apstiprināts līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2017.gada 1.augustam. Ministru kabinets līdz 2017.gada 2.augustam apstiprina valsts civilās aizsardzības plānu."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn5",
+      "title": "5. Pašvaldību domes līdz 2017.gada 1.augustam apstiprina šā likuma 11.panta pirmās daļas 2.punktā paredzēto sadarbības teritorijas civilās aizsardzības komisijas nolikumu un sastāvu.",
+      "content": "5. Pašvaldību domes līdz 2017.gada 1.augustam apstiprina šā likuma 11.panta pirmās daļas 2.punktā paredzēto sadarbības teritorijas civilās aizsardzības komisijas nolikumu un sastāvu."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn6",
+      "title": "6. Sadarbības teritoriju civilās aizsardzības plāni, kas apstiprināti līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2017.gada 30.decembrim. Pašvaldību domes līdz 2017.gada 31.decembrim apstiprina šā likuma 11.panta pirmās daļas 3.punktā paredzēto sadarbības teritorijas civilās aizsardzības plānu.",
+      "content": "6. Sadarbības teritoriju civilās aizsardzības plāni, kas apstiprināti līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz 2017.gada 30.decembrim. Pašvaldību domes līdz 2017.gada 31.decembrim apstiprina šā likuma 11.panta pirmās daļas 3.punktā paredzēto sadarbības teritorijas civilās aizsardzības plānu."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn7",
+      "title": "7. Objektu un paaugstinātas bīstamības objektu īpašnieki vai tiesiskie valdītāji līdz 2017.gada 31.decembrim apstiprina šā likuma 9.panta astotajā daļā, 13.panta sestajā daļā un 14.panta ceturtajā daļā paredzēto objekta vai paaugstinātas bīstamības objekta civilās aizsardzības plānu.",
+      "content": "7. Objektu un paaugstinātas bīstamības objektu īpašnieki vai tiesiskie valdītāji līdz 2017.gada 31.decembrim apstiprina šā likuma 9.panta astotajā daļā, 13.panta sestajā daļā un 14.panta ceturtajā daļā paredzēto objekta vai paaugstinātas bīstamības objekta civilās aizsardzības plānu."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn8",
+      "title": "8. (Izslēgts ar 08.03.2023 . likumu, kas stājas spēkā 22.03.2023. )",
+      "content": "8. (Izslēgts ar 08.03.2023 . likumu, kas stājas spēkā 22.03.2023. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn9",
+      "title": "9. Ministru kabinets līdz 2025. gada 30. septembrim izdod šā likuma 8. panta otrās daļas 8. un 9. punktā minētos noteikumus.",
+      "content": "( 05.06.2025 . likuma redakcijā, kas stājas spēkā 03.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VIII nodaļa Starptautiskā palīdzība katastrofas vai katastrofas draudu gadījumā, civilās aizsardzības sistēmas finansēšana",
+      "section": "pn10",
+      "title": "10. Šā likuma 7. 1 panta otro un trešo daļu neattiecina uz būvprojektiem, kuri līdz 2027. gada 1. janvārim ir noteiktā kārtībā saskaņoti (akceptēti) vai iesniegti saskaņošanai institūcijā, kas pilda būvvaldes funkcijas.",
+      "content": "( 05.06.2025 . likuma redakcijā, kas stājas spēkā 03.07.2025. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "civilā aizsardzība",
+      "definition": "tādu organizatorisku, inženiertehnisku, ekonomisku, finansiālu, sociālu, izglītojošu un zinātnisku pasākumu kopums, kurus īsteno valsts un pašvaldību institūcijas un sabiedrība, lai nodrošinātu cilvēku, vides un īpašuma drošību, kā arī īstenotu atbilstošu rīcību katastrofas un katastrofas draudu gadījumā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "katastrofa",
+      "definition": "notikums, kas izraisījis cilvēku upurus un apdraud cilvēku dzīvību vai veselību, nodarījis kaitējumu vai radījis apdraudējumu cilvēkiem, videi vai īpašumam, kā arī radījis vai rada būtiskus materiālos un finansiālos zaudējumus un pārsniedz atbildīgo valsts un pašvaldības institūciju ikdienas spējas novērst notikuma postošos apstākļus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "katastrofas draudi",
+      "definition": "situācija, kad risku novērtējums, prognozes, informācija vai citi apstākļi pamatoti liecina par katastrofas iespējamību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "katastrofas pārvaldīšana",
+      "definition": "tādu vadītu un koordinētu preventīvo, gatavības, reaģēšanas, seku likvidēšanas pasākumu, kā arī atjaunošanas pasākumu kopums, kuri tiek veikti, lai nodrošinātu civilās aizsardzības uzdevumu izpildi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "preventīvie pasākumi",
+      "definition": "tādu pasākumu kopums, kuri tiek veikti, lai novērstu vai mazinātu katastrofas draudus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gatavības pasākumi",
+      "definition": "tādu pasākumu kopums, kuri tiek veikti, lai sagatavotos katastrofas gadījumā nepieciešamajai rīcībai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "agrīnā brīdināšana",
+      "definition": "mērķtiecīga un nekavējoties veicama cilvēku un atbildīgo institūciju informēšana par katastrofu vai katastrofas draudiem un nepieciešamo rīcību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts agrīnās brīdināšanas sistēma",
+      "definition": "autonomi funkcionējoša tehnoloģiska sistēma vai šādu sistēmu kopums, kas nodrošina agrīno brīdināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "reaģēšanas pasākumi",
+      "definition": "tādu pasākumu kopums, kuri tiek veikti, lai mazinātu vai likvidētu postošos apstākļus un to izraisītās sekas, novērstu vai mazinātu kaitējumu cilvēkiem, videi un īpašumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "glābšanas darbi",
+      "definition": "reaģēšanas pasākumu un seku likvidēšanas pasākumu kopumā ietilpstoši pasākumi, kurus plāno, vada un veic Valsts ugunsdzēsības un glābšanas dienests, izņemot glābšanas darbus jūrā un iekšējos ūdeņos no bāzes līnijas līdz jūras krasta līnijai, kurus plāno, vada un veic Nacionālie bruņotie spēki",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "seku likvidēšanas pasākumi",
+      "definition": "tādu pasākumu kopums, kuri tiek veikti, lai nodrošinātu vismaz minimālās iedzīvotāju pamatvajadzības, kas saistītas ar cilvēku izdzīvošanu, un apturētu vai mazinātu veselības, vides un īpašuma apdraudējumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atjaunošanas pasākumi",
+      "definition": "tādu pasākumu kopums, kuri tiek veikti, lai pēc iespējas savlaicīgi un samērīgi palīdzētu cietušajiem cilvēkiem un pēc iespējas atjaunotu vidi un īpašumu tādā stāvoklī, kāds tas bija pirms katastrofas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "starptautiskā palīdzība",
+      "definition": "tādu pasākumu kopums, kuri, piemērojot šo likumu, tiek veikti, lai reaģētu uz katastrofu un likvidētu katastrofas sekas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pamatvajadzības",
+      "definition": "uzturs, mājoklis, veselības aprūpe, medicīniskā palīdzība, elektroapgāde, ūdensapgāde, siltumapgāde, atkritumu un notekūdeņu savākšana, sakaru nodrošinājums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "koordinēšana",
+      "definition": "valsts un pašvaldību institūciju rīcības saskaņošana, veicot preventīvos, gatavības, reaģēšanas, seku likvidēšanas pasākumus, kā arī atjaunošanas pasākumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "patvertne",
+      "definition": "būve vai tās daļa, kas paredzēta cilvēku aizsardzībai no bīstamiem faktoriem, kas rodas katastrofas, militāra iebrukuma vai kara gadījumā.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

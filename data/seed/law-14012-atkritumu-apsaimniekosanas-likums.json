@@ -1,0 +1,566 @@
+{
+  "id": "lv-law-14012",
+  "type": "statute",
+  "title": "Atkritumu apsaimniekošanas likums",
+  "short_name": "TA-14012",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/14012-atkritumu-apsaimniekosanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) atkritumi — jebkurš priekšmets vai viela, no kuras tās valdītājs atbrīvojas, ir nolēmis vai spiests atbrīvoties un kura atbilst atkritumu klasifikatorā noteiktajām kategorijām;\n2) atkritumu radītājs — fiziskā vai juridiskā persona, kuras darbība rada atkritumus vai kura veic atkritumu sajaukšanu vai citas darbības, kā rezultātā mainās atkritumu sastāvs un īpašības;\n3) atkritumu pārstrādes objekts — ražošanas komplekss vai iekārta, ar kuras palīdzību tiek veikta atkritumu pārstrāde;\n4) atkritumu apsaimniekošana — atkritumu savākšana (tai skaitā atkritumu vākšana, šķirošana un sajaukšana, lai tos pārvadātu), uzglabāšana, pārkraušana, pārvadāšana, pārstrāde (tai skaitā atkritumu sadedzināšana, iegūstot enerģiju, iekārtās, kuru pamatdarbība nav atkritumu sadedzināšana), reģenerācija un apglabāšana (tai skaitā sadedzināšana sadzīves atkritumu sadedzināšanas iekārtās), šo darbību pārraudzība, kā arī atkritumu apglabāšanas vietu ierīkošana un pārstrādes objektu vai iekārtu uzturēšana un aprūpe pēc to slēgšanas;\n5) atkritumu poligons — speciāli ierīkota un aprīkota atkritumu apglabāšanas vieta, kurā tiek nodrošināti normatīvajos aktos noteiktie vides aizsardzības pasākumi;\n6) izgāztuve — atkritumu apglabāšanas vieta, kas neatbilst poligona prasībām;\n7) atkritumu uzglabāšana — atkritumu glabāšana tam speciāli piemērotās un aprīkotās vietās to turpmākai pārstrādei vai apglabāšanai (izņemot īslaicīgu uzglabāšanu mazāk par trim mēnešiem to rašanās, šķirošanas un savākšanas vietās daudzumos, kas nerada kaitējumu videi vai draudus cilvēku veselībai)."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Šā likuma mērķi ir:",
+      "content": "1) noteikt atkritumu apsaimniekošanas kārtību, lai aizsargātu cilvēku dzīvību un veselību, vidi, kā arī personu mantu;\n2) veicināt atkritumu apsaimniekošanu, tajā skaitā dalītu vākšanu un atkārtotu izmantošanu, lai samazinātu apglabājamo atkritumu daudzumu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Šis likums neattiecas uz:",
+      "content": "1) gāzveida emisijām atmosfērā;\n2) radioaktīvajiem atkritumiem;\n3) dzīvnieku līķiem, kā arī kūtsmēsliem un citām dabiskas izcelsmes vielām, kuras rodas vai tiek izmantotas lauksaimniecībā;\n4) notekūdeņiem, izņemot šķidros atkritumus;\n5) sprāgstvielām;\n6) atkritumiem, kas radušies derīgo izrakteņu izpētes, ieguves, apstrādes un uzglabāšanas procesos."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Atkritumus iedala šādi:",
+      "content": "1) bīstamie atkritumi — atkritumi, kuriem piemīt viena vai vairākas īpašības, kas padara tos bīstamus cilvēku dzīvībai un veselībai, videi, kā arī personu mantai, un kuri atbilst atkritumu klasifikatorā noteiktajām bīstamo atkritumu kategorijām;\n2) sadzīves atkritumi — visi pārējie atkritumi, kuri netiek klasificēti kā bīstamie atkritumi."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Atkritumu apsaimniekošana veicama tā, lai netiktu apdraudēta cilvēku dzīvība un veselība, kā arī personu manta.",
+      "content": "(2) Atkritumu apsaimniekošana nedrīkst negatīvi ietekmēt vidi, tai skaitā:\n1) radīt apdraudējumu ūdeņiem, gaisam, augsnei, kā arī florai un faunai;\n2) radīt traucējošus trokšņus vai smakas;\n3) nelabvēlīgi ietekmēt ainavas un īpaši aizsargājamās teritorijas;\n4) piesārņot un piegružot vidi."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Organizējot, plānojot un veicot atkritumu apsaimniekošanu, jāievēro šādas prasības (turpmāk minētajā prioritārajā secībā):",
+      "content": "1) jānovērš atkritumu rašanās cēloņi, tai skaitā jāattīsta tīrās tehnoloģijas;\n2) jāsamazina atkritumu daudzums (apjoms) un bīstamība;\n3) atkritumi jāpārstrādā, jāiegūst atkārtoti izmantojami materiāli un enerģija;\n4) atkritumi jāapglabā tā, lai netiktu apdraudēta cilvēku dzīvība un veselība, vide, kā arī personu manta;\n5) jāslēdz izgāztuves saskaņā ar atkritumu apsaimniekošanas plāniem, kā arī jānodrošina slēgto izgāztuvju un poligonu rekultivācija."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Valsts un pašvaldību institūciju kompetence",
+      "section": "7",
+      "title": "Ministru kabinets:",
+      "content": "1) apstiprina atkritumu, tai skaitā bīstamo atkritumu, apsaimniekošanas valsts plānu un atkritumu apsaimniekošanas reģionālos plānus;\n2) (izslēgts ar 02.12.2004 . likumu) ;\n3) nosaka atkritumu klasifikatoru un īpašības, kuras padara atkritumus bīstamus;\n4) nosaka bīstamo atkritumu uzskaites, identifikācijas, uzglabāšanas, iepakošanas, marķēšanas un pārvadājumu uzskaites kārtību;\n5) nosaka atkritumu poligonu ierīkošanai, atkritumu poligonu un izgāztuvju apsaimniekošanai un šo poligonu un izgāztuvju slēgšanai un rekultivācijai izvirzāmās prasības;\n6) (izslēgts ar 19.02.2004 . likumu) ;\n7) nosaka kārtību, kādā apsaimniekojami atsevišķu veidu atkritumi, kuru apsaimniekošanai to bīstamības vai citu īpašību dēļ ir izvirzāmas īpašas prasības, arī naftas produktu atkritumi, polihlorētos bifenilus un polihlorētos terfenilus saturoši atkritumi, bateriju un akumulatoru atkritumi, titāna dioksīda rūpniecības atkritumi un azbesta atkritumi;\n8) nosaka atkritumu, tai skaitā bīstamo atkritumu, sadedzināšanai un atkritumu sadedzināšanas iekārtu darbībai izvirzāmās prasības;\n9) nosaka atkritumu pārstrādes, reģenerācijas un apglabāšanas veidus;\n10) nosaka kārtību, kādā iepērkami un realizējami melno un krāsaino metālu atgriezumi un lūžņi, kā arī izsniedzamas licences metālu atgriezumu un lūžņu iepirkšanai Latvijas Republikā;\n11) nosaka valsts nodevas likmi (latos) par licenci melno un krāsaino metālu atgriezumu un lūžņu iepirkšanai Latvijas Republikā un par licenci melno metālu atgriezumu un lūžņu iepirkšanai Latvijas Republikā, kā arī kārtību, kādā maksājama šī nodeva;\n12) nosaka kārtību, kādā savācams un apsaimniekojams dzērienu primārais iepakojums, kuram nepiemēro depozīta sistēmu un kuru pieņem tirdzniecības vietā vai speciāli izveidotā dzērienu iepakojuma pieņemšanas punktā, un prasības komersantiem, kuri veic šāda iepakojuma pieņemšanu;\n13) nosaka atkritumu savākšanas un šķirošanas vietu veidus, prasības atkritumu savākšanas un šķirošanas vietu, kā arī bioloģiski noārdāmo atkritumu kompostēšanas vietu ierīkošanai un apsaimniekošanai."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Valsts un pašvaldību institūciju kompetence",
+      "section": "8",
+      "title": "Vides ministrija vai tās pilnvarota institūcija:",
+      "content": "1) izstrādā atkritumu, tai skaitā bīstamo atkritumu, apsaimniekošanas valsts plānu un atkritumu apsaimniekošanas reģionālos plānus;\n2) koordinē atkritumu apsaimniekošanas valsts plāna īstenošanu;\n3) sagatavo normatīvo aktu projektus atkritumu apsaimniekošanas jomā;\n4) apkopo informāciju par atkritumu apsaimniekošanu;\n5) koordinē un organizē bīstamo atkritumu apsaimniekošanu saskaņā ar šo likumu un citiem normatīvajiem aktiem, kā arī veic bezsaimnieka bīstamo atkritumu apsaimniekošanu;\n6) organizē nacionālās nozīmes bīstamo atkritumu pārstrādes objektu, kā arī sadedzināšanas iekārtu un poligonu ierīkošanu un apsaimniekošanu;\n7) koordinē sadzīves atkritumu poligonu ierīkošanu;\n8) nodrošina ar atkritumu apsaimniekošanu saistītās informācijas sniegšanu sabiedrībai, kā arī Eiropas Savienības un starptautiskajām institūcijām."
+    },
+    {
+      "provision_ref": "Art. 8.1",
+      "chapter": "II nodaļa Valsts un pašvaldību institūciju kompetence",
+      "section": "8.1",
+      "title": "8. 1 pants.",
+      "content": "(Izslēgts ar 22.06.2005 . likumu, kas stājas spēkā 26.07.2005. )"
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Valsts un pašvaldību institūciju kompetence",
+      "section": "9",
+      "title": "(1) Vietējās pašvaldības:",
+      "content": "1) organizē sadzīves atkritumu, to skaitā sadzīvē radušos bīstamo atkritumu, apsaimniekošanu atbilstoši atkritumu apsaimniekošanas valsts un reģionālajiem plāniem savā administratīvajā teritorijā;\n2) pieņem lēmumus par jaunu sadzīves atkritumu pārstrādes objektu un poligonu izvietošanu savā administratīvajā teritorijā;\n3) izdod saistošus noteikumus, kas reglamentē sadzīves atkritumu apsaimniekošanu savā administratīvajā teritorijā, savas administratīvās teritorijas dalījumu sadzīves atkritumu apsaimniekošanas zonās, prasības atkritumu savākšanai, pārvadāšanai, pārkraušanai un uzglabāšanai, kā arī kārtību, kādā veicami maksājumi par šo atkritumu apsaimniekošanu;\n4) pieņem lēmumus par jaunu bīstamo atkritumu pārstrādes objektu, kā arī sadedzināšanas iekārtu un poligonu izvietošanu savā administratīvajā teritorijā;\n5) var ieguldīt līdzekļus atkritumu apsaimniekošanas sistēmas izveidē un uzturēšanā atbilstoši atkritumu apsaimniekošanas plāniem;\n6) organizē atkritumu dalītu vākšanu savā administratīvajā teritorijā.\n(2) Ministru kabinets izdod ieteikumus pašvaldību saistošajiem noteikumiem, kas reglamentē sadzīves atkritumu apsaimniekošanu.\n(3) Pašvaldība pirms šā panta pirmajā daļā minēto saistošo noteikumu izdošanas saņem Vides ministrijas atzinumu par to atbilstību atkritumu apsaimniekošanu reglamentējošo normatīvo aktu prasībām, kā arī valsts un reģionālajiem atkritumu apsaimniekošanas plāniem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Atkritumu apsaimniekošanas plāni (Nodaļa 19.02.2004 . likuma redakcijā, kas stājas spēkā 23.03.2004. )",
+      "section": "10",
+      "title": "(1) Atkritumu apsaimniekošana tiek veikta atbilstoši atkritumu apsaimniekošanas valsts, reģionālajiem un pašvaldību plāniem.",
+      "content": "(2) Atkritumu apsaimniekošanas plānos iekļauj informāciju par:\n1) atkritumu apsaimniekošanas stāvokli, raksturojot radīto, savākto (šķiroti un nešķiroti), pārstrādāto un apglabāto atkritumu veidus, to sastāvu, daudzumu un izcelsmi;\n2) noteikto prasību (prioritārajā secībā) ievērošanu plānotajā atkritumu apsaimniekošanas turpmākajā attīstībā, norādot katras darbības apjomu (attiecīgo atkritumu veidu, daudzumu un izcelsmi) un tās realizēšanai paredzēto laiku;\n3) plānoto darbību realizēšanai nepieciešamajām aktivitātēm;\n4) plānoto darbību realizēšanai nepieciešamajiem objektiem (jaunceļamajiem, rekonstruējamiem, esošajiem) un to tehnisko aprīkojumu;\n5) institūcijām, kas ir atbildīgas par attiecīgo plānoto darbību realizēšanu;\n6) aprēķinātajām izmaksām un finansēšanas avotiem plānoto darbību realizēšanai;\n7) iespējām uzlabot atkritumu apsaimniekošanu;\n8) pasākumiem tādu atkritumu, kuri aerobos vai anaerobos apstākļos var sadalīties, apglabājamā daudzuma samazināšanai, izmantojot to pārstrādi, kompostēšanu, kā arī biogāzes ieguvi;\n9) pasākumiem, termiņiem un finansējumu sadzīves atkritumu izgāztuvju slēgšanai.\n(3) Atkritumu apsaimniekošanas valsts plānā papildus šā panta otrās daļas nosacījumiem nosaka sadzīves atkritumu apsaimniekošanas reģionus, kā arī sadzīves atkritumu poligonu ierīkošanas un apsaimniekošanas pamatprincipus.\n(4) Pēc atkritumu apsaimniekošanas plāna projekta izstrādes plāna izstrādātājs nodrošina sabiedrības viedokļu uzklausīšanu, dodot iespēju vismaz 30 dienas iesniegt priekšlikumus par attiecīgo projektu. Sabiedrības viedokļus izvērtē pirms lēmuma pieņemšanas par plāna apstiprināšanu."
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "III nodaļa Atkritumu apsaimniekošanas plāni (Nodaļa 19.02.2004 . likuma redakcijā, kas stājas spēkā 23.03.2004. )",
+      "section": "10.1",
+      "title": "10. 1 pants. (1) Vides ministrija, sadarbojoties ar atkritumu apsaimniekošanas valsts plānā noteikto sadzīves atkritumu apsaimniekošanas reģionu pašvaldībām, izstrādā atkritumu apsaimniekošanas reģionālos plānus, izņemot Rīgas pilsētu. Rīgas pilsētas pašvaldība organizē atkritumu apsaimniekošanas plāna izstrādāšanu savai administratīvajai teritorijai un pēc saskaņošanas ar Vides ministriju apstiprina to. Atkritumu apsaimniekošanas reģionālajos plānos nosaka atkritumu apsaimniekošanas reģionu robežas.",
+      "content": "(2) Papildus šā likuma 10.panta otrajā daļā minētajai informācijai atkritumu apsaimniekošanas reģionālajā plānā iekļauj informāciju par sadzīves atkritumu, bīstamo atkritumu, izlietotā iepakojuma, nolietoto transportlīdzekļu un elektrisko un elektronisko iekārtu atkritumu, kā arī būvniecības atkritumu apsaimniekošanu.\n(3) Atkritumu apsaimniekošanas reģionālos plānus apstiprina Ministru kabinets.\n(4) Pašvaldības, ja nepieciešams, organizē sadzīves atkritumu apsaimniekošanas plānu izstrādāšanu savām administratīvajām teritorijām un apstiprina tos. Pašvaldību lēmumus par atkritumu apsaimniekošanas pašvaldību plānu apstiprināšanu iesniedz attiecīgajai reģionālajai vides pārvaldei."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa Atkritumu apsaimniekošanas atļaujas",
+      "section": "11",
+      "title": "(1) Komersants pirms attiecīgo darbību veikšanas saņem Valsts vides dienesta atļauju atkritumu savākšanai, pārvadāšanai, pārkraušanai, šķirošanai un uzglabāšanai. Atļauja, kas izsniegta atkritumu savākšanai un pārvadāšanai, ir derīga visā valsts teritorijā.",
+      "content": "(2) (Izslēgta ar 13.03.2008 . likumu.)\n(3) Ministru kabinets nosaka atkritumu apsaimniekošanas atļauju izsniegšanas, pagarināšanas, pārskatīšanas un anulēšanas kārtību, atkritumu apsaimniekošanas atļaujās izvirzāmās prasības un apstiprina atkritumu savākšanas, pārvadāšanas, pārkraušanas, šķirošanas un uzglabāšanas atļauju veidlapas.\n(4) Termiņš lēmuma pieņemšanai par atļaujas izsniegšanu, pagarināšanu, pārskatīšanu vai anulēšanu nedrīkst būt garāks par 90 dienām."
+    },
+    {
+      "provision_ref": "Art. 11.1",
+      "chapter": "IV nodaļa Atkritumu apsaimniekošanas atļaujas",
+      "section": "11.1",
+      "title": "11. 1 pants. (1) Valsts vides dienesta pieņemto lēmumu attiecībā uz atkritumu apsaimniekošanas atļauju mēneša laikā no lēmuma spēkā stāšanās dienas var apstrīdēt Vides pārraudzības valsts birojā.",
+      "content": "(2) Ja saskaņā ar atkritumu apsaimniekošanas atļaujas nosacījumiem ir iespējams uzsākt vai turpināt tādu piesārņojošu darbību, kura var apdraudēt cilvēku dzīvību vai būtiski negatīvi ietekmēt cilvēku veselību vai vidi, atļaujas nosacījumus var apstrīdēt jebkurā laikā, kamēr tā ir spēkā.\n(3) Ja lēmums tiek apstrīdēts Vides pārraudzības valsts birojā šā panta pirmajā un otrajā daļā noteiktajā termiņā, attiecīgās atļaujas darbība netiek apturēta. Ja atļaujas darbības turpināšana var radīt būtisku negatīvu ietekmi uz vidi, Vides pārraudzības valsts birojs pieņem lēmumu apturēt attiecīgās atļaujas darbību.\n(4) Ja tiek apstrīdēts lēmums par tādas jau esošas iekārtas darbību, kurai nepieciešams pagarināt atkritumu apsaimniekošanas atļaujas termiņu vai vajadzīga cita veida atļauja, iekārtas darbība netiek apturēta, izņemot gadījumu, kad uzņēmuma darbība tiek apturēta normatīvajos aktos noteiktajā kārtībā.\n(5) Vides pārraudzības valsts biroja pieņemto lēmumu var pārsūdzēt likumā noteiktajā kārtībā. Pieteikums tiesai neaptur administratīvā akta darbību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "12",
+      "title": "(1) Atkritumu savākšana, šķirošana, uzkrāšana, uzglabāšana, pārkraušana, apglabāšana vai pārstrāde ir atļauta tikai tam paredzētajās vietās.",
+      "content": "(2) Zemes īpašniekam, kura īpašuma teritorijā radīti sadzīves atkritumi, ir pienākums nodrošināt vietu atkritumu konteineram un tā komersanta transportlīdzekļa piekļuvi sadzīves atkritumu savākšanas punktam vai vietai, kurš nodarbojas ar atkritumu apsaimniekošanu un noslēdzis līgumu ar pašvaldību par sadzīves atkritumu apsaimniekošanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "13",
+      "title": "(1) Sadzīves atkritumu radītājs vai valdītājs:",
+      "content": "1) piedalās pašvaldības organizētajā sadzīves atkritumu apsaimniekošanā, ievērojot pašvaldības izdotos saistošos noteikumus un noslēdzot līgumu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu ar komersantu, kuram atbilstoši šā likuma 15.pantam ir noslēgts līgums ar pašvaldību;\n2) sedz sadzīves atkritumu, to skaitā sadzīvē radušos bīstamo atkritumu, apsaimniekošanas izmaksas, ietverot dalītās vākšanas un šķirošanas izmaksas.\n(2) Par atkritumu valdītāju uzskatāma persona, kura atbilst vismaz vienam no šādiem nosacījumiem:\n1) ir atkritumu radītāja;\n2) ir fiziskā vai juridiskā persona, kuras faktiskajā varā atkritumi atrodas.\n(3) Sadzīves atkritumi pēc to nodošanas atkritumu pārstrādes vai apglabāšanas komercsabiedrībām pāriet šo komercsabiedrību īpašumā.\n(4) Vasarnīcas vai vasaras mītnes (tajā skaitā dārzkopības biedrības teritorijā esošas vasarnīcas vai vasaras mītnes) īpašnieks, valdītājs, lietotājs vai viņa pilnvarota persona par laika periodu, kurā uzturas vasarnīcā, ievērojot pašvaldības izdotos sais­tošos noteikumus un atbilstoši šā panta pirmajai daļai noslēdz līgumu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu ar komersantu, kuram ir noslēgts līgums ar pašvaldību, kā arī sedz sadzīves atkritumu apsaimniekošanas izmaksas."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "14",
+      "title": "(1) Bīstamo atkritumu radītājs vai valdītājs:",
+      "content": "1) atdala bīstamos atkritumus no citu veidu atkritumiem;\n2) uzglabā bīstamos atkritumus tā, lai tie neapdraudētu cilvēku dzīvību un veselību, vidi, kā arī personu mantu;\n3) nogādā bīstamos atkritumus speciāli aprīkotās bīstamo atkritumu savākšanas vietās vai slēdz līgumu par bīstamo atkritumu apsaimniekošanu ar personu, kura veic bīstamo atkritumu apsaimniekošanu un ir saņēmusi atļauju veikt bīstamo atkritumu apsaimniekošanu;\n4) sedz bīstamo atkritumu apsaimniekošanas izmaksas.\n(2) Juridiskās personas, kuras bīstamos atkritumus uzglabā ilgāk par 12 mēnešiem, saņem normatīvajos aktos noteiktās atļaujas bīstamo atkritumu apsaimniekošanai un veic šā panta trešās daļas 3.punktā minētās darbības.\n(3) Persona, kura veic bīstamo atkritumu apsaimniekošanu:\n1) saņem atļauju bīstamo atkritumu savākšanai, uzglabāšanai, pārkraušanai, pārstrādei vai apglabāšanai, izņemot gadījumus, kad šīm darbībām ir izsniegta atļauja A vai B kategorijas piesārņojošu darbību veikšanai;\n2) saņem atļauju bīstamo atkritumu pārvadāšanai;\n3) nodrošina bīstamo atkritumu uzskaiti, iepakošanu, marķēšanu un identifikāciju;\n4) organizē speciāli aprīkotas bīstamo atkritumu savākšanas vietas."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "15",
+      "title": "(1) Vietējā pašvaldība, ņemot vērā šā likuma 9.panta pirmās daļas 3.punktā minētos saistošos noteikumus, izvēlas komersantu, kurš veiks sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu attiecīgajā sadzīves atkritumu apsaimniekošanas zonā, tādā kārtībā, kāda noteikta iepirkumu regulējošos normatīvajos aktos, organizējot iepirkuma procedūru par sadzīves atkritumu apsaimniekošanu noteiktā zonā. Pašvaldības var noteikt kopīgu pakalpojumu sniegšanas zonu, kurā ietilpst vairāku pašvaldību teritorija. Līgumu ar izraudzīto komersantu katra pašvaldība slēdz atsevišķi. Pašvaldība iekļauj darba uzdevumā arī prasības attiecībā uz pretendenta darbinieku kvalifikāciju, spēju veikt sadzīves atkritumu apsaimniekošanu un tehnisko vai finanšu nodrošinājumu sadzīves atkritumu apsaimniekošanas darbību veikšanai konkrētajā zonā. Pašvaldība iepirkuma komisijā var iekļaut pārstāvi no attiecīgās Valsts vides dienesta reģionālās vides pārvaldes.",
+      "content": "(1 1 ) Pašvaldībai publiskā iepirkuma procedūras ietvaros ir tiesības prasīt no sadzīves atkritumu apsaimniekošanas pretendenta (kandidāta) izvērstu sadzīves atkritumu apsaimniekošanas maksas aprēķinu.\n(2) Pašvaldība slēdz līgumu ar iepirkuma procedūras rezultātā izraudzīto sadzīves atkritumu apsaimniekotāju, kurš saņēmis sadzīves atkritumu apsaimniekošanas atļauju.\n(3) Līgumu starp pašvaldību un sadzīves atkritumu apsaimniekotāju slēdz uz laiku, kas nav ilgāks par publisko iepirkumu regulējošos normatīvajos aktos paredzēto laiku.\n(4) Pašvaldība informē savas administratīvās teritorijas atkritumu radītājus par šīs teritorijas dalījumu sadzīves atkritumu apsaimniekošanas zonās un par sadzīves atkritumu apsaimniekotāju, ar kuru tā noslēgusi līgumu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu attiecīgajā sadzīves atkritumu apsaimniekošanas zonā.\n(5) Personas, kas atbilstoši normatīvajiem aktiem par publisko iepirkumu ir publisko iepirkumu pasūtītāji, var neveikt sadzīves atkritumu savākšanas un pārvadāšanas publisko iepirkumu, bet slēgt līgumu ar komersantu, kuru šajā pantā noteiktajā kārtībā izvēlējusies vietējā pašvaldība, par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu.\n(6) Atkritumu radītājiem, kuri atbilstoši normatīvajiem aktiem atbrīvoti no dabas resursu nodokļa maksāšanas par atsevišķu veidu atkritumu apsaimniekošanu vai kuri piedalās atsevišķu veidu atkritumu apsaimniekošanas sistēmās, ir tiesības slēgt līgumu ar komersantu, kuru izvēlējies pats atkritumu radītājs, par šķirotu sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu, par to informējot vietējo pašvaldību.\n(7) Gadījumus, kad publisko iepirkumu procedūra netiek piemērota, nosaka Publisko iepirkumu likums."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "16",
+      "title": "Ir aizliegts sajaukt bīstamos atkritumus, kas atbilst dažādām bīstamo atkritumu kategorijām, kā arī sajaukt bīstamos atkritumus ar sadzīves atkritumiem.",
+      "content": "16.pants. Ir aizliegts sajaukt bīstamos atkritumus, kas atbilst dažādām bīstamo atkritumu kategorijām, kā arī sajaukt bīstamos atkritumus ar sadzīves atkritumiem."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "17",
+      "title": "Sadzīves atkritumi, kuri netiek pārstrādāti, apglabājami sadzīves atkritumu poligonā vai izgāztuvē, kur ir atļauts apglabāt atkritumus atbilstoši atkritumu apsaimniekošanas valsts un reģionālajiem plāniem.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 22.06.2005 . likumu, kas stājas spēkā 26.07.2005. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "18",
+      "title": "Pašvaldība nosaka poligonus, kuros tiks apglabāti tās teritorijā savāktie sadzīves atkritumi. Ne vēlāk kā 30 dienu laikā pēc reģionālā sadzīves atkritumu poligona darbības uzsākšanas tiek slēgtas visas sadzīves atkritumu izgāztuves to pašvaldību administratīvajās teritorijās, no kurām savāktie sadzīves atkritumi tiek apglabāti poligonā. Slēgtās izgāztuves tiek rekultivētas saskaņā ar atkritumu apsaimniekošanas valsts plānu un reģionālajiem plāniem. Pēc reģionālā sadzīves atkritumu poligona darbības uzsākšanas attiecīgā reģiona pašvaldību teritorijās radītos sadzīves atkritumus apglabā tikai šajā sadzīves atkritumu poligonā vai nodod tos attiecīgajās pārkraušanas stacijās.",
+      "content": "( 19.02.2004 . likuma redakcijā ar grozījumiem, kas izdarīti ar 02.12.2004. un 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "19",
+      "title": "(1) Atkritumu poligona, izgāztuves, sadedzināšanas iekārtas vai atkritumu pārstrādes objekta īpašnieks vai apsaimniekotājs:",
+      "content": "1) pirms atkritumu poligona, izgāztuves, sadedzināšanas iekārtas vai atkritumu pārstrādes objekta darbības uzsākšanas saņem vides aizsardzības jomu regulējošos normatīvajos aktos par piesārņojošām darbībām noteiktās atļaujas;\n2) apsaimnieko atkritumu poligonu, izgāztuvi, sadedzināšanas iekārtu vai atkritumu pārstrādes objektu saskaņā ar atkritumu apsaimniekošanas atļaujā minētajām prasībām, šo likumu un citiem vides aizsardzības jomu regulējošiem normatīvajiem aktiem;\n3) veic pasākumus un sedz izdevumus, kas saistīti ar atkritumu poligona vai izgāztuves slēgšanu, kā arī sadedzināšanas iekārtas vai atkritumu pārstrādes objekta darbības izbeigšanu.\n(2) Atkritumu poligona īpašnieks vai apsaimniekotājs, saņemot atļaujas pirms atkritumu poligona darbības uzsākšanas, sniedz finanšu garantiju drošības naudas, saistību izpildes apdrošināšanas polises vai kredītiestādes galvojuma veidā, lai nodrošinātu, ka tiek izpildītas attiecīgajās atļaujās noteiktās prasības, tajā skaitā prasības attiecībā uz poligona slēgšanu un pēc poligona slēgšanas veicamo vides monitoringu."
+    },
+    {
+      "provision_ref": "Art. 19.1",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "19.1",
+      "title": "19. 1 pants. Atkritumu pārstrādes objekta īpašnieks vai apsaimniekotājs Ministru kabineta noteiktajā kārtībā, termiņā un formā iesniedz Valsts vides dienestam ziņojumu par iepriekšējā kalendāra gadā pārstrādāto atkritumu apjomu un veidiem.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Atkritumu radītāju, valdītāju un to personu pienākumi, kuras veic atkritumu apsaimniekošanu (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.02.2004 . likumu, kas stājas spēkā 23.03.2004. )",
+      "section": "20",
+      "title": "(1) Personas, kuras nodarbojas ar atkritumu apsaimniekošanu:",
+      "content": "1) veic apsaimniekoto atkritumu daudzuma (apjoma), veidu, izcelsmes, savākšanas biežuma, pārvadāšanas, pārstrādes un apglabāšanas veidu, pārstrādes un apglabāšanas vietu uzskaiti, reizi gadā iesniedz apkopoto informāciju Vides ministrijai vai tās pilnvarotai institūcijai, kā arī attiecīgajai pašvaldībai un uzglabā šos materiālus trīs gadus;\n2) pēc pieprasījuma sniedz valsts institūcijām, pašvaldībām un sabiedrībai informāciju par atkritumu apsaimniekošanu, tai skaitā šā panta 1.punktā minēto informāciju un citu vides informāciju;\n3) pēc bīstamo atkritumu iepriekšējā valdītāja pieprasījuma sniedz izziņu par attiecīgo atkritumu savākšanu, uzglabāšanu, pārkraušanu un pārvadāšanu, pārstrādi un apglabāšanu.\n(2) Bīstamo atkritumu pārvadājumu uzskaiti Ministru kabineta noteiktajā kārtībā veic Vides ministrijas pilnvarota iestāde vai komersants, kuram šo uzdevumu deleģējusi Vides ministrija."
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.1",
+      "title": "20. 1 pants. (1) Elektriskās un elektroniskās iekārtas ir tādas iekārtas, ko darbina ar elektrisko strāvu vai elektromagnētisko lauku, un iekārtas elektriskās strāvas un elektromagnētiskā lauka ģenerēšanai, piegādei un mērīšanai, kas konstruētas izmantošanai ar spriegumu, kurš nepārsniedz 1000 voltus maiņstrāvai un 1500 voltus līdzstrāvai, un kas atbilst Ministru kabineta noteiktajām kategorijām.",
+      "content": "(2) Elektrisko un elektronisko iekārtu atkritumi ir elektriskās un elektroniskās iekārtas, kas uzskatāmas par atkritumiem, ieskaitot visas sastāvdaļas, detaļu blokus un palīgmateriālus, kas ir attiecīgās iekārtas daļa brīdī, kad iekārta kļūst par atkritumu.\n(3) Mājsaimniecības elektrisko un elektronisko iekārtu atkritumi ir elektrisko un elektronisko iekārtu atkritumi, kuri radušies mājsaimniecībā vai citur, ja tie rakstura un daudzuma ziņā pielīdzināmi mājsaimniecībā radītajiem elektriskajiem un elektroniskajiem atkritumiem.\n(4) Elektrisko un elektronisko iekārtu atkritumu rašanās novēršana ir tādu pasākumu kopums, kuru mērķis ir samazināt elektrisko un elektronisko iekārtu un tajos esošo materiālu un vielu daudzumus, kā arī kaitējumu, ko tie nodara videi."
+    },
+    {
+      "provision_ref": "Art. 20.2",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.2",
+      "title": "20. 2 pants. (1) Elektrisko un elektronisko iekārtu ražotājs ir jebkura persona, kas neatkarīgi no izmantotās tirdzniecības metodes, arī neatkarīgi no distances līguma:",
+      "content": "1) izgatavo un pārdod elektriskās un elektroniskās iekārtas ar savu firmas zīmi;\n2) pārdod ar savu firmas zīmi elektriskās un elektroniskās iekārtas, ko izgatavojušas citas personas, izņemot gadījumus, kad uz iekārtas ir arī izgatavotāja firmas zīme;\n3) savas saimnieciskās darbības ietvaros Latvijā importē vai no Latvijas eksportē elektriskās un elektroniskās iekārtas.\n(2) Personu, kas pilnībā nodrošina maksājumus saskaņā ar noslēgto līgumu (aizdevuma, nomas, īres vai nomaksas pirkuma līgums vai cits līgums attiecībā uz iekārtām neatkarīgi no tā, vai līguma noteikumos paredzēta iekārtu īpašumtiesību nodošana), neuzskata par ražotāju, ja uz to neattiecas šā panta pirmās daļas nosacījumi.\n(3) Elektrisko un elektronisko iekārtu ražotājus Ministru kabineta noteiktajā kārtībā reģistrē Vides ministrijas pilnvarota iestāde vai elektrisko un elektronisko iekārtu ražotāju nodibināta personu apvienība, kura darbojas ne mazāk kā piecus gadus un kurai šo uzdevumu deleģējusi Vides ministrija. Elektrisko un elektronisko iekārtu ražotāji sniedz Vides ministrijas pilnvarotajai iestādei vai minētajai personu apvienībai informāciju par Latvijas tirgū piedāvāto elektrisko un elektronisko iekārtu daudzumu, kategorijām, kā arī par savākto, atkārtoti izmantoto, pārstrādāto, reģenerēto un eksportēto elektrisko un elektronisko iekārtu atkritumu daudzumu un kategorijām.\n(4) Ministru kabinets nosaka ārvalstu elektrisko un elektronisko iekārtu ražotāju reģistrācijas kārtību un pienākumus attiecībā uz informācijas sniegšanu par Latvijas tirgū laisto elektrisko un elektronisko iekārtu daudzumu un kategorijām, kā arī par savākto, atkārtoti izmantoto, pārstrādāto, reģenerēto un eksportēto elektrisko un elektronisko iekārtu atkritumu daudzumu un kategorijām."
+    },
+    {
+      "provision_ref": "Art. 20.3",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.3",
+      "title": "20. 3 pants. Elektrisko un elektronisko iekārtu izgatavotājs veic elektrisko un elektronisko iekārtu izstrādi un ražošanu tā, ka ir iespējama to demontāža un reģenerācija, kā arī elektrisko un elektronisko iekārtu, to sastāvdaļu un materiālu atkārtota izmantošana un pārstrāde. Elektrisko un elektronisko iekārtu izstrādē un ražošanā nedrīkst lietot paņēmienus, kuri apgrūtina elektrisko un elektronisko iekārtu atkritumu atkārtotu izmantošanu, izņemot gadījumus, kad šādu paņēmienu lietošana būtiski uzlabo vides aizsardzības vai drošības prasību piemērošanu.",
+      "content": "20. 3 pants. Elektrisko un elektronisko iekārtu izgatavotājs veic elektrisko un elektronisko iekārtu izstrādi un ražošanu tā, ka ir iespējama to demontāža un reģenerācija, kā arī elektrisko un elektronisko iekārtu, to sastāvdaļu un materiālu atkārtota izmantošana un pārstrāde. Elektrisko un elektronisko iekārtu izstrādē un ražošanā nedrīkst lietot paņēmienus, kuri apgrūtina elektrisko un elektronisko iekārtu atkritumu atkārtotu izmantošanu, izņemot gadījumus, kad šādu paņēmienu lietošana būtiski uzlabo vides aizsardzības vai drošības prasību piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 20.4",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.4",
+      "title": "20. 4 pants. (1) Elektrisko un elektronisko iekārtu ražotājs nodrošina elektrisko un elektronisko iekārtu atkritumu pieņemšanu, apstrādi, atkārtotu izmantošanu, pārstrādi, reģenerāciju un apglabāšanu, izmantojot labākos pieejamos tehniskos paņēmienus.",
+      "content": "(2) Elektrisko un elektronisko iekārtu ražotājs var pats veikt šā panta pirmajā daļā minētos pasākumus vai slēgt līgumu ar elektrisko un elektronisko iekārtu atkritumu apsaimniekotāju (komercsabiedrību, kas, pamatojoties uz noslēgto līgumu ar elektrisko un elektronisko iekārtu ražotāju, organizē un koordinē elektrisko un elektronisko iekārtu atkritumu apsaimniekošanu).\n(3) Elektrisko un elektronisko iekārtu ražotājs nodrošina to, ka mājsaimniecības elektrisko un elektronisko iekārtu atkritumu pieņemšana izveidotajā savākšanas sistēmā notiek bez maksas.\n(4) Elektrisko un elektronisko iekārtu izplatītājs ir jebkura persona, kas savas komercdarbības vai saimnieciskās darbības ietvaros piegādā elektriskas un elektroniskas iekārtas personai, kura plāno tās lietot. Elektrisko un elektronisko iekārtu izplatītājs, kas piegādā jaunas mājsaimniecības elektriskās vai elektroniskās iekārtas tieši to lietotājam, nodrošina šo iekārtu atkritumu pieņemšanu, neprasot par to samaksu, ja attiecīgā iekārta pieder pie līdzīga tipa iekārtām un veikusi tādas pašas funkcijas kā piegādātā iekārta.\n(5) Savāktie elektrisko vai elektronisko iekārtu atkritumi tiek nodoti apstrādes uzņēmumiem (iekārtām), ja šo iekārtu operatori ir saņēmuši normatīvajos aktos noteiktās atļaujas, izņemot neizkomplektētas elektriskās vai elektroniskās iekārtas, kuras paredzēts izmantot atkārtoti.\n(6) Personas, kuras savas saimnieciskās darbības ietvaros ieved no citām valstīm vai izved uz citām valstīm elektriskās un elektroniskās iekārtas, ievēro šā likuma 20. 2 panta trešās daļas, šā panta un 20. 6 panta prasības."
+    },
+    {
+      "provision_ref": "Art. 20.5",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.5",
+      "title": "20. 5 pants. (1) (Izslēgta ar 13.03.2008 . likumu.)",
+      "content": "(2) (Izslēgta ar 13.03.2008 . likumu.)\n(3) Līdz 2005.gada 13.augustam tirgū piedāvāto mājsaimniecības elektrisko un elektronisko iekārtu atkritumu apsaimniekošanas izmaksas sedz visi elektrisko un elektronisko iekārtu ražotāji.\n(4) Līdz 2005.gada 13.augustam tirgū piedāvāto to elektrisko un elektronisko iekārtu, kuras nav uzskatāmas par mājsaimniecības elektriskajām vai elektroniskajām iekārtām, atkritumu apsaimniekošanas izmaksas sedz šo iekārtu lietotāji. Šo iekārtu ražotāji minēto atkritumu apsaimniekošanas izmaksas sedz, ja iekārtas tiek aizstātas ar jaunām identiskām iekārtām vai jaunām iekārtām, kuras veic līdzvērtīgas funkcijas.\n(5) Līdz 2005.gada 13.augustam tirgū laisto mājsaimniecības elektrisko un elektronisko iekārtu ražotāji jaunu iekārtu pārdošanas brīdī var pircējiem sniegt informāciju par izmaksām, kas saistītas ar šo iekārtu atkritumu savākšanu, apstrādi un apglabāšanu drošā veidā.\n(6) Pēc 2005.gada 13.augusta Latvijas tirgū laisto mājsaimniecības elektrisko un elektronisko iekārtu pārdošanas brīdī pircējiem netiek sniegta informācija par izmaksām, kas saistītas ar šo iekārtu atkritumu savākšanu, apstrādi un apglabāšanu drošā veidā."
+    },
+    {
+      "provision_ref": "Art. 20.6",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.6",
+      "title": "20. 6 pants. Ražotājs, kas laiž tirgū elektriskās un elektroniskās iekārtas pēc 2005.gada 13.augusta un nav izvēlējies šā likuma 20. 4 panta otrajā daļā minētos elektrisko un elektronisko iekārtu atkritumu apsaimniekošanas veidus, šā likuma 20. 4 panta pirmajā daļā minēto pasākumu veikšanu garantē ar bankas garantiju vai civiltiesiskās atbildības apdrošināšanu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "Art. 20.7",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.7",
+      "title": "20. 7 pants. (1) (Izslēgta ar 02.12.2004 . likumu.)",
+      "content": "(2) Ministru kabinets nosaka:\n1) prasības elektrisko un elektronisko iekārtu marķēšanai;\n2) prasības elektrisko un elektronisko iekārtu atkritumu savākšanai un apstrādei;\n3) elektrisko un elektronisko atkritumu savākšanas, atkārtotas izmantošanas, pārstrādes un reģenerācijas apjomus un termiņus, kā arī prasības ziņojuma sniegšanai par šo darbību izpildi;\n4) prasības informācijas sniegšanai patērētājiem, elektrisko un elektronisko iekārtu atkritumu apstrādes, atkārtotas izmantošanas, pārstrādes un reģenerācijas iekārtu operatoriem, kā arī prasības sabiedrības un Eiropas Komisijas informēšanai."
+    },
+    {
+      "provision_ref": "Art. 20.8",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.8",
+      "title": "20. 8 pants (1) Baterija vai akumulators ir elektriskās enerģijas avots, kurā enerģija rodas, tieši pārveidojoties ķīmiskajai enerģijai, un kurš sastāv no vienas vai vairākām primārām (atkārtoti neuzlādējamām) vai sekundārām (atkārtoti uzlādējamām) daļām.",
+      "content": "(2) Baterijas un akumulatori tiek iedalīti šādās kategorijās:\n1) bateriju pakete ir bateriju vai akumulatoru komplekss, kas savienots kopā vai ietverts ārējā apvalkā, veidojot vienotu bloku, un nav paredzēts, ka tiešais lietotājs to sadalīs vai atvērs;\n2) pārnēsājama baterija vai akumulators ir jebkura aizplombēta baterija, podziņelements, bateriju pakete vai akumulators, ko var pārnēsāt rokās un kas nav ne rūpniecībā, ne arī transportlīdzekļos vai citā pašgājējā tehnikā izmantojama baterija vai akumulators;\n3) podziņelementi ir mazas, apaļas pārnēsājamas baterijas vai akumulatori, kuru diametrs ir lielāks par augstumu un kurus izmanto īpašiem nolūkiem, piemēram, dzirdes aparātos, rokas pulksteņos, mazās pārnēsājamās iekārtās un kā enerģijas avotus datu saglabāšanai;\n4) transportlīdzekļos vai citā pašgājējā tehnikā izmantojama baterija vai akumulators ir baterija vai akumulators, ko izmanto, lai darbinātu transportlīdzekļa vai citas pašgājējas tehnikas starteri, apgaismes shēmu vai aizdedzi (turpmāk — transportlīdzekļu baterijas un akumulatori);\n5) rūpniecībā izmantojama baterija vai akumulators ir jebkura baterija vai akumulators, kas izstrādāts tikai rūpnieciskam vai profesionālam lietojumam vai kas lietojams jebkura veida elektriskajos transport­līdzekļos.\n(3) Šā likuma noteikumi attiecas uz visu veidu baterijām un akumulatoriem neatkarīgi no to lietojuma, formas, ietilpības, svara vai tajos izmantotajiem materiāliem. Šajā likumā noteiktās prasības neattiecas uz baterijām un akumulatoriem, ko izmanto iekārtās, kuras paredzētas valsts drošībai un kuras izmanto ieročos, munīcijā un militārajā aprīkojumā, kā arī iekārtās, kuras paredzētas sūtīšanai kosmosā, izņemot ražojumus, kas nav paredzēti konkrētiem militāriem nolūkiem.\n(4) Bateriju vai akumulatoru atkritumi ir jebkura baterija vai akumulators, kas atbilst šā likuma 1.panta 1.punktā dotajai atkritumu definīcijai."
+    },
+    {
+      "provision_ref": "Art. 20.9",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.9",
+      "title": "20. 9 pants (1) Bateriju un akumulatoru ražotājs ir jebkura persona, kas neatkarīgi no izmantotās tirdzniecības metodes, arī neatkarīgi no distances līguma, savas komercdarbības vai saimnieciskās darbības ietvaros pirmo reizi Latvijas tirgū laiž baterijas un akumulatorus, tajā skaitā baterijas un akumulatorus, kas atbilstoši ražotāja komercdarbībai ir iestrādāti ierīcēs vai transportlīdzekļos.",
+      "content": "(2) Bateriju un akumulatoru izplatītājs ir jebkura persona, kas savas komercdarbības vai saimnieciskās darbības ietvaros baterijas un akumulatorus piegādā tiešajiem lietotājiem.\n(3) Ministru kabinets nosaka bateriju un akumulatoru ražotāju reģistrācijas kārtību un reģistra turētāju. Bateriju un akumulatoru ražotāji sniedz reģistram informāciju par Latvijas tirgū laisto bateriju un akumulatoru daudzumu un veidiem, par savākto un pārstrādāto, kā arī eksportēto bateriju un akumulatoru daudzumu un veidiem."
+    },
+    {
+      "provision_ref": "Art. 20.10",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.10",
+      "title": "20. 10 pants. Laišana tirgū nozīmē, ka baterijas un akumulatori par maksu vai bez maksas tiek piegādāti vai padarīti pieejami patērētājam Latvijas valsts teritorijā.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. Sk. pārejas noteikumus.)"
+    },
+    {
+      "provision_ref": "Art. 20.11",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.11",
+      "title": "20. 11 pants. (1) Bateriju un akumulatoru ražotājs nodrošina bateriju un akumulatoru atkritumu pieņemšanu, savākšanu, apstrādi un pārstrādi, izmantojot labākos pieejamos tehniskos paņēmienus.",
+      "content": "(2) Bateriju un akumulatoru ražotājs var pats veikt šā panta pirmajā daļā minētos pasākumus vai slēgt līgumu ar komersantu, kas, pamatojoties uz noslēgto līgumu, organizē un koordinē bateriju un akumulatoru atkritumu apsaimniekošanu."
+    },
+    {
+      "provision_ref": "Art. 20.12",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.12",
+      "title": "20. 12 pants. (1) Pārnēsājamo bateriju vai akumulatoru atkritumus arī tad, ja to nodrošina bateriju un akumulatoru izplatītājs, savāc vai pieņem bez maksas, neuzliekot tiešajiem lietotājiem par pienākumu pirkt jaunu bateriju vai akumulatoru.",
+      "content": "(2) Transportlīdzekļu bateriju un akumulatoru ražotājs vai izplatītājs nodrošina šādu bateriju un akumulatoru atkritumu savākšanu vai pieņemšanu no privātiem, saimnieciskajai darbībai neparedzētiem (nekomerciāliem) sauszemes transportlīdzekļiem vai citas pašgājējas tehnikas bez maksas, neuzliekot par pienākumu pirkt jaunu bateriju vai akumulatoru.\n(3) Rūpniecībā izmantojamo bateriju un akumulatoru ražotājs vai izplatītājs nodrošina šādu bateriju un akumulatoru atkritumu savākšanu vai pieņemšanu neatkarīgi no šo bateriju un akumulatoru ķīmiskā sastāva un izcelsmes."
+    },
+    {
+      "provision_ref": "Art. 20.13",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.13",
+      "title": "20. 13 pants. Rūpniecībā izmantojamo bateriju, akumulatoru un transportlīdzekļu bateriju vai akumulatoru atkritumus nedrīkst pieņemt apglabāšanai atkritumu poligonos, kā arī sadedzināt. Bateriju vai akumulatoru atkritumu apstrādes un pārstrādes procesā radušos pārpalikumus drīkst apglabāt atkritumu poligonos vai sadedzināt.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. Sk. pārejas noteikumus.)"
+    },
+    {
+      "provision_ref": "Art. 20.14",
+      "chapter": "V 1 nodaļa Elektrisko un elektronisko iekārtu, bateriju un akumulatoru atkritumu apsaimniekošana (Nodaļa 19.02.2004 . likuma redakcijā; nodaļas nosaukums 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )",
+      "section": "20.14",
+      "title": "20. 14 pants. Ministru kabinets nosaka:",
+      "content": "1) bateriju un akumulatoru atkritumu savākšanai, apstrādei un pārstrādei izvirzāmās prasības;\n2) bateriju un akumulatoru savākšanas un pārstrādes apjomus un termiņus, kā arī prasības attiecībā uz to, kā sniedzams ziņojums par šo darbību izpildi."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Maksa par atkritumu apsaimniekošanu un atbalsts komercdarbībai (Nodaļas nosaukums 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )",
+      "section": "21",
+      "title": "(1) Maksu par bīstamo atkritumu savākšanu, uzglabāšanu, pārkraušanu, pārvadāšanu un pārstrādi, kā arī par sadzīves atkritumu pārstrādi nosaka, atkritumu radītājam vai valdītājam vienojoties ar atkritumu apsaimniekotāju.",
+      "content": "(2) Maksa par bīstamo atkritumu apglabāšanu tiek reglamentēta Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "chapter": "VI nodaļa Maksa par atkritumu apsaimniekošanu un atbalsts komercdarbībai (Nodaļas nosaukums 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )",
+      "section": "21.1",
+      "title": "21. 1 pants. (1) Maksu par sadzīves atkritumu apsaimniekošanu (izņemot sadzīves atkritumu pārstrādi) atkritumu radītājiem vai valdītājiem (izņemot šā likuma 15.panta sestajā daļā minētos atkritumu radītājus) nosaka pašvaldība. Maksu par sadzīves atkritumu apsaimniekošanu (izņemot sadzīves atkritumu pārstrādi) veido:",
+      "content": "1) maksa par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu;\n2) sabiedrisko pakalpojumu regulatora apstiprinātais tarifs par sadzīves atkritumu apglabāšanu atkritumu poligonos un izgāztuvēs;\n3) dabas resursu nodoklis par atkritumu apglabāšanu normatīvajos aktos noteiktajā apmērā.\n(2) Maksu par sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu pašvaldība nosaka, pamatojoties uz līgumu, kas noslēgts starp pašvaldību un komersantu, kuru atbilstoši šā likuma 15.pantam izvēlējusies pašvaldība un kurš veiks sadzīves atkritumu apsaimniekošanu.\n(3) Komersants, kuru atbilstoši šā likuma 15.pantam izvēlējusies pašvaldība, nodrošina sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu par vienādu maksu visiem sadzīves atkritumu radītājiem attiecīgajā šo atkritumu apsaimniekošanas zonā atbilstoši šajā likumā noteiktajā kārtībā noslēgtajam līgumam ar pašvaldību."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Maksa par atkritumu apsaimniekošanu un atbalsts komercdarbībai (Nodaļas nosaukums 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )",
+      "section": "22",
+      "title": "Tarifu par sadzīves atkritumu apglabāšanu atkritumu poligonos un izgāztuvēs regulē likumā \"Par sabiedrisko pakalpojumu regulatoriem\" noteiktajā kārtībā.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. Sk. pārejas noteikumus.)"
+    },
+    {
+      "provision_ref": "Art. 22.1",
+      "chapter": "VI nodaļa Maksa par atkritumu apsaimniekošanu un atbalsts komercdarbībai (Nodaļas nosaukums 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )",
+      "section": "22.1",
+      "title": "22. 1 pants. (Izslēgts ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )",
+      "content": "22. 1 pants.\n(Izslēgts ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "Art. 22.2",
+      "chapter": "VI nodaļa Maksa par atkritumu apsaimniekošanu un atbalsts komercdarbībai (Nodaļas nosaukums 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )",
+      "section": "22.2",
+      "title": "22. 2 pants. Maksā par atkritumu apglabāšanu poligonos iekļauj visas ar poligona ierīkošanu un ekspluatāciju saistītās izmaksas, kā arī izmaksas, kas saistītas ar poligona apsaimniekotāja finanšu garantiju drošības naudas, saistību izpildes apdrošināšanas polises vai kredītiestādes galvojuma veidā, poligona slēgšanas izmaksas un izmaksas, kas saistītas ar slēgta poligona monitoringu vismaz 30 gadus ilgā laika posmā pēc poligona slēgšanas.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "23",
+      "title": "(1) Bīstamo atkritumu eksportēšana pārstrādei vai apglabāšanai uz valstīm, kuras pievienojušās 1989.gada 22.marta Bāzeles konvencijai par kontroli pār kaitīgo atkritumu robežšķērsojošo transportēšanu un to aizvākšanu, ir atļauta, ievērojot minētajā konvencijā noteikto procedūru.",
+      "content": "(2) Latvijas teritorijā aizliegts ievest atkritumus apglabāšanai, ilgstošai uzglabāšanai vai sadedzināšanai, izņemot gadījumu, kad atkritumu sadedzināšana ir klasificējama kā atkritumu pārstrāde vai reģenerācija, attiecīgo atkritumu sadedzināšanas iekārtas īpašnieks ir saņēmis normatīvajos aktos par piesārņojošām darbībām noteikto atļauju attiecīgo atkritumu sadedzināšanai un iekārtai ir atbilstoša jauda.\n(3) Bīstamos atkritumus pārstrādei ir atļauts ievest tikai tad, ja valsts teritorijā darbojas bīstamo atkritumu pārstrādes iekārtas, kuru īpašnieks saņēmis atļauju attiecīgo bīstamo atkritumu pārstrādei un kurām ir atbilstoša jauda.\n(4) Atļauju ievest atkritumus pārstrādei valsts teritorijā atbilstoši Padomes 1993.gada 1.februāra regulai 259/93 /EEK par uzraudzību un kontroli attiecībā uz atkritumu pārvadājumiem Eiropas Kopienā, ievešanu tajā un izvešanu no tās izsniedz Valsts vides dienests."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par sadzīves atkritumiem \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 23.nr.) un likums \" Par bīstamajiem atkritumiem \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 14./15.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 3.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par sadzīves atkritumiem \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1998, 23.nr.) un likums \" Par bīstamajiem atkritumiem \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 14./15.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 3.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn2",
+      "title": "2. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne vēlāk kā līdz 2002.gada 1.janvārim ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 1996.gada 17.septembra noteikumi nr.353 \" Kārtība, kādā noformējami dokumenti darbībām ar bīstamajiem atkritumiem \";\n2) Ministru kabineta 1997.gada 12.augusta noteikumi nr.298 \"Noteikumi par bīstamo atkritumu klasifikāciju un bīstamības kritērijiem\";\n3) Ministru kabineta 2000.gada 8.februāra noteikumi nr.56 \" Sadzīves atkritumu poligonu ierīkošanas, apsaimniekošanas un slēgšanas noteikumi \";\n4) Ministru kabineta 1999.gada 9.februāra noteikumi nr.39 \"Sadzīves atkritumu klasificēšanas noteikumi\";\n5) Ministru kabineta 1999.gada 8.jūnija noteikumi nr.205 \" Noteikumi par fizisko un juridisko personu reģistrāciju, kuras veic sadzīves atkritumu savākšanu, uzglabāšanu, apstrādi, pārkraušanu vai pārvadāšanu \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn3",
+      "title": "3. Atļaujas, kas izsniegtas, pamatojoties uz likumu \" Par sadzīves atkritumiem \" un \" Par bīstamajiem atkritumiem \" prasībām, ir spēkā līdz to termiņa beigām.",
+      "content": "3. Atļaujas, kas izsniegtas, pamatojoties uz likumu \" Par sadzīves atkritumiem \" un \" Par bīstamajiem atkritumiem \" prasībām, ir spēkā līdz to termiņa beigām."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn4",
+      "title": "4. Šā likuma 11.panta pirmā daļa, 14.panta otrā daļa un trešās daļas 1.punkts, 15.panta 1.punkts un 19.panta 1.punkts neattiecas uz personu, kas veic atkritumu apsaimniekošanu, ja tā visām iekārtām, kurās tiek veikta atkritumu apsaimniekošana, ir saņēmusi atļaujas likumā par piesārņojumu noteiktajā kārtībā.",
+      "content": "4. Šā likuma 11.panta pirmā daļa, 14.panta otrā daļa un trešās daļas 1.punkts, 15.panta 1.punkts un 19.panta 1.punkts neattiecas uz personu, kas veic atkritumu apsaimniekošanu, ja tā visām iekārtām, kurās tiek veikta atkritumu apsaimniekošana, ir saņēmusi atļaujas likumā par piesārņojumu noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn5",
+      "title": "5. Šā likuma 7.panta 1.punkts stājas spēkā 2003.gada 1.janvārī.",
+      "content": "5. Šā likuma 7.panta 1.punkts stājas spēkā 2003.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn6",
+      "title": "6. Ministru kabinets līdz 2002.gada 1.janvārim pieņem šā likuma 7.panta 3., 5. un 9.punktā, 11.panta trešajā daļā un 15.panta 1.punktā minētos Ministru kabineta noteikumus, bet līdz 2003.gada 1.janvārim — šā likuma 7.panta 4., 6.un 7.punktā, 21.panta otrajā daļā un 23.panta piektajā daļā minētos Ministru kabineta noteikumus, kā arī apstiprina šā likuma 7.panta 2.punktā minēto objektu un poligonu izvietojumu.",
+      "content": "6. Ministru kabinets līdz 2002.gada 1.janvārim pieņem šā likuma 7.panta 3., 5. un 9.punktā, 11.panta trešajā daļā un 15.panta 1.punktā minētos Ministru kabineta noteikumus, bet līdz 2003.gada 1.janvārim — šā likuma 7.panta 4., 6.un 7.punktā, 21.panta otrajā daļā un 23.panta piektajā daļā minētos Ministru kabineta noteikumus, kā arī apstiprina šā likuma 7.panta 2.punktā minēto objektu un poligonu izvietojumu."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn7",
+      "title": "7. Ministru kabinets līdz 2001.gada 1.jūlijam pieņem šā likuma 7.panta 8.punktā minētos Ministru kabineta noteikumus attiecībā uz bīstamo atkritumu sadedzināšanu, bet līdz 2003.gada 1.janvārim — attiecībā uz visu atkritumu sadedzināšanu.",
+      "content": "7. Ministru kabinets līdz 2001.gada 1.jūlijam pieņem šā likuma 7.panta 8.punktā minētos Ministru kabineta noteikumus attiecībā uz bīstamo atkritumu sadedzināšanu, bet līdz 2003.gada 1.janvārim — attiecībā uz visu atkritumu sadedzināšanu."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn8",
+      "title": "8. Šā likuma 14.panta pirmās daļas 3.punkts stājas spēkā 2004.gada 1.janvārī.",
+      "content": "8. Šā likuma 14.panta pirmās daļas 3.punkts stājas spēkā 2004.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn9",
+      "title": "9. Ministru kabinets līdz 2005.gada 1.jūlijam izdod:",
+      "content": "1) šā likuma 9.panta otrajā daļā minētos ieteikumus;\n2) šā likuma 7.panta 9.punktā un 11.panta trešajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūlijam piemērojami Ministru kabineta 2001.gada 15.maija noteikumi nr.191 \"Noteikumi par atkritumu apglabāšanas un pārstrādes veidiem\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2001, 12.nr.) un Ministru kabineta 2001.gada 9.oktobra noteikumi nr.432 \"Atkritumu apsaimniekošanas atļauju izsniegšanas, pagarināšanas un anulēšanas kārtība\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2001, 21.nr.), ciktāl tie nav pretrunā ar šo likumu."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn10",
+      "title": "10. Atkritumu pārstrādes un apglabāšanas atļaujas, kas izdotas saskaņā ar šo likumu, ir spēkā līdz to derīguma termiņa beigām. Atkritumu pārstrādes un apglabāšanas atļaujas A vai B kategorijas piesārņojošām darbībām var pagarināt līdz termiņam, kurā normatīvajos aktos noteiktajā kārtībā jāsaņem atļauja A vai B kategorijas piesārņojošas darbības veikšanai. Atkritumu apglabāšanai izgāztuvē nepieciešams saņemt atkritumu apglabāšanas atļauju. Izsniegtās atkritumu apglabāšanas atļaujas var pagarināt līdz izgāztuves slēgšanai.",
+      "content": "( 19.02.2004 . likuma redakcijā ar grozījumiem, kas izdarīti ar 22.06.2005 . likumu, kas stājas spēkā 26.07.2005. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn11",
+      "title": "11. Ministru kabinets līdz 2005.gada 1.jūlijam iekļauj atkritumu apsaimniekošanas valsts plānā šā likuma 10.panta otrās daļas 8.punktā un trešajā daļā minētās prasības.",
+      "content": "( 02.12.2004 . likuma redakcijā, kas stājas spēkā 01.01.2005. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn12",
+      "title": "12. Šā likuma V 1 nodaļa stājas spēkā 2004.gada 1.augustā.",
+      "content": "( 19.02.2004 . likuma redakcijā, kas stājas spēkā 23.03.2004. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn13",
+      "title": "13. Šā likuma 20. 4 panta pirmā, otrā, trešā un ceturtā daļa attiecībā uz mājsaimniecības elektrisko un elektronisko iekārtu atkritumiem stājas spēkā 2005.gada 13.augustā.",
+      "content": "( 19.02.2004 . likuma redakcijā, kas stājas spēkā 23.03.2004. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn14",
+      "title": "14. Šā likuma 20. 5 pants stājas spēkā vienlaikus ar attiecīgajiem grozījumiem likumā \"Par dabas resursu nodokli\".",
+      "content": "( 19.02.2004 . likuma redakcijā, kas stājas spēkā 23.03.2004. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn15",
+      "title": "15. (Izslēgts ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )",
+      "content": "15. (Izslēgts ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn16",
+      "title": "16. Pašvaldība organizē publiskā iepirkuma procedūru par sadzīves atkritumu apsaimniekošanu noteiktā zonā tādā termiņā, lai nodrošinātu sadzīves atkritumu apsaimniekošanas pakalpojuma sniegšanas nepārtrauktību. Noslēdzoties publiskā iepirkuma procedūrai, pašvaldība slēdz līgumu ar komersantu, kurš izraudzīts publisko iepirkumu regulējošos normatīvajos aktos noteiktajā kārtībā un kurš veiks sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu attiecīgajā sadzīves atkritumu apsaimniekošanas zonā pēc iepriekšējā līguma darbības termiņa beigām.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn17",
+      "title": "17. Ja līgums starp pašvaldību un komersantu, kurš veic sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu attiecīgajā sadzīves atkritumu apsaimniekošanas zonā, noslēgts līdz 2006.gada 31.de­cembrim un tajā nav paredzētas visas attiecīgajā reģionālajā atkritumu apsaim­niekošanas plānā noteiktās darbības, pašvaldība un attiecīgais komersants groza šo līgumu at­bilstoši attiecīgajam reģionālajam atkritumu apsaimniekošanas plānam. Līguma grozīšana atbilstoši attiecīgajam reģionālajam atkritumu apsaim­niekošanas plānam nerada tiesības līgumslēdzējai pusei prasīt līguma darbības termiņa pagarināšanu vai kāda cita līgumā iekļautā nosacījuma grozīšanu.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn18",
+      "title": "18. Līdz līguma noslēgšanai starp pašvaldību un komersantu, kurš izraudzīts, publisko iepirkumu regulējošos normatīvajos aktos noteiktajā kārtībā organizējot publiskā iepirkuma procedūru par sadzīves atkritumu apsaimniekošanu attiecīgajā zonā, un kurš veiks sadzīves atkritumu savākšanu, pārvadāšanu, pārkraušanu un uzglabāšanu attiecīgajā sadzīves atkritumu apsaimniekošanas zonā, tarifu par sadzīves atkritumu apsaimniekošanu (izņemot sadzīves atkritumu pārstrādi) apstiprina regulators.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn19",
+      "title": "19. Šā likuma 21. 1 pants , kā arī 22.panta jaunā redakcija (par sadzīves atkritumu apglabāšanu atkritumu poligonos un izgāztuvēs) stājas spēkā 2007.gada 1.janvārī.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn20",
+      "title": "20. Šā likuma 21. 1 panta noteikumi piemērojami tiem sadzīves atkritumu apsaim­niekošanas līgumiem, kuri par sadzīves atkritumu apsaimniekošanu Rīgas pašvaldības teritorijā tiek slēgti pēc 2007.gada 1.janvāra.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn21",
+      "title": "21. Šā likuma 21. 1 panta noteikumi piemērojami tiem sadzīves atkritumu apsaimniekošanas līgumiem, kuri par sadzīves atkritumu apsaimniekošanu attiecīgajā pašvaldības teritorijā tiek slēgti pēc 2008.gada 1.janvāra, izņemot Rīgas pašvaldības teritoriju.",
+      "content": "( 26.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn22",
+      "title": "22. Ministru kabinets ne vēlāk kā līdz 2008.gada 1.septembrim izdod šā likuma 7.panta 12.punktā paredzētos noteikumus.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn23",
+      "title": "23. (Izslēgts ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )",
+      "content": "23. (Izslēgts ar 13.03.2008 . likumu, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn24",
+      "title": "24. Ministru kabinets līdz 2009.gada 1.janvārim izdod šā likuma 7.panta 13.punktā, 20. 2 panta ceturtajā daļā minētos noteikumus.",
+      "content": "( 13.03.2008 . likuma redakcijā ar grozījumiem, kas izdarīti ar 17.09.2009 . likumu, kas stājas spēkā 20.10.2009. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn25",
+      "title": "25. Ministru kabinets līdz 2008.gada 1.jūlijam izdod šā likuma 19. 1 pantā minētos noteikumus. Šā likuma 19. 1 pantā minēto ziņojumu iesniedz, sākot ar 2009.gadu, kad iesniedzams ziņojums par 2008.gadu.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn26",
+      "title": "26. Šā likuma 20. 8 , 20. 9 , 20. 10 , 20. 11 , 20. 12 , 20. 13 un 20. 14 pants stājas spēkā 2008.gada 26.septembrī.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn27",
+      "title": "27. Ministru kabinets līdz 2008.gada 1.jūlijam izdod jaunus šā likuma 11.panta trešajā daļā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.jūlijam ir spēkā Ministru kabineta 2006.gada 23.maija noteikumi Nr.413 \" Atkritumu apsaimniekošanas atļauju izsniegšanas, pagarināšanas, pārskatīšanas un anulēšanas kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn28",
+      "title": "28. Atļaujas, kas izsniegtas, pamatojoties uz 2005.gada 17.maija noteikumiem Nr.342 \" Atkritumu apsaimniekošanas atļauju izsniegšanas, pagarināšanas, pārskatīšanas un anulēšanas kārtība \" un Ministru kabineta 2006.gada 23.maija noteikumiem Nr.413 \" Atkritumu apsaimniekošanas atļauju izsniegšanas, pagarināšanas, pārskatīšanas un anulēšanas kārtība \", ir spēkā līdz to termiņu beigām.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn29",
+      "title": "29. Šā likuma 20. 5 panta sestās daļas nosacījumus nepiemēro attiecībā uz liela izmēra mājsaimniecības elektriskajām un elektroniskajām iekārtām līdz 2013.gada 13.februārim, bet attiecībā uz citām mājsaimniecības elektriskajām un elektroniskajām iekārtām — līdz 2011.gada 13.februārim. Pircējiem norādītās izmaksas par šo iekārtu atkritumu savākšanu, apstrādi un apglabāšanu drošā veidā nedrīkst būt lielākas par elektrisko un elektronisko iekārtu atkritumu apsaimniekošanas faktiskajām izmaksām.",
+      "content": "( 13.03.2008 . likuma redakcijā, kas stājas spēkā 16.04.2008. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "VII nodaļa Atkritumu pārrobežu pārvadājumi",
+      "section": "pn30",
+      "title": "30. Ministru kabinets ne vēlāk kā līdz 2008.gada 1.septembrim izdod šā likuma 7.panta 7.punktā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.septembrim ir spēkā Ministru kabineta 2001.gada 18.decembra noteikumi Nr.529 \" Atsevišķu veidu bīstamo atkritumu apsaimniekošanas kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "1) Padomes 1975.gada 16.jūnija direktīvas 75/439/EEK par atkritumeļļu apglabāšanu;\n2) Padomes 1986.gada 22.decembra direktīvas 87/101/EEK , ar ko groza direktīvu 75/439/EEK par atkritumeļļu apglabāšanu;\n3) Padomes 1975.gada 15.jūlija direktīvas 75/442/EEK par atkritumiem;\n4) Padomes 1991.gada 18.marta direktīvas 91/156/EEK , ar ko groza direktīvu 75/442/EEK par atkritumiem;\n5) Padomes 1978.gada 20.februāra direktīvas 78/176/EEK par titāna dioksīda ražošanas atkritumiem;\n6) Padomes 1982.gada 3.decembra direktīvas 82/883/EEK par procedūrām tādas vides uzraudzībai un kontrolei, kuru ietekmē titāna dioksīda ražošanas atkritumi;\n7) Padomes 1983.gada 24.janvāra direktīvas 83/29/EEK , ar ko groza direktīvu 78/176/EEK par titāna dioksīda ražošanas atkritumiem;\n8) Padomes 1991.gada 18.marta direktīvas 91/157/EEK par baterijām un akumulatoriem, kuros ir dažas bīstamas vielas;\n9) Komisijas 1993.gada 4.oktobra direktīvas 93/86/EEK , ar ko tehnikas attīstībai pielāgo Padomes direktīvu 91/157/EEK par baterijām un akumulatoriem, kuros ir dažas bīstamas vielas;\n10) Komisijas 1998.gada 22.decembra direktīvas 98/101/EK , ar ko tehnikas attīstībai pielāgo Padomes direktīvu 91/157/EEK par baterijām un akumulatoriem, kuros ir dažas bīstamas vielas (dokuments attiecas uz EEZ);\n11) Padomes 1991.gada 12.decembra direktīvas 91/689/EEK par bīstamajiem atkritumiem ;\n12) Padomes 1994.gada 27.jūnija direktīvas 94/31/EK , ar ko groza direktīvu 91/689/EEK par bīstamajiem atkritumiem ;\n13) Padomes 1991.gada 23.decembra direktīvas 91/692/EEK , ar ko standartizē un racionalizē ziņojumus par to, kā īsteno dažas direktīvas, kas attiecas uz vidi;\n14) Padomes 1996.gada 16.septembra direktīvas 96/59/EK par polihlorētu bifenilu un polihlorētu terfenilu (PCB/PCT) apglabāšanu;\n15) Padomes 1999.gada 26.aprīļa direktīvas 1999/31/EK par atkritumu poligoniem;\n16) Eiropas Parlamenta un Padomes 2000.gada 4.decembra direktīvas 2000/76/EK par atkritumu sadedzināšanu;\n17) Eiropas Parlamenta un Padomes 2003.gada 27.janvāra direktīvas 2002/96/EK par elektrisko un elektronisko iekārtu atkritumiem (EEIA);\n18) Eiropas Parlamenta un Padomes 2003.gada 8.decembra direktīvas 2003/108/EK , ar ko groza direktīvu 2002/96/EK par elektrisko un elektronisko iekārtu atkritumiem (EEIA);\n19) Eiropas Parlamenta un Padomes 2006.gada 6.septembra direktīvas 2006/66/EK par baterijām un akumulatoriem, un bateriju un akumulatoru atkritumiem, ar ko atceļ direktīvu 91/157/EEK ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atkritumi",
+      "definition": "jebkurš priekšmets vai viela, no kuras tās valdītājs atbrīvojas, ir nolēmis vai spiests atbrīvoties un kura atbilst atkritumu klasifikatorā noteiktajām kategorijām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkritumu radītājs",
+      "definition": "fiziskā vai juridiskā persona, kuras darbība rada atkritumus vai kura veic atkritumu sajaukšanu vai citas darbības, kā rezultātā mainās atkritumu sastāvs un īpašības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkritumu pārstrādes objekts",
+      "definition": "ražošanas komplekss vai iekārta, ar kuras palīdzību tiek veikta atkritumu pārstrāde",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkritumu apsaimniekošana",
+      "definition": "atkritumu savākšana (tai skaitā atkritumu vākšana, šķirošana un sajaukšana, lai tos pārvadātu), uzglabāšana, pārkraušana, pārvadāšana, pārstrāde (tai skaitā atkritumu sadedzināšana, iegūstot enerģiju, iekārtās, kuru pamatdarbība nav atkritumu sadedzināšana), reģenerācija un apglabāšana (tai skaitā sadedzināšana sadzīves atkritumu sadedzināšanas iekārtās), šo darbību pārraudzība, kā arī atkritumu apglabāšanas vietu ierīkošana un pārstrādes objektu vai iekārtu uzturēšana un aprūpe pēc to slēgšanas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkritumu poligons",
+      "definition": "speciāli ierīkota un aprīkota atkritumu apglabāšanas vieta, kurā tiek nodrošināti normatīvajos aktos noteiktie vides aizsardzības pasākumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izgāztuve",
+      "definition": "atkritumu apglabāšanas vieta, kas neatbilst poligona prasībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkritumu uzglabāšana",
+      "definition": "atkritumu glabāšana tam speciāli piemērotās un aprīkotās vietās to turpmākai pārstrādei vai apglabāšanai (izņemot īslaicīgu uzglabāšanu mazāk par trim mēnešiem to rašanās, šķirošanas un savākšanas vietās daudzumos, kas nerada kaitējumu videi vai draudus cilvēku veselībai).",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

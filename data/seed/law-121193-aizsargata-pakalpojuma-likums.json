@@ -1,0 +1,88 @@
+{
+  "id": "lv-law-121193",
+  "type": "statute",
+  "title": "Aizsargāta pakalpojuma likums",
+  "title_en": "Protected Service Law",
+  "short_name": "TA-121193",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/121193-aizsargata-pakalpojuma-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) aizsargāts pakalpojums — pakalpojums (raidīšana, informācijas sabiedrības pakalpojums u.tml.), kuru tā sniedzējs, pamatojoties uz ierobežotu piekļuvi, sniedz par attiecīgu atlīdzību;\n2) ierobežota piekļuve — tehnisks pasākums (līdzeklis), saskaņā ar kuru piekļuve aizsargātam pakalpojumam iespējama, pamatojoties uz pakalpojuma sniedzēja iepriekšēju piekrišanu vai individuālu atļauju;\n3) ierobežotas piekļuves sistēma — ierīce, programma vai cits risinājums, kas pakalpojuma saņēmējam saprotamā veidā nodrošina piekļuvi aizsargātam pakalpojumam;\n4) nelegāla sistēma — ierobežotas piekļuves sistēma, kas tiek izmantota bez aizsargāta pakalpojuma sniedzēja piekrišanas vai individuālas atļaujas.\n(2) Likumā lietotie termini atbilst Informācijas sabiedrības pakalpojumu likumā , Reklāmas likumā un Elektronisko plašsaziņas līdzekļu likumā lietotajiem terminiem un to skaidrojumam."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "(1) Šā likuma mērķis ir nodrošināt aizsargāta pakalpojuma sniedzēja aizsardzību no neatļautas aizsargāta pakalpojuma izmantošanas komerciāliem un personīgiem mērķiem.\n(2) Šis likums neierobežo ierobežotas piekļuves sistēmu brīvu apriti tirgū."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Ierobežojumi aizsargāta pakalpojuma jomā",
+      "content": "Lai nodrošinātu aizsargāta pakalpojuma sniedzēja aizsardzību, ir aizliegtas šādas darbības:\n1) nelegālu sistēmu ražošana, importēšana, izplatīšana, iznomāšana, pārdošana vai cita veida atsavināšana komerciāliem un personīgiem mērķiem;\n2) nelegālu sistēmu uzstādīšana, ierīkošana, instalēšana un izmantošana komerciāliem un personīgiem mērķiem;\n3) tādu ierobežotas piekļuves sistēmu izmantošana, kuras nodrošina piekļuvi tiesiska pakalpojuma pazīmēm neatbilstošam pakalpojumam komerciāliem un personīgiem mērķiem;\n4) nelegālu sistēmu uzglabāšana komerciāliem un personīgiem mērķiem;\n5) nelegālu sistēmu reklāma."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Uzraudzības iestādes",
+      "content": "(1) Šā likuma ievērošanu atbilstoši savai kompetencei uzrauga Valsts policija, Patērētāju tiesību aizsardzības centrs un Nacionālā elektronisko plašsaziņas līdzekļu padome, kā arī citas institūcijas, kuru kompetencē ir nodrošināt tādu personu aizsardzību, kas sniedz aizsargātu pakalpojumu (turpmāk — uzraudzības iestāde).\n(2) Uzraudzību veic, pamatojoties uz aizsargāta pakalpojuma sniedzēja vai citas personas iesniegumu, kā arī pēc uzraudzības iestādes iniciatīvas."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Uzraudzības iestādes kompetence",
+      "content": "Lai nodrošinātu aizsargāta pakalpojuma sniedzēja aizsardzību, uzraudzības iestādei atbilstoši savai kompetencei papildus ir šādas tiesības un pienākumi:\n1) pārbaudīt iesniegumus par šā likuma 3.pantā minētajām darbībām;\n2) pieprasīt un noteiktā termiņā saņemt informāciju, kas nepieciešama pārbaudes veikšanai, kā arī attiecīgo personu rakstveida vai mutvārdu paskaidrojumus;\n3) pildot savas funkcijas un veicot pārbaudes, apmeklēt telpas un ēkas to īpašnieka vai pilnvarota pārstāvja klātbūtnē un piekļūt sistēmām, kuras tiek izmantotas, lai sniegtu aizsargātu pakalpojumu vai nodrošinātu piekļuvi aizsargātam pakalpojumam;\n4) pieprasīt, lai tiek uzrādītas atļaujas, līgumi, sertifikāti vai citi dokumenti, kuri apliecina tiesības izmantot komerciāliem mērķiem ierobežotas piekļuves sistēmas;\n5) (izslēgts no 01.07.2020. ar 10.10.2019 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Uzraudzības iestādes lēmumu pārsūdzība",
+      "content": "Uzraudzības iestādes izdotos administratīvos aktus var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Administratīvie pārkāpumi aizsargāta pakalpojuma sniedzēja tiesību aizsardzības jomā",
+      "content": "(1) Par ierobežotas piekļuves sistēmu prettiesisku ražošanu, importēšanu, izplatīšanu, iznomāšanu, pārdošanu vai cita veida atsavināšanu komerciāliem mērķiem, kā arī par nelegālu sistēmu uzstādīšanu, ierīkošanu, instalēšanu vai izmantošanu komerciāliem mērķiem piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no septiņdesmit līdz divsimt astoņdesmit naudas soda vienībām.\n(2) Par nelegālas sistēmas uzstādīšanu, ierīkošanu, instalēšanu vai izmantošanu personīgiem mērķiem piemēro brīdinājumu vai naudas sodu līdz simt četrdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 7. pantā minētajiem pārkāpumiem veic Valsts policija."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "Grozījums šā likuma 5. pantā par 5. punkta izslēgšanu, kā arī grozījums par šā likuma papildināšanu ar 7. un 8. pantu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 10.10.2019 . likuma redakcijā, kas stājas spēkā 12.11.2019. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aizsargāts pakalpojums",
+      "definition": "pakalpojums (raidīšana, informācijas sabiedrības pakalpojums u.tml.), kuru tā sniedzējs, pamatojoties uz ierobežotu piekļuvi, sniedz par attiecīgu atlīdzību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ierobežota piekļuve",
+      "definition": "tehnisks pasākums (līdzeklis), saskaņā ar kuru piekļuve aizsargātam pakalpojumam iespējama, pamatojoties uz pakalpojuma sniedzēja iepriekšēju piekrišanu vai individuālu atļauju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ierobežotas piekļuves sistēma",
+      "definition": "ierīce, programma vai cits risinājums, kas pakalpojuma saņēmējam saprotamā veidā nodrošina piekļuvi aizsargātam pakalpojumam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nelegāla sistēma",
+      "definition": "ierobežotas piekļuves sistēma, kas tiek izmantota bez aizsargāta pakalpojuma sniedzēja piekrišanas vai individuālas atļaujas.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

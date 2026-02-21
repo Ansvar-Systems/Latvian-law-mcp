@@ -1,0 +1,117 @@
+{
+  "id": "lv-law-330962",
+  "type": "statute",
+  "title": "Procesu norises elektroniskā vidē valsts platformas likums",
+  "title_en": "Law On The State Platform For Conducting Proceedings In The Electronic Environment",
+  "short_name": "TA-330962",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/330962-procesu-norises-elektroniska-vide-valsts-platformas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) procesi elektroniskā vidē — kriminālprocesa, administratīvā pārkāpuma procesa, administratīvā procesa, civilprocesa, procesa par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem un nolēmuma izpildes procesa īstenošana un procesos apstrādājamo datu pieejamība elektroniskā vidē, kuru nodrošina informācijas un komunikācijas tehnoloģiju risinājumu kopums (turpmāk — e-lieta);\n2) e-lietas dati — elektroniski radīti dati vai dokumenti vai elektroniskā formā pārvērsti papīra formas dokumenti;\n3) e-lietas platforma — centralizēts koplietošanas informācijas un komunikācijas tehnoloģiju risinājumu kopums, kas nodrošina e-lietas datu apriti starp pamatdarbības informācijas sistēmām un nepieciešamo e-lietas koplietošanas risinājumu funkcionalitāti un izmantošanu;\n4) pamatdarbības informācijas sistēma — valsts informācijas sistēma, kas izmanto e-lietas platformu e-lietas datu apritei, lai izpildītu valsts vai pašvaldības iestādes darbību reglamentējošos normatīvajos aktos noteiktās funkcijas e-lietā;\n5) procesu normatīvie akti — šā likuma izpratnē: kriminālprocesu, administratīvā pārkāpuma procesu, administratīvo procesu, civilprocesu, procesu par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem un nolēmuma izpildes procesu reglamentējoši normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir nodrošināt koordinētu e-lietas darbību un uzraudzību un e-lietas datu efektīvu apriti starp minētajos procesos iesaistītām valsts un pašvaldību iestādēm un personām."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "E-lietas platformas koplietošanas risinājumi un tās darbība",
+      "content": "(1) E-lietas platforma ietver vismaz šādus koplietošanas risinājumus:\n1) elektronisko lietu katalogu;\n2) e-lietas portālu;\n3) vienotos kalendārus;\n4) koplietošanas reģistrus un klasifikatorus;\n5) koplietošanas atbalsta lietotnes un rīkus.\n(2) E-lietas platformas izstrādes un attīstības procesā tajā var tikt ietverti jauni koplietošanas risinājumi atbilstoši identificētajai nepieciešamībai.\n(3) Iestāde savas darbības nodrošināšanai var pielāgot e-lietas koplietošanas risinājumu atbilstoši savām vajadzībām e-lietas īstenošanā.\n(4) Tiesu administrācija ir e-lietas platformas pārzinis un turētājs.\n(5) Par e-lietas platformā esošajiem e-lietas datiem atbild tā iestāde, kura nodrošina attiecīgo e-lietas datu ievadi pamatdarbības informācijas sistēmā.\n(6) E-lietas platforma nodrošina tikai tādu pārvērsto dokumentu apriti, kuri apliecināti ar kvalificētu elektronisko zīmogu Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK (turpmāk — regula Nr. 910/2014 ) 3. panta 27. punkta izpratnē vai kvalificētu elektronisko parakstu regulas Nr. 910/2014 3. panta 12. punkta izpratnē un kvalificētu laika zīmogu regulas Nr. 910/2014 3. panta 34. punkta izpratnē.\n(7) Pamatdarbības informācijas sistēmu pārziņi nosaka tiesības piekļuvei pamatdarbības informācijas sistēmā esošajiem e-lietas datiem atbilstoši procesu normatīvajiem aktiem.\n(8) Ministru kabinets nosaka e-lietas platformas nodrošināšanai nepieciešamo apstrādājamo e-lietas datu apjomu, personas identifikācijas nosacījumus, datu glabāšanas noteikumus un apstrādes kārtību.\n(9) Ministru kabinets nosaka kārtību, kādā pamatdarbības informācijas sistēmās arhivē pastāvīgi un uz laiku glabājamos e-lietas datus."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Elektronisko lietu katalogs",
+      "content": "(1) Elektronisko lietu katalogs ir e-lietas datu aprites risinājums, ar kura palīdzību nodrošina e-lietas datu apriti starp e-lietas darbības nodrošināšanai nepieciešamajām pamatdarbības informācijas sistēmām un citām ar procesu elektroniskā vidē saistītām valsts informācijas sistēmām.\n(2) Elektronisko lietu katalogs nodrošina e-lietas datu apriti atbilstoši Valsts informācijas sistēmu likuma 17. panta pirmajā daļā noteiktajiem valsts informācijas sistēmu savietotāja darbības kritērijiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "E-lietas portāls",
+      "content": "E-lietas portāls ir tīmekļvietne, kas nodrošina procesos elektroniskā vidē iesaistītām personām iespēju iesniegt un saņemt e-lietas datus, ja procesu normatīvie akti pieļauj šādu saziņu."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Vienotie kalendāri",
+      "content": "(1) Vienotie kalendāri atspoguļo no pamatdarbības informācijas sistēmas iegūtās ziņas par personu un resursu pieejamību.\n(2) Vienotajos kalendāros esošo informāciju izmanto procesā elektroniskā vidē iesaistītās personas, lai efektīvi plānotu un saskaņotu savu darbību ar citu procesā iesaistīto personu darbību, kā arī plānotu resursu izmantošanu.\n(3) E-lietas platforma nodrošina piekļuvi vienotajiem kalendāriem, kurus uztur pamatdarbības informācijas sistēmu pārziņi."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Koplietošanas reģistri un klasifikatori",
+      "content": "Koplietošanas reģistrus un klasifikatorus, kas nepieciešami, lai nodrošinātu procesus elektroniskā vidē, uztur un nodod kopīgai lietošanai elektronisko lietu katalogā par koplietošanas reģistru vai klasifikatoru atbildīgais pārzinis."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Koplietošanas atbalsta lietotnes un rīki",
+      "content": "(1) Koplietošanas atbalsta lietotnes un rīki nodrošina pamatdarbības informācijas sistēmām iespēju tehniski īstenot iestādes darbību regulējošos normatīvajos aktos noteikto funkciju izpildi.\n(2) Par e-lietas datu apstrādi katrā koplietošanas atbalsta lietotnē vai rīkā atbild katra iestāde, kas ir integrējusi attiecīgo koplietošanas atbalsta lietotni vai rīku savā pamatdarbības informācijas sistēmā savu pamatfunkciju izpildei."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Personas datu apstrāde e-lietas platformā",
+      "content": "(1) Tiesu administrācija ir personas datu pārzinis attiecībā uz tiem personas datiem, kas nepieciešami, lai nodrošinātu piekļuvi e-lietas platformas darbības organizēšanai atbilstoši normatīvajiem aktiem.\n(2) Personas datu apstrādes pārzinis e-lietas platformā attiecībā uz tiem personas datiem, kas iegūti no citām valsts informācijas sistēmām, ir tā valsts institūcija, kura ir atbildīga par personas datu apstrādi attiecīgajā valsts informācijas sistēmā.\n(3) Iestādes, kuras e-lietas platformā apstrādā personas datus procesu normatīvajos aktos noteikto funkciju izpildei, apmainoties ar pamatdarbības informācijas sistēmās esošajiem e-lietas datiem, ir:\n1) Latvijas Republikas prokuratūra un Eiropas Prokuratūra;\n2) tiesa;\n3) Kriminālprocesa likuma 386. pantā noteiktās izmeklēšanas iestādes;\n4) Administratīvās atbildības likuma 115. panta pirmajā un trešajā daļā noteiktās iestādes;\n5) Valsts probācijas dienests;\n6) Ieslodzījuma vietu pārvalde;\n7) citas valsts un pašvaldību iestādes, kuru darbību reglamentējošos normatīvajos aktos noteikts, ka šo iestāžu funkcijas ir saistītas ar nolēmuma izpildi.\n(4) Procesā iesaistītās personas e-lietas platformā apstrādā personas datus, lai elektroniskā vidē īstenotu procesu normatīvajos aktos noteiktās funkcijas.\n(5) Personas datus e-lietas platformā uzglabā tik ilgi, cik tas nepieciešams, lai izpildītu procesu normatīvajos aktos noteiktās funkcijas atbilstoši šā panta ceturtajā daļā minētajiem nolūkiem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Informācijas pieejamība e-lietas portālā",
+      "content": "(1) Procesā iesaistītā persona, izmantojot e-lietas portālu, piekļūst e-lietas datiem un ievada e-lietas datus saskaņā ar procesu normatīvajiem aktiem.\n(2) Valsts un pašvaldību iestādēm ir tiesības piekļūt e-lietas portālam un ievadīt tajā e-lietas datus, ciktāl to funkciju un uzdevumu izpilde nav iespējama pamatdarbības informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "E-lietas uzraudzības padome",
+      "content": "(1) E-lietas uzraudzības padome ir koleģiāla institūcija, kas īsteno e-lietas pārraudzību un koordinē e-lietas darbību un attīstību, nodrošinot saskaņotu e-lietas platformas darbību visu iesaistīto iestāžu pamatdarbības informācijas sistēmu uzturēšanai un attīstībai procesos elektroniskā vidē.\n(2) E-lietas uzraudzības padomes sastāvā ir:\n1) tieslietu ministrs;\n2) vides aizsardzības un reģionālās attīstības ministrs;\n3) iekšlietu ministrs;\n4) ģenerālprokurors.\n(3) Tieslietu ministrs ir E-lietas uzraudzības padomes priekšsēdētājs.\n(4) E-lietas uzraudzības padomes sēdē bez balsstiesībām ar padomdevēja tiesībām var piedalīties finanšu ministrs.\n(4 1 ) E-lietas uzraudzības padomes loceklis vai finanšu ministrs dalībai E-lietas uzraudzības padomes sēdē var norīkot citu personu. Pirms E-lietas uzraudzības padomes sēdes E-lietas uzraudzības padomes loceklis vai finanšu ministrs iesniedz Tieslietu ministrijai informāciju par norīkoto personu.\n(5) Pēc E-lietas uzraudzības padomes priekšsēdētāja uzaicinājuma padomes sēdē var piedalīties arī citu valsts institūciju amatpersonas un darbinieki, nevalstisko organizāciju pārstāvji, eksperti un citi speciālisti.\n(6) Ministru kabinets:\n1) nosaka E-lietas uzraudzības padomes funkcijas un darba organizāciju;\n2) izveido starpinstitucionālu darba grupu mērķtiecīgai sadarbībai un koordinācijai, lai nodrošinātu vienotas nacionāla līmeņa e-lietas koncepcijas un vienotās e-lietas arhitektūras īstenošanu un attīstību, kā arī turpmāku e-lietas pārvaldības mehānisma darbību."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2022. gada 30. novembrim izdod šā likuma 3. panta devītajā daļā minētos noteikumus.",
+      "content": "1. Ministru kabinets līdz 2022. gada 30. novembrim izdod šā likuma 3. panta devītajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Šā likuma 3. panta sesto daļu nepiemēro līdz 2023. gada 31. decembrim, bet attiecībā uz Kriminālprocesa informācijas sistēmu var nepiemērot līdz 2026. gada 30. jūnijam.",
+      "content": "( 02.02.2023 . likuma redakcijā, kas stājas spēkā 08.02.2023. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "procesi elektroniskā vidē",
+      "definition": "kriminālprocesa, administratīvā pārkāpuma procesa, administratīvā procesa, civilprocesa, procesa par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem un nolēmuma izpildes procesa īstenošana un procesos apstrādājamo datu pieejamība elektroniskā vidē, kuru nodrošina informācijas un komunikācijas tehnoloģiju risinājumu kopums (turpmāk — e-lieta)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "e-lietas dati",
+      "definition": "elektroniski radīti dati vai dokumenti vai elektroniskā formā pārvērsti papīra formas dokumenti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "e-lietas platforma",
+      "definition": "centralizēts koplietošanas informācijas un komunikācijas tehnoloģiju risinājumu kopums, kas nodrošina e-lietas datu apriti starp pamatdarbības informācijas sistēmām un nepieciešamo e-lietas koplietošanas risinājumu funkcionalitāti un izmantošanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pamatdarbības informācijas sistēma",
+      "definition": "valsts informācijas sistēma, kas izmanto e-lietas platformu e-lietas datu apritei, lai izpildītu valsts vai pašvaldības iestādes darbību reglamentējošos normatīvajos aktos noteiktās funkcijas e-lietā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "procesu normatīvie akti",
+      "definition": "šā likuma izpratnē: kriminālprocesu, administratīvā pārkāpuma procesu, administratīvo procesu, civilprocesu, procesu par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem un nolēmuma izpildes procesu reglamentējoši normatīvie akti.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,869 @@
+{
+  "id": "lv-law-20244",
+  "type": "statute",
+  "title": "Profesionālās izglītības likums",
+  "title_en": "Vocational Education Law",
+  "short_name": "TA-20244",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/20244-profesionalas-izglitibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā lietotie termini atbilst Izglītības likumā lietotajiem terminiem, ja šajā likumā nav noteikts citādi.\n(2) Likumā ir lietoti šādi termini:\n1) arodizglītība — vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā līmeņa profesionālo kvalifikāciju;\n2) (izslēgts ar 03.03.2022 . likumu) ;\n2 1 ) nozares eksaminācijas centrs — institūcija, kurā var tikt kārtoti eksāmeni profesionālās kvalifikācijas ieguvei attiecīgajā nozarē;\n2 2 ) (izslēgts ar 03.03.2022 . likumu) ;\n2 3 ) prakse — attiecīgās profesionālās izglītības programmas praktiskās daļas profesionālo kompetenču apguve izglītības iestādē vai darba vidē;\n2 4 ) modulis — profesionālās izglītības programmas patstāvīga sastāvdaļa, tā pamatā ir sasniedzamie mācīšanās rezultāti kā novērtējams un pierādāms zināšanu, prasmju, profesionālās patstāvības un atbildības kopums;\n2 5 ) (izslēgts ar 03.03.2022 . likumu) ;\n2 6 ) modulārā profesionālās izglītības programma — profesionālās izglītības programma, kuras profesionālo saturu atkarībā no izglītības programmai izvirzītā mērķa veido moduļu kopums un kuras apguves rezultātā var iegūt profesionālo kvalifikāciju vai profesionālās kvalifikācijas daļu;\n3) praktikants — izglītojamais, kas saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi atrodas praksē izglītības iestādē vai darba vidē;\n4) (izslēgts ar 03.03.2022 . likumu) ;\n5) profesionālā augstākā izglītība — augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piektā, sestā, septītā vai astotā līmeņa profesionālo kvalifikāciju;\n5 1 ) profesionālās kvalifikācijas eksāmens — valsts pārbaudījums, kurā personai, iegūstot pietiekamu vērtējumu, piešķir attiecīga līmeņa profesionālo kvalifikāciju, ko apliecina valsts atzīts profesionālās kvalifikācijas dokuments;\n6) profesionālā pamatizglītība — pamatizglītības pakāpes profesionālā izglītība, kas dod iespēju iegūt otrā līmeņa profesionālo kvalifikāciju;\n7) profesionālā pieredze — iepriekšēja darbošanās attiecīgajā profesijā Latvijas Republikā, kā arī ārvalstī;\n8) profesionālā vidējā izglītība — vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā vai ceturtā līmeņa profesionālo kvalifikāciju;\n8 1 ) profesionālā kompetence — profesionālās darbības veikšanai nepieciešamo zināšanu, prasmju, profesionālās patstāvības un atbildības kopums;\n8 2 ) profesionālās izglītības iestādes akreditācija — valsts īstenots regulārs profesionālās izglītības iestādes darbības kvalitātes un atbilstības noteiktam profesionālās izglītības iestādes statusam izvērtējums;\n8 3 ) profesionālās izglītības programmas licencēšana — izglītības programmas kvalitātes izvērtējums un tiesību piešķiršana izglītības iestādei īstenot noteiktu izglītības programmu;\n9) profesionālās kvalifikācijas līmenis — Latvijas kvalifikāciju ietvarstruktūrai atbilstoša teorētiskā un praktiskā sagatavotība, kuru raksturo attiecīgajā līmenī sasniedzamie mācīšanās rezultāti, kas dod iespēju veikt noteiktai sarežģītības un atbildības pakāpei atbilstošu darbu;\n10) pirmā cikla profesionālā augstākā izglītība — augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt sestā līmeņa profesionālo kvalifikāciju;\n10 1 ) īsā cikla profesionālā augstākā izglītība — augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piektā līmeņa profesionālo kvalifikāciju. Īsā cikla profesionālā augstākā izglītība ir daļa no pirmā cikla profesionālās augstākās izglītības;\n11) otrā cikla profesionālā augstākā izglītība — augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt septītā līmeņa profesionālo kvalifikāciju;\n11 1 ) trešā cikla profesionālā augstākā izglītība — augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt astotā līmeņa profesionālo kvalifikāciju;\n12) profesionālā tālākizglītība — profesionālās izglītības īpašs veids, kas personām ar iepriekšēju profesionālo pieredzi un izglītības programmas prasībām atbilstošu izglītību dod iespēju iegūt noteikta līmeņa profesionālo kvalifikāciju, kas iekļauta nozares kvalifikāciju struktūrā. Prasības to profesionālo kvalifikāciju ieguvei, kuras nav iekļautas nozaru kvalifikāciju struktūrās, nosaka normatīvajos aktos;\n13) profesionālā pilnveide — profesionālās izglītības īpašs veids, kas dod iespēju pilnveidot profesionālo kompetenci kvalifikācijai, kas iekļauta nozares kvalifikāciju struktūrā. Prasības to profesionālo kvalifikāciju pilnveidei, kuras nav iekļautas nozaru kvalifikāciju struktūrās, nosaka normatīvajos aktos;\n14) sasniedzamo mācīšanās rezultātu vienība — profesionālās kvalifikācijas daļa, kas ir atsevišķi pārbaudāms un novērtējams saskaņotu zināšanu, prasmju, attieksmes, profesionālās patstāvības un atbildības kopums;\n15) profesionālā kvalifikācija — formalizēta vērtēšanas un atzīšanas procesa rezultāts atbilstoši profesijas standartā noteiktām attiecīgajām profesionālās kvalifikācijas prasībām, ko apstiprina valsts atzīts profesionālās kvalifikācijas dokuments;\n16) profesionālās kvalifikācijas dokuments — valsts atzīts dokuments, kas apliecina personas profesionālo kvalifikāciju vai tās daļu;\n17) profesionālās izglītības iestādes stratēģiskā specializācija — profesionālās izglītības iestādes dibinātāja noteiktas darba tirgū nepieciešamo speciālistu sagatavošanai atbilstošas izglītības tematiskās jomas, kurās specializējas profesionālās izglītības iestāde. Stratēģiskā specializācija ir pamats profesionālās izglītības iestādes stratēģiskās attīstības plānošanai un stratēģiskās specializācijas virzienu noteikšanai;\n18) profesionālās izglītības iestādes attīstības stratēģija — stratēģija, kuru profesionālās izglītības iestāde, pamatojoties uz tās dibinātāja noteikto stratēģisko specializāciju, veido savas attīstības plānošanai un kura ir terminēts — piecu gadu — profesionālās izglītības iestādes attīstības plāns, kas ietver konkrētus sasniedzamos mērķus un uzdevumus profesionālās izglītības un institucionālās attīstības jomās;\n19) darba vidē balstītas mācības — klātienes izglītības procesa daļa, kurā izglītības programmai noteiktie mācīšanās rezultāti atbilstoši mācību plānam pārmaiņus tiek sasniegti izglītības iestādē un pie darba devēja. Darba vidē balstītas mācības var ietvert praksi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un uzdevumi",
+      "content": "(1) Šā likuma mērķis ir nodrošināt valsts profesionālās izglītības politikas īstenošanu un profesionālās izglītības sistēmas darbību, vadību un attīstību.\n(2) Likuma uzdevumi ir šādi:\n1) nodrošināt iespēju iegūt vispārējās zināšanas un prasmes, kā arī profesionālo kvalifikāciju;\n2) noteikt profesionālās izglītības pakāpes un profesionālās kvalifikācijas līmeņus atbilstoši Latvijas kvalifikāciju ietvarstruktūrai, kā arī attiecīgās profesionālās kvalifikācijas ieguvei nepieciešamo izglītību;\n3) noteikt profesionālajā izglītībā un profesionālās kvalifikācijas piešķiršanā iesaistīto personu kompetenci;\n4) nodrošināt Latvijas profesionālās izglītības un profesionālās kvalifikācijas salīdzināmību ar ārvalstīs iegūstamo profesionālo izglītību un profesionālo kvalifikāciju, radot iespējas izglītojamajiem turpināt izglītību ārvalstīs un konkurēt starptautiskajā darba tirgū."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbība",
+      "content": "Likums reglamentē profesionālās izglītības īstenošanas, kā arī atbilstošas profesionālās kvalifikācijas piešķiršanas kārtību. Profesionālās augstākās izglītības īstenošanu un attiecīgas profesionālās kvalifikācijas piešķiršanu reglamentē šis likums un Augstskolu likums ."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Profesionālās izglītības pakāpes",
+      "content": "(1) Latvijas izglītības sistēmā ir noteiktas šādas profesionālās izglītības pakāpes:\n1) profesionālā pamatizglītība;\n2) profesionālā vidējā izglītība;\n3) profesionālā augstākā izglītība.\n(2) (Izslēgta ar 03.03.2022 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Profesionālās kvalifikācijas līmeņi Latvijas kvalifikāciju ietvarstruktūrā",
+      "content": "Profesionālās kvalifikācijas līmeņi atbilst tāda paša līmeņa Latvijas kvalifikāciju ietvarstruktūras līmenim un ir šādi:\n1) pirmais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt elementārus praktiskus uzdevumus speciālista uzraudzībā;\n2) otrais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība, kas dod iespēju daļēji patstāvīgi veikt vienkāršus uzdevumus noteiktā praktiskās darbības jomā;\n3) trešais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība, kas dod iespēju patstāvīgi veikt kvalificētu izpildītāja darbu;\n4) ceturtais profesionālās kvalifikācijas līmenis — paaugstināta teorētiskā sagatavotība un profesionālā meistarība, kas dod iespēju veikt noteiktus izpildītāja pienākumus, kuros ietilpst arī izpildāmā darba plānošana un organizēšana;\n5) piektais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība, kas dod iespēju veikt sarežģītu izpildītāja darbu, kā arī organizēt un vadīt citu speciālistu darbu;\n6) sestais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība patstāvīgu lēmumu pieņemšanai un problēmu risināšanai nozarē vai profesijā mainīgos apstākļos, izmantojot specializētas zināšanas profesionālās darbības jomā;\n7) septītais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība augsti kvalificētas profesionālas darbības veikšanai neprognozējamos apstākļos, sarežģītu profesionālu problēmu formulēšanai un kritiskai analīzei, izmantojot padziļinātas un plašas zināšanas profesionālās darbības jomā, kā arī patstāvīgu lēmumu pieņemšanai, integrējot dažādu jomu zināšanas un dodot ieguldījumu profesionālās darbības metožu attīstībā;\n8) astotais profesionālās kvalifikācijas līmenis — teorētiskā un praktiskā sagatavotība patstāvīgai ideju izvirzīšanai, kritiskai analīzei, sintēzei un izvērtēšanai, radot jaunas zināšanas vai izpratni par esošām zināšanām un to lietošanu praksē, risinot nozīmīgus inovāciju vai jaunrades uzdevumus profesionālās darbības jomā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Valsts atzīti profesionālo izglītību un profesionālo kvalifikāciju apliecinošie dokumenti",
+      "content": "(1) Valsts atzīti profesionālo izglītību apliecinošie dokumenti ir šādi:\n1) apliecība par profesionālo pamatizglītību;\n2) atestāts par arodizglītību;\n3) diploms par profesionālo vidējo izglītību;\n4) diploms par īsā cikla profesionālo augstāko izglītību.\n(2) Valsts atzīti profesionālo kvalifikāciju apliecinošie dokumenti ir šādi:\n1) profesionālās kvalifikācijas apliecība;\n2) apliecība par profesionālās kvalifikācijas daļas apguvi.\n(3) Valsts atzīti profesionālās pilnveides un profesionālās ievirzes izglītību apliecinošie dokumenti ir šādi:\n1) apliecība par profesionālās pilnveides izglītības apguvi;\n2) apliecība par profesionālās ievirzes izglītības apguvi.\n(4) Profesionālās izglītības dokuments apliecina profesionālās izglītības apguvi atbilstoši noteiktai profesionālās izglītības pakāpei. Valsts atzītu profesionālo izglītību apliecinošu dokumentu izsniedz akreditēta profesionālās izglītības iestāde.\n(5) Profesionālās kvalifikācijas apliecība apliecina noteikta līmeņa profesionālās kvalifikācijas ieguvi. Valsts atzītu profesionālo kvalifikāciju apliecinošu dokumentu izsniedz akreditēta profesionālās izglītības iestāde vai akreditēts nozares eksaminācijas centrs.\n(6) Apliecību par profesionālo pamatizglītību vai atestātu par arodizglītību izsniedz izglītojamam, kurš apguvis attiecīgajam valsts profesionālās izglītības standartam atbilstošu profesionālās izglītības programmu.\n(7) Diplomu par profesionālo vidējo izglītību un profesionālās kvalifikācijas apliecību izsniedz izglītojamam, kurš pilnībā apguvis profesionālās izglītības programmu un nokārtojis valsts profesionālās izglītības standartā noteiktos valsts noslēguma pārbaudījumus.\n(8) Diplomu par profesionālo vidējo izglītību izsniedz izglītojamam, kurš pilnībā apguvis vidējās izglītības programmu un nokārtojis centralizētos eksāmenus, bet veselības stāvokļa dēļ nespēj kārtot profesionālās kvalifikācijas eksāmenus vai nav saņēmis pietiekamu vērtējumu profesionālās kvalifikācijas eksāmenā.\n(9) Diplomu par īsā cikla profesionālo augstāko izglītību izsniedz, ievērojot Augstskolu likumā noteikto.\n(10) Profesionālās kvalifikācijas apliecību izsniedz izglītojamam, kurš nokārtojis profesionālās kvalifikācijas eksāmenu un izpildījis vienu no šādiem nosacījumiem:\n1) pilnībā vai daļēji apguvis profesionālās izglītības programmu;\n2) apguvis profesionālās tālākizglītības programmu;\n3) apguvis vai pilnveidojis profesionālo kompetenci profesionālās darbības vai pašizglītības rezultātā.\n(11) Apliecību par profesionālās kvalifikācijas daļas apguvi izsniedz izglītojamam, kurš apguvis sasniedzamo mācīšanās rezultātu vienību kopumu, kas veido attiecīgās profesionālās kvalifikācijas daļu.\n(12) Apliecību par profesionālās pilnveides izglītības apguvi izsniedz izglītojamam, kurš apguvis profesionālās pilnveides izglītības programmu.\n(13) Apliecību par profesionālās ievirzes izglītības apguvi izsniedz izglītojamam, kurš apguvis profesionālās ievirzes izglītības programmu.\n(14) Valsts atzītos profesionālo izglītību apliecinošos dokumentos un profesionālo kvalifikāciju apliecinošos dokumentos norāda profesionālās kvalifikācijas līmeni un Latvijas kvalifikāciju ietvarstruktūras līmeni."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "7",
+      "title": "Ministru kabineta kompetence",
+      "content": "Ministru kabinets:\n1) (izslēgts ar 21.09.2006 . likumu) ;\n2) nosaka institūciju un kārtību nozares kvalifikāciju struktūras un profesijas standarta un tajā ietverto profesionālās kvalifikācijas prasību izstrādei un aktualizācijai;\n2 1 ) nosaka to profesionālo kvalifikāciju sarakstu, kurām obligāti piemērojamas profesijas standartā ietvertās attiecīgās profesionālās kvalifikācijas prasības, un profesionālās kvalifikācijas prasību publiskošanas kārtību;\n3) (izslēgts ar 05.07.2001 . likumu) ;\n4) nosaka prakses organizēšanas kārtību, tai skaitā prakses organizēšanai nepieciešamos dokumentus;\n5) nosaka valsts atzītu profesionālās izglītības un profesionālās kvalifikācijas dokumentu paraugus, tai skaitā profesionālās kvalifikācijas daļas apguves dokumentu paraugus, dokumentu izgatavošanas un izsniegšanas kārtību, kā arī profesionālās pilnveides un profesionālās ievirzes izglītību apliecinošu dokumentu paraugus un šo dokumentu izgatavošanas un izsniegšanas kārtību;\n5 1 ) nosaka moduļa apliecības un dokumenta par profesionālās izglītības programmas daļas apguvi paraugu un izsniegšanas kārtību;\n6) (izslēgts ar 05.07.2001 . likumu) ;\n7) nosaka prasības un kārtību, kādā reģistrē un akreditē nozares eksaminācijas centrus;\n8) (izslēgts ar 23.04.2015 . likumu);\n9) nosaka profesionālās izglītības iestāžu pedagoģiskā procesa un nozares eksaminācijas centru profesionālās kvalifikācijas ieguves organizēšanai obligāti nepieciešamo dokumentāciju;\n10) nosaka profesionālās kvalifikācijas eksāmenu organizēšanas, norises un vērtēšanas, kā arī satura izstrādes kārtību profesionālās pamatizglītības un profesionālās vidējās izglītības pakāpē;\n11) (izslēgts ar 03.03.2022 . likumu) ;\n11 1 ) apstiprina profesionālās izglītības iestāžu akreditācijas noteikumus, tai skaitā attiecīgajam profesionālās izglītības iestādes statusam likumā noteikto nosacījumu piemērošanas un izvērtēšanas kārtību un koledžas darbības kvalitātes vērtēšanas kārtību profesionālās vidējās izglītības, profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu īstenošanā;\n12) nosaka kārtību, kādā aprēķina un sadala valsts budžeta mērķdotāciju pedagogu darba samaksai pašvaldību izglītības iestādēs, kurās īsteno profesionālās pamatizglītības, arodizglītības un profesionālās vidējās izglītības programmas;\n13) nosaka kārtību, kādā profesionālās izglītības iestādes un nozares eksaminācijas centri veic ārpus formālās izglītības sistēmas apgūtās profesionālās kompetences novērtēšanu, un tās ietvaros sniegto maksas pakalpojumu cenrādi;\n13 1 ) nosaka nozares eksaminācijas centru profesionālās kvalifikācijas eksaminācijas un profesionālās kompetences novērtēšanas ietvaros sniegtos maksas pakalpojumus un to izmaksu noteikšanas principus;\n13 2 ) apstiprina profesionālās izglītības programmu licencēšanas, kā arī profesionālās izglītības iestāžu un nozares eksaminācijas centru akreditācijas ietvaros sniegto maksas pakalpojumu cenrādi;\n14) nosaka kārtību, kādā tiek izveidotas un darbojas nozaru ekspertu padomes;\n15) nosaka darba vidē balstītu mācību organizēšanas un īstenošanas kārtību;\n15 1 ) nosaka prasības un kārtību, kādā atzīst personas kompetenci uzņemšanai profesionālās izglītības programmas, izņemot profesionālās augstākās izglītības programmas (turpmāk arī — studiju programmas), vēlākos mācību posmos;\n15 2 ) nosaka prasības un kārtību uzņemšanai profesionālās izglītības programmās, izņemot studiju programmas, tai skaitā iestājpārbaudījumu organizēšanai, kā arī pārcelšanai nākamajā kursā vai atskaitīšanai;\n15 3 ) katru gadu profesionālās vidējās izglītības programmās nosaka vispārizglītojošo mācību priekšmetu valsts noslēguma pārbaudījumu norises laiku un kārtību;\n15 4 ) nosaka Valsts izglītības informācijas sistēmā iesniedzamās informācijas apjomu par profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un profesionālās tālākizglītības programmu absolventu iegūto profesionālo kvalifikāciju, nodarbinātību un ienākumiem, informācijas iesniegšanas kārtību, kā arī publiski pieejamās informācijas apjomu un publiskošanas kārtību un absolventu monitoringa veikšanai nepieciešamā finansējuma apjomu;\n15 5 ) nosaka prasības un kārtību, kādā atzīst profesionālo kvalifikāciju vai tās daļu;\n15 6 ) nosaka Iekšlietu ministrijas sistēmā esošo koledžu un tajās studējošo pašpārvaldes finansēšanas un akadēmiskā personāla (izņemot amatpersonas ar speciālajām dienesta pakāpēm) atlīdzības paredzēšanas kārtību;\n15 7 ) nosaka Izglītības un zinātnes ministrijai par koledžas darbību iesniedzamās informācijas saturu un apjomu, tās iesniegšanas kārtību un termiņu, kā arī šīs informācijas publiskošanas kārtību;\n16) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "8",
+      "title": "Izglītības un zinātnes ministrijas kompetence",
+      "content": "Izglītības un zinātnes ministrija:\n1) (izslēgts ar 21.09.2006 . likumu) ;\n2) (izslēgts ar 21.09.2006 . likumu) ;\n3) (izslēgts ar 21.09.2006 . likumu) ;\n4) izstrādā priekšlikumus un noteiktā kārtībā iesniedz pieprasījumu valsts budžeta līdzekļu piešķiršanai, finansē savā padotībā esošās profesionālās izglītības iestādes un profesionālās izglītības atbalsta iestādes no šim nolūkam piešķirtajiem līdzekļiem;\n5) izstrādā normatīvo aktu projektus profesionālajā izglītībā;\n6) organizē karjeras izglītības ieviešanu izglītībā;\n6 1 ) (izslēgts ar 03.03.2022 . likumu) ;\n7) (izslēgts ar 21.09.2006 . likumu) ;\n8) apstiprina ministrijas padotībā esošo valsts profesionālās izglītības iestāžu, izņemot koledžas, nolikumus;\n8 1 ) saskaņo ministrijas padotībā esošo valsts profesionālās izglītības iestāžu profesionālās izglītības programmas, izņemot studiju programmas;\n9) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "9",
+      "title": "Citu ministriju kompetence",
+      "content": "(1) Citas ministrijas:\n1) izstrādā priekšlikumus un noteiktā kārtībā iesniedz pieprasījumu valsts budžeta līdzekļu piešķiršanai, finansē savā padotībā esošās profesionālās izglītības iestādes un profesionālās izglītības atbalsta iestādes no šim nolūkam piešķirtajiem līdzekļiem;\n2) sadarbojas ar Izglītības un zinātnes ministriju profesiju standartu izstrādes un aktualizācijas, profesionālās izglītības kvalitātes vērtēšanas un citos ar profesionālo izglītību saistītos jautājumos;\n3) sadarbībā ar Izglītības un zinātnes ministriju, citām valsts institūcijām un pašvaldībām organizē savā padotībā esošo profesionālās izglītības iestāžu pedagogu tālākizglītību;\n4) piedalās valsts, pašvaldību, arodbiedrību, darba devēju un citu biedrību vai nodibinājumu, un sadarbību veicinošo institūciju darbā;\n5) organizē pieaugušo profesionālo tālākizglītību un profesionālo pilnveidi;\n5 1 ) apstiprina ministrijas padotībā esošo valsts profesionālās izglītības iestāžu, izņemot koledžas, nolikumus;\n5 2 ) saskaņo ministrijas padotībā esošo valsts profesionālās izglītības iestāžu profesionālās izglītības programmas, izņemot studiju programmas;\n6) veic citas šajā likumā un Izglītības likumā noteiktās ar profesionālo izglītību saistītās funkcijas.\n(2) Attiecībā uz Aizsardzības ministrijas padotībā esošajām valsts profesionālās izglītības iestādēm šajā pantā noteikto Aizsardzības ministrijas kompetenci var īstenot Nacionālie bruņotie spēki atbilstoši to darbību reglamentējošiem normatīvajiem aktiem.\n(3) Attiecībā uz Iekšlietu ministrijas padotībā esošajām valsts profesionālās izglītības iestādēm šajā pantā noteikto Iekšlietu ministrijas kompetenci var īstenot Valsts policija, Valsts robežsardze un Valsts ugunsdzēsības un glābšanas dienests atbilstoši to darbību reglamentējošiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "10",
+      "title": "Pašvaldību kompetence",
+      "content": "(1) Pašvaldības piedalās profesionālās izglītības īstenošanā, sekmē komercdarbības attīstību savā teritorijā, sadarbojas ar darba devēju organizācijām, piedalās to jautājumu risināšanā, kas saistīti ar prakses vietu nodrošināšanu izglītojamajiem attiecīgās pašvaldības teritorijā.\n(2) Pašvaldību kompetenci profesionālās izglītības īstenošanā nosaka šis likums, Izglītības likums un citi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "10.1",
+      "title": "10. 1 pants. Profesionālās izglītības administrācija",
+      "content": "(Izslēgts ar 12.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "11",
+      "title": "Profesionālās izglītības atbalsta iestādes",
+      "content": "(1) Lai nodrošinātu pētniecisko, informatīvo, metodisko un citāda veida intelektuālo atbalstu izglītojamajiem, izglītojamo vecākiem, pedagogiem, izglītības iestādēm un profesionālajām organizācijām, tiek veidotas profesionālās izglītības atbalsta iestādes.\n(2) Profesionālās izglītības atbalsta iestādes:\n1) sniedz organizatorisku un metodisku palīdzību profesiju standartu izstrādē, izglītības programmu izstrādē un īstenošanā, karjeras attīstības atbalstam un citos ar profesionālo izglītību saistītos jautājumos;\n2) organizē mācību līdzekļu izstrādi;\n3) organizē pedagogu tālākizglītību;\n4) piedalās darba tirgus un citos ar profesionālo izglītību saistītos pētījumos.\n(3) Profesionālās izglītības valsts atbalsta iestādes dibina, reorganizē un likvidē Ministru kabinets pēc Izglītības un zinātnes ministrijas vai citas ministrijas ierosinājuma."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "12",
+      "title": "Nozaru ekspertu padomju, arodbiedrību un citu biedrību vai nodibinājumu kompetence",
+      "content": "(1) Nozaru ekspertu padomju darbības mērķis ir sekmēt nozaru profesionālās izglītības atbilstību darba tirgus prasībām, tās efektivitātes un kvalitātes paaugstināšanu, veicinot valsts un pašvaldību, profesionālās izglītības iestāžu, nozares darba devēju un to apvienību, arodbiedrību un to apvienību un speciālistu sadarbību cilvēkresursu attīstības jautājumos.\n(2) Nozaru ekspertu padomes:\n1) sniedz ierosinājumus par nozares kvalifikāciju struktūras izveidi vai aktualizāciju, saskaņojot to ar darba tirgus prasībām, un priekšlikumus par attiecīgajai nozarei nepieciešamajām profesionālajām kvalifikācijām un atbilstošām specializācijām;\n2) sniedz atzinumus par nozarei atbilstošiem profesijas standartiem un tajos ietvertajām profesionālās kvalifikācijas prasībām to izstrādes un aktualizācijas procesā;\n3) deleģē ekspertus dalībai attiecīgajai nozarei atbilstošu profesionālās izglītības iestāžu un nozares eksaminācijas centru akreditācijā, profesionālās izglītības programmu licencēšanā un dalībai profesionālās kvalifikācijas eksāmenos;\n4) piedalās nozarei atbilstošo profesionālās izglītības iestāžu tīkla un nozares eksaminācijas centru attīstības un profesionālās izglītības programmu plānošanā un sniedz atzinumu par nozares eksaminācijas centru izveides nepieciešamību;\n5) sniedz priekšlikumus par nozarēm nepieciešamo izglītojamo skaita tendencēm un izglītojamo uzņemšanas plāniem valsts finansētās profesionālās izglītības programmās;\n6) veicina darba devēju sadarbību ar profesionālās izglītības iestādēm darba vidē balstītu mācību atbalstīšanā un prakses organizēšanā;\n7) risina jautājumus, kas saistās ar nodarbinātību, pieprasījumu un piedāvājumu attiecīgās nozares darba tirgū.\n(3) Nozaru ekspertu padomēm ir tiesības:\n1) ierosināt izmaiņas profesionālās izglītības iestāžu darbībā;\n2) pieprasīt no profesionālās izglītības iestādēm un valsts institūcijām nozares ekspertu padomei šajā likumā noteiktās kompetences ietvaros nepieciešamo informāciju;\n3) deleģēt nozares ekspertus profesiju standartu un profesionālās kvalifikācijas prasību izstrādei;\n4) sniegt atzinumus un ierosināt izmaiņas profesionālās izglītības programmu un profesionālās kvalifikācijas pārbaudījumu saturā;\n5) sniegt atzinumus licencēšanas vai akreditācijas lēmumu pieņemšanai, tai skaitā par profesionālās izglītības programmas atbilstību nozares attīstības vajadzībām un par tās sagatavoto speciālistu nodarbinātības prognozēm.\n(4) Nozaru ekspertu padomju sastāvā iekļauj nozaru darba devēju vai to apvienību, nozaru profesionālo organizāciju, arodbiedrību vai darbinieku un valsts institūciju pārstāvjus.\n(5) Nozaru ekspertu padomju darbību koordinē Latvijas Darba devēju konfederācija, izņemot šajā likumā noteiktās nozares. Latvijas Darba devēju konfederācija ir nacionālais nozaru ekspertu padomju koordinators.\n(6) Arodbiedrības un citas biedrības vai nodibinājumi savas kompetences ietvaros veicina profesionālās izglītības attīstību.\n(7) Šā panta noteikumi neattiecas uz valsts aizsardzības jomu.\n(8) Šā panta noteikumi par nozaru ekspertu padomju kompetenci piemērojami tiktāl, ciktāl tie nav pretrunā ar normatīvajiem aktiem, kas reglamentē Valsts policijas, Valsts ugunsdzēsības un glābšanas dienesta un Valsts robežsardzes darbību.\n(9) Pārtikas rūpniecības un lauksaimniecības nozares ekspertu padomes darbību koordinē Lauksaimnieku organizāciju sadarbības padome. Kultūras nozares un radošo industriju jomas nozares ekspertu padomes funkcijas veic Kultūrizglītības padome.\n(10) Kārtību, kādā tiek koordinēta nozaru ekspertu padomju darbība, nosaka Ministru kabinets.\n(11) Nozaru ekspertu padomju darbības koordināciju finansē no valsts budžeta."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "13",
+      "title": "13.pants.",
+      "content": "(Izslēgts ar 21.09.2006 . likumu, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "Art. 13.1",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "13.1",
+      "title": "13. 1 pants. Nozares eksaminācijas centrs",
+      "content": "(1) Nozares eksaminācijas centru reģistrē un akreditē, ievērojot Ministru kabineta prasības un kārtību.\n(2) Nozares eksaminācijas centrs organizē un īsteno vienotu profesionālās kvalifikācijas eksāmenu un ārpus formālās izglītības sistēmas apgūtās kompetences novērtēšanu.\n(3) Nozares eksaminācijas centrs veic profesionālās kvalifikācijas eksaminācijas norises dokumentu sagatavošanu un uzskaiti.\n(4) Nozares eksaminācijas centru akreditē uz sešiem gadiem. To reģistrē un tā akreditāciju organizē Izglītības kvalitātes valsts dienests Ministru kabineta noteiktajā kārtībā. Lēmumu par nozares eksaminācijas centra akreditāciju pieņem sešu mēnešu laikā no attiecīga iesnieguma iesniegšanas dienas. Nozares eksaminācijas centra akreditācijas ietvaros sniegto maksas pakalpojumu cenrādi nosaka Ministru kabinets.\n(5) Informācija par akreditētajiem nozares eksaminācijas centriem, kuriem ir tiesības izsniegt valsts atzītus profesionālo kvalifikāciju apliecinošus dokumentus, kā arī profesionālo kvalifikāciju saraksts, kurās šie eksaminācijas centri ir tiesīgi izsniegt valsts atzītus profesionālo kvalifikāciju apliecinošus dokumentus, pieejams Valsts izglītības informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 13.2",
+      "chapter": "II nodaļa Profesionālās izglītības organizācija",
+      "section": "13.2",
+      "title": "13. 2 pants. Latvijas koledžu asociācija",
+      "content": "Latvijas Koledžu asociācija pārstāv valsts un privāto koledžu viedokli profesionālās izglītības jautājumos valsts, pašvaldību un nevalstiskajās organizācijās Latvijā un ārzemēs."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "14",
+      "title": "Profesionālās izglītības iestāžu dibināšanas, reorganizēšanas un likvidācijas, kā arī reģistrācijas kārtība",
+      "content": "(1) Profesionālās izglītības iestādes dibina, reorganizē un likvidē, ievērojot Izglītības likumā noteikto. Ministru kabineta rīkojuma projektam par valsts koledžas dibināšanu, reorganizāciju vai likvidāciju pievienojams Augstākās izglītības padomes atzinums. Ja Ministru kabineta rīkojuma projektu iesniedz attiecīgās nozares ministrs, šis projekts jāsaskaņo arī ar izglītības un zinātnes ministru.\n(2) Profesionālās izglītības iestādes reģistrē Izglītības likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "15",
+      "title": "Profesionālās izglītības iestādes statuss un tās darbība",
+      "content": "(1) Profesionālās izglītības iestādes darbības tiesiskais pamats ir šis likums, Izglītības likums , citi normatīvie akti un attiecīgās profesionālās izglītības iestādes nolikums. Profesionālās izglītības iestādes nolikumu apstiprina tās dibinātājs.\n(1 1 ) Valsts dibināto profesionālās izglītības iestāžu juridiskais statuss ir valsts tiešās pārvaldes iestāde vai valsts kapitālsabiedrība.\n(1 2 ) Valsts profesionālās izglītības iestādes atrodas izglītības un zinātnes ministra vai attiecīgās nozares ministra pakļautībā. Valsts dibinātas koledžas atrodas izglītības un zinātnes ministra vai attiecīgās nozares ministra pārraudzībā. Iekšlietu ministrijas sistēmā esošās koledžas atrodas Iekšlietu ministrijas sistēmas valsts pārvaldes iestāžu pakļautībā.\n(1 3 ) Valsts dibināto augstskolu koledžu juridisko statusu nosaka pati augstskola.\n(2) Profesionālās izglītības iestādes pamatuzdevums ir profesionālās izglītības programmu īstenošana.\n(2 1 ) (Izslēgta ar 03.03.2022 . likumu)\n(3) Profesionālās izglītības iestāde atbilstoši Izglītības likumam un citu likumu un normatīvo aktu noteikumiem ir tiesīga veidot profesionālās izglītības iestādes struktūru, tai skaitā, saskaņojot ar izglītības iestādes dibinātāju, izglītības programmu īstenošanas vietas, un patstāvīgi veikt saimniecisko un citāda veida darbību, ja tas netraucē izglītības programmu īstenošanu un ir paredzēts izglītības iestādes nolikumā.\n(4) Ja izglītības un zinātnes ministrs konstatē, ka profesionālās izglītības iestādes nolikums vai tā daļa neatbilst normatīvajiem aktiem, viņam ir pienākums aicināt izglītības iestādi 45 dienu laikā novērst neatbilstību. Ja izglītības iestāde neatbilstību norādītajā termiņā nenovērš, izglītības un zinātnes ministram ir tiesības apturēt attiecīgās profesionālās izglītības iestādes nolikuma vai tā daļas darbību.\n(5) Ja izglītības un zinātnes ministrs konstatē pašvaldības vai privātās profesionālās izglītības iestādes, nolikuma vai tās darbības neatbilstību likumiem un citiem normatīvajiem aktiem, viņš var ierosināt iestādes dibinātājam apturēt iestādes nolikuma darbību līdz attiecīgu grozījumu izdarīšanai vai nepilnību novēršanai viņa norādītajā laikā.\n(6) Ja izglītības un zinātnes ministra norādītajā laikā izglītības iestāde nav izdarījusi attiecīgos grozījumus nolikumā vai nav novērsusi norādītās nepilnības, ministrs ir tiesīgs uz laiku apturēt izglītības iestādes darbību vai atsaukt izglītības iestādes reģistrāciju, izslēdzot šo izglītības iestādi no Izglītības iestāžu reģistra.\n(7) (Izslēgta ar 03.03.2022 . likumu)\n(8) Koledža ik gadu sagatavo publiski pieejamu gada pārskatu par savu darbību. Tā ik gadu iesniedz Izglītības un zinātnes ministrijai informāciju par savu darbību, ievērojot Ministru kabineta noteikto iesniedzamās informācijas saturu un apjomu, tās iesniegšanas kārtību un termiņu."
+    },
+    {
+      "provision_ref": "Art. 15.1",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "15.1",
+      "title": "15. 1 pants. Profesionālās izglītības kompetences centrs",
+      "content": "(Izslēgts ar 03.03.2022 . likumu, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16",
+      "title": "Profesionālās izglītības iestādes nosaukums",
+      "content": "(Izslēgts ar 03.03.2022 . likumu, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "Art. 16.1",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.1",
+      "title": "16. 1 pants. Profesionālās izglītības iestāžu statuss un nosaukums",
+      "content": "(1) Atbilstoši profesionālās izglītības iestādē iegūstamajai izglītībai un profesionālajai kvalifikācijai ir šāda statusa profesionālās izglītības iestādes:\n1) tehnikums;\n2) mākslu izglītības kompetences centrs;\n3) profesionālā vidusskola;\n4) profesionālās tālākizglītības centrs;\n5) koledža.\n(2) Profesionālās izglītības iestādes nosaukumu izvēlas atbilstoši Izglītības likumā un šā panta pirmajā daļā noteiktajam. Nosaukumā var ietvert norādi uz izglītības programmas veidu un profesionālo jomu, kā arī ģeogrāfisko vietu.\n(3) Saskaņā ar profesionālās izglītības iestādes vēsturiskajām tradīcijām tā ir tiesīga izmantot citu nosaukumu Izglītības likumā noteiktā kārtībā.\n(4) Profesionālās izglītības iestādes statusu nosaka tās dibinātājs. Profesionālās izglītības iestādes atbilstību attiecīgajam profesionālās izglītības iestādes statusam izvērtē izglītības iestādes akreditācijas procesā.\n(5) Vērtējot profesionālās izglītības iestādes, izņemot profesionālās tālākizglītības centrus, atbilstību attiecīgajam šā panta pirmajā daļā noteiktajam profesionālās izglītības iestādes statusam, ņem vērā šādus nosacījumus:\n1) izglītojamo skaita rādītājus;\n2) izglītojamo rezultātus profesionālās kvalifikācijas eksāmenos un citos valsts noslēguma pārbaudījumos;\n3) profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu īstenošanas rādītājus, ja izglītības iestāde tādas īsteno;\n4) īstenoto profesionālās izglītības programmu atbilstību saskaņā ar 16. 2 panta pirmajā daļā, 16. 3 panta pirmajā daļā, 16. 4 panta pirmajā daļā un 16. 7 panta pirmajā daļā noteikto, ievērojot, ka attiecīgās izglītības programmas veido lielāko daļu no profesionālās izglītības programmu, izņemot profesionālās tālākizglītības programmas un profesionālās pilnveides izglītības programmas, skaita.\n(6) Vērtējot profesionālās izglītības iestādes atbilstību tehnikuma statusam, papildus šā panta piektajā daļā noteiktajam tiek vērtēti:\n1) darba vidē balstītu mācību īstenošanas rādītāji;\n2) metodiskā darba rezultatīvie rādītāji;\n3) absolventu nodarbinātības un izglītības turpināšanas augstākās izglītības pakāpē rādītāji.\n(7) Vērtējot profesionālās izglītības iestādes atbilstību mākslu izglītības kompetences centra statusam, papildus šā panta piektajā daļā noteiktajam tiek vērtēti:\n1) sadarbības ar mākslu, kultūras un radošo industriju darba devējiem rādītāji;\n2) metodiskā darba rezultatīvie rādītāji;\n3) absolventu nodarbinātības un izglītības turpināšanas augstākās izglītības pakāpē rādītāji.\n(8) Vērtējot profesionālās izglītības iestādes atbilstību profesionālās tālākizglītības centra statusam, ņem vērā šādus nosacījumus:\n1) pedagogu un ekspertu kvalifikācijas atbilstību īstenotajām programmām;\n2) materiāltehniskā nodrošinājuma atbilstību īstenotajām profesionālās izglītības programmām;\n3) izglītojamo rezultātus profesionālās kvalifikācijas pārbaudījumos;\n4) absolventu karjeras izaugsmes rādītājus;\n5) sadarbības ar darba devējiem rādītājus.\n(9) Vērtējot profesionālās izglītības iestādes atbilstību koledžas statusam, papildus šā panta piektajā daļā noteiktajam tiek vērtēts, vai:\n1) īsā cikla profesionālās augstākās izglītības programmas ir vismaz vienā studiju virzienā;\n2) vismaz 65 procentiem vēlētā akadēmiskā personāla ir septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstoša augstākā izglītība vai profesionālā kvalifikācija;\n3) ir noslēgti sadarbības līgumi ar augstskolām, kas nodrošina iespēju studiju turpināšanai atbilstošās pirmā cikla profesionālās augstākās izglītības programmās;\n4) aktīvi sadarbojas ar darba devējiem un nodrošina darba vidē balstītas mācības, kā arī veic lietišķos pētījumus koledžas stratēģiskās specializācijas virzienos, tostarp iesaista pētniecībā studējošos."
+    },
+    {
+      "provision_ref": "Art. 16.2",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.2",
+      "title": "16. 2 pants. Tehnikums un tā darbības mērķi",
+      "content": "(1) Tehnikums ir profesionālās vidējās izglītības iestāde, kura īsteno profesionālās vidējās izglītības programmas un profesionālās tālākizglītības programmas, kas dod iespēju iegūt trešā un ceturtā līmeņa profesionālo kvalifikāciju.\n(2) Tehnikums ir tiesīgs īstenot arī profesionālās tālākizglītības programmas, kas dod iespēju iegūt piektā līmeņa profesionālo kvalifikāciju tajās profesionālajās kvalifikācijās, kurās tehnikums īsteno atbilstošas izglītības programmu grupas ceturtā līmeņa profesionālās kvalifikācijas izglītības programmas un augstākās izglītības pakāpē nav studiju programmas attiecīgās profesionālās kvalifikācijas ieguvei.\n(3) Tehnikums ir tiesīgs īstenot arī profesionālās pilnveides izglītības programmas tajās profesionālajās kvalifikācijās, kurās tehnikums īsteno atbilstošas profesionālās izglītības programmas.\n(4) Tehnikuma darbības mērķi atbilstoši tā dibinātāja apstiprinātai attīstības stratēģijai ir šādi:\n1) attīstīt un īstenot izglītības programmas stratēģiskās specializācijas virzienos, kas nodrošina tautsaimniecības, valsts un sabiedrības attīstības nākotnes vajadzībām nepieciešamos speciālistus, kā arī veicināt izglītības procesā iesaistīto personu izaugsmi par uzņēmīgiem, radošiem, atbildīgiem un konkurētspējīgiem sabiedrības locekļiem;\n2) sadarbībā ar nozares uzņēmumiem īstenot darba vidē balstītas mācības;\n3) reģiona vai nozares ietvaros īstenot metodisko darbu, nodrošināt citām profesionālās izglītības iestādēm metodisko atbalstu un pedagogu tālākizglītību;\n4) organizēt profesionālās kvalifikācijas eksāmenus, lai novērtētu ārpus formālās izglītības sistēmas iegūto profesionālo kompetenci tajās profesionālajās kvalifikācijās, kurās tehnikums īsteno atbilstošas profesionālās izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 16.3",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.3",
+      "title": "16. 3 pants. Mākslu izglītības kompetences centrs un tā darbības mērķi",
+      "content": "(1) Mākslu izglītības kompetences centrs ir profesionālās vidējās izglītības iestāde, kura izglītības tematiskajā jomā \"Mākslas\" un ar to saistītajās jomās īsteno profesionālās vidējās izglītības programmas un profesionālās tālākizglītības programmas, kas dod iespēju iegūt trešā un ceturtā līmeņa profesionālo kvalifikāciju.\n(2) Mākslu izglītības kompetences centrs ir tiesīgs īstenot arī profesionālās tālākizglītības programmas, kas dod iespēju iegūt piektā līmeņa profesionālo kvalifikāciju tajās profesionālajās kvalifikācijās, kurās mākslu izglītības kompetences centrs īsteno atbilstošas izglītības programmu grupas ceturtā līmeņa profesionālās kvalifikācijas izglītības programmas un augstākās izglītības pakāpē nav studiju programmas attiecīgās profesionālās kvalifikācijas ieguvei.\n(3) Mākslu izglītības kompetences centrs ir tiesīgs īstenot arī vispārējās pamatizglītības programmas, profesionālās ievirzes programmas un profesionālās pilnveides izglītības programmas.\n(4) Mākslu izglītības kompetences centra darbības mērķi atbilstoši tā dibinātāja apstiprinātai attīstības stratēģijai ir šādi:\n1) attīstīt un īstenot izglītības programmas stratēģiskās specializācijas virzienos, kas nodrošina mākslu, kultūras un radošo industriju nozaru attīstības vajadzībām nepieciešamos speciālistus, kā arī veicināt izglītības procesā iesaistīto personu radošo talantu izkopšanu un attīstīšanu;\n2) īstenot metodisko darbu izglītības tematiskajā jomā \"Mākslas\", nodrošināt pedagogu tālākizglītību un metodisko atbalstu citām profesionālās vidējās izglītības iestādēm un reģiona profesionālās ievirzes izglītības iestādēm;\n3) sadarbībā ar mākslu, kultūras un radošo industriju nozares darba devējiem nodrošināt izglītības programmu īstenošanu un prakses iespējas profesionālās izglītības programmas apguvē;\n4) organizēt profesionālās kvalifikācijas eksāmenus, lai novērtētu ārpus formālās izglītības sistēmas iegūto profesionālo kompetenci tajās profesionālajās kvalifikācijās, kurās mākslu izglītības kompetences centrs īsteno atbilstošas profesionālās izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 16.4",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.4",
+      "title": "16. 4 pants. Profesionālā vidusskola un tās darbības mērķi",
+      "content": "(1) Profesionālā vidusskola ir profesionālās vidējās izglītības iestāde, kura īsteno profesionālās vidējās izglītības programmas, kas dod iespēju iegūt trešā un ceturtā līmeņa profesionālo kvalifikāciju.\n(2) Profesionālā vidusskola ir tiesīga īstenot arī profesionālās tālākizglītības un profesionālās pilnveides programmas tajās profesionālajās kvalifikācijās, kurās profesionālā vidusskola īsteno atbilstošas profesionālās izglītības programmas. Profesionālā vidusskola, kura īsteno profesionālās vidējās izglītības programmas izglītības tematiskajā jomā \"Mākslas\", ir tiesīga īstenot arī profesionālās ievirzes programmas.\n(3) Profesionālās vidusskolas darbības mērķi atbilstoši tās dibinātāja apstiprinātai attīstības stratēģijai ir šādi:\n1) īstenot izglītības programmas stratēģiskās specializācijas virzienos, kas nodrošina tautsaimniecības vajadzībām nepieciešamos speciālistus, kā arī veicināt izglītības procesā iesaistīto personu izaugsmi par uzņēmīgiem, radošiem, atbildīgiem un konkurētspējīgiem sabiedrības locekļiem;\n2) sadarbībā ar nozares uzņēmumiem nodrošināt prakses iespējas profesionālās izglītības programmas apguvē;\n3) profesionālajai vidusskolai, kura īsteno profesionālās vidējās izglītības programmas izglītības tematiskajā jomā \"Mākslas\", papildus veikt metodisko darbu izglītības tematiskajā jomā \"Mākslas\" reģiona profesionālās ievirzes izglītības iestādēm.\n(4) Profesionālā vidusskola ir tiesīga organizēt profesionālās kvalifikācijas eksāmenus, lai novērtētu ārpus formālās izglītības sistēmas iegūto profesionālo kompetenci tajās profesionālajās kvalifikācijās, kurās profesionālā vidusskola īsteno atbilstošas profesionālās izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 16.5",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.5",
+      "title": "16. 5 pants. Profesionālās tālākizglītības centrs un tā darbības mērķi",
+      "content": "(1) Profesionālās tālākizglītības centrs ir profesionālās izglītības iestāde, kura atbilstoši profesionālās kvalifikācijas prasībām, kas ietvertas profesijas standartā, īsteno profesionālās tālākizglītības un profesionālās pilnveides programmas, kas dod iespēju atbilstoši izglītojamā iepriekš iegūtajai izglītības pakāpei iegūt attiecīgu profesionālās kvalifikācijas līmeni.\n(2) Profesionālās tālākizglītības centra darbības mērķis ir atbilstoši darba tirgus pieprasījumam nodrošināt profesionālās kvalifikācijas ieguvi, pārkvalifikāciju un profesionālās kompetences pilnveidi personām ar iepriekšēju izglītību un darba pieredzi.\n(3) Profesionālās tālākizglītības centrs ir tiesīgs organizēt profesionālās kvalifikācijas eksāmenus, lai novērtētu ārpus formālās izglītības sistēmas iegūto profesionālo kompetenci tajās profesionālajās kvalifikācijās, kurās profesionālās tālākizglītības centrs īsteno atbilstošas profesionālās izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 16.6",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.6",
+      "title": "16. 6 pants. Tiesības īstenot vispārējās izglītības programmas",
+      "content": "Tehnikums un profesionālā vidusskola ir tiesīgi īstenot arī vispārējās pamatizglītības vai vispārējās vidējās izglītības programmas sadarbībā ar Ieslodzījuma vietu pārvaldi, saņemot izglītības un zinātnes ministra atļauju."
+    },
+    {
+      "provision_ref": "Art. 16.7",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "16.7",
+      "title": "16. 7 pants. Koledža un tās darbības mērķi",
+      "content": "(1) Koledža ir profesionālās augstākās izglītības iestāde, kura īsteno īsā cikla profesionālās augstākās izglītības programmas, kas dod iespēju iegūt piektā līmeņa profesionālo kvalifikāciju.\n(2) Koledža ir tiesīga īstenot kopīgas īsā cikla profesionālās augstākās izglītības programmas ar citām koledžām un augstskolām Latvijā vai ārzemēs.\n(3) Koledža ir tiesīga īstenot arī profesionālās vidējās izglītības programmas, kas dod iespēju iegūt trešā un ceturtā līmeņa profesionālo kvalifikāciju tajās izglītības tematiskajās jomās, kurās koledža īsteno atbilstošas īsā cikla profesionālās augstākās izglītības programmas. Profesionālās izglītības programmas Iekšlietu ministrijas sistēmas valsts pārvaldes iestāžu pakļautībā esošajās koledžās un Sociālās integrācijas valsts aģentūrā nosaka Ministru kabinets.\n(4) Koledža ir tiesīga īstenot arī profesionālās tālākizglītības un profesionālās pilnveides izglītības programmas tajās profesionālajās kvalifikācijās, kurās koledža īsteno atbilstošas profesionālās izglītības programmas.\n(5) Koledža sadarbībā ar nozares darba devējiem īsteno darba vidē balstītas mācības.\n(6) Koledžas darbības mērķi atbilstoši tās dibinātāja noteiktai stratēģiskajai specializācijai ir šādi:\n1) attīstīt un īstenot īsā cikla profesionālās augstākās izglītības programmas, kas ļauj augstākās izglītības pakāpē ātri un atbilstoši darba tirgus prasībām nodrošināt tautsaimniecības, valsts un sabiedrības attīstības nākotnes vajadzībām nepieciešamos cilvēkresursus, kā arī veicināt izglītības procesā iesaistīto personu izaugsmi par uzņēmīgiem, radošiem, atbildīgiem un konkurētspējīgiem sabiedrības locekļiem;\n2) veikt lietišķos pētījumus attiecīgās tautsaimniecības nozarēs, izmantot analītisku pieeju praktisku problēmu risināšanai attiecīgajā jomā un, dinamiski piemērojoties ārējās vides pārmaiņām, piedalīties attiecīgās nozares attīstīšanā;\n3) nodrošināt studējošajiem iespēju turpināt izglītību pirmā cikla profesionālās augstākās izglītības programmā;\n4) sadarbībā ar nozares darba devējiem īstenot teorētisko zināšanu apguvi praksē;\n5) organizēt profesionālās kvalifikācijas eksāmenus, lai novērtētu ārpus formālās izglītības sistēmas iegūto profesionālo kompetenci tajās profesionālajās kvalifikācijās, kurās koledža īsteno atbilstošas profesionālās izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "17",
+      "title": "Profesionālās izglītības iestādes nolikums",
+      "content": "(1) Profesionālās izglītības iestādes nolikumā norāda šādas ziņas:\n1) izglītības iestādes nosaukumu;\n2) izglītības iestādes dibinātāju, iestādes juridisko statusu;\n3) izglītības iestādes stratēģisko specializāciju, darbības pamatvirzienus un uzdevumus;\n4) izglītības iestādē īstenojamās izglītības (studiju) programmas;\n5) izglītības procesa organizāciju;\n6) izglītības iestādes pārvaldes institūcijas un padomdevējas institūcijas, koledžā — tās pārstāvības, vadības institūciju un lēmējinstitūciju izveidošanas, ievēlēšanas vai iecelšanas kārtību un sastāvu, kā arī šo institūciju tiesības, pienākumus un uzdevumus, pilnvaru termiņus un atsaukšanas kārtību;\n7) izglītības iestādes pašpārvaldes izveidošanas kārtību, tās kompetenci;\n8) koledžas akadēmiskā personāla ievēlēšanas kārtību;\n9) pedagogu (akadēmiskā personāla) un citu darbinieku tiesības un pienākumus;\n10) izglītojamo un studējošo tiesības un pienākumus;\n11) izglītojamo un studējošo pašpārvaldes izveidošanas kārtību un pašpārvaldes kompetenci;\n12) koledžas struktūrvienības, to izveidošanas, reorganizācijas un likvidācijas pamatnoteikumus;\n13) izglītības iestādes iekšējo kārtību reglamentējošo dokumentu pieņemšanas kārtību, koledžā — iekšējo normatīvo aktu izdošanas kārtību;\n14) izglītības iestādes saimniecisko darbību;\n15) izglītības iestādes finansējuma avotus un kārtību;\n16) izglītības iestādes reorganizācijas un likvidācijas kārtību;\n17) izglītības iestādes nolikuma un tā grozījumu pieņemšanas kārtību;\n18) citus būtiskus noteikumus, kas nav pretrunā ar šo likumu un citiem normatīvajiem aktiem.\n(2) Apstiprināto koledžas nolikumu vai tā grozījumus koledža, izņemot izglītības un zinātnes ministra pārraudzībā esošo koledžu, iesniedz Izglītības un zinātnes ministrijai piecu darbdienu laikā no tā apstiprināšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 17.1",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "17.1",
+      "title": "17. 1 pants. Profesionālās izglītības iestādes konvents",
+      "content": "(1) Profesionālās izglītības iestādēs izveido koleģiālu padomdevēju institūciju — konventu, kura mērķis ir veicināt profesionālās izglītības iestādes attīstību atbilstoši darba tirgus prasībām.\n(2) Konventu izveido un tā nolikumu izdod profesionālās izglītības iestādes vadītājs, nosakot konventa funkcijas, uzdevumus, sastāvu un darba organizāciju.\n(3) Konventa sastāvā ir ne mazāk kā pieci padomnieki. Konventa sastāvā iekļauj profesionālās izglītības iestādes vadītāju, tās ministrijas pārstāvi, kuras padotībā ir profesionālās izglītības iestāde, kā arī attiecīgās pašvaldības, darba devēju un to apvienību pārstāvjus. Konventa sastāvā var iekļaut attiecīgā plānošanas reģiona pārstāvi, kā arī attiecīgās profesionālās izglītības iestādes darbinieku pārstāvi un citus ieinteresēto institūciju pārstāvjus. Konventa priekšsēdētājs ir darba devēju vai attiecīgās pašvaldības pārstāvis.\n(4) Konventa lēmumiem ir ieteikuma raksturs.\n(5) Konvents:\n1) sniedz priekšlikumus profesionālās izglītības iestādes vadītājam attīstības stratēģijas jautājumos un profesionālās izglītības plānošanas dokumentu izstrādē;\n2) piedalās profesionālās izglītības iestādes pedagoģisko darbinieku (administrācijas) atlases un novērtēšanas procesā;\n3) sniedz priekšlikumus par profesionālās izglītības iestādes izstrādāto profesionālās izglītības programmu pirms tās licencēšanas;\n4) veicina profesionālās izglītības iestādes sadarbību ar reģiona komersantiem prakses un darba vidē balstītu mācību organizēšanā.\n(6) Šā panta noteikumi attiecas tikai uz tām profesionālās izglītības iestādēm mākslas, mūzikas vai dejas jomā, kuras ir mākslu izglītības kompetences centri.\n(7) Uz Iekšlietu ministrijas padotībā esošām profesionālās izglītības iestādēm šā panta noteikumi attiecas tiktāl, ciktāl tie nav pretrunā ar normatīvajiem aktiem, kas reglamentē Valsts policijas, Valsts ugunsdzēsības un glābšanas dienesta un Valsts robežsardzes darbību.\n(8) Šā panta noteikumi neattiecas uz Aizsardzības ministrijas padotībā esošām profesionālās izglītības iestādēm."
+    },
+    {
+      "provision_ref": "Art. 17.2",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "17.2",
+      "title": "17. 2 pants. Koledžas dome",
+      "content": "(1) Koledžas dome ir koledžas personāla pārstāvju koleģiāla vadības un lēmējinstitūcija, kas ir atbildīga par studiju (izglītības) programmu attīstību un to atbilstību starptautiski atzītiem kvalitātes standartiem. Koledžas domes sastāvu, dalībnieku skaitu, kā arī domes izveidošanu un darbību nosaka koledžas nolikums.\n(2) Koledžas domi veido koledžas direktors un viņa vietnieki, studējošo pārstāvji, kā arī akadēmiskā un vispārējā personāla pārstāvji. Akadēmiskā personāla pārstāvji veido domes vairākumu, bet studējošo pārstāvju īpatsvars ir ne mazāks par 20 procentiem.\n(3) Koledžas dome sadarbībā ar koledžas direktoru izstrādā koledžas nolikumu un tā grozījumus un iesniedz apstiprināšanai dibinātājam.\n(4) Koledžas dome:\n1) saskaņo koledžas ilgtermiņa un vidējā termiņa attīstības stratēģijas projektu un iesniedz to apstiprināšanai dibinātājam;\n2) izstrādā un apstiprina nolikumu par akadēmiskajiem amatiem koledžā un ievēlēšanas kārtību šajos amatos, kā arī akadēmiskā personāla vērtēšanas kritērijus;\n3) ievēlē akadēmisko personālu;\n4) lemj par prasībām, procedūrām un pārbaudījumiem kvalifikāciju iegūšanai;\n5) sagatavo priekšlikumus par studiju maksu īsā cikla profesionālās augstākās izglītības programmās tajās studiju vietās, kuras netiek finansētas no valsts budžeta līdzekļiem, un iesniedz apstiprināšanai dibinātājam;\n6) nosaka no valsts budžeta līdzekļiem finansēto studiju vietu sadalījuma kārtību īsā cikla profesionālās augstākās izglītības programmās studējošajiem.\n(5) Saskaņā ar dibinātāja apstiprināto koledžas attīstības stratēģiju koledžas dome:\n1) apstiprina koledžas studiju procesa attīstības plānu;\n2) apstiprina koledžas lietišķo pētījumu attīstības plānu un rosina konkrētu lietišķo pētījumu attīstības virzienus;\n3) lemj par īsā cikla profesionālās augstākās izglītības programmu atvēršanu, saturu un attīstību, kā arī slēgšanu;\n4) lemj par citu profesionālās izglītības programmu atvēršanu, saturu un attīstību, kā arī slēgšanu.\n(6) Koledžas dome lemj par citiem jautājumiem, kuri saskaņā ar normatīvajiem aktiem un koledžas nolikumu ir domes kompetencē."
+    },
+    {
+      "provision_ref": "Art. 17.3",
+      "chapter": "III nodaļa Profesionālās izglītības iestādes",
+      "section": "17.3",
+      "title": "17. 3 pants. Profesionālās izglītības iestādes vadītājs",
+      "content": "(1) Profesionālās izglītības iestādes vadītāja amata nosaukums ir direktors. Profesionālās izglītības iestādes vadītāja tiesības, pienākumus un atbildību nosaka Izglītības likums .\n(2) Profesionālās izglītības iestādes direktoru ieceļ amatā iestādes dibinātājs.\n(3) Valsts dibinātas profesionālās izglītības iestādes direktoru konkursa kārtībā pieņem darbā un atbrīvo no tā Izglītības un zinātnes ministrija vai attiecīgās nozares ministrija.\n(4) Profesionālās izglītības iestādes direktora pilnvaras sākas ar darba līgumā noteikto darba attiecību nodibināšanas brīdi.\n(5) Koledžas direktoru ieceļ amatā uz termiņu, kas nepārsniedz piecus gadus, un ne vairāk kā divas reizes attiecīgajā koledžā. Augstskolu koledžas direktoru konkursa kārtībā pieņem darbā un atbrīvo no tā augstskolas rektors.\n(6) Par koledžas direktoru var iecelt personu, kura atbilst Izglītības likuma prasībām un kurai ir vismaz septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim atbilstoša augstākā izglītība."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "18",
+      "title": "Tiesības strādāt par pedagogu profesionālās izglītības iestādē",
+      "content": "Tiesības strādāt par pedagogu profesionālās izglītības iestādē ir personai, kurai ir atbilstoša profesionālā izglītība (kvalifikācija) un pedagoģiskā izglītība vai kurai ir atbilstoša profesionālā izglītība (kvalifikācija) un kura apgūst pedagoģisko izglītību, kas atbilst Ministru kabineta noteiktajām profesionālās izglītības iestādes pedagoga profesionālās kvalifikācijas prasībām. Par pedagogu profesionālās izglītības iestādē, kura īsteno profesionālās vidējās izglītības programmas izglītības tematiskajā jomā \"Mākslas\", ir tiesīga strādāt arī persona, kurai ir atbilstoša akadēmiskā izglītība un pedagoģiskā izglītība vai kurai ir atbilstoša akadēmiskā izglītība un kura apgūst pedagoģisko izglītību, kas atbilst Ministru kabineta noteiktajām profesionālās izglītības iestādes pedagoga profesionālās kvalifikācijas prasībām."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "19",
+      "title": "Profesionālās izglītības iestādes pedagoga profesionālā kvalifikācija",
+      "content": "Profesionālās izglītības iestādes pedagoga profesionālo kvalifikāciju apliecina valsts atzīti dokumenti par atbilstošu profesionālo izglītību (kvalifikāciju) un pedagoģisko izglītību."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "20",
+      "title": "Profesionālās izglītības iestādes pedagoga darba samaksa",
+      "content": "(1) Profesionālās izglītības iestādes pedagoga darba samaksu nosaka atbilstoši Izglītības likumam .\n(2) (Izslēgta ar 05.07.2001 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "20.1",
+      "title": "20. 1 pants. Profesionālās izglītības iestādes izglītojamo tiesības un pienākumi",
+      "content": "(1) Izglītojamo pienākumus un tiesības nosaka Izglītības likums .\n(2) Koledžās studējošie ir īsā cikla profesionālās augstākās izglītības programmu studenti.\n(3) Uzņemšanu īsā cikla profesionālās augstākās izglītības programmās, ierakstīšanu studējošo sarakstā, datu ievadi studējošo un absolventu reģistrā, studiju uzsākšanu vēlākos studiju posmos, izslēgšanu no studējošo saraksta, kā arī studējošo tiesības, stipendiju piešķiršanu, studiju un studējošo kreditēšanu nosaka Augstskolu likums .\n(4) Profesionālās vidējās izglītības iestādēs izglītojamie pēc savas iniciatīvas ir tiesīgi izveidot izglītojamo pašpārvaldi, lai risinātu jautājumus, kas saistīti ar izglītojamo interesēm profesionālās izglītības iestādē, un līdzdarbotos profesionālās izglītības iestādes darba organizēšanā un mācību procesa pilnveidē. Izglītojamo pašpārvaldes izveidošanu un sastāvu, kā arī tās darbību reglamentējošā normatīvā akta izdošanas kārtību nosaka attiecīgās profesionālās izglītības iestādes nolikums.\n(5) Koledžas studējošo pašpārvalde ir vēlēta, neatkarīga studējošo tiesību un interešu pārstāvības institūcija koledžā. Tā darbojas saskaņā ar nolikumu, kuru izstrādā studējošie un apstiprina koledžas dome. Koledžas dome var atteikt apstiprināšanu tikai tiesisku apsvērumu dēļ. Studējošo pašpārvaldes lēmumi pēc to apstiprināšanas koledžas domē ir obligāti visiem studējošajiem.\n(6) Koledžas studējošo pašpārvalde organizē akadēmiskās, materiālās, sociālā atbalsta un kultūras dzīves aktivitātes koledžā, kā arī aizstāv un pārstāv studējošo intereses koledžā un citās valsts institūcijās.\n(7) Studējošo pašpārvaldei ir šādas tiesības:\n1) pieprasīt un saņemt informāciju un paskaidrojumus no koledžas institūcijām jautājumos, kas skar studējošo intereses;\n2) veto tiesības koledžas domē jautājumos, kas skar studējošo intereses. Pēc veto piemērošanas jautājumu izskata saskaņošanas komisija, kuru izveido attiecīgā vadības institūcija pēc paritātes principa. Saskaņošanas komisijas lēmumu apstiprina attiecīgā vadības institūcija ar klātesošo divu trešdaļu balsu vairākumu;\n3) līdzdarboties koledžas lēmējinstitūcijās, kā arī piedalīties kā novērotājiem ieskaitēs un eksāmenos, ja to paredz koledžas studiju kārtību reglamentējošie dokumenti;\n4) reprezentēt koledžas studējošos Latvijā un ārvalstīs;\n5) noteikt kārtību, kādā studējošo pašpārvalde organizē darbu, tai skaitā kritērijus, atbilstoši kuriem studējošie tiek ievēlēti koledžas institūcijās, ja tajās ir paredzēta studējošo pārstāvība.\n(8) Profesionālās izglītības iestādes direktora pienākums ir atbalstīt un sekmēt izglītojamo pašpārvaldes un studējošo pašpārvaldes darbību. Studējošo pašpārvaldi no koledžas budžeta finansē apmērā, kas nav mazāks par vienu divsimto daļu no koledžas gada budžeta studiju procesa nodrošināšanai paredzētās daļas. Šos līdzekļus studējošo pašpārvalde izmanto šā panta sestajā daļā minēto funkciju veikšanai un biedru naudas maksai dalībai Latvijas Studentu apvienībā."
+    },
+    {
+      "provision_ref": "Art. 20.2",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "20.2",
+      "title": "20. 2 pants. Koledžas personāls",
+      "content": "(1) Koledžas personālu veido:\n1) akadēmiskais personāls — attiecīgās koledžas akadēmiskajos amatos ievēlētie darbinieki;\n2) vispārējais koledžas personāls;\n3) studējošie.\n(2) Prasības koledžas akadēmiskajam personālam, kas īsteno īsā cikla profesionālās augstākās izglītības programmas, nosaka Augstskolu likums . Ja koledžā ir brīvs vai uz laiku brīvs akadēmiskais amats, koledžas dome var nolemt neizsludināt konkursu, bet uz laiku līdz diviem gadiem pieņemt darbā viesdocentu, vieslektoru vai viesasistentu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "21",
+      "title": "Izglītojamo attiecības ar obligāto militāro dienestu",
+      "content": "(Izslēgts ar 07.06.2007 . likumu, kas stājas spēkā 11.07.2007. )"
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "21.1",
+      "title": "21. 1 pants. Profesionālās izglītības programmu absolventu monitorings un absolventu iekļaušanās darba tirgū izvērtējums",
+      "content": "(1) Izglītības un zinātnes ministrija veic profesionālās izglītības programmu absolventu iegūto profesionālo kvalifikāciju, nodarbinātības un ienākumu monitoringu, izmantojot tai skaitā Valsts izglītības informācijas sistēmā apkopotos datus, arī aptauju datus.\n(2) Monitoringu par profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un profesionālās tālākizglītības programmu absolventu iegūtajām profesionālajām kvalifikācijām veic, pamatojoties uz Profesionālās izglītības programmu absolventu reģistra datiem.\n(3) Nepersonificētus monitoringa datus par profesionālās izglītības programmu absolventu nodarbinātību (arī par absolventiem, kuriem piešķirts bezdarbnieka vai darba meklētāja statuss) un ienākumiem sagatavo un Valsts izglītības informācijas sistēmā iesniedz Centrālā statistikas pārvalde, iepriekš apstrādājot personificētus datus par absolventu nodarbinātību un ienākumiem no Valsts ieņēmumu dienesta un personificētus datus no Nodarbinātības valsts aģentūras par absolventiem ar bezdarbnieka vai darba meklētāja statusu.\n(4) Valsts izglītības informācijas sistēmā iesniedzamās informācijas apjomu par profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un profesionālās tālākizglītības programmu absolventu iegūto profesionālo kvalifikāciju, nodarbinātību un ienākumiem, šā panta trešajā daļā minētā uzdevuma veikšanai nepieciešamo finansējuma apjomu, šīs informācijas iesniegšanas kārtību, kā arī publiski pieejamās informācijas apjomu un publiskošanas kārtību nosaka Ministru kabinets.\n(5) Izglītības un zinātnes ministrija sadarbībā ar Ekonomikas ministriju, balstoties uz profesionālās izglītības absolventu monitoringa datiem, sagatavo un publisko ikgadēju izvērtējumu attiecībā uz absolventu iekļaušanos darba tirgū (nodarbinātība, nodarbinātības atbilstība iegūtajai profesionālajai kvalifikācijai un ienākumi) par pirmajiem diviem gadiem pēc absolvēšanas. Izvērtējumā iekļauj absolventu nodarbinātības atbilstības novērtējumu Izglītības attīstības pamatnostādņu izvirzītajiem mērķiem un atbilstību aktuālajām tautsaimniecības nozaru attīstības tendencēm."
+    },
+    {
+      "provision_ref": "Art. 21.2",
+      "chapter": "IV nodaļa Profesionālās izglītības iestādes personāls un izglītojamie (Nodaļas nosaukums 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )",
+      "section": "21.2",
+      "title": "21. 2 pants. Profesionālās izglītības programmu absolventu reģistrs",
+      "content": "(1) Profesionālās izglītības programmu absolventu reģistrs ir Valsts izglītības informācijas sistēmas sastāvdaļa. Profesionālās izglītības programmu absolventu reģistrā ieraksta ziņas par profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un profesionālās tālākizglītības programmu absolventu iegūto profesionālo kvalifikāciju.\n(2) Datus profesionālās izglītības programmu absolventu reģistrā par šā panta pirmajā daļā minēto profesionālās izglītības programmu absolventu iegūto profesionālo kvalifikāciju sniedz profesionālās izglītības iestādes. Par reģistram sniegto datu precizitāti un atbilstību īstenībai ir atbildīgs izglītības iestādes vadītājs."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "22",
+      "title": "Profesionālās izglītības saturu reglamentējošie pamatdokumenti",
+      "content": "Profesionālās izglītības saturu reglamentējošie pamatdokumenti ir šādi:\n1) valsts profesionālās izglītības standarts;\n2) profesijas standarts un tajā iekļautās profesionālās kvalifikācijas prasības;\n3) nozares kvalifikāciju struktūra;\n4) profesionālās izglītības programma."
+    },
+    {
+      "provision_ref": "Art. 22.1",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "22.1",
+      "title": "22. 1 pants. Profesionālo kvalifikāciju sistēma",
+      "content": "Profesionālo kvalifikāciju sistēma ir sistematizēts nozarē nepieciešamo prasību kopums profesionālās kvalifikācijas ieguvei un profesionālās kompetences pilnveidei, kuru veido:\n1) nozares kvalifikāciju struktūra;\n2) profesiju standarti un tajos iekļautās profesionālās kvalifikācijas prasības;\n3) profesionālās izglītības saturs;\n4) profesionālās kvalifikācijas vai tās daļas novērtēšanas, atzīšanas un piešķiršanas nosacījumi."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "23",
+      "title": "Valsts profesionālās izglītības standarti",
+      "content": "(1) Valsts profesionālās izglītības standarti — valsts profesionālās pamatizglītības standarts, valsts arodizglītības standarts, valsts profesionālās vidējās izglītības standarts un valsts profesionālās augstākās izglītības standarts — atbilstoši izglītības pakāpei nosaka:\n1) izglītības programmu stratēģiskos mērķus;\n2) obligāto izglītības saturu;\n3) iegūtās izglītības vērtēšanas pamatprincipus un kārtību;\n4) iegūtās profesionālās kvalifikācijas vērtēšanas pamatprincipus un kārtību.\n(1 1 ) Valsts profesionālās izglītības standarti — valsts profesionālās tālākizglītības standarts, valsts profesionālās pilnveides izglītības standarts un valsts profesionālās ievirzes izglītības standarts — nosaka:\n1) izglītības programmu stratēģiskos mērķus;\n2) obligāto izglītības saturu;\n3) iegūtās profesionālās kvalifikācijas vai profesionālās kompetences vērtēšanas pamatprincipus un kārtību.\n(2) Valsts profesionālās izglītības standartus izstrādā Izglītības un zinātnes ministrija, un tos apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "24",
+      "title": "Profesijas standarts",
+      "content": "(1) Profesijas standarts ir dokuments, kurā ietvertas profesionālās kvalifikācijas prasības, tai skaitā profesionālās darbības pienākumi un uzdevumi, to izpildei nepieciešamā vispārējā un profesionālā kompetence un prasības attiecībā uz iepriekš iegūto izglītību, vienai vai vairākām savstarpēji saistītām profesionālajām kvalifikācijām.\n(2) Profesijas standartā papildus šā panta pirmajā daļā noteiktajam var iekļaut:\n1) prasības attiecībā uz darba tirgū atpazīstamu kvalifikācijas daļu, kas ir sasniedzamo mācīšanās rezultātu vienība vai vienību kopums noteikta darba pienākuma veikšanai;\n2) prasības attiecībā uz specializāciju, kas ir profesionālajai kvalifikācijai atbilstoša šaurāka profesionālās darbības joma, kuras uzdevumu veikšanai nepieciešama papildu kompetence;\n3) prasības attiecībā uz saistītu profesionālo kvalifikāciju, kas ir profesionālā kvalifikācija ar kopīgām kompetencēm vienā vai vairākos profesionālās kvalifikācijas līmeņos.\n(3) Profesijas standartu izstrādā un aktualizē Ministru kabineta noteikta institūcija, saskaņojot ar Nacionālās trīspusējās sadarbības padomes Profesionālās izglītības un nodarbinātības trīspusējās sadarbības apakšpadomi Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "24.1",
+      "title": "24. 1 pants. Profesionālās kvalifikācijas prasības",
+      "content": "(Izslēgts ar 03.03.2022 . likumu, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "Art. 24.2",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "24.2",
+      "title": "24. 2 pants. Nozares kvalifikāciju struktūra",
+      "content": "(1) Nozares kvalifikāciju struktūra ir nozares profesionālo kvalifikāciju vispārīgs raksturojums, kurā iekļauts saistīto profesionālo kvalifikāciju un specializāciju pārskats, kā arī nozares kvalifikāciju karte.\n(2) Nozares kvalifikāciju struktūru izstrādā un aktualizē Ministru kabineta noteikta institūcija, saskaņojot ar nozares ekspertu padomi un Nacionālās trīspusējās sadarbības padomes Profesionālās izglītības un nodarbinātības trīspusējās sadarbības apakšpadomi Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "25",
+      "title": "Profesionālās izglītības programma",
+      "content": "(1) Profesionālās izglītības programma ir profesionālo izglītību reglamentējošs dokuments, kas atbilstoši valsts profesionālās izglītības standartam un profesijas standartā ietvertajām attiecīgās profesionālās kvalifikācijas prasībām nosaka:\n1) profesionālās izglītības programmas nosaukumu, mērķi, uzdevumus un sasniedzamos rezultātus;\n2) profesionālās izglītības programmas saturu;\n3) profesionālās izglītības programmas īstenošanas plānu;\n4) prasības attiecībā uz iepriekš iegūto izglītību;\n5) profesionālās kvalifikācijas nosaukumu un līmeni, kā arī Latvijas kvalifikāciju ietvarstruktūras līmeni;\n6) profesionālās izglītības programmas īstenošanai nepieciešamos resursus, tai skaitā personālu, finanšu un materiāltehniskos līdzekļus un infrastruktūru;\n7) nepieciešamās profesionālās kompetences prasības pedagogiem.\n(2) Profesionālās izglītības programmu izstrādā izglītības iestāde, saskaņojot ar tās dibinātāju, izņemot profesionālās augstākās izglītības programmas. Profesionālās augstākās izglītības programmas izstrādā un apstiprina Augstskolu likumā noteiktajā kārtībā.\n(3) Profesionālās vidējās izglītības, profesionālās tālākizglītības un profesionālās pilnveides izglītības programmas mākslas, drošības, aviācijas, jūrniecības un veselības jomā papildus saskaņo ar Ministru kabineta noteiktajām kompetentām valsts pārvaldes iestādēm.\n(4) Profesionālās izglītības programmu izglītības iestāde sāk īstenot ne vēlāk kā gada laikā pēc tās licencēšanas.\n(5) Akreditēta profesionālās izglītības iestāde arodizglītības programmu, profesionālās vidējās izglītības programmu un profesionālās tālākizglītības programmu daļas var īstenot kā profesionālās pilnveides izglītības programmas bez papildu licencēšanas.\n(6) Akreditēta profesionālās izglītības iestāde arodizglītības programmu un profesionālās vidējās izglītības programmu daļas var īstenot kā profesionālās tālākizglītības programmas bez papildu licencēšanas.\n(7) Tās akreditētas augstākās izglītības programmas daļu, kas nodrošina profesionālās kvalifikācijas ieguvi, var īstenot kā profesionālās tālākizglītības vai profesionālās pilnveides izglītības programmu augstākās izglītības pakāpē bez papildu licencēšanas. Profesionālās tālākizglītības programmas daļu var īstenot kā profesionālās pilnveides izglītības programmu augstākās izglītības pakāpē bez papildu licencēšanas. Ministru kabinets nosaka kārtību, kādā reģistrē profesionālās tālākizglītības un profesionālās pilnveides izglītības programmas augstākās izglītības pakāpē bez papildu licencēšanas, kā arī šo programmu īstenošanas nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "26",
+      "title": "Profesionālās izglītības programmu veidi",
+      "content": "(1) Profesionālās izglītības programmas atkarībā no iegūstamās izglītības iedalāmas šādi:\n1) profesionālās pamatizglītības programmas;\n2) arodizglītības programmas;\n3) profesionālās vidējās izglītības programmas;\n4) profesionālās augstākās izglītības programmas (studiju programmas);\n5) profesionālās tālākizglītības programmas;\n6) profesionālās pilnveides izglītības programmas;\n7) profesionālās ievirzes izglītības programmas.\n(2) Profesionālajā pamatizglītībā, arodizglītībā, profesionālajā vidējā izglītībā un profesionālajā tālākizglītībā programmas var īstenot kā modulāras profesionālās izglītības programmas. Īstenojot modulāro profesionālās izglītības programmu, izglītības iestāde var īstenot atsevišķi vienu vai vairākus moduļus un izsniegt apliecību par attiecīgā moduļa apguvi.\n(3) Izglītojamam, kas pārtrauc profesionālās izglītības programmas, izņemot profesionālās pilnveides izglītības programmas, apguvi akreditētā profesionālās izglītības iestādē, izsniedz dokumentus par attiecīgās profesionālās izglītības programmas daļas apguvi Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "27",
+      "title": "Izglītojamo uzņemšana profesionālās izglītības programmās",
+      "content": "(1) Profesionālās pamatizglītības un arodizglītības programmās persona tiek uzņemta bez iepriekšējās izglītības ierobežojuma un ne agrāk kā tajā kalendārajā gadā, kurā tai aprit 15 gadi.\n(2) Profesionālās vidējās izglītības programmās persona tiek uzņemta pēc vispārējās pamatizglītības vai profesionālās pamatizglītības ieguves.\n(3) Īsā cikla profesionālās augstākās izglītības programmās persona tiek uzņemta pēc vispārējās vidējās izglītības vai profesionālās vidējās izglītības ieguves.\n(4) (Izslēgta ar 03.03.2022 . likumu)\n(5) Kārtību, kādā darbinieki (praktikanti) apgūst profesionālās izglītības programmas, nosaka šis likums, likums \"Par amatniecību\" un citi normatīvie akti.\n(6) Persona tiek uzņemta profesionālās tālākizglītības programmās, kuru apguve dod iespēju iegūt:\n1) pirmā, otrā vai trešā līmeņa profesionālo kvalifikāciju, bez iepriekšējās izglītības ierobežojuma;\n2) ceturtā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi arodizglītību vai vidējo izglītību;\n3) piektā un sestā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vidējo izglītību;\n4) septītā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vismaz sestā līmeņa Latvijas kvalifikāciju ietvarstruktūras augstāko izglītību un izpildījusi noteiktās profesionālās kvalifikācijas prasības;\n5) astotā līmeņa profesionālo kvalifikāciju, ja tā ir ieguvusi vismaz septītā līmeņa Latvijas kvalifikāciju ietvarstruktūras augstāko izglītību un izpildījusi noteiktās profesionālās kvalifikācijas prasības.\n(7) (Izslēgta ar 03.03.2022 . likumu)\n(8) (Izslēgta ar 03.03.2022 . likumu)\n(9) Prasības uzņemšanai profesionālās ievirzes izglītības programmā tiek noteiktas attiecīgajā profesionālās ievirzes izglītības programmā.\n(10) Personai, ja tai ir atbilstoša kompetence, ir tiesības būt uzņemtai profesionālās izglītības programmas, izņemot studiju programmas un profesionālās pilnveides izglītības programmas, vēlākajos mācību posmos. Ministru kabinets nosaka kārtību, kādā uzsākamas mācības vēlākos posmos profesionālās izglītības programmās, izņemot studiju programmās un profesionālās pilnveides izglītības programmās."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "28",
+      "title": "Profesionālās izglītības programmu īstenošana",
+      "content": "(1) Profesionālās izglītības ieguves formas ir šādas:\n1) klātiene, tai skaitā darba vidē balstītas mācības;\n2) neklātiene;\n3) pašizglītība;\n4) (izslēgts ar 22.06.2017 . likumu) .\n(2) Profesionālās izglītības programmas īstenošanas ilgums klātienē profesionālās izglītības iestādēs ir šāds:\n1) profesionālās pamatizglītības programmas apguves ilgums — ne vairāk kā trīs gadi;\n2) arodizglītības ieguves ilgums — ne vairāk kā trīs gadi;\n3) profesionālās vidējās izglītības ieguves ilgums pēc pamatizglītības ieguves — trīs līdz četri gadi, pēc arodizglītības ieguves — viens līdz divi gadi;\n4) īsā cikla profesionālās augstākās izglītības ieguves ilgums — divi līdz trīs gadi.\n(3) Mācību slodze nedēļā vienā profesionālās izglītības programmā, izņemot studiju programmu, nedrīkst pārsniegt:\n1) izglītojamajiem līdz 18 gadu vecumam — 36 mācību stundas;\n2) izglītojamajiem, sākot ar 18 gadu vecumu, — 40 mācību stundas.\n(4) Mācību stundas ilgums ir no 40 līdz 45 minūtēm, un to nosaka izglītības iestādes vadītājs. Mācību stundas ilgums pirms svētku dienām ir 30 minūtes.\n(4 1 ) Darba vidē balstītas mācības un praksi ar izglītojamā vai — ja izglītojamais ir nepilngadīgs — ar bērna vecāka (personas, kas realizē aizgādību) rakstveida piekrišanu drīkst organizēt sestdienās, svētdienās un svētku dienās, ja tas pamatojams ar profesijas un uzņēmuma darbības specifiku un izglītības programmas pilnvērtīgu apguvi, un neaizstājamu pieredzi pilnvērtīga priekšstata radīšanai un prasmju un iemaņu ieguvei, kas nepieciešamas kvalifikācijas iegūšanai, ievērojot Bērnu tiesību aizsardzības likumā noteiktās normas par nodarbinātību, kā arī Darba likumā un citos normatīvajos aktos paredzētos ierobežojumus attiecībā uz darba laiku un atpūtas laiku, darba slodzi, nakts darbu un darbu brīvdienās vai svētku dienās.\n(5) Profesionālās tālākizglītības programma ietver ne mazāk kā 30 procentus no valsts profesionālās izglītības standartā noteiktā profesionālā satura apjoma.\n(6) Profesionālās pilnveides un profesionālās ievirzes izglītības ieguves ilgumu un izglītības saturu nosaka attiecīgā izglītības programma.\n(7) Profesionālās augstākās izglītības programmas īsteno saskaņā ar Augstskolu likumu ."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "29",
+      "title": "Profesionālās izglītības programmas apguves noslēguma pārbaudījumi",
+      "content": "(1) Profesionālās izglītības programmas apguves nobeigumā kārtojami valsts profesionālās izglītības standartā noteiktie valsts noslēguma pārbaudījumi.\n(2) Izglītojamajam, kurš bez pamatizglītības ir uzsācis profesionālās pamatizglītības vai arodizglītības programmas apguvi, pēc noslēguma pārbaudījumu nokārtošanas papildus jāizsniedz izglītības dokuments par vispārējās pamatizglītības ieguvi.\n(3) (Izslēgta ar 03.03.2022 . likumu)\n(4) Profesionālās kvalifikācijas eksāmeni atbilstoši valsts profesionālās izglītības standarta prasībām tiek kārtoti akreditētās profesionālās izglītības iestādēs vai akreditētos nozares eksaminācijas centros Ministru kabineta noteiktajā kārtībā. Profesionālās izglītības iestādes un nozares eksaminācijas centri kvalifikācijas eksāmenu norisi organizē sadarbībā ar profesionālās izglītības atbalsta iestādēm, nozaru ministrijām un profesionālajām organizācijām.\n(5) Valsts izglītības satura centrs izstrādā profesionālās kvalifikācijas eksāmena saturu Ministru kabineta noteiktajām profesionālajām kvalifikācijām."
+    },
+    {
+      "provision_ref": "Art. 29.1",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "29.1",
+      "title": "29. 1 pants. Ārpus formālās izglītības sistēmas apgūtās profesionālās kompetences novērtēšana",
+      "content": "Ārpus formālās izglītības sistēmas apgūto profesionālo kompetenci novērtē Ministru kabineta noteiktajā kārtībā, ņemot vērā attiecīgās profesionālās kvalifikācijas prasības, kas ietvertas profesijas standartā."
+    },
+    {
+      "provision_ref": "Art. 29.2",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "29.2",
+      "title": "29. 2 pants. Profesionālās kvalifikācijas vai tās daļas atzīšana",
+      "content": "Profesionālās izglītības iestāde novērtē personas iepriekšējā izglītībā vai profesionālajā pieredzē iegūto kompetenci un, ja tā atbilst attiecīgajā profesionālās izglītības programmā sasniedzamajiem mācīšanās rezultātiem vai profesionālās kvalifikācijas prasībām, kas ietvertas profesijas standartā, atzīst to, un nodrošina iespēju turpināt izglītību vai iegūt profesionālo kvalifikāciju atbilstoši Ministru kabineta noteiktajiem kritērijiem un kārtībai."
+    },
+    {
+      "provision_ref": "Art. 29.3",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "29.3",
+      "title": "29. 3 pants. Iepriekšējā izglītībā sasniegtu studiju rezultātu atzīšana",
+      "content": "Iepriekšējā izglītībā sasniegtu studiju rezultātu atzīšanu īsā cikla profesionālās augstākās izglītības programmās veic saskaņā ar Augstskolu likumā noteikto."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "30",
+      "title": "Profesionālās izglītības programmu licencēšana",
+      "content": "(1) Izglītības iestāde ir tiesīga īstenot tikai licencētas profesionālās izglītības programmas.\n(2) Profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības un profesionālās ievirzes izglītības programmas licencē Izglītības kvalitātes valsts dienests Izglītības likumā noteiktajā kārtībā. Profesionālās augstākās izglītības programmas licencē Augstskolu likumā noteiktajā kārtībā.\n(3) Profesionālās tālākizglītības un profesionālās pilnveides izglītības programmas licencē Izglītības kvalitātes valsts dienests. Profesionālās tālākizglītības un profesionālās pilnveides izglītības programmas augstākās izglītības pakāpē licencē Akadēmiskās informācijas centrs, izņemot tās profesionālās tālākizglītības programmas, kuras īsteno tehnikumi un mākslu izglītības kompetences centri, dodot iespēju iegūt piektā līmeņa profesionālo kvalifikāciju. Profesionālās tālākizglītības un profesionālās pilnveides programmu licencēšanas kārtību nosaka Ministru kabinets.\n(4) Profesionālās izglītības programmas licencēšanas ietvaros sniegto maksas pakalpojumu cenrādi nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 30.1",
+      "chapter": "V nodaļa Profesionālās izglītības saturs un profesionālo kvalifikāciju sistēma (Nodaļas nosaukums 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )",
+      "section": "30.1",
+      "title": "30. 1 pants. Profesionālās izglītības iestādes akreditācija",
+      "content": "(1) Profesionālās izglītības iestādes, izņemot koledžas, akreditācija notiek divu gadu laikā no tās reģistrācijas brīža Izglītības iestāžu reģistrā. Koledžas akreditē Augstskolu likumā noteiktajā kārtībā, kā arī ņemot vērā šā likuma 16. 1 , 16. 7 , 17. 3 un 20. 2 pantā noteikto. Koledžas akreditācijas ietvaros tās darbības kvalitātes vērtēšanu profesionālās vidējās izglītības, profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu īstenošanā vidējās izglītības pakāpē organizē Izglītības kvalitātes valsts dienests.\n(2) Profesionālās izglītības iestādi akreditē uz sešiem gadiem.\n(3) Akreditējot profesionālās izglītības iestādi, tiek izvērtēta tās darbības, tai skaitā izglītības programmu īstenošanas, kvalitāte, kā arī tās atbilstība dibinātāja noteiktajam profesionālās izglītības iestādes statusam.\n(4) Akreditāciju organizē Izglītības kvalitātes valsts dienests. Izglītības kvalitātes valsts dienests organizē profesionālās izglītības iestāžu akreditāciju, ievērojot tās ietvaros sniegto maksas pakalpojumu cenrādi.\n(5) Profesionālās izglītības iestādes akreditē saskaņā ar Ministru kabineta apstiprinātajiem akreditācijas noteikumiem. Lēmumu par profesionālās izglītības iestāžu akreditāciju pieņem sešu mēnešu laikā no attiecīgā iesnieguma iesniegšanas dienas.\n(6) Informācija par akreditētajām profesionālās izglītības iestādēm, kurām ir tiesības izsniegt valstiski atzītus profesionālo izglītību un profesionālo kvalifikāciju apliecinošus dokumentus, kā arī šajās izglītības iestādēs īstenoto izglītības programmu saraksts pieejams Valsts izglītības informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "31",
+      "title": "Profesionālās izglītības programmu un iestāžu finansēšana",
+      "content": "(1) Profesionālās izglītības iestāžu finansēšanas kārtību nosaka šis likums, Izglītības likums un citi normatīvie akti un attiecīgās profesionālās izglītības iestādes nolikums.\n(2) Izglītības un zinātnes ministrija un nozaru ministrijas nosaka valsts finansēto vietu skaitu izglītības iestāžu licencētajās profesionālās izglītības programmās. Uzņemšana valsts finansētajās studiju vietās notiek konkursa kārtībā.\n(2 1 ) Profesionālās izglītības iestāde, kura atbilst akreditēta tehnikuma vai mākslu izglītības kompetences centra statusam, saņem valsts budžeta finansējumu pedagogu tālākizglītības un metodiskā atbalsta profesionālās izglītības iestādēm funkciju veikšanai.\n(2 2 ) Valsts finansējumu profesionālās ievirzes sporta izglītības programmu īstenošanai ir tiesības saņemt akreditētai profesionālās ievirzes sporta izglītības iestādei, kuras mācību treniņu grupas atbilst noteiktiem rezultativitātes kritērijiem sportā, kā arī nosacījumiem attiecībā uz audzēkņu skaitu un vecumu. Rezultativitātes kritērijus sportā un nosacījumus attiecībā uz audzēkņu skaitu un vecumu nosaka Ministru kabinets.\n(2 3 ) Valsts finansējumu profesionālās ievirzes mākslas vai mūzikas izglītības programmu īstenošanai ir tiesības saņemt akreditētai izglītības iestādei, kura nodrošina noteikta minimālā audzēkņu skaita izglītošanu izglītības iestādēs īstenotajās profesionālās ievirzes izglītības programmās mākslā vai mūzikā. Izglītojamo minimālo audzēkņu skaitu profesionālās ievirzes izglītības programmās mākslā vai mūzikā nosaka Ministru kabinets.\n(2 4 ) Akreditētas pašvaldību un privātās profesionālās izglītības un profesionālās ievirzes izglītības iestādes ir tiesīgas likumā noteiktajā kārtībā pretendēt uz valsts finansējumu profesionālās tālākizglītības, profesionālās pilnveides un profesionālās ievirzes izglītības programmu īstenošanai.\n(2 5 ) Kārtību, kādā koledžām piešķir finansējumu no valsts budžeta līdzekļiem studiju programmu īstenošanai un par rezultātiem speciālistu (absolventu) sagatavošanā, kā arī šā finansējuma sadales kritērijus nosaka Ministru kabinets.\n(2 6 ) Studiju maksu studiju vietās, kas netiek finansētas no valsts budžeta līdzekļiem, sedz studējošie, juridiskās vai fiziskās personas, noslēdzot par to attiecīgu vienošanos ar koledžu.\n(2 7 ) Finanšu līdzekļi no studiju maksas izmantojami studiju procesu nodrošināšanai atbilstīgi koledžas nolikumā noteiktajiem koledžas darbības mērķiem.\n(3) Profesionālās kvalifikācijas noslēguma eksāmena izmaksas un citas ar profesionālās kvalifikācijas piešķiršanu saistītās izmaksas sedz no to iestāžu finanšu līdzekļiem, kurās izglītojamais apgūst attiecīgo profesionālās izglītības programmu.\n(4) Profesionālās izglītības un profesionālās kvalifikācijas ieguvi Ministru kabineta noteiktajā kārtībā no valsts budžeta sedz:\n1) izglītojamajiem ar speciālām vajadzībām, ja viņi atrodas speciālās izglītības vai sociālās korekcijas iestādē;\n2) notiesātajiem, ja viņi atrodas brīvības atņemšanas vietā.\n(4 1 ) Par valsts budžeta līdzekļiem vienlaikus var apgūt vienu profesionālās pamatizglītības, arodizglītības, profesionālās vidējās izglītības vai profesionālās augstākās izglītības programmu.\n(5) Privātajās profesionālās izglītības iestādēs maksu par profesionālās izglītības un profesionālās kvalifikācijas ieguvi nosaka to dibinātāji.\n(6) Ministru kabinets nosaka kritērijus un kārtību, kādā profesionālās izglītības iestāžu izglītojamie apdrošināmi pret nelaimes gadījumiem mācību laikā."
+    },
+    {
+      "provision_ref": "Art. 31.1",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "31.1",
+      "title": "31. 1 pants. Kreditēšana profesionālajā izglītībā no Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem",
+      "content": "(1) Izglītojamam, kurš apgūst licencētu profesionālās izglītības programmu, izņemot studiju programmu, ir tiesības pretendēt uz:\n1) mācību maksas kredītu — aizdevumu no Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem, lai segtu maksu par mācībām profesionālās izglītības programmā;\n2) izglītojamā kredītu — aizdevumu no Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem, lai nodrošinātu izglītojamā sociālās vajadzības.\n(2) Ministru kabinets izdod noteikumus, kuros paredz nosacījumus un kārtību, kādā tiek piešķirti un atmaksāti mācību maksas un izglītojamā kredīti no Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem.\n(3) Studiju un studējošā kreditēšana no Eiropas Savienības fondu vai starptautisko finanšu institūciju līdzekļiem notiek Augstskolu likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "32",
+      "title": "32.pants.",
+      "content": "(Izslēgts ar 21.09.2006 . likumu, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "33",
+      "title": "Profesionālās izglītības iestāžu un izglītības atbalsta iestāžu materiālie līdzekļi",
+      "content": "(1) Profesionālās izglītības iestāžu materiālo līdzekļu veidošanu un izmantošanu nosaka Izglītības likums .\n(2) Ja valsts profesionālās izglītības iestāde izvietota valsts nekustamajā īpašumā, šis īpašums ierakstāms zemesgrāmatā uz valsts vārda tās ministrijas personā, kuras padotībā ir attiecīgā izglītības iestāde, ja Ministru kabinets nav noteicis citādi."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn1",
+      "title": "1. Šā likuma 18.pants stājas spēkā 2004.gada 1.janvārī.",
+      "content": "1. Šā likuma 18.pants stājas spēkā 2004.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn2",
+      "title": "2. Izglītojamajiem, kas uzsākuši arodizglītības vai vidējās speciālās izglītības programmu apguvi pirms šā likuma spēkā stāšanās, izglītību un profesionālo kvalifikāciju apliecinošus dokumentus pēc noslēguma pārbaudījumu nokārtošanas izsniedz kārtībā, kāda bija spēkā līdz šā likuma spēkā stāšanās dienai.",
+      "content": "2. Izglītojamajiem, kas uzsākuši arodizglītības vai vidējās speciālās izglītības programmu apguvi pirms šā likuma spēkā stāšanās, izglītību un profesionālo kvalifikāciju apliecinošus dokumentus pēc noslēguma pārbaudījumu nokārtošanas izsniedz kārtībā, kāda bija spēkā līdz šā likuma spēkā stāšanās dienai."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn3",
+      "title": "3. Valsts profesionālās pamatizglītības, arodizglītības un profesionālās vidējās izglītības iestādēm līdz akreditācijai, bet ne vēlāk kā līdz 2004.gada 1.septembrim ir tiesības izsniegt profesionālo izglītību un profesionālo kvalifikāciju apliecinošos dokumentus atbilstoši šā likuma 6. panta nosacījumiem un organizēt centralizētos kvalifikācijas eksāmenus.",
+      "content": "( 05.07.2001 . likuma redakcijā, kas stājas spēkā 01.09.2001. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn4",
+      "title": "4. (Izslēgts ar 03.03.2022 . likumu, kas stājas spēkā 01.04.2022. )",
+      "content": "4. (Izslēgts ar 03.03.2022 . likumu, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn5",
+      "title": "5. Neakreditētas privātās profesionālās izglītības iestādes līdz to akreditācijai, bet ne vēlāk kā līdz 2003.gada 1.janvārim ir tiesīgas pretendēt uz likuma 30.panta sestajā daļā paredzēto valsts finansējumu.",
+      "content": "( 05.07.2001 . likuma redakcijā, kas stājas spēkā 01.09.2001. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn6",
+      "title": "6. Šā likuma 1.panta 2. 1 punktā eksaminācijas centriem noteiktās tiesības izsniegt profesionālās kvalifikācijas apliecības stājas spēkā 2007.gada 1.janvārī.",
+      "content": "( 21.09.2006 . likuma redakcijā, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn7",
+      "title": "7. Ministru kabinets līdz 2007.gada 1.janvārim izdara grozījumus šā likuma 7.panta 5.punktā minētajos noteikumos un līdz 2007.gada 1.martam izdod 7.panta 9. un 10.punktā minētos noteikumus.",
+      "content": "( 21.09.2006 . likuma redakcijā, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn8",
+      "title": "8. Profesionālās izglītības administrācijas funkcijas veic Profesionālās izglītības centrs līdz brīdim, kamēr Ministru kabinets izdara nepieciešamos grozījumus iestādes darbību regulējošos normatīvajos aktos. Šie grozījumi izdarāmi līdz 2006.gada 31.decembrim.",
+      "content": "( 21.09.2006 . likuma redakcijā, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn9",
+      "title": "9. Šā likuma 24.pants stājas spēkā 2007.gada 1.septembrī. Ministru kabinets līdz 2007.gada 31.augustam apstiprina Izglītības un zinātnes ministrijas iesniegtos profesiju standartu projektus.",
+      "content": "( 21.09.2006 . likuma redakcijā, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn10",
+      "title": "10. Līdz 2007.gada 31.augustam Ministru kabineta noteiktie profesiju standarti ir spēkā līdz 2011.gada 31.decembrim.",
+      "content": "( 21.09.2006 . likuma redakcijā, kas stājas spēkā 25.10.2006. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn11",
+      "title": "11. Saskaņā ar šo likumu valsts un pašvaldību institūcijās noteikto atlīdzību (darba samaksu, prēmijas, naudas balvas, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam “Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā”.",
+      "content": "( 12.12.2008 . likuma redakcijā, kas stājas spēkā 01.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn12",
+      "title": "12. Šā likuma 29. 1 panta pirmā un otrā daļa stājas spēkā 2011.gada 1.janvārī.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn13",
+      "title": "13. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 29. 1 panta trešajā daļā paredzētos noteikumus.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn14",
+      "title": "14. Grozījumi šā likuma 31.panta sestajā daļā par izglītojamo apdrošināšanu pret nelaimes gadījumiem mācību prakses laikā stājas spēkā 2011.gada 1.septembrī.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn15",
+      "title": "15. Ministru kabinets līdz 2011.gada 31.augustam izdod šā likuma 31.panta sestajā daļā paredzētos noteikumus par izglītojamo apdrošināšanu pret nelaimes gadījumiem mācību prakses laikā.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn16",
+      "title": "16. Ministru kabinets līdz 2011.gada 28.februārim izdod šā likuma 7.panta 11.punktā minētos noteikumus.",
+      "content": "( 16.12.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn17",
+      "title": "17. Ministru kabinets līdz 2011.gada 31.maijam izdod šā likuma 7.panta 12.punktā minētos noteikumus.",
+      "content": "( 16.12.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn18",
+      "title": "18. 2012.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem nemaksā prēmijas, bet pedagogus materiāli stimulē un pabalstus viņiem izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu .",
+      "content": "( 15.12.2011 . likuma redakcijā, kas stājas spēkā 01.01.2012. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn19",
+      "title": "19. Ministru kabinets līdz 2012.gada 1.septembrim nodrošina Alsviķu profesionālās skolas, Apguldes arodvidusskolas, Barkavas arodvidusskolas, Cīravas arodvidusskolas, Daugavpils Tirdzniecības skolas, Ērgļu arodvidusskolas, Jaungulbenes arodvidusskolas, Rankas arodvidusskolas, Skrundas arodvidusskolas, Zaļenieku arodvidusskolas, Daugavpils Valsts tehnikuma, Ogres Valsts tehnikuma, Priekuļu un Jāņmuižas Valsts tehnikuma, Rīgas Tirdzniecības tehnikuma un Smiltenes Valsts tehnikuma — profesionālās vidusskolas nosaukuma atbilstību šā likuma 16.panta un Izglītības likuma 26.panta noteikumiem.",
+      "content": "( 19.04.2012 . likuma redakcijā, kas stājas spēkā 17.05.2012. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn20",
+      "title": "20. 2013.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem atlaišanas pabalstu izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu .",
+      "content": "( 15.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn21",
+      "title": "21. Ministru kabinets līdz 2015.gada 30.novembrim izdod šā likuma 7.panta 14. un 15.punktā minētos noteikumus un līdz 2015.gada 31.decembrim — 7.panta 2.punktā minētos noteikumus.",
+      "content": "( 23.04.2015 . likuma redakcijā, kas stājas spēkā 15.05.2015. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn22",
+      "title": "22. Līdz šo pārejas noteikumu 21.punktā paredzēto Ministru kabineta noteikumu par profesijas standarta, profesionālās kvalifikācijas prasību (ja profesijai nav nepieciešams izstrādāt profesijas standartu) un nozares kvalifikāciju struktūras izstrādes kārtību izdošanai, bet ne vēlāk kā līdz 2015.gada 31.decembrim piemērojami Ministru kabineta 2007.gada 27.februāra noteikumi Nr.149 \" Profesiju standartu izstrādes kārtība \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 23.04.2015 . likuma redakcijā ar grozījumiem, kas izdarīti ar 22.06.2017 . likumu, kas stājas spēkā 06.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn23",
+      "title": "23. Ministru kabinets līdz 2015.gada 30.jūnijam izdod šā likuma 15. 1 panta 1. 1 daļā minētos noteikumus par kritērijiem profesionālās izglītības kompetences centra statusa iegūšanai mākslas, mūzikas vai dejas jomā.",
+      "content": "( 23.04.2015 . likuma redakcijā, kas stājas spēkā 15.05.2015. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn24",
+      "title": "24. Šā likuma 5.panta jaunā redakcija (par profesionālās kvalifikācijas līmeņu atbilstību Latvijas kvalifikāciju ietvarstruktūras līmeņiem) un 25.panta pirmās daļas 5.punkts (par norādi uz profesionālās izglītības programmas līmeni Latvijas kvalifikāciju ietvarstruktūrā) stājas spēkā vienlaikus ar Izglītības likumā izdarītajiem grozījumiem, kuros noteikts regulējums attiecībā uz Latvijas kvalifikāciju ietvarstruktūru.",
+      "content": "(23.04.2015 likuma redakcijā, kas stājas spēkā 15.05.2015. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn25",
+      "title": "25. Šā likuma 6.panta astotā daļa (par Latvijas kvalifikāciju ietvarstruktūras līmeņa norādīšanu valsts atzītos profesionālo izglītību apliecinošos dokumentos un profesionālo kvalifikāciju apliecinošos dokumentos) stājas spēkā 2017.gada 1.janvārī.",
+      "content": "( 23.04.2015 . likuma redakcijā, kas stājas spēkā 15.05.2015. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn26",
+      "title": "26. Ministru kabinets līdz 2017. gada 31. jūlijam izdod šā likuma 7. panta 2. 1 punktā minētos noteikumus.",
+      "content": "( 22.06.2017 . likuma redakcijā, kas stājas spēkā 06.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn27",
+      "title": "27. Ministru kabinets līdz 2022. gada 30. jūnijam izstrādā un iesniedz Saeimai nepieciešamos grozījumus Izglītības likumā , Vispārējās izglītības likumā un Augstskolu likumā , lai tos saskaņotu ar šajā likumā izdarītajiem grozījumiem.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn28",
+      "title": "28. Citos normatīvajos aktos lietotais termins:",
+      "content": "1) \"eksaminācijas centrs\" atbilst šajā likumā lietotajam terminam \"nozares eksaminācijas centrs\";\n2) \"pirmā līmeņa profesionālā augstākā izglītība\" atbilst šajā likumā lietotajam terminam \"īsā cikla profesionālā augstākā izglītība\";\n3) \"otrā līmeņa profesionālā augstākā izglītība\" atbilst šajā likumā lietotajam terminam \"pirmā cikla profesionālā augstākā izglītība\", ja tas attiecināms uz otrā līmeņa profesionālo augstāko izglītību, kuras rezultātā iegūta piektā līmeņa profesionālā kvalifikācija atbilstoši sestajam Latvijas kvalifikāciju ietvarstruktūras līmenim;\n4) \"otrā līmeņa profesionālā augstākā izglītība\" atbilst šajā likumā lietotajam terminam \"otrā cikla profesionālā augstākā izglītība\", ja tas attiecināms uz otrā līmeņa profesionālo augstāko izglītību, kuras rezultātā iegūta piektā līmeņa profesionālā kvalifikācija atbilstoši septītajam Latvijas kvalifikāciju ietvarstruktūras līmenim."
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn29",
+      "title": "29. Grozījumi šā likuma 5. pantā par tā izteikšanu jaunā redakcijā stājas spēkā 2022. gada 1. augustā.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn30",
+      "title": "30. Profesionālās kvalifikācijas līmeņi, kas ir spēkā līdz 2022. gada 31. jūlijam, sākot ar 2022. gada 1. augustu, atbilst šādiem profesionālās kvalifikācijas līmeņiem Latvijas kvalifikāciju ietvarstruktūrā:",
+      "content": "1) otrais profesionālās kvalifikācijas līmenis atbilst trešajam profesionālās kvalifikācijas līmenim;\n2) trešais profesionālās kvalifikācijas līmenis atbilst ceturtajam profesionālās kvalifikācijas līmenim;\n3) ceturtais profesionālās kvalifikācijas līmenis atbilst piektajam profesionālās kvalifikācijas līmenim;\n4) piektais profesionālās kvalifikācijas līmenis atbilst sestajam vai septītajam profesionālās kvalifikācijas līmenim."
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn31",
+      "title": "31. Tādas profesionālās izglītības iestādes dibinātājs, kas reģistrēta Izglītības iestāžu reģistrā līdz 2022. gada 31. martam, līdz 2022. gada 31. decembrim nosaka profesionālās izglītības iestādes statusu atbilstoši šā likuma 16. 1 , kā arī 16. 2 , 16. 3 , 16. 4 vai 16. 5 pantā noteiktajam un iesniedz pieņemto lēmumu Izglītības iestāžu reģistrā. Izglītības iestāžu reģistrs mēneša laikā izvērtē izglītības iestādes dibinātāja iesniegto lēmumu un izdara ierakstu par attiecīgo profesionālās izglītības iestādes statusu Izglītības iestāžu reģistrā vai atsaka ieraksta izdarīšanu.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn32",
+      "title": "32. Profesionālās izglītības iestāde, kas ieguvusi profesionālās izglītības kompetences centra statusu līdz 2022. gada 31. martam un saņem valsts budžeta finansējumu reģionālā vai nozares metodiskā centra, pedagogu tālākizglītības centra un ārpus formālās izglītības sistēmas iegūtās profesionālās kompetences novērtēšanas funkciju veikšanai, turpina saņemt minēto valsts budžeta finansējumu līdz 2022. gada 31. decembrim un no 2023. gada 1. janvāra līdz kārtējai akreditācijai saņem šā likuma 31. panta 2. 1 daļā noteikto valsts budžeta finansējumu, ja dibinātājs, ievērojot pārejas noteikumu 31. punktu, šai profesionālās izglītības iestādei ir noteicis tehnikuma vai mākslu izglītības kompetences centra statusu. Profesionālās izglītības kompetences centrs \"Rīgas Tehniskā koledža\" no 2023. gada 1. janvāra līdz koledžas akreditācijai saņem valsts budžeta finansējumu pedagogu tālākizglītības un metodiskā atbalsta profesionālās izglītības iestādēm funkciju veikšanai.",
+      "content": "( 03.03.2022 . likuma redakcijā ar grozījumiem, kas izdarīti ar 15.09.2022 . likumu, kas stājas spēkā 11.10.2022. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn33",
+      "title": "33. Ministru kabinets līdz 2023. gada 31. decembrim pieņem lēmumu par Rīgas 3. arodskolas turpmāko statusu, nodrošinot izglītojamiem iespējas turpināt izglītību atbilstošā izglītības programmā. Arodskola ir tiesīga turpināt īstenot licencētās un akreditētās profesionālās izglītības programmas līdz 2023. gada 31. decembrim.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn34",
+      "title": "34. Profesionālās vidējās izglītības iestādes, kuras līdz 2022. gada 31. martam īsteno akreditētas vispārējās pamatizglītības vai vispārējās vidējās izglītības programmas, ir tiesīgas turpināt tās īstenot līdz iestādes akreditācijai, kas tiek veikta atbilstoši šā likuma 30. 1 pantā noteiktajam.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 35",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn35",
+      "title": "35. Šā likuma 21. 1 panta piektajā daļā minēto profesionālās izglītības programmu absolventu iekļaušanās darba tirgū par pirmajiem diviem gadiem pēc absolvēšanas izvērtējumu Izglītības un zinātnes ministrija sadarbībā ar Ekonomikas ministriju publisko līdz 2024. gada 31. decembrim.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 36",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn36",
+      "title": "36. Šā likuma 25. panta piektā daļa par tiesībām īstenot profesionālās pilnveides izglītības programmas bez papildu licencēšanas un sestā daļa par tiesībām īstenot profesionālās tālākizglītības programmas bez papildu licencēšanas stājas spēkā 2023. gada 1. janvārī.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 37",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn37",
+      "title": "37. Grozījumi šā likuma 30. pantā par tā izteikšanu jaunā redakcijā stājas spēkā 2023. gada 1. janvārī.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 38",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn38",
+      "title": "38. Profesionālās izglītības iestāžu akreditācija atbilstoši šā likuma 30. 1 pantā noteiktajam tiek uzsākta ar 2024. gada 1. janvāri.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 39",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn39",
+      "title": "39. Profesionālās izglītības iestādes, kuras ir akreditētas līdz 2022. gada 31. martam, akreditē atbilstoši šā likuma 30. 1 pantā noteiktajam pēc tām noteiktā akreditācijas termiņa beigām.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 40",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn40",
+      "title": "40. Profesionālās izglītības iestādēm, kurām akreditācijas termiņš beidzas pēc 2023. gada 1. jūnija, akreditācijas termiņš tiek pagarināts līdz 2024. gada 31. martam.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 41",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn41",
+      "title": "41. Grozījumi šā likuma 31. panta sestajā daļā par izglītojamo apdrošināšanu visa mācību gada laikā stājas spēkā ar 2023. gada 1. augustu.",
+      "content": "( 03.03.2022 . likuma redakcijā, kas stājas spēkā 01.04.2022. )"
+    },
+    {
+      "provision_ref": "PN 42",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn42",
+      "title": "42. Ministru kabinets:",
+      "content": "1) līdz 2022. gada 31. augustam izdod šā likuma 7. panta 10. punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 31. augustam piemēro Ministru kabineta 2011. gada 30. augusta noteikumus Nr. 662 \" Profesionālās kvalifikācijas eksāmenu norises kārtība akreditētās profesionālās izglītības programmās \";\n2) līdz 2022. gada 30. novembrim izdod šā likuma 7. panta 5. punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 30. novembrim piemēro Ministru kabineta 2005. gada 21. jūnija noteikumus Nr. 451 \" Kārtība, kādā izsniedzami valsts atzīti profesionālo izglītību un profesionālo kvalifikāciju apliecinoši dokumenti un akreditētas profesionālās izglītības programmas daļas apguvi apliecinoši dokumenti \" un Ministru kabineta 2005. gada 29. novembra noteikumus Nr. 902 \" Kārtība, kādā izsniedzami profesionālās pilnveides un profesionālās ievirzes izglītību apliecinoši dokumenti \";\n3) līdz 2022. gada 30. novembrim izdod šā likuma 7. panta 5. 1 punktā minētos noteikumus;\n4) līdz 2022. gada 31. decembrim izdod šā likuma 30. panta trešajā daļā minētos noteikumus;\n5) līdz 2022. gada 31. decembrim izdod šā likuma 7. panta 13. 2 punktā minētos noteikumus;\n6) līdz 2022. gada 31. decembrim izdod šā likuma 7. panta 15. 1 punktā minētos noteikumus;\n7) līdz 2022. gada 30. jūnijam izdod šā likuma 7. panta 15. 4 punktā minētos noteikumus;\n8) līdz 2023. gada 28. februārim izdod šā likuma 7. panta 15. 2 punktā minētos noteikumus. Līdz 2023. gada 28. februārim profesionālās izglītības iestādes ievēro līdzšinējo kārtību personu uzņemšanai profesionālās izglītības programmās, izņemot studiju programmas, tai skaitā iestājpārbaudījumu organizēšanai, kā arī pārcelšanai nākamajā kursā vai atskaitīšanai;\n9) līdz 2023. gada 31. maijam izdod šā likuma 7. panta 11. 1 punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. maijam piemēro Ministru kabineta 2020. gada 6. oktobra noteikumus Nr. 618 \" Izglītības iestāžu, eksaminācijas centru, citu Izglītības likumā noteiktu institūciju un izglītības programmu akreditācijas un izglītības iestāžu vadītāju profesionālās darbības novērtēšanas kārtība \";\n10) līdz 2023. gada 31. maijam izdod šā likuma 7. panta 13. punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. maijam piemēro Ministru kabineta 2011. gada 22. februāra noteikumus Nr. 146 \" Kārtība, kādā novērtē ārpus formālās izglītības sistēmas apgūto profesionālo kompetenci \" un Ministru kabineta 2013. gada 10. septembra noteikumus Nr. 791 \" Profesionālās izglītības iestāžu un eksaminācijas centru maksas pakalpojumu cenrādis \";\n11) līdz 2023. gada 31. maijam izdod šā likuma 7. panta 2. punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. maijam piemēro Ministru kabineta 2016. gada 27. septembra noteikumus Nr. 633 \" Profesijas standarta, profesionālās kvalifikācijas prasību (ja profesijai neapstiprina profesijas standartu) un nozares kvalifikāciju struktūras izstrādes kārtība \";\n12) līdz 2023. gada 31. maijam izdod šā likuma 7. panta 2. 1 punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. maijam piemēro Ministru kabineta 2018. gada 9. oktobra noteikumus Nr. 626 \" Noteikumi par obligāti piemērojamo profesiju standartu un profesionālās kvalifikācijas prasību sarakstu un tajā iekļauto profesiju standartu un profesionālās kvalifikācijas prasību publiskošanas kārtību \";\n13) līdz 2023. gada 31. maijam izdod šā likuma 7. panta 4. punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. maijam piemēro Ministru kabineta 2012. gada 20. novembra noteikumus Nr. 785 \" Mācību prakses organizācijas un izglītojamo apdrošināšanas kārtība \";\n14) līdz 2023. gada 31. maijam izdod šā likuma 31. panta sestajā daļā minētos noteikumus;\n15) līdz 2023. gada 31. maijam izdod šā likuma 7. panta 7. punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. maijam piemēro Ministru kabineta 2020. gada 6. oktobra noteikumus Nr. 618 \" Izglītības iestāžu, eksaminācijas centru, citu Izglītības likumā noteiktu institūciju un izglītības programmu akreditācijas un izglītības iestāžu vadītāju profesionālās darbības novērtēšanas kārtība \";\n16) līdz 2023. gada 31. decembrim izdod šā likuma 7. panta 15. 5 punktā minētos noteikumus;\n17) līdz 2023. gada 31. decembrim izdod šā likuma 7. panta 13. 1 punktā minētos noteikumus;\n18) līdz 2023. gada 31. decembrim apstiprina šā likuma 23. panta pirmajā un 1. 1 daļā noteikto valsts profesionālās pamatizglītības standartu, valsts arodizglītības standartu, valsts profesionālās vidējās izglītības standartu, valsts profesionālās tālākizglītības standartu, valsts profesionālās pilnveides izglītības standartu un valsts profesionālās ievirzes izglītības standartu. Līdz minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. decembrim piemēro Ministru kabineta 2020. gada 2. jūnija noteikumus Nr. 332 \" Noteikumi par valsts profesionālās vidējās izglītības standartu un valsts arodizglītības standartu \";\n19) līdz 2022. gada 31. decembrim apstiprina šā likuma 23. panta pirmajā daļā minēto valsts profesionālās augstākās izglītības standartu. Līdz minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2022. gada 31. decembrim piemēro Ministru kabineta 2001. gada 20. marta noteikumus Nr. 141 \"Noteikumi par pirmā līmeņa profesionālās augstākās izglītības valsts standartu\" un Ministru kabineta 2014. gada 26. augusta noteikumus Nr. 512 \" Noteikumi par otrā līmeņa profesionālās augstākās izglītības valsts standartu \"."
+    },
+    {
+      "provision_ref": "PN 43",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn43",
+      "title": "43. Koledžas līdz 2023. gada 31. decembrim nodrošina koledžu nolikumu izstrādi un apstiprināšanu atbilstoši grozījumiem šā likuma 17. pantā. Līdz minēto nolikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 31. decembrim ir piemērojami koledžu nolikumi, kas izdoti saskaņā ar Augstskolu likuma 10. 1 panta pirmo daļu, ciktāl tie nav pretrunā ar šo likumu un Augstskolu likumu .",
+      "content": "( 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )"
+    },
+    {
+      "provision_ref": "PN 44",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn44",
+      "title": "44. Profesionālās izglītības iestādes līdz 2022. gada 31. decembrim izveido konventu, ja tāds nav izveidots, atbilstoši šā likuma 17. 1 pantā noteiktajam.",
+      "content": "( 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )"
+    },
+    {
+      "provision_ref": "PN 45",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn45",
+      "title": "45. Koledža līdz 2023. gada 31. decembrim izveido koledžas domi atbilstoši šā likuma 17. 2 pantā noteiktajam. Līdz koledžas domes izveidei, bet ne ilgāk kā līdz 2023. gada 31. decembrim koledžas padome pilda koledžas domes funkcijas.",
+      "content": "( 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )"
+    },
+    {
+      "provision_ref": "PN 46",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn46",
+      "title": "46. Persona, kura laikā līdz 2022. gada 31. decembrim iecelta koledžas direktora amatā, turpina pildīt amata pienākumus līdz darba līgumā noteiktā termiņa beigām, bet ne ilgāk kā līdz 2027. gada 31. decembrim. Pēc minētā termiņa beigām persona ir tiesīga kandidēt uz otro koledžas direktora pilnvaru termiņu šajā koledžā.",
+      "content": "( 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )"
+    },
+    {
+      "provision_ref": "PN 47",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn47",
+      "title": "47. Šā likuma 31. 1 pantā minētos kredītus ir tiesības saņemt, kamēr Eiropas Savienības fondi vai starptautiskās finanšu institūcijas nodrošina līdzekļus to piešķiršanai.",
+      "content": "( 15.09.2022 . likuma redakcijā, kas stājas spēkā 11.10.2022. )"
+    },
+    {
+      "provision_ref": "PN 48",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn48",
+      "title": "48. Ministru kabinets:",
+      "content": "1) līdz 2023. gada 30. septembrim izdod šā likuma 7. panta 15. 6 punktā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 30. septembrim piemēro Ministru kabineta 2016. gada 25. oktobra noteikumus Nr. 690 \" Iekšlietu ministrijas sistēmas koledžu finansēšanas noteikumi \";\n2) līdz 2023. gada 31. decembrim izdod šā likuma 7. panta 15. 7 punktā minētos noteikumus;\n3) līdz 2023. gada 28. februārim izdod šā likuma 31. panta 2. 5 daļā minētos noteikumus. Līdz Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2023. gada 28. februārim piemēro Ministru kabineta 2006. gada 12. decembra noteikumus Nr. 994 \" Kārtība, kādā augstskolas un koledžas tiek finansētas no valsts budžeta līdzekļiem \";\n4) līdz 2023. gada 31. janvārim izdod šā likuma 31. 1 panta otrajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 49",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn49",
+      "title": "49. Ministru kabinets līdz 2025. gada 30. decembrim izstrādā un iesniedz Saeimai nepieciešamos grozījumus Izglītības likumā un Augstskolu likumā , lai saskaņotu tiesisko regulējumu augstākās izglītības programmu terminoloģijas, kā arī profesionālās tālākizglītības un profesionālās pilnveides izglītības programmu licencēšanas un īstenošanas jomā.",
+      "content": "( 12.06.2025 . likuma redakcijā, kas stājas spēkā 03.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 50",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn50",
+      "title": "50. Ministru kabinets līdz 2026. gada 31. augustam izdod šā likuma 25. panta septītajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai augstākās izglītības iestādes par profesionālās tālākizglītības un profesionālās pilnveides izglītības programmām, kas tiek īstenotas bez papildu licencēšanas, paziņo Akadēmiskās informācijas centram.",
+      "content": "( 12.06.2025 . likuma redakcijā, kas stājas spēkā 03.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 51",
+      "chapter": "VI nodaļa Profesionālās izglītības finansēšana",
+      "section": "pn51",
+      "title": "51. Grozījums šā likuma 30. panta trešajā daļā par tās papildināšanu ar jaunu pirmo un otro teikumu stājas spēkā 2026. gada 1. janvārī.",
+      "content": "( 12.06.2025 . likuma redakcijā, kas stājas spēkā 03.07.2025. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "arodizglītība",
+      "definition": "vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā līmeņa profesionālo kvalifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "praktikants",
+      "definition": "izglītojamais, kas saskaņā ar attiecīgās profesionālās izglītības programmas praktiskās daļas apguvi atrodas praksē izglītības iestādē vai darba vidē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā augstākā izglītība",
+      "definition": "augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt piektā, sestā, septītā vai astotā līmeņa profesionālo kvalifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā pamatizglītība",
+      "definition": "pamatizglītības pakāpes profesionālā izglītība, kas dod iespēju iegūt otrā līmeņa profesionālo kvalifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā pieredze",
+      "definition": "iepriekšēja darbošanās attiecīgajā profesijā Latvijas Republikā, kā arī ārvalstī",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā vidējā izglītība",
+      "definition": "vidējās pakāpes profesionālā izglītība, kas dod iespēju iegūt trešā vai ceturtā līmeņa profesionālo kvalifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālās kvalifikācijas līmenis",
+      "definition": "Latvijas kvalifikāciju ietvarstruktūrai atbilstoša teorētiskā un praktiskā sagatavotība, kuru raksturo attiecīgajā līmenī sasniedzamie mācīšanās rezultāti, kas dod iespēju veikt noteiktai sarežģītības un atbildības pakāpei atbilstošu darbu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pirmā cikla profesionālā augstākā izglītība",
+      "definition": "augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt sestā līmeņa profesionālo kvalifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "otrā cikla profesionālā augstākā izglītība",
+      "definition": "augstākās pakāpes profesionālā izglītība, kas dod iespēju iegūt septītā līmeņa profesionālo kvalifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā tālākizglītība",
+      "definition": "profesionālās izglītības īpašs veids, kas personām ar iepriekšēju profesionālo pieredzi un izglītības programmas prasībām atbilstošu izglītību dod iespēju iegūt noteikta līmeņa profesionālo kvalifikāciju, kas iekļauta nozares kvalifikāciju struktūrā. Prasības to profesionālo kvalifikāciju ieguvei, kuras nav iekļautas nozaru kvalifikāciju struktūrās, nosaka normatīvajos aktos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā pilnveide",
+      "definition": "profesionālās izglītības īpašs veids, kas dod iespēju pilnveidot profesionālo kompetenci kvalifikācijai, kas iekļauta nozares kvalifikāciju struktūrā. Prasības to profesionālo kvalifikāciju pilnveidei, kuras nav iekļautas nozaru kvalifikāciju struktūrās, nosaka normatīvajos aktos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sasniedzamo mācīšanās rezultātu vienība",
+      "definition": "profesionālās kvalifikācijas daļa, kas ir atsevišķi pārbaudāms un novērtējams saskaņotu zināšanu, prasmju, attieksmes, profesionālās patstāvības un atbildības kopums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālā kvalifikācija",
+      "definition": "formalizēta vērtēšanas un atzīšanas procesa rezultāts atbilstoši profesijas standartā noteiktām attiecīgajām profesionālās kvalifikācijas prasībām, ko apstiprina valsts atzīts profesionālās kvalifikācijas dokuments",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālās kvalifikācijas dokuments",
+      "definition": "valsts atzīts dokuments, kas apliecina personas profesionālo kvalifikāciju vai tās daļu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālās izglītības iestādes stratēģiskā specializācija",
+      "definition": "profesionālās izglītības iestādes dibinātāja noteiktas darba tirgū nepieciešamo speciālistu sagatavošanai atbilstošas izglītības tematiskās jomas, kurās specializējas profesionālās izglītības iestāde. Stratēģiskā specializācija ir pamats profesionālās izglītības iestādes stratēģiskās attīstības plānošanai un stratēģiskās specializācijas virzienu noteikšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionālās izglītības iestādes attīstības stratēģija",
+      "definition": "stratēģija, kuru profesionālās izglītības iestāde, pamatojoties uz tās dibinātāja noteikto stratēģisko specializāciju, veido savas attīstības plānošanai un kura ir terminēts — piecu gadu — profesionālās izglītības iestādes attīstības plāns, kas ietver konkrētus sasniedzamos mērķus un uzdevumus profesionālās izglītības un institucionālās attīstības jomās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darba vidē balstītas mācības",
+      "definition": "klātienes izglītības procesa daļa, kurā izglītības programmai noteiktie mācīšanās rezultāti atbilstoši mācību plānam pārmaiņus tiek sasniegti izglītības iestādē un pie darba devēja. Darba vidē balstītas mācības var ietvert praksi.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

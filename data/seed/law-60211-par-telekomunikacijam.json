@@ -1,0 +1,194 @@
+{
+  "id": "lv-law-60211",
+  "type": "statute",
+  "title": "Par telekomunikācijām",
+  "short_name": "TA-60211",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/60211-par-telekomunikacijam",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 213",
+      "chapter": "LIKUMĀ LIETOTIE TERMINI",
+      "section": "213",
+      "title": "Telekomunikācijas — informācijas pārraides sistēma, ko organizē, lietojot vadu un bezvadu tehniskās iekārtas, kuru darbība pamatojas uz elektrisko procesu un elektromagnētisko svārstību (radio un gaismas viļņu) izmantošanu.",
+      "content": "Publiskais telekomunikāciju tīkls — fizisko un juridisko personu vispārējai lietošanai paredzētā infrastruktūra signālu pārraidei starp diviem vai vairākiem noteiktiem tīkla pieslēgumpunktiem, izmantojot vadus, radioviļņus un optiskās pārraides sistēmas vai arī citu elektromagnētisku paņēmienu. Latvijas Republikā ir viens publiskais telekomunikāciju tīkls.\nSpecializētie valsts telekomunikāciju tīkli — aizsardzības spēku, dzelzce|a, ūdens un gaisa satiksmes, energoapgādes, radio un televīzijas, kā arī citu valsts institūciju lietošanai paredzētie telekomunikāciju tīkli.\nPubliskie mobilie radiotelekomunikāciju tīkli — fizisko un juridisko personu vispārējai lietošanai paredzētie tīkli, kas nodrošina signālu pārraidi starp mobilām telekomunikāciju tehniskajām iekārtām, kā arī sakarus ar publisko telekomunikāciju tīklu.\nTīkla pieslēgumpunkti — visi atbilstoši tehniskajiem noteikumiem izdarītie fiziskie pieslēgumi, kuri veido daļu no publiskā telekomunikāciju tīkla un ir nepieciešami telekomunikāciju lietotāju tehnisko iekārtu pieslēgšanai un komutācijai publiskajā telekomunikāciju tīklā.\nPārtveršanas punkts — visu veidu tīklu operatoru izveidots un uzturēts speciāls tīkla pieslēguma punkts, kas tehniski nodrošina informācijas pārtveršanu, ko likumā noteiktajos gadījumos un kārtībā veic operatīvās darbības subjekti.\nTehniskie noteikumi — dokuments, kura noteiktas telekomunikāciju iekārtām izvirzāmās prasības un parametri, kas jāievēro fiziskajām un juridiskajām personām, pieslēdzot attiecīgo iekārtu telekomunikāciju tīkliem vai citām telekomunikāciju iekārtām.\nSaskaņošanas sertifikāts (apliecība) — dokuments, kas apliecina, ka attiecīgā telekomunikāciju iekārta atbilst telekomunikāciju tīkla tehniskajiem noteikumiem.\nTelekomunikāciju lietotājs — fiziskā vai juridiskā persona, kuras tehniskie līdzekļi noteiktā kārtībā pieslēgti telekomunikāciju tīklam, vai persona, kura izmanto telekomunikāciju pakalpojumus.\nTelekomunikāciju pamatpakalpojumi — telekomunikāciju pakalpojumi, kas nodrošina signāla pārraidi un maršrutizāciju telekomunikāciju tīklos.\nTelekomunikāciju papildpakalpojumi — dažādi telekomunikāciju pakalpojumi, kas neietilpst telekomunikāciju pamatpakalpojumos un tiek sniegti, izmantojot publisko telekomunikāciju tīklu.\nTīkla operators — juridiskā persona, kas pārvalda publisko telekomunikāciju tīklu vai publisko mobilo radiotelekomunikāciju tīklu, attīsta to un veic tā komerciālo ekspluatāciju.\nTelekomunikāciju organizācija — publiskā telekomunikāciju tīkla operators—uzņēmējsabiedrība, kas izveidota likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "Likuma uzdevums",
+      "content": "Šis likums nosaka telekomunikāciju lietotāju, tīklu operatoru un valsts institūciju tiesības, pienākumus un atbildību, kas saistīta ar telekomunikāciju tīklu pārvaldi, ekspluatāciju, pieslēgšanu publiskajam telekomunikāciju tīklam un telekomunikāciju pakalpojumu sniegšanu, kā arī valsts kontroli un uzraudzību pār radiofrekvenču piešķiršanu un spektra lietošanu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I NODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "Telekomunikāciju darbības tiesiskais pamats",
+      "content": "(1) Veicot telekomunikāciju tīklu ekspluatāciju, attīstot šos tīklus un sniedzot telekomunikāciju pakalpojumus, fiziskajām un juridiskajām personām ir jāievēro Latvijas Republikas likumi, starpvalstu līgumi un konvencijas, kā arī starptautisko organizāciju standarti, ko Latvijas Republika ir pieņēmusi kā saistošus. Latvijas Republikas pārstāvību starptautiskajās telekomunikāciju organizācijās nosaka Latvijas Republikas valdība vai — tas pilnvarojuma — Latvijas Republikas Satiksmes ministrija.\n(2) Telekomunikāciju organizācija darbojas Latvijas Republikas 1991. gada 3. decembra likumā « Par konkurenci un monopoldarbības ierobežošanu » (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 51) noteiktā dabīgā monopolstāvokļa apstākļos, kad tās sniegto telekomunikāciju pamatpakalpojumu tarifus regulē Telekomunikāciju tarifu padome."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "II NODAĻA VALSTS PĀRVALDE TELEKOMUNIKĀCIJU NOZARE",
+      "section": "3",
+      "title": "Latvijas Republikas Satiksmes ministrijas kompetence",
+      "content": "Valsts pārvaldi telekomunikāciju nozarē veic un tās politiku nosaka Latvijas Republikas Satiksmes ministrija."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II NODAĻA VALSTS PĀRVALDE TELEKOMUNIKĀCIJU NOZARE",
+      "section": "4",
+      "title": "Radiofrekvenču spektra izmantošana un telekomunikāciju iekārtu sertifikācija",
+      "content": "(1) Radiofrekvenču spektru fiziskajām un juridiskajām personām atļauts izmantot tikai pēc frekvenču lietošanas atļaujas (licences) saņemšanas.\n(2) Kontroli un uzraudzību pār radiosakaru un visu diapazonu radiofrekvenču spektra izmantošanu veic Latvijas Republikas Satiksmes ministrija. Tā arī izstrādā radiofrekvenču spektra izmantošanas plānus atbilstoši starptautiskajām normām, izskata radiofrekvenču lietošanas pieprasījumus un izsniedz frekvenču lietošanas atļaujas (licences) Latvijas Republikas Ministru Padomes noteiktajā kārtībā, kā arī nosakot frekvenču joslas brīvai izmantošanai.\n(3) Ja piešķirto frekvenci pieprasa cita fiziskā vai juridiskā persona un tā šai personai tiek piešķirta, attiecīgā persona sedz ar frekvences pārvietošanu saistītos izdevumus un zaudējumus, pusēm vienojoties.\n(4) Latvijas Republikas Satiksmes ministrija izsniedz telekomunikāciju tīklos izmantojamo iekārtu saskaņošanas sertifikātus (apliecības) un nosaka prasības, kas izvirzāmas radioiekārtu tehniskajiem parametriem, kā arī, ievērojot Satversmes aizsardzības biroja prasības, nosaka pārtveršanas punktu tehniskos nosacījumus un parametrus.\n(5) Fiziskās un juridiskās personas nedrīkst pieslēgt telekomunikāciju iekārtas publiskajam telekomunikāciju tīklam vai publiskajiem mobilajiem radiotelekomunikāciju tīkliem, ja par šo telekomunikāciju iekārtu tipu nav saņemts saskaņošanas sertifikāts (apliecība)."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "5",
+      "title": "Telekomunikāciju organizācijas ekskluzīvās tiesības",
+      "content": "(1) Telekomunikāciju organizācijai ir ekskluzīvas tiesības:\n1) pārvaldīt, attīstīt un ekspluatēt publisko telekomunikāciju tīklu;\n2) veikt uzņēmējdarbību, sniedzot telekomunikāciju lietotājiem Latvijas Republikā visu veidu telekomunikāciju pamatpakalpojumus, izņemot tos telekomunikāciju pamatpakalpojumus, kuri ietverti publisko mobilo radiotelekomunikāciju tīklu izveidošanas atļaujās (licencēs).\n(2) Telekomunikāciju organizācijai nav ekskluzīvu tiesību piegādāt telekomunikāciju lietotājiem abonentu iekārtas.\n(3) Ja fiziskās vai juridiskās personas pārkāpj šajā pantā telekomunikāciju organizācijai paredzētās ekskluzīvās tiesības, telekomunikāciju organizācijai ir tiesības griezties tiesā ar prasību novērst pārkāpumus un piedzīt zaudējumus no vainīgajām personām likumdošanas aktos noteiktajā kārtībā.\n(4) Telekomunikāciju organizācijas ekskluzīvās tiesības, kas noteiktas šajā likumā, var tikt pārtrauktas ne agrāk kā pēc 20 gadiem. Pārtraucot ekskluzīvās tiesības pēc 20 gadiem, telekomunikāciju organizācijai kompensācija netiek izmaksāta."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "6",
+      "title": "Telekomunikāciju organizācijas tiesības",
+      "content": "(1) Telekomunikāciju organizācijai ir tiesības atvienot telekomunikāciju lietotāju tehniskās iekārtas no publiskā telekomunikāciju tīkla, ja telekomunikāciju lietotāji nemaksā par izmantotajiem telekomunikāciju pakalpojumiem vai izmanto publisko telekomunikāciju tīklu, pārkāpjot tā lietošanas noteikumus.\n(2) Telekomunikāciju pakalpojumu un neapmaksāto rēķinu apmaksas, kā arī soda naudas piedzīšanas kārtību nosaka Telekomunikāciju tarifu padome.\n(3) Telekomunikāciju organizācija pēc juridisko vai fizisko personu pieprasījuma izsniedz tehniskos noteikumus telekomunikāciju lietotāju tehnisko iekārtu pieslēgšanai publiskajam telekomunikāciju tīklam.\n(4) Telekomunikāciju organizācijai ir tiesības šajā likumā noteikto telekomunikāciju pamatpakalpojumu sniegšanu daļēji nodot citām juridiskajām personām uz līguma pamata.\n(5) Telekomunikāciju organizācijai aizliegts veikt uzņēmējdarbību, kas saistīta ar telekomunikāciju iekārtu ražošanu pārdošanai."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "7",
+      "title": "Telekomunikāciju organizācijas pienākumi",
+      "content": "Telekomunikāciju organizācijas pienākums ir:\n1) attīstīt publiskā telekomunikāciju tīkla infrastruktūru, kas nodrošinātu starptautiskajiem standartiem atbilstošas kvalitātes telekomunikāciju pamatpakalpojumu sniegšanu un to pieejamību visiem Latvijas Republikas iedzīvotājiem;\n2) nodrošināt telekomunikāciju pakalpojumu lietotājiem vienlīdzīgas tiesības pieslēgties publiskajam telekomunikāciju tīklam;\n3) nodrošināt publiskā telekomunikāciju tīkla ekspluatāciju atbilstoši tehnisko normatīvu prasībām;\n4) publicēt savas darbības gada pārskatu;\n5) ierīkot ne vēlāk kā divu mēnešu laikā pēc Satversmes aizsardzības biroja direktora rakstveida pieprasījuma telekomunikāciju tīkla pārtveršanas punktu (punktus), kas jāuztur un jānodod pēc operatīvās darbības subjekta vadītāja rakstveida pieprasījuma tā lietošanā bez maksas operatīvās darbības pasākumu veikšanai un kriminālprocesuālo darbību nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "8",
+      "title": "Telekomunikāciju pamatpakalpojumu tarifu noteikšana",
+      "content": "(1) Šā likuma 13. pantā norādīto telekomunikāciju pamatpakalpojumu tarifus nosaka Telekomunikāciju tarifu padome. Mēnesi pirms tarifu grozīšanas par to jāpublicē ziņojums presē.\n(2) Telekomunikāciju tarifu padomes lēmumu telekomunikāciju organizācija var pārsūdzēt mēneša laikā no tā paziņošanas dienas. Telekomunikāciju tarifu padomei šī sūdzība jāizskata un lēmums jāpieņem mēneša laikā. Ja Telekomunikāciju tarifu padome noraida telekomunikāciju organizācijas sūdzību, lēmumu pieņem Latvijas Republikas valdība.\n(3) Ja telekomunikāciju organizācija sniedz telekomunikāciju lietotājam telekomunikāciju pakalpojumus, kuriem Telekomunikāciju tarifu padome nav noteikusi tarifus, šis lietotājs par tiem maksā saskaņā ar noslēgtajiem līgumiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "9",
+      "title": "Telekomunikāciju tarifu padomes izveidošana",
+      "content": "Telekomunikāciju tarifu padomi izveido Latvijas Republikas valdība pēc satiksmes ministra ieteikuma septiņu neatkarīgu ekspertu sastāvā uz pieciem gadiem. Telekomunikāciju tarifu padomes nolikumu apstiprina satiksmes ministrs. Telekomunikāciju tarifu padome tiek finansēta no valsts budžeta."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "10",
+      "title": "Telekomunikāciju tarifu padomes uzdevumi",
+      "content": "Telekomunikāciju tarifu padomes uzdevums ir:\n1) noteikt telekomunikāciju pamatpakalpojumu tarifus un to likmes;\n2) izskatīt telekomunikāciju lietotāju pretenzijas par telekomunikāciju pamatpakalpojumu tarifu piemērošanu;\n3) sniegt telekomunikāciju organizācijai rekomendācijas par telekomunikāciju pamatpakalpojumu tarifu piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "11",
+      "title": "Telekomunikāciju pamatpakalpojumu tarifu noteikšanas pamatprincipi",
+      "content": "(1) Telekomunikāciju tarifu padomei jāveicina publiskā telekomunikāciju tīkla infrastruktūras attīstība un jāstimulē telekomunikāciju tīklu operatoru iniciatīva pamatpakalpojumu faktisko izmaksu samazināšanā, modernu tehnoloģiju un efektīvu vadības metožu ieviešanā.\n(2) Telekomunikāciju tarifu padomei jāņem vērā Latvijas Republikas ekonomiskais stāvoklis un investīciju efektivitāte telekomunikāciju organizācijā.\n(3) Telekomunikāciju tarifu padomes mērķis ir panākt, lai noteiktie telekomunikāciju pamatpakalpojumu tarifi tuvinātos telekomunikāciju lietotājiem sniegto pakalpojumu faktiskajām izmaksām."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "12",
+      "title": "Telekomunikāciju tarifu padomes tiesības",
+      "content": "Telekomunikāciju tarifu padomei ir tiesības pieprasīt un mēneša laikā saņemt no telekomunikāciju organizācijas nepieciešamo finansu informāciju un citu ar telekomunikāciju pamatpakalpojumu tarifiem saistīto informāciju."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "13",
+      "title": "Telekomunikāciju pamatpakalpojumu veidi",
+      "content": "Telekomunikāciju pamatpakalpojumu veidi ir šādi:\n1) runas un citu signālu pārraide starp publisko telekomunikāciju tīklu Latvijas Republikā un telekomunikāciju tīkliem ārvalstīs, kā arī starp ārvalstu publiskajiem telekomunikāciju tīkliem un telekomunikāciju tīkliem Latvijas Republikā;\n2) runas un citu signālu pārraide starp telekomunikāciju tīkliem pieslēgtajām telekomunikāciju lietotāju iekārtām;\n3) radioprogrammu un televīzijas programmu pārraide publiskajā telekomunikāciju tīklā;\n4) telekomunikāciju tīklu līniju iznomāšana;\n5) operatīvo (ugunsdzēsības, policijas, medicīnas u. c.) dienestu izsaukuma bezmaksas nodrošināšana telekomunikāciju tīklu telekomunikāciju lietotājiem;\n6) taksofonu iekārtošana un ekspluatācija publiskajā telekomunikāciju tīklā."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMI",
+      "section": "14",
+      "title": "Telekomunikāciju papildpakalpojumi",
+      "content": "Juridiskās personas saskaņā ar Latvijas Republikas 1990. gada 26. septembra likumu « Par uzņēmējdarbību » (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1990, 42) var sniegt telekomunikāciju papildpakalpojumus, izmantojot telekomunikāciju pamatpakalpojumus un saskaņojot pieslēgšanās noteikumus ar telekomunikāciju organizāciju. Papildpakalpojumu tarifus nosaka uzņēmējs. Par telekomunikāciju pamatpakalpojumiem jāmaksā saskaņā ar apstiprinātajiem tarifiem."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "15",
+      "title": "Specializēto valsts telekomunikāciju tīklu izveidošana un pieslēgšana publiskajam telekomunikāciju tīklam",
+      "content": "(1) Specializētie valsts telekomunikāciju tīkli tiek izveidoti vai likvidēti ar attiecīgo valsts institūciju lēmumu, saskaņojot to ar Latvijas Republikas Satiksmes ministriju un ievērojot šā likuma 7.panta 5.punkta un 24.panta otrās daļas noteikumus.\n(2) Pieslēgšanās noteikumus, kas ievērojami, specializētos valsts telekomunikāciju tīklus pievienojot publiskajam telekomunikāciju tīklam, nosaka telekomunikāciju organizācija.\n(3) Specializēto valsts telekomunikāciju tīklu lietošanas noteikumus nosaka attiecīgā tīkla pārvaldes institūcija."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "16",
+      "title": "Publiskā mobilā radiotelekomunikāciju tīkla izveidošana un pieslēgšana publiskajam telekomunikāciju tīklam",
+      "content": "Publiskā mobilā radiotelekomunikāciju tīkla izveidošanai atļauju (licenci) izsniedz Latvijas Republikas Satiksmes ministrija, ievērojot šā likuma 7.panta 5.punkta un 24.panta otrās daļas noteikumus. Pieslēgšanās noteikumus, kas ievērojami, publisko mobilo radiotelekomunikāciju tīklu pievienojot publiskajam telekomunikāciju tīklam, nosaka telekomunikāciju organizācija. Šie pieslēgšanās noteikumi ir vienādi visiem publiskajiem mobilajiem radiotelekomunikāciju tīkliem. Katra publiskā mobilā radiotelekomunikāciju tīkla lietošanas noteikumus un tā sniegto pakalpojumu tarifus nosaka attiecīgā tīkla operators. Atļauja (licence) jāizsniedz mēneša laikā no pieprasījuma iesniegšanas dienas vai šajā pašā termiņā jādod motivēts rakstveida atteikums. Publiskā mobilā radiotelekomunikāciju tīkla operators pēc Satversmes aizsardzības biroja direktora rakstveida pieprasījuma ne vēlāk kā divu mēnešu laikā ierīko pārtveršanas punktu, kas jāuztur un jānodod pieprasītāja lietošanā bez maksas."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "17",
+      "title": "Satelītsakaru iekārtu lietošana",
+      "content": "(1) Satelītsakaru iekārtu izmantošanu publiskā telekomunikāciju tīkla vajadzībām ar starptautiskajām satelītsakaru organizācijām saskaņo un kārto Latvijas Republikas Satiksmes ministrija.\n(2) Visam personām, kuram ir Latvijas Republikas Satiksmes ministrijas izdota atļauja (licence), ir tiesības uzstādīt un lietot kombinētas uztvērēju un raidītāju satelītsakaru iekārtas. Atļauja (licence) jāizsniedz mēneša laikā no pieprasījuma iesniegšanas dienas vai šajā pašā termiņā jādod motivēts rakstveida atteikums."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "18",
+      "title": "Privātie telekomunikāciju tīkli",
+      "content": "Fiziskajām un juridiskajām personām ir tiesības ierīkot privātus telekomunikāciju tīklus, kurus drīkst izmantot tikai šīs fiziskās un juridiskās personas savām vajadzībām, ievērojot telekomunikāciju organizācijas ekskluzīvās tiesības."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "19",
+      "title": "Telekomunikāciju tīklu ierīkošanas un ekspluatācijas vispārīgie noteikumi",
+      "content": "(1) Noteikumus, kas jāievēro, ierīkojot, ekspluatējot vai rekonstruējot telekomunikāciju tīklus, kā arī veicot telekomunikāciju vajadzībām izmantojamo ēku celtniecību un rekonstrukciju, atbilstoši Šā likuma un citu normatīvo aktu prasībām izstrādā un apstiprina Latvijas Republikas Satiksmes ministrija. Minētie noteikumi ir obligāti visām juridiskajām un fiziskajām personām.\n(2) Valsts institūcijām un telekomunikāciju organizācijai ir tiesības, ievērojot zemes jautājumos pieņemtos likumdošanas aktus, vajadzības gadījumos ierīkot telekomunikāciju līnijas un sadalījuma ierīces valsts, pašvaldību un privātā īpašuma robežās, kā arī gaisa telpā virs Šiem īpašumiem, iepriekš saskaņojot to ar īpašniekiem un saudzējot pašu īpašumu. Telekomunikāciju tīklu pazemes un virszemes kabeļus, gaisa vadu līnijas un iekārtas izvieto pilsētās un citās apdzīvotajās vietās starp ielu «sarkanajām» līnijām, bet tur, kur tādas nav noteiktas, — starp ielu braucamo daļu un apbūvi. Zemūdens kabeļu ierīkošana jūras akvatorijā saskaņojama ar Latvijas Republikas Jūras lietu ministriju. Telekomunikāciju līniju un sadalījuma ierīču ierīkošana aizsargājamās dabas teritorijās jāsaskaņo ar augstāko valsts vides aizsardzības institūciju un aizsargājamās teritorijas pārvaldes institūciju. Kārtību, kādā telekomunikāciju līnijām izmantojamas elektropārvades līnijas, autoceļu un dzelzceļu nodalījumu joslas, nosaka attiecīgie Latvijas Republikas likumi un normatīvie akti.\n(3) Telekomunikāciju organizācijai, valsts specializēto telekomunikāciju un privāto telekomunikāciju tīklu īpašniekiem ir pastāvīgas zemes un ēku servitūtu tiesības, kas nepieciešamas telekomunikāciju pakalpojumu nodrošināšanai. Ja puses nevar vienoties par servitūta noteikumiem, servitūtu nodibina ar tiesas spriedumu.\n(4) Esošo telekomunikāciju tīklu pārvietošanu pēc zemes īpašnieka vai lietotāja prasības veic par zemes īpašnieka vai lietotāja līdzekļiem.\n(5) Namīpašnieks nevar liegt telekomunikāciju lietotāju abonentu līniju, kabeļu un armatūras uzstādīšanai izmantot namīpašuma fasādi, pagraba, bēniņu un kāpņu telpas, kā arī nevar liegt īrniekiem vai apakšīrniekiem ierīkot telekomunikāciju tīklu tehnis_kās iekārtas. Savukārt īrnieks to nevar liegt savam apakšīrniekam. īrniekam vai apakšīrniekam pašam jāsedz visi zaudējumi, kas nodarīti trešajām personām, uzstādot un lietojot telekomunikāciju tīklu tehniskos līdzekļus.\n(6) (Izslēgta ar 12.04.1995 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "20",
+      "title": "Telekomunikāciju tīklu aizsardzība",
+      "content": "(1) Telekomunikāciju tīklu aizsardzība tiek veikta Latvijas Republikas Satiksmes ministrijas noteiktajā kārtībā.\n(2) Aizliegts bojāt telekomunikāciju tīklu līnijas vai traucēt pa tām uzturamos sakarus.\n(3) Lai nodrošinātu telekomunikāciju tīklu aizsardzību pret bojājumiem, gar telekomunikāciju tīklu līnijām tiek izveidotas aizsardzības zonas (aizsargjoslas, stigas), kuru platuma ierobežojumus un izmantošanas režīmu nosaka Latvijas Republikas Satiksmes ministrija.\n(4) Fiziskajām un juridiskajam personām, kuru pārziņa ir telekomunikāciju tīklu līnija ar aizsardzības zonu (aizsargjoslu, stigu), ievērojot apkārtējās vides aizsardzības noteikumus, ir atļauts:\n1) būvēt piebrauktuves, tiltus un citas būves (bedres, tranšejas u. c.), kuras nepieciešamas telekomunikāciju tīklu līniju apkalpošanai vai remontam;\n2) izzāģēt koku zarus, izcirst traucējošus krūmus un kokus, izpļaut zāli noteiktās aizsardzības zonas (aizsargjoslas, stigas) platuma nodrošināšanai.\n(5) Telekomunikāciju tīklu pazemes līniju aizsardzības zonā (aizsargjoslā, stigā) tikai ar telekomunikāciju organizācijas vai tīkla operatora piekrišanu var veikt zemes darbus un visu veidu būvdarbus, pārsniedzot 50 centimetru dziļumu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "21",
+      "title": "Telekomunikāciju tīklu ierīkošanas un rekonstrukcijas projektu saskaņošanas kārtība",
+      "content": "Telekomunikāciju līniju ierīkošanas un rekonstrukcijas projektu saskaņošanas kārtību nosaka Latvijas Republikas Satiksmes ministrija."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV NODAĻA SPECIALIZĒTO VALSTS TELEKOMUNIKĀCIJU TĪKLU UN PUBLISKO MOBILO RADIOTELEKOMUNIKĀCIJU TĪKLU IZVEIDOŠANA UN PIESLĒGŠANA PUBLISKAJAM TELEKOMUNIKĀCIJU TĪKLAM, SATELĪTSAKARU IEKĀRTU LIETOŠANA, PRIVĀTIE TELEKOMUNIKĀCIJU TĪKLI",
+      "section": "22",
+      "title": "Zaudējumu atlīdzināšana sakarā ar telekomunikāciju tīklu ierīkošanu",
+      "content": "Pēc telekomunikāciju tīklu līniju un būvju ierīkošanas darbu pabeigšanas telekomunikāciju organizācijai vai valsts institūcijai jāsakārto nekustamais īpašums. Ja to mēneša laika pēc darbu pabeigšanas vai citā termiņā pēc vienošanās ar īpašnieku neizdara telekomunikāciju organizācija vai valsts institūcija, sava īpašuma teritoriju ir tiesīgs sakārtot pats īpašnieks, piedzenot no telekomunikāciju organizācijas vai valsts institūcijas ar īpašuma sakārtošanu saistītos izdevumus un zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMU KVALITĀTES AIZSARDZĪBA",
+      "section": "23",
+      "title": "Telekomunikāciju pakalpojumu kvalitātes prasības",
+      "content": "(1) Telekomunikāciju pakalpojumu kvalitāti nodrošina tīklu operatori atbilstoši standartiem, tehniskajiem noteikumiem un sniedzamo pakalpojumu līgumu noteikumiem.\n(2) Telekomunikāciju lietotāju tiesības tiek aizsargātas un tīklu operatori nodrošina šo tiesību realizāciju saskaņā ar Latvijas Republikas 1992. gada 28. oktobra likumu « Par patērētāju tiesību aizsardzību » (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 46).\n(3) Telekomunikāciju tarifu padomei jānoteic kartība, kāda telekomunikāciju lietotājs ir tiesīgs pieprasīt telekomunikāciju pakalpojumu maksas pārrēķinu vai kompensāciju gadījumos, kad pakalpojumi neatbilst standartiem un tehniskajiem noteikumiem vai līgumā paredzētajām sniedzamo pakalpojumu kvalitātes prasībām."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMU KVALITĀTES AIZSARDZĪBA",
+      "section": "24",
+      "title": "Pārraidītās informācijas noslēpuma aizsardzība",
+      "content": "(1) Valsts institūciju, kā arī telekomunikāciju organizācijas un tīklu operatoru darbiniekiem, kuriem sakarā ar darba pienākumu veikšanu ir kļuvusi pieejama vai zināma jebkāda informācija, ko pārraida, izmantojot telekomunikāciju tīklus, aizliegts to izpaust, izņemot likumā noteiktos gadījumus un kārtību.\n(2) Pieslēgties telekomunikāciju tīkliem informācijas pārtveršanas nolūkā ir atļauts tikai likumos noteiktajos gadījumos un kārtībā.\n(3) Šā panta otrajā daļā minēto pasākumu veikšanas kārtība un rezultāti ir valsts noslēpums. Personām, kuras sakarā ar saviem darba pienākumiem ir saistītas ar šo pasākumu nodrošināšanu vai veikšanu, jāsaņem speciālā atļauja pieejai valsts noslēpumam.\n(4) Informāciju par telekomunikāciju tīkla abonentiem, pret kuriem vērsti šā panta otrajā daļā minētie pasākumi, kā arī to mērķi, apjomu un pamatojumu telekomunikāciju organizācijai un tīkla operatoram var neizpaust."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V NODAĻA TELEKOMUNIKĀCIJU PAKALPOJUMU KVALITĀTES AIZSARDZĪBA",
+      "section": "25",
+      "title": "Atbildība par telekomunikāciju jautājumos pieņemto likumdošanas aktu pārkāpšanu",
+      "content": "Personas, kas pārkāpušas šajā likumā paredzētos noteikumus vai aizliegumus, ir atbildīgas Latvijas kriminālkodeksā vai Latvijas administratīvo pārkāpumu kodeksā noteiktajā kārtībā."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,264 @@
+{
+  "id": "lv-law-45932",
+  "type": "statute",
+  "title": "Valsts statistikas likums",
+  "short_name": "TA-45932",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/45932-valsts-statistikas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) anonimizēti dati — individuālie statistiskie dati, kas ir pārveidoti, lai novērstu privātpersonu un valsts institūciju identifikāciju;\n2) cita statistika — statistika, kuru apkopo privātpersona (fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība) vai valsts institūcija un kura nav iekļauta valsts statistiskās informācijas programmā;\n3) individuālie statistiskie dati — informācija par privātpersonām vai valsts institūcijām, kuru Centrālā statistikas pārvalde vai kāda cita valsts institūcija, kas nodarbojas ar valsts statistiku, statistiskiem nolūkiem saņem tieši no respondentiem vai reģistriem, datubāzēm vai citiem avotiem;\n4) klasifikators — sistematizēts objektu saraksts, kodu sistēma vai nomenklatūra. Katram klasifikatora objektam piešķir noteiktu identifikācijas kodu, kas aizvieto objekta nosaukumu;\n5) klasifikācija — sistematizēts objektu sadalījums noteiktās kategorijās, grupās, apakšgrupās vai citās vienībās atkarībā no to kritēriju līdzības vai atšķirības. Konkrētiem objektiem piešķirtie kodi dod iespēju grupēt attiecīgos objektus jebkurā klasifikācijas līmenī;\n6) nacionālā klasifikācija vai klasifikators — valsts vajadzībām izstrādāta un apstiprināta klasifikācija vai klasifikators;\n7) respondents — privātpersona vai valsts institūcija, kura pēc Centrālās statistikas pārvaldes vai kādas citas valsts institūcijas pieprasījuma sagatavo un iesniedz individuālos statistiskos datus;\n8) statistiskā novērošana — sistemātiska informācijas vākšana par sabiedrībā notiekošajām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī vidi;\n9) valsts institūcija — Ministru kabinetam padota tiešās pārvaldes iestāde, pārvaldes iestāde, kas nav padota Ministru kabinetam, plānošanas reģions, vietējā pašvaldība un tai padotā iestāde, cita atvasināta publisko tiesību juridiskā persona, tai skaitā publiskais nodibinājums un tā iestāde, kā arī privātpersona, kurai deleģēti valsts pārvaldes uzdevumi;\n10) valsts statistika — statistika, kuru apkopo Centrālā statistikas pārvalde vai kāda cita valsts institūcija valsts statistiskās informācijas programmas ietvaros;\n11) vienotā ekonomiskās informācijas klasifikācijas sistēma — klasifikāciju un klasifikatoru saraksts, kura lietošana nodrošina valsts līmeņa ekonomiskās informācijas standartizāciju un apriti starp valsts informācijas sistēmām."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šis likums nosaka valsts statistikas darba organizācijas kārtību Latvijas Republikā, valsts institūciju, kas nodarbojas ar valsts statistiku, respondentu un citu fizisko un juridisko personu tiesības un pienākumus valsts statistikas jomā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Valsts statistikas uzdevumi",
+      "content": "(1) Valsts statistikas galvenie uzdevumi ir šādi:\n1) veidot vienotu, uz starptautiski atzītiem metodoloģijas principiem pamatotu statistiskās informācijas sistēmu par sabiedrībā notiekošajām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī vidi;\n2) apkopot un analizēt savākto statistisko informāciju;\n3) publicēt šo informāciju, darot to pieejamu visai sabiedrībai;\n4) sniegt Saeimai, valsts institūcijām un plašākai sabiedrībai statistisko informāciju, kas nepieciešama lēmumu pieņemšanai, kā arī pētījumu un domu apmaiņas veicināšanai.\n(2) Valsts statistikai ir jābūt objektīvai, ticamai, lietderīgai, efektīvai, tai jābalstās uz statistiskās konfidencialitātes un atklātības principiem.\n(3) Pētāmās parādības un procesi valsts statistikai jāatspoguļo patiesi. Datu iegūšanas un apstrādes metodēm un procedūrām ir jābūt zinātniski pamatotām. Statistikas lietotāji jāinformē par tām, kā arī par datu avotiem.\n(4) Valsts statistikā izmantojamai metodoloģijai un sagatavotajai informācijai ir jābūt objektīvai un neatkarīgai no politiskajiem procesiem un interešu grupām."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Valsts statistikas organizācija",
+      "section": "4",
+      "title": "Valsts institūcijas, kas nodarbojas ar valsts statistiku",
+      "content": "(1) Latvijas Republikā valsts statistikas darbu organizē un veic:\n1) Centrālā statistikas pārvalde;\n2) Latvijas Banka un Finanšu un kapitāla tirgus komisija;\n3) citas valsts institūcijas, kuras risina atsevišķus valsts statistikas jautājumus valsts statistiskās informācijas programmas ietvaros.\n(2) Šā panta pirmās daļas 3.punktā noteikto citu valsts institūciju izstrādāto valsts statistikas pārskatu un anketu veidlapu paraugus apstiprina, kā arī to iesniegšanas un aizpildīšanas kārtību nosaka Ministru kabinets.\n(3) Valsts statistikas pārskatu un anketu veidlapu paraugus Latvijas Banka, Finanšu un kapitāla tirgus komisija un citas valsts institūcijas 30 dienu laikā pēc to apstiprināšanas normatīvajos aktos noteiktajā kārtībā iesniedz reģistrēšanai Centrālajā statistikas pārvaldē."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Valsts statistikas organizācija",
+      "section": "5",
+      "title": "Centrālā statistikas pārvalde",
+      "content": "(1) Centrālā statistikas pārvalde ir tiešās pārvaldes iestāde, kura darbojas Ekonomikas ministrijas padotībā, kas tiek realizēta pārraudzības formā. Tā ir atbildīga par valsts statistikas darba organizāciju Latvijas Republikā un par to datu pareizību, kurus ieguvusi, apkopojot no respondentiem saņemto informāciju.\n(2) Centrālā statistikas pārvalde veic šādas funkcijas:\n1) īsteno vienotu valsts politiku valsts statistiskās informācijas organizēšanas, apkopošanas, analīzes un publicēšanas jomā;\n2) nodrošina statistikas lietotājus ar valsts statistiskās informācijas programmā iekļauto informāciju, par kuru atbild Centrālā statistikas pārvalde;\n3) kārtējā gada finanšu līdzekļu ietvaros izstrādā valsts statistiskās informācijas programmu, valsts statistikas pārskatu un anketu veidlapas. Valsts statistiskās informācijas programmu, valsts statistikas pārskatu un anketu veidlapas apstiprina Ministru kabinets;\n4) atbild par vienotās ekonomiskās informācijas klasifikācijas sistēmas izveidošanu. Ministru kabinets apstiprina vienoto ekonomiskās informācijas klasifikācijas sistēmu un tās ieviešanas un lietošanas kārtību;\n5) koordinē visu valsts līmeņa statistiskās informācijas plūsmu, kā arī valsts reģistros un citās informācijas sistēmās iekļaujamo statistisko rādītāju savstarpēju saskaņošanu;\n6) koordinē valsts institūciju darbību statistikas jomā, kā arī starptautisko sadarbību;\n7) pēc vienošanās ar ieinteresēto privātpersonu vai valsts institūciju veic papildu statistikas darbus, kas neietilpst valsts statistiskās informācijas programmā;\n8) veic zinātniskos pētījumus statistikas jomā, konjunktūras pētījumus tautsaimniecības nozarēs, kā arī izstrādā statistisko rādītāju prognozes saskaņā ar valsts statistiskās informācijas programmu."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Valsts statistikas organizācija",
+      "section": "6",
+      "title": "Centrālās statistikas pārvaldes finansēšana",
+      "content": "Centrālās statistikas pārvaldes darbība tiek finansēta no:\n1) dotācijas no valsts budžeta vispārējiem ieņēmumiem;\n2) pašu ieņēmumiem, kas gūti no maksājumiem par papildu darbiem, kuri neietilpst valsts statistiskās informācijas programmā, un citiem pakalpojumiem;\n3) ārvalstu piešķirtiem finanšu līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Valsts statistikas organizācija",
+      "section": "7",
+      "title": "Valsts institūcijas, kas nodarbojas ar citu statistiku",
+      "content": "Valsts institūcijas var vākt, reģistrēt un apkopot citu statistisko informāciju savas kompetences jomā."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "II nodaļa Valsts statistikas organizācija",
+      "section": "7.1",
+      "title": "7. 1 pants. Nacionālās klasifikācijas un klasifikatori",
+      "content": "Nacionālās klasifikācijas un klasifikatorus apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Statistisko novērojumu veidi un statistiskās novērošanas paņēmieni",
+      "section": "8",
+      "title": "Statistisko novērojumu veidi",
+      "content": "(1) Ir šādi statistisko novērojumu veidi:\n1) valsts statistiskie novērojumi;\n2) citi statistiskie novērojumi.\n(2) Valsts statistiskie novērojumi ir tie novērojumi, kuri tiek veikti valsts statistiskās informācijas programmas ietvaros.\n(3) Citi statistiskie novērojumi ir tie novērojumi, kurus pēc savas iniciatīvas organizē un finansē atsevišķas privātpersonas vai valsts institūcijas."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Statistisko novērojumu veidi un statistiskās novērošanas paņēmieni",
+      "section": "9",
+      "title": "Statistiskās novērošanas paņēmieni",
+      "content": "(1) Statistisko informāciju var iegūt, apkopojot statistikas pārskatus un anketas, izmantojot reģistru un citu informācijas sistēmu datus, kā arī veicot vienreizējas vai periodiskas skaitīšanas un apsekojumus.\n(2) (Izslēgta ar 15.11.2007 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "10",
+      "title": "Valsts statistiskās informācijas iesniegšana",
+      "content": "(1) Respondentam ir pienākums pēc Centrālās statistikas pārvaldes vai citas valsts institūcijas, kas nodarbojas ar valsts statistiku, pieprasījuma noteiktā termiņā un pilnā apjomā sagatavot un sniegt individuālos statistiskos datus par respondenta darbību raksturojošām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī par vides stāvokli un dabas resursu izmantošanu, lai nodrošinātu valsts statistiskās informācijas programmā, likumos, Ministru kabineta noteikumos un Eiropas Savienības tieši piemērojamos tiesību aktos noteiktās informācijas sagatavošanu.\n(2) Informācijas iesniegšana valsts statistisko novērojumu vajadzībām ir uzskatāma par obligātu pienākumu, kas pildāms bez maksas."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "11",
+      "title": "Respondentu sniegtā valsts statistiskā informācija",
+      "content": "(Izslēgts ar 16.03.2006 . likumu, kas stājas spēkā 14.04.2006. )"
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "12",
+      "title": "Statistiskā informācija par budžeta iestāžu un organizāciju darbību",
+      "content": "Iestādes un organizācijas, kas tiek finansētas no valsts budžeta vai pašvaldību budžetiem, sniedz Centrālajai statistikas pārvaldei informāciju par īpašumu, zemes un ēku platību un to izmantošanu, sniegtajiem pakalpojumiem vai veikto darbu apjomu, darbinieku skaitu, to sastāvu, darba samaksu un darba apstākļiem, investīcijām, saņemtajiem budžeta līdzekļiem, kā arī citiem ieņēmumiem un to izmantošanu, bilances aktīviem un pasīviem un to kustību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "13",
+      "title": "Statistiskā informācija par pašvaldību darbību",
+      "content": "(1) Pašvaldības sniedz informāciju par pašvaldību budžetu izpildi un šā likuma 12.pantā paredzēto informāciju.\n(2) Pašvaldības piedalās Centrālās statistikas pārvaldes rīkotajos apsekojumos un to organizēšanā, kā arī ik gadus precizē mājsaimniecību uzskaites datus. Pašvaldību komersanti un no pašvaldību budžetiem finansējamās iestādes un organizācijas, kas ir juridiskās personas, sniedz informāciju patstāvīgi atbilstoši šā likuma 11. un 12.panta prasībām."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "14",
+      "title": "Statistiskā informācija par sabiedriskajām organizācijām un to apvienībām",
+      "content": "(Izslēgts ar 16.03.2006 . likumu, kas stājas spēkā 14.04.2006. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "15",
+      "title": "Informācija, ko sniedz valsts institūcijas, kas nodarbojas ar valsts statistiku",
+      "content": "Valsts institūcijas, kas nodarbojas ar valsts statistiku atbilstoši šā likuma 4.panta 3.punktam, pēc Centrālās statistikas pārvaldes pieprasījuma sniedz valsts statistiskās informācijas programmā noteikto informāciju."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "16",
+      "title": "Respondentu tiesības",
+      "content": "(1) Respondentiem ir tiesības iegūt informāciju par apsekojuma tiesisko pamatu, mērķiem, kādiem dati ir nepieciešami, un veiktajiem datu aizsardzības pasākumiem.\n(2) Jebkuram respondentam ir tiesības iepazīties ar informāciju, kas savākta par to un tiek glabāta informācijas sistēmā vai reģistros, kā arī precizēt to."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Valsts statistiskās informācijas iesniegšanas kārtība",
+      "section": "17",
+      "title": "Centrālās statistikas pārvaldes tiesības valsts statistiskās informācijas jautājumos",
+      "content": "Centrālajai statistikas pārvaldei ir tiesības:\n1) saņemt bez maksas no visiem respondentiem aizpildītus valsts statistikas pārskatus un nepieciešamos paskaidrojumus, kā arī informāciju par visiem uzskaites un statistikas darbiem jebkurā to veikšanas stadijā;\n2) saņemt bez maksas no valsts reģistriem vai datubāzēm valsts statistiskās informācijas programmas izpildei nepieciešamo informāciju, ieskaitot individuālos statistiskos datus par privātpersonām;\n3) saņemt bez maksas no valsts institūcijām, kas nodarbojas ar valsts statistiku atbilstoši šā likuma 4.panta pirmās daļas 2. un 3.punktam un ar citu statistiku atbilstoši šā likuma 7.pantam , savākto un apkopoto statistisko informāciju par atsevišķām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī vidi;\n4) organizēt mājsaimniecību statistisko novērošanu, kā arī iedzīvotāju aptaujas;\n5) veikt patēriņa preču un pakalpojumu cenu statistisko novērošanu un iegūt no komersantiem patiesu un pilnīgu informāciju par cenām."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Valsts statistiskās informācijas izmantošanas kārtība",
+      "section": "18",
+      "title": "Valsts statistiskās informācijas izmantošana un statistiskā konfidencialitāte",
+      "content": "(1) Statistiskie dati uzskatāmi par konfidenciāliem, ja tie tieši vai netieši ļauj identificēt privātpersonas vai valsts institūcijas, par kurām sniegti individuālie statistiskie dati.\n(2) Konfidenciālos datus, kas vākti vienīgi statistiskiem nolūkiem, drīkst izmantot tikai kopsavilkumu izdarīšanai un datu grupēšanai, ekonomisko un sociālo parādību un procesu analīzei.\n(3) Centrālā statistikas pārvalde un citas valsts institūcijas, kas nodarbojas ar valsts statistiku, veic nepieciešamos administratīvos, tehniskos un organizatoriskos pasākumus individuālo statistisko datu konfidencialitātes nodrošināšanai, lai novērstu neatļautu piekļūšanu informācijai, tās sagrozīšanu vai izplatīšanu, nejaušu vai neatļautu iznīcināšanu.\n(4) Centrālās statistikas pārvaldes, kā arī citu valsts institūciju personām, kuras nodarbojas ar valsts statistiku, aizliegts izpaust par respondentiem jebkuru informāciju, kas kļuvusi tām zināma, pildot dienesta vai darba pienākumus. Šis noteikums attiecas arī uz personām, kuras uz laiku ir iesaistītas valsts statistiskās informācijas vākšanā un apkopošanā."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Valsts statistiskās informācijas izmantošanas kārtība",
+      "section": "19",
+      "title": "Izņēmumi valsts statistiskās informācijas izmantošanas kārtībā",
+      "content": "(1) Šā likuma 18.panta prasības par individuālo statistisko datu neizpaušanu neattiecas uz šādu informāciju par respondentiem:\n1) informācija par privātpersonu, izņemot fizisko personu, kas nav komersants, un publisko personu adresēm, tālruņu numuriem un darbības veidu;\n2) informācija par respondentu nodarbināto algoto darbinieku skaitu un sastāvu, izņemot ziņas par konkrētām fiziskajām personām;\n3) informācija par izstrādājumu veidiem, ko respondenti iegūst, apstrādā, transportē, uzkrāj, pērk un pārdod, kā arī par pakalpojumu veidiem, ko tie sniedz;\n4) informācija par emisijām vidē, vides kvalitāti, vides aizsardzības pasākumiem un dabas resursu lietošanu;\n5) informācija, kuras publicēšanai ir saņemta respondenta rakstveida atļauja.\n(2) Latvijas Bankai un Finanšu un kapitāla tirgus komisijai ir tiesības apmainīties ar konfidenciāliem datiem par finanšu un kapitāla tirgus dalībnieku darbību."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Valsts statistiskās informācijas izmantošanas kārtība",
+      "section": "20",
+      "title": "Valsts statistiskās informācijas izplatīšana",
+      "content": "(1) Centrālā statistikas pārvalde un citas valsts institūcijas, kas nodarbojas ar valsts statistiku, atbilstoši savai kompetencei ar publikāciju un plašsaziņas līdzekļu starpniecību sistemātiski informē sabiedrību par valstī notiekošajām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī vidi. Valsts statistiskās informācijas programmā iekļautās informācijas publicēšanas autortiesības ir valsts institūcijai, kas atbild par konkrētās informācijas nodrošināšanu.\n(2) Izplatot statistisko informāciju, ir jāievēro šā likuma, kā arī citu statistiskās informācijas aizsardzību regulējošo normatīvo aktu prasības.\n(2 1 ) Anonimizētus datus drīkst izmantot zinātniskiem un pētnieciskiem mērķiem.\n(3) Valsts statistiskās informācijas programmas ietvaros apkopotā kopsavilkuma informācija ir pieejama bez maksas."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "21",
+      "title": "Respondentu atbildība",
+      "content": "Par noteiktās statistiskās informācijas sagatavošanas kārtības neievērošanu, par šīs informācijas savlaicīgu nesniegšanu vai atteikšanos to sniegt fiziskās personas vai komersanta vai citas iestādes amatpersonas var saukt pie atbildības normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "22",
+      "title": "Atbildība par statistiskās informācijas izpaušanu",
+      "content": "Par statistiskās informācijas konfidencialitātes noteikumu neievērošanu to valsts institūciju darbinieki, kuras nodarbojas ar valsts statistiku, kā arī statistiskās informācijas vākšanā un apkopošanā uz laiku iesaistītās personas tiek sauktas pie atbildības normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par valsts statistiku \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 24.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par valsts statistiku \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1993, 24.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "pn2",
+      "title": "2. Šā likuma normas, kurās lietots termins \"komersants\", piemērojamas arī attiecībā uz individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, kā arī uz citiem Uzņēmumu reģistrā reģistrētajiem uzņēmumiem (uzņēmējsabiedrībām).",
+      "content": "( 07.10.2004 . likuma redakcijā, kas stājas spēkā 29.10.2004. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "pn3",
+      "title": "3. Grozījums likuma 4.panta 1.punktā stājas spēkā 2005.gada 1.janvārī.",
+      "content": "( 07.10.2004 . likuma redakcijā, kas stājas spēkā 29.10.2004. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2008.gada 1.jūnijam izdod šā likuma 7. 1 pantā (jaunajā redakcijā) minētos noteikumus par nacionālo klasifikāciju un klasifikatoru apstiprināšanu. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.jūnijam spēkā ir Ministru kabineta 2007.gada 2.janvāra noteikumi Nr.21 \" Kārtība, kādā izstrādājama (adaptējama), ieviešama un lietojama vienotā ekonomiskās informācijas klasifikācijas sistēma \" un Ministru kabineta 2006.gada 4.aprīļa noteikumi Nr.267 \" Noteikumi par Latvijas izglītības klasifikāciju \", ciktāl tie nav pretrunā ar šo likumu. Šā likuma 7. 1 pantā minētos noteikumus attiecībā uz Administratīvo teritoriju un teritoriālo vienību klasifikatoru Ministru kabinets izdod līdz 2009.gada 1.martam, bet noteikumus attiecībā uz Ūdenstilpju klasifikatoru un Ūdens saimniecisko iecirkņu klasifikatoru — līdz 2009.gada 30.decembrim.",
+      "content": "( 15.11.2007 . likuma redakcijā ar grozījumiem, kas izdarīti ar 29.01.2009 . likumu, kas stājas spēkā 04.03.2009. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Atbildība par šā likuma neievērošanu",
+      "section": "pn5",
+      "title": "5. Grozījumi likuma 1.panta 9.punktā par vārdu “rajona un” izslēgšanu stājas spēkā 2009.gada 1.jūlijā.",
+      "content": "( 29.01.2009 . likuma redakcijā, kas stājas spēkā 04.03.2009. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "anonimizēti dati",
+      "definition": "individuālie statistiskie dati, kas ir pārveidoti, lai novērstu privātpersonu un valsts institūciju identifikāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "cita statistika",
+      "definition": "statistika, kuru apkopo privātpersona (fiziskā persona, privāto tiesību juridiskā persona vai šādu personu apvienība) vai valsts institūcija un kura nav iekļauta valsts statistiskās informācijas programmā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "individuālie statistiskie dati",
+      "definition": "informācija par privātpersonām vai valsts institūcijām, kuru Centrālā statistikas pārvalde vai kāda cita valsts institūcija, kas nodarbojas ar valsts statistiku, statistiskiem nolūkiem saņem tieši no respondentiem vai reģistriem, datubāzēm vai citiem avotiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "klasifikators",
+      "definition": "sistematizēts objektu saraksts, kodu sistēma vai nomenklatūra. Katram klasifikatora objektam piešķir noteiktu identifikācijas kodu, kas aizvieto objekta nosaukumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "klasifikācija",
+      "definition": "sistematizēts objektu sadalījums noteiktās kategorijās, grupās, apakšgrupās vai citās vienībās atkarībā no to kritēriju līdzības vai atšķirības. Konkrētiem objektiem piešķirtie kodi dod iespēju grupēt attiecīgos objektus jebkurā klasifikācijas līmenī",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nacionālā klasifikācija vai klasifikators",
+      "definition": "valsts vajadzībām izstrādāta un apstiprināta klasifikācija vai klasifikators",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "respondents",
+      "definition": "privātpersona vai valsts institūcija, kura pēc Centrālās statistikas pārvaldes vai kādas citas valsts institūcijas pieprasījuma sagatavo un iesniedz individuālos statistiskos datus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "statistiskā novērošana",
+      "definition": "sistemātiska informācijas vākšana par sabiedrībā notiekošajām ekonomiskajām, demogrāfiskajām un sociālajām parādībām un procesiem, kā arī vidi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts institūcija",
+      "definition": "Ministru kabinetam padota tiešās pārvaldes iestāde, pārvaldes iestāde, kas nav padota Ministru kabinetam, plānošanas reģions, vietējā pašvaldība un tai padotā iestāde, cita atvasināta publisko tiesību juridiskā persona, tai skaitā publiskais nodibinājums un tā iestāde, kā arī privātpersona, kurai deleģēti valsts pārvaldes uzdevumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts statistika",
+      "definition": "statistika, kuru apkopo Centrālā statistikas pārvalde vai kāda cita valsts institūcija valsts statistiskās informācijas programmas ietvaros",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vienotā ekonomiskās informācijas klasifikācijas sistēma",
+      "definition": "klasifikāciju un klasifikatoru saraksts, kura lietošana nodrošina valsts līmeņa ekonomiskās informācijas standartizāciju un apriti starp valsts informācijas sistēmām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

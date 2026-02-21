@@ -419,6 +419,23 @@ export function buildEnglishUrl(act: ActIndexEntry): string {
   return `https://likumi.lv/ta/en/en/id/${act.likumiId}`;
 }
 
+function extractDocumentBodyFallback(html: string): string {
+  const start = html.search(/<div[^>]*class=['"]doc-body['"][^>]*>/i);
+  if (start < 0) return '';
+
+  const tail = html.slice(start);
+  const endCandidates = [
+    tail.search(/<div[^>]*class=['"]norm_head['"][^>]*>/i),
+    tail.search(/<div[^>]*class=['"]doc-right['"][^>]*>/i),
+    tail.search(/<div[^>]*id=['"]saistitie-container-anchor['"][^>]*>/i),
+  ].filter(index => index > 0);
+
+  const end = endCandidates.length > 0 ? Math.min(...endCandidates) : tail.length;
+  const fragment = tail.slice(0, end);
+  const text = htmlToText(fragment);
+  return text;
+}
+
 export function parseLatvianHtml(html: string, act: ActIndexEntry, enHtml?: string): ParsedAct {
   const metadata = parseMetadata(html);
   const chapters = extractChapterMarkers(html);
@@ -449,6 +466,18 @@ export function parseLatvianHtml(html: string, act: ActIndexEntry, enHtml?: stri
       title,
       content,
     });
+  }
+
+  if (provisions.length === 0) {
+    const fallbackContent = extractDocumentBodyFallback(html);
+    if (fallbackContent) {
+      provisions.push({
+        provision_ref: 'Art. 0',
+        section: '0',
+        title: metadata.title,
+        content: fallbackContent,
+      });
+    }
   }
 
   const titleEn = extractEnglishTitle(enHtml, metadata.title);

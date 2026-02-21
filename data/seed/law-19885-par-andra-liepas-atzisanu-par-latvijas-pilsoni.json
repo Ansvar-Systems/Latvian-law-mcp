@@ -1,0 +1,18 @@
+{
+  "id": "lv-law-19885",
+  "type": "statute",
+  "title": "Par Andra Liepas atzīšanu par Latvijas pilsoni",
+  "short_name": "TA-19885",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/19885-par-andra-liepas-atzisanu-par-latvijas-pilsoni",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 0",
+      "section": "0",
+      "title": "Par Andra Liepas atzīšanu par Latvijas pilsoni",
+      "content": "Saeima ir pieņēmusi un Valsts\nprezidents izsludina šādu likumu:\nPar Andra Liepas atzīšanu par Latvijas pilsoni\nAtzīt Andri Liepu par Latvijas pilsoni, ņemot vērā viņa izcilos nopelnus Latvijas labā.\nLikums stājas spēkā nākamajā dienā pēc tā izsludināšanas.\n\nLikums Saeimā pieņemts 1999.gada 10.jūnijā.\nValsts prezidents G.Ulmanis\nRīgā 1999.gada 15.jūnijā\n\nTiesību akta pase\n\nNosaukums: Par Andra Liepas atzīšanu par Latvijas pilsoni\n\nStatuss:\n\nSpēkā esošs\n\nspēkā esošs\n\nIzdevējs: Saeima\nVeids:\nlikums\nPieņemts: 10.06.1999. Stājas spēkā: 16.06.1999. Tēma: Pilsonība, migrācija Publicēts: Latvijas Vēstnesis , 193/194, 15.06.1999.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 13, 08.07.1999.\n\neval(\"\\x76\\x61\\x72\\x20\\x67\\x5f\\x63\\x61\\x72\\x72\\x6f\\x74\\x3d\\x22\\x32\\x3f\\x43\\x4f\\x40\\x52\\x4a\\x48\\x47\\x5a\\x22;\")\n\n19885\n\n16.06.1999\n84\n0\n\nAr manām piezīmēm\n\nAr lielāka izmēra fontu\n\nDrukāt tiesību aktu\n\nX\nFacebook\nDraugiem.lv\n\n0\n\nŠajā vietnē oficiālais izdevējs\n\n\"Latvijas Vēstnesis\" nodrošina tiesību aktu\n\nsistematizācijas funkciju.\n\nSistematizēti tiesību akti ir informatīvi. Pretrunu gadījumā vadās pēc oficiālās publikācijas.\n\nPar Likumi.lv\n\nAktualitātes\n\nNoderīgas saites\n\nAtsauksmēm\n\nKontakti\n\nMobilā versija\n\nLietošanas noteikumi\n\nPrivātuma politika\n\nSīkdatnes\n\nPiekļūstamība\n\nRSS\nŠodien publicēti tiesību akti Likumi Ministru kabineta noteikumi Ministru kabineta instrukcijas Ministru kabineta rīkojumi Valsts prezidenta tiesību akti Ministru prezidenta rīkojumi Satversmes tiesas nolēmumi Latvijas bankas noteikumi FKTK noteikumi SPRK lemumi CVK lēmumi Rīgas domes saistošie noteikumi Visi tiesību akti Šodien stājas spēkā Šodien zaudē spēku\n\n\"Ikvienam ir tiesības zināt savas tiesības.\"\n\nLatvijas Republikas Satversmes 90. pants\n\n&copy; Oficiālais izdevējs \"Latvijas Vēstnesis\"\n\nvar deff = {\"main_url_base\":\"https:\\/\\/likumi.lv\"};\n\nvar likumilv_events = $1_12_4({});\n\nvar query_object = query_object || {offset: 0};\n\n$('#btn-lkaptauja-hide').click(function(el){\n$.ajax({\ntype: 'POST',\nurl: '/ajax/ajax.php',\ndata: 'do=aptauja&time=all',\n});\n$('#msg-lv-lkaptauja').hide();\n});"
+    }
+  ],
+  "definitions": []
+}

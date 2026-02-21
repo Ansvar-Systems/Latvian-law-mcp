@@ -1,0 +1,206 @@
+{
+  "id": "lv-law-253635",
+  "type": "statute",
+  "title": "Ēku energoefektivitātes likums",
+  "title_en": "Law On The Energy Performance Of Buildings",
+  "short_name": "TA-253635",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/253635-eku-energoefektivitates-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) ēkas energoefektivitāte — relatīvs enerģijas daudzums, kas raksturo konkrētās ēkas apkurei, ventilācijai, dzesēšanai, apgaismojumam un karstā ūdens apgādei nepieciešamās enerģijas patēriņu ēkas tipam raksturīgos ekspluatācijas apstākļos;\n2) ēkas energosertifikācija — process, kurā nosaka ekspluatējamas ēkas vai tās daļas energoefektivitāti un izsniedz ēkas energosertifikātu vai nosaka projektējamas, pārbūvējamas vai atjaunojamas ēkas vai tās daļas plānoto energoefektivitāti un izsniedz ēkas pagaidu energosertifikātu;\n3) ēkas inženiertehniskā sistēma — tehniskā aprīkojuma un inženiertīklu kopums, kas atsevišķi vai kopējā sistēmā nodrošina ēkas vai ēkas daļas apkuri, ventilāciju, dzesēšanu, apgaismojumu, karstā ūdens apgādi, ēkas automatizāciju un vadību, elektroenerģijas ražošanu un apgādi objektā vai šādu sistēmu kombināciju, ieskaitot tās sistēmas, kurās izmanto atjaunojamo energoresursu enerģiju;\n4) gaisa kondicionēšanas sistēma — tādu sastāvdaļu kombinācija, kuras nodrošina telpu mikroklimata uzturēšanu, tostarp kontrolējot vai samazinot temperatūru;\n5) neatkarīgs eksperts — persona, kura ir tiesīga novērtēt ēkas, tās elementu un inženiertehnisko sistēmu energoefektivitāti, veikt energosertifikāciju un pārbaudīt apkures sistēmas un gaisa kondicionēšanas sistēmas;\n6) (izslēgts ar 08.10.2020 . likumu) ;\n7) lietderīgā nominālā jauda — ražotāja noteiktā un garantētā maksimālā siltuma vai aukstuma atdeve kilovatos, ko var piegādāt nepārtrauktas darbības laikā, ievērojot ražotāja norādīto lietderīgo efektivitāti."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir veicināt energoresursu racionālu izmantošanu, uzlabojot ēku energoefektivitāti, kā arī informējot sabiedrību par ēku enerģijas patēriņu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums nosaka:\n1) ekspluatējamu ēku minimālās energoefektivitātes prasības;\n2) ēku energosertifikācijas prasības;\n3) ekspluatējamas ēkas apkures sistēmu un gaisa kondicionēšanas sistēmu pārbaudes prasības;\n4) prasības augstas efektivitātes sistēmu izmantošanai.\n(1 1 ) Projektējamu, pārbūvējamu vai atjaunojamu ēku minimālās energoefektivitātes prasības nosaka būvniecības jomu regulējoši normatīvie akti, ņemot vērā šajā likumā noteiktos izņēmumus un prasības augstas efektivitātes sistēmu izmantošanai.\n(2) Šā likuma prasības nepiemēro ēkām:\n1) kurām enerģiju neizmanto iekštelpu mikroklimata regulēšanai;\n2) kuras ir kultūras pieminekļi vai kurās atrodas kultūras pieminekļi, kā arī kultūras pieminekļu teritorijās esošām ēkām, ja likuma prasību izpilde apdraud šo kultūras pieminekļu saglabāšanu vai pazemina to kultūrvēsturisko vērtību;\n3) kuras projektētas un būvētas dievkalpojumiem un citām reliģiskām darbībām;\n4) kuras ir dzīvojamās ēkas, ko izmanto vai paredzēts izmantot mazāk par četriem mēnešiem gadā vai arī ierobežotu laiku katru gadu, un kuru paredzamais enerģijas patēriņš ir mazāks par 40 kilovatstundām uz kvadrātmetru gadā (piemēram, vasarnīcas, dārza mājas);\n5) kuras ir brīvi stāvošas un kuru kopējā iekštelpu platība ir mazāka par 50 kvadrātmetriem;\n6) kuras paredzētas lietošanai uz laiku, ne ilgāku par diviem gadiem;\n7) kuras ir rūpnieciskās ražošanas ēkas un lauku saimniecību nedzīvojamās ēkas ar zemu enerģijas pieprasījumu (kopējais enerģijas patēriņš nepārsniedz 50 kilovatstundas uz kopējās iekštelpu platības kvadrātmetru gadā);\n8) kuras ir Latvijas Republikas diplomātiskās un konsulārās pārstāvniecības ēkas ārvalstīs. Šādu ēku projektēšanu, būvniecību un ekspluatācijas uzraudzību organizē valsts akciju sabiedrība \"Valsts nekustamie īpašumi\", kas koordinē energoefektivitātes principu ievērošanu ēkās, kā arī energoefektivitātes pasākumu veikšanu atbilstoši konkrētās vietas klimatiskajiem apstākļiem un uzņemošās valsts normatīvo aktu prasībām, ja to piemērošana nepieciešama."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Ekspluatējamu ēku minimālās energoefektivitātes prasības",
+      "content": "(1) Ekspluatējamu ēku minimālās energoefektivitātes prasības nosaka attiecībā uz:\n1) ēku enerģijas patēriņa līmeni un primārās enerģijas patēriņa līmeni;\n2) ēkas inženiertehnisko sistēmu automatizācijas un vadības sistēmu funkcionalitāti, telpu mikroklimatu pašregulējošu ierīču uzstādīšanu, ēkā patērētā energonesēja vai enerģijas uzskaiti;\n3) elektrotransportlīdzekļu uzlādes punktu ierīkošanu.\n(2) Ministru kabinets izdod noteikumus par šā panta pirmajā daļā minētajām ekspluatējamu ēku minimālajām energoefektivitātes prasībām.\n(3) Ekspluatējamu ēku minimālās energoefektivitātes prasības ēkas inženiertehniskajām sistēmām nepiemēro, ja šo prasību piemērošana nav tehniski vai funkcionāli iespējama vai nav ekonomiski pamatota."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Augstas efektivitātes sistēmu izmantošana",
+      "content": "(1) Projektējot ēkas, izvērtē iespēju tajās izmantot šādas augstas efektivitātes sistēmas:\n1) decentralizētas energoapgādes sistēmas, kurās izmanto atjaunojamos energoresursus;\n2) sistēmas, kurās izmanto koģenerāciju vienlaicīgai siltumenerģijas un elektroenerģijas vai mehāniskās enerģijas ražošanai;\n3) sistēmas, kurās izmanto siltumsūkņus, kas, mainot siltuma dabisko plūsmu, pārvada siltumu no dabiskās vides uz ēkām vai ēku inženiertehniskajām sistēmām;\n4) centralizētas siltumapgādes vai centralizētas dzesēšanas sistēmas, īpaši tādas, kurās izmanto atjaunojamos energoresursus un kuras, pievadot enerģiju no centrālā enerģijas ražošanas avota, izmantojamas vairākām ēkām vai teritorijām.\n(2) Ja pārbūvējamām vai atjaunojamām ēkām plānots pārbūvēt ēkas inženiertehniskās sistēmas, izvērtē augstas efektivitātes sistēmu izmantošanas iespējas.\n(3) Izvērtējot augstas efektivitātes sistēmu izmantošanas iespējas, norāda šo sistēmu izmantošanas tehniskos, vides un ekonomiskos apsvērumus.\n(4) Augstas efektivitātes sistēmu izmantošanas novērtējumu iekļauj būvprojektā, ja šāda analīze nav veikta vietējās pašvaldības teritorijas plānošanas dokumentos vai arī pašvaldība nav paredzējusi ierobežojumus attiecīgās augstas efektivitātes sistēmas izmantošanai."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Ēkas energoefektivitātes novērtēšana",
+      "content": "(1) Ekspluatējamām ēkām neatkarīgs eksperts novērtē aprēķināto un izmērīto energoefektivitāti.\n(2) Projektējamām, pārbūvējamām un atjaunojamām ēkām neatkarīgs eksperts novērtē aprēķināto energoefektivitāti.\n(3) Novērtējot ēkas vai tās daļas energoefektivitāti, ņem vērā:\n1) norobežojošo konstrukciju siltumvadītspēju;\n2) apkures sistēmu un dzesēšanas sistēmu;\n3) karstā ūdens apgādes sistēmu;\n4) gaisa kondicionēšanas sistēmu;\n5) iebūvētās apgaismes sistēmas;\n6) ventilāciju un gaisa caurlaidību;\n7) atrašanās vietu un orientāciju pret debess pusēm;\n8) saules ietekmi;\n9) ārējos klimatiskos apstākļus un iekšējo mikroklimatu;\n10) iekšējās slodzes.\n(4) (Izslēgta ar 08.10.2020 . likumu)\n(5) Ēkas energoefektivitāti novērtē saskaņā ar ēkas energoefektivitātes aprēķina metodi. Ēkas energoefektivitātes aprēķina metodi nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Ēkas energosertifikācija",
+      "content": "(1) Ēkas energosertifikāciju veic:\n1) projektējamai, pārbūvējamai vai atjaunojamai ēkai, lai to pieņemtu ekspluatācijā vai pārdotu;\n2) ēkas daļai projektējamā, pārbūvējamā vai atjaunojamā ēkā, lai pārdotu šo ēkas daļu, ja tai ir paredzēta individuāla energonesēja vai siltumenerģijas uzskaite;\n3) ekspluatējamai ēkai, lai to pārdotu, izīrētu vai iznomātu;\n4) ekspluatējamas ēkas daļai, kuras kopējā telpu platība pārsniedz 50 kvadrātmetrus, lai to pārdotu, izīrētu vai iznomātu, ja šai ēkas daļai ir individuāla energonesēja vai siltumenerģijas uzskaite;\n5) (izslēgts ar 08.10.2020 . likumu) ;\n6) gadījumos, kad ēkas īpašnieks ir pieņēmis lēmumu par ēkas energosertifikāciju;\n7) publiskai ēkai, kuras iekštelpu platība ir lielāka par 250 kvadrātmetriem un kuru izmanto valsts vai pašvaldības iestāde;\n8) valstij vai pašvaldībai piederošai publiskai ēkai, kuras kopējā iekštelpu platība pārsniedz 250 kvadrātmetrus;\n9) dzīvojamai ēkai, izņemot gadījumu, kad visām tās daļām ir individuāla apkures sistēma.\n(2) Ekspluatējamas ēkas energosertifikācija nav jāveic, lai pārdotu, izīrētu vai iznomātu to ēkas daļu, kurai nav individuāla energonesēja vai siltumenerģijas uzskaites.\n(2 1 ) Ekspluatējamas ēkas daļas energosertifikāciju var neveikt, lai šo ēku pārdotu, izīrētu vai iznomātu, ja ir spēkā esošs attiecīgās ēkas energosertifikāts vai pagaidu energosertifikāts.\n(3) Ēku energosertifikācijas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Ēkas energosertifikātā un ēkas pagaidu energosertifikātā iekļaujamās ziņas un energosertifikāta derīguma termiņš",
+      "content": "(1) Ēkas energosertifikātā iekļauj:\n1) ēkas energoefektivitātes novērtējumu aprēķinātajai energoefektivitātei;\n2) ēkas energoefektivitātes novērtējumu izmērītajai energoefektivitātei;\n3) ziņas par ēku un ēkas raksturojumu;\n4) ziņas par ēkas energosertifikāta izdevēju.\n(2) Ēkas pagaidu energosertifikātā iekļauj:\n1) ēkas energoefektivitātes novērtējumu aprēķinātajai energoefektivitātei;\n2) ziņas par ēku un ēkas raksturojumu;\n3) ziņas par ēkas pagaidu energosertifikāta izdevēju.\n(3) Ēkas energosertifikātā vai ēkas pagaidu energosertifikātā iekļauj informāciju par ēkas energoefektivitātes klasi, atsauces rādītājus, pēc kuriem ēkas īpašniekam, īrniekam vai nomniekam būtu iespēja salīdzināt ēkas energoefektivitāti.\n(4) Novērtējot ēkas daļu, šā panta pirmajā vai otrajā daļā minētās ziņas norāda par attiecīgo ēkas daļu.\n(5) Energoefektivitāti uzlabojošus pasākumus izstrādā, ievērojot normatīvajos aktos noteiktās prasības attiecībā uz telpu gaisa kvalitāti un komforta līmeni.\n(6) Ēkas energosertifikātam pievieno pārskatu, norādot tajā ekonomiski pamatotus energoefektivitāti uzlabojošus pasākumus, kuru īstenošanas izmaksas ir rentablas paredzamajā (plānotajā) kalpošanas laikā.\n(7) Ēkas energosertifikāta derīguma termiņš ir 10 gadi, ēkas pagaidu energosertifikāta derīguma termiņš ir trīs gadi. Ēkas energosertifikāts vai ēkas pagaidu energosertifikāts zaudē spēku, ja ēkai vai ēkas daļai tiek izsniegts jauns ēkas energosertifikāts vai jauns ēkas pagaidu energosertifikāts.\n(8) Ēkas energosertifikāta un ēkas pagaidu energosertifikāta paraugu, reģistrācijas kārtību, ēku energoefektivitātes salīdzinošo vērtēšanas sistēmu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "Ēku energoefektivitātes klases",
+      "content": "(1) Ēkas klasificē atbilstoši ēkā nepieciešamās enerģijas daudzumam. Klasifikācija ietver šādus rādītājus:\n1) apkures energoefektivitātes novērtējums;\n2) ēkas primārās enerģijas novērtējums.\n(2) Ēkas atbilstību ēku energoefektivitātes klasei nosaka, veicot ēkas energosertifikāciju.\n(3) Ēku energoefektivitātes klasifikācijas sistēmu, tai skaitā energoefektivitātes un augstas efektivitātes sistēmu, izmantošanas prasības, kā arī prasības gandrīz nulles enerģijas ēkai nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "Paaugstinātas energoefektivitātes klases ēkas",
+      "content": "(Izslēgts ar 08.10.2020 . likumu, kas stājas spēkā 02.11.2020. )"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Apkures un gaisa kondicionēšanas sistēmu pārbaude",
+      "content": "(1) Apkures sistēmas un gaisa kondicionēšanas sistēmas pārbaude tiek veikta:\n1) apkures sistēmai un apkures sistēmai, kas apvienota ar ventilācijas sistēmu, kuru kopējā lietderīgā nominālā jauda ir lielāka par 70 kilovatiem;\n2) gaisa kondicionēšanas sistēmai un gaisa kondicionēšanas sistēmai, kas apvienota ar ventilācijas sistēmu, kuru kopējā lietderīgā nominālā jauda ir lielāka par 70 kilovatiem.\n(2) Veicot šā panta pirmajā daļā minēto pārbaudi, neatkarīgs eksperts sastāda pārbaudes aktu, kurā iekļauj pārbaudes rezultātus un ieteikumus pārbaudītās sistēmas energoefektivitātes uzlabošanai, kā arī norāda energoefektivitātes pasākumu īstenošanas izmaksas un ietaupījumus.\n(3) Apkures sistēmas un gaisa kondicionēšanas sistēmas pārbaudes kārtību un termiņus nosaka Ministru kabinets.\n(4) Šā panta pirmās daļas prasības var nepiemērot, ja ēkas īpašnieks ir noslēdzis energoefektivitātes pakalpojuma līgumu par energoefektivitātes pasākumu veikšanu ēkā atbilstoši Energoefektivitātes likuma prasībām."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Neatkarīgi eksperti",
+      "content": "(1) Ēkas vai tās daļas energoefektivitātes novērtēšanu, ēku energosertifikāciju, apkures sistēmu un gaisa kondicionēšanas sistēmu pārbaudi ir tiesīga veikt persona ar atbilstošu kompetenci — neatkarīgs eksperts.\n(2) Veicot ēkas energosertifikāciju, apkures sistēmas un gaisa kondicionēšanas sistēmas pārbaudi, neatkarīgs eksperts izmanto attiecīgā darba izpildei nepieciešamās metodes un piemērojamos standartus, kā arī veic aprēķiniem nepieciešamo datu kvalitātes kontroli, lai nodrošinātu aprēķinu rezultātu pareizību un novērtējuma objektivitāti un ticamību. Energosertifikācijas un pārbaudes dokumentāciju glabā 10 gadus.\n(3) Neatkarīgs eksperts nepieļauj rīcību, kas pasūtītāja vai citas personas interesēs varētu mazināt iegūto rezultātu pareizību, novērtējuma objektivitāti un ticamību.\n(4) Neatkarīga eksperta kompetences prasības un kompetences apliecināšanas kārtību, neatkarīga eksperta reģistrācijas un uzraudzības kārtību, kā arī neatkarīgu ekspertu reģistra datu saturu un izmantošanas kārtību nosaka Ministru kabinets.\n(5) Neatkarīga eksperta kompetences apliecināšanas pārbaudes un profesionālās darbības uzraudzības uzdevumu deleģē privātpersonai Valsts pārvaldes iekārtas likumā noteiktajā kārtībā. Izpildot deleģēto uzdevumu, privātpersona atrodas Ekonomikas ministrijas padotībā.\n(6) Ministru kabinets apstiprina maksas pakalpojuma cenrādi par neatkarīga eksperta kompetences novērtēšanu un profesionālās darbības uzraudzību, kā arī nosaka samaksas un saņemto līdzekļu izmantošanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Ēkas īpašnieka pienākumi un tiesības",
+      "content": "(1) Ēkas īpašnieks:\n1) šajā likumā noteiktajos gadījumos nodrošina ekspluatējamas ēkas vai tās daļas un projektējamas ēkas energosertifikāciju, kā arī apkures sistēmas un gaisa kondicionēšanas sistēmas pārbaudi;\n2) nodrošina ekspluatējamas ēkas atbilstību minimālajām ēku energoefektivitātes prasībām;\n3) ja publiskai ēkai veikta energosertifikācija, nodrošina, lai energosertifikāts vai ēkas pagaidu energosertifikāts tiktu izvietots attiecīgajā ēkā apmeklētājiem redzamā vietā;\n4) sludinājumā vai reklāmā par ēkas vai tās daļas pārdošanu, izīrēšanu vai iznomāšanu norāda ēkas vai tās daļas energoefektivitātes rādītājus, ja šajā likumā noteiktajā kārtībā ēkai ir veikta energosertifikācija;\n5) ja ēka ir dzīvojamā māja, pievieno dzīvojamās mājas lietai saskaņā ar šo likumu sagatavotos dokumentus (piemēram, ēkas energosertifikātu, atzinumus);\n6) nodrošina nepieciešamos apstākļus un attiecīgu dokumentāciju, ja īrniekam vai nomniekam nepieciešama ēkas vai ēkas daļas energosertifikācija.\n(2) Ēkas īpašnieks normatīvajos aktos noteiktajā kārtībā un apmērā ir tiesīgs saņemt Eiropas Savienības fondu, valsts un pašvaldību līdzfinansējumu ēkas energosertifikācijai, kā arī ēkas energoefektivitātes uzlabošanas pasākumiem.\n(3) Šā panta pirmās daļas 3. punktā minēto pienākumu izpildes uzraudzību un kontroli atbilstoši savai kompetencei veic Būvniecības valsts kontroles birojs. Lēmuma pieņemšana un izpilde attiecībā uz privātpersonu un atvasinātu publisku personu notiek Administratīvā procesa likumā noteiktajā kārtībā.\n(4) Šā panta pirmās daļas 4. punktā un 14. panta pirmajā un otrajā daļā minēto pienākumu izpildes uzraudzību un kontroli veic Patērētāju tiesību aizsardzības centrs, ievērojot reklāmu un patērētāju tiesību aizsardzību regulējošos normatīvos aktus."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Citu personu tiesības un pienākumi",
+      "content": "(1) Ekspluatējamas ēkas vai tās daļas pircējs, īrnieks vai nomnieks vai projektējamas ēkas pircējs ir tiesīgs iepazīties ar ēkas energosertifikātu vai ēkas pagaidu energosertifikātu, ja attiecīgās ekspluatējamās ēkas vai tās daļas vai projektējamās ēkas energosertifikācija ir paredzēta saskaņā ar šā likuma prasībām.\n(2) Ekspluatējamas ēkas vai tās daļas vai projektējamas ēkas pircējs ir tiesīgs iepazīties ar ēkas energosertifikātu vai ēkas pagaidu energosertifikātu un saņemt to pēc ēkas vai tās daļas iegādes, ja attiecīgās ekspluatējamās ēkas vai tās daļas vai projektējamās ēkas energosertifikācija ir paredzēta saskaņā ar šā likuma prasībām un ja attiecīgais dokuments nav pievienots dzīvojamās mājas lietai.\n(3) Valsts pērk vai nomā tikai tādas ēkas, kas atbilst būvniecību regulējošos normatīvajos aktos noteiktajām energoefektivitātes minimālajām prasībām, ko apliecina ēkas energosertifikāts.\n(3 1 ) Šā panta trešajā daļā noteiktās prasības piemēro līgumiem, kuru vērtība ir vienāda ar Eiropas Parlamenta un Padomes 2014. gada 26. februāra direktīvas 2014/24/ES par publisko iepirkumu un ar ko atceļ direktīvu 2004/18/EK 4. pantā noteiktajām robežvērtībām vai lielāka par tām.\n(4) Šā panta trešajā daļā noteiktās prasības var nepiemērot, ja valsts pērk ēku, kura nepieciešama valsts pārvaldes funkciju veikšanai un kuru pirms izmantošanas uzsākšanas paredzēts atjaunot vai pārbūvēt atbilstoši būvniecību regulējošos normatīvajos aktos noteiktajām prasībām vai arī nojaukt.\n(5) Šā panta trešajā daļā noteiktās prasības var nepiemērot, ja pastāv vismaz viens no šādiem nosacījumiem:\n1) ēkas atbilstību šajā likumā un būvniecību regulējošos normatīvajos aktos noteiktajām energoefektivitātes minimālajām prasībām tehniski vai funkcionāli nav iespējams nodrošināt;\n2) starp nekustamo īpašumu tirgotājiem vai iznomātājiem nepastāv pietiekama konkurence;\n3) augstākiem energoefektivitātes kritērijiem atbilstošas ēkas pirkšana vai noma nav ekonomiski izdevīga."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "Par ēku energoefektivitāti atbildīgo institūciju kompetence",
+      "content": "(1) Ēku energoefektivitātes vispārējo pārraudzību un koordināciju veic Ekonomikas ministrija.\n(2) Ekonomikas ministrija:\n1) izstrādā un īsteno ēku energoefektivitātes politiku;\n2) (izslēgts ar 15.06.2017 . likumu) ;\n3) veic pasākumus, lai informētu sabiedrību par dažādām metodēm un praksi, kā arī izstrādā un administrē atbalsta instrumentus, kas kalpo ēku energoefektivitātes palielināšanai;\n4) veic pasākumus, kas veicina ēku atjaunošanu un zema vai gandrīz nulles enerģijas patēriņa ēku būvniecību;\n5) veic pasākumus, lai lietotājiem tiktu sniegti ieteikumi attiecībā uz apkures sistēmu un gaisa kondicionēšanas sistēmu pārbaudi un to efektivitātes uzlabošanu;\n6) veic citus normatīvajos aktos vai politikas plānošanas dokumentos noteiktos ar ēku energoefektivitātes politiku saistītos uzdevumus.\n(3) Ēku energosertifikācijas, apkures sistēmu un gaisa kondicionēšanas sistēmu pārbaudes administrēšanai nepieciešamās informācijas sistēmas uztur Būvniecības valsts kontroles birojs."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē Ēku energoefektivitātes likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2008, 9.nr.; Latvijas Vēstnesis, 2010, 43.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē Ēku energoefektivitātes likums (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2008, 9.nr.; Latvijas Vēstnesis, 2010, 43.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Līdz 2015.gada 9.jūlijam šā likuma 7.panta pirmās daļas 5.punktā noteikto ēku energosertifikāciju veic ekspluatējamām valstij vai pašvaldībai piederošām publiskām ēkām, kuru apkurināmā platība pārsniedz 500 kvadrātmetrus.",
+      "content": "2. Līdz 2015.gada 9.jūlijam šā likuma 7.panta pirmās daļas 5.punktā noteikto ēku energosertifikāciju veic ekspluatējamām valstij vai pašvaldībai piederošām publiskām ēkām, kuru apkurināmā platība pārsniedz 500 kvadrātmetrus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Līdz 2015.gada 31.decembrim šā likuma 7.panta pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro, ja attiecīgo ēkas daļu izīrē vai iznomā.",
+      "content": "3. Līdz 2015.gada 31.decembrim šā likuma 7.panta pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro, ja attiecīgo ēkas daļu izīrē vai iznomā."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Līdz 2015.gada 31.decembrim šā likuma 7.panta pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro attiecīgās ēkas daļai, ja tā ir izīrēta vai iznomāta līdz šā likuma spēkā stāšanās dienai.",
+      "content": "4. Līdz 2015.gada 31.decembrim šā likuma 7.panta pirmās daļas 4.punktā noteikto ēkas daļas energosertifikāciju nepiemēro attiecīgās ēkas daļai, ja tā ir izīrēta vai iznomāta līdz šā likuma spēkā stāšanās dienai."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Ministru kabinets līdz 2013.gada 30.jūnijam izdod šā likuma 6.panta piektajā daļā, 7.panta trešajā daļā, 8.panta septītajā daļā, 9.panta piektajā daļā, 10.panta trešajā daļā, 11.panta trešajā daļā un 12.panta ceturtajā daļā minētos noteikumus.",
+      "content": "5. Ministru kabinets līdz 2013.gada 30.jūnijam izdod šā likuma 6.panta piektajā daļā, 7.panta trešajā daļā, 8.panta septītajā daļā, 9.panta piektajā daļā, 10.panta trešajā daļā, 11.panta trešajā daļā un 12.panta ceturtajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2013.gada 30.jūnijam piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2009.gada 13.janvāra noteikumi Nr.26 \" Noteikumi par energoauditoriem \";\n2) Ministru kabineta 2009.gada 13.janvāra noteikumi Nr.39 \" Ēkas energoefektivitātes aprēķina metode \";\n3) Ministru kabineta 2010.gada 8.jūnija noteikumi Nr.504 \" Noteikumi par ēku energosertifikāciju \"."
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Ēkās, kuras tiek nodotas lietošanā tiešās pārvaldes iestādei, sākot ar 2016.gada 1.aprīli, un kuras neatbilst energoefektivitātes minimālajām prasībām, triju gadu laikā no nomas līguma noslēgšanas dienas ievieš vismaz trīs attiecīgās ēkas energosertifikāta pārskatā norādītos energoefektivitāti uzlabojošos pasākumus, kuru izmaksas ir rentablas paredzamajā (plānotajā) kalpošanas laikā.",
+      "content": "( 10.03.2016 . likuma redakcijā, kas stājas spēkā 05.04.2016. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Ēkām, kuras nodotas lietošanā tiešās pārvaldes iestādei līdz 2016.gada 31.martam, nomas līguma darbības laikā nav piemērojama šā likuma 13.panta pirmās daļas 2.punktā noteiktā prasība.",
+      "content": "( 10.03.2016 . likuma redakcijā, kas stājas spēkā 05.04.2016. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Grozījumi šā likuma 8. panta septītajā daļā attiecībā uz ēku pagaidu energosertifikāta derīguma termiņu stājas spēkā 2017. gada 1. augustā. Pirms 2017. gada 1. augusta izsniegto ēkas pagaidu energosertifikātu derīguma termiņš ir trīs gadi, ja ēkas pagaidu energosertifikāts nav zaudējis spēku.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 06.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. Šā likuma 12. panta piektā un sestā daļa stājas spēkā 2018. gada 1. janvārī.",
+      "content": "( 15.06.2017 . likuma redakcijā, kas stājas spēkā 06.07.2017. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "section": "pn11",
+      "title": "11. Šā likuma 7. panta pirmās daļas 9. punktā minēto ēku energosertifikāciju veic:",
+      "content": "1) līdz 2040. gada 31. decembrim, ja ēka ir daudzdzīvokļu ēka;\n2) līdz 2050. gada 31. decembrim, ja ēka ir viendzīvokļa ēka."
+    },
+    {
+      "provision_ref": "PN 12",
+      "section": "pn12",
+      "title": "12. Ministru kabinets līdz 2021. gada 31. martam izdod šā likuma 4. panta otrajā daļā, 9. panta trešajā daļā un 11. panta trešajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 31. martam ir piemērojami Ministru kabineta 2013. gada 25. jūnija noteikumi Nr. 348 \" Ēkas energoefektivitātes aprēķina metode \" un 2013. gada 9. jūlija noteikumi Nr. 383 \" Noteikumi par ēku energosertifikāciju \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "1) Eiropas Parlamenta un Padomes 2010.gada 19.maija direktīvas 2010/31/ES par ēku energoefektivitāti;\n2) Eiropas Parlamenta un Padomes 2012.gada 25.oktobra direktīvas 2012/27/ES par energoefektivitāti, ar ko groza direktīvas 2009/125/EK un 2010/30/ES un atceļ direktīvas 2004/8/EK un 2006/32/EK , prasībām attiecībā uz valsts veiktajiem ēku iepirkumiem;\n3) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/844 , ar ko groza direktīvu 2010/31/ES par ēku energoefektivitāti un direktīvu 2012/27/ES par energoefektivitāti."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ēkas energoefektivitāte",
+      "definition": "relatīvs enerģijas daudzums, kas raksturo konkrētās ēkas apkurei, ventilācijai, dzesēšanai, apgaismojumam un karstā ūdens apgādei nepieciešamās enerģijas patēriņu ēkas tipam raksturīgos ekspluatācijas apstākļos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ēkas energosertifikācija",
+      "definition": "process, kurā nosaka ekspluatējamas ēkas vai tās daļas energoefektivitāti un izsniedz ēkas energosertifikātu vai nosaka projektējamas, pārbūvējamas vai atjaunojamas ēkas vai tās daļas plānoto energoefektivitāti un izsniedz ēkas pagaidu energosertifikātu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ēkas inženiertehniskā sistēma",
+      "definition": "tehniskā aprīkojuma un inženiertīklu kopums, kas atsevišķi vai kopējā sistēmā nodrošina ēkas vai ēkas daļas apkuri, ventilāciju, dzesēšanu, apgaismojumu, karstā ūdens apgādi, ēkas automatizāciju un vadību, elektroenerģijas ražošanu un apgādi objektā vai šādu sistēmu kombināciju, ieskaitot tās sistēmas, kurās izmanto atjaunojamo energoresursu enerģiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "gaisa kondicionēšanas sistēma",
+      "definition": "tādu sastāvdaļu kombinācija, kuras nodrošina telpu mikroklimata uzturēšanu, tostarp kontrolējot vai samazinot temperatūru",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "neatkarīgs eksperts",
+      "definition": "persona, kura ir tiesīga novērtēt ēkas, tās elementu un inženiertehnisko sistēmu energoefektivitāti, veikt energosertifikāciju un pārbaudīt apkures sistēmas un gaisa kondicionēšanas sistēmas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "lietderīgā nominālā jauda",
+      "definition": "ražotāja noteiktā un garantētā maksimālā siltuma vai aukstuma atdeve kilovatos, ko var piegādāt nepārtrauktas darbības laikā, ievērojot ražotāja norādīto lietderīgo efektivitāti.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

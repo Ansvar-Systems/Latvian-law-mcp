@@ -1,0 +1,223 @@
+{
+  "id": "lv-law-173237",
+  "type": "statute",
+  "title": "Ēku energoefektivitātes likums",
+  "short_name": "TA-173237",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/173237-eku-energoefektivitates-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) apkures katls - iekārta, kura, sadedzinot kurināmo, saražo enerģiju un nodod to siltumnesējam, kas nodrošina ēku ar siltumenerģiju;\n2) energoaudits - ēkas apsekošanas un datu analīzes procedūra, kas tiek veikta, lai noteiktu enerģijas plūsmu ēkā un izvērtētu enerģijas taupīšanas iespējas;\n3) ēka - būve vai būves daļa (būves daļa projektēta tā, lai to varētu lietot neatkarīgi no pārējās ēkas) ar ārējām norobežojošām konstrukcijām, kurā enerģiju izmanto iekštelpu mikroklimata regulēšanai;\n4) ēkas energoefektivitāte - relatīvs enerģijas daudzums, kas raksturo konkrētās ēkas apkurei, ventilācijai, dzesēšanai, apgaismojumam un karstā ūdens apgādei nepieciešamās enerģijas patēriņu;\n5) ēkas energosertifikāts - dokuments, kurā norādīta ēkas energoefektivitāte;\n6) ēkas energosertifikācija - process, kurā nosaka ēkas energoefektivitāti un izsniedz ēkas energosertifikātu;\n7) jaunbūve - no jauna atbilstoši būvprojektam būvējama ēka."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "(1) Likuma mērķis ir veicināt energoresursu racionālu izmantošanu un uzlabot ēku energoefektivitāti.",
+      "content": "(2) Likums nosaka valsts un pašvaldību institūciju kompetenci ēku energoefektivitātes jomā, kā arī ēku energosertifikācijas tiesisko un organizatorisko pamatu."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Šā likuma prasības attiecas uz ēkām un jaunbūvēm, izņemot ēkas:",
+      "content": "1) kuras ir kultūras pieminekļi vai kurās atrodas kultūras pieminekļi, ja likuma prasību izpilde apdraud šo kultūras pieminekļu saglabāšanu vai pazemina to kultūrvēsturisko vērtību;\n2) ko izmanto dievkalpojumiem un citām reliģiskām darbībām;\n3) kurās nav paredzēta vai nav ierīkota apkures sistēma;\n4) kuru kopējā apkurināmā platība ir mazāka par 50 kvadrātmetriem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Valsts un pašvaldību institūciju kompetence ēku energoefektivitātes jomā",
+      "section": "4",
+      "title": "(1) Ēku energoefektivitātes jomas vispārējo pārraudzību un koordināciju valstī veic Ekonomikas ministrija.",
+      "content": "(2) Ekonomikas ministrija izstrādā un īsteno ēku energoefektivitātes politiku, kā arī veic pasākumus, lai lietotājiem tiktu sniegti ieteikumi attiecībā uz apkures katlu un gaisa kondicionēšanas iekārtu pārbaudi un efektivitātes uzlabošanu.\n(3) (Izslēgta ar 04.03.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Valsts un pašvaldību institūciju kompetence ēku energoefektivitātes jomā",
+      "section": "5",
+      "title": "(1) Valsts vai pašvaldība normatīvajos aktos noteiktajā kārtībā un apjomā var sniegt palīdzību energoaudita veikšanai, kā arī ēku renovācijai vai rekonstrukcijai saskaņā ar energoaudita atzinumu, ievērojot efektīvāko ieguldījumu atmaksāšanās principu, ilgtspējības, maksimāla enerģijas ietaupījuma un videi draudzīgu tehnoloģiju izmantošanas principus.",
+      "content": "(2) Valsts vai pašvaldība palīdzību dzīvojamo māju energoefektivitātes pasākumu veikšanā sniedz likumā \"Par palīdzību dzīvokļa jautājumu risināšanā\" noteiktajos gadījumos un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III nodaļa Energoefektivitātes prasības ēkām",
+      "section": "6",
+      "title": "Ēku energoefektivitāti nosaka, ņemot vērā attiecīgās ēkas:",
+      "content": "1) norobežojošo konstrukciju siltumvadītspēju;\n2) apkures sistēmu;\n3) karstā ūdens apgādi;\n4) gaisa kondicionēšanas sistēmas;\n5) ventilāciju;\n6) iebūvētās apgaismes sistēmas;\n7) novietojumu,\n8) kā arī ārējos klimatiskos apstākļus un iekšējo mikroklimatu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa Energoefektivitātes prasības ēkām",
+      "section": "7",
+      "title": "Projektējot ēkas, kuru kopējā platība ir lielāka par 1000 kvadrātmetriem, ņem vērā tehniskos, vides un ekonomiskos apsvērumus, kā arī pašvaldības saistošos noteikumus un citus normatīvos aktus, lai izvērtētu iespēju kā alternatīvu risinājumu šajās ēkās lietot sistēmas, kurās izmanto atjaunojamus energoresursus, piemēram, decentralizētas energoapgādes sistēmas, koģenerācijas sistēmas, lokālās apkures un dzesēšanas sistēmas vai siltumsūkņus.",
+      "content": "7.pants. Projektējot ēkas, kuru kopējā platība ir lielāka par 1000 kvadrātmetriem, ņem vērā tehniskos, vides un ekonomiskos apsvērumus, kā arī pašvaldības saistošos noteikumus un citus normatīvos aktus, lai izvērtētu iespēju kā alternatīvu risinājumu šajās ēkās lietot sistēmas, kurās izmanto atjaunojamus energoresursus, piemēram, decentralizētas energoapgādes sistēmas, koģenerācijas sistēmas, lokālās apkures un dzesēšanas sistēmas vai siltumsūkņus."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Energoefektivitātes prasības ēkām",
+      "section": "8",
+      "title": "Rekonstruējamām ēkām, kuru kopējā platība ir lielāka par 1000 kvadrātmetriem un kuru kopējās rekonstrukcijas izmaksas pārsniedz 25 procentus no attiecīgo ēku kadastrālās vērtības vai kuru rekonstrukcijas darbi skar 25 procentus no šādu ēku būvapjoma, kā arī jaunbūvēm energoefektivitātes minimālās prasības nosaka Ministru kabinets.",
+      "content": "8.pants. Rekonstruējamām ēkām, kuru kopējā platība ir lielāka par 1000 kvadrātmetriem un kuru kopējās rekonstrukcijas izmaksas pārsniedz 25 procentus no attiecīgo ēku kadastrālās vērtības vai kuru rekonstrukcijas darbi skar 25 procentus no šādu ēku būvapjoma, kā arī jaunbūvēm energoefektivitātes minimālās prasības nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "9",
+      "title": "(1) Novērtējot ēku energoefektivitāti, ēkas klasificē šādi:",
+      "content": "1) dažāda tipa viendzīvokļa ēkas;\n2) daudzdzīvokļu ēkas;\n3) biroju ēkas;\n4) izglītības iestāžu ēkas;\n5) ambulatoro vai stacionāro ārstniecības iestāžu ēkas;\n6) viesnīcu un restorānu ēkas;\n7) sporta iestāžu ēkas;\n8) ēkas, kurās tiek sniegti vairumtirdzniecības vai mazumtirdzniecības pakalpojumi;\n9) citu tipu ēkas, kurās tiek patērēta enerģija.\n(2) Ēku energoefektivitātes aprēķina metodi nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "10",
+      "title": "(1) Ēkas energosertifikātu izsniedz energoauditors.",
+      "content": "(2) Kārtību, kādā veicama ēku energosertifikācija, kā arī attiecīgās ēkas energosertifikāta veidu, paraugu, saturu, izsniegšanas un reģistrācijas kārtību nosaka Ministru kabinets.\n(3) Ēkas energosertifikātā tiek ietverti rādītāji, pēc kuriem patērētāji var salīdzināt un novērtēt ēkas energoefektivitāti. Sertifikātam pievieno ieteikumus, kuros novērtēta energoefektivitāti uzlabojošu pasākumu rentabilitāte."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "11",
+      "title": "(1) Energoefektivitātes rādītājus jaunbūvēm un rekonstruējamām ēkām norāda būvprojektā būvniecības normatīvajos aktos noteiktajā kārtībā.",
+      "content": "(2) Jaunbūvēm un rekonstruējamām ēkām saskaņā ar projektā ietvertajiem energoefektivitātes aprēķiniem projektētājs izdod ēkas pagaidu energosertifikātu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "12",
+      "title": "(1) Ēkas energosertifikāts vai pagaidu energosertifikāts nepieciešams, attiecīgo ēku pārdodot, izīrējot vai iznomājot.",
+      "content": "(2) Ēkām, kas nodotas ekspluatācijā līdz 2008.gada 31.decembrim, šā panta pirmās daļas prasības nepiemēro, ja puses par to vienojušās."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "13",
+      "title": "Ēkas energosertifikāta derīguma termiņš ir 10 gadu, ēkas pagaidu energosertifikāta derīguma termiņš ir divi gadi.",
+      "content": "13.pants. Ēkas energosertifikāta derīguma termiņš ir 10 gadu, ēkas pagaidu energosertifikāta derīguma termiņš ir divi gadi."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "14",
+      "title": "Ja ēkā, kuras kopējā platība ir lielāka par 1000 kvadrātmetriem, atrodas valsts vai pašvaldības institūcija vai sabiedrisko pakalpojumu sniedzējs, šīs ēkas energosertifikātu novieto tās apmeklētājiem redzamā vietā.",
+      "content": "14.pants. Ja ēkā, kuras kopējā platība ir lielāka par 1000 kvadrātmetriem, atrodas valsts vai pašvaldības institūcija vai sabiedrisko pakalpojumu sniedzējs, šīs ēkas energosertifikātu novieto tās apmeklētājiem redzamā vietā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Ēku energosertifikācijas vispārīgās prasības",
+      "section": "15",
+      "title": "Kārtību, kādā tiek pārraudzīta ēku energosertifikācija, kā arī apkopota, aktualizēta un izmantota informācija par izsniegtajiem ēku energosertifikātiem, nosaka Ministru kabinets.",
+      "content": "( 04.03.2010 . likuma redakcijā, kas stājas spēkā 18.03.2010. )"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Apkures katlu, centralizētas siltumapgādes sistēmu un gaisa kondicionēšanas sistēmu pārbaude",
+      "section": "16",
+      "title": "Veicot ēkas energosertifikāciju, energoauditors papildus novērtē efektivitātes un jaudas samērojamību apkures katliem, kuru nominālā jauda ir lielāka par 20 kilovatiem, un gaisa kondicionēšanas sistēmām, kuru nominālā jauda ir lielāka par 12 kilovatiem.",
+      "content": "16.pants. Veicot ēkas energosertifikāciju, energoauditors papildus novērtē efektivitātes un jaudas samērojamību apkures katliem, kuru nominālā jauda ir lielāka par 20 kilovatiem, un gaisa kondicionēšanas sistēmām, kuru nominālā jauda ir lielāka par 12 kilovatiem."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Apkures katlu, centralizētas siltumapgādes sistēmu un gaisa kondicionēšanas sistēmu pārbaude",
+      "section": "17",
+      "title": "Ja ēkas apkures katla nominālā jauda ir lielāka par 20 kilovatiem vai apkures sistēma ir vecāka par 15 gadiem, energoauditors novērtē apkures katlu kopā ar apkures sistēmu, sniedz atzinumu par apkures katla efektivitāti un dod ieteikumus par tā nomaiņu vai citām iespējamām attiecīgās ēkas apkures sistēmas izmaiņām un alternatīviem risinājumiem, lai samazinātu enerģijas patēriņu un oglekļa dioksīda izmešu daudzumu.",
+      "content": "17.pants. Ja ēkas apkures katla nominālā jauda ir lielāka par 20 kilovatiem vai apkures sistēma ir vecāka par 15 gadiem, energoauditors novērtē apkures katlu kopā ar apkures sistēmu, sniedz atzinumu par apkures katla efektivitāti un dod ieteikumus par tā nomaiņu vai citām iespējamām attiecīgās ēkas apkures sistēmas izmaiņām un alternatīviem risinājumiem, lai samazinātu enerģijas patēriņu un oglekļa dioksīda izmešu daudzumu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Apkures katlu, centralizētas siltumapgādes sistēmu un gaisa kondicionēšanas sistēmu pārbaude",
+      "section": "18",
+      "title": "Energoefektivitātes prasības licencēta energoapgādes komersanta valdījumā esošām centralizētām siltumapgādes sistēmām un to atbilstības pārbaudes kārtību nosaka Ministru kabinets.",
+      "content": "18.pants. Energoefektivitātes prasības licencēta energoapgādes komersanta valdījumā esošām centralizētām siltumapgādes sistēmām un to atbilstības pārbaudes kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Apkures katlu, centralizētas siltumapgādes sistēmu un gaisa kondicionēšanas sistēmu pārbaude",
+      "section": "19",
+      "title": "Pārbaudes kārtību apkures katliem, kuru nominālā jauda ir lielāka par 20 kilovatiem, un gaisa kondicionēšanas sistēmām, kuru nominālā jauda ir lielāka par 12 kilovatiem, nosaka Ministru kabinets.",
+      "content": "19.pants. Pārbaudes kārtību apkures katliem, kuru nominālā jauda ir lielāka par 20 kilovatiem, un gaisa kondicionēšanas sistēmām, kuru nominālā jauda ir lielāka par 12 kilovatiem, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VI nodaļa Energoauditors",
+      "section": "20",
+      "title": "(1) Tiesības veikt energoauditu ir fiziskajai personai, kura saņēmusi tās kompetenci ēku energoefektivitātes jomā apliecinošu sertifikātu.",
+      "content": "(2) Energoauditoriem izvirzāmās prasības un viņu atbildību, kā arī sertifikācijas un uzraudzības kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Energoauditors",
+      "section": "21",
+      "title": "Energoauditora galvenie pienākumi, veicot energoauditu, ir šādi:",
+      "content": "1) apsekot ēku un novērtēt šīs ēkas, kā arī tās apkures katlu un gaisa kondicio­nēšanas sistēmas energoefektivitāti;\n2) apkopot un analizēt datus par ēkas norobežojošo konstrukciju siltumvadītspēju, apkures sistēmu, karstā ūdens apgādi, gaisa kondicionēšanas sistēmu, ventilāciju, iebūvēto apgaismes sistēmu, ēkas novietojumu, ārējiem klimatiskajiem apstākļiem un iekšējo mikroklimatu;\n3) izvērtēt piegādātās enerģijas daudzumu un ēkas energoefektivitāti, lai noteiktu tās atbilstību prasībām, kas minētas normatīvajos aktos energoefektivitātes jomā;\n4) sagatavot atzinumu par apkures katla nomaiņu vai citām iespējamām attiecīgās ēkas apkures sistēmas izmaiņām un alternatīviem risinājumiem, ja apkures katla nominālā jauda ir lielāka par 20 kilovatiem vai apkures sistēma ir vecāka par 15 gadiem;\n5) sagatavot atzinumu par ēkā konstatētajām tehniskajām nepilnībām un sniegt priekšlikumus par enerģijas taupīšanu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Energoauditors",
+      "section": "22",
+      "title": "Energoauditors, novērtējot ēku, kā arī apkures katlu un gaisa kondicionēšanas sistēmu energoefektivitāti, savā profesionālajā darbībā ir neatkarīgs un ievēro profesionālās ētikas principus.",
+      "content": "22.pants. Energoauditors, novērtējot ēku, kā arī apkures katlu un gaisa kondicionēšanas sistēmu energoefektivitāti, savā profesionālajā darbībā ir neatkarīgs un ievēro profesionālās ētikas principus."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Energoauditors",
+      "section": "pn1",
+      "title": "1. Šā likuma 12.pants stājas spēkā 2009.gada 1.janvārī.",
+      "content": "1. Šā likuma 12.pants stājas spēkā 2009.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Energoauditors",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2008.gada 1.jūlijam izdod šā likuma 8.pantā , 9.panta otrajā daļā, 10.panta otrajā daļā, 15. , 18. , 19.pantā un 20.panta otrajā daļā minētos noteikumus.",
+      "content": "2. Ministru kabinets līdz 2008.gada 1.jūlijam izdod šā likuma 8.pantā , 9.panta otrajā daļā, 10.panta otrajā daļā, 15. , 18. , 19.pantā un 20.panta otrajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Energoauditors",
+      "section": "pn3",
+      "title": "3. Šā likuma 8.panta un 11.panta otrās daļas prasības neattiecas uz ekspluatācijā nododamajām ēkām, kuru būvprojekts akceptēts būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā līdz 2008.gada 31.decembrim, kā arī uz ēkām, kuru būvprojekts līdz 2008.gada 31.decembrim iesniegts saskaņošanai.",
+      "content": "3. Šā likuma 8.panta un 11.panta otrās daļas prasības neattiecas uz ekspluatācijā nododamajām ēkām, kuru būvprojekts akceptēts būvniecību regulējošos normatīvajos aktos noteiktajā kārtībā līdz 2008.gada 31.decembrim, kā arī uz ēkām, kuru būvprojekts līdz 2008.gada 31.decembrim iesniegts saskaņošanai.\nLikumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2002.gada 16.decembra direktīvas 2002/91/EK par ēku energoefektivitāti."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apkures katls",
+      "definition": "iekārta, kura, sadedzinot kurināmo, saražo enerģiju un nodod to siltumnesējam, kas nodrošina ēku ar siltumenerģiju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "energoaudits",
+      "definition": "ēkas apsekošanas un datu analīzes procedūra, kas tiek veikta, lai noteiktu enerģijas plūsmu ēkā un izvērtētu enerģijas taupīšanas iespējas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ēka",
+      "definition": "būve vai būves daļa (būves daļa projektēta tā, lai to varētu lietot neatkarīgi no pārējās ēkas) ar ārējām norobežojošām konstrukcijām, kurā enerģiju izmanto iekštelpu mikroklimata regulēšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ēkas energoefektivitāte",
+      "definition": "relatīvs enerģijas daudzums, kas raksturo konkrētās ēkas apkurei, ventilācijai, dzesēšanai, apgaismojumam un karstā ūdens apgādei nepieciešamās enerģijas patēriņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ēkas energosertifikāts",
+      "definition": "dokuments, kurā norādīta ēkas energoefektivitāte",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ēkas energosertifikācija",
+      "definition": "process, kurā nosaka ēkas energoefektivitāti un izsniedz ēkas energosertifikātu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jaunbūve",
+      "definition": "no jauna atbilstoši būvprojektam būvējama ēka.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

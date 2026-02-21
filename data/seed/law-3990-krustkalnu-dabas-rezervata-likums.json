@@ -1,0 +1,60 @@
+{
+  "id": "lv-law-3990",
+  "type": "statute",
+  "title": "Krustkalnu dabas rezervāta likums",
+  "short_name": "TA-3990",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/3990-krustkalnu-dabas-rezervata-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "1.pants",
+      "content": "Krustkalnu dabas rezervāts (turpmāk - rezervāts) ir valsts nozīmes īpaši aizsargājama dabas teritorija."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "2.pants",
+      "content": "Rezervāts izveidots, lai saglabātu dabiskā stāvoklī reģionam raksturīgo mežu un ūdeņu ekosistēmu kompleksu, reto augu sugu ģenētisko un bioloģisko daudzveidību, kā arī ainaviskās un kultūrvēsturiskās vērtības."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "3.pants",
+      "content": "Rezervāta kopējā platība ir 2915 hektāri, un tā robežas noteiktas saskaņā ar Krustkalnu dabas rezervāta shēmu ( 1.pielikums ) un Krustkalnu dabas rezervāta robežu aprakstu ( 2.pielikums )."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "4.pants",
+      "content": "Lai nodrošinātu rezervāta ekosistēmu, ainavu un sugu daudzveidības saglabāšanu, kā arī ekosistēmu dabisku attīstību, rezervāta teritorijā tiek noteiktas šādas funkcionālās zonas ( 1. un 2.pielikums ):\n1) stingrā režīma zona;\n2) regulējamā režīma zona."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "5.pants",
+      "content": "(1) Stingrā režīma zona izveidota, lai nodrošinātu mežu ekosistēmu dabisku attīstību. Šajā zonā nav pieļaujama nekāda saimnieciskā darbība, un to drīkst apmeklēt tikai ar Teiču dabas rezervāta administrācijas atļauju izpētes un aizsardzības nolūkos.\n(2) Regulējamā režīma zona izveidota, lai nodrošinātu sugu un biotopu daudzveidību rezervātā, mežu un mitrzemju ekosistēmu dabisku attīstību, pastāvot minimālai antropogēnajai slodzei, kā arī lai pētītu ekosistēmu attīstību un to elementus.\n(3) Regulējamā režīma zonā aizliegts:\n1) uzturēties bez rezervāta administrācijas izsniegtas atļaujas; izņēmums ir personas, kuras dzīvo rezervāta teritorijā;\n2) lietot jebkādus ķīmiskos augu aizsardzības līdzekļus;\n3) veikt mežsaimniecisko darbību, izņemot ainavu veidošanas cirti un cirtes aizsargājamo sugu un biotopu saglabāšanai.\n(4) Jebkāda saimnieciskā darbība, kas var ietekmēt rezervāta ekosistēmu dabisko attīstību, augu un dzīvnieku sugu populācijas, saskaņojama ar Teiču valsts rezervāta administrāciju."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "6.pants",
+      "content": "Rezervātu pārvalda un apsaimnieko Vides aizsardzības un reģionālās attīstības ministrijas pakļautībā esoša valsts civiliestāde - Teiču dabas rezervāta administrācija."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "7.pants",
+      "content": "Dabas aizsardzības intereses un saimniecisko darbību rezervātā un tā apkārtnē saskaņo Teiču dabas rezervāta konsultatīvā padome."
+    },
+    {
+      "provision_ref": "PN 81",
+      "section": "pn81",
+      "title": "Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.424 \" Noteikumi par Krustkalnu dabas rezervātu \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 2.nr.).",
+      "content": "Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.424 \" Noteikumi par Krustkalnu dabas rezervātu \" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 2000, 2.nr.)."
+    }
+  ],
+  "definitions": []
+}

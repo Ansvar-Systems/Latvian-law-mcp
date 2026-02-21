@@ -1,0 +1,789 @@
+{
+  "id": "lv-law-64900",
+  "type": "statute",
+  "title": "Par akciju sabiedrībām",
+  "short_name": "TA-64900",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/64900-par-akciju-sabiedribam",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "Likumdošana par akciju sabiedrībām",
+      "content": "Attiecības, kas saistītas ar akciju sabiedrību dibināšanu, to darbību, reorganizēšanu un likvidēšanu, regulē Latvijas Republikas civilkodekss, likums \"Par uzņēmējdarbību\", šis likums un citi saskaņā ar tiem izdotie normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "Akciju sabiedrība",
+      "content": "1. Akciju sabiedrība ir uzņēmējsabiedrība (statūtsabiedrība) ar juridiskas personas tiesībām, kuras pamatkapitāls (statūtu fonds) sastāv no akciju noteiktās nominālvērtības kopsummas.\n2. Akciju sabiedrība neatkarīgi no tās izveidošanas mērķiem saskaņā ar Latvijas Republikas likumu «Par uzņēmējdarbību» ir uzņēmējs."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "3",
+      "title": "Akciju sabiedrības akcionāri un dibinātāji",
+      "content": "1. Akciju sabiedrības akcionāri ir akciju sabiedrības dalībnieki — juridiskās vai fiziskās personas, kas šajā likumā noteiktajā kārtībā iegādājušās akciju sabiedrības akcijas.\n2. Par akciju sabiedrības dibinātājiem uzskatāmi akcionāri, kas parakstījuši akciju sabiedrības statūtus un iegādājušies vismaz vienu sabiedrības akciju."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "4",
+      "title": "Akciju sabiedrības, akcionāru un valsts atbildības norobežošana",
+      "content": "1. Akciju sabiedrība atbild par savām saistībām ar tai piederošo mantu, uz kuru saskaņā ar Latvijas Republikas likumiem var vērst piedziņu.\n2. Valsts neatbild par akciju sabiedrības saistībām, bet akciju sabiedrība neatbild par valsts saistībām.\n3. Akcionāri atbild par akciju sabiedrības saistībām tikai ar ieguldījumiem akciju sabiedrības pamatkapitālā, bet neatbild ar savu mantu. Akciju sabiedrība neatbild par savu akcionāru saistībām."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "5",
+      "title": "Akciju sabiedrības tiesībspēja",
+      "content": "1. Akciju sabiedrības dibinātāju civilā tiesībspēja rodas ar brīdi, kad tiek parakstīts līgums par akciju sabiedrības dibināšanu.\n2. Akciju sabiedrības dibinātāju neierobežotā solidārā civiltiesiskā atbildība iestājas ar brīdi, kad tiek parakstīts līgums par akciju sabiedrības dibināšanu.\n3. Akciju sabiedrība uzskatāma par nodibinātu un iegūst juridiskās personas tiesībspēju ar brīdi, kad tā tiek reģistrēta Latvijas Republikas Uzņēmumu reģistrā; ar šo brīdi akciju sabiedrība iegūst tiesības nodarboties ar komercdarbību.\n4. Akciju sabiedrība var savā vārdā iegūt mantiskas un personiskas nemantiskas tiesības un uzņemties pienākumus. Akciju sabiedrība var būt prasītāja un atbildētāja tiesā, arbitrāžā vai šķīrējtiesā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "6",
+      "title": "Akciju sabiedrības nosaukums (firma)",
+      "content": "1. Akciju sabiedrības nosaukumā (firmā) jābūt vārdiem «akciju sabiedrība» (vai tās saīsinājumam — «A/s»); var būt arī norādījums uz sabiedrības darbības priekšmetu.\nAkciju sabiedrības nosaukums (firma) jāveido latviešu valodā, atbilstoši latviešu valodas gramatikas prasībām. Izņēmums ir to ārvalstu akciju sabiedrību un jaukta kapitāla akciju sabiedrību nosaukumi, kurās ārvalstu kapitāls pārsniedz 40 procentus no pamatkapitāla (statūtu fonda).\n2. Akciju sabiedrībai, kura uztur ārējos sakarus vai darbojas arī ārpus Latvijas, nosaukuma (firmas) apzīmējums var būt arī svešvalodā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "7",
+      "title": "Akciju sabiedrības statūti",
+      "content": "Akciju sabiedrības uzdevumus, tiesībspēju, struktūru, pārvaldi, mantas iegūšanas kārtību un tās sastāvu, vērtspapīru izlaides kārtību, sabiedrības rašanās un darbības izbeigšanas kārtību, akcionāru savstarpējās attiecības un citus jautājumus nosaka akciju sabiedrības statūti ( 16. pants )."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Pirmā nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "8",
+      "title": "Akciju sabiedrības vērtspapīri",
+      "content": "1. Akciju sabiedrības vērtspapīri ir akcijas un obligācijas.\n2. Akcija ir vērtspapīrs, kas apstiprina akcionāra — akciju īpašnieka līdzdalību akciju sabiedrības pamatkapitālā un dod viņam tiesības piedalīties sabiedrības pārvaldē un saņemt akciju sabiedrības pelņas daļu — dividendi. Akcija nodrošina visiem akcionāriem vienādas tiesības, izņemot gadījumus, kad šajā likumā vai akciju sabiedrības statūtos noteikts citādi.\n3. Obligācija ir vērtspapīrs, kas apliecina obligācijas īpašnieka — obligacionāra līdzdalību sabiedrībā un dod viņam tiesības saņemt garantētu ienākumu no akciju sabiedrības iepriekš fiksētas procentu likmes apjomā, bet nedod tiesības piedalīties sabiedrības pārvaldē."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "9",
+      "title": "Akciju sabiedrību dibināšanas veidi",
+      "content": "1. Akciju sabiedrības dibina:\n1) pārveidojot pastāvošus uzņēmumus par akciju sabiedrībām;\n2) nodibinot akciju sabiedrību kā jaunu uzņēmumu.\n2. Dibinot akciju sabiedrību no jauna, tās dibinātāji var:\n1) sadalīt visas pirmā laidiena akcijas savā starpā un veidot slēgtu akciju sabiedrību;\n2) pieaicināt par akcionāriem citas fiziskās un juridiskās personas, izsludinot parakstīšanos uz pirmā laidiena akcijām, kuras savā starpā nesadala dibinātāji, un veidot atklātu akciju sabiedrību."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "10",
+      "title": "Akciju sabiedrības dibinātāji",
+      "content": "1. Par akciju sabiedrības dibinātājiem var būt:\n1) Latvijas Republikas pilsoņi, pastāvīgie iedzīvotāji, kas Latvijas Republikas teritorijā nodzīvojuši ne mazāk kā 25 gadus, un Latvijas Republikā reģistrētās juridiskās personas;\n2) ārvalstu pilsoņi un ārvalstīs reģistrētās juridiskās personas (ievērojot 35. panta noteikumus);\n3) starptautiskās organizācijas.\n2. Dibinātāju skaits nedrīkst būt mazāks par trim, izņemot gadījumus, kad tiek dibināta viena akcionāra sabiedrība; tad vienīgais akcionārs var būt tikai valsts."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "11",
+      "title": "Akciju sabiedrības dibināšanas dokumenti",
+      "content": "1. Akciju sabiedrības dibināšanas dokumenti ir statūti, līgums par akciju sabiedrības dibināšanu, sabiedrības prospekts, dibinātāju ziņojums, dibinātāju vienošanās, pārbaudes ziņojums, pārbaudes akts, akciju parakstītāju saraksts, dibināšanas sapulces protokols, pieteikums Latvijas Republikas Uzņēmumu reģistram.\n2. Līgums par akciju sabiedrības dibināšanu jāizstrādā un jāslēdz saskaņā ar šā likuma 14. panta prasībām.\n3. Sabiedrības statūti jāizstrādā saskaņā ar šā likuma 16. panta prasībām.\n4. Sabiedrības prospektu sastāda, ja dibina atklātu akciju sabiedrību, un tam jāatbilst šā likuma 17. panta prasībām.\n5. Akciju parakstītāju sarakstu sastāda saskaņā ar šā likuma 18. panta prasībām.\n6. Dibinātāju ziņojums jāsastāda, ja par akcijām maksā, ieguldot sabiedrībā mantu vai intelektuālo īpašumu, un tam jāatbilst šā likuma 21. panta prasībām.\n7. Dibinātāju vienošanos sastāda saskaņā ar šā likuma 24. panta prasībām.\n8. Pārbaudes ziņojumu sastāda pēc tam, kad ir veikta sabiedrības dibināšanas darbības pārbaude, un tam jāatbilst šā likuma 25. panta prasībām.\n9. Pārbaudes aktu sastāda šā likuma 25. panta 5. punktā minētajos gadījumos.\n10. Dibināšanas sapulces protokolam jāatbilst šā likuma 30. panta prasībām.\n11. Pieteikums Latvijas Republikas Uzņēmumu reģistram jāsastāda saskaņā ar prasībām, kas noteiktas likumā «Par uzņēmumu reģistru»."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "12",
+      "title": "Akciju sabiedrības dibināšanas kārtība",
+      "content": "Dibinot akciju sabiedrību, dibinātājiem šajā likumā noteiktajā secībā jāveic darbības, kas paredzētas četros akciju sabiedrības dibināšanas posmos. Katrā posmā veiktā darba rezultātus noformē ar protokolu, kuru pievieno līgumam par akciju sabiedrības dibināšanu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "13",
+      "title": "Pirmais akciju sabiedrības dibināšanas posms",
+      "content": "Pirmajā akciju sabiedrības dibināšanas posmā dibinātāji;\n1) nosaka akciju sabiedrības dibināšanai nepieciešamo dokumentu izstrādāšanas kārtību un termiņus;\n2) izstrādā un paraksta līgumu par akciju sabiedrības dibināšanu;\n3) ievēlē dibinātāju pilnvarotos pārstāvjus un apstiprina naturālo (mantas) iemaksu revidentu;\n4) izlemj ar akciju sabiedrības dibināšanu saistīto izdevumu finansēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "14",
+      "title": "Līgums par akciju sabiedrības dibināšanu",
+      "content": "1. Akciju sabiedrības dibinātāji noslēdz savā starpā līgumu par akciju sabiedrības dibināšanu, kurš ir spēkā līdz tam brīdim, kad dibināšanas sapulce pieņem lēmumu par to, ka akciju sabiedrība uzskatāma par nodibinātu (ja pašā līgumā par akciju sabiedrības dibināšanu nav noteikts citādi).\n2. Līgumā par akciju sabiedrības dibināšanu jānorāda:\n1) dibinātāju — juridisko personu nosaukumi, to pilnvaroto pārstāvju ( 13. pants ) amats, vārds un uzvārds, juridisko personu atrašanās vieta un norēķinu konti;\n2) dibinātāju — fizisko personu vārds un uzvārds, adrese, pilsonība un pases dati;\n3) akciju sabiedrības nosaukums (firma) un atrašanās vieta;\n4) akciju sabiedrības mērķi un darbības virzieni;\n5) akciju sabiedrības dibināšanas kārtība;\n6) pamatkapitāla veidošanas un norēķinu kartības principi;\n7) dibinātāju atbildība;\n8) līguma darbības termiņš."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "15",
+      "title": "Otrais akciju sabiedrības dibināšanas posms",
+      "content": "Otrajā akciju sabiedrības dibināšanas posmā dibinātāji:\n1) apspriež akciju sabiedrības statūtu pamatnoteikumus;\n2) vienojas par akciju sabiedrības pamatkapitāla lielumu un struktūru; ja nepieciešams, sastāda dibinātāju ziņojumu;\n3) vienojas par to, vai dibinās slēgtu vai atklātu akciju sabiedrību;\n4) nosaka to akciju veidus un nominālvērtību, ko akciju sabiedrība emitēs pirmajā laidienā, to parakstīšanas un samaksas kārtību un termiņus;\n5) ievēlē pārstāvi, kam jāsaņem finansu ministra atļauja šādos gadījumos: ja dibina bankas, lombarda vai apdrošināšanas akciju sabiedrību, ja sabiedrības pamatkapitāla sastāvā ir valsts kapitāls, ja starp dibinātājiem vai pirmā laidiena akciju parakstītajiem ir ārvalstu pilsoņi vai ārvalstīs reģistrētās juridiskās personas;\n6) publicē sabiedrības prospektu, ja dibina atklātu akciju sabiedrību;\n7) atver kontu bankā naudas glabāšanai, ko iekasē par parakstītajām akcijām."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "16",
+      "title": "Akciju sabiedrības statūti",
+      "content": "1. Akciju sabiedrības statūtos jānorāda:\n1) sabiedrības nosaukums (firma) un atrašanās vieta;\n2) akciju sabiedrības mērķi, tiesības, pienākumi un darbības termiņš; sabiedrības statuss (Latvijas Republikas akciju sabiedrība ar Latvijas kapitālu vai Latvijas Republikas akciju sabiedrība ar ārzemju kapitālu):\n3) līgumā par akciju sabiedrības dibināšanu paredzētās ziņas par visiem dibinātājiem, izņemot ziņas par norēķinu kontiem un pases datus:\n4) akciju sabiedrības pamatkapitāla lielums, akciju veids, skaits un nominālvērtība, kā arī pamatkapitāla (statūtu fonda) palielināšanas un samazināšanas kartība; akciju parakstīšanas un samaksas kārtība:\n5) akciju sabiedrības un akcionāru savstarpējās tiesiskās attiecības;\n6) akciju sabiedrības pārvaldes struktūra, valdes, padomes un revīzijas komisijas locekļu, zvērinātu revidentu (auditoru) un likvidatoru skaits, viņu ievēlēšanas kārtība, tiesības un pienākumi;\n7) akcionāru pilnsapulču sasaukšanas un jautājumu izlemšanas kārtība; pilnsapulču tiesībspēja:\n8) gada pārskatu sastādīšanas, pārbaudīšanas un pieņemšanas kārtība;\n9) gada pārskatu un citu sabiedrības dokumentu publicēšanas kārtība;\n10) peļņas sadales noteikumi, dividenžu noteikšanas un izmaksas kārtība;\n11) rezerves kapitāla un citu kapitālu veidošanas kārtība;\n12) sabiedrības likvidācijas kārtība;\n13) pārējie noteikumi, kādi atbilstoši sabiedrības darbības raksturam vajadzīgi.\n2. Statūti jāparaksta visiem dibinātājiem, un viņu parakstiem jābūt attiecīgi apliecinātiem."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "17",
+      "title": "Akciju sabiedrības prospekts",
+      "content": "1. Akciju sabiedrības prospektā dibinātājiem jānorāda:\n1) līgumā par akciju sabiedrības dibināšanu ( 14. pants ) paredzētās ziņas par dibinātājiem, izņemot ziņas par organizāciju norēķinu kontiem un pilsoņu pases datus;\n2) akciju sabiedrības nosaukums (firma), darbības mērķi un atrašanās vieta, apmeklētāju pieņemšanas adrese un telefons;\n3) pamatkapitāla lielums, akciju skaits un nominālvērtība; tas, vai statūtos paredzētas priekšrocību akcijas un kādas ( 42. pants ), kā arī tas, kādu akciju skaitu ieguvuši dibinātāji;\n4) padomes, valdes un revīzijas komisijas locekļu, zvērinātu revidentu un likvidatoru skaits;\n5) akciju samaksas kārtība un termiņi.\nProspektu paraksta dibinātāji, un viņu parakstiem jābūt attiecīgi apliecinātiem.\n2. Akciju sabiedrības dibinātāju prospekts izsludināms likumdošanā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "18",
+      "title": "Kārtība, kādā notiek parakstīšanās uz akcijām",
+      "content": "1. Parakstīšanos uz pirmā laidiena akcijām fiksē parakstītāju sarakstā, ja dibina atklāto akciju sabiedrību.\n2. Akciju parakstītāju sarakstā jāietver šādi dati:\n1) līgumā par akciju sabiedrības dibināšanu ( 14. pants ) paredzētās ziņas par dibinātājiem;\n2) akciju izlaiduma kopsumma un, ja akciju samaksa atļauta pa daļām, iemaksu termiņi un apmēri;\n3) iemaksu pieņemšanas vieta, laiks un kārtība;\n4) termiņš, līdz kuram akcijas jāsadala; pēc šā termiņa izbeigšanās parakstīšanās uz akcijām nesaista parakstītāju;\n5) ziņas par to akciju veidu, skaitu un nominālvērtību, uz kurām izsludināta parakstīšanās;\n6) līgumā par akciju sabiedrības dibināšanu ( 14. pants ) paredzētās ziņas par parakstītājiem;\n7) akciju parakstītāja paraksts.\n3. Parakstītāju saraksts, kurā šajā pantā minētie dati nav pilnīgi vai kurā bez šā panta 2. punkta 4. apakšpunkta ierobežojuma paredzēti vēl citi akciju parakstītāja atbildības ierobežojumi, ir nederīgs.\n4. Parakstītājs var pieprasīt, lai viņam uzrāda sabiedrības statūtus (dibinot sabiedrību — statūtu projektu).\n5. Ja akcijas parakstītas par lielāku summu, nekā paredzēts, dibinātāji var atteikties pieņemt daļu no parakstīšanās summas (anulēt visvēlāk izdarītos parakstījumus) vai arī jautājuma izlemšanu atstāt dibināšanas sapulcei.\n6. Dibinātājiem jāiegūst savā īpašumā kopskaitā vismaz 25 procenti akciju."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "19",
+      "title": "Samaksa par parakstītajām akcijām",
+      "content": "1. Par parakstītajām akcijām var maksāt:\n1) naudā;\n2) sedzot akciju (visu vai kādas to daļas) vērtību ar sabiedrībā ieguldīto mantu, ar pārņemamā uzņēmuma aktīva atlikumu;\n3) ar nomas maksu par sabiedrībai iznomāto mantu;\n4) ieguldot intelektuālo īpašumu.\nJa visas parakstītās akcijas netiek segtas, to pārējā daļa jānomaksā naudā.\n2. Akciju sabiedrības, kuru mērķis ir nodarboties ar banku, lombardu vai apdrošināšanas operācijām, var dibināt, par akcijām maksājot tikai naudā.\n3. Akcijas nevar apmaksāt ar paredzamo peļņu vai paredzamo darbību akciju sabiedrībā.\n4.Ne mazāk kā divām trešdaļām no akciju sabiedrības pamatkapitāla jābūt apmaksātām naudā vai ar akciju sabiedrības īpašumā nodoto (šā panta 1 . punkta 1. un 2. apakšpunkts)."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "20",
+      "title": "Parakstīto akciju samaksas kārtība",
+      "content": "1. Parakstoties uz akcijām, parakstītājam jāiemaksā vismaz 10 procenti no parakstāmo akciju vērtības.\n2. Līdz akciju sabiedrības dibināšanas sapulcei katram akciju parakstītājam jāiemaksā vismaz 25 procenti no viņa parakstīto akciju vērtības.\n3. Parakstītājiem pret iemaksāto summu nekavējoties izsniedz kvīti, ko paraksta dibinātāju iecelts kasieris.\n4. Akciju sabiedrības dibinātāju pilnvarotie pārstāvji organizē par parakstītajām akcijām saņemtās naudas iemaksāšanu bankā, vienojas ar mantas vai uzņēmuma īpašnieku par mantas, intelektuāla īpašuma vai uzņēmuma ( 19. panta 1. punkts) cenu, pārņemšanas noteikumiem un pieņem mantu vai pārņem uzņēmumu, kā arī ved akcionāru grāmatu.\n5. Akcionāru grāmatā jāieraksta visi akciju īpašnieki, kā arī visas akciju īpašnieku maiņas. Akcionāru grāmata caurauklojama un tās lapas numurējamas. Auklojumu apzīmogo un lapu numerāciju apstiprina Latvijas Republikas Uzņēmumu reģistrs. Akcionāru grāmatas vietā var ieviest uzskaiti ar skaitļošanas tehnikas palīdzību.\n6. Akciju sabiedrības dibinātāju iemaksātās summas atrodas bankā, līdz akciju sabiedrības valde tās atprasa. Ja sabiedrība netiek nodibināta, dibinātāji atprasa šīs summas un atdod tās atpakaļ iemaksātājiem (izņemot summas, kas izlietotas sabiedrības dibināšanas darbības finansēšanai).\n7. Strīdus šajos jautājumos izšķir tiesa."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "21",
+      "title": "Dibinātāju ziņojums",
+      "content": "1. Ja par akcijām maksā ar ieguldīto mantu, kā arī, pieņemot mantu vai pārņemot kādu pastāvošu uzņēmumu, — ar tā aktīviem un pasīviem, ar ieguldīto intelektuālo īpašumu vai ar īpašumu, kas pieņemts uz laiku (šā panta 4. punkts), dibinātāji par to sastāda ziņojumu, kurā norāda:\n1) ziņas par sabiedrības dibinātājiem, kādas paredzētas līgumā par akciju sabiedrības dibināšanu ( 14. pants );\n2) sabiedrības nosaukumu (firmu) un mērķus;\n3) pamatkapitāla lielumu;\n4) to, kāda manta vai uzņēmums, no kā un kādā vērtībā tiek pieņemts vai pārņemts.\nZiņojumam pievienojams pieņemtās mantas vai pārņemto uzņēmumu saraksts, uzrādot to vērtību.\n2. Ja pārņem pastāvošu uzņēmumu, (izņemot valsts īpašumu) ar tā aktīviem un pasīviem, tos inventarizē, ievērojot šādus noteikumus:\n1) pamatfondu atlikušo vērtību nosaka faktiskajās cenās;\n2) materiālos apgrozāmos līdzekļus novērtē iegādes cenās vai pēc pašizmaksas, bet ne dārgāk kā vairumcenās, kas ir spēkā inventarizācijas brīdī;\n3) maksājumu saistības uzskaita faktiskajās summās.\n3. Ieguldot akciju sabiedrībā intelektuālo īpašumu, dibinātāji to novērtē pēc vienošanās.\n4. Ja akciju parakstītājs savu mantu vai uzņēmumu nodevis akciju sabiedrībai tikai lietošanā, viņa ieguldījums sabiedrības pamatkapitālā atbilst nomas maksai par vienu gadu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "22",
+      "title": "Trešais akciju sabiedrības dibināšanas posms",
+      "content": "Trešajā akciju sabiedrības dibināšanas posmā dibinātāji:\n1) izskata Latvijas Republikas Ministru Padomes izdotās atļaujas (licences) noteikumus (ja tāda atļauja (licence) nepieciešama);\n2) apspriež akciju parakstīšanas un samaksas rezultātus, izstrādā un paraksta dibinātāju vienošanos (24. pants);\n3) precizē akciju sabiedrības statūtu un citu tās darbību reglamentējošo dokumentu projektu galīgos variantus;\n4) ievēlē akciju sabiedrības pagaidu padomi, pagaidu valdi un pagaidu revīzijas komisiju, ja izveido atklātu akciju sabiedrību;\n5) organizē akciju sabiedrības dibināšanas darbības pārbaudei (25. pants)."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "23",
+      "title": "Akciju sabiedrības pārvaldes veidošana",
+      "content": "1. Ja veido atklātu akciju sabiedrību un ja ir samaksāti 10 procenti no parakstāmo akciju vērtības, tiek ievēlēta pagaidu padome, pagaidu valde un pagaidu revīzijas komisija.\nPagaidu pārvaldes vēlēšanās piedalās dibinātāji un akcionāri, kas ir samaksājuši vismaz 10 procentus no parakstīto akciju vērtības.\n2. Akciju sabiedrības valdes priekšsēdētājam, revīzijas komisijas priekšsēdētājam, zvērinātam revidentam un likvidatoriem ir jābūt Latvijas Republikas pilsoņiem vai pastāvīgiem tās iedzīvotājiem, kas nodzīvojuši Latvijas Republikā ne mazāk kā 25 gadus.\nIerobežojums attiecībā uz valdes priekšsēdētāju nav spēkā Latvijas Republikas akciju sabiedrībās, kurās piedalās ārvalstu kapitāls, ja vismaz 40 procenti no šo sabiedrību pamatkapitāla ir ieguldīti brīvi konvertējamā valūtā.\n3. Par Latvijas Republikas akciju sabiedrību valdes locekļiem, revīzijas komisijas locekļiem, zvērinātiem revidentiem un likvidatoriem nevar būt personas, kam ar tiesas nolēmumu vai likumā noteiktajā kārtībā atņemtas tiesības nodarboties ar uzņēmējdarbību, darbu, kurš saistīts ar naudu un materiālajām vērtībām, vai kas sodītas par mantkārīgu noziegumu izdarīšanu."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "24",
+      "title": "Akciju sabiedrības dibinātāju vienošanās",
+      "content": "1. Akciju sabiedrības dibinātāji izstrādā un paraksta vienošanos par fikciju sadali un samaksu, kurā jānorāda:\n1) ka visas sabiedrības akcijas ir sadalītas;\n2) ka par visām akcijām ir samaksāts šajā likumā noteiktajos apmēros;\n3) kādu akciju skaitu ir ieguvis katrs dibinātājs, kā arī katrs parakstītājs —ārvalsts fiziskā vai juridiskā persona;\n4) kāds ir akciju sabiedrības pagaidu pārvaldes un revīzijas komisijas sastāvs, ja tādas tiek izveidotas.\n2. Vienošanos paraksta dibinātāji, un viņu parakstiem jābūt attiecīgi apliecinātiem."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "25",
+      "title": "Akciju sabiedrības dibināšanas darbības pārbaude",
+      "content": "1. Atklātās akciju sabiedrības dibināšanas darbības pārbaudi organizē akciju sabiedrības pagaidu padome un pagaidu valde. Slēgtās akciju sabiedrības dibināšanas pārbaudi pilnvarotie pārstāvji nodod lietpratējiem — īpašuma vērtēšanas ekspertiem.\n2. Akciju sabiedrības dibināšanas darbības pārbaudes rezultātus atspoguļo pārbaudes ziņojumā.\n3. Ja par akcijām tiek samaksāts, pieņemot mantu, pārņemot uzņēmumu vai ieguldot intelektuālo īpašumu; ja kāds no padomes (pagaidu padomes) vai valdes (pagaidu valdes) locekļiem pieder pie akciju sabiedrības dibinātājiem vai kādam no viņiem par akciju sabiedrības dibināšanu noteikts zināms atalgojums vai piešķirts cits labums, sabiedrības dibināšanas darbība bez tam vēl papildus jāpārbauda lietpratējiem— īpašuma vērtēšanas ekspertiem,\nLietpratējus ieceļ Latvijas Republikas Uzņēmumu reģistrs.\nPārbaude aptver visu sabiedrības dibināšanas darbību. It īpaši jāraugās, vai dibinātāju parakstītā vienošanās ( 24. pants ) par akciju sadalīšanu un samaksu atbilst īstenībai; ja sabiedrība nodibinās, pieņemot mantu vai pārņemot uzņēmumu, — vai dibinātāju sastādītajā ziņojumā ( 21. pants ) minētais pieņemamās mantas vai pārņemamā uzņēmuma sastāvs un vērtība atbilst īstenībai. Tāpat jāpārbauda, vai dibinātāju izveidotā akciju kapitāla sastāvs un sadalījums atbilst šā likuma 35. panta prasībām.\nDibinātāju pilnvarotajiem pārstāvjiem (pagaidu valdei un pagaidu padomei) jādod lietpratējiem visi sabiedrības dibināšanas dokumenti, cita nepieciešamā dokumentācija pēc lietpratēju pieprasījuma, kā arī jāsniedz cita veida nepieciešamā palīdzība.\n5. Par notikušo pārbaudi lietpratēji sastāda pārbaudes aktu divos eksemplāros, no kuriem vienu eksemplāru iesniedz Uzņēmumu reģistram, bet otru — dibinātāju pilnvarotajiem pārstāvjiem (pagaidu valdei). Ja starp lietpratējiem un dibinātāju pilnvarotajiem pārstāvjiem (pagaidu valdi vai padomi) rodas domstarpības, tās izšķir Uzņēmumu reģistrs.\n6. Ja lietpratēji konstatē, ka dibinātāju ziņojums ( 21. pants ), vienošanās ( 24. pants ) vai pārbaudes ziņojums (šā panta 2. punkts) ir nepilnīgi vai neatbilst šā likuma noteikumiem un tādēļ pret sabiedrības reģistrēšanu ceļami iebildumi, bet dibinātāju pilnvarotie pārstāvji (pagaidu valde) šos iebildumus neievēro, var rasties situācija, kad Latvijas Republikas Uzņēmumu reģistrs varētu atteikties reģistrēt sabiedrību. Par šādas situācijas iespējamību lietpratējiem jāziņo dibināšanas sapulcei."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "26",
+      "title": "Ceturtais akciju sabiedrības dibināšanas posms",
+      "content": "Ceturtajā akciju sabiedrības dibināšanas posmā:\n1) tiek sasaukta sabiedrības dibināšanas sapulce;\n2) valde piesaka izveidoto sabiedrību Latvijas Republikas Uzņēmumu reģistram."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "27",
+      "title": "Akciju sabiedrības dibināšanas sapulces sasaukšanas noteikumi",
+      "content": "Akciju sabiedrības dibināšanas sapulci var sasaukt, ja akciju ieguvēji iemaksājuši vismaz 25 procentus sabiedrības pamatkapitāla un ja pabeigta dibināšanas darbības pārbaude ( 25. pants )."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "28",
+      "title": "Dibināšanas sapulces sasaukšanas kartība",
+      "content": "1. Dibinātāju pilnvarotie pārstāvji (pagaidu valde) sasauc sabiedrības dibināšanas sapulci, nosakot arī sapulces darba kārtību.\n2. Ja dibina atklātu akciju sabiedrību, dibināšanas sapulce sasaucama 6 mēnešu laikā no sabiedrības prospekta izsludināšanas dienas ( 17. pants ).\n3. Ne vēlāk kā 2 nedēļas pirms atklātas akciju sabiedrības dibināšanas sapulces dibinātāju pilnvarotajiem pārstāvjiem (pagaidu valdei) jāpublicē likumdošanā noteiktajā kārtībā sludinājums par sabiedrības dibināšanu, tajā norādot sabiedrības nosaukumu, darbības mērķus, dibināšanas sapulces vietu un laiku, parakstītā pamatkapitāla lielumu.\n4. Akciju parakstītājiem jārada iespēja ne vēlāk kā nedēļu pirms dibināšanas sapulces iepazīties ar līgumu par akciju sabiedrības dibināšanu, akciju parakstītāju sarakstu un akciju samaksas rezultātiem.\n5. Dibināšanas sapulcē lēmēja balsstiesības ir tikai tiem, kas iemaksājuši vismaz 25 procentus no parakstīto akciju vērtības."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "29",
+      "title": "Dibināšanas sapulcē izskatāmie jautājumi",
+      "content": "1. Dibināšanas sapulce sasaucama un lēmumi šajā sapulcē pieņemami saskaņā ar noteikumiem par akcionāru pilnsapulcēm (63., 64. un 65. pants).\n2. Dibināšanas sapulcē dibinātāju pilnvarotie pārstāvji (pagaidu valde) sniedz ziņojumu par dibināšanas darbības pārbaudi. Ja dibināšanas darbības pārbaudei pieaicināti lietpratēji — īpašuma vērtēšanas eksperti (26. pants), sapulcē nolasāms lietpratēju sastādītais pārbaudes akts. Ja sapulce nepiekrīt pārbaudes akta izteiktajiem iebildumiem pret sabiedrības dibināšanas darbību, domstarpības izšķir likumdošanā noteiktajā kārtībā.\n3. Dibināšanas sapulce apstiprina dibinātāju ziņojumu un vienošanos ar mantas vai uzņēmuma īpašnieku par mantas vai uzņēmuma novērtējumu un pārņemšanas noteikumiem. Ja dibināšanas sapulce šādu vienošanos neapstiprina, ar mantas vai uzņēmuma īpašnieku jāpanāk jauna vienošanas, bet, ja tādu vienošanos panākt nevar, sabiedrība uzskatāma par nenodibinātu.\n4. Dibināšanas sapulce akceptē sabiedrības prospektu (17. pants); pārbauda, vai iemaksāta pamatkapitāla nepieciešamā daļa; pieņem lēmumu par akciju kapitāla palielināšanu vai par iemaksu daļas noraidīšanu, ja akcijas parakstītas par lielāku summu, nekā sākumā paredzēts; lemj par pamatkapitāla samazināšanu, ja parakstīšanās summa ir mazāka par paredzēto pamatkapitālu; pārbauda un apstiprina dibināšanas darbības izdevumus; apstiprina dibinātāju parakstītos statūtus.\n5. Dibināšanas sapulce ievēlē sabiedrības valdi un padomi, kā arī zvērinātus revidentus vai — attiecīgos gadījumos — revīzijas komisiju un nosaka arī šo institūciju locekļu atalgojumu.\n6. Dibināšanas sapulce pieņem lēmumu par to, ka sabiedrība uzskatāma par nodibinātu un pēc reģistrēšanas Uzņēmumu reģistrā var sākt savu darbību; tā dod konkrētākus norādījumus valdei par turpmāko darbību.\n7. Dibināšanas sapulce ir tiesīga apstiprināt dibinātāju priekšrocības ( 33. pants ).\n8. Banku, lombardu un apdrošināšanas akciju sabiedrības savu darbību sāk to statūtos paredzētajā laikā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "30",
+      "title": "Dibināšanas sapulces lemtspēja",
+      "content": "1. Dibināšanas sapulce ir tiesīga lemt, ja tajā piedalās vismaz trīs piektdaļas akciju parakstītāju, kuri kopā pārstāv 75 procentus no akciju sabiedrības pamatkapitāla.\n2. Akciju sabiedrības nodibināšanai nepieciešams, lai par to balsotu ne mazāk par trim ceturtdaļām no klātesošo akcionāru pārstāvētā kapitāla balsīm. Jautājumā par naturālo iemaksu novērtējuma samazinājumu, ja tam nepiekrīt mantas īpašnieks, un par dibinātāju priekšrocību apstiprināšanu nepieciešams vienbalsīgs lēmums. Pārējos jautājumus sapulce izlemj ar klātesošo akcionāru pārstāvētā kapitāla vienkāršu balsu vairākumu..\n3. Ja nav ievērotas šā likuma 29. panta 3. punkta prasības, sabiedrība uzskatāma par nenodibinātu, prospekts — par anulētu un par akcijām saņemtā nauda nekavējoties jāatmaksā akciju parakstītājiem, bet nodotā manta un intelektuālā īpašuma tiesības jāatdod to īpašniekiem."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "31",
+      "title": "Dibināšanas sapulces protokols",
+      "content": "l. Dibināšanas sapulces protokolā jāmin;\n1) fakts, ka visas sabiedrības akcijas ir parakstītas;\n2) akciju skaits, kādu ieguvis katrs akcionārs;\n3) fakts, ka par visām akcijām ir samaksāts likumā un statūtos paredzētajā apmērā;\n4) sabiedrības pārvaldes un kontroles institūcijās ievēlēto personu vārdi un uzvārdi.\n2. Dibināšanas sapulces protokolu paraksta sapulces vadītājs un sekretārs, kā arī visi dibinātāji; visiem parakstiem jābūt attiecīgi apliecinātiem."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "32",
+      "title": "Akciju sabiedrības reģistrācija",
+      "content": "1. Ne vēlāk kā 14 dienu laikā pēc dibināšanas sapulces valde iesniedz Latvijas Republikas Uzņēmumu reģistram sabiedrības reģistrācijas pieteikumu.\n2. Reģistrācijas pieteikumam pievieno:\n1) sabiedrības statūtus;\n2) sabiedrības prospektu, ja tāds ir;\n3) dibinātāju ziņojumu un dibinātāju vienošanos;\n4) norakstus no visiem dokumentiem, kas attiecas uz dibināšanas darbības pārbaudi;\n5) dibināšanas sapulces protokola norakstu;\n6) bankas iestādes dokumentu par pamatkapitāla nepieciešamās daļas iemaksu;\n7) finansu ministra atļauju, ja starp dibinātājiem vai pirmā laidiena akciju parakstītājiem ir ārvalstu pilsoņi vai ārvalstīs reģistrētās juridiskās personas vai ja sabiedrības pamatkapitāla sastāvā ir valsts kapitāls;\n8) citus likumā «Par Latvijas Republikas Uzņēmumu reģistru» un citos likumdošanas aktos norādītos dokumentus.\nVisiem Latvijas Republikas Uzņēmumu reģistram iesniedzamo dokumentu norakstiem jābūt attiecīgi apliecinātiem.\n3. Sabiedrība iegūst juridiskās personas tiesības tikai pēc reģistrēšanas Latvijas Republikas Uzņēmumu reģistrā.\n4. Paziņojumu par sabiedrības reģistrāciju Uzņēmumu reģistrs publicē likumdošanā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "Otrā nodaļa AKCIJU SABIEDRĪBU DIBINĀŠANA",
+      "section": "33",
+      "title": "Dibinātāju priekšrocības",
+      "content": "1. Dibinātāji var rezervēt sev vēlamo daļu priekšrocību akciju ( 38. panta 2. punkts, 42. pants ).\n2. Dibinātāji līgumā par akciju sabiedrības dibināšanu var rezervēt sev tiesības izveidot sabiedrības pārvaldi un kontroles dienestu pirmajam darbības gadam."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "34",
+      "title": "Akciju sabiedrības pamatkapitāls",
+      "content": "1 . Akciju sabiedrības pamatkapitāls ir nauda un citas mantiskas vērtības, kas nepieciešamas akciju sabiedrības darbības uzsākšanai un tālākai attīstībai.\n2. Sabiedrības pamatkapitālu veido visu akciju nominālvērtības kopsumma.\n3. Pamatkapitālu veido akcionāru iemaksas (pretim saņemot akcijas), kā arī tīrais ienākums.\n4. No pamatkapitāla tiek veidoti akciju sabiedrības pamatlīdzekļi un apgrozāmie līdzekļi."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "35",
+      "title": "Pamatkapitāla (statūtu fonda) lielums",
+      "content": "1. Minimālais pamatkapitāla (statūtu fonda) lielums banku un biržu akciju sabiedrībām ir 5 000 000 rubļu, apdrošināšanas akciju sabiedrībām — 3 000 000 rubļu, lombardu akciju sabiedrībām — 2 000 000 rubļu, pārējām sabiedrībām 100 000 rubļu.\n2. Akciju sabiedrībās, ko dibina Latvijas Republikas teritorijā, ārvalstīs reģistrētās juridiskās personas un ārvalstu pilsoņi, kā arī starptautiskās organizācijas var iegūt jebkuru daļu akciju likumdošanā noteiktajā kārtībā.\n3. Latvijas Republikas akciju sabiedrības ar Latvijas Republikas kapitālu ir tādas Latvijas Republikā reģistrētās akciju sabiedrības, kuru pamatkapitālā vairāk nekā 60 procenti ir Latvijas Republikā reģistrēto juridisko personu, Latvijas Republikas pilsoņu un pastāvīgo iedzīvotāju (Latvijas Republikas teritorijā nodzīvojuši ne mazāk kā 25 gadus) kapitāls,\n4. Latvijas Republikas akciju sabiedrības ar ārzemju kapitālu ir tādas Latvijas Republika reģistrētās akciju sabiedrības, kuru pamatkapitālā vairāk nekā 40 procenti ir ārvalstīs reģistrēto juridisko personu, ārvalstu pilsoņu un starptautisko organizāciju kapitāls."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "36",
+      "title": "Akciju sabiedrības rezerves kapitāls",
+      "content": "1. Sabiedrībai obligāti jāuzkrāj rezerves kapitāls, kas izmantojams neparedzētu izdevumu segšanai.\n2. Sabiedrības rezerves kapitālu veido obligātie peļņas atskaitījumi ( 79. panta 1. punkts), papildmaksa par jaunu izlaidumu akcijām ( 54. panta 2. punkts) un citi ienākumi.\n3. Obligātie peļņas atskaitījumi rezerves kapitālā ir ieguldāmi tik ilgi, līdz rezerves kapitāls ir sasniedzis trešdaļu no pamatkapitāla, ja statūti nenosaka augstāku atskaitījumu normu. Obligātie atskaitījumi atjaunojami, tiklīdz rezerves kapitāls ir mazāks par šo normu. Rezerves kapitāls jānogulda tā, lai to katrā laikā var netraucēti realizēt.\n4. Rezerves kapitāls izlietojams vienīgi bilancē norādīto zaudējumu segšanai. Statūtos var paredzēt, ka tam nepieciešama ikreizēja akcionāru pilnsapulces atļauja.\n5. Banku, lombardu un apdrošināšanas akciju sabiedrību rezerves kapitāla un speciālā rezerves kapitāla lielumu, kā arī kapitālu glabāšanas kārtību nosaka šo akciju sabiedrību statūti un attiecīgie likumi."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "37",
+      "title": "Citi akciju sabiedrības kapitāli",
+      "content": "Akciju sabiedrībai var būt arī citi kapitāli, piemēram, uzkrājumi paredzamajām investīcijām."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "38",
+      "title": "Akciju veidi",
+      "content": "Akciju sabiedrības izlaiž parastās, priekšrocību un darbinieku (personāla) akcijas.\n2. Priekšrocību akcijas ir akcijas, kas dod tiesības to ieguvējiem saņemt lielāku dividendi nekā pārējās akcijas.\n3. Darbinieku (personāla) akcijas ir akcijas, kuras var iegādāties tikai akciju sabiedrības darbinieki.\n4. Visas akcijas, ko izlaiž akciju sabiedrība, ir vārda akcijas; tas nozīmē, ka akcijā ierakstīts īpašnieka uzvārds vai firma un šīs akcijas var atsavināt tikai šajā likumā un statūtos noteiktajā kārtībā, informējot par to akciju sabiedrību.\n5. Akcijas līdz ar ziņām par īpašnieka vārdu, uzvārdu, pilsonību un dzīvesvietu (juridiskās personas gadījumā — firmu) ierakstāmas akcionāru grāmatā.\nAkcijas ieguvējs iegūst akcionāra tiesības tikai ar to brīdi, kad akcijas iegūšana fiksēta akcionāru grāmatā.\n6. Akcijas nav dalāmas. Ja vienai akcijai ir vairāki īpašnieki, akcionāru grāmatā jāatzīmē, kurš no īpašniekiem ir grupas pārstāvis."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "39",
+      "title": "Akciju izgatavošana",
+      "content": "1. Akcijas, kā arī pagaidu apliecības ( 46. pants ) un kuponi ( 47. pants ) jāizgatavo saskaņā ar likumu par vērtspapīriem.\n2. Akcijās jāuzrāda šādas ziņas:\n1) dokumenta nosaukums «Akcija»; akcijas veids, akciju sabiedrības nosaukums, reģistrēšanas vieta un juridiskā adrese;\n2) akcijas kārtas numurs, nominālvērtība, īpašnieka vārds un uzvārds vai juridiskās personas nosaukums (firma);\n3) akcijas veids un ar to saistītās statūtos paredzētās tiesības un pienākumi;\n4) akcijas izlaišanas datums, sabiedrības pamatkapitāla lielums akciju izlaišanas brīdī.\nUz katras akcijas ir valdes locekļu paraksti un zīmogs.\n3. Akciju izlaide atļauta pēc akciju sabiedrības reģistrēšanas Latvijas Republikas Uzņēmumu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "40",
+      "title": "Akciju nominālvērtība",
+      "content": "1. Akciju nominālvērtību nosaka katras atsevišķās sabiedrības statūti. Katras akcijas nominālvērtība jāizsaka ar skaitli, kas dalās ar 100.\n2. Sabiedrība nedrīkst izlaist akcijas, kuru nominālvērtība būtu zemāka par statūtos noteikto."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "41",
+      "title": "Akciju iegādāšanās, parakstoties uz tām",
+      "content": "1. Parakstītās akcijas apmaksā saskaņā ar šā likuma 19. panta noteikumiem.\n2. Akcijas var pirkt par naudu (arī par ārzemju valūtu), pārskaitot to sabiedrības kontā. Akcijas var iegūt, nododot savu mantu sabiedrības īpašumā vai to iznomājot. Mantas vērtību nosaka, pusēm vienojoties, saskaņā ar šā likuma 21. panta prasībām.\n3. Ziņas par operācijām, kas izdarītas ar akcijām, ierakstāmas akcionāru grāmatā ( 20. panta 5. punkts) un parakstītāju sarakstā ( 18. pants ).\n4. Katram akcionāram ir tiesības iepazīties ar sabiedrības akcionāru sarakstu, kā arī pieprasīt, lai valde viņam izsniedz no akcionāru grāmatas izrakstu, kas attiecas uz viņu."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "42",
+      "title": "Priekšrocību akcijas",
+      "content": "1. Ja statūtos paredzēts, sabiedrība var izlaist priekšrocību akcijas. Lēmumu par priekšrocību piešķiršanu pieņem akcionāru pilnsapulce, kurā piedalās akcionāri, kas personiski vai uz pilnvaru pamata pārstāv vismaz trīs ceturtdaļas no pamatkapitāla. Lēmuma pieņemšanai nepieciešamas ne mazāk kā četras piektdaļas no klātesošo akcionāru pārstāvētā kapitāla balsīm.\n2. Priekšrocību akciju izlaiduma kopsumma nedrīkst pārsniegt 25 procentus no pamatkapitāla."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "43",
+      "title": "Priekšrocību akciju ieguvēju tiesības",
+      "content": "1. Akciju sabiedrības statūtos jāparedz priekšrocību akciju ieguvēju tiesības dividenžu saņemšanā.\n2. Akciju sabiedrību statūtos var paredzēt, ka šā likuma 42. pantā minēto priekšrocību akciju ieguvēji bauda tādas pašas balsstiesības kā pārējo akciju ieguvēji. Var paredzēt arī, ka šo priekšrocību akciju ieguvēju balsstiesības ir ierobežotas vai ka viņiem vispār nav balsstiesību.\nJa akcionāru pilnsapulce pieņēmusī lēmumu par priekšrocību ierobežošanu, grozīšanu vai atcelšanu, attiecīgie grozījumi izdarāmi arī statūtos."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "44",
+      "title": "Darbinieku (personāla) akcijas",
+      "content": "1. Akciju sabiedrība var izlaist darbinieku (personāla) akcijas, ja to paredz sabiedrības statūti.\n2. Darbinieku (personāla) akcijas izsniedz sabiedrības darbiniekiem ar atvieglotiem noteikumiem vai bez maksas.\n3. Darbinieku (personāla) akciju nominālvērtības kopsumma nedrīkst pārsniegt summu, par kādu akciju sabiedrības īpašums pārsniedz tās pamatkapitāla lielumu, un nedrīkst pārsniegt arī 10 procentus no pamatkapitāla; vienlaikus attiecīgi ir jāpalielina pamatkapitāls.\n4. Darbinieku (personāla) akcijas to īpašnieks nevar atsavināt. Darbiniekam aizejot no darba akciju sabiedrībā (izņemot aiziešanu pensijā), viņam jāsamaksā pilna darbinieku (personāla) akciju nominālvērtība vai valdei jāizpērk šis akcijas par tām samaksātajā apjomā. Darbinieka nāves gadījumā šāda kārtība attiecināma uz viņa mantiniekiem. Šo nosacījumu neizpildīšanas gadījumā akcijas tiek anulētas.\n5. Darbinieku (personāla) akcijas īpašniekam ir visas tiesības piedalīties sabiedrības pārvaldīšanā."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "45",
+      "title": "Akciju vērtības samaksa",
+      "content": "1. Akciju ieguvējam pilna to nominālvērtības summa jāsamaksā valdes noteiktajos termiņos ar tādu aprēķinu, lai par katru akciju būtu pilnīgi samaksāts ne vēlāk kā gadu no akcijas parakstīšanas dienas.\nBanku, lombardu un apdrošināšanas akciju sabiedrības par savām akcijām samaksā statūtos paredzētajā kārtībā.\nPar visu sabiedrības akciju pilnīgu samaksu valde paziņo Latvijas Republikas Uzņēmumu reģistram.\n2. Akcijas pirmieguvējs atbild par iegūto akciju pilnīgu samaksu valdes noteiktajos termiņos. Nesamaksātu akciju tālāka atsavināšana nav pieļaujama.\nJa pagaidu apliecības ieguvējs mēneša laikā pēc valdes nosacītā termiņa neiemaksā noteikto summu, valde izsniegtās pagaidu apliecības ( 46. pants ) anulē un paziņo par to likumdošanā noteiktajā kārtībā, bet pagaidu apliecības ieguvējs zaudē savas tiesības. Anulēto pagaidu apliecību vietā valde izgatavo jaunas ar tiem pašiem numuriem un pārdod tās pēc saviem ieskatiem statūtos paredzētajā kartībā; iespējama arī akciju pārdošana izsolē.\n3. Ja summa, ko valde iegūst, pārdodot jaunās pagaidu apliecības, ir mazāka par vēl neiemaksāto summu, tā var iesniegt prasību par neiekasēto summu piedzīšanu no bijušā pagaidu apliecības ieguvēja. Iegūtais ienākums pāriet akciju sabiedrības īpašumā.\nStatūtos var noteikt nokavējuma naudu par termiņā nesamaksāto akcijas vērtības daļu."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "46",
+      "title": "Pagaidu apliecības",
+      "content": "1. Par pilnībā nesamaksātajām akcijām sabiedrība izdod uz akcionāra vārda izrakstītas pagaidu apliecības, kuras var nodot tālāk, tikai izrakstot pagaidu apliecību uz jaunā apliecības ieguvēja vārda. Pagaidu apliecības sešu mēnešu laikā pēc akciju pilnīgas samaksas, bet ne vēlāk kā pusotra gada laikā no sabiedrības reģistrēšanas dienas apmaināmas pret akcijām.\n2. Valde pagaidu apliecību izsniedz akcionāram ne vēlāk kā trīs mēnešu laikā pēc sabiedrības reģistrēšanas dienas apmaiņā pret kvītīm par akcionāra izdarītajām iemaksām par parakstītajām akcijām.\n3. Pagaidu apliecībā jāieraksta šādas ziņas:\n1) akciju sabiedrības nosaukums (firma) un atrašanās vieta;\n2) apliecības kārtas numurs;\n3) akciju skaits, to nominālvērtība, akciju veids (parastās, priekšrocību, darbinieku);\n4) akciju īpašnieka vārds un uzvārds vai firma;\n5) apliecības izdošanas datums, sabiedrības pamatkapitāla lielums izdošanas brīdī;\n6) visu iemaksu summa un iemaksu izdarīšanas datumi. Pagaidu apliecību paraksta valdes priekšsēdētājs (prezidents) un galvenais grāmatvedis; to apliecina ar zīmogu."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "47",
+      "title": "Akciju kuponu lapa",
+      "content": "1. Katrai akcijai pievieno kuponu lapu; uz šiem kuponiem, pret kuriem dividendes saņemamas 10 gadu laikā, atzīmē to akciju numurus, pie kurām katrs no tiem pieder, kā arī gadus hronoloģiskā secībā. Pēc 10 gadiem akcionāriem izdodamas jaunas kuponu lapas turpmākajiem 10 gadiem.\n2. Akciju kuponus nevar nodot citai personai atsevišķi no akcijām, izņemot kuponus, kuriem termiņš ir beidzies, un kārtējā termiņa kuponus."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "48",
+      "title": "Akciju pāriešana citas personas īpašumā",
+      "content": "1. Vārda akcijas, kā arī pagaidu apliecības var pāriet citas personas īpašumā (kā pirkums, dāvinājums, mantojums u. c.) ar attiecīgu uzrakstu par vārda maiņu. Šādas akcijas līdz ar akciju atdevēja paziņojumu iesniedzamas sabiedrības valdei, lai tā atzīmētu īpašnieku maiņu akcionāru grāmatā. Atzīme akcionāru grāmatā par vārda akciju un pagaidu apliecību pāriešanu citas personas īpašumā jāizdara 3 dienu laikā no brīža, kad saņemti dokumenti, kas pierāda, ka akcijas vai pagaidu apliecības likumīgi pārgājušas citas personas īpašumā.\n2. Akciju sabiedrību statūtos var noteikt, ka gadījumā, ja akcionārs vēlas vārda akcijas realizēt citām personām, tās līdz ar rakstveida paziņojumu iesniedzamas sabiedrības valdei. Ja statūtos nav paredzēts citādi, valde atdotās akcijas vispirms piedāvā esošajiem akcionāriem. Ja uz atdotajām akcijām piesakās vairāki akcionāri, akcijas pārdod proporcionāli viņiem piederošo akciju skaitam. Ja esošie akcionāri nepiesakās uz akcijām, valdei ir tiesības tās pārdot pēc saviem ieskatiem. Pārdodamo akciju cenu aprēķina saskaņā ar statūtu noteikumiem. Ja mēneša laikā no akciju saņemšanas dienas valde akcijas nav pārdevusi, tās izsniedzamas atpakaļ to īpašniekam, kas var tās realizēt pēc saviem ieskatiem.\nJa statūtos šāda kārtība nav paredzēta, akcijas tiek brīvi pirktas un pārdotas ar biržas iestāžu starpniecību, bet, ja sabiedrība nav reģistrējusies savu akciju pirkšanai un pārdošanai biržā, — ar sabiedrības valdes starpniecību. Turklāt jāievēro ierobežojumi, kādi likumdošanas aktos noteikti attiecībā uz akciju realizēšanu ārvalstu fiziskajām un juridiskajām personām.\nAkciju sabiedrības valdes pienākums ir pastāvīgi sekot akciju ieguvēju statusam saskaņā ar šā likuma 35. panta prasībām. Akciju pārdošanas, apmaiņas, mantošanas, dāvinājuma vai citādas atsavināšanas gaitā valde kontrolē Latvijas Republikas un ārvalstu kapitālu proporciju. Ja pārkāptas šā likuma 35. panta 3. punktā noteiktās kapitāla izcelsmes maksimālās robežas, valde darījumu noraida un nereģistrē īpašnieku maiņu akcionāru grāmatā.\n3. Kamēr akciju sabiedrība vēl nav ierakstīta Latvijas Republikas Uzņēmumu reģistrā, tās akcijas un pagaidu apliecības nevar nodot citai personai, izņemot gadījumus, kad akciju īpašnieks mirst un tās tiek mantotas.\n4. Akciju turētājs, ja viņš ir akciju sabiedrības valdes un padomes loceklis vai direktors rīkotājs, vai vismaz 10 procentu sabiedrības akciju īpašnieks, nedrīkst pārdot akcijas agrāk par sešiem mēnešiem pēc to pirkšanas un pirkt tās pašas sabiedrības akcijas agrāk par sešiem mēnešiem pēc to pārdošanas.\n5. Akciju pārdevēja pienākums ir paziņot pircējam akciju pārdošanas motīvus, ja tie radušies sabiedrības iekšējās informācijas noplūdes gadījumā.\n6. Par akciju sabiedrības iekšējās informācijas izmantošanu iedzīvošanās nolūkā vai tās pārdošanu par maksu vainīgajam jāatlīdzina sabiedrībai radītie zaudējumi trīskāršā apmērā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "49",
+      "title": "Noteikumi, ar kādiem akciju sabiedrība iegūst pati savas akcijas",
+      "content": "Akciju sabiedrībai aizliegts pirkt pašai savas akcijas, izņemot šādus gadījumus:\n1) ja akciju sabiedrība atbilstoši statūtu noteikumiem ar iegūtajām akcijām amortizē pamatkapitālu; šajā gadījumā amortizētās akcijas nekavējoties anulējamas. Banku, lombardu un apdrošināšanas akciju sabiedrībām pamatkapitāla amortizācija aizliegta;\n2) ja sabiedrība samazina pamatkapitālu, izņemot no apgrozības daļu akciju. No apgrozības izņemtās akcijas anulējamas;\n3) ja sabiedrība akcijas iegūst, kādu uzņēmumu pārņemot savā īpašumā. Šajā gadījumā iegūtās akcijas jārealizē statūtos paredzētajā kārtībā;\n4) ja sabiedrība akcijas iegūst izsolē, piedzenot savus prasījumus."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "50",
+      "title": "Obligācijas",
+      "content": "1. Obligācija ir vērtspapīrs, kas apliecina akciju sabiedrības saistības pēc zināma laika izmaksāt obligacionāram obligācijas nominālvērtību, bet katru gadu — noteiktu summu pēc iepriekš fiksētas procentu likmes ( 8. panta 3. punkts).\n2. Akciju sabiedrības var izlaist obligācijas, ja tas paredzēts to statūtos. Obligāciju kopējā vērtība nevar pārsniegt 20 procentus no pamatkapitāla vērtības. Jaunu akciju izlaides gadījumā obligāciju īpašniekiem ir priekšrocības tiesības iegādāties akcijas obligāciju vērtības ietvaros, ja tas paredzēts statūtos, iespējama arī visu obligāciju apmaiņa pret akcijām, ja sabiedrības pilnsapulcē ar balsu vairākumu tā izlemj akcionāri, kas pārstāv ne mazāk par trim ceturtdaļām pamatkapitāla.\n3. Pirmo obligāciju izlaidumu sabiedrība drīkst īstenot tikai pēc divu darbības gadu pārskatu apstiprināšanas akcionāru pilnsapulcē. Par obligāciju emisiju lemj akcionāru pilnsapulce; tā var pilnvarot valdi realizēt obligācijas. Obligāciju emisijai nepieciešams pilnsapulcē klātesošo akcionāru trīs ceturtdaļu balsu vairākums, ja statūtos nav noteikts citādi.\n4. Visas izlaižamās obligācijas ir vārda obligācijas. Tās reģistrējamas sabiedrības obligacionāru žurnālā. Tur jāieraksta obligacionāra vārds un uzvārds (firma), adrese, obligāciju pārdošanas datums, katra obligacionāra obligāciju skaits, to numuri un vērtība."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "Trešā nodaļa AKCIJU SABIEDRĪBAS KAPITĀLS UN AKCIJAS",
+      "section": "51",
+      "title": "Obligāciju īpašnieku tiesības",
+      "content": "1. Obligacionārs saņem vērtspapīru pēc tam, kad samaksāta visa obligācijas nominālvērtība.\n2. Obligacionāru pārstāvji ir tiesīgi iepazīties ar sabiedrības dokumentiem akcionāru pilnsapulces noteiktajā kārtībā un apjomā. Viņi ir tiesīgi arī piedalīties akcionāru pilnsapulcē bez lēmēja balsstiesībām, taču nedrīkst iejaukties sabiedrības pārvaldīšanā."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "Ceturtā nodaļa PAMATKAPITĀLA PALIELINĀŠANA UN SAMAZINĀŠANA",
+      "section": "52",
+      "title": "Tiesības palielināt vai samazināt pamatkapitālu",
+      "content": "1. Pamatkapitālu drīkst palielināt vai samazināt, ja statūtos izdarīti attiecīgi grozījumi.\n2. Latvijas Republikas Finansu ministrijas atļauja pamatkapitāla palielināšanas vai samazināšanas gadījumos nepieciešama šādām sabiedrībām:\n1) sabiedrībām, kuru pamatkapitāla sastāvā ir valsts kapitāls;\n2) sabiedrībām, kuru akcionāru vidū ir ārvalstīs reģistrētās juridiskās personas un ārvalstu pilsoņi;\n3) banku, lombardu vai apdrošināšanas akciju sabiedrībām.\n3. Sabiedrības valdei ir tiesības reizi darbības gadā palielināt sabiedrības pamatkapitālu ne vairāk kā par 30 procentiem, nesasaucot pilnsapulci, ja tas paredzēts sabiedrības statūtos. Šādā gadījumā attiecīgos grozījumus statūtos izdara kārtējā pilnsapulce, un valdei par to jāziņo Latvijas Republikas Uzņēmumu reģistram."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "Ceturtā nodaļa PAMATKAPITĀLA PALIELINĀŠANA UN SAMAZINĀŠANA",
+      "section": "53",
+      "title": "Pamatkapitāla (statūtu fonda) palielināšanas veidi",
+      "content": "1. Sabiedrības pamatkapitālu (statūtu fondu) var palielināt, iesaistot papildu kapitālu vai pārveidojot daļu no sabiedrības uzkrātā kapitāla par tās pamatkapitālu (statūtu fondu).\n2. Ja pamatkapitālu (statūtu fondu) palielina, iesaistot papildu kapitālu, sabiedrība izlaiž jaunas akcijas un atklāj parakstīšanos uz tām. Parakstīšanos var atklāt tikai pēc tam, kad iepriekšējais akciju laidiens pilnīgi samaksāts un akcijas izsniegtas.\n3. Ja akciju sabiedrības pamatkapitālā (statūtu fondā) ieskaita to sabiedrības īpašuma daļu, kas pēc gada bilances vai ārkārtas bilances apstiprināšanas pārsniedz pamatkapitāla (statūtu fonda) apjomu, tiek papildus izlaistas jaunas akcijas, kuras tiek sadalītas starp akcionāriem proporcionāli tam akciju skaitam, kas jau ir katra akcionāra īpašumā. Sabiedrības statūtos jaunu akciju izlaišanas vietā var paredzēt agrāk izlaisto akciju nominālvērtības palielināšanu; šādā gadījumā uz agrāk izlaistajām akcijām, tiek atzīmēta un ar parakstiem apstiprināta to jaunā nominālvērtība.\nJa sabiedrības īpašums pārsniedz pamatkapitāla (statūtu fonda) apjomu, pamatkapitāla palielināšana nav obligāta."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "Ceturtā nodaļa PAMATKAPITĀLA PALIELINĀŠANA UN SAMAZINĀŠANA",
+      "section": "54",
+      "title": "Pamatkapitāla palielināšanas kārtība",
+      "content": "1. Jaunizlaižamajām akcijām nosakāma tāda pati nominālvērtība kā agrāko laidienu akcijām.\n2. Par katru jaunā laidiena akciju parakstītājam jāiemaksā tās nominālvērtība, kā arī papildmaksa, kas atbilst vismaz tai sabiedrības rezerves kapitāla daļai, kura saskaņā ar pēdējā gada bilanci iznāk uz katru iepriekšējo laidienu akciju. Tādā veidā iegūtā papildsamaksa pieskaitāma sabiedrības rezerves kapitālam.\n3. Sabiedrības līdzšinējie akcionāri bauda priekšrocības tiesības jauno akciju iegūšanā proporcionāli viņiem piederošo akciju skaitam. Ja visi līdzšinējie akcionāri neizmanto savas priekšrocības tiesības iegādāties šīs akcijas akcionāru pilnsapulces noteiktajā termiņā (šā panta 5. punkta 5. apakšpunkts), kurš nedrīkst būt īsāks par trim nedēļām, jaunās akcijas vismaz vienu nedēļu piedāvājamas līdzšinējiem akcionāriem bez to skaita ierobežojuma. Akcijas, kuras līdzšinējie akcionāri neiegādājas, piedāvājamas brīvai parakstīšanai vai pārdodamas izsolē.\n4. Akcionāru pilnsapulce, ja par to nobalso akcionāri, kas pārstāv ne mazāk par trim ceturtdaļām pamatkapitāla, var nolemt šā panta 3. punktā minētās priekšrocības tiesības jauno akciju iegūšanā līdzšinējiem akcionāriem ierobežot vai pavisam nepiešķirt.\n5. Akcionāru pilnsapulce apstiprina jaunā akciju laidiena noteikumus.\nNoteikumos jānorāda:\n1) iemesli, kādēļ tiek palielināts pamatkapitāls;\n2) līdzšinējais pamatkapitāls un akciju skaits, kā arī palielinātais pamatkapitāls un akciju skaits;\n3) vai jaunā laidiena akcijas būs parastās vai priekšrocību akcijas; vai priekšrocības piešķirtas visam akciju laidienam vai tikai noteiktai akciju grupai un kādas;\n4) akcijas nominālvērtība, papildmaksa un minimālā iemaksa, kas jāizdara, parakstoties uz akcijām;\n5) datums, kad atklās parakstīšanos uz akcijām; termiņi, kādos līdzšinējie «kcionāri bauda priekšrocības tiesības parakstīties uz jaunā laidiena akcijām; datums, kad sāks, un datums, kad izbeigs brīvo parakstīšanos;\n6) ar kādu datumu jaunās akcijas piedalīsies dividenžu saņemšanā;\n7) vieta un laiks, kur un kad notiks parakstīšanās uz akcijām.\n6. Mainoties akciju sabiedrības pamatkapitāla summai, nedrīkst mainīties šā likuma 35. panta 3. punktā noteiktā attiecība starp Latvijas Republikas un ārzemju kapitālu."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "Ceturtā nodaļa PAMATKAPITĀLA PALIELINĀŠANA UN SAMAZINĀŠANA",
+      "section": "55",
+      "title": "Parakstīšanās uz jauna laidiena akcijām",
+      "content": "1. Parakstoties uz jaunā laidiena akcijām, parakstītājam jāiemaksā vismaz 25 procenti no parakstāmo akciju nominālvērtības, bet pārējā akciju nominālvērtības daļa līdz ar varbūtējo papildmaksu jāiemaksā valdes noteiktajos termiņos ar tādu aprēķinu, lai katra akcija būtu pilnīgi samaksāta ne vēlāk kā gada laikā no dienas, kad Latvijas Republikas Uzņēmumu reģistrā fiksēts akcionāru pilnsapulces lēmums par jaunu akciju izlaišanu. Turklāt attiecīgi piemērojami šā likuma 45. panta noteikumi.\n2. Ja jaunā laidiena akcijas sedz ar sabiedrības īpašumā atsavināto mantu, akcionāru pilnsapulces lēmumā un jaunā laidiena noteikumos norāda, ar kādu mantu un kādā vērtībā šīs akcijas tiek segtas un no kā šo mantu sabiedrība iegūst. Mantas pārbaude izdarāma saskaņā ar šā likuma 25. panta noteikumiem.\n3. Parakstīšanos uz jaunā laidiena akcijām var atklāt tikai pēc tam, kad lēmums par šo laidienu pieteikts Latviias Republikas Uzņēmumu reģistrā. Pieteikumam jāpievieno akcionāru pilnsapulces protokola noraksts, statūtu grozījumu teksts, jaunā akciju laidiena noteikumi un paziņoiums par iepriekšējā akciju laidiena pilnīgu samaksu un akciju izsniegšanu, bet šā likuma 52. panta 2. punktā paredzētajos gadījumos — arī finansu ministra atļauja.\n4. Akciju laidiena noteikumi pirms parakstīšanas atklāšanas jāpublicē likumdošanā noteiktajā kārtībā.\n5. Jaunu (jaunu laidienu) akciju ieguvēji nedrīkst tās pārdot agrāk par sešiem mēnešiem pēc to parakstīšanas beigām.\n6. Ja pilnsapulces noteiktajā termiņā visas akcijas nav parakstītas, akciju laidiens uzskatāms par nenotikušu, iekasētā nauda jāizmaksā atpakaļ un nākamajā akcionāru pilnsapulcē jāizdara attiecīgie statūtu grozījumi."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "Ceturtā nodaļa PAMATKAPITĀLA PALIELINĀŠANA UN SAMAZINĀŠANA",
+      "section": "56",
+      "title": "Akciju kapitāla samazināšana",
+      "content": "1. Akcionāru pilnsapulce, pieņemot lēmumu par pamatkapitāla samazināšanu, norāda pamatkapitāla samazināšanas iemeslu, kā arī nosaka samazināšanas kārtību. Lēmums par pamatkapitāla samazināšanu piesakāms Latvijas Republikas Uzņēmumu reģistrā. Pieteikumam jāpievieno akcionāru pilnsapulces protokola noraksts, statūtu grozījumu teksts un noteikumi par to, kādā kārtībā samazināšana notiks, bet šā likuma 52. panta 2. punktā paredzētajos gadījumos — arī finansu ministra atļauja.\n2. Sabiedrības pamatkapitālu var samazināt, apvienojot akcijas vai samazinot katras akcijas nominālvērtību, vai pašai sabiedrībai iegūstot savas akcijas zern to nominālvērtības un par šo akciju nominālvērtību samazinot pamatkapitālu, vai dzēšot pamatkapitāla samazināšanai iesniegtās akcionāru akcijas.\n3. Pamatkapitāla samazināšanas noteikumi pēc tam, kad tie reģistrēti Latvijas Republikas Uzņēmumu reģistrā, jāpublicē likumdošanā noteiktajā kārtībā.\n4. Samazinot pamatkapitālu, jāievēro sabiedrības likvidācijas gadījumā paredzētie noteikumi (89. pants) par sabiedrības kreditoru interešu aizsardzību.\n5. Sludinājumā par pamatkapitāla samazināšanu sabiedrības valde nosaka termiņu, līdz kuram iesniedzamas akcijas to apvienošanai vai dzēšanai vai arī apmaiņai pret jaunām akcijām. Šis termiņš nevar būt mazāks par 3 mēnešiem. Tās akcijas, kas sludinājumā noteiktajā laikā nav iesniegtas, valde var izsludināt par anulētām. Ja viena akcionāra iesniegto akciju skaits nav pietiekams, lai to vietā iegūtu tiesības uz vienu jaunās nominālvērtības akciju, vairāki akcionāri apvieno savas akcijas.\n6. Anulēto akciju vietā valde izgatavo attiecīgu skaitu jaunu akciju, kuras pārdod. No summas, kas ieņemta, pārdodot akcijas, atvelk izsludināšanas un pārdošanas izdevumus, bet pārējo summu valde izsniedz anulēto akciju turētājiem proporcionāli viņiem piederošo anulēto akciju skaitam.\n7. Apmainot akcijas pret jaunām vai tās anulējot, no apgrozības izņemamo akciju numuri tiek izlozēti."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "57",
+      "title": "Akciju sabiedrības pārvalde",
+      "content": "Akciju sabiedrību pārvalda akcionāru pilnsapulce, padome un valde."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "58",
+      "title": "Akcionāru pilnsapulce (kopsapulce)",
+      "content": "1. Akcionāru pilnsapulce (kopsapulce) ir augstākā akciju sabiedrības pārvaldes institūcija. Savas tiesības piedalīties sabiedrības pārvaldē akcionāri īsteno pilnsapulcē.\n2. Tiek sasauktas kārtējās un ārkārtas akcionāru pilnsapulces.\n3. Pilnsapulces sasauc sabiedrības valdes atrašanās vietā, ja sabiedrības statūtos nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "59",
+      "title": "Kārtējā pilnsapulce",
+      "content": "1. Kārtējo pilnsapulci sasauc valde ik gadu ne vēlāk kā četrus mēnešus pēc saimnieciskās darbības gada beigām. Šī pilnsapulce pārbauda un apstiprina sabiedrības darbības gada pārskatu, sabiedrības kārtējā gada budžetu un darbības plānu, atbrīvo valdi no atbildības, kā arī ievēlē padomes ( 68. pants ) un valdes locekļus, zvērinātus revidentus un revīzijas komisijas locekļus.\n2. Ja akciju sabiedrības valde nav sasaukusi kārtējo akcionāru pilnsapulci šajā likumā un sabiedrības statūtos paredzētajā laikā, pēc viena vai vairāku akcionāru pieprasījuma Latvijas Republikas Uzņēmumu reģistrs uzdod valdei sasaukt akcionāru pilnsapulci ne vēlāk kā mēneša laikā no dienas, kad lēmums paziņots valdei.\n3. Ja valde šā panta 2 . punktā minēto Latvijas Republikas Uzņēmumu reģistra lēmumu noteiktajā laikā neizpilda, Uzņēmuma reģistra valsts notārs sasauc un atklāj sabiedrības akcionāru pilnsapulci, kurā apspriežami jautājumi par sabiedrības gada pārskatu un budžetu, par sabiedrības pārvaldes institūciju amatpersonu pārvēlēšanu, kā arī citi jautājumi, kurus valde un akcionāri notāram iesnieguši statūtos paredzētajā laikā."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "60",
+      "title": "Ārkārtas pilnsapulce",
+      "content": "1. Ārkārtas pilnsapulci sasauc valde pēc savas iniciatīvas vai tad, ja to pieprasa sabiedrības padome, revīzijas komisija vai akcionāri, kas kopā pārstāv ne mazāk kā vienu divdesmito daļu no sabiedrības pamatkapitāla. Pieprasījumā jāuzrāda sapulces sasaukšanas iemesli un darba kārtība. Valdei sapulce jāsasauc mēneša laikā no pieprasījuma iesniegšanas dienas.\n2. Ja akciju sabiedrības valde šā panta 1. punktā minētajā laikā nesasauc akcionāru ārkārtas pilnsapulci, sapulces sasaukšanas ierosinātāji var griezties Latvijas Republikas Uzņēmumu reģistrā ar lūgumu sasaukt sapulci. Uzņēmuma reģistra valsts notāram sapulce jāsasauc un arī jāatklāj. Šāda sapulce sasaucama un lēmumi tajā pieņemami saskaņā ar noteikumiem par akcionāru pilnsapulci.\n3. Izdevumi, kas saistīti ar pilnsapulces sasaukšanu, kurā piedalās Uzņēmumu reģistra valsts notārs, piedzenami no sabiedrības."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "61",
+      "title": "Pilnsapulces sasaukšana, ja sabiedrība nonākusi finansiālās grūtībās",
+      "content": "1. Ja pēc sabiedrības bilances sastādīšanas izrādās, ka zaudēts viss rezerves kapitāls un trešā daļa no pamatkapitāla vai arī ja valde konstatē, ka sabiedrība kļuvusi maksātnespējīga un ar esošo īpašumu nevar segt savas parādu saistības, valdei par to nekavējoties jāziņo padomei un ne vēlāk kā mēneša laikā jāsasauc akcionāru pilnsapulce, lai tā lemtu par sabiedrības turpmāko darbību vai likvidāciju.\n2. Banku, lombardu un apdrošināšanas akciju sabiedrības pamatkapitāla un rezerves kapitāla zaudēšanas gadījumos rīkojas saskaņā ar likumu par šiem sabiedrību veidiem, kā arī to statūtu noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "62",
+      "title": "Akcionāru pilnsapulces tiesības",
+      "content": "Vienīgi akcionāru pilnsapulcei ir tiesības:\n1) izskatīt sabiedrības pārvaldes institūciju ziņojumus, apstiprināt darbības gada pārskatu un atbrīvot valdes locekļus no atbildības par aizvadīto darbības gadu;\n2) sadalīt aizvadītā darbības gada peļņu;\n3) apstiprināt sabiedrības kārtējā gada budžetu un darbības plānu;\n4) atcelt no amata un ievēlēt amatā padomes, valdes un revīzijas komisijas locekļus, padomes un valdes locekļu kandidātus, zvērinātus revidentus, revīzijas komisiju un likvidatorus, lemt par prasību vai sūdzību celšanu pret tiem vai par prasību vai sūdzību izbeigšanu, lemt par sabiedrības pārvaldes institūciju darbinieku algām;\n5) apstiprināt un grozīt valdei, padomei, direktoriem rīkotājiem, revīzijas komisijai un likvidatoriem paredzētās instrukcijas;\n6) ievēlēt mantas vērtības pieauguma vai samazinājuma konstatēšanai speciālu vērtēšanas komisiju, kā arī apstiprināt tās doto novērtējumu;\n7) lemt jautājumus par sabiedrības statūtu grozīšanu, pamatkapitāla palielināšanu vai samazināšanu, priekšrocību akciju un darbinieku akciju izlaišanu, sabiedrības likvidācijas uzsākšanu, darbības izbeigšanu, tās turpināšanu un apvienošanos ar citām sabiedrībām;\n8) lemt jautājumus par sabiedrības vērtspapīru emisiju un konversiju;\n9) izraudzīties bankas, kuru apliecības par akciju pieņemšanu glabāšanā var iesniegt oriģinālakciju vietā, lai varētu piedalīties akcionāru pilnsapulcēs;\n10) ja akciju sabiedrība ir holdingsabiedrība, izskatīt kontrolētu sabiedrību finansiālās darbības jautājumus."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "63",
+      "title": "Akcionāru pilnsapulču sasaukšana",
+      "content": "1. Sabiedrības pilnsapulču sasaukšana jāizsludina likumdošanā noteiktajā kārtībā vismaz 30 dienas iepriekš. Sludinājumā jānorāda pilnsapulces vieta un laiks, kā arī tās darba kārtība. Pilnsapulce var apspriest tikai darba kārtībā iekļautos jautājumus, izņemot šā panta 5. punktā paredzēto gadījumu.\n2. Ja pilnsapulcē paredzēts grozīt sabiedrības statūtus, sludinājumā un uzaicinājumā akcionāriem jānorāda, kādus statūtu pantus nodomāts grozīt un kāds ir grozījumu saturs. Akcionāriem jādara zināmi arī citu sapulcē pieņemamo lēmumu projekti.\n3. Vārda akciju un pagaidu apliecību īpašnieki uzaicināmi uz sapulci neatkarīgi no sludinājuma publicēšanas ar ierakstītām vēstulēm, kuras izsūtāmas vismaz 25 dienas pirms pilnsapulces uz akcionāru grāmatā uzrādītajām adresēm. Uzaicinājumus var izsūtīt arī telegrāfiski.\nIerakstītajās vēstulēs vai telegrammās jānorāda sapulces vieta, laiks un darba kārtība, kā arī lēmumu projekti un citas nepieciešamās ziņas.\n4. Akcionāriem., kuri pārstāv vismaz desmito daļu no pamatkapitāla, ir tiesības 7 dienu laikā pēc uzaicinājuma saņemšanas pieprasīt valdei jebkura jautājuma iekļaušanu pilnsapulces darba kārtībā.\n5. Ja sapulcē pārstāvēts viss pamatkapitāls, tā uzskatāma par likumīgu neatkarīgi no sasaukšanas laika un veida. Šī sapulce var apspriest arī darba kārtībā neiekļautus jautājumus, ja tam vienbalsīgi piekrīt visi akcionāri."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "64",
+      "title": "Akcionāru piedalīšanās pilnsapulcē",
+      "content": "1. Vārda akciju un pagaidu apliecību īpašniekiem ir balsstiesības akcionāru pilnsapulcē tikai tad. ja viņi ierakstīti akcionāru grāmatā ( 40. panta 3. punkts) vismaz 10 dienas pirms pilnsapulces.\n2. Ja akcionārs vismaz 7 dienas pirms pilnsapulces iesniedz valdei rakstveida pieprasījumu, valdei ir jādod viņam visa nepieciešamā informācija par visiem darba kārtībā paredzētajiem jautājumiem. Valde var atteikties dot šādu informāciju tikai tad, ja ar to tiktu kaitēts sabiedrības svarīgām ekonomiskām interesēm vai izpausts komercnoslēpums. Strīdus starp akcionāriem un valdi šajos jautājumos izšķir pilnsapulce.\n3. Akcionāri var piedalīties pilnsapulcē gan personiski, gan ar savu pārstāvju vai pilnvarnieku starpniecību. Pilnvarai jābūt noformētai rakstveidā, un tā pievienojama pilnsapulces protokolam. Sabiedrības pārvaldes loceklis nevar būt cita akcionāra pilnvarnieks.\n4. Sabiedrības, kurās ir liels akcionāru skaits, savos statūtos var paredzēt nevis visu akcionāru personisku piedalīšanos pilnsapulcēs, bet gan akcionāru grupu pilnvarnieku piedalīšanos. Tādā gadījumā statūtos jāparedz, cik akcionāru pārstāv viens pilnvarnieks, kā arī pilnvarnieku ievēlēšanas un pilnvaru izsniegšanas kārtība un katra pilnvarotā balsu skaita noteikšana.\nStatūtos jāparedz, kādā kārtībā sapulcē piedalās akcionāru juridisko personu pilnvarnieki.\n5. Ja vairākām personām kopā pieder viena akcija, balsstiesības pilnsapulcē ir tikai vienai no šīm personām kā pārējo pārstāvei.\n6. Valde sastāda to akcionāru un pilnvarnieku sarakstu, kuriem ir tiesības piedalīties akcionāru pilnsapulcē. Sarakstā jānorāda akcionāra (juridiskās personas pilnvarnieka) uzvārds un vārds, viņam piederošo akciju skaits un numuri, kā arī pilnvarnieka balsu skaits. Turklāt jāņem vērā balsstiesību ierobežojumi sabiedrību līdzdalības gadījumā ( 96. pants , 97. panta 6. punkts, 99. panta 1. punkts).\nSarakstu paraksta valdes locekļi un ne vēlāk kā 3 dienas pirms akcionāru pilnsapulces izliek valdes telpās redzamā vietā akcionāru ieskatam.\n7. Pirms pilnsapulces atklāšanas revīzijas komisija vai zvērināti revidenti ( 85. pants ) pārbauda valdes sastādīto akcionāru sarakstu. Ja klātesošie akcionāri, kas pārstāv vismaz vienu divdesmito daļu no pamatkapitāla, to pieprasa, saraksts jāpārbauda arī pašā sapulcē. Šai nolūkā akcionāri ievēlē komisiju, ne mazāku par 3 personām, turklāt vismaz vienu no tām ir tiesības ievēlēt tai akcionāru grupai, kura pieprasījusi akcionāru saraksta pārbaudīšanu sapulcē.\n8. Akcionāru pilnsapulcē ar padomdevēja balsstiesībām drīkst piedalīties valdes un padomes locekļi, kas nav akcionāri, kā arī zvērināti revidenti.\n9. Katra akcija pilnsapulcē dod tiesības uz vienu balsi, ja statūtos nav paredzēts, ka tiesības uz vienu balsi dod lielāks akciju skaits. Ikviens akcionārs bauda balsstiesības atbilstoši viņam piederošo akciju skaitam. Statūtos var būt paredzēti balsstiesību ierobežojumi atsevišķiem akcionāriem, kuriem pieder liels skaits akciju.\nJa statūtos paredzētas atšķirīgas balsstiesības dažādām akciju kategorijām vai dažādu akcionāru akcijām, tad nevienas kategorijas akcijām un neviena akcionāra akcijām nedrīkst būt balsstiesības, kas vairāk nekā 10 reizes pārsniedz jebkuras citas akciju kategorijas vai jebkura cita akvionāra akciju balsstiesības.\nStatūtos var paredzēt balsstiesības tikai pilnīgi samaksātām akcijām vai arī balsstiesības proporcionāli samaksātajai akciju daļai."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "65",
+      "title": "Pilnsapulces norise",
+      "content": "1. Sapulci atklāj valdes priekšsēdētājs (prezidents) vai viņa vietnieks (viceprezidents). Pēc sapulces atklāšanas akcionāri ievēlē no sava vidus sapulces vadītāju, kas uzaicina kādu no klātesošajiem akcionāriem būt par sapulces sekretāru (protokolistu); sapulce ievēlē arī divus akcionārus, kas apliecinās sapulces protokola pareizību.\n2. Sapulce ir tiesīga, ja tajā pārstāvēta vismaz puse no pamatkapitāla. Ja laikus izsludinātā sapulce nav pilntiesīga kvoruma trūkuma dēļ, ne vēlāk kā 15 dienu laikā tiek sasaukta atkārtota pilnsapulce ar to pašu darba kārtību, un tā ir tiesīga lemt neatkarīgi no klātesošo balsstiesīgo akcionāru skaita.\nLai izlemtu šā likuma 42. . 43. , 44. un 48. pantā , 54. panta 5. punktā ietvertos jautājumus, kā arī jautājumus par statūtu grozīšanu un sabiedrības likvidēšanu, nepieciešams sapulces kvorums, kas kopā pārstāv ne mazāk par četrām piektdaļām no pamatkapitāla.\n3. Pilnsapulce pieņem lēmumus ar klātesošo akcionāru pārstāvētā kapitāla balsu vairākumu. Lēmumi par sabiedrības mērķu grozīšanu, apvienošanos ar citām sabiedrībām un firmas maiņu ir spēkā, ja par to nobalso akcionāri, kuri pārstāv ne mazāk par četrām piektdaļām no pamatkapitāla. Padomi, valdi, zvērinātus revidentus, revīzijas un likvidācijas komisijas locekļus ievēlē ar klātesošo akcionāru pārstāvētā kapitāla balsu vairākumu.\n4. Valdes, padomes, revīzijas komisijas locekļiem un likvidatoriem nav ne personisku, ne pilnvarotu, ne likumiskas pārstāvības balsstiesību, kad izlemjami jautājumi par viņu saukšanu pie atbildības un atcelšanu no amata, par viņu atalgojumu un viņu parakstīto gada pārskatu apstiprināšanu.\nJa sapulce apspriež jautājumu par līguma slēgšanu starp sabiedrību un tās akcionāru vai lemj par prasības vai sūdzības celšanu vai izbeigšanu starp viņu un sabiedrību, šim akcionāram nav ne personisku, ne pilnvarotu, ne likumiskas pārstāvības balsstiesību.\n5. Pilnsapulcē balsošana parasti notiek atklāti, izņemot gadījumus, kad aizklātu balsošanu pieprasa kaut vai viens no akcionāriem.\n6. Valdei pēc akcionāra pieprasījuma pilnsapulces laikā jādod ziņas par akciju sabiedrības saimniecisko stāvokli tādā apjomā, kādā tas nepieciešams darba kārtības attiecīgā jautājuma izskatīšanai. Valde var atteikties sniegt šādu informāciju tikai tad, ja tās izpaušana varētu radīt zaudējumus sabiedrībai vai tās kontrahentiem."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "66",
+      "title": "Pilnsapulces protokols",
+      "content": "I. Akcionāru pilnsapulces protokolā jānorāda:\n1) akciju sabiedrības nosaukums un adrese;\n2) pilnsapulces vieta un laiks;\n3) sapulces vadītāja, sekretāra, balsu skaitītāju un protokola pareizības apliecinātāju vārds un uzvārds;\n4) sapulces darba kārtība;\n5) svarīgākie notikumi sapulces laikā, iesniegtie priekšlikumi;\n6) pieņemtie lēmumi, atzīmējot par katru lēmumu «par», «pret» un atturējušos balsu skaitu;\n7) padomes vai valdes locekļa vai jebkura akcionāra protests, ja persona, kas izsaka protestu, pieprasa to protokolā.\n2. Protokolu paraksta pilnsapulces vadītājs, sekretārs, kā arī divi sapulces ievēlētie akcionāri, kuri apliecina protokola pareizību.\n3. Valdes pienākums ir 30 dienu laikā pēc pilnsapulces iesniegt Latvijas Republikas Uzņēmumu reģistram sapulces protokola vienu eksemplāru, kā arī sapulces dalībnieku saraksta un pilnsapulces sasaukšanas sludinājuma norakstu.\n4. Pilnsapulces protokolam jābūt vienu mēnesi izliktam redzamā vietā sabiedrības telpās.\n5. Katram akcionāram ir tiesības pieprasīt, lai valde viņam pret samaksu izsniedz pilnsapulces protokola norakstu vai izrakstu no tā."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "67",
+      "title": "Pilnsapulces lēmumu apstrīdēšana",
+      "content": "1. Strīdus par pilnsapulces lēmumiem izšķir tiesa, ja šie lēmumi ir pretrunā ar Latvijas Republikas likumiem vai akciju sabiedrības statūtiem. Pilnsapulces lēmums ir atceļams, ja tas pieņemts, akcionāram izmantojot balsstiesības, lai panāktu sev vai trešajai personai nepamatotas priekšrocības, un ir pretrunā ar sabiedrības interesēm.\n2. Iesniegt tiesā prasību par pilnsapulces lēmumu atcelšanu var:\n1) valde, padome un revīzijas komisija;\n2) katrs akcionārs, kas piedalījies pilnsapulcē, ja viņš balsojis pret apstrīdamajiem lēmumiem un pieprasījis to ieprotokolēt;\n3) akcionārs, kas bez likumīga pamata nav pielaists pilnsapulcē;\n4) pārējie akcionāri, kas pilnsapulcē nav piedalījušies, — tikai tādā gadījumā, ja sapulce nav pareizi sasaukta vai ja tā lēmusi par darba kārtībā neiekļautiem jautājumiem.\nJa prasību ceļ akcionārs, viņam jāpierāda, ka viņš ir akciju īpašnieks ne mazāk kā 3 mēnešus pirms tās pilnsapulces dienas, kuras lēmumu viņš apstrīd.\n3. Prasība par pilnsapulces lēmumu atcelšanu ceļama pret akciju sabiedrību. Ja prasību ceļ valde, akciju sabiedrību tiesā pārstāv padome, bet, ja tādas nav, — pilnsapulces ievēlētie pārstāvji; ja arī tie nav ievēlēti, — Uzņēmumu reģistra iecelts pārstāvis no akcionāru vidus.\n4. Līdz ar tiesas sprieduma par lēmuma atcelšanu stāšanos spēkā tiesa to paziņo Latvijas Republikas Uzņēmumu reģistram.\n5. Pilnsapulces lēmums uzskatāms par spēkā neesošu;\n1) ja ar to pārkāpti spēkā esošie likumi un citi likumdošanas akti;\n2) ja tas ar tiesas spriedumu atcelts (67. panta 3. punkts).\n6. Prasībām par pilnsapulces lēmuma atzīšanu par spēkā neesošu (5. punkta 1. apakšpunkts) attiecīgi piemērojami šā panta 3. un 4. punkta noteikumi.\n7. Par zaudējumiem, kas sabiedrībai cēlušies pilnsapulču lēmumu nepamatotas apstrīdēšanas dēļ, prasītāji atbild solidāri, ja viņi prasību cēluši ļaunprātīgi."
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "68",
+      "title": "Akciju sabiedrības padome",
+      "content": "1. Akcionāru pilnsapulce ievēlē sabiedrības padomi, kas pārstāv akcionāru intereses pilnsapulču starplaikā un statūtos noteiktajos ietvaros kontrolē valdes darbību.\n2. Banku un lombardu akciju sabiedrībās padomes tiesības un pienākumus nosaka to statūti."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "69",
+      "title": "Padomes sastāvs",
+      "content": "1. Padome sastāv vismaz no 3 locekļiem un 2—7 padomes locekļu kandidātiem. Padomē var ievēlēt gan akcionārus, gan arī citas personas. Ja akciju sabiedrības pamatkapitāls ir mazāks par 3 miljoniem rubļu, padomes sastāvā ievēlē līdz 9 locekļiem; ja pamatkapitāls ir no 3 līdz 20 miljoniem rubļu, — līdz 15 locekļiem, bet, ja pamatkapitāls pārsniedz 20 miljonus, — līdz 21 loceklim. Padomes locekļu skaitam jādalās ar 3.\n2. Padomes locekļi no sava vidus ievēlē padomes priekšsēdētāju un viņa vietnieku.\n3. Padomes locekļus ievēlot, piemērojami šā likuma 74. pantā paredzētie noteikumi. Par padomes locekli nevar būt ne valdes, ne revīzijas komisijas loceklis, ne arī sabiedrības juriskonsults. Padomes loceklis nevar būt valdes loceklis.\nViena persona vienlaikus nevar būt par padomes locekli vairāk nekā sešās akciju sabiedrībās.\n4. Padomes loceklis vai locekļa kandidāts paliek nepārvēlēts amatā ne ilgāk par 3 gadiem. Katru gadu akcionāru pilnsapulce, ievērojot padomes locekļu skaitu, nosaka, cik padomes locekļiem jāatstāj amats. Pirmajos divos gados amatu atstāj lozējot, vēlāk savas pilnvaras noliek tie padomes locekļi, kuri ievēlēti agrāk. Bijušos padomes locekļus var ievēlēt šajā amatā no jauna.\n5. Padomes loceklis nevar uzticēt savu pienākumu pildīšanu citai personai. Ja kāds padomes loceklis atstāj amatu priekšlaikus, viņa vietā stājas padomes locekļa kandidāts akcionāru pilnsapulces noteiktajā kārtībā.\n6. Pārmaiņas padomes locekļu sastāvā jāpaziņo Latvijas Republikas Uzņēmumu reģistram.\n7. Vismaz trešdaļai no Latvijas Republikas akciju sabiedrības padomes sastāva jābūt Latvijas Republikas pilsoņiem vai pastāvīgajiem iedzīvotājiem, kas Latvijas Republikā nodzīvojuši ne mazāk kā 25 gadus."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "70",
+      "title": "Padomes tiesības un pienākumi",
+      "content": "1. Padomes uzdevumi ir:\n1) pastāvīgi kontrolēt valdes darbību un raudzīties, lai akciju sabiedrības lietas tiktu kārtotas saskaņā ar likumiem, saistošajiem noteikumiem, sabiedrības statūtiem un akcionāru pilnsapulces lēmumiem;\n2) pārbaudīt valdes iesniegto izdevumu budžetu, pieļaujot tajā atkāpes pilnsapulces noteiktajos ietvaros, un līdz ar savu atsauksmi iesniegt to pilnsapulcei apstiprināšanai;\n3) pārbaudīt sabiedrības gada pārskatu (77. pants) un valdes priekšlikumu par tīrās pelņas sadalīšanu. Ja sabiedrības revīziju izdarījuši zvērināti revidenti, padomei nav jāizskata ieraksti grāmatās un attaisnojošie dokumenti;\n4) pārstāvēt akciju sabiedrību pret valdes locekļiem tiesā, arbitrāžā vai šķīrējtiesā visās sabiedrības celtajās prasībās, kā arī valdes celtajās prasībās pret sabiedrību (67. panta 3. punkts);\n5) iepriekš izskatīt visus jautājumus, kas ir pilnsapulces kompetencē vai kas pēc valdes vai padomes locekļu ierosinājuma tiek ieteikti pilnsapulcei.\n2. Padomei ir tiesības katrā laikā pieprasīt no valdes pārskatu par sabiedrības stāvokli. Padome var pārbaudīt sabiedrības grāmatas un dokumentus, kā arī sabiedrības kasi, vērtspapīrus, preces, izejvielas, pusfabrikātus, gatavo produkciju un citu mantu. Padome var šo pārbaudi uzticēt kādam no saviem locekļiem vai uzdot atsevišķu jautājumu noskaidrošanu pieaicinātam lietpratējam. Padome var arī no saviem locekļiem un pieaicinātām personām izveidot šā likuma 81. panta 5. punktā minētās komisijas.\n3. Akcionāriem, kas pārstāv ne mazāk par 10 procentiem no pamatkapitāla, ir tiesības rakstveidā, uzrādot iemeslus, pieprasīt, lai padome pārbauda valdes darbu sabiedrības komercdarbības vadīšanā. Ja padome šādu pārbaudi mēneša laikā neizdara, akcionāriem ir tiesības šo jautājumu nodot izskatīšanai pilnsapulcē.\n4. Padomei nav tiesību risināt jautājumus, kas ir valdes kompetencē. Tomēr akcionāru pilnsapulce var noteikt, ka valdei svarīgu jautājumu izlemšanā vajadzīga padomes piekrišana. Ja padome noraida priekšlikumu šādā jautājumā, valdei ir tiesības sasaukt akcionāru ārkārtas pilnsapulci.\nPar šādiem svarīgiem jautājumiem uzskatāmi: līdzdalības iegūšana, palielināšana vai samazināšana citās sabiedrībās; uzņēmumu pirkšana, pārdošana vai darbības apturēšana; nekustama īpašumu pirkšana, pārdošana vai apgrūtināšana ar parādiem; filiāļu (nodaļu) atvēršana vai slēgšana; kapitālieguldījumu palielināšana virs pilnsapulces noteiktajām summām; aizņēmuma līguma noslēgšana virs pilnsapulces noteiktajām summām; kredītu izsniegšana, ja tie nav saistīti ar sabiedrības kārtējo darbību; jaunu nozaru un darbības veidu uzsākšana un pastāvošo darbības veidu pārtraukšana; kredītu piešķiršana sabiedrības vadošajiem darbiniekiem; vispārīgo darbības principu noteikšana.\n5. Padome var uzdot valdei sasaukt akcionāru pilnsapulci ( 60. pants ), ja to prasa akciju sabiedrības intereses.\n6. Padome iesniedz akcionāru pilnsapulcei ziņojumu, kurā novērtēta akciju sabiedrības darbība, valdes ziņojums, kā arī izteikti priekšlikumi par sabiedrības darbības uzlabošanu.\n7. Padomes tiesības un pienākumus šā likuma ietvaros detalizētāk nosaka sabiedrības statūti."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "71",
+      "title": "Padomes darbība",
+      "content": "1. Padomes sēdes sasauc padomes priekšsēdētājs pēc vajadzības. Katram padomes loceklim, kā arī valdei ir tiesības pieprasīt padomes sēdes sasaukšanu, motivējot sēdos sasaukšanas vajadzību un nolūku.\nJa priekšsēdētājs padomes locekļa pieprasījumu 2 nedēļu laikā neizpilda, sēdes sasaukšanas ierosinātājam ir tiesības, paskaidrojot lietas apstākļus, pašam sasaukt padomes sēdi.\n2. Padome ir lemttiesīga, ja tās sēdē piedalās ne mazāk kā puse no padomes locekļiem. Padome pieņem savus lēmumus ar vienkāršu balsu vairākumu, balsīm daloties vienlīdzīgi, izšķirošā ir priekšsēdētāja balss. Padomes sēžu protokolus paraksta klātesošie padomes locekļi.\n3. Padomes locekļiem, kā arī padomes izveidoto komisiju locekļiem par viņiem uzlikto pienākumu izpildīšanu var piešķirt atlīdzību no sabiedrības tīras peļņas pilnsapulces noteiktajos ietvaros.\n4. Padomes locekļus var jebkurā laikā atcelt no amata uz akcionāru pilnsapulces lēmuma pamata. Padomes locekļa atcelšana neatņem viņam tiesības prasīt, lai sabiedrība atlīdzina viņam sakarā ar tādu atcelšanu nodarītos zaudējumus, ja atcelšana bijusi nepamatota."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "72",
+      "title": "Akciju sabiedrības valde",
+      "content": "1. Akciju sabiedrības darbību vada valde, kas pilda savas funkcijas padomes uzraudzībā.\n2. Valde pārzina un vada visas sabiedrības lietas. Tā atbild par visu sabiedrības saimniecisko darbību, kā arī par likumam atbilstošu grāmatvedību. Valde pārstāv sabiedrību. Valde pārvalda sabiedrības mantu un rīkojas ar tās kapitāliem atbilstoši šā likuma un statūtu noteikumiem un akcionāru pilnsapulču norādījumiem.\n3. Ja, sabiedrību dibinot, tās pagaidu valde nav veikusi dibināšanas darbības pārbaudi (25. pants), šāda pārbaude jāizdara pirmajai jaunievēlētajai valdei un padomei.\nPārbaude izdarāma divu mēnešu laikā pēc dibināšanas sapulces saskaņā ar šā likuma 25. panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "73",
+      "title": "Valdes sastāvs",
+      "content": "1. Sabiedrības pilnsapulce ievēlē valdi no 3 līdz 12 locekļiem, no kuriem Latvijas Republikas akciju sabiedrības valdē vismaz pusei jābūt Latvijas Republikas pilsoņiem vai tās pastāvīgajiem iedzīvotājiem, kas Latvijas Republikā nodzīvojuši ne mazāk kā 25 gadus.\nMinētais ierobežojums nav spēkā Latvijas Republikas akciju sabiedrībās, kurās piedalās ārvalstu kapitāls, ja vismaz 40 procenti no šo sabiedrību pamatkapitāla ir ieguldīti brīvi konvertējamā valūtā.\n2. Trūkstošo valdes locekļu aizvietošanai pilnsapulce ievēlē vienu vai vairākus kandidātus. Uz kandidātiem attiecas tie paši noteikumi, kas attiecas uz valdes locekļiem.\n3. Par valdes locekļiem var ievēlēt gan sabiedrības akcionārus, gan citas personas.\n4. Ievēlētajiem valdes locekļiem mēneša laikā no ievēlēšanas dienas jāiegādājas statūtos noteiktais sabiedrības akciju daudzums un kā nodrošinājums jāiesniedz glabāšanā sabiedrības valdē. Šīs akcijas izdodamas viņiem atpakaļ tikai pēc amata atstāšanas un atbrīvošanas no atbildības. Valdes locekļi, kuri mēneša laikā neiesniedz valdē statūtos noteikto sabiedrības akciju daudzumu, skaitās izstājušies no valdes. Statūtos jāparedz, ka šim nolūkam valdes rīcībā ir attiecīga akciju rezerve.\nValdes locekļiem, kuri pārstāv institūcijas vai sabiedriskās organizācijas, vai citas akciju sabiedrības akciju kapitālu, akcijas par saviem līdzekļiem jāiegādājas tāpat kā visiem citiem valdes locekļiem.\n5. Statūtos var paredzēt, ka sabiedrības operatīvai vadīšanai pilnsapulce var ievēlēt pati vai piešķirt valdei tiesības ievēlēt no sava vai citu personu vidus vienu vai vairākus direktorus rīkotājus. Tādā gadījumā pilnsapulce nosaka direktoru rīkotāju tiesības, pienākumus un atbildību. Valde atbild par tās ievēlēto direktoru rīkotāju rīcību.\nStatūtos var arī paredzēt, ka sabiedrības operatīvo vadību realizē akciju sabiedrības prezidents (valdes priekšsēdētājs).\n6. Valdes loceklis vai locekļa kandidāts paliek amatā nepārvēlēts ne ilgāk par 3 gadiem.\n7. Valdes priekšsēdētāju (akciju sabiedrības prezidentu) un viņa vietnieku (viceprezidentu), ja sabiedrības statūti nenoteic citādi, ievēlē valdes locekļi no sava vidus.\n8. Visas pārmaiņas valdes sastāvā, kā arī pārmaiņas valdes locekļu paraksta tiesībās jāpaziņo Latvijas Republikas Uzņēmumu reģistram un jāpublicē likumdošanā noteiktajā kārtībā.\n9. Valdes locekļi saņem atalgojumu akcionāru pilnsapulces noteiktajos apmēros, turklāt sabiedrībās, kuras peļņas niecīguma dēļ dividendi nevar sadalīt vai kuru sadalāmā dividende nepārsniedz 4 procentus no pamatkapitāla, maksimālā atalgojuma apmērus ievēlētajiem valdes locekļiem nosaka finansu ministrs."
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "74",
+      "title": "Ierobežojumi valdes locekļiem",
+      "content": "1. Valdes locekļi nedrīkst bez akcionāru pilnsapulces piekrišanas būt darbinieki citā uzņēmējsabiedrībā vai cita uzņēmuma īpašnieki.\n2. Ja valdes loceklis šā panta noteikumus neievēro, sabiedrība var pieprasīt no viņa radušos zaudējumu atlīdzību. Sabiedrība var pieprasīt, lai viņš uz sava rēķina noslēgtos darījumus uzskatītu par tādiem, kas noslēgti uz sabiedrības rēķina, ja tam piekrīt sabiedrība, kurā viņš piedalās, un lai atlīdzību, kas gūta no darījumiem uz sveša rēķina, nodotu sabiedrībai vai atteiktos tai par labu no šādas atlīdzības prasījuma. Strīdus šādā gadījumā izšķir tiesa.\n3. Banku, lombardu un apdrošināšanas akciju sabiedrību valdes, padomes un revīzijas komisijas locekļu pienākumus amatu savienošanas jautājumos reglamentē attiecīgie likumi un sabiedrības statūti.\n4. Ja sabiedrības intereses saduras ar kāda valdes locekļa, viņa laulātā, radinieka vai svaiņa interesēm, skaitot radniecību līdz 3. pakāpei un svainību līdz 2. pakāpei, jautājumu izlemj valdes sēdē, kurā ieinteresētais valdes loceklis nedrīkst piedalīties, un tas atzīmējams valdes sēdes protokolā. Valdes locekļi, kas pārkāpj šos noteikumus, attiecīgi atbild par sabiedrībai nodarītajiem zaudējumiem.\n5. Par radiniekiem līdz 3. pakāpei šā likuma izpratnē uzskatāmi bērni (arī adoptētie) un viņu bērni; brāļi un māsas (arī pusbrāļi un pusmāsas) un viņu bērni (arī adoptētie); vecāki (arī adoptētāji), vecāku vecāki, viņu brāļi un māsas, kā arī pēdējo bērni un mazbērni.\n6. Par svaiņiem līdz 2. pakāpei šā likuma izpratnē uzskatāmi sievas un vīra brāļi un māsas (arī pusbrāļi un pusmāsas) un viņu bērni (arī adoptētie), sievas un vīra vecāki (arī adoptētāji).\n7. Sabiedrībās, kuru galvenie akcionāri ir valsts vai pašvaldību uzņēmumi, iestādes un organizācijas, aizliegts par kalpotājiem strādāt kopā personām, kas savā starpā ir tuvi radinieki, ja viņi kopējā darbā tieši pakļauti viens otram vai tieši kontrolē viens otru.\n8. Sabiedrības direktoram rīkotājam rakstveidā jāpaziņo valdei, cik sabiedrības akciju pieder viņam, viņa ģimenes locekļiem un tuvākajiem radiniekiem."
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "75",
+      "title": "Valdes tiesības un pienākumi",
+      "content": "1. Valde kārto izdevumus sabiedrības budžeta ietvaros, kuru ik gadu apstiprina akcionāru pilnsapulce. Pilnsapulce lemj, par kādu summu valde īpašos gadījumos var pārsniegt budžeta ietvarus, turklāt valde atbild par šādu izdevumu vajadzību.\n2. Pilnvaras, līgumus un citus dokumentus, ja statūti nenoteic citādi, paraksta 2 valdes locekļi. Bankas dokumentus saskaņā ar spēkā esošo likumdošanu paraksta valdes pilnvarotas personas.\n3. Sabiedrībās, kuru valdē ir vairāk par 3 locekļiem, valdes sēdes ir pilntiesīgas, ja tajās piedalās ne mazāk par pusi no tiem. Valdes sēdes protokolu paraksta visi klātesošie valdes locekļi.\n4. Valde pieņem lēmumus ar vienkāršu balsu vairākumu, bet, ja balsu vairākuma nav, strīdīgo jautājumu nodod izlemšanai padomei, izņemot gadījumus, kad statūti prasa vai pilnsapulce paredz kvalificētu vairākumu. Ja valdes loceklis nepiekrīt valdes lēmumam un pieprasa, lai viņa protestu fiksē protokolā, viņš nav atbildīgs par pieņemto lēmumu.\nDirektoram rīkotājam, ja viņš nav valdes loceklis, valdes sēdēs ir padomdevēja balsstiesības.\n5. Valdei attiecībā uz sabiedrību jāievēro visi likumā vai statūtos paredzētie, kā arī akcionāru pilnsapulcē pieņemtie noteikumi, sevišķi tie, kas ierobežo valdes rīcības tiesības.\nAttiecībā uz trešajām personām šie valdes rīcības ierobežojumi nav spēkā, ja tie nav fiksēti Uzņēmumu reģistrā vai ja tām šie ierobežojumi nav bijuši zināmi. Tas īpaši attiecas uz gadījumiem, kad valdei ir bijušas tiesības slēgt tikai noteiktus darījumus vai kad tai ir tiesības rīkoties tikai noteiktos apstākļos var noteiktā laikā vai noteiktā vietā, vai kad noteiktiem darījumiem bijusi nepieciešama padomes vai akcionāru pilnsapulces piekrišana.\n6. Ja sabiedrības pašas manta vairs nesedz tās saistības, valdei jārīkojas šā likuma 61. pantā noteiktajā kārtībā.\n7, Valdei reizi ceturksnī jāsniedz rakstveida ziņojums par savu darbību padomei, bet gada beigās — akcionāru pilnsapulcei. Ziņojumā jāatspoguļo svarīgākās ieceres uzņēmējdarbībā un sabiedrības pārvaldē, sabiedrības rentabilitāte, preču un pakalpojumu realizācija, vērtspapīru kustība. Valdes priekšsēdētājs (prezidents) informē padomes priekšsēdētāju par ikvienu nozīmīgu sabiedrības darbības aspektu."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "Piektā nodaļa AKCIJU SABIEDRĪBAS ORGANIZATORISKĀ STRUKTŪRA",
+      "section": "76",
+      "title": "Valdes locekļu atstādināšana vai atcelšana no amata",
+      "content": "1. Akcionāru pilnsapulce var jebkurā laikā atstādināt valdes locekli no viņam uzticēto pienākumu pildīšanas un atcelt no valdes locekļa amata.\nValdes loceklis var prasīt no sabiedrības atlīdzību par zaudējumu, kas viņam nodarīts sakarā ar atstādināšanu vai atcelšanu, ja atstādināšana vai atcelšana bijusi nepamatota.\n2. Sabiedrības padomei ir tiesības jebkurā laikā atstādināt jebkuru valdes locekli no darba valdē, ja viņš rupji pārkāpj savus darba pienākumus vai neatbilst ieņemamajam amatam vai izpildāmajam darbam. Tādā gadījumā padomei vienlaikus jāieceļ vietas izpildītājs. Lēmumu par šāda valdes locekļa atcelšanu no amata vai atjaunošanu darbā pieņem kārtējā vai ārkārtējā pilnsapulce; ja valdes locekli atjauno iepriekšējā darbā, viņam ir tiesības likumdošanā noteiktajā kārtībā prasīt samaksu par darba piespiedu kavējumu.\n3. Valdes loceklis var jebkurā laikā iesniegt lūgumu atbrīvot viņu no uzticēto pienākumu pildīšanas. Statūtos jāparedz kārtība, kāda padome vai pilnsapulce atbrīvo šādu valdes locekli no darba un atbildības."
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "Sestā nodaļa GADA PĀRSKATS, BILANCES SASTĀDĪŠANA UN PEĻŅAS SADALĪŠANA",
+      "section": "77",
+      "title": "Sabiedrības gada pārskats",
+      "content": "1. Akciju sabiedrība organizē lietvedību, grāmatvedību un statistisko uzskaiti, sastāda un iesniedz pārskatus atbilstoši spēkā esošajiem likumdošanas aktiem.\n2. Par sabiedrības darbības gadu uzskatāms kalendāra gads, ja sabiedrības statūti nenoteic citādi.\nNe vēlāk kā divus mēnešus pēc darbības gada beigām, ja statūti nenosaka īsāku termiņu, valde iesniedz zvērinātiem revidentiem un, ja ievēlēta revīzijas komisija, arī tai pārbaudīšanai sabiedrības gada pārskatu, kurā ietilpst bilance uz aizvadītā darbības gada pēdējo dienu (bilances dienu), peļņas un zaudējumu konts, pārskats par. apgrozījumu un valdes rakstveida ziņojums par aizvadīto darbības gadu un sabiedrības pašreizējo stāvokli.\n3. Ja sabiedrība savu darbību iesākusi gada otrajā pusē, pārskatu par atlikušo darbības gada daļu var apvienot ar nākamo darbības gadu.\n4. Valdei nekavējoties jāizsniedz katram sabiedrības akcionāram pēc viņa pieprasījuma bilances, peļņas un zaudējumu konta un revīzijas atsauksmes noraksts, turklāt akcionārs pieprasījumu var iesniegt ne agrāk par 14 dienām pirms pilnsapulces sasaukšanas dienas.\n5. Sabiedrība sastāda un publicē savu bilanci biežāk nekā reizi gadā, ja tas paredzēts likumdošanas aktos par noteiktiem sabiedrību veidiem."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "Sestā nodaļa GADA PĀRSKATS, BILANCES SASTĀDĪŠANA UN PEĻŅAS SADALĪŠANA",
+      "section": "78",
+      "title": "Sabiedrības bilances sastādīšanas kārtība",
+      "content": "1. Nekustamā īpašuma, mašīnu, darbarīku, transporta līdzekļu un citas ilgai lietošanai paredzētas mantas vērtība norādāma bilances aktīvā ne augstāka par tās iepirkšanas vērtību, ņemot vērā amortizācijas norakstījumus. Bilances pasīvā norādāms attiecīgais amortizācijas konts.\n2. Mantas vērtības pieaugums norādāms bilancē tikai tad, ja šo pieaugumu konstatējusi speciāla akcionāru pilnsapulces izveidota vērtēšanas komisija un tās novērtējumam piekritusi pilnsapulce.\nBanku, lombardu .un apdrošināšanas akciju sabiedrību akcionāru pilnsapulču lēmumus par mantas pieauguma norādīšanu bilancē apstiprina finansu ministrs.\n3. Izejvielu, pusfabrikātu, izstrādājumu, kā arī preču un citu apgrozāmo līdzekļu vērtība bilancē norādāma ne augstāka par to iepirkuma cenu vai pašizmaksu. Ja iepirkuma cena vai pašizmaksa bilances sastādīšanas dienā ir augstāka par tirgus cenu, minētās mantas vērtība norādāma bilancē ne augstāka par tirgus cenu.\n4. Vērtspapīru un ārzemju valūtas vērtība norādāma bilancē ne augstāka par iepirkuma cenu. Ja vērtspapīru un ārzemju valūtas oficiālais kurss bilances sastādīšanas dienā ir zemāks par iepirkuma cenu, tas norādāms ne augstāks par oficiālo kursu. Prasījumi un saistības ārzemju valūtā jāaprēķina pēc šīs valūtas oficiālā kursa bilances sastādīšanas dienā.\n5. Pamatkapitāls, rezerves kapitāls, norakstījumu (amortizācijas) kapitāls un dažādi speciāli kapitāli norādāmi bilances pasīvā atsevišķos posteņos.\n6. Sabiedrības dibināšanas vai uzņēmuma paplašināšanas izdevumi, ja tos norāda bilances aktīvā, dzēšami līdzīgās daļās 3 gadu laikā. Pārvaldes izdevumi norakstāmi par katru gadu, un tie nav norādāmi bilances aktīvā kā organizācijas vai dibināšanas izdevumi."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "Sestā nodaļa GADA PĀRSKATS, BILANCES SASTĀDĪŠANA UN PEĻŅAS SADALĪŠANA",
+      "section": "79",
+      "title": "Sabiedrības peļņas izlietošana",
+      "content": "1. Pēc bilances, kā arī peļņas un zaudējumu konta apstiprināšanas akcionāru pilnsapulcē ne mazāk par 5 procentiem no peļņas pēc nodokļu nomaksas, atrēķinot norakstījumus (amortizāciju), pieskaitāmi rezerves kapitālam, kamēr tas sasniedz trešo daļu no pamatkapitāla. Par atlikušās summas izlietošanu lemj akcionāru pilnsapulce, nosakot summas, kas ieskaitāmas investīciju kapitālā un citos kapitālos, atvēlējamas darbinieku kolektīva sociālajai sfērai vai labdarības mērķiem, kā arī nosakot akcionāriem izmaksājamo dividenžu lielumu. Dividendes aprēķināmas tikai samaksātām akcijām.\nBanku, lombardu un apdrošināšanas akciju sabiedrību peļņas sadalīšanas kārtību un rezerves, kā arī speciālajiem kapitāliem izdarāmo atskaitījumu lielumu nosaka šo sabiedrību statūti un attiecīgie likumi.\n2. Dividendes, kas nav izņemtas 10 gadu laikā, pāriet sabiedrības īpašumā, izņemot gadījumus, kad pēc likuma noilgums uzskatāms par pārtrauktu vai apturētu. Par laikā neizņemtajām dividendēm procentus nemaksā.\nAkcionāru nevar piespiest kaut vai uz laiku atstāt dividendi sabiedrības rīcībā.\nAkcionāru nevar piespiest saņemtās dividendes atdot atpakaļ sabiedrībai, izņemot gadījumu, kad viņš rīkojies ļaunprātīgi.\n3. Sabiedrība var izmaksāt naudas līdzekļus akcionāriem tikai gadījumos, kad tiek iemaksātas dividendes, samazināts pamatkapitāls, vai arī gadījumā, kad akciju sabiedrība tiek likvidēta un tās kapitālu sadala starp akcionāriem.\nPar pretlikumīgu sabiedrības līdzekļu izmaksu akcionāriem uzskata arī gadījumus, kad akcionārs bez maksas izmanto sabiedrības īpašumu, kad akcionāram par viņa pakalpojumiem sabiedrībai izmaksā augstāku atlīdzību, nekā noteikts (ja tas nav paredzēts statūtos), vai arī kad sabiedrība pērk no akcionāra preci par paaugstinātu cenu.\n4. Akciju sabiedrībai aizliegts izsniegt kredītus saviem darbiniekiem vai akcionāriem."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "Sestā nodaļa GADA PĀRSKATS, BILANCES SASTĀDĪŠANA UN PEĻŅAS SADALĪŠANA",
+      "section": "80",
+      "title": "Gada pārskata apstiprināšana un publicēšana",
+      "content": "1. Gada pārskata apspriešana akcionāru pilnsapulcē jāatliek, ja tā nolemj pilnsapulce ar vienkāršu balsu vairākumu vai ja to pieprasa akcionāri, kuri pārstāv ne mazāk par ceturto daļu no pamatkapitāla.\nAkcionāru mazākuma pieprasījums jāievēro tikai tādā gadījumā, ja mazākums apstrīd atsevišķu gada pārskata posteņu pareizību.\n2. Ja gada pārskata apspriešana atlikta pēc akcionāru mazākuma pieprasījuma, nākamajā akcionāru pilnsapulcē, kuras darba kārtībā paredzēta gada pārskata apstiprināšana, akcionāru mazākums var pieprasīt gada pārskata apspriešanas atkārtotu atlikšanu tikai tādā gadījumā, ja nākuši klāt kādi jauni apstākļi, kas vērsti pret gada pārskata apstiprināšanu.\n3. Gada papildatalgojumu valdes un padomes locekļiem var izmaksāt tikai tad, ja no tīrās peļņas ir izdarīti obligātie atskaitījumi norakstījumiem (amortizācijai), rezerves un citiem sabiedrības statūtos paredzētajiem kapitāliem un ja sabiedrība no pelņas atlikuma izmaksā akcionāriem dividendi vismaz 4 procentu apmērā no pamatkapitāla. Ja sabiedrības tīrā peļņa ir mazāka par 4 procentiem, dividende akcionāriem izmaksājama obligāti.\n4. Akcionāru pilnsapulcē pieņemtā bilance un peļņas un zaudējumu konts ne vēlāk kā 2 nedēļu laikā jāpublicē likumdošanā noteiktajā kārtībā. Šajā pašā termiņā gada pārskats līdz ar akcionāru pilnsapulces protokola norakstu un zvērinātu revidentu vai revīzijas komisijas ziņojumu jāiesniedz Latvijas Republikas Uzņēmumu reģistram.\n5. Finansu ministram ir tiesības noteikt izsludināmo un Uzņēmumu reģistram iesniedzamo bilanču un peļņas un zaudējumu konta veidus, kā arī izdot noteikumus par bilanču sastādīšanu un pārskatu sniegšanu. Finansu ministrs nosaka, kādi pārskata dokumenti jāiesniedz Finansu ministrijai.\n6. Publicējot akciju sabiedrības gada pārskatu, jānorāda sabiedrības valdes priekšsēdētāja (prezidenta) un padomes priekšsēdētāja vārds un uzvārds.\n7. Banku, lombardu un apdrošināšanas akciju sabiedrībām ir saistoši likumi un noteikumi par atklātiem norēķiniem un gada pārskatu un dažādu ziņu iesniegšanu Finansu ministrijai."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "Septītā nodaļa SABIEDRĪBAS DARBĪBAS UZRAUDZĪBA UN REVĪZIJA",
+      "section": "81",
+      "title": "Sabiedrības kontroles un revīzijas institūcijas",
+      "content": "1. Sabiedrības darbību kontrolē revīzijas komisija, zvērināti revidenti (auditori), pastāvīgas vai pagaidu komisijas atsevišķos jautājumos, kā arī tam pilnvarotas valsts institūcijas.\n2. Gada pārskats ( 77. pants ) pirms apstiprināšanas akcionāru pilnsapulcē jānodod vienam vai vairākiem zvērinātiem revidentiem pārbaudīšanai.\n3. Kaut arī ir ievēlēti zvērināti revidenti, akcionāru pilnsapulce var no akcionāru vidus ievēlēt revīzijas komisiju.\n4. Tām sabiedrībām, kas atbrīvotas no zvērinātu revidentu revīzijas, revīzijas komisijas ievēlēšana ir obligāta. Tāpat revīzijas komisijas ievēlēšana sabiedrībām ir obligāta uz to laiku, kamēr nepastāv zvērinātu revidentu institūts.\n5. Sabiedrības padome var izveidot pastāvīgas vai pagaidu komisijas atsevišķu jautājumu noskaidrošanai vai kontrolēšanai; tādas komisijas darbojas padomes vadībā."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "Septītā nodaļa SABIEDRĪBAS DARBĪBAS UZRAUDZĪBA UN REVĪZIJA",
+      "section": "82",
+      "title": "Revīzijas komisijas sastāvs",
+      "content": "1. Revīzijas komisiju, ja tā paredzēta statūtos, ievēlē akcionāru pilnsapulce vismaz 3 cilvēku sastāvā.\n2. Revīzijas komisijas locekļi nedrīkst vienlaikus būt valdē un padomē, nedz arī ieņemt kādus citus amatus, kuros ieceļ akcionāru pilnsapulce vai sabiedrības valde. Bijušos valdes vai padomes locekļus 3 gadu laikā pēc izstāšanās no valdes vai padomes nedrīkst ievēlēt revīzijas komisijā.\n3. Akcionāriem, kuru akciju kopsumma sasniedz trešo daļu no pilnsapulcē pārstāvētā sabiedrības pamatkapitāla, ir tiesības ievēlēt trešo daļu revīzijas komisijas locekļu, turklāt šie akcionāri vairs nevar piedalīties pārējo revīzijas komisijas locekļu vēlēšanās.\n4. Revīzijas komisijas locekļus ievēlē uz 3 gadiem. Katru gadu pārvēlē trešo daļu tās locekļu."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "Septītā nodaļa SABIEDRĪBAS DARBĪBAS UZRAUDZĪBA UN REVĪZIJA",
+      "section": "83",
+      "title": "Zvērinātu revidentu uzdevumi",
+      "content": "1. Zvērināti revidenti pārbauda, vai gada pārskats ir pareizi sastādīts, vai tas saskan ar likumiem, sabiedrības statūtiem un grāmatām un vai ieraksti grāmatās saskan ar attaisnojošiem dokumentiem. Revidenti konstatē, vai sabiedrības bilance skaidri un pareizi atspoguļo sabiedrības stāvokli. Tas ierakstāms viņu ziņojuma noslēgumā.\n2. Zvērinātiem revidentiem visi savi pienākumi jāpilda apzinīgi un objektīvi, neizpaužot revidējamās sabiedrības komerciālos un tehniskos noslēpumus.\n3. Zvērinātiem revidentiem ir tiesības pieprasīt no valdes visas vajadzīgās ziņas un paskaidrojumus. Valdei jāļauj zvērinātiem revidentiem iepazīties ar sabiedrības grāmatām un dokumentiem, pārbaudīt sabiedrības kasi un vērtspapīrus, preces, izejvielas, gatavo produkciju un citu mantu."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "Septītā nodaļa SABIEDRĪBAS DARBĪBAS UZRAUDZĪBA UN REVĪZIJA",
+      "section": "84",
+      "title": "Zvērinātu revidentu ievēlēšana",
+      "content": "1. Zvērinātus revidentus ievēlē ik gadu kārtējā akcionāru pilnsapulce. Zvērināti revidenti pārbauda kārtējā gada darbību un darbojas līdz nākamajai kārtējai akcionāru pilnsapulcei.\n2. Valde, padome vai akcionāri, kuri pārstāv ne mazāk par desmito daļu no sabiedrības pamatkapitāla, var pilnsapulcē vai ne vēlāk kā 2 mēnešus pēc sapulces celt motivētus iebildumus pret ievēlētajiem zvērinātiem revidentiem. Akcionāru pilnsapulcē celtos iebildumus nekavējoties izšķir pati sapulce, bet, ja iebildumi celti vēlāk, strīdīgo jautājumu izšķir akcionāru ārkārtas pilnsapulce, kas sasaucama ne vēlāk kā 2 mēnešu laikā pēc iebildumu saņemšanas valdē. Ja pēc apstākļu noskaidrošanas pilnsapulcē, iebildumi paliek spēkā, mazākumam, ja tas pārstāv ne mazāk par desmito daļu no sabiedrības pamatkapitāla, ir tiesības uz sava rēķina pieaicināt citu zvērinātu revidentu, kam piešķiramas tādas pašas tiesības kā ievēlētajiem zvērinātiem revidentiem. Attiecībā uz pieaicinātajiem revidentiem jāievēro arī šā likuma 83. panta un šā panta 3. un 5. punkta noteikumi.\n3. Par zvērinātiem revidentiem var būt lietpratēji, kas ieguvuši zvērinātu revidentu tiesības.\nIndividuāli praktizējošiem zvērinātiem revidentiem un revīzijas sabiedrību sastāvā esošiem zvērinātiem revidentiem aizliegts nodarboties ar komerciāliem darījumiem.\n4. Revīzijas sabiedrību koncesionēšanas un revidentu pārbaudīšanas, nozvērināšanas, viņu darbības un atbildības noteikumus, kā arī attiecīgos pārejas laika noteikumus izdod Finansu ministrija.\n5. Par zvērinātiem revidentiem var ievēlēt tikai tādas personas, kurām ar revidējamo iestādi nav nekādu saimniecisku sakaru un kuras nestrādā revidējamajā sabiedrībā, bet, ja sabiedrība ietilpst koncernā,— nestrādā arī holdingsabiedrībā vai atkarīgajā sabiedrībā. Par sabiedrības zvērinātu revidentu nedrīkst būt persona, kura ir līdz ceturtajai pakāpei radniecības un līdz trešajai pakāpei svainības attiecībās ar sabiedrības valdes locekli, direktoru rīkotāju, padomes locekli, revīzijas komisijas locekli vai galveno grāmatvedi."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "Septītā nodaļa SABIEDRĪBAS DARBĪBAS UZRAUDZĪBA UN REVĪZIJA",
+      "section": "85",
+      "title": "Zvērinātu revidentu un revīzijas komisijas darbība",
+      "content": "1. Ne vēlāk kā mēnesi pirms kārtējās akcionāru pilnsapulces valde paziņo zvērinātiem revidentiem un revīzijas komisijai, ka sabiedrības gada pārskats sagatavots, grāmatas noslēgtas un dokumenti pieejami revīzijas komisijas pārbaudei.\n2.Zvērinātiem revidentiem un revīzijas komisijai ir tiesības apskatīt un revidēt visu sabiedrības mantu un pārbaudīt visu sabiedrības darbību, ievērojot šā likuma 83. panta noteikumus. Revīzijas komisijas atsauksmei jānodod arī kārtējā gada budžets.\n3. Zvērinātiem revidentiem un revīzijas komisijas locekļiem ir tiesības jebkurā laikā veikt tūlītējus kontroles un pārbaudes pasākumus. Viņi uz savu atbildību var pieaicināt ekspertus vai lietpratējus. Par pieaicināmajām personām revīzijas komisijas locekļi ziņo sabiedrības valdei un padomei, kā arī nosaka pieaicināto personu atalgojumu, iepriekš saskaņojot to ar valdi.\n4. Revīzijas komisijas locekļi, kā arī zvērināti revidenti var pieprasīt informāciju no trešajām personām, kuras veikušas darījumus uz sabiedrības rēķina. Informācijas saņemšanai no trešajām personām vajadzīga Latvijas Republikas Uzņēmumu reģistra atļauja. Komercnoslēpums nevar būt par pamatu informācijas atteikumam, izņemot gadījumu, kad pret komercnoslēpuma izpaušanu iebilst Latvijas Republikas Uzņēmumu reģistrs.\n5. Revidentiem jāziņo sabiedrības padomei un akcionāru pilnsapulcei par valdes un tai pakļauto struktūrvienību darbā konstatētajām nepilnībām un pārkāpumiem.\n6. Revīzijas komisijai 7 dienas pirms akcionāru pilnsapulces jāiesniedz valdei ziņojums par gada pārskata pārbaudes rezultātiem. Ziņojums līdz ar valdes atsauksmi un padomes paskaidrojumiem nolasāms akcionāru pilnsapulcē.\n7. Par izdarīto revīziju zvērināti revidenti sastāda ziņojumu, ar kuru valde līdz ar savu atsauksmi, padomes paskaidrojumiem un gada pārskatu iepazīstina akcionāru pilnsapulci. Revidenti savā ziņojumā dod atzinumu, vai gada pārskats ir pareizi sastādīts, vai tas saskan ar likumiem, sabiedrības statūtiem un grāmatām, vai ieraksti grāmatās saskan ar attaisnojošiem dokumentiem, vai bilance skaidri un pareizi atspoguļo sabiedrības stāvokli un vai valde sniegusi zvērinātiem revidentiem visas nepieciešamās ziņas, dokumentus un paskaidrojumus gada pārskata pārbaudīšanai.\n8. Zvērināti revidenti, kā arī revīzijas komisijas locekļi veic savu darbību atbilstoši spēkā esošajai likumdošanai. Viņi atbild akciju sabiedrībai un trešajām personām par zaudējumiem, ko izraisījušas viņu kļūdas. Zvērinātie revidenti, kā arī revīzijas komisijas locekļi neatbild par valdes un tai pakļauto struktūrvienību pārkāpumiem, izņemot tos gadījumus, kad viņi par šiem pārkāpumiem zinājuši, bet nav informējuši padomi vai akcionāru pilnsapulci.\n9. Revīzijas komisija savas sēdes protokolē. Arī komisijas locekļu izteiktās atsevišķās domas jāieraksta protokolā. Protokolus komisija iesniedz valdei."
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "Septītā nodaļa SABIEDRĪBAS DARBĪBAS UZRAUDZĪBA UN REVĪZIJA",
+      "section": "86",
+      "title": "Finansu ministra uzraudzība",
+      "content": "1. Finansu ministram ir tiesības izdot noteikumus par mazo un dažu īpatnēja veida akciju sabiedrību atbrīvošanu no zvērinātu revidentu obligātās revīzijas.\n2. Ja sabiedrība ir atbrīvota no zvērinātu revidentu revīzijas, revīzijas komisijai savs ziņojums jāsastāda saskaņā ar šā likuma 85. panta 7. punkta noteikumiem.\n3. Finansu ministrs pārrauga akciju sabiedrību darbu. Finansu ministram ir tiesības jebkurā laikā neatkarīgi no sabiedrības ievēlētajiem zvērinātiem revidentiem un revīzijas komisijas iecelt savus revidentus sabiedrības darbības pārbaudei."
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "Astotā nodaļa AKCIJU SABIEDRĪBAS LIKVIDĀCIJA UN ATZĪŠANA PAR NEESOŠU",
+      "section": "87",
+      "title": "Darbības izbeigšanas vispārīgie noteikumi",
+      "content": "1. Akciju sabiedrība izbeidz darbību reizē ar tās likvidāciju šādos gadījumos:\n1) ja tā savā darbībā pārkāpj Latvijas Republikas likumus,\n2) statūtos paredzētajos gadījumos,\n3) ar akcionāru pilnsapulces lēmumu,\n4) ja gada laikā pēc sabiedrības reģistrācijas tā nav uzsākusi uzņēmējdarbību,\n5) bankrota gadījumā,\n6) ar tiesas lēmumu.\n2. Šīs nodaļas noteikumi piemērojami arī tad, ja sabiedrības darbības izbeigšana notiek citu iemeslu dēļ.\nLikvidējot sabiedrību bankrota gadījumā, šajā nodaļā neminētie jautājumi tiek risināti saskaņā ar Latvijas Republikas likumu par uzņēmumu maksātnespēju un bankrotu ( 90. pants ).\n3. Banku, lombardu un apdrošināšanas akciju sabiedrību darbības izbeigšanas kārtību nosaka attiecīgie likumi.\n4. Šā panta 1. punkta l. un 2. apakšpunktā paredzētajos gadījumos sabiedrības darbība izbeidzas līdz ar tās likvidāciju. Ja sabiedrības darbība izbeidzas, to apvienojot ar citu sabiedrību, jārīkojas saskaņā ar akciju sabiedrību reorganizācijas noteikumiem, kas paredzēti šā likuma devītajā nodaļā."
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "Astotā nodaļa AKCIJU SABIEDRĪBAS LIKVIDĀCIJA UN ATZĪŠANA PAR NEESOŠU",
+      "section": "88",
+      "title": "Sabiedrības likvidatori",
+      "content": "1. Sabiedrības likvidāciju izdara valde, kas šādā gadījumā uzskatāma par sabiedrības likvidatoru, ja statūtos nav noteikts citādi. Akcionāru pilnsapulce var ievēlēt citus likvidatorus. Līdz ar likvidatoru ievēlēšanu valdes locekļu un tās locekļu kandidātu pilnvaras izbeidzas.\n2. Pēc sabiedrības padomes vai ne mazāk par pamatkapitāla desmito daļu pārstāvošo akcionāru motivēta pieprasījuma Latvijas Republikas Uzņēmumu reģistrs var iecelt likvidatorus pēc saviem ieskatiem. Akcionāriem, kuri pieprasījuši likvidatoru iecelšanu, jāpierāda, ka viņi vismaz 3 mēnešus ir likvidējamās sabiedrības akcionāri.\n3. Akcionāru pilnsapulce var ievēlētos likvidatorus katrā laikā atcelt. Uzņēmumu reģistra lēmumu par likvidatoru iecelšanu likumā noteiktajā kārtībā var pārsūdzēt tiesā, ja tam par pamatu ir svarīgi iemesli."
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "Astotā nodaļa AKCIJU SABIEDRĪBAS LIKVIDĀCIJA UN ATZĪŠANA PAR NEESOŠU",
+      "section": "89",
+      "title": "Sabiedrības likvidācijas kārtība",
+      "content": "1. Sabiedrības likvidācijas uzsākšanu likvidatori izsludina likumdošanā noteiktajā kārtībā. Sabiedrības kreditoriem (arī obligacionāriem), kuru dzīvesvieta sabiedrībai ir zināma, par likvidācijas uzsākšanu paziņo ar pavēsti. Kreditoru prasības un citas pretenzijas pret likvidējamo sabiedrību jāpiesaka 3 mēnešu laikā no dienas, kad sludinājums publicēts laikrakstā. Pēc minētā termiņa izbeigšanās savas pretenzijas nepieteikušie kreditori nevar prasīt, lai tiktu grozīts pieņemtais sabiedrības īpašuma sadalījuma plāns. Pretenzijas, kas fiksētas grāmatās, likvidācijas komisijai, sastādot aprēķinu, jāņem vērā neatkarīgi no tā, vai kreditori tās pieteikuši vai ne.\n2. Likvidatori pieteic Uzņēmumu reģistram un finansu ministram lēmumu par sabiedrības likvidāciju. Pieteikumam jāpievieno akcionāru pilnsapulces protokols, jānorāda likvidatoru vārdi, uzvārdi un viņu dzīvesvietas.\n3. Summas, kas pienākas kreditoriem, kuru pretenzijas apstrīdētas vai nav pieteiktas, bet ir konstatējamas sabiedrības grāmatās, deponējamas attiecīgajā bankas iestādē par labu šiem kreditoriem.\n4. Nevienam akcionāram nevar izmaksāt viņa akciju pamatkapitāla daļu, kamēr nav apmierinātas kreditoru prasības un citas pretenzijas. Kreditoru prasības var sākt apmierināt tikai tad, kad sabiedrība nomaksājusi visus nodokļus un izdarījusi obligātos sociālos maksājumus, kompensācijas maksājumus par kaitējumiem apkārtējai videi, seguši izdevumus zemes rekultivācijai un mežu atjaunošanai, kapitalizējusi ikmēneša maksājumus sakarā ar kaitējumu sabiedrības darbiniekam vai citai personai akciju sabiedrības vainas dēļ.\n5. (Izslēgta ar 12.05.1992 . likumu)\n6. Likvidatori pabeidz visas sabiedrības kārtējās lietas, pilnsapulces noteiktajā veidā un ietvaros pārdod sabiedrības mantu, iekasē no debitoriem summas, kas sabiedrībai pienākas, nokārto parādus, apmierina citas pretenzijas un sadala atlikumu starp akcionāriem, turklāt akcionāram — valsts (pašvaldību) uzņēmumam, iestādei vai organizācijai pienākošos to pamatkapitāla (statūtu fonda) daļu, kas izmaksājama naudā, ieskaita attiecīgos ārpusbudžeta valsts vai pašvaldības īpašuma privatizācijas fondos. Likvidatoru darbībai piemērojami tie paši noteikumi, kas sabiedrības valdei, ja statūtos nav noteikts citādi.\n7. Likvidācijas laikā sabiedrībai paliek juridiskas personas tiesības, bet sabiedrības nosaukumam (firmai) jāpievieno vārds «likvidējamā».\n8. Likvidatoriem jāsniedz akcionāru pilnsapulcei tās noteiktajos termiņos, tomēr ne retāk kā reizi gadā, pārskats par savu darbību, bet, likvidāciju izbeidzot, — arī pārskats par visu likvidācijas laiku.\n9. Akcionāru pilnsapulce, kas pieņem lēmumu par sabiedrības darbības izbeigšanu, var uzdot kādam no likvidatoriem vai kādai uzticības personai saņemt visai sabiedrībai par labu ienākošās summas un citu mantu. Ienākošās summas un cita manta izlietojama saskaņā ar akcionāru pilnsapulces lēmumu.\nPēc sabiedrības darbības izbeigšanas tās uzticības persona iesniedz Latvijas Republikas Uzņēmumu reģistram pārskatu par saņemtajām summām un to izlietošanu.\n10. Sabiedrības grāmatas un dokumenti uzglabājami Latvijas Republikas Uzņēmumu reģistra amatpersonas noteiktajā vietā 10 gadus no dienas, kad paziņojums iesniegts Latvijas Republikas Uzņēmumu reģistram.\nSabiedrības bijušajiem akcionāriem un kreditoriem ir tiesības iepazīties ar tās grāmatām un dokumentiem, kā arī saņemt no tiem attiecīgus norakstus, izrakstus un izziņas."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "Astotā nodaļa AKCIJU SABIEDRĪBAS LIKVIDĀCIJA UN ATZĪŠANA PAR NEESOŠU",
+      "section": "90",
+      "title": "Sabiedrības likvidācijas īpašie gadījumi",
+      "content": "1. Bankrota gadījumā sabiedrības darbība uzskatāma par izbeigtu līdz ar brīdi, kad stājas spēkā tiesas lēmums par bankrota procedūras pabeigšanu.\n2. Ja akcionāri pieņem nelikumīgus lēmumus vai apzināti pieļauj valdes vai padomes nelikumīgu darbību, ieinteresētajām personām ir tiesības celt prasību tiesā, lai atzītu akciju sabiedrības darbību par izbeigtu un pašu sabiedrību — par likvidējamu. Tiesa savu spriedumu paziņo Uzņēmumu reģistram, kurš ieceļ sabiedrības likvidatorus.\n3. Šā panta 2. punktā paredzētajai likvidācijai piemērojami šā likuma 89. panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "Astotā nodaļa AKCIJU SABIEDRĪBAS LIKVIDĀCIJA UN ATZĪŠANA PAR NEESOŠU",
+      "section": "91",
+      "title": "Sabiedrības likvidācijas pārtraukšana un tās darbības turpināšana",
+      "content": "1. Ja akciju sabiedrības darbība izbeidzas statūtos paredzētajos gadījumos vai ar pilnsapulces lēmumu, bet likvidatori nav vēl stājušies pie mantas sadalīšanas starp akcionāriem, pilnsapulce var pieņemt lēmumu par akciju sabiedrības darbības turpināšanu. Lēmuma pieņemšanai nepieciešams, lai pilnsapulcē piedalītos akcionāri, kuri kopā pārstāv ne mazāk par trim ceturtdaļām un sabiedrības pamatkapitāla.\nBanku, lombardu un apdrošināšanas akciju sabiedrības var atjaunot savu darbību tikai ar finansu ministra piekrišanu. Finansu ministra piekrišana vajadzīga arī tad, ja sabiedrībā piedalās ārvalstu kapitāls vai valsts kapitāls.\n2. Akciju sabiedrības darbības turpināšana jāpieteic Uzņēmumu reģistram."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "Astotā nodaļa AKCIJU SABIEDRĪBAS LIKVIDĀCIJA UN ATZĪŠANA PAR NEESOŠU",
+      "section": "92",
+      "title": "Akciju sabiedrības atzīšana par neesošu",
+      "content": "1. Katram akcionāram, kā arī šā likuma 67. panta 2. punkta 1. apakšpunktā minētajām akciju sabiedrības institūcijām ir tiesības celt tiesā prasību atzīt akciju sabiedrību par neesošu šādos gadījumos:\n1) ja nepilnīgi izpildīti 16. pantā paredzētie noteikumi;\n2) ja sabiedrības statūti ir pretrunā ar šiem noteikumiem;\n3) ja tiesiskās attiecības, uz kurām pamatojas akciju sabiedrības dibināšana, apstrīdamas pēc Latvijas civilkodeksa un citu Latvijas Republikas likumu noteikumiem.\n2. Prasību atzīt akciju sabiedrību par neesošu var celt 2 gadu laikā pēc akciju sabiedrības reģistrēšanas Uzņēmumu reģistrā.\n3. Prasībai atzīt akciju sabiedrību par neesošu piemērojami šā likuma 67. panta 3. un 4. punkta noteikumi.\n4. Pilnsapulcei ir tiesības statūtu grozīšanas kārtībā novērst trūkumus šā likuma 16. panta 1. punkta, 1., 2., 5. un 6. apakšpunktā. Ja trūkumi attiecas uz šā likuma 16. panta 1. punkta 6. apakšpunkta noteikumiem, pilnsapulce sasaucama šā likuma 60. panta 2. punktā paredzētajā kārtībā.\n5. Tiesa savu spēkā stājušos spriedumu, ar kuru akciju sabiedrība atzīta par neesošu, paziņo Latvijas Republikas Uzņēmumu reģistram, bet Uzņēmumu reģistrs par šo spriedumu paziņo finansu ministram. Šādā gadījumā sabiedrības likvidācijai piemērojami šā likuma 89. pantā paredzētie noteikumi.\n6. Atzīstot akciju sabiedrību par neesošu, juridiskie darījumi, kas tās vārdā noslēgti ar trešajām personām, paliek spēkā.\n7. Akciju sabiedrības akcionāriem, kas vēl nav pilnībā samaksājuši par savām akcijām, jāizdara ieguldījumi pamatkapitālā, ciktāl tie nepieciešami akciju sabiedrības vārdā uzņemto saistību izpildīšanai."
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "93",
+      "title": "Kapitāla centralizācijas veidi",
+      "content": "1. Akciju sabiedrību kapitāla centralizācija notiek, tām apvienojoties vai arī veidojot līdzdalības sistēmu.\n2. Akciju sabiedrību apvienošanās, nepiemērojot likvidāciju, ir iespējama:\n1) nododot visu sabiedrības mantu (pievienotā sabiedrība) kādai citai sabiedrībai {apvienotāja sabiedrība) un pretī saņemot šīs sabiedrības akcijas (aneksija);\n2) nodibinot jaunu akciju sabiedrību, kas pārņemtu apvienojušos sabiedrību mantu un pretī dotu jaunās sabiedrības akcijas (konsolidācija).\n3. Akciju sabiedrībām apvienojoties, bez likvidācijas piemērošanas jāievēro arī noteikumi, kas paredzēti pretmonopolu likumdošanas aktos.\n4. Akciju sabiedrību apvienošanās, dibinot jaunu akciju sabiedrību, pieļaujama vienīgi tad, ja no dienas, kad sabiedrība reģistrēta Uzņēmumu reģistrā, ir pagājuši vismaz 2 gadi."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "94",
+      "title": "Sabiedrību apvienošanās noteikumi",
+      "content": "1. Apvienošanās iespējama vienīgi uz attiecīgo sabiedrību akcionāru pilnsapulču lēmumu pamata. Šo sapulču lēmumus īsteno sabiedrību valdes vai likvidatori, ja tādi tiek ievēlēti.\nSabiedrību apvienošanai nepieciešama finansu ministra piekrišana.\n2. Apvienotāja sabiedrība patur savu līdzšinējo nosaukumu (firmu). Nosaukumu (firmu) var mainīt, vienīgi grozot statūtus. Lēmums par nosaukuma (firmas) maiņu pieņemams, ja par to nobalso apvienotājas sabiedrības akcionāri, kuri pārstāv ne mazāk kā trīs ceturtdaļas no pamatkapitāla.\n3. Apvienotāja akciju sabiedrība palielina savu pamatkapitālu par summu, kas atbilst no pievienojamās sabiedrības pārņemamās mantas tīrajai vērtībai. Apvienošanos var realizēt bez apvienotājas sabiedrības pamatkapitāla palielināšanas, ja tai ir vai nu savas akcijas ( 49. pants ), vai pievienotās sabiedrības akcijas. Pievienojamās sabiedrības mantu novērtē lietpratēji saskaņā ar šā likuma 21. un 25. pantu . Norēķinu kārtību nosaka apvienojamo sabiedrību akcionāru pilnsapulces. Pievienotās sabiedrības akcijas izsludināmas par anulētām, ja tās netiek nodotas pievienotājas sabiedrības akcionāriem.\n4. Apvienojušos sabiedrību valdēm lēmumi par sabiedrību apvienošanos jāpieteic Latvijas Republikas Uzņēmumu reģistrā. Turklāt Uzņēmumu reģistram iesniedzami apvienošanā iesaistīto sabiedrību akcionāru pilnsapulču attiecīgi apliecināti protokolu noraksti. Iesniedzama ari finansu ministra atļauja apvienoties.\n5. Līdz ar apvienošanās lēmuma reģistrāciju Latvijas Republikas Uzņēmumu reģistrā apvienotāja sabiedrība uzskatāma par pievienotās sabiedrības tiesisku pēcnācēju (tiesību mantinieci). Apvienotājai sabiedrībai pāriet visa pievienotās sabiedrības manta, tiesības un pienākumi. Pievienotā sabiedrība izbeidz darbību, un tās nosaukums (Firma) Uzņēmumu reģistrā tiek svītrots. Sevišķa atzīme par pievienotās sabiedrības darbības izbeigšanu nav nepieciešama.\n6. Pēc apvienošanās lēmuma reģistrācijas Latvijas Republikas Uzņēmumu reģistrā tā reģistra iestāde, kuras rajonā atrodas pievienotas sabiedrības pārvaldes institūcijas, nosūta visus pie sevis glabātos dokumentus uzglabāšanai tai Latvijas Republikas Uzņēmumu reģistra iestādei, kuras rajonā atrodas apvienotāja sabiedrība.\n7. Nekustamās mantas pārrakstīšana uz apvienotājas sabiedrības vārda izdarāma pēc šīs sabiedrības valdes vienpusēja lūguma. Lūgumam pievienojami apvienojušos sabiedrību akcionāru pilnsapulcēs pieņemto apvienošanās lēmumu attiecīgi apliecināti noraksti.\n8. Apvienotāja sabiedrība notikušo apvienošanos izsludina likumdošanā noteiktajā kārtībā, uzaicinot pievienotās sabiedrības kreditorus 6 mēnešu laikā pieteikt savas prasības.\n9. Ja sabiedrības apvienojas, dibinot jaunu sabiedrību, piemērojami šā likuma 93. panta 4. punkta un šā panta 1., 3.—8. punkta noteikumi, turklāt sabiedrības, kuras apvienojas, uzskatāmas par pievienotajām sabiedrībām, bet jaunā sabiedrība — par apvienotāju sabiedrību. Jaunās sabiedrības dibināšanai piemērojami šā likuma otrās nodaļas noteikumi par sabiedrības dibināšanu. Jaunās sabiedrības statūtu pieņemšanai nepieciešama apvienojušos sabiedrību akcionāru pilnsapulču piekrišana. Visu apvienošanā iesaistīto sabiedrību valdēm jāpieteic jaunā sabiedrība Uzņēmumu reģistrā.\n10. Mantas pāreja, kas notiek, sabiedrībām apvienojoties, ir atbrīvota no nodokļiem un nodevām, izņemot valsts nodevu. Par jaunizlaistajām akcijām maksājamajā valsts nodevā jāieskaita valsts nodeva, kas samaksāta par pievienotās sabiedrības izlaistajām anulētajām akcijām."
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "95",
+      "title": "Līdzdalības sistēmas veidi",
+      "content": "1. Līdzdalības sistēma aptver akciju sabiedrību savstarpējās atkarības attiecības, kas veidojas, akciju sabiedrībai iegādājoties savā īpašumā citu akciju sabiedrību akcijas vai apmainot tās pret savām akcijām.\n2. Akciju sabiedrības var īstenot vienkāršo, dominējošo un savstarpējo līdzdalību.\n3. Vienkāršā līdzdalība ir tad, kad vienai akciju sabiedrībai pieder līdz 50 procentiem citas akciju sabiedrības akciju un līdz ar to ir attiecīgs balsu skaits tās akcionāru pilnsapulcē.\n4. Dominējošā līdzdalība ir tad, kad vienai akciju sabiedrībai pieder vairāk nekā puse citas akciju sabiedrības akciju (balsu). Akciju sabiedrību, kurai pieder vairāk nekā puse otras sabiedrības akciju (akciju kontrolpakete), sauc par holdingsabiedrību, bet otru sabiedrību — par kontrolēto sabiedrību jeb filiāli. Holdingsabiedrība kopā ar kontrolētajām sabiedrībām (filiālēm) veido koncernu.\n5. Savstarpējā līdzdalība ir tad, kad divas akciju sabiedrības savstarpēji iegādājušās vairāk par 25 procentiem otras sabiedrības akciju."
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "96",
+      "title": "Vienkāršās līdzdalības noteikumi",
+      "content": "Kad viens akciju turētājs (juridiskā vai fiziskā persona) akciju pirkšanas, apmaiņas vai citā veidā iegūst sabiedrībā 25 procentus vai vairāk akciju, viņam par to nekavējoties jāziņo Latvijas Republikas Uzņēmumu reģistram un jāpublicē sludinājums likumdošanā noteiktajā kārtībā.\nKamēr nav izpildīti šie noteikumi, minētajam akciju turētājam sabiedrībā nav balsstiesību."
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "97",
+      "title": "Dominējošās līdzdalības noteikumi",
+      "content": "1. Ja viens akciju turētājs grib iegūt sabiedrībā 50 procentus vai vairāk akciju, viņam par akciju kontrolpaketes pirkšanas nodomu laikus jāinformē tās sabiedrības valde, kuru paredzēts pakļaut kontrolei. Pirkuma piedāvājumā, kuru adresē šīs sabiedrības akcionāriem, jāietver šādas ziņas: pieprasīto akciju veids, skaits, cena, pirkuma piedāvājuma noteikumi, kā arī termiņš, līdz kuram pirkuma piedāvājums ir spēkā.\n2. Holdingsabiedrībai jāpublicē paziņojums un pirkuma piedāvājums likumdošanā noteiktajā kārtībā. 60 dienu laikā pēc šā sludinājuma publicēšanas finansu ministrs var izteikt motivētu protestu pret paredzamo pirkumu. Šādā gadījumā pirkums tiek apturēts, bet holdingsabiedrībai ir tiesības pārsūdzēt finansu ministra lēmumu Latvijas Republikas Ministru Padomē, kuras lēmums ir galīgs.\n3. Holdingsabiedrība drīkst sākt kontroli pakļaujamās sabiedrības akciju pirkšanu ne agrāk kā 60 dienas pēc pirkuma piedāvājuma publicēšanas, ja nav ienācis finansu ministra protests, vai arī 10 dienas pēc Ministru Padomes lēmuma publicēšanas.\n4. Ja holdingsabiedrība nav izpildījusi šā panta iepriekšminētos noteikumus, tai nav dominējošās līdzdalības tiesību.\n5. Ziņojums par dominējošās līdzdalības iegūšanu jāpublicē likumdošanā noteiktajā kārtībā.\n6. Sākot ar dominējošās līdzdalības iestāšanās dienu, kontrolētā sabiedrība nedrīkst pirkt holdingsabiedrības akcijas un parakstīties uz tam. Tā zaudē arī balsstiesības, kuras tai deva agrāk iegādātās holdingsabiedrības akcijas.\n7. Viena un tā pati persona nedrīkst būt par valdes vai padomes locekli holdingsabiedrībā un kontrolētajā sabiedrībā.\n8. Pēc dominējošās līdzdalības iestāšanās 90 dienu laikā holdingsabiedrībai obligāti jāatpērk no jebkura kontrolētās sabiedrības akcionāra akcijas jebkurā daudzumā par cenu, kas nav mazāka par to, kāda pastāvēja līdzdalības iestāšanās dienā.\nPēc šīm 90 dienām kontrolētās sabiedrības akcionārs zaudē akciju pārdošanas tiesības.\n9. Ja kontrolētā sabiedrība, pakļaujoties holdingsabiedrības ietekmei, ilgāku laiku īsteno sev klaji neizdevīgu uzņēmējdarbību, tiesa pēc kontrolētās sabiedrības kreditoru prasības, ja viņi pārstāv ne mazāk kā 20 procentus no kontrolētās sabiedrības parādu kopsummas, var uzlikt holdingsabiedrībai pilnu atbildību par kontrolētās sabiedrības parādiem.\n10. Ārzemju akciju sabiedrībai (107. pants) vai Latvijas Republikas akciju sabiedrībai ar ārzemju kapitālu (35. pants) nav tiesību iegūt dominējošo līdzdalību kādā no Latvijas Republikas akciju sabiedrībām. Ja šis noteikums tiek pārkāpts, minētā akciju sabiedrība zaudē savas akcionāra tiesības kontrolētajā sabiedrībā."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "98",
+      "title": "Tiešās pārvaldīšanas attiecības koncernā",
+      "content": "1. Tiešās pārvaldīšanas attiecības iestājas tad, ja holdingsabiedrības valdījumā ir 75 vai vairāk procenti no kontrolētās sabiedrības pamatkapitāla. Šajā gadījumā holdingsabiedrības valdes rīkojumi, kas attiecas uz sabiedrības pārvaldīšanu, obligāti jāpilda tieši pārvaldītās (kontrolētās) akciju sabiedrības valdei.\n2. Holdingsabiedrība neierobežoti atbild par tieši kontrolētās sabiedrības saistībām un parādiem.\n3. Tiešās pārvaldīšanas attiecību iestāšanās jāreģistrē Latvijas Republikas Uzņēmumu reģistrā un jāizsludina likumdošanā noteiktajā kārtībā.\n4. Tieši pārvaldītās sabiedrības akcionāri var jebkurā laikā pieprasīt, lai holdingsabiedrība atpērk no viņiem tieši pārvaldītās sabiedrības akcijas par cenu, kāda pastāvēja tiešās pārvaldīšanas iestāšanās dienā, vai apmaina tās pret holdingsabiedrības akcijām.\n5. 90 dienu laikā pēc tiešās pārvaldīšanas izsludināšanas kreditoriem ir tiesības pieprasīt no holdingsabiedrības garantijas par visu summu, kādu kontrolētā sabiedrība bija viņiem parādā tiešās pārvaldīšanas izsludināšanas dienā."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "Devītā nodaļa AKCUU SABIEDRĪBU REORGANIZĀCIJA",
+      "section": "99",
+      "title": "Savstarpējās līdzdalības noteikumi",
+      "content": "1. Sabiedrībai, kas pirmā iesniegusi Latvijas Republikas Uzņēmumu reģistram un publicējusi šā likuma 96. panta paredzēto paziņojumu, ir tiesības saglabāt savu līdzdalību otras sabiedrības pamatkapitālā līdzšinējā apjomā, bet otrai partnerei jāsamazina sava daļa pirmās sabiedrības pamatkapitālā līdz 25 procentiem,\n2. Ja starp savstarpējās līdzdalības sabiedrībām pastāv dominējošās līdzdalības attiecības, to darbību regulē šā likuma 97. panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "100",
+      "title": "Dibinātāju atbildība",
+      "content": "1. Akciju sabiedrības dibinātāji no dibinātāju līguma noslēgšanas līdz sabiedrības reģistrācijai Latvijas Republikas Uzņēmumu reģistrā ar visu savu mantu atbild par tās saistībām un trešajām personām radītajiem zaudējumiem. Pēc sabiedrības reģistrēšanas akciju turētāji atbild tikai savu investīciju apjomā.\n2. Katrs akciju sabiedrības dibinātājs Latvijas Republikas likumdošanā noteiktajā kārtībā ir atbildīgs par zaudējumiem sabiedrības, atsevišķu akcionāru un sabiedrības kreditoru priekšā:\n1) ja viņa apzinātas vai nolaidīgas līdzdarbības dēļ statūtos, dibinātāju ziņojumā, prospektā, dibinātāju vienošanās dokumentā, sludinājumos un ziņojumos Uzņēmumu reģistra amatpersonai vai citām valsts vai pašvaldības iestādēm uzrādītas nepareizas, nepilnīgas vai neskaidras ziņas; ja viņš kā citādi rīkojies pretēji likuma vai statūtu noteikumiem, kā arī apzināti vai nolaidības dēļ nav cēlis iebildumus pret pārējo dibinātāju nepareizo rīcību;\n2) ja viņš zinājis, ka akciju pirmieguvējs vai parakstītājs ir faktiski maksātnespējīgs, tomēr pieļāvis, ka tas iegūst akcijas vai parakstās uz tām, un līdz ar to akciju ieguvējs vai parakstītājs neiemaksā sabiedrībai summas, kas tai pienākas par akcijām.\n3. Ja šā panta 1. punktā minētajos nodarījumos bijuši vainīgi vairāki dibinātāji, viņi atbild par zaudējumiem solidāri. Solidāra atbildība saprotama bez dalīšanas tiesībām.\nDibinātāji solidāri atbild par mantu, kas nodota viņiem glabāšanā līdz sabiedrības dibināšanai. Pēc sabiedrības dibināšanas sapulces šāda manta tiek nodota sabiedrības pārvaldei.\n4. Dibinātājs atbild akciju sabiedrības, atsevišķu akcionāru un kreditoru priekšā par pārkāpumiem, kuri izdarīti, parakstoties uz akcijām, iemaksājot un glabājot prospektā uzrādīto pamatkapitāla daļu, kā arī par sabiedrības pamatkapitālā ieskaitītās mantas nepareizu pieņemšanu vai tāda uzņēmuma nepareizu pārņemšanu sabiedrības rīcībā.\nJa sabiedrības dibināšanas izdevumi ir neattaisnoti lieli un sabiedrības dibināšanas sapulce tos neakceptē, tie solidāri jāsedz dibinātājiem.\n5. Dibinātājs, kurš sakarā ar sabiedrības nodibināšanos vai tās pamatkapitāla palielinājumu izdarījis savu iemaksu ar mantu vai atzinis trešās personas ieguldījumu ar mantu, kuras pieņemtā vai minētā vērtība ievērojami pārsniedz reālo vērtību, ir atbildīgs par sabiedrībai nodarītajiem zaudējumiem.\n6. Sabiedrības dibinātājs vai valdes loceklis, kurš sakarā ar sabiedrības nodibināšanos vai tās pamatkapitāla palielināšanu ir ieguvis sev vai piešķīris trešajai personai atlīdzību vai sevišķas priekšrocības, kuras neatbilst sniegto pakalpojumu apmēriem, ja viņam bijis zināms vai sava amata dēļ vajadzēja zināt, ka ar to sabiedrībai varētu rasties zaudējumi, ir atbildīgs par sabiedrībai nodarītajiem zaudējumiem. Valdes locekļi ir atbildīgi arī šā panta 1. punkta 2. apakšpunktā paredzētajos gadījumos.\n7. Dibinātājiem pielīdzināmas personas, kuru uzdevumā un uz kuru rēķina dibinātāji akcijas sadalījuši vai kuru vietā parakstījuši statūtus. Šīs personas ir solidāri atbildīgas, un tās nevar atsaukties uz tādu apstākļu nezināšanu, kurus dibinātāji, kas viņu uzdevumā darbojušies, zinājuši vai kurus viņiem vajadzēja zināt.\nDibinātāji tiek atbrīvoti no zaudējumu kompensēšanas, ja viņi nevarēja zināt faktus, kuru rezultātā sabiedrībai radušies zaudējumi.\n8. Līdz ar šā panta 6. punktā minētajām personām un dibinātājiem solidāri atbildīgas pret sabiedrību ir:\n1) personas, kas, saņemot dibināšanas izdevumos norādīto ( 25. pants ), bet pretēji noteikumiem izdevumu sarakstā neietverto atlīdzību, zinājušas vai kurām, pēc apstākļiem spriežot, bija jāzina, ka dibināšanas izdevumus paredzēts slēpt, vai kuras zināja, ka šī slēpšana jau notikusi, vai kuras pašas šajā slēpšanā apzināti piedalījušās;\n2) personas, kas apzināti piedalījušās darbībā, ar kuru dibinātāji sabiedrībai tīši nodarījuši zaudējumus, pieņemot sabiedrībā mantu, pārņemot pastāvošu uzņēmumu vai uzrādot liekus izdevumus.\nŠā punkta 2. apakšpunktā minētās personas ir solidāri mantiski atbildīgas arī sabiedrības akcionāru un kreditoru priekšā.\n9. Dibinātājs, kurš tieši vai ar trešo personu starpniecību līdzdarbojies akciju, obligāciju vai citu vērtspapīru izdošanā vai kurš ir saistīts ar sabiedrības ienākumiem vai mantas sadalīšanu, ir atbildīgs par nodarītajiem zaudējumiem, ja viņš apzināti vai nolaidības dēļ sniedzis nepareizas ziņas, piedalījies tādu ziņu sniegšanā, šīs nepareizās ziņas izplatījis vai, sniedzot ziņas par sabiedrības mantisko stāvokli, ir noklusējis svarīgus apstākļus."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "101",
+      "title": "Padomes locekļu, valdes locekļu un direktoru rīkotāju atbildība",
+      "content": "1. Padomes un valdes locekļiem jāpilda savi pienākumi saskaņā ar likumu prasībām un sabiedrības statūtu noteikumiem. Ja valdes locekļi vai direktori rīkotāji rīkojas nelikumīgi, pārkāpj savu pilnvaru ietvarus vai neievēro likumu un statūtu noteikumus vai akcionāru pilnsapulču lēmumus un instrukcijas vai darbojas nolaidīgi, vai apzināti ļaunprātīgi, par zaudējumiem viņi ir solidāri atbildīgi sabiedrības, akcionāru un sabiedrības kreditoru priekšā pilnā apmērā ar visu savu īpašumu.\n2. Padomes un valdes locekļi, kas, pārbaudot sabiedrības dibināšanu, nav rīkojušies godprātīgi, ir solidāri atbildīgi sabiedrības, tās akcionāru un sabiedrības kreditoru priekšā par nodarītajiem zaudējumiem, ja šos zaudējumus nevar piedzīt tieši no dibinātājiem.\n3. Ja valde nepiegriež vērību sabiedrības finansiālajam stāvoklim un laikā nesasauc akcionāru pilnsapulci, Latvijas Republikas Uzņēmumu reģistrs var uzlikt valdei naudas sodu līdz 10000 rubļu apmērā.\n4. Ja pārdodot vārda akcijas citai personai, 3 dienu laikā nav izdarīta atzīme akcionāru grāmatā, Latvijas Republikas Uzņēmumu reģistrs var uzlikt akciju sabiedrības valdei naudas sodu līdz 500 rubļu apmērā."
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "102",
+      "title": "Akcionāru atbildība",
+      "content": "Akcionārs atbild par akciju sabiedrības saistībām tikai ar saviem ieguldījumiem sabiedrības pamatkapitālā, bet ne ar savu mantu."
+    },
+    {
+      "provision_ref": "Art. 103",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "103",
+      "title": "Revidentu atbildība",
+      "content": "Revīzijas komisiju locekļi vai zvērināti revidenti, kam uzticēta sabiedrības darbības uzraudzība vai revīzija, ir solidāri atbildīgi kā sabiedrības, tā atsevišķu akcionāru un kreditoru priekšā par zaudējumiem, kas radušies, ja viņi apzināti vai nolaidības dēļ nav izpildījuši viņiem uzliktos pienākumus."
+    },
+    {
+      "provision_ref": "Art. 104",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "104",
+      "title": "Likvidatoru atbildība",
+      "content": "Sabiedrības likvidatori, kas apzināti vai nolaidības dēļ nav izpildījuši viņiem saskaņā ar likumu prasībām, statūtu noteikumiem vai pilnsapulces lēmumu uzliktos pienākumus, ir solidāri atbildīgi likvidējamās sabiedrības, atsevišķu akcionāru un kreditoru priekšā par zaudējumiem, kurus viņi nodarījuši."
+    },
+    {
+      "provision_ref": "Art. 105",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "105",
+      "title": "Sabiedrības prasību celšana",
+      "content": "l. Sabiedrība prasības pret dibinātājiem vai amatpersonām ceļ, ja tā nolemj akcionāru pilnsapulce ar vienkāršu balsu vairākumu vai ja to prasa akcionāru mazākums, kas pārstāv ne mazāk par desmito daļu no pamatkapitāla.\nKamēr sabiedrība nav nodibināta, ikvienam, kas nomaksājis daļu no dibināmās sabiedrības akciju vērtības, ir tiesības celt prasību pret dibinātājiem kārtībā, kāda šajā pantā paredzēta akcionāru mazākuma prasību celšanai.\n2. Lietas izskatīšanai pilnsapulce ievēlē savus pārstāvjus. Ja prasības celšanu pieprasa akcionāru mazākums, tiesa tā izraudzītās personas var iecelt par sabiedrības pārstāvjiem lietas izskatīšanai. Citos gadījumos piemērojami šā likuma 70. panta 1. punkta 4. apakšpunkta noteikumi; tie piemērojami arī tad, ja prasības celšanu pieprasa akcionāru mazākums.\n3. Pēc akcionāru mazākuma pieprasījuma prasība jāceļ 3 mēnešu teikā no akcionāru pilnsapulces dienas. Prasībai jāpievieno attiecīgi apliecināts pilnsapulces protokola noraksts.\nAkcionāru mazākumam lietas izskatīšanas laikā jāiesniedz tiesā akcijas, kas veido desmito daļu no sabiedrības pamatkapitāla. Turklāt akcionāriem no šā akcionāru mazākuma ir jāpierāda, ka viņi ir akciju īpašnieki vismaz 3 mēnešus pirms tās pilnsapulces dienas, kurā pieņemts lēmums par prasības celšanu. Tiesa var atļaut iesniegtās akcijas to īpašniekiem izņemt pirms lietas iztiesāšanas.\n4. Ja atbildētājs norāda, ka viņam uz šā panta 6. punkta vai civilkodeksa pamata ir pretprasība pret akcionāru mazākumu vai dažiem no tā vai arī tāda varētu celties, tiesa var pieprasīt no akcionāru mazākuma pretprasības nodrošinājumu. Nodrošinājuma veidu un apmērus nosaka liesa.\n5. Akcionāru mazākumam, kas pieprasījis prasības celšanu, jāsedz tiecas izdevumi, ja prasību noraida.\n6. Par zaudējumiem, kas atbildētājam rodas nepamatotas prasības dēļ, ir solidāri atbildīgi tie akcionāri, kuru rīcībā saskatāms ļauns nolūks vai rupja nolaidība.\n7. Pievienotās sabiedrības valdes un padomes locekļi ir solidāri atbildīgi šīs sabiedrības un tās kreditoru priekšā par zaudējumiem, kas apvienošanās procesā radušies viņu nolaidīgas rīcības rezultātā.\nJa zaudējums radies pēc apvienošanās lēmuma reģistrēšanas Latvijas Republikas Uzņēmumu reģistrā, šā punkta 1. teikumā minēto prasību pierādīšanas nolūkā pievienotā sabiedrība uzskatāma par joprojām pastāvošu.\n8. Par pievienotās sabiedrības mantas atsevišķu pārvaldīšanu ( 94. panta 9. punkts) apvienotajās sabiedrības valdes un padomes locekļi atbild solidāri.\n9. No atbildības šā likuma 100. , 101. , 103. un 104. pantā un šā panta 7. un 8. punktā minētās personas ir atbrīvotas, ja tās nav zinājušas, nedz viņām sava amata dēļ būtu vajadzējis zināt faktus, uz kuriem pamatojas zaudējumu atlīdzināšanas pienākums.\n10. Prasības noilguma termiņš ir 3 gadi. Prasības noilguma termiņš sākas: prasījumiem pret valdes un padomes locekļiem — no dienas, kad radušās tiesības uz prasību; prasījumiem sakarā ar sabiedrības dibināšanu vai apvienošanos — no dienas, kad sabiedrība reģistrēta Latvijas Republikas Uzņēmumu reģistrā.\n11. Mierizlīgums vai atteikšanās no prasībām, uz kurām sabiedrībai ir tiesības sakarā ar tās nodibināšanos, nav pieļaujama, ja pilnsapulcē pret to iebilst akcionāri, kas pārstāv ne mazāk par piekto daļu no sabiedrības pamatkapitāla."
+    },
+    {
+      "provision_ref": "Art. 106",
+      "chapter": "Desmitā nodaļa TIESISKĀS ATTIECĪBAS AKCIJU SABIEDRĪBĀ",
+      "section": "106",
+      "title": "Akcionāru tiesības",
+      "content": "1. Akcionārs realizē savas tiesības piedalīties sabiedrības pārvaldīšanā, piedaloties pilnsapulcē ( 58. panta 1. punkts).\n2. Katra akcija dod tiesības uz vienu balsi, ja statūtos nav paredzēts, ka vienu balsi dod lielāks akciju skaits. Statūtos var paredzēt balsstiesību ierobežojumu akcionāriem, kam pieder lielāks akciju skaits ( 64. panta 9. punkts).\nJa vairākām personām kopā pieder viena akcija, balsstiesības sapulcē ir tikai vienam akcionāram kā pārējo akcionāru pārstāvim ( 64. panta 5. punkts).\n3. Statūtos var paredzēt balsstiesību ierobežojumu priekšrocību akcijām ( 43. panta 2. punkts).\n4. Pilnsapulcē akcionāriem balsstiesības ir tikai tad, ja viņi ierakstīti akcionāru grāmatā vismaz 10 dienas pirms pilnsapulces ( 64. panta 1. punkts).\nAkcionāri var piedalīties pilnsapulcē gan personiski, gan ar savu pārstāvju vai pilnvarnieku starpniecību ( 64. panta 3. un 4. punkts).\n5. Ja valde nav laikā sasaukusi kārtējo akcionāru pilnsapulci, Latvijas Republikas Uzņēmumu reģistrs, saņemot kaut vai viena akcionāra prasību, var uzdot valdei sasaukt pilnsapulci mēneša laikā, bet, ja valde to nedara, — sapulci sasauc Uzņēmumu reģistra valsts notārs ( 59. panta 2. un 3. punkts).\n6. Akcionāri, kas kopā pārstāv ne mazāk kā divdesmito daļu no sabiedrības pamatkapitāla, var pieprasīt ārkārtas pilnsapulces sasaukšanu. Ja valde mēneša laikā to nedara, viņi var griezties Latvijas Republikas Uzņēmumu reģistrā ar prasību sasaukt pilnsapulci piespiedu kārtā ( 60.panta 1. un 2. punkts).\n7. Valdei jāuzaicina akcionāri uz pilnsapulci ar ierakstītām vēstulēm, kas izsūtāmas vismaz 25 dienas iepriekš. Akcionāriem, kas pārstāv ne mazāk kā divdesmito daļu no sabiedrības pamatkapitāla, ir tiesības 7 dienu laikā pēc uzaicinājuma saņemšanas pieprasīt jebkura jautājuma iekļaušanu pilnsapulces darba kārtībā ( 63. pants ).\n8. Ne vēlāk kā 7 dienas pirms pilnsapulces akcionāram ir tiesības pieprasīt valdei informāciju par jebkuru darba kārtības jautājumu ( 64.panta 2. punkts). Akcionārs var pieprasīt no valdes informāciju arī pilnsapulces laikā ( 65. panta 6. punkts).\n9. Akcionāriem, kas pārstāv ne mazāk kā desmito daļu no sabiedrības pamatkapitāla, ir tiesības pieprasīt, lai padome pārbauda valdes darbu sabiedrības komercdarbības vadīšanā ( 70. panta 3. punkts).\n10. Pilnsapulcē klātesošie akcionāri, kuri pārstāv ne mazāk kā divdesmito daļu no sabiedrības pamatkapitāla, var pieprasīt sapulces sākumā pārbaudīt valdes sastādīto sapulces dalībnieku sarakstu ( 64. panta 7. punkts).\n11.Akcionāri, kas pārstāv ne mazāk kā ceturto daļu no sabiedrības pamatkapitāla, pilnsapulcē var pieprasīt gada pārskata apspriešanas atlikšanu ( 80. panta 1. un 2. punkts).\n12. Arī viens akcionārs var pieprasīt pilnsapulcē kādā jautājumā aizklātu balsošanu ( 65. panta 5. punkts).\n13. Akcionāriem, kuru akciju kopsumma sasniedz trešo daļu no pilnsapulcē pārstāvētā sabiedrības pamatkapitāla, ir tiesības atsevišķi ievēlēt trešo daļu revīzijas komisijas locekļu ( 82. panta 3. punkts).\n14. Akcionāri, kas pārstāv ne mazāk kā desmito daļu no sabiedrības pamatkapitāla, var celt iebildumus pret pilnsapulces ievēlētajiem zvērinātiem revidentiem, kā arī pieaicināt uz sava rēķina zvērinātu revidentu ( 84. panta 2. punkts).\n15. Akcionāram ir tiesības pieprasīt, lai tiktu ieprotokolēts viņa protests pret kādu no pilnsapulces lēmumiem ( 66. panta 1. punkta 7. apakšpunkts), kā arī pēc tam apstrīdēt pilnsapulces lēmumu ( 67. panta 2. punkta 2. apakšpunkts).\n16. Akcionāram ir tiesības apstrīdēt pilnsapulces lēmumu arī tad, ja viņš pilnsapulcē nav pielaists, un tad, ja pilnsapulce izskatījusi darba kārtībā neiekļautus jautājumus ( 67. panta 2. punkts).\n17. Akcionāram ir tiesības saņemt dividendi ( 79. panta 1. punkts), bet priekšrocību akcijas īpašniekam — statūtos noteikto palielināto dividendi ( 43. panta 1. punkts).\n18. Akcionāram ir tiesības noteiktā kārtībā brīvi realizēt savas akcijas citai personai ( 48. panta 1. punkts), izņemot šā likuma 48. panta 2. un 3. punktā paredzētos ierobežojumus.\n19. Akcionāriem sabiedrības statūtos var būt paredzētas akcionāru priekšrocības tiesības jauna izlaiduma akciju iegūšanā ( 54. panta 3., 4. un 5. punkts).\n20. Kontrolētās sabiedrības akcionāram, ja iestājas dominējošā līdzdalība, kā arī tieši pārvaldītās sabiedrības akcionāram ir tiesības likumā noteiktajā termiņā pieprasīt, lai holdingsabiedrība atpērk visas viņa akcijas ( 97. panta 8. punkts un 98. panta 4. punkts).\n21. Akcionāriem, kuri pārstāv ne mazāk kā desmito daļu no sabiedrības pamatkapitāla, ir tiesības prasīt, lai tiktu celta prasība pret sabiedrības dibinātājiem vai citām amatpersonām ( 105. panta 1. un 2. punkts).\nAkcionāriem, kuri pārstāv ne mazāk kā piekto daļu no sabiedrības pamatkapitāla, ir tiesības nepieļaut sabiedrības atteikšanos no prasības celšanas ( 102. pants ).\n22. Akcionāriem, kuri pārstāv ne mazāk kā desmito daļu no sabiedrības pamatkapitāla, ir tiesības pieprasīt, lai sabiedrības likvidatorus ieceļ Latvijas Republikas Uzņēmumu reģistrs ( 88. panta 2. punkts)."
+    },
+    {
+      "provision_ref": "Art. 107",
+      "chapter": "Vienpadsmitā nodaļa. ĀRZEMJU AKCIJU SABIEDRĪBAS",
+      "section": "107",
+      "title": "Akciju sabiedrības, kas uzskatāmas par ārzemju sabiedrībām",
+      "content": "1. Par ārzemju sabiedrībām šā likuma izpratnē uzskatāmas tās akciju sabiedrības, kuras nodibinātas pēc ārvalstu likumiem vai kuru dibināšanas vieta vai valdes atrašanās vieta ir ārpus Latvijas."
+    },
+    {
+      "provision_ref": "Art. 108",
+      "chapter": "Vienpadsmitā nodaļa. ĀRZEMJU AKCIJU SABIEDRĪBAS",
+      "section": "108",
+      "title": "Ārzemju akciju sabiedrību darbības uzsākšana",
+      "content": "1. Ārzemju akciju sabiedrības un citas uzņēmējsabiedrības var sākt savu darbību Latvijā ar finansu ministra atjauju.\n2. Lai saņemtu atļauju, ārzemju akciju sabiedrība (izņemot jaundibināmu sabiedrību, kuras pārvalde atradīsies Latvijā) iesniedz finansu ministram pieteikumu, kurā norāda:\n1) sabiedrības nosaukumu (firmu) un darbības mērķus Latvijā;\n2) pamatkapitāla lielumu ārzemēs un kapitālu, kuru izlietos operācijām Latvijā (akciju sabiedrības Latvijas nodaļai);\n3) pilnvarotā aģenta vārdu, uzvārdu, pavalstniecību un dzīvesvietu.\n3. Pieteikumam jāpievieno:\n1) sabiedrības statūti orģinālvalodā un latviešu valodā;\n2) attiecīgās ārvalsts iestādes apliecība par sabiedrības likumīgu izveidošanu vai reģistrēšanu;\n3) Latvijas konsulāta vai tā funkcijas pildošās iestādes izsniegta apliecība par to, ka pēc attiecīgas valsts likumiem Latvijas akciju sabiedrība bauda šajā valstī tādas pašas tiesības, kādas ārzemju sabiedrība pieprasa Latvijā;\n4) izraksts no akcionāru pilnsapulces protokola par ārzemju sabiedrības filiāles (nodaļas) dibināšanu un kapitāla piešķiršanu operācijām Latvijā, ja tas jau nav paredzēts sabiedrības statūtos;\n5) akcionāru pilnsapulces apstiprinātās bilances un pelņas un zaudējumu konti par pēdējiem 2 gadiem;\n6) pilnvara personai, kura sabiedrības vārdā parakstīs sabiedrības darbības noteikumus Latvijā;\n7) Latvijas konsulāta vai tā funkcijas pildošās iestādes izsniegta apliecība par to, ka pieteikumam pievienotie dokumenti sastādīti saskaņā ar attiecīgajā valstī pastāvošajiem noteikumiem.\n4. Finansu ministrs, atļaujot ārzemju sabiedrībām darboties Latvijā, apstiprina katrai no tām konkrētus darbības noteikumus. Darbības noteikumi un paziņojums par darbības noteikumu apstiprināšanu uz sabiedrības rēķina publicējami likumdošanā noteiktajā kārtībā. Akciju sabiedrības filiāle (nodaļa) var uzsākt darbību Latvijā tikai pēc tās reģistrēšanas Latvijas Republikas Uzņēmumu reģistrā."
+    },
+    {
+      "provision_ref": "Art. 109",
+      "chapter": "Vienpadsmitā nodaļa. ĀRZEMJU AKCIJU SABIEDRĪBAS",
+      "section": "109",
+      "title": "Sabiedrības pilnvarotais aģents",
+      "content": "1. Sabiedrībai, kuras pārvalde atrodas ārpus Latvijas, jāieceļ par savu pilnvaroto aģentu Latvijā persona, kuras pastāvīgā dzīvesvieta ir Latvijā.\n2. Pilnvarotajam aģentam ir tiesības:\n1) celt prasību vai atbildēt sabiedrības vārdā tiesu lietās, kas var rasties sakarā ar sabiedrības darbību Latvijā;\n2) patstāvīgi izlemt visus jautājumus, kas skar sabiedrības darbību Latvijā.\n3. Par pilnvarota aģenta iecelšanu, kā arī viņa dzīves vietu un adresi jāpaziņo Finansu ministrijai un Latvijas Republikas Uzņēmumu reģistram, kā arī jāizsludina likumdošanā noteiktajā kārtībā.\nTas pats jādara pilnvarotā aģenta un viņa dzīvesvietas maiņas gadījumā.\n4. Pilnvarotā aģenta pienākums ir:\n1) pēc gada pārskata apstiprināšanas akcionāru vai biedru pilnsapulcē 2 mēnešu laikā, bet ne vēlāk kā 6 mēnešus pēc darbības gada beigām, iesniegt Finansu ministrijai un Latvijas Republikas Uzņēmumu reģistram pilnīgu pārskatu par sabiedrības darbību Latvijā, kā arī bilanci un peļņas un zaudējumu kontu par visām sabiedrības operācijām līdz ar attiecīgi apliecinātiem protokolu norakstiem par pārskatu apstiprināšanu pilnsapulcēs. Sabiedrības gada pārskats par tās darbību Latvijā sastādāms saskaņā ar šā likuma noteikumiem par gada pārskatu sastādīšanu;\n2) publicēt filiāles (nodaļas) noslēguma bilanci un peļņas un zaudējumu kontu likumdošanā noteiktajā kārtībā;\n3) sniegt finansu iestādēm visus datus un paskaidrojumus, kādi tām vajadzīgi gada pārskata pārbaudīšanai."
+    },
+    {
+      "provision_ref": "Art. 110",
+      "chapter": "Vienpadsmitā nodaļa. ĀRZEMJU AKCIJU SABIEDRĪBAS",
+      "section": "110",
+      "title": "Ārzemju akciju sabiedrības darbības noteikumi Latvijā",
+      "content": "1. Ārzemju akciju sabiedrības filiāles (nodaļas) darbībai jānotiek pēc Latvijas likumiem un noteikumiem.\n2. Filiālei (nodaļai) firmas nosaukumā jāietver tās valsts nosaukums, kur atrodas sabiedrības galvenā mītne.\n3. Filiālē (nodaļā) jākoncentrē grāmatvedības uzskaite par visām sabiedrības operācijām, kas norisinās Latvijā.\n4. Filiāles (nodaļas) sarakstei ar valsts un pašvaldības iestādēm Latvijā jānotiek valsts valodā.\n5. Kapitālam, kas paredzēts operācijām Latvijā, pastāvīgi jāatrodas Latvijā naudā, precēs vai citā mantā. Ja pret sabiedrības mantu, kas atrodas Latvijā, tiek celta prasība, vispirms apmierināmi tie prasījumi, kas radušies sakarā ar sabiedrības darbību Latvijā.\n6. Sabiedrības darbībai Latvijā jānotiek tās darbības noteikumos norādīto mērķu un darbības ietvaros. Lai sabiedrība varētu apvienoties ar citām sabiedrībām un uzņēmumiem Latvijā, palielināt vai samazināt kapitālu operācijām Latvijā, izlaist obligācijas par Latvijā esošu nekustamu mantu, filiālei (nodaļai) ikreiz jāsaņem finansu ministra atļauja.\n7. Sabiedrības pilnvarotajam aģentam jāziņo Finansu ministrijai un Latvijas Republikas Uzņēmumu reģistram par statūtu grozīšanu vai papildināšanu, par filiāles (nodaļas) vai sabiedrības likvidācijas sākumu un beigām.\n8. Strīdi, kas rodas starp ārzemju sabiedrību un Latvijas Republikas uzņēmumiem, uzņēmējsabiedrībām, iestādēm, organizācijām un fiziskajām personām, izskatāmi Latvijas Republikas likumos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 111",
+      "chapter": "Vienpadsmitā nodaļa. ĀRZEMJU AKCIJU SABIEDRĪBAS",
+      "section": "111",
+      "title": "Ārzemju akciju sabiedrības darbības izbeigšana",
+      "content": "1. Atļauja darboties Latvijā zaudē spēku un sabiedrības nodaļa jālikvidē:\nl) ja filiāle (nodaļa) nav uzsākusi savu darbību noteikumos norādītajā termiņā vai gada laikā no reģistrācijas brīža Latvijas Republikas Uzņēmumu reģistrā;\n2} ja sabiedrībai vairs nav tiesību darboties savā valstī vai ja sabiedrība izsludināta par bankrotējušu;\n3) ja izbeidzies filiāles (nodaļas) darbības termiņš Latvijā.\n2. Ja ārzemju akciju sabiedrība izbeidz darbību savā valstī, reizē ar sabiedrības likvidāciju jālikvidē arī tās filiāle (nodaļa) Latvijā, piemērojot šā likuma noteikumus par akciju sabiedrību likvidācijas kārtību.\n3. Ja sabiedrība pārkāpj Latvijas likumus vai apstiprinātos darbības noteikumus un nepilda tos arī pēc Finansu ministrijas uzaicinājuma, finansu ministram ir tiesības aizliegt akciju sabiedrības darbību Latvijā."
+    }
+  ],
+  "definitions": []
+}

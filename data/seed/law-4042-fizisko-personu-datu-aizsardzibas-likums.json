@@ -1,0 +1,405 @@
+{
+  "id": "lv-law-4042",
+  "type": "statute",
+  "title": "Fizisko personu datu aizsardzības likums",
+  "title_en": "Personal Data Protection Law",
+  "short_name": "TA-4042",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/4042-fizisko-personu-datu-aizsardzibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Šā likuma mērķis ir aizsargāt fizisko personu pamattiesības un brīvības, it īpaši privātās dzīves neaizskaramību, attiecībā uz fiziskās personas datu (turpmāk — personas dati) apstrādi.",
+      "content": "1.pants. Šā likuma mērķis ir aizsargāt fizisko personu pamattiesības un brīvības, it īpaši privātās dzīves neaizskaramību, attiecībā uz fiziskās personas datu (turpmāk — personas dati) apstrādi."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) datu subjekts — fiziskā persona, kuru var tieši vai netieši identificēt;\n2) datu subjekta piekrišana — datu subjekta brīvi, nepārprotami izteikts gribas apliecinājums, ar kuru datu subjekts atļauj apstrādāt savus personas datus atbilstoši pārziņa sniegtajai informācijai saskaņā ar šā likuma 8.pantu ;\n3) personas dati — jebkāda informācija, kas attiecas uz identificētu vai identificējamu fizisko personu;\n4) personas datu apstrāde — jebkuras ar personas datiem veiktas darbības, ieskaitot datu vākšanu, reģistrēšanu, ievadīšanu, glabāšanu, sakārtošanu, pārveidošanu, izmantošanu, nodošanu, pārraidīšanu un izpaušanu, bloķēšanu vai dzēšanu;\n5) personas datu apstrādes sistēma — jebkādā formā fiksēta strukturizēta personas datu kopa, kas ir pieejama, ievērojot attiecīgus personu identificējošus kritērijus;\n6) personas datu operators — pārziņa pilnvarota persona, kas veic personas datu apstrādi pārziņa uzdevumā;\n7) personas datu saņēmējs — fiziskā vai juridiskā persona, kurai tiek izpausti personas dati;\n8) sensitīvi personas dati — personas dati, kas norāda personas rasi, etnisko izcelsmi, reliģisko, filozofisko un politisko pārliecību, dalību arodbiedrībās, kā arī sniedz informāciju par personas veselību vai seksuālo dzīvi;\n9) pārzinis — fiziskā vai juridiskā persona, valsts vai pašvaldības institūcija, kura pati vai kopā ar citiem nosaka personas datu apstrādes mērķus un apstrādes līdzekļus, kā arī atbild par personas datu apstrādi saskaņā ar šo likumu;\n10) trešā persona — jebkura fiziskā vai juridiskā persona, izņemot datu subjektu, pārzini, personas datu operatoru un personas, kuras tieši pilnvarojis pārzinis vai personas datu operators;\n11) personas identifikācijas kods — numurs, kas tiek piešķirts datu subjekta identifikācijai."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "(1) Šis likums, ievērojot šajā pantā noteiktos izņēmumus, attiecas uz visu veidu personas datu apstrādi un jebkuru fizisko vai juridisko personu, ja:",
+      "content": "1) pārzinis ir reģistrēts Latvijas Republikā;\n2) datu apstrāde tiek veikta ārpus Latvijas Republikas robežām teritorijās, kas pieder Latvijas Republikai saskaņā ar starptautiskajiem līgumiem;\n3) Latvijas Republikā atrodas aprīkojums, kas tiek izmantots personas datu apstrādei, izņemot gadījumus, kad aprīkojums tiek izmantots tikai personas datu pārraidei caur Latvijas Republikas teritoriju.\n(2) Šā panta pirmās daļas 3.punktā minētajos gadījumos pārzinis ieceļ pilnvaroto personu, kas ir Latvijas Republikā reģistrēta juridiskā persona vai Latvijas pilsonis, Latvijas nepilsonis vai ārvalstnieks, kuram ir izsniegta pastāvīgās uzturēšanās atļauja un dzīvesvietas adrese ir deklarēta Latvijā. Pārzinis pirms datu apstrādes uzsākšanas rakstveidā informē Datu valsts inspekciju par iecelto pilnvaroto personu. Pilnvarotās personas iecelšana neatbrīvo pārzini no atbildības par šā likuma ievērošanu.\n(3) Šis likums neattiecas uz personas datu apstrādi, ko fiziskās personas veic personiskām vai mājas un ģimenes vajadzībām, turklāt personas dati netiek izpaus­ti trešajām personām.\n(4) Ja personas datu apstrādei ir vairāki pārziņi un normatīvajos aktos nav noteikti katra pārziņa pienākumi, viņi rakstveidā var vienoties par savstarpējiem pienākumiem, lai izpildītu šo likumu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "To personas datu aizsardzību, kuri atzīti par valsts noslēpuma objektiem, reglamentē šis likums, ievērojot izņēmumus, kas noteikti likumā \" Par valsts noslēpumu \".",
+      "content": "( 24.10.2002 . likuma redakcijā, kas stājas spēkā 27.11.2002. Sk. pārejas noteikumus.)"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Šā likuma 7. , 8. , 9. , 11. un 21.pants netiek piemērots, ja personas dati ir apstrādāti žurnālistiskām vajadzībām saskaņā ar likumu \" Par presi un citiem masu informācijas līdzekļiem \", mākslinieciskām vai literārām vajadzībām un ja likumā nav noteikts citādi.",
+      "content": "(2) Šā panta pirmās daļas noteikumus piemēro, ievērojot personas tiesības uz privātās dzīves neaizskaramību un vārda brīvību."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "6",
+      "title": "Ikvienai fiziskajai personai ir tiesības uz savu personas datu aizsardzību.",
+      "content": "6.pants. Ikvienai fiziskajai personai ir tiesības uz savu personas datu aizsardzību."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "7",
+      "title": "Personas datu apstrāde ir atļauta tikai tad, ja likumā nav noteikts citādi un ja ir vismaz viens no šādiem nosacījumiem:",
+      "content": "1) ir datu subjekta piekrišana;\n2) datu apstrāde izriet no datu subjekta līgumsaistībām vai, ievērojot datu subjekta lūgumu, datu apstrāde nepieciešama, lai noslēgtu attiecīgu līgumu;\n3) datu apstrāde nepieciešama pārzinim likumā noteikto pienākumu veikšanai;\n4) datu apstrāde nepieciešama, lai aizsargātu datu subjekta vitāli svarīgas intereses, tajā skaitā dzīvību un veselību;\n5) datu apstrāde nepieciešama, lai nodrošinātu sabiedrības interešu ievērošanu vai realizētu publiskās varas uzdevumus, kuru veikšanai personas dati ir nodoti pārzinim vai pārraidīti trešajai personai;\n6) datu apstrāde ir nepieciešama, lai, ievērojot datu subjekta pamattiesības un brīvības, realizētu pārziņa vai tās trešās personas likumiskās intereses, kurai personas dati atklāti."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "8",
+      "title": "(1) Iegūstot personas datus no datu subjekta, pārzinim ir pienākums sniegt datu subjektam šādu informāciju, ja vien tā jau nav datu subjekta rīcībā:",
+      "content": "1) pārziņa nosaukums vai vārds un uzvārds, kā arī adrese;\n2) paredzētais personas datu apstrādes mērķis.\n(2) Pēc datu subjekta pieprasījuma pārzinim ir pienākums sniegt arī šādu informāciju:\n1) iespējamie personas datu saņēmēji;\n2) datu subjekta tiesības piekļūt saviem personas datiem un izdarīt tajos labojumus;\n3) vai atbildes sniegšana ir obligāta vai brīvprātīga, kā arī iespējamās sekas par atbildes nesniegšanu;\n4) personas datu apstrādes tiesiskais pamats.\n(3) Šā panta pirmā daļa netiek piemērota, ja likums ļauj veikt personas datu apstrādi, neatklājot tās mērķi."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "9",
+      "title": "(1) Ja personas dati nav iegūti no datu subjekta, pārzinim ir pienākums, ievācot vai pirmo reizi izpaužot šādus personas datus trešajām personām, sniegt datu subjektam šādu informāciju:",
+      "content": "1) pārziņa nosaukums vai vārds un uzvārds, kā arī adrese;\n2) paredzētais personas datu apstrādes mērķis.\n(2) (Izslēgta ar 06.02.2014 . likumu)\n(3) Šā panta pirmā daļa netiek piemērota, ja:\n1) personas datu apstrādi paredz cits likums;\n2) apstrādājot personas datus zinātniskiem, vēsturiskiem vai statistiskiem pētījumiem, nacionālā dokumentārā mantojuma veidošanai vai oficiālās publikācijas nodrošināšanai, datu subjektu informēšana prasa nesamērīgas pūles vai ir neiespējama."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "10",
+      "title": "(1) Lai aizsargātu datu subjekta intereses, pārzinis nodrošina:",
+      "content": "1) godprātīgu un likumīgu personas datu apstrādi;\n2) personas datu apstrādi tikai atbilstoši paredzētajam mērķim un tam nepieciešamajā apjomā;\n3) tādu personas datu glabāšanas veidu, kas datu subjektu ļauj identificēt attiecīgā laikposmā, kurš nepārsniedz paredzētajam datu apstrādes mērķim noteikto laikposmu;\n4) personas datu pareizību un to savlaicīgu atjaunošanu, labošanu vai dzēšanu, ja personas dati ir nepilnīgi vai neprecīzi saskaņā ar personas datu apstrādes mērķi.\n(2) Personas datu apstrāde sākotnēji neparedzētiem mērķiem ir pieļaujama, ja tā nepārkāpj datu subjekta tiesības un tiek veikta zinātnisku vai statistisku pētījumu vajadzībām tikai atbilstoši šā likuma 9.pantā un 10.panta pirmajā daļā minētajiem nosacījumiem.\n(3) Šā panta pirmās daļas 3. un 4.punkts neattiecas uz personas datu apstrādi nacionālā dokumentārā mantojuma veidošanai vai oficiālās publikācijas nodrošināšanai normatīvajos aktos noteiktajā kārtībā.\n(3 1 ) Oficiālajā izdevumā publicētos personas datus oficiālā izdevuma izdevējs dzēš, pamatojoties uz Datu valsts inspekcijas lēmumu. Datu valsts inspekcija lēmumu par oficiālajā izdevumā publicēto personas datu dzēšanu var pieņemt, ja datu subjekta tiesību uz privāto dzīvi aizskārums ir lielāks nekā sabiedrības ieguvums no oficiālās publikācijas nemainīguma.\n(4) Personas datu apstrāde sākotnēji neparedzētiem mērķiem krimināltiesību jomā ir pieļaujama:\n1) lai novērstu, atklātu, izmeklētu noziedzīgu nodarījumu un veiktu kriminālvajāšanu vai izpildītu kriminālsodu;\n2) lai personas datus izmantotu administratīvajā vai civillietas tiesvedībā, kā arī ar likumu pilnvarotu valsts institūciju amatpersonu darbībā, ja tā saistīta ar noziedzīgu nodarījumu novēršanu, atklāšanu, izmeklēšanu vai kriminālvajāšanu, vai kriminālsodu izpildi;\n3) lai novērstu tūlītēju būtisku sabiedriskās drošības apdraudējumu;\n4) ja datu subjekts devis piekrišanu datu apstrādei."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "11",
+      "title": "Sensitīvo personas datu apstrāde ir aizliegta, izņemot gadījumus, kad:",
+      "content": "1) datu subjekts ir devis rakstveida piekrišanu savu sensitīvo datu apstrādei;\n2) speciāla personas datu apstrāde, neprasot datu subjekta piekrišanu, ir paredzēta normatīvajos aktos, kas regulē darba tiesiskās attiecības, un šie normatīvie akti garantē personas datu aizsardzību;\n3) personas datu apstrāde ir nepieciešama, lai aizsargātu datu subjekta vai citas personas dzīvību un veselību, un datu subjekts tiesiski vai fiziski nav spējīgs dot savu piekrišanu;\n4) personas datu apstrāde ir nepieciešama, lai sasniegtu likumīgus nekomerciālus sabiedrisko organizāciju un to apvienību mērķus, ja šī datu apstrāde ir saistīta tikai ar šo organizāciju vai to apvienību biedriem un personas dati netiek nodoti trešajām personām;\n5) personas datu apstrāde ir nepieciešama ārstniecības vajadzībām, veselības aprūpes pakalpojumu sniegšanai vai to administrēšanai un zāļu un medicīnisko ierīču izplatīšanai vai to administrēšanai;\n6) apstrāde attiecas uz tādiem personas datiem, kuri ir nepieciešami fiziskās vai juridiskās personas tiesību vai likumisko interešu aizsardzībai tiesā;\n7) personas datu apstrāde ir nepieciešama sociālās palīdzības sniegšanai un to veic sociālās palīdzības pakalpojumu sniedzējs;\n8) personas datu apstrāde ir nepieciešama nacionālā dokumentārā mantojuma veidošanai, un to veic Latvijas Nacionālais arhīvs un akreditēts privātais arhīvs;\n9) personas datu apstrāde ir nepieciešama statistiskiem pētījumiem, ko veic Centrālā statistikas pārvalde;\n10) apstrāde attiecas uz tādiem personas datiem, kurus datu subjekts pats ir publiskojis;\n11) personas datu apstrāde ir nepieciešama, pildot valsts pārvaldes funkcijas vai veidojot likumā noteiktās valsts informācijas sistēmas;\n12) personas datu apstrāde nepieciešama fiziskās vai juridiskās personas tiesību vai likumisko interešu aizsardzībai, pieprasot atlīdzību saskaņā ar apdrošināšanas līgumu;\n13) atbilstoši Pacientu tiesību likumam pētījumā izmanto medicīniskajos dokumentos fiksētos pacienta datus."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "12",
+      "title": "Personas datus, kuri attiecas uz noziedzīgiem nodarījumiem, sodāmību krimināllietās un administratīvo pārkāpumu lietās, kā arī uz tiesas nolēmumu vai tiesas lietas materiāliem, drīkst apstrādāt tikai likumā noteiktās personas un likumā noteiktajos gadījumos.",
+      "content": "( 01.03.2007 . likuma redakcijā, kas stājas spēkā 01.09.2007. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "13",
+      "title": "(1) Pārzinim ir pienākums likumā noteiktajos gadījumos izpaust personas datus valsts un pašvaldību amatpersonām. Pārzinis izpauž personas datus tikai tām valsts un pašvaldību amatpersonām, kuras pirms datu izpaušanas ir identificējis.",
+      "content": "(2) Personas datus var izpaust, pamatojoties uz rakstveida iesniegumu vai vienošanos, norādot datu izmantošanas mērķi, ja likumā nav noteikts citādi. Personas datu pieprasījumā norādāma informācija, kas ļauj identificēt datu pieprasītāju un datu subjektu, kā arī pieprasāmo personas datu apjoms.\n(3) Saņemtos personas datus drīkst izmantot tikai paredzētajiem mērķiem."
+    },
+    {
+      "provision_ref": "Art. 13.1",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "13.1",
+      "title": "13. 1 pants. Personas identifikācijas kodus drīkst apstrādāt vienā no šādiem gadījumiem:",
+      "content": "1) ir saņemta datu subjekta piekrišana;\n2) identifikācijas kodu apstrāde izriet no personas datu apstrādes mērķa;\n3) identifikācijas kodu apstrāde nepieciešama turpmākas datu subjekta anonimitātes nodrošināšanai;\n4) ir saņemta Datu valsts inspekcijas rakstveida atļauja."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Vispārīgie personas datu apstrādes principi",
+      "section": "14",
+      "title": "(1) Personas datu apstrādi pārzinis var uzticēt personas datu operatoram, noslēdzot rakstveida līgumu.",
+      "content": "(2) Personas datu operators viņam uzticētos personas datus drīkst apstrādāt tikai līgumā norādītajā apjomā, atbilstoši tajā paredzētajiem mērķiem un saskaņā ar pārziņa norādījumiem, ja tie nav pretrunā ar normatīvajiem aktiem.\n(3) Personas datu operators pirms personas datu apstrādes sākšanas veic pārziņa norādītos drošības pasākumus personas datu apstrādes sistēmas aizsardzībai atbilstoši šā likuma prasībām."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Datu subjekta tiesības un pienākumi (Nodaļas nosaukums 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )",
+      "section": "15",
+      "title": "(1) Papildus šā likuma 8. un 9.pantā minētajām tiesībām datu subjektam ir tiesības iegūt visu informāciju, kas par viņu savākta jebkurā personas datu apstrādes sistēmā.",
+      "content": "(2) Datu subjektam ir tiesības iegūt informāciju par tām fiziskajām vai juridiskajām personām, kuras noteiktā laikposmā no pārziņa ir saņēmušas informāciju par šo datu subjektu. Datu subjektam sniedzamajā informācijā aizliegts iekļaut valsts institūcijas, kuras ir kriminālprocesa virzītāji, operatīvās darbības subjekti, vai citas institūcijas, par kurām likums aizliedz šādas ziņas izpaust.\n(3) Datu subjektam ir tiesības pieprasīt arī šādu informāciju:\n1) pārziņa nosaukums vai vārds un uzvārds, kā arī adrese;\n2) personas datu apstrādes mērķis, tiesiskais pamats un veids;\n3) datums, kad datu subjekta personas datos pēdējo reizi izdarīti labojumi, dati dzēsti vai bloķēti;\n4) personas datu ieguves avots, ja vien likums neaizliedz šīs ziņas izpaust;\n5) automatizētās apstrādes sistēmās izmantotās apstrādes metodes, par kuru piemērošanu tiek pieņemti individuāli automatizēti lēmumi;\n6) iespēja izmantot šā panta pirmajā un otrajā daļā un šā likuma 16.panta pirmajā daļā minētās tiesības.\n(3 1 ) Ja datu subjekts pieprasa informāciju attiecībā uz videonovērošanu, datu subjektam ir pienākums pēc pārziņa attiecīga pieprasījuma sniegt informāciju, kas nepieciešama datu subjekta un pieprasīto personas datu identificēšanai.\n(4) Datu subjektam ir tiesības mēneša laikā no attiecīga pieprasījuma iesniegšanas dienas (ne biežāk kā divas reizes gadā) bez maksas saņemt rakstveidā šajā pantā minēto informāciju vai pamatotu rakstveida atteikumu pilnībā vai daļēji sniegt šajā pantā minēto informāciju. Informācijas izsniegšanu var atteikt, ja datu subjekts atsakās veikt šā panta 3. 1 daļā noteikto pienākumu.\n(5) Datu subjektam nav tiesību saņemt šā panta pirmajā, otrajā un trešajā daļā minēto informāciju, ja šo informāciju aizliegts izpaust saskaņā ar likumu nacionālās drošības, valsts aizsardzības, sabiedrības drošības, krimināltiesību jomā, kā arī nolūkā nodrošināt valsts finanšu intereses nodokļu lietās vai finanšu tirgus dalībnieku uzraudzību un makroekonomisko analīzi."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Datu subjekta tiesības un pienākumi (Nodaļas nosaukums 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )",
+      "section": "16",
+      "title": "(1) Datu subjektam ir tiesības pieprasīt, lai viņa personas datus papildina vai izlabo, kā arī pārtrauc to apstrādi vai iznīcina tos, ja personas dati ir nepilnīgi, novecojuši, nepatiesi, pretlikumīgi apstrādāti vai arī tie vairs nav nepieciešami vākšanas mērķim. Ja datu subjekts var pamatot, ka personas dati ir nepilnīgi, novecojuši, nepatiesi, pretlikumīgi apstrādāti vai arī tie vairs nav nepieciešami vākšanas mērķim, pārziņa pienākums ir nekavējoties novērst šo nepilnību vai pārkāpumu un par to paziņot trešajām personām, kas iepriekš ir saņēmušas apstrādātos datus.",
+      "content": "(2) (Izslēgta ar 01.03.2007 . likumu.)\n(3) Datu subjektam ir tiesības mēneša laikā no attiecīga pieprasījuma iesniegšanas dienas saņemt rakstveidā pārziņa pamatotu atbildi par pieprasījuma izskatīšanu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Datu subjekta tiesības un pienākumi (Nodaļas nosaukums 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )",
+      "section": "17",
+      "title": "(1) Šā likuma 15. un 16.pantu nepiemēro, ja apstrādātie dati tiek izmantoti tikai zinātnisku un statistisku pētījumu vajadzībām vai nacionālā dokumentārā mantojuma veidošanai saskaņā ar normatīvajiem aktiem un, pamatojoties uz tiem, attiecībā uz datu subjektu netiek veiktas nekādas darbības un netiek pieņemti nekādi lēmumi.",
+      "content": "(2) Šā likuma 15.panta otro daļu un 16.pantu nepiemēro, ja personas datu apstrāde tiek veikta saskaņā ar normatīvajiem aktiem oficiālās publikācijas nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Datu subjekta tiesības un pienākumi (Nodaļas nosaukums 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )",
+      "section": "18",
+      "title": "(1) Ja datu subjekts apstrīd individuālu lēmumu, kas pieņemts, pamatojoties tikai uz automatizēti apstrādātiem datiem, un rada, groza, konstatē vai izbeidz tiesiskās attiecības, pārzinim ir pienākums to pārskatīt. Pārzinis var atteikties pārskatīt šādu lēmumu, ja tas pieņemts, pamatojoties uz likumu vai līgumu, kas noslēgts ar datu subjektu.",
+      "content": "(2) Datu subjektam ir tiesības mēneša laikā no dienas, kad iesniegts pieprasījums par lēmuma pārskatīšanu, rakstveidā saņemt pārziņa pamatotu atbildi par pieprasījuma izskatīšanu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Datu subjekta tiesības un pienākumi (Nodaļas nosaukums 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )",
+      "section": "19",
+      "title": "(1) Datu subjekts var aizliegt savu personas datu apstrādi komerciāliem mērķiem, šā likuma 7.panta 6.punktā minētajos gadījumos, izmantošanai informācijas sabiedrības pakalpojumos, tirgus un sabiedriskā viedokļa pētījumos, ģenealoģiskajos pētījumos, izņemot gadījumus, kad likumos ir noteikts citādi.",
+      "content": "(2) Datu subjektam ir tiesības mēneša laikā no dienas, kad iesniegts pieprasījums par personas datu apstrādes aizliegumu, rakstveidā saņemt pārziņa pamatotu atbildi par pieprasījuma izskatīšanu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Datu subjekta tiesības un pienākumi (Nodaļas nosaukums 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )",
+      "section": "20",
+      "title": "Ja pārzinis nepilda šajā likumā noteiktos pienākumus, datu subjektam ir tiesības apstrīdēt Datu valsts inspekcijā pārziņa atteikumu sniegt šā likuma 15.pantā minēto informāciju vai veikt šā likuma 16. , 18. un 19.pantā minētās darbības, pievienojot dokumentus, kas apliecina, ka pārzinis atsakās pildīt vai nepilda tam ar likumu noteiktos pienākumus.",
+      "content": "( 12.06.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 06.02.2014 . likumu, kas stājas spēkā 07.03.2014. )"
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "III 1 nodaļa Datu subjekta tiesības attiecībā uz personas datu apstrādi Eirojustā un Eiropas Policijas birojā (Nodaļa 21.06.2012 . likuma redakcijā, kas stājas spēkā 18.07.2012. )",
+      "section": "20.1",
+      "title": "20. 1 pants. Datu subjektam ir tiesības iesniegt pieprasījumu Datu valsts inspekcijai par savu personas datu apstrādi vai par savu personas datu apstrādes pārbaudi Eirojustā vai Eiropas Policijas birojā.",
+      "content": "20. 1 pants. Datu subjektam ir tiesības iesniegt pieprasījumu Datu valsts inspekcijai par savu personas datu apstrādi vai par savu personas datu apstrādes pārbaudi Eirojustā vai Eiropas Policijas birojā."
+    },
+    {
+      "provision_ref": "Art. 20.2",
+      "chapter": "III 1 nodaļa Datu subjekta tiesības attiecībā uz personas datu apstrādi Eirojustā un Eiropas Policijas birojā (Nodaļa 21.06.2012 . likuma redakcijā, kas stājas spēkā 18.07.2012. )",
+      "section": "20.2",
+      "title": "20. 2 pants. Datu valsts inspekcija, saņemot šā likuma 20. 1 pantā minēto pieprasījumu, nekavējoties, bet ne vēlāk kā mēneša laikā no tā saņemšanas dienas pārsūta pieprasījumu attiecīgi Eirojustam vai Eiropas Policijas birojam izskatīšanai un informē par to datu subjektu.",
+      "content": "20. 2 pants. Datu valsts inspekcija, saņemot šā likuma 20. 1 pantā minēto pieprasījumu, nekavējoties, bet ne vēlāk kā mēneša laikā no tā saņemšanas dienas pārsūta pieprasījumu attiecīgi Eirojustam vai Eiropas Policijas birojam izskatīšanai un informē par to datu subjektu."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "21",
+      "title": "Pirms personas datu apstrādes uzsākšanas pārzinis reģistrē personas datu apstrādi Datu valsts inspekcijā vai norīko fizisko personu — datu aizsardzības speciālistu —, ja pārzinis:",
+      "content": "1) paredz personas datus nodot valstij, kas nav Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts;\n2) paredz personas datus apstrādāt, sniedzot finanšu vai apdrošināšanas pakalpojumus, veicot izlozes vai loterijas, tirgus vai sabiedriskā viedokļa pētījumus, personāla atlasi vai personāla novērtēšanu kā komercdarbības veidu, sniedzot parāda atgūšanas pakalpojumus un kredītinformācijas apstrādes pakalpojumus kā komercdarbības veidu;\n3) veic sensitīvo personas datu apstrādi, izņemot gadījumus, kad minēto datu apstrādi veic grāmatvedības, personāla uzskaites (darba tiesisko attiecību) mērķiem vai to veic reliģiskās organizācijas;\n4) apstrādā personas datus attiecībā uz noziedzīgiem nodarījumiem, sodāmību un sodiem administratīvo pārkāpumu lietās;\n5) veic videonovērošanu, saglabājot personas datus;\n6) veic ģenētisko datu apstrādi."
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "21.1",
+      "title": "21. 1 pants. (1) Pārzinis var nereģistrēt personas datu apstrādi, ja viņš norīko personas datu aizsardzības speciālistu. Personas datu aizsardzības speciālists nav personas datu operators.",
+      "content": "(2) Par personas datu aizsardzības speciālistu norīko fizisko personu, kurai ir augstākā izglītība tiesību zinātņu, informācijas tehnoloģiju vai līdzīgā jomā un kura ir apmācīta Ministru kabineta noteiktajā kārtībā.\n(3) Pārzinis piešķir personas datu aizsardzības speciālistam nepieciešamos līdzekļus, nodrošina nepieciešamo informāciju un darba laika ietvaros paredz laiku, lai viņš varētu veikt arī datu aizsardzības speciālista pienākumus.\n(4) Pārzinis reģistrē personas datu aizsardzības speciālistu Datu valsts inspekcijā.\n(5) Personas datu aizsardzības speciālistu reģistrs ir publiski pieejams. Par personas datu aizsardzības speciālistu reģistrā norāda šādu informāciju:\n1) personas vārds, uzvārds, kontaktinformācija (adrese, tālruņa numurs, elektroniskā pasta adrese);\n2) termiņš, uz kādu persona ir norīkota;\n3) personas datu apstrādes vietu un ziņas par iespējām saņemt šā likuma 22.panta pirmajā daļā minēto informāciju.\n(6) Datu valsts inspekcija atliek personas datu aizsardzības speciālista reģistrāciju, ja nav sniegta visa šā panta piektajā daļā minētā informācija.\n(7) Datu valsts inspekcija nereģistrē personas datu aizsardzības speciālistu, ja:\n1) viņš neatbilst šajā likumā izvirzītajām prasībām;\n2) iestājies kāds no šā likuma 22.panta sestajā daļā minētajiem gadījumiem.\n(8) Datu valsts inspekcija izslēdz personas datu aizsardzības speciālistu no reģistra šādos gadījumos, ja:\n1) ir saņemts pārziņa iesniegums par izslēgšanu no personas datu apstrādes reģistra;\n2) mēneša laikā pēc personas datu aizsardzības speciālista reģistrācijas pārzinis nav iesniedzis iesniegumu arī par personas datu apstrādes izslēgšanu no personas datu apstrādes reģistra.\n(9) Datu valsts inspekcija lēmumu par personas datu aizsardzības speciālista reģistrāciju pieņem 15 dienu laikā pēc visas šā panta piektajā daļā minētās informācijas iesniegšanas Datu valsts inspekcijai.\n(10) Datu valsts inspekcija var izslēgt personas datu aizsardzības speciālistu no reģistra un pieprasīt personas datu apstrādes reģistrāciju saskaņā ar šā likuma 22.pantu , ja Datu valsts inspekcija personas datu aizsardzības speciālista pārziņā esošo personas datu apstrādē konstatē šā likuma pārkāpumus."
+    },
+    {
+      "provision_ref": "Art. 21.2",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "21.2",
+      "title": "21. 2 pants. (1) Personas datu aizsardzības speciālists organizē, kontrolē un uzrauga pārziņa veiktās personas datu apstrādes atbilstību likuma prasībām.",
+      "content": "(2) Personas datu aizsardzības speciālists veido reģistru, kurā iekļauj šā likuma 22.panta pirmajā daļā minēto informāciju (izņemot tā paša panta pirmās daļas 10. un 11.punktā minēto informāciju), ko bez maksas sniedz datu subjektam vai Datu valsts inspekcijai pēc to pieprasījuma.\n(3) Personas datu aizsardzības speciālista pienākums ir saglabāt un bez tiesiska pamata neizpaust personas datus arī pēc darba, dienesta vai citu tiesisko attiecību izbeigšanas.\n(4) Personas datu aizsardzības speciālists katru gadu sagatavo gada pārskatu par savu darbību un iesniedz to pārzinim."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "22",
+      "title": "(1) Šā likuma 21.pantā minētās institūcijas un personas, kas vēlas uzsākt personas datu apstrādi, iesniedz Datu valsts inspekcijai reģistrācijas iesniegumu, kurā ir iekļauta šāda informācija:",
+      "content": "1) pārziņa vārds, uzvārds, personas kods (juridiskajai personai — nosaukums un reģistrācijas numurs), adrese un tālruņa numurs;\n2) personas datu operatora (ja tāds ir) vārds, uzvārds, personas kods (juridiskajai personai — nosaukums un reģistrācijas numurs), adrese un tālruņa numurs;\n3) personas datu apstrādes tiesiskais pamats;\n4) personas datu veidi un personas datu apstrādes mērķi;\n5) datu subjektu kategorijas;\n6) personas datu saņēmēju kategorijas;\n7) paredzētais personas datu apstrādes veids;\n8) plānotais personas datu iegūšanas veids;\n9) personas datu apstrādes vieta;\n10) informācijas resursu vai tehnisko resursu turētājs, kā arī atbildīgais par informācijas sistēmas drošību;\n11) tehniskie un organizatoriskie pasākumi, kas nodrošina personas datu aizsardzību;\n12) kādi personas dati tiks nodoti citām valstīm, kas nav Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalstis.\n(2) Datu valsts inspekcija identificē to personas datu apstrādi, kur iespējami riski datu subjektu tiesībām un brīvībām. Šādai personas datu apstrādei nosaka pirmsreģistrācijas pārbaudi.\n(3) Reģistrējot personas datu apstrādi, Datu valsts inspekcija izsniedz pārzinim vai viņa pilnvarotajai personai lēmumu par datu apstrādes reģistrāciju. Personas datu apstrādes reģistrācijas apliecību Datu valsts inspekcija izsniedz par maksu saskaņā ar Ministru kabineta apstiprinātu maksas pakalpojumu cenrādi pēc to šā likuma 21.pantā minēto personu pieprasījuma, kuras vēlas uzsākt personas datu apstrādi.\n(4) Pirms izmaiņu izdarīšanas personas datu apstrādē šīs izmaiņas reģistrē Datu valsts inspekcijā, izņemot šā panta pirmās daļas 11.punktā minēto informāciju.\n(5) Ja mainās personas datu apstrādes tehniskie un organizatoriskie pasākumi, kas būtiski ietekmē personas datu apstrādes aizsardzību, informācija par to gada laikā jāiesniedz Datu valsts inspekcijai.\n(6) Ja mainās pārzinis vai pārziņa darbība tiek izbeigta, viņš iesniedz Datu valsts inspekcijai iesniegumu par personas datu apstrādes izslēgšanu no personas datu apstrādes reģistra.\n(7) Datu valsts inspekcija pieņem lēmumu par pārziņa izslēgšanu no personas datu apstrādes reģistra, ja:\n1) pārzinis nav novērsis pārkāpumus Datu valsts inspekcijas norādītajā termiņā;\n2) pārzinis mēneša laikā pēc izmaiņu izdarīšanas personas datu apstrādē nav iesniedzis iesniegumu par izmaiņu izdarīšanu personas datu apstrādē vai nav iesniedzis šā panta sestajā daļā minēto iesniegumu.\n(8) Ministru kabinets nosaka šādu iesniegumu veidlapu paraugus:\n1) personas datu apstrādes reģistrācijas iesniegums;\n2) iesniegums par izmaiņu izdarīšanu personas datu apstrādē;\n3) personas datu aizsardzības speciālista reģistrācijas iesniegums;\n4) iesniegums par personas datu apstrādes izslēgšanu no personas datu apstrādes reģistra;\n5) iesniegums par personas datu aizsardzības speciālista izslēgšanu no Datu valsts inspekcijas reģistra.\n(9) Par katru personas datu apstrādes reģistrāciju vai šā panta ceturtajā daļā minēto izmaiņu reģistrāciju maksājama valsts nodeva Ministru kabineta noteiktajā kārtībā un apmērā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "23",
+      "title": "(1) Datu valsts inspekcija atliek personas datu apstrādes reģistrāciju vai lēmuma pieņemšanu par izmaiņu izdarīšanu personas datu apstrādē, ja:",
+      "content": "1) personas datu apstrādes reģistrācijas iesniegumā konstatēti trūkumi;\n2) nav sniegta visa šā likuma 22.panta pirmajā daļā norādītā informācija;\n3) nav samaksāta valsts nodeva;\n4) personas datu apstrādei nosaka pirmsreģistrācijas pārbaudi saskaņā ar šā likuma 22.panta otro daļu.\n(2) Datu valsts inspekcija nereģistrē personas datu apstrādi vai pieņem lēmumu par atteikumu izdarīt izmaiņas personas datu apstrādē, ja:\n1) Datu valsts inspekcijas konstatētie un paziņotie trūkumi nav novērsti 30 dienu laikā;\n2) personas datu apstrādes reģistrācijas iesniegumu vai iesniegumu par izmaiņu izdarīšanu personas datu apstrādē iesniegusi persona, kura nav uzskatāma par pārzini šā likuma izpratnē;\n3) pārbaudot personas datu apstrādi, konstatēti normatīvo aktu pārkāpumi personas datu aizsardzības jomā.\n(3) Iesniedzot dokumentus atkārtoti pēc šajā likumā norādītā termiņa dokumentos konstatēto trūkumu novēršanai, šajā likumā paredzēto valsts nodevu maksā atkārtoti.\n(4) Šā panta otrās daļas 2.punktā minētajos gadījumos valsts nodevu atmaksā saskaņā ar Datu valsts inspekcijas lēmumu."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "24",
+      "title": "(1) Datu valsts inspekcija personas datu apstrādes reģistrā iekļauj šā likuma 22.panta pirmajā un ceturtajā daļā minēto informāciju, izņemot informāciju, kas minēta tā pirmās daļas 10. un 11.punktā. Reģistrs ir publiski pieejams.",
+      "content": "(2) Šā panta pirmajā daļā minētajā reģistrā neiekļauj informāciju par reģistrēto personas datu apstrādi, kuru reglamentē likums \" Par valsts noslēpumu \" un Operatīvās darbības likums ."
+    },
+    {
+      "provision_ref": "Art. 24.1",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "24.1",
+      "title": "24. 1 pants. Šā likuma 21. 1 panta piektajā daļā un 24.panta pirmajā daļā minētie reģistri ir personas datu apstrādes uzraudzības informācijas sistēmas sastāvdaļa. Personas datu apstrādes uzraudzības informācijas sistēma ir valsts informācijas sistēma, kuras darbību organizē un vada Datu valsts inspekcija.",
+      "content": "( 01.03.2007 . likuma redakcijā, kas stājas spēkā 01.09.2007. )"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "25",
+      "title": "(1) Pārziņa un personas datu operatora pienākums ir lietot nepieciešamos tehniskos un organizatoriskos līdzekļus, lai aizsargātu personas datus un novērstu to nelikumīgu apstrādi.",
+      "content": "(2) Pārzinis kontrolē ievadīto personas datu veidu un ievadīšanas laiku un ir atbildīgs par to personu rīcību, kuras veic personas datu apstrādi."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "26",
+      "title": "(1) Personas datu apstrādes aizsardzības obligātās tehniskās un organizatoriskās prasības nosaka Ministru kabinets.",
+      "content": "(2) Valsts un pašvaldības institūcijas un privātpersonas, kurām deleģēti pārvaldes uzdevumi, sagatavo personas datu apstrādes atbilstības novērtējumu, ietverot tajā arī riska analīzi un pārskatu par informācijas drošības jomā veiktajiem pasākumiem.\n(2 1 ) Nosacījumus personas datu apstrādes atbilstības novērtējumam, tā sagatavošanas un iesniegšanas kārtību, kā arī termiņu nosaka Ministru kabinets.\n(3) (Izslēgta ar 12.06.2009 . likumu.)\n(4) (Izslēgta ar 12.06.2009 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "27",
+      "title": "(1) Fiziskās personas, kuras tiek iesaistītas personas datu apstrādē, rakstveidā apņemas saglabāt un nelikumīgi neizpaust personas datus. Šo personu pienākums ir neizpaust personas datus arī pēc darba tiesisko vai citu līgumā noteikto attiecību izbeigšanās.",
+      "content": "(2) Pārziņa pienākums ir veikt šā panta pirmajā daļā minēto personu uzskaiti.\n(3) Apstrādājot personas datus, personas datu operatoram jāievēro pārziņa norādījumi."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "28",
+      "title": "(1) Personas datus var nodot citai valstij, kas nav Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalsts, vai starptautiskai organizācijai, ja šī valsts vai starptautiskā organizācija nodrošina tādu datu aizsardzības pakāpi, kas atbilst attiecīgajai datu aizsardzības pakāpei Latvijā.",
+      "content": "(2) Izņēmumi šā panta pirmajā daļā minēto prasību pildīšanā ir pieļaujami, ja pārzinis apņemas veikt uzraudzību pār attiecīgu aizsardzības pasākumu veikšanu vai tiek ievērots vismaz viens no šādiem nosacījumiem:\n1) ir datu subjekta piekrišana personas datu nodošanai;\n2) datu nodošana ir nepieciešama, lai izpildītu vienošanos starp datu subjektu un pārzini, personas dati nododami saskaņā ar datu subjekta līgumsaistībām vai arī , ievērojot datu subjekta lūgumu, datu nodošana nepieciešama, lai noslēgtu līgumu;\n3) datu nodošana ir nepieciešama un noteiktā kārtībā pieprasīta saskaņā ar svarīgām valsts un sabiedriskajām interesēm vai ir nepieciešama tiesvedībā;\n4) datu nodošana ir nepieciešama, lai aizsargātu datu subjekta dzīvību un veselību;\n5) datu nodošana attiecas uz publiskiem vai publiski pieejamā reģistrā uzkrātiem personas datiem.\n(3) Personas datu aizsardzības pakāpes novērtējumu saskaņā ar šā panta pirmo daļu veic Datu valsts inspekcija un sniedz rakstveida piekrišanu personas datu nodošanai.\n(4) Lai pārzinis saskaņā ar šā panta otro daļu varētu uzraudzīt attiecīgo aizsardzības pasākumu veikšanu, pārzinis un personas datu saņēmējs noslēdz līgumu par personas datu nodošanu. Nosacījumus, kas obligāti iekļaujami līgumā par personas datu nodošanu, nosaka Ministru kabinets.\n(4 1 ) Izņēmumi šā panta ceturtajā daļā minēto prasību pildīšanā ir pieļaujami, ja:\n1) pārzinis nodrošina, ka uz viņu attiecas uzņēmuma saistošie noteikumi, kas ietver personas datu apstrādes un aizsardzības principus, nodrošina datu subjektu tiesības un ir apstiprināti vienā no Eiropas Savienības dalībvalstu personas datu aizsardzības uzraudzības iestādēm;\n2) pārzinis noslēdz līgumu atbilstoši Eiropas Komisijas apstiprinātām līguma standartklauzulām par personas datu nosūtīšanu uz trešajām valstīm.\n(4 2 ) Šā panta 4. 1 daļā minētie izņēmumi neattiecas uz starptautiskās sadarbības, nacionālās drošības un krimināltiesību jomu, un minētajās jomās līgumu par personas datu nodošanu neslēdz.\n(5) Personas datus var nodot citai Eiropas Savienības vai Eiropas Ekonomikas zonas dalībvalstij, ja šī valsts nodrošina tādu datu aizsardzības pakāpi, kas atbilst attiecīgajai Latvijā spēkā esošajai datu aizsardzības pakāpei.\n(6) Nododot personas datus citai valstij vai starptautiskai organizācijai, paziņo par attiecīgajiem personas datu apstrādei paredzētajiem ierobežojumiem, ja vien tie nav iekļauti šā panta ceturtajā daļā minētajā līgumā."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "29",
+      "title": "(1) Personas datu aizsardzības uzraudzību veic Datu valsts inspekcija, kas atrodas Tieslietu ministrijas pārraudzībā, darbojas neatkarīgi un patstāvīgi, izpildot normatīvajos aktos noteiktās funkcijas, pieņem lēmumus un izdod administratīvos aktus saskaņā ar likumu. Datu valsts inspekcija ir valsts pārvaldes iestāde, kuras funkcijas, tiesības un pienākumus nosaka likums. Datu valsts inspekciju vada direktors, kuru ieceļ amatā un atbrīvo no amata Ministru kabinets pēc tieslietu ministra priekšlikuma.",
+      "content": "(2) Datu valsts inspekcija darbojas saskaņā ar nolikumu, kuru apstiprina Ministru kabinets. Datu valsts inspekcija katru gadu sniedz Ministru kabinetam ziņojumu par savu darbību un publicē to laikrakstā \"Latvijas Vēstnesis\".\n(3) Datu valsts inspekcijas pienākumi personas datu aizsardzības jomā ir šādi:\n1) uzraudzīt personas datu apstrādes atbilstību šā likuma prasībām;\n2) pieņemt lēmumus un izskatīt sūdzības, kas saistītas ar personas datu aizsardzību;\n3) reģistrēt personas datu apstrādi;\n4) ierosināt un veikt darbības, kā arī pieņemt lēmumus, kas vērsti uz efektīvāku personas datu aizsardzību;\n5) (izslēgts ar 21.06.2012 . likumu) ;\n6) (izslēgts ar 12.06.2009 . likumu) .\n(4) Datu valsts inspekcijas tiesības personas datu aizsardzības jomā ir šādas:\n1) normatīvajos aktos noteiktajā kārtībā bez maksas saņemt no fiziskajām un juridiskajām personām inspekcijas uzdevumu veikšanai nepieciešamo informāciju;\n2) veikt personas datu apstrādes pārbaudi;\n3) pieprasīt datu bloķēšanu, kļūdainu vai nelikumīgi iegūtu datu izdzēšanu vai iznīcināšanu, noteikt pastāvīgu vai pagaidu aizliegumu datu apstrādei;\n4) iesniegt tiesā prasību par šā likuma pārkāpumiem;\n5) anulēt personas datu apstrādes reģistrācijas apliecību, ja, pārbaudot personas datu apstrādi, konstatēti pārkāpumi;\n6) likumā noteiktajā kārtībā uzlikt administratīvos sodus par pārkāpumiem personas datu apstrādē;\n7) veikt pārbaudi, lai noteiktu personas datu apstrādes atbilstību normatīvo aktu prasībām gadījumos, kad pārzinim ar likumu aizliegts sniegt datu subjektam informāciju un saņemts attiecīgs iesniegums no datu subjekta;\n8) veikt Datu valsts inspekcijas uzdevumu īstenošanai nepieciešamo personas datu, tai skaitā sensitīvo personas datu, apstrādi."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "30",
+      "title": "(1) Lai izpildītu šā likuma 29.panta trešajā daļā minētos pienākumus, Datu valsts inspekcijas direktoram un viņa pilnvarotajiem Datu valsts inspekcijas darbiniekiem ir tiesības:",
+      "content": "1) brīvi apmeklēt jebkuras nedzīvojamās telpas, kurās atrodas personas datu apstrādi, un pārziņa pārstāvja klātbūtnē veikt nepieciešamo pārbaudi vai citus pasākumus, lai noteiktu personas datu apstrādes procesa atbilstību likumam;\n2) pieprasīt rakstveida vai mutvārdu paskaidrojumu no jebkuras fiziskās vai juridiskās personas, kas saistīta ar personas datu apstrādi;\n3) pieprasīt, lai tiek uzrādīti dokumenti un sniegta cita informācija, kas attiecas uz pārbaudāmo personas datu apstrādi;\n4) pieprasīt personas datu apstrādes, jebkuras tās iekārtas vai informācijas nesēja pārbaudi un noteikt ekspertīzi pārbaudāmo jautājumu izpētei;\n5) ja nepieciešams, savu pienākumu izpildes nodrošināšanai pieaicināt tiesībaizsardzības iestāžu darbiniekus vai citus speciālistus;\n6) ja nepieciešams, sagatavot un iesniegt tiesībaizsardzības iestādēm materiālus vainīgo personu saukšanai pie atbildības;\n7) sastādīt protokolu par administratīvo pārkāpumu personas datu apstrādē.\n(2) Reģistrēšanā un pārbaudēs iesaistītie Datu valsts inspekcijas darbinieki nodrošina reģistrācijas un pārbaužu gaitā iegūtās informācijas neizpaušanu, izņemot publiski pieejamo informāciju. Šis aizliegums ir spēkā arī pēc tam, kad darbinieks beidzis pildīt amata pienākumus."
+    },
+    {
+      "provision_ref": "Art. 30.1",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "30.1",
+      "title": "30. 1 pants. (1) Datu valsts inspekcija ir nacionālā uzraudzības iestāde, kas veic Šengenas informācijas sistēmas nacionālās daļas uzraudzību un pārbauda, vai Šengenas informācijas sistēmā iekļauto personas datu apstrādē netiek pārkāptas datu subjekta tiesības.",
+      "content": "(2) Datu valsts inspekcija uzrauga, lai personas datu apstrādē, kas tiek veikta sadarbībā ar Eiropas Policijas biroju, tiktu ievēroti normatīvajos aktos noteiktie personas datu apstrādes nosacījumi."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "31",
+      "title": "(1) Datu valsts inspekcijas amatpersonas izdoto administratīvo aktu vai faktisko rīcību var apstrīdēt Datu valsts inspekcijas direktoram. Direktora izdoto administratīvo aktu vai faktisko rīcību, kā arī lēmumu par apstrīdēto administratīvo aktu vai faktisko rīcību var pārsūdzēt tiesā likumā noteiktajā kārtībā.",
+      "content": "(2) Datu valsts inspekcijas direktora vai citas amatpersonas lēmuma par datu bloķēšanu, datu apstrādes pastāvīgu vai pagaidu aizliegumu apstrīdēšana un pārsūdzēšana neaptur šā lēmuma darbību, izņemot gadījumus, kad tā tiek apturēta ar iesnieguma vai pieteikuma izskatītāja lēmumu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "32",
+      "title": "Ja, pārkāpjot šo likumu, personai nodarīts kaitējums vai radīti zaudējumi, tai ir tiesības saņemt atbilstīgu atlīdzinājumu.",
+      "content": "32.pants. Ja, pārkāpjot šo likumu, personai nodarīts kaitējums vai radīti zaudējumi, tai ir tiesības saņemt atbilstīgu atlīdzinājumu."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn1",
+      "title": "1. Šā likuma IV nodaļa \"Personas datu apstrādes sistēmas reģistrēšana un aizsardzība\" stājas spēkā 2001.gada 1.janvārī.",
+      "content": "1. Šā likuma IV nodaļa \"Personas datu apstrādes sistēmas reģistrēšana un aizsardzība\" stājas spēkā 2001.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn2",
+      "title": "2. Šā likuma 21.pantā minētās institūcijas un personas, kuras darbību uzsākušas pirms šā likuma stāšanās spēkā, reģistrējas Datu valsts inspekcijā līdz 2003.gada 1.martam. Nereģistrēto sistēmu darbība pēc šā termiņa izbeidzama.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 24.10.2002 . likumu, kas stājas spēkā 27.11.2002. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn3",
+      "title": "3. Grozījumi 4.pantā stājas spēkā 2003.gada 1.jūlijā, bet grozījumi (2002.gada 24.oktobra redakcija) 29.panta pirmajā daļā stājas spēkā 2004.gada 1.janvārī.",
+      "content": "( 24.10.2002 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn4",
+      "title": "4. Personas datu apstrādes sistēmas, kuras līdz 2002.gada 28.novembrim likums neuzlika par pienākumu reģistrēt Datu valsts inspekcijā, tiek reģistrētas līdz 2003.gada 1.jūlijam.",
+      "content": "( 24.10.2002 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn5",
+      "title": "5. Pārziņi, kuri ir reģistrējuši personas datu apstrādes sistēmas līdz 2007.gada 1.septembrim, līdz 2008.gada 1.martam bez maksas iesniedz Datu valsts inspekcijai papildu informāciju, lai nodrošinātu informācijas par personas datu apstrādi atbilstību šā likuma 22.pantā noteiktajām prasībām.",
+      "content": "( 01.03.2007 . likuma redakcijā, kas stājas spēkā 01.09.2007. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn6",
+      "title": "6. Datu valsts inspekcija līdz 2008.gada 1.martam izslēdz no personas datu apstrādes reģistra tās reģistrētās personas datu apstrādes sistēmas, kurās iekļauto personas datu reģistrāciju šis likums neparedz, kā arī tad, ja ir iestājies kāds no šā likuma 22.panta sestajā daļā paredzētajiem gadījumiem.",
+      "content": "( 01.03.2007 . likuma redakcijā, kas stājas spēkā 01.09.2007. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn7",
+      "title": "7. Datu valsts inspekcija līdz 2010.gada 31.decembrim izslēdz no personas datu apstrādes reģistra tās reģistrētās personas datu apstrādes, kuru reģistrāciju šis likums neparedz.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn8",
+      "title": "8. Grozījumi šā likuma 3.panta otrajā daļā, ar kuriem noteiktas prasības pilnvarotajam pārstāvim un pienākums par pilnvarotā pārziņa iecelšanu informēt Datu valsts inspekciju, stājas spēkā 2014.gada 1.decembrī.",
+      "content": "( 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "IV nodaļa Personas datu apstrādes reģistrēšana un aizsardzība (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 01.03.2007 . likumu, kas stājas spēkā 01.09.2007. )",
+      "section": "pn9",
+      "title": "9. Ministru kabinets līdz 2014.gada 1.jūnijam izdod šā likuma 26.panta 2. 1 daļā minētos Ministru kabineta noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 1.jūnijam ir spēkā Ministru kabineta 2009.gada 17.novembra noteikumi Nr.1322 \" Prasības audita atzinumam par personas datu apstrādi valsts un pašvaldību institūcijās .",
+      "content": "( 06.02.2014 . likuma redakcijā, kas stājas spēkā 07.03.2014. )\n( 21.02.2008 . likuma redakcijā, kas stājas spēkā 06.03.2008. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "datu subjekts",
+      "definition": "fiziskā persona, kuru var tieši vai netieši identificēt",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "datu subjekta piekrišana",
+      "definition": "datu subjekta brīvi, nepārprotami izteikts gribas apliecinājums, ar kuru datu subjekts atļauj apstrādāt savus personas datus atbilstoši pārziņa sniegtajai informācijai saskaņā ar šā likuma 8.pantu",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "personas dati",
+      "definition": "jebkāda informācija, kas attiecas uz identificētu vai identificējamu fizisko personu",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "personas datu apstrāde",
+      "definition": "jebkuras ar personas datiem veiktas darbības, ieskaitot datu vākšanu, reģistrēšanu, ievadīšanu, glabāšanu, sakārtošanu, pārveidošanu, izmantošanu, nodošanu, pārraidīšanu un izpaušanu, bloķēšanu vai dzēšanu",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "personas datu apstrādes sistēma",
+      "definition": "jebkādā formā fiksēta strukturizēta personas datu kopa, kas ir pieejama, ievērojot attiecīgus personu identificējošus kritērijus",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "personas datu operators",
+      "definition": "pārziņa pilnvarota persona, kas veic personas datu apstrādi pārziņa uzdevumā",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "personas datu saņēmējs",
+      "definition": "fiziskā vai juridiskā persona, kurai tiek izpausti personas dati",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "sensitīvi personas dati",
+      "definition": "personas dati, kas norāda personas rasi, etnisko izcelsmi, reliģisko, filozofisko un politisko pārliecību, dalību arodbiedrībās, kā arī sniedz informāciju par personas veselību vai seksuālo dzīvi",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "pārzinis",
+      "definition": "fiziskā vai juridiskā persona, valsts vai pašvaldības institūcija, kura pati vai kopā ar citiem nosaka personas datu apstrādes mērķus un apstrādes līdzekļus, kā arī atbild par personas datu apstrādi saskaņā ar šo likumu",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "trešā persona",
+      "definition": "jebkura fiziskā vai juridiskā persona, izņemot datu subjektu, pārzini, personas datu operatoru un personas, kuras tieši pilnvarojis pārzinis vai personas datu operators",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "personas identifikācijas kods",
+      "definition": "numurs, kas tiek piešķirts datu subjekta identifikācijai.",
+      "source_provision": "Art. 2"
+    }
+  ]
+}

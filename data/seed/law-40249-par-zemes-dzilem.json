@@ -1,0 +1,629 @@
+{
+  "id": "lv-law-40249",
+  "type": "statute",
+  "title": "Par zemes dzīlēm",
+  "title_en": "On Subterranean Depths",
+  "short_name": "TA-40249",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/40249-par-zemes-dzilem",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) augsne — virsējais irdenais zemes garozas slānis, kas veidojies atmosfēras un bioloģisko faktoru ietekmē un kam piemīt dabiska auglība;\n2) bieži sastopamie derīgie izrakteņi — Latvijas teritorijā izplatīti un pietiekamā daudzumā esoši derīgie izrakteņi;\n2 1 ) bieži sastopamo derīgo izrakteņu ieguves atļauja - administratīvais akts, kas tā adresātam piešķir tiesības izmantot zemes dzīles noteiktās robežās un noteiktu laiku, ievērojot atļaujas noteikumus;\n3) derīgie izrakteņi — neorganiskas vai organiskas izcelsmes veidojumi (arī pazemes ūdeņi), kuru praktiska izmantošana tautsaimniecībā ir iespējama;\n4) derīgo izrakteņu atradne — dabisks derīgo izrakteņu sakopojums, kuru daudzums, kvalitāte un ieguves apstākļi ir izvērtēti un kuru praktiska izmantošana tautsaimniecībā ir iespējama;\n5) derīgo izrakteņu atradņu reģistrs — datu sakopojums par derīgo izrakteņu krājumiem atradnēs un to kvalitāti;\n6) derīgo izrakteņu ieguve — darbu komplekss derīgo izrakteņu atdalīšanai no to dabiskās vides;\n7) (izslēgts ar 03.04.2025 . likumu) ;\n8) derīgo izrakteņu krājumu bilance — datu sakopojums attiecībā uz noteiktu laika periodu par derīgo izrakteņu ieguves apjomiem, krājumu zudumiem un atlikušajiem derīgo izrakteņu krājumiem;\n9) (izslēgts ar 03.04.2025 . likumu) ;\n10) grodu aka — ar grodiem nostiprināta ūdens ņemšanas ietaise pazemes ūdeņu uztveršanai;\n11) ģeoloģiskā informācija — dati par zemes dzīļu uzbūvi, īpašībām un resursiem;\n12) ģeoloģiskā izpēte — visu veidu ģeoloģiskie darbi, tai skaitā derīgo izrakteņu meklēšana, ģeoloģiskā kartēšana un ģeoloģiskie pētījumi, kuru mērķis ir noskaidrot zemes dzīļu uzbūvi, sastāvu, īpašības, stāvokli, kā arī derīgo izrakteņu un zemes dzīļu derīgo īpašību izplatības un izvietojuma likumsakarības;\n12 1 ) valsts nozīmes ģeoloģiskā izpēte — ģeoloģiskā izpēte, kuras mērķis ir iegūt svarīgu informāciju par teritorijas ģeoloģisko uzbūvi, ģeoloģiskajiem procesiem un derīgajiem izrakteņiem (izņemot ogļūdeņražus), kam var būt sevišķi svarīga nozīme valsts ekonomikas, aizsardzības un citās jomās;\n12 2 ) ģeoekoloģiskā izpēte — izpēte, kuras mērķis ir iegūt informāciju par noteiktas teritorijas augsnes un zemes dzīļu, tai skaitā pazemes ūdeņu, piesārņojuma līmeni un izplatību;\n12 3 ) ģeofizikālā izpēte — izpēte, kuras mērķis ir iegūt informāciju par noteiktas teritorijas zemes dzīļu uzbūvi, stāvokli un struktūru, izmantojot Zemes fizikālo parametru (piemēram, magnētiskais un gravitācijas lauks, elektriskā pretestība, dielektriskā caurlaidība) mērījumus un to interpretēšanu;\n12 4 ) hidroģeoloģiskā izpēte — visu veidu pazemes ūdeņu izpētes darbi, kuru mērķis ir noskaidrot hidroģeoloģiskos apstākļus un raksturlielumus izpētes teritorijā un mijiedarbībā ar tuvāko apkārtni;\n13) ūdens ieguves urbums — ar caurulēm nostiprināta ūdens ņemšanas ietaise pazemes ūdeņu uztveršanai;\n14) licences laukums — konkrētam zemes dzīļu izmantošanas mērķim paredzēts zemes dzīļu iecirknis (bloks) vai arī vairāku iecirkņu (bloku) vai to daļu sakopojums, kura robežas ir noteiktas zemes dzīļu izmantošanas licencē vai bieži sastopamo derīgo izrakteņu ieguves atļaujā;\n15) ogļūdeņraži — neapstrādāta nafta (jēlnafta), dabas gāze un gāzes kondensāti;\n15 1 ) pazemes būves — tuneļi, mākslīgās alas, šahtas, patvertnes, kā arī ogļūdeņražu un ogļskābās gāzes glabātavas ģeoloģiskajās struktūrās;\n15 2 ) zemes dzīļu derīgās īpašības — iežu fizikālās īpašības (porainība, caurlaidība, blīvums, izolētspēja, termālā enerģija u.c.), kā arī ģeoloģiskās struktūras, kuras var izmantot tautsaimniecībā;\n15 3 ) ogļūdeņražu meklēšana — teritorijas ģeofizikālā un ģeoķīmiskā izpēte un datu apstrāde, lai analizētu tās ģeoloģisko uzbūvi un novērtētu ogļūdeņražu iegulu potenciālo izplatību;\n15 4 ) ogļūdeņražu izpēte — ogļūdeņražu ģeoloģiskā, ģeofizikālā un ģeoķīmiskā izpēte, urbuma ierīkošana, izpētes darbi urbumā, tai skaitā serdes pacelšana, ģeofizikālā izpēte, urbuma šķidruma (arī ogļūdeņražu) atsūknēšana, kvalitātes testēšana un citi darbi, lai novērtētu un izvēlētos ieguves tehnoloģijas un aprēķinātu ogļūdeņražu krājumus;\n15 5 ) eksperimentālā ogļūdeņražu ieguve — ogļūdeņražu izpētes laikā veikta to sūknēšana no urbuma, ogļūdeņražu sastāva un kvalitātes testēšana, lai noteiktu ogļūdeņražu iegulas lielumu, to sastāvu, kā arī efektīvāko piemērojamo tehnoloģiju ogļūdeņražu ieguvei;\n15 6 ) (izslēgts ar 03.04.2025 . likumu) ;\n16) (izslēgts ar 16.12.2004 . likumu) ;\n17) valsts nozīmes derīgie izrakteņi — ogļūdeņraži (neapstrādāta nafta (jēlnafta) un dabasgāze), pazemes ūdeņi (saldūdeņi, minerālūdeņi, termālie ūdeņi un rūpniecībā izmantojamie ūdeņi) un kristāliskā pamatklintāja ieži;\n18) valsts nozīmes derīgo izrakteņu atradne — Ministru kabineta noteikta atradne, kura atrodas Latvijas teritorijā vai ekskluzīvajā ekonomiskajā zonā un kuras krājumi nodrošina valsts vai vairāku tās reģionu vajadzības pēc attiecīgā derīgā izrakteņa;\n19) valsts nozīmes zemes dzīļu nogabals — Ministru kabineta noteikts zemes garozas iecirknis Latvijas teritorijā vai ekskluzīvajā ekonomiskajā zonā, kurā zemes dzīļu uzbūvei vai īpašībām ir vai var būt sevišķi svarīga nozīme valsts ekonomikas, aizsardzības un citās jomās;\n20) zemes dzīles — zemes garozas daļa, kas atrodas zem augsnes, iekšzemes un jūras ūdeņiem līdz dziļumam, kurā tehniski ir iespējama tās izmantošana;\n21) zemes dzīļu izmantošana — ģeoloģiskā izpēte, derīgo izrakteņu ieguve un zemes dzīļu derīgo īpašību izmantošana;\n22) zemes dzīļu izmantošanas licence — administratīvais akts, kas tā adresātam piešķir tiesības izmantot zemes dzīles noteiktās robežās, noteiktā veidā un noteiktu laiku, ievērojot licences noteikumus;\n23) zemes garoza — zemes ārējā cietā daļa, kuras biezums Latvijā ir 40—64 km;\n24) zemes dzīļu fonds — visas izmantojamās un neizmantojamās zemes dzīles Latvijas teritorijā un ekskluzīvajā ekonomiskajā zonā neatkarīgi no to piederības (īpašnieka);\n25) zemes dzīļu monitorings — zemes dzīļu stāvokļa novērošanas, kontroles, analīzes un prognozēšanas sistēma;\n26) zemes dzīļu fonda valsts ģeoloģiskā pārraudzība — normatīvajos aktos noteikta pasākumu sistēma, kuras uzdevums ir raudzīties, kā tiek ievērota tiesību aktos, normatīvajos dokumentos un atļaujās vai licencēs noteiktā zemes dzīļu izmantošanas kārtība (derīgo izrakteņu ģeoloģiskās izpētes atbilstības programma un sasniegto rezultātu izvērtēšana, derīgo izrakteņu krājumu akcepts un uzskaite);\n27) zemes īpašnieks — persona, kura atbilst Civillikumā noteiktajam īpašnieka jēdzienam vai kura ir reģistrēta Nekustamā īpašuma valsts kadastra informācijas sistēmā kā īpašuma tiesiskais valdītājs, vai kura zemes reformas ietvaros ir ieguvusi nekustamo īpašumu, kas nav ierakstīts zemesgrāmatā;\n28) rekultivācija — darbību kopums, kas veicams pēc derīgo izrakteņu ieguves, lai sagatavotu derīgo izrakteņu ieguves vietu turpmākai zemes izmantošanai atbilstoši plānotajam zemes lietošanas mērķim."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt zemes dzīļu kompleksu, racionālu, vidi saudzējošu un ilgtspējīgu izmantošanu, kā arī noteikt zemes dzīļu aizsardzības prasības."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Īpašuma tiesības",
+      "content": "(1) Zemes dzīles un visi derīgie izrakteņi, kas tajās atrodas, pieder zemes īpašniekam.\n(2) Zemes īpašnieks, tostarp tā likumiskais vai pilnvarotais pārstāvis (turpmāk — zemes īpašnieks), var rīkoties ar zemes dzīlēm, ciktāl šis likums un citi normatīvie akti neierobežo viņa tiesības. Ja zemes īpašnieks ir publiska persona, tās vārdā rīkojas pilnvarotā persona (turpmāk — pilnvarotā persona)."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Zemes dzīļu fonda izmantošanas pārraudzība",
+      "section": "4",
+      "title": "Zemes dzīļu fonda izmantošanas pārraudzības iestādes",
+      "content": "(1) Zemes dzīļu fonda izmantošanas pārraudzību neatkarīgi no tā piederības (īpašnieka) normatīvajos aktos noteiktajā kārtībā valsts vārdā veic:\n1) Enerģētikas un vides aģentūra, Valsts vides dienests un valsts sabiedrība ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\";\n2) (izslēgts ar 03.04.2025 . likumu) ;\n3) vietējās pašvaldības.\n(2) Minēto institūciju kompetenci nosaka šis likums un citi likumi, kā arī Ministru kabineta apstiprināti attiecīgo ministriju un iestāžu (institūciju) nolikumi un citi normatīvie akti.\n(3) Klimata un enerģētikas ministrija nodrošina zemes dzīļu fonda ģeoloģisko pārraudzību un racionālas izmantošanas kontroli.\n(4) Ministru kabinets nosaka ogļūdeņražu licenču laukumus, nosacījumus ogļūdeņražu meklēšanas, izpētes un ieguves licences saņemšanai, tās izsniegšanas un izmantošanas uzraudzības kārtību, licences atcelšanas, grozīšanas un apstrīdēšanas nosacījumus un kārtību, kā arī nosacījumus un kārtību ogļūdeņražu meklēšanas, izpētes un ieguves ierobežošanai vai ogļūdeņražu meklēšanas apturēšanai.\n(5) Vietējās pašvaldības savās administratīvajās teritorijās:\n1) Ministru kabineta noteiktajā kārtībā un ievērojot Valsts vides dienesta noteiktos ieguves limitus, izsniedz atļaujas bieži sastopamo derīgo izrakteņu ieguvei, izņemot šā likuma 10.panta pirmās daļas 3.punkta \"a\" un \"b\" apakšpunktā noteiktos gadījumus;\n2) pārrauga derīgo izrakteņu ieguves vietu rekultivāciju.\n(6) Pašvaldībām nodoto funkciju izpildei nepieciešamo izdevumu segšanai izmanto ieņēmumus no valsts nodevas, kas saņemta par bieži sastopamo derīgo izrakteņu ieguves atļaujām.\n(7) (Izslēgta ar 16.12.2004 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Zemes dzīļu fonda izmantošanas pārraudzība",
+      "section": "5",
+      "title": "Zemes dzīļu izmantošanas pārraudzības formas",
+      "content": "(1) Valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” šajā likumā un citos normatīvajos aktos noteiktajā kārtībā:\n1) akceptē un uzskaita derīgo izrakteņu krājumus;\n2) sastāda derīgo izrakteņu atradņu reģistru un derīgo izrakteņu krājumu bilanci;\n3) (izslēgts ar 12.06.2009 . likumu) ;\n4) iegūst, apkopo ģeoloģisko informāciju un to uzglabā Valsts ģeoloģijas fondā;\n5) organizē valsts teritorijas ģeoloģisko kartēšanu.\n(2) Ministru kabinets ir tiesīgs juridiskajām un fiziskajām personām piederošo zemi un tās dzīles likumos noteiktajos gadījumos apgrūtināt ar valstij nepieciešamajiem īpašuma tiesību aprobežojumiem.\n(3) Nacionālās drošības, vides un zemes dzīļu aizsardzības vajadzībām, valsts nozīmes derīgo izrakteņu un atradņu, kā arī valsts nozīmes zemes dzīļu nogabalu izmantošanai, valstiski nozīmīgu būvju ierīkošanai un ekspluatācijai īpašniekiem var atsavināt zemi saskaņā ar normatīvajos aktos noteikto kārtību par sabiedrības vajadzībām nepieciešamā nekustamā īpašuma atsavināšanu.\n(4) Ministru kabinets:\n1) nosaka kārtību, kādā valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” akceptē derīgo izrakteņu krājumus un saskaņo ūdens ieguves urbuma un avota pasi;\n2) apstiprina ar derīgo izrakteņu krājumu akceptēšanu un ūdens ieguves urbuma un avota pases saskaņošanu saistīto maksas pakalpojumu cenrādi."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "6",
+      "title": "Zemes dzīļu izmantošanas pamatprincipi",
+      "content": "(1) Zemes dzīles ir neatjaunojama vērtība, kas izmantojama vienlaikus zemes īpašnieku, valsts un sabiedrības labā.\n(2) Zemes dzīļu vērtība netiek ietverta īpašuma kadastrālajā vērtībā, un par zemes dzīlēm nav jāmaksā īpašuma nodoklis. Zemes īpašnieks vai pilnvarotā persona zemes dzīles sava zemes īpašuma robežās izmanto bez maksas saskaņā ar šā likuma 11.panta noteikumiem.\n(3) Zemes dzīļu izmantotāji zemes dzīles izmanto, ievērojot normatīvo aktu prasības par kultūras pieminekļu aizsardzību, ietekmes uz vidi novērtējumu, īpaši aizsargājamo dabas teritoriju aizsardzību un izmantošanu, kā arī citu vides aizsardzības normatīvo aktu prasības.\n(4) Nodrošinot zemes dzīļu racionālu izmantošanu un aizsardzību, valsts un pašvaldības šajā likumā un citos normatīvajos aktos paredzētajos gadījumos un noteiktajā kārtībā var ierobežot, apturēt vai pārtraukt jebkuru juridisko un fizisko personu darbību zemes dzīļu izmantošanā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "7",
+      "title": "Zemes dzīļu izmantošanas veidi",
+      "content": "Zemes dzīļu izmantošanas veidi ir šādi:\n1) ģeoloģiskā, hidroģeoloģiskā, inženierģeoloģiskā, ģeotehniskā, ģeoekoloģiskā vai ģeofizikālā izpēte;\n2) zemes dzīļu monitoringa sistēmas izveide vai monitoringa veikšana;\n3) derīgo izrakteņu (izņemot ogļūdeņražus) ieguve;\n4) zemes dzīļu derīgo īpašību izmantošana;\n5) urbuma ierīkošana, konservācija un likvidācija, izņemot urbuma ierīkošanu, izmantojot zemes dzīles šā panta 1. un 2.punktā minētajā veidā;\n6) ogļūdeņražu meklēšana, izpēte un ieguve."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "8",
+      "title": "Zemes dzīļu izmantotāji",
+      "content": "(1) Zemes dzīles izmanto:\n1) zemes īpašnieks;\n2) pilnvarotā persona;\n3) persona, kas ar zemes īpašnieku vai pilnvaroto personu noslēgusi līgumu, kurā norādīts zemes dzīļu izmantošanas veids. Šis līgums ir obligāts priekšnoteikums zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas saņemšanai. Ja Ministru kabineta noteiktajos gadījumos zemes dzīļu izmantošanas licenci izsniedz zemes dzīļu izmantošanai visā Latvijas Republikas teritorijā, līgumu ar zemes īpašnieku vai pilnvaroto personu noslēdz pirms zemes dzīļu izmantošanas uzsākšanas;\n4) iekšzemes publiskajos ūdeņos — persona, kurai izsniegta zemes dzīļu izmantošanas licence;\n5) Latvijas Republikas iekšējos jūras ūdeņos, teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā Ministru kabineta noteiktajos licenču laukumos — persona, kurai izsniegta zemes dzīļu izmantošanas licence;\n6) zinātniskā institūcija, kuras pamatdarbība ir saistīta ar pētniecību dabaszinātņu jomā un kurai piešķirti publisko tiesību vai starptautisko publisko tiesību subjektu finanšu resursi šā likuma 7. panta 1. punktā minētās izpētes veikšanai.\n(2) Ministru kabinets nosaka:\n1) zemes dzīļu izmantošanas kārtību publiskajos ūdeņos;\n2) zemes dzīļu izmantošanas kārtību Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā;\n3) derīgo izrakteņu ieguves kārtību;\n3 1 ) derīgo izrakteņu aprites kārtību;\n4) nosacījumus un kārtību, kādā publiska persona iznomā zemi zemes dzīļu izmantošanai, pagarina noslēgtos nomas līgumus, kā arī zemes nomas maksas aprēķināšanas kārtību;\n5) nosacījumus un kārtību, kādā publiska persona vai publiskas personas kapitālsabiedrība iznomā zemi šā panta pirmās daļas 6. punktā minētajam subjektam, kā arī zemes nomas maksas aprēķināšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "9",
+      "title": "Zemes dzīļu izmantošanas termiņi",
+      "content": "(1) Zemes dzīļu izmantošanas licenci vai bieži sastopamo derīgo izrakteņu ieguves atļauju izsniedz uz šādiem termiņiem:\n1) ģeoloģiskajai, hidroģeoloģiskajai, inženierģeoloģiskajai, ģeoekoloģiskajai vai ģeofizikālajai izpētei, derīgo izrakteņu izpētei, zemes dzīļu monitoringa sistēmas izveidei vai monitoringa veikšanai — uz laiku līdz pieciem gadiem;\n2) ogļūdeņražu izpētei — uz laiku līdz 10 gadiem;\n3) derīgo izrakteņu meklēšanai — uz laiku līdz pieciem gadiem;\n4) urbuma ierīkošanai, konservācijai vai likvidācijai — uz laiku līdz vienam gadam;\n5) derīgo izrakteņu ieguvei (izņemot šā panta 7. punktā minēto) vai zemes dzīļu derīgo īpašību izmantošanai — uz laiku līdz 25 gadiem;\n6) ģeoloģiskajai izpētei un tai sekojošai derīgo izrakteņu ieguvei vai zemes dzīļu derīgo īpašību izmantošanai — uz laiku līdz 30 gadiem;\n7) kūdras ieguvei — uz laiku līdz 75 gadiem. Licences darbības laikā Valsts vides dienests ne retāk kā reizi 25 gados pārskata licences nosacījumus un, ja nepieciešams, to atjauno vai papildina.\n(2) Publiskas personas zemi zemes dzīļu izmantošanai var iznomāt uz šā panta pirmajā daļā minēto termiņu.\n(3) Līgumu par funkcionāli nepieciešamās zemes vienības vai tās daļas iznomāšanu ar šā likuma 8. panta pirmās daļas 6. punktā minēto subjektu noslēdz uz termiņu, kurš nav ilgāks par zemes dzīļu izmantošanas licences termiņu.\n(4) Ja ogļūdeņražu izpētes veikšanai ir piemērojams ietekmes uz vidi novērtējums un bez tā nevar uzsākt izpētes darbus, izpētes termiņa sākums ir nosakāms pēc ietekmes uz vidi novērtējuma."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "10",
+      "title": "Zemes dzīļu izmantošanas kārtība",
+      "content": "(1) Uzsākt zemes dzīļu izmantošanu drīkst tikai tad, ja Ministru kabineta noteiktajā kārtībā (izņemot šā likuma 11. pantā minētos gadījumus) saņemta Valsts vides dienesta vai Enerģētikas un vides aģentūras izsniegta licence vai pašvaldības izsniegta bieži sastopamo derīgo izrakteņu ieguves atļauja.\n(1 1 ) Institūcija, kas izsniedz zemes dzīļu izmantošanas licenci, atsaka šīs licences izsniegšanu vai jau izsniegtas licences termiņa pagarināšanu:\n1) juridiskajai vai fiziskajai personai — ja tā pēdējo triju gadu laikā atkārtoti veikusi derīgo izrakteņu izpēti vai ieguvi, neievērojot zemes dzīļu izmantošanu regulējošo normatīvo aktu vai zemes dzīļu izmantošanas licences, vai derīgo izrakteņu ieguves projekta prasības un nosacījumus, un tai par pārkāpumiem piemērots administratīvais sods;\n2) fiziskajai personai — ja tā ir vai pēdējo triju gadu laikā ir bijusi tāda komersanta valdes loceklis, padomes loceklis vai prokūrists (turpmāk — amatpersona), kurš pēdējo triju gadu laikā atkārtoti veicis derīgo izrakteņu izpēti vai ieguvi, neievērojot zemes dzīļu izmantošanu regulējošo normatīvo aktu vai zemes dzīļu izmantošanas licences, vai derīgo izrakteņu ieguves projekta prasības un nosacījumus, un kuram par pārkāpumiem piemērots administratīvais sods;\n3) juridiskajai personai — ja tās amatpersona ir vai pēdējo triju gadu laikā ir bijusi tāda komersanta amatpersona, kurš šīs amatpersonas vadībā atkārtoti veicis derīgo izrakteņu izpēti vai ieguvi, neievērojot zemes dzīļu izmantošanu regulējošo normatīvo aktu vai zemes dzīļu izmantošanas licences, vai derīgo izrakteņu ieguves projekta prasības un nosacījumus, un kuram par pārkāpumiem piemērots administratīvais sods.\n(2) Ministru kabineta noteiktajos gadījumos attiecībā uz publiskas personas īpašumā esošo zemi zemes dzīļu izmantošanas licenci derīgo izrakteņu ieguvei, izņemot ogļūdeņražu ieguvi, vai bieži sastopamo derīgo izrakteņu ieguves atļauju izsniedz personai, kura uzvarējusi konkursā vai konkursam sekojošā izsolē par zemes nomas tiesībām un licences vai atļaujas saņemšanu.\n(2 1 ) Ministru kabinets nosaka gadījumus, kad licence izsniedzama zemes dzīļu izmantošanai visā Latvijas teritorijā.\n(2 2 ) Zemes dzīļu izmantošanai publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā zemes dzīļu izmantošanas licences izsniedz konkursa kārtībā. Ja zemes dzīļu izmantošanas licence nepieciešama ar būvju būvniecību, ierīkošanu vai ekspluatāciju jūrā saistītai ģeoloģiskajai izpētei, konkursu nerīko un minēto licenci izsniedz vienai no šādām personām:\n1) personai, kura saskaņā ar jūras vides aizsardzības un pārvaldības normatīvajiem aktiem ir saņēmusi atļauju vai licenci attiecīgā licences laukuma jūrā izmantošanai būvju būvniecībai, ierīkošanai, tai skaitā ar to saistītajai izpētei, un ekspluatācijai;\n2) personai, kura noslēgusi rakstveida līgumu par ģeoloģiskās izpētes veikšanu ar šīs daļas 1.punktā minēto personu.\n(3) Valsts nozīmes zemes dzīļu nogabalu izmantošanai zemes dzīļu izmantošanas licences izsniedz konkursa kārtībā. Konkursa nolikumu izstrādā un apstiprina Valsts vides dienests.\n(4) Par zemes dzīļu izmantošanas licenci, bieži sastopamo derīgo izrakteņu ieguves atļauju un atradnes pasi maksājama valsts nodeva. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.\n(4 1 ) Valsts vides dienests izsniedz ieguves atkritumu glabāšanas atļaujas. Valsts vides dienests iesniegumu par ieguves atkritumu glabāšanas atļauju izskata un lēmumu pieņem termiņā, kas nav ilgāks par 60 dienām.\n(5) Ja zemes dzīļu izmantošanas rezultātā iegūtos derīgos izrakteņus paredzēts izlietot pašvaldību ceļu uzturēšanai, teritorijas labiekārtošanai vai to īpašumā esošo ēku uzturēšanai, tad, pamatojoties uz pašvaldību pieprasījumu, par zemes dzīļu izmantošanas licences izsniegšanu pašvaldībām attiecībā uz to īpašumā esošo vai tām pastāvīgā lietošanā piešķirto zemi valsts nodeva nav jāmaksā.\n(5 1 ) Valsts akreditētai augstākās izglītības iestādei, kas īsteno pētniecības un studiju darbu dabaszinātņu jomā par valsts budžeta līdzekļiem, valsts nodeva par zemes dzīļu izmantošanas licences izsniegšanu nav jāmaksā.\n(6) Zemes dzīļu izmantošanas licences un bieži sastopamo derīgo izrakteņu ieguves atļaujas aizliegts ieķīlāt, pārdot, dāvināt, mainīt vai citādi atsavināt. Ja mainās zemes dzīļu izmantotājs, agrāk izsniegtā licence vai atļauja zaudē spēku. Ja notikusi zemes dzīļu izmantotāja — komercsabiedrības — reorganizācija Komerclikuma izpratnē (komercsabiedrības apvienošana, sadalīšana vai pārveidošana), jaunajam zemes dzīļu izmantotājam ir tiesības saņemt jaunu licenci vai atļauju bez konkursa (izsoles) gadījumā, kad tas uzņemas iepriekš izsniegtajā licencē vai atļaujā noteiktos pienākumus. Ogļūdeņražu meklēšanas, izpētes un ieguves licences var atsavināt saskaņā ar šā panta trīspadsmito daļu.\n(7) Valsts nozīmes derīgo izrakteņu, valsts nozīmes atradņu izmantošanas kārtību un ogļūdeņražu meklēšanas, izpētes un ieguves kārtību, kā arī noteikumus par vides aizsardzību ogļūdeņražu izpētes un ieguves darbos jūrā reglamentē Ministru kabinets. Ministru kabineta noteikumi reglamentē arī valsts nozīmes derīgo izrakteņu izmantošanas kārtību gadījumos, kad zemes gabala un valsts nozīmes derīgo izrakteņu ieguves ietaišu īpašnieks nav viena un tā pati persona.\n(8) Ministru kabinets nosaka valsts nozīmes zemes dzīļu nogabalus un to izmantošanas noteikumus atsevišķi katram nogabalam.\n(9) Pazemes ūdeņus izmanto, ja saskaņota ūdens ieguves urbuma vai avota pase vai akceptēti pazemes ūdeņu atradnes krājumi un saņemta atradnes pase. Vides aizsardzības normatīvajos aktos noteiktajos gadījumos pirms ūdens ieguves uzsākšanas ir jāsaņem ūdens resursu lietošanas atļauja vai attiecīga atļauja piesārņojošās darbības veikšanai.\n(10) Derīgo izrakteņu ieguves atļauju un zemes dzīļu izmantošanas licenču izsniegšanas konkursa vai konkursa ar tam sekojošas izsoles vispārējo kārtību, kā arī ogļūdeņražu meklēšanas, izpētes un ieguves darbu licencēšanas kārtību nosaka Ministru kabinets.\n(11) Derīgos izrakteņus, izņemot ogļūdeņražus un pazemes ūdeņus, iegūst, ja akceptēti derīgo izrakteņu krājumi, saņemta atradnes pase un izstrādāts derīgo izrakteņu ieguves projekts (ja zemes dzīļu izmantošanu regulējošie normatīvie akti noteic, ka šāds projekts ir nepieciešams). Pases saturu nosaka Ministru kabinets.\n(12) (Izslēgta ar 03.04.2025 . likumu)\n(13) Ogļūdeņražu meklēšanas, izpētes un ieguves licences var atsavināt. Ogļūdeņražu meklēšanas, izpētes un ieguves licences ieguvējam ir jāatbilst Ministru kabineta noteiktajām prasībām un jāuzņemas visas licencē noteiktās saistības. Licences izdevējs jaunajam ogļūdeņražu meklēšanas, izpētes un ieguves licences ieguvējam izsniedz licenci ar tiem pašiem nosacījumiem, nemainot iepriekš izsniegtās licences termiņu. Licenciāta maiņas kārtību un nosacījumus reglamentē Ministru kabinets.\n(14) Zemes dzīļu izmantotājs Ministru kabineta noteiktajā kārtībā un apmērā maksā ikgadēju valsts nodevu valsts pamatbudžetā par tiesībām izmantot zemes dzīles publiskajos ūdeņos, Latvijas Republikas teritoriālajā jūrā un ekskluzīvajā ekonomiskajā zonā, izņemot ogļūdeņražu meklēšanu, izpēti un ieguvi, kā arī ģeoloģisko izpēti, kas saistīta ar būvju būvniecību, ierīkošanu un ekspluatāciju jūrā un kas notiek saskaņā ar jūras vides aizsardzības un pārvaldības normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "11",
+      "title": "Zemes dzīļu izmantošana bez derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanas licences",
+      "content": "(1) Zemes īpašnieki vai pilnvarotās personas zemes dzīles, izņemot ogļūdeņražus, sava zemes īpašuma robežās izmanto bez zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas šādos gadījumos:\n1) iegūstot šā likuma pielikumā noteiktos bieži sastopamos derīgos izrakteņus kopējā platībā līdz 0,5 hektāriem un līdz 2 metru dziļumam, ja iegūtos derīgos izrakteņus izmanto sava zemes īpašuma robežās;\n2) ierīkojot un izmantojot grodu akas un ūdens ieguves urbumus dziļumā līdz 20 metriem, ja diennaktī paredzēts iegūt ne vairāk kā 10 kubikmetrus pazemes ūdeņu.\n(2) (Izslēgta ar 17.06.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 11.1",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "11.1",
+      "title": "11. 1 pants. Zemes dzīļu izmantošana, iegūstot derīgos izrakteņus pazemes un virszemes būvju būvniecības rezultātā",
+      "content": "(1) Ja pazemes vai virszemes būvju būvniecības (tai skaitā dīķu un citu ūdenstilpju ierīkošanas), virszemes ūdensobjektu gultnes tīrīšanas vai padziļināšanas rezultātā tiek iegūta augsne vai derīgie izrakteņi, kurus izmanto saimnieciskajā darbībā, par izmantoto apjomu maksā dabas resursu nodokli saskaņā ar Dabas resursu nodokļa likumu .\n(2) (Izslēgta ar 03.04.2025 . likumu)\n(3) Ja virszemes ūdensobjektu ierīkošanas, gultnes tīrīšanas vai padziļināšanas rezultātā tiek iegūti derīgie izrakteņi, zemes dzīļu izmantošanas licence saņemama gadījumos, kad:\n1) virszemes ūdensobjektu ierīko, gultni tīra vai padziļina derīgo izrakteņu atradņu reģistrā iekļautas derīgo izrakteņu atradnes teritorijā;\n2) viena vai vairāku virszemes ūdensobjektu ierīkošanas gaitā paredzēts iegūt šā likuma pielikumā minētos derīgos izrakteņus vairāk nekā 10 000 kubikmetru apjomā;\n3) virszemes ūdensobjekta ierīkošanas gaitā paredzēts iegūt derīgos izrakteņus, kas nav minēti šā likuma pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "12",
+      "title": "Servitūta tiesības zemes dzīļu izmantošanā",
+      "content": "(Izslēgts ar 16.12.2004 . likumu, kas stājas spēkā 11.01.2005. )"
+    },
+    {
+      "provision_ref": "Art. 12.1",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "12.1",
+      "title": "12. 1 pants. Zemes dzīļu izmantošana sabiedrības un valsts interesēs valsts nozīmes zemes dzīļu nogabalos",
+      "content": "(1) Valsts nozīmes zemes dzīļu nogabalos var noteikt zemes dzīļu īpašuma tiesību aprobežojumu, ja zemes dzīles nepieciešams izmantot sabiedrības un valsts interesēs. Par katru zemes dzīļu īpašuma tiesību aprobežojumu vai zemes dzīļu izmantošanas gadījumu Ministru kabinets lemj atsevišķi.\n(2) Kārtību, kādā zemes īpašniekam aprēķināma un izmaksājama atlīdzība par zemes dzīļu īpašuma tiesību aprobežojumu, kas noteikts saskaņā ar šā panta pirmo daļu, nosaka Ministru kabinets. Par atlīdzību, kura maksājama par īpašuma tiesību aprobežojumu, noslēdzama rakstveida vienošanās.\n(3) Šā likuma 8. panta pirmās daļas 3. punktā minētais līgums zemes dzīļu izmantošanas licences saņemšanai nav nepieciešams, ja, veicot valsts nozīmes zemes dzīļu nogabala ģeoloģisko izpēti, nav nepieciešams atrasties zemes īpašumā un ierīkot ģeoloģiskās izstrādnes.\n(4) Par šā panta trešajā daļā noteikto zemes dzīļu izmantošanu zemes dzīļu izmantotājs attiecīgo zemes īpašnieku informē rakstveidā vismaz divas nedēļas pirms zemes dzīļu izmantošanas uzsākšanas.\n(5) Zemes īpašniekam ir tiesības prasīt zaudējumu atlīdzību, ja tie radušies valsts nozīmes zemes dzīļu nogabala izmantošanas dēļ. Neierobežojot zemes īpašnieka tiesības prasīt viņam radīto zaudējumu atlīdzību likumos minētajā kārtībā, Ministru kabinets var paredzēt zaudējumu atlīdzības apmēra noteikšanas un atlīdzības izmaksāšanas kārtību.\n(6) Par valsts nozīmes zemes dzīļu nogabala ģeoloģiskās izpētes rezultātiem zemes dzīļu izmantotājs informē zemes īpašnieku. Sniedzamās informācijas saturu un apjomu, kā arī kārtību, kādā zemes īpašnieks tiek informēts par ģeoloģiskās izpētes rezultātiem, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 12.2",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "12.2",
+      "title": "12. 2 pants. Nosacījumi kristāliskā pamatklintāja iežu ieguvei valsts nozīmes zemes dzīļu nogabalā",
+      "content": "(1) Šā likuma 10. panta trešajā daļā minēto konkursu nerīko, ja persona kristāliskā pamatklintāja iežu ģeoloģiskās izpētes laikā nav izdarījusi pārkāpumus un ir veikusi kristāliskā pamatklintāja iežu ģeoloģisko izpēti, izmantojot privāto finansējumu un nesaņemot jebkādu valsts atbalstu. Nosacījumus un kārtību, kādā licence kristāliskā pamatklintāja iežu ieguvei saņemama bez konkursa, nosaka Ministru kabinets.\n(2) Par iegūto kristāliskā pamatklintāja iežu apjomu zemes dzīļu izmantotājs informē zemes īpašnieku un samaksā viņam atlīdzību. Ministru kabinets nosaka kārtību, kādā zemes īpašnieks tiek informēts, kā arī to, kā tiek aprēķināta un zemes īpašniekam izmaksāta atlīdzība par iegūto derīgo izrakteņu apjomu.\n(3) Lai nodrošinātu derīgo izrakteņu ieguves vietas rekultivāciju un smagu negadījumu seku novēršanu, zemes dzīļu izmantotājs pirms licences saņemšanas kristāliskā pamatklintāja iežu ieguvei iesniedz Valsts vides dienestam finanšu nodrošinājumu. Finanšu nodrošinājums ir kredītiestādes izsniegta pirmā pieprasījuma garantijas vēstule vai apdrošinātāja izsniegta apdrošināšanas polise, kurā ietverta apdrošinātāja neatsaucama apņemšanās izmaksāt apdrošināšanas atlīdzību pēc Valsts vides dienesta pirmā pieprasījuma, kā arī šā pieprasījuma neapstrīdamība. Ministru kabinets nosaka:\n1) kārtību, kādā zemes dzīļu izmantotājs iesniedz Valsts vides dienestam finanšu nodrošinājumu vai tā pagarinājumu;\n2) finanšu nodrošinājuma apmēra aprēķināšanas kārtību un minimālo apdrošinājuma summu."
+    },
+    {
+      "provision_ref": "Art. 12.3",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "12.3",
+      "title": "12. 3 pants. Oglekļa dioksīda ģeoloģiskā uzglabāšana",
+      "content": "(1) Oglekļa dioksīda ģeoloģiskā uzglabāšana ir tā plūsmu iesūknēšana un uzglabāšana tādos pazemes ģeoloģiskajos veidojumos, kas ir litostratigrāfiskas formācijas ar skaidri izšķiramiem un kartējamiem iežu slāņiem. Oglekļa dioksīda plūsma ir vielu plūsma, kas rodas oglekļa dioksīda uztveršanas tehnoloģiskajos procesos.\n(2) Ģeoloģiskās uzglabāšanas vietas slēgšana ir oglekļa dioksīda iesūknēšanas pilnīga izbeigšana. Laikposms pēc uzglabāšanas vietas slēgšanas ir pēcslēgšana.\n(3) Oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas izpētei operatoram jāsaņem oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas izpētes licence. Par licences izsniegšanu vai grozījumu izdarīšanu tajā operators maksā valsts nodevu. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.\n(4) Oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas izmantošanai operatoram jāsaņem oglekļa dioksīda ģeoloģiskās uzglabāšanas licence. Par licences izsniegšanu vai grozījumu izdarīšanu tajā operators maksā valsts nodevu. Nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets.\n(5) Oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas operators, lai saņemtu licenci šā panta trešajā daļā minētajai darbībai, iesniedz Valsts vides dienestam finanšu nodrošinājumu. Finanšu nodrošinājums ir kredītiestādes izsniegta pirmā pieprasījuma garantijas vēstule vai apdrošinātāja izsniegta apdrošināšanas polise, kurā ietverta apdrošinātāja neatsaucama apņemšanās izmaksāt apdrošināšanas atlīdzību pēc Valsts vides dienesta pirmā pieprasījuma, kā arī šā pieprasījuma neapstrīdamība.\n(6) Operatoram finanšu nodrošinājums jāuztur spēkā visu licences darbības laiku. Ja licences darbības laikā operatoram nav spēkā esoša finanšu nodrošinājuma, licences darbība tiek apturēta līdz attiecīga nodrošinājuma iesniegšanai Valsts vides dienestam.\n(7) Ministru kabinets nosaka:\n1) oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas izpētes licencē un ģeoloģiskās uzglabāšanas licencē iekļaujamo informāciju, kā arī licences izsniegšanas, pārskatīšanas, grozījumu izdarīšanas, aktualizācijas un atcelšanas kārtību;\n2) prasības oglekļa dioksīda ģeoloģiskās uzglabāšanas vietu izpētei;\n3) kritērijus un kārtību, lai pieņemtu oglekļa dioksīda plūsmu uzglabāšanai;\n4) prasības un kārtību, kādā operators veic oglekļa dioksīda iesūknēšanas iekārtu, uzglabāšanas kompleksa un apkārtējās vides monitoringu;\n5) prasības oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas operatora sniegtā pārskata saturam un pārskata iesniegšanas kārtību Valsts vides dienestam uzglabāšanas licences nosacījumu izpildes novērtēšanai;\n6) oglekļa dioksīda ģeoloģiskās uzglabāšanas vietu uzraudzības kārtību un prasības veicamajiem pasākumiem oglekļa dioksīda noplūžu vai tā uzglabāšanas pārkāpumu gadījumā;\n7) operatora pienākumus oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas slēgšanas un pēcslēgšanas gadījumā;\n8) operatora atbildības nodošanas kārtību;\n9) trešo personu piekļuves kārtību oglekļa dioksīda ģeoloģiskās uzglabāšanas vietai, kā arī strīdu par piekļuvi izskatīšanas kārtību un strīdu izskatīšanas institūciju;\n10) kārtību, kādā oglekļa dioksīda ģeoloģiskās uzglabāšanas vietas operators iesniedz Valsts vides dienestam finanšu nodrošinājumu, tā pagarinājumu vai atjaunojumu;\n11) finanšu nodrošinājuma pieprasīšanas kārtību, tā apmēru, termiņu, uz kādu izsniedzams, pagarināms vai atjaunojams nodrošinājums, kā arī finanšu nodrošinājuma dokumentu paraugus."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "13",
+      "title": "Zemes dzīļu izmantotāju tiesības",
+      "content": "Zemes dzīļu izmantotājiem ir šādas tiesības:\n1) izmantot zemes dzīles zemes dzīļu izmantošanas licencē vai bieži sastopamo derīgo izrakteņu ieguves atļaujā norādītajai darbībai;\n2) izlietot zemes dzīļu izmantošanas rezultātā iegūto saskaņā ar saņemto atļauju vai licenci un spēkā esošajiem normatīvajiem aktiem;\n3) izlietot derīgo izrakteņu ieguves un pārstrādes gaitā iegūtos blakusproduktus, ja atļaujā vai licencē nav noteikti ierobežojumi;\n4) ierosināt atļaujas vai licences izsniedzējam pārskatīt atļaujā vai licencē norādītos nosacījumus, ja zemes dzīļu izmantošanas gaitā atklājas apstākļi, kas būtiski atšķiras no atļaujā vai licencē norādītajiem;\n5) saņemt atļaujas vai licences termiņa pagarinājumu vai jaunu atļauju vai licenci, ja ir pienācīgi pildīti iepriekšējās atļaujas vai licences nosacījumi un ja to pieļauj ar zemes īpašnieku vai pilnvaroto personu noslēgtais zemes dzīļu izmantošanas līgums."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Zemes dzīļu izmantošana",
+      "section": "14",
+      "title": "Zemes dzīļu izmantotāju pienākumi",
+      "content": "Zemes dzīļu izmantotāju pienākums ir:\n1) ievērot normatīvo aktu prasības, zemes dzīļu izmantošanas licences, bieži sastopamo derīgo izrakteņu ieguves atļaujas vai dabas resursu lietošanas atļaujas nosacījumus, veicot darbus, kas saistīti ar zemes dzīļu izmantošanu;\n2) ievērot Ministru kabineta apstiprināto derīgo izrakteņu ieguves kārtību;\n3) zemes dzīļu ģeoloģiskās izpētes gaitā nodrošināt ģeoloģiskās dokumentācijas sagatavošanu un gādāt par tās saglabāšanu;\n4) iesniegt valsts sabiedrībai ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” atļaujā vai licencē noteiktajā kārtībā un termiņos ģeoloģisko informāciju, kā arī iegūtos datus par derīgo izrakteņu krājumiem un to īpašībām;\n5) normatīvajos aktos noteiktajā kārtībā iesniegt nepieciešamos pārskatus par zemes dzīļu izmantošanu;\n6) ievērot vides aizsardzību, kultūras pieminekļu aizsardzību, zemes lietošanas veida maiņu, kā arī būvju un citu objektu aizsardzību reglamentējošo normatīvo aktu prasības un nepieļaut, ka zemes dzīļu izmantošana atstātu kaitīgu ietekmi uz tiem; zemes dzīļu izmantotājiem nav jāuzņemas atbildība par iepriekšējo izmantotāju pieļautajiem attiecīgo normatīvo aktu pārkāpumiem;\n7) pirms derīgo izrakteņu ieguves uzsākšanas noņemt auglīgo augsnes daļu un saglabāt to rekultivācijai;\n8) uz sava rēķina rekultivēt zemes dzīļu izmantošanas rezultātā radušos zemes gabala bojājumus atļaujā vai licencē norādītajā termiņā;\n9) (izslēgts ar 17.06.2010 . likumu) ;\n10) apturēt vai ierobežot zemes dzīļu izmantošanu, ja atklājas zinātnei, kultūrai un vides aizsardzībai nozīmīgi ģeoloģiskie veidojumi, meteorīti, arheoloģiskie vai citi objekti, kā arī nekavējoties ziņot par atklājumu atļaujas vai licences izsniedzējam, ja nepieciešams — Nacionālajai kultūras mantojuma pārvaldei. Ja turpmāka zemes dzīļu izmantošana apdraud vai bojā šos objektus, zemes dzīļu izmantošana jāpārtrauc;\n11) apsaimniekot ieguves atkritumus saskaņā ar Ministru kabineta noteikto ieguves rūpniecības atkritumu apsaimniekošanas kārtību;\n12) kompensēt valstij ar atmežošanas izraisīto negatīvo seku novēršanu saistītos izdevumus (ja derīgo izrakteņu ieguve paredzēta mežā) atbilstoši normatīvajiem aktiem meža un ar to saistīto darbību jomā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Zemes dzīļu aizsardzība",
+      "section": "15",
+      "title": "Galvenās prasības zemes dzīļu aizsardzībā",
+      "content": "Galvenās prasības zemes dzīļu aizsardzībā ir šādas:\n1) zemes dzīļu pilnīga un kompleksa izpēte un resursu uzskaite;\n2) racionāla derīgo izrakteņu ieguve, kā arī atradnēs sastopamo blakusproduktu izmantošana;\n3) zemes dzīļu izmantošana, nepieļaujot kaitīgu ietekmi uz derīgo izrakteņu krājumiem un zemes dzīļu īpašībām;\n4) zemes dzīļu izmantošana, nepieļaujot piesārņošanu ar pazemes un virszemes būvēs un krātuvēs glabājamām ekoloģiski bīstamām vielām, kā arī notekūdeņiem;\n5) zemes dzīļu izmantošanas regulēšana un kontrole."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Zemes dzīļu aizsardzība",
+      "section": "16",
+      "title": "Zemes dzīļu izmantošanas ierobežošana, apturēšana, licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšana",
+      "content": "(1) Valsts vides dienests pieņem lēmumu par zemes dzīļu izmantošanas ierobežošanu vai apturēšanu, ja tas konstatē, ka tiek pārkāptas zemes dzīļu izmantošanas licences, bieži sastopamo derīgo izrakteņu ieguves atļaujas vai zemes dzīļu izmantošanu regulējošo normatīvo aktu prasības, kā arī tad, ja zemes dzīļu izmantošanas rezultātā rodas draudi cilvēka veselībai, videi vai īpašumam. Valsts vides dienesta lēmumu var apstrīdēt Enerģētikas un vides aģentūrā. Enerģētikas un vides aģentūras lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.\n(2) Nacionālā kultūras mantojuma pārvalde ierosina zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas izsniedzējam ierobežot vai apturēt zemes dzīļu izmantošanu, ja tās rezultātā tiek apdraudēti kultūras pieminekļi.\n(3) Zemes dzīļu izmantošanas licenci vai bieži sastopamo derīgo izrakteņu ieguves atļauju atceļ, ja licences vai atļaujas adresāts:\n1) gada laikā no zemes dzīļu izmantošanas licences (izņemot licenci derīgo izrakteņu ieguvei un licenci ģeoloģiskajai izpētei) spēkā stāšanās dienas nav uzsācis zemes dzīļu izmantošanu;\n2) triju gadu laikā no attiecīgās licences vai atļaujas spēkā stāšanās dienas nav uzsācis derīgo izrakteņu ieguvi (izņemot ogļūdeņražu ieguvi);\n2 1 ) nemaksā zemes īpašniekam šā likuma 12. 1 panta otrajā un piektajā daļā vai 12. 2 panta otrajā daļā paredzētos maksājumus vai normatīvajos aktos paredzētos nodokļus vai nodevas vai nesniedz šajā likumā noteikto informāciju zemes īpašniekam, vai spēku zaudē šā likuma 12. 2 panta trešajā daļā minētais finanšu nodrošinājums;\n3) izmanto zemes dzīles tādā veidā, kāds nav noteikts zemes dzīļu izmantošanas licencē;\n4) atkārtoti pārkāpj normatīvo aktu prasības attiecībā uz zemes dzīļu izmantošanu un aizsardzību vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas nosacījumus.\n(3 1 ) (Daļa stājas spēkā 01.07.2026. un ieļauta likuma redakcijā uz 01.07.2026. Sk. pārejas noteikumu 36. punktu)\n(4) Valsts vides dienesta lēmumu par zemes dzīļu izmantošanas licences atcelšanu var apstrīdēt Enerģētikas un vides aģentūrā. Enerģētikas un vides aģentūras lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā.\n(5) Pašvaldības lēmumu par bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšanu var apstrīdēt un pārsūdzēt likumā “ Par pašvaldībām ” un Administratīvā procesa likumā noteiktajā kārtībā.\n(6) Iesnieguma iesniegšana šajā pantā noteiktā lēmuma par zemes dzīļu izmantošanas ierobežošanu vai apturēšanu vai zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas atcelšanu apstrīdēšanai vai pieteikuma iesniegšana tiesā par šāda lēmuma atcelšanu, spēkā esamību vai atzīšanu par prettiesisku neaptur šā lēmuma darbību.\n(7) Šā panta noteikumi nav attiecināmi uz ogļūdeņražu meklēšanu, izpēti un ieguvi."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Zemes dzīļu aizsardzība",
+      "section": "17",
+      "title": "Derīgo izrakteņu izplatības laukumu apbūves nosacījumi",
+      "content": "(1) Izskatot apdzīvoto vietu, rūpniecības vai atpūtas kompleksu, kā arī citu objektu būvniecības projektus, vides aizsardzības iestādes izvērtē, vai apbūvējamās teritorijas zemes dzīlēs nav valsts nozīmes derīgo izrakteņu atradnes.\n(2) Valsts nozīmes derīgo izrakteņu atradņu vai valsts nozīmes zemes dzīļu nogabalu izplatības laukumu apbūve, kā arī pazemes būvju projektēšana un celtniecība pieļaujama tikai pēc Valsts vides dienesta atļaujas saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Zemes dzīļu aizsardzība",
+      "section": "18",
+      "title": "Zemes dzīļu izmantošanas un aizsardzības kontrole",
+      "content": "(1) Zemes dzīļu izmantošanas (izņemot ogļūdeņražu meklēšanu, izpēti un ieguvi) un aizsardzības kontroli šajā likumā un citos zemes dzīļu izmantošanu regulējošos normatīvajos aktos noteiktajā kārtībā veic Valsts vides dienests.\n(1 1 ) Ogļūdeņražu meklēšanas, izpētes un ieguves pārraudzību un kontroli veic Enerģētikas un vides aģentūra.\n(2) Pašvaldība pēc saskaņošanas ar Valsts vides dienestu var veikt vietējas nozīmes pasākumus zemes dzīļu aizsardzībai un to izmantošanas kontrolei šā likuma ietvaros."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Zemes dzīlēm radītais kaitējums un zemes dzīļu informatīvā bāze (Nodaļas nosaukums 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "19",
+      "title": "Atbildība par pārkāpumiem zemes dzīļu izmantošanā",
+      "content": "(Izslēgts no 01.07.2020. ar 11.06.2020 . likumu, kas stājas spēkā 23.06.2020. Sk. pārejas noteikumu 26. punktu)"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Zemes dzīlēm radītais kaitējums un zemes dzīļu informatīvā bāze (Nodaļas nosaukums 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "20",
+      "title": "Zaudējumu atlīdzināšana",
+      "content": "(Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa Zemes dzīlēm radītais kaitējums un zemes dzīļu informatīvā bāze (Nodaļas nosaukums 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "21",
+      "title": "Zemes īpašnieku un zemes dzīļu izmantotāju radītais kaitējums",
+      "content": "(1) Zemes īpašnieks, kuram atjaunotas īpašuma tiesības uz zemi vai zeme no jauna nodota īpašumā saskaņā ar likumiem \"Par zemes reformu Latvijas Republikas pilsētās\" un \"Par zemes privatizāciju lauku apvidos\", neatbild par iepriekšējo zemes īpašnieku vai zemes dzīļu izmantotāju nodarīto kaitējumu zemei un zemes dzīlēm.\n(2) Zemes dzīļu īpašnieks vai zemes dzīļu izmantotājs var novērst kaitējumu, ko zemei un zemes dzīlēm nodarījušas citas personas pirms zemes īpašuma tiesību iegūšanas, par saviem līdzekļiem, veicot rekultivāciju un attīrīšanu. Šādā gadījumā tas tiek norādīts bieži sastopamo derīgo izrakteņu ieguves atļaujā vai zemes dzīļu izmantošanas licencē un ir piemērojami atvieglojumi valsts nodevai par atļaujas vai licences saņemšanu.\n(3) Zemes reformas laikā zemes īpašnieki atbrīvojami no tiesas izdevumu samaksas, ja viņi ceļ prasību tiesā par nodarīto zaudējumu atlīdzību pret iestādi, kas devusi nepamatotu atļauju zemes dzīļu izmantošanai, vai pret personām, kas patvarīgi izmantojušas zemes īpašniekiem piederošās zemes dzīles."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Zemes dzīlēm radītais kaitējums un zemes dzīļu informatīvā bāze (Nodaļas nosaukums 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "22",
+      "title": "Zemes dzīļu izmantošanas un aizsardzības informatīvā bāze",
+      "content": "(1) Ģeoloģiskā informācija tiek apkopota un uzglabāta Ģeoloģiskās informācijas sistēmā. Tajā tiek ietverti ģeoloģiskās izpētes, zinātniskās pētniecības darbu, zemes dzīļu monitoringa rezultāti, kā arī derīgo izrakteņu ieguves un cita veida zemes dzīļu izmantošanas rezultātā iegūtie dati. Valsts ģeoloģiskās informācijas sistēma pieder valstij, to pārvalda valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs”.\n(2) Ģeoloģiskā izpēte, zinātniskie pētniecības darbi un zemes dzīļu monitorings tiek veikti pēc valsts, pašvaldības, zemes dzīļu izmantotāju vai īpašnieku pasūtījuma.\n(3) Valsts un pašvaldību īpašumā esošajās zemēs ģeoloģiskā izpēte un zinātniskie pētījumi tiek veikti saskaņā ar ģeoloģisko un zinātnisko pētījumu programmām vai saņemto valsts un pašvaldību pasūtījumu. Juridisko un fizisko personu īpašumā esošajās zemēs šie darbi tiek veikti saskaņā ar zinātnisko pētījumu programmām vai saņemto valsts, pašvaldību, zemes dzīļu izmantotāju vai zemes īpašnieku pasūtījumu un ar zemes īpašnieku vai zemes dzīļu izmantotāju saskaņotos laikos (termiņos).\n(4) Personām, kas veic zemes dzīļu ģeoloģisko izpēti, zinātniskos pētījumus, kā arī zemes dzīļu monitoringu, jānodrošina saudzīga un taupīga attieksme pret vidi un zemes īpašnieku un zemes dzīļu izmantotāju mantu.\n(5) (Izslēgta ar 17.06.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Zemes dzīlēm radītais kaitējums un zemes dzīļu informatīvā bāze (Nodaļas nosaukums 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļas nosaukuma jaunā redakcija stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "23",
+      "title": "Ģeoloģiskās informācijas sistēmas izveidošanas un izmantošanas pamatnoteikumi",
+      "content": "(1) Ģeoloģiskās izpētes un zinātnisko pētījumu, kā arī zemes dzīļu monitoringa rezultātā vai cita veida zemes dzīļu izmantošanas rezultātā iegūtā informācija pieder valstij, ja šie darbi veikti par valsts budžeta vai pašvaldību līdzekļiem. Ja šāda informācija iegūta pēc juridisko vai fizisko personu pasūtījuma un par to līdzekļiem, tā pieder attiecīgajai juridiskajai vai fiziskajai personai.\n(2) Pašvaldībai, ikvienai juridiskajai vai fiziskajai personai neatkarīgi no darbu finansēšanas veida zemes dzīļu izmantošanas rezultātā iegūtā ģeoloģiskā informācija jānodod valstij valsts sabiedrības ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” personā bez maksas, noslēdzot līgumu, ja nepieciešams, par tās izmantošanu. Informāciju, kas iegūta ogļūdeņražu ģeoloģiskās izpētes rezultātā, kā arī ogļūdeņražu meklēšanas, izpētes un ieguves darbos, valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” iesniedz arī Enerģētikas un vides aģentūrai un pēc pieprasījuma Ekonomikas ministrijai nolūkā ziņot Eiropas Komisijai. Valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” informāciju apkopo, apstrādā un uzglabā, kā arī nodrošina tās pieejamību.\n(3) Ģeoloģiskās informācijas īpašnieks nedrīkst aizliegt izmantot informāciju, ja ir radies kaitējums videi vai informācijas neizmantošanas dēļ tāds varētu rasties.\n(3 1 ) Ģeoloģiskās informācijas sistēma ir valsts īpašums. Šajā sistēmā ietilpst valsts ģeoloģijas fonds, arhīvs, ģeoloģiski tehniskās literatūras bibliotēka, urbumu seržu glabātava un tajā izveidotās kolekcijas, par valsts budžeta līdzekļiem izstrādātās elektroniskās informācijas sistēmas un citi dati.\n(4) Ģeoloģiskās informācijas sistēmas saturu un izmantošanas noteikumus reglamentē Ministru kabinets.\n(5) Ierobežotas pieejamības informācijas statuss (izņemot šā panta trešajā un sestajā daļā minēto gadījumu) ir ģeoloģiskajai informācijai un paraugiem, kas iegūti:\n1) ogļūdeņražu meklēšanā, izpētē un ieguvē uz sauszemes, — visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku;\n2) ogļūdeņražu meklēšanā, izpētē un ieguvē jūrā, — visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku;\n3) kristāliskā pamatklintāja iežu ieguvē, — visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku;\n4) kristāliskā pamatklintāja iežu ģeoloģiskajā izpētē, izņemot gadījumus, kad veikta valsts nozīmes ģeoloģiskā izpēte, — visu attiecīgās zemes dzīļu izmantošanas licences spēkā esamības laiku.\n(6) Ģeoloģiskajai informācijai, kas nav minēta šā panta piektajā daļā, ierobežotas pieejamības informācijas statuss (izņemot šā panta trešajā daļā minēto gadījumu) ir pieci gadi, ja informācijas īpašnieks to norādījis, nododot valstij ģeoloģisko informāciju.\n(7) Valsts pasūtītajā valsts nozīmes ģeoloģiskajā izpētē iegūtā informācija ir vispārpieejama."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VI nodaļa Nobeiguma noteikums (Nodaļa izslēgta no 01.07.2020. ar 11.06.2020 . likumu, kas stājas spēkā 23.06.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "24",
+      "title": "Strīdu izskatīšanas kārtība",
+      "content": "(Izslēgts no 01.07.2020. ar 11.06.2020 . likumu, kas stājas spēkā 23.06.2020. Sk. pārejas noteikumu 26. punktu)"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "25",
+      "title": "Administratīvā atbildība zemes dzīļu izmantošanas jomā",
+      "content": "(1) Par zemes dzīļu izmantošanu, neievērojot derīgo izrakteņu ieguves vai zemes dzīļu monitoringa veikšanas prasības, piemēro naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.\n(2) Par zemes dzīļu izmantošanu bez zemes dzīļu izmantošanas licences vai bieži sastopamo derīgo izrakteņu ieguves atļaujas piemēro naudas sodu fiziskajai personai no četrpadsmit līdz divsimt desmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz četrsimt divdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "26",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 25. pantā minētajiem pārkāpumiem (izņemot pārkāpumus ogļūdeņražu meklēšanas, izpētes un ieguves jomā) veic Valsts vides dienests. Administratīvā pārkāpuma procesu par šā likuma 25. pantā minētajiem pārkāpumiem ogļūdeņražu meklēšanas, izpētes un ieguves jomā veic Enerģētikas un vides aģentūra."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par Latvijas Zemes dzīļu kodeksa apstiprināšanu\", Latvijas Zemes dzīļu kodekss (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1976, 23. nr.; 1980, 9. nr.; 1982, 52. nr.; 1985, 1. nr.; 1988, 1. nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par Latvijas Zemes dzīļu kodeksa apstiprināšanu\", Latvijas Zemes dzīļu kodekss (Latvijas PSR Augstākās Padomes un Valdības Ziņotājs, 1976, 23. nr.; 1980, 9. nr.; 1982, 52. nr.; 1985, 1. nr.; 1988, 1. nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn2",
+      "title": "2. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā apstiprina valsts nozīmes derīgo izrakteņu atradņu sarakstu.",
+      "content": "2. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā apstiprina valsts nozīmes derīgo izrakteņu atradņu sarakstu."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn3",
+      "title": "3. Līdz valsts nozīmes derīgo izrakteņu atradņu saraksta apstiprināšanai par valsts nozīmes derīgo izrakteņu atradnēm uzskatāmas Ministru padomes 1991.gada 13.novembra lēmumā nr. 316 \"Par rūpnieciskās nozīmes derīgo izrakteņu un kūdras atradņu saraksta apstiprināšanu\" minētās rūpnieciskās nozīmes derīgo izrakteņu atradnes.",
+      "content": "3. Līdz valsts nozīmes derīgo izrakteņu atradņu saraksta apstiprināšanai par valsts nozīmes derīgo izrakteņu atradnēm uzskatāmas Ministru padomes 1991.gada 13.novembra lēmumā nr. 316 \"Par rūpnieciskās nozīmes derīgo izrakteņu un kūdras atradņu saraksta apstiprināšanu\" minētās rūpnieciskās nozīmes derīgo izrakteņu atradnes."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn4",
+      "title": "4. Ministru kabinets sešu mēnešu laikā pēc šā likuma stāšanās spēkā izstrādā noteikumus par valsts nozīmes derīgo izrakteņu un atradņu, kā arī valsts nozīmes zemes dzīļu nogabalu izmantošanas kārtību; noteikumus par ogļūdeņražu meklēšanas, izpētes un ieguves licencēšanas kārtību, kā arī ogļūdeņražu meklēšanas, izpētes un ieguves noteikumu s.",
+      "content": "( 16.12.2004 . likuma redakcijā, kas stājas spēkā 11.01.2005. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn5",
+      "title": "5. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.jūlijam ir spēkā šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 1997.gada 8.jūlija noteikumi Nr.239 \" Zemes dzīļu izmantošanas noteikumi \";\n2) Ministru kabineta 2000.gada 5.septembra noteikumi Nr.307 \" Valsts nozīmes derīgo izrakteņu un atradņu, kā arī valsts nozīmes zemes dzīļu nogabalu izmantošanas kārtība \";\n3) Ministru kabineta 2000.gada 28.novembra noteikumi Nr.412 \" Noteikumi par vides aizsardzību ogļūdeņražu izpētes un ieguves darbos jūrā \";\n4) Ministru kabineta 2000.gada 8.februāra noteikumi Nr.51 \" Ogļūdeņražu meklēšanas, izpētes un ieguves noteikumi \";\n5) Ministru kabineta 2000.gada 8.februāra noteikumi Nr.52 \" Ogļūdeņražu meklēšanas, izpētes un ieguves darbu licencēšanas konkursa kārtība \"."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn6",
+      "title": "6. Ministru kabinets līdz 2005.gada 1.septembrim izdod:",
+      "content": "1) šā likuma 12. 1 panta otrajā daļā minētos noteikumus;\n2) šā likuma 14.panta 2.punktā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn7",
+      "title": "7. Ja zemes dzīļu derīgo īpašību izmantošana uzsākta pirms 2004.gada 16.decembrī pieņemto šā likuma grozījumu spēkā stāšanās dienas, zemes dzīļu izmantotājam nav jāsaņem derīgo izrakteņu ieguves atļauja vai zemes dzīļu izmantošanas licence līdz noslēgtā līguma par zemes dzīļu izmantošanu termiņa beigām. Šiem zemes dzīļu izmantotājiem līdz atļaujas (licences) saņemšanai jāievēro zemes dzīļu izmantošanu regulējošo normatīvo aktu prasības, kā arī jāsniedz attiecīgajai vides aizsardzības iestādei visa ar zemes dzīļu izmantošanu saistītā ģeoloģiskā informācija.",
+      "content": "( 16.12.2004 . likuma redakcijā ar grozījumiem, kas izdarīti ar 05.10.2006 . likumu, kas stājas spēkā 01.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn8",
+      "title": "8. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 30.aprīlim ir spēkā Ministru kabineta 2005.gada 21.jūnija noteikumi Nr.449 \" Zemes dzīļu izmantošanas licenču un bieži sastopamo derīgo izrakteņu ieguves atļauju izsniegšanas, kā arī ģeoloģiskās informācijas izmantošanas vispārīgā kārtība \" un Ministru kabineta 2005.gada 13.septembra noteikumi Nr.691 \" Ogļūdeņražu meklēšanas, izpētes un ieguves noteikumi \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 05.10.2006 . likuma redakcijā, kas stājas spēkā 01.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn9",
+      "title": "9. Ministru kabinets līdz 2006.gada 1.oktobrim izdod šā likuma 10.panta ceturtajā daļā minētos noteikumus. Līdz to spēkā stāšanās dienai zemes dzīļu izmantošanas licences un bieži sastopamo derīgo izrakteņu ieguves atļaujas tiek izsniegtas par maksu saskaņā ar Ministru kabineta 2005.gada 21.jūnija noteikumiem Nr.449 \" Zemes dzīļu izmantošanas licenču un bieži sastopamo derīgo izrakteņu ieguves atļauju izsniegšanas, kā arī ģeoloģiskās informācijas izmantošanas vispārīgā kārtība \".",
+      "content": "( 05.10.2006 . likuma redakcijā, kas stājas spēkā 01.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn10",
+      "title": "10. Ministru kabinets līdz 2008.gada 1.maijam izdod šā likuma 14.panta 11.punktā minētos noteikumus.",
+      "content": "( 05.10.2006 . likuma redakcijā, kas stājas spēkā 01.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn11",
+      "title": "11. Šā likuma 14.panta 11.punkts stājas spēkā 2008.gada 1.maijā.",
+      "content": "( 05.10.2006 . likuma redakcijā, kas stājas spēkā 01.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn12",
+      "title": "12. Ministru kabinets līdz 2009.gada 7.augustam izdod šā likuma 10.panta divpadsmitajā daļā minētos noteikumus.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn13",
+      "title": "13. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )",
+      "content": "13. (Izslēgts ar 17.06.2010 . likumu, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn14",
+      "title": "14. Grozījumi šā likuma 4.panta trešajā un piektajā daļā, 5.panta pirmajā daļā, 10.panta pirmajā un vienpadsmitajā daļā, 11.panta otrajā daļā, 14.panta 4. un 10.punktā, 16.panta ceturtajā daļā, 17.panta otrajā daļā un 23.panta otrajā daļā par kompetentās institūcijas maiņu stājas spēkā 2009.gada 1.augustā.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn15",
+      "title": "15. Ministru kabinets līdz 2011.gada 1.septembrim izdod šā likuma 5.panta ceturtajā daļā minētos noteikumus.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn16",
+      "title": "16. Ministru kabinets līdz 2011.gada 1.septembrim izdod šā likuma 8.panta otrajā daļā minētos noteikumus.",
+      "content": "( 17.06.2010 . likuma redakcijā ar grozījumiem, kas izdarīti ar 21.10.2010 . likumu, kas stājas spēkā 11.11.2010. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn17",
+      "title": "17. Ministru kabinets līdz 2011.gada 1.septembrim izdod šā likuma 10.panta otrajā un vienpadsmitajā daļā, kā arī 23.panta ceturtajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.septembrim ir piemērojami Ministru kabineta 2005.gada 21.jūnija noteikumi Nr.448 “ Noteikumi par valsts nozīmes derīgo izrakteņu atradnēm un to izmantošanas kārtību, valsts nozīmes derīgo izrakteņu izmantošanas kārtību, kā arī zemes dzīļu izmantošanas atļauju vai licenču izsniegšanas konkursa vai izsoles kārtību ” un Ministru kabineta 2007.gada 24.aprīļa noteikumi Nr.280 “ Zemes dzīļu izmantošanas licenču un bieži sastopamo derīgo izrakteņu ieguves atļauju izsniegšanas un ģeoloģiskās informācijas izmantošanas vispārīgā kārtība ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn18",
+      "title": "18. Ministru kabinets līdz 2011.gada 1.septembrim izdod šā likuma 10.panta trīspadsmitajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 1.septembrim ir piemērojami Ministru kabineta 2007.gada 4.septembra noteikumi Nr.597 “ Noteikumi par ogļūdeņražu meklēšanu, izpēti un ieguvi un valsts nodevas maksāšanas kārtību un apjomu ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn19",
+      "title": "19. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 10.panta 2. 1 un četrpadsmitajā daļā minētos noteikumus.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn20",
+      "title": "20. Šā likuma 10.panta četrpadsmitā daļa stājas spēkā 2011.gada 1.janvārī.",
+      "content": "( 17.06.2010 . likuma redakcijā, kas stājas spēkā 21.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn21",
+      "title": "21. Grozījumi šā likuma 10.panta 2. 2 daļā stājas spēkā vienlaikus ar Jūras vides aizsardzības un pārvaldības likumu.",
+      "content": "( 21.10.2010 . likuma redakcijā, kas stājas spēkā 11.11.2010. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn22",
+      "title": "22. Grozījums šā likuma 8.pantā par zemes nomas maksas aprēķināšanas kārtību, ja publiska persona iznomā zemi zemes dzīļu izmantošanai, stājas spēkā 2013.gada 1.novembrī.",
+      "content": "( 16.05.2013 . likuma redakcijā, kas stājas spēkā 18.06.2013. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn23",
+      "title": "23. Šā likuma 8. panta otrās daļas 4. punktā minētos noteikumus Ministru kabinets izdod līdz 2018. gada 30. novembrim. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2018. gada 30. novembrim piemērojami Ministru kabineta noteikumi par publiskas personas zemes nomu , ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 21.12.2017 . likuma redakcijā, kas stājas spēkā 18.01.2018. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn24",
+      "title": "24. Zemes nomas līgumu, kurš noslēgts pirms šā likuma 9. panta pirmās daļas 7. punkta spēkā stāšanās dienas un kura darbības termiņš beidzas pirms 2018. gada 30. novembra, var pagarināt, izvērtējot lietderības apsvērumus un ievērojot nosacījumu, ka kopējais līguma termiņš no tā noslēgšanas dienas nevar pārsniegt šā likuma 9. panta pirmās daļas 7. punktā noteikto laiku.",
+      "content": "( 21.12.2017 . likuma redakcijā, kas stājas spēkā 18.01.2018. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn25",
+      "title": "25. Ministru kabinets līdz 2020. gada 31. decembrim izdod šā likuma 4. panta ceturtajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai ir piemērojami Ministru kabineta 2015. gada 22. decembra noteikumi Nr. 805 \" Noteikumi par ogļūdeņražu meklēšanu, izpēti un ieguvi \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 14.11.2019 . likuma redakcijā, kas stājas spēkā 01.01.2020. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn26",
+      "title": "26. Grozījums šā likuma V nodaļas nosaukumā, grozījums par 19. panta izslēgšanu, grozījums 21. panta nosaukumā, grozījums par VI nodaļas izslēgšanu, kā arī VII nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn27",
+      "title": "27. Ministru kabinets līdz 2021. gada 31. decembrim izdod šā likuma 12. 1 panta otrajā, piektajā un sestajā daļā, kā arī 12. 2 panta otrajā un trešajā daļā minētos noteikumus.",
+      "content": "( 25.02.2021 . likuma redakcijā, kas stājas spēkā 24.03.2021. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn28",
+      "title": "28. Ministru kabinets līdz 2021. gada 31. decembrim izdod šā likuma 10. panta astotajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 31. decembrim ir piemērojami Ministru kabineta 2017. gada 8. augusta noteikumi Nr. 439 \" Valsts nozīmes zemes dzīļu nogabala \"Inčukalna dabasgāzes krātuve\" izmantošanas noteikumi \" un Ministru kabineta 2008. gada 7. jūlija noteikumi Nr. 524 \" Valsts nozīmes zemes dzīļu nogabala \"Dobeles struktūra\" izmantošanas noteikumi \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 25.02.2021 . likuma redakcijā, kas stājas spēkā 24.03.2021. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn29",
+      "title": "29. Bieži sastopamo derīgo izrakteņu ieguves atļaujas, kuras izsniegtas līdz 2026. gada 30. jūnijam, un dabas resursu lietošanas atļaujas, kuras izsniegtas līdz 2025. gada 30. jūnijam, ir spēkā līdz tajās norādītā termiņa beigām.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn30",
+      "title": "30. Zemes dzīļu izmantošanas licences, kuras izsniegtas līdz 2026. gada 30. jūnijam un kurās iekļauti izmantošanas nosacījumi un pienākums izstrādāt derīgo izrakteņu ieguves projektu, ir spēkā līdz tajās noteiktā termiņa beigām.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn31",
+      "title": "31. Ministru kabinets līdz 2026. gada 30. jūnijam izdod šā likuma 12. 3 panta septītajā daļā minētos noteikumus.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn32",
+      "title": "32. Grozījumi šā likuma 4. pantā par tā piektās daļas 1. punkta un sestās daļas izslēgšanu stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. Minētais grozījums iekļauts likuma redakcijā uz 01.07.2026. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn33",
+      "title": "33. Grozījumi šā likuma 8. panta pirmās daļas 3. punktā, 9. panta pirmajā daļā, 10. panta otrajā, ceturtajā un desmitajā daļā, 11. panta nosaukumā un pirmajā daļā, kā arī 21. panta otrajā daļā stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. Minētie grozījumi iekļauti likuma redakcijā uz 01.07.2026. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn34",
+      "title": "34. Grozījumi šā likuma 10. panta devītajā daļā par vārdu \"un saņemta atradnes pase\" izslēgšanu un vienpadsmitās daļas izteikšanu jaunā redakcijā attiecībā uz zemes dzīļu izmantošanas licences izsniegšanas nosacījumiem un kārtību stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. Minētie grozījumi iekļauti likuma redakcijā uz 01.07.2026. )"
+    },
+    {
+      "provision_ref": "PN 35",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn35",
+      "title": "35. Grozījums šā likuma 13. panta 5. punktā par tā izteikšanu jaunā redakcijā stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. Minētais grozījums iekļauts likuma redakcijā uz 01.07.2026. )"
+    },
+    {
+      "provision_ref": "PN 36",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn36",
+      "title": "36. Grozījumi šā likuma 16. pantā par tā papildināšanu ar 3. 1 daļu un piektās daļas izslēgšanu stājas spēkā 2026. gada 1. jūlijā.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. Minētie grozījumi iekļauti likuma redakcijā uz 01.07.2026. )"
+    },
+    {
+      "provision_ref": "PN 37",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn37",
+      "title": "37. Ministru kabinets līdz 2026. gada 31. decembrim izdod šā likuma 8. panta otrās daļas 3. 1 punktā minētos noteikumus.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 38",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn38",
+      "title": "38. Valsts vides dienests līdz 2028. gada 31. maijam informē pašvaldības par tā rīcībā esošajām bieži sastopamo derīgo izrakteņu ieguves atļaujām. Pašvaldības līdz 2028. gada 30. jūnijam iesniedz reģistrācijai Valsts vides dienestā bieži sastopamo derīgo izrakteņu ieguves atļaujas, kuru nav Valsts vides dienesta rīcībā, vai to apliecinātas kopijas.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )"
+    },
+    {
+      "provision_ref": "PN 39",
+      "chapter": "VII nodaļa Administratīvie pārkāpumi zemes dzīļu izmantošanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 11.06.2020 . likuma redakcijā, kas stājas spēkā 23.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 26. punktu)",
+      "section": "pn39",
+      "title": "39. Līdz bieži sastopamo derīgo izrakteņu ieguves atļaujas reģistrēšanai Valsts vides dienestā pašvaldība veic izsniegtās bieži sastopamo derīgo izrakteņu ieguves atļaujas kontroli, tai skaitā izvērtē attiecīgās atļaujas pārskatīšanu, ja tiek konstatēti iespējami zemes dzīļu izmantošanu regulējošo normatīvo aktu pārkāpumi atļaujā norādītajā teritorijā. Līdz bieži sastopamo derīgo izrakteņu ieguves atļaujas reģistrācijai Valsts vides dienestā šīs atļaujas atceļ pašvaldība, bet pēc atļaujas reģistrācijas Valsts vides dienestā — Valsts vides dienests.",
+      "content": "( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )\n( 03.04.2025 . likuma redakcijā, kas stājas spēkā 01.07.2025. )"
+    },
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Bieži sastopamo derīgo izrakteņu saraksts (Ar grozījumiem, kas izdarīti ar 16.12.2004 . likumu, kas stājas spēkā 11.01.2005. )",
+      "section": "1",
+      "title": "1. Māls.",
+      "content": "2. Smilts, smilts-grants.\n3. Irdenie saldūdens kaļķieži.\n4. Kūdras iegulas līdz 5 hektāru platībā vienam īpašniekam piederoša īpašuma robežās.\n5. Smilšmāls, mālsmilts, aleirīts."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "augsne",
+      "definition": "virsējais irdenais zemes garozas slānis, kas veidojies atmosfēras un bioloģisko faktoru ietekmē un kam piemīt dabiska auglība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "bieži sastopamie derīgie izrakteņi",
+      "definition": "Latvijas teritorijā izplatīti un pietiekamā daudzumā esoši derīgie izrakteņi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "derīgie izrakteņi",
+      "definition": "neorganiskas vai organiskas izcelsmes veidojumi (arī pazemes ūdeņi), kuru praktiska izmantošana tautsaimniecībā ir iespējama",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "derīgo izrakteņu atradne",
+      "definition": "dabisks derīgo izrakteņu sakopojums, kuru daudzums, kvalitāte un ieguves apstākļi ir izvērtēti un kuru praktiska izmantošana tautsaimniecībā ir iespējama",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "derīgo izrakteņu atradņu reģistrs",
+      "definition": "datu sakopojums par derīgo izrakteņu krājumiem atradnēs un to kvalitāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "derīgo izrakteņu ieguve",
+      "definition": "darbu komplekss derīgo izrakteņu atdalīšanai no to dabiskās vides",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "derīgo izrakteņu krājumu bilance",
+      "definition": "datu sakopojums attiecībā uz noteiktu laika periodu par derīgo izrakteņu ieguves apjomiem, krājumu zudumiem un atlikušajiem derīgo izrakteņu krājumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "grodu aka",
+      "definition": "ar grodiem nostiprināta ūdens ņemšanas ietaise pazemes ūdeņu uztveršanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeoloģiskā informācija",
+      "definition": "dati par zemes dzīļu uzbūvi, īpašībām un resursiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeoloģiskā izpēte",
+      "definition": "visu veidu ģeoloģiskie darbi, tai skaitā derīgo izrakteņu meklēšana, ģeoloģiskā kartēšana un ģeoloģiskie pētījumi, kuru mērķis ir noskaidrot zemes dzīļu uzbūvi, sastāvu, īpašības, stāvokli, kā arī derīgo izrakteņu un zemes dzīļu derīgo īpašību izplatības un izvietojuma likumsakarības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ūdens ieguves urbums",
+      "definition": "ar caurulēm nostiprināta ūdens ņemšanas ietaise pazemes ūdeņu uztveršanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "licences laukums",
+      "definition": "konkrētam zemes dzīļu izmantošanas mērķim paredzēts zemes dzīļu iecirknis (bloks) vai arī vairāku iecirkņu (bloku) vai to daļu sakopojums, kura robežas ir noteiktas zemes dzīļu izmantošanas licencē vai bieži sastopamo derīgo izrakteņu ieguves atļaujā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ogļūdeņraži",
+      "definition": "neapstrādāta nafta (jēlnafta), dabas gāze un gāzes kondensāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts nozīmes derīgie izrakteņi",
+      "definition": "ogļūdeņraži (neapstrādāta nafta (jēlnafta) un dabasgāze), pazemes ūdeņi (saldūdeņi, minerālūdeņi, termālie ūdeņi un rūpniecībā izmantojamie ūdeņi) un kristāliskā pamatklintāja ieži",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts nozīmes derīgo izrakteņu atradne",
+      "definition": "Ministru kabineta noteikta atradne, kura atrodas Latvijas teritorijā vai ekskluzīvajā ekonomiskajā zonā un kuras krājumi nodrošina valsts vai vairāku tās reģionu vajadzības pēc attiecīgā derīgā izrakteņa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts nozīmes zemes dzīļu nogabals",
+      "definition": "Ministru kabineta noteikts zemes garozas iecirknis Latvijas teritorijā vai ekskluzīvajā ekonomiskajā zonā, kurā zemes dzīļu uzbūvei vai īpašībām ir vai var būt sevišķi svarīga nozīme valsts ekonomikas, aizsardzības un citās jomās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes dzīles",
+      "definition": "zemes garozas daļa, kas atrodas zem augsnes, iekšzemes un jūras ūdeņiem līdz dziļumam, kurā tehniski ir iespējama tās izmantošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes dzīļu izmantošana",
+      "definition": "ģeoloģiskā izpēte, derīgo izrakteņu ieguve un zemes dzīļu derīgo īpašību izmantošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes dzīļu izmantošanas licence",
+      "definition": "administratīvais akts, kas tā adresātam piešķir tiesības izmantot zemes dzīles noteiktās robežās, noteiktā veidā un noteiktu laiku, ievērojot licences noteikumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes garoza",
+      "definition": "zemes ārējā cietā daļa, kuras biezums Latvijā ir 40—64 km",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes dzīļu fonds",
+      "definition": "visas izmantojamās un neizmantojamās zemes dzīles Latvijas teritorijā un ekskluzīvajā ekonomiskajā zonā neatkarīgi no to piederības (īpašnieka)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes dzīļu monitorings",
+      "definition": "zemes dzīļu stāvokļa novērošanas, kontroles, analīzes un prognozēšanas sistēma",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes dzīļu fonda valsts ģeoloģiskā pārraudzība",
+      "definition": "normatīvajos aktos noteikta pasākumu sistēma, kuras uzdevums ir raudzīties, kā tiek ievērota tiesību aktos, normatīvajos dokumentos un atļaujās vai licencēs noteiktā zemes dzīļu izmantošanas kārtība (derīgo izrakteņu ģeoloģiskās izpētes atbilstības programma un sasniegto rezultātu izvērtēšana, derīgo izrakteņu krājumu akcepts un uzskaite)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "zemes īpašnieks",
+      "definition": "persona, kura atbilst Civillikumā noteiktajam īpašnieka jēdzienam vai kura ir reģistrēta Nekustamā īpašuma valsts kadastra informācijas sistēmā kā īpašuma tiesiskais valdītājs, vai kura zemes reformas ietvaros ir ieguvusi nekustamo īpašumu, kas nav ierakstīts zemesgrāmatā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "rekultivācija",
+      "definition": "darbību kopums, kas veicams pēc derīgo izrakteņu ieguves, lai sagatavotu derīgo izrakteņu ieguves vietu turpmākai zemes izmantošanai atbilstoši plānotajam zemes lietošanas mērķim.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

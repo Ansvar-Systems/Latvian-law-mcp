@@ -1,0 +1,537 @@
+{
+  "id": "lv-law-64790",
+  "type": "statute",
+  "title": "Par valsts pensijām",
+  "short_name": "TA-64790",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/64790-par-valsts-pensijam",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "Tiesības uz valsts pensijām",
+      "content": "Latvijas Republikas pilsoņiem ir tiesības uz valsts pensijām šajā likumā paredzētajos gadījumos.\nTādas pašas tiesības uz darba pensijām ir:\n1) repatriantiem, viņu ģimenes locekļiem un pēcnācējiem neatkarīgi no tā, kad viņi atgriezušies Latvijas Republikā;\n2) visiem Latvijas iedzīvotājiem, kuru pastāvīga dzīvesvieta likuma spēkā stāšanās brīdī bija Latvijas Republika;\n3) ārvalstu pilsoņiem un personām bez pilsonības, kas ieradušās Latvijas Republikā uz pastāvīgu dzīvi pēc likuma spēkā stāšanās dienas, ja nepieciešamo darba stāžu tām pilnībā veido darbs Latvijas Republikā.\nPārējos ārvalstu pilsoņus un personas bez pilsonības, kas ieradušās Latvijas Republikā uz pastāvīgu dzīvi pēc likuma spēkā stāšanās dienas, nodrošina ar sociālajām pensijām.\nLatvijas Republika nodrošina ar darba pensijām Latvijas Republikas iedzīvotājus, kuriem sakarā ar darbību republikas interesēs ārvalstis pārtraukušas pensiju izmaksāšanu."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "Valsts pensiju veidi",
+      "content": "Saskaņā ar šo likumu piešķirt šādas valsts pensijas:\n1) darba pensijas: vecuma pensijas, invaliditātes pensijas, apgādnieka zaudējuma pensijas, izdienas pensijas;\n2) sociālās pensijas.\nBez tam personai ir tiesības uz citām pensijām (darba devēja pensiju, brīvprātīgi apdrošināto papildpensiju u. c.), kas nav valsts pensijas."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "3",
+      "title": "Personas, kurām ir tiesības uz darba pensiju",
+      "content": "Tiesības uz darba pensiju ir pilsoņiem, kas darba periodā, karadienesta vai alternatīvā dienesta laikā ir pakļauti Latvijas Republikas sociālajai apdrošināšanai.\nTādas pašas tiesības uz darba pensiju ir pilsoņiem, kuru nodarbinātības laiku ieskaita darba stāžā saskaņā ar šā likuma 36. pantu , ja šajā periodā ir izdarīti sociālās apdrošināšanas maksājumi.\nTiesības uz apgādnieka zaudējuma pensiju ir šajā pantā minēto pilsoņu darba nespējīgajiem ģimenes locekļiem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "4",
+      "title": "Personas, kurām ir tiesības uz sociālo pensiju",
+      "content": "Sociālās pensijas piešķir un izmaksā nestrādājošām personām, kurām nav tiesību uz darba pensiju:\n1) I, II un III grupas invalīdiem,\n2) vīriešiem, kas sasnieguši 65 gadu vecumu, un sievietēm, kas sasniegušas 60 gadu vecumu,\n3) bērniem apgādnieka zaudējuma gadījumā,\n4) bērniem invalīdiem līdz 16 gadu vecumam."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "5",
+      "title": "Tiesības izvēlēties pensiju",
+      "content": "Pilsoņiem, kuriem vienlaikus ir tiesības uz dažādiem pensiju veidiem vai pensijas kompensāciju, tiek piešķirta viena valsts pensija pēc viņu izvēles.\nPensionārs vienlaikus nevar saņemt Latvijas Republikas valsts pensiju un citas valsts pensiju, izņemot pensiju, kurai ir kaitējuma atlīdzības raksturs.\nPensiju var lūgt piešķirt jebkurā laikā bez termiņa ierobežojuma, tiklīdz ir radušās tiesības uz pensiju."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "6",
+      "title": "Pensiju atbrīvošana no nodokļiem. Līdzekļi pensiju izmaksāšanai",
+      "content": "Pensijas neapliek ar nodokļiem.\nPensijas izmaksā no valsts sociālās apdrošināšanas fonda, ko veido:\n1) darba devēju sociālās apdrošināšanas maksājumi par saviem darbiniekiem,\n2) pilsoņu sociālās apdrošināšanas maksājumi,\n3) ārvalstu līdzekļu pārskaitījumi saskaņā ar starptautiskajiem nolīgumiem,\n4) valsts budžets,\n5) citas iemaksas.\nSociālā nodokļa lielumu apstiprina Latvijas Republikas Augstākā Padome."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "VISPĀRĪGIE NOTEIKUMI",
+      "section": "7",
+      "title": "Pensiju izmaksāšana pilsoņiem, kas izbraukuši uz ārvalstīm",
+      "content": "Pensijas, kas piešķirtas Latvijas Republikā pirms izbraukšanas uz pastāvīgu dzīvi ārvalstīs, izmaksā 6 mēnešus uz priekšu, tālāku pensiju izmaksu pārtraucot."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "8",
+      "title": "Pensiju piešķiršanas noteikumi",
+      "content": "Tiesības uz vecuma pensiju ir:\nvīriešiem — sasniedzot 60 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem.\nsievietēm — sasniedzot 55 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "9",
+      "title": "Vecuma pensijas invalīdiem uz mūžu",
+      "content": "Invalīdiem uz mūžu ir tiesības uz vecuma pensiju:\nvīriešiem — sasniedzot 55 gadu vecumu, ja viņu darba stāžs\nnav mazāks par 25 gadiem,\nsievietēm — sasniedzot 50 gadu vecumu, ja viņu darba stāžs\nnav mazāks par 20 gadiem."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "10",
+      "title": "Pensijas daudzbērnu mātēm un mātēm, kuru bērni ir invalīdi kopš bērnības",
+      "content": "Sievietēm, kurām ir pieci un vairāk bērni, kā arī mātēm, kuru bērni ir invalīdi kopš bērnības, ir tiesības uz vecuma pensiju, sasniedzot 50 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem un ja viņas bērnus ir izaudzinājušas līdz 8 gadu vecumam.\nTēviem, kuri vieni izaudzinājuši piecus un vairāk bērnus līdz 8 gadu vecumam, ir tiesības uz vecuma pensiju, sasniedzot 55 gadu vecumu, ja viņu darba stāžs nav mazāks par 25 gadiem."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "11",
+      "title": "Pensijas liliputiem, punduriem un neredzīgajiem",
+      "content": "Liliputiem, punduriem un neredzīgajiem ir tiesības uz vecuma pensiju:\nvīriešiem — sasniedzot 45 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem,\nsievietēm — sasniedzot 40 gadu vecumu, ja viņu darba stāžs nav mazāks par 15 gadiem."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "12",
+      "title": "Pensijas ar atvieglotiem noteikumiem",
+      "content": "Saņemt vecuma pensiju ar atvieglotiem noteikumiem neatkarīgi no pēdējās darbavietas ir tiesības:\n1) personām, kas strādā darbos ar sevišķi kaitīgiem vai sevišķi smagiem darba apstākļiem, — pēc Latvijas Republikas Ministru Padomes izstrādātā, ar arodbiedrībām saskaņotā ražotņu, darbu, profesiju un rādītāju saraksta un atbilstoši darbavietu atestācijas rezultātiem:\nvīriešiem — sasniedzot 50 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem un vismaz 10 gadi no tiem nostrādāti sarakstā minētajos darbos,\nsievietēm — sasniedzot 45 gadu vecumu, ja viņu darba stāžs nav mazāks par 15 gadiem un vismaz 7 gadi un 6 mēneši nostrādāti sarakstā minētajos darbos.\nPersonām, kuras sarakstā minētajos darbos ar sevišķi kaitīgiem un sevišķi smagiem darba apstākļiem nostrādājušas vismaz pusi darba stāža, kas nepieciešams, lai saņemtu pensiju ar atvieglotiem noteikumiem, pensijas pēc šā panta piešķir, par katru pilnu šādos darbos nostrādāto gadu šā likuma 8. pantā paredzēto vecuma kritēriju vīriešiem un sievietēm samazinot par l gadu;\n2) personām, kas strādā citos darbos ar kaitīgiem un smagiem darba apstākļiem, pēc Latvijas Republikas Ministru Padomes izstrādātā, ar arodbiedrībām saskaņotā ražotņu, darbu, profesiju un rādītāju saraksta un atbilstoši darbavietu atestācijas rezultātiem:\nvīriešiem — sasniedzot 55 gadu vecumu, ja viņu darba stāžs nav mazāks par 25 gadiem un vismaz 12 gadi un 6 mēneši no tiem nostrādāti sarakstā minētajos darbos,\nsievietēm — sasniedzot 50 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem un vismaz 10 gadi no tiem nostrādāti sarakstā minētajos darbos.\nPersonām, kuras sarakstā minētajos darbos ar kaitīgiem un smagiem darba apstākļiem nostrādājušas vismaz pusi darba stāža, kas nepieciešams, lai saņemtu pensiju ar atvieglotiem noteikumiem, pensijas pēc šā panta piešķir, vīriešiem samazinot šā likuma 8. pantā paredzēto vecuma kritēriju par l gadu — par katriem šajā darbā nostrādātajiem 2 gadiem un 6 mēnešiem, un sievietēm — par katriem šajā darbā nostrādātajiem 2 gadiem;\n3) personām, kas piedalījušās Černobiļas AES avārijas seku likvidācijas darbos vai kas evakuētas no radiācijas ietekmes zonas:\nvīriešiem — sasniedzot 55 gadu vecumu, ja viņu darba stāžs nav mazāks par 25 gadiem.\nsievietēm — sasniedzot 50 gadu vecumu, ja viņu darba stāžs nav mazāks par 20 gadiem."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "13",
+      "title": "Pensiju apmēri",
+      "content": "Vecuma pensija veidojas no pamatpensijas, kas nosakāma vecuma sociālās pensijas ( 66. panta 2. punkts) apmērā, un papildpensijas, kuru aprēķina 55 procentu apmērā no izpeļņas ( 39. pants ). Par katru pilnu darba gadu virs vecuma pensijas saņemšanai nepieciešamā darba stāža papildpensija tiek palielināta par 2 procentiem no izpeļņas ar noteikumu, kad papildpensijas apmērs nepārsniedz 80 procentus no izpeļņas, izņemot pensijas invalīdiem un nepamatoti represētajiem.\nPar darbu pēc pensijas vecuma sasniegšanas (8. pants), atsakoties no tās saņemšanas, pensiju paaugstina 15 procentu apmērā no pensijas par katru nostrādāto gadu (pilniem 12 mēnešiem), bet ne vairāk kā par 50 procentiem. Šādā gadījumā pensijas apmērs var pārsniegt 80 procentus no izpeļņas.\nMinimālo vecuma pensijas apmēru nosaka oficiālā iztikas minimuma līmenis.\nVecuma pensijas kara invalīdiem tiek palielinātas par attiecīgajai invaliditātes grupai paredzēto sociālo pensiju. Vecuma pensijas kara dalībniekiem tiek palielinātas par 25 procentiem no atbilstošās sociālās pensijas.\nVecuma pensijas Latvijas Republikas iekšlietu un robežapsardzības dienesta invalīdiem tiek palielinātas par attiecīgajai invaliditātes grupai paredzēto sociālo pensiju."
+    },
+    {
+      "provision_ref": "Art. 13.1",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "13.1",
+      "title": "13. 1 pants. Tiesneša pensija",
+      "content": "Tiesības uz pensiju 80 procentu apmērā no tiesneša amata atalgojuma, piemaksas par kvalifikācijas klasi un tiesneša darba stāžu tiesnesim ir pēc divdesmit tiesneša amatā nostrādātiem gadiem, kad sasniegts likumā noteiktais pensijas vecums."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "14",
+      "title": "Vecuma pensijas par nepilnu darba stāžu",
+      "content": "Pilsoņiem, kuriem nav pietiekama darba stāža pilnas vecuma pensijas saņemšanai ( 8. pants ), piešķir vecuma pensiju par nepilnu stāžu, ja viņu darba stāžs ir vismaz 5 gadi. Papildpensijas apmēru nosaka proporcionāli darba stāžam.\nPiešķirot pensijas nepilna darba stāža gadījumā, netiek piemēroti šajā likumā attiecībā uz vecumu un stāžu paredzētie atvieglotie pensiju piešķiršanas noteikumi."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "15",
+      "title": "Piemaksa pie pensijas",
+      "content": "Vecuma pensijai, arī tādai, kas piešķirta minimālajā apmērā, tiek noteiktas šādas piemaksas:\n1) pensionāriem, kuru apgādībā ir nepilngadīgi ģimenes locekļi (bērni, brāli, māsas un mazbērni, kas nav sasnieguši 18 gadu vecumu), par katru no viņiem — atbilstošās sociālās pensijas apmērā,\n2) pensionāriem, kuri sasnieguši 80 gadu vecumu, viņu kopšanai — 60 procenti no atbilstošās sociālās pensijas, izņemot laiku, kas pavadīts sociālās nodrošināšanas pansionātā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "DARBA PENSIJAS VECUMA PENSIJAS",
+      "section": "16",
+      "title": "Pensijas izmaksāšanas kārtība strādājošiem pensionāriem",
+      "content": "Papildpensijas strādājošiem pensionāriem izmaksā pilnā apmērā, turklāt tās nedrīkst būt mazākas par sociālo vecuma pensiju. Strādājošiem pensionāriem, izņemot nepamatoti represētajiem, netiek izmaksātas pamatpensijas un piemaksas par viņu apgādībā esošajiem nepilngadīgajiem ģimenes locekļiem ( 15. pants )."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "17",
+      "title": "Pensiju piešķiršanas noteikumi",
+      "content": "Invaliditātes pensiju piešķir, ja iestājusies invaliditāte, kuras rezultātā pastāvīgi vai uz laiku zaudēta veselība, darba vai sevis apkopšanas spēja."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "18",
+      "title": "Invaliditātes grupas",
+      "content": "Atkarībā no veselības, darba vai sevis apkopšanas spējas zaudēšanas pakāpes invalīdus iedala trīs grupās.\nInvaliditātes cēloņus un grupas, kā arī invaliditātes iestāšanās laiku nosaka darba ekspertīzes ārstu komisijas (DEAK), kuras darbojas atbilstoši nolikumam par šīm komisijām, ko apstiprina Latvijas Republikas Ministru Padome."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "19",
+      "title": "Darba stāžs, kas dod tiesības uz pensiju",
+      "content": "Invaliditātes pensiju piešķir neatkarīgi no darba stāža, ja invaliditātes cēlonis ir:\n1) darbā iegūts sakropļojums vai arodslimība,\n2) obligātā karadienesta laikā vai pildot alternatīvā dienesta pienākumus iegūts sakropļojums, ievainojums vai slimība.\nInvaliditātes pensijas vispārējas saslimšanas gadījumā piešķir, ja, iestājoties invaliditātei, ir šāds darba stāžs:\ndarba stāžs (gados)\nlīdz 23 gadu vecuma sasniegšanai l\nno 23 līdz 26 gadu vecuma sasniegšanai 2\nno 26 līdz 31 gada vecuma sasniegšanai 3\nno 31 līdz 36 gadu vecuma sasniegšanai 5\nno 36 līdz 41 gada vecuma sasniegšanai 7\nno 41 līdz 46 gadu vecuma sasniegšanai 9\nno 46 līdz 51 gada vecuma sasniegšanai 11\nno 51 līdz 56 gadu vecuma sasniegšanai 13\nno 56 līdz 61 gada vecuma sasniegšanai 14\nno 61 gada vecuma un vecākiem 15\nJa ir bijis darba stāžs, kas nepieciešams attiecīgajai vecuma grupai, un darbs turpinājies pēc pārejas nākamajā vecuma grupā, stāža noteikumi uzskatāmi par izpildītiem neatkarīgi no prasībām, kādas paredzētas nākamajai vecuma grupai.\nPersonām, kas kļuvušas par invalīdiem vispārējās saslimšanas dēļ darba periodā vai pēc darba izbeigšanas pirms 20 gadu vecuma sasniegšanas, pensijas piešķir neatkarīgi no darba stāža.\nJa no invaliditātes pensijas, kas piešķirta sakarā ar darbā iegūtu sakropļojumu vai arodslimību, pāriet uz invaliditātes pensiju vispārējas saslimšanas dēļ, nepieciešamo darba stāžu nosaka pēc vecuma pirmās invaliditātes iestāšanās laikā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "20",
+      "title": "Pensiju apmēri",
+      "content": "Invaliditātes pensija veidojas no pamatpensijas, kas nosakāma attiecīgajai invaliditātes grupai paredzētās sociālās pensijas apmērā, un papildpensijas, kuru piešķir šādos apmēros:\nI grupas invalīdiem — 55 procentu apmērā no izpeļņas plus 50 procenti no I grupas invalīdiem paredzētās sociālās pensijas ( 66. pants ),\nII grupas invalīdiem — 55 procentu apmērā no izpeļņas plus 50 procenti no II grupas invalīdiem paredzētās sociālās pensijas ( 66. pants ),\nIII grupas invalīdiem — 40 procentu apmērā no izpeļņas.\nJa I un II grupas invalīdiem ir vecuma pensijas piešķiršanai (arī ar atvieglotiem noteikumiem) nepieciešamais darba stāžs, pēc pilsoņu vēlēšanās invaliditātes pensiju piešķir vecuma pensijas apmērā.\nPensiju minimālie apmēri:\nI un II grupas invaliditātes gadījumā — oficiālā iztikas minimuma līmenī,\nIII grupas invaliditātes gadījumā — 70 procenti no oficiālā iztikas minimuma."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "21",
+      "title": "Piemaksas pie pensijas",
+      "content": "Pie invaliditātes pensijas, arī pie minimālās pensijas, nosaka šādas piemaksas:\n1) I un II grupas invalīdiem, kuru apgādībā ir nepilngadīgi ģimenes locekļi, par katru no tiem — sociālās pensijas apmērā, kas paredzēta šai kategorijai apgādnieka zaudējuma gadījumā,\n2) par invalīdu ārstēšanu un kopšanu — sociālās pensijas apmērā, kas paredzēta attiecīgās invaliditātes grupai, izņemot to periodu, kurā invalīds atrodas pansionātā."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "22",
+      "title": "Pensijas par nepilnu darba stāžu",
+      "content": "I un II grupas invalīdiem, kuriem invaliditāte iestājusies vispārējas saslimšanas rezultātā un kuriem nav pilnas pensijas piešķiršanai nepieciešamā darba stāža ( 19. pants ), tiek noteikta papildpensija par nepilnu darba stāžu proporcionāli esošajam stāžam."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "INVALIDITĀTES PENSIJAS",
+      "section": "23",
+      "title": "Invaliditātes pensiju izmaksāšana",
+      "content": "Pamatpensijas, papildpensijas un visa veida piemaksas strādājošiem invalīdiem izmaksā pilnā apmērā."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "24",
+      "title": "Ģimenes locekļi, kam ir tiesības uz pensiju",
+      "content": "Tiesības uz apgādnieka zaudējuma pensiju ir darba nespējīgiem mirušā apgādnieka ģimenes locekļiem, kas bijuši viņa apgādībā ( 26. pants ). Bērniem pensiju piešķir neatkarīgi no tā, vai viņi ir bijuši mirušā apgādībā.\nPar darba nespējīgiem ģimenes locekļiem uzskatāmi:\n1) bērni, kas ir jaunāki par 18 gadiem, un bērni neatkarīgi no vecuma, ja viņi kļuvuši par invalīdiem līdz 18 gadu vecumam, kā arī bērni, kas apgādnieka nāves brīdī mācās vidējās vai augstākajās mācību iestādēs (dienas nodaļā), ja viņi nav vecāki par 24 gadiem,\n2) brāļi, māsas, mazbērni, kas ir jaunāki par 18 gadiem, ja viņiem nav darbaspējīgu vecāku, un brāļi, māsas, mazbērni neatkarīgi no vecuma, ja viņiem nav darbaspējīgu vecāku un ja viņi kļuvuši par invalīdiem iīdz 18 gadu vecumam,\n3) tēvs, māte, sieva un vīrs, ja viņi sasnieguši pensijas vecumu: vīrieši — 60 gadus un sievietes — 55 gadus vai arī ja viņi ir invalīdi,\n4) šķirtā sieva (vīrs), kas līdz bijušā laulātā nāvei saņēmusi(is) alimentus no tā (tās),\n5) viens no vecākiem vai laulātais, vecaistēvs, vecāmāte, brālis un māsa neatkarīgi no vecuma un darbaspējām, ja viņš nestrādā un apgādā mirušā apgādnieka bērnus, brāļus, māsas vai mazbērnus, kas nav sasnieguši 8 gadu vecumu,\n6) vecaistēvs un vecāmāte, ja nav personu, kam pēc likuma viņi jāuztur.\nLikuma noteikumi, kas skar mirušo ģimenes, attiecas arī uz bezvēsts prombūtnē esošo ģimenēm, ja apgādnieka bezvēsts prombūtne ir atzīta likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "25",
+      "title": "Ģimenes locekļi, kas uzskatāmi par apgādājamiem",
+      "content": "Mirušā ģimenes locekļi uzskatāmi par viņa apgādībā bijušiem, ja tas viņus pilnīgi uzturējis vai viņi no tā saņēmuši palīdzību, kas viņiem bijis pastāvīgs un galvenais eksistences līdzekļu avots."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "26",
+      "title": "Adoptētāju un adoptētā tiesības uz pensiju",
+      "content": "Adoptētājiem ir tādas pašas tiesības uz pensiju ka vecākiem un adoptētajiem — tādas pašas kā īstajiem bērniem.\nNepilngadīgie, karn ir tiesības uz pensiju apgādnieka zaudējuma gadījumā, saglabā šīs tiesības arī pēc viņu adoptācijas."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "27",
+      "title": "Patēva un pamātes, padēla un pameitas tiesības uz pensiju",
+      "content": "Patēvam un pamātei ir tādas pašas tiesības uz pensiju kā tēvam un mātei, ja viņi audzinājuši un uzturējuši mirušo padēlu vai pameitu ne mazāk kā 5 gadus.\nPadēlam un pameitai, ja viņi no vecākiem nav saņēmuši alimentus, ir tādas pašas tiesības uz pensiju kā īstajiem bērniem."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "28",
+      "title": "Pensijas saglabāšana pēc stāšanās jaunā laulībā",
+      "content": "Pensija, kas piešķirta laulātā nāves gadījumā, saglabājas arī tad, ja pensionārs stājas jaunā laulībā."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "29",
+      "title": "Apgādnieka darba stāžs, kas dod tiesības uz pensiju",
+      "content": "Ģimenei, kuras apgādnieka nāves cēlonis ir darbā iegūts sakropļojums vai arodslimība, karadienesta vai alternatīvā dienesta laikā iegūts ievainojums, kontūzija, sakropļojums vai vispārēja saslimšana, pensiju piešķir neatkarīgi no apgādnieka darba stāža. Arī mirušā pensionāra ģimenei pensiju piešķir neatkarīgi no viņa darba stāža.\nApgādnieka zaudējuma pensiju, ja apgādnieka nāves cēlonis ir vispārēja saslimšana, piešķir, ja apgādniekam līdz nāves dienai bijis stāžs, kas viņam būtu nepieciešams invaliditātes pensijas saņemšanai ( 19. pants )."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "30",
+      "title": "Apgādnieka zaudējuma pensiju apmēri",
+      "content": "Apgādnieka zaudējuma pensija veidojas no pamatpensijas, kas nosakāma attiecīgās sociālās pensijas apmērā, un papildpensijas, kuru aprēķina 40 procentu apmērā no apgādnieka izpeļņas par katru darba nespējīgo ģimenes locekli. Papildpensijas summa, ko apgādnieka zaudējuma gadījumā piešķir tā darba nespējīgiem ģimenes locekļiem, nevar pārsniegt apgādnieka vidējo izpeļņu.\nApgādnieka zaudējuma pensiju minimālie apmēri:\n1) katram darba nespējīgam ģimenes loceklim — ne mazāk par sociālo pensiju, kas noteikta šā likuma 66. pantā attiecīgajai darba nespējīgo kategorijai;\n2) bērniem, kas zaudējuši abus vecākus, mirušas vientuļās mātes un bojā gājušo karavīru bērniem — ne mazāk par iztikas minimumu katram bērnam."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "31",
+      "title": "Pensijas nepilna darba stāža gadījumā",
+      "content": "Ja apgādniekam nav bijis pilnas invaliditātes pensijas piešķiršanai nepieciešamā darba stāža ( 19. pants ), papildpensiju piešķir proporcionāli pierādītajam darba stāžam."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "32",
+      "title": "Pensiju apmēri pensionāru ģimenēm",
+      "content": "Mirušo pensionāru ģimenēm pensijas piešķir atbilstoši tādām pašām normām kā šā likuma 3. pantā minēto pilsoņu ģimenēm."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "APGĀDNIEKA ZAUDĒJUMA PENSIJAS",
+      "section": "33",
+      "title": "Apgādnieka zaudējuma pensiju izmaksāšana",
+      "content": "Apgādnieka zaudējuma pensiju strādājošiem pensionāriem izmaksā pilnā apmērā, turklāt tā nedrīkst būt mazāka par attiecīgo sociālo pensiju. Strādājošiem pensionāriem netiek izmaksāta pamatpensija."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IZDIENAS PENSIJAS",
+      "section": "34",
+      "title": "Izdienas pensiju piešķiršana",
+      "content": "Izdienas pensijas piešķir pilsoņiem, kas strādā atsevišķās profesijās, kurās pēc noteikta darba stāža sasniegšanas darbs saistās ar profesionālo iemaņu zudumu vai sociālu bīstamību. Izdienas pensijas piešķir saskaņā ar speciālu nolikumu par izdienas pensijām , ko izstrādā Latvijas Republikas Ministru Padome sadarbībā ar arodbiedrībām."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IZDIENAS PENSIJAS",
+      "section": "35",
+      "title": "Izdienas pensiju apmēri un izmaksāšana",
+      "content": "Izdienas pensijas piešķir tādā apmērā, kāds šā likuma 13. pantā noteikts vecuma pensijām. Ja bez izdienas pensijas pensionāram ir citi ienākuma avoti, tie tiek aplikti ar nodokļiem likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "DARBA STĀŽA APRĒĶINĀŠANA DARBA PENSIJU PIEŠĶIRŠANAI",
+      "section": "36",
+      "title": "Darba veidi, ko ieskaita darba stāžā",
+      "content": "Vispārējā darba stāžā, kas dod tiesības uz darba pensiju, ieskaita jebkuru darbu vai nodarbinātības veidu neatkarīgi no darba rakstura, ilguma un pārtraukuma ilguma, kura laikā tiek kārtoti sociālās apdrošināšanas maksājumi. Darba stāžā, ja kārtoti sociālās apdrošināšanas maksājumi, ieskaita arī:\n— obligāto karadienestu un karadienestam pielīdzinātos dienestus,\n— virsdienestu karavīriem un dienestu virsniekiem Latvijas Republikas armijā, kā arī PSRS Bruņotajos Spēkos, ja viņiem sakarā ar darbību republikas interesēs atņemta dienesta pakāpe,\n— dienestu ierindas un komandējošā sastāva amatos iekšlietu iestādēs,\n— mācību laiku augstākajās mācību iestādēs, kā arī citās mācību iestādēs pēc vidusskolas beigšanas,\n— pēcdiploma izglītības un kvalifikācijas paaugstināšanas laiku,\n— pārejošas darba nespējas laiku, kas sācies darba periodā,\n— laiku, kad kopts I grupas invalīds vai bērns invalīds līdz 16 gadu vecumam, vai cilvēks, kas vecāks par 80 gadiem,\n— laiku, kad māte audzinājusi bērnus līdz 8 gadu vecumam."
+    },
+    {
+      "provision_ref": "Art. 36.1",
+      "chapter": "DARBA STĀŽA APRĒĶINĀŠANA DARBA PENSIJU PIEŠĶIRŠANAI",
+      "section": "36.1",
+      "title": "36. 1 pants. Ierobežojumi, aprēķinot darba stāžu",
+      "content": "Periodu, kurā personas, gūstot darba ienākumus ārpus darba tiesiskajām attiecībām, maksā pazeminātu sociālo nodokli (Latvijas Republikas likuma «Par sociālo nodokli» 5. panta 2. punkts), ieskaita darba stāžā uz pusi samazinātā apmērā."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "DARBA STĀŽA APRĒĶINĀŠANA DARBA PENSIJU PIEŠĶIRŠANAI",
+      "section": "37",
+      "title": "Atvieglojumi, aprēķinot darba stāžu",
+      "content": "Aprēķinot darba stāžu nepamatoti represētajiem, ieslodzījuma vietās, nometinājumā un izsūtījumā pavadīto laiku ieskaita darba stāžā trīskāršā apmērā.\nDarbu leprozorijā un specializētajās medicīnas iestādēs, kā arī laboratorijās AIDS slimnieku ārstēšanai un izmeklēšanai ieskaita darba stāžā divkāršā apmērā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "DARBA STĀŽA APRĒĶINĀŠANA DARBA PENSIJU PIEŠĶIRŠANAI",
+      "section": "38",
+      "title": "Darba stāža noteikšana",
+      "content": "Dokumenti, kas apstiprina darba stāžu, ir:\n1) darba grāmatiņa,\n2) dokuments par sociālās apdrošināšanas maksājumiem,\n3) citi dokumenti, kas apstiprina 36. pantā minētos darba un nodarbinātības veidus.\nJa dokumenti gājuši bojā un tos nav iespējams atjaunot, darba stāžu atļauts pierādīt ar liecinieku liecībām."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "39",
+      "title": "Pensiju aprēķināšana atkarībā no apdrošināšanas",
+      "content": "Pensijas aprēķina atkarībā no apdrošināšanas veida un apjoma."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "40",
+      "title": "Mēneša vidējās izpeļņas noteikšanas vispārējā kārtība",
+      "content": "Personām, kas norādītas šā likuma 3. pantā , faktisko mēneša vidējo izpeļņu pensijas aprēķināšanai nosaka par jebkuriem pieciem gadiem pēc kārtas (kā izraudzījusies persona, kas pieprasa pensiju) no pēdējiem 15 darba gadiem pirms pensijas pieprasīšanas, ieskaitot pārtraukumus darbā, vai par jebkuriem 10 gadiem pēc kārtas (kā izraudzījusies persona, kas pieprasa pensiju) no kopējā darba stāža.\nMēneša vidējo izpeļņu nosaka, kopējo izpeļņas summu, kas saņemta par darbu 60 (120) nostrādātajos kalendāra mēnešos, dalot ar 60 (120). Pēc pensijas pieprasītāja vēlēšanās mēnešus, kuros viņš sakarā ar iestāšanos darbā vai aiziešanu no darba, vai citu attaisnojošu iemeslu dēļ nav strādājis pilnu darba dienu skaitu, izslēdz no aprēķina vai arī ieskaita par pilniem darba mēnešiem.\nGadījumos, kad pensijas pieprasītājs nostrādājis mazāk par 5 (10) gadiem, mēneša vidējo izpeļņu nosaka, nostrādāto kalendāra mēnešu izpeļņas kopējo summu dalot ar šo mēnešu skaitu.\nJa darbinieks nostrādājis mazāk nekā vienu kalendāra mēnesi, visu nostrādātā laika izpeļņu dala ar nostrādāto dienu skaitu un iegūto summu reizina ar vidēji gadā aprēķināto mēneša darbdienu skaitu.\nŠajā gadījumā pensijas aprēķināšanai ieskaita ne vairāk kā divas tarifa likmes (algas).\nPersonām, par kurām sociālā nodokļa maksājumi tiek kārtoti individuāli, pensiju aprēķina no summas, no kuras tiek maksāts sociālais nodoklis, bet, ja tas tiek maksāts pazeminātā apmērā (likuma «Par sociālo nodokli» 5. panta 2. punkts), tad aprēķinot pensiju, ņem vērā pusi no summas, no kuras ir maksāts sociālais nodoklis"
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "41",
+      "title": "Darba samaksas veidi, ko ņem vērā, aprēķinot pensijas",
+      "content": "Izpeļņā pensijas aprēķināšanai ieskaita visās darbavietās saņemtos darba samaksas veidus, par kuriem saskaņā ar spēkā esošajiem noteikumiem aprēķina apdrošināšanas iemaksas.\nIzpeļņā pensijas aprēķināšanai pēc pensijas pieprasītāja vēlēšanās ieskaita attiecīgajos periodos izmaksāto pārejošas darba nespējas pabalstu vai darbiniekam saglabāto vidējo izpeļņu.\nIzpeļņā pensijas aprēķināšanai kolhozu biedriem ieskaita visu veidu samaksu par darbu kolhoza sabiedriskajā saimniecībā, kā arī atalgojumu par darbu citā darbavietā, ja no tā izdara apdrošināšanas iemaksas."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "42",
+      "title": "Atvieglojumi izpeļņas aprēķināšanā",
+      "content": "Aprēķinot mēneša vidējo izpeļņu, pēc pensijas pieprasītāja vēlēšanās netiek iekļauts darba laiks, kurā pensijas pieprasītājs pēc DEĀK atzinuma bijis invalīds vai saņēmis kompensāciju par sakropļojuma vai citāda veselības bojājuma nodarīto kaitējumu, kopis I grupas invalīdu vai cilvēku, kas ir vecāks par 80 gadiem, bērnu invalīdu līdz 16 gadu vecumam, vai laiks, kad māte audzinājusi bērnus līdz 8 gadu vecumam.\nJa pensionārs izvēlas cita veida pensiju, jaunā veida pensiju var aprēķināt no tās pašas izpeļņas, no kuras bija aprēķināta iepriekšējā veida pensija."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "43",
+      "title": "Pensiju aprēķināšana tiem, kas mācās",
+      "content": "Mācību iestāžu audzēkņiem, aspirantiem, klīniskajiem ordinatoriem pēc viņu vēlēšanās pensiju aprēķina no stipendijas."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "44",
+      "title": "Izpeļņas aprēķināšana par laiku, kas nostrādāts ārvalstīs. Pensiju aprēķināšana personām, kas ieceļojušas no citām valstīm",
+      "content": "Personām, kas strādājušas Latvijas Republikas uzņēmumos un iestādēs ārvalstīs, vidējo izpeļņu pārrēķina Latvijā apgrozībā esošajās naudas vienībās pēc Latvijas Bankas noteiktā kursa.\nLatvijas Republikas pilsoņiem, kas ieceļojuši no citām valstīm un nav strādājuši Latvijas Republikas uzņēmumos un iestādēs, pensijas piešķir atbilstoši sociālās nodrošināšanas līgumiem ar šīm valstīm. Ja šādu līgumu nav, Latvijas Republikas pilsoņiem piešķir sociālo pensiju. Ārvalstu pilsoņiem un personām bez pilsonības, kas ieceļojušas no citām valstīm un nav strādājušas Latvijas Republikas uzņēmumos un iestādēs, pensijas piešķir atbilstoši līgumiem ar šīm valstīm. Ja šādu līgumu nav, ārvalstu pilsoņiem un personām bez pilsonības piešķir sociālo pensiju ( 66. pants )."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "45",
+      "title": "Apgādnieka zaudējuma pensiju aprēķināšana",
+      "content": "Aprēķinot apgādnieka zaudējuma pensijas, attiecīgi piemērojams šā likuma 40. — 44. pants ."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "46",
+      "title": "Pensiju aprēķināšana bāreņiem",
+      "content": "Ģimenēs, kurās ir bērni, kas zaudējuši abus vecākus, pensijas aprēķina no abu vecāku izpeļņas kopējās summas."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "47",
+      "title": "Pensiju aprēķināšana pensionāru ģimenēm",
+      "content": "Pensijas pensionāru ģimenēm sakarā ar apgādnieka zaudējumu aprēķina no tās pašas izpeļņas, no kuras aprēķināta apgādnieka pensija.\nTo pensionāru ģimenēm, kuriem bijušas tiesības uz pensijas pārrēķināšanu šā likuma 50. panta paredzētajā kārtībā, pensijas aprēķina no izpeļņas, no kuras izdarīta vai varēja tikt izdarīta apgādnieka pensijas pārrēķināšana."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "48",
+      "title": "Pensijas aprēķināšana nepilna darba stāža gadījumā",
+      "content": "Pensijas nepilna darba stāža gadījumā ( 15. , 22. , 31. pants ) piešķir darba stāžam proporcionālā apmērā.\nPensijas aprēķina šādi:\nvispirms nosaka attiecīgo pilno pensiju. Šo pensiju dala ar nepieciešamā pilnā darba stāža mēnešu skaitu, iegūto summu reizina ar pensijas pieprasītāja nostrādātā faktiskā darba stāža mēnešu skaitu (šajā stāžā periodu, kas ir ilgāks par 15 dienām, noapaļo līdz pilnam mēnesim, bet periodu līdz 15 dienām ieskaitot neņem vērā).\nJa ar pilnu darba stāžu būtu paredzēta minimālā pensija, kas noteikta ar šo likumu ( 13. , 20. un 30. pants ), tad gadījumos, ja nav pilna darba stāža, pensiju piešķir proporcionāli esošajam stāžam, balstoties uz minimālo pensijas apmēru, taču jebkurā gadījumā ne mazāku par sociālo pensiju, kas noteikta attiecīgās kategorijas darba nespējīgajām personām."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "49",
+      "title": "Ģimenes locekļi, par kuriem aprēķina piemaksas",
+      "content": "Piemaksas pie pensijām piešķiramas pensionāriem, kuru apgādībā ir nepilngadīgi bērni.\nJa ģimenē ir divi pensionāri, kuru kopīgā apgādībā ir divi vai vairāki nepilngadīgi bērni, piemaksu par katru no bērniem aprēķina tikai vienam no pensionāriem pēc viņu izvēles."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "50",
+      "title": "Pensijas aprēķināšana no lielākās izpeļņas",
+      "content": "Pensionāriem, kas pēc vecuma vai invaliditātes pensijas piešķiršanas ne mazāk kā divus gadus nostrādājuši ar lielāku izpeļņu nekā tā, no kuras aprēķināta pensija, pēc pensionāra iesnieguma nosaka jaunu pensijas apmēru, ievērojot lielāko izpeļņu. Vidējo izpeļņu nosaka par pēdējiem pieciem darba gadiem pirms pensijas pārrēķina pieprasīšanas saskaņā ar šā likuma 40. — 44. pantu .\nAr tādiem pašiem noteikumiem pārrēķina pensiju, kas piešķirta minimālā apmērā sakarā ar to, ka nav bijis izpeļņas.\nJa pensionāra izpeļņa turpmāk palielinās, pēc viņa iesnieguma izdara jaunu pensijas pārrēķināšanu. Katra nākamā pensijas pārrēķināšana tiek izdarīta ne agrāk kā divus darba gadus pēc iepriekšējās pārrēķināšanas."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "51",
+      "title": "Pensijas palielināšana, ja pensionārs pēc pensijas piešķiršanas turpina strādāt",
+      "content": "Ja pensijas saņēmējs pēc pensijas piešķiršanas turpina strādāt, piešķirtā pensija pārrēķināma par katru pilnu nostrādāto darba gadu."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "52",
+      "title": "Pensiju pārrēķināšana, ja ir nepilns darba stāžs",
+      "content": "Ja pensionārs, kam piešķirta vecuma pensija vai I vai II grupas invaliditātes pensija par nepilnu darba stāžu, turpinādams strādāt, ieguvis stāžu, kas ir nepieciešams pilnas pensijas piešķiršanai, pēc pensionāra lūguma pensija pārrēķināma. Turklāt pilnu I vai Ii grupas invaliditātes pensiju piešķirt, ja pensionāram ir darba stāžs, kāds nepieciešams pilnas pensijas piešķiršanai atbilstoši pensionāra vecumam invaliditātes iestāšanās brīdī."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "53",
+      "title": "Piešķirtās pensijas pārrēķināšanas termini",
+      "content": "Piešķirto pensiju pārrēķina šādos termiņos;\n— gadījumos, kad iegūtas tiesības uz pensijas paaugstināšanu, — ar tā mēneša pirmo dienu, kurā pensionārs lūdzis pārrēķināt pensiju, ja attiecīgo iesniegumu ar visiem nepieciešamajiem dokumentiem viņš nodevis līdz 15. datumam ieskaitot, un ar nākamā mēneša pirmo datumu, ja iesniegums ar visiem nepieciešamajiem dokumentiem nodots pēc 15. datuma;\n— gadījumos, kad radušies apstākļi, kuru dēļ samazināta pensija, — ar tā mēneša pirmo dienu, kurā radušies šie apstākļi, ja tas noticis līdz 15. datumam ieskaitot, un ar nākamā mēneša pirmo dienu, ja tas noticis pēc 15. datuma;\n— invaliditātes grupas maiņas gadījumā — ar grupas maiņas datumu."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "PENSIJU APRĒĶINĀŠANA",
+      "section": "54",
+      "title": "Pensiju palielināšana sakarā ar darba algas pieaugumu un dzīves izmaksu indeksa mainīšanos",
+      "content": "Pensijas, kas aprēķinātas no izpeļņas saskaņā ar šo likumu, tiek paaugstinātas atbilstoši dzīves izmaksu indeksa un darba algas izmaiņām Latvijas Republikas likumdošanas aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "PENSIJU PIEŠĶIRŠANA",
+      "section": "55",
+      "title": "Pensijas pieprasīšanas kārtība",
+      "content": "Iesniegumu par pensijas piešķiršanu pilsoņiem un viņu ģimenes locekļiem (apgādnieka zaudējuma gadījumā) iesniedz ar pēdējās darbavietas administrācijas starpniecību.\nDarba devējs 10 dienu laikā pēc iesnieguma saņemšanas noformē nepieciešamos dokumentus un kopā ar savu ieteikumu nosūta tos rajona (pilsētas) sociālas nodrošināšanas nodaļai pensijas pieprasītāju dzīvesvietā.\nJa darba devējs atsakās ierosināt pensijas piešķiršanu, viņš par to paziņo rakstveidā, norādot atteikuma iemeslus.\nCitos gadījumos iesniegumu par pensijas piešķiršanu iesniedz sociālās nodrošināšanas nodaļā pieprasītāja dzīvesvietā.\nSociālās nodrošināšanas nodaļām ir tiesības pieprasīt attiecīgos dokumentus no darba devēja, organizācijām, iestādēm un atsevišķām personām un, ja nepieciešams, pārbaudīt to izsniegšanas pamatotību."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "PENSIJU PIEŠĶIRŠANA",
+      "section": "56",
+      "title": "Iestādes, kas piešķir pensiju",
+      "content": "Pensijas piešķir pensiju piešķiršanas komisijas, ko izveido rajonu (pilsētu) Tautas deputātu padomes.\nPensiju piešķiršanas komisijas pilnvarojumā, tās vārdā pensijas var piešķirt vienpersoniski komisijas loceklis — sociālās nodrošināšanas nodaļas vadītājs. Pēc pensijas pieprasītāja un citu ieinteresēto personu un organizāciju prasības jautājumu par pensijas piešķiršanu izlemj pensiju piešķiršanas komisija."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "PENSIJU PIEŠĶIRŠANA",
+      "section": "57",
+      "title": "Termiņi, kādos jāizskata dokumenti par pensiju piešķiršanu",
+      "content": "Iestādes, kas piešķir pensijas ( 56. pants ), dokumentus par pensiju piešķiršanu izskata ne vēlāk kā 10 dienu laikā pēc to saņemšanas.\nSociālās nodrošināšanas nodaļa ne vēlāk kā 5 dienu laikā pēc attiecīgā lēmuma pieņemšanas izsniedz vai nosūta uzņēmumam, organizācijai vai pieprasījuma iesniedzējam paziņojumu par atteikumu piešķirt pensiju, norādot atteikuma iemeslus un pārsūdzēšanas kārtību, un vienlaicīgi atdod vai nosūta atpakaļ visus dokumentus."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "PENSIJU PIEŠĶIRŠANA",
+      "section": "58",
+      "title": "Pensijas piešķiršanas termiņi",
+      "content": "Vecuma pensijas piešķir uz mūžu.\nInvaliditātes pensijas piešķir uz visu darba ekspertīzes ārstu komisijas noteikto invaliditātes laiku.\nApgādnieka zaudējuma pensijas piešķir uz laiku, kamēr mirušā ģimenes loceklis tiek uzskatīts par darba nespējīgu saskaņā ar šā likuma 24. pantu .\nVidējo un augstāko mācību iestāžu dienas nodaļu audzēkņiem apgādnieka zaudējuma pensiju ir tiesības saņemt līdz minēto mācību iestāžu beigšanai, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai.\nPensijas piešķir ar to dienu, kad iesniegts pensijas pieprasījums, izņemot gadījumus, kad pensijas piešķir ar agrāku termiņu;\n1) vecuma un invaliditātes pensijas piešķir ar pensijas vecuma sasniegšanas dienu vai ar to dienu, kad darba ekspertīzes ārstu komisija noteikusi invaliditāti, ja pensijas pieprasījums iesniegts ne vēlāk kā 3 mēnešus pēc pensijas vecuma sasniegšanas vai invaliditātes noteikšanas,\n2) apgādnieka zaudējuma pensijas piešķir ar dienu, kad radušās tiesības uz pensiju, taču ne agrāk kā 12 mēnešus pirms pensijas pieprasījuma iesniegšanas."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "PENSIJU PIEŠĶIRŠANA",
+      "section": "59",
+      "title": "Pensiju piešķiršanas komisijas lēmumu pārsūdzēšana",
+      "content": "Sūdzības par pensiju piešķiršanas komisijas lēmumiem var iesniegt rajona (pilsētas) Tautas deputātu padomei. Strīdi par šajā likumā paredzēto tiesību realizēšanu izskatāmi tiesā pēc ieinteresētā pilsoņa sūdzības, kā arī darba devēja vai prokurora pieteikuma."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "PENSIJU IZMAKSĀŠANA",
+      "section": "60",
+      "title": "Pensijas izmaksāšana dzīvesvietā",
+      "content": "Pensionāriem pensiju izmaksā sociālās nodrošināšanas iestādes pensionāra pastāvīgajā dzīvesvietā."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "PENSIJU IZMAKSĀŠANA",
+      "section": "61",
+      "title": "Pensionāra pienākumi",
+      "content": "Pensionāriem, kas saņem apgādnieka zaudējuma pensiju vai piemaksu pie pensijas par darba nespējīgajiem ģimenes locekļiem, jāziņo sociālās nodrošināšanas nodaļai par pārmaiņām to ģimenes locekļu sastāvā, par kuriem tiek maksāta pensija vai piemaksa pie pensijas."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "PENSIJU IZMAKSĀŠANA",
+      "section": "62",
+      "title": "Pensijas izmaksāšana par pagājušo laiku",
+      "content": "Aprēķinātās pensijas summas, ko pensionārs laikā nav saņēmis, izmaksā par pagājušo laiku, bet ne ilgāku par trim gadiem pirms pensijas pieprasījuma iesniegšanas.\nJa pensijas summas nav laikā saņemtas tās iestādes vainas dēļ, kas piešķir vai izmaksā pensiju, šīs summas izmaksā par pagājušo laiku bez jebkāda termiņa ierobežojuma."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "PENSIJU IZMAKSĀŠANA",
+      "section": "63",
+      "title": "Pensijas izmaksāšana pansionātos dzīvojošiem pensionāriem",
+      "content": "(Izslēgts ar 21.09.1995 . likumu, kas stājas spēkā 01.10.1995. )"
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "PENSIJU IZMAKSĀŠANA",
+      "section": "64",
+      "title": "Ieturējumi no pensijām",
+      "content": "Ieturējumus no pensijām var izdarīt:\n1) pamatojoties uz tiesas spriedumiem un nolēmumiem, kā arī notariāta kantoru izpildrakstiem un citiem lēmumiem un nolēmumiem, kurus saskaņā ar Latvijas Republikas likumdošanas aktiem izpilda tiesas lēmumu izpildīšanas noteiktajā kārtībā;\n2) pamatojoties uz pensiju piešķiršanas komisiju lēmumiem, lai piedzītu tās pensiju summas, kas pensionāram pārmaksātas viņa ļaunprātīgas rīcības dēļ (ja viņš iesniedzis dokumentus ar apzināti nepareizām ziņām, nav sniedzis ziņas par pārmaiņām ģimenes locekļu sastāvā).\nNekādi citi ieturējumi no pensijām, izņemot minētos, nav atļauti. Ieturējumus no pensijas aprēķina no summas, kas jāizmaksā pensionāram.\nNo pensijas drīkst ieturēt ne vairāk kā 50 procentus, lai uzturētu ģimenes locekļus (alimenti), atlīdzināt uzņēmumu un organizāciju mantas izlaupīšanas radītos zaudējumus, kompensētu kaitējumu, kas radies sakarā ar sakropļojumu vai citu veselības bojājumu, kā arī sakarā ar apgādnieka nāvi un lai atmaksātu pārmaksātās darba algas summas likumā paredzētajos gadījumos.\nVisos pārējos piedziņas veidos var ieturēt ne vairāk kā 20 procentus pensijas.\nIeturējumi saskaņā ar pensiju piešķiršanas komisiju lēmumiem tiek izdarīti apmērā, kas nav lielāks par 20 procentiem no pensijas, papildus ieturējumiem citu iemeslu dēļ.\nVisos gadījumos, kad uz pensiju tiek vērsta piedziņa, pensionāram atstājami vismaz 50 procenti no pensijas, kas viņam pienākas. Gadījumā, ja pensijas izmaksāšana tiek izbeigta (piemēram, darbaspēju atjaunošanās rezultātā) pirms tam, kad dzēsts parāds, kas radies sakarā ar pārmaksātām pensijas summām, kuras ieturamas, pamatojoties uz pensiju piešķiršanas komisijas lēmumu, atlikusī parāda daļa piedzenama likumdošanā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "PENSIJU IZMAKSĀŠANA",
+      "section": "65",
+      "title": "Sakarā ar pensionāra nāvi nesaņemtās pensijas un apbedīšanas pabalsta izmaksāšana",
+      "content": "Pensijas summas, kas pienākas pensionāram un nav izmaksātas sakarā ar viņa nāvi, ir tiesības saņemt vecākiem, laulātajam un bērniem, kā arī ģimenes locekļiem, kas pensionāra nāves dienā dzīvojuši kopā ar viņu ( 24. — 27. pants ).\nJa pēc pensijas griežas vairāki ģimenes locekļi, pensijas summa, kas viņiem pienākas, sadalāma vienādās daļās.\nPensionāra nāves gadījumā viņa ģimenei vai personai, kas uzņēmusies apbedīšanu, izmaksā apbedīšanas pabalstu divu mēnešu pensijas apmērā."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "SOCIĀLĀS PENSIJAS",
+      "section": "66",
+      "title": "Pensijas apmēri",
+      "content": "Sociālās pensijas piešķir nestrādājošiem pilsoņiem šādos apmēros mēnesī:\n1) I grupas invalīdiem, invalīdiem kopš bērnības un bērniem invalīdiem līdz 16 gadu vecumam — oficiālā iztikas minimuma līmenī,\n2) vīriešiem, kas sasnieguši 65 gadu vecumu, un sievietēm, kas sasniegušas 60 gadu vecumu, II grupas invalīdiem — 80 procentu apmērā no oficiālā iztikas minimuma,\n3) bērniem apgādnieka zaudējuma gadījumā par katru bērnu — 80 procentu apmērā no oficiālā iztikas minimuma,\n4) III grupas invalīdiem — 50 procentu apmērā no oficiālā iztikas minimuma.\nMedicīnisko indikāciju sarakstu, kuras dod tiesības saņemt sociālo pensiju bērniem invalīdiem līdz 16 gadu vecumam, noteiktā kārtībā sastāda Latvijas Republikas Ministru Padome,\n5) ārvalstu pilsoņiem un personām bez pilsonības: vīriešiem, kuri sasnieguši 65 gadu vecumu, un sievietēm — 60 gadu vecumu, ja viņiem nav tiesību uz darba pensiju ( 1. , 44. pants ), — 50 procentu apmērā no oficiālā iztikas minimuma."
+    },
+    {
+      "provision_ref": "Art. 66.1",
+      "chapter": "SOCIĀLĀS PENSIJAS",
+      "section": "66.1",
+      "title": "66. 1 pants. Piemaksas pie pensijas",
+      "content": "Pie sociālās pensijas I un II grupas invalīdiem kopš bērnības un bērniem invalīdiem līdz 16 gadu vecumam nosaka piemaksu par invalīdu ārstēšanu un kopšanu — oficiālā iztikas minimuma līmenī, izņemot to periodu, kurā invalīds atrodas pansionātā."
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "SOCIĀLĀS PENSIJAS",
+      "section": "67",
+      "title": "Pensiju piešķiršanas un izmaksāšanas kārtība",
+      "content": "Piešķirot un izmaksājot sociālās pensijas, piemēro attiecīgi šā likuma 55. — 65. pantu ."
+    },
+    {
+      "provision_ref": "Art. 67.1",
+      "chapter": "SOCIĀLĀS PENSIJAS",
+      "section": "67.1",
+      "title": "67. 1 pants. Pensiju izmaksa bērniem, kuri atrodas pilnīgā valsts apgādībā",
+      "content": "Bērniem, kuri atrodas pilnīgā valsts apgādībā, pensiju izmaksā 15 procentu apmērā, pārskaitot naudu bērna personiskajā kontā"
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "VIETĒJO TAUTAS DEPUTĀTU PADOMJU UN DARBA DEVĒJU TIESĪBAS UN PIENĀKUMI",
+      "section": "68",
+      "title": "Vietējo Tautas deputātu padomju tiesības un pienākumi",
+      "content": "Rajonu un pilsētu Tautas deputātu padomes par attiecīgo vietējo budžetu līdzekļiem savu tiesību ietvaros var noteikt pensionāriem un invalīdiem papildu atvieglojumus.\nRajonu un pilsētu Tautas deputātu padomēm ir pienākums sekot, lai nepilngadīgajiem piešķirtās apgādnieka zaudējuma pensijas tiktu izlietotas nepilngadīgo uzturēšanai."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "VIETĒJO TAUTAS DEPUTĀTU PADOMJU UN DARBA DEVĒJU TIESĪBAS UN PIENĀKUMI",
+      "section": "69",
+      "title": "Darba devēju tiesības",
+      "content": "Darba devējam ir tiesības, izmantojot savus līdzekļus, risināt jautājumus, kuri saistīti ar strādājošo veterānu un invalīdu, kā arī citu pensionāru dzīves apstākļu uzlabošanu."
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "VIETĒJO TAUTAS DEPUTĀTU PADOMJU UN DARBA DEVĒJU TIESĪBAS UN PIENĀKUMI",
+      "section": "70",
+      "title": "Iestādes, kas realizē pensiju piešķiršanu un izmaksāšanu",
+      "content": "Saskaņā ar šo likumu pensiju piešķiršanu un izmaksāšanu realizē sociālās nodrošināšanas iestādes. Republikas Sociālās nodrošināšanas ministrija nodrošina šā likuma vienveidīgu piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "V SADAĻA",
+      "section": "71",
+      "title": "Latvijas Republikas un citu valstu vienošanās vai līgumi par sociālo nodrošināšanu",
+      "content": "Gadījumos, kad Latvijas Republikas un citu valstu vienošanās vai Ilgumi par sociālo nodrošināšanu paredz citādus noteikumus nekā šajā likumā ietvertie, piemēro noteikumus, ko paredz šīs vienošanās vai līgumi."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,982 @@
+{
+  "id": "lv-law-20243",
+  "type": "statute",
+  "title": "Vispārējās izglītības likums",
+  "title_en": "General Education Law",
+  "short_name": "TA-20243",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/20243-visparejas-izglitibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā lietotie termini atbilst Izglītības likumā lietotajiem terminiem, ja šajā likumā nav noteikts citādi.\n(2) Likumā ir lietoti šādi termini:\n1) apliecība par pamatizglītību — izglītības dokuments, kas apliecina pamatizglītības programmas apguvi;\n2) atestāts par vispārējo vidējo izglītību — izglītības dokuments, kas apliecina vispārējās vidējās izglītības programmas apguvi;\n3) liecība — dokuments, kas apliecina pamatizglītības vai vispārējās vidējās izglītības programmas daļas apguvi;\n4) (izslēgts ar 09.07.2013 . likumu) ;\n4 1 ) mācību joma — saturiski saistītu mācību priekšmetu kopums, kas ietver būtiskākās zināšanas, prasmes un attieksmes nozīmīgos cilvēka darbības virzienos;\n4 2 ) mācību organizācijas forma — noteiktā kārtībā notiekoša pedagoga un izglītojamā sadarbība, kas reglamentē pedagoga un izglītojamā kopīgo darbību un ir īstenojama kā mācību stunda, rotaļnodarbība, praktikums, spēle, rotaļa, nodarbība dabā vai mācību ekskursija;\n5) mācību priekšmets — noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības. Mācību priekšmetus apvieno mācību jomās;\n6) mācību stundu (nodarbību) slodze — izglītības programmā ietvertais regulāri apmeklējamo mācību stundu skaits mācību nedēļā;\n7) (izslēgts no 01.09.2019. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 35. punktu) ;\n8) sociālā korekcija — izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā ar sociālās uzvedības novirzēm;\n9) pagarinātās dienas grupa — izglītības iestādes nodrošināta iespēja izglītojamajiem saņemt pedagoģisku palīdzību un organizēti pavadīt brīvo laiku ārpus obligātajām mācību stundām;\n10) sekmju izraksts — dokuments, kas parāda izglītojamā mācību sasniegumu vērtējumu mācību priekšmetos;\n11) pamatizglītības vai vispārējās vidējās izglītības sertifikāts — dokuments, kas apliecina izglītojamā mācību sasniegumus mācību priekšmetā, kurā ir organizēts centralizēts eksāmens;\n12) centralizēts eksāmens — pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts valsts pārbaudes darbs izglītojamo mācību sasniegumu novērtēšanai noteiktā mācību priekšmetā pamatizglītības un vispārējās vidējās izglītības programmā;\n13) vērtējums — izglītības programmā noteikto zināšanu, prasmju un iemaņu apguves līmeņa apliecinājums;\n14) speciālās vajadzības — nepieciešamība saņemt tāda veida atbalstu un rehabilitāciju, kas rada iespēju izglītojamajam apgūt izglītības programmu, ņemot vērā viņa veselības stāvokli, spējas un attīstības līmeni;\n14 1 ) speciālās izglītības attīstības centrs — pašvaldības dibināta speciālās izglītības iestāde, kurai piešķirts speciālās izglītības attīstības centra statuss un kurā tiek sniegts konsultatīvs un metodisks atbalsts izglītojamiem ar speciālām vajadzībām, tai skaitā pirmsskolas vecuma bērniem, viņu likumiskajiem pārstāvjiem un pedagogiem;\n15) starptautiska testēšanas institūcija — institūcija, kas nodrošina pārbaudījumu svešvalodā un izsniedz dokumentu par pārbaudījuma rezultātiem, kuri pielīdzināti Eiropas kopīgajās pamatnostādnēs valodu apguvei noteiktajiem valodas prasmes līmeņiem."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir reglamentēt valsts, pašvaldību izglītības iestāžu un citu vispārējās izglītības īstenošanas procesā iesaistīto personu darbību, noteikt to tiesības un pienākumus, kā arī radīt apstākļus radošas, vispusīgi izglītotas personības veidošanai, izglītojamo nepārtrauktai izglītības turpināšanai, profesijas apguvei, patstāvīgai orientācijai sabiedriskajā un valsts dzīvē."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Vispārējās izglītības pakāpes un veidi",
+      "content": "(1) Vispārējā izglītība tiek īstenota šādās vispārējās izglītības pakāpēs:\n1) pirmsskolas izglītība;\n2) pamatizglītība;\n3) vidējā izglītība.\n(2) Vispārējās izglītības īpašie veidi ir šādi:\n1) speciālā izglītība;\n2) sociālā korekcija;\n3) (izslēgts no 01.09.2019. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 35. punktu) ."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Vispārējās izglītības organizācija",
+      "section": "4",
+      "title": "Ministru kabineta kompetence",
+      "content": "Ministru kabinets:\n1) nosaka vispārējās izglītības programmu licencēšanas un akreditācijas kārtību;\n2) pēc izglītības un zinātnes ministra ierosinājuma dibina, reorganizē un likvidē valsts vispārējās izglītības iestādes, arī valsts speciālās izglītības iestādes;\n3) (izslēgts ar 16.06.2009 . likumu) ;\n3 1 ) nosaka kārtību, kādā aprēķina un sadala valsts budžeta mērķdotāciju pašvaldību vispārējās pamatizglītības un vispārējās vidējās izglītības iestāžu, kā arī valsts augstskolu vispārējās vidējās izglītības iestāžu pedagogu darba samaksai;\n3 2 ) nosaka kārtību, kādā aprēķina un sadala valsts budžeta mērķdotāciju pašvaldību izglītības iestādēm bērnu no piecu gadu vecuma izglītošanā nodarbināto pirmsskolas izglītības pedagogu darba samaksai;\n3 3 ) nosaka kārtību, kādā valsts finansē darba samaksu pedagogiem, kuri privātajās izglītības iestādēs īsteno bērniem no piecu gadu vecuma līdz pamatizglītības ieguves uzsākšanai paredzētās pirmsskolas izglītības programmas.\n4) (izslēgts ar 16.06.2009 . likumu) ;\n5) nosaka kritērijus un kārtību, kādā tiek piešķirts un anulēts valsts ģimnāzijas statuss;\n6) nosaka kritērijus, pēc kuriem pedagoģiski medicīniskā komisija sniedz atzinumu par izglītojamam ar speciālām vajadzībām atbilstošāko izglītības programmu;\n7) nosaka kritērijus un kārtību, kādā speciālajām izglītības iestādēm tiek piešķirts speciālās izglītības attīstības centra statuss;\n8) nosaka valsts un pašvaldību pedagoģiski medicīnisko komisiju kompetenci un profesionālās prasības komisijas locekļiem;\n8 1 ) nosaka valsts un pašvaldību pedagoģiski medicīnisko komisiju informācijas sistēmas saturu, tās izveidošanas, uzturēšanas un aktualizācijas kārtību;\n9) nosaka kārtību, kādā izglītojamie atbrīvojami no noteiktajiem valsts pārbaudījumiem;\n10) (izslēgts ar 16.06.2005 . likumu) ;\n11) nosaka valsts vispārējās izglītības standartus;\n11 1 ) nosaka vispārējās izglītības mācību jomu nosaukumus;\n12) katru mācību gadu atbilstoši valsts vispārējās izglītības standartiem nosaka valsts pārbaudes darbu norises laiku un kārtību;\n12 1 ) nosaka kārtību, kādā svešvalodas centralizēto eksāmenu vispārējās vidējās izglītības programmā aizstāj ar starptautiskas testēšanas institūcijas pārbaudījumu svešvalodā, un apstiprina starptautisko testēšanas institūciju sarakstu, nosaka šo testēšanas institūciju izdotajos dokumentos norādīto pārbaudījumu vērtējumu atbilstību svešvalodas centralizētā eksāmena vērtējumam;\n13) nosaka mācību sasniegumu vērtēšanas kārtību speciālās izglītības programmās;\n14) (izslēgts ar 16.06.2009 . likumu) ;\n15) nosaka kārtību, kādā notiek ilgstoši slimojošu izglītojamo izglītošanās ārpus izglītības iestādes;\n16) nosaka mācību gada un mācību semestru sākuma un beigu laiku, kā arī brīvdienu laiku;\n17) nosaka obligāto dokumentāciju, kas nepieciešama vispārējās izglītības iestāžu pedagoģiskā procesa organizācijai;\n18) nosaka kārtību, kādā izglītojamie tiek uzņemti vispārējās izglītības programmās un atskaitīti no tām, kā arī obligātās prasības šajās programmās izglītojamo pārcelšanai uz nākamo klasi;\n18 1 ) nosaka kārtību, kādā organizējamas mācību priekšmetu olimpiādes;\n19) veic citas šajā likumā un Izglītības likumā noteiktās ar vispārējo izglītību saistītās funkcijas."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Vispārējās izglītības organizācija",
+      "section": "5",
+      "title": "Izglītības un zinātnes ministrijas kompetence",
+      "content": "Izglītības un zinātnes ministrija:\n1) izstrādā vispārējās izglītības programmu un mācību priekšmetu programmu paraugus;\n2) (izslēgts ar 16.06.2005 . likumu) ;\n3) (izslēgts ar 16.06.2005 . likumu) ;\n4) organizē vispārējās izglītības satura un metodikas izstrādi;\n5) izvērtē un apstiprina mācību procesā izmantojamo mācību literatūru;\n6) (izslēgts ar 16.06.2005 . likumu) ;\n7) (izslēgts ar 16.06.2005 . likumu) ;\n8) (izslēgts ar 16.06.2005 . likumu) ;\n9) (izslēgts ar 11.10.2007 . likumu) ;\n10) (izslēgts ar 16.06.2005 . likumu) ;\n11) (izslēgts ar 16.06.2005 . likumu) ;\n12) (izslēgts ar 16.06.2005 . likumu) ;\n13) (izslēgts ar 16.06.2005 . likumu) ;\n14) (izslēgts ar 16.06.2005 . likumu) ;\n15) (izslēgts ar 16.06.2005 . likumu) ;\n16) (izslēgts ar 16.06.2005 . likumu) ;\n17) (izslēgts ar 16.06.2005 . likumu) ;\n18) veic citas šajā likumā un Izglītības likumā noteiktās funkcijas."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Vispārējās izglītības organizācija",
+      "section": "6",
+      "title": "Pašvaldību kompetence",
+      "content": "Pašvaldību kompetenci vispārējās izglītības īstenošanā nosaka Izglītības likums un citi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "7",
+      "title": "Vispārējās izglītības iestādes dibināšana, reorganizēšana un likvidēšana",
+      "content": "(1) Vispārējās izglītības iestādi dibina valsts, pašvaldības, valsts augstskolas, kā arī privātpersonas. Valsts augstskolas dibina vispārējās vidējās izglītības iestādi.\n(2) Vispārējās izglītības iestādi reorganizē un likvidē tās dibinātājs. Valsts vai pašvaldības vispārējās izglītības iestādi, kā arī valsts augstskolas vispārējās vidējās izglītības iestādi reorganizē un likvidē, saskaņojot ar Izglītības un zinātnes ministriju."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "8",
+      "title": "Vispārējās izglītības iestādes darbības tiesiskais pamats",
+      "content": "Vispārējās izglītības iestādes darbības tiesiskais pamats ir šis likums, Izglītības likums , citi normatīvie akti, kā arī tās nolikums."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "9",
+      "title": "Vispārējās izglītības iestādes nolikums",
+      "content": "(1) Vispārējās izglītības iestādes nolikumā norāda:\n1) izglītības iestādes nosaukumu, tās juridisko adresi;\n2) izglītības iestādes dibinātāju, tās juridisko statusu;\n3) izglītības iestādes darbības mērķus, pamatvirzienus un uzdevumus;\n4) izglītības iestādē īstenojamās izglītības programmas;\n5) izglītības procesa organizāciju;\n6) izglītojamo tiesības un pienākumus;\n7) pedagogu un citu darbinieku tiesības un pienākumus;\n8) (izslēgts ar 09.07.2013 . likumu) ;\n9) izglītības iestādes pašpārvaldes izveidošanas kārtību un kompetenci;\n10) izglītības iestādes pedagoģiskās padomes izveidošanas kārtību un kompetenci;\n11) izglītības iestādes iekšējo normatīvo aktu pieņemšanas kārtību un iestādi vai pārvaldes amatpersonu, kurai privātpersona, iesniedzot attiecīgu iesniegumu, var apstrīdēt izglītības iestādes izdotu administratīvo aktu vai faktisko rīcību;\n12) izglītības iestādes saimniecisko darbību;\n13) izglītības iestādes finansēšanas avotus un kārtību;\n14) izglītības iestādes reorganizācijas un likvidācijas kārtību;\n15) izglītības iestādes nolikuma un tā grozījumu pieņemšanas kārtību;\n16) citus būtiskus noteikumus, kas nav pretrunā ar šo likumu, Izglītības likumu un citiem normatīvajiem aktiem.\n(2) Vispārējās izglītības iestādes nolikumu apstiprina tās dibinātājs."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "10",
+      "title": "Vispārējās izglītības iestādes darbība",
+      "content": "(1) Vispārējās izglītības iestādes pamatuzdevums ir vispārējās izglītības programmu īstenošana. Vispārējās izglītības iestāde var īstenot vienu vai vairākas izglītības programmas.\n(2) Vispārējās izglītības iestāde saskaņā ar šo likumu, Izglītības likumu un citiem normatīvajiem aktiem, kā arī tās dibinātāja apstiprinātu nolikumu patstāvīgi:\n1) organizē un īsteno izglītošanas procesu;\n2) izvēlas izglītošanas darba metodes un formas.\n(3) Vispārējās izglītības iestāde ir tiesīga patstāvīgi:\n1) īstenot interešu, tālākizglītības un citas izglītības programmas;\n2) izstrādāt iestādes iekšējos normatīvos aktus;\n3) sniegt ēdināšanas pakalpojumus;\n4) sniegt dienesta viesnīcu, internātu pakalpojumus;\n5) veikt saimniecisko un citāda veida darbību, ja tas netraucē vispārējās izglītības programmu īstenošanu."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "11",
+      "title": "Vispārējās izglītības iestādes vadība",
+      "content": "(1) Vispārējās izglītības iestādi vada tās vadītājs.\n(2) Vispārējās izglītības iestādes vadītājs ir atbildīgs par:\n1) izglītības programmu īstenošanu;\n2) izglītības iestādes nodrošināšanu ar pedagogiem;\n3) izglītojamo speciālo vajadzību apzināšanu un viņu izglītošanu atbilstoši speciālās izglītības programmām;\n4) izglītības iestādes darbības nodrošināšanu un tai noteikto uzdevumu izpildi;\n5) izglītības iestādes finansu un materiālo līdzekļu racionālu izmantošanu;\n6) normatīvo aktu ievērošanu izglītības iestādes darbībā.\n(3) Vispārējās izglītības iestādes vadītāju pieņem darbā un atbrīvo no darba attiecīgās izglītības iestādes dibinātājs."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "12",
+      "title": "Izglītības iestādes pedagoģiskā padome",
+      "content": "(1) Lai risinātu dažādus ar mācību un pedagoģisko procesu saistītus jautājumus, pamatizglītības un vispārējās vidējās izglītības iestādēs izveido pedagoģisko padomi. Pedagoģisko padomi vada izglītības iestādes vadītājs, un tās sastāvā ir visi iestādē strādājošie pedagogi un izglītības iestādes ārstniecības persona. Pedagoģiskās padomes sēdes sasauc ne retāk kā reizi pusgadā un to norisi protokolē.\n(2) Pedagoģiskā padome:\n1) veic pedagoģiskā procesa analīzi un izstrādā priekšlikumus tā rezultātu uzlabošanai;\n2) apspriež pedagoģiskā procesa organizācijas jautājumus un pedagoģisko pieredzi;\n3) veido vienotu pedagoģisko pozīciju pedagoģiskā procesa organizācijas pamatjautājumos;\n4) (izslēgts ar 21.06.2018 . likumu) ;\n5) izstrādā izglītības iestādes darbības plāna projektu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Vispārējās izglītības iestāde",
+      "section": "13",
+      "title": "Izglītības iestādes padome",
+      "content": "(Izslēgts ar 09.07.2013 . likumu, kas stājas spēkā 07.08.2013. )"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "14",
+      "title": "Vispārējo izglītību reglamentējošie dokumenti",
+      "content": "Vispārējās izglītības ieguvi, tās saturu un organizāciju atbilstoši izglītības veidam, pakāpei un mērķgrupai nosaka šādi dokumenti:\n1) valsts vispārējās izglītības standarts;\n1 1 ) valsts pirmsskolas izglītības vadlīnijas;\n2) (izslēgts ar 21.06.2018 . likumu) ;\n3) vispārējās izglītības programmas;\n4) vispārējās izglītības mācību priekšmetu programmas."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "15",
+      "title": "Valsts vispārējās izglītības standarts",
+      "content": "(1) Valsts vispārējās izglītības standarts atbilstoši izglītības pakāpei nosaka:\n1) vispārējās izglītības satura īstenošanas mērķus un uzdevumus;\n2) vispārējās izglītības saturā iekļaujamās vērtības;\n3) vispārējās izglītības obligāto saturu, tā apguves plānotos rezultātus mācību jomās un īstenošanas principus;\n4) izglītojamo mācību sasniegumu vērtēšanas pamatprincipus un iegūtās izglītības vērtēšanas kārtību.\n(2) Valsts vispārējās izglītības standarts ir obligāts ikvienam, kas izstrādā un īsteno vispārējās izglītības programmas, izņemot pirmsskolas izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 15.1",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "15.1",
+      "title": "15. 1 pants. Valsts pirmsskolas izglītības vadlīnijas",
+      "content": "(1) Valsts pirmsskolas izglītības vadlīnijas nosaka:\n1) pirmsskolas izglītības satura īstenošanas mērķus un uzdevumus;\n2) pirmsskolas izglītības saturā un procesā iekļaujamās vērtības;\n3) pirmsskolas izglītības obligāto saturu, tā apguves plānotos rezultātus mācību jomās un īstenošanas principus;\n4) pirmsskolas izglītības vērtēšanas pamatprincipus.\n(2) Valsts pirmsskolas izglītības vadlīnijas ir obligātas ikvienam, kas izstrādā un īsteno pirmsskolas izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "16",
+      "title": "Vispārējās izglītības mācību priekšmeta standarts",
+      "content": "(Izslēgts ar 21.06.2018 . likumu, kas stājas spēkā 18.07.2018. Sk. pārejas noteikumu 28. punktu)"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "17",
+      "title": "Vispārējās izglītības programma",
+      "content": "(1) Vispārējās izglītības programma ir dokuments, kurā atbilstoši Izglītības likumam , Ministru kabineta noteikumiem un valsts vispārējās izglītības standartam vai valsts pirmsskolas izglītības vadlīnijām noteikti:\n1) izglītības programmas īstenošanas mērķi un uzdevumi;\n2) izglītības saturs un tā apguves plānotie rezultāti mācību jomā vai daļā no jomas;\n3) prasības attiecībā uz iepriekš iegūto izglītību (izņemot pirmsskolas izglītības programmas);\n4) pedagoģiskā procesa organizācijas principi un īstenošanas plāns, tai skaitā atbilstoši mācību priekšmetiem;\n5) mācību vides raksturojums;\n6) izglītojamā mācību sasniegumu vērtēšanas kārtība;\n7) izglītības programmas īstenošanai nepieciešamā personāla, finanšu un materiālo līdzekļu izvērtējums un pamatojums.\n(2) Vispārējās izglītības programmas var izstrādāt to īstenotāji, ievērojot izglītības programmu klasifikāciju.\n(3) Vispārējās izglītības programmas apguvē tās īstenotāji izglītojamiem nodrošina sistēmisku atbalstu sociāli emocionālās kompetences attīstīšanai."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "18",
+      "title": "Vispārējās izglītības programmu licencēšana, akreditācija un reģistrācija",
+      "content": "(1) Izglītības iestāde drīkst īstenot tikai licencētas vispārējās izglītības programmas.\n(2) Vispārējās izglītības programmas licencējamas, akreditējamas un reģistrējamas Izglītības programmu reģistrā Izglītības likumā noteiktajā kārtībā.\n(3) (Izslēgta ar 21.06.2018 . likumu)\n(4) Lēmumu par vispārējās izglītības iestāžu un vispārējās izglītības programmu akreditāciju pieņem sešu mēnešu laikā no attiecīgā iesnieguma iesniegšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Vispārējās izglītības saturs",
+      "section": "19",
+      "title": "Vispārējās izglītības mācību priekšmeta programma",
+      "content": "(1) Mācību priekšmeta programma ir vispārējās izglītības programmas sastāvdaļa, kuru veido mācību priekšmeta:\n1) mērķi un uzdevumi;\n2) mācību saturs;\n3) mācību satura apguves secība un apguvei paredzētais laiks;\n4) mācību sasniegumu vērtēšanas formas un metodiskie paņēmieni;\n5) mācību satura apguvei izmantojamo mācību līdzekļu un metožu uzskaitījums.\n(2) Pedagogam ir tiesības izstrādāt mācību priekšmeta programmu atbilstoši valsts vispārējās izglītības standartam un vispārējās izglītības programmai, kurā ietverts šis mācību priekšmets, vai izraudzīties mācību priekšmeta programmu no mācību priekšmetu programmu paraugiem."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "20",
+      "title": "Pirmsskolas izglītības programma",
+      "content": "(1) Pirmsskolas izglītības programma nodrošina izglītojamā sagatavošanu pamatizglītības ieguvei, saturiski aptverot:\n1) individualitātes veidošanos;\n2) garīgo, fizisko un sociālo attīstību;\n3) iniciatīvas, zinātkāres, patstāvības un radošās darbības attīstību;\n4) veselības nostiprināšanu;\n5) psiholoģisko sagatavošanu pamatizglītības ieguves uzsākšanai;\n6) valsts valodas lietošanas pamatiemaņu apguvi.\n(2) Pirmsskolas izglītības programmu apgūst bērni līdz septiņu gadu vecumam.\n(3) Izglītības iestādes, kuras īsteno pirmsskolas izglītības programmas, sniedz individualizētu un personalizētu atbalstu valsts valodas prasmes apguvei izglītojamiem, kuriem tas nepieciešams."
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "20.1",
+      "title": "20. 1 pants. Pirmsskolas vecuma bērnu sagatavošanas obligātums",
+      "content": "(1) Bērniem no piecu gadu vecuma pirmsskolas izglītības programmas apguve ir obligāta.\n(1 1 ) Izglītības iestāde veic speciālo vajadzību izvērtēšanu katram izglītojamam, kas uzsāk obligāto izglītību izglītības iestādes īstenotajā pirmsskolas izglītības programmā, ņemot vērā Ministru kabineta noteikto izglītojamo speciālo vajadzību izvērtēšanas metodiku, un nodrošina nepieciešamos atbalsta pasākumus un palīdzību mācību satura apguvē izglītojamam ar speciālām vajadzībām.\n(2) Pašvaldības savā administratīvajā teritorijā nodrošina bērnu no piecu gadu vecuma sagatavošanu pamatizglītības ieguvei."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "21",
+      "title": "Pirmsskolas izglītības pieejamība",
+      "content": "(1) Vietējās pašvaldības savā administratīvajā teritorijā nodrošina vienlīdzīgu pieeju pirmsskolas izglītības iestādēm bērniem no pusotra gada vecuma.\n(2) Pašvaldības pienākums ir nodrošināt iespēju visās tās padotībā esošajās pirmsskolas izglītības iestādēs apgūt pirmsskolas izglītības programmu valsts valodā."
+    },
+    {
+      "provision_ref": "Art. 21.1",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "21.1",
+      "title": "21. 1 pants. Pirmsskolas vecuma bērnu sagatavošanas obligātums",
+      "content": "(Izslēgts ar 16.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "22",
+      "title": "Pirmsskolas izglītības programmas īstenošana",
+      "content": "Pirmsskolas izglītības programmu īsteno pirmsskolas izglītības iestādē vai citā izglītības iestādē, kā arī ģimenē, saņemot metodisku palīdzību izglītības iestādē, kura īsteno licencētu pirmsskolas izglītības programmu, vai pirmsskolas izglītības konsultatīvajā centrā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "23",
+      "title": "Valsts pirmsskolas izglītības centrs",
+      "content": "(Izslēgts ar 16.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "24",
+      "title": "Pirmsskolas izglītības konsultatīvie centri",
+      "content": "(1) Pirmsskolas izglītības konsultatīvie centri sniedz vecākiem un izglītības iestādēm konsultatīvu un metodisku palīdzību pirmsskolas vecuma bērnu izglītošanā un bērnu no piecu gadu vecuma sagatavošanā skolai.\n(2) Pirmsskolas izglītības konsultatīvo centru var izveidot kā pirmsskolas izglītības iestādes struktūrvienību vai kā patstāvīgu izglītības atbalsta iestādi.\n(3) Kārtību, kādā vecāki saņem konsultatīvu un metodisku palīdzību pirmsskolas izglītības konsultatīvajā centrā, nosaka dibinātājs."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "25",
+      "title": "Pirmsskolas izglītības iestādes dibināšanas nosacījumi",
+      "content": "(1) Pašvaldība vispārējo pirmsskolas izglītības iestādi var dibināt ne mazāk kā 10 attiecīgās pašvaldības administratīvajā teritorijā dzīvojošiem pirmsskolas vecuma bērniem, ja to pieprasa vecāki.\n(2) (Izslēgta ar 21.06.2018 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "26",
+      "title": "Izglītojamo uzņemšana pirmsskolas izglītības iestādēs",
+      "content": "(1) Pašvaldību vispārējās pirmsskolas izglītības iestādēs izglītojamos uzņem izglītības iestādes dibinātāja noteiktajā kārtībā, ievērojot Izglītības likuma un citu likumu noteikumus.\n(2) Speciālajās pirmsskolas izglītības grupās izglītojamos uzņem un no tām atskaita Ministru kabineta noteiktajā kārtībā.\n(3) Privātajās pirmsskolas izglītības iestādēs izglītojamo uzņemšanas kārtību nosaka dibinātājs.\n(4) Pirmsskolas izglītības iestādes nedrīkst rīkot iestājpārbaudījumus."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "27",
+      "title": "Izglītojamo skaits vispārējās pirmsskolas izglītības iestādes grupā",
+      "content": "(Izslēgts ar 16.06.2005 . likumu, kas stājas spēkā 12.07.2005. )"
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Pirmsskolas izglītība",
+      "section": "28",
+      "title": "Pirmsskolas vecuma izglītojamo mācību slodze",
+      "content": "(Izslēgts ar 01.12.2009 . likumu, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "29",
+      "title": "Pamatizglītības iestādes",
+      "content": "(1) Pamatizglītības iestādes ir izglītības iestādes, kas īsteno pamatizglītības programmas. Atkarībā no izglītības iestādes struktūras un mācību procesa organizācijas tās ir šādas:\n1) sākumskolas;\n2) pamatskolas.\n(2) Pamatizglītības programmu var apgūt arī speciālās izglītības iestādē, sociālās korekcijas izglītības iestādē, vidusskolā, tai skaitā tajā, kurai piešķirts valsts ģimnāzijas statuss, un Kultūras ministrijas padotībā esošā mākslas izglītības kompetences centrā. Pamatizglītības programmu var apgūt tehnikumā un profesionālajā vidusskolā Profesionālās izglītības likumā noteiktajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "30",
+      "title": "Pamatizglītības programmas īstenošana",
+      "content": "(1) Pilnu pamatizglītības programmu īsteno deviņu gadu laikā.\n(2) (Izslēgta ar 16.06.2005 . likumu)\n(2 1 ) Pamatizglītības programmu var īstenot divos posmos. Pamatizglītības pirmā posma izglītības programmu īsteno no 1. klases līdz 6. klasei, un pamatizglītības otrā posma izglītības programmu īsteno no 7. klases līdz 9. klasei.\n(3) Sākumskolās īsteno pamatizglītības pirmā posma izglītības programmas.\n(4) Pamatskolās īsteno pilnas pamatizglītības programmas.\n(5) (Izslēgta no 01.09.2025. ar 29.09.2022 . likumu, kas stājas spēkā 25.10.2022. Sk. pārejas noteikumu 50. punktu)\n(6) Izglītības iestāde var īstenot tās izstrādātu pamatizglītības programmu, kas kādā no mācību jomām vai daļā no jomas nosaka augstākus izglītības satura apguves plānotos rezultātus par valsts vispārējās izglītības standartā noteiktajiem vispārējās izglītības obligātā satura apguves plānotajiem rezultātiem. Izglītības iestāde ir tiesīga pretendēt uz papildu valsts budžeta finansējumu šādas izglītības programmas īstenošanā iesaistīto pedagogu darba samaksai, ja pamatizglītības programma, kā arī sasniegtie rezultāti izglītības satura apguvē triju gadu periodā attiecīgajā mācību jomā atbilst Ministru kabineta prasībām.\n(7) Ministru kabinets nosaka prasības to pamatizglītības programmu izstrādei, kuras kādā no mācību jomām vai daļā no jomas nosaka augstākus izglītības satura apguves plānotos rezultātus par valsts vispārējās izglītības standartā noteiktajiem vispārējās izglītības obligātā satura apguves plānotajiem rezultātiem, prasības izglītības satura apguvē sasniedzamajiem rezultātiem mācību jomā vai daļā no jomas, kā arī nosacījumus un kārtību, kādā piešķir papildu valsts budžeta finansējumu šo pamatizglītības programmu īstenošanā iesaistīto pedagogu darba samaksai.\n(8) Izglītības iestādes, kuras īsteno pamatizglītības programmas, sniedz individualizētu un personalizētu atbalstu valsts valodas prasmes apguvei izglītojamiem, kuriem tas nepieciešams."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "31",
+      "title": "Izglītojamo uzņemšana pamatizglītības programmā",
+      "content": "(1) Izglītības iestāde, kura īsteno pamatizglītības programmas, nedrīkst rīkot iestājpārbaudījumus izglītojamo uzņemšanai no 1. klases līdz 9. klasei, izņemot šā panta otrajā un trešajā daļā minētos gadījumus.\n(2) Valsts ģimnāzijas uzņem izglītojamos pamatizglītības otrā posma izglītības programmas 7. klasē un brīvajās vietās 8. un 9. klasē, ievērojot Ministru kabineta noteiktos nosacījumus un kārtību izglītojamo uzņemšanas organizēšanai un norisei. Izglītojamo uzņemšanu valsts ģimnāzijā nosaka ar dibinātāju saskaņoti izglītojamo uzņemšanas noteikumi.\n(3) Valsts izglītības iestāde, kurā vienlaikus ar vispārējās pamatizglītības programmu īsteno arī profesionālās ievirzes izglītības programmu, ar dibinātāja atļauju ir tiesīga noteikt uzņemšanas prasības, atbilstība kurām ir nepieciešama, lai izglītojamais spētu uzsākt profesionālās ievirzes izglītības programmas apgūšanu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "32",
+      "title": "Pamatizglītības obligātums",
+      "content": "(1) Pamatizglītības ieguve ir obligāta.\n(2) Pamatizglītības ieguvi sāk tajā kalendārajā gadā, kurā izglītojamajam aprit 7 gadi.\n(3) Atkarībā no veselības stāvokļa un psiholoģiskās sagatavotības izglītojamais var sākt pamatizglītības ieguvi vienu gadu agrāk saskaņā ar vecāku vēlmēm vai vienu gadu vēlāk, pamatojoties uz ģimenes ārsta atzinumu.\n(4) Iestādes, kurās uzturas izglītojamie līdz 18 gadu vecumam (bērnu aprūpes iestādes, patversmes, ārstniecības iestādes, ieslodzījuma vietas, patvēruma meklētāju izmitināšanas centri u.tml.), nodrošina pamatizglītības programmas apguves iespējas.\n(5) (Izslēgta ar 16.06.2005 . likumu, kas stājas spēkā 12.07.2005 )"
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "33",
+      "title": "Mācību stundu slodze pamatizglītības programmā",
+      "content": "Mācību stundu slodze nedēļā vienā pamatizglītības programmā nedrīkst pārsniegt:\n1) 1.klasē - 22 mācību stundas;\n2) 2.klasē - 23 mācību stundas;\n3) 3.klasē - 24 mācību stundas;\n4) 4.klasē - 26 mācību stundas;\n5) 5.klasē - 28 mācību stundas;\n6) 6.klasē - 30 mācību stundas;\n7) 7.klasē - 32 mācību stundas;\n8) 8. un 9.klasē - 34 mācību stundas."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "34",
+      "title": "Mācību stundu skaits dienā pamatizglītības programmā",
+      "content": "Dienā mācību stundu skaits pamatizglītības programmā nedrīkst pārsniegt:\n1) no 1.klases līdz 3.klasei - 5 mācību stundas;\n2) 4. un 5.klasē - 6 mācību stundas;\n3) 6. un 7.klasē - 7 mācību stundas;\n4) 8. un 9.klasē - 8 mācību stundas."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "35",
+      "title": "Mācību stundas ilgums un mācību organizācijas formas pamatizglītības programmās",
+      "content": "(1) Mācību stundas ilgums no 1. klases līdz 9. klasei ir 40 minūtes. Mācību stundas ilgums pirms svētku dienām ir 30 minūtes.\n(2) Mācību organizācijas formas un to ilgumu, izņemot mācību stundas ilgumu, no 1. klases līdz 6. klasei nosaka izglītības iestādes vadītājs, nepārsniedzot šā likuma 33. pantā noteikto mācību stundu slodzi nedēļā un šā likuma 34. pantā noteikto mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā.\n(3) Mācību organizācijas pamatforma no 7. klases līdz 9. klasei ir mācību stunda. Izglītības iestādes vadītājs ir tiesīgs noteikt citas mācību organizācijas formas un to ilgumu no 7. klases līdz 9. klasei, nepārsniedzot šā likuma 33. pantā noteikto mācību stundu slodzi nedēļā un šā likuma 34. pantā noteikto mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "36",
+      "title": "Mācību gada ilgums pamatizglītības iestādēs",
+      "content": "Mācību gads ilgst:\n1) 1.klasei - 34 nedēļas;\n2) no 2.klases līdz 8.klasei - 35 nedēļas;\n3) 9.klasei - 37 nedēļas."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "37",
+      "title": "Pamatizglītības obligātais saturs",
+      "content": "Pamatizglītības obligāto saturu nosaka valsts pamatizglītības standarts."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "38",
+      "title": "Maksa par pamatizglītības programmas apguvi",
+      "content": "(1) Valsts un pašvaldību pamatizglītības iestādes nedrīkst noteikt mācību maksu par pamatizglītības programmu apguvi.\n(2) Privātās pamatizglītības iestādes ir tiesīgas noteikt mācību maksu."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VI nodaļa Pamatizglītība",
+      "section": "39",
+      "title": "Dokumenti par pamatizglītības programmas apguvi",
+      "content": "(1) Par vispārējās pamatizglītības programmas apguvi izglītojamie Ministru kabineta noteiktajā kārtībā saņem apliecību par vispārējo pamatizglītību, sekmju izrakstu un attiecīgu pamatizglītības sertifikātu. Pamatizglītības sertifikātu izdod elektroniska dokumenta formā Ministru kabineta noteikta iestāde, kura to apliecina ar kvalificētu elektronisko zīmogu Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK 3. panta 27. punkta izpratnē.\n(2) Pamatizglītības sertifikāts apliecina vērtējumu mācību priekšmetā, kurā ir organizēts centralizētais eksāmens. Pamatizglītības sertifikātā norādītais mācību sasniegumu vērtējums attiecīgajā mācību priekšmetā kalpo kā konkursa atlases kritērijs izglītojamo uzņemšanai vidējās pakāpes izglītības programmās.\n(3) Par vispārējās pamatizglītības programmas apguvi izglītojamam izsniedz liecību, ja:\n1) nav iegūts vērtējums gadā kādā no mācību priekšmetiem;\n2) vērtējums divos vai vairākos mācību priekšmetos gadā ir zemāks par četrām ballēm;\n3) nav iegūts vērtējums kādā no valsts pārbaudījumiem, izņemot gadījumu, kad izglītojamais Ministru kabineta noteiktajā kārtībā atbrīvots no noteiktajiem valsts pārbaudījumiem."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "40",
+      "title": "Vispārējās vidējās izglītības iestādes",
+      "content": "(1) Atkarībā no izglītības iestādes struktūras un mācību procesa organizācijas ir šādas vispārējās vidējās izglītības iestādes:\n1) vidusskolas;\n2) (izslēgts no 01.09.2020. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 33. punktu);\n3) valsts ģimnāzijas.\n(2) Vidusskolas pamatuzdevums ir īstenot pamatizglītības un vispārējās vidējās izglītības programmas.\n(3) (Izslēgta no 01.09.2021. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 29. punktu)\n(4) Valsts ģimnāzijas statusu izglītības iestādei piešķir Ministru kabinets. Valsts ģimnāzijas pamatuzdevums ir īstenot vispārējās vidējās izglītības programmas. Valsts ģimnāzija ir tiesīga īstenot arī vispārējās pamatizglītības otrā posma izglītības programmu vai pilnu pamatizglītības programmu, kā arī starptautiskā bakalaurāta programmu. Valsts ģimnāzija papildus minēto izglītības programmu īstenošanai veic reģionālā metodiskā centra un pedagogu tālākizglītības centra funkcijas.\n(5) (Izslēgta no 01.09.2020. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 33. punktu)\n(6) Valsts augstskolas vispārējās vidējās izglītības iestādes pamatuzdevums ir īstenot vispārējās vidējās izglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "41",
+      "title": "Izglītojamo uzņemšana vispārējās vidējās izglītības programmās",
+      "content": "(1) Uzsākt vispārējās vidējās izglītības programmas apguvi ir tiesīga ikviena persona bez vecuma ierobežojuma, ja tā ieguvusi apliecību par pamatizglītību.\n(2) Valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes uzņem izglītojamos vispārējās vidējās izglītības programmas 10. klasē un brīvajās vietās 11. un 12. klasē, ievērojot Ministru kabineta noteiktos nosacījumus un kārtību izglītojamo uzņemšanas organizēšanai un norisei. Izglītojamo uzņemšanu minētajās izglītības iestādēs nosaka ar dibinātāju saskaņoti izglītojamo uzņemšanas noteikumi."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "42",
+      "title": "Vispārējās vidējās izglītības programmu virzieni",
+      "content": "(1) (Izslēgta ar 21.06.2018 . likumu)\n(2) (Izslēgta ar 22.03.2018 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 42.1",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "42.1",
+      "title": "42. 1 pants. Vispārējās vidējās izglītības programma",
+      "content": "Vispārējās vidējās izglītības programmu izglītības iestāde īsteno atbilstoši valsts vispārējās vidējās izglītības standartā noteiktajam izglītības programmas paraugam. Izglītības iestāde ir tiesīga izstrādāt izglītības programmu un noteikt mācību priekšmetus, kuros mācību stundu skaits pārsniedz valsts vispārējās vidējās izglītības programmas paraugā attiecīgajam mācību priekšmetam noteikto minimālo stundu skaitu, kā arī papildus izglītības programmas paraugā noteiktajam iekļaut citus tajā neminētus mācību priekšmetus."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "43",
+      "title": "Vispārējās vidējās izglītības programmu saturs",
+      "content": "(1) Vispārējās vidējās izglītības programmu obligāto saturu nosaka valsts vispārējās vidējās izglītības standarts.\n(2) Nepārsniedzot šā likuma 44. pantā noteikto mācību stundu slodzi nedēļā un mācību stundu skaitu dienā, izglītības iestāde vispārējās vidējās izglītības programmā papildus var ietvert valsts vispārējās vidējās izglītības standartā neminētus mācību priekšmetus, tai skaitā mazākumtautības dzimto valodu un ar mazākumtautību identitāti un integrāciju Latvijas sabiedrībā saistītu mācību saturu."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "44",
+      "title": "Mācību stundu slodze vispārējās vidējās izglītības programmā",
+      "content": "(1) Mācību stundu slodze nedēļā vienā vispārējās vidējās izglītības programmā 10. - 12.klasē nedrīkst pārsniegt 36 mācību stundas.\n(2) Dienā mācību stundu skaits vienā vispārējās vidējās izglītības programmā nedrīkst pārsniegt 8 mācību stundas."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "45",
+      "title": "Mācību stundas ilgums un mācību organizācijas formas vispārējās vidējās izglītības programmās",
+      "content": "(1) Mācību stundas ilgums vispārējās vidējās izglītības programmās ir 40 minūtes. Mācību stundas ilgums pirms svētku dienām ir 30 minūtes.\n(2) Mācību organizācijas pamatforma vispārējās vidējās izglītības programmās ir mācību stunda. Izglītības iestādes vadītājs ir tiesīgs noteikt citas mācību organizācijas formas un to ilgumu vidējās izglītības programmās, nepārsniedzot šā likuma 44. pantā noteikto mācību stundu slodzi nedēļā un mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "46",
+      "title": "Mācību gada ilgums vispārējās vidējās izglītības iestādēs",
+      "content": "Mācību gads vispārējās vidējās izglītības iestādēs ilgst:\n1) 10. un 11.klasei - 35 nedēļas;\n2) 12.klasei - 38 nedēļas."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "47",
+      "title": "Maksa par vispārējās vidējās izglītības programmas apguvi",
+      "content": "(1) Valsts, pašvaldības, kā arī valsts augstskolu vispārējās vidējās izglītības iestādes nedrīkst noteikt mācību maksu par vidējās izglītības programmu apguvi.\n(2) Privātās vispārējās vidējās izglītības iestādes ir tiesīgas noteikt mācību maksu."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "VII nodaļa Vispārējā vidējā izglītība",
+      "section": "48",
+      "title": "Dokumenti par vispārējās vidējās izglītības programmas apguvi",
+      "content": "(1) Par vispārējās vidējās izglītības programmas apguvi izglītojamie Ministru kabineta noteiktajā kārtībā saņem atestātu par vispārējo vidējo izglītību, sekmju izrakstu, attiecīgu vispārējās vidējās izglītības sertifikātu un starptautiskas testēšanas institūcijas izsniegtu dokumentu par vērtējumu svešvalodas pārbaudījumā, ja centralizētais eksāmens svešvalodā aizstāts ar šīs institūcijas pārbaudījumu. Vispārējās vidējās izglītības sertifikātu izdod elektroniska dokumenta formā Ministru kabineta noteikta iestāde, kura to apliecina ar kvalificētu elektronisko zīmogu Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK 3. panta 27. punkta izpratnē.\n(2) Vispārējās vidējās izglītības sertifikāts apliecina vērtējumu mācību priekšmetā, kurā ir organizēts centralizētais eksāmens. Ja centralizētais eksāmens svešvalodā Ministru kabineta noteiktajā kārtībā aizstāts ar starptautiskas testēšanas institūcijas pārbaudījumu, šīs institūcijas izsniegtajā dokumentā norādītais pārbaudījuma vērtējums aizstāj vērtējumu centralizētajā eksāmenā svešvalodā un šim dokumentam nav derīguma termiņa ierobežojuma.\n(3) Vispārējās vidējās izglītības sertifikātos uzrādītie vērtējumi mācību priekšmetos un starptautiskas testēšanas institūcijas pārbaudījuma vērtējums, ja centralizētais eksāmens svešvalodā aizstāts ar starptautiskas testēšanas institūcijas pārbaudījumu, kalpo par konkursa atlases kritēriju izglītojamā uzņemšanai augstākas pakāpes izglītības programmās.\n(4) Par vispārējās vidējās izglītības programmas apguvi izglītojamam izsniedz liecību, ja:\n1) nav iegūts vērtējums kādā no mācību priekšmetiem;\n2) vērtējums mācību priekšmetā ir zemāks par četrām ballēm;\n3) nav iegūts vērtējums kādā no valsts pārbaudījumiem, izņemot gadījumu, kad izglītojamais Ministru kabineta noteiktajā kārtībā atbrīvots no noteiktajiem valsts pārbaudījumiem."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "49",
+      "title": "Speciālās izglītības programmas",
+      "content": "(1) Speciālās izglītības programmas nodrošina izglītojamajiem ar iegūtiem vai iedzimtiem funkcionāliem traucējumiem iespēju iegūt vispārējo izglītību atbilstoši viņu speciālajām vajadzībām.\n(2) (Izslēgta ar 01.07.2011 . likumu)\n(3) Speciālās izglītības programmas mērķus un uzdevumus, obligāto saturu, īstenošanas plānu un prasības attiecībā uz iepriekš iegūto izglītību nosaka atbilstoši valsts vispārējās izglītības standartam saskaņā ar izglītojamo speciālajām vajadzībām."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "50",
+      "title": "Speciālās izglītības programmu īstenošana",
+      "content": "(1) Speciālās izglītības programmas īsteno, ņemot vērā valsts izglītības standartā noteiktos vispārējās izglītības satura īstenošanas mērķus, uzdevumus un obligāto saturu, atbilstoši izglītojamo attīstības traucējumu veidam, spējām un veselības stāvoklim, izglītības iestādei izstrādājot katram izglītojamajam individuālu izglītības programmas apguves plānu. Individuālā izglītības programmas apguves plāna paraugs ir ietverts valsts izglītības standartā.\n(2) Speciālās izglītības programmas izglītojamajiem ar smagiem garīgās attīstības traucējumiem vai vairākiem smagiem attīstības traucējumiem ir paredzētas deviņiem gadiem. Atkarībā no izglītojamā veselības stāvokļa un izglītības iestādes iespējām izglītības programmu var īstenot ilgākā laikposmā, bet ne ilgāk par 12 gadiem.\n(3) Speciālās izglītības programmas izglītojamajiem ar garīgās attīstības traucējumiem ir paredzētas deviņiem gadiem. Ja programmas īstenotājs nodrošina iespēju iegūt profesionālo izglītību, programmu var īstenot ilgākā laikposmā, bet ne ilgāk par 12 gadiem.\n(4) Izglītojamie ar speciālām vajadzībām pēc pamatizglītības vai vispārējās vidējās izglītības iegūšanas speciālās izglītības iestādē viena līdz triju gadu laikā var apgūt arī profesionālās pamatizglītības programmas.\n(5) Speciālās izglītības programmas izglītojamajiem ar garīgās attīstības traucējumiem un redzes vai dzirdes traucējumiem var ilgt 10 gadus, bet speciālās izglītības programmas nedzirdīgiem izglītojamajiem ar garīgās attīstības traucējumiem — 11 gadus.\n(6) Nedzirdīgiem izglītojamajiem, kuri apgūst speciālās izglītības programmu izglītojamajiem ar dzirdes traucējumiem, pamatizglītības iegūšana var ilgt 11 gadus, bet vidējās izglītības iegūšana — trīs gadus.\n(7) Speciālās pamatizglītības programmu apguve izglītojamajiem ar mācīšanās traucējumiem vai smagiem valodas traucējumiem var ilgt 10 gadus.\n(8) Speciālās izglītības programmas izglītojamajiem ar fiziskās attīstības traucējumiem un garīgās veselības traucējumiem pamatizglītības iegūšanai ir paredzētas deviņiem gadiem.\n(9) Vājdzirdīgiem izglītojamajiem, kuri apgūst speciālās izglītības programmu izglītojamajiem ar dzirdes traucējumiem, pamatizglītības iegūšana var ilgt 10 gadus, bet vidējās izglītības iegūšana — trīs gadus.\n(10) Speciālās pamatizglītības programma izglītojamajiem ar redzes traucējumiem var ilgt 10 gadus, bet vidējās izglītības iegūšana — trīs gadus."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "51",
+      "title": "Speciālās izglītības iestādes un klases",
+      "content": "(1) Izglītojamie ar speciālām vajadzībām speciālās izglītības programmas var apgūt vispārizglītojošās klasēs, vispārizglītojošo iestāžu speciālajās klasēs vai grupās vai speciālās izglītības iestādēs. Izglītojamie ar speciālajām vajadzībām speciālās izglītības programmas var apgūt arī tehnikumā un profesionālajā vidusskolā, kas īsteno vispārējās izglītības programmas sadarbībā ar Ieslodzījuma vietu pārvaldi.\n(2) Ir šādas speciālās izglītības iestādes:\n1) (izslēgts ar 21.06.2018 . likumu) ;\n2) pašvaldību speciālās izglītības iestādes;\n3) privātās speciālās izglītības iestādes.\n(3) Speciālās izglītības klase ir vispārējās izglītības iestādes klase, kurā mācās izglītojamie ar speciālām vajadzībām. Speciālās izglītības klasi var atvērt arī izglītības iestādē, kas īsteno profesionālās izglītības programmas.\n(4) Speciālās izglītības iestādei speciālās izglītības attīstības centra statusu var piešķirt Ministru kabineta noteiktajā kārtībā.\n(5) Speciālās izglītības iestāde īsteno speciālās pamatizglītības programmas izglītojamiem ar garīgās veselības traucējumiem, garīgās attīstības traucējumiem, smagiem garīgās attīstības traucējumiem vai ar vairākiem smagiem attīstības traucējumiem. Speciālās izglītības iestāde papildus ir tiesīga īstenot speciālās pirmsskolas izglītības, speciālās pamatizglītības un vidējās speciālās izglītības programmas izglītojamiem ar redzes vai dzirdes traucējumiem, bet speciālās pirmsskolas izglītības programmas — izglītojamiem ar jauktiem attīstības traucējumiem, garīgās veselības traucējumiem, garīgās attīstības traucējumiem, smagiem garīgās attīstības traucējumiem vai ar vairākiem smagiem attīstības traucējumiem, kā arī šā likuma 50. panta ceturtajā daļā noteiktās profesionālās pamatizglītības programmas."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "52",
+      "title": "Izglītojamo uzņemšana un atskaitīšana speciālajās izglītības iestādēs",
+      "content": "Izglītojamo uzņemšana speciālajās izglītības iestādēs un atskaitīšana no tām notiek Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "53",
+      "title": "Izglītojamo ar speciālām vajadzībām uzņemšana vispārējās izglītības programmās",
+      "content": "(1) Izglītojamos ar speciālām vajadzībām var uzņemt vispārējās izglītības programmās. Prasības, kādas izvirzāmas vispārējās izglītības iestādēm, lai to īstenotajās vispārējās izglītības programmās uzņemtu izglītojamos ar speciālām vajadzībām, nosaka Ministru kabinets.\n(1 1 ) Izglītojamo ar garīgās attīstības traucējumiem un izglītojamo ar smagiem garīgās attīstības traucējumiem vai vairākiem smagiem attīstības traucējumiem vispārējās izglītības iestāde var uzņemt tikai attiecīgajās speciālās izglītības programmās.\n(2) Atbilstošu atbalsta pasākumu pieejamību izglītojamajiem ar speciālām vajadzībām, kuri uzņemti vispārējās izglītības programmā, nodrošina izglītības iestāde. Izglītības iestāde katram uzņemtam izglītojamajam ar speciālām vajadzībām izstrādā individuālu izglītības programmas apguves plānu."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "54",
+      "title": "Pedagoģiski medicīniskā komisija",
+      "content": "(1) Ir Valsts pedagoģiski medicīniskā komisija un pašvaldību pedagoģiski medicīniskās komisijas. Valsts pedagoģiski medicīnisko komisiju izveido izglītības un zinātnes ministrs. Pašvaldību pedagoģiski medicīniskās komisijas izveido pašvaldības.\n(2) Valsts un pašvaldību pedagoģiski medicīnisko komisiju informācijas sistēmā apkopo ziņas par valsts un pašvaldību pedagoģiski medicīnisko komisiju atzinumiem. Papildus šajā informācijas sistēmā iekļauj ziņas par izglītojamā pedagoģiskās un psiholoģiskās izpētes rezultātiem, datus par izglītojamā veselības stāvokli un nepilngadīga izglītojamā likumisko pārstāvi, kurš piedalās komisijas sēdē. Informācijas sistēmu veido un izmanto atbilstoši normatīvajiem aktiem, kas regulē fizisko personu datu aizsardzību."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "55",
+      "title": "Mācību sasniegumu vērtēšana speciālajā izglītībā",
+      "content": "(1) Sasniegumus, ko mācībās guvis izglītojamais ar speciālām vajadzībām, vērtē atbilstoši speciālās izglītības programmas prasībām un ņemot vērā izglītojamā veselības stāvokli, spējas un attīstību.\n(2) Speciālās izglītības programmas apguvi izglītojamiem ar vidēji smagiem un smagiem garīgās attīstības traucējumiem vērtē aprakstošā veidā."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "56",
+      "title": "Mācību stundu slodze nedēļā un mācību stundu skaits dienā speciālās izglītības programmā",
+      "content": "Mācību stundu slodze nedēļā un mācību stundu skaits dienā speciālās izglītības programmā atbilst šā likuma 33. un 34.panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "57",
+      "title": "Mācību stundas ilgums un mācību organizācijas formas speciālās izglītības programmās",
+      "content": "(1) Mācību stundas ilgums speciālās izglītības programmās ir 40 minūtes. Mācību stundas ilgums pirms svētku dienām ir 30 minūtes. Mācību stundas ilgums speciālās izglītības programmās izglītojamiem ar smagiem garīgās attīstības traucējumiem vai vairākiem smagiem attīstības traucējumiem no 1. klases līdz 9. klasei ir 30 minūtes. Mācību stundas ilgums pirms svētku dienām ir 20 minūtes.\n(2) Mācību organizācijas formas un to ilgumu, izņemot mācību stundas ilgumu, speciālās izglītības programmās no 1. klases līdz 6. klasei nosaka izglītības iestādes vadītājs, nepārsniedzot šā likuma 33. pantā noteikto mācību stundu slodzi nedēļā un šā likuma 34. pantā noteikto mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā.\n(3) Mācību organizācijas pamatforma speciālās izglītības programmās no 7. klases līdz 12. klasei ir mācību stunda. Izglītības iestādes vadītājs ir tiesīgs noteikt citas mācību organizācijas formas un to ilgumu speciālās izglītības programmās no 7. klases līdz 12. klasei, nepārsniedzot šā likuma 33. pantā noteikto mācību stundu slodzi nedēļā un šā likuma 34. pantā noteikto mācību stundu skaitu dienā. Minētais ierobežojums attiecībā uz mācību stundu skaitu dienā neattiecas uz mācību ekskursijām un nodarbībām dabā."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "VIII nodaļa Speciālā izglītība",
+      "section": "58",
+      "title": "Dokumenti par speciālās izglītības ieguvi",
+      "content": "Izglītojamajiem, kas apguvuši speciālās izglītības programmas, izsniedz apliecību par pamatizglītības vai atestātu par vidējās izglītības ieguvi un sekmju izrakstu."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "IX nodaļa Sociālā korekcija (Ar grozījumiem, kas izdarīti ar 21.06.2018 . likumu, kas stājas spēkā 18.07.2018. Grozījums nodaļas nosaukumā par vārdu \"un pedagoģiskā\" izslēgšanu stājas spēkā 01.09.2019. Sk. pārejas noteikumu 35. punktu)",
+      "section": "59",
+      "title": "Sociālās korekcijas izglītības iestādes",
+      "content": "Sociālās korekcijas izglītības iestādes ir vispārējās izglītības iestādes, kuras īsteno sociālās korekcijas izglītības programmas izglītojamiem ar sociālās uzvedības novirzēm, nodrošinot tiem izglītības ieguvi vai pilnveidojot izglītības ieguves kvalitāti."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "IX nodaļa Sociālā korekcija (Ar grozījumiem, kas izdarīti ar 21.06.2018 . likumu, kas stājas spēkā 18.07.2018. Grozījums nodaļas nosaukumā par vārdu \"un pedagoģiskā\" izslēgšanu stājas spēkā 01.09.2019. Sk. pārejas noteikumu 35. punktu)",
+      "section": "60",
+      "title": "Sociālās korekcijas izglītības iestāžu dibināšana un izglītojamo uzņemšana",
+      "content": "(1) Sociālās korekcijas izglītības iestādes ir Izglītības un zinātnes ministrijas pakļautībā.\n(2) (Izslēgta no 01.09.2019. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 35. punktu)\n(3) (Izslēgta no 01.09.2019. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 35. punktu)\n(4) Izglītojamo sociālās korekcijas izglītības iestādē uzņem likumā \" Par audzinoša rakstura piespiedu līdzekļu piemērošanu bērniem \" noteiktajā kārtībā.\n(5) (Izslēgta no 01.09.2019. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 35. punktu)\n(6) (Izslēgta no 01.09.2019. ar 21.06.2018 . likumu. Sk. Pārejas noteikumu 35. punktu)"
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "IX nodaļa Sociālā korekcija (Ar grozījumiem, kas izdarīti ar 21.06.2018 . likumu, kas stājas spēkā 18.07.2018. Grozījums nodaļas nosaukumā par vārdu \"un pedagoģiskā\" izslēgšanu stājas spēkā 01.09.2019. Sk. pārejas noteikumu 35. punktu)",
+      "section": "61",
+      "title": "Izglītības dokumenti",
+      "content": "Izglītojamajiem, kas apguvuši sociālās korekcijas izglītības programmas, izglītības ieguvi apliecina izglītības dokumenti par noteiktas izglītības pakāpes izglītības programmu pilnīgu vai daļēju apguvi."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "62",
+      "title": "Vispārējās izglītības iestāžu finansēšanas avoti",
+      "content": "(1) Vispārējās izglītības iestāžu finansēšanas avotus nosaka šis likums, Izglītības likums , citi normatīvie akti un attiecīgās izglītības iestādes nolikums.\n(2) Akreditētās speciālās izglītības programmas finansē no valsts budžeta Ministru kabineta noteiktajā kārtībā.\n(3) No valsts budžeta mērķdotācijām sedz:\n1) pedagogu un tiem attiecībā uz darba samaksu Ministru kabineta noteiktajā kārtībā pielīdzināto ar pedagoģisko procesu saistīto speciālistu darba samaksas izdevumus pašvaldību vispārējās izglītības iestādēs, kuras īsteno vispārējās pamatizglītības vai vispārējās vidējās izglītības programmas, un valsts augstskolu vispārējās vidējās izglītības iestādēs, kuras īsteno vispārējās vidējās izglītības programmas;\n2) (izslēgts ar 16.06.2009 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "63",
+      "title": "Vispārējās izglītības iestāžu finansēšanas kārtība",
+      "content": "(1) Vispārējās izglītības programmu un vispārējās izglītības iestāžu finansēšanas kārtību nosaka šis likums, Izglītības likums , citi normatīvie akti un attiecīgās iestādes nolikums.\n(2) Valsts ģimnāzijas saņem papildu valsts budžeta finansējumu šā likuma 40.panta ceturtajā daļā noteikto funkciju veikšanai."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn1",
+      "title": "1. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas izglītības un zinātnes ministrs nodrošina ar šo likumu saistīto normatīvo aktu izstrādi un iesniedz tos apstiprināšanai Ministru kabinetam.",
+      "content": "1. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas izglītības un zinātnes ministrs nodrošina ar šo likumu saistīto normatīvo aktu izstrādi un iesniedz tos apstiprināšanai Ministru kabinetam."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn2",
+      "title": "2. Šā likuma 48.panta trešās daļas pirmais teikums stājas spēkā 2002./2003.mācību gadā, bet otrais teikums — 2003./2004.mācību gadā.",
+      "content": "( 31.10.2002 . likuma redakcijā, kas stājas spēkā 21.11.2002. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn3",
+      "title": "3. (Izslēgts ar 16.10.2008 . likumu, kas stājas spēkā 12.11.2008. )",
+      "content": "3. (Izslēgts ar 16.10.2008 . likumu, kas stājas spēkā 12.11.2008. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn4",
+      "title": "4. (Izslēgts ar 05.08.1999 . likumu, kas stājas spēkā 13.08.1999. )",
+      "content": "4. (Izslēgts ar 05.08.1999 . likumu, kas stājas spēkā 13.08.1999. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn5",
+      "title": "5. Līdz 2000.gada 1.septembrim Ministru kabinets izstrādā internātskolu un speciālo izglītības iestāžu finansēšanas noteikumus.",
+      "content": "( 20.06.2000 . likuma redakcijā, kas stājas spēkā 21.07.2000. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn6",
+      "title": "6. Ģimnāzija, kas šā likuma spēkā stāšanās brīdī īsteno pamatizglītības programmas, ir tiesīga turpināt attiecīgo izglītības programmu īstenošanu līdz 2003.gada 1.septembrim.",
+      "content": "( 20.06.2000 . likuma redakcijā, kas stājas spēkā 21.07.2000. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn7",
+      "title": "7. 4.panta 6., 7. un 8.punkts stājas spēkā 2001.gada 1.septembrī.",
+      "content": "( 20.06.2000 . likuma redakcijā, kas stājas spēkā 21.07.2000. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn8",
+      "title": "8. Grozījumi likuma 26.panta otrajā daļā (par izglītojamo uzņemšanu speciālajās izglītības iestādēs vai speciālajās grupās), grozījumi likuma 51.panta ceturtajā daļā (par speciālās izglītības attīstības centra statusa piešķiršanu), grozījumi likuma 52.pantā (par izglītojamo uzņemšanu speciālajās izglītības iestādēs), grozījumi likuma 54.pantā (par pedagoģiski medicīnisko komisiju) stājas spēkā 2001.gada 1.septembrī.",
+      "content": "( 20.06.2000 . likuma redakcijā, kas stājas spēkā 21.07.2000. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn9",
+      "title": "9. Šā likuma 39.panta trešā daļa un 48.panta otrā daļa stājas spēkā 2003.gada 1.septembrī.",
+      "content": "( 31.10.2002 . likuma redakcijā, kas stājas spēkā 21.11.2002. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn10",
+      "title": "10. Grozījumi šā likuma 33.panta 1.punktā (par mācību stundu slodzi 1.klasē) stājas spēkā 2005.gada 1.septembrī, bet 2.punktā (par mācību stundu slodzi 2.klasē) — 2006.gada 1.septembrī.",
+      "content": "( 16.06.2005 . likuma redakcijā, kas stājas spēkā 12.07.2005. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn11",
+      "title": "11. Saskaņā ar šo likumu valsts un pašvaldību institūcijās noteikto atlīdzību (darba samaksu, prēmijas, naudas balvas, pabalstus u.c.) 2009.gadā nosaka atbilstoši likumam “Par valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzību 2009.gadā”.",
+      "content": "( 12.12.2008 . likuma redakcijā, kas stājas spēkā 01.01.2009. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn12",
+      "title": "12. Izglītības iestādes, kas īsteno pirmsskolas izglītības programmas, līdz 2011.gada 1.janvārim nodrošina pirmsskolas izglītības programmu atbilstību valsts pirmsskolas izglītības vadlīnijām un to iesniegšanu licencēšanai.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn13",
+      "title": "13. 2011.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem nemaksā prēmijas, bet viņu materiālo stimulēšanu veic un pabalstus izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu .",
+      "content": "( 23.12.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn14",
+      "title": "14. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 4.panta 8.punktā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 31.decembrim piemērojami Ministru kabineta 2009.gada 3.novembra noteikumi Nr.1263 “ Noteikumi par Valsts pedagoģiski medicīniskās komisijas un pašvaldību pedagoģiski medicīnisko komisiju kompetenci ”.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn15",
+      "title": "15. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 4.panta 18.punktā paredzētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 31.decembrim piemērojami Ministru kabineta 2005.gada 1.novembra noteikumi Nr.822 “ Noteikumi par obligātajām prasībām izglītojamo uzņemšanai un pārcelšanai nākamajā klasē vispārējās izglītības iestādēs (izņemot internātskolas un speciālās izglītības iestādes) ”.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn16",
+      "title": "16. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 4.panta 18. 1 punktā paredzētos noteikumus.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn17",
+      "title": "17. Grozījums šā likuma 39.panta trešajā daļā (par liecības izsniegšanu izglītojamajam par vispārējās pamatizglītības programmas apguvi, ja vērtējums divos vai vairākos mācību priekšmetos gadā vai valsts pārbaudījumā atbilstoši valsts izglītības standartā noteiktajai izglītojamā mācību sasniegumu vērtēšanas kārtībai ir zemāks par 4 ballēm) un grozījums 48.panta otrajā daļā (par liecības izsniegšanu izglītojamajam par vispārējās vidējās izglītības programmas apguvi, ja vērtējums mācību priekšmetā gadā vai valsts pārbaudījumā atbilstoši valsts izglītības standartā noteiktajai izglītojamā mācību sasniegumu vērtēšanas kārtībai ir zemāks par 4 ballēm) stājas spēkā 2011.gada 1.septembrī.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn18",
+      "title": "18. Ministru kabinets līdz 2011.gada 31.decembrim izdod šā likuma 53.pantā paredzētos Ministru kabineta noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2011.gada 31.decembrim piemērojami Ministru kabineta 2003.gada 21.oktobra noteikumi Nr.579 “ Noteikumi par vispārējās pamatizglītības un vispārējās vidējās izglītības iestāžu nodrošinājumu atbilstoši speciālām vajadzībām ”.",
+      "content": "( 01.07.2011 . likuma redakcijā, kas stājas spēkā 03.08.2011. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn19",
+      "title": "19. 2012.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem nemaksā prēmijas, bet viņu materiālo stimulēšanu veic un pabalstus viņiem izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu .",
+      "content": "( 15.12.2011 . likuma redakcijā, kas stājas spēkā 01.01.2012. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn20",
+      "title": "20. 2013.gadā valsts un pašvaldību dibināto izglītības iestāžu pedagogiem atlaišanas pabalstu izmaksā saskaņā ar Valsts un pašvaldību institūciju amatpersonu un darbinieku atlīdzības likumu .",
+      "content": "( 15.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn21",
+      "title": "21. Ministru kabinets līdz 2015.gada 30.septembrim izdod šā likuma 4.panta 12. 1 punktā minētos noteikumus.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn22",
+      "title": "22. Šā likuma 48.panta jaunā redakcija (attiecībā uz dokumentiem par vispārējās vidējās izglītības programmas apguvi) stājas spēkā 2015.gada 1.novembrī.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn23",
+      "title": "23. Ministru kabinets ne vēlāk kā līdz 2015.gada 30.septembrim izdara grozījumus Ministru kabineta 2006.gada 6.novembra noteikumos Nr.913 \" Kārtība, kādā izsniedzami valsts atzīti vispārējās izglītības dokumenti \", nosakot kārtību, kādā izsniedzami dokumenti par vispārējās vidējās izglītības programmas apguvi.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn24",
+      "title": "24. Grozījumi šā likuma 62.panta trešās daļas 1.punktā (par valsts augstskolu vispārējās vidējās izglītības iestāžu pedagogu un citu tiem pielīdzināto speciālistu darba samaksu) stājas spēkā 2016.gada 1.janvārī.",
+      "content": "( 18.06.2015 . likuma redakcijā, kas stājas spēkā 16.07.2015. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn25",
+      "title": "25. Grozījumi šā likuma 42. pantā par tā otrās daļas izslēgšanu un par 43. panta izteikšanu jaunā redakcijā stājas spēkā:",
+      "content": "1) 2020. gada 1. septembrī — attiecībā uz vidējās izglītības programmas īstenošanu 10. un 11. klasē;\n2) 2021. gada 1. septembrī — attiecībā uz vidējās izglītības programmas īstenošanu 12. klasē."
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn26",
+      "title": "26. Izglītības iestādes, kuras īsteno pedagoģiskās korekcijas izglītības programmas, no 2018. gada 1. septembra izglītojamos šajās izglītības programmās neuzņem. Izglītības iestādes ir tiesīgas uzsākto pedagoģiskās korekcijas izglītības programmu īstenošanu turpināt līdz 2019. gada 30. jūnijam.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn27",
+      "title": "27. Šā likuma 1. panta otrās daļas 4. 1 un 4. 2 punkts, 4. panta 11. 1 punkts, 35. un 45. panta jaunā redakcija (par mācību stundas ilgumu un mācību organizācijas formām pamatizglītības programmās un vispārējās vidējās izglītības programmās), kā arī 57. panta jaunā redakcija (par mācību stundas ilgumu un mācību organizācijas formām speciālās izglītības programmās) stājas spēkā 2020. gada 1. septembrī.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn28",
+      "title": "28. Grozījumi šā likuma 4. panta 11. punktā (par mācību priekšmeta standarta izslēgšanu), grozījumi par 14. panta 2. punkta izslēgšanu, 15. panta pirmās daļas jaunā redakcija (par valsts vispārējās izglītības standarta jauniem noteikumiem), grozījumi par 16. panta izslēgšanu, grozījumi 17. panta pirmajā daļā, kas pieņemti 2018. gada 21. jūnijā (par vispārējās izglītības programmas satura jauniem noteikumiem), grozījumi 17. panta pirmās daļas 2. punktā likuma 2020. gada 1. februāra redakcijā (par izglītības satura apguves plānotajiem rezultātiem mācību jomā vai daļā no jomas) un 19. panta otrajā daļā (par mācību priekšmeta standarta izslēgšanu) stājas spēkā:",
+      "content": "1) 2020. gada 1. septembrī — attiecībā uz vispārējās izglītības programmu īstenošanu 1., 4., 7. un 10. klasē;\n2) 2021. gada 1. septembrī — attiecībā uz vispārējās izglītības programmu īstenošanu 2., 5., 8. un 11. klasē;\n3) 2022. gada 1. septembrī — attiecībā uz vispārējās izglītības programmu īstenošanu 3., 6., 9. un 12. klasē."
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn29",
+      "title": "29. Grozījumi šā likuma 4. panta 5. punktā (par vārdu \"ģimnāzijas un\" izslēgšanu), 40. panta pirmās daļas 3. punkta jaunā redakcija un grozījumi šajā pantā (par trešās daļas izslēgšanu) stājas spēkā 2021. gada 1. septembrī. No 2018. gada 1. augusta ģimnāzijas statusu izglītības iestādei nepiešķir.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn30",
+      "title": "30. Šā likuma 40. panta ceturtās daļas jaunā redakcija stājas spēkā 2018. gada 1. septembrī.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn31",
+      "title": "31. Grozījumi šā likuma 15. 1 panta pirmajā daļā un 20. panta pirmajā daļā (par valsts pirmsskolas izglītības vadlīnijās un pirmsskolas izglītības programmā nosakāmo saturu) stājas spēkā 2019. gada 1. septembrī.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn32",
+      "title": "32. Pašvaldības, kuru padotībā ir ģimnāzijas, līdz 2019. gada 28. februārim Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pieņem lēmumu par ģimnāziju nosaukumu maiņu vai likvidācijas vai reorganizācijas pabeigšanu līdz 2021. gada 31. augustam, nodrošinot izglītojamo turpmāku izglītošanos atbilstošā izglītības programmā, kā arī līdz 2021. gada 31. augustam veic visas nepieciešamās darbības, lai izdarītu atbilstošus grozījumus Izglītības iestāžu reģistrā. Reorganizēto izglītības iestāžu nosaukumi atbilst Izglītības likuma 26. panta prasībām.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn33",
+      "title": "33. Grozījumi šā likuma 40. panta pirmās daļas 2. punktā un piektajā daļā [par vakara (maiņu) vidusskolu izslēgšanu] stājas spēkā 2020. gada 1. septembrī. No 2018. gada 1. augusta vakara (maiņu) vidusskolu nedibina.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn34",
+      "title": "34. Pašvaldības, kuru padotībā ir vakara (maiņu) vidusskolas, līdz 2019. gada 28. februārim Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pieņem lēmumu par vakara (maiņu) vidusskolu nosaukumu maiņu vai likvidācijas vai reorganizācijas pabeigšanu līdz 2020. gada 31. augustam, nodrošinot izglītojamo turpmāku izglītošanos atbilstošā izglītības programmā, kā arī līdz 2020. gada 31. augustam veic visas nepieciešamās darbības, lai izdarītu atbilstošus grozījumus Izglītības iestāžu reģistrā. Reorganizēto izglītības iestāžu nosaukumi atbilst Izglītības likuma 26. panta prasībām.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 35",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn35",
+      "title": "35. Grozījumi šā likuma 1. panta otrās daļas 7. punktā, 3. panta otrās daļas 3. punktā, 29. panta otrajā daļā, IX nodaļas nosaukumā un 59. , 60. un 61. pantā (par pedagoģiskās korekcijas kā vispārējās izglītības īpašā veida izslēgšanu) stājas spēkā 2019. gada 1. septembrī.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 36",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn36",
+      "title": "36. Šā likuma 51. panta piektā daļa stājas spēkā 2020. gada 1. septembrī.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 37",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn37",
+      "title": "37. Pašvaldības, kuru padotībā ir rehabilitācijas centri un speciālās pirmsskolas izglītības iestādes, līdz 2019. gada 28. februārim Valsts pārvaldes iekārtas likumā noteiktajā kārtībā pieņem lēmumu par rehabilitācijas centru un speciālās pirmsskolas izglītības iestāžu nosaukumu maiņu vai likvidācijas vai reorganizācijas pabeigšanu līdz 2020. gada 31. augustam, nodrošinot izglītojamo turpmāku izglītošanos atbilstošā izglītības programmā, kā arī līdz 2020. gada 31. augustam veic visas nepieciešamās darbības, lai izdarītu atbilstošus grozījumus Izglītības iestāžu reģistrā. Reorganizēto izglītības iestāžu nosaukumi atbilst Izglītības likuma 26. panta prasībām.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 38",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn38",
+      "title": "38. Grozījumi šā likuma 1. panta otrās daļas 5. punktā (par mācību priekšmetu apvienošanu mācību jomās), grozījumi par 42. panta pirmās daļas izslēgšanu un likuma papildināšanu ar 42. 1 pantu stājas spēkā:",
+      "content": "1) 2020. gada 1. septembrī — attiecībā uz vidējās izglītības programmu īstenošanu 10. klasē;\n2) 2021. gada 1. septembrī — attiecībā uz vidējās izglītības programmu īstenošanu 11. klasē;\n3) 2022. gada 1. septembrī — attiecībā uz vidējās izglītības programmu īstenošanu 12. klasē."
+    },
+    {
+      "provision_ref": "PN 39",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn39",
+      "title": "39. Izglītības iestādes, kuras šā likuma 15. 1 panta pirmajā daļā un 20. panta pirmajā daļā izdarīto grozījumu spēkā stāšanās dienā īsteno pirmsskolas izglītības programmas vai uzsākušas jaunu šo programmu izstrādi, nodrošina attiecīgo programmu atbilstību minēto tiesību normu prasībām līdz 2019. gada 31. augustam.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 40",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn40",
+      "title": "40. Izglītības iestādes, kuras šā likuma 15. panta pirmās daļas jaunās redakcijas, 17. panta pirmās daļas jaunās redakcijas un 42. 1 panta spēkā stāšanās dienā īsteno vispārējās pamatizglītības un vispārējās vidējās izglītības programmas vai uzsākušas jaunu šo programmu izstrādi, nodrošina attiecīgo programmu atbilstību minēto tiesību normu prasībām līdz 2020. gada 31. augustam.",
+      "content": "( 21.06.2018 . likuma redakcijā, kas stājas spēkā 18.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 41",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn41",
+      "title": "41. Šā likuma 30. panta sestā daļa stājas spēkā 2023. gada 1. septembrī. Ministru kabinets līdz 2020. gada 31. martam izdod šā likuma 30. panta septītajā daļā minētos Ministru kabineta noteikumus.",
+      "content": "( 09.01.2020 . likuma redakcijā, kas stājas spēkā 01.02.2020. )"
+    },
+    {
+      "provision_ref": "PN 42",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn42",
+      "title": "42. Izglītības iestādes, kuras 2020. gada 1. februārī īsteno profesionāli orientēta virziena pamatizglītības programmas un pamatizglītības programmas ar padziļinātu mācību priekšmetu apguvi un saņem papildu valsts budžeta finansējumu šo programmu īstenošanā iesaistīto pedagogu darba samaksai, ir tiesīgas turpināt saņemt šo finansējumu līdz 2023. gada 31. augustam atbilstoši tiesiskajam regulējumam, kas ir spēkā 2020. gada 31. janvārī.",
+      "content": "( 09.01.2020 . likuma redakcijā, kas stājas spēkā 01.02.2020. )"
+    },
+    {
+      "provision_ref": "PN 43",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn43",
+      "title": "43. Šā likuma 20. 1 panta 1. 1 daļa stājas spēkā 2021. gada 1. septembrī.",
+      "content": "( 14.05.2020 . likuma redakcijā, kas stājas spēkā 11.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 44",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn44",
+      "title": "44. Pašvaldība nodrošina šā likuma 21. panta otrajā daļā minētās iespējas visās tās padotībā esošajās pirmsskolas izglītības iestādēs ne vēlāk kā līdz 2021. gada 1. septembrim.",
+      "content": "( 14.05.2020 . likuma redakcijā, kas stājas spēkā 11.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 45",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn45",
+      "title": "45. Speciālās izglītības iestāde, kurai speciālās izglītības attīstības centra statuss piešķirts līdz 2020. gada 15. maijam un kura neatbilst šā likuma 51. panta piektās daļas prasībām (par izglītības programmām, kuras speciālās izglītības iestādes īsteno, un izglītības programmām, kuras speciālās izglītības iestādes ir tiesīgas īstenot papildus), ir tiesīga saglabāt minēto statusu līdz 2023. gada 31. augustam, ja tā atbilst Ministru kabineta 2016. gada 29. marta noteikumos Nr. 187 \" Noteikumi par kritērijiem un kārtību, kādā speciālās izglītības iestādei piešķir speciālās izglītības attīstības centra statusu \" (redakcijā, kas ir spēkā 2020. gada 15. maijā) minētajiem kritērijiem, tai skaitā 2020. gada 15. maijā tā īsteno ne mazāk kā vienu no šā likuma 51. panta piektajā daļā minētajām speciālās izglītības programmām. Uzturēšanas izdevumus minētajās speciālās izglītības iestādēs no 2020. gada 1. septembra līdz 2023. gada 31. augustam sedz no valsts budžeta mērķdotācijas par izglītojamiem šā likuma 51. panta piektajā daļā minētajās izglītības programmās.",
+      "content": "( 14.05.2020 . likuma redakcijā, kas stājas spēkā 11.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 46",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn46",
+      "title": "46. Ministru kabinets ne vēlāk kā līdz 2022. gada 30. aprīlim izdara grozījumus Ministru kabineta 2016. gada 29. marta noteikumos Nr. 187 \" Noteikumi par kritērijiem un kārtību, kādā speciālās izglītības iestādei piešķir speciālās izglītības attīstības centra statusu \" atbilstoši šā likuma 51. panta piektajā daļā noteiktajam. Lai nodrošinātu speciālās izglītības attīstības centru darbības pilnveidi, līdz 2023. gada 31. maijam speciālās izglītības attīstības centra statusu speciālās izglītības iestādei nepiešķir.",
+      "content": "( 14.05.2020 . likuma redakcijā, kas stājas spēkā 11.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 47",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn47",
+      "title": "47. Ministru kabinets līdz 2020. gada 30. jūnijam izdod šā likuma 4. panta 5. punktā minētos Ministru kabineta noteikumus (par kritērijiem un kārtību, kādā tiek piešķirts un anulēts valsts ģimnāzijas statuss), paredzot pakāpenisku tajos noteikto kritēriju piemērošanu izglītības iestādēm, kurām valsts ģimnāzijas statuss piešķirts ar Ministru kabineta lēmumu, kas pieņemts līdz 2020. gada 31. maijam. Lai nodrošinātu valsts ģimnāziju darbības pilnveidi, līdz 2023. gada 31. decembrim valsts ģimnāzijas statusu izglītības iestādei nepiešķir.",
+      "content": "( 14.05.2020 . likuma redakcijā, kas stājas spēkā 11.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 48",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn48",
+      "title": "48. Izglītības iestāde, kura līdz 2020. gada 10. jūnijam uzsākusi darbības, lai izpildītu Vispārējās izglītības likumā , kas bija spēkā līdz 2020. gada 10. jūnijam, un uz tā pamata izdotajos normatīvajos aktos valsts ģimnāzijas statusa iegūšanai noteiktās prasības, ir tiesīga, saskaņojot ar izglītības iestādes dibinātāju, līdz 2021. gada 31. maijam iesniegt Izglītības un zinātnes ministrijai iesniegumu ar lūgumu piešķirt izglītības iestādei valsts ģimnāzijas statusu. Vienlaikus iesniedzami dokumenti, kas apliecina izglītības iestādes atbilstību šādiem kritērijiem:",
+      "content": "1) izglītības iestādē no 10. klases līdz 12. klasei pēc datiem uz 2019. gada 1. septembri ir mācījušies:\na) ne mazāk par 250 izglītojamiem — Rīgā,\nb) ne mazāk par 180 izglītojamiem — republikas pilsētās, izņemot Rīgu,\nc) ne mazāk par 120 izglītojamiem — administratīvajās teritorijās, izņemot republikas pilsētas;\n2) izglītības iestāde 2019./2020. mācību gadā ir īstenojusi vismaz divas vispārējās vidējās izglītības programmas un vismaz vienu no tām — matemātikas, dabaszinību un tehnikas virzienā;\n3) ja izglītības iestāde 2019./2020. mācību gadā ir īstenojusi divas pamatizglītības programmas vai vairāk, vienu no tām — matemātikas, dabaszinību un tehnikas virzienā;\n4) izglītības iestādē 2018./2019. un 2019./2020. mācību gadā izglītojamo mācību sasniegumu vidējais procentuālais novērtējums centralizētajos eksāmenos ir bijis:\na) vismaz par 10 procentiem augstāks nekā vidējais procentuālais novērtējums valstī,\nb) vismaz par pieciem procentiem augstāks nekā vidējais procentuālais novērtējums attiecīgajā plānošanas reģionā;\n5) izglītības iestāde 2019./2020. mācību gadā ir veikusi šādas pedagogu tālākizglītības un metodiskā centra funkcijas plānošanas reģionā:\na) sniegusi vispārējās izglītības iestādēm un pedagogiem metodisko atbalstu izglītības procesa organizēšanā pedagoģijas un skolvadības jautājumos,\nb) nodrošinājusi izglītības iestādes bibliotēkā esošās informācijas un literatūras pieejamību izglītojamiem un pedagogiem,\nc) atbalstījusi izglītojamo sadarbību zinātniskās pētniecības jomā valsts un starptautiskā līmenī,\nd) organizējusi vispārējās izglītības iestāžu pedagogu profesionālās kompetences pilnveidi;\n6) izglītības iestādes pedagogi 2019./2020. mācību gadā ir iesaistījušies valsts izglītības politikas un izglītības attīstības stratēģijas veidošanā (valsts pārbaudījumu vērtēšanā, izglītības satura izveidē, mācību literatūras izvērtēšanā) pašvaldību vai valsts līmenī."
+    },
+    {
+      "provision_ref": "PN 49",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn49",
+      "title": "49. Izglītības un zinātnes ministrija mēneša laikā pēc šā likuma pārejas noteikumu 48. punktā minēto dokumentu saņemšanas izvērtē izglītības iestādes atbilstību noteiktajiem kritērijiem un sniedz izglītības iestādes dibinātājam motivētu atbildi. Ja izglītības iestāde atbilst šā likuma pārejas noteikumu 48. punktā minētajām prasībām, Ministru kabinets pēc izglītības un zinātnes ministra ierosinājuma piešķir izglītības iestādei valsts ģimnāzijas statusu, ņemot vērā valsts budžetā paredzēto finansējumu.",
+      "content": "( 04.02.2021 . likuma redakcijā, kas stājas spēkā 23.02.2021. )"
+    },
+    {
+      "provision_ref": "PN 50",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn50",
+      "title": "50. Grozījums par šā likuma 30. panta piektās daļas izslēgšanu stājas spēkā:",
+      "content": "1) 2023. gada 1. septembrī — attiecībā uz vispārējās izglītības pamatizglītības programmas īstenošanu 1., 4. un 7. klasē;\n2) 2024. gada 1. septembrī — attiecībā uz vispārējās izglītības pamatizglītības programmas īstenošanu 2., 5. un 8. klasē;\n3) 2025. gada 1. septembrī — attiecībā uz vispārējās izglītības pamatizglītības programmas īstenošanu 3., 6. un 9. klasē."
+    },
+    {
+      "provision_ref": "PN 51",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn51",
+      "title": "51. Valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes, uzņemot izglītojamos vispārējās vidējās izglītības programmā 2023./2024. mācību gadam, ar dibinātāja atļauju ir tiesīgas īstenot pasākumus, lai padziļināti izvērtētu izglītojamo zināšanas un prasmes mācību priekšmetos, kuros izglītojamie kārtojuši centralizētos eksāmenus.",
+      "content": "( 20.04.2023 . likuma redakcijā, kas stājas spēkā 27.04.2023. )"
+    },
+    {
+      "provision_ref": "PN 52",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn52",
+      "title": "52. Uzņemot izglītojamos vispārējās vidējās izglītības programmā 2024./2025. mācību gadam, papildus šā likuma 39. panta otrajā daļā noteiktajam konkursa atlases kritērijam:",
+      "content": "1) valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes, tai skaitā valsts ģimnāzijas, ar dibinātāja atļauju ir tiesīgas rīkot iestājpārbaudījumus, lai atbilstoši valsts pamatizglītības standartam padziļināti izvērtētu izglītojamo zināšanas un prasmes arī mācību priekšmetos, kuros izglītojamie kārtojuši centralizētos eksāmenus;\n2) valsts ģimnāzijas ar dibinātāja atļauju ir tiesīgas noteikt uzņemšanas kritērijus, arī nerīkojot iestājpārbaudījumus;\n3) valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes, kas nav valsts ģimnāzijas, ir tiesīgas ņemt vērā izglītojamo iepriekš iegūtajā izglītības dokumentā norādīto vidējo vērtējumu mācību priekšmetos, arī nerīkojot iestājpārbaudījumus;\n4) pašvaldība, kuras teritorijā ir vairākas valsts ģimnāzijas, ir tiesīga rīkot vienotus iestājpārbaudījumus un noteikt vienotus uzņemšanas kritērijus, savukārt pašvaldības teritorijā esošās valsts ģimnāzijas ir tiesīgas papildus rīkot iestājpārbaudījumus tikai tajos mācību priekšmetos un papildus noteikt tikai tādus uzņemšanas kritērijus, kurus nav noteikusi pašvaldība."
+    },
+    {
+      "provision_ref": "PN 53",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn53",
+      "title": "53. Uzņemot izglītojamos vispārējās vidējās izglītības programmā 2024./2025. mācību gadam valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādēs, tai skaitā valsts ģimnāzijās, uz izglītojamiem, kuri nav kārtojuši centralizētos eksāmenus, attiecināms šo pārejas noteikumu 52. punkts, izņemot šā likuma 39. panta otrajā daļā noteikto konkursa atlases kritēriju.",
+      "content": "( 21.03.2024 . likuma redakcijā, kas stājas spēkā 28.03.2024. )"
+    },
+    {
+      "provision_ref": "PN 54",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn54",
+      "title": "54. Grozījumi šā likuma 50. pantā stājas spēkā 2025. gada 1. septembrī. Izglītības iestādes, kuras līdz 2025. gada 31. augustam ir uzsākušas īstenot speciālās izglītības programmu izglītojamiem ar somatiskām saslimšanām, ir tiesīgas minēto izglītības programmu īstenot ne ilgāk kā līdz 2026. gada 31. augustam.",
+      "content": "( 27.02.2025 . likuma redakcijā, kas stājas spēkā 15.03.2025. )"
+    },
+    {
+      "provision_ref": "PN 55",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn55",
+      "title": "55. Šā likuma 53. panta 1. 1 daļa stājas spēkā 2025. gada 1. septembrī. Izglītības iestādes, kuras līdz 2025. gada 31. augustam ir uzsākušas izglītojamo ar garīgās attīstības traucējumiem un izglītojamo ar smagiem garīgās attīstības traucējumiem vai vairākiem smagiem attīstības traucējumiem izglītošanu vispārējās izglītības programmās, kas nav speciālās izglītības programmas, ir tiesīgas turpināt izglītojamo izglītošanu minētajās izglītības programmās ne ilgāk kā līdz 2026. gada 31. augustam.",
+      "content": "( 27.02.2025 . likuma redakcijā, kas stājas spēkā 15.03.2025. )"
+    },
+    {
+      "provision_ref": "PN 56",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn56",
+      "title": "56. Valsts ģimnāzija atbilstoši tās noteiktiem un ar pašvaldību saskaņotiem izglītojamo uzņemšanas noteikumiem, uzņemot izglītojamos pamatizglītības otrā posma izglītības programmas 7. klasē un brīvajās vietās 8. un 9. klasē 2025./2026. mācību gadā, ir tiesīga:",
+      "content": "1) rīkot iestājpārbaudījumus mācību priekšmetos atbilstoši valsts pamatizglītības standartam;\n2) organizēt izglītojamo iepriekšējā mācību gada noslēgumā mācību priekšmetos iegūto vērtējumu konkursu, arī nerīkojot iestājpārbaudījumus;\n3) organizēt zināšanu un prasmju pārbaudījumu atbilstoši valsts pamatizglītības standartam tiem izglītojamiem, kuriem iepriekš apgūtajā izglītības programmā nav bijis ietverts kāds no šā punkta pirmajā vai otrajā apakšpunktā minētajiem mācību priekšmetiem."
+    },
+    {
+      "provision_ref": "PN 57",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn57",
+      "title": "57. Lai nodrošinātu vienotu pieeju izglītojamo uzņemšanai valsts ģimnāziju īstenoto pamatizglītības otrā posma izglītības programmu 7. klasē 2025./2026. mācību gadā, pašvaldība, kuras teritorijā ir vairākas valsts ģimnāzijas, ir tiesīga:",
+      "content": "1) organizēt visās valsts ģimnāzijās vienotus iestājpārbaudījumus mācību priekšmetos atbilstoši valsts pamatizglītības standartam, savukārt pašvaldības teritorijā esošās valsts ģimnāzijas ir tiesīgas papildus organizēt iestājpārbaudījumus tikai tajos mācību priekšmetos, kuros tos nav organizējusi pašvaldība;\n2) savā padotībā esošajām valsts ģimnāzijām noteikt vienotu izglītojamo uzņemšanas kārtību, kā arī vienotu iestājpārbaudījumu norises kārtību, laiku, mācību priekšmetus, kuros paredzēts vienots iestājpārbaudījums, un rezultātu paziņošanas kārtību."
+    },
+    {
+      "provision_ref": "PN 58",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn58",
+      "title": "58. Valsts, pašvaldību un valsts augstskolu vispārējās vidējās izglītības iestādes, tai skaitā valsts ģimnāzijas, atbilstoši to noteiktiem un ar dibinātāju saskaņotiem izglītojamo uzņemšanas noteikumiem, uzņemot izglītojamos vispārējās vidējās izglītības programmas 10. klasē un brīvajās vietās 11. un 12. klasē 2025./2026. mācību gadā, kā konkursa atlases kritēriju ņem vērā pamatizglītības sertifikātā norādīto mācību sasniegumu vērtējumu attiecīgajā mācību priekšmetā un papildus ir tiesīgas:",
+      "content": "1) rīkot iestājpārbaudījumus mācību priekšmetos, lai atbilstoši attiecīgajam valsts izglītības standartam padziļināti izvērtētu izglītojamo zināšanas un prasmes;\n2) ņemt vērā izglītojamo pamatizglītības ieguvi apliecinošajā izglītības dokumentā vai liecībā norādīto vērtējumu attiecīgajos mācību priekšmetos, arī nerīkojot iestājpārbaudījumus."
+    },
+    {
+      "provision_ref": "PN 59",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn59",
+      "title": "59. Lai nodrošinātu vienotu pieeju izglītojamo uzņemšanai valsts ģimnāziju īstenoto vispārējās vidējās izglītības programmu 10. klasē un atbilstoši valsts pamatizglītības standartam padziļināti izvērtētu izglītojamo zināšanas un prasmes, pašvaldība, kuras teritorijā ir vairākas valsts ģimnāzijas, 2025./2026. mācību gadā ir tiesīga organizēt visās valsts ģimnāzijās vienotus iestājpārbaudījumus mācību priekšmetos, savukārt pašvaldības teritorijā esošās valsts ģimnāzijas ir tiesīgas papildus rīkot iestājpārbaudījumus tikai tajos mācību priekšmetos, kuros tos nav organizējusi pašvaldība.",
+      "content": "( 27.02.2025 . likuma redakcijā, kas stājas spēkā 15.03.2025. )"
+    },
+    {
+      "provision_ref": "PN 60",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn60",
+      "title": "60. 2025./2026. mācību gadā, uzņemot izglītojamos vispārējās vidējās izglītības programmas 10. klasē un ievērojot šo pārejas noteikumu 58. un 59. punktā noteikto:",
+      "content": "1) izglītojamiem, kuri nav kārtojuši centralizētos eksāmenus, pamatizglītības sertifikātā norādīto vērtējumu aizstāj ar pamatizglītības ieguvi apliecinošajā izglītības dokumentā norādīto vērtējumu attiecīgajā mācību priekšmetā;\n2) izglītojamie, kuriem pamatizglītības programmā nav bijis ietverts šā punkta pirmajā apakšpunktā minētais mācību priekšmets, kārto izglītības iestādes dibinātāja vai izglītības iestādes ar tās dibinātāja atļauju izstrādātu zināšanu un prasmju pārbaudījumu atbilstoši valsts pamatizglītības standartam;\n3) pašvaldība ir tiesīga savā padotībā esošajām izglītības iestādēm, tostarp valsts ģimnāzijām, noteikt vienotu kārtību izglītojamo uzņemšanai vispārējās vidējās izglītības programmas 10. klasē, kā arī vienotu iestājpārbaudījumu norises kārtību, laiku, mācību priekšmetus, kuros paredzēts vienots iestājpārbaudījums, un rezultātu paziņošanas kārtību;\n4) ja izglītojamo uzņemšanai tiek piemēroti šo pārejas noteikumu 58. punktā noteiktie papildu uzņemšanas pasākumi, pamatizglītības sertifikātā norādītais vērtējums attiecīgajā mācību priekšmetā ir vienāds vai lielāks par papildu uzņemšanas pasākumu rezultātu kopsummu atbilstoši izglītības iestādes noteiktiem un ar dibinātāju saskaņotiem izglītojamo uzņemšanas noteikumiem."
+    },
+    {
+      "provision_ref": "PN 61",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn61",
+      "title": "61. Ministru kabinets ne vēlāk kā līdz 2025. gada 31. augustam izdod šā likuma 31. panta otrajā daļā un 41. panta otrajā daļā minētos noteikumus izglītojamo uzņemšanas organizēšanai un norisei.",
+      "content": "( 27.02.2025 . likuma redakcijā, kas stājas spēkā 15.03.2025. )"
+    },
+    {
+      "provision_ref": "PN 62",
+      "chapter": "X nodaļa Vispārējās izglītības finansēšana",
+      "section": "pn62",
+      "title": "62. Grozījumus šā likuma 31. panta otrajā daļā un 41. panta otrajā daļā piemēro izglītojamo uzņemšanai, sākot no 2026./2027. mācību gada.",
+      "content": "( 27.02.2025 . likuma redakcijā, kas stājas spēkā 15.03.2025. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apliecība par pamatizglītību",
+      "definition": "izglītības dokuments, kas apliecina pamatizglītības programmas apguvi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atestāts par vispārējo vidējo izglītību",
+      "definition": "izglītības dokuments, kas apliecina vispārējās vidējās izglītības programmas apguvi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "liecība",
+      "definition": "dokuments, kas apliecina pamatizglītības vai vispārējās vidējās izglītības programmas daļas apguvi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mācību priekšmets",
+      "definition": "noteiktas izglītības programmas ietvaros apgūstama zināšanu, prasmju un attieksmju sistēma, kas izstrādāta atbilstoši kādai zinātnes, tehnikas vai mākslas nozarei, ņemot vērā zinātniski pamatotas izglītojamā vecumposma īpatnības. Mācību priekšmetus apvieno mācību jomās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mācību stundu (nodarbību) slodze",
+      "definition": "izglītības programmā ietvertais regulāri apmeklējamo mācību stundu skaits mācību nedēļā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sociālā korekcija",
+      "definition": "izglītības programma, kas metodiski un organizatoriski pielāgota personām obligātās izglītības vecumā ar sociālās uzvedības novirzēm",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pagarinātās dienas grupa",
+      "definition": "izglītības iestādes nodrošināta iespēja izglītojamajiem saņemt pedagoģisku palīdzību un organizēti pavadīt brīvo laiku ārpus obligātajām mācību stundām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sekmju izraksts",
+      "definition": "dokuments, kas parāda izglītojamā mācību sasniegumu vērtējumu mācību priekšmetos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pamatizglītības vai vispārējās vidējās izglītības sertifikāts",
+      "definition": "dokuments, kas apliecina izglītojamā mācību sasniegumus mācību priekšmetā, kurā ir organizēts centralizēts eksāmens",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "centralizēts eksāmens",
+      "definition": "pēc īpašas metodikas izveidots un pēc vienotas kārtības valsts mērogā organizēts valsts pārbaudes darbs izglītojamo mācību sasniegumu novērtēšanai noteiktā mācību priekšmetā pamatizglītības un vispārējās vidējās izglītības programmā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vērtējums",
+      "definition": "izglītības programmā noteikto zināšanu, prasmju un iemaņu apguves līmeņa apliecinājums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "speciālās vajadzības",
+      "definition": "nepieciešamība saņemt tāda veida atbalstu un rehabilitāciju, kas rada iespēju izglītojamajam apgūt izglītības programmu, ņemot vērā viņa veselības stāvokli, spējas un attīstības līmeni",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "starptautiska testēšanas institūcija",
+      "definition": "institūcija, kas nodrošina pārbaudījumu svešvalodā un izsniedz dokumentu par pārbaudījuma rezultātiem, kuri pielīdzināti Eiropas kopīgajās pamatnostādnēs valodu apguvei noteiktajiem valodas prasmes līmeņiem.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

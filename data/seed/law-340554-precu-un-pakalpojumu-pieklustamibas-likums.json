@@ -1,0 +1,349 @@
+{
+  "id": "lv-law-340554",
+  "type": "statute",
+  "title": "Preču un pakalpojumu piekļūstamības likums",
+  "short_name": "TA-340554",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/340554-precu-un-pakalpojumu-pieklustamibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) elektroniskā grāmata un tās programmatūra — pakalpojums, kas ietver tādu digitālo datņu nodrošināšanu, ar ko piegādā grāmatas elektronisku versiju, kurai var piekļūt un kuru var pārskatīt, lasīt un izmantot, un programmatūru, tai skaitā mobilajās ierīcēs izmantojamus pakalpojumus un mobilās lietotnes, kas paredzētas, lai piekļūtu minētajām digitālajām datnēm un tās pārskatītu, lasītu un izmantotu, bet kas neietver elektroniskā lasītāja programmatūru;\n2) elektroniskās tirdzniecības pakalpojums — informācijas sabiedrības pakalpojums, kuru sniedz attālināti, izmantojot tīmekļvietnes un mobilajās ierīcēs izmantojamus pakalpojumus, ar elektroniskiem līdzekļiem un pēc klienta individuāla pieprasījuma un kura mērķis ir noslēgt distances līgumu;\n3) elektroniskais lasītājs — specializēta ierīce, kas ietver aparatūru un programmatūru un ko izmanto, lai piekļūtu elektronisko grāmatu datnēm un tās pārskatītu, lasītu un izmantotu;\n4) elektroniska biļete — elektroniska sistēma, kas personas tiesības uz pārvadājumu apliecina fiziskā braukšanas kartē vai citā ierīcē elektroniski glabātā vienreizējas vai daudzreizējas braukšanas biļešu, braukšanas abonementu vai braukšanas kredīta veidā;\n5) importētājs — privātpersona, kas veic saimniecisko darbību Eiropas Savienībā un laiž Eiropas Savienības tirgū trešās valsts preci;\n6) interaktīva datošanas spēja — funkcionalitāte, kas nodrošina cilvēka un ierīces mijiedarbību, ļaujot apstrādāt un pārraidīt datus, balsi vai video, vai to kombināciju;\n7) izņemšana — jebkāds pasākums, kura mērķis ir novērst to, ka piegādes ķēdē esoša prece tiek piedāvāta tirgū;\n8) izplatītājs — piegādes ķēdē esoša privātpersona, kas preci piedāvā tirgū un nav ražotājs vai importētājs;\n9) laist tirgū — preci pirmo reizi piedāvāt Eiropas Savienības tirgū;\n10) pakalpojuma sniedzējs — privātpersona, kas sniedz pakalpojumu Eiropas Savienības tirgū vai piedāvā sniegt šādu pakalpojumu patērētājiem Eiropas Savienībā;\n11) pakalpojums, kas nodrošina piekļuvi audiovizuālu elektronisko plašsaziņas līdzekļu pakalpojumiem, — pakalpojums publisko elektronisko sakaru tīklos, kuru izmanto, lai identificētu, izvēlētos un saņemtu informāciju par audiovizuālu elektronisko plašsaziņas līdzekļu pakalpojumiem, kā arī lai tos skatītos, tai skaitā elektroniskie raidījumu apraksti, subtitri, audioapraksti, ierunāti subtitri un tulkojumi zīmju valodā;\n12) pasažieru gaisa pārvadājumu pakalpojums — komerciāls gaisa pārvadājumu pakalpojums pasažieriem atbilstoši Eiropas Parlamenta un Padomes 2006. gada 5. jūlija regulas (EK) Nr. 1107/2006 par invalīdu un personu ar ierobežotām pārvietošanās spējām tiesībām, ceļojot ar gaisa transportu (turpmāk — regula Nr. 1107/2006 ) 1. panta 2. punktam un 2. panta \"l\" apakšpunktam, tiem dodoties prom no lidostas, esot lidostā tranzītā vai ierodoties lidostā, ja lidosta atrodas kādas Eiropas Savienības dalībvalsts teritorijā, tostarp lidojumi no lidostas, kas atrodas trešā valstī, uz lidostu Eiropas Savienības dalībvalsts teritorijā, ja pakalpojuma operators ir Eiropas Savienības gaisa pārvadātājs;\n13) patērētāju universāldatoru aparatūras sistēma — aparatūras komplekts, kas veido vienotu datoru un ko raksturo daudzfunkcionalitāte, spēja ar piemērotas programmatūras palīdzību veikt visbiežāk sastopamos datošanas uzdevumus, un kas ir paredzēts lietošanai patērētājiem, tai skaitā personālie datori, galddatori, piezīmjdatori, viedtālruņi un planšetdatori;\n14) piedāvāt tirgū — preci par samaksu vai bez maksas piegādāt izplatīšanai, patēriņam vai izmantošanai Eiropas Savienības tirgū, veicot saimniecisko darbību;\n15) pilnvarotais pārstāvis — privātpersona, kas veic saimniecisko darbību Eiropas Savienībā un ir saņēmusi ražotāja rakstveida pilnvarojumu rīkoties tā vārdā attiecībā uz konkrētiem uzdevumiem;\n16) pilsētas pārvadājumu pakalpojums — autobusa, dzelzceļa, tramvaja, trolejbusa un metro pasažieru pārvadājumu pakalpojums, kas tiek sniegts pilsētas nozīmes maršrutā, t. i., maršrutā, kas nodrošina pārvietošanos valstspilsētas administratīvajās robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām;\n17) prece — ražošanas procesā radīta viela, preparāts vai produkts, izņemot pārtiku, barību, dzīvus augus un dzīvniekus, cilvēku izcelsmes produktus, augu un dzīvnieku izcelsmes produktus, kuri ir saistīti ar to turpmāku pavairošanu;\n18) ražotājs — privātpersona, kas ražo preci vai liek preci izveidot vai ražot un tirgo minēto preci ar savu vārdu, nosaukumu vai preču zīmi;\n19) reģionālo pārvadājumu pakalpojums — autobusa, dzelzceļa, tramvaja, trolejbusa un metro pasažieru pārvadājumu pakalpojums, kas tiek sniegts reģionālas nozīmes maršrutā un nodrošina pārvietošanos:\na) valsts teritorijā (galvenokārt no vienas administratīvās teritorijas uz administratīvo teritoriju citā plānošanas reģionā) vai kas savieno valstspilsētas,\nb) viena novada administratīvajā teritorijā, no šā novada uz tuvākajām apkārtējām teritorijām vai uz citu novadu plānošanas reģiona robežās;\n20) saimnieciskās darbības veicējs — ražotājs, pilnvarotais pārstāvis, importētājs, izplatītājs vai pakalpojuma sniedzējs;\n21) ūdenstransporta pasažieru pārvadājumu pakalpojums — pasažieru pārvadājumu pakalpojums, uz ko attiecas Eiropas Parlamenta un Padomes 2010. gada 24. novembra regulas (ES) Nr. 1177/2010 par pasažieru tiesībām, ceļojot pa jūru un iekšzemes ūdensceļiem, un ar ko groza regulu (EK) Nr. 2006/2004 (turpmāk — regula Nr. 1177/2010 ) 2. panta 1. punkts, izņemot pakalpojumus, kas minēti regulas Nr. 1177/2010 2. panta 2. punktā."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir veicināt preču un pakalpojumu piekļūstamību personām ar invaliditāti un visām personām, kurām ir ilgstoši fiziski, garīgi, intelektuāli vai maņu traucējumi, kas mijiedarbībā ar dažādiem šķēršļiem var apgrūtināt šo personu pilnvērtīgu un efektīvu līdzdalību sabiedrības dzīvē vienlīdzīgi ar citiem."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likumu piemēro šādām precēm:\n1) patērētāju universāldatoru aparatūras sistēmām un to operētājsistēmām. Operētājsistēma šā likuma izpratnē ir programmatūra, kas uztur saskarni ar perifēro aparatūru, plāno uzdevumus, iedala atmiņu un nodrošina standarta saskarni lietotājam laikā, kad nedarbojas neviena lietojumprogramma, tostarp nodrošina grafisko lietotāja saskarni, neatkarīgi no tā, vai šāda programmatūra ir patērētāju universāldatoru aparatūras sastāvdaļa vai savrupa programmatūra, kas paredzēta izmantošanai patērētāju universāldatoru aparatūrā, izņemot operētājsistēmas ielādētāju, ievadizvades pamatsistēmu vai citu aparātprogrammatūru, kas nepieciešama palaišanas laikā vai tad, kad tiek instalēta operētājsistēma;\n2) pašapkalpošanās termināļiem:\na) maksājumu termināļiem. Maksājumu terminālis šā likuma izpratnē ir iekārta, kuras galvenais nolūks ir ļaut fiziskā tirdzniecības vietā veikt maksājumus, izmantojot Maksājumu pakalpojumu un elektroniskās naudas likumā minētos maksājuma instrumentus,\nb) šādiem pašapkalpošanās termināļiem, kas paredzēti šā likuma darbības jomā ietilpstošo pakalpojumu sniegšanai: bankomāti, biļešu automāti, reģistrācijas automāti un interaktīvi pašapkalpošanās termināļi informācijas sniegšanai, izņemot termināļus, kas uzstādīti kā integrētas transportlīdzekļu, gaisa kuģu, kuģu vai ritošā sastāva daļas;\n3) patērētāju galiekārtām ar interaktīvu datošanas spēju, ko izmanto elektronisko sakaru pakalpojumiem;\n4) patērētāju galiekārtām ar interaktīvu datošanas spēju, ko izmanto, lai piekļūtu audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem. Patērētāju galiekārta ar interaktīvu datošanas spēju, ko izmanto, lai piekļūtu audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem, šā likuma izpratnē ir jebkāda iekārta, kuras galvenais nolūks ir nodrošināt piekļuvi audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem;\n5) elektroniskajiem lasītājiem.\n(2) Likumu piemēro šādiem pakalpojumiem:\n1) elektronisko sakaru pakalpojumiem, izņemot starpierīču saziņas pakalpojumus;\n2) pakalpojumiem, kas nodrošina piekļuvi audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem;\n3) turpmāk minētajiem gaisa, autobusu, dzelzceļa un ūdenstransporta pasažieru pārvadājumu pakalpojumu elementiem, izņemot pilsētu un reģionālo pārvadājumu pakalpojumus, uz kuriem attiecas tikai šā punkta \"e\" apakšpunkts:\na) tīmekļvietnēm,\nb) mobilajās ierīcēs izmantojamiem pakalpojumiem, tai skaitā mobilajām lietotnēm,\nc) elektroniskajām biļetēm un elektronisko biļešu pārdošanas pakalpojumiem. Elektronisko biļešu pārdošanas pakalpojums šā likuma izpratnē ir elektroniska sistēma, kurā, izmantojot ierīci ar interaktīvu datošanas spēju, pasažieru pārvadājumu biļetes tiek iegādātas tiešsaistē un piegādātas pircējam elektroniskā formā, lai tās varētu izdrukāt papīra formā vai brauciena laikā parādīt, izmantojot mobilo ierīci ar interaktīvu datošanas spēju,\nd) pārvadājumu pakalpojumu informācijas (tai skaitā reāllaika ceļošanas informācijas) sniegšanai,\ne) interaktīviem pašapkalpošanās termināļiem, izņemot tos, kuri uzstādīti kā integrētas transportlīdzekļu, gaisa kuģu, kuģu un ritošā sastāva daļas, lai nodrošinātu pasažieru pārvadājumu pakalpojuma daļu;\n4) turpmāk minētajiem patērētājiem paredzētiem finanšu pakalpojumiem:\na) Patērētāju tiesību aizsardzības likumā minētajai patērētāju kreditēšanai,\nb) Finanšu instrumentu tirgus likumā minētajiem ieguldījumu pakalpojumiem un blakuspakalpojumiem,\nc) Maksājumu pakalpojumu un elektroniskās naudas likumā minētajiem maksājuma pakalpojumiem, ar maksājumu kontu saistītajiem pakalpojumiem un elektroniskajai naudai;\n5) elektroniskajām grāmatām un to programmatūrai;\n6) elektroniskās tirdzniecības pakalpojumiem.\n(3) Likumu piemēro atbildēšanai uz vienoto ārkārtas palīdzības izsaukuma numuru \"112\".\n(4) Likums neattiecas uz šādu tīmekļvietņu un mobilo lietotņu saturu:\n1) tiešsaistes kartes un kartogrāfijas pakalpojumi, ja būtisku informāciju par kartēm, kas paredzētas izmantošanai navigācijā, sniedz piekļūstamā digitālā formātā;\n2) trešo personu saturs, izņemot gadījumu, kad attiecīgais saimnieciskās darbības veicējs to ir finansējis vai izstrādājis, vai kontrolē.\n(5) Likums neskar tiesiskās attiecības, kas izriet no Autortiesību likuma un Eiropas Parlamenta un Padomes 2017. gada 13. septembra regulas (ES) 2017/1563 par to, kā tādu personu interesēs, kas ir neredzīgas, ar redzes traucējumiem vai ar drukas lasītnespēju citu iemeslu dēļ, notiek Savienības un trešo valstu pārrobežu apmaiņa ar konkrētu ar autortiesībām aizsargātu darbu un blakustiesību objektu kopijām pieejamā formātā.\n(6) Saimnieciskās darbības veicējs, kurš nodarbina mazāk par 10 personām un kura gada apgrozījums nepārsniedz 2 000 000 euro vai gada bilances kopsumma nepārsniedz 2 000 000 euro , un kurš sniedz šā likuma darbības jomā ietilpstošos pakalpojumus, ir atbrīvots no pienākuma ievērot pakalpojumu piekļūstamības prasības."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Piekļūstamības prasības",
+      "section": "4",
+      "title": "Preču un pakalpojumu piekļūstamības prasības",
+      "content": "(1) Tirgū ir atļauts laist preces un sniegt pakalpojumus, kas atbilst Ministru kabineta noteiktajām piekļūstamības prasībām.\n(2) Ministru kabinets nosaka piekļūstamības prasības attiecībā uz precēm, kā arī preces iepakojumu un instrukciju, pakalpojumiem, vienoto ārkārtas palīdzības izsaukuma numuru \"112\", preču un pakalpojumu iezīmēm, elementiem un funkcijām, kā arī funkcionālā snieguma kritērijus (turpmāk — piekļūstamības prasības)."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Piekļūstamības prasības",
+      "section": "5",
+      "title": "Citos Eiropas Savienības tiesību aktos pasažieru pārvadājumu jomā noteiktās piekļūstamības prasības",
+      "content": "Pasažieru pārvadājumu pakalpojumus, kuri atbilst prasībām par piekļūstamas informācijas un informācijas par piekļūstamību sniegšanu, kas noteiktas Eiropas Parlamenta un Padomes 2004. gada 11. februāra regulā (EK) Nr. 261/2004 , ar ko paredz kopīgus noteikumus par kompensāciju un atbalstu pasažieriem sakarā ar iekāpšanas atteikumu un lidojumu atcelšanu vai ilgu kavēšanos un ar ko atceļ regulu (EEK) Nr. 295/91 , regulā Nr. 1107/2006 , Eiropas Parlamenta un Padomes 2021. gada 29. aprīļa regulā (ES) 2021/782 par dzelzceļa pasažieru tiesībām un pienākumiem, regulā Nr. 1177/2010 un Eiropas Parlamenta un Padomes 2011. gada 16. februāra regulā (ES) Nr. 181/2011 par autobusu pasažieru tiesībām un par grozījumiem regulā (EK) Nr. 2006/2004 , kā arī attiecīgajos tieši piemērojamos Eiropas Savienības tiesību aktos, kuri pieņemti Eiropas Savienības dzelzceļa sistēmas savstarpējas izmantojamības nodrošināšanas jomā, uzskata par atbilstošiem šā likuma prasībām."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "6",
+      "title": "Ražotāja pienākumi",
+      "content": "(1) Laižot preces tirgū, ražotājs nodrošina, ka tās ir projektētas un ražotas atbilstoši piekļūstamības prasībām.\n(2) Ražotājs saskaņā ar šā likuma 7. pantu sagatavo tehnisko dokumentāciju un veic atbilstības novērtēšanas procedūru vai nodrošina tās veikšanu. Ja ar atbilstības novērtēšanas procedūru ir pierādīts, ka prece atbilst tai piemērojamām piekļūstamības prasībām, ražotājs sagatavo atbilstības deklarāciju un uzliek CE zīmi.\n(3) Ražotājs glabā tehnisko dokumentāciju un atbilstības deklarāciju piecus gadus pēc preces laišanas tirgū.\n(4) Ja prece tiek ražota sērijveidā, ražotājs izstrādā kontroles procedūras, lai nodrošinātu pastāvīgu preces atbilstību piekļūstamības prasībām, un ņem vērā izmaiņas preces konstrukcijā vai raksturlielumos, kā arī izmaiņas piemērojamos standartos vai tehniskajās specifikācijās, kuras izdotas saskaņā ar Eiropas Parlamenta un Padomes 2012. gada 25. oktobra regulas (ES) Nr. 1025/2012 par Eiropas standartizāciju, ar ko groza padomes direktīvas 89/686/EEK un 93/15/EEK un Eiropas Parlamenta un Padomes direktīvas 94/9/EK , 94/25/EK, 95/16/EK, 97/23/EK, 98/34/EK, 2004/22/EK, 2007/23/EK, 2009/23/EK un 2009/105/EK, un ar ko atceļ Padomes lēmumu 87/95/EEK un Eiropas Parlamenta un Padomes lēmumu Nr. 1673/2006/EK (Dokuments attiecas uz EEZ) 2. panta 4. punktu (turpmāk — tehniskā specifikācija) un uz kuru pamata ir deklarēta preces atbilstība piekļūstamības prasībām.\n(5) Ražotājs nodrošina, ka tirgū laistās preces ir marķētas, norādot tipu, partijas vai sērijas numuru vai citu identificējošo elementu, vai, ja preces izmēra vai veida dēļ tas nav iespējams, nodrošina, ka nepieciešamā informācija ir sniegta uz iepakojuma vai precei pievienotajā dokumentā.\n(6) Ražotājs uz preces norāda savu vārdu, nosaukumu vai reģistrēto preču zīmi, vienu adresi un saziņai ar to nepieciešamo kontaktinformāciju vai, ja tas nav iespējams, minēto informāciju norāda uz iepakojuma vai precei pievienotajā dokumentā. Kontaktinformācija ir skaidra, saprotama un viegli uztverama.\n(7) Ražotājs nodrošina, ka precei ir pievienota lietošanas instrukcija un drošuma informācija valsts valodā. Lietošanas instrukcija un drošuma informācija, kā arī cita uz preces norādītā informācija ir skaidra, saprotama un viegli uztverama.\n(8) Ražotājs, kurš uzskata vai kuram ir pamats uzskatīt, ka prece, kuru tas laidis tirgū, neatbilst piekļūstamības prasībām, nekavējoties veic korektīvas darbības, lai nodrošinātu minētās preces atbilstību piekļūstamības prasībām vai, ja nepieciešams, to izņemtu no tirgus, un informē tirgus uzraudzības iestādi, norādot detalizētu informāciju par neatbilstību un veiktajām korektīvajām darbībām. Šādiem gadījumiem ražotājs uztur reģistru, kurā iekļauta informācija par piemērojamām piekļūstamības prasībām neatbilstošām precēm un ar tām saistītajām sūdzībām.\n(9) Pēc tirgus uzraudzības iestādes pamatota pieprasījuma ražotājs sniedz tai visu nepieciešamo informāciju un dokumentāciju valsts valodā, lai pierādītu preces atbilstību piekļūstamības prasībām.\n(10) Pēc tirgus uzraudzības iestādes pieprasījuma ražotājs sadarbojas ar to, lai novērstu tirgū laisto preču neatbilstību tām piemērojamām piekļūstamības prasībām.\n(11) Šā likuma izpratnē importētāju un izplatītāju uzskata par ražotāju un tam ir šajā nodaļā noteiktie pienākumi, ja tas laiž tirgū preces ar savu vārdu, nosaukumu vai preču zīmi vai izmaina tirgū laisto preci tā, ka var tikt ietekmēta preces atbilstība tai piemērojamām piekļūstamības prasībām."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "7",
+      "title": "Preces atbilstības novērtēšanas procedūra",
+      "content": "(1) Iekšējā ražošanas kontrole ir atbilstības novērtēšanas procedūra, ar kuru ražotājs izpilda šā panta otrajā, trešajā, ceturtajā un piektajā daļā noteiktos pienākumus, kā arī nodrošina un deklarē to, ka prece atbilst šā likuma prasībām. Ražotājs ir atbildīgs par deklarācijā sniegto informāciju.\n(2) Ražotājs sagatavo tehnisko dokumentāciju. Pēc tehniskās dokumentācijas ir iespējams pārliecināties par preces atbilstību piekļūstamības prasībām un, ja ražotājs ir piemērojis šā likuma 13. pantā paredzēto atrunu, pierādīt, ka attiecīgo piekļūstamības prasību ievērošana radītu būtiskas izmaiņas vai nesamērīgu slogu. Tehniskajā dokumentācijā norāda tikai piemērojamās prasības un, ciktāl tas nepieciešams novērtēšanai, ietver informāciju par preces projektēšanu, ražošanu un darbību.\n(3) Tehniskajā dokumentācijā iekļauj:\n1) vispārīgu preces aprakstu;\n2) pilnībā vai daļēji piemēroto saskaņoto standartu un to tehnisko specifikāciju sarakstu, atsauces uz kurām ir publicētas Eiropas Savienības Oficiālajā Vēstnesī, un, ja minētie saskaņotie standarti vai tehniskās specifikācijas nav piemērotas, iekļauj to risinājumu aprakstu, kuri īstenoti, lai ievērotu piekļūstamības prasības. Ja saskaņotos standartus vai tehniskās specifikācijas piemēro daļēji, tehniskajā dokumentācijā norāda piemērotās daļas.\n(4) Ražotājs veic visus pasākumus, kas nepieciešami, lai ražošanas process un tā pārraudzība nodrošinātu preces atbilstību šā panta otrajā un trešajā daļā minētajai tehniskajai dokumentācijai un piekļūstamības prasībām.\n(5) Ražotājs uzliek CE zīmi katrai atsevišķai precei, kas atbilst piemērojamām šā likuma prasībām. Ražotājs sagatavo rakstveidā preces modeļa atbilstības deklarāciju. Pēc tirgus uzraudzības iestādes pieprasījuma ražotājs uzrāda tai atbilstības deklarācijas kopiju.\n(6) Šā panta piektajā daļā noteiktos ražotāja pienākumus viņa uzdevumā un uz viņa atbildību var pildīt tā pilnvarotais pārstāvis, ja šādi pienākumi ir paredzēti pilnvarā."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "8",
+      "title": "Pilnvarotā pārstāvja pienākumi",
+      "content": "(1) Ražotājs ar rakstveida pilnvaru var iecelt pilnvaroto pārstāvi. Pilnvarotā pārstāvja pilnvarās neietilpst šā likuma 6. panta pirmajā daļā noteiktie pienākumi un tehniskās dokumentācijas izstrāde.\n(2) Pilnvarā ražotājs pilnvarotajam pārstāvim nosaka vismaz šādus pienākumus:\n1) piecus gadus pēc preces laišanas tirgū glabāt un nodrošināt tirgus uzraudzības iestādei pieejamu atbilstības deklarāciju un tehnisko dokumentāciju;\n2) pēc tirgus uzraudzības iestādes pamatota pieprasījuma sniegt informāciju un dokumentāciju, kas pierāda preces atbilstību piekļūstamības prasībām;\n3) pēc tirgus uzraudzības iestādes pieprasījuma sadarboties ar to, lai novērstu preces neatbilstību tai piemērojamām piekļūstamības prasībām."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "9",
+      "title": "Importētāja pienākumi",
+      "content": "(1) Importētājs laiž tirgū preces, kas atbilst piekļūstamības prasībām.\n(2) Pirms preces laišanas tirgū importētājs pārliecinās, ka ražotājs ir veicis šā likuma 7. pantā noteikto atbilstības novērtēšanas procedūru, sagatavojis atbilstošo tehnisko dokumentāciju, uzlicis CE zīmi, pievienojis nepieciešamo dokumentāciju, kā arī izpildījis šā likuma 6. panta piektajā un sestajā daļā minētos pienākumus.\n(3) Importētājam, kurš uzskata vai kuram ir pamats uzskatīt, ka prece neatbilst piekļūstamības prasībām, ir aizliegts laist preci tirgū, kamēr nav panākta tās atbilstība piekļūstamības prasībām. Importētājs informē ražotāju un tirgus uzraudzības iestādi par preces neatbilstību tai piemērojamām piekļūstamības prasībām.\n(4) Importētājs uz preces norāda savu vārdu, nosaukumu vai reģistrēto preču zīmi, vienu adresi un saziņai ar to nepieciešamo kontaktinformāciju vai, ja tas nav iespējams, minēto informāciju norāda uz iepakojuma vai precei pievienotajā dokumentā. Kontaktinformācija ir skaidra, saprotama un viegli uztverama.\n(5) Importētājs nodrošina, ka precei ir pievienota lietošanas instrukcija un drošuma informācija valsts valodā. Lietošanas instrukcija un drošuma informācija, kā arī cita uz preces norādītā informācija ir skaidra, saprotama un viegli uztverama.\n(6) Importētājs nodrošina, ka laikā, kad tas ir atbildīgs par preci, tās uzglabāšanas un pārvadāšanas apstākļi neietekmē preces atbilstību piekļūstamības prasībām.\n(7) Importētājs piecus gadus pēc preces laišanas tirgū glabā atbilstības deklarācijas kopiju un nodrošina tās pieejamību tirgus uzraudzības iestādēm, kā arī pēc tirgus uzraudzības iestādes pieprasījuma nodrošina pieejamību tehniskajai dokumentācijai.\n(8) Importētājs, kurš uzskata vai kuram ir pamats uzskatīt, ka prece, kuru tas laidis tirgū, neatbilst šā likuma prasībām, nekavējoties veic korektīvas darbības, lai nodrošinātu preces atbilstību šā likuma prasībām vai, ja nepieciešams, to izņemtu no tirgus. Ja prece neatbilst tai piemērojamām piekļūstamības prasībām, importētājs nekavējoties par to informē tirgus uzraudzības iestādi, norādot detalizētu informāciju par neatbilstību un veiktajām korektīvajām darbībām. Šādiem gadījumiem importētājs uztur reģistru, kurā iekļauta informācija par piemērojamām piekļūstamības prasībām neatbilstošām precēm un ar tām saistītajām sūdzībām.\n(9) Pēc tirgus uzraudzības iestādes pamatota pieprasījuma importētājs sniedz tai visu nepieciešamo informāciju un dokumentāciju valsts valodā, lai pierādītu preces atbilstību šā likuma prasībām.\n(10) Pēc tirgus uzraudzības iestādes pieprasījuma importētājs sadarbojas ar to, lai novērstu tirgū laisto preču neatbilstību tām piemērojamām piekļūstamības prasībām."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "10",
+      "title": "Izplatītāja pienākumi",
+      "content": "(1) Preci piedāvājot tirgū, izplatītājs rīkojas ar pienācīgu rūpību attiecībā uz piekļūstamības prasībām.\n(2) Pirms preces piedāvāšanas tirgū izplatītājs pārliecinās, ka precei ir uzlikta CE zīme un pievienota nepieciešamā dokumentācija, lietošanas instrukcija un drošuma informācija valsts valodā un ka ražotājs un importētājs ir izpildījuši šā likuma 6. panta piektajā un sestajā daļā un 9. panta ceturtajā daļā noteiktās prasības.\n(3) Izplatītājs, kurš uzskata vai kuram ir pamats uzskatīt, ka prece neatbilst šajā likumā noteiktajām tai piemērojamām piekļūstamības prasībām, nepiedāvā preci tirgū, līdz nav panākta tās atbilstība. Ja prece neatbilst tai piemērojamām piekļūstamības prasībām, izplatītājs par to informē ražotāju vai importētāju un tirgus uzraudzības iestādi.\n(4) Izplatītājs nodrošina, ka laikā, kad tas ir atbildīgs par preci, tās uzglabāšanas un pārvadāšanas apstākļi neietekmē preces atbilstību piekļūstamības prasībām.\n(5) Izplatītājs, kurš uzskata vai kuram ir pamats uzskatīt, ka prece, kuru tas piedāvājis tirgū, neatbilst piekļūstamības prasībām, nodrošina, ka tiek veiktas nepieciešamās korektīvās darbības, lai nodrošinātu preces atbilstību piekļūstamības prasībām vai, ja nepieciešams, to izņemtu no tirgus. Ja prece neatbilst tai piemērojamām piekļūstamības prasībām, izplatītājs nekavējoties par to informē tirgus uzraudzības iestādi, norādot detalizētu informāciju par neatbilstību un veiktajām korektīvajām darbībām.\n(6) Pēc tirgus uzraudzības iestādes pamatota pieprasījuma izplatītājs sniedz tai visu nepieciešamo informāciju un dokumentāciju valsts valodā, lai pierādītu preces atbilstību šā likuma prasībām.\n(7) Pēc tirgus uzraudzības iestādes pieprasījuma izplatītājs sadarbojas ar to, lai novērstu tirgū piedāvātās preces neatbilstību tai piemērojamām piekļūstamības prasībām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "11",
+      "title": "Preces piedāvāšanā iesaistītā saimnieciskās darbības veicēja identificēšana",
+      "content": "(1) Pēc tirgus uzraudzības iestādes pieprasījuma šā likuma 6. , 8. , 9. un 10. pantā minētais saimnieciskās darbības veicējs sniedz informāciju par preci, norādot:\n1) saimnieciskās darbības veicēju, kurš tam ir piegādājis preci;\n2) saimnieciskās darbības veicēju, kuram tas ir piegādājis preci.\n(2) Šā likuma 6. , 8. , 9. un 10. pantā minētais saimnieciskās darbības veicējs nodrošina šā panta pirmajā daļā minētās informācijas pieejamību tirgus uzraudzības iestādei piecus gadus pēc tam, kad tam piegādāta prece, un piecus gadus pēc tam, kad tas ir piegādājis preci."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "12",
+      "title": "Pakalpojuma sniedzēja pienākumi",
+      "content": "(1) Pakalpojuma sniedzējs sniedz pakalpojumu saskaņā ar piekļūstamības prasībām.\n(2) Pakalpojuma sniedzējs lietošanas noteikumos vai līdzvērtīgā dokumentā ietver informāciju par pakalpojuma atbilstību piekļūstamības prasībām un, ciktāl tas nepieciešams novērtēšanai, apraksta pakalpojuma projektu un darbību. Papildus Patērētāju tiesību aizsardzības likumā noteiktajām prasībām par informāciju, kas sniedzama patērētājiem, pakalpojuma sniedzējs lietošanas noteikumos vai līdzvērtīgā dokumentā ietver:\n1) vispārīgu pakalpojuma aprakstu piekļūstamos formātos;\n2) aprakstu un paskaidrojumus, kas nepieciešami, lai pakalpojuma saņēmējs saprastu pakalpojuma darbību un funkcionalitāti;\n3) apliecinājumu tam, ka pakalpojuma sniegšanas process un tā pārraudzība nodrošina pakalpojuma atbilstību šajā pantā noteiktajām prasībām, kā arī atbilstību piekļūstamības prasībām.\n(3) Lai ievērotu šā panta otrajā daļā noteiktās prasības, pakalpojuma sniedzējs var pilnībā vai daļēji piemērot saskaņotos standartus un tehniskās specifikācijas, atsauces uz kurām ir publicētas Eiropas Savienības Oficiālajā Vēstnesī.\n(4) Šā panta otrajā un trešajā daļā minēto informāciju sabiedrībai dara pieejamu piekļūstamos formātos. Pakalpojuma sniedzējs minēto informāciju glabā līdz brīdim, kad beidz sniegt pakalpojumu.\n(5) Pakalpojuma sniedzējs pakalpojuma sniegšanas laikā nodrošina tā nepārtrauktu atbilstību piekļūstamības prasībām. Pakalpojuma sniedzējs pienācīgi ņem vērā pakalpojuma sniegšanas procesa izmaiņas, piekļūstamības prasību izmaiņas un izmaiņas saskaņotajos standartos vai tehniskajās specifikācijās, uz kuru pamata ir deklarēta atbilstība piekļūstamības prasībām.\n(6) Ja konstatēta pakalpojuma neatbilstība piekļūstamības prasībām, pakalpojuma sniedzējs veic korektīvus pasākumus, lai panāktu pakalpojuma atbilstību prasībām. Ja pakalpojums neatbilst piekļūstamības prasībām, pakalpojuma sniedzējs par to nekavējoties informē to dalībvalstu kompetentās iestādes, kurās pakalpojums tiek sniegts, norādot nepieciešamo informāciju par neatbilstību un veiktajiem korektīvajiem pasākumiem.\n(7) Pēc kompetentās iestādes pamatota pieprasījuma pakalpojuma sniedzējs iesniedz tai informāciju, kas nepieciešama, lai apliecinātu pakalpojuma atbilstību piekļūstamības prasībām. Pēc kompetentās iestādes pieprasījuma pakalpojuma sniedzējs sadarbojas ar to jebkādos pasākumos, lai panāktu pakalpojuma atbilstību piekļūstamības prasībām."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "13",
+      "title": "Būtiskas izmaiņas un nesamērīgs slogs",
+      "content": "(1) Saimnieciskās darbības veicējs nodrošina piekļūstamības prasību ievērošanu tādā apjomā, kādā atbilstība nerada:\n1) būtiskas izmaiņas, t. i., nozīmīgus preces vai pakalpojuma pārveidojumus, kuru rezultātā būtiski mainās preces vai pakalpojuma pamatraksturs;\n2) nesamērīgu slogu atbilstoši šā likuma 14. pantā noteiktajiem kritērijiem.\n(2) Saimnieciskās darbības veicējs novērtē, vai preces un pakalpojuma atbilstība piekļūstamības prasībām rada saimnieciskās darbības veicējam būtiskas izmaiņas vai nesamērīgu slogu atbilstoši šā likuma 14. pantā noteiktajiem novērtēšanas kritērijiem.\n(3) Saimnieciskās darbības veicējs šā panta otrajā daļā minēto novērtējumu dokumentē rakstveidā un glabā piecus gadus pēc tam, kad attiecīgā prece pēdējo reizi piedāvāta tirgū vai attiecīgais pakalpojums sniegts pēdējo reizi. Pakalpojuma sniedzējs atjauno nesamērīga sloga novērtējumu par katru pakalpojuma kategoriju vai tipu reizi piecos gados vai biežāk, ja pakalpojums tiek mainīts vai ja to prasa kompetentā iestāde. Saimnieciskās darbības veicējs pēc tirgus uzraudzības iestādes vai kompetentās iestādes pieprasījuma iesniedz tai novērtējuma kopiju.\n(4) Saimnieciskās darbības veicējs, kurš nodarbina mazāk par 10 personām un kura gada apgrozījums nepārsniedz 2 000 000 euro vai gada bilances kopsumma nepārsniedz 2 000 000 euro , un kurš piedāvā preces, ir atbrīvots no pienākuma novērtēšanu dokumentēt rakstveidā. Pēc tirgus uzraudzības iestādes pieprasījuma minētais saimnieciskās darbības veicējs sniedz tai informāciju par faktiem, kas ir būtiski saistībā ar būtisku izmaiņu vai nesamērīga sloga atrunas piemērošanu.\n(5) Ja saimnieciskās darbības veicējs no citiem publiskiem vai privātiem avotiem, kas nav viņa paša resursi, saņem finansējumu, kas tiek sniegts nolūkā uzlabot piekļūstamību, tas nav tiesīgs piemērot nesamērīga sloga atrunu.\n(6) Ja saimnieciskās darbības veicējs, izņemot šā panta ceturtajā daļā minēto, precei vai pakalpojumam piemēro kādu no šā panta pirmajā daļā minētajiem izņēmumiem, viņš par to rakstveidā informē tās dalībvalsts tirgus uzraudzības iestādi vai kompetento iestādi, kurā tas laiž tirgū konkrēto preci vai sniedz konkrēto pakalpojumu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Saimnieciskās darbības veicēja pienākumi",
+      "section": "14",
+      "title": "Nesamērīga sloga novērtēšanas kritēriji",
+      "content": "Lai pierādītu, ka piekļūstamības prasību izpilde saimnieciskās darbības veicējam rada nesamērīgu slogu, novērtējumu veic atbilstoši šādiem kritērijiem:\n1) piekļūstamības prasību izpildes neto izmaksu samērs attiecībā pret vispārējām izmaksām (darbības izdevumi un kapitālizdevumi), kas saimnieciskās darbības veicējam rodas, ražojot, izplatot vai importējot preci vai sniedzot pakalpojumu:\na) vienreizējas organizatoriskās izmaksas saistībā ar papildu darbiniekiem ar īpašām zināšanām par piekļūstamību, darbinieku apmācība piekļūstamības jautājumos, izmaksas saistībā ar jauna procesa izstrādi nolūkā iekļaut piekļūstamību preces izstrādē vai pakalpojuma sniegšanā, izmaksas saistībā ar piekļūstamības vadlīniju izstrādi, vienreizējas izmaksas saistībā ar piekļūstamību regulējošu tiesību aktu izpēti,\nb) pastāvīgas ražošanas un izstrādes izmaksas saistībā ar preces vai pakalpojuma piekļūstamības elementu izveidi, izmaksas, kas rodas ražošanas procesos, izmaksas saistībā ar preces vai pakalpojuma piekļūstamības pārbaudi, izmaksas saistībā ar dokumentācijas sagatavošanu;\n2) saimnieciskās darbības veicēja aplēstās izmaksas un ieguvumi (ieskaitot ražošanas procesus un ieguldījumus) attiecībā pret aplēstajiem ieguvumiem personām ar invaliditāti, ņemot vērā konkrētās preces vai pakalpojuma lietošanas reižu daudzumu un biežumu;\n3) piekļūstamības prasību izpildes neto izmaksu samērs attiecībā pret saimnieciskās darbības veicēja neto apgrozījumu:\na) vienreizējas organizatoriskās izmaksas saistībā ar papildu darbiniekiem ar īpašām zināšanām par piekļūstamību, darbinieku apmācība piekļūstamības jautājumos, izmaksas saistībā ar jauna procesa izstrādi nolūkā iekļaut piekļūstamību preces izstrādē vai pakalpojuma sniegšanā, izmaksas saistībā ar piekļūstamības vadlīniju izstrādi, vienreizējas izmaksas saistībā ar piekļūstamību regulējošu tiesību aktu izpēti,\nb) pastāvīgas ražošanas un izstrādes izmaksas saistībā ar preces vai pakalpojuma piekļūstamības elementu izveidi, izmaksas, kas rodas ražošanas procesos, izmaksas saistībā ar preces vai pakalpojuma piekļūstamības pārbaudi, izmaksas saistībā ar dokumentācijas sagatavošanu."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Preču un pakalpojumu atbilstība",
+      "section": "15",
+      "title": "Preces un pakalpojuma atbilstības prezumpcija",
+      "content": "(1) Preci un pakalpojumu, kas atbilst to piemērojamo saskaņoto standartu vai to daļu prasībām, atsauces uz kurām ir publicētas Eiropas Savienības Oficiālajā Vēstnesī, uzskata par atbilstošu tām piekļūstamības prasībām, kuras aptver šie standarti vai to daļas.\n(2) Ja Eiropas Komisija pieņem īstenošanas aktus, ar kuriem nosaka tehniskās specifikācijas šajā likumā noteiktajām precēm un pakalpojumiem, tad preci un pakalpojumu, kas atbilst Eiropas Komisijas izdotajām tehniskajām specifikācijām vai to daļām, uzskata par atbilstošu piekļūstamības prasībām, ciktāl minētās tehniskās specifikācijas vai to daļas attiecas uz minētajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Preču un pakalpojumu atbilstība",
+      "section": "16",
+      "title": "Atbilstības deklarācija",
+      "content": "(1) Atbilstības deklarācijā norāda, ka ir pierādīta preces atbilstība piekļūstamības prasībām. Ja izņēmuma kārtā tiek piemērota šā likuma 13. pantā noteiktā būtisku izmaiņu vai nesamērīga sloga atruna, atbilstības deklarācijā norāda, kurām piekļūstamības prasībām piemēro minēto atrunu.\n(2) Atbilstības deklarāciju sagatavo atbilstoši Ministru kabineta noteiktajam paraugam, papildinot to ar šā likuma 7. pantā minēto informāciju. Atbilstības deklarācijā norādīto informāciju pastāvīgi atjauno. Atbilstības deklarāciju sagatavo tās Eiropas Savienības dalībvalsts valodā, kurā prece tiek piedāvāta tirgū.\n(3) Ja uz preci attiecas vairāki normatīvie akti, kas nosaka atbilstības deklarācijas nepieciešamību, sagatavo vienu atbilstības deklarāciju par visiem piemērojamiem normatīvajiem aktiem. Atbilstības deklarācijā norāda attiecīgos normatīvos aktus un atsauces uz to publikācijām.\n(4) Sagatavojot atbilstības deklarāciju, ražotājs uzņemas atbildību par preces atbilstību šā likuma prasībām.\n(5) Ministru kabinets nosaka atbilstības deklarācijas paraugu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Preču un pakalpojumu atbilstība",
+      "section": "17",
+      "title": "CE zīmes uzlikšanas noteikumi",
+      "content": "(1) CE zīmi uzliek precei vai iekļauj tās datu plāksnītē, un tā ir viegli saskatāma, salasāma un neizdzēšama. Ja preces rakstura dēļ tas nav iespējams, CE zīmi uzliek iepakojumam un pavaddokumentiem.\n(2) CE zīmi uzliek pirms preces laišanas tirgū."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Preču tirgus uzraudzība",
+      "section": "18",
+      "title": "Tirgus uzraudzības iestādes tiesības un pienākumi",
+      "content": "(1) Patērētāju tiesību aizsardzības centrs veic šajā likumā noteiktos tirgus uzraudzības iestādes pienākumus.\n(2) Tirgus uzraudzības iestāde uzraudzību veic saskaņā ar normatīvajiem aktiem par tirgus uzraudzību un atbilstības novērtēšanu.\n(3) Ja saimnieciskās darbības veicējs ir piemērojis šā likuma 13. panta pirmajā daļā noteikto atrunu, tirgus uzraudzības iestāde, veicot preču tirgus uzraudzību, pārbauda, vai saimnieciskās darbības veicējs ir sagatavojis šā likuma 13. panta otrajā un trešajā daļā minēto novērtējumu, pārbauda tā saturu, tostarp pārbauda, vai ir pareizi piemēroti šā likuma 14. pantā noteiktie kritēriji, kā arī pārbauda preces atbilstību tai piemērojamām piekļūstamības prasībām.\n(4) Tirgus uzraudzības iestāde nodrošina, ka tās rīcībā esošā informācija par preces atbilstību piekļūstamības prasībām, kā arī šā likuma 13. panta otrajā un trešajā daļā minētais novērtējums patērētājam pēc tā pieprasījuma ir pieejams piekļūstamos formātos, izņemot gadījumu, kad informāciju nevar sniegt konfidencialitātes apsvērumu dēļ.\n(5) Ja tirgus uzraudzības iestāde konstatē preces neatbilstību piekļūstamības prasībām, tā ir tiesīga pieprasīt, lai saimnieciskās darbības veicējs noteiktā termiņā veic darbības neatbilstību novēršanai. Ja saimnieciskās darbības veicējs noteiktajā termiņā nav novērsis konstatētās neatbilstības, tirgus uzraudzības iestāde ir tiesīga pieņemt lēmumu saskaņā ar likuma \" Par atbilstības novērtēšanu \" III 1 nodaļu ."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Preču tirgus uzraudzība",
+      "section": "19",
+      "title": "Rīcība ar piekļūstamības prasībām neatbilstošu preci",
+      "content": "Ja tirgus uzraudzības iestādei ir pamatots iemesls uzskatīt, ka prece neatbilst piekļūstamības prasībām, tā veic attiecīgās preces novērtējumu, aptverot visas šajā likumā noteiktās prasības. Ja novērtējuma veikšanai nepieciešams veikt preces ekspertīzi, to organizē tirgus uzraudzības iestāde un izdevumus par to sedz atbilstoši likumam \" Par atbilstības novērtēšanu \". Minētajā novērtēšanā iesaistītajam saimnieciskās darbības veicējam ir pienākums sadarboties ar tirgus uzraudzības iestādi."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Preču tirgus uzraudzība",
+      "section": "20",
+      "title": "Formāla neatbilstība",
+      "content": "(1) Tirgus uzraudzības iestāde uzdod saimnieciskās darbības veicējam pienākumu novērst preces neatbilstību, ja konstatēts kāds no šādiem trūkumiem:\n1) CE zīme ir uzlikta, pārkāpjot šā likuma 17. pantu vai Eiropas Parlamenta un Padomes 2008. gada 9. jūlija regulas (EK) Nr. 765/2008 , ar ko nosaka prasības akreditācijai un atceļ regulu (EEK) Nr. 339/93 30. pantu;\n2) CE zīme nav uzlikta;\n3) nav sagatavota atbilstības deklarācija;\n4) atbilstības deklarācija nav sagatavota pareizi;\n5) tehniskā dokumentācija nav pieejama vai ir nepilnīga;\n6) šā likuma 6. panta sestajā daļā vai 9. panta ceturtajā daļā minētā informācija nav sniegta, ir nepatiesa vai nepilnīga;\n7) nav izpildīta kāda no šā likuma 6. vai 9. pantā noteiktajām administratīvajām prasībām.\n(2) Ja šā panta pirmajā daļā minētā neatbilstība nav novērsta, tirgus uzraudzības iestāde nosaka ierobežojumus preces piedāvāšanai tirgū vai aizliedz preci piedāvāt tirgū, vai pieprasa tās izņemšanu no tirgus."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "21",
+      "title": "Sūdzību iesniegšanas un izskatīšanas kārtība",
+      "content": "(1) Patērētājs un pasažieris sūdzību par pakalpojuma piekļūstamību iesniedz attiecīgajam pakalpojuma sniedzējam. Pakalpojuma sniedzējs mēneša laikā no rakstveida sūdzības saņemšanas dienas sagatavo rakstveida atbildi, informējot sūdzības iesniedzēju par iespējamu risinājumu, pasākumiem neatbilstības novēršanai vai pamatotu atteikumu. Ja objektīvu iemeslu dēļ atbildi nav iespējams sniegt mēneša laikā, pakalpojuma sniedzējs ir tiesīgs pagarināt atbildes sniegšanas laiku uz diviem mēnešiem no sūdzības saņemšanas dienas, par to paziņojot sūdzības iesniedzējam un norādot pagarinājuma nepieciešamības pamatojumu. Pakalpojuma sniedzējs atbildi uz patērētāja sūdzību par elektronisko sakaru pakalpojuma piekļūstamību sniedz likumā \" Par sabiedrisko pakalpojumu regulatoriem \" noteiktajā termiņā.\n(2) Ja šā panta pirmajā daļā noteiktajā kārtībā pakalpojuma piekļūstamība nav uzlabota vai pakalpojuma sniedzējs nav sniedzis atbildi uz sūdzību, patērētājam un pasažierim ir tiesības vērsties attiecīgajā šā likuma 22. pantā noteiktajā kompetentajā iestādē ar tāda paša satura sūdzību, pievienojot pakalpojuma sniedzēja atbildi, ja tāda ir sniegta.\n(3) Publisko tiesību subjektam vai privāto tiesību juridiskajai personai, kurai ir leģitīma interese aizsargāt personas ar invaliditāti un personas ar ilgstošiem vai pārejošiem funkcionēšanas ierobežojumiem, ir tiesības sūdzības iesniedzēja vārdā vai viņa atbalstam un ar viņa apstiprinājumu vērsties pie pakalpojuma sniedzēja un attiecīgajā šā likuma 22. pantā noteiktajā kompetentajā iestādē."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "22",
+      "title": "Kompetentās iestādes",
+      "content": "Pakalpojumu atbilstību piekļūstamības prasībām uzrauga šādas kompetentās iestādes:\n1) Sabiedrisko pakalpojumu regulēšanas komisija — attiecībā uz elektronisko sakaru pakalpojumiem;\n2) Nacionālā elektronisko plašsaziņas līdzekļu padome — attiecībā uz pakalpojumiem, kas nodrošina piekļuvi audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem;\n3) valsts aģentūra \"Civilās aviācijas aģentūra\" — attiecībā uz šā likuma 3. panta otrās daļas 3. punkta \"a\", \"b\", \"d\" un \"e\" apakšpunktā minētajiem pasažieru gaisa pārvadājumu pakalpojumu elementiem;\n4) valsts sabiedrība ar ierobežotu atbildību \"Autotransporta direkcija\" — attiecībā uz autobusu un iekšzemes dzelzceļa pasažieru pārvadājumu pakalpojumiem;\n5) Valsts dzelzceļa administrācija — attiecībā uz starptautisko dzelzceļa pasažieru pārvadājumu pakalpojumiem (pārvadājumi starp Eiropas Savienības dalībvalstīm, ja vilciens šķērso Latvijas Republikas robežu ar citu Eiropas Savienības dalībvalsti un ja galvenais pakalpojuma mērķis ir pārvadāt pasažierus starp stacijām, kas atrodas dažādās Eiropas Savienības dalībvalstīs; vilciens var būt apvienots vai sadalīts posmos, un dažādiem tā posmiem var būt dažādi maršruta sākuma un gala punkti — ar nosacījumu, ka visi vagoni šķērso Latvijas Republikas robežu ar citu Eiropas Savienības dalībvalsti);\n6) Patērētāju tiesību aizsardzības centrs — attiecībā uz finanšu pakalpojumiem, elektroniskajām grāmatām un to programmatūru, elektroniskās tirdzniecības pakalpojumiem, ūdenstransporta pasažieru pārvadājumu pakalpojumiem un šā likuma 3. panta otrās daļas 3. punkta \"c\" apakšpunktā minētajiem pasažieru gaisa pārvadājumu pakalpojumu elementiem;\n7) pašvaldība — attiecībā uz šā likuma 3. panta otrās daļas 3. punkta \"e\" apakšpunktā noteiktajiem pilsētas autobusu, tramvaju un trolejbusu interaktīvajiem pašapkalpošanās termināļiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "23",
+      "title": "Kompetentās iestādes tiesības un pienākumi",
+      "content": "(1) Kompetentā iestāde uzrauga pakalpojumu atbilstību šā likuma prasībām, tai skaitā izvērtējot saņemtās sūdzības un iespējamā pārkāpuma būtiskumu.\n(2) Kompetentā iestāde ir tiesīga:\n1) pieprasīt un izvērtēt šā likuma 13. panta otrajā un trešajā daļā minēto novērtējumu par būtiskām pakalpojuma izmaiņām vai nesamērīgu slogu . Ja pakalpojuma sniedzējs ir piemērojis būtisku izmaiņu vai nesamērīga sloga atrunu, kompetentā iestāde, veicot pakalpojumu uzraudzību, pārbauda, vai pakalpojuma sniedzējs ir sagatavojis šā likuma 13. panta otrajā un trešajā daļā minēto novērtējumu, pārbauda tā saturu, tostarp pārbauda, vai ir pareizi piemēroti šā likuma 14. pantā noteiktie kritēriji, kā arī pārbauda pakalpojuma atbilstību tam piemērojamām piekļūstamības prasībām;\n2) pieprasīt, lai pakalpojuma sniedzējs veic nepieciešamās darbības neatbilstību novēršanai kompetentās iestādes noteiktajā termiņā, un pārliecināties, ka pakalpojuma sniedzējs ir novērsis neatbilstību.\n(3) Ja pakalpojuma sniedzējs nenovērš pakalpojuma neatbilstību tam piemērojamām piekļūstamības prasībām labprātīgi, kompetentā iestāde ir tiesīga pieņemt lēmumu, ar kuru uzdod veikt nepieciešamās darbības neatbilstības novēršanai un nosaka termiņu šo darbību veikšanai.\n(4) Kompetentās iestādes (izņemot Sabiedrisko pakalpojumu regulēšanas komisiju) lēmumu pakalpojuma sniedzējs var pārsūdzēt Administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā. Sabiedrisko pakalpojumu regulēšanas komisijas lēmumu pakalpojuma sniedzējs var pārsūdzēt Administratīvajā apgabaltiesā. Lēmuma pārsūdzēšana neaptur tā darbību.\n(5) Kompetentā iestāde informāciju par savu šajā likumā noteikto kompetenci, veiktajiem pasākumiem un pieņemtajiem lēmumiem sabiedrībai pēc tās pieprasījuma nodrošina piekļūstamos formātos.\n(6) Kompetentā iestāde pēc Labklājības ministrijas pieprasījuma iesniedz tai informāciju saistībā ar šā likuma piemērošanu. Labklājības ministrija iegūto informāciju laikus paziņo Eiropas Komisijai."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "pn1",
+      "title": "1. Šajā likumā noteiktās prasības nepiemēro:",
+      "content": "1) precēm, kas laistas tirgū līdz 2025. gada 27. jūnijam;\n2) audioierakstiem un videoierakstiem, kas publicēti līdz 2025. gada 27. jūnijam;\n3) biroja datņu formātiem, kas publicēti līdz 2025. gada 27. jūnijam;\n4) tīmekļvietņu un mobilo lietotņu saturam, kas nav atjaunināts vai rediģēts līdz 2025. gada 27. jūnijam."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "pn2",
+      "title": "2. Šajā likumā noteiktās prasības nepiemēro pakalpojumu līgumiem, kas noslēgti līdz 2025. gada 27. jūnijam, taču, ja šāda līguma darbība turpinās pēc 2030. gada 27. jūnija, pakalpojuma sniedzējs nodrošina līguma atbilstību piekļūstamības prasībām un, izvērtējis faktiskos apstākļus, sniedz pakalpojuma saņēmējam šajā likumā noteikto piekļūstamības informāciju saistībā ar attiecīgo līgumu vai vienojas par līguma teksta pielāgošanu piekļūstamības prasībām.",
+      "content": "2. Šajā likumā noteiktās prasības nepiemēro pakalpojumu līgumiem, kas noslēgti līdz 2025. gada 27. jūnijam, taču, ja šāda līguma darbība turpinās pēc 2030. gada 27. jūnija, pakalpojuma sniedzējs nodrošina līguma atbilstību piekļūstamības prasībām un, izvērtējis faktiskos apstākļus, sniedz pakalpojuma saņēmējam šajā likumā noteikto piekļūstamības informāciju saistībā ar attiecīgo līgumu vai vienojas par līguma teksta pielāgošanu piekļūstamības prasībām."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "pn3",
+      "title": "3. Pakalpojuma sniedzējs līdz 2030. gada 27. jūnijam var turpināt sniegt pakalpojumu, izmantojot preces, kuras tas likumīgi izmantojis, lai līdz minētajam datumam sniegtu līdzīgus pakalpojumus.",
+      "content": "3. Pakalpojuma sniedzējs līdz 2030. gada 27. jūnijam var turpināt sniegt pakalpojumu, izmantojot preces, kuras tas likumīgi izmantojis, lai līdz minētajam datumam sniegtu līdzīgus pakalpojumus."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "pn4",
+      "title": "4. Pašapkalpošanās termināļus, kurus pakalpojuma sniedzējs lietojis pakalpojuma sniegšanai līdz 2025. gada 27. jūnijam, var turpināt lietot līdzīgu pakalpojumu sniegšanai līdz to saimnieciski lietderīgās izmantošanas laika beigām, bet ne ilgāk kā 20 gadus pēc tam, kad uzsākta to lietošana.",
+      "content": "4. Pašapkalpošanās termināļus, kurus pakalpojuma sniedzējs lietojis pakalpojuma sniegšanai līdz 2025. gada 27. jūnijam, var turpināt lietot līdzīgu pakalpojumu sniegšanai līdz to saimnieciski lietderīgās izmantošanas laika beigām, bet ne ilgāk kā 20 gadus pēc tam, kad uzsākta to lietošana."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VI nodaļa Pakalpojumu atbilstības uzraudzība",
+      "section": "pn5",
+      "title": "5. Šā likuma 3. panta trešā daļa stājas spēkā 2027. gada 28. jūnijā.",
+      "content": "5. Šā likuma 3. panta trešā daļa stājas spēkā 2027. gada 28. jūnijā.\nLikumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2019. gada 17. aprīļa direktīvas (ES) 2019/882 par produktu un pakalpojumu piekļūstamības prasībām."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektroniskā grāmata un tās programmatūra",
+      "definition": "pakalpojums, kas ietver tādu digitālo datņu nodrošināšanu, ar ko piegādā grāmatas elektronisku versiju, kurai var piekļūt un kuru var pārskatīt, lasīt un izmantot, un programmatūru, tai skaitā mobilajās ierīcēs izmantojamus pakalpojumus un mobilās lietotnes, kas paredzētas, lai piekļūtu minētajām digitālajām datnēm un tās pārskatītu, lasītu un izmantotu, bet kas neietver elektroniskā lasītāja programmatūru",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "elektroniskās tirdzniecības pakalpojums",
+      "definition": "informācijas sabiedrības pakalpojums, kuru sniedz attālināti, izmantojot tīmekļvietnes un mobilajās ierīcēs izmantojamus pakalpojumus, ar elektroniskiem līdzekļiem un pēc klienta individuāla pieprasījuma un kura mērķis ir noslēgt distances līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "elektroniskais lasītājs",
+      "definition": "specializēta ierīce, kas ietver aparatūru un programmatūru un ko izmanto, lai piekļūtu elektronisko grāmatu datnēm un tās pārskatītu, lasītu un izmantotu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "elektroniska biļete",
+      "definition": "elektroniska sistēma, kas personas tiesības uz pārvadājumu apliecina fiziskā braukšanas kartē vai citā ierīcē elektroniski glabātā vienreizējas vai daudzreizējas braukšanas biļešu, braukšanas abonementu vai braukšanas kredīta veidā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "importētājs",
+      "definition": "privātpersona, kas veic saimniecisko darbību Eiropas Savienībā un laiž Eiropas Savienības tirgū trešās valsts preci",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "interaktīva datošanas spēja",
+      "definition": "funkcionalitāte, kas nodrošina cilvēka un ierīces mijiedarbību, ļaujot apstrādāt un pārraidīt datus, balsi vai video, vai to kombināciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izņemšana",
+      "definition": "jebkāds pasākums, kura mērķis ir novērst to, ka piegādes ķēdē esoša prece tiek piedāvāta tirgū",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izplatītājs",
+      "definition": "piegādes ķēdē esoša privātpersona, kas preci piedāvā tirgū un nav ražotājs vai importētājs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "laist tirgū",
+      "definition": "preci pirmo reizi piedāvāt Eiropas Savienības tirgū",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pakalpojuma sniedzējs",
+      "definition": "privātpersona, kas sniedz pakalpojumu Eiropas Savienības tirgū vai piedāvā sniegt šādu pakalpojumu patērētājiem Eiropas Savienībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pakalpojums, kas nodrošina piekļuvi audiovizuālu elektronisko plašsaziņas līdzekļu pakalpojumiem",
+      "definition": "pakalpojums publisko elektronisko sakaru tīklos, kuru izmanto, lai identificētu, izvēlētos un saņemtu informāciju par audiovizuālu elektronisko plašsaziņas līdzekļu pakalpojumiem, kā arī lai tos skatītos, tai skaitā elektroniskie raidījumu apraksti, subtitri, audioapraksti, ierunāti subtitri un tulkojumi zīmju valodā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pasažieru gaisa pārvadājumu pakalpojums",
+      "definition": "komerciāls gaisa pārvadājumu pakalpojums pasažieriem atbilstoši Eiropas Parlamenta un Padomes 2006. gada 5. jūlija regulas (EK) Nr. 1107/2006 par invalīdu un personu ar ierobežotām pārvietošanās spējām tiesībām, ceļojot ar gaisa transportu (turpmāk — regula Nr. 1107/2006 ) 1. panta 2. punktam un 2. panta \"l\" apakšpunktam, tiem dodoties prom no lidostas, esot lidostā tranzītā vai ierodoties lidostā, ja lidosta atrodas kādas Eiropas Savienības dalībvalsts teritorijā, tostarp lidojumi no lidostas, kas atrodas trešā valstī, uz lidostu Eiropas Savienības dalībvalsts teritorijā, ja pakalpojuma operators ir Eiropas Savienības gaisa pārvadātājs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "patērētāju universāldatoru aparatūras sistēma",
+      "definition": "aparatūras komplekts, kas veido vienotu datoru un ko raksturo daudzfunkcionalitāte, spēja ar piemērotas programmatūras palīdzību veikt visbiežāk sastopamos datošanas uzdevumus, un kas ir paredzēts lietošanai patērētājiem, tai skaitā personālie datori, galddatori, piezīmjdatori, viedtālruņi un planšetdatori",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "piedāvāt tirgū",
+      "definition": "preci par samaksu vai bez maksas piegādāt izplatīšanai, patēriņam vai izmantošanai Eiropas Savienības tirgū, veicot saimniecisko darbību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pilnvarotais pārstāvis",
+      "definition": "privātpersona, kas veic saimniecisko darbību Eiropas Savienībā un ir saņēmusi ražotāja rakstveida pilnvarojumu rīkoties tā vārdā attiecībā uz konkrētiem uzdevumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pilsētas pārvadājumu pakalpojums",
+      "definition": "autobusa, dzelzceļa, tramvaja, trolejbusa un metro pasažieru pārvadājumu pakalpojums, kas tiek sniegts pilsētas nozīmes maršrutā, t. i., maršrutā, kas nodrošina pārvietošanos valstspilsētas administratīvajās robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "prece",
+      "definition": "ražošanas procesā radīta viela, preparāts vai produkts, izņemot pārtiku, barību, dzīvus augus un dzīvniekus, cilvēku izcelsmes produktus, augu un dzīvnieku izcelsmes produktus, kuri ir saistīti ar to turpmāku pavairošanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ražotājs",
+      "definition": "privātpersona, kas ražo preci vai liek preci izveidot vai ražot un tirgo minēto preci ar savu vārdu, nosaukumu vai preču zīmi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "reģionālo pārvadājumu pakalpojums",
+      "definition": "autobusa, dzelzceļa, tramvaja, trolejbusa un metro pasažieru pārvadājumu pakalpojums, kas tiek sniegts reģionālas nozīmes maršrutā un nodrošina pārvietošanos:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "saimnieciskās darbības veicējs",
+      "definition": "ražotājs, pilnvarotais pārstāvis, importētājs, izplatītājs vai pakalpojuma sniedzējs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ūdenstransporta pasažieru pārvadājumu pakalpojums",
+      "definition": "pasažieru pārvadājumu pakalpojums, uz ko attiecas Eiropas Parlamenta un Padomes 2010. gada 24. novembra regulas (ES) Nr. 1177/2010 par pasažieru tiesībām, ceļojot pa jūru un iekšzemes ūdensceļiem, un ar ko groza regulu (EK) Nr. 2006/2004 (turpmāk — regula Nr. 1177/2010 ) 2. panta 1. punkts, izņemot pakalpojumus, kas minēti regulas Nr. 1177/2010 2. panta 2. punktā.",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Sabiedrisko pakalpojumu regulēšanas komisija",
+      "definition": "attiecībā uz elektronisko sakaru pakalpojumiem",
+      "source_provision": "Art. 22"
+    },
+    {
+      "term": "Nacionālā elektronisko plašsaziņas līdzekļu padome",
+      "definition": "attiecībā uz pakalpojumiem, kas nodrošina piekļuvi audiovizuāliem elektronisko plašsaziņas līdzekļu pakalpojumiem",
+      "source_provision": "Art. 22"
+    },
+    {
+      "term": "valsts aģentūra \"Civilās aviācijas aģentūra\"",
+      "definition": "attiecībā uz šā likuma 3. panta otrās daļas 3. punkta \"a\", \"b\", \"d\" un \"e\" apakšpunktā minētajiem pasažieru gaisa pārvadājumu pakalpojumu elementiem",
+      "source_provision": "Art. 22"
+    },
+    {
+      "term": "valsts sabiedrība ar ierobežotu atbildību \"Autotransporta direkcija\"",
+      "definition": "attiecībā uz autobusu un iekšzemes dzelzceļa pasažieru pārvadājumu pakalpojumiem",
+      "source_provision": "Art. 22"
+    },
+    {
+      "term": "Valsts dzelzceļa administrācija",
+      "definition": "attiecībā uz starptautisko dzelzceļa pasažieru pārvadājumu pakalpojumiem (pārvadājumi starp Eiropas Savienības dalībvalstīm, ja vilciens šķērso Latvijas Republikas robežu ar citu Eiropas Savienības dalībvalsti un ja galvenais pakalpojuma mērķis ir pārvadāt pasažierus starp stacijām, kas atrodas dažādās Eiropas Savienības dalībvalstīs",
+      "source_provision": "Art. 22"
+    },
+    {
+      "term": "Patērētāju tiesību aizsardzības centrs",
+      "definition": "attiecībā uz finanšu pakalpojumiem, elektroniskajām grāmatām un to programmatūru, elektroniskās tirdzniecības pakalpojumiem, ūdenstransporta pasažieru pārvadājumu pakalpojumiem un šā likuma 3. panta otrās daļas 3. punkta \"c\" apakšpunktā minētajiem pasažieru gaisa pārvadājumu pakalpojumu elementiem",
+      "source_provision": "Art. 22"
+    },
+    {
+      "term": "pašvaldība",
+      "definition": "attiecībā uz šā likuma 3. panta otrās daļas 3. punkta \"e\" apakšpunktā noteiktajiem pilsētas autobusu, tramvaju un trolejbusu interaktīvajiem pašapkalpošanās termināļiem.",
+      "source_provision": "Art. 22"
+    }
+  ]
+}

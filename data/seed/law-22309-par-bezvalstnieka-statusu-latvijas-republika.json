@@ -1,0 +1,42 @@
+{
+  "id": "lv-law-22309",
+  "type": "statute",
+  "title": "Par bezvalstnieka statusu Latvijas Republikā",
+  "short_name": "TA-22309",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/22309-par-bezvalstnieka-statusu-latvijas-republika",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir noteikt to personu tiesisko statusu Latvijas Republikā, kuras netiek uzskatītas par pilsoņiem (pavalstniekiem) saskaņā ar kādas valsts likumiem (turpmāk — bezvalstnieki)."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma subjekti",
+      "content": "(1) Bezvalstnieka statusu var iegūt persona, kuras statusu nenosaka likums \"Par to bijušās PSRS pilsoņu statusu, kuriem nav Latvijas vai citas valsts pilsonības\" un likums \"Par patvēruma meklētājiem un bēgļiem Latvijas Republikā\" un kura:\n1) ieceļojusi, uzrādot Latvijas Republikas atzītu ceļošanas dokumentu, un likumīgi uzturas Latvijas teritorijā;\n2) likumīgi uzturas Latvijas teritorijā.\n(2) Bezvalstnieks, kuram citā valstī izsniegts bezvalstnieka statusu apliecinošs dokuments, Latvijā var iegūt bezvalstnieka statusu tikai tad, ja viņš Latvijā ir saņēmis pastāvīgās uzturēšanās atļauju.\n(3) Bezvalstnieka statusu Latvijā nevar iegūt persona, par kuru ir pamatotas aizdomas, ka tā:\n1) izdarījusi smagu vai sevišķi smagu noziegumu;\n2) vainīga tādu darbību izdarīšanā, kas ir pretrunā ar Apvienoto Nāciju Organizācijas principiem un mērķiem."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Bezvalstnieka personu apliecinošs dokuments",
+      "content": "(1) Bezvalstniekam tiek izsniegts bezvalstnieka personu apliecinošs dokuments, kas vienlaikus ir arī bezvalstnieka ceļošanas dokuments.\n(2) Bezvalstnieka personu apliecinošā dokumenta paraugu un šā dokumenta izsniegšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Bezvalstnieka tiesības un pienākums",
+      "content": "(1) Bezvalstniekam Latvijā ir visas Latvijas Republikas Satversmē noteiktās cilvēka tiesības.\n(2) Papildus šā panta pirmajā daļā minētajām tiesībām bezvalstniekam ir tiesības:\n1) brīvi izbraukt no Latvijas un atgriezties Latvijā;\n2) likumā \"Par ārvalstnieku un bezvalstnieku ieceļošanu un uzturēšanos Latvijas Republikā\" noteiktajā kārtībā uzņemt pie sevis no ārvalsts ieradušos laulāto, kā arī savus un laulātā apgādībā esošos nepilngadīgos bērnus;\n3) saglabāt savu dzimto valodu, kultūru un tradīcijas, ja tās nav pretrunā ar likumiem;\n4) saņemt tiesvedībā tulka palīdzību; sazinoties valsts iestādēs, izmantot valodas izvēles tiesības atbilstoši normatīvajiem aktiem.\n(3) Uzturoties Latvijā, bezvalstniekam ir pienākums ievērot Latvijas normatīvos aktus."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Bezvalstnieka statusa zaudēšana",
+      "content": "(1) Persona zaudē bezvalstnieka statusu Latvijā, ja:\n1) tā ieguvusi Latvijas vai kādas citas valsts pilsonību (pavalstniecību);\n2) tā saņēmusi bezvalstnieka statusu apliecinošu dokumentu citā valstī;\n3) tai izsniegtā pastāvīgās uzturēšanās atļauja ( 2.pants ) anulēta saskaņā ar likumu \"Par ārvalstnieku un bezvalstnieku ieceļošanu un uzturēšanos Latvijas Republikā\";\n4) tā ieguvusi bezvalstnieka statusu, apzināti sniedzot nepatiesas ziņas.\n(2) Personai ir tiesības pārsūdzēt tiesā lēmumu, ar kuru tā zaudējusi bezvalstnieka statusu.\n(3) Persona, kura zaudējusi bezvalstnieka statusu, Ministru kabineta noteiktajā kārtībā nodod bezvalstnieka personu apliecinošo dokumentu."
+    }
+  ],
+  "definitions": []
+}

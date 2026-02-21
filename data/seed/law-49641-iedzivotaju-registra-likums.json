@@ -1,0 +1,286 @@
+{
+  "id": "lv-law-49641",
+  "type": "statute",
+  "title": "Iedzīvotāju reģistra likums",
+  "title_en": "Population Register Law",
+  "short_name": "TA-49641",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/49641-iedzivotaju-registra-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Šā likuma mērķis ir noteikt, kā Latvijas teritorijā darbojas vienota iedzīvotāju uzskaites sistēma - Iedzīvotāju reģistrs (turpmāk - Reģistrs) un kā Pilsonības un migrācijas lietu pārvaldei (turpmāk - Pārvalde) tiek sniegtas Reģistrā iekļaujamās ziņas un tiek lietota Reģistrā esošā informācija.",
+      "content": "1.pants. Šā likuma mērķis ir noteikt, kā Latvijas teritorijā darbojas vienota iedzīvotāju uzskaites sistēma - Iedzīvotāju reģistrs (turpmāk - Reģistrs) un kā Pilsonības un migrācijas lietu pārvaldei (turpmāk - Pārvalde) tiek sniegtas Reģistrā iekļaujamās ziņas un tiek lietota Reģistrā esošā informācija."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "(1) Par ziņu iekļaušanu Reģistrā un iekļauto ziņu aktualizēšanu savas kompetences ietvaros atbild Pārvalde, attiecīgā pašvaldība un Latvijas diplomātiskās un konsulārās pārstāvniecības ārvalstīs.",
+      "content": "(2) Reģistrs ir valsts informācijas sistēma, kuras pārzinis ir Pārvalde."
+    },
+    {
+      "provision_ref": "Art. 2.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2.1",
+      "title": "2. 1 pants. Metodisko vadību pār ziņu iekļaušanu un aktualizēšanu Reģistrā, kā arī ziņu izsniegšanu no Reģistra nodrošina Pārvalde.",
+      "content": "( 06.05.2010 . likuma redakcijā ar grozījumiem, kas izdarīti ar 09.05.2013 . likumu, kas stājas spēkā 11.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Reģistrā iekļauj un aktualizē ziņas par:",
+      "content": "1) Latvijas pilsoņiem un Latvijas nepilsoņiem;\n2) personām, kuras Latvijā saņēmušas uzturēšanās atļauju, reģistrācijas apliecību vai pastāvīgās uzturēšanās apliecību;\n3) personām, kurām Latvijā piešķirts bezvalstnieka, bēgļa vai alternatīvais statuss vai pagaidu aizsardzība;\n4) personām, attiecībā uz kurām pieņemts lēmums par uzturēšanās atļaujas, reģistrācijas apliecības vai pastāvīgās uzturēšanās apliecības izsniegšanu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "(1) Ziņu iekļaušana Reģistrā ir:",
+      "content": "1) pirmuzskaites veidlapas aizpildīšana Reģistrā;\n2) ieraksta izdarīšana Civilstāvokļa aktu reģistrācijas informācijas sistēmā.\n(2) Ziņu aktualizēšana ir Reģistrā iekļauto ziņu grozīšana, norādot grozījumu izdarīšanas datumu, tiesisko pamatu un šos grozījumus apliecinoša dokumenta numuru, izdošanas datumu, izdevējvalsti un izdevējiestādi.\n(3) Ministru kabinets nosaka kārtību, kādā uzglabā un izmanto informāciju par Reģistrā iekļaujamās un aktualizējamās ziņas pamatojošiem dokumentiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Personu reģistrācija",
+      "section": "5",
+      "title": "(1) Iekļaujot Reģistrā ziņas par personu, Pārvalde tai piešķir automātiski ģenerētu individuālu personas kodu.",
+      "content": "(2) Personas kodu veido no vienpadsmit cipariem, nodrošinot personas kodu neatkārtošanos. Personas koda pirmie cipari ir \"32\", bet pārējie cipari ir sistēmas automātiski ģenerēti nejauši cipari no \"0\" līdz \"9\". Pirmos sešus ciparus no pārējiem pieciem cipariem var atdalīt ar defisi.\n(3) Personas kods ir nemainīgs, izņemot gadījumus, kad:\n1) personai, kurai personas kods piešķirts līdz 2017. gada 30. jūnijam, tiek precizēts dzimšanas datums vai arī tā lūdz mainīt piešķirto personas kodu. Šajā gadījumā personai piešķir šā panta otrajā daļā minētajā kārtībā veidotu personas kodu;\n2) persona tikusi adoptēta.\n(4) Lēmums par personas koda maiņu stājas spēkā tā pieņemšanas brīdī, un to izpilda nekavējoties pēc šā lēmuma spēkā stāšanās."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Personu reģistrācija",
+      "section": "6",
+      "title": "Pirmuzskaites veidlapas paraugu apstiprina un tās aizpildīšanas kārtību nosaka Ministru kabinets.",
+      "content": "( 21.07.2007 . likuma redakcijā ar grozījumiem, kas izdarīti ar 20.12.2012. un 17.10.2013 . likumu, kas stājas spēkā 30.10.2013. )"
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Personu reģistrācija",
+      "section": "7",
+      "title": "(1) Pārvalde iekļauj un aktualizē Reģistrā ziņas par šā likuma 3.pantā minētajām personām.",
+      "content": "(2) (Izslēgta ar 17.10.2013 . likumu)\n(3) Pašvaldība iekļauj Reģistrā ziņas par bērnu līdz triju mēnešu vecumam, izņemot gadījumu, kad bērna dzimšanas brīdī viens no vecākiem ir Latvijas nepilsonis, bet otrs — citas valsts pilsonis vai abi vecāki ir ārzemnieki, kā arī aktualizē Reģistrā iekļautās ziņas par personas deklarēto vai reģistrēto dzīvesvietu.\n(4) Tieslietu ministrija iekļauj Reģistrā ziņas par adoptēto bērnu."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "II nodaļa Personu reģistrācija",
+      "section": "7.1",
+      "title": "7. 1 pants. (1) Reģistrā par personu norāda, ka tai ir:",
+      "content": "1) aktīvs statuss, ja Reģistrā iekļautas ziņas par šā likuma 3.panta 1. un 2.punktā minētajām personām;\n2) pasīvs statuss, ja:\na) Reģistrā iekļautas ziņas par šā likuma 3.panta 3. un 4.punktā minētajām personām,\nb) personai Latvijā zudis tiesiskais statuss un jauns statuss nav noteikts,\nc) pēc adopcijas vai tās atcelšanas personai mainīts vārds, uzvārds vai personas kods,\nd) persona atbilstoši Reģistra ziņām ir sasniegusi 105 gadu vecumu, izņemot gadījumu, kad Pārvalde ir guvusi apstiprinājumu, ka persona ir dzīva,\ne) personai, kura nav Latvijas pilsonis, pēc 15 gadu vecuma sasniegšanas vairāk nekā piecus gadus nav derīga personu apliecinoša dokumenta, izņemot gadījumu, kad Pārvalde guvusi apstiprinājumu, ka persona dzīvo Latvijā, vai ja Latvijas nepilsonis Ministru kabineta noteiktajā kārtībā iesniedz dokumentu, kas pamato viņa uzturēšanos ārvalstī, un dokumentu, kas apliecina, ka viņš nav un nav bijis citas valsts pilsonis.\n(2) Ministru kabinets nosaka kārtību, kādā Latvijas nepilsonis iesniedz dokumentus, kas pamato viņa uzturēšanos ārvalstī, un dokumentu, kas apliecina, ka viņš nav un nav bijis citas valsts pilsonis."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Personu reģistrācija",
+      "section": "8",
+      "title": "(1) Darbiniekam, kas iekļauj Reģistrā ziņas par personu, ir pienākums pārbaudīt šo ziņu atbilstību tās apliecinošajiem dokumentiem, kuriem ir juridisks spēks Latvijā.",
+      "content": "(2) (Izslēgta ar 17.10.2013 . likumu)\n(3) (Izslēgta ar 17.10.2013 . likumu)\n(4) Pirmuzskaites veidlapu ārzemniekam aizpilda atbilstoši ziņām, kuras ārzemnieks vai viņa likumiskais pārstāvis sniedzis, pieprasot uzturēšanās atļauju, reģistrācijas apliecību vai pastāvīgās uzturēšanās apliecību. Iekļaujot Reģistrā ziņas par ārzemnieka tautību \"latvietis\" vai \"lībietis (līvs)\", ievēro šā likuma 10. panta piektās daļas 1. vai 2. punktu."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Personu reģistrācija",
+      "section": "9",
+      "title": "Ziņas Reģistrā ieraksta latviešu valodā, izņemot ārzemnieka vārdu, uzvārdu un personas adresi ārvalstī. Ārzemnieka vārdu un uzvārdu ieraksta latīņalfabētiskajā transliterācijā atbilstoši ārvalsts izsniegtajam ceļošanas dokumentam. Ziņas par personas adresi ārvalstī ieraksta latīņalfabētiskajā transliterācijā un valsti norāda atbilstoši Starptautiskās civilās aviācijas organizācijas ( ICAO ) klasifikatoram.",
+      "content": "( 06.05.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Reģistrā iekļaujamās ziņas",
+      "section": "10",
+      "title": "(1) Reģistrā par personu iekļaujamas šādas ziņas:",
+      "content": "1) personas kods;\n2) vārds (vārdi);\n3) uzvārds;\n4) dzimtais uzvārds;\n5) personvārda vai dzimtas uzvārda vēsturiskā forma un citas valodas personvārda oriģinālforma latīņalfabētiskajā transliterācijā, ja persona to vēlas un var šo formu apliecināt dokumentāri, kā arī ārzemnieka personvārda atveide latviešu valodā;\n6) ziņas par dzimšanu;\n7) dzimums;\n8) valstiskā piederība un tās veids;\n9) tautība;\n10) deklarētās, reģistrētās vai personas norādītās dzīvesvietas adrese. Personas norādītajai dzīvesvietas adresei ir informatīvs raksturs;\n10 1 ) ziņas par ārzemnieka identifikācijas kodu, kas ierakstīts viņa personu apliecinošā dokumentā;\n10 2 ) ziņas par šā likuma 3.panta 1. un 2.punktā minētajai personai ārvalstī piešķirto identifikācijas kodu, kas ierakstīts kompetentas iestādes izsniegtā dokumentā;\n10 3 ) ziņas par personas oficiālās elektroniskās adreses kontu;\n11) ziņas par personu apliecinošu dokumentu;\n12) ziņas par Latvijā saņemto uzturēšanās dokumentu — uzturēšanās atļauju, reģistrācijas apliecību vai pastāvīgās uzturēšanās apliecību;\n13) ziņas par ģimenes stāvokli;\n14) ziņas par laulību;\n15) ziņas par bērniem līdz 18 gadu vecumam;\n16) ziņas par tēvu un māti;\n17) ziņas par personas rīcībspējas ierobežošanu vai rīcībspējas ierobežojuma pārskatīšanu;\n18) ziņas par personas miršanu;\n19) ziņas par personas atļauju vai aizliegumu izmantot tās ķermeni, audus un orgānus pēc nāves;\n20) ziņas par ārpusģimenes aprūpes vai aizgādnības nodibināšanu vai izbeigšanu vai aizgādības tiesību pārtraukšanu vai atņemšanu, vai atjaunošanu;\n21) ziņas par personas aizbildņiem, aizgādņiem vai audžuģimeni;\n22) ziņas par bērnu aprūpes iestādi;\n23) ziņas par adopcijas nodibināšanas vai atcelšanas nolēmumu;\n24) ziņas par politiski represētās personas vai nacionālās pretošanās kustības dalībnieka statusu;\n25) ziņas par dokumentu, kas apliecina aizliegumu izsniegt personu apliecinošu dokumentu bērnam, kurš ir jaunāks par 14 gadiem, vai aizliegumu izbraukt no valsts bērnam, kurš ir jaunāks par 18 gadiem;\n26) ziņas par personu, kurai aizliegts izsniegt bērna, kas ir jaunāks par 14 gadiem, personu apliecinošu dokumentu vai izvest no valsts bērnu, kas ir jaunāks par 18 gadiem;\n27) ziņas par Otrā pasaules kara dalībnieka statusu .\n(1 1 ) Ministru kabinets nosaka Reģistrā iekļaujamo ziņu apjomu.\n(2) Šajā likumā minētā valstiskā piederība ir personas saikne ar valsti, kas personai izdevusi vai likumā noteiktajā kārtībā izdos pasi vai to aizstājošu dokumentu. Valstiskās piederības veidi šā likuma izpratnē ir:\n1) pilsonis;\n2) nepilsonis;\n3) bezvalstnieks;\n4) bēglis;\n5) alternatīvais statuss;\n6) pagaidu aizsardzība;\n7) nenoteikts.\n(3) (Izslēgta ar 09.05.2013 . likumu)\n(4) Ziņas par bērnu, kas vecāks par 18 gadiem, Reģistrā iekļauj pēc personas vēlēšanās.\n(5) Ziņas par personas tautību Reģistrā iekļauj, ievērojot šādus nosacījumus:\n1) ja personas tautība ir ierakstīta personu apliecinošā dokumentā, civilstāvokļa aktu reģistrāciju apliecinošā dokumentā vai konstatēta ar tiesas spriedumu, personas tautību Reģistrā ieraksta atbilstoši vienā no šiem dokumentiem norādītajam. Ja vairākos dokumentos ir norādīta dažāda tautība, noteicošais ir jaunākais dokuments;\n2) ja ziņas par personas tautību Reģistrā nevar iekļaut, ievērojot šīs daļas 1. punktā minēto kārtību, personas tautību Reģistrā ieraksta saskaņā ar personas izvēli atbilstoši tiešo augšupējo radinieku tautības ierakstam Reģistrā, personu apliecinošā dokumentā, civilstāvokļa aktu reģistrāciju apliecinošā dokumentā vai atbilstoši tiesas spriedumā konstatētajam divu paaudžu robežās;\n3) ja ziņas par personas tautību Reģistrā nevar iekļaut, ievērojot šīs daļas 1. vai 2. punktā minēto kārtību, un persona atzīta par Latvijas pilsoni saskaņā ar Pilsonības likuma 2. panta pirmās daļas 3. punktu, personas tautību Reģistrā ieraksta atbilstoši attiecīgajā lēmumā konstatētajam;\n4) ja persona nav izvēlējusies norādīt tautību, Reģistrā iekļauj norādi \"neizvēlēta\";\n5) ja personai nav informācijas par savu augšupējo radinieku tautību divu paaudžu robežās, Reģistrā iekļauj norādi \"nezināma\";\n6) adopcijas gadījumā bērna tautību var aktualizēt atbilstoši adoptētāja un viņa augšupējo radinieku tautībai divu paaudžu robežās."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Reģistrā iekļaujamās ziņas",
+      "section": "11",
+      "title": "11.pants.",
+      "content": "(Izslēgts ar 21.06.2007 . likumu, kas stājas spēkā 19.07.2007. )"
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Reģistrā iekļaujamās ziņas",
+      "section": "12",
+      "title": "Reģistrā par personu nav iekļaujamas šādas ziņas:",
+      "content": "1) rase vai ādas krāsa;\n2) reliģiskā pārliecība vai piederība pie kādas konfesijas;\n3) politiskā pārliecība, piederība pie kādas politiskās partijas vai kustības, kā arī ziņas par politiskajiem uzskatiem;\n4) seksuālā nosliece vai saslimšana;\n5) citas šā likuma 10.pantā neparedzētas ziņas."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Reģistrā iekļaujamās ziņas",
+      "section": "13",
+      "title": "Ja kādas no Reģistrā iekļautajām ziņām tiek grozītas, jaunās ziņas ierakstāmas, neiznīcinot iepriekšējās.",
+      "content": "13.pants. Ja kādas no Reģistrā iekļautajām ziņām tiek grozītas, jaunās ziņas ierakstāmas, neiznīcinot iepriekšējās."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Reģistrā iekļaujamās ziņas",
+      "section": "14",
+      "title": "Personas nāves, bezvēsts prombūtnes vai tiesiskā statusa maiņas gadījumā Reģistrā iekļautās ziņas par šo personu tiek saglabātas.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 21.02.2002. un 06.05.2010 . likumu, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "15",
+      "title": "(1) Šā likuma 3.pantā minēto personu pienākums ir sniegt Pārvaldei ziņas par sevi iekļaušanai Reģistrā. Ziņas par personām, kas jaunākas par 18 gadiem vai atrodas ārpusģimenes aprūpē vai aizgādnībā, Pārvaldei sniedz attiecīgo personu likumiskie pārstāvji.",
+      "content": "(2) Šā likuma 3. panta 1. un 2. punktā minētās personas paziņo Pārvaldei savas dzīvesvietas adresi ārvalstīs, kā arī citas izmaiņas Reģistrā iekļautajās ziņās par sevi, saviem nepilngadīgajiem bērniem un par personām, kas atrodas to aizbildnībā vai aizgādnībā, ja šīs izmaiņas izdarītas ārvalstu institūcijās.\n(2 1 ) Nepilngadīgam bērnam vecumā no 15 līdz 18 gadiem un personai, kurai ir ierobežota rīcībspēja, ir tiesības sniegt Pārvaldei šā panta pirmajā un otrajā daļā norādītās ziņas par sevi.\n(3) Ziņas par jaundzimušajiem, nedzīvi dzimušajiem un dzemdībās mirušajiem bērniem, kuras atbilst šā panta pirmās daļas nosacījumiem, sniedz divu mēnešu laikā pēc bērna piedzimšanas."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "16",
+      "title": "(1) Ministru kabinets nosaka Reģistrā iekļauto ziņu aktualizēšanai iesniedzamo ziņu apjomu un kārtību, kādā tās Pārvaldei sniedz:",
+      "content": "1) valsts varas institūcijas;\n2) valsts pārvaldes iestādes;\n3) pašvaldības un to iestādes;\n4) tiesas;\n5) zvērināti notāri;\n6) šā likuma 3.pantā minētās personas.\n(2) Informācijas sniedzēji ir atbildīgi par ziņu savlaicīgu sniegšanu Pārvaldei un šo ziņu atbilstību tās apliecinošajiem dokumentiem.\n(3) (Izslēgta ar 06.05.2010 . likumu)\n(4) (Izslēgta ar 06.05.2010 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "17",
+      "title": "Ministru kabinets nosaka kārtību, kādā Pārvalde, attiecīgās pašvaldības un Latvijas diplomātiskās un konsulārās pārstāvniecības ārvalstīs savas kompetences ietvaros izsniedz Reģistrā iekļautās ziņas.",
+      "content": "( 20.01.2011 . likuma redakcijā, kas stājas spēkā 09.02.2011. )"
+    },
+    {
+      "provision_ref": "Art. 17.1",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "17.1",
+      "title": "17. 1 pants. Par informācijas saņemšanu no Reģistra maksājama valsts nodeva. Ministru kabinets nosaka valsts nodevas apmēru, samaksas kārtību, atvieglojumus un atbrīvojumus, kā arī gadījumus, kādos valsts nodevu neatmaksā.",
+      "content": "( 21.06.2007 . likuma redakcijā ar grozījumiem, kas izdarīti ar 14.12.2017 . likumu, kas stājas spēkā 14.01.2018. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "18",
+      "title": "(1) Persona ir tiesīga divas reizes kalendāra gadā bez maksas pieprasīt un saņemt visu Reģistra informāciju par sevi un saviem bērniem, kas jaunāki par 18 gadiem.",
+      "content": "(2) Par personām, kas atrodas ārpusģimenes aprūpē vai aizgādnībā, Reģistra informāciju divas reizes kalendāra gadā bez maksas ir tiesīgi pieprasīt un saņemt šo personu likumiskie pārstāvji.\n(3) (Izslēgta ar 21.06.2007 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "19",
+      "title": "Fiziskās un juridiskās personas var saņemt Reģistra informāciju par citu personu uz motivēta iesnieguma pamata. Iesniegumā var nenorādīt motivāciju, ja tiek pieprasītas ziņas par citas personas rīcībspēju.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 09.05.2013 . likumu, kas stājas spēkā 11.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 19.1",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "19.1",
+      "title": "19. 1 pants. Šā likuma 10.panta pirmās daļas 23.punktā minētās ziņas ir tiesīgs pieprasīt un saņemt tikai adoptētais pēc pilngadības sasniegšanas. Līdz adoptētā pilngadībai šīs ziņas ir tiesīgi pieprasīt un saņemt tikai adoptētāji.",
+      "content": "( 06.05.2010 . likuma redakcijā ar grozījumiem, kas izdarīti ar 09.05.2013 . likumu, kas stājas spēkā 11.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 19.2",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "19.2",
+      "title": "19. 2 pants. Šā likuma 10.panta pirmās daļas 10.punktā minētās ziņas par sevi ir tiesīga pieprasīt un saņemt persona, kas sasniegusi 15 gadu vecumu, vai šīs personas likumiskais pārstāvis.",
+      "content": "( 17.12.2015 . likuma redakcijā, kas stājas spēkā 19.01.2016. )"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "20",
+      "title": "Ja reģistrētā persona Reģistrā iekļautajās ziņās par sevi, saviem bērniem, kas jaunāki par 18 gadiem, kā arī par personām, kas atrodas tās aizgādnībā vai aizbildnībā, konstatē kļūdu vai ar šo likumu aizliegtu ziņu iekļaušanu, tai ir tiesības pieprasīt, lai kļūda tiktu izlabota, bet aizliegtās ziņas - izslēgtas no Reģistra. Šādas tiesības ir arī bērna likumiskajam pārstāvim, ja bērns atrodas bērnu aprūpes iestādē vai audžuģimenē, un personām, kurām ierobežota rīcībspēja.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 21.06.2007. , 06.05.2010. , 20.01.2011. un 09.05.2013 . likumu, kas stājas spēkā 11.06.2013. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "21",
+      "title": "Iestādēm, komersantiem un organizācijām, kā arī fiziskajām personām ir tiesības saņemt no Reģistra statistiskās ziņas. Pārvalde var sniegt arī citas vispārīga rakstura ziņas, kas neļauj identificēt konkrētu personu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.10.2005 . likumu, kas stājas spēkā 11.11.2005. )"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "22",
+      "title": "Valsts varas un pārvaldes iestādēm, pašvaldībām un to iestādēm, organizācijām un komersantiem, kuriem deleģētas valsts pārvaldes funkcijas, kā arī tiesām un prokuratūrai ir tiesības saņemt no Reģistra šā likuma 10.pantā minētās ziņas atbilstoši minēto iestāžu kompetencei.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.10.2005 . likumu, kas stājas spēkā 11.11.2005. )"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "23",
+      "title": "Ārvalstu valdībām, kā arī starptautiskajām valdību organizācijām un nevalstiskajām organizācijām Pārvalde Reģistrā iekļauto informāciju sniedz saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem vai īpašos gadījumos, kad šādi līgumi nav noslēgti, - ārlietu ministra un iekšlietu ministra savstarpēji saskaņotā kārtībā.",
+      "content": "23.pants. Ārvalstu valdībām, kā arī starptautiskajām valdību organizācijām un nevalstiskajām organizācijām Pārvalde Reģistrā iekļauto informāciju sniedz saskaņā ar Latvijas Republikas noslēgtajiem starptautiskajiem līgumiem vai īpašos gadījumos, kad šādi līgumi nav noslēgti, - ārlietu ministra un iekšlietu ministra savstarpēji saskaņotā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par Iedzīvotāju reģistru \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 2./3., 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 4.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par Iedzīvotāju reģistru \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 2./3., 46./47./48.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 4.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2008.gada 1.janvārim izdod šā likuma 6.pantā minētos noteikumus.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn3",
+      "title": "3. Ministru kabinets līdz 2008.gada 1.janvārim izdod šā likuma 17. 1 pantā minētos noteikumus.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn4",
+      "title": "4. Līdz šā likuma 17. 1 pantā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.janvārim piemērojami Ministru kabineta 1999.gada 23.marta noteikumi Nr.119 \" Noteikumi par valsts nodevu par informācijas saņemšanu no Iedzīvotāju reģistra \".",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn5",
+      "title": "5. Ziņas par politiski represētās personas un nacionālās pretošanās kustības dalībnieka statusa piešķiršanas lēmumiem, kas pieņemti līdz 2010.gada 1.jūlijam, Reģistrā aktualizē Pārvalde.",
+      "content": "( 06.05.2010 . likuma redakcijā, kas stājas spēkā 01.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn6",
+      "title": "6. Šā likuma grozījumi par 5.panta otrās daļas izslēgšanu un tā papildināšanu ar trešo un ceturto daļu un 10.panta pirmās daļas papildināšanu ar 10. 1 un 10. 2 punktu stājas spēkā 2017.gada 1.jūlijā.",
+      "content": "( 17.12.2015 . likuma redakcijā, kas stājas spēkā 19.01.2016. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn7",
+      "title": "7. Līdz 2017.gada 30.jūnijam personai tiek piešķirts personas kods, kuru veido vienpadsmit ciparu virkne, no kuriem pirmie seši cipari norāda personas dzimšanas datumu, mēnesi, gadu, bet septītais cipars norāda gadsimtu: cipars \"0\" apzīmē 19.gadsimtu, cipars \"1\" — 20.gadsimtu, cipars \"2\" — 21.gadsimtu. Pirmos sešus ciparus no pārējiem var atdalīt ar defisi.",
+      "content": "( 17.12.2015 . likuma redakcijā, kas stājas spēkā 19.01.2016. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn8",
+      "title": "8. Persona, kurai personas kods piešķirts līdz 2017.gada 30.jūnijam, sākot ar 2017.gada 1.jūliju, ir tiesīga vienu reizi, personīgi iesniedzot Pārvaldei iesniegumu, lūgt, lai maina tai piešķirto personas kodu uz tādu personas kodu, kurā netiek norādīts dzimšanas datums.",
+      "content": "( 17.12.2015 . likuma redakcijā, kas stājas spēkā 19.01.2016. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn9",
+      "title": "9. Šā likuma 3.panta 1. un 2.punktā minētā persona ziņas par identifikācijas kodu, kas tai ārvalstī piešķirts līdz 2017.gada 30.jūnijam un kas ierakstīts kompetentas iestādes izsniegtā dokumentā, kurš ļauj personai uzturēties ārvalstī, sniedz Pārvaldei līdz 2020.gada 1.janvārim.",
+      "content": "( 17.12.2015 . likuma redakcijā, kas stājas spēkā 19.01.2016. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn10",
+      "title": "10. Šā likuma grozījumi par 10. panta pirmās daļas papildināšanu ar 10. 3 punktu stājas spēkā 2018. gada 1. jūnijā.",
+      "content": "( 14.12.2017 . likuma redakcijā, kas stājas spēkā 14.01.2018. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "IV nodaļa Informācijas sniedzēju un lietotāju tiesības un pienākumi",
+      "section": "pn11",
+      "title": "11. Šā likuma grozījumi par 10. panta pirmās daļas papildināšanu ar 27. punktu stājas spēkā sešus mēnešus pēc tam, kad spēkā stājies likums, kas regulē Otrā pasaules kara dalībnieka statusu.",
+      "content": "( 14.12.2017 . likuma redakcijā, kas stājas spēkā 14.01.2018. )"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,491 @@
+{
+  "id": "lv-law-42703",
+  "type": "statute",
+  "title": "Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas likums",
+  "short_name": "TA-42703",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/42703-sauszemes-transportlidzeklu-ipasnieku-civiltiesiskas-atbildibas-obligatas-apdrosinasanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) apdrošināšanas atlīdzība — naudas summa, ko izmaksā zaudējumu atlīdzināšanai;\n2) apdrošināšanas gadījums — ceļu satiksmes negadījums, kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa saskaņā ar šo likumu;\n3) apdrošināšanas līgums — dokuments, kas nosaka apdrošinātāja un apdrošinājuma ņēmēja tiesības un pienākumus;\n4) apdrošinājuma ņēmējs — fiziskā vai juridiskā persona, kas noslēgusi apdrošināšanas līgumu;\n5) apdrošināšanas polise — apdrošinātāja izdots noteikta parauga dokuments, kas apliecina, ka apdrošinājuma ņēmējs un apdrošinātājs ir noslēguši apdrošināšanas līgumu;\n6) apdrošināšanas prēmija — maksājums par sauszemes transportlīdzekļa īpašnieka vai tiesīgā lietotāja civiltiesiskās atbildības apdrošināšanu;\n7) apdrošinātājs — apdrošināšanas sabiedrība, kas darbojas saskaņā ar likumu “Par apdrošināšanu” un normatīvajos aktos noteiktajā kārtībā ir saņēmusi licenci sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas veikšanai;\n8) apdrošinātāja atbildības limits — maksimālās izmaksājamās apdrošināšanas atlīdzības apmērs;\n9) apdrošināšanas termiņš — laiks, uz kuru noslēgts apdrošināšanas līgums;\n10) transportlīdzeklis — šā likuma izpratnē:\na) jebkurš sauszemes mehāniskais transportlīdzeklis, arī piekabe vai puspiekabe, kas piedalās ceļu satiksmē Latvijas teritorijā un ir reģistrējams Ceļu satiksmes drošības direkcijā vai Valsts tehniskās uzraudzības inspekcijā,\nb) sabiedriskais elektrotransports (izņemot elektrovilcienus),\nc) ārvalstīs reģistrēts transportlīdzeklis, ja tas piedalās ceļu satiksmē Latvijas teritorijā;\n11) transportlīdzekļa īpašnieks — šā likuma izpratnē: fiziskā vai juridiskā persona, kurai pieder transportlīdzeklis vai uz kuras vārda reģistrēts transportlīdzeklis;\n12) transportlīdzekļa tiesīgs lietotājs — fiziskā persona, kas, nebūdama īpašnieks, uz pilnvaras, īres līguma vai cita tiesiska pamata lieto transportlīdzekli ceļu satiksmē;\n13) trešā persona — jebkura fiziskā vai juridiskā persona, kurai ceļu satiksmes negadījuma dēļ ir nodarīti personiski vai mantiski zaudējumi un kurai pienākas apdrošināšanas atlīdzība. Šā likuma 33.panta trešajā un ceturtajā daļā minētajos gadījumos par trešo personu uzskatāms ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieks vai tiesīgais lietotājs."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir reglamentēt tiesiskās attiecības starp sauszemes transportlīdzekļu īpašniekiem un apdrošinātājiem sakarā ar transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu nolūkā aizsargāt ceļu satiksmes negadījumos cietušo mantiskās intereses."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "3",
+      "title": "Obligātās apdrošināšanas objekts un apdrošinājuma ņēmējs",
+      "content": "(1) Obligātās apdrošināšanas objekts ir transportlīdzekļa īpašnieka un tiesīgā lietotāja civiltiesiskā atbildība (turpmāk — īpašnieka civiltiesiskā atbildība) par ceļu satiksmes negadījumā nodarīto zaudējumu trešajai personai.\n(2) Īpašnieka civiltiesisko atbildību par katru Latvijas teritorijā ceļu satiksmē izmantojamo transportlīdzekli apdrošina katrs transportlīdzekļa īpašnieks. Ja viņš transportlīdzekli nodevis lietošanā citai personai, nenoslēdzot civiltiesiskās atbildības obligātās apdrošināšanas līgumu vai arī transportlīdzekļa lietošanas laikā ir beidzies iepriekšējā apdrošināšanas līguma termiņš, apdrošināšanas līgumu īpašnieka vārdā slēdz transportlīdzekļa tiesīgais lietotājs. Apdrošināšanas pienākuma nav personai, kura transportlīdzekli lieto uz darba tiesisko vai dienesta attiecību pamata."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "4",
+      "title": "Apdrošināšanas līgumu veidi",
+      "content": "(1) Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas līgumu veidi ir šādi: standartlīgums, kompleksais līgums, grupas līgums, robežapdrošināšanas līgums, starptautiskais civiltiesiskās atbildības obligātās apdrošināšanas līgums (turpmāk — arī Zaļā karte).\n(2) Ja transportlīdzeklis ir noņemts no uzskaites un ar to šķērso robežu, apdrošināšanas līguma veida izvēlē noteicošais faktors ir pēdējā valsts, kurā transportlīdzeklis ir bijis reģistrēts; ja transportlīdzeklis ir jauns, agrāk nereģistrēts, — izgatavotāja valsts."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "5",
+      "title": "Standartlīgums",
+      "content": "Standartlīgums ir apdrošināšanas līgums, kas tiek noslēgts attiecībā uz Latvijā reģistrētajiem transportlīdzekļiem saskaņā ar vispārējo noteikto apdrošināšanas prēmiju aprēķināšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "6",
+      "title": "Kompleksais līgums",
+      "content": "(1) Kompleksais līgums ir apdrošināšanas līgums, kas tiek noslēgts ar lauksaimniecības produkcijas ražotāju — likumā noteiktajā kārtībā reģistrētu zemnieku saimniecību vai tās īpašnieku vai lauksaimniecības statūtsabiedrību, kurai pieder vairāki transportlīdzekļi, kas pakļauti transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātajai apdrošināšanai. Šādu līgumu var noslēgt attiecībā uz ne vairāk kā pieciem transportlīdzekļiem, no kuriem tikai viens var būt vieglais pasažieru automobilis.\n(2) Ja ir noslēgts kompleksais līgums, tiek iekasēta apdrošināšanas prēmija, kura saskaņā ar tās aprēķināšanas kārtību standartlīguma gadījumā atbilst apdrošināšanas prēmijai par to transportlīdzekli, kuram tā ir visaugstākā atbilstoši transportlīdzekļa riska pakāpei.\n(3) Kompleksā līguma īpašais nosacījums ir šāds:\nja persona, kas lieto transportlīdzekli, attiecībā uz kuru ir noslēgts kompleksais līgums, nevar uzrādīt Ceļu policijas darbiniekam (vai citai personai, kurai ir tiesības veikt attiecīgu kontroli) apdrošināšanas polisi, uzskatāms, ka attiecībā uz to nav noslēgts apdrošināšanas līgums."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "7",
+      "title": "Grupas līgums",
+      "content": "(1) Grupas līgums ir apdrošināšanas līgums, kas tiek noslēgts tikai ar juridisko personu, kuras uzņēmējdarbības veids ir transportlīdzekļu tirdzniecība.\n(2) Grupas līgums attiecas uz pārdošanai paredzētiem transportlīdzekļiem, kuri aprīkoti ar speciālām Ceļu satiksmes drošības direkcijā izdotām tirdzniecības numura zīmēm un kuri tiek pārvietoti uz tirdzniecības vai glabāšanas vietu vai piedalās ceļu satiksmē klienta izmēģinājuma braucienā, klātesot tirdzniecības uzņēmuma pārstāvim.\n(3) Ja ir noslēgts grupas līgums, tiek iekasēta apdrošināšanas prēmija, kura saskaņā ar tās aprēķināšanas kārtību standartlīguma gadījumā atbilst apdrošināšanas prēmijai par to transportlīdzekli, kuram tā ir visaugstākā atbilstoši transportlīdzekļa riska pakāpei."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "8",
+      "title": "Robežapdrošināšanas līgums",
+      "content": "Robežapdrošināšanas līgums ir apdrošināšanas līgums, kas tiek noslēgts ar ārvalstīs reģistrēta transportlīdzekļa īpašnieku, transportlīdzeklim šķērsojot Latvijas robežu, ja transportlīdzekļa vadītājs nevar uzrādīt Latvijas teritorijā spēkā esošu starptautisko civiltiesiskās atbildības obligātās apdrošināšanas līgumu (Zaļo karti), kuru garantē starpvalstu vienošanās."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "9",
+      "title": "Starptautiskais civiltiesiskās atbildības obligātās apdrošināšanas līgums (Zaļā karte)",
+      "content": "(1) Starptautiskais civiltiesiskās atbildības obligātās apdrošināšanas līgums (Zaļā karte) ir apdrošināšanas līgums, kas tiek noslēgts pēc apdrošinājuma ņēmēja pieprasījuma attiecībā uz transportlīdzekli, kas piedalās ceļu satiksmē vismaz vienā valstī, kurā ir spēkā obligātā apdrošināšana un kura ir starpvalstu Zaļās kartes konvencijas dalībvalsts.\n(2) Starptautiskā līguma minimālais apdrošināšanas termiņš ir 15 dienas.\n(3) Sarptautiskais līgums ir spēkā polisē norādītajās valstīs.\n(4) Apdrošinātāja atbildību sakarā ar Zaļo karti nosaka starptautiskie līgumi un attiecīgās valsts likumi un citi normatīvie akti, ar kuriem apdrošinātājs pēc pieprasījuma iepazīstina apdrošinājuma ņēmēju."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "10",
+      "title": "Apdrošināšanas līguma noslēgšana",
+      "content": "(1) Apdrošinātājiem jāslēdz sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas līgumi [standartlīgums, kompleksais līgums, grupas līgums, robežapdrošināšanas līgums, kā arī starptautiskais līgums (Zaļā karte) (pēc Latvijas Republikas pievienošanās starptautiskajai transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas sistēmai)] saskaņā ar šā likuma noteikumiem.\n(2) Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas tipveida polises apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "11",
+      "title": "Apdrošināšanas līguma termiņš",
+      "content": "(1) Apdrošināšanas līgumu var noslēgt uz laiku no 15 dienām līdz vienam gadam.\n(2) Apdrošināšanas līgums stājas spēkā nākamajā dienā pēc tā parakstīšanas, ja līgumā nav noteikts citādi.\n(3) Ja tiek noteikts, ka apdrošināšanas līgums stājas spēkā tā parakstīšanas brīdī, līgumā norādāma tā parakstīšanas stunda. Ja līgums parakstīts līdz pulksten 12, līguma parakstīšanas diena, aprēķinot līguma termiņa beigas, ieskaitāma, bet, ja līgums parakstīts pulksten 12 vai vēlāk, — nav ieskaitāma."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "12",
+      "title": "Apdrošināšanas līguma izbeigšana pirms termiņa pēc apdrošinājuma ņēmēja iniciatīvas",
+      "content": "(1) Pēc apdrošinājuma ņēmēja pieteikuma līgums izbeidzas pirms termiņa, ja ir viens no šādiem apstākļiem:\n1) apdrošinājuma ņēmēja ilgstoša slimība;\n2) apdrošinājuma ņēmēja ilgstoša prombūtne;\n3) transportlīdzekļa atsavināšana;\n4) tāds transportlīdzekļa tehniskais stāvoklis, kas ilgstoši nepieļauj tā izmantošanu ceļu satiksmē;\n5) citi apstākļi, kas ļauj secināt, ka transportlīdzeklis netiks izmantots ceļu satiksmē;\n6) nozagta, nozaudēta, bojā gājusi vai sabojāta kompleksā līguma apdrošināšanas polise;\n7) kļūda polisē uzrādītajos datos.\n(2) Īpašnieka nāves gadījumā apdrošināšanas līgumu var izbeigt pēc mantinieku pieteikuma.\n(3) Par apdrošināšanas līguma izbeigšanu transportlīdzekļa īpašnieks iesniedz apdrošinātājam rakstveida pieteikumu, kuram pievieno apdrošināšanas polisi un pierādījumus, kas apstiprina līguma izbeigšanas pamatu.\n(4) Izbeidzot līgumu pirms termiņa, apdrošinājuma ņēmējam ir tiesības uz to iemaksāto prēmijas daļu, kura atbilst:\n1) prēmijas daļai par pilniem mēnešiem, kas palikuši no rakstveida pieteikuma iesniegšanas dienas līdz apdrošināšanas līguma termiņa beigām, atskaitot 10 procentus, ja līgums tiek izbeigts sakarā ar šā panta pirmās daļas 1. — 5.punktā vai otrajā daļā norādītajiem apstākļiem un ja par šo līgumu nav pieteiktas apdrošināšanas atlīdzības izmaksas, kā arī ja līgums tiek izbeigts sakarā ar šā panta pirmās daļas 6.punktā norādītajiem apstākļiem;\n2) neizmantotajai prēmijas daļai par atlikušo periodu, skaitot no rakstveida pieteikuma iesniegšanas dienas, ja līgums tiek izbeigts sakarā ar šā panta pirmās daļas 7.punktā norādītajiem apstākļiem.\n(5) Ja transportlīdzeklis tiek atsavināts un īpašnieks nav iesniedzis pieteikumu par apdrošināšanas līguma izbeigšanu, līgums izbeidzas pats no sevis.\n(6) Mantiniekiem, beidzoties transportlīdzekļa īpašnieka noslēgtajam apdrošināšanas līgumam, tas noslēdzams no jauna.\n(7) Likvidējoties juridiskajai personai, kura ir transportlīdzekļa īpašnieks un kurai ir tiesību pārņēmējs, vai izmainoties tikai juridiskās personas nosaukumam, līgums tiek izbeigts saskaņā ar šā panta ceturtās daļas 2.punkta nosacījumiem un tiek slēgts jauns līgums."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "13",
+      "title": "Apdrošināšanas līguma spēkā esamība apdrošinātāja likvidācijas gadījumā",
+      "content": "(1) Likvidējot apdrošināšanas sabiedrību, kurai ir tiesību pārņēmējs, apdrošināšanas līgumi saglabā savu spēku līdz līguma termiņa beigām.\n(2) Likvidējot apdrošināšanas sabiedrību pēc pašas lēmuma, līgumos noteiktās saistības izpilda likvidācijas komisija vai likvidatori.\n(3) Likvidējot apdrošināšanas sabiedrību pēc likumā paredzētu institūciju lēmuma, obligātās apdrošināšanas līgumu saistības pilda likvidācijas komisija vai likvidatori (administrators). Saistības, kuru izpildei likvidējamai apdrošināšanas sabiedrībai nepietiek līdzekļu, pārņem Satiksmes birojs ( 42.pants ), un tās tiek nodrošinātas no Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas apdrošinājuma ņēmēju interešu aizsardzības fonda ( 45. pants ) līdzekļiem. Saistību pilnīgu izpildi garantē valsts budžets."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "14",
+      "title": "Apdrošināšanas prēmijas un to apmēri",
+      "content": "(1) Apdrošināšanas prēmija tiek noteikta atkarībā no transportlīdzekļa veida, tipa, piederības (fiziskajām vai juridiskajām personām piederošie transportlīdzekļi), tā lietošanas mērķa (tiek izmantoti komercpārvadājumiem vai ne) un reģistrācijas vietas, kā arī ņemot vērā šajā likumā noteiktās pamatprēmijas un koeficientus.\n(2) Apdrošināšanas prēmijas saskaņā ar šo likumu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "15",
+      "title": "Pamatprēmijas un prēmiju apmēri",
+      "content": "(1) Pamatprēmijas apmērs vieglajiem automobiļiem un uz to bāzes būvētiem transportlīdzekļiem, arī mikroautobusiem, kuros sēdvietu skaits bez vadītāja vietas nav lielāks par astoņām sēdvietām, ir 31 lats gadā, un prēmijas apmērs, ņemot vērā šā tipa transportlīdzekļa pilnu masu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 1,5 reizes, bet, ja transportlīdzekli izmanto komercpārvadājumiem, — vairāk nekā 2 reizes.\n(2) Pamatprēmijas apmērs kravas automobiļiem un uz to bāzes būvētiem transportlīdzekļiem ir 55 lati gadā, un prēmijas apmērs, ņemot vērā šā tipa transportlīdzekļa pilnu masu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 1,3 reizes, bet, ņemot vērā transportlīdzekļa izmantošanas veidu, — vairāk nekā 2 reizes.\n(3) Pamatprēmijas apmērs autobusiem un uz to bāzes būvētiem transportlīdzekļiem ir 45 lati gadā, un prēmijas apmērs, ņemot vērā šā tipa transportlīdzekļa pilnu masu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 1,3 reizes, bet, ņemot vērā transportlīdzekļa izmantošanas veidu, — vairāk nekā 1,9 reizes.\n(4) Pamatprēmijas apmērs motocikliem, motorolleriem un uz to bāzes būvētiem transportlīdzekļiem ir 10 latu gadā, un prēmijas apmērs, ņemot vērā šā tipa transportlīdzekļa dzinēja darba tilpumu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 1,5 reizes.\n(5) Pamatprēmijas apmērs traktoriem un pašgājējiem ir 11 latu gadā, un prēmijas apmērs, ņemot vērā šā transportlīdzekļa tipu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 1,7 reizes.\n(6) Pamatprēmijas apmērs tramvajiem un trolejbusiem ir 87 lati gadā.\n(7) Pamatprēmijas apmērs vieglo automobiļu un uz to bāzes būvēto transportlīdzekļu piekabēm ir 5 lati gadā un traktoru un pašgājēju piekabēm — 7 lati gadā. Pamatprēmijas apmērs kravas automobiļu un uz to bāzes būvētu transportlīdzekļu piekabēm ir 15 latu gadā un prēmijas apmērs, ņemot vērā šā transportlīdzekļa tipa piekabes pilnu masu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 6 reizes.\n(8) Ņemot vērā ceļu satiksmes riska pakāpi un transportlīdzekļu daudzumu, Ministru kabinets var noteikt atsevišķās administratīvajās teritorijās reģistrētu transportlīdzekļu apdrošināšanas prēmijām papildu koeficientu — 1,2.\n(9) Pamatprēmijas apmērs, ja transportlīdzeklis reģistrēts ārvalstīs, ir 70 latu gadā, un prēmijas apmērs, ņemot vērā šā transportlīdzekļa tipu, nedrīkst pārsniegt pamatprēmiju vairāk nekā 2 reizes.\n(10) Apdrošināšanas prēmija uz termiņu, kas nav ilgāks par pusgadu, nosakāma lielāka nekā šim termiņam atbilstošā gada apdrošināšanas prēmijas daļa, bet pārējos gadījumos — proporcionāli apdrošināšanas termiņam."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "16",
+      "title": "Apdrošināšanas prēmiju samazināšana",
+      "content": "(1) Apdrošināšanas prēmiju samazina līdz 50 procentiem, ja apdrošināšana bijusi spēkā pēdējos divpadsmit mēnešus pirms līguma slēgšanas un šajā laikposmā transportlīdzekļa īpašnieks vai tiesīgais lietotājs nav izraisījis ceļu satiksmes negadījumus ar apdrošināšanas polisē norādīto transportlīdzekli, kā arī nav vadījis šo transportlīdzekli alkoholisko dzērienu, narkotisko, psihotoksisko vai citu apreibinošu vielu iespaidā.\n(2) Apdrošināšanas prēmija, apdrošinot ne vairāk kā vienu transportlīdzekli, par 40 procentiem tiek samazināta:\n1) I un II grupas invalīdiem;\n2) III grupas invalīdiem, kuriem ir attiecīga transportlīdzekļa vadītāja apliecība un kuriem ir ķermeņa balsta kustības traucējumi, ko apliecina attiecīgs Veselības un darbspēju ekspertīzes ārstu komisijas atzinums.\n(3) Apdrošināšanas prēmijas samazināšanas kārtību nosaka Ministru kabinets, bet kopējais samazinājums nedrīkst pārsniegt 50 procentus no attiecīgā transportlīdzekļa apdrošināšanas prēmijas."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "17",
+      "title": "Apdrošināšanas prēmiju palielināšana",
+      "content": "(1) Apdrošināšanas prēmiju palielina līdz 200 procentiem, ja pēdējos divpadsmit mēnešos pirms jauna apdrošināšanas līguma slēgšanas transportlīdzekļa īpašnieks vai tiesīgais lietotājs ir izraisījis vienu vai vairākus ceļu satiksmes negadījumus ar apdrošināšanas polisē norādīto transportlīdzekli vai šajā laikposmā vadījis šo transportlīdzekli, būdams alkoholisko dzērienu, narkotisko, psihotoksisko vai citu apreibinošu vielu iespaidā.\n(2) Apdrošināšanas prēmiju palielina līdz 300 procentiem, ja iepriekšējā kalendārajā gadā transportlīdzekļa īpašnieks vai tiesīgais lietotājs, būdams alkoholisko dzērienu, narkotisko, psihotoksisko vai citu apreibinošu vielu iespaidā, izraisījis ceļu satiksmes negadījumu.\n(3) Apdrošināšanas prēmijas palielināšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "18",
+      "title": "Apdrošinātāja atbildības limiti",
+      "content": "(1) Apdrošinātāji atbilstoši obligātās apdrošināšanas līgumiem sedz zaudējumus līdz Ministru kabineta noteikto atbildības limitu apmēriem.\n(2) Ja zaudējumi pārsniedz noteikto atbildības limitu, zaudējumu daļu, kas to pārsniedz, cietušais var pieprasīt saskaņā ar Civillikumu ."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "19",
+      "title": "Atbildība par tāda transportlīdzekļa izmantošanu ceļu satiksmē, kura īpašnieka civiltiesiskā atbildība nav apdrošināta",
+      "content": "(1) Izmantojot transportlīdzekli ceļu satiksmē, transportlīdzekļa vadītājam jābūt līdzi apdrošināšanas polisei, kas apliecina šā transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas spēkā esamību.\n(2) Par tāda transportlīdzekļa izmantošanu ceļu satiksmē, kura īpašnieka civiltiesiskā atbildība nav apdrošināta, piemēro sodu Latvijas Administratīvo pārkāpumu kodeksā noteiktajā kārtībā.\n(3) Naudas sods par transportlīdzekļu vadīšanu bez apdrošinātas īpašnieka civiltiesiskās atbildības ieskaitāms valsts budžetā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "II nodaļa. Apdrošināšanas līgums",
+      "section": "20",
+      "title": "Apdrošinātāja pienākumi",
+      "content": "(1) Apdrošinātāja pienākums ir izpildīt savas saistības pret apdrošinājuma ņēmējiem.\n(2) Apdrošinātājiem Ministru kabineta noteiktajā kārtībā jāieskaita maksājumi attiecīgajos Satiksmes biroja kontos:\n1) Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas garantijas (rezerves) fondā ( 44.pants );\n2) Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas apdrošinājuma ņēmēju interešu aizsardzības fondā ( 45.pants );\n3) ceļu satiksmes negadījumu novēršanai un papildu profilakses veikšanai;\n4) Satiksmes biroja ( 41.pants ) darbības nodrošināšanai.\n(3) Apdrošinātāji Ministru kabineta noteiktajā kārtībā sniedz Satiksmes birojam, Ceļu satiksmes drošības direkcijai un Valsts tehniskās uzraudzības inspekcijai to rīcībā esošo informāciju par apdrošināšanas līgumiem.\n(4) Apdrošinātājiem jāpieņem paziņojumi par ceļu satiksmes negadījumiem. Ja paziņojumu saņēmušais apdrošinātājs nav apdrošinājis satiksmes negadījumā iesaistītā transportlīdzekļa īpašnieka civiltiesisko atbildību, paziņojums nododams apdrošinātājam, kas apdrošinājis negadījumā iesaistītā transportlīdzekļa īpašnieka civiltiesisko atbildību, vai Satiksmes birojam."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "21",
+      "title": "Zaudējumi sakarā ar ceļu satiksmes negadījumu",
+      "content": "Iestājoties apdrošināšanas gadījumam, apdrošinātājs saskaņā ar apdrošinātāja atbildības limitiem atlīdzina šajā likumā noteiktajā kārtībā novērtēto zaudējumu, kas ceļu satiksmes negadījumā nodarīts trešajai personai, tās mantai vai videi."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "22",
+      "title": "Personai nodarītie zaudējumi",
+      "content": "(1) Ceļu satiksmes negadījumā cietušās trešās personas veselībai nodarītais zaudējums ir zaudējums, kas saistīts ar:\n1) cietušā ārstēšanu;\n2) cietušā pārejošu darbnespēju;\n3) cietušā darbspēju paliekošu zudumu;\n4) cietušā nāvi.\n(2) Zaudējumu atlīdzināšana cietušajam notiek saskaņā ar apdrošinātāja atbildības limitiem."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "23",
+      "title": "Zaudējumi sakarā ar cietušās personas ārstēšanu",
+      "content": "(1) Zaudējumi sakarā ar cietušā ārstēšanu ir izdevumi, kas saistīti ar cietušās personas nogādāšanu, ievietošanu, uzturēšanu, diagnostiku, ārstēšanu un rehabilitāciju ārstniecības iestādēs, cietušā kopšanu, ārstniecisko uzturu, ārstēšanos mājas apstākļos un protezēšanu.\n(2) Izdevumi, kas saistīti ar cietušā ārstēšanos ārvalstīs, tiek atlīdzināti, ja ārstēšanās iepriekš saskaņota ar apdrošinātāju vai Satiksmes biroju."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "24",
+      "title": "Zaudējumi sakarā ar cietušā pārejošu darbnespēju",
+      "content": "Zaudējumi sakarā ar cietušā pārejošu darbnespēju ir nesaņemtie ienākumi par ārstniecības iestādes apliecināto darbnespējas laiku. Tie tiek novērtēti šādos apmēros:\n1) strādājošai personai (personai, kas ir darba tiesiskajās vai dienesta attiecībās ar darba devēju) — nesaņemtā vidējā darba samaksa, ko aprēķina atbilstoši Latvijas Darba likumu kodeksa normām, atskaitot pēc veselības kaitējuma nodarīšanas personai piešķirto slimības naudu un slimības pabalstu;\n2) pašnodarbinātai personai — nesaņemtie ienākumi, ko aprēķina kā starpību starp iepriekšējā (pirms ceļu satiksmes negadījuma) kalendārajā gadā ar nodokli apliekamiem darba ienākumiem un darba ienākumiem, kas saņemti tajā kalendārajā gadā, kad personai bijusi pārejoša darba nespēja, atskaitot pēc veselības kaitējuma nodarīšanas personai piešķirtos sociālos pakalpojumus naudas izmaksas veidā no valsts sociālās apdrošināšanas budžeta."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "25",
+      "title": "Zaudējumi sakarā ar cietušās personas darbspēju paliekošu zudumu",
+      "content": "(1) Zaudējumi sakarā ar cietušās personas darbspēju paliekošu zudumu ir nesaņemtie ienākumi, kas pilnīga darbspēju zuduma gadījumā tiek novērtēti šā likuma 24.pantā noteiktajā apmērā, bet daļēja darbspēju zuduma gadījumā ir ienākumu starpība, ko nosaka, no šā likuma 24.pantā noteiktajā kārtībā aprēķinātā zaudējuma atskaitot faktiskos darba ienākumus un piešķirtos sociālos pakalpojumus naudas izmaksas veidā no valsts sociālās apdrošināšanas budžeta.\n(2) Apdrošināšanas atlīdzību par zaudējumu sakarā ar darbspēju paliekošu zudumu izmaksā ne retāk kā reizi mēnesī, kamēr saglabājas personas darbspēju zudums.\n(3) Ja persona, kura mācās augstākās izglītības iestādes klātienē, darbspēju paliekoša zuduma dēļ nevar turpināt mācības klātienē, apdrošinātājs vai Satiksmes birojs apmaksā mācības Latvijas Republikas akreditētas augstākās izglītības iestādes neklātienē, līdz persona sasniedz 24 gadu vecumu.\n(4) Ja personai, kurai ir darbspēju paliekošs zudums, ir iespējams vienreizēji apgūt jaunu profesiju ar mērķi gūt ienākumus no darba, kas ir savienojams ar tās pašreizējo veselības stāvokli, apdrošinātājs vai Satiksmes birojs apmaksā profesionālo izglītību, kas atbilst tās pakāpes izglītībai, kāda cietušajai personai bija ceļu satiksmes negadījuma brīdī. Šos izdevumus apdrošinātājs vai Satiksmes birojs sedz pēc vienošanās ar cietušo."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "26",
+      "title": "Zaudējumi sakarā ar cietušā nāvi",
+      "content": "(1) Tiesības saņemt zaudējumu atlīdzību sakarā ar cietušā nāvi ir personām, kuras bijušas cietušā apgādībā, un personai, kas uzņēmusies apbedīšanu.\n(2) Sakarā ar apgādnieka nāvi tiesības uz apdrošināšanas atlīdzību ir:\n1) bērniem — līdz pilngadības sasniegšanai;\n2) darbnespējīgai atraitnei (atraitnim), darbnespējīgiem vecākiem — līdz viņu darbspēju atjaunošanai, kā arī darbspējīgai atraitnei (atraitnim), ja ģimenē ir bērni vecumā līdz astoņiem gadiem;\n3) citiem apgādībā bijušajiem ģimenes locekļiem, kuri par tādiem uzskatāmi saskaņā ar likumu “Par valsts pensijām”.\n(3) Apdrošināšanas atlīdzību izmaksā, ja satiksmes negadījumā cietušā nāve iestājusies gada laikā pēc ceļu satiksmes negadījuma un tiesu medicīnas eksperts vai ārstniecības iestāde apliecina, ka tā nāve cēloniski saistīta ar šo negadījumu.\n(4) Apgādājamiem nodarītie zaudējumi sakarā ar cietušā nāvi ir bojā gājušās personas nesaņemto ienākumu ( 24.pants ) daļa, kas katram apgādājamam pienācās cietušajam dzīvam esot, atskaitot apgādājamam piešķirto apgādnieka zaudējuma pensijas apmēru. Kārtību, kādā aprēķināma atlīdzība apgādājamiem, nosaka Ministru kabinets.\n(5) Apbedīšanas izdevumi apdrošinātāja atbildības limita apmērā tiek atlīdzināti, uzrādot miršanas apliecības oriģinālu."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "27",
+      "title": "Mantai nodarītais zaudējums",
+      "content": "(1) Ceļu satiksmes negadījumā trešās personas mantai nodarītais zaudējums ir zaudējums, kas radies:\n1) sakarā ar transportlīdzekļa bojājumu vai bojāeju;\n2) sakarā ar ceļu, ceļa būvju, ēku un būvju bojājumu vai iznīcināšanu;\n3) sakarā ar cietušā mantas bojājumu vai iznīcināšanu;\n4) veicot nepieciešamos darbus ceļu satiksmes negadījumā cietušo glābšanai;\n5) cietušā nogādāšanai ārstniecības iestādē izmantotā transportlīdzekļa bojājuma vai tā salona notraipīšanas dēļ;\n6) evakuējot transportlīdzekļus no ceļu satiksmes negadījuma vietas.\n(2) Zaudējumu atlīdzināšana cietušajam notiek saskaņā ar apdrošinātāja atbildības limitiem."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "28",
+      "title": "Zaudējumi sakarā ar transportlīdzekļa bojājumu",
+      "content": "Zaudējumi sakarā ar transportlīdzekļa bojājumu ir transportlīdzekļa remonta izdevumi, ieskaitot izdevumus par transportlīdzekļa evakuāciju no ceļu satiksmes negadījuma vietas līdz tā transportlīdzekļa īpašnieka vai tiesīgā lietotāja dzīvesvietai, kas vadīja transportlīdzekli ceļu satiksmes negadījuma brīdī, vai remonta vietai Latvijas teritorijā. Ja sakarā ar izziņas izdarīšanu vai citu iemeslu dēļ transportlīdzekli ir nepieciešams novietot kādā tuvākā stāvvietā, zaudējumos ieskaitāmi arī izdevumi par transportlīdzekļa evakuāciju līdz šai stāvvietai un maksa par stāvvietas pakalpojumiem."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "29",
+      "title": "Zaudējumi sakarā ar transportlīdzekļa bojāeju",
+      "content": "(1) Transportlīdzeklis uzskatāms par bojā gājušu, ja tā remonts nav tehniski iespējams vai arī tas ir ekonomiski nepamatots un transportlīdzekļa īpašnieks piekrīt tā atzīšanai par bojā gājušu. Remonts tiek uzskatīts par ekonomiski nepamatotu, ja paredzamās transportlīdzekļa remonta izmaksas pārsniedz transportlīdzekļa vērtību pirms ceļu satiksmes negadījuma.\n(2) Ja transportlīdzekļa īpašnieks nepiekrīt transportlīdzekļa atzīšanai par bojā gājušu, viņam atlīdzināma transportlīdzekļa vērtības starpība pirms un pēc ceļu satiksmes negadījuma, kā arī izdevumi par transportlīdzekļa evakuāciju no ceļu satiksmes negadījuma vietas.\n(3) Ja transportlīdzeklis atzīts par bojā gājušu, zaudējumu atlīdzība izmaksājama apmērā, kas atbilst transportlīdzekļa vērtībai pirms ceļu satiksmes negadījuma un izdevumiem par transportlīdzekļa atlieku evakuāciju no ceļu satiksmes negadījuma vietas. Tiesības uz transportlīdzekļa atliekām iegūst apdrošinātājs vai Satiksmes birojs."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "30",
+      "title": "Zaudējums sakarā ar ceļa, ceļa būvju un citu materiālo vērtību bojāeju vai bojājumu",
+      "content": "(1) Zaudējums sakarā ar ceļa, ceļa būvju un citu materiālo vērtību bojāeju ir starpība starp attiecīgā objekta vērtību pirms un pēc ceļu satiksmes negadījuma, bet šo objektu bojājuma gadījumā — objekta atjaunošanas izmaksu vērtība.\n(2) Mantai nodarītajā zaudējumā ieskaitāmi arī citi zaudējumi, kas nodarīti trešajai personai un radušies mantas īpašniekam (valdītājam) ceļu satiksmes negadījuma dēļ."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "31",
+      "title": "Videi nodarītais zaudējums",
+      "content": "(1) Ceļu satiksmes negadījumā videi nodarītais zaudējums ir zaudējums, kas radies sakarā ar dabas resursu vai vides degradāciju.\n(2) Zaudējumu atlīdzināšana notiek saskaņā ar apdrošinātāja atbildības limitu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "32",
+      "title": "Satiksmes biroja un apdrošinātāju sadarbība ekspertīžu jomā",
+      "content": "Ekspertiem, kuri veic ar transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu saistītās transportlīdzekļu tehniskās ekspertīzes, nepieciešams Satiksmes biroja izsniegts sertifikāts. Autotransporta tehniskās ekspertīzes noteikumus izdod Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "33",
+      "title": "Zaudējumu atlīdzināšana",
+      "content": "(1) Zaudējumu atlīdzina tas apdrošinātājs, kurš apdrošinājis zaudējumu nodarījušā transportlīdzekļa īpašnieka civiltiesisko atbildību.\n(2) Ja zaudējuma nodarītāji cietušajam ir divi vai vairāki transportlīdzekļu vadītāji, kuru transportlīdzekļu īpašnieku civiltiesiskā atbildība ir apdrošināta vienā vai dažādās apdrošināšanas sabiedrībās, apdrošinātāji apdrošināšanas atlīdzību cietušajam izmaksā atbilstoši katra transportlīdzekļa vadītāja vainas pakāpei.\n(3) Ja ceļu satiksmes negadījumu izraisījušas vairākas personas, tādējādi nodarot savstarpējus zaudējumus, apdrošinātāji apdrošināšanas atlīdzību katram cietušajam izmaksā atbilstoši katra transportlīdzekļa vadītāja vainas pakāpei.\n(4) Ja nav iespējams noteikt ceļu satiksmes negadījumā iesaistīto transportlīdzekļu īpašnieku vai tiesīgo lietotāju vainas pakāpi, zaudējumi tiek atlīdzināti, pieņemot, ka vainas pakāpe ir vienāda.\n(5) Ja nodarītos zaudējumus ir atlīdzinājis cits apdrošinātājs, iekams pieņemts apdrošinātāja lēmums par apdrošināšanas atlīdzības izmaksu, tad apdrošinātājam, kurš apdrošinājis ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieka civiltiesisko atbildību, ir jāatlīdzina izmaksātās atlīdzības summa."
+    },
+    {
+      "provision_ref": "Art. 33.1",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "33.1",
+      "title": "33. 1 pants. Zaudējumu atlīdzināšana, ja tie nodarīti ar piekabi (puspiekabi) vai ar citu cietajā sakabē vilktu transportlīdzekli",
+      "content": "(1) Ja zaudējumi nodarīti ar piekabi (puspiekabi) vai ar citu cietajā sakabē vilktu transportlīdzekli, kas ceļu satiksmes negadījuma brīdī atradies sakabē ar vilcēju vai citu velkošo transportlīdzekli, tad apdrošināšanas atlīdzību cietušajam izmaksā apdrošinātājs, kas apdrošinājis vilcēja vai cita velkošā transportlīdzekļa īpašnieka civiltiesisko atbildību.\n(2) Ja zaudējumi nodarīti ar piekabi (puspiekabi), kas ceļu satiksmes negadījuma brīdī nav atradusies sakabē ar vilcēju vai citu velkošo transportlīdzekli, apdrošināšanas atlīdzību cietušajam izmaksā apdrošinātājs, kas apdrošinājis piekabes (puspiekabes) īpašnieka civiltiesisko atbildību."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "34",
+      "title": "Gadījumi, kad zaudējumi netiek atlīdzināti",
+      "content": "Saskaņā ar šo likumu apdrošinātājs neatlīdzina:\n1) zaudējumus, kuri radušies, lietojot transportlīdzekli, kura īpašnieka civiltiesiskā atbildība ir apdrošināta, bet par kuru nodarīšanu atbildība saskaņā ar Civillikuma 2347.pantu neiestājas. Tādi ir zaudējumi, kuri radušies nepārvaramas varas dēļ, ar paša cietušā nodomu vai viņa rupjas neuzmanības dēļ;\n2) ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieka vai tiesīgā lietotāja personai un mantai nodarītos zaudējumus, izņemot 33.panta trešajā un ceturtajā daļā minētos gadījumus;\n3) zaudējumus par transportlīdzekļa un tajā esošo mantu bojājumiem, bojāeju vai pazušanu, ja šie zaudējumi personām radušies pēc ceļu satiksmes negadījuma;\n4) zaudējumus, kuri nodarīti, transportlīdzekli izmantojot treniņu vai sacensību braucienā;\n5) zaudējumus par ceļu satiksmes negadījumu izraisījušajam transportlīdzeklim piekabināta vai citādi pievienota cita transportlīdzekļa vai piekabes bojājumu;\n6) zaudējumus, ko tieši vai netieši radījusi vai veicinājusi jonizējošā radiācija, jebkuras kodoldegvielas radītā radioaktīvā saindēšanās, jebkāda sprāgstoša kodolsavienojuma vai tā kodolkomponenta radioaktīvā, toksiskā, eksplozīvā vai citādi bīstamā īpašība;\n7) ar ceļu satiksmes negadījumu saistīto negūto peļņu vai morālo kaitējumu."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "35",
+      "title": "Paziņojums par apdrošināšanas gadījumu",
+      "content": "(1) Ceļu satiksmes negadījumā iesaistītajām personām par negadījumu nekavējoties jāpaziņo Ceļu policijai un tam apdrošinātājam, kurš apdrošinājis ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieka civiltiesisko atbildību, kā arī jāveic visi iespējamie pasākumi, lai novērstu vai samazinātu turpmākos zaudējumus.\n(2) Personai, kuras mantai vai transportlīdzeklim nodarīts zaudējums, ir pienākums saglabāt transportlīdzekli un bojāto mantu tādā stāvoklī, kādā tā bija pēc ceļu satiksmes negadījuma, līdz laikam, kad to apskatīs apdrošinātāja norīkots eksperts.\n(3) Ja apdrošinātājs nav zināms, par notikušo ceļu satiksmes negadījumu jāpaziņo jebkuram citam apdrošinātājam vai Satiksmes birojam. Ja paziņojumu saņēmušais apdrošinātājs nav apdrošinājis zaudējumu nodarījušā transportlīdzekļa īpašnieka civiltiesisko atbildību, saņemtais paziņojums nekavējoties jānodod Satiksmes birojam. Satiksmes birojam jānoskaidro, kurš apdrošinātājs ir apdrošinājis ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieka civiltiesisko atbildību, un jāpaziņo cietušajam attiecīgā apdrošinātāja nosaukums un adrese.\n(4) Ceļu satiksmes negadījumā cietušais ir tiesīgs pieprasīt nodarītā zaudējuma atlīdzību saskaņā ar šo likumu, ja kaut viena no ceļu satiksmes negadījumā iesaistītajām personām nekavējoties (tiklīdz tas kļuvis iespējams) paziņojusi par ceļu satiksmes negadījumu ceļu policijai."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "36",
+      "title": "Apdrošinātāja darbības pēc tam, kad saņemts paziņojums par apdrošināšanas gadījumu",
+      "content": "(1) Apdrošinātājam nekavējoties, bet ne vēlāk kā triju darbdienu laikā (skaitot no dienas, kad saņemts rakstveida paziņojums par apdrošināšanas gadījumu) jānosūta eksperts bojātās mantas apskatei.\n(2) Ja šā panta pirmajā daļā minētajā termiņā apdrošinātāja norīkotais eksperts nav ieradies, cietušajai personai ir tiesības izvēlēties ekspertu, lai noteiktu zaudējuma apmēru. Tādā gadījumā apdrošinātājs nav tiesīgs apstrīdēt cietušās personas pierādījumus par nodarītajiem zaudējumiem."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "37",
+      "title": "Iesniegums par apdrošināšanas atlīdzību un tās aprēķināšana",
+      "content": "(1) Ceļu satiksmes negadījumā nodarīto zaudējumu un apdrošināšanas atlīdzību aprēķina apdrošinātājs.\n(2) Aprēķinu izdara pēc tās personas iesnieguma saņemšanas, kura ir tiesīga saņemt apdrošināšanas atlīdzību. Iesniegumam jāpievieno:\n1) ceļu policijas izsniegta izziņa;\n2) izmeklēšanas vai tiesu iestāžu dokumenti par attiecīgo ceļu satiksmes negadījumu (ja tādi ir);\n3) citi dokumenti, kas apliecina zaudējumus un to apmēru.\n(3) Izlemjot jautājumu par apdrošināšanas atlīdzības izmaksu sakarā ar personai nodarīto zaudējumu, apdrošinātājs ir tiesīgs rakstveidā pieprasīt no veselības aprūpes iestādes ziņas par cietušā ārstēšanu, slimības diagnozi un prognozi, izmantot tiesu medicīnas ekspertīzes atzinumus, kā arī, ja nepieciešams, iegūt papildu informāciju, nosūtīt cietušo medicīniskai izmeklēšanai, sedzot visus ar to saistītos izdevumus. Ziņas, ko apdrošinātājs ieguvis par cietušā ārstēšanu, slimības diagnozi un prognozi, ir konfidenciālas.\n(4) Lai saņemtu zaudējumu atlīdzību, institūcijai, kas ir samaksājusi par cietušā ārstēšanu vai sniegusi tam medicīnisko palīdzību no saviem līdzekļiem, ir jāiesniedz apdrošinātājam vai Satiksmes birojam aprēķins par cietušā ārstēšanai izlietotajiem līdzekļiem.\n(5) Apdrošinātājam pēc pieprasītāja lūguma tas jāiepazīstina ar attiecīgajiem normatīvajiem aktiem un apdrošināšanas atlīdzības aprēķināšanas kārtību.\n(6) Zaudējumu atlīdzināšanas pieprasījumu izskata, ja tas iesniegts ne vēlāk kā vienu gadu no dienas, kad cietušajam radās tiesības uz zaudējumu atlīdzināšanu."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "38",
+      "title": "Apdrošināšanas atlīdzības aprēķināšanas termiņš un izmaksas kārtība",
+      "content": "(1) Apdrošināšanas atlīdzība jāaprēķina un jāizmaksā mēneša laikā pēc visu nepieciešamo dokumentu saņemšanas.\n(2) Līdz zaudējuma apmēra pilnīgai noteikšanai apdrošinātājs pēc cietušā lūguma var izmaksāt avansu."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "39",
+      "title": "Apdrošinātāja lēmums",
+      "content": "(1) Pēc tam, kad izskatīti iesniegtie dokumenti par ceļu satiksmes negadījumu, apdrošinātājs pieņem lēmumu par apdrošināšanas atlīdzības izmaksu vai par atteikumu.\n(2) Pēc lēmuma pieņemšanas apdrošinātājam triju darbdienu laikā jānosūta pieprasītājam rakstveida paziņojums.\n(3) Ja ieinteresēto personu neapmierina apdrošinātāja lēmums par apdrošināšanas atlīdzības izmaksu, tai jāiesniedz Satiksmes birojam sūdzība par minētā lēmuma pārskatīšanu. Ja Satiksmes biroja pieņemtais lēmums ieinteresēto personu vai apdrošinātāju neapmierina, var celt prasību tiesā par zaudējuma piedziņu."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "40",
+      "title": "Apdrošinātāja un Satiksmes biroja regresa prasība",
+      "content": "(1) Apdrošinātājs ir tiesīgs iesniegt regresa prasību pret:\n1) ceļu satiksmes negadījumu izraisījušā transportlīdzekļa vadītāju, ja tas:\na) vadījis transportlīdzekli, būdams alkohola, narkotisko, psihotoksisko vai citu apreibinošu vielu iespaidā,\nb) vadījis transportlīdzekli bez tiesībām vadīt attiecīgās kategorijas transportlīdzekli,\nc) pēc satiksmes negadījuma patvaļīgi atstājis notikuma vietu vai izvairījies no noteiktā kārtībā izdarāmās alkoholisko dzērienu, narkotisko vai citu apreibinošu vielu iespaidu konstatējošās pārbaudes vai šīs vielas lietojis pēc satiksmes negadījuma līdz attiecīgai konstatējošai pārbaudei;\n2) ceļa īpašnieku (pārvaldītāju), ja ceļu satiksmes negadījumā nodarītais zaudējums radies viņa vainas dēļ;\n3) personu, kas zaudējumu nodarījusi ar nodomu vai aiz rupjas neuzmanības.\n(2) Satiksmes birojs ir tiesīgs iesniegt regresa prasību pret:\n1) ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieku, kurš nav apdrošinājis savu civiltiesisko atbildību, vai šā transportlīdzekļa tiesīgo lietotāju;\n2) transportlīdzekļa vadītāju, kurš transportlīdzekli ieguvis ar prettiesīgām darbībām;\n3) apdrošinātāju, ja tiek noskaidrots transportlīdzeklis, kas nodarījis zaudējumu, un pienākums izmaksāt apdrošināšanas atlīdzību bija apdrošinātājam."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "III nodaļa. Zaudējumu novērtēšana un apdrošināšanas atlīdzība",
+      "section": "41",
+      "title": "Zaudējuma atlīdzināšana ārvalstniekiem",
+      "content": "Ārvalstniekiem, kā arī ārvalstu juridiskajām personām nodarīto zaudējumu atlīdzina Latvijas Republikas likumos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "42",
+      "title": "Satiksmes birojs",
+      "content": "(1) Satiksmes birojs ir valsts institūcija, kas darbojas Finansu ministrijas pārraudzībā. Satiksmes biroja nolikumu apstiprina Ministru kabinets.\n(2) Satiksmes birojs pilda Latvijas Zaļās kartes biroja funkcijas."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "43",
+      "title": "Satiksmes biroja kompetence",
+      "content": "(1) Satiksmes birojs nodrošina sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas sistēmas izveidošanu un darbību valstī.\n(2) Satiksmes birojs:\n1) izveido Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas garantijas (rezerves) fondu;\n2) izveido Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas apdrošinājuma ņēmēju interešu aizsardzības fondu;\n3) izmaksā apdrošināšanas atlīdzības šajā likumā noteiktajos gadījumos;\n4) izstrādā normatīvo aktu projektus un priekšlikumus jautājumos, kas saistīti ar sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;\n5) izveido un uztur sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas garantēšanai nepieciešamo datu bāzi;\n6) sniedz informāciju cietušajam par apdrošināšanas sabiedrību, kura apdrošinājusi ceļu satiksmes negadījumā iesaistītā transportlīdzekļa īpašnieka civiltiesisko atbildību;\n7) normatīvajos aktos noteiktajā kārtībā var pieprasīt un saņemt bez maksas darbam nepieciešamo informāciju no valsts pārvaldes institūcijām, pašvaldībām un apdrošināšanas sabiedrībām;\n8) izstrādā transportlīdzekļu tehnisko ekspertīžu veikšanas metodiku, kas saistīta ar sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu;\n9) sniedz tiesā regresa prasības šajā likumā paredzētajos gadījumos;\n10) organizē starptautisko sadarbību sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā un slēdz attiecīgus līgumus;\n11) sniedz pakalpojumus, kas saistīti ar sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas tehniskajām, juridiskajām un medicīniskajām ekspertīzēm, tehnisko ekspertu sertificēšanu un apmācību (kvalifikācijas celšanu), kā arī pakalpojumus, kas Satiksmes birojam jāveic Latvijai saistošajos starptautiskajos līgumos paredzētajos gadījumos;\n12) sniedz palīdzību Latvijas apdrošinājuma ņēmējiem tiesību un interešu aizstāvībai ārvalstīs jautājumos, kas saistīti ar sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "44",
+      "title": "Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas garantijas (rezerves) fonds",
+      "content": "(1) Satiksmes birojs kopā ar apdrošinātājiem izveido Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas garantijas (rezerves) fondu (turpmāk — Garantijas fonds). Garantijas fonda mērķis ir nodrošināt apdrošināšanas atlīdzības izmaksas to zaudējumu segšanai, kurus nodarījis:\n1) transportlīdzeklis, kura īpašnieks savu civiltiesisko atbildību nav apdrošinājis;\n2) nenoskaidrots transportlīdzeklis, izņemot mantai vai videi nodarītos zaudējumus;\n3) transportlīdzeklis, kurš izgājis no īpašnieka, glabātāja vai lietotāja valdījuma bez viņu vainas, bet citas personas prettiesisku darbību rezultātā;\n4) ārvalstīs reģistrēts transportlīdzeklis, kura īpašnieks nav noslēdzis robežapdrošināšanas līgumu.\n(2) No Garantijas fonda līdzekļiem tiek izmaksāta zaudējumu atlīdzība arī starptautiskajos līgumos paredzētajos gadījumos.\n(3) Garantijas fonda līdzekļus veido:\n1) apdrošinātāju vienreizējās iemaksas Ministru kabineta noteiktajā apmērā;\n2) atskaitījumi no sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas prēmijām Ministru kabineta noteiktajā apmērā;\n3) apdrošinātāju papildu iemaksas Ministru kabineta noteiktajā apmērā;\n4) Satiksmes biroja regresa kārtībā atgūtie līdzekļi par ceļu satiksmes negadījumā nodarītajiem zaudējumiem;\n5) ziedojumi un dāvinājumi.\n(4) Garantijas fonda turētājs ir Satiksmes birojs. Lēmumus par Garantijas fonda līdzekļu izlietošanu atbilstoši noteiktajiem mērķiem pieņem Satiksmes biroja valde.\n(5) Garantijas fonda līdzekļu izlietojumu uzrauga Garantijas fonda padome, kuras sastāvā ir Satiksmes biroja pārstāvis, Finansu un kapitāla tirgus komisijas pārstāvis un apdrošinātāju pilnvaroti pārstāvji.\n(6) Garantijas fonda nolikumu apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "45",
+      "title": "Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas apdrošinājuma ņēmēju interešu aizsardzības fonds",
+      "content": "Satiksmes birojs kopā ar apdrošinātājiem izveido Sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas apdrošinājuma ņēmēju interešu aizsardzības fondu (turpmāk — Apdrošinājuma ņēmēju interešu aizsardzības fonds), kura mērķis ir nodrošināt apdrošināšanas atlīdzības izmaksas apdrošinātāja maksātnespējas gadījumā.\n(2) Apdrošinājuma ņēmēju interešu aizsardzības fonda līdzekļus veido:\n1) apdrošinātāju iemaksas Ministru kabineta noteiktajā kārtībā;\n2) ziedojumi un dāvinājumi.\n(3) Ja Apdrošinājuma ņēmēju interešu aizsardzības fondā nepietiek līdzekļu, tajā ieskaita līdzekļus no valsts budžeta Ministru kabineta noteiktajā kārtībā.\n(4) Apdrošinājuma ņēmēju interešu aizsardzības fonda turētājs ir Satiksmes birojs. Apdrošinājuma ņēmēju interešu aizsardzības fonda līdzekļi izmaksājami, ja ir pieņemts attiecīgs Satiksmes biroja padomes lēmums.\n(5) Uzraudzību pār Apdrošinājuma ņēmēju interešu aizsardzības fonda darbu veic Finansu un kapitāla tirgus komisija.\n(6) Apdrošinājuma ņēmēju interešu aizsardzības fonda nolikumu apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "46",
+      "title": "Ceļu satiksmes negadījumu novēršanas profilakse",
+      "content": "(1) Ceļu satiksmes drošības programmas īstenošanu koordinē Ministru kabineta izveidota Ceļu satiksmes drošības padome.\n(2) Ceļu satiksmes negadījumu novēršanas pasākumu veikšanai apdrošinātāji ieskaita Satiksmes biroja kontā katru ceturksni 0,6 procentus no apdrošināšanas prēmiju summas.\n(3) Par naudas izlietojumu lemj Ceļu satiksmes drošības padome."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "47",
+      "title": "Ceļu satiksmes drošības direkcijas un Valsts tehniskās uzraudzības inspekcijas pienākumi transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas pārbaudes un kontroles jomā",
+      "content": "(1) Ceļu satiksmes drošības direkcija un Valsts tehniskās uzraudzības inspekcija pirms transportlīdzekļa reģistrācijas un tehniskās apskates pārbauda attiecīgā transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas līguma spēkā esamību.\n(2) Transportlīdzekļa reģistrācija un tehniskā apskate netiek veikta, ja transportlīdzekļa īpašnieka civiltiesiskā atbildība nav apdrošināta."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "48",
+      "title": "Ceļu policijas pienākumi transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas pārbaudes un kontroles jomā",
+      "content": "(1) Ceļu policijas darbinieks ir tiesīgs pārbaudīt transportlīdzekļa vadītāja dokumentus, kas apliecina attiecīgā transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas līguma spēkā esamību.\n(2) Ja pārbaudē konstatēts, ka transportlīdzekļa īpašnieka civiltiesiskā atbildība nav apdrošināta, Ceļu policijas darbinieks sastāda attiecīgu protokolu Latvijas Administratīvo pārkāpumu kodeksā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "49",
+      "title": "Robežsardzes pienākumi transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas pārbaudē, transportlīdzeklim šķērsojot valsts robežu",
+      "content": "(1) Robežsardze pārbauda visu valsts robežu šķērsojošo transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas līguma spēkā esamību neatkarīgi no transportlīdzekļa piederības un reģistrācijas vietas.\n(2) Ja transportlīdzekļa vadītājs, iebraucot Latvijā, nevar uzrādīt dokumentu, kas apliecina transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas līguma spēkā esamību, transportlīdzekļa tālāka kustība ir pieļaujama tikai pēc tā īpašnieka civiltiesiskās atbildības apdrošināšanas.\n(3) Ja pārbaudē konstatēts, ka, izbraucot no Latvijas, transportlīdzekļa īpašnieka civiltiesiskā atbildība nav apdrošināta, tiek piemērots sods Latvijas Administratīvo pārkāpumu kodeksā noteiktajā kārtībā. Transportlīdzekļa tālāka kustība pāri robežai ir pieļaujama tikai pēc naudas soda samaksas."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "50",
+      "title": "Satiksmes biroja, Ceļu policijas, Ceļu satiksmes drošības direkcijas, Valsts tehniskās uzraudzības inspekcijas un apdrošinātāju sadarbība informācijas apmaiņas jomā",
+      "content": "(1) Satiksmes birojs, Ceļu satiksmes drošības direkcija, Valsts tehniskās uzraudzības inspekcija un apdrošinātāji veido apdrošināto transportlīdzekļu īpašnieku uzskaites datu bāzi. Informācija par transportlīdzekļiem, kuru īpašnieku civiltiesiskā atbildība ir apdrošināta, tiek uzkrāta Satiksmes biroja apdrošināto transportlīdzekļu īpašnieku datu uzskaites bāzē un Ceļu satiksmes drošības direkcijas transportlīdzekļu reģistrācijas datu bāzē.\n(2) Pirms apdrošināšanas līguma noslēgšanas apdrošinātājam ir tiesības saņemt no Satiksmes biroja, Ceļu satiksmes drošības direkcijas un Valsts tehniskās uzraudzības inspekcijas to rīcībā esošo informāciju par attiecīgo apdrošinājuma ņēmēju un transportlīdzekli.\n(3) Pēc Satiksmes biroja pieprasījuma Ceļu satiksmes drošības direkcija sniedz tās rīcībā esošo informāciju no attiecīgās datu bāzes par konkrētu transportlīdzekli un tā īpašnieku, tiesīgo lietotāju vai vadītāju, kā arī par ceļu satiksmes negadījumu.\n(4) Pēc Satiksmes biroja vai apdrošinātāja pieprasījuma Ceļu policija iepazīstina Satiksmes biroju vai apdrošinātāju ar tās rīcībā esošo informāciju par ceļu satiksmes negadījumu un izsniedz izziņu par ceļu satiksmes negadījumu, bet, ja nepieciešams, — nodrošina iespēju saņemt par attiecīgo ceļu satiksmes negadījumu sastādīto dokumentu kopijas.\n(5) Pēc Satiksmes biroja pieprasījuma Valsts tehniskās uzraudzības inspekcija sniedz tās rīcībā esošo informāciju par konkrētu transportlīdzekli un tā īpašnieku, tiesīgo lietotāju vai vadītāju.\n(6) Šajā pantā minēto ziņu sniegšana un informācijas apmaiņa starp attiecīgajām institūcijām notiek Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 1997.gada 1.jūnijam izdod noteikumus par:",
+      "content": "1) apdrošināšanas prēmijām, to palielināšanas un samazināšanas kārtību;\n2) par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas tipveida polisēm;\n3) apdrošināšanas atlīdzības limitiem;\n4) Satiksmes biroju, Garantijas fondu un Apdrošinājuma ņēmēju interešu aizsardzības fondu."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn2",
+      "title": "2. Citus normatīvos aktus šā likuma izpildei Ministru kabinets izdod līdz 1997.gada 1.septembrim.",
+      "content": "2. Citus normatīvos aktus šā likuma izpildei Ministru kabinets izdod līdz 1997.gada 1.septembrim."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn3",
+      "title": "3. Noteikt, ka šis likums tiek ieviests laika periodā no 1997.gada 1.jūnija līdz 1997.gada 31.augustam šādā kārtībā:",
+      "content": "1) šajā periodā noslēdzami sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas līgumi vai atbilstoši šā likuma noteikumiem pārjaunojami brīvprātīgās apdrošināšanas līgumi, nosakot obligātās apdrošināšanas līgumu spēkā stāšanos ar 1997.gada 1.septembri;\n2) ar 1997.gada 1.jūniju netiek veikta transportlīdzekļu reģistrācija un tehniskā apskate, ja nav atbilstoši šā punkta 1.apakšpunkta noteikumam noslēgts īpašnieka civiltiesiskās atbildības obligātās apdrošināšanas līgums;\n3) šā likuma 49.panta otrās daļas noteikumi piemērojami ar 1997.gada 1.septembri. Ārvalstīs reģistrēta transportlīdzekļa īpašniekam, kurš robežu šķērsojis laikā līdz 1997.gada 31.augustam un turpina atrasties Latvijā, jānoslēdz obligātās apdrošināšanas līgums ne vēlāk kā 1997.gada 31.augustā;\n4) šā likuma 19. un 48.panta noteikumi piemērojami no 1997.gada 1.septembra."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn4",
+      "title": "4. No Garantijas fonda zaudējumu atlīdzība izmaksājama sakarā ar ceļu satiksmes negadījumiem, kas notikuši ne agrāk kā 1997.gada 1.septembrī.",
+      "content": "4. No Garantijas fonda zaudējumu atlīdzība izmaksājama sakarā ar ceļu satiksmes negadījumiem, kas notikuši ne agrāk kā 1997.gada 1.septembrī."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn5",
+      "title": "5. Šā likuma 9.pants un 42.panta otrā daļa stājas spēkā pēc Latvijas Republikas pievienošanās starptautiskajai transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas (Zaļo karšu) sistēmai.",
+      "content": "5. Šā likuma 9.pants un 42.panta otrā daļa stājas spēkā pēc Latvijas Republikas pievienošanās starptautiskajai transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas (Zaļo karšu) sistēmai."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn6",
+      "title": "6. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.300 “Noteikumi par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 19.nr.) un noteikumi nr.458 “Grozījums Ministru kabineta 1996.gada 6.augusta noteikumos nr. 300 “Noteikumi par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu”” (Latvijas Vēstnesis, 1996, 228., 229., 230. nr.).",
+      "content": "6. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie Ministru kabineta noteikumi nr.300 “Noteikumi par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu” (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1996, 19.nr.) un noteikumi nr.458 “Grozījums Ministru kabineta 1996.gada 6.augusta noteikumos nr. 300 “Noteikumi par sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligāto apdrošināšanu”” (Latvijas Vēstnesis, 1996, 228., 229., 230. nr.)."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn7",
+      "title": "7. Šā likuma 14.panta pirmās daļas noteikumi nav piemērojami attiecībā uz starptautiskajiem civiltiesiskās atbildības obligātās apdrošināšanas līgumiem (Zaļajām kartēm).",
+      "content": "( 20.12.2000 . likuma redakcijā, kas stājas spēkā 24.01.2000. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IV nodaļa. Valsts pārvalde transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas jomā",
+      "section": "pn8",
+      "title": "8. Šā likuma 16. un 17.panta noteikumi nav piemērojami attiecībā uz starptautiskajiem civiltiesiskās atbildības obligātās apdrošināšanas līgumiem (Zaļajām kartēm), kuri nav spēkā Latvijas teritorijā.",
+      "content": "( 20.12.2000 . likuma redakcijā, kas stājas spēkā 24.01.2000. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apdrošināšanas atlīdzība",
+      "definition": "naudas summa, ko izmaksā zaudējumu atlīdzināšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas gadījums",
+      "definition": "ceļu satiksmes negadījums, kuram iestājoties paredzēta apdrošināšanas atlīdzības izmaksa saskaņā ar šo likumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas līgums",
+      "definition": "dokuments, kas nosaka apdrošinātāja un apdrošinājuma ņēmēja tiesības un pienākumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinājuma ņēmējs",
+      "definition": "fiziskā vai juridiskā persona, kas noslēgusi apdrošināšanas līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas polise",
+      "definition": "apdrošinātāja izdots noteikta parauga dokuments, kas apliecina, ka apdrošinājuma ņēmējs un apdrošinātājs ir noslēguši apdrošināšanas līgumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas prēmija",
+      "definition": "maksājums par sauszemes transportlīdzekļa īpašnieka vai tiesīgā lietotāja civiltiesiskās atbildības apdrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinātājs",
+      "definition": "apdrošināšanas sabiedrība, kas darbojas saskaņā ar likumu “Par apdrošināšanu” un normatīvajos aktos noteiktajā kārtībā ir saņēmusi licenci sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātās apdrošināšanas veikšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošinātāja atbildības limits",
+      "definition": "maksimālās izmaksājamās apdrošināšanas atlīdzības apmērs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apdrošināšanas termiņš",
+      "definition": "laiks, uz kuru noslēgts apdrošināšanas līgums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "transportlīdzeklis",
+      "definition": "šā likuma izpratnē:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "transportlīdzekļa īpašnieks",
+      "definition": "šā likuma izpratnē: fiziskā vai juridiskā persona, kurai pieder transportlīdzeklis vai uz kuras vārda reģistrēts transportlīdzeklis",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "transportlīdzekļa tiesīgs lietotājs",
+      "definition": "fiziskā persona, kas, nebūdama īpašnieks, uz pilnvaras, īres līguma vai cita tiesiska pamata lieto transportlīdzekli ceļu satiksmē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "trešā persona",
+      "definition": "jebkura fiziskā vai juridiskā persona, kurai ceļu satiksmes negadījuma dēļ ir nodarīti personiski vai mantiski zaudējumi un kurai pienākas apdrošināšanas atlīdzība. Šā likuma 33.panta trešajā un ceturtajā daļā minētajos gadījumos par trešo personu uzskatāms ceļu satiksmes negadījumu izraisījušā transportlīdzekļa īpašnieks vai tiesīgais lietotājs.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

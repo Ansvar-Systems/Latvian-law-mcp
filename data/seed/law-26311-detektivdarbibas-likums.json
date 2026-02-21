@@ -1,0 +1,163 @@
+{
+  "id": "lv-law-26311",
+  "type": "statute",
+  "title": "Detektīvdarbības likums",
+  "title_en": "Law On Detective Activity",
+  "short_name": "TA-26311",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/26311-detektivdarbibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Šā likuma mērķis ir noteikt detektīvdarbības kā īpaša komercdarbības veida tiesisko pamatu un subjektu loku, reglamentēt to tiesības un pienākumus.",
+      "content": "1.pants. Šā likuma mērķis ir noteikt detektīvdarbības kā īpaša komercdarbības veida tiesisko pamatu un subjektu loku, reglamentēt to tiesības un pienākumus."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "(1) Detektīvdarbība ir šajā likumā noteiktajā kārtībā licencēto individuālo komersantu, personālsabiedrību un kapitālsabiedrību (turpmāk — detektīvsabiedrība) un sertificēto fizisko personu (turpmāk — detektīvs) pakalpojumi, kuri, pamatojoties uz līgumu, fiziskajai vai juridiskajai personai tiek sniegti, lai aizsargātu tās tiesības un likumīgās intereses.",
+      "content": "(2) Detektīvsabiedrība un detektīvs var sniegt šādus detektīvdarbības pakalpojumus:\n1) vākt ziņas civillietās un krimināllietās;\n2) meklēt noziedzīgu nodarījumu izdarījušās vai bezvēsts pazudušās personas;\n3) noskaidrot ar noziedzīgu darbību saistītus faktus, lietas vai personas;\n4) sniegt konsultācijas fiziskajām un juridiskajām personām drošības jautājumos;\n5) noskaidrot negodīgas konkurences, nelikumīgas komercdarbības vai citas nelikumīgas saimnieciskās darbības faktus;\n6) vākt personu raksturojošas ziņas pirms darba līguma vai cita civiltiesiskā līguma noslēgšanas un ziņas par personas maksātspēju;\n7) pārbaudīt ar apdrošināšanas līguma saistību izpildīšanu un materiālo zaudējumu atlīdzināšanu saistītas ziņas;\n8) meklēt fizisko un juridisko personu nozaudēto vai prettiesiski atsavināto mantu.\n(3) Detektīvsabiedrība un detektīvs var sniegt arī citus pakalpojumus, ja tie nav pretrunā ar likumu un kalpo šā panta pirmajā daļā noteikto mērķu sasniegšanai."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "(1) Detektīvdarbību var uzsākt:",
+      "content": "1) detektīvsabiedrība — pēc speciālas atļaujas (licences) detektīvdarbības veikšanai (turpmāk— licence) saņemšanas;\n2) detektīvs — pēc sertifikāta detektīvdarbības veikšanai (turpmāk — sertifikāts) saņemšanas.\n(2) Licenci izsniedz uz nenoteiktu laiku. Sertifikātu izsniedz uz pieciem gadiem.\n(3) Ministru kabinets nosaka licences un sertifikāta izsniegšanas, sertifikāta darbības laika pagarināšanas, licences un sertifikāta anulēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "(1) Saņemt licenci un veikt detektīvdarbību ir tiesīgs individuālais komersants, personālsabiedrība vai kapitālsabiedrība, kurā attiecīgi individuālais komersants vai ikviens personālsabiedrību pārstāvēttiesīgais biedrs, vai kapitālsabiedrības valdes loceklis (turpmāk — detektīvsabiedrības vadītājs) ir Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts pilsonis vai Latvijas nepilsonis.",
+      "content": "(2) Saņemt licenci un veikt detektīvdarbību nav tiesīgs individuālais komersants, personālsabiedrība vai kapitālsabiedrība, ja uz tās vadītāju attiecas šajā likumā minētie ierobežojumi.\n(3) Individuālajam komersantam, personālsabiedrībai vai kapitālsabiedrībai, kurai anulēta licence, aizliegts atkārtoti izsniegt licenci, kamēr nav pagājis gads pēc tās anulēšanas."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "5.pants.",
+      "content": "(Izslēgts ar 14.06.2012 . likumu, kas stājas spēkā 01.10.2012. )"
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "(1) Saņemt sertifikātu un veikt detektīvdarbību ir tiesīgs Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts pilsonis vai Latvijas nepilsonis, kuram ir augstākā izglītība tiesību zinātnēs vai kuram ir ne mazāk kā piecu gadu darba pieredze tiesībaizsardzības iestādēs (tiesa, prokuratūra, policija, izmeklēšanas iestādes, valsts drošības iestādes).",
+      "content": "(2) Saņemt sertifikātu un veikt detektīvdarbību nav tiesīgs Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts pilsonis vai Latvijas nepilsonis:\n1) kurš ir tiesībaizsardzības iestādes amatpersona vai darbinieks;\n2) kurš ir sodīts par tīšu noziedzīgu nodarījumu vai par alkoholisko dzērienu, narkotisko vai citu apreibinošo vielu iespaidā izdarītu noziedzīgu nodarījumu, — pirms sodāmības dzēšanas vai noņemšanas;\n3) kurš ir notiesāts par šīs daļas 2.punktā paredzētā noziedzīgā nodarījuma izdarīšanu, atbrīvojot no soda vai soda izciešanas, — agrāk par gadu pēc tam, kad stājies spēkā nolēmums par atbrīvošanu no soda vai soda izciešanas;\n4) kurš ir atbrīvots no kriminālatbildības par šīs daļas 2.punktā paredzētā noziedzīgā nodarījuma izdarīšanu, — agrāk par gadu pēc lēmuma spēkā stāšanās;\n5) kurš ir nosacīti atbrīvots no kriminālatbildības par šīs daļas 2.punktā paredzētā noziedzīgā nodarījuma izdarīšanu, — pirms pārbaudes laika beigām;\n6) pret kuru uzsākta kriminālvajāšana par šīs daļas 2.punktā paredzētā noziedzīgā nodarījuma izdarīšanu;\n7) kurš ir administratīvi sodīts par alkoholisko dzērienu, narkotisko, psihotropo, toksisko vai citu apreibinošo vielu ietekmē izdarītiem pārkāpumiem, par atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai, no narkotisko vai citu apreibinošo vielu ietekmes pārbaudes, par sīko huligānismu vai par ļaunprātīgu nepakļaušanos policijas darbinieka, robežsarga vai zemessarga, kā arī karavīra likumīgajam rīkojumam vai prasībai, — ja nav pagājis gads pēc administratīvā soda izpildes;\n8) kuram ir konstatēta psihiska slimība vai atkarība no alkohola, narkotiskajām, psihotropajām vai toksiskajām vielām;\n9) kurš ir atbrīvots (atlaists) no darba vai dienesta tiesībaizsardzības iestādē sakarā ar disciplināro pārkāpumu, ja pēc atbrīvošanas (atlaišanas) no darba vai dienesta nav pagājuši trīs gadi;\n10) par kuru Valsts policijas vai valsts drošības iestāžu rīcībā ir ziņas, kas dod pamatu uzskatīt, ka attiecīgās personas darbība ir vērsta pret valsts, sabiedrības vai citu personu likumīgajām interesēm.\n(3) Šā panta otrajā daļā minētie ierobežojumi attiecas arī uz detektīvsabiedrības vadītāju.\n(4) Personai, kurai anulēts sertifikāts, aizliegts atkārtoti izsniegt sertifikātu, kamēr nav pagājis gads pēc tā anulēšanas. Šis nosacījums neattiecas uz gadījumu, kad sertifikāts anulēts saskaņā ar šā panta otrās daļas 1.punktu, kā arī uz gadījumu, kad sertifikāts anulēts saskaņā ar šā panta otrās daļas 6.punktu un kriminālprocess izbeigts uz reabilitējoša pamata."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Licenci detektīvsabiedrībai anulē, ja:",
+      "content": "1) tā tīši nepilda likumu vai citu normatīvo aktu prasības;\n2) tā apzināti sniegusi nepatiesas ziņas, lai saņemtu licenci;\n3) tā sistemātiski nepilda nodokļu saistības;\n4) to nosaka citi likumi vai tiesas nolēmumi;\n5) konstatēts, ka tā neatbilst šā likuma 4.pantā noteiktajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Sertifikātu detektīvam anulē, ja:",
+      "content": "1) viņš tīši nepilda likumu vai citu normatīvo aktu prasības;\n2) viņš apzināti sniedzis nepatiesas ziņas, lai saņemtu sertifikātu;\n3) viņš sistemātiski nepilda nodokļu saistības;\n4) to nosaka citi likumi vai tiesas nolēmumi;\n5) konstatēts, ka viņš neatbilst šā likuma 6.pantā noteiktajām prasībām."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "section": "9",
+      "title": "(1) Ar katru klientu noslēdzams rakstveida līgums par detektīvdarbības pakalpojuma sniegšanu. Ja līgumu slēdz detektīvsabiedrība, papildus Civillikuma prasībām norādāms tā detektīva vārds, uzvārds, sertifikāta numurs un izsniegšanas datums, kurš sniegs detektīvdarbības pakalpojumu.",
+      "content": "(2) Ja līgumu slēdz par ziņu vākšanu krimināllietā, detektīvdarbības pakalpojuma sniedzējs 24 stundu laikā par to rakstveidā ziņo procesa virzītājam, kura lietvedībā atrodas attiecīgā krimināllieta, un saskaņo ar viņu savas darbības šajā lietā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "section": "10",
+      "title": "(1) Veicot detektīvdarbību, detektīvs ir tiesīgs:",
+      "content": "1) veikt maskētu (slēptu) personas aptauju par interesējošajiem faktiem un lietas vai notikuma apstākļiem;\n2) ar personas piekrišanu veikt detalizētu personas aptauju un pieņemt no tās rakstveida paskaidrojumu par interesējošajiem faktiem un lietas vai notikuma apstākļiem;\n3) ar īpašnieka vai likumīgā valdītāja atļauju veikt publiski nepieejamu vietu, ēku, būvju, telpu, iekārtu, aprīkojuma, priekšmetu un dokumentu apskati;\n4) veikt publiski pieejamu vietu, ēku, būvju, telpu un telpās esošo priekšmetu atklātu vai maskētu (slēptu) apskati;\n5) veikt personu, lietu un to kustības atklātu vai maskētu (slēptu) novērošanu un izsekošanu.\n(2) Šā panta pirmajā daļā minēto detektīvdarbības pasākumu veikšanai ir atļauts izmantot videoierakstus, audioierakstus un fotouzņēmumus, kā arī citus tehniskos līdzekļus, ja tas neapdraud cilvēku dzīvību vai veselību, kā arī apkārtējo vidi un konkrētajos apstākļos nav aizliegts ar likumiem un citiem normatīvajiem aktiem.\n(3) Detektīva pienākums ir nodot tiesībaizsardzības iestāžu rīcībā visu detektīvdarbības procesā iegūto informāciju par gatavojamiem vai izdarītajiem noziedzīgajiem nodarījumiem, kā arī ar tiem saistītajām personām."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "section": "11",
+      "title": "Veicot detektīvdarbību, ir aizliegts radīt personām fizisku, morālu vai materiālu kaitējumu, apdraudēt cilvēku dzīvību un veselību, kā arī apkārtējo vidi, lietot vai draudēt lietot fiziskās ietekmēšanas līdzekļus, pamudināt personas uz noziedzīgu rīcību.",
+      "content": "11.pants. Veicot detektīvdarbību, ir aizliegts radīt personām fizisku, morālu vai materiālu kaitējumu, apdraudēt cilvēku dzīvību un veselību, kā arī apkārtējo vidi, lietot vai draudēt lietot fiziskās ietekmēšanas līdzekļus, pamudināt personas uz noziedzīgu rīcību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "section": "12",
+      "title": "Detektīvsabiedrībai un detektīvam ir aizliegts:",
+      "content": "1) apzināti maldināt klientus un izmantot iegūto informāciju pretēji valsts vai ar likumu aizsargātām klienta vai citu personu interesēm;\n2) nodot sertifikātu vai licenci citām personām;\n3) veikt operatīvās darbības pasākumus;\n4) bez klienta piekrišanas izpaust informāciju, kas iegūta, pildot savus pienākumus, izņemot šā likuma 10.panta trešajā daļā un citos likumos noteiktos gadījumus."
+    },
+    {
+      "provision_ref": "Art. 12.1",
+      "section": "12.1",
+      "title": "12. 1 pants. Detektīvsabiedrībai ir aizliegts uzdot pildīt detektīva pienākumus personai, kura nav saņēmusi sertifikātu vai kurai tas anulēts.",
+      "content": "( 14.06.2012 . likuma redakcijā, kas stājas spēkā 01.10.2012. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "section": "13",
+      "title": "Par licences un sertifikāta izsniegšanu un sertifikāta darbības laika pagarināšanu maksājama valsts nodeva Ministru kabineta noteiktajā apmērā un kārtībā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 29.04.2010 . likumu, kas stājas spēkā 28.05.2010. )"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "section": "14",
+      "title": "Detektīvdarbības kontroli veic Valsts policija, kurai ir tiesības pieprasīt kontroles funkciju veikšanai nepieciešamos dokumentus un mutvārdu vai rakstveida informāciju.",
+      "content": "14.pants. Detektīvdarbības kontroli veic Valsts policija, kurai ir tiesības pieprasīt kontroles funkciju veikšanai nepieciešamos dokumentus un mutvārdu vai rakstveida informāciju."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "section": "15",
+      "title": "(1) Ziņas par detektīvdarbības veikšanai izsniegtajām licencēm un sertifikātiem Valsts policija reģistrē Integrētās iekšlietu informācijas sistēmas licenču un sertifikātu reģistrā.",
+      "content": "(2) Licenču un sertifikātu reģistrā reģistrējamo ziņu apjomu, ziņu iekļaušanas, izmantošanas un dzēšanas kārtību, kā arī institūcijas, kurām piešķirama piekļuve šajā reģistrā iekļautajām ziņām, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "section": "16",
+      "title": "(1) Par detektīvsabiedrībai vai detektīvam šajā likumā noteikto aizliegumu pārkāpšanu vai pienākumu nepildīšanu piemēro naudas sodu fiziskajai personai no septiņām līdz septiņdesmit naudas soda vienībām, bet juridiskajai personai — no četrpadsmit līdz simt naudas soda vienībām.",
+      "content": "(2) Par detektīvdarbības veikšanu bez licences vai sertifikāta piemēro naudas sodu fiziskajai personai vai valdes loceklim no sešdesmit līdz četrsimt naudas soda vienībām, atņemot tiesības ieņemt noteiktus amatus komercsabiedrībās uz laiku līdz pieciem gadiem vai bez tā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "section": "17",
+      "title": "Administratīvā pārkāpuma procesu par šā likuma 16. pantā minētajiem pārkāpumiem veic Valsts policija.",
+      "content": "( 12.12.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. Pants stājas spēkā 01.07.2020. Sk. pārejas noteikumu 7. punktu)"
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2001.gada 1.novembrim izstrādā un pieņem šajā likumā minētos normatīvos aktus.",
+      "content": "1. Ministru kabinets līdz 2001.gada 1.novembrim izstrādā un pieņem šajā likumā minētos normatīvos aktus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Valsts policija triju mēnešu laikā pēc šā likuma stāšanās spēkā izskata esošo detektīvsabiedrību un detektīvu atbilstību Detektīvdarbības likumam un anulē licences, ja tās neatbilst šā likuma prasībām.",
+      "content": "2. Valsts policija triju mēnešu laikā pēc šā likuma stāšanās spēkā izskata esošo detektīvsabiedrību un detektīvu atbilstību Detektīvdarbības likumam un anulē licences, ja tās neatbilst šā likuma prasībām."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Šā likuma 6.panta 1.punktā minētais nosacījums par praktiskā juridiskā darba pieredzi Latvijas Republikas tiesībaizsardzības iestādēs nevar būt par pamatu licences anulēšanai un sertifikāta neizsniegšanai detektīvam, kurš detektīvdarbību uzsācis līdz šā likuma pieņemšanas dienai, ja viņš atbilst pārējām likuma prasībām.",
+      "content": "3. Šā likuma 6.panta 1.punktā minētais nosacījums par praktiskā juridiskā darba pieredzi Latvijas Republikas tiesībaizsardzības iestādēs nevar būt par pamatu licences anulēšanai un sertifikāta neizsniegšanai detektīvam, kurš detektīvdarbību uzsācis līdz šā likuma pieņemšanas dienai, ja viņš atbilst pārējām likuma prasībām."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Licences, kuras izsniegtas uz pieciem gadiem, ir spēkā līdz tajās norādītā derīguma termiņa beigām. Jaunā parauga (beztermiņa) licences komersanti pieprasa 30 dienas pirms licencē norādītā derīguma termiņa beigām. Šādā gadījumā jaunā parauga (beztermiņa) licenču izsniegšanai valsts nodeva tiek piemērota tādā apmērā, kāds paredzēts par atkārtotu licences izsniegšanu.",
+      "content": "( 29.04.2010 . likuma redakcijā, kas stājas spēkā 28.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 1.septembrim ir spēkā Ministru kabineta 2007.gada 17.aprīļa noteikumi Nr.260 “ Detektīvdarbības licencēšanas un sertifikācijas noteikumi ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 29.04.2010 . likuma redakcijā, kas stājas spēkā 28.05.2010. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Licences un sertifikāti, kas izsniegti līdz 2012.gada 1.oktobrim un neatbilst šajā likumā noteiktajām prasībām un izsniegšanas nosacījumiem, ir derīgi līdz 2012.gada 31.decembrim.",
+      "content": "( 14.06.2012 . likuma redakcijā, kas stājas spēkā 01.10.2012. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Šā likuma 16. un 17. pants stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 12.12.2019 . likuma redakcijā, kas stājas spēkā 24.12.2019. )"
+    }
+  ],
+  "definitions": []
+}

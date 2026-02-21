@@ -1,0 +1,447 @@
+{
+  "id": "lv-law-12484",
+  "type": "statute",
+  "title": "Par radiācijas drošību un kodoldrošību",
+  "title_en": "Law On Radiation Safety And Nuclear Safety",
+  "short_name": "TA-12484",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/12484-par-radiacijas-drosibu-un-kodoldrosibu",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) darbības ar jonizējošā starojuma avotiem — cilvēka darbības (jonizējošā starojuma avotu ražošana, importēšana, eksportēšana, transportēšana, pārdošana, iznomāšana, iegūšana īpašumā vai lietošanā, glabāšana, remontēšana un citas līdzīgas darbības), kas var palielināt cilvēku apstarošanu no mākslīgajiem jonizējošā starojuma avotiem vai no dabiskajiem jonizējošā starojuma avotiem, ja dabiskos radionuklīdus izmanto to radioaktīvo, kodoldalīšanās vai kodolpārvērtību īpašību dēļ, izņemot apstarošanu avāriju gadījumos;\n1 1 ) apglabāšana — radioaktīvo atkritumu ievietošana radioaktīvo atkritumu apglabāšanas objektā, lai tos neņemtu ārā;\n1 2 ) apstarošanai pakļauts darbinieks — persona, kura pakļauta apstarošanai darba vietā un kuras saņemtās dozas var pārsniegt kādu no iedzīvotājiem noteiktajiem dozu limitiem konkrētā periodā (turpmāk arī — darbinieks);\n1 3 ) darbinieku apstarošana — darbinieku, mācekļu un studējošo apstarošana tiešo darba pienākumu pildīšanas laikā;\n1 4 ) darbu vadītājs — persona, kura ir kompetenta jautājumos par aizsardzību pret jonizējošo starojumu darbā ar jonizējošā starojuma avotiem, kā arī minēto aizsardzības pasākumu uzraudzībā un īstenošanā;\n1 5 ) dozas limits — efektīvās dozas (attiecīgos gadījumos paredzamās efektīvās dozas) vai ekvivalentās dozas vērtība konkrētā periodā, kura attiecībā uz personu nav pārsniedzama;\n2) jonizējošais starojums — enerģijas plūsma daļiņu vai elektromagnētisko viļņu veidā (viļņa garums vienāds ar 100 nanometriem vai mazāks vai viļņa svārstību frekvence vienāda ar 3 x 10 15 herciem vai lielāka). Tas ir gamma starojums, rentgenstarojums, korpuskulārais starojums un jebkāds cits starojums, kas spēj radīt jonizāciju tiešā vai netiešā veidā;\n3) jonizējošā starojuma avots — objekts, kas var izraisīt apstarošanu, emitējot jonizējošo starojumu vai izdalot radioaktīvu materiālu;\n4) kodoliekārta — kodolmateriālu bagātināšanas iekārta, kodoldegvielas ražošanas iekārta, kodolreaktors (atomelektrostacija), lietotās kodoldegvielas pārstrādes iekārta, pētnieciskais kodolreaktors, lietotās kodoldegvielas glabātava, kā arī radioaktīvu atkritumu glabātava, kas atrodas vienā teritorijā ar kādu no minētajām kodoliekārtām un ir tieši saistīta ar šo kodoliekārtu;\n5) kodolmateriāli — rūdas, no kurām ķīmiskos vai fizikālos procesos var iegūt urānu vai toriju, urāns, kas satur dabā esošo izotopu maisījumu, vai vājināts urāns, urāns 233, ar urānu 233 vai urānu 235 bagātināts urāns, torijs metāliskā veidā, sakausējuma veidā, ķīmiska savienojuma vai koncentrāta veidā, plutonijs, izņemot tādu plutonija izotopu maisījumu, kurā plutonija 238 koncentrācija ir lielāka par 80 procentiem, kā arī citi materiāli, kuri satur izotopus, kas spēj dalīties mijiedarbībā ar neitroniem, un kuri kodoldalīšanās procesā rada jonizējošo starojumu;\n5 1 ) lietotā kodoldegviela — kodoldegviela, kas ir apstarota reaktora aktīvajā zonā un izņemta no aktīvās zonas;\n5 2 ) lietotās kodoldegvielas pārstrāde — process vai darbība, kuras mērķis ir iegūt no lietotās kodoldegvielas radioaktīvos izotopus tālākai izmantošanai;\n6) operators — fiziskā vai juridiskā persona, kurai ir licence darbībām ar jonizējošā starojuma avotiem vai kura ir reģistrējusi darbības ar jonizējošā starojuma avotiem un ir atbildīga par darbībām, radiācijas drošību un kodoldrošību tās kontrolētajā zonā (tostarp gadījumos, kad jonizējošā starojuma avota lietotājs vai īpašnieks neveic darbības ar jonizējošā starojuma avotiem);\n6 1 ) pārstrāde — ķīmiskas vai fizikālas darbības ar radioaktīvu materiālu, tostarp ieguve, konversija, speciālo skaldmateriālu vai kodolmateriālu izejmateriālu bagātināšana un lietotās kodoldegvielas pārstrāde;\n6 2 ) radiācijas avārija — neplānota situācija vai notikums saistībā ar jonizējošā starojuma avotu, kura dēļ nepieciešama tūlītēja rīcība, lai mazinātu tā nelabvēlīgo seku ietekmi uz cilvēku veselību un drošību, dzīves kvalitāti, īpašumu vai vidi, vai nopietns apdraudējums, kas radītu šādas sekas;\n7) radiācijas drošība un kodoldrošība — organizatorisku un tehnisku pasākumu sistēma, lai nodrošinātu jonizējošā starojuma avotu un kodoliekārtu drošu izmantošanu, novērstu radiācijas avārijas un mazinātu radiācijas avāriju sekas, tādējādi aizsargājot cilvēkus un vidi no jonizējošā starojuma avotu un kodoliekārtu jonizējošā starojuma kaitīgās iedarbības apdraudējuma;\n8) radioaktīva viela — jebkura viela, kas satur vienu vai vairākus radionuklīdus, kuru kopējā radioaktivitāte vai īpatnējā radioaktivitāte (radioaktivitātes koncentrācija) jāņem vērā, lai aizsargātos pret jonizējošo starojumu;\n9) radioaktīvie atkritumi — radioaktīvi materiāli gāzveida, šķidrā vai cietā agregātstāvoklī, kurus neparedz vai neplāno turpmāk lietot;\n9 1 ) radioaktīvo atkritumu apglabāšanas objekts — objekts vai iekārta, kurā tiek apglabāti radioaktīvie atkritumi un kuras darbībai ir saņemta licence;\n9 2 ) radioaktīvo atkritumu pārvaldība — jebkuras darbības, kas tiek veiktas ar radioaktīvajiem atkritumiem, to pirmapstrādi, apstrādi, kondicionēšanu, glabāšanu vai apglabāšanu, izņemot transportēšanu ārpus operatora kontrolētās zonas;\n9 3 ) radioaktīvo atkritumu pārvaldības objekts — objekts vai iekārta, kurā tiek veiktas darbības radioaktīvo atkritumu pārvaldībai un kuras darbībai ir saņemta licence;\n9 4 ) radioaktīvs materiāls — materiāls, kas satur radioaktīvas vielas;\n9 5 ) slēgts starojuma avots — radioaktīvs avots, kurā radioaktīvais materiāls atrodas pastāvīgi aizkausētā un hermētiski noslēgtā kapsulā vai ir cietā agregātstāvoklī un ir cieši saistīts, nepieļaujot radioaktīvo vielu izkliedēšanos vidē normālos lietošanas apstākļos;\n10) valsts nozīmes jonizējošā starojuma objekti — kodoliekārtas, radioaktīvo atkritumu apglabāšanas objekti, radioaktīvo atkritumu pārvaldības objekti un tādi objekti, kuros tiek veiktas darbības ar radioaktīvajām vielām, kuru kopējā radioaktivitāte vairāk nekā vienu miljardu reižu pārsniedz Ministru kabineta noteiktos limitus, kuriem nepieciešama licence;\n11) vides radiācijas monitorings — radioaktīvās vielas radītās dozas jaudas vai īpatnējās radioaktivitātes (radioaktivitātes koncentrācijas) mērījumi vidē."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un piemērošanas joma",
+      "content": "(1) Šā likuma mērķis ir nodrošināt cilvēku un vides aizsardzību no jonizējošā starojuma kaitīgās iedarbības un noteikt valsts institūciju, fizisko un juridisko personu pienākumus un tiesības radiācijas drošības un kodoldrošības jomā.\n(2) Likums nosaka drošības prasības jonizējošā starojuma avotiem un darbībām ar tiem un izvirza īpašas prasības valsts nozīmes jonizējošā starojuma objektiem, kā arī nosaka pienākumu sadali starp valsts iestādēm radiācijas drošības un kodoldrošības jomā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Radiācijas drošības un kodoldrošības pamatprincipi",
+      "content": "(1) Darbības ar jonizējošā starojuma avotiem ir pieļaujamas, ja tiek ievēroti šādi pamatprincipi:\n1) atbildība par drošību — primāri atbildību par drošību uzņemas fiziskā vai juridiskā persona, kas ir atbildīga par darbībām ar jonizējošā starojuma avotiem. Darbības ar jonizējošā starojuma avotiem veic pēc šo darbību paziņošanas un reģistrācijas apliecības vai licences saņemšanas, izņemot normatīvajos aktos radiācijas drošības jomā paredzētos gadījumus;\n2) valsts atbildība — valsts izveido un uztur efektīvu tiesisko sistēmu radiācijas drošības un kodoldrošības jomā;\n3) drošības vadība un pārvaldība — attiecīgās institūcijas un organizācijas, kuras veic vai uzrauga darbības ar jonizējošā starojuma avotiem, kas rada radiācijas risku, šo darbību veikšanai izveido un uztur efektīvu drošības vadības un pārvaldības sistēmu;\n4) darbību ar jonizējošā starojuma avotiem pamatošana — sasniegtais pozitīvais rezultāts pārsniedz negatīvo ietekmi vai zaudējumus, ko rada darbības ar jonizējošā starojuma avotiem;\n5) aizsardzības pret jonizējošo starojumu optimizēšana — aizsardzība pret jonizējošo starojumu ir optimāla, ja ir nodrošināts augstākais drošības līmenis, ko var pamatoti sasniegt visā darbību ar jonizējošā starojuma avotiem veikšanas laikā;\n6) cilvēka drošības risku ierobežošana — radiācijas riska kontroles pasākumi nodrošina, lai cilvēks nebūtu pakļauts tādam iespējama kaitējuma riskam, kas neatbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu. Lai sasniegtu vēlamo drošības līmeni, optimizē aizsardzību pret jonizējošo starojumu un nodrošina, ka cilvēki un vide saņem tikai tādu jonizējošā starojuma dozu, kas nepārsniedz noteikto limitu;\n7) esošo un nākamo paaudžu aizsardzība — cilvēki un vide gan tagad, gan turpmāk ir pasargāti no radiācijas riskiem. Valsts un operatori savas darbības īsteno, rēķinoties ar radiācijas iespējamām īstermiņa un ilgtermiņa sekām;\n8) avāriju novēršana — tiek veikti visi pasākumi, kas nepieciešami, lai novērstu kodolavāriju vai radiācijas avāriju un mazinātu tās sekas;\n9) gatavība avārijām un rīcība avārijas gadījumā — tiek paredzēti pasākumi, kas nodrošina gatavību kodolavārijām vai radiācijas avārijām un reaģēšanai uz tām;\n10) aizsardzības pasākumi radiācijas risku samazināšanai — aizsardzības pasākumi ir pamatoti un optimizēti, lai samazinātu esošos vai neregulētos radiācijas riskus.\n(2) Aizliegts kodoliekārtu un radioaktīvo atkritumu apglabāšanas objektu vai radioaktīvo atkritumu pārvaldības objektu izvietot īpaši aizsargājamā dabas teritorijā, apdzīvotā vietā vai tiešā apdzīvotas vietas tuvumā.\n(3) Radiācijas drošības un kodoldrošības pamatprincipu ieviešana notiek saskaņā ar normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu.\n(4) Preces ražotājs, importētājs un izplatītājs nodrošina, ka jonizējošā starojuma līmenis precē, kas tiek laista tirgū, piedāvāta vai pārdota, atbilst normatīvajiem aktiem par aizsardzību pret jonizējošo starojumu un nerada draudus cilvēka veselībai.\n(5) Lai nodrošinātu radiācijas drošības pasākumu īstenošanu ar radioaktīvo atkritumu apsaimniekošanu saistītu zināšanu un prasmju ieguvē, nostiprināšanā un attīstīšanā, atbilstoši Vides aizsardzības likuma 4. panta otrajai daļai izstrādātajām Vides politikas pamatnostādnēm tiek organizētas pētniecības un attīstības darbības, tai skaitā piesaistot augstskolas."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "4",
+      "title": "Uzraudzības un kontroles institūcija",
+      "content": "Valsts uzraudzību un kontroli radiācijas drošības un kodoldrošības jomā veic valsts pārvaldes iestādes Valsts vides dienesta Radiācijas drošības centrs (turpmāk arī — Centrs)."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "5",
+      "title": "Valsts vides dienesta Radiācijas drošības centra galvenās funkcijas",
+      "content": "Centra galvenās funkcijas ir šādas:\n1) sagatavot priekšlikumus par radiācijas drošības un kodoldrošības uzraudzības un kontroles politiku valstī;\n2) veikt radiācijas drošības un kodoldrošības uzraudzību un kontroli;\n3) veikt jonizējošā starojuma mērīšanas līdzekļu un individuālo dozimetru pārbaudes un lietošanas uzraudzību, kā arī nodrošināt kontroli;\n4) izsniegt licences darbībām ar jonizējošā starojuma avotiem un reģistrēt darbības ar šiem avotiem;\n4 1 ) uzturēt datu bāzē informāciju par paziņotajām darbībām ar jonizējošā starojuma avotiem;\n4 2 ) izsniegt radiācijas drošības eksperta un medicīnas fizikas eksperta sertifikātu. Ministru kabinets nosaka radiācijas drošības ekspertu un medicīnas fizikas ekspertu sertificēšanas kārtību un kārtību, kādā izsniedz un reģistrē sertifikātu, pagarina tā termiņu un anulē to, kā arī ekspertu darbības uzraudzības kārtību, ekspertu pienākumus, eksperta atzinuma saturu un tajā ietveramās minimālās prasības;\n5) apkopot, analizēt un sniegt Radiācijas drošības padomei informāciju par situāciju valstī radiācijas drošības jomā, galvenajiem jonizējošā starojuma avotu lietotājiem un kontroles rezultātiem;\n6) informēt personas, kas vada darbus ar jonizējošā starojuma avotiem, par radiācijas drošību reglamentējošiem normatīvajiem aktiem un rekomendācijām radiācijas drošības līmeņa paaugstināšanai;\n7) nodrošināt valsts teritorijā atklāto nezināmo jonizējošā starojuma avotu vai uz valsts robežas atklāto nedeklarēto jonizējošā starojuma avotu identifikāciju, izpēti, novērtējumu un organizēt to apglabāšanu, ja starojuma avota lietotāju vai īpašnieku nav iespējams noteikt;\n8) veicināt jaunu tehnoloģiju ieviešanu, lai samazinātu jonizējošā starojuma avotu lietošanas iespējamo kaitīgo ietekmi;\n9) koordinēt tehniskās palīdzības programmas radiācijas drošības jomā;\n10) sagatavot ziņojumus starptautiskajām organizācijām, konvenciju un līgumu sekretariātiem un Eiropas Komisijai par jautājumiem, kas ir Centra kompetencē, piedalīties šo jautājumu apspriešanā attiecīgajās starptautiskajās organizācijās;\n11) izvērtēt starptautisko institūciju prasību un rekomendāciju ievērošanu Latvijā un sagatavot priekšlikumus par grozījumiem attiecīgajos normatīvajos aktos vai par jaunu normatīvo aktu izstrādi;\n12) lai paaugstinātu radiācijas drošības līmeni valstī, veicināt darbu vadītāju, darbinieku, radiācijas drošības ekspertu un medicīnas fizikas ekspertu apmācību, nodrošināt Centra darbinieku apmācību, saskaņot iestāžu izstrādātas kursu programmas radiācijas drošībā, kā arī organizēt radiācijas drošības kursus. Ministru kabinets nosaka kursu programmu radiācijas drošībā saturu;\n13) veidot un aktualizēt datu bāzes par apstarošanai pakļauto darbinieku un iedzīvotāju apstarošanu;\n14) nodrošināt jonizējošā starojuma avotu uzskaiti, veidot un aktualizēt datu bāzes par radioaktīvajām vielām, kodolmateriāliem, radioaktīvajiem atkritumiem un citiem jonizējošā starojuma avotiem;\n15) veidot un uzturēt reģistru par personām, kas veic darbības ar jonizējošā starojuma avotiem vai strādā darba vietās, kur ir paaugstināta dabiskā radiācija;\n15 1 ) uzturēt un aktualizēt Valsts vides dienesta mājaslapā internetā informāciju par jonizējošā starojuma avotiem un to pielietojumu, operatoriem un valsts nozīmes jonizējošā starojuma objektiem, ievērojot normatīvo regulējumu par informācijas atklātību;\n16) nodrošināt kodolnegadījumu izziņošanas 24 stundu operatīvo gatavību un veikt sakaru punkta funkcijas saskaņā ar Konvenciju par kodolnegadījumu operatīvu izziņošanu;\n17) veikt Kodolmateriālu piegādātāju grupas kontaktpersonas pienākumus, lai veicinātu Kodolieroču neizplatīšanas līguma un ar to saistīto līgumu izpildi;\n18) apzināt darbības, kurās izmanto dabā sastopamus radioaktīvos materiālus, kas var izraisīt cilvēku apstarošanu;\n19) veicināt iedzīvotāju izglītošanu par radiācijas drošības un kodoldrošības jautājumiem;\n20) izstrādāt vadlīnijas operatoriem, kuri veic darbības ar jonizējošā starojuma avotiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "6",
+      "title": "Valsts vides dienesta Radiācijas drošības centra tiesības",
+      "content": "(1) Centram ir tiesības nekavējoties saņemt informāciju par jebkurām avārijām un negadījumiem, kas var ietekmēt radiācijas drošību un kodoldrošību, kā arī pieprasīt un saņemt bez maksas no valsts institūcijām, iestādēm un operatoriem Centra funkciju pildīšanai nepieciešamo informāciju par radiācijas drošību un kodoldrošību.\n(2) Centrs:\n1) aizliedz veikt darbības ar jonizējošā starojuma avotiem, ja tiek pārkāpti radiācijas drošības un kodoldrošības normatīvi;\n2) aptur arī tādas darbības, kurām nav nepieciešama licence vai reģistrēšana, ja rodas draudi cilvēku dzīvībai un veselībai.\n(3) Centram ir tiesības sadarboties ar starptautiskajām organizācijām radiācijas drošības jautājumu risināšanā.\n(4) Centra izdotos administratīvos aktus, izņemot lēmumus radiācijas drošības kontroles jautājumos, un faktisko rīcību var apstrīdēt Vides pārraudzības valsts birojā. Vides pārraudzības valsts biroja lēmumu var pārsūdzēt tiesā. Centra amatpersonu izdotos lēmumus radiācijas drošības kontroles jautājumos var apstrīdēt Valsts vides dienesta ģenerāldirektoram. Valsts vides dienesta ģenerāldirektora lēmumu var pārsūdzēt tiesā. Centra izdoto administratīvo aktu, kā arī Centra amatpersonu izdoto lēmumu apstrīdēšana vai pārsūdzēšana neaptur to darbību."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "7",
+      "title": "Valsts vides dienesta Radiācijas drošības centra inspektoru tiesības",
+      "content": "(1) Centra inspektoriem ir tiesības pārbaudīt vietas, kur tiek veiktas darbības ar jonizējošā starojuma avotiem, kā arī vietas, kur darbības ar jonizējošā starojuma avotiem netiek veiktas, taču ir pamatotas aizdomas par jonizējošā starojuma avotu atrašanos objektā, un ņemt paraugus uzraudzības mērķiem nepieciešamā daudzumā. Šādu paraugu ņemšana netiek uzskatīta par zaudējumu nodarīšanu.\n(2) Lai kontrolētu šā likuma un citu normatīvo aktu prasību izpildi radiācijas drošības un kodoldrošības jomā, Centra inspektoriem ir tiesības:\n1) pieņemt lēmumus un dot atzinumus par situāciju radiācijas drošības un kodoldrošības jomā;\n2) izdot administratīvus aktus vadītājiem un operatoriem, kuru darbs saistīts ar jonizējošā starojuma avotiem, lai nepieļautu vai novērstu radiācijas drošības un kodoldrošības prasību pārkāpumus un paaugstinātu radiācijas drošības līmeni;\n3) sastādīt protokolus (aktus) par pārbaudes rezultātiem;\n4) izskatīt materiālus par radiācijas drošības un kodoldrošības normatīvo aktu pārkāpumiem un, ja nepieciešams, saukt vainīgās personas pie administratīvās atbildības vai veikt citas likumos un normatīvajos aktos paredzētās darbības."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "8",
+      "title": "Radiācijas drošības padome",
+      "content": "(1) Radiācijas drošības padome (turpmāk — Padome) ir konsultatīva institūcija. Padomes nolikumu apstiprina Ministru kabinets. Padomes darbību organizē Vides aizsardzības un reģionālās attīstības ministrija.\n(2) Padomes darbības mērķis ir konsultēt valsts un pašvaldību institūcijas un iestādes, kā arī citas institūcijas un iestādes par jautājumiem, kas saistīti ar radiācijas drošību un kodoldrošību, un veicināt dažādu institūciju sadarbību radiācijas drošības nostiprināšanā. Padomes lēmumiem ir ieteikuma raksturs, un tās atzinumi ir pieejami ikvienai ieinteresētai personai.\n(3) Pirms attiecīgo priekšlikumu iesniegšanas Vides aizsardzības un reģionālās attīstības ministrijai vai citām ministrijām Centrs konsultējas ar Padomi par to, kā uzlabot radiācijas drošību un kodoldrošību valstī.\n(4) Padomes personālsastāvu apstiprina vides aizsardzības un reģionālās attīstības ministrs."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "9",
+      "title": "Pienākumu sadalījums starp pārbaudēs iesaistītajām institūcijām",
+      "content": "(1) Veselības ministrija un tās padotībā esošās iestādes:\n1) nodrošina obligātās veselības pārbaudes apstarošanai pakļautajiem darbiniekiem;\n2) sadarbībā ar Centru veic medicīnā izmantojamo jonizējošā starojuma ierīču tehniskās uzraudzības kontroli.\n(2) Valsts robežsardze sadarbībā ar Valsts ieņēmumu dienesta muitas iestādēm, Pārtikas un veterināro dienestu, Valsts vides dienestu un citām institūcijām atbilstoši kompetencei veic pārbaudes robežšķērsošanas vietās, lai novērstu tādu preču, bagāžas, personu un transportlīdzekļu pārvietošanu, kuros radioaktīvo vielu daudzums pārsniedz pieļaujamās normas, un neatļautu jonizējošā starojuma avotu pārvietošanu.\n(2 1 ) Ministru kabinets nosaka kārtību, kādā veic preču, bagāžas, personu un transportlīdzekļu radiometrisko kontroli robežšķērsošanas vietās, un prasības radiometriskajā kontrolē iesaistīto personu apmācībai radiācijas drošības jautājumos.\n(2 2 ) Ja ir pamatotas aizdomas par preces neatbilstību radiācijas drošības prasībām vai iespējamiem draudiem cilvēku veselībai precē esošā radioaktīvā piesārņojuma dēļ, tad sadarbībā ar Centru un pamatojoties uz Centra atzinumu par preces drošumu:\n1) Pārtikas un veterinārais dienests veic pārtikas un dzīvnieku barības aprites uzraudzību un kontroli atbilstoši normatīvajiem aktiem par pārtikas un dzīvnieku barības apriti;\n2) Veselības inspekcija veic kosmētikas līdzekļu uzraudzību un kontroli atbilstoši normatīvajiem aktiem par kosmētikas līdzekļu drošumu, kā arī kontrolē tirdzniecībā esošās (tirgū laistās un izplatītās) ķīmiskās vielas, maisījumus un biocīdus;\n3) valsts sabiedrība ar ierobežotu atbildību \"Latvijas proves birojs\" veic dārgmetālu, dārgakmeņu un to izstrādājumu uzraudzību un kontroli vietās, kur notiek saimnieciskā darbība ar dārgmetāliem, dārgakmeņiem un to izstrādājumiem;\n4) Patērētāju tiesību aizsardzības centrs veic būvizstrādājumu uzraudzību atbilstoši normatīvajiem aktiem par būvizstrādājumu tirgus uzraudzības kārtību un preču drošuma uzraudzību un kontroli atbilstoši normatīvajiem aktiem par preču un pakalpojumu drošumu attiecībā uz tā kompetencē esošajām precēm.\n(2 3 ) Ministru kabinets nosaka preču radioaktīvā piesārņojuma kontroles kārtību.\n(3) Valsts drošības dienests sadarbībā ar Centru kontrolē jonizējošā starojuma avotu fiziskās aizsardzības nodrošinājumu saskaņā ar normatīvajiem aktiem par jonizējošā starojuma avotu fiziskās aizsardzības prasībām.\n(3 1 ) Valsts ugunsdzēsības un glābšanas dienests sadarbībā ar Centru kontrolē sagatavotību iespējamām avārijām vietās, kur tiek veiktas darbības ar jonizējošā starojuma avotiem, saskaņā ar normatīvajiem aktiem par prasībām attiecībā uz sagatavotību radiācijas avārijai un rīcību šādas avārijas gadījumā.\n(4) Ministru kabinets nosaka prasības attiecībā uz:\n1) jonizējošā starojuma avotu fizisko aizsardzību;\n2) sagatavotību radiācijas avārijai un rīcību šādas avārijas gadījumā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "10",
+      "title": "Vides radiācijas monitorings",
+      "content": "(1) Centrs nodrošina vides radiācijas monitoringa staciju darbību un informācijas apmaiņu atbilstoši starptautisko līgumu prasībām vides radiācijas drošības un kodoldrošības jomā.\n(2) Pārtikas un veterinārais dienests organizē pārtikas un dzīvnieku barības radioaktīvā piesārņojuma kontroli un par to iesniedz Centram datus.\n(3) Valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs”:\n1) koordinē un organizē vides radiācijas monitoringu atbilstoši Vides monitoringa programmai;\n2) katru gadu iesniedz Eiropas Komisijai ziņojumu par vides radiācijas monitoringu un pārtikas radioaktīvā piesārņojuma kontroli.\n(4) Valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” attiecībā uz šā panta trešajā daļā minēto pārvaldes uzdevumu izpildi ir Vides aizsardzības un reģionālās attīstības ministrijas pakļautībā."
+    },
+    {
+      "provision_ref": "Art. 10.1",
+      "chapter": "II nodaļa Radiācijas drošības un kodoldrošības valsts uzraudzība un kontrole",
+      "section": "10.1",
+      "title": "10. 1 pants. Īpatnējās radioaktivitātes pārbaudes attiecībā uz radionuklīda cēzijs 137 Cs satura kontroli koksnē un koksnes sadedzināšanas pelnos",
+      "content": "(1) Ja koksnes kurināmā radioloģiskās pārbaudes rezultātā konstatē neatbilstību Ministru kabineta noteiktajām prasībām aizsardzībai pret jonizējošo starojumu koksnes kurināmajā, koksnes kurināmā īpašnieks sedz ar koksnes kurināmā radioloģiskajām pārbaudēm saistītās izmaksas.\n(2) Ja koksnes sadedzināšanas pelnu radioloģiskās pārbaudes rezultātā konstatē koksnes sadedzināšanas pelnu neatbilstību Ministru kabineta noteiktajām prasībām aizsardzībai pret jonizējošo starojumu koksnes sadedzināšanas pelnos, koksnes sadedzināšanas iekārtas operators sedz ar koksnes sadedzināšanas pelnu radioloģiskajām pārbaudēm saistītās izmaksas."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Paziņošana, reģistrēšana un licencēšana (Nodaļas nosaukums 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. Nodaļas nosaukuma jaunā redakcija stājas spekā 01.01.2021. Sk. pārejas noteikumu 10. punktu)",
+      "section": "11",
+      "title": "Darbību ar jonizējošā starojuma avotiem paziņošana, reģistrēšana un licencēšana",
+      "content": "(1) Paziņojumu un iesniegumu reģistrācijas apliecības vai licences saņemšanai un tam pievienotos pielikumu s un dokumentus Centram iesniedz elektroniski un pēc elektroniskās reģistrēšanās sniedz informāciju tiešsaistes režīmā Valsts vides dienesta informācijas sistēmā.\n(2) Ja tiek iesniegts iesniegums reģistrācijas apliecības vai licences saņemšanai, atsevišķs paziņojums nav nepieciešams.\n(3) Ja pēc darbību ar jonizējošā starojuma avotiem paziņošanas nav nepieciešams saņemt reģistrācijas apliecību vai licenci, Centrs informāciju par jonizējošā starojuma avotu un tā lietotāju iekļauj datu bāzē.\n(4) Ministru kabinets nosaka:\n1) kritērijus darbību ar jonizējošā starojuma avotiem uzsākšanai;\n2) darbības ar jonizējošā starojuma avotiem, kuras nav nepieciešams paziņot, jo cilvēku rīcība šīs darbības nespēj ietekmēt vai potenciālā jonizējošā starojuma doza un apstarošanas kaitīgā iedarbība ir tik maza, ka no radiācijas drošības viedokļa to var neņemt vērā;\n3) darbības ar jonizējošā starojuma avotiem, kuras nepieciešams paziņot, un darbības ar jonizējošā starojuma avotiem, kuras nepieciešams reģistrēt, ņemot vērā darbības radītā jonizējošā starojuma iespējamo negatīvo ietekmi uz cilvēku veselību un vidi;\n4) kārtību, kādā aptur darbības ar jonizējošā starojuma avotiem, kuras nepieciešams paziņot;\n5) kārtību, kādā izsniedz, aptur un anulē reģistrācijas apliecību darbībām ar jonizējošā starojuma avotiem, un reģistrācijas apliecības darbības termiņu;\n6) kārtību, kādā izsniedz, aptur un anulē licenci darbībām ar jonizējošā starojuma avotiem, un licences darbības termiņu.\n(5) Licencējamas ir šādas darbības:\n1) radioaktīvās vielas nesaturošu jonizējošā starojuma avotu lietošana nemedicīniskajā apstarošanā, ja darbības tiek veiktas dažādās telpās bez noteikta telpas plāna (montāžas plāna), ārpus ēkām vai uzņēmuma teritorijas;\n2) radioaktīvās vielas nesaturošu jonizējošā starojuma avotu — datortomogrāfijas iekārtu un elektronu paātrinātāju — lietošana nemedicīniskajā apstarošanā;\n3) radioaktīvās vielas nesaturošu jonizējošā starojuma avotu apkalpošana (tehniskā apkope), tehnisko parametru pārbaudes, uzstādīšana, remonts, demontāžas un likvidēšanas pakalpojumu sniegšana;\n4) darbības ar jonizējošā starojuma avotiem medicīnā;\n5) darbības ar radioaktīvās vielas saturošiem jonizējošā starojuma avotiem vai tādiem jonizējošā starojuma avotiem, kas savas darbības rezultātā rada radioaktīvās vielas, ja to kopējā radioaktivitāte vairāk nekā 10 3 reizes pārsniedz limitus, kuru dēļ darbībām ar jonizējošā starojuma avotiem nepieciešama reģistrācija;\n6) darbības ar medicīniskām un nemedicīniskām radioloģiskām ierīcēm, apzināti apstarojot cilvēku nemedicīniskā attēlveidošanas nolūkā, kuras veic saskaņā ar pamatotu izvērtējumu;\n7) apzināta radioaktīvo vielu pievienošana preču, tai skaitā zāļu, ražošanā vai izgatavošanā un šādu preču imports.\n(6) Lēmumu par licences izsniegšanu un lēmumu par darbību ar jonizējošā starojuma avotiem reģistrēšanu pieņem Centrs. Licencē un reģistrācijas apliecībā Centrs nosaka, kādas darbības un ar kādiem jonizējošā starojuma avotiem ir atļautas un kādi ierobežojumi jāņem vērā operatoram.\n(7) Par reģistrācijas apliecības izsniegšanu un izmaiņu veikšanu reģistrācijas apliecībā, kā arī par licences izsniegšanu un grozījumu izdarīšanu licencē maksājama valsts nodeva, kuru ieskaita valsts pamatbudžetā. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Paziņošana, reģistrēšana un licencēšana (Nodaļas nosaukums 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. Nodaļas nosaukuma jaunā redakcija stājas spekā 01.01.2021. Sk. pārejas noteikumu 10. punktu)",
+      "section": "12",
+      "title": "Kārtība, kādā saskaņojama valsts nozīmes jonizējošā starojuma objektu izveidošana vai būtisku pārmaiņu veikšana tajos",
+      "content": "(1) Ja saskaņā ar likumu \"Par ietekmes uz vidi novērtējumu\" ir veikts ietekmes uz vidi novērtējums valsts nozīmes jonizējošā starojuma objekta izveidošanai vai būtisku pārmaiņu veikšanai tajā, lēmumu akceptēt darbību ar ikreizēju rīkojumu pieņem Ministru kabinets. Centrs:\n1) informē iedzīvotājus par to, ka ir pieprasīta licence valsts nozīmes jonizējošā starojuma objekta izveidošanai vai būtisku pārmaiņu veikšanai tajā, ievietojot informāciju Valsts vides dienesta mājaslapā internetā, un konsultējas ar Padomi par šādu objektu izveidošanas lietderīgumu, analizē plānoto pārmaiņu iespējamo ietekmi uz radiācijas drošību un kodoldrošību, izvērtē, vai pozitīvais rezultāts, ko sasniegs operators, pārsniegs kopējo negatīvo ietekmi;\n2) izsniedz licenci valsts nozīmes jonizējošā starojuma objekta izveidošanai vai būtisku pārmaiņu veikšanai tajā.\n(2) Ministru kabinets nosaka kārtību, kādā publiski apspriežama valsts nozīmes jonizējošā starojuma objektu izveidošana vai būtisku pārmaiņu veikšana tajos.\n(3) Lēmumu par licences izsniegšanu valsts nozīmes jonizējošā starojuma objekta izveidošanai vai būtisku pārmaiņu veikšanai tajā Centrs pieņem 60 dienu laikā pēc iesnieguma saņemšanas."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Operatora un darbu vadītāja pienākumi, strādājot ar jonizējošā starojuma avotiem",
+      "section": "13",
+      "title": "Operatora pamatpienākumi",
+      "content": "(1) Lai fizisko vai juridisko personu atzītu par operatoru un fiziskā vai juridiskā persona drīkstētu uzsākt darbības ar jonizējošā starojuma avotiem, tā norīko darbu vadītāju un pilnvaro viņu sagatavot un Ministru kabineta noteiktajā kārtībā iesniegt Centram iesniegumu licences saņemšanai vai darbības reģistrēšanai. Ja Centrs izsniedz licenci vai reģistrē darbību, fiziskā vai juridiskā persona kļūst par operatoru. Operators atbild par radiācijas drošību un kodoldrošību tā kontrolētajā zonā.\n(2) Operators nodrošina, lai tie jonizējošā starojuma avoti, kuri nav nepieciešami turpmākām darbībām vai kuru drošība vairs neatbilst normatīvajos aktos noteiktajām prasībām, tiktu padarīti nekaitīgi.\n(3) Operators nodrošina, lai ikviens cilvēks, kas atrodas operatora kontrolētajā zonā, ir aizsargāts pret jonizējošā starojuma iedarbību.\n(3 1 ) Operators nodrošina darbinieku apstarošanas kontroli un uzskaiti.\n(4) Darbinieku apstarošanas kontroles un uzskaites kārtību nosaka Ministru kabinets, nodrošinot, lai informāciju par viesstrādnieku apstarošanu varētu izmantot arī viņu mītnes valstīs.\n(4 1 ) Šā panta 3. 1 daļā minēto personu apstarojuma uzskaitei valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” par maksu veic individuālos dozimetriskos mērījumus ar individuālajiem termoluminiscences dozimetriem. Ministru kabinets apstiprina ar individuālo dozimetrisko mērījumu veikšanu saistīto maksas pakalpojumu cenrādi.\n(5) Lai aizsargātu darbinieku pret jonizējošo starojumu, operators to nodrošina ar individuālajiem un kolektīvajiem aizsardzības līdzekļiem.\n(6) Operators katru gadu līdz 31. janvārim nosūta Centram pārskatu par izmaiņām, kas saistītas ar jonizējošā starojuma avotiem un darbībām ar tiem, kā arī par personālsastāva izmaiņām un citām pārmaiņām, kuras ietekmējušas radiācijas drošību un kodoldrošību iepriekšējā kalendāra gadā. Pārskatu neiesniedz, ja minētās izmaiņas nav notikušas.\n(7) (Izslēgta ar 29.05.2014 . likumu)\n(8) Ministru kabinets nosaka kārtību, kādā aizpildāms un iesniedzams pārskats par darbībām ar jonizējošā starojuma avotiem, kā arī apstiprina šā pārskata saturu.\n(9) Operators iesniedz pārskatu elektroniski un pēc elektroniskās reģistrēšanās sniedz informāciju tiešsaistes režīmā Valsts vides dienesta informācijas sistēmā."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Operatora un darbu vadītāja pienākumi, strādājot ar jonizējošā starojuma avotiem",
+      "section": "14",
+      "title": "Darbu vadītāja pamatpienākumi",
+      "content": "(1) Darbus ar jonizējošā starojuma avotiem vada operatora pilnvarots darbu vadītājs. Minimālās kvalifikācijas prasības darbu vadītājam nosaka Ministru kabinets.\n(2) Darbu vadītājs:\n1) nodrošina radioaktīvo vielu, kodolmateriālu un citu jonizējošā starojuma avotu uzskaiti;\n2) veic drošības pasākumus, lai aizsargātu cilvēkus un vidi no jonizējošā starojuma kaitīgās iedarbības un nepieļautu kodoliekārtu avārijas un citas radiācijas avārijas;\n3) nekavējoties informē operatoru un Centru par jebkurām avārijām un negadījumiem, kas var ietekmēt radiācijas drošību un kodoldrošību;\n4) nodrošina, lai visi radioaktīvie atkritumi tiktu savākti, izolēti, uzglabāti, apstrādāti un, ja nepieciešams, apglabāti, neradot risku cilvēkiem un videi;\n5) nodrošina, lai apstarošanai pakļautie darbinieki būtu pietiekami apmācīti aizsardzības pasākumu veikšanai, pārzinātu apstākļus un normatīvo aktu prasības, kā arī būtu informēti par iespējamo risku, kas saistīts ar šiem darbiem;\n6) atbilstoši radiācijas drošības prasībām uzrauga un uztur attiecīgā stāvoklī mērinstrumentus un aizsardzības līdzekļus pret jonizējošo starojumu darba vietās un citās jonizējošā starojuma avotu ietekmes zonās, veic attiecīgu uzskaiti un reģistrāciju;\n7) nodrošina, lai ar jonizējošā starojuma avotiem strādātu tikai tādas personas, kurām pēc obligātās veselības pārbaudes atļauts ar tiem strādāt."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Operatora un darbu vadītāja pienākumi, strādājot ar jonizējošā starojuma avotiem",
+      "section": "15",
+      "title": "Informācijas nodrošinājums",
+      "content": "(1) Operators un darbu vadītājs ir atbildīgi par to, lai Centrs, kā arī citu valsts un pašvaldību institūciju darbinieki, kuru kompetencē ietilpst radiācijas drošības un kodoldrošības jautājumi, saņemtu informāciju par radiācijas drošības un kodoldrošības pasākumiem attiecīgajā objektā.\n(2) Kodoliekārtas, radioaktīvo atkritumu apglabāšanas objekta vai radioaktīvo atkritumu pārvaldības objekta operators katru gadu līdz 31.janvārim informē pašvaldību, kuras teritorijā atrodas attiecīgais objekts, par iepriekšējā kalendāra gadā veiktajām pārmaiņām objektā saistībā ar radiācijas drošību un kodoldrošību, kā arī par monitoringa rezultātiem un plānotajiem pasākumiem. Šo informāciju operators ievieto arī savā mājaslapā internetā.\n(3) (Izslēgta ar 29.05.2014 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Operatora un darbu vadītāja pienākumi, strādājot ar jonizējošā starojuma avotiem",
+      "section": "16",
+      "title": "Informācija par negadījumiem",
+      "content": "(1) Darbu vadītājs nekavējoties ziņo operatoram, Centram un Valsts ugunsdzēsības un glābšanas dienestam par visām avārijām un negadījumiem, kas notikuši, veicot darbības valsts nozīmes jonizējošā starojuma objektā.\n(2) Ja darbiniekam avārijas vai cita negadījuma rezultātā ir nodarīts kaitējums, viņš par to nekavējoties ziņo darbu vadītājam vai operatoram. Darbu vadītājs par to nekavējoties ziņo Centram un Valsts darba inspekcijai."
+    },
+    {
+      "provision_ref": "Art. 16.1",
+      "chapter": "IV 1 nodaļa Finanšu nodrošinājums un tā izmaksas gadījuma iestāšanās (Nodaļa 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )",
+      "section": "16.1",
+      "title": "16. 1 pants. Finanšu nodrošinājuma mērķis un veids",
+      "content": "(1) Finanšu nodrošinājums ir kredītiestādes izsniegta pirmā pieprasījuma garantijas vēstule vai apdrošinātāja izsniegta apdrošināšanas polise, kurā ietverta apdrošinātāja neatsaucama apņemšanās izmaksāt apdrošināšanas atlīdzību pēc Centra pirmā pieprasījuma. Finanšu nodrošinājumu izmanto, lai pilnībā vai daļēji segtu slēgtu starojuma avotu drošas pārvaldības izmaksas gadījumos, kad tie kļuvuši par lietošanā neesošiem slēgtiem starojuma avotiem, ja operatoram izsniegtās licences darbības termiņš ir beidzies, tās darbība ir apturēta vai licence ir anulēta, vai operators atzīts par maksātnespējīgu vai pārtrauc uzņēmējdarbību.\n(2) Finanšu nodrošinājuma mērķis ir nodrošināt slēgtu starojuma avotu drošas pārvaldības izmaksu segšanu.\n(3) Finanšu nodrošinājuma apmēru nosaka, izvērtējot slēgtu starojuma avotu drošas pārvaldības un transportēšanas izmaksas.\n(4) Ministru kabinets nosaka:\n1) slēgtu starojuma avotu kategorijas, kurām piemēro finanšu nodrošinājumu;\n2) finanšu nodrošinājuma apmēra aprēķināšanas kārtību;\n3) kārtību, kādā iesniedz, pagarina un atjauno finanšu nodrošinājumu."
+    },
+    {
+      "provision_ref": "Art. 16.2",
+      "chapter": "IV 1 nodaļa Finanšu nodrošinājums un tā izmaksas gadījuma iestāšanās (Nodaļa 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )",
+      "section": "16.2",
+      "title": "16. 2 pants. Finanšu nodrošinājuma izmaksas gadījuma iestāšanās",
+      "content": "(1) Centrs ir tiesīgs pieņemt lēmumu par finanšu nodrošinājuma atlīdzību pilnā vai daļējā apmērā atkarībā no operatora saistību izpildes. Saņemto atlīdzību valsts sabiedrība ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\" izlieto slēgtu starojuma avotu drošai pārvaldībai, lai segtu izdevumus, ja:\n1) slēgts augstas radioaktivitātes starojuma avots kļūst par lietošanā neesošu starojuma avotu un pagaidu radioaktīvo atkritumu glabātavā tiek uzglabāts ilgāk par pusgadu;\n2) slēgts starojuma avots kļūst par lietošanā neesošu starojuma avotu un pagaidu radioaktīvo atkritumu glabātavā tiek uzglabāts ilgāk par gadu;\n3) slēgta starojuma avota operators atzīts par maksātnespējīgu atbilstoši normatīvajiem aktiem par maksātnespēju vai ir pārtraucis savu komercdarbību;\n4) operatoram izsniegtās licences darbības termiņš ir beidzies, tās darbība ir apturēta vai licence ir anulēta un nepieciešams nodrošināt slēgta starojuma avota drošu pārvaldību.\n(2) Iestājoties finanšu nodrošinājuma izmaksas gadījumam, Centrs lemj par pienākumu maksāt finanšu nodrošinājumu un:\n1) paziņo operatoram lēmumu par pienākumu maksāt finanšu nodrošinājumu, norādot operatora saistību neizpildes būtību, kopējo aprēķināto finanšu nodrošinājuma summu, maksājuma samaksas termiņu un valsts sabiedrības ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\" kontu, kurā ieskaitāms maksājums;\n2) paziņo finanšu nodrošinājuma sniedzējam lēmumu par pienākumu maksāt finanšu nodrošinājumu;\n3) informē valsts sabiedrību ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\", kas ir atbildīga par radioaktīvo atkritumu pārvaldību valstī, ka pieņemts lēmums par pienākumu maksāt finanšu nodrošinājumu.\n(3) Valsts sabiedrība ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\" pēc finanšu nodrošinājuma maksājuma saņemšanas nodrošina slēgta starojuma avota pārvaldību atbilstoši normatīvajiem aktiem par radioaktīvajiem atkritumiem un ar tiem saistītajiem materiāliem.\n(4) Centram ir tiesības pieprasīt, lai finanšu nodrošinājuma sniedzējs izmaksā finanšu nodrošinājuma summu viena gada laikā pēc finanšu nodrošinājuma termiņa beigām, ja pamats izmaksai radies finanšu nodrošinājuma darbības laikā. Izmaksājamo finanšu nodrošinājuma summu pārskaita uz Centra lēmumā norādīto valsts sabiedrības ar ierobežotu atbildību \"Latvijas Vides, ģeoloģijas un meteoroloģijas centrs\" kontu."
+    },
+    {
+      "provision_ref": "Art. 16.3",
+      "chapter": "IV 1 nodaļa Finanšu nodrošinājums un tā izmaksas gadījuma iestāšanās (Nodaļa 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )",
+      "section": "16.3",
+      "title": "16. 3 pants. Finanšu nodrošinājuma darbības laiks",
+      "content": "(1) Slēgtu starojuma avotu licences saņēmējam finanšu nodrošinājums jāuztur spēkā visu licences darbības laiku. Ja licences darbības laikā operatoram finanšu nodrošinājums nav spēkā, Centram ir tiesības pieņemt lēmumu par slēgta starojuma avota nodošanu glabāšanā radioaktīvo atkritumu glabātavā vai par slēgta starojuma avota licences darbības apturēšanu līdz attiecīga nodrošinājuma iesniegšanai Centram.\n(2) Pēc finanšu nodrošinājuma izmaksas gadījuma iestāšanās operatoram ir pienākums atjaunot finanšu nodrošinājumu pilnā apmērā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Prasības darbiniekiem, strādājot ar jonizējošā starojuma avotiem (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 29.05.2014. un 10.12.2020 . likumu, kas stājas spēkā 23.12.2020. )",
+      "section": "17",
+      "title": "Ar jonizējošā starojuma avotiem strādājošo darbinieku pamatpienākumi",
+      "content": "(1) Efektīvās dozas pamatlimits darbiniekiem ir 20 milizīverti gadā. Ja jonizējošā starojuma dozas var pārsniegt kādu no Ministru kabineta noteiktajiem dozu limitiem attiecībā uz iedzīvotājiem, darbus ar jonizējošā starojuma avotiem drīkst veikt tikai speciāli apmācīti darbinieki, kuri sasnieguši 18 gadu vecumu un:\n1) ir iepazīstināti ar jonizējošā starojuma kaitīgo iedarbību;\n2) kuriem nav Ministru kabineta noteikto medicīnisko kontrindikāciju darbam ar jonizējošā starojuma avotiem;\n3) kuriem saskaņā ar obligātās veselības pārbaudes rezultātiem ir atļauts strādāt ar jonizējošā starojuma avotiem.\n(2) Darbiniekiem, kas strādā ar jonizējošā starojuma avotiem:\n1) ir pienākums lietot kontroles un drošības līdzekļus un veikt visus pasākumus, lai pasargātu sevi, citus cilvēkus un vidi no jonizējošā starojuma kaitīgās iedarbības, veikt nepieciešamos mērījumus un tos reģistrēt;\n2) aizliegts veikt darbības ar jonizējošā starojuma avotiem, ja nav veikti visi iespējamie pasākumi, lai nepieļautu avārijas situācijas, kas varētu izraisīt papildu apstarošanu vai vides piesārņošanu;\n3) ir pienākums veikt veselības pārbaudi atbilstoši normatīvajiem aktiem par kārtību, kādā veicama obligātā veselības pārbaude.\n(3) Ja darbiniekiem, kas strādā ar jonizējošā starojuma avotiem, pasliktinās veselības stāvoklis un tas, iespējams, saistīts ar jonizējošā starojuma iedarbību, tad šo darbinieku pienākums ir:\n1) nekavējoties par šo faktu informēt darbu vadītāju;\n2) pārtraukt ar jonizējošo starojumu saistīto darbu izpildi un veikt ārpuskārtas veselības pārbaudi.\n(4) Šā panta otrās daļas 3.punkta nosacījums attiecas arī uz tiem darbiniekiem, kuriem atbilstoši Darba aizsardzības likuma noteikumiem nav pienākuma veikt obligāto veselības pārbaudi.\n(5) Studējošiem un mācekļiem obligāto veselības pārbaudi nodrošina izglītības iestāde.\n(6) Studējošiem un mācekļiem obligātās veselības pārbaudes izmaksas sedz izglītības iestāde, bet pārējiem darbiniekiem gadījumos, uz kuriem neattiecas Darba aizsardzības likuma nosacījumi par obligātajām veselības pārbaudēm, — pats darbinieks."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Prasības darbiniekiem, strādājot ar jonizējošā starojuma avotiem (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 29.05.2014. un 10.12.2020 . likumu, kas stājas spēkā 23.12.2020. )",
+      "section": "18",
+      "title": "Nepilngadīgo, grūtnieču un ar krūti barojošu māšu nodarbināšana",
+      "content": "(1) Personas vecumā no 16 līdz 18 gadiem darbībās ar jonizējošā starojuma avotiem drīkst iesaistīt tikai mācību nolūkā, un efektīvā jonizējošā starojuma doza šiem mācekļiem vai studējošiem nedrīkst pārsniegt 6 milizīvertus gadā. Minētās personas operatora kontrolētajā zonā drīkst atrasties tikai darbu vadītāja uzraudzībā.\n(2) Ar jonizējošo starojumu saistītajos darbos nedrīkst nodarbināt grūtnieces visā grūtniecības periodā. Kad persona par grūtniecību ir paziņojusi operatoram, grūtnieci pārceļ darbā, kas nav saistīts ar jonizējošo starojumu, ja operators nespēj nodrošināt tādus darba apstākļus, ka apstarošanas doza, ko varētu saņemt auglis visā grūtniecības periodā, nepārsniedz noteikto efektīvās dozas limitu attiecībā uz iedzīvotājiem — 1 milizīvertu, tādējādi nodrošinot, lai tiktu novērsta jonizējošā starojuma negatīvā ietekme uz grūtnieces drošību un veselību.\n(3) Mātes, kuras baro bērnu ar krūti, aizliegts iesaistīt darbā, kas saistīts ar vaļējiem starojuma avotiem."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Prasības darbiniekiem, strādājot ar jonizējošā starojuma avotiem (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 29.05.2014. un 10.12.2020 . likumu, kas stājas spēkā 23.12.2020. )",
+      "section": "19",
+      "title": "Daļēji bīstamas darbības",
+      "content": "Ja operatora kontrolētajā zonā nepieciešams atrasties darbiniekiem, kas nestrādā ar jonizējošā starojuma avotiem, darbu vadītājam ir pienākums nodrošināt, lai šo darbinieku kopējā jonizējošā starojuma doza nepārsniedz iedzīvotājiem noteikto dozas limitu — 1 milizīvertu gadā. Ja šo prasību nevar izpildīt, darbu vadītājs drīkst atļaut darbu veikt tikai tādiem darbiniekiem, kuriem ir tiesības strādāt ar jonizējošā starojuma avotiem."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Prasības darbiniekiem, strādājot ar jonizējošā starojuma avotiem (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 29.05.2014. un 10.12.2020 . likumu, kas stājas spēkā 23.12.2020. )",
+      "section": "20",
+      "title": "Apmeklētāju aizsardzība",
+      "content": "(Izslēgts ar 29.05.2014 . likumu, kas stājas spēkā 25.06.2014. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Radiācijas drošības līdzekļi un pasākumi",
+      "section": "21",
+      "title": "Papildu pārbaudes",
+      "content": "Jebkurai fiziskajai un juridiskajai personai ir tiesības pieprasīt, lai Centrs papildus pārbauda radiācijas drošības un kodoldrošības situāciju jebkurā operatora kontrolētajā zonā. Paraugu ņemšanas un izpētes izdevumus sedz papildu pārbaužu pieprasītājs."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Radiācijas drošības līdzekļi un pasākumi",
+      "section": "22",
+      "title": "Jonizējošā starojuma avotu fiziskā aizsardzība",
+      "content": "(1) Jonizējošā starojuma avotu fizisko aizsardzību nodrošina operators normatīvajos aktos noteiktajā kārtībā.\n(2) Valsts drošības dienests koordinē kodolmateriālu atgūšanas pasākumus un nepieciešamo darbību gadījumā, ja notiek neatļauta kodolmateriālu pārvietošana, lietošana vai pārveidošana, vai gadījumā, ja ir radušies pamatoti draudi, ka tiks veiktas neatļautas darbības ar kodolmateriāliem.\n(3) (Izslēgta ar 10.12.2020 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VI nodaļa Radiācijas drošības līdzekļi un pasākumi",
+      "section": "23",
+      "title": "Jonizējošā starojuma avotu iepakošanas, marķēšanas un piegādes noteikumi",
+      "content": "(1) Operators, kas ražo, importē, eksportē vai iznomā radioaktīvās vielas vai citus jonizējošā starojuma avotus:\n1) ir atbildīgs par radioaktīvo vielu iepakojuma vai jonizējošā starojuma avotu izturību un drošumu;\n2) nodrošina, lai uz jonizējošā starojuma avota konteinera, korpusa un iepakojuma ir radiācijas brīdinājuma zīme un uzraksts par tā saturu (īpaši informācija, kas nepieciešama aizsardzībai pret jonizējošo starojumu) latviešu valodā. Ja šī informācija ir svešvalodā, tai pievieno tulkojumu latviešu valodā;\n3) nodrošina, lai jonizējošā starojuma avota pavaddokumentiem tiktu pievienota drošības datu lapa divos eksemplāros, no kuriem viens nosūtāms ar kravu, bet otrs — pa pastu. Drošības datu lapas saturu nosaka atbilstoši šā likuma 24.panta prasībām;\n4) nodrošina, lai jonizējošā starojuma avots tiktu piegādāts komplektā ar nepieciešamo aprīkojumu, kas pasargā darbiniekus, iedzīvotājus un vidi no jonizējošā starojuma kaitīgās iedarbības.\n(2) Radioaktīvo vielu un jonizējošā starojuma avotu iepakošanas un marķēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VI nodaļa Radiācijas drošības līdzekļi un pasākumi",
+      "section": "24",
+      "title": "Drošības datu lapas saturs",
+      "content": "(1) Ministru kabinets apstiprina drošības datu lapas paraugu, kā arī nosaka drošības datu lapas aizpildīšanas un nosūtīšanas kārtību.\n(2) Drošības datu lapā iekļaujama radioaktīvajai vielai vai jonizējošā starojuma avotam atbilstoša informācija:\n1) radioaktīvās vielas vai jonizējošā starojuma avota identifikācija un ziņas par ražotāju, importētāju vai citu personu, kas piegādā radioaktīvo vielu vai jonizējošā starojuma avotu;\n2) radioaktīvās vielas vai jonizējošā starojuma avota bīstamības raksturojums;\n3) pirmās palīdzības pasākumu apraksts;\n4) avārijas gadījumā veicamo pasākumu apraksts;\n5) glabāšanas un lietošanas prasības;\n6) darba drošības pasākumu prasības;\n7) drošas transportēšanas prasības;\n8) informācija par galvenajiem normatīvajiem aktiem, kas reglamentē darbības ar attiecīgo radioaktīvo vielu vai jonizējošā starojuma avotu;\n9) cita no drošības, cilvēku dzīvības un veselības vai vides aizsardzības viedokļa nozīmīga informācija."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VI nodaļa Radiācijas drošības līdzekļi un pasākumi",
+      "section": "25",
+      "title": "Jonizējošā starojuma avotu uzstādīšana un remonts",
+      "content": "Operators, kurš uzstāda vai remontē iekārtas, kas saistītas ar jonizējošā starojuma avotiem, drīkst tās uzstādīt tikai tad, ja tiek nodrošināts aizsardzības aprīkojums un veikti citi pasākumi aizsardzībai pret jonizējošo starojumu, kā arī ievēroti darba aizsardzības noteikumi."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa Radiācijas drošības līdzekļi un pasākumi",
+      "section": "26",
+      "title": "Kodolmateriālu uzskaites un kontroles kārtība",
+      "content": "Kārtību, kādā veicamas darbības ar kodolmateriāliem, ar tiem saistītiem materiāliem un aprīkojumu, kā arī kodolmateriālu uzskaites un kontroles sistēmas uzturēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VII nodaļa Radioaktīvie atkritumi un neizmantojamie jonizējošā starojuma avoti",
+      "section": "27",
+      "title": "Radioaktīvie atkritumi",
+      "content": "(1) Nav pieļaujama radioaktīvo atkritumu ievešana Latvijas Republikā no citām valstīm, izņemot gadījumus, kad:\n1) tiek ievesti atpakaļ tie radioaktīvie atkritumi, kas radušies, ārvalstīs pārstrādājot no Latvijas Republikas izvestos radioaktīvos atkritumus;\n2) nav iespējams atdalīt tieši tos radioaktīvos atkritumus, kas pārstrādes procesā ārvalstīs radušies no radioaktīvajiem atkritumiem, kuri ievesti no Latvijas Republikas; tādā gadījumā ieved ekvivalentu daudzumu citu radioaktīvo atkritumu.\n(1 1 ) Radioaktīvos atkritumus apglabāt ārpus Latvijas Republikas drīkst, ja pirms to pārvadāšanas Latvijas Republika ir noslēgusi vienošanos ar citu Eiropas Savienības dalībvalsti vai trešo valsti par radioaktīvo atkritumu apglabāšanas objekta izmantošanu citā Eiropas Savienības dalībvalstī vai trešajā valstī.\n(1 2 ) Lēmumu par Latvijas Republikā esošo radioaktīvo atkritumu apglabāšanu citas Eiropas Savienības dalībvalsts vai trešās valsts radioaktīvo atkritumu apglabāšanas objektā pieņem Ministru kabinets pēc Vides aizsardzības un reģionālās attīstības ministrijas ierosinājuma.\n(1 3 ) Pirms radioaktīvo atkritumu nosūtīšanas apglabāšanai uz trešo valsti Vides aizsardzības un reģionālās attīstības ministrija informē Eiropas Komisiju par Latvijas Republikas vienošanos ar trešo valsti.\n(1 4 ) Ministru kabinets pieņem lēmumu par radioaktīvo atkritumu apglabāšanu trešajā valstī, ja tam iesniegtais Vides aizsardzības un reģionālās attīstības ministrijas ierosinājums atbilst šādiem nosacījumiem:\n1) trešā valsts ir noslēgusi vienošanos ar Eiropas Savienību un šīs vienošanās darbības jomā ir ietverta radioaktīvo atkritumu pārvaldība vai šī trešā valsts ir viena no Kopējās lietotās kodoldegvielas un radioaktīvo atkritumu drošas pārvaldības konvencijas līgumslēdzējām pusēm;\n2) trešajā valstī ir radioaktīvo atkritumu pārvaldības un apglabāšanas programmas, kuru mērķis ir augsts drošības līmenis, un šis drošības līmenis nav zemāks par šajā likumā un citos tiesību aktos par radioaktīvo atkritumu apsaimniekošanu noteikto līmeni;\n3) trešās valsts radioaktīvo atkritumu apglabāšanas objektā ir atļauts apglabāt nosūtītos radioaktīvos atkritumus, šis objekts darbojas pirms nosūtīšanas un tiek apsaimniekots atbilstoši trešās valsts radioaktīvo atkritumu pārvaldības un apglabāšanas programmā noteiktajām prasībām.\n(2) Pirms licences izsniegšanas vai darbības reģistrēšanas tādu darbību uzsākšanai, kuru rezultātā var rasties radioaktīvie atkritumi, Centrs pieprasa no operatora informāciju par prognozēto radioaktīvo atkritumu daudzumu un pasākumiem, kas tiks veikti ar šiem radioaktīvajiem atkritumiem.\n(2 1 ) Operators, kura darbības ar jonizējošā starojuma avotiem rada radioaktīvos atkritumus, ir atbildīgs par:\n1) tādu projektēšanas pasākumu, darbību un likvidēšanas metožu (tai skaitā materiālu atkārtota pārstrāde un izmantošana) izvēli, lai nodrošinātu, ka radioaktīvo atkritumu apjoms un radioaktivitātes līmenis ir tik zems, cik vien tas praktiski iespējams;\n2) radioaktīvo atkritumu pārvaldības izmaksu segšanu.\n(3) Prasības darbībām ar radioaktīvajiem atkritumiem un ar tiem saistītajiem materiāliem nosaka Ministru kabinets.\n(4) Ministru kabinets apstiprina kritērijus un principus dažādu radioaktīvo atkritumu ekvivalences noteikšanai.\n(5) Ja Latvijas Republikā tiek ievestas tādas radioaktīvās vielas, pēc kuru izmantošanas rodas radioaktīvie atkritumi, ko nepieciešams apglabāt Latvijā, par šo vielu ievešanu maksājams dabas resursu nodoklis."
+    },
+    {
+      "provision_ref": "Art. 27.1",
+      "chapter": "VII nodaļa Radioaktīvie atkritumi un neizmantojamie jonizējošā starojuma avoti",
+      "section": "27.1",
+      "title": "27. 1 pants. Lietotā kodoldegviela",
+      "content": "(1) Lietoto kodoldegvielu var pārstrādāt kā izmantojamu resursu vai paredzēt galīgai apglabāšanai bez tās tālākas izmantošanas un apstrādāt kā radioaktīvos atkritumus. Latvijas Republikā nav pieļaujama lietotās kodoldegvielas izmantošana.\n(2) Nav pieļaujama lietotās kodoldegvielas ievešana Latvijas Republikā no citām valstīm."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VII nodaļa Radioaktīvie atkritumi un neizmantojamie jonizējošā starojuma avoti",
+      "section": "28",
+      "title": "Radioaktīvās vielas nesaturošu jonizējošā starojuma iekārtu lietošanas izbeigšana",
+      "content": "(1) Ja operatora īpašumā vai valdījumā ir iekārtas, kas spēj ģenerēt jonizējošo starojumu, bet nesatur radioaktīvās vielas un nav nepieciešamas turpmākām darbībām vai arī to drošība vairs neatbilst Latvijas Republikā noteiktajām prasībām, operators šīs iekārtas padara nekaitīgas un ziņo par to Centram.\n(2) Ministru kabinets nosaka radioaktīvās vielas nesaturošu jonizējošā starojuma iekārtu likvidēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VIII nodaļa Prasības zaudējumu un kodolkaitējuma atlīdzināšanai un nelikumīgi izmantoto jonizējošā starojuma avotu apsaimniekošanai (Nodaļas nosaukums 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. )",
+      "section": "29",
+      "title": "Zaudējumu un kodolkaitējumu atlīdzināšana",
+      "content": "(1) Operators, kas pārkāpis normatīvajos aktos noteiktās prasības, jebkurai cietušajai personai atlīdzina ar jonizējošā starojuma avotiem saistīto darbību rezultātā nodarītos zaudējumus cilvēku veselībai un mantai, kā arī videi. Operatoram ir tiesības vērst regresa prasību pret personu, kura vainīga zaudējumu nodarīšanā.\n(2) Ja, veicot darbības ar jonizējošā starojuma avotiem, ir piesārņota vide, būves, iekārtas vai transportlīdzekļi, operators par saviem līdzekļiem nodrošina vides, būvju, iekārtu un transportlīdzekļu attīrīšanu, lai piesārņojums turpmāk neapdraudētu vidi, darbinieku un iedzīvotāju dzīvību, veselību vai mantu, dzīvnieku dzīvību un veselību, kā arī sedz visus nepieciešamos paraugu ņemšanas un izpētes izdevumus.\n(3) Operators neatlīdzina zaudējumus, ja tie radušies nepārvaramas varas dēļ, ar paša cietušā nodomu vai viņa rupjas neuzmanības dēļ. Tas neattiecas uz gadījumiem, kurus saskaņā ar normatīvajiem aktiem operatoram vajadzēja paredzēt, lai veiktu atbilstošus piesardzības pasākumus.\n(4) Operatoram ir pienākums apdrošināt savu civiltiesisko atbildību par tā darbības vai bezdarbības rezultātā nodarītu kaitējumu trešo personu dzīvībai un veselībai, zaudējumu trešo personu īpašumam un kaitējumu videi. Ministru kabinets nosaka, kurām darbībām ar jonizējošā starojuma avotiem nepieciešama civiltiesiskās atbildības apdrošināšana, un minimālo civiltiesiskās atbildības apdrošinājuma summu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VIII nodaļa Prasības zaudējumu un kodolkaitējuma atlīdzināšanai un nelikumīgi izmantoto jonizējošā starojuma avotu apsaimniekošanai (Nodaļas nosaukums 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. )",
+      "section": "30",
+      "title": "Prasības nelikumīgi izmantoto jonizējošā starojuma avotu apsaimniekošanai",
+      "content": "(1) Jonizējošā starojuma avotus, kuri izmantoti, pārkāpjot šā likuma un citu normatīvo aktu prasības, kopā ar aizsardzības iekārtām, kas tieši saistītas ar jonizējošā starojuma avotiem, operators nodod radioaktīvo atkritumu apglabāšanas objekta vai radioaktīvo atkritumu pārvaldības objekta operatoram, nodrošinot, lai netiktu apdraudēti cilvēki un vide.\n(2) Jonizējošā starojuma avotus, kuru lietotājs vai īpašnieks nav zināms, radioaktīvo atkritumu apglabāšanas objekta vai radioaktīvo atkritumu pārvaldības objekta operatoram, ievērojot radiācijas drošības prasības, nodod tā iestāde, kas atklājusi šādus jonizējošā starojuma avotus."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "31",
+      "title": "Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā",
+      "content": "(1) Par radiācijas drošības un kodoldrošības normatīvo aktu prasību neievērošanu attiecībā uz personu aizsardzību pret jonizējošo starojumu piemēro brīdinājumu vai naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no četrpadsmit līdz divsimt četrdesmit naudas soda vienībām.\n(2) Par vides piesārņošanu ar radioaktīvajām vielām, pārsniedzot noteiktos normatīvus vai pārkāpjot noteiktos ierobežojumus, par Latvijas Republikas ekskluzīvās ekonomiskās zonas, teritoriālās jūras, iekšējo jūras ūdeņu, ostu akvatoriju un upju grīvu piesārņošanu ar radioaktīvajām vielām piemēro naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.\n(3) Par neziņošanu Centram par avāriju, ja tā saistīta ar jonizējošā starojuma avotiem, vai par šādas avārijas slēpšanu piemēro naudas sodu fiziskajai personai no sešām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no astoņdesmit sešām līdz divsimt astoņdesmit naudas soda vienībām.\n(4) Par tādu preču laišanu tirgū, piedāvāšanu vai pārdošanu, kuras satur neatļautas radioaktīvās vielas vai kurās jonizējošā starojuma līmenis pārsniedz normatīvajos aktos noteiktās normas, piemēro naudas sodu fiziskajai personai no septiņām līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no trīsdesmit līdz divtūkstoš astoņsimt naudas soda vienībām.\n(4 1 ) Par darbību ar jonizējošā starojuma avotiem veikšanu bez paziņošanas piemēro naudas sodu fiziskajai personai no septiņām līdz četrpadsmit naudas soda vienībām, bet juridiskajai personai — no četrpadsmit līdz divdesmit astoņām naudas soda vienībām.\n(5) Par darbību ar jonizējošā starojuma avotiem bez licences vai reģistrācijas apliecības piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no divdesmit astoņām līdz divsimt astoņdesmit naudas soda vienībām.\n(6) Par darbību ar radioaktīvajiem atkritumiem un radioaktīvo vielu pārvadāšanas, iekraušanas un izkraušanas noteikumu pārkāpšanu, par radioaktīvo vielu kravu atstāšanu bez uzraudzības transportlīdzekļos, kā arī par radioaktīvo vielu nodošanu bagāžā vai bagāžas glabātavās piemēro naudas sodu fiziskajai personai no četrpadsmit līdz simt četrdesmit naudas soda vienībām, bet juridiskajai personai — no piecdesmit sešām līdz piecsimt astoņdesmit naudas soda vienībām.\n(7) Par neziņošanu Centram par radioaktīvo vielu izplūdi (novadīšanu) vidē, par vides informācijas slēpšanu vai tās atspoguļošanu maldinošā veidā, par neziņošanu tuvākās ostas administrācijai par Latvijas Republikas ekskluzīvās ekonomiskās zonas, teritoriālās jūras, iekšējo jūras ūdeņu, ostu akvatoriju un upju grīvu piesārņošanu ar radioaktīvajām vielām no peldlīdzekļiem un citām konstrukcijām, kā arī no gaisakuģiem piemēro naudas sodu juridiskajai personai no četrpadsmit līdz četrsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "32",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "(1) Administratīvā pārkāpuma procesu par šā likuma 31. panta pirmajā, otrajā, trešajā, 4. 1 , piektajā, sestajā un septītajā daļā minētajiem pārkāpumiem veic Valsts vides dienests.\n(2) Administratīvā pārkāpuma procesu par šā likuma 31. panta ceturtajā daļā minētajiem pārkāpumiem pārtikas un dzīvnieku barības apritē veic Pārtikas un veterinārais dienests.\n(3) Administratīvā pārkāpuma procesu par šā likuma 31. panta ceturtajā daļā minētajiem pārkāpumiem kosmētikas līdzekļu, ķīmisko vielu, maisījumu un biocīdu apritē veic Veselības inspekcija.\n(4) Administratīvā pārkāpuma procesu par šā likuma 31. panta ceturtajā daļā minētajiem pārkāpumiem dārgmetālu, dārgakmeņu un to izstrādājumu apritē veic Valsts ieņēmumu dienests.\n(5) Administratīvā pārkāpuma procesu par šā likuma 31. panta ceturtajā daļā minētajiem pārkāpumiem būvmateriālu un būvizstrādājumu apritē, kā arī tādu preču apritē, kuras paredzētas patērētājiem vai kuras paredzamos apstākļos varētu lietot patērētāji, veic Patērētāju tiesību aizsardzības centrs."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn1",
+      "title": "1. Ministru kabineta noteikumi, kas izdoti saskaņā ar likuma \"Par radiācijas drošību un kodoldrošību\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3.nr.; 1997, 11.nr.) 4., 6., 7., 9., 23., 25. un 27.pantu, ir spēkā līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā 12 mēnešus pēc šā likuma stāšanās spēkā.",
+      "content": "1. Ministru kabineta noteikumi, kas izdoti saskaņā ar likuma \"Par radiācijas drošību un kodoldrošību\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3.nr.; 1997, 11.nr.) 4., 6., 7., 9., 23., 25. un 27.pantu, ir spēkā līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā 12 mēnešus pēc šā likuma stāšanās spēkā."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn2",
+      "title": "2. Ministru kabinets 12 mēnešu laikā pēc šā likuma stāšanās spēkā izdod noteikumus, kas nepieciešami, lai ieviestu šā likuma 1.pantā , 3.panta pirmajā un trešajā daļā, 4.panta trešajā daļā, 8.panta pirmajā un ceturtajā daļā, 9.panta otrajā un ceturtajā daļā, 11.panta otrajā daļā, 12.panta pirmajā un otrajā daļā, 13.panta ceturtajā daļā, 17.panta pirmajā daļā, 23.panta otrajā daļā, 24.panta pirmajā daļā, 26.pantā , 27.panta trešajā un ceturtajā daļā, 28.panta otrajā daļā un 29.panta ceturtajā daļā noteiktās normas.",
+      "content": "2. Ministru kabinets 12 mēnešu laikā pēc šā likuma stāšanās spēkā izdod noteikumus, kas nepieciešami, lai ieviestu šā likuma 1.pantā , 3.panta pirmajā un trešajā daļā, 4.panta trešajā daļā, 8.panta pirmajā un ceturtajā daļā, 9.panta otrajā un ceturtajā daļā, 11.panta otrajā daļā, 12.panta pirmajā un otrajā daļā, 13.panta ceturtajā daļā, 17.panta pirmajā daļā, 23.panta otrajā daļā, 24.panta pirmajā daļā, 26.pantā , 27.panta trešajā un ceturtajā daļā, 28.panta otrajā daļā un 29.panta ceturtajā daļā noteiktās normas."
+    },
+    {
+      "provision_ref": "PN 2.1",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn2.1",
+      "title": "2. 1 Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2005.gada 1.aprīlim piemērojami Ministru kabineta 2002.gada 25.jūnija noteikumi Nr.260 \" Kārtība, kādā uz valsts robežas veicama preču un transportlīdzekļu radiometriskā kontrole un atklājami nedeklarēti jonizējošā starojuma avoti \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 20.01.2005 . likuma redakcijā, kas stājas spēkā 23.02.2005. )"
+    },
+    {
+      "provision_ref": "PN 2.2",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn2.2",
+      "title": "2. 2 Ministru kabinets līdz 2009.gada 1.martam izdod šā likuma 11.panta piektajā daļā minētos noteikumus. Līdz šo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.martam piemērojami Ministru kabineta 2001.gada 3.jūlija noteikumi Nr.289 “ Noteikumi par valsts nodevu par speciālās atļaujas (licences) vai atļaujas izsniegšanu darbībām ar jonizējošā starojuma avotiem ”.",
+      "content": "( 25.09.2008 . likuma redakcijā, kas stājas spēkā 29.10.2008. )"
+    },
+    {
+      "provision_ref": "PN 2.3",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn2.3",
+      "title": "2. 3 Ministru kabinets līdz 2012.gada 1.janvārim izdod šā likuma 13.panta 4. 1 daļā minētos noteikumus.",
+      "content": "( 13.10.2011 . likuma redakcijā, kas stājas spēkā 16.11.2011. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn3",
+      "title": "3. Pirms šā likuma spēkā stāšanās dienas izsniegtās speciālās atļaujas (licences) un atļaujas ir spēkā līdz tajās noteiktā derīguma termiņa beigām.",
+      "content": "3. Pirms šā likuma spēkā stāšanās dienas izsniegtās speciālās atļaujas (licences) un atļaujas ir spēkā līdz tajās noteiktā derīguma termiņa beigām."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn4",
+      "title": "4. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par radiācijas drošību un kodoldrošību\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3.nr.; 1997, 11.nr.).",
+      "content": "4. Ar šā likuma spēkā stāšanos spēku zaudē likums \"Par radiācijas drošību un kodoldrošību\" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3.nr.; 1997, 11.nr.)."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn5",
+      "title": "5. Šā likuma 9.panta otrās daļas jaunā redakcija un 2. 1 daļa stājas spēkā 2015.gada 1.maijā.",
+      "content": "( 29.05.2014 . likuma redakcijā, kas stājas spēkā 25.06.2014. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn6",
+      "title": "6. Šā likuma 1.panta 6. un 10.punkta, 3.panta pirmās daļas 5.punkta, 5.panta 4.punkta, 6.panta otrās daļas 2.punkta, III nodaļas nosaukuma, 11.panta , 12.panta trešās daļas, 13.panta pirmās daļas jaunā redakcija un astotā daļa, 14.panta pirmās daļas, 29.panta ceturtās daļas jaunā redakcija, grozījumi 12.panta pirmās daļas 1. un 2.punktā un 27.panta otrajā daļā stājas spēkā 2016.gada 1.janvārī.",
+      "content": "( 29.05.2014 . likuma redakcijā, kas stājas spēkā 25.06.2014. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn7",
+      "title": "7. Speciālās atļaujas (licences) un atļaujas darbībām ar jonizējošā starojuma avotiem, kuras izsniegtas līdz 2015.gada 31.decembrim, ir spēkā līdz tajās norādītajam termiņam.",
+      "content": "( 29.05.2014 . likuma redakcijā, kas stājas spēkā 25.06.2014. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn8",
+      "title": "8. (Izslēgts ar 10.12.2020 . likumu, kas stājas spēkā 23.12.2020. )",
+      "content": "8. (Izslēgts ar 10.12.2020 . likumu, kas stājas spēkā 23.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn9",
+      "title": "9. Šā likuma IX nodaļa stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "( 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn10",
+      "title": "10. Šā likuma III nodaļas nosaukuma jaunā redakcija stājas spēkā 2021. gada 1. janvārī.",
+      "content": "( 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn11",
+      "title": "11. Šā likuma 3. panta pirmās daļas 5. punkta un 11. panta jaunā redakcija stājas spēkā 2021. gada 1. februārī. Šā likuma 10. 1 pants , kā arī grozījums par 13. panta papildināšanu ar devīto daļu stājas spēkā 2021. gada 1. janvārī.",
+      "content": "( 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn12",
+      "title": "12. Ministru kabinets līdz 2021. gada 31. janvārim izdod šā likuma 11. panta ceturtajā daļā un 13. panta astotajā daļā minētos noteikumus. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2021. gada 31. janvārim ir piemērojami Ministru kabineta 2015. gada 22. decembra noteikumi Nr. 752 \" Kārtība, kādā licencē un reģistrē darbības ar jonizējošā starojuma avotiem \".",
+      "content": "( 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn13",
+      "title": "13. Ministru kabinets līdz 2021. gada 30. jūnijam izdod šā likuma 5. panta 4. 2 punktā, 9. panta 2. 3 daļā un 16. 1 panta ceturtajā daļā minētos noteikumus.",
+      "content": "( 10.12.2020 . likuma redakcijā, kas stājas spēkā 23.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "IX nodaļa Administratīvie pārkāpumi radiācijas drošības un kodoldrošības jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 04.06.2020 . likuma redakcijā, kas stājas spēkā 16.06.2020. Nodaļa stājas spēkā 01.07.2020. Sk. pārejas noteikumu 9. punktu)",
+      "section": "pn14",
+      "title": "14. Prasības par finanšu nodrošinājumu nepiemēro līdz 2021. gada 31. decembrim. Operatori, kuriem licences izsniegtas līdz 2021. gada 31. decembrim, finanšu nodrošinājumu iesniedz Centram līdz 2022. gada 30. jūnijam.",
+      "content": "1) Padomes 1989.gada 27.novembra direktīvas 89/618/ Euratom par plašas sabiedrības informēšanu par veicamajiem veselības aizsardzības pasākumiem un par rīcību radiācijas avārijas gadījumā;\n2) Padomes 1990.gada 4.decembra direktīvas 90/641/ Euratom par to viesdarbinieku darba aizsardzību, kuri, darbojoties kontrolētajās zonās, ir pakļauti jonizējošā starojuma riskam;\n3) (izslēgts ar 25.09.2008 . likumu) ;\n4) Padomes 1996.gada 13.maija direktīvas 96/29/ Euratom , kas nosaka drošības pamatstandartus darba ņēmēju un iedzīvotāju veselības aizsardzībai pret jonizējošā starojuma radītajām briesmām;\n5) Padomes 1997.gada 30.jūnija direktīvas 97/43/ Euratom , ar ko paredz personu veselības aizsardzību pret jonizējošā starojuma kaitīgo iedarbību saistībā ar ārstnieciski diagnostisko apstarošanu un atceļ direktīvu 84/466/ Euratom ;\n6) Eiropas Parlamenta un Padomes 2003.gada 28.janvāra direktīvas 2003/4/EK par vides informācijas pieejamību sabiedrībai un par Padomes direktīvas 90/313/EEK atcelšanu;\n7) Padomes 2003.gada 22.decembra direktīvas 2003/122/E AEK par slēgtu augstas radioaktivitātes starojuma avotu un bezīpašnieka jonizējošā starojuma avotu kontroli;\n8) Padomes 2006.gada 20.novembra direktīvas 2006/117/ Euratom par radioaktīvo atkritumu un lietotās kodoldegvielas pārvadājumu uzraudzību un kontroli;\n9) Padomes 2009.gada 25.jūnija direktīvas 2009/71/ Euratom , ar ko izveido Kopienas kodoliekārtu kodoldrošības pamatstruktūru;\n10) Padomes 2011.gada 19.jūlija direktīvas 2011/70/ Euratom , ar ko izveido Kopienas sistēmu lietotās kodoldegvielas un radioaktīvo atkritumu atbildīgai un drošai apsaimniekošanai;\n11) Padomes 2013. gada 5. decembra direktīvas 2013/59/ Euratom , ar ko nosaka drošības pamatstandartus aizsardzībai pret jonizējošā starojuma radītajiem draudiem un atceļ direktīvu 89/618/ Euratom , direktīvu 90/641/ Euratom , direktīvu 96/29/ Euratom , direktīvu 97/43/ Euratom un direktīvu 2003/122/ Euratom ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "darbības ar jonizējošā starojuma avotiem",
+      "definition": "cilvēka darbības (jonizējošā starojuma avotu ražošana, importēšana, eksportēšana, transportēšana, pārdošana, iznomāšana, iegūšana īpašumā vai lietošanā, glabāšana, remontēšana un citas līdzīgas darbības), kas var palielināt cilvēku apstarošanu no mākslīgajiem jonizējošā starojuma avotiem vai no dabiskajiem jonizējošā starojuma avotiem, ja dabiskos radionuklīdus izmanto to radioaktīvo, kodoldalīšanās vai kodolpārvērtību īpašību dēļ, izņemot apstarošanu avāriju gadījumos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jonizējošais starojums",
+      "definition": "enerģijas plūsma daļiņu vai elektromagnētisko viļņu veidā (viļņa garums vienāds ar 100 nanometriem vai mazāks vai viļņa svārstību frekvence vienāda ar 3 x 10 15 herciem vai lielāka). Tas ir gamma starojums, rentgenstarojums, korpuskulārais starojums un jebkāds cits starojums, kas spēj radīt jonizāciju tiešā vai netiešā veidā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "jonizējošā starojuma avots",
+      "definition": "objekts, kas var izraisīt apstarošanu, emitējot jonizējošo starojumu vai izdalot radioaktīvu materiālu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kodoliekārta",
+      "definition": "kodolmateriālu bagātināšanas iekārta, kodoldegvielas ražošanas iekārta, kodolreaktors (atomelektrostacija), lietotās kodoldegvielas pārstrādes iekārta, pētnieciskais kodolreaktors, lietotās kodoldegvielas glabātava, kā arī radioaktīvu atkritumu glabātava, kas atrodas vienā teritorijā ar kādu no minētajām kodoliekārtām un ir tieši saistīta ar šo kodoliekārtu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kodolmateriāli",
+      "definition": "rūdas, no kurām ķīmiskos vai fizikālos procesos var iegūt urānu vai toriju, urāns, kas satur dabā esošo izotopu maisījumu, vai vājināts urāns, urāns 233, ar urānu 233 vai urānu 235 bagātināts urāns, torijs metāliskā veidā, sakausējuma veidā, ķīmiska savienojuma vai koncentrāta veidā, plutonijs, izņemot tādu plutonija izotopu maisījumu, kurā plutonija 238 koncentrācija ir lielāka par 80 procentiem, kā arī citi materiāli, kuri satur izotopus, kas spēj dalīties mijiedarbībā ar neitroniem, un kuri kodoldalīšanās procesā rada jonizējošo starojumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "operators",
+      "definition": "fiziskā vai juridiskā persona, kurai ir licence darbībām ar jonizējošā starojuma avotiem vai kura ir reģistrējusi darbības ar jonizējošā starojuma avotiem un ir atbildīga par darbībām, radiācijas drošību un kodoldrošību tās kontrolētajā zonā (tostarp gadījumos, kad jonizējošā starojuma avota lietotājs vai īpašnieks neveic darbības ar jonizējošā starojuma avotiem)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "radiācijas drošība un kodoldrošība",
+      "definition": "organizatorisku un tehnisku pasākumu sistēma, lai nodrošinātu jonizējošā starojuma avotu un kodoliekārtu drošu izmantošanu, novērstu radiācijas avārijas un mazinātu radiācijas avāriju sekas, tādējādi aizsargājot cilvēkus un vidi no jonizējošā starojuma avotu un kodoliekārtu jonizējošā starojuma kaitīgās iedarbības apdraudējuma",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "radioaktīva viela",
+      "definition": "jebkura viela, kas satur vienu vai vairākus radionuklīdus, kuru kopējā radioaktivitāte vai īpatnējā radioaktivitāte (radioaktivitātes koncentrācija) jāņem vērā, lai aizsargātos pret jonizējošo starojumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "radioaktīvie atkritumi",
+      "definition": "radioaktīvi materiāli gāzveida, šķidrā vai cietā agregātstāvoklī, kurus neparedz vai neplāno turpmāk lietot",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valsts nozīmes jonizējošā starojuma objekti",
+      "definition": "kodoliekārtas, radioaktīvo atkritumu apglabāšanas objekti, radioaktīvo atkritumu pārvaldības objekti un tādi objekti, kuros tiek veiktas darbības ar radioaktīvajām vielām, kuru kopējā radioaktivitāte vairāk nekā vienu miljardu reižu pārsniedz Ministru kabineta noteiktos limitus, kuriem nepieciešama licence",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides radiācijas monitorings",
+      "definition": "radioaktīvās vielas radītās dozas jaudas vai īpatnējās radioaktivitātes (radioaktivitātes koncentrācijas) mērījumi vidē.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "lv-law-287271",
+  "type": "statute",
+  "title": "Kontu reģistra likums",
+  "title_en": "Account Register Law",
+  "short_name": "TA-287271",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/287271-kontu-registra-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) konts — kredītiestādē, krājaizdevu sabiedrībā vai maksājumu pakalpojumu sniedzējā ( Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē) atvērts pieprasījuma noguldījuma, maksājumu vai ieguldījumu konts;\n2) krājaizdevu sabiedrība — krājaizdevu sabiedrība Krājaizdevu sabiedrību likuma 2. panta izpratnē;\n3) kredītiestāde — kredītiestāde Eiropas Parlamenta un Padomes 2013. gada 26. jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 4. panta 1. punkta 1. apakšpunkta izpratnē;\n4) maksājumu pakalpojumu sniedzējs — Maksājumu pakalpojumu un elektroniskās naudas likuma 2. panta otrās daļas 2., 3., 4. un 7. punktā noteiktais maksājumu pakalpojumu sniedzējs;\n5) patiesais labuma guvējs — fiziskā persona Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē;\n6) pilnvarotā persona — fiziskā persona, kura ir pilnvarota rīkoties citas fiziskās personas, juridiskās personas vai juridiska veidojuma (Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē) vārdā un kura rīkojas ar kredītiestādē, maksājumu pakalpojumu sniedzējā vai krājaizdevu sabiedrībā atvērto kontu vai tajā esošajiem līdzekļiem;\n7) ieguldījumu konts — kredītiestādē vai maksājumu pakalpojumu sniedzējā atvērts konts likuma \" Par iedzīvotāju ienākuma nodokli \" izpratnē;\n8) individuālā seifa pakalpojums — pakalpojums, ko nodrošina kredītiestāde vai maksājumu pakalpojumu sniedzējs, kurā individuālā seifa lietošanas tiesības pakalpojuma saņēmējs ieguvis uz nomas vai īres līguma pamata."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir izveidot un uzturēt kontu reģistru (turpmāk — reģistrs) un nodrošināt personas konta datu apstrādi, lai:\n1) novērstu Latvijas un starptautiskās finanšu sistēmas izmantošanu noziedzīgās darbībās, tai skaitā noziedzīgi iegūtu līdzekļu legalizācijai, terorisma un proliferācijas finansēšanai, un nodrošinātu starptautisko sadarbību šajā jomā;\n2) aizsargātu valsts un sabiedrisko drošību;\n3) sekmētu noziedzīgu nodarījumu izmeklēšanu, kriminālvajāšanu un krimināllietu iztiesāšanu;\n4) nodrošinātu valsts institūcijām un amatpersonām iespējas saņemt informāciju, kas nepieciešama šajā likumā noteikto valsts pārvaldes uzdevumu izpildei;\n5) nodrošinātu efektīvu nodokļu administrēšanas sistēmas darbību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Kontu reģistra pārzinis un turētājs, to pienākumi",
+      "content": "(1) Reģistrs ir valsts informācijas sistēma, un tā pārzinis un turētājs ir Valsts ieņēmumu dienests.\n(2) Valsts ieņēmumu dienests pastāvīgi uztur un attīsta reģistru, kā arī nodrošina reģistra drošības pārvaldību atbilstoši valsts informācijas sistēmai normatīvajos aktos noteiktajām drošības prasībām.\n(3) Valsts ieņēmumu dienestam ir tiesības reģistrā iekļautās ziņas izsniegt tikai šā likuma 6. pantā noteiktajiem reģistra informācijas lietotājiem šā likuma 8. pantā noteiktajā kārtībā.\n(4) Valsts ieņēmumu dienests pārrauga:\n1) pārbaudi, vai saņemtā reģistra informācijas lietotāja pieprasījuma saturs atbilst šā likuma 8. panta prasībām;\n2) to, lai pieeja reģistra datiem tiktu nodrošināta tikai šā likuma 6. pantā noteiktajiem reģistra informācijas lietotājiem un tikai noteiktajā apjomā."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Reģistrā iekļauto ziņu statuss",
+      "content": "Reģistrā iekļautās ziņas ir ierobežotas pieejamības informācija. Reģistra pārzinis un reģistra informācijas lietotājs ir tiesīgs reģistrā iekļautās ziņas izmantot šajā likumā noteiktajiem mērķiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Ziņu iekļaušana reģistrā",
+      "content": "(1) Ziņas iekļaušanai reģistrā sniedz:\n1) kredītiestādes;\n2) krājaizdevu sabiedrības;\n3) maksājumu pakalpojumu sniedzēji.\n(2) Šā panta pirmajā daļā minētie ziņu sniedzēji (turpmāk — ziņu sniedzējs) iekļaušanai reģistrā sniedz šādas ziņas:\n1) par ziņu sniedzēju, kurā atvērts pieprasījuma noguldījuma, maksājumu vai ieguldījumu konts vai saņemts individuālā seifa pakalpojums, — nosaukums, reģistrācijas numurs;\n2) par konta turētāju — fizisko personu, kas ir Latvijas Republikas rezidents, — vārds, uzvārds, personas kods, konta numurs, konta atvēršanas un slēgšanas datums;\n3) par konta turētāju — fizisko personu, kas ir Latvijas Republikas nerezidents, — vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs un izsniedzējas valsts nosaukums, konta numurs, konta atvēršanas un slēgšanas datums;\n4) par konta turētāju — juridisko personu, kas ir Latvijas Republikas rezidents vai nerezidenta pastāvīgā pārstāvniecība Latvijā, — nosaukums, reģistrācijas numurs, konta numurs, konta atvēršanas un slēgšanas datums;\n5) par konta turētāju — juridisko personu, kas ir Latvijas Republikas nerezidents, — nosaukums, reģistrācijas numurs, reģistrācijas valsts nosaukums, konta numurs, konta atvēršanas un slēgšanas datums;\n6) par individuālā seifa pakalpojuma saņēmēju — fizisko personu, kas ir Latvijas Republikas rezidents, — vārds, uzvārds, personas kods, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums;\n7) par individuālā seifa pakalpojuma saņēmēju — fizisko personu, kas ir Latvijas Republikas nerezidents, — vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs un izsniedzējas valsts nosaukums, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums;\n8) par individuālā seifa pakalpojuma saņēmēju — juridisko personu, kas ir Latvijas Republikas rezidents vai nerezidenta pastāvīgā pārstāvniecība Latvijā, — nosaukums, reģistrācijas numurs, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums;\n9) par individuālā seifa pakalpojuma saņēmēju — juridisko personu, kas ir Latvijas Republikas nerezidents, — nosaukums, reģistrācijas numurs, reģistrācijas valsts nosaukums, individuālā seifa vai līguma numurs vai cits unikāls seifa pakalpojuma identifikators, nomas vai īres līguma noslēgšanas un izbeigšanas datums.\n(2 1 ) Ziņu sniedzējs, iekļaujot reģistrā ziņas par konta slēgšanas datumu, norāda, vai konts slēgts ar atlikumu. Ja vairs nepastāv apstākļi vai zūd pamats reģistrā iekļauto ziņu statusam \"konts slēgts ar atlikumu\", ziņu sniedzējam ir pienākums mainīt ziņas statusu uz \"konts slēgts\" bez papildu atzīmes par atlikuma esību.\n(3) Ja šā panta otrajā daļā minētajai personai ir noskaidrots patiesais labuma guvējs, vienlaikus ar šā panta otrajā daļā minētajām ziņām iesniedz šādas ziņas:\n1) par patieso labuma guvēju — Latvijas Republikas rezidentu — fiziskās personas vārds, uzvārds, personas kods;\n2) par patieso labuma guvēju — nerezidentu — fiziskās personas vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs, izsniedzējas valsts nosaukums.\n(3 1 ) Ja šā panta otrajā daļā minētajai personai ir noskaidrota pilnvarotā persona, vienlaikus ar šā panta trešajā daļā minētajām ziņām iesniedz šādas ziņas:\n1) par pilnvaroto personu — Latvijas Republikas rezidentu — fiziskās personas vārds, uzvārds, personas kods;\n2) par pilnvaroto personu — nerezidentu — fiziskās personas vārds, uzvārds, dzimšanas datums, personu apliecinoša dokumenta numurs, izsniedzējas valsts nosaukums.\n(4) Ziņu sniedzējs šā panta otrajā un trešajā daļā noteiktās ziņas iekļaušanai reģistrā sniedz elektroniski atbilstoši Elektronisko dokumentu likumam , izmantojot Valsts reģionālās attīstības aģentūras pārziņā esošā valsts informācijas sistēmu savietotāja datu izplatīšanas tīklu, ne retāk kā reizi divās darbdienās.\n(5) Ziņu sniedzējs ziņas iekļaušanai reģistrā sniedz, ja kontu atver vai slēdz, tiek noslēgts vai izbeigts individuālā seifa nomas vai īres līgums, kā arī gadījumā, kad ziņu sniedzējam kļuvušas zināmas izmaiņas šā panta otrajā, trešajā un 3. 1 daļā minētajos ar konta turētāju, individuālā seifa nomnieku vai īrnieku, patieso labuma guvēju vai pilnvaroto personu saistītās fiziskās vai juridiskās personas datos.\n(6) Ziņu sniedzējs ir atbildīgs par sniegto ziņu atbilstību tā rīcībā esošajai informācijai.\n(7) Valsts ieņēmumu dienests ir atbildīgs par to, lai reģistrā iekļautās ziņas atbilstu ziņu sniedzēja sniegtajām ziņām.\n(8) Ziņu sniedzējs ziņas iekļaušanai reģistrā sniedz un ziņas reģistrā tiek iekļautas latviešu valodā. Tādas fiziskās personas vārdu un uzvārdu, kura nav Latvijas pilsonis vai nepilsonis, kā arī citā valstī reģistrētas personas nosaukumu reģistrā iekļauj latīņalfabētiskajā transliterācijā.\n(9) Reģistra pārzinis reģistrā iekļautās ziņas glabā piecus gadus pēc konta slēgšanas, izņemot gadījumu, kad konts slēgts ar atlikumu. Pēc minētā termiņa beigām reģistra pārzinis ziņas no reģistra dzēš. Ja konts slēgts ar atlikumu, reģistra pārzinis ziņas no reģistra dzēš pēc 15 gadiem no dienas, kad ziņas statusam pievienota atzīme \"konts slēgts ar atlikumu\".\n(10) Kārtību un formu, kādā šā panta pirmajā daļā minētie ziņu sniedzēji iesniedz iekļaušanai reģistrā šā panta otrajā, trešajā un 3. 1 daļā norādītās ziņas, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Reģistra informācijas lietotāji un reģistrā iekļauto ziņu apstrādes mērķi",
+      "content": "(1) Reģistra pārzinis reģistrā iekļautās ziņas izsniedz šādiem reģistra informācijas lietotājiem pēc to pamatota pieprasījuma un Ministru kabineta noteiktajā apjomā šādiem mērķiem:\n1) Finanšu izlūkošanas dienestam — Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likumā noteikto funkciju veikšanai, tai skaitā starptautiskās sadarbības nodrošināšanai ar ārvalstu pilnvarotajām iestādēm, lai novērstu noziedzīgi iegūtu līdzekļu legalizāciju un ar to saistīto noziedzīgo nodarījumu, terorisma un proliferācijas finansēšanu, kā arī Starptautisko un Latvijas Republikas nacionālo sankciju likumā noteikto funkciju veikšanai;\n2) operatīvās darbības subjektiem — operatīvo darbību veikšanai operatīvās uzskaites lietā;\n3) izmeklēšanas iestādēm — izmeklēšanas darbību veikšanai pirmstiesas kriminālprocesā;\n4) Latvijas Bankai — normatīvajos aktos noteikto uzraudzības funkciju izpildei;\n5) Valsts ieņēmumu dienestam — lai piemērotu izpildes nodrošinājuma līdzekļus, veiktu piedziņu bezstrīda kārtībā, daļēji vai pilnīgi apturētu norēķinu operācijas, plānotu un nodrošinātu nodokļu kontroles pasākumus, plānotu nodokļu administrēšanu, atmaksātu valsts budžetā pārmaksātos vai nepareizi iemaksātos valsts nodokļus, nodevas un ar tiem saistītos maksājumus, kā arī naudas soda summas, atmaksātu nepareizi piedzītās summas, administratīvajā procesā un administratīvo pārkāpumu procesā noskaidrotu informāciju par konta esību, plānotu un nodrošinātu automātiskās informācijas apmaiņas uzraudzību par finanšu kontiem (likuma \" Par nodokļiem un nodevām \" XII nodaļas izpratnē);\n6) tiesām — to lietvedībā esošo lietu ietvaros;\n7) prokuratūrai — pirmstiesas kriminālprocesā, normatīvajos aktos noteiktajos gadījumos personu un valsts tiesību un likumīgo interešu aizsardzībai un valsts apsūdzības uzturēšanai tiesā;\n8) Korupcijas novēršanas un apkarošanas birojam — lai nodrošinātu likumā \" Par interešu konflikta novēršanu valsts amatpersonu darbībā \" valsts amatpersonām noteikto ierobežojumu ievērošanas kontroli, kā arī Politisko organizāciju (partiju) finansēšanas likuma ievērošanas kontroli;\n9) zvērinātiem tiesu izpildītājiem — normatīvajos aktos noteikto pienākumu izpildei izpildu lietas ietvaros, kā arī mantojuma apsardzībai un mantojuma saraksta sastādīšanai, mantas aprakstes veikšanai mantas dalīšanas nolūkā un kreditoru pretenziju pamatotības un atbilstības izvērtēšanai lietās par bezmantinieku mantu;\n10) zvērinātiem notāriem, bāriņtiesām — normatīvajos aktos noteikto pienākumu izpildei mantojuma apsardzībai un mantojuma saraksta sastādīšanai;\n11) Latvijas Bankai — tai normatīvajos aktos paredzēto statistikas un analītisko uzdevumu izpildei;\n12) pašvaldībām — lai veiktu nekustamā īpašuma nodokļa piedziņu bezstrīdus kārtībā, atmaksātu pārmaksāto vai nepareizi iemaksāto nekustamā īpašuma nodokli un ar to saistītos maksājumus, kā arī naudas soda summas, atmaksātu nepareizi piedzītās nekustamā īpašuma nodokļa summas un administratīvajā procesā noskaidrotu informāciju par konta vai individuālā seifa nomas vai īres līguma esību, kā arī lai noskaidrotu informāciju par konta vai individuālā seifa nomas vai īres līguma esību personai, kura pieprasījusi sociālo palīdzību vai sociālos pakalpojumus, ienākumu un materiālā stāvokļa izvērtēšanas procesā atbilstoši Sociālo pakalpojumu un sociālās palīdzības likumam ;\n13) maksātnespējas procesa administratoram — Maksātnespējas likumā noteikto pienākumu izpildei un tiesību īstenošanai juridiskās un fiziskās personas maksātnespējas procesā;\n14) Maksātnespējas kontroles dienestam — maksātnespējas procesa administratoru uzraudzības īstenošanai atbilstoši Maksātnespējas likumam ;\n15) kredītiestādēm — lai iegūtu ziņas par patērētāja Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē kontu esību citā kredītiestādē, ja klients kredītiestādei iesniedzis pieteikumu par pamatkonta minētā likuma izpratnē atvēršanu;\n16) kredītiestādēm un maksājumu pakalpojumu sniedzējiem — lai padziļinātās izpētes veikšanai iegūtu ziņas par klienta, tā patiesā labuma guvēja, kā arī par personas, kura izteikusi vēlmi uzsākt darījuma attiecības ar kredītiestādi vai maksājumu pakalpojumu sniedzēju, tās patiesā labuma guvēja atvērto kontu skaitu un kredītiestāžu un maksājumu pakalpojumu sniedzēju skaitu, pie kuriem šie konti atvērti;\n17) Finanšu ministrijai — lai nodrošinātu Eiropas Birojam krāpšanas apkarošanai sniedzamā atbalsta likumā noteikto pienākumu izpildi;\n18) Patērētāju tiesību aizsardzības centram — Patērētāju tiesību aizsardzības likumā noteikto uzraudzības funkciju veikšanai, īstenojot Eiropas Parlamenta un Padomes 2017. gada 12. decembra regulas (ES) 2017/2394 par sadarbību starp valstu iestādēm, kas atbild par tiesību aktu izpildi patērētāju tiesību aizsardzības jomā, un ar ko atceļ regulu (EK) Nr. 2006/2004 9. panta 3. punkta \"b\" apakšpunktā noteiktās pilnvaras;\n19) Valsts kasei — normatīvajos aktos ar maksājumu pakalpojumu jomu saistīto uzdevumu izpildei:\na) nolūkā konstatēt aizdomīga darījuma Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē esību vai izpildīt Starptautisko un Latvijas Republikas nacionālo sankciju likuma prasības,\nb) nolūkā pieņemt lēmumu par klienta kontu atvēršanu vai slēgšanu Valsts kasē.\n(2) Šā panta pirmās daļas 1., 2., 3., 4., 5., 6., 7., 8., 12., 14., 15., 16., 17., 18. un 19. punktā minētie reģistra informācijas lietotāji, kā arī bāriņtiesas nosaka atbildīgās personas, kuras ir konkrētie reģistra informācijas lietotāji, un pieprasāmo ziņu apjomu, par ko informē reģistra pārzini Ministru kabineta noteiktajā kārtībā. Minētajām atbildīgajām personām ir saistoši visi šajā likumā noteiktie reģistra informācijas lietotāja pienākumi."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "section": "7",
+      "title": "Reģistra informācijas lietotāja pienākumi",
+      "content": "(1) Reģistra informācijas lietotājam ir šādi pienākumi:\n1) norādīt pieprasījumā šajā likumā noteikto tiesisko pamatu ziņu izsniegšanai un ziņu apstrādes mērķi, kā arī apstrādāt personas datus tikai atbilstoši šajā likumā noteiktajiem informācijas apstrādes mērķiem tiem nepieciešamajā apjomā;\n2) uzskaitīt un piecus gadus glabāt informāciju:\na) par katru informācijas pieprasījumu, norādot tā datumu un ziņas, kas identificē personu, par kuru veikts informācijas pieprasījums (personas kods vai reģistrācijas kods, tās lietas numurs, kuras ietvaros informācija pieprasīta),\nb) par atbildi uz informācijas pieprasījumu, norādot saņemtās atbildes datumu un atbildes informāciju,\nc) par gadījumiem, kad atbilde uz informācijas pieprasījumu nav saņemta;\n3) fizisko personu datu apstrādē ievērot fizisko personu datu aizsardzības normatīvo aktu prasības.\n(2) Reģistra informācijas lietotājs ir atbildīgs par to, lai reģistrā iekļautās ziņas tiktu pieprasītas un izmantotas saskaņā ar šā likuma noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "section": "8",
+      "title": "Reģistrā iekļauto ziņu saņemšana",
+      "content": "(1) Šā likuma 6. pantā noteiktie reģistra informācijas lietotāji reģistrā iekļautās ziņas saņem bez maksas tiešsaistes režīmā Ministru kabineta noteikumos paredzētajā kārtībā.\n(2) Kārtību, kādā reģistra informācijas lietotāji pieprasa un saņem un reģistra pārzinis atsakās sniegt reģistrā iekļautās ziņas, kārtību, kādā reģistra pārzinis pārbauda reģistra informācijas lietotāju darbības atbilstību reģistra darbību regulējošu normatīvo aktu prasībām, kā arī reģistra informācijas lietotāja saņemamās elektroniskās informācijas apjomu un glabāšanas kārtību nosaka Ministru kabinets.\n(3) Latvijas Bankai ir tiesības tai normatīvajos aktos paredzēto statistikas un analītisko uzdevumu izpildei nepieciešamās reģistrā iekļautās ziņas saņemt apkopojuma un pārskata veidā tā, ka nav iespējams tieši vai netieši identificēt reģistrā iekļautos individuālos fiziskās vai juridiskās personas datus. Latvijas Banka ir tiesīga izpaust un publiskot minēto apkopojumu un pārskatu normatīvajos aktos paredzētajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "section": "pn1",
+      "title": "1. Kredītiestādei, krājaizdevu sabiedrībai un maksājumu pakalpojumu sniedzējam ir pienākums šā likuma 5. panta otrajā daļā noteiktās reģistrā iekļaujamās ziņas par pieprasījuma noguldījumu un maksājumu kontiem, kas atvērti un nav slēgti pirms 2017. gada 30. jūlija, iesniegt Valsts ieņēmumu dienestam līdz 2017. gada 31. jūlijam.",
+      "content": "1. Kredītiestādei, krājaizdevu sabiedrībai un maksājumu pakalpojumu sniedzējam ir pienākums šā likuma 5. panta otrajā daļā noteiktās reģistrā iekļaujamās ziņas par pieprasījuma noguldījumu un maksājumu kontiem, kas atvērti un nav slēgti pirms 2017. gada 30. jūlija, iesniegt Valsts ieņēmumu dienestam līdz 2017. gada 31. jūlijam."
+    },
+    {
+      "provision_ref": "PN 2",
+      "section": "pn2",
+      "title": "2. Sākot ar 2017. gada 1. augustu, kredītiestāde, krājaizdevu sabiedrība un maksājumu pakalpojumu sniedzējs šā likuma 5. panta otrajā daļā noteiktās ziņas Valsts ieņēmumu dienestam sniedz, ievērojot šā likuma 5. panta ceturtajā daļā noteikto termiņu.",
+      "content": "2. Sākot ar 2017. gada 1. augustu, kredītiestāde, krājaizdevu sabiedrība un maksājumu pakalpojumu sniedzējs šā likuma 5. panta otrajā daļā noteiktās ziņas Valsts ieņēmumu dienestam sniedz, ievērojot šā likuma 5. panta ceturtajā daļā noteikto termiņu."
+    },
+    {
+      "provision_ref": "PN 3",
+      "section": "pn3",
+      "title": "3. Reģistra ziņu sniegšanu reģistra informācijas lietotājiem Valsts ieņēmumu dienests nodrošina ar 2017. gada 1. septembri.",
+      "content": "3. Reģistra ziņu sniegšanu reģistra informācijas lietotājiem Valsts ieņēmumu dienests nodrošina ar 2017. gada 1. septembri."
+    },
+    {
+      "provision_ref": "PN 4",
+      "section": "pn4",
+      "title": "4. Ministru kabinets līdz 2017. gada 1. februārim izdod šā likuma 5. panta desmitajā daļā un 8. panta otrajā daļā minētos noteikumus.",
+      "content": "4. Ministru kabinets līdz 2017. gada 1. februārim izdod šā likuma 5. panta desmitajā daļā un 8. panta otrajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 5",
+      "section": "pn5",
+      "title": "5. Ministru kabinets līdz 2017. gada 1. jūlijam izstrādā un iesniedz izskatīšanai Saeimā likumprojektu, kas paredz kārtību, kādā kredītiestāde, krājaizdevu sabiedrība vai maksājumu pakalpojumu sniedzējs kontu reģistram sniedz ziņas par pilnvaroto personu Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē.",
+      "content": "5. Ministru kabinets līdz 2017. gada 1. jūlijam izstrādā un iesniedz izskatīšanai Saeimā likumprojektu, kas paredz kārtību, kādā kredītiestāde, krājaizdevu sabiedrība vai maksājumu pakalpojumu sniedzējs kontu reģistram sniedz ziņas par pilnvaroto personu Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likuma izpratnē."
+    },
+    {
+      "provision_ref": "PN 6",
+      "section": "pn6",
+      "title": "6. Kredītiestāde, krājaizdevu sabiedrība vai maksājumu pakalpojumu sniedzējs šā likuma 5. panta trešajā daļā noteiktās ziņas par patieso labuma guvēju iekļaušanai reģistrā sāk sniegt nākamajā dienā pēc tam, kad stājas spēkā grozījumi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā, ar kuriem pārņemtas Eiropas Parlamenta un Padomes 2015. gada 20. maija direktīvas (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza Eiropas Parlamenta un Padomes direktīvu 2005/60/EK un Komisijas direktīvu 2006/70/EK grozījumu priekšlikumā 2016/0208 (COD) noteiktās prasības.",
+      "content": "6. Kredītiestāde, krājaizdevu sabiedrība vai maksājumu pakalpojumu sniedzējs šā likuma 5. panta trešajā daļā noteiktās ziņas par patieso labuma guvēju iekļaušanai reģistrā sāk sniegt nākamajā dienā pēc tam, kad stājas spēkā grozījumi Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma finansēšanas novēršanas likumā, ar kuriem pārņemtas Eiropas Parlamenta un Padomes 2015. gada 20. maija direktīvas (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza Eiropas Parlamenta un Padomes direktīvu 2005/60/EK un Komisijas direktīvu 2006/70/EK grozījumu priekšlikumā 2016/0208 (COD) noteiktās prasības."
+    },
+    {
+      "provision_ref": "PN 7",
+      "section": "pn7",
+      "title": "7. Kredītiestādei, krājaizdevu sabiedrībai un maksājumu pakalpojumu sniedzējam ir pienākums šā likuma 5. panta otrajā daļā noteiktās reģistrā iekļaujamās ziņas par individuālā seifa pakalpojuma saņēmējiem, kuriem ir spēkā esoši individuālo seifu nomas vai īres līgumi, iesniegt Valsts ieņēmumu dienestam līdz 2020. gada 31. augustam.",
+      "content": "( 17.06.2020 . likuma redakcijā, kas stājas spēkā 01.07.2020. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "section": "pn8",
+      "title": "8. Sākot ar 2020. gada 1. septembri, kredītiestāde, krājaizdevu sabiedrība un maksājumu pakalpojumu sniedzējs šā likuma 5. panta otrajā daļā noteiktās ziņas par individuālā seifa pakalpojuma saņēmējiem Valsts ieņēmumu dienestam sniedz, ievērojot šā likuma 5. panta ceturtajā daļā noteikto termiņu.",
+      "content": "( 17.06.2020 . likuma redakcijā, kas stājas spēkā 01.07.2020. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "section": "pn9",
+      "title": "9. Valsts ieņēmumu dienests un ziņu sniedzējs šā likuma 5. panta 2. 1 daļas noteikumus uzsāk piemērot ne vēlāk kā 2026. gada 1. jūlijā.",
+      "content": "( 11.09.2025 . likuma redakcijā, kas stājas spēkā 14.10.2025. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "section": "pn10",
+      "title": "10. Ziņu sniedzējs līdz 2026. gada 30. septembrim nodrošina šā likuma 5. panta 2. 1 daļas noteikumu piemērošanu reģistrā esošām ziņām par slēgtu kontu ar atlikumu, kas reģistrā iekļautas un nav dzēstas līdz šā likuma 5. panta 2. 1 daļas spēkā stāšanās dienai.",
+      "content": "1) Eiropas Parlamenta un Padomes 2015. gada 20. maija direktīvas (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 684/2012 un atceļ Eiropas Parlamenta un Padomes direktīvu 2005/60/EK un Komisijas direktīvu 2006/70/EK ;\n2) Eiropas Parlamenta un Padomes 2018. gada 30. maija direktīvas (ES) 2018/843 , ar ko groza direktīvu (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza direktīvas 2009/138/EK un 2013/36/ES ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "konts",
+      "definition": "kredītiestādē, krājaizdevu sabiedrībā vai maksājumu pakalpojumu sniedzējā ( Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē) atvērts pieprasījuma noguldījuma, maksājumu vai ieguldījumu konts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "krājaizdevu sabiedrība",
+      "definition": "krājaizdevu sabiedrība Krājaizdevu sabiedrību likuma 2. panta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kredītiestāde",
+      "definition": "kredītiestāde Eiropas Parlamenta un Padomes 2013. gada 26. jūnija regulas (ES) Nr. 575/2013 par prudenciālajām prasībām attiecībā uz kredītiestādēm un ieguldījumu brokeru sabiedrībām, un ar ko groza regulu (ES) Nr. 648/2012 4. panta 1. punkta 1. apakšpunkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksājumu pakalpojumu sniedzējs",
+      "definition": "Maksājumu pakalpojumu un elektroniskās naudas likuma 2. panta otrās daļas 2., 3., 4. un 7. punktā noteiktais maksājumu pakalpojumu sniedzējs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "patiesais labuma guvējs",
+      "definition": "fiziskā persona Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pilnvarotā persona",
+      "definition": "fiziskā persona, kura ir pilnvarota rīkoties citas fiziskās personas, juridiskās personas vai juridiska veidojuma (Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē) vārdā un kura rīkojas ar kredītiestādē, maksājumu pakalpojumu sniedzējā vai krājaizdevu sabiedrībā atvērto kontu vai tajā esošajiem līdzekļiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieguldījumu konts",
+      "definition": "kredītiestādē vai maksājumu pakalpojumu sniedzējā atvērts konts likuma \" Par iedzīvotāju ienākuma nodokli \" izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "individuālā seifa pakalpojums",
+      "definition": "pakalpojums, ko nodrošina kredītiestāde vai maksājumu pakalpojumu sniedzējs, kurā individuālā seifa lietošanas tiesības pakalpojuma saņēmējs ieguvis uz nomas vai īres līguma pamata.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

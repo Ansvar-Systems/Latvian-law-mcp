@@ -1,0 +1,237 @@
+{
+  "id": "lv-law-208269",
+  "type": "statute",
+  "title": "Brīvas pakalpojumu sniegšanas likums",
+  "title_en": "Freedom To Provide Services Law",
+  "short_name": "TA-208269",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/208269-brivas-pakalpojumu-sniegsanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) atbildīgā iestāde — tiešās vai pastarpinātās pārvaldes iestāde, kas izsniedz saimnieciskās darbības veicējam atļauju konkrēta pakalpojuma sniegšanai, vai šīs iestādes pilnvarota persona, kas veic pārvaldes uzdevumu saskaņā ar ārējo normatīvo aktu vai uz deleģēšanas līguma pamata;\n2) atļauja — atbildīgās iestādes izsniegts dokuments (piemēram, licence, speciāla atļauja, reģistrācijas apliecība, sertifikāts, saskaņojums), kas apliecina saimnieciskās darbības veicēja atbilstību konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošu normatīvo aktu prasībām un dod atļaujas saņēmējam tiesības sniegt noteiktus pakalpojumus;\n3) atļaujas saņemšanas kārtība — attiecīgo pakalpojumu jomu reglamentējošos normatīvajos aktos noteikts darbību kopums, ko saimnieciskās darbības veicējs izpilda, lai saņemtu atbildīgās iestādes atļauju noteikta pakalpojuma sniegšanas uzsākšanai, turpināšanai vai atjaunošanai;\n4) citas dalībvalsts pakalpojuma sniedzējs — pakalpojuma sniedzējs, kas veic sistemātisku un patstāvīgu saimniecisko vai profesionālo darbību pakalpojuma jomā saskaņā ar citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomiskās zonas valsts tiesību aktiem;\n5) dalībvalsts — Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts;\n6) Iekšējā tirgus informācijas sistēma — Eiropas Kopienu Komisijas pārvaldīta informācijas apmaiņas sistēma, ar kuras starpniecību tiek īstenota Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu atbildīgo iestāžu savstarpējā administratīvā sadarbība Eiropas Savienības iekšējo tirgu reglamentējošo Eiropas Kopienas tiesību aktu īstenošanā vai piemērošanā (turpmāk — IMI sistēma);\n7) Latvijas Republikā reģistrēts pakalpojuma sniedzējs — Latvijas Republikā reģistrēts komersants vai cita reģistrēta persona, kas ir tiesīga veikt saimniecisko darbību pakalpojumu jomā;\n8) pakalpojuma saņēmējs — juridiskā persona vai personālsabiedrība, kas savas saimnieciskās darbības ietvaros saņem pakalpojumu ar šo saimniecisko darbību vai tās nodrošināšanu saistītam nolūkam, kā arī fiziskā persona, kas saņem pakalpojumu tā izmantošanai vai galapatēriņam;\n9) pakalpojums — personas saimnieciskās darbības ietvaros par atlīdzību vai bez tās izpildīts pakalpojuma saņēmēja pasūtījums. Par pakalpojumu nav uzskatāma ražošana, kā arī pasūtījums, kuru izpilda persona, kas, būdama darba ņēmējs, ir darba tiesiskajās attiecībās ar darba devēju vai ieņem amatu, kurš dod tiesības uz atlīdzību;\n9 1 ) publiska vieta — jebkura vieta ārpus pastāvīgās pakalpojuma sniegšanas vietas, kura neatkarīgi no tās faktiskās izmantošanas vai īpašuma formas ir pieejama pakalpojuma saņēmējam;\n10) sabiedrības intereses — sabiedrības veselības un morāles, sabiedriskās kārtības un drošības, cilvēka dzīvības un veselības aizsardzība, dzīvnieku un augu aizsardzība, sociālās politikas un kultūras politikas mērķu īstenošana, nacionālā kultūrvēsturiskā mantojuma un mūsdienu mākslas bagātību aizsardzība, industriālā un komerciālā īpašuma aizsardzība, vides aizsardzība, fiskālā uzraudzība, sociālās aizsardzības sistēmas finansiālā līdzsvara nostiprināšana, komercdarījumu aizsardzība, krāpniecisko darījumu apkarošana, patērētāju un darba ņēmēju aizsardzība, citi tiesību aktos noteiktie apsvērumi, kā arī tāda aizsardzība, kas pakalpojumam nodrošina Latvijas Republikas normatīvajiem aktiem atbilstošu drošuma līmeni;\n11) saimnieciskās darbības ierobežojums — normatīvajā aktā vai atļaujā noteikts pakalpojuma sniedzēja pienākums. Par saimnieciskās darbības ierobežojumu netiek uzskatīti privāto tiesību subjektu noslēgto līgumu vai koplīgumu noteikumi, un neviens no šiem tiesību subjektiem nav uzskatāms par tiešās vai pastarpinātās pārvaldes iestādes pilnvarotu personu, kas veic pārvaldes uzdevumu saskaņā ar ārējo normatīvo aktu vai uz deleģēšanas līguma pamata."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un darbība",
+      "content": "(1) Šā likuma mērķis ir:\n1) veicināt brīvu pakalpojumu apriti un nodrošināt tiesības brīvi veikt saimniecisko darbību dalībvalstī pakalpojumu jomā;\n2) noteikt organizatoriskos un tiesiskos pamatus pakalpojuma sniegšanai un saņemšanai, lai pakalpojuma sniedzējs un pakalpojuma saņēmējs varētu īstenot un aizsargāt savas likumīgās tiesības Eiropas Savienības iekšējā tirgū.\n(2) Šo likumu nepiemēro:\n1) vispārējas nozīmes (publisko) pakalpojumu jomā, kurā pakalpojumu sniegšana nav saistīta ar ekonomiskiem un komerciāliem apsvērumiem;\n2) tirgus dalībnieku dominējošā stāvokļa ļaunprātīgas izmantošanas novēršanas un komercdarbībai sniegtā atbalsta kontroles nodrošināšanas, kā arī publisko iepirkumu jomā;\n3) valsts īstenotās politikas pasākumiem valsts valodas, kultūras un plašsaziņas līdzekļu jomā (ja to mērķis ir garantēt valodu un kultūru daudzveidības saglabāšanu un attīstīšanu, kā arī aizsargāt viedokļu dažādību plašsaziņas līdzekļos);\n4) krimināltiesību jomā;\n5) nodarbinātības jomā (darba tiesisko attiecību, darba drošības un veselības aizsardzības regulēšanai);\n6) valsts sociālās apdrošināšanas jomā;\n7) nodokļu politikas veidošanas un administrēšanas jomā;\n8) starptautisko privāto tiesību jomā, tajā skaitā patērētāju tiesību aizsardzībai starptautisko privāto tiesību jomā;\n9) ieroču, munīcijas, sprāgstvielu, spridzināšanas ietaišu, speciālo līdzekļu un 1., 2., 3. vai 4.klases pirotehnisko izstrādājumu, atsevišķu šo priekšmetu sastāvdaļu un palīgierīču aprites jomā [ražošanai (izgatavošanai), eksportam, importam un tranzītam];\n10) stratēģiskas nozīmes preču aprites jomā [ražošanai (izgatavošanai), eksportam, importam un tranzītam].\n(3) Šo likumu nepiemēro šādiem pakalpojumiem:\n1) finanšu pakalpojumiem;\n2) elektronisko sakaru pakalpojumiem, elektronisko sakaru tīkliem un ar tiem saistītajām iekārtām, ciktāl tos regulē Elektronisko sakaru likums ;\n3) transporta pakalpojumiem, tajā skaitā ostu pakalpojumiem, uz kuriem attiecas Līguma par Eiropas Savienības darbību VI sadaļa;\n4) pagaidu darba nodrošināšanas pakalpojumiem;\n5) veselības aprūpes pakalpojumiem reglamentētajā jomā, kā arī farmaceitiskiem pakalpojumiem;\n6) pakalpojumiem, ko publiskai uztveršanai sniedz audiovizuālie plašsaziņas līdzekļi neatkarīgi no to pārraidīšanas veida, tajā skaitā kinoteātru pakalpojumiem;\n7) azartspēļu un izložu organizēšanai;\n8) pakalpojumiem, kas saistīti ar valsts pārvaldi, kā arī valsts amatpersonām pielīdzināmo personu pakalpojumiem;\n9) tiešās vai pastarpinātās pārvaldes iestādes vai šīs iestādes pilnvarotās personas sniegtajiem sociālā darba, sociālās aprūpes, sociālās rehabilitācijas un profesionālās rehabilitācijas pakalpojumiem;\n10) privātiem drošības pakalpojumiem;\n11) (izslēgts ar 15.03.2012 . likumu) ;\n12) pakalpojumiem, kas saistīti ar tiesu varas funkciju izpildi, kā arī tiesu sistēmai piederīgo personu pakalpojumiem."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Saimnieciskās darbības reglamentēšanas tiesiskais pamats un saistība ar citiem tiesību aktiem",
+      "content": "(1) Saimnieciskās darbības reglamentēšanas tiesiskais pamats pakalpojumu jomā ir šis likums, Komerclikums, Patērētāju tiesību aizsardzības likums, Elektronisko dokumentu likums un citi konkrētu pakalpojumu vai pakalpojumu jomu reglamentējoši normatīvie akti, kā arī Latvijas Republikai saistoši starptautiskie līgumi un Eiropas Savienības tiesību akti.\n(2) Šis likums reglamentē saimniecisko darbību pakalpojumu jomā tiktāl, ciktāl tas nav pretrunā ar citos likumos ietvertajām speciālajām tiesību normām. Ja Latvijas Republikai saistošas starptautisko tiesību normas paredz citus noteikumus nekā tie, kuri ietverti šajā likumā, piemēro starptautisko tiesību normas.\n(3) Ja šā likuma normas ir pretrunā ar Eiropas Savienības tiesību normām par pakalpojuma sniedzējam, pakalpojuma saņēmējam vai pakalpojumam izvirzāmajām prasībām, šā likuma normas nepiemēro."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "4",
+      "title": "Tiesības veikt saimniecisko darbību pakalpojumu jomā",
+      "content": "Citas dalībvalsts pakalpojuma sniedzējs, kas plāno veikt saimniecisko darbību Latvijas Republikā, ir tiesīgs tajā uzsākt savu darbību atbilstoši tiem pašiem konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošiem normatīvajiem aktiem, saskaņā ar kuriem ir nodibināts un darbojas Latvijas Republikā reģistrēts pakalpojuma sniedzējs. Ikvienam citas dalībvalsts pakalpojuma sniedzējam, kas ieguvis Latvijas Republikā reģistrēta pakalpojuma sniedzēja statusu, ir tādas pašas tiesības un pienākumi kā Latvijas Republikā reģistrētam pakalpojuma sniedzējam."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "5",
+      "title": "Brīva pakalpojumu aprite",
+      "content": "Citas dalībvalsts pakalpojuma sniedzējs, kas atbilst savas valsts konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošu normatīvo aktu prasībām, ievērojot šā likuma IV nodaļas prasības, ir tiesīgs brīvi, bez atļaujas saņemšanas sniegt īslaicīgu pakalpojumu Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "6",
+      "title": "Pakalpojuma sniegšanas ierobežojumu vispārīgie noteikumi",
+      "content": "(1) Pakalpojuma sniegšanas ierobežojumu var noteikt, ja tas ir pamatots ar sabiedrības interešu ievērošanu, nav diskriminējošs un ir samērīgs.\n(2) Pakalpojuma sniegšanas ierobežojums vai tā piemērošana nedrīkst būt diskriminējoša attiecībā uz Latvijas Republikā reģistrētu pakalpojuma sniedzēju vai citas dalībvalsts pakalpojuma sniedzēju vai pakalpojuma saņēmēju. Par diskriminējošiem tiek uzskatīti arī tādi ierobežojumi, kas pamatoti ar pakalpojuma sniedzēja vai pakalpojuma saņēmēja pilsonību (pavalstniecību) vai dzīvesvietu, kā arī labvēlīgāku prasību vai nosacījumu izvirzīšanu Latvijas Republikā reģistrētam pakalpojuma sniedzējam vai pakalpojuma saņēmējam.\n(3) Pakalpojuma sniegšanas ierobežojums ir samērīgs, ja:\n1) tas ir vērsts uz sabiedrības interešu aizsardzību;\n2) labums, ko sabiedrība tā rezultātā iegūst, ir lielāks nekā pakalpojuma sniedzēja tiesību vai mantisko interešu ierobežojums;\n3) sabiedrības intereses nevar pietiekami aizsargāt ar mazāk ierobežojošiem līdzekļiem.\n(4) (Izslēgta ar 15.03.2012 . likumu.)\n(5) Pakalpojuma sniegšanas ierobežojums nosakāms saskaņā ar ārēju normatīvo aktu."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "7",
+      "title": "Iesniedzamie dokumenti",
+      "content": "(1) Normatīvajā aktā noteiktā prasība atļaujas saņemšanai uzskatāma par izpildītu, ja atbildīgajai iestādei iesniedz citas dalībvalsts atbildīgās iestādes izsniegtu dokumentu, kas ir līdzvērtīgs vai pielīdzināms Latvijas Republikā izsniegtam prasības izpildi apliecinošam dokumentam.\n(2) Atbildīgā iestāde nav tiesīga prasīt citas dalībvalsts atbildīgās iestādes izsniegta dokumenta oriģinālu vai notariāli apliecinātu tā atvasinājumu (piemēram, izrakstu, norakstu), vai notariāli apliecinātu tā tulkojumu, ja vien šāda prasība nav paredzēta normatīvajā aktā, kas ievieš Eiropas Savienības tiesību aktu prasības vai nodrošina atbilstību Eiropas Savienības tiesību aktiem, vai šāda prasība ir pamatota ar sabiedrības interešu ievērošanu. Atbildīgā iestāde ir tiesīga jebkurā gadījumā prasīt, lai dokumentiem svešvalodās ir pievienoti atbilstoši tulkojumi valsts valodā bez tulkojuma notariāla apliecinājuma."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "8",
+      "title": "Pakalpojuma sniedzēja civiltiesiskās atbildības apdrošināšana",
+      "content": "(1) Lai aizsargātu pakalpojuma saņēmēja likumiskās intereses, normatīvajā aktā var ietvert prasību par pakalpojuma sniedzēja profesionālās civiltiesiskās atbildības obligāto apdrošināšanu attiecībā uz tā darbības vai bezdarbības dēļ pakalpojuma sniegšanas laikā pakalpojuma saņēmēja vai trešās personas dzīvībai un veselībai nodarīto kaitējumu, kā arī pakalpojuma saņēmēja vai trešās personas mantai nodarītajiem zaudējumiem un paredzēt profesionālās civiltiesiskās atbildības apdrošināšanas kārtību un apdrošinātāja atbildības limitu.\n(2) Ja pakalpojuma sniedzējs apliecina, ka profesionālo civiltiesisko atbildību ir apdrošinājis citā dalībvalstī, un šī apdrošināšana vai tai līdzvērtīga profesionālās atbildības garantija ir pielīdzināma Latvijas Republikā konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošos normatīvajos aktos noteiktajai profesionālās civiltiesiskās atbildības apdrošināšanai vai tai līdzvērtīgai profesionālās atbildības garantijai, šāds apliecinājums pielīdzināms profesionālās civiltiesiskās atbildības apdrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 8.1",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "8.1",
+      "title": "8. 1 pants. Pakalpojuma sniedzēja reklāma",
+      "content": "(1) Pakalpojuma sniedzējs, kas sniedz pakalpojumu Latvijas Republikā, tajā skaitā pakalpojumu reglamentētajā profesionālās darbības jomā, ir tiesīgs brīvi, bez ierobežojumiem sniegt sabiedrībai informāciju (izplatīt reklāmu) par savu darbību.\n(2) Pakalpojuma sniedzējs nodrošina savas informācijas (reklāmas) atbilstību Reklāmas likumam un citiem konkrēto pakalpojumu vai pakalpojumu jomu reglamentējošiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "9",
+      "title": "Pakalpojuma sniegšanas veida izvēle",
+      "content": "(1) Persona, kas sniedz pakalpojumu, ir tiesīga brīvi izvēlēties pakalpojuma sniegšanas veidu. Persona var izvēlēties, vai sniegs vienu konkrētu pakalpojumu vai vienlaikus vairākus pakalpojumus, kā arī izvēlēties, vai pakalpojumu sniegs vienā vai vairākās pakalpojumu jomās.\n(2) Šā panta pirmajā daļā noteikto pakalpojuma sniegšanas veida izvēli var ierobežot attiecībā uz:\n1) fiziskajām personām, kuras vēlas uzsākt darbu reglamentētajās profesijās vai darboties tajās patstāvīgi kā saimnieciskās darbības veicēji. Šo ierobežojumu var piemērot, ja tas nepieciešams, lai ievērotu konkrētai reglamentētajai profesijai noteiktos profesionālās ētikas pamatprincipus un vispārējās uzvedības normas un lai panāktu, ka sniegtā pakalpojuma rezultāts ir objektīvs;\n2) sertificēšanas un inspicēšanas institūcijām, testēšanas un kalibrēšanas laboratorijām, akreditācijas institūcijām un tehniskās uzraudzības aģentūrām, ja tas nepieciešams, lai panāktu, ka minēto institūciju sniegtā pakalpojuma rezultāts ir objektīvs."
+    },
+    {
+      "provision_ref": "Art. 9.1",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "9.1",
+      "title": "9. 1 pants. Pienākums sniegt informāciju",
+      "content": "(1) Pakalpojuma sniedzējs, pildot pienākumu sniegt informāciju, pastāvīgi pieejamā veidā uzskatāmi un tieši norāda:\n1) savu firmu (nosaukumu) vai vārdu un uzvārdu, reģistrācijas numuru (ja tāds ir) un juridisko adresi vai deklarētās dzīvesvietas adresi;\n2) savu kontaktinformāciju, kas nodrošina iespēju ātri sazināties tiešā veidā, tajā skaitā pasta adresi, tālruņa numuru un elektroniskā pasta adresi;\n3) ja attiecīgās darbības veikšanai nepieciešama atļauja, — informāciju par atbildīgo iestādi, kas izsniegusi atļauju;\n4) ja attiecīgā pakalpojuma sniegšana apliekama ar pievienotās vērtības nodokli, — savu reģistrācijas numuru Valsts ieņēmumu dienesta pievienotās vērtības nodokļa maksātāju reģistrā;\n5) attiecībā uz reglamentēto profesionālo darbību — informāciju par profesionālo organizāciju, kas izsniegusi profesionālo kvalifikāciju apliecinošus dokumentus, profesijai vai kvalifikācijai atbilstošo nosaukumu un valsti, kurā tas piešķirts, kā arī atsauci uz reģistrācijas valstī piemērojamiem profesionālajiem noteikumiem un veidu, kādā tie pieejami;\n6) pakalpojuma sniegšanas vispārīgos noteikumus un klauzulas;\n7) klauzulas, kas nosaka, pēc kādiem likumiem apspriežamas pakalpojuma sniedzēja un pakalpojuma saņēmēja savstarpējās attiecības, kā arī to, kura tiesa izskatīs strīdu, kas radies starp pakalpojuma sniedzēju un pakalpojuma saņēmēju;\n8) pakalpojuma sniedzēja pakalpojumam dotās garantijas;\n9) ja tiek norādīta cena, — informāciju par to, vai cenā ir ietverti maksājamie nodokļi un preces piegādes izmaksas;\n10) pakalpojuma īpašības un raksturojumu;\n11) ja attiecīgās darbības veikšanai nepieciešama profesionālās civiltiesiskās atbildības apdrošināšana vai tai līdzvērtīga profesionālās atbildības garantija, — apdrošinātāja kontaktinformāciju, kas nodrošina iespēju ātri sazināties tiešā veidā, tai skaitā elektroniskā pasta adresi, kā arī informāciju par teritoriju, kurā ir spēkā noslēgtais apdrošināšanas līgums vai tam līdzvērtīga profesionālās atbildības garantija.\n(2) Pēc pakalpojuma saņēmēja pieprasījuma pakalpojuma sniedzējs sniedz šādu informāciju:\n1) pakalpojuma cena vai detalizēts izklāsts par to, kas veido pakalpojuma cenu;\n2) normatīvie akti, kas ievēroti, sniedzot pakalpojumu reglamentētajā profesionālās darbības jomā. Pēc pakalpojuma saņēmēja lūguma informē, kur iespējams iepazīties ar attiecīgajiem normatīvajiem aktiem;\n3) pakalpojuma sniedzēja darbība citās jomās un partnerība, kas saistīta ar sniegto pakalpojumu, kā arī pasākumi, kas veikti, lai izvairītos no interešu konflikta;\n4) labas prakses kodekss, kurš attiecas uz sniegto pakalpojumu un kura noteikumi ievēroti, kā arī to, kur var elektroniski iepazīties ar labas prakses kodeksu un kādās valodās;\n5) kā piekļūt detalizētai informācijai par ārpustiesas strīdu izšķiršanas noteikumiem un procedūrām, ja pakalpojuma sniedzējs, uz kuru attiecas labas prakses kodekss, ir saistīts ar attiecīgo ārpustiesas strīdu izšķiršanas institūciju."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā un brīva pakalpojumu aprite",
+      "section": "10",
+      "title": "Pakalpojuma saņēmēja tiesības",
+      "content": "(1) Pakalpojuma saņēmēja tiesības saņemt pakalpojumu nedrīkst ierobežot:\n1) uzliekot tam par pienākumu iegūt atļauju konkrēta pakalpojuma saņemšanai vai izmantošanai;\n2) nosakot tam aizliegumu vai ierobežojumu attiecībā uz finansiāla atbalsta saņemšanu, ja šādas tiesības vai atbalsta apjoms ir atkarīgs no attiecīgā pakalpojuma saņēmēja statusa Latvijas Republikā vai vietas, kur pakalpojums tiek sniegts.\n(2) Pakalpojuma saņēmējam ir tiesības saņemt tādu pakalpojumu, kas nav diskriminējošs atkarībā no viņa pilsonības (pavalstniecības) vai dzīvesvietas, izņemot gadījumus, kad šādu nosacījumu piemērošana ir skaidri un nepārprotami formulēta, objektīvi pamatota, taisnīga un atklāta."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Saimnieciskā darbība pakalpojumu jomā",
+      "section": "11",
+      "title": "Pakalpojuma sniegšana kā saimnieciskā darbība",
+      "content": "(1) Šajā nodaļā reglamentēto saimniecisko darbību pakalpojumu jomā, kā arī pakalpojuma sniegšanas ierobežojumu piemēro Latvijas Republikā reģistrētam pakalpojuma sniedzējam.\n(2) Citas dalībvalsts pakalpojuma sniedzējs saimniecisko darbību pakalpojumu jomā Latvijas Republikā drīkst veikt, ja ir ieguvis Latvijas Republikā reģistrēta pakalpojuma sniedzēja statusu, izņemot šā likuma IV nodaļā minēto gadījumu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Saimnieciskā darbība pakalpojumu jomā",
+      "section": "12",
+      "title": "Aizliegums ierobežot saimniecisko darbību",
+      "content": "(1) Latvijas Republikā reģistrēta pakalpojuma sniedzēja saimniecisko darbību nedrīkst ierobežot:\n1) aizliedzot viņam veikt saimniecisko darbību vienlaikus vairākās dalībvalstīs, kā arī būt ierakstītam vienlaikus vairākos dalībvalstu reģistros vai citās uzskaites sistēmās (reģistros);\n2) aizliedzot viņam brīvi izvēlēties saimnieciskās darbības formu vai veidu;\n3) uzliekot viņam par pienākumu sniegt vai saņemt finansiālu garantiju no konkrēta Latvijas Republikā reģistrēta pakalpojuma sniedzēja vai citas dalībvalsts pakalpojuma sniedzēja vai slēgt apdrošināšanas līgumu ar konkrētu Latvijas Republikā reģistrētu pakalpojuma sniedzēju vai citas dalībvalsts pakalpojuma sniedzēju;\n4) uzliekot viņam par pienākumu būt noteiktu laiku reģistrētam konkrētās uzskaites sistēmās (reģistros);\n5) pieprasot, lai viņam kā pakalpojuma sniedzējam ir Latvijas Republikā iegūta minimālā darbības pieredze noteikta pakalpojuma sniegšanā vai noteiktā pakalpojumu jomā;\n6) pieprasot, lai viņš iesniedz saimnieciskās darbības ekonomiskā pamatojuma vai lietderīguma izvērtējumu (piemēram, saimnieciskās darbības mērķu vai izmaksu pamatotības, finansiālās ilgtspējības izvērtējumu);\n7) izvirzot prasību attiecībā uz viņa pakalpojuma plānošanā, izstrādē, sagatavošanā vai sniegšanā iesaistīto personu, kā arī dalībnieka (akcionāra), pakalpojuma sniedzēja valdes, padomes vai vadības locekļa pilsonību (pavalstniecību).\n(2) Izskatot pieteikumu par atļaujas piešķiršanu Latvijas Republikā reģistrētam pakalpojuma sniedzējam, atbildīgā iestāde lēmuma pieņemšanā nedrīkst iesaistīt pakalpojuma sniedzēja faktiskos vai potenciālos konkurentus.\n(3) Reglamentējot atļaujas piešķiršanas kārtību, citas dalībvalsts pakalpojuma sniedzēja tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā nedrīkst ierobežot, nosakot šim pakalpojuma sniedzējam diskriminējošas prasības sakarā ar to, ka attiecīgajā citā dalībvalstī Latvijas Republikas pakalpojuma sniedzēja tiesības brīvi veikt saimniecisko darbību pakalpojumu jomā ir vairāk ierobežotas."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Saimnieciskā darbība pakalpojumu jomā",
+      "section": "13",
+      "title": "Atļaujas darbības zona un termiņš",
+      "content": "(1) Atļaujas darbības zona ir visa Latvijas Republikas teritorija. Atļaujas darbības zonu var ierobežot, ja ierobežojums ir pamatots ar sabiedrības interešu ievērošanu.\n(2) Atļauju, izņemot šā panta trešajā daļā minētos gadījumus, izsniedz uz nenoteiktu laiku.\n(3) Atļauju drīkst izsniegt uz noteiktu laiku, ja:\n1) atbildīgā iestāde atļaujas derīguma termiņu pagarina pēc pakalpojuma sniedzēja atbilstības pārbaudes konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošos normatīvajos aktos noteiktajā kārtībā;\n2) atļauju skaits ir ierobežots pieejamo dabas resursu vai tehnisko iespēju nepietiekamības dēļ;\n3) tas ir pamatots ar sabiedrības interešu ievērošanu.\n(4) Ja atļauja izsniegta uz noteiktu laiku šā panta trešās daļas 2. vai 3.punktā minētajā gadījumā, atbildīgā iestāde tās termiņu nepagarina, bet izsniedz jaunu atļauju, ievērojot šā likuma 14.panta pirmās daļas nosacījumus.\n(5) Ja atļauja izsniegta uz noteiktu laiku šā panta trešās daļas 1.punktā minētajā gadījumā, atbildīgā iestāde lēmumu par atļaujas termiņa pagarināšanu vai jaunas atļaujas izsniegšanu paziņo pirms izsniegtās atļaujas termiņa beigām."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Saimnieciskā darbība pakalpojumu jomā",
+      "section": "14",
+      "title": "Atļaujas izsniegšanas kārtība un nosacījumi",
+      "content": "(1) Atļaujas izsniegšanas nosacījumi formulējami skaidri un nepārprotami, objektīvi pamatoti, taisnīgi, vienlīdzīgi un atklāti.\n(2) Kārtību, kādā izsniedzama atļauja konkrētas saimnieciskās darbības veikšanai pakalpojumu jomā, nosaka Ministru kabinets.\n(2 1 ) Kārtību, kādā izsniedzama atļauja konkrēta pakalpojuma sniegšanai publiskās vietās, var noteikt arī vietējā pašvaldība. Pašvaldības domei ir tiesības izdot saistošos noteikumus, kas reglamentē konkrēta pakalpojuma sniegšanas kārtību publiskās vietās. Lai izvērtētu saistošo noteikumu atbilstību šā likuma prasībām, pašvaldības dome papildus likumā \" Par pašvaldībām \" noteiktajam tos saskaņo arī ar Ekonomikas ministriju, iesniedzot tai saistošos noteikumus un to paskaidrojuma rakstu likumā \" Par pašvaldībām \" noteiktajā kārtībā.\n(3) Saimnieciskās darbības uzsākšanai, turpināšanai vai atjaunošanai paredzētās atļaujas izsniegšanas, pagarināšanas vai atjaunošanas izmaksas nepārsniedz izdevumus, kas saistīti ar konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošos normatīvajos aktos noteiktās atļaujas izsniegšanas kārtības ievērošanu.\n(4) Atbildīgā iestāde, kas izsniegusi atļauju, var to anulēt vai apturēt tās darbību, ja pakalpojuma sniedzējs:\n1) nav normatīvajos aktos noteiktajā laikā uzsācis atļaujā paredzēto saimniecisko darbību;\n2) nav normatīvajos aktos noteiktajā laikā izņēmis atļauju tajā paredzētās saimnieciskās darbības veikšanai;\n3) neievēro atļaujā ietvertos nosacījumus.\n(4 1 ) Šā panta ceturtās daļas 2.punkta nosacījums netiek piemērots, ja, ievērojot pakalpojuma sniedzēja apliecinātu vēlmi, atļauja izsniegta elektroniskā veidā.\n(5) Ja pakalpojuma sniedzējs citā dalībvalstī ir saņēmis atļauju konkrēta pakalpojuma sniegšanai un šīs valsts normatīvo aktu prasības atļaujas saņemšanai ir pielīdzināmas Latvijas Republikas konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošu normatīvo aktu prasībām, viņš šo pakalpojumu Latvijas Republikā drīkst sniegt patstāvīgi bez atbildīgās iestādes atļaujas.\n(6) Par atļaujas izsniegšanu atbildīgā iestāde ir tiesīga piemērot noklusējumu, ja tā piemērošana nav pretrunā ar sabiedrības interesēm un ir noteikta konkrēto pakalpojumu vai pakalpojumu jomu reglamentējošā normatīvajā aktā. Uzskatāms, ka atļauja ir izsniegta ar noklusējumu, ja normatīvajā aktā noteiktajā termiņā atbildīgā iestāde nepieņem un nepaziņo savu lēmumu par atļaujas piešķiršanu vai atteikumu to piešķirt.\n(7) Piemērojot konkrēto pakalpojumu vai pakalpojumu jomu reglamentējošā normatīvajā aktā noteikto noklusējumu, par atļaujas izsniegšanu atbildīgā iestāde ne vēlāk kā 10 darba dienu laikā pēc atļaujas izsniegšanai nepieciešamās informācijas (dokumentācijas) saņemšanas, ja normatīvajā aktā nav noteikts cits termiņš, nodrošina, ka atļaujas pieteikuma iesniedzējs ir informēts par:\n1) termiņu, kādā tiks pieņemts lēmums par atļaujas piešķiršanu vai atteikumu to piešķirt;\n2) tiesiskās aizsardzības līdzekļiem lēmuma pārsūdzēšanai;\n3) tiesībām uzsākt pakalpojumu sniegšanu, ja konkrēto pakalpojumu vai pakalpojumu jomu reglamentējošā normatīvajā aktā noteiktajā termiņā atbildīgā iestāde nepieņem un nepaziņo savu lēmumu par atļaujas piešķiršanu vai atteikumu to piešķirt.\n(8) Piemērojot normatīvajā aktā noteikto noklusējumu, lēmuma par atļaujas izsniegšanu pieņemšanas termiņš tiek skaitīts no dienas, kad par atļaujas izsniegšanu atbildīgā iestāde no atļaujas pieteicēja ir saņēmusi visu normatīvajos aktos noteikto informāciju (dokumentāciju) lēmuma pieņemšanai."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Īslaicīgs pakalpojums",
+      "section": "15",
+      "title": "Pakalpojuma sniegšanas īslaicīgums un īslaicīga pakalpojuma sniegšana",
+      "content": "(1) Šajā nodaļā reglamentēto pakalpojuma sniegšanas īslaicīgumu un īslaicīga pakalpojuma sniegšanu piemēro citas dalībvalsts pakalpojuma sniedzējam.\n(2) Atbildīgās iestādes, vērtējot, vai konkrētais pakalpojums tiek sniegts īslaicīgi, ņem vērā arī:\n1) pakalpojuma sniedzēja darbības pagaidu raksturu:\na) pakalpojuma sniegšanas ilgumu (stundas, dienas, mēneši, gadi), kura laikā citas dalībvalsts pakalpojuma sniedzējs veic vienu vai vairākas darbības Latvijas Republikas teritorijā bez saimnieciskās darbības reģistrēšanas tajā,\nb) pakalpojuma sniegšanas biežumu (skaitu) konkrētā laikposmā (stundas, dienas, mēneši, gadi),\nc) pakalpojuma sniegšanas periodiskumu (cik regulāri pakalpojuma sniedzējs atkārto pakalpojuma sniegšanu Latvijas Republikas teritorijā),\nd) pakalpojuma sniegšanas nepārtrauktību;\n2) pakalpojuma sniedzēja regulāru uzturēšanos Latvijas Republikā un klientu piesaisti;\n3) vai pakalpojuma sniedzējam Latvijas Republikas teritorijā ir izveidota juridiskā adrese vai struktūrvienība regulārai pakalpojuma sniegšanai;\n4) pakalpojuma sniegšanas gadījuma raksturu, kas norāda, ka atkārtota pakalpojuma sniegšana nav periodiska un ir ar ievērojamu starplaiku.\n(3) Pakalpojuma sniegšanas pagaidu raksturs, kas minēts šā panta otrās daļas 1.punktā, katram konkrētam īslaicīga pakalpojuma sniedzējam var tikt vērtēts atšķirīgi.\n(4) Atbildīgās iestādes, vērtējot, vai citas dalībvalsts pakalpojuma sniedzējs sniedz pakalpojumu īslaicīgi, izvērtē katru konkrēto situāciju.\n(5) Kārtību, kādā citas dalībvalsts pakalpojuma sniedzējam atļauts sniegt konkrētu īslaicīgu pakalpojumu Latvijas Republikā, nosaka Ministru kabinets.\n(6) Kārtību, kādā tiek organizēta īslaicīga pakalpojuma sniegšana publiskās vietās, var noteikt arī vietējā pašvaldība. Pašvaldības domei ir tiesības izdot saistošos noteikumus, kas reglamentē konkrēta īslaicīga pakalpojuma sniegšanas kārtību publiskās vietās. Lai izvērtētu saistošo noteikumu atbilstību šā likuma prasībām, pašvaldības dome papildus likumā \" Par pašvaldībām \" noteiktajam tos saskaņo arī ar Ekonomikas ministriju, iesniedzot tai saistošos noteikumus un to paskaidrojuma rakstu likumā \" Par pašvaldībām \" noteiktajā kārtībā.\n(7) Iestādes, kuras ir atbildīgas par šā likuma 14.panta otrajā un 2. 1 daļā, šā panta piektajā un sestajā daļā minēto tiesību aktu projektu izstrādi, par šiem projektiem paziņo Eiropas Komisijai kārtībā, kādā valsts pārvaldes iestādes sniedz informāciju par tehnisko noteikumu projektiem. Tiesību aktus Eiropas Komisijai var paziņot, izmantojot IMI sistēmā pieejamo paziņošanas procedūru."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Īslaicīgs pakalpojums",
+      "section": "16",
+      "title": "Aizliegums ierobežot īslaicīga pakalpojuma sniegšanu un īslaicīga pakalpojuma sniegšanas īpašie nosacījumi",
+      "content": "(1) Citas dalībvalsts pakalpojuma sniedzējam, kas sniedz īslaicīgu pakalpojumu Latvijas Republikā, nedrīkst piemērot ierobežojumu, izņemot gadījumu, kad tas ir pamatots ar sabiedriskās kārtības un drošības, cilvēku dzīvības un veselības vai vides aizsardzības prasību ievērošanu un ir samērīgs.\n(2) Citas dalībvalsts pakalpojuma sniedzēju, kas sniedz īslaicīgu pakalpojumu, nedrīkst ierobežot:\n1) uzliekot viņam par pienākumu reģistrēties kā saimnieciskās darbības veicējam;\n2) uzliekot viņam par pienākumu saņemt atļauju;\n3) aizliedzot viņam izveidot konkrēta īslaicīga pakalpojuma sniegšanai nepieciešamo noteikta veida vai formas infrastruktūru;\n4) uzliekot viņam par pienākumu nodibināt ar pakalpojuma saņēmēju tādas līgumsaistības, kuras kavē vai ierobežo tiesības brīvi sniegt īslaicīgu pakalpojumu;\n5) uzliekot viņam par pienākumu konkrēta īslaicīga pakalpojuma sniegšanai saņemt atbildīgajā iestādē profesionālo kompetenci vai pakalpojuma kvalitāti apliecinošu dokumentu;\n6) nosakot viņam tādas prasības attiecībā uz rūpnieciski ražotu preču izmantošanu pakalpojuma sniegšanā, kuras var ietekmēt pakalpojuma piedāvāšanu vai pieejamību tirgū, kā arī pakalpojuma sastāvu vai īpašības, izņemot gadījumus, kad šīs prasības izriet no darba drošības un veselības aizsardzības prasībām.\n(3) Šā panta nosacījumus īslaicīga pakalpojuma sniegšanai nepiemēro, reglamentējot:\n1) kārtību, kādā Latvijas Republikā ieceļo un uzturas Eiropas Savienības pilsoņi un viņu ģimenes locekļi, kā arī trešo valstu valstspiederīgās personas;\n2) noteikumus, kādi izvirzāmi līgumiem par personas datu nodošanu valstīm, kuras nenodrošina Latvijas Republikā spēkā esošajam aizsardzības līmenim atbilstošu datu aizsardzības līmeni;\n3) kārtību, kādā reģistrē citas dalībvalsts advokāta profesionālo darbību attiecīgajā reglamentētajā profesijā un profesionālās kvalifikācijas nosaukumu dalībvalsts valodā;\n4) parādu piedziņu tiesas ceļā;\n5) kārtību, kādā tiek veikta īslaicīga profesionālā darbība attiecīgajā reglamentētajā profesijā ar citā dalībvalstī iegūtu profesijai atbilstošu izglītību un profesionālo kvalifikāciju;\n6) kārtību, kādā reģistrē valsts sociālās apdrošināšanas obligāto iemaksu veicējus atbilstoši Padomes 1971.gada 14.jūnija regulai (EEK) Nr. 1408/71 par sociālā nodrošinājuma shēmu piemērošanu darba ņēmējiem un to ģimenēm, kas pārvietojas Kopienas teritorijā;\n7) kārtību, kādā Eiropas Savienības pilsoņi un viņu ģimenes locekļi iegūst tiesības pastāvīgi uzturēties Latvijas Republikā, un viņu uzturēšanās nosacījumus;\n8) kārtību, kādā atkritumus ieved pārstrādei Latvijas Republikā, kā arī veic atkritumu eksportu un tranzītu atbilstoši Padomes 1993.gada 1.februāra regulai (EEK) Nr. 259/93 par uzraudzību un kontroli attiecībā uz atkritumu pārvadājumiem Eiropas Kopienā, ievešanu tajā un izvešanu no tās;\n9) pusvadītāju izstrādājumu topogrāfiju tiesisko aizsardzību autortiesību un tām līdzīgu tiesību jomā;\n10) datubāzu tiesisko aizsardzību autortiesību un tām līdzīgu tiesību jomā;\n11) kārtību, kādā zvērināti notāri pilda viņiem likumā noteiktos pienākumus;\n12) kārtību, kādā apstiprina un reģistrē gada pārskatu un konsolidēto gada pārskatu obligāto revīziju (pārbaužu) veicējus, kā arī atzīst dalībvalstī iegūtu profesijai atbilstošu izglītību un profesionālo kvalifikāciju;\n13) kārtību, kādā reģistrē sauszemes transportlīdzekļus, kas iegādāti citā dalībvalstī, izmantojot līzingu;\n14) tādu līgumsaistību izpildi vai tādu saistību izpildi starptautisko privāttiesību jomā, kuras izriet no ārpuslīgumiskām attiecībām;\n15) sabiedriskos pakalpojumus, ko valsts regulē kā komercdarbību.\n(4) Citas dalībvalsts īslaicīga pakalpojuma sniedzēja darbību var ierobežot ar atbildīgās iestādes lēmumu, ja ievēroti visi šādi nosacījumi:\n1) ierobežojums ir samērīgs un attiecīgajā pakalpojumu jomā saskaņā ar Eiropas Savienības tiesību aktiem nav noteiktas prasības pakalpojuma drošumam;\n2) ierobežojums garantē pakalpojuma drošuma līmeni, kas ir augstāks nekā pakalpojuma sniedzēja dalībvalsts attiecīgo pakalpojumu vai pakalpojumu jomu reglamentējošos normatīvajos aktos garantētais pakalpojuma drošuma līmenis;\n3) atbildīgā iestāde ir izpildījusi šā likuma VI nodaļas prasības par administratīvo sadarbību ar attiecīgajām citu dalībvalstu atbildīgajām iestādēm;\n4) atbildīgā iestāde var pamatot, ka citas dalībvalsts atbildīgā iestāde nav veikusi pasākumus vai ir veikusi nepietiekamus vai neatbilstošus pasākumus attiecībā uz šā likuma VI nodaļā noteiktās informācijas sniegšanu vai administratīvo sadarbību."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Informācijas pieejamība valsts pārvaldes pakalpojumu portālā (Nodaļas nosaukums 08.06.2017 . likuma redakcijā, kas stājas spēkā 01.07.2017. )",
+      "section": "17",
+      "title": "Informācijas pieejamība valsts pārvaldes pakalpojumu portālā",
+      "content": "Informācija par atbildīgajām iestādēm un to kompetenci, kā arī par darbībām, kas veicamas, lai pakalpojumu sniedzēji saņemtu attiecīgās atbildīgās iestādes atļauju, ir pieejama valsts pārvaldes pakalpojumu portāla tīmekļa vietnē https://www.latvija.lv."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Informācijas pieejamība valsts pārvaldes pakalpojumu portālā (Nodaļas nosaukums 08.06.2017 . likuma redakcijā, kas stājas spēkā 01.07.2017. )",
+      "section": "18",
+      "title": "Vienotā pakalpojumu portāla pārzinis",
+      "content": "(Izslēgts ar 08.06.2017 . likumu, kas stājas spēkā 01.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Informācijas pieejamība valsts pārvaldes pakalpojumu portālā (Nodaļas nosaukums 08.06.2017 . likuma redakcijā, kas stājas spēkā 01.07.2017. )",
+      "section": "19",
+      "title": "Valsts pārvaldes pakalpojumu portāla darbība",
+      "content": "(1) Valsts pārvaldes pakalpojumu portālā ietvertā informācija ir pieejama bez maksas.\n(2) Kārtību, kādā notiek informācijas apmaiņa starp valsts pārvaldes pakalpojumu portāla pārzini un atbildīgajām iestādēm, kā arī kārtību, kādā aktualizē valsts pārvaldes pakalpojumu portālā ietverto informāciju, nosaka Ministru kabinets.\n(3) Atbildīgās iestādes un institūcijas, kuras ir minētas valsts pārvaldes pakalpojumu portāla tīmekļa vietnē, nodrošina pakalpojuma saņēmējam iespēju saņemt (tajā skaitā elektroniskā veidā) vispusīgu un pilnīgu informāciju par:\n1) prasībām, ko piemēro citas dalībvalsts pakalpojuma sniedzējam vai Latvijas Republikā reģistrētam pakalpojuma sniedzējam, kā arī par likumisko tiesību vai tiesisko interešu aizsardzību;\n2) tiesiskās aizsardzības līdzekļiem strīdu risināšanā ar pārdevējiem vai pakalpojumu sniedzējiem;\n3) institūcijām, kuras sniedz informāciju un konsultē par pakalpojuma sniedzēja vai pakalpojuma saņēmēja tiesībām vai sniedz palīdzību, veicot normatīvajos aktos noteiktās darbības patērētāju tiesību aizsardzībai."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Informācijas pieejamība valsts pārvaldes pakalpojumu portālā (Nodaļas nosaukums 08.06.2017 . likuma redakcijā, kas stājas spēkā 01.07.2017. )",
+      "section": "20",
+      "title": "Vienotajā pakalpojumu portālā ietvertās informācijas izmantošana",
+      "content": "(Izslēgts ar 08.06.2017 . likumu, kas stājas spēkā 01.07.2017. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Administratīvā sadarbība un IMI sistēma",
+      "section": "21",
+      "title": "Administratīvā sadarbība",
+      "content": "Šā likuma mērķa īstenošanai Latvijas Republikas atbildīgās iestādes un tirgus uzraudzības iestādes atbilstoši šā likuma 22.panta otrajā daļā minētajai kārtībai sadarbojas un konsultējas ar citu dalībvalstu atbildīgajām iestādēm un tirgus uzraudzības iestādēm pakalpojumu sniedzēju un to sniegto pakalpojumu kontroles un uzraudzības jautājumos."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Administratīvā sadarbība un IMI sistēma",
+      "section": "22",
+      "title": "IMI sistēma",
+      "content": "(1) Administratīvo sadarbību īsteno ar IMI sistēmas starpniecību.\n(2) Ministru kabinets nosaka kārtību, kādā IMI sistēmas ietvaros notiek informācijas apmaiņa starp Latvijas Republikas atbildīgajām iestādēm un tirgus uzraudzības iestādēm un citu dalībvalstu atbildīgajām iestādēm un tirgus uzraudzības iestādēm, kā arī informācijas apmaiņā iesaistīto iestāžu atbildību un informācijas apmaiņas uzraudzību."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atbildīgā iestāde",
+      "definition": "tiešās vai pastarpinātās pārvaldes iestāde, kas izsniedz saimnieciskās darbības veicējam atļauju konkrēta pakalpojuma sniegšanai, vai šīs iestādes pilnvarota persona, kas veic pārvaldes uzdevumu saskaņā ar ārējo normatīvo aktu vai uz deleģēšanas līguma pamata",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atļauja",
+      "definition": "atbildīgās iestādes izsniegts dokuments (piemēram, licence, speciāla atļauja, reģistrācijas apliecība, sertifikāts, saskaņojums), kas apliecina saimnieciskās darbības veicēja atbilstību konkrētu pakalpojumu vai pakalpojumu jomu reglamentējošu normatīvo aktu prasībām un dod atļaujas saņēmējam tiesības sniegt noteiktus pakalpojumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atļaujas saņemšanas kārtība",
+      "definition": "attiecīgo pakalpojumu jomu reglamentējošos normatīvajos aktos noteikts darbību kopums, ko saimnieciskās darbības veicējs izpilda, lai saņemtu atbildīgās iestādes atļauju noteikta pakalpojuma sniegšanas uzsākšanai, turpināšanai vai atjaunošanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "citas dalībvalsts pakalpojuma sniedzējs",
+      "definition": "pakalpojuma sniedzējs, kas veic sistemātisku un patstāvīgu saimniecisko vai profesionālo darbību pakalpojuma jomā saskaņā ar citas Eiropas Savienības dalībvalsts vai Eiropas Ekonomiskās zonas valsts tiesību aktiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībvalsts",
+      "definition": "Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Iekšējā tirgus informācijas sistēma",
+      "definition": "Eiropas Kopienu Komisijas pārvaldīta informācijas apmaiņas sistēma, ar kuras starpniecību tiek īstenota Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu atbildīgo iestāžu savstarpējā administratīvā sadarbība Eiropas Savienības iekšējo tirgu reglamentējošo Eiropas Kopienas tiesību aktu īstenošanā vai piemērošanā (turpmāk — IMI sistēma)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Latvijas Republikā reģistrēts pakalpojuma sniedzējs",
+      "definition": "Latvijas Republikā reģistrēts komersants vai cita reģistrēta persona, kas ir tiesīga veikt saimniecisko darbību pakalpojumu jomā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pakalpojuma saņēmējs",
+      "definition": "juridiskā persona vai personālsabiedrība, kas savas saimnieciskās darbības ietvaros saņem pakalpojumu ar šo saimniecisko darbību vai tās nodrošināšanu saistītam nolūkam, kā arī fiziskā persona, kas saņem pakalpojumu tā izmantošanai vai galapatēriņam",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pakalpojums",
+      "definition": "personas saimnieciskās darbības ietvaros par atlīdzību vai bez tās izpildīts pakalpojuma saņēmēja pasūtījums. Par pakalpojumu nav uzskatāma ražošana, kā arī pasūtījums, kuru izpilda persona, kas, būdama darba ņēmējs, ir darba tiesiskajās attiecībās ar darba devēju vai ieņem amatu, kurš dod tiesības uz atlīdzību",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sabiedrības intereses",
+      "definition": "sabiedrības veselības un morāles, sabiedriskās kārtības un drošības, cilvēka dzīvības un veselības aizsardzība, dzīvnieku un augu aizsardzība, sociālās politikas un kultūras politikas mērķu īstenošana, nacionālā kultūrvēsturiskā mantojuma un mūsdienu mākslas bagātību aizsardzība, industriālā un komerciālā īpašuma aizsardzība, vides aizsardzība, fiskālā uzraudzība, sociālās aizsardzības sistēmas finansiālā līdzsvara nostiprināšana, komercdarījumu aizsardzība, krāpniecisko darījumu apkarošana, patērētāju un darba ņēmēju aizsardzība, citi tiesību aktos noteiktie apsvērumi, kā arī tāda aizsardzība, kas pakalpojumam nodrošina Latvijas Republikas normatīvajiem aktiem atbilstošu drošuma līmeni",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "saimnieciskās darbības ierobežojums",
+      "definition": "normatīvajā aktā vai atļaujā noteikts pakalpojuma sniedzēja pienākums. Par saimnieciskās darbības ierobežojumu netiek uzskatīti privāto tiesību subjektu noslēgto līgumu vai koplīgumu noteikumi, un neviens no šiem tiesību subjektiem nav uzskatāms par tiešās vai pastarpinātās pārvaldes iestādes pilnvarotu personu, kas veic pārvaldes uzdevumu saskaņā ar ārējo normatīvo aktu vai uz deleģēšanas līguma pamata.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

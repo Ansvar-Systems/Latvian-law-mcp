@@ -1,0 +1,478 @@
+{
+  "id": "lv-law-159858",
+  "type": "statute",
+  "title": "Sabiedriskā transporta pakalpojumu likums",
+  "title_en": "Law On Public Transport Services",
+  "short_name": "TA-159858",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/159858-sabiedriska-transporta-pakalpojumu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) maršruts — normatīvajos aktos noteiktajā kārtībā apstiprināts noteikts sabiedriskā transportlīdzekļa (neatkarīgi no transportlīdzekļu veida un skaita) kustības ceļš starp diviem kustības galapunktiem;\n2) maršrutu tīkls — izmantojot esošo autoceļu, ielu vai sliežu ceļu tīklu, veidots maršrutu (dotēto un komerciālo maršrutu) kopums, kurā tiek organizēti sabiedriskā transporta pakalpojumi;\n2 1 ) komerciālais maršruts — komerciālais autobusu maršruts vai komerciālais dzelzceļa maršruts;\n2 2 ) dotētais maršruts — reģionālais starppilsētu nozīmes maršruts, reģionālais vietējās nozīmes maršruts vai pilsētas nozīmes maršruts, kurā tiek nodrošināti valsts vai pašvaldības garantēti noteiktas kvalitātes un apjoma sabiedriskā transporta pakalpojumi, kurus ar atvieglotiem nosacījumiem ir tiesīgas izmantot valsts vai pašvaldības noteiktās pasažieru kategorijas un kuros ar pakalpojumu sniegšanu saistītos zaudējumus pārvadātājam kompensē no valsts vai pašvaldības budžeta;\n2 3 ) komerciālais autobusu maršruts — reģionālās nozīmes maršruts, kurā, pamatojoties uz izsniegto maršruta atļauju, tiek nodrošināti sabiedriskā transporta pakalpojumi ar autobusu maršruta atļaujā norādītajā intensitātē un kvalitātē un kurā pakalpojuma cenu (tarifu) nosaka pārvadātājs;\n2 4 ) komerciālais dzelzceļa maršruts — reģionālās nozīmes maršruts, kurā tiek nodrošināti tādi sabiedriskā transporta pakalpojumi pa dzelzceļu, kuru sniegšanas intensitāti, kvalitāti un cenu (tarifu) nosaka pārvadātājs un kuru izpildei nav nepieciešama maršruta atļauja;\n3) maršrutu tīkla pārzināšana — maršrutu tīkla plānošana, izstrādāšana, apstiprināšana, uzturēšana, attīstīšana un pilnveidošana;\n4) (izslēgts ar 06.11.2008 . likumu) ;\n5) pasūtītājs — valsts vai pašvaldība, kas savas kompetences ietvaros organizē sabiedriskā transporta pakalpojumus;\n6) pilsētas nozīmes maršruts — marš­ruts, kas nodrošina pārvietošanos valstspilsētas administratīvajās robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām;\n7) regulārie pasažieru pārvadājumi — pasažieru pārvadāšana pa iepriekš noteiktu maršrutu, ar iepriekš noteiktu intensitāti un regularitāti, par noteiktu braukšanas maksu, kā arī pasažieru pārvadājumi, kuri tiek veikti ar noteiktu regularitāti pa to pašu vai līdzīgu pasažieru regulārā pārvadājuma maršrutu un kuri funkcionāli apkalpo tos pašus pasažierus, ko uzņem vai izlaiž maršrutu apkalpes vietās vai sabiedriskajam transportam paredzētās joslās;\n7 1 ) reģionālās nozīmes maršruts — reģionālās starppilsētu nozīmes maršruts, reģionālās vietējās nozīmes maršruts un visi dzelzceļa maršruti;\n8) reģionālais starppilsētu nozīmes maršruts — maršruts, kas nodrošina pārvietošanos valsts teritorijā galvenokārt no vienas administratīvās teritorijas uz administratīvo teritoriju citā plānošanas reģionā vai kas savieno valstspilsētas;\n9) reģionālais vietējās nozīmes maršruts — maršruts, kas nodrošina pārvietošanos viena novada administratīvajā teritorijā, no šā novada uz tuvākajām apkārtējām teritorijām vai uz citu novadu plānošanas reģiona robežās;\n9 1 ) reiss — sabiedriskā transportlīdzekļa kustība maršrutā no viena tā galapunkta līdz otram galapunktam;\n10) sabiedriskā transporta pakalpojumi — iedzīvotājiem pieejami un pasūtītāja organizēti vai ar Autotransporta direkcijas izsniegto maršruta atļauju saskaņoti, vai uz komerciāliem pamatiem pa dzelzceļu veikti regulārie pasažieru pārvadājumi ar sabiedriskajiem transportlīdzekļiem, kurus pasažieri var izmantot normatīvajos aktos noteiktajā kārtībā un apjomā;\n11) (izslēgts ar 06.11.2008 . likumu) ;\n12) sabiedriskā transporta pakalpojumu organizēšana — tiesību piešķiršana pārvadātājam sniegt sabiedriskā transporta pakalpojumus;\n13) sabiedriskā transporta pakalpojumu pasūtījums — procedūra, saskaņā ar kuru pasūtītājs izvēlas pārvadātājus un piešķir tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā, maršrutā vai reisā;\n14) sabiedriskie transportlīdzekļi — sabiedriskā transporta pakalpojumu sniegšanā iesaistītie transportlīdzekļi (autobuss, tramvajs, trolejbuss, vilciens, M1 kategorijas transportlīdzeklis);\n15) valstspilsētas pašvaldība — Administratīvo teritoriju un apdzīvoto vietu likumā minēto valstspilsētu pašvaldības. Ja valstspilsēta kā teritoriālā iedalījuma vienība ietilpst kādā novadā, šajā likumā noteiktos valstspilsētu pašvaldību uzdevumus īsteno attiecīgā novada pašvaldība."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir nodrošināt iedzīvotājiem pieejamus sabiedriskā transporta pakalpojumus."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbība",
+      "content": "(1) Likums nosaka institūciju kompetenci sabiedriskā transporta jomā, sabiedriskā transporta darbības un organizēšanas nosacījumus, paredz sabiedriskā transporta nodrošināšanai nepieciešamā finansējuma avotus un finansēšanas principus.\n(2) Likums attiecas uz sabiedriskā transporta pakalpojumiem Latvijas teritorijā.\n(3) Jautājumus, kuri attiecas uz sabiedriskā transporta pakalpojumu nozari, reglamentē arī Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regula (EK) Nr. 1370/2007 par sabiedriskā pasažieru transporta pakalpojumiem, izmantojot dzelzceļu un autoceļus, un ar ko atceļ Padomes regulu (EEK) Nr. 1191/69 un Padomes regulu (EEK) Nr. 1107/70 , un citi normatīvie akti."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Valsts institūciju, pašvaldību un Autotransporta direkcijas kompetence sabiedriskā transporta nozarē",
+      "section": "4",
+      "title": "Valsts institūciju un pašvaldību kompetence sabiedriskā transporta nozarē",
+      "content": "(1) Valsts pārvaldi sabiedriskā transporta nozarē atbilstoši savai kompetencei īsteno Satiksmes ministrija, Sabiedriskā transporta padome un šajā likumā noteiktajā kārtībā — Satiksmes ministrijas institūcijas, plānošanas reģioni un valstspilsētu pašvaldības.\n(2) Satiksmes ministrija, Sabiedriskā transporta padome, Satiksmes ministrijas institūcijas, plānošanas reģioni un valstspilsētu pašvaldības atbilstoši savai kompetencei uzrauga likumu un citu normatīvo aktu ievērošanu sabiedriskā transporta nozarē un organizē sabiedriskā transporta pakalpojumus maršrutu tīklā."
+    },
+    {
+      "provision_ref": "Art. 4.1",
+      "chapter": "II nodaļa Valsts institūciju, pašvaldību un Autotransporta direkcijas kompetence sabiedriskā transporta nozarē",
+      "section": "4.1",
+      "title": "4. 1 pants. Sabiedriskā transporta padome",
+      "content": "(1) Sabiedriskā transporta padome ir Satiksmes ministrijas institucionālā pārraudzībā esoša koleģiāla institūcija.\n(2) Sabiedriskā transporta padome ir neatkarīga lēmumu pieņemšanā un funkciju pildīšanā.\n(3) Sabiedriskās transporta padomes sastāvā ir 10 locekļi: pieci pārstāvji, kurus amatā ieceļ un no amata atbrīvo satiksmes ministrs, un pieci attiecīgo plānošanas reģionu attīstības padomju deleģēti pārstāvji — pa vienam no katra plānošanas reģiona. Par sabiedriskās transporta padomes locekļiem var iecelt arī Autotransporta direkcijas amatpersonas vai darbiniekus.\n(4) Sabiedriskā transporta padome no satiksmes ministra iecelto pārstāvju vidus, atklāti balsojot, ievēlē padomes priekšsēdētāju, kas vada padomes darbu un sēdes, bet no plānošanas reģionu attīstības padomju deleģēto pārstāvju vidus — padomes priekšsēdētāja vietnieku, kas aizstāj padomes priekšsēdētāju viņa prombūtnes laikā.\n(5) Sabiedriskā transporta padomes sēde ir lemttiesīga, ja tajā piedalās ne mazāk kā septiņi padomes locekļi; padome lēmumus pieņem ar vienkāršu balsu vairākumu. Katram padomes loceklim ir viena balss. Ja balsis sadalās vienādi (\"par\" vienādi ar \"pret\" un \"atturas\"), izdarāma atkārtota balsošana. Ja arī atkārtotā balsošanā balsis sadalās vienādi, lēmums nav pieņemts. Ja lēmuma nepieņemšanas rezultātā ir apdraudēta sabiedriskā transporta pakalpojumu sniegšanas nepārtrauktība, galalēmumu pieņem satiksmes ministrs. Sabiedriskā transporta padomes darba organizācijas jautājumus nosaka Ministru kabineta apstiprināts nolikums.\n(6) Sabiedriskā transporta padomes darbu nodrošina Autotransporta direkcija, kas pilda padomes sekretariāta un izpildinstitūcijas funkcijas. Autotransporta direkcija savas kompetences ietvaros sadarbojas ar attiecīgajām plānošanas reģionu institūcijām. Sadarbības kārtību nosaka Sabiedriskā transporta padomes nolikums ."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Valsts institūciju, pašvaldību un Autotransporta direkcijas kompetence sabiedriskā transporta nozarē",
+      "section": "5",
+      "title": "Sabiedriskā transporta padomes, Autotransporta direkcijas, plānošanas reģionu un valstspilsētu pašvaldību kompetence sabiedriskā transporta nozarē",
+      "content": "(1) Sabiedriskā transporta padomes kompetence ir:\n1) veidot vienotu reģionālās nozīmes maršrutu tīklu;\n2) pārzināt maršrutu tīkla reģionālās nozīmes maršrutus;\n3) lemt par sabiedriskā transporta pakalpojumu organizēšanu reģionālās nozīmes maršrutos, kā arī pārraudzīt lēmumu izpildi;\n4) apstiprināt sabiedriskā transporta pakalpojumu tarifus un to izmaiņas reģionālās nozīmes dotētajos maršrutos;\n5) definēt nepieciešamo sabiedriskā transporta pakalpojumu apjomu reģionālās nozīmes maršrutos, pamatojoties uz šā likuma 6.pantā noteiktajiem principiem;\n6) pārraudzīt sabiedriskajam transportam no valsts budžeta iedalīto finanšu līdzekļu administrēšanu, sadali un piešķiršanu;\n7) sagatavot un iesniegt Satiksmes ministrijai priekšlikumus par valsts budžeta pieprasījumu sabiedriskā transporta pakalpojumu organizēšanai, par piešķirtā valsts budžeta sadalījumu starp pārvadājumu veidiem un izstrādāt valsts budžeta sadales principus attiecībā uz noslēgtajiem sabiedriskā transporta pakalpojumu līgumiem;\n8) sniegt priekšlikumus valstspilsētu pašvaldībām par sabiedriskā transporta pakalpojumu organizēšanu maršrutu tīkla pilsētas nozīmes maršrutos;\n9) lemt par sabiedriskā transporta pakalpojumu pasūtītājam iesniegtajiem priekšlikumiem par slēgto reģionālās nozīmes maršrutu atjaunošanu;\n10) atbilstoši savai kompetencei veikt satiksmes ministra noteiktus uzdevumus.\n(2) Valstspilsētas pašvaldības kompetencē ir:\n1) pārzināt maršrutu tīkla pilsētas nozīmes maršrutus savā teritorijā;\n2) organizēt sabiedriskā transporta pakalpojumus maršrutu tīkla pilsētas nozīmes maršrutos;\n3) sniegt priekšlikumus Sabiedriskā transporta padomei un Autotransporta direkcijai par sabiedriskā transporta pakalpojumu organizēšanu Sabiedriskā transporta padomes kompetencē esošajā maršrutu tīklā;\n4) racionāli apsaimniekot no valsts budžeta un pašvaldības budžeta sabiedriskajam transportam iedalītos finanšu līdzekļus;\n5) nodrošināt savā administratīvajā teritorijā sabiedriskā transporta pieturu izbūvi un infrastruktūras uzturēšanu.\n(3) Autotransporta direkcijas kompetencē ir:\n1) nodrošināt Sabiedriskā transporta padomes sekretariāta un izpildinstitūcijas funkcijas atbilstoši padomes nolikumam un lēmumiem;\n2) sadarbībā ar attiecīgajām plānošanas reģionu institūcijām izstrādāt un plānot maršrutu tīkla reģionālās nozīmes maršrutus, sniegt priekšlikumus Sabiedriskā transporta padomei attiecībā uz maršrutu tīkla pārzināšanu;\n3) Sabiedriskā transporta padomes uzdevumā organizēt sabiedriskā transporta pakalpojumus reģionālās nozīmes maršrutos;\n4) nodrošināt sabiedriskajam transportam no valsts budžeta iedalīto finanšu līdzekļu administrēšanu un piešķiršanu Ministru kabineta noteiktajā kārtībā;\n5) sagatavot priekšlikumus sabiedriskā transporta pakalpojumu tarifu un to izmaiņu noteikšanai, kā arī citos jautājumos Sabiedriskā transporta padomes uzdevumā;\n6) organizēt ar sabiedrisko transportu saistītos pakalpojumus:\na) Ministru kabineta noteiktajā kārtībā izveidot un uzturēt vienotu sabiedriskā transporta pakalpojumu datubāzi un uzskaites sistēmu,\nb) sadarboties ar maršrutu apkalpes vietu īpašniekiem un infrastruktūras pārvaldītājiem,\nc) izveidot un uzturēt vienotu sabiedriskā transporta biļešu sistēmu;\n7) izveidot komerciālos autobusu maršrutus (reisus);\n8) izsniegt, uz laiku apturēt vai anulēt maršruta atļaujas komerciālajiem autobusu maršrutiem (reisiem) un uzraudzīt pakalpojumu sniedzēja sniegtā pakalpojuma atbilstību izsniegtajai maršruta atļaujai.\n(4) Plānošanas reģionu kompetencē ir:\n1) sagatavot priekšlikumus šā panta trešās daļas 2. un 5.punktā minētās kompetences izpildei;\n2) noskaidrot un apkopot plānošanas reģionā ietilpstošo pašvaldību un iedzīvotāju viedokļus par maršrutu tīklu attiecīgā plānošanas reģiona teritorijā;\n3) apsekot pieturas plānošanas reģiona teritorijā un sniegt priekšlikumus par to nepieciešamību, izbūvi un iekļaušanu maršrutu kustības sarakstos vai maršrutu aprakstos;\n4) veikt citus uzdevumus atbilstoši Sabiedriskā transporta padomes lēmumiem."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "III nodaļa Sabiedriskā transporta pakalpojumu organizēšana",
+      "section": "6",
+      "title": "Sabiedriskā transporta pakalpojumu organizēšanas principi",
+      "content": "(1) Sabiedriskā transporta pakalpojumus organizē maršrutu tīklā. Maršrutu tīkla izstrādāšanas kārtību nosaka Ministru kabinets.\n(2) (Izslēgta ar 06.11.2008 . likumu.)\n(3) Sabiedriskā transporta pakalpojumus organizē, pamatojoties uz:\n1) sabiedriskā transporta pakalpojumu pieprasījumu, ievērojot nepieciešamo pārvadājumu intensitāti un regularitāti maršrutu tīklā, pakalpojumu apjomu un kvalitāti, pārvadājumu ekonomisko nodrošinājumu un paredzot pasažieru pārvadājumu organizēšanas veidu;\n2) sabiedrisko transportlīdzekļu izmantošanas prioritāti, ko nosaka pēc šādiem kritērijiem:\na) ekonomiskie rādītāji (piemēram, izdevumi, efektivitāte),\nb) pasažieru plūsma.\n(4) Maršrutu tīklu veido, lai apmierinātu iedzīvotāju pieprasījumu pēc sabiedriskā transporta pakalpojumiem un nodrošinātu maršrutu tīklā iespēju apmeklēt izglītības iestādes, ārstniecības iestādes, darbavietas, valsts un pašvaldību institūcijas to normālajā (vispārpieņemtajā) darba laikā.\n(5) Veidojot maršruta tīklu ārpus pilsētām, vispirms tiek nodrošināta iespēja skolēniem apmeklēt izglītības iestādes.\n(6) Maršrutu tīklu izstrādā, nodrošinot:\n1) pilsētas nozīmes pārvadājumos:\na) pilsētas centra saistību ar citām pilsētas daļām,\nb) pilsētas daļu savstarpējo saistību,\nc) pilsētas centra vai pilsētas daļu saistību ar tuvākajām apkārtējām teritorijām;\n2) reģionālajos vietējās nozīmes pārvadājumos:\na) blakus novadu savstarpējo saistību,\nb) pagasta vai pilsētas pārvaldes sasniedzamību novadā,\nc) plānošanas reģionā ietilpstošo blakus esošo novadu pilsētu savstarpēju sasniedzamību,\nd) plānošanas reģionā ietilpstošo novadu saistību ar tuvāko pilsētu plānošanas reģionā, kas neatrodas attiecīgajā novadā;\n3) reģionālajos starppilsētu nozīmes pārvadājumos:\na) Rīgas pilsētas saistību ar citu valstspilsētu,\nb) Rīgas pilsētas saistību ar novadiem, kas neatrodas Rīgas plānošanas reģionā,\nc) saistību starp novadiem un pilsētām, kas atrodas dažādos plānošanas reģionos;\n4) minimālo valsts garantēto sabiedriskā transporta pakalpojumu apjomu reģionālās nozīmes maršrutu tīkla valsts pasūtītajā daļā, kurā sabiedriskā transporta pakalpojumi tiek sniegti ar autobusiem, darbdienās:\na) novada pilsētu, kur iedzīvotāju skaits pārsniedz 5000, pilsētas centra savienojumus ar citām pilsētas daļām ar intensitāti vismaz astoņi reisi dienā. Minimālo apjomu nodrošina, ņemot vērā iedzīvotāju pieprasījumu un ekonomiskos rādītājus, ja pakalpojumu sniedzēja kalendāra gada faktiskie vai plānotie ieņēmumi (ieskaitot ieņēmumus, kas gūti, pārvadājot personas ar braukšanas maksas atvieglojumiem) veido vismaz 25 procentus no pakalpojumu sniedzēja kalendāra gada faktiskajām vai plānotajām izmaksām,\nb) novada pilsētu, kur iedzīvotāju skaits pārsniedz 5000, savienojumus ar novada pilsētām un ciemiem, kur iedzīvotāju skaits ir mazāks par 3000, ar intensitāti vismaz četri reisi dienā. Minimālo apjomu nodrošina, ņemot vērā iedzīvotāju pieprasījumu un ekonomiskos rādītājus, ja pakalpojumu sniedzēja kalendāra gada faktiskie vai plānotie ieņēmumi (ieskaitot ieņēmumus, kas gūti, pārvadājot personas ar braukšanas maksas atvieglojumiem) veido vismaz 25 procentus no pakalpojumu sniedzēja kalendāra gada faktiskajām vai plānotajām izmaksām,\nc) tuvējo novadu savstarpējos savienojumus ar intensitāti vismaz četri reisi dienā. Minimālo apjomu nodrošina, ņemot vērā iedzīvotāju pieprasījumu un ekonomiskos rādītājus, ja pakalpojumu sniedzēja kalendāra gada faktiskie vai plānotie ieņēmumi (ieskaitot ieņēmumus, kas gūti, pārvadājot personas ar braukšanas maksas atvieglojumiem) veido vismaz 25 procentus no pakalpojumu sniedzēja kalendāra gada faktiskajām vai plānotajām izmaksām,\nd) novada pagastu un centru savienojumus, kā arī novada centru savienojumus ar tuvāko novada pilsētu ar intensitāti vismaz četri reisi dienā. Minimālo apjomu nodrošina, ņemot vērā iedzīvotāju pieprasījumu un ekonomiskos rādītājus, ja pakalpojumu sniedzēja kalendāra gada faktiskie vai plānotie ieņēmumi (ieskaitot ieņēmumus, kas gūti, pārvadājot personas ar braukšanas maksas atvieglojumiem) veido vismaz 25 procentus no pakalpojumu sniedzēja kalendāra gada faktiskajām vai plānotajām izmaksām.\n(6 1 ) Šā panta sestās daļas 4. punktā minētajos savienojumu maršrutos brīvdienās minimālais valsts garantētais sabiedriskā transporta pakalpojumu apjoms var tikt samazināts, ja samazinās iedzīvotāju pieprasījums. Minimālo apjomu nodrošina, ņemot vērā iedzīvotāju pieprasījumu un ekonomiskos rādītājus, ja pakalpojumu sniedzēja kalendāra gada faktiskie vai plānotie ieņēmumi (ieskaitot ieņēmumus, kas gūti, pārvadājot personas ar braukšanas maksas atvieglojumiem) veido vismaz 25 procentus no pakalpojumu sniedzēja kalendāra gada faktiskajām vai plānotajām izmaksām.\n(6 2 ) Autotransporta direkcija izvērtē kārtējam kalendāra gadam minimālo valsts garantēto sabiedriskā transporta pakalpojumu apjomu, ņemot vērā pieejamā valsts budžeta finansējuma apjomu, šā panta trešajā un ceturtajā daļā noteiktos pakalpojumu organizēšanas principus un pakalpojumu sniedzēja faktisko vai plānoto kalendāra gada ieņēmumu (ieskaitot ieņēmumus, kas gūti vai var tikt gūti, pārvadājot personas ar braukšanas maksas atvieglojumiem) segumu pār pakalpojumu sniedzēja kalendāra gada izdevumiem, kā arī pasažieru plūsmas apjomu un sagatavo priekšlikumus Sabiedriskā transporta padomei par lietderību:\n1) samazināt šā panta sestās daļas 4. punktā minēto sabiedriskā transporta pakalpojumu intensitāti līdz diviem reisiem dienā. Ja šajos savienojumu maršrutos tiek nodrošināti skolēnu pārvadājumi, sabiedriskā transporta pakalpojumu intensitāte šajos maršrutos tiek nodrošināta ar vismaz diviem reisiem dienā;\n2) šā panta sestās daļas 4. punktā un 6. 1 daļā minētajos savienojumu maršrutos visus reisus izpildīt pēc pieprasījuma ar autobusu vai M1 kategorijas transportlīdzekli.\n(6 3 ) Ja provizoriskais minimālais valsts garantētais sabiedriskā transporta pakalpojumu apjoms kārtējam gadam pārsniedz kārtējā gada valsts budžetā paredzēto dotācijas apjomu sabiedriskā transporta pakalpojumu sniegšanai, par nepieciešamo finansējumu no valsts budžeta kārtējam gadam lemj Ministru kabinets.\n(7) Plānojot reģionālo starppilsētu nozīmes maršrutu tīkla maršrutus ar lielu pasažieru plūsmu, vispirms tiek izveidoti maršruti pa sliežu ceļiem.\n(8) (Izslēgta ar 17.12.2020 . likumu)\n(9) Organizējot sabiedriskā transporta pakalpojumus vienas administratīvās teritorijas robežās ārpus pilsētas, prioritāri ir maršrutu tīkla reģionālie starppilsētu nozīmes maršruti, ja reģionālais vietējās nozīmes maršruts pilnībā vai vairāk nekā 70 procenti no tā kopgaruma sakrīt ar daļu no reģionālā starppilsētu nozīmes maršruta.\n(10) Kārtību, kādā nosaka pieprasījumu pēc sabiedriskā transporta pakalpojumiem un nepieciešamo maršrutu tīkla apjomu, kā arī kārtību, kādā organizē sabiedriskā transporta pakalpojumus maršrutu tīklā, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "III nodaļa Sabiedriskā transporta pakalpojumu organizēšana",
+      "section": "7",
+      "title": "Maršrutu tīkla robežas",
+      "content": "(1) Ja maršrutu tīkla pilsētas nozīmes maršruts iziet ārpus pilsētas administratīvajām robežām, valstspilsētas pašvaldība un Autotransporta direkcija pēc saskaņošanas ar Sabiedriskā transporta padomi slēdz vienošanos par pilsētas un reģionālo vietējās nozīmes maršrutu tīkla robežām.\n(2) (Izslēgta no 01.01.2014. ar 21.11.2013 . likumu)\n(3) Slēdzot šā panta pirmajā daļā minēto vienošanos, tajā ietver:\n1) noteikumus par vienošanās termiņu;\n2) (izslēgts ar 06.11.2008 . likumu) ;\n3) noteikumus par sabiedriskā transporta pakalpojumu organizēšanu attiecīgajā maršrutu tīklā (maršrutā);\n4) noteikumus par pašvaldību budžeta iedalīto finanšu līdzekļu apjomu sabiedriskā transporta pakalpojumiem attiecīgajā maršrutu tīklā (maršrutā) un kārtību, kādā iesniedzami pārskati par finansējuma izlietošanu;\n5) noteikumus par vienošanās grozīšanas un izbeigšanas kārtību;\n6) noteikumus par vienošanās izpildes kontroli;\n7) noteikumus par atbildību par vienošanās neizpildi;\n8) citus noteikumus, kas izriet no sabiedriskā transporta pakalpojumu organizēšanas maršrutu tīklā (maršrutā) un pušu savstarpējām saistībām.\n(4) (Izslēgta no 01.01.2014. ar 21.11.2013 . likumu)\n(5) Valstspilsētas pašvaldība un Autotransporta direkcija katru gadu pārskata vienošanās noteikumu atbilstību valsts politikas plānošanas dokumentiem sabiedriskā transporta jomā un, ja nepieciešams, pēc saskaņošanas ar Sabiedriskā transporta padomi izdara attiecīgus grozījumus vienošanās nosacījumos.\n(6) (Izslēgta no 01.01.2014. ar 21.11.2013 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "III nodaļa Sabiedriskā transporta pakalpojumu organizēšana",
+      "section": "8",
+      "title": "Sabiedriskā transporta pakalpojumu pasūtījums",
+      "content": "(1) Pasūtītājs piešķir tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā, maršrutu tīkla daļā, maršrutā vai reisā.\n(2) Pasūtītājs sabiedriskā transporta pakalpojumu pasūtījumu organizē saskaņā ar Publisko iepirkumu likumu vai likumu, kas reglamentē koncesiju piešķiršanu, ciktāl šis likums nenosaka citādi.\n(3) Pasūtītājs var piešķirt tiesības sniegt sabiedriskā transporta pakalpojumus tieši, neievērojot šā panta otrajā daļā minēto sabiedriskā transporta pakalpojumu pasūtījuma procedūru, Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regulā (EK) Nr. 1370/2007 par sabiedriskā pasažieru transporta pakalpojumiem, izmantojot dzelzceļu un autoceļus, un ar ko atceļ Padomes regulu (EEK) Nr. 1191/69 un Padomes regulu (EEK) Nr. 1107/70 , paredzētajos gadījumos un kārtībā.\n(3 1 ) Piešķirot sabiedriskā transporta pakalpojumu sniegšanas tiesības saskaņā ar šā panta trešo daļu, pasūtītājam nav atļauts sadalīt šā panta pirmajā daļā minēto sabiedriskā transporta pakalpojumu pasūtījuma apjomu, lai izvairītos no šā panta otrajā daļā paredzētās sabiedriskā transporta pakalpojumu pasūtījuma procedūras piemērošanas.\n(3 2 ) Ja sabiedriskā transporta pakalpojumu sniegšanas tiesības pārvadātājam ir piešķirtas, pamatojoties uz šā panta trešo daļu, pārvadātājam ir aizliegts nodot apkalpošanai pasūtījuma līgumā ietverto sabiedriskā transporta pakalpojumu pasūtījuma apjomu citam pārvadātājam.\n(3 3 ) Ja pārvadātājs nesniedz sabiedriskā transporta pakalpojumus maršrutu tīkla daļā, maršrutā vai reisā un tiesības sniegt sabiedriskā transporta pakalpojumus šajā maršrutu tīkla daļā, maršrutā vai reisā pārvadātājam tika piešķirtas, pamatojoties uz šā panta trešo daļu, tad pasūtītājs jaunas tiesības sniegt sabiedriskā transporta pakalpojumus šajā maršrutu tīkla daļā, maršrutā vai reisā piešķir, pamatojoties uz šā panta otro daļu un organizējot pasūtījumu saskaņā ar Publisko iepirkumu likumu vai likumu, kas reglamentē koncesiju piešķiršanu.\n(4) (Izslēgta ar 23.05.2013 . likumu)\n(5) Viens pārvadātājs reģionālo vietējās nozīmes un reģionālo starppilsētu nozīmes maršrutu tīklā kopā drīkst apkalpot ne vairāk kā 40 procentus no šā tīkla, izņemot gadījumus, kad tiek veikti pārvadājumi pa sliežu ceļiem. Ja pārvadātājs ir noslēdzis sabiedriskā transporta pakalpojumu pasūtījuma līgumu saskaņā ar tiesību piešķiršanas procedūru, ne mazāk kā 50 procentos no maršrutu skaita sabiedriskā transporta pakalpojumus sniedz līguma slēdzējs.\n(6) Organizējot sabiedriskā transporta pakalpojumu pasūtījumu saskaņā ar šā panta otro daļu, pārvadātāji var iesniegt kopīgu sabiedriskā transporta pakalpojumu piedāvājumu.\n(7) Tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā, maršrutā vai reisā piešķir un sabiedriskā transporta pakalpojumu pasūtījuma līgumus slēdz uz termiņiem, kas paredzēti Eiropas Parlamenta un Padomes 2007.gada 23.oktobra regulā (EK) Nr. 1370/2007 par sabiedriskā pasažieru transporta pakalpojumiem, izmantojot dzelzceļu un autoceļus, un ar ko atceļ Padomes regulu (EEK) Nr. 1191/69 un Padomes regulu (EEK) Nr. 1107/70 .\n(8) (Izslēgta ar 23.05.2013 . likumu)\n(9) Sabiedriskā transporta pakalpojumus var sniegt pārvadātājs, kas normatīvajos aktos noteiktajā kārtībā ir saņēmis pasažieru pārvadājumu veicēja speciālo atļauju (licenci).\n(10) Pasūtītājs, ņemot vērā sabiedriskā transporta pakalpojumu pieprasījumu, var palielināt vai samazināt pārvadātājam piešķirto sabiedriskā transporta pakalpojumu sniegšanas tiesību apjomu noslēgtā sabiedriskā transporta pakalpojumu pasūtījuma līguma ietvaros.\n(11) Tāda lēmuma apstrīdēšana vai pārsūdzēšana, ar kuru piešķir sabiedriskā transporta pakalpojumu sniegšanas tiesības šā panta trešajā daļā minētajos gadījumos, neaptur tā darbību. Jautājumus, kas saistīti ar tāda lēmuma apstrīdēšanu un pārsūdzēšanu, ar kuru piešķir sabiedriskā transporta pakalpojumu sniegšanas tiesības šā panta otrajā daļā minētajos gadījumos, noteic attiecīgi Publisko iepirkumu likums vai likums, kas reglamentē koncesiju piešķiršanu."
+    },
+    {
+      "provision_ref": "Art. 8.1",
+      "chapter": "III nodaļa Sabiedriskā transporta pakalpojumu organizēšana",
+      "section": "8.1",
+      "title": "8. 1 pants. Sabiedriskā transporta pakalpojumi komerciālajos autobusu maršrutos",
+      "content": "(1) Komerciālos autobusu maršrutus (reisus) Autotransporta direkcija veido, izvērtējot autobusu un dzelzceļa pārvadājumu intensitāti, pakalpojuma pieejamību un pieejamo valsts budžeta finansējumu. Informācija par izveidotiem komerciālajiem autobusu maršrutiem (reisiem) tiek publicēta Autotransporta direkcijas tīmekļvietnē. Reģionālās nozīmes maršrutos, kuros tiek veikti dzelzceļa pārvadājumi, pakalpojuma pasūtījums primāri tiek nodrošināts reģionālās nozīmes dzelzceļa pārvadājumu ietvaros un reģionālās nozīmes autobusu maršrutus (reisus) veido kā tādus, kas papildina dzelzceļa pārvadājumus.\n(2) Komerciālajā autobusu maršrutā (reisā) tiesības sniegt pakalpojumu tiek piešķirtas, izsniedzot maršruta atļauju. Maršruta atļauju Autotransporta direkcija izsniedz, izdarot ierakstu tās uzturētajā autopārvadātāju informatīvajā datubāzē un nenoformējot atsevišķu rakstveida lēmumu. Vienlaikus informāciju par maršruta atļaujas izsniegšanu un maršruta atļaujas izmantošanas nosacījumiem publicē Autotransporta direkcijas tīmekļvietnē un nosūta uz pārvadātāja iesniegumā norādīto elektroniskā pasta adresi. Maršruta atļauju izsniedz uz trim gadiem.\n(3) Maršruta atļauju ir tiesīgs saņemt pārvadātājs, kurš atbilst šādām prasībām:\n1) tas ir reģistrēts kādā Eiropas Savienības dalībvalstī atbilstoši komersanta reģistrācijas valsts normatīvo aktu prasībām;\n2) tam nav nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parādu, kuru kopsumma pārsniedz likumā \" Par nodokļiem un nodevām \" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;\n3) tas ir izpildījis visas Patērētāju tiesību aizsardzības centram rakstveidā iesniegtās apņemšanās novērst konstatētos pārkāpumus un visus tam Patērētāju tiesību aizsardzības centra piemērotos lēmumus.\n(4) Maršruta atļauja konkrētā komerciālā autobusu maršruta (reisa) apkalpošanai tiek piešķirta ikvienam pārvadātājam, kurš izpilda Ministru kabineta noteikumos noteiktās prasības attiecībā uz pakalpojuma sniegšanu, transportlīdzekļu vecumu, aprīkojumu un biļešu iegādes iespējām.\n(5) Maršruta atļauju aptur uz laiku vai anulē, ja:\n1) pārvadātājs iesniedzis iesniegumu maršruta atļaujas anulēšanai;\n2) pārvadātāja darbībā konstatēts būtisks autopārvadājumu jomu regulējošu normatīvo aktu pārkāpums vai pārvadātājs neievēro maršruta atļaujas izmantošanas nosacījumus;\n3) pārvadātāja nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parādu kopsumma pārsniedz likumā \" Par nodokļiem un nodevām \" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;\n4) pārvadātājs nav izpildījis visas Patērētāju tiesību aizsardzības centram rakstveidā iesniegtās apņemšanās novērst konstatētos pārkāpumus un visus tam Patērētāju tiesību aizsardzības centra piemērotos lēmumus.\n(6) Ministru kabinets nosaka:\n1) prasības attiecībā uz pakalpojumu sniegšanai komerciālajos autobusu maršrutos (reisos) izmantojamo transportlīdzekļu vecumu un aprīkojumu, pakalpojuma sniegšanu komerciālajā autobusu maršrutā (reisā) un biļešu tirdzniecību;\n2) Autotransporta direkcijā maršruta atļaujas saņemšanai iesniedzamā pieteikuma formu un tajā sniedzamās informācijas apjomu.\n(7) Autotransporta direkcijas lēmumu par maršruta atļaujas piešķiršanu, apturēšanu uz laiku vai anulēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma par maršruta atļaujas apturēšanu vai anulēšanu apstrīdēšana vai pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Sabiedriskā transporta pakalpojumu organizēšana",
+      "section": "9",
+      "title": "Sabiedriskā transporta pakalpojumu pasūtījums",
+      "content": "(Izslēgts ar 06.11.2008 . likumu, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "IV nodaļa Pasažieru pārvadājumu finansēšana",
+      "section": "10",
+      "title": "Pasažieru pārvadājumu finansēšanas apmērs",
+      "content": "(1) Pārvadātājam radušos zaudējumus un izdevumus, kas saistīti ar sabiedriskā transporta pakalpojumu sniegšanu, kompensē atbilstoši šā likuma 11. un 12.panta prasībām.\n(2) (Izslēgta ar 06.11.2008 . likumu.)\n(3) Šā likuma izpratnē zaudējumi ir arī maksa par pakalpojumu, ja pasūtītājs sabiedriskā transporta pakalpojumu pasūtījumu organizējis saskaņā ar Publisko iepirkumu likumu .\n(4) (Izslēgta ar 06.11.2008 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa Pasažieru pārvadājumu finansēšana",
+      "section": "11",
+      "title": "Pārvadātāja zaudējumi",
+      "content": "(1) Ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus pārvadātājam kompensē atbilstoši apmēram un kārtībai, ko nosaka Ministru kabinets. Šos zaudējumus kompensē no:\n1) no valsts budžetā šim mērķim paredzētajiem līdzekļiem —reģionālo starppilsētu nozīmes maršrutu tīkla maršrutos;\n2) no valsts budžetā šim mērķim paredzētajiem līdzekļiem — reģionālo vietējās nozīmes maršrutu tīkla maršrutos;\n3) (izslēgts ar 21.11.2013 . likumu) ;\n4) no pašvaldību budžetos šim mērķim paredzētajiem līdzekļiem — pilsētas nozīmes maršrutu tīkla maršrutos;\n5) no valsts budžetā šim mērķim paredzētajiem līdzekļiem — pilsētas nozīmes maršrutu tīkla maršrutos — normatīvajos aktos noteiktajos gadījumos;\n6) no pašvaldību budžetos šim mērķim paredzētajiem līdzekļiem — reģionālās nozīmes vai pilsētas nozīmes maršrutu tīkla maršrutos līgumā par sabiedriskā transporta pakalpojumu sniegšanu paredzētajos gadījumos un apjomā.\n(2) Ministru kabinets nosaka kārtību, kādā:\n1) nosaka un aprēķina pārvadātāju zaudējumus, kā arī pārvadātājiem kompensē ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus un kontrolē šo līdzekļu izmantošanas tiesiskumu un pareizību;\n2) pašvaldībām no valsts budžeta nosaka un aprēķina finansējumu zaudējumu kompensēšanai pārvadātājiem, kā arī pašvaldībām no valsts budžeta piešķir finansējumu zaudējumu kompensēšanai pārvadājumos, kas saistīti ar sabiedriskā transporta pakalpojumu sniegšanu, un kontrolē šo līdzekļu izmantošanas tiesiskumu un pareizību;\n3) (izslēgts no 01.01.2014. ar 21.11.2013 . likumu) .\n(2 1 ) Slēdzot trīspusējo publisko tiesību līgumu ar pasūtītāju un pakalpojumu sniedzēju par pakalpojumu sniegšanu maršrutu tīkla maršrutos (reisos), pašvaldība var līdzfinansēt ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus reģionālās nozīmes vai pilsētas nozīmes maršrutu tīkla dotētajos maršrutos (reisos). Ministru kabinets nosaka pašvaldības līdzfinansējuma aprēķināšanas metodiku un kritērijus, atbilstoši kuriem pašvaldība ir tiesīga līdzfinansēt ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus reģionālās nozīmes vai pilsētas nozīmes maršrutu tīkla dotētajos maršrutos (reisos).\n(3) Tāda lēmuma apstrīdēšana vai pārsūdzēšana, kas pieņemts sakarā ar to zaudējumu un izdevumu kompensēšanu, kuri pārvadātājam radušies saistībā ar sabiedriskā transporta pakalpojumu sniegšanu maršrutu tīkla maršrutos, neaptur šā lēmuma darbību vai tā izpildi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa Pasažieru pārvadājumu finansēšana",
+      "section": "12",
+      "title": "Pārvadātāja izdevumi",
+      "content": "(1) Ja sabiedriskā transporta pakalpojumiem valsts nosaka minimālās kvalitātes prasības, kuras pārvadātājs, darbojoties komerciālos nolūkos, neieviestu un kuru ieviešana tam rada papildu izdevumus, pārvadātājam ir tiesības prasīt no valsts visu šo izdevumu kompensēšanu.\n(2) Šā panta pirmajā daļā minētos izdevumus kompensē pārvadātājiem, kuri sniedz sabiedriskā transporta pakalpojumus sabiedriskā transporta pakalpojumu pasūtījuma ietvaros, ja minimālās kvalitātes prasības tiek noteiktas pēc sabiedriskā transporta pakalpojumu sniegšanas uzsākšanas.\n(3) Kārtību, kādā nosaka, aprēķina un pārvadātājam kompensē šā panta pirmajā daļā minētos izdevumus un piešķir pašvaldībām finansējumu no valsts budžeta šā panta pirmajā daļā minēto izdevumu segšanai, kā arī kontrolē šo līdzekļu izmantošanas tiesiskumu un pareizību, nosaka Ministru kabinets.\n(4) Sabiedriskā transporta pakalpojumu sniedzējiem komerciālajos autobusu maršrutos vai komerciālajos dzelzceļa maršrutos ir tiesības prasīt, lai valsts tiem kompensē izdevumus par pārvadātajiem pasažieriem, kuri izmanto Ministru kabineta noteikumos noteiktos braukšanas maksas atvieglojumus. Kārtību, kādā nosaka, aprēķina un pārvadātājiem komerciālajos autobusu maršrutos un komerciālajos dzelzceļa maršrutos kompensē izdevumus par pārvadātajiem pasažieriem, kuri izmanto Ministru kabineta noteikumos noteiktos braukšanas maksas atvieglojumus, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "13",
+      "title": "Sabiedriskā transporta pakalpojumu sniegšana un izmantošana",
+      "content": "(1) Sabiedriskā transporta pakalpojumus sniedz šā likuma 6.panta pirmajā daļā minētajā maršrutu tīklā.\n(2) Sabiedriskā transporta pakalpojumus maršrutu tīklā, maršrutā vai reisā sniedz uz sabiedriskā transporta pakalpojumu pasūtījuma līguma pamata, maršruta atļaujas pamata komerciālajos autobusu pārvadājumos vai bez maršruta atļaujas komerciālajos dzelzceļa pārvadājumos.\n(3) Ja ar sabiedriskā transporta pakalpojumu sniegšanu maršrutu tīklā saistīto pakalpojumu (piemēram, braukšanas biļešu tirdzniecība, informācijas sniegšana) sniedzējs vienlaikus nav pārvadātājs, ar kuru noslēgts sabiedriskā transporta pakalpojumu pasūtījuma līgums, kurā attiecīgo pakalpojumu sniegšana jau ir noteikta, šos pakalpojumus sniedz saskaņā ar šā likuma 17.pantā minēto līgumu, kas noslēgts starp pasūtītāju un attiecīgā pakalpojuma sniedzēju.\n(4) Ar sabiedriskā transporta pakalpojumu sniegšanu maršrutu tīklā saistītos pakalpojumus sniedz vienotā sistēmā, kuras izveidošanas, uzturēšanas un attīstīšanas kārtību nosaka Ministru kabinets.\n(5) Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtību nosaka Ministru kabinets.\n(6) Pasažieris sabiedriskā transporta pakalpojumus maršrutu tīklā izmanto uz regulāro pasažieru pārvadājumu līguma pamata, saskaņā ar kuru pārvadātājs apņemas par noteiktu samaksu aizvest pasažieri līdz viņa izraudzītajai pieturai attiecīgajā maršrutā, bet pasažieris apņemas samaksāt par sabiedriskā transporta pakalpojumu.\n(7) Regulāro pasažieru pārvadājumu līgums stājas spēkā brīdī, kad pasažieris uzsāk sabiedriskā transporta pakalpojumu izmantošanu (iekāpj sabiedriskajā transportlīdzeklī). Biļete apliecina, ka pasažieris ir samaksājis par pārvadātāja sniegto sabiedriskā transporta pakalpojumu. Biļešu tirdzniecība reģionālās nozīmes maršrutu tīkla dotētajos maršrutos (reisos) notiek, izmantojot vienotu sabiedriskā transporta biļešu sistēmu.\n(8) Par sabiedriskā transporta pakalpojumu izmantošanu bez samaksas vai braukšanai derīgas biļetes pasažieris maksā pārvadātājam līgumsodu.\n(9) Līgumsoda maksimālo apmēru un piemērošanas kārtību nosaka Ministru kabinets. Līgumsoda apmēru nosaka pārvadātājs.\n(10) Pārvadātājs ir tiesīgs veikt regulāro pasažieru pārvadājumu līguma (biļešu un citu braukšanas tiesības apliecinošu dokumentu) kontroli.\n(11) Pārvadātājam ir pienākums informēt pasažierus par braukšanas maksu un līgumsoda apmēru, kā arī par citiem būtiskiem sabiedriskā transporta pakalpojumu izmantošanas noteikumiem viegli uztveramā veidā, minētos noteikumus novietojot pasažierim redzamā vietā.\n(12) Pasažierim ir tiesības izmantot pārvadātāja sniegtos sabiedriskā transporta pakalpojumus saskaņā ar regulāro pasažieru pārvadājumu līgumu.\n(13) Pasažierim ir pienākums ievērot regulāro pasažieru pārvadājumu līguma noteikumus un citus sabiedriskā transporta pakalpojumu nozari reglamentējošos normatīvajos aktos minētos sabiedriskā transporta pakalpojumu izmantošanas noteikumus.\n(14) Pasūtītājs, ņemot vērā īpašus apstākļus (piemēram, svētku un svinamās dienas, pasažieru plūsmu, laikapstākļus u.c.), var noteikt īslaicīgu izņēmumu no šajā likumā un citos normatīvajos aktos paredzētās sabiedriskā transporta pakalpojumu izmantošanas kārtības."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "14",
+      "title": "Braukšanas maksas atvieglojumi maršrutu tīkla maršrutos",
+      "content": "(1) Pasažieris ir tiesīgs izmantot normatīvajos aktos noteiktos braukšanas maksas atvieglojumus maršrutu tīkla maršrutos. Pavadonis, kuram ir tiesības izmantot braukšanas maksas atvieglojumus maršrutu tīkla maršrutos, nevar būt jaunāks par 13 gadiem.\n(2) Ministru kabinets nosaka pasažieru kategorijas, kuras ir tiesīgas izmantot braukšanas maksas atvieglojumus maršrutu tīkla maršrutos, kā arī šo atvieglojumu izmantošanas kārtību un apmēru.\n(2 1 ) Lai nodrošinātu sabiedriskā transporta pakalpojumu pieejamību un iedzīvotāju mobilitāti reģionālās nozīmes maršrutu tīkla maršrutos (reisos), pasūtītājs, izvērtējot apdzīvotības blīvumu, iedzīvotāju pieprasījumu pēc sabiedriskā transporta pakalpojumiem, sabiedriskā transporta pakalpojumu pieejamību un sabiedriskā transporta pakalpojumu nodrošināšanai nepieciešamā valsts finansējuma apmēru, ir tiesīgs noteikt, ka sabiedriskā transporta pakalpojumi šajos maršrutos (reisos) pasažieriem tiek sniegti bez maksas. Ministru kabinets nosaka kritēriju kvantitatīvos rādītājus un kritēriju noteikšanas metodiku to reģionālās nozīmes maršrutu (reisu) noteikšanai, kuros sabiedriskā transporta pakalpojumus sniedz bez maksas.\n(3) Pašvaldībām ir tiesības noteikt braukšanas maksas atvieglojumus savā administratīvajā teritorijā, ja ar šo braukšanas maksas atvieglojumu noteikšanu pārvadātājam radītos zaudējumus pilnībā kompensē no pašvaldības budžeta. Nosakot braukšanas maksas atvieglojumus, par vienīgo kritēriju nedrīkst izmantot personas deklarēto dzīvesvietu.\n(4) Ja vienai personai ir vairāki sociālie statusi, kas dod tiesības izmantot braukšanas maksas atvieglojumus reģionālās nozīmes maršrutu tīkla maršrutos (reisos), Autotransporta direkcija braukšanas maksas atvieglojumu saņēmēju informācijas sistēmā veic atzīmi, ka braukšanas maksas atvieglojumu apmēra noteikšanai tiek izmantots tas personas sociālais statuss, kurš tai paredz lielāku vai izmantošanas ziņā plašāku braukšanas maksas atvieglojuma apmēru."
+    },
+    {
+      "provision_ref": "Art. 14.1",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "14.1",
+      "title": "14. 1 pants. Braukšanas maksas atvieglojumu saņēmēju informācijas sistēma",
+      "content": "(1) Autotransporta direkcija informācijas apstrādi par pasažieriem, kuriem ir tiesības izmantot normatīvajos aktos noteiktos braukšanas maksas atvieglojumus, veic valsts noteikto braukšanas maksas atvieglojumu saņēmēju informācijas sistēmā (turpmāk — informācijas sistēma). Informācijas apstrādes mērķis ir valsts noteikto braukšanas maksas atvieglojumu administrēšana, kā arī informācijas apkopošana par personu braukšanas maksas atvieglojumu izmantošanai aktuālajiem identifikācijas līdzekļiem.\n(2) Informāciju, tostarp personas datus, kas apliecina personas tiesības izmantot braukšanas maksas atvieglojumus, iekļaušanai informācijas sistēmā Autotransporta direkcijai bez atlīdzības sniedz Veselības un darbspēju ekspertīzes ārstu valsts komisija, Valsts bērnu tiesību aizsardzības inspekcija, Sabiedrības integrācijas fonds un Pilsonības un migrācijas lietu pārvalde.\n(2 1 ) Pilsonības un migrācijas lietu pārvalde sniedz Autotransporta direkcijai iekļaušanai informācijas sistēmā informāciju par valsts noteikto braukšanas maksas atvieglojumu izmantošanai aktuālajiem personu identifikācijas līdzekļiem — personu apliecinošiem dokumentiem.\n(2 2 ) Pasažieru kategorijas, kuru braukšanas maksas atvieglojumi tiek kompensēti no valsts budžeta, piešķirtos braukšanas maksas atvieglojumus izmanto, elektroniski identificējoties ar personas apliecību, kas papildināta ar speciālu funkcionalitāti (lietotni). Pilsētas nozīmes maršrutos to personu identifikācijai, kuru braukšanas maksas atvieglojumi tiek kompensēti no valsts budžeta, var tikt izmantoti arī valstspilsētas pašvaldības noteiktie elektroniskās identifikācijas līdzekļi.\n(3) Tiesības saņemt un izmantot informācijas sistēmā iekļauto informāciju papildus šā panta pirmajā daļā minētajam ir arī valstspilsētu pašvaldībām, lai nodrošinātu to braucienu elektronisku uzskaiti, kurus pilsētas nozīmes maršrutos veikuši pasažieri ar valsts noteiktiem braukšanas maksas atvieglojumiem. Lai pamatotu valsts budžeta līdzekļu kompensācijas pieprasījumu, pašvaldības iesniedz informācijas sistēmā datus par elektroniskās braucienu uzskaites sistēmās identificēto valsts noteikto braukšanas maksas atvieglojumu saņēmēju braucieniem.\n(3 1 ) Tiesības saņemt un apstrādāt informāciju par braukšanas maksas atvieglojumu izmantošanai aktuālajiem identifikācijas līdzekļiem papildus šā panta pirmajā daļā minētajam ir pārvadātājam un biļešu tirgotājam, lai nodrošinātu personu ar braukšanas maksas atvieglojumiem veikto braucienu identifikāciju sabiedriskajos transportlīdzekļos un sabiedriskā transporta biļešu tirdzniecības vietās. Pārvadātājs iesniedz informācijas sistēmā informāciju par elektroniskās uzskaites sistēmas identificēto valsts noteikto braukšanas maksas atvieglojumu saņēmēju braucieniem.\n(4) Informācijas sistēmā iekļautos datus glabā trīs gadus pēc tam, kad persona, kurai ir bijušas tiesības izmantot braukšanas maksas atvieglojumus maršrutu tīkla maršrutos, ir zaudējusi attiecīgo sociālo statusu. Pēc minētā termiņa beigām personas dati sistēmā tiek dzēsti.\n(5) Informācijas sistēmas un personas datu apstrādes pārzinis ir Autotransporta direkcija.\n(6) Ministru kabinets nosaka informācijas sistēmas izveidošanas, uzturēšanas un izmantošanas kārtību, informācijas sistēmā iekļaujamo datu apjomu, datu iekļaušanas un saņemšanas kārtību, piekļuves nodrošināšanas kārtību, kā arī iekļauto datu apstrādes kārtību."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "15",
+      "title": "Sabiedriskā transporta pakalpojumu pasūtījuma līgums",
+      "content": "Papildus šā likuma 3.panta trešajā daļā minētajā regulā, Publisko iepirkumu likumā vai likumā, kas reglamentē koncesiju piešķiršanu, un citos sabiedriskā transporta pakalpojumu nozari reglamentējošos normatīvajos aktos noteiktajam sabiedriskā transporta pakalpojumu pasūtījuma līgumā var paredzēt:\n1) biļešu tirdzniecības noteikumus;\n2) noteikumus par informācijas sniegšanu par sabiedriskā transporta pakalpojumiem;\n3) maršrutu apkalpes vietu vai infrastruktūras izmantošanas noteikumus;\n4) noteikumus par grozījumu izdarīšanu maršrutu tīklā (maršrutā);\n5) personu priekšlikumu, iesniegumu un sūdzību izskatīšanas kārtību;\n6) kārtību, kādā pasūtītājam tiek sniegta informācija par saņemtajiem pasažieru priekšlikumiem, iesniegumiem un sūdzībām un to izskatīšanu;\n7) noteikumus par līguma izpildes kontroli;\n8) citus noteikumus, kas izriet no sabiedriskā transporta pakalpojumu sniegšanas maršrutu tīklā (maršrutā) un pušu savstarpējām saistībām."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "16",
+      "title": "Sabiedriskā transporta pakalpojumu tarifi",
+      "content": "(1) Sabiedriskā transporta pakalpojumu sniedzējs ir administratīvi un ekonomiski neatkarīgs, nosakot pakalpojuma tarifu.\n(2) Sabiedriskā transporta pakalpojumu sniedzējs, kas sniedz sabiedriskā transporta pakalpojumus maršrutu tīkla dotētajos maršrutos (reisos), pakalpojuma tarifu nosaka saskaņā ar Ministru kabineta apstiprināto tarifu aprēķināšanas metodiku sabiedriskā transporta pakalpojumiem.\n(3) Piešķirot tiesības sniegt sabiedriskā transporta pakalpojumu maršrutu tīkla dotētajos maršrutos (reisos), pasūtītājs ir tiesīgs noteikt pakalpojuma tarifu, pilnībā uzņemoties zaudējumu segšanas finansiālās saistības."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "17",
+      "title": "Līgums par pakalpojumu sniegšanu maršrutu tīklā (maršrutā)",
+      "content": "(1) Lai nodrošinātu šā likuma 13.panta trešajā daļā minētos ar sabiedriskā transporta pakalpojumu sniegšanu maršrutu tīklā saistītos pakalpojumus, atbilstoši normatīvajiem aktiem tiek slēgts līgums par pakalpojumu sniegšanu maršrutu tīklā (maršrutā).\n(2) Līgumā par pakalpojumu sniegšanu maršrutu tīklā (maršrutā) paredz:\n1) līguma darbības termiņu;\n2) līguma priekšmetu;\n3) noteikumus par pakalpojuma sniegšanas kvalitāti;\n4) noteikumus par maksu par pakalpojumu sniegšanu maršrutu tīklā (marš­rutā);\n5) noteikumus par pakalpojuma tarifu;\n6) noteikumus par līguma izpildes kontroli;\n7) līguma grozīšanas un izbeigšanas kārtību;\n8) atbildību par līguma neizpildi;\n9) personu priekšlikumu, iesniegumu un sūdzību izskatīšanas kārtību;\n10) kārtību, kādā pasūtītājam tiek sniegta informācija par pakalpojuma saņēmēja priekšlikumiem, iesniegumiem un sūdzībām un to izskatīšanu;\n11) citus noteikumus, kas izriet no pušu savstarpējām saistībām."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "18",
+      "title": "Pārvadātājam piemērojamie īpašie autotransporta līdzekļu iepirkumu noteikumi",
+      "content": "(1) Pārvadātājs, kas nav pasūtītājs Publisko iepirkumu likuma izpratnē vai sabiedrisko pakalpojumu sniedzējs Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma izpratnē:\n1) pērkot sabiedriskos autotransporta līdzekļus, kurus izmanto sabiedriskā transporta pakalpojumu sniegšanā, ņem vērā to ekspluatācijas ietekmi uz enerģētiku un vidi un izvērtē vismaz enerģijas patēriņu un oglekļa dioksīda, slāpekļa oksīdu, metānu nesaturošo ogļūdeņražu un cieto daļiņu emisiju apjomu, kā arī attiecīgā transportlīdzekļa dzīves cikla izmaksu ekonomisko pamatojumu;\n2) pērkot jaunus sabiedriskos autotransporta līdzekļus, kurus izmanto sabiedriskā transporta pakalpojumu sniegšanā, var ņemt vērā autotransporta līdzekļa dzinēja spēju izmantot elektroenerģiju, fosilās un biodegvielas maisījumus ar paaugstinātu biodegvielas saturu (ar biodegvielas saturu virs 10 procentiem) vai tīru biodegvielu, ja šāda autotransporta izmantošana ir tehniski iespējama un ekonomiski lietderīga.\n(2) Šā panta pirmajā daļā minētās prasības pārvadātājs piemēro to sabiedrisko autotransporta līdzekļu iepirkumiem, kuru paredzamā līgumcena ir vienāda ar Ministru kabineta noteikto līgumcenas robežu vai lielāka. Līgumcenas robežu Ministru kabinets nosaka, pamatojoties uz Eiropas Savienības tiesību aktiem attiecībā uz līgumcenu robežām, kas jāievēro sabiedrisko pakalpojumu sniedzējiem Sabiedrisko pakalpojumu sniedzēju iepirkumu likuma izpratnē. Ministru kabinets nosaka minēto līgumcenu robežu vismaz reizi divos gados mēneša laikā pēc tam, kad Eiropas Komisija Eiropas Savienības Oficiālajā Vēstnesī ir paziņojusi attiecīgās līgumcenu robežas.\n(3) Ministru kabinets nosaka kārtību, kādā:\n1) pārvadātājs novērtē sabiedrisko autotransporta līdzekļu ekspluatācijas ietekmi uz enerģētiku un vidi un izvērtē enerģijas patēriņu un oglekļa dioksīda, slāpekļa oksīdu, metānu nesaturošo ogļūdeņražu un cieto daļiņu emisiju apjomu;\n2) pārvadātājs, pērkot sabiedriskos autotransporta līdzekļus, kurus izmanto sabiedriskā transporta pakalpojumu sniegšanā, aprēķina paredzamo līgumcenu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "19",
+      "title": "Vienotā sabiedriskā transporta biļešu sistēma",
+      "content": "(1) Autotransporta direkcija izveido un uztur vienotu sabiedriskā transporta biļešu sistēmu biļešu tirdzniecības nodrošināšanai tiešsaistē visās sabiedriskā transporta biļešu tirdzniecības vietās. Vienotajā sabiedriskā transporta biļešu sistēmā organizē un nodrošina pasažieriem sabiedriskā transporta biļešu iegādes un rezervēšanas iespējas transportlīdzekļos un biļešu kasēs, kā arī pārvadātājiem un biļešu tirdzniecības pakalpojumu sniedzējiem informāciju par biļešu tirdzniecībā pieejamo un pārdoto biļešu veidu, skaitu, braukšanas maksu un citiem nosacījumiem, kas noteikti saskaņā ar normatīvajiem aktiem, sabiedriskā transporta pakalpojumu pasūtījuma līgumiem un šā likuma 17. pantā minētajiem līgumiem.\n(2) Piekļuvi un tiesības izmantot vienoto sabiedriskā transporta biļešu sistēmu biļešu tirdzniecības veikšanai piešķir Autotransporta direkcija. Piekļuve vienotajai sabiedriskā transporta biļešu sistēmai tiek piešķirta:\n1) pārvadātājiem, kuriem ir piešķirtas tiesības sniegt sabiedriskā transporta pakalpojumus reģionālās nozīmes maršrutu tīkla dotētajos maršrutos (reisos) un uz komerciāliem principiem, biļešu tirdzniecībai uz attiecīgā pārvadātāja apkalpotajiem maršrutiem (reisiem) un vienoto biļešu tirdzniecībai;\n2) reģistrētām autoostām, kuras saskaņā ar normatīvajiem aktiem nodrošina biļešu tirdzniecību, biļešu tirdzniecību uz autobusu reisiem, kurus apkalpo attiecīgā autoosta, un vienoto biļešu tirdzniecību;\n3) biļešu tirdzniecības pakalpojuma sniedzējam, kurš uz komerciāliem principiem nodrošina biļešu tirdzniecību uz visiem autobusu un vilcienu reisiem un vienoto biļešu tirdzniecību.\n(3) Autotransporta direkcija piešķir piekļuvi vienotajai sabiedriskā transporta biļešu sistēmai biļešu tirdzniecības pakalpojuma sniedzējam, kuram netiek piešķirta šā panta otrajā daļā minētā automātiskā piekļuve vienotajai sabiedriskā transporta biļešu sistēmai, ja tas atbilst šādām prasībām:\n1) tas ir reģistrēts kādā Eiropas Savienības dalībvalstī atbilstoši komersanta reģistrācijas valsts normatīvo aktu prasībām;\n2) tam nav nodokļu, nodevu un citu valsts noteikto obligāto maksājumu parādu, kuru kopsumma pārsniedz likumā \" Par nodokļiem un nodevām \" noteikto nodokļu (nodevu) parāda kopsummu, no kuras sākot nodokļu administrācija nodrošina publisku informācijas pieejamību;\n3) tas ir izpildījis visas Patērētāju tiesību aizsardzības centram rakstveidā iesniegtās apņemšanās novērst konstatētos pārkāpumus un visus tam Patērētāju tiesību aizsardzības centra piemērotos lēmumus;\n4) tas ir noslēdzis šā panta sestajā daļā minēto līgumu un nodrošina biļešu tirdzniecību visiem autobusu un vilcienu reisiem, tostarp vienoto biļešu (biļetes, kas apliecina tiesības izmantot sabiedrisko transportlīdzekli vairākos pārvadājumu veidos) tirdzniecību.\n(4) Autotransporta direkcija piekļuvi vienotajai sabiedriskā transporta biļešu sistēmai biļešu tirdzniecības pakalpojuma sniedzējam anulē, ja:\n1) ir saņemts biļešu tirdzniecības pakalpojuma sniedzēja iesniegums par piekļuves anulēšanu;\n2) ir konstatēts, ka biļešu tirdzniecības pakalpojuma sniedzējs neveic norēķinus ar pārvadātāju par pārdotajām biļetēm;\n3) ir konstatēts, ka biļešu tirdzniecības pakalpojuma sniedzējs nenodrošina biļešu tirdzniecību visiem autobusu un vilcienu reisiem, tostarp vienoto biļešu (biļetes, kas apliecina tiesības izmantot sabiedrisko transportlīdzekli vairākos pārvadājumu veidos) tirdzniecību;\n4) biļešu tirdzniecības pakalpojuma sniedzēja darbībā ir konstatēti būtiski sabiedriskā transporta nozari un komercdarbību reglamentējošu normatīvo aktu pārkāpumi.\n(5) Autotransporta direkcija šā panta otrajā daļā minētajām personām piešķirto piekļuvi vienotajai sabiedriskā transporta biļešu sistēmai anulē, ja:\n1) tiek izbeigts ar pārvadātāju noslēgtais līgums, ar kuru tika piešķirtas tiesības sniegt sabiedriskā transporta pakalpojumus reģionālās nozīmes maršrutu tīkla dotētajos maršrutos (reisos);\n2) autoostai tiek anulēta vai apturēta reģistrācija vai ja saskaņā ar normatīvajos aktos noteikto regulējumu autoostas obligāti sniedzamo pakalpojumu klāstā netiek iekļauta biļešu tirdzniecība;\n3) dzelzceļa stacijās esošās biļešu tirdzniecības kases nenodrošina biļešu tirdzniecību iekšzemes dzelzceļa maršrutiem.\n(6) Biļešu tirdzniecības pakalpojuma sniedzējs un pārvadātājs slēdz līgumu ar visiem pārvadātājiem, attiecībā uz kuru veiktajiem pārvadājumiem biļetes tiek tirgotas vienotajā sabiedriskā transporta biļešu sistēmā. Līgumā tiek ietverti nosacījumi par savstarpējo norēķinu kārtību un regularitāti, biļešu anulēšanas un atgriešanas kārtību un citi būtiski nosacījumi.\n(7) Autotransporta direkcija piekļuvi vienotajai sabiedriskā transporta biļešu sistēmai biļešu tirdzniecības pakalpojuma sniedzējam nepiešķir, ja tam ir spēkā esošs ar Autotransporta direkciju noslēgts iepirkuma līgums par vienotas sabiedriskā transporta biļešu sistēmas izveidošanu un uzturēšanu. Autotransporta direkcija ir tiesīga piešķirt piekļuvi vienotajai sabiedriskā transporta biļešu sistēmai biļešu tirdzniecības pakalpojuma sniedzējam trīs gadus pēc iepirkuma līguma par vienotas sabiedriskā transporta biļešu sistēmas izveidošanu un uzturēšanu termiņa beigām.\n(8) Biļešu tirdzniecība sabiedriskajos transportlīdzekļos tiek nodrošināta attiecīgā pārvadātāja apkalpotajiem maršrutiem (reisiem). Autoostas kasē pakalpojumu sniedzējs nodrošina biļešu tirdzniecību autobusu reisiem, kurus apkalpo attiecīgā autoosta. Dzelzceļa stacijās esošajās biļešu tirdzniecības kasēs, kurās tiek nodrošināta biļešu tirdzniecība tikai iekšzemes dzelzceļa maršrutiem, tiek pārdotas biļetes uz visiem vilcienu reisiem. Citi biļešu tirdzniecības pakalpojuma sniedzēji biļešu tirdzniecību nodrošina visiem autobusu un vilcienu reisiem, tostarp arī vienoto biļešu (biļetes, kas apliecina tiesības izmantot sabiedrisko transportlīdzekli vairākos pārvadājumu veidos) tirdzniecību.\n(9) Autotransporta direkcija nodrošina, ka vienotajā sabiedriskā transporta biļešu sistēmā biļešu tirdzniecības pakalpojuma sniedzēja pārdodamajām biļetēm tiek noteikta cena, kas ir par 10 procentiem zemāka nekā tām biļetēm noteiktā cena, kuras tiek pārdotas sabiedriskajā transportlīdzeklī, autoostā vai dzelzceļa stacijā esošā biļešu tirdzniecības kasē, kurā tiek pārdotas biļetes tikai uz iekšzemes dzelzceļa maršrutiem. Papildus Autotransporta direkcijas noteiktajai biļetes cenai biļešu tirdzniecības pakalpojuma sniedzējs ir tiesīgs piemērot biļešu tirdzniecības pakalpojuma maksu, nodrošinot, ka kopējā biļetes galīgā cena ir zemāka par tām biļetēm noteikto cenu, kuras tiek pārdotas sabiedriskajā transportlīdzeklī, autoostā vai dzelzceļa stacijā esošā biļešu tirdzniecības kasē, kurā tiek pārdotas biļetes tikai uz iekšzemes dzelzceļa maršrutiem."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn1",
+      "title": "1. Šo likumu piemēro sabiedriskā transporta pakalpojumu sniegšanai pēc 2008.gada 1.janvāra.",
+      "content": "1. Šo likumu piemēro sabiedriskā transporta pakalpojumu sniegšanai pēc 2008.gada 1.janvāra."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn2",
+      "title": "2. Līdz 2007.gada 31.decembrim sniedzamo sabiedriskā transporta pakalpojumu rajonu, tālsatiksmes autobusu un dzelzceļa maršrutu tīklā (maršrutos) organizēšana un sniegšana notiek atbilstoši nozaru likumiem.",
+      "content": "2. Līdz 2007.gada 31.decembrim sniedzamo sabiedriskā transporta pakalpojumu rajonu, tālsatiksmes autobusu un dzelzceļa maršrutu tīklā (maršrutos) organizēšana un sniegšana notiek atbilstoši nozaru likumiem."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn3",
+      "title": "3. Republikas pilsētu un rajonu pašvaldības līdz 2007.gada 1.septembrim noslēdz šā likuma 7.pantā minētās vienošanās par maršrutu tīkla robežām.",
+      "content": "3. Republikas pilsētu un rajonu pašvaldības līdz 2007.gada 1.septembrim noslēdz šā likuma 7.pantā minētās vienošanās par maršrutu tīkla robežām."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn4",
+      "title": "4. Pārvadātājiem līdz šā likuma spēkā stāšanās dienai piešķirtās tiesības sniegt sabiedriskā transporta pakalpojumus ir spēkā līdz piešķirto tiesību termiņa beigām, bet ne ilgāk kā līdz 2007.gada 31.decembrim. Institūcijas, kas piešķir tiesības sniegt sabiedriskā transporta pakalpojumus, piešķirot jaunas pakalpojumu sniegšanas tiesības, tās var piešķirt uz termiņu, kas nepārsniedz šajā punktā norādīto.",
+      "content": "4. Pārvadātājiem līdz šā likuma spēkā stāšanās dienai piešķirtās tiesības sniegt sabiedriskā transporta pakalpojumus ir spēkā līdz piešķirto tiesību termiņa beigām, bet ne ilgāk kā līdz 2007.gada 31.decembrim. Institūcijas, kas piešķir tiesības sniegt sabiedriskā transporta pakalpojumus, piešķirot jaunas pakalpojumu sniegšanas tiesības, tās var piešķirt uz termiņu, kas nepārsniedz šajā punktā norādīto."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn5",
+      "title": "5. Līdz administratīvi teritoriālās reformas pabeigšanai pilsētas nozīmes maršrutu definīcijas ietvaros termins \"novads\" ietver novadus un pagastus.",
+      "content": "5. Līdz administratīvi teritoriālās reformas pabeigšanai pilsētas nozīmes maršrutu definīcijas ietvaros termins \"novads\" ietver novadus un pagastus."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn6",
+      "title": "6. (Izslēgts ar 06.11.2008 . likumu, kas stājas spēkā 05.12.2008. )",
+      "content": "6. (Izslēgts ar 06.11.2008 . likumu, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn7",
+      "title": "7. Ministru kabinets līdz 2007.gada 30.septembrim izdod šā likuma 5.panta pirmās daļas 3.punktā un 4.punkta \"a\" apakšpunktā, 6.panta pirmajā un desmitajā daļā, 8.panta septītajā daļā, 11.panta otrajā daļā, 12.panta trešajā daļā, 13.panta ceturtajā un piektajā daļā, 14.panta otrajā daļā, kā arī 16.panta otrajā daļā minētos noteikumus.",
+      "content": "7. Ministru kabinets līdz 2007.gada 30.septembrim izdod šā likuma 5.panta pirmās daļas 3.punktā un 4.punkta \"a\" apakšpunktā, 6.panta pirmajā un desmitajā daļā, 8.panta septītajā daļā, 11.panta otrajā daļā, 12.panta trešajā daļā, 13.panta ceturtajā un piektajā daļā, 14.panta otrajā daļā, kā arī 16.panta otrajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn8",
+      "title": "8. Ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus rajonu pilsētās pilsētu nozīmes maršrutu tīkla maršrutos pārvadātājiem kompensē no valsts budžeta 100 procentu apmērā līdz administratīvi teritoriālās reformas pabeigšanai.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 06.11.2008 . likumu, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn9",
+      "title": "9. Līdz 2007.gada 31.decembrim pašvaldību un pārvadātāju noslēgtie līgumi par sabiedriskā transporta pakalpojumu sniegšanu ir spēkā ne ilgāk kā līdz 2011.gada 31.decembrim.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn10",
+      "title": "10. Ja līdz 2007.gada 31.decembrim pašvaldību un pārvadātāju noslēgtajos līgumos par sabiedriskā transporta pakalpojumu sniegšanu bija paredzēts, ka noteikta maršrutu tīkla daļa tiek apkalpota atbilstoši komerciāliem principiem, šādi līgumu nosacījumi ir spēkā ne ilgāk kā līdz 2011.gada 31.decembrim. Pašvaldību pienākums ir informēt pasažierus par braukšanas maksas atvieglojumu izmantošanas kārtību maršrutu tīkla daļā, kas tiek apkalpota atbilstoši komerciāliem principiem.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn11",
+      "title": "11. Līdz šā likuma 3.panta trešajā daļā minētās Eiropas Parlamenta un Padomes regulas (EK) Nr. 1370/2007 spēkā stāšanās dienai (2009.gada 3.decembris) sabiedriskā transporta organizēšanai piemēro Padomes 1969.gada 26.jūnija regulu (EEK) Nr. 1191/69 par dalībvalstu darbību sakarā ar saistībām, kuras parasti uzskata par sabiedriskajiem pakalpojumiem, dzelzceļa pārvadājumu, autopārvadājumu un iekšējo ūdensceļu pārvadājumu nozarē, ja Eiropas Savienības normatīvajos aktos netiek noteikts citādi.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn12",
+      "title": "12. Līdz 2009.gada 2.decembrim saskaņā ar šo likumu īpašos gadījumos, ja sabiedriskā transporta pakalpojumu sniegšanā iestājas pārtraukums vai pastāv tieši draudi, ka tas varētu iestāties, nolūkā nodrošināt sabiedriskā transporta pakalpojumu sniegšanas nepārtrauktību pasūtītājs ir tiesīgs noslēgt ar pārvadātāju jaunu vai pagarināt esošo sabiedriskā transporta pakalpojumu pasūtījuma līgumu uz termiņu, ne ilgāku par diviem gadiem, nepiemērojot šajā likumā minētās sabiedriskā transporta pakalpojumu pasūtījuma procedūras.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn13",
+      "title": "13. Ministru kabinets līdz 2009.gada 30.jūnijam izdod šā likuma 14.panta otrajā daļā minētos noteikumus, kas nosaka pasažieru kategorijas, kuras ir tiesīgas izmantot braukšanas maksas atvieglojumus maršrutu tīkla maršrutos, kā arī šo atvieglojumu izmantošanas kārtību un apmēru. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 30.jūnijam piemērojami Ministru kabineta 2007.gada 2.oktobra noteikumi Nr.677 “ Noteikumi par pasažieru kategorijām, kam ir tiesības izmantot braukšanas maksas atvieglojumus maršrutu tīkla pamata maršrutos ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn14",
+      "title": "14. Šā likuma grozījumi, kas paredz aizstāt 5.panta pirmās daļas 6.punktā un trešās daļas ievaddaļā, kā arī 7.panta ceturtajā un piektajā daļā vārdus “rajona pašvaldība” (attiecīgā skaitlī un locījumā) ar vārdiem “plānošanas reģions” (attiecīgā skaitlī un locījumā), 5.panta nosaukumā vārdus “rajonu pašvaldību” — ar vārdiem “plānošanas reģionu” un pirmās daļas 5.punktā vārdus “republikas pilsētu vai rajonu pašvaldībām” — ar vārdiem “republikas pilsētu pašvaldībām vai plānošanas reģioniem”, kā arī grozījumi attiecībā uz šā likuma 1.panta 6., 8. un 9.punkta, 4.panta otrās daļas, 5.panta otrās daļas 3.punkta, trešās daļas 5.punkta, 6.panta sestās daļas un 7.panta pirmās un otrās daļas izteikšanu jaunā redakcijā, 4.panta pirmās daļas papildināšanu pēc vārdiem “Satiksmes ministrija” ar vārdiem “plānošanas reģioni”, 5.panta pirmās daļas 2.punkta papildināšanu pēc vārda “maršrutos” ar vārdiem “un visos dzelzceļa maršrutos”, kā arī grozījumi 7.panta sestajā daļā, kas paredz aizstāt vārdus “rajona administratīvajām” ar vārdiem “plānošanas reģiona”, stājas spēkā 2010.gada 1.janvārī.",
+      "content": "( 06.11.2008 . likuma redakcijā ar grozījumiem, kas izdarīti ar 16.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn15",
+      "title": "15. No 2009.gada 1.jūlija līdz šo pārejas noteikumu 14.punktā minēto grozījumu spēkā stāšanās dienai ar šajā likumā lietoto terminu “rajons” saprot teritoriju, kas pastāvēja administratīvi teritoriālās reformas pabeigšanas brīdī.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn16",
+      "title": "16. Līdz šo pārejas noteikumu 14.punktā minēto grozījumu spēkā stāšanās dienai rajonu pašvaldību institūcijas turpina īstenot šajā likumā noteikto rajonu pašvaldību kompetenci.",
+      "content": "( 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn17",
+      "title": "17. (Izslēgts no 01.01.2014. ar 21.11.2013 . likumu, kas stājas spēkā 11.12.2013. Sk. Pārejas noteikumu 26.punktu)",
+      "content": "17. (Izslēgts no 01.01.2014. ar 21.11.2013 . likumu, kas stājas spēkā 11.12.2013. Sk. Pārejas noteikumu 26.punktu)"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn18",
+      "title": "18. Ar šā likuma 5.panta trešās daļas 1. un 2.punktā minētajiem reģionālajiem vietējās nozīmes maršrutiem, kas nodrošina pārvietošanos novadā ietilpstošo pilsētu teritorijās, līdz 2009.gada 31.decembrim saprot arī pilsētas nozīmes maršrutus.",
+      "content": "( 16.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn19",
+      "title": "19. Pēc šo pārejas noteikumu 14.punktā minēto grozījumu spēkā stāšanās plānošanas reģions, pārzinot maršrutu tīklu savā teritorijā un organizējot sabiedriskā transporta pakalpojumus, pamatojoties uz kārtējā gada budžeta likumā paredzēto finanšu līdzekļu apjomu, pārskata reģionālo vietējās nozīmes maršrutu tīkla maršrutus.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn20",
+      "title": "20. Par 2011., 2012. un 2013.gadu pārvadātājam ar sabiedriskā transporta pakalpojumu sniegšanu saistītos zaudējumus reģionālās vietējās nozīmes maršrutu tīkla maršrutos kompensē no valsts budžeta.",
+      "content": "( 21.11.2013 . likuma redakcijā, kas stājas spēkā 11.12.2013. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn21",
+      "title": "21. Šā likuma 18.pants stājas spēkā 2013.gada 1.jūlijā. Ministru kabinets līdz 2013.gada 30.jūnijam izdod šā likuma 18.panta otrajā un trešajā daļā minētos noteikumus.",
+      "content": "( 23.05.2013 . likuma redakcijā, kas stājas spēkā 18.06.2013. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn22",
+      "title": "22. Sabiedriskā transporta padome līdz 2014.gada 31.decembrim izstrādā šā likuma 5.panta pirmās daļas 1.punktā minēto vienotu reģionālās nozīmes maršrutu tīklu.",
+      "content": "( 21.11.2013 . likuma redakcijā, kas stājas spēkā 11.12.2013. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn23",
+      "title": "23. Ministru kabinets līdz 2013.gada 31.decembrim izdod šā likuma 4. 1 panta piektajā daļā minētos noteikumus.",
+      "content": "( 21.11.2013 . likuma redakcijā, kas stājas spēkā 11.12.2013. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn24",
+      "title": "24. Līdz 2013.gada 31.decembrim plānošanas reģioni ar pieņemšanas–nodošanas aktu nodod Autotransporta direkcijai:",
+      "content": "1) noslēgtos sabiedriskā transporta pakalpojumu pasūtījuma līgumus par sabiedriskā transporta pakalpojumu sniegšanu reģionālās vietējās nozīmes maršrutos;\n2) šā likuma 7.panta pirmajā daļā noteiktajā kārtībā noslēgtās vienošanās par pilsētas un reģionālās vietējās nozīmes maršrutu tīkla robežām;\n3) ar aktuālām tiesvedībām saistīto dokumentāciju."
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn25",
+      "title": "25. Līdz 2014.gada 30.jūnijam plānošanas reģioni ar pieņemšanas–nodošanas aktu nodod Autotransporta direkcijai to arhīva un lietvedības daļu, kura Autotransporta direkcijai nepieciešama, lai tiktu nodrošināta pilnvērtīga šā likuma 5.panta trešajā daļā noteiktās kompetences izpilde. Plānošanas reģionu arhīvos un lietvedībā tiek saglabāta tā arhīva un lietvedības daļa, kura nepieciešama plānošanas reģioniem, lai pilnvērtīgi izpildītu šā likuma 5.panta ceturtajā daļā noteikto kompetenci.",
+      "content": "( 21.11.2013 . likuma redakcijā, kas stājas spēkā 11.12.2013. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn26",
+      "title": "26. Šā likuma grozījumi par 1.panta 7.punkta, 4. un 5.panta , 7.panta pirmās un piektās daļas izteikšanu jaunā redakcijā, grozījumi par likuma papildināšanu ar 1.panta 7. 1 punktu un 4. 1 pantu , kā arī grozījumi par 7.panta otrās, ceturtās un sestās daļas, 11.panta otrās daļas 3.punkta un pārejas noteikumu 17.punkta izslēgšanu stājas spēkā 2014.gada 1.janvārī.",
+      "content": "( 21.11.2013 . likuma redakcijā, kas stājas spēkā 11.12.2013. )"
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn27",
+      "title": "27. Šā likuma grozījums par 8. panta papildināšanu ar 3. 2 un 3. 3 daļu nav attiecināms uz sabiedriskā transporta pakalpojumu pasūtījuma līgumiem, kuri noslēgti pirms šā grozījuma spēkā stāšanās dienas.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn28",
+      "title": "28. Ministru kabinets līdz 2021. gada 30. jūnijam izdod šā likuma 8. 1 panta sestajā daļā, 11. panta 2. 1 daļā un 14. panta 2. 1 daļā minētos noteikumus.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn29",
+      "title": "29. Līdz 2021. gada 31. jūlijam Autotransporta direkcija izveido vienoto sabiedriskā transporta biļešu sistēmu.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn30",
+      "title": "30. Līdz 2021. gada pašvaldību vēlēšanās ievēlētās pašvaldības domes pirmajai sēdei šajā likumā noteiktos valstspilsētu pašvaldību uzdevumus pilda republikas pilsētu (2007. gada 14. jūnija Administratīvo teritoriju un apdzīvoto vietu likuma izpratnē) pašvaldības.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 31",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn31",
+      "title": "31. Šā likuma prasības attiecībā uz valstspilsētām Ogres valstspilsētai piemēro no 2024. gada 1. jūlija.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 32",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn32",
+      "title": "32. Šā likuma grozījums par 14. 1 panta papildināšanu ar 2. 1 un 2. 2 daļu stājas spēkā 2022. gada 1. janvārī.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 33",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn33",
+      "title": "33. No 2021. gada 1. marta tie pasažieri, kuru braukšanas maksas atvieglojumi tiek kompensēti no valsts budžeta, lai izmantotu attiecīgos braukšanas maksas atvieglojumus, elektroniski identificējoties ar personas apliecību, vēršas Pilsonības un migrācijas lietu pārvaldē, lai saņemtu personas apliecību, kura papildināta ar speciālu funkcionalitāti (lietotni).",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 34",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn34",
+      "title": "34. Līdz 2021. gada 30. novembrim Ministru kabinets iesniedz Saeimai likumprojektu, kas paredz pasažieru pārvadājumu pakalpojumu sniegšanu pēc pasažieru pieprasījuma.",
+      "content": "( 17.12.2020 . likuma redakcijā, kas stājas spēkā 30.12.2020. )"
+    },
+    {
+      "provision_ref": "PN 35",
+      "chapter": "V nodaļa Sabiedriskā transporta pakalpojumu sniegšanas un izmantošanas kārtība (Nodaļas nosaukums 06.11.2008 . likuma redakcijā, kas stājas spēkā 05.12.2008. )",
+      "section": "pn35",
+      "title": "35. Ministru kabinets līdz 2025. gada 31. decembrim izdod šā likuma 12. panta ceturtajā daļā minētos noteikumus. Zaudējumus, kas sabiedriskā transporta pakalpojumu sniedzējam radušies pirms šā likuma 12. panta ceturtajā daļā minēto noteikumu spēkā stāšanās dienas par tādu pasažieru pārvadājumiem komerciālajos maršrutos, kuri izmanto Ministru kabineta noteikumos noteiktos braukšanas maksas atvieglojumus, kompensē, nepārsniedzot attiecīgā dotētā reģionālā sabiedriskā transporta tarifa apmēru vai braukšanas maksu faktiskajā apmērā, ja tā ir zemāka par dotēto reģionālo sabiedriskā transporta tarifu. Pēc šā likuma 12. panta ceturtajā daļā minēto noteikumu spēkā stāšanās dienas pārvadātājs var pieprasīt, lai tam papildus kompensē zaudējumus par iepriekšējo periodu, ja attiecīgie Ministru kabineta noteikumi nosaka lielāku kompensācijas apmēru.",
+      "content": "( 16.10.2025 . likuma redakcijā, kas stājas spēkā 24.10.2025. )\n( 23.05.2013 . likuma redakcijā, kas stājas spēkā 18.06.2013. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "maršruts",
+      "definition": "normatīvajos aktos noteiktajā kārtībā apstiprināts noteikts sabiedriskā transportlīdzekļa (neatkarīgi no transportlīdzekļu veida un skaita) kustības ceļš starp diviem kustības galapunktiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maršrutu tīkls",
+      "definition": "izmantojot esošo autoceļu, ielu vai sliežu ceļu tīklu, veidots maršrutu (dotēto un komerciālo maršrutu) kopums, kurā tiek organizēti sabiedriskā transporta pakalpojumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maršrutu tīkla pārzināšana",
+      "definition": "maršrutu tīkla plānošana, izstrādāšana, apstiprināšana, uzturēšana, attīstīšana un pilnveidošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pasūtītājs",
+      "definition": "valsts vai pašvaldība, kas savas kompetences ietvaros organizē sabiedriskā transporta pakalpojumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pilsētas nozīmes maršruts",
+      "definition": "marš­ruts, kas nodrošina pārvietošanos valstspilsētas administratīvajās robežās, kā arī no šīs pilsētas uz tuvākajām apkārtējām teritorijām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "regulārie pasažieru pārvadājumi",
+      "definition": "pasažieru pārvadāšana pa iepriekš noteiktu maršrutu, ar iepriekš noteiktu intensitāti un regularitāti, par noteiktu braukšanas maksu, kā arī pasažieru pārvadājumi, kuri tiek veikti ar noteiktu regularitāti pa to pašu vai līdzīgu pasažieru regulārā pārvadājuma maršrutu un kuri funkcionāli apkalpo tos pašus pasažierus, ko uzņem vai izlaiž maršrutu apkalpes vietās vai sabiedriskajam transportam paredzētās joslās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "reģionālais starppilsētu nozīmes maršruts",
+      "definition": "maršruts, kas nodrošina pārvietošanos valsts teritorijā galvenokārt no vienas administratīvās teritorijas uz administratīvo teritoriju citā plānošanas reģionā vai kas savieno valstspilsētas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "reģionālais vietējās nozīmes maršruts",
+      "definition": "maršruts, kas nodrošina pārvietošanos viena novada administratīvajā teritorijā, no šā novada uz tuvākajām apkārtējām teritorijām vai uz citu novadu plānošanas reģiona robežās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sabiedriskā transporta pakalpojumi",
+      "definition": "iedzīvotājiem pieejami un pasūtītāja organizēti vai ar Autotransporta direkcijas izsniegto maršruta atļauju saskaņoti, vai uz komerciāliem pamatiem pa dzelzceļu veikti regulārie pasažieru pārvadājumi ar sabiedriskajiem transportlīdzekļiem, kurus pasažieri var izmantot normatīvajos aktos noteiktajā kārtībā un apjomā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sabiedriskā transporta pakalpojumu organizēšana",
+      "definition": "tiesību piešķiršana pārvadātājam sniegt sabiedriskā transporta pakalpojumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sabiedriskā transporta pakalpojumu pasūtījums",
+      "definition": "procedūra, saskaņā ar kuru pasūtītājs izvēlas pārvadātājus un piešķir tiesības sniegt sabiedriskā transporta pakalpojumus maršrutu tīklā, maršrutā vai reisā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sabiedriskie transportlīdzekļi",
+      "definition": "sabiedriskā transporta pakalpojumu sniegšanā iesaistītie transportlīdzekļi (autobuss, tramvajs, trolejbuss, vilciens, M1 kategorijas transportlīdzeklis)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "valstspilsētas pašvaldība",
+      "definition": "Administratīvo teritoriju un apdzīvoto vietu likumā minēto valstspilsētu pašvaldības. Ja valstspilsēta kā teritoriālā iedalījuma vienība ietilpst kādā novadā, šajā likumā noteiktos valstspilsētu pašvaldību uzdevumus īsteno attiecīgā novada pašvaldība.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "lv-law-64865",
+  "type": "statute",
+  "title": "Par dabas resursu nodokli",
+  "short_name": "TA-64865",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/64865-par-dabas-resursu-nodokli",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Nodokļa mērķis",
+      "content": "Dabas resursu nodokļa mērķis ir ierobežot dabas resursu nesaimniecisku izmantošanu un vides piesārņošanu, ka arī akumulēt līdzekļus vides aizsardzības pasākumu finansēšanai.\nNodoklis sastāv no maksas par dabas resursu izmantošanu un vides piesārņošanu limitos noteiktajos ietvaros un sankcijām par virslimita piesārņojumu un resursu pārtēriņu.\nNo nodokļa maksājumiem gūto līdzekļu izlietojums ar vides aizsardzību nesaistītiem pasākumiem nav pieļaujams."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "Nodokļa maksātāji",
+      "content": "Nodokļa maksātāji ir visas juridiskās un fiziskās personas, kas lieto Latvijas Republikas dabas resursus un ir saņēmušas attiecīgu atļauju (licenci)."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Dabas resursu lietošanas veidi",
+      "content": "Ar dabas resursu lietošanu saprot:\n1) dabas resursu iesaistīšanu saimnieciskajā apritē;\n2) piesārņojošo vielu ievadīšanu vai noplūdi dabas vidē."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Nodokļa maksājumu objekts",
+      "content": "Ar nodokli apliek no dabas iegūstamos resursus, kā arī dabā ievadāmo piesārņojumu.\nTo vides piesārņojuma veidu un dabas resursu sarakstu, par kuriem jāmaksā nodoklis, nosakot attiecīgos piesārņojuma un resursu izmantošanas apjomus, apstiprina Latvijas Republikas Vides aizsardzības komiteja.\nNodokli aprēķina par katru dabas resursu vai piesārņojuma vienību pēc nodokļa likmēm saskaņā ar pielikumu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Nodokļa maksāšanas kārtība",
+      "content": "Nodokli maksā par faktisko dabas resursu izmantošanas un vides piesārņojuma apjomu.\nNodokli maksā, pamatojoties uz dabas resursu izmantošanas un vides piesārņojuma uzskaites datiem lietošanas atļaujas, patēriņa vai limitos noteiktajos ietvaros.\nNodokli par vides piesārņošanu limitos noteiktajos ietvaros ieskaita budžetos šādā apmērā: Latvijas Republikas valsts budžetā — 25 procentus; pagastu un pilsētu budžetā — 75 procentus.\nNodokli par dabas resursu iesaistīšanu saimnieciskajā apritē ieskaita to pagasta vai pilsētas pašvaldību ārpusbudžeta fondā, kuru teritorijā tiek veikta attiecīga darbība. Rīgas pilsētā nodokli ieskaita pilsētas rajona pašvaldības ārpusbudžeta fonda.\nMaksu par virslimita piesārņojumu un dabas resursu pārtēriņu ieskaita Vides aizsardzības fondā. Šo nodokli maksā pēc paaugstinātam likmēm, kas trīskārtīgi pārsniedz pamatlikmes, pēc kurām nodokli iekasē no peļņas, kas palikusi uzņēmuma rīcībā pēc visu pārējo nodokļu samaksāšanas.\nNodokli iekasē Latvijas Valsts finansu inspekcija."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Nodokļa maksāšanas kontrole",
+      "content": "Dabas resursu izmantošanu limitos un atļaujās noteiktajā kārtībā kontrolē Latvijas Republikas Vides aizsardzības komiteja.\nPar uzskaites un kontroles datu slēpšanu vai sagrozīšanu vainīgā persona ir atbildīga saskaņā ar Latvijas Republikas likumiem.\nPar katru nodokļa maksāšanas termiņa nokavēto dienu tiek ņemta soda nauda 0,1 procenta apmērā no maksājamās summas.\nVisi strīdi par dabas resursu izmantošanu izskatāmi Latvijas Republikas likumdošanas aktos noteiktajā kārtībā."
+    }
+  ],
+  "definitions": []
+}

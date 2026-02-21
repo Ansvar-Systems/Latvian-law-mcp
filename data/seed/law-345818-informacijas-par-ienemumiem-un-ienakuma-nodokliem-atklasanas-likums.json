@@ -1,0 +1,243 @@
+{
+  "id": "lv-law-345818",
+  "type": "statute",
+  "title": "Informācijas par ieņēmumiem un ienākuma nodokļiem atklāšanas likums",
+  "title_en": "Law On Disclosure Of Information On Revenue And Income Taxes",
+  "short_name": "TA-345818",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/345818-informacijas-par-ienemumiem-un-ienakuma-nodokliem-atklasanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) atsevišķa komercsabiedrība — komercsabiedrība, kas nav iekļauta nevienā koncernā (grupā);\n2) ieņēmumi :\na) Latvijas Republikā vai citā Eiropas Savienības dalībvalstī reģistrētā komercsabiedrībā, kura finanšu pārskatu sagatavošanai un ieņēmumu atzīšanai finanšu pārskatos piemēro attiecīgās dalībvalsts normatīvos aktus un nepiemēro starptautiskos grāmatvedības standartus, kuri pieņemti saskaņā ar Eiropas Parlamenta un Padomes 2002. gada 19. jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu (turpmāk — starptautiskie grāmatvedības standarti), — ieņēmumi no produkcijas vai preču pārdošanas un pakalpojumu sniegšanas, no kuriem atskaitīta tirdzniecības atlaide un citas piešķirtās atlaides, kā arī pievienotās vērtības nodoklis un citi nodokļi, kas tieši saistīti ar apgrozījumu (turpmāk — neto apgrozījums),\nb) Latvijas Republikā vai citā Eiropas Savienības dalībvalstī reģistrētā komercsabiedrībā, kura finanšu pārskatus sagatavo atbilstoši starptautiskajiem grāmatvedības standartiem, — ieņēmumi tādā nozīmē, kura atbilst Komisijas 2008. gada 3. novembra regulas (EK) Nr. 1126/2008 , ar ko pieņem vairākus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002 (turpmāk — regula Nr. 1126/2008 ) pielikumā minētajos starptautiskajos grāmatvedības standartos un starptautiskajos finanšu pārskatu standartos lietotajam terminam \"ieņēmumi\",\nc) trešās valsts komercsabiedrībā — ieņēmumi tādā nozīmē, kāda tiem piešķirta saskaņā ar attiecīgajā trešā valstī noteikto finanšu pārskatu sagatavošanas sistēmu, uz kuru pamatojoties tiek sagatavoti šīs komercsabiedrības finanšu pārskati;\n3) koncerna (grupas) galvenā mātes sabiedrība — komercsabiedrība, kas sagatavo koncerna (grupas) lielākā komercsabiedrību kopuma konsolidētos finanšu pārskatus;\n4) koncerns (grupa) — komercsabiedrību kopums, kuru veido koncerna (grupas) mātes sabiedrība un visas tās meitas sabiedrības;\n5) konsolidētais finanšu pārskats — finanšu pārskats, kuru sagatavo koncerna (grupas) galvenā mātes sabiedrība un kurā koncerna (grupas) sastāvā iekļauto komercsabiedrību līdzekļi (aktīvi) un to avoti — pašu kapitāls, uzkrājumi un saistības, kā arī ieņēmumi un izmaksas — ir apvienoti un norādīti kā vienas komercsabiedrības līdzekļi (aktīvi), to avoti, ieņēmumi un izmaksas;\n6) nodokļu jurisdikcija — jurisdikcija, kurai ir fiskāla autonomija attiecībā uz uzņēmumu ienākuma nodokli un tam pielīdzināmu ienākuma nodokli (turpmāk — ienākuma nodokļi);\n7) radniecīgās sabiedrības — jebkuras divas vai vairākas komercsabiedrības, kuras pieder pie viena un tā paša koncerna (grupas), piemēram, koncerna (grupas) galvenā mātes sabiedrība un tās meitas sabiedrība, divas vai vairākas meitas sabiedrības;\n8) starptautisks koncerns (grupa) — tāds koncerns (grupa), kura mātes sabiedrības, visu tās meitas sabiedrību, kā arī visu minēto radniecīgo sabiedrību filiāļu saimnieciskās darbības vieta nav tikai vienas valsts teritorija vai viena nodokļu jurisdikcija;\n9) trešā valsts — jebkura valsts, izņemot Eiropas Savienības dalībvalsti, Eiropas Ekonomikas zonas valsti un Šveices Konfederāciju.\n(2) Likumā lietotais termins \"saistītās puses\" atbilst regulas Nr. 1126/2008 pielikumā minētajam 24. SGS \"Informācijas atklāšana par saistītajām pusēm\" terminam."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir palielināt korporatīvo caurskatāmību un uzlabot publisko kontroli par komercsabiedrību ienākuma nodokļu informāciju, nodrošinot starptautisku koncernu (grupu) un atsevišķu komercsabiedrību publiskus pārskatus par ieņēmumiem, ienākuma nodokļiem un saimniecisko darbību rezidences valstī un sadalījumā pa nodokļu jurisdikcijām neatkarīgi no tā, kur ir reģistrēta starptautiska koncerna (grupas) galvenā mātes sabiedrība."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma un subjekti",
+      "content": "(1) Likums nosaka kārtību, kādā sagatavo, iesniedz un publisko konkrētu starptautisku koncernu (grupu) un atsevišķu komercsabiedrību pārskatu par ieņēmumiem, ienākuma nodokļiem un saimniecisko darbību rezidences valstī un sadalījumā pa nodokļu jurisdikcijām (turpmāk — pārskats par ienākuma nodokļiem).\n(2) Likuma subjekti ir šādas Latvijas Republikā reģistrētas komercsabiedrības un saimnieciskās vienības, ja tās atbilst šajā likumā noteiktajiem kritērijiem un nosacījumiem vai ja uz tām attiecas šajā likumā noteiktie atbrīvojumi vai likuma piemērošanas izņēmumi:\n1) koncerna (grupas) galvenā mātes sabiedrība;\n2) komercsabiedrība, kas ir starptautiska koncerna (grupas) meitas sabiedrība (turpmāk — meitas sabiedrība);\n3) atsevišķa komercsabiedrība;\n4) Eiropas Savienības dalībvalsts (kas nav Latvijas Republika) vai trešās valsts komercsabiedrības filiāle (turpmāk — filiāle)."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Galvenās mātes sabiedrības un atsevišķas komercsabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi, atbrīvojumi un piemērošanas izņēmumi",
+      "section": "4",
+      "title": "Galvenās mātes sabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem",
+      "content": "(1) Galvenajai mātes sabiedrībai ir pienākums šajā likumā noteiktajā kārtībā sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem attiecībā uz pēdējo no diviem pēdējiem pārskata gadiem (kārtējo pārskata gadu), ja saskaņā ar konsolidētā finanšu pārskata datiem attiecīgā koncerna (grupas) konsolidēto ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) galvenās mātes sabiedrības bilances datumā pārsniedz 750 000 000 euro .\n(2) Uz galveno mātes sabiedrību vairs neattiecas šā panta pirmajā daļā noteiktais pienākums, ja saskaņā ar konsolidētā finanšu pārskata datiem attiecīgā koncerna (grupas) konsolidēto ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) galvenās mātes sabiedrības bilances datumā vairs nepārsniedz šā panta pirmajā daļā noteikto kritēriju — 750 000 000 euro."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Galvenās mātes sabiedrības un atsevišķas komercsabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi, atbrīvojumi un piemērošanas izņēmumi",
+      "section": "5",
+      "title": "Atsevišķas komercsabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem",
+      "content": "(1) Atsevišķai komercsabiedrībai ir pienākums šajā likumā noteiktajā kārtībā sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem attiecībā uz pēdējo no diviem pēdējiem pārskata gadiem (kārtējo pārskata gadu), ja saskaņā ar finanšu pārskata datiem tās ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) bilances datumā pārsniedz 750 000 000 euro.\n(2) Uz atsevišķu komercsabiedrību vairs neattiecas šā panta pirmajā daļā noteiktais pienākums, ja saskaņā ar finanšu pārskata datiem tās ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) bilances datumā vairs nepārsniedz šā panta pirmajā daļā noteikto kritēriju — 750 000 000 euro ."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Galvenās mātes sabiedrības un atsevišķas komercsabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi, atbrīvojumi un piemērošanas izņēmumi",
+      "section": "6",
+      "title": "Atbrīvojums galvenajai mātes sabiedrībai no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem",
+      "content": "Galvenā mātes sabiedrība ir atbrīvota no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, ja tā un visas tās radniecīgās sabiedrības, tostarp filiāles, ir reģistrētas Latvijas Republikā vai visu minēto sabiedrību saimnieciskās darbības vieta ir tikai Latvijas Republika un neviena cita nodokļu jurisdikcija."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Galvenās mātes sabiedrības un atsevišķas komercsabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi, atbrīvojumi un piemērošanas izņēmumi",
+      "section": "7",
+      "title": "Atbrīvojums atsevišķai komercsabiedrībai no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem",
+      "content": "Atsevišķa komercsabiedrība ir atbrīvota no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, ja tā, kā arī tās filiāles ir reģistrētas Latvijas Republikā vai tās saimnieciskās darbības vieta ir tikai Latvijas Republika un neviena cita nodokļu jurisdikcija."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Galvenās mātes sabiedrības un atsevišķas komercsabiedrības pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi, atbrīvojumi un piemērošanas izņēmumi",
+      "section": "8",
+      "title": "Likuma piemērošanas izņēmumi",
+      "content": "Šā likuma 4. panta pirmo daļu un 5. panta pirmo daļu attiecībā uz pienākumu sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem nepiemēro attiecīgi:\n1) galvenajai mātes sabiedrībai, kas ir kredītiestāde vai ieguldījumu brokeru sabiedrība, ja šī galvenā mātes sabiedrība vai tās radniecīgā sabiedrība ietver konsolidētajā finanšu pārskatā apkopotu informāciju par attiecīgā koncerna (grupas) visām saimnieciskajām darbībām sadalījumā pa katru Eiropas Savienības dalībvalsti un pa katru trešo valsti un publisko šo pārskatu, ievērojot kārtību, kāda noteikta minēto finanšu tirgus dalībnieku darbību reglamentējošos normatīvajos aktos;\n2) atsevišķai komercsabiedrībai, kas ir kredītiestāde vai ieguldījumu brokeru sabiedrība, ja šī atsevišķā komercsabiedrība ietver gada pārskatā apkopotu informāciju par visām savām saimnieciskajām darbībām sadalījumā pa katru Eiropas Savienības dalībvalsti un pa katru trešo valsti un publisko šo pārskatu, ievērojot kārtību, kāda noteikta minēto finanšu tirgus dalībnieku darbību reglamentējošos normatīvajos aktos."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Meitas sabiedrības un filiāles pienākumi attiecībā uz pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi un atbrīvojumi",
+      "section": "9",
+      "title": "Meitas sabiedrības pienākums iesniegt un publiskot tā starptautiskā koncerna (grupas), kura radniecīgā sabiedrība tā ir, galvenās mātes sabiedrības pārskatu par ienākuma nodokļiem",
+      "content": "Meitas sabiedrībai, kura saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likuma 5. panta ceturto un piekto daļu ir vidēja vai liela sabiedrība, ir pienākums šajā likumā noteiktajā kārtībā iesniegt un publiskot tā starptautiskā koncerna (grupas), kura radniecīgā sabiedrība tā ir, galvenās mātes sabiedrības sagatavoto pārskatu par ienākuma nodokļiem attiecībā uz pēdējo no diviem pēdējiem pārskata gadiem (kārtējo pārskata gadu), ja minētā galvenā mātes sabiedrība nav Latvijas Republikā reģistrēta komercsabiedrība un saskaņā ar tās sagatavotā konsolidētā finanšu pārskata datiem koncerna (grupas) konsolidētie ieņēmumi divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) šīs galvenās mātes sabiedrības bilances datumā pārsniedz 750 000 000 euro ."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Meitas sabiedrības un filiāles pienākumi attiecībā uz pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi un atbrīvojumi",
+      "section": "10",
+      "title": "Meitas sabiedrības pienākums pieprasīt informāciju un sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem",
+      "content": "(1) Ja šā likuma 9. pantā minētajai meitas sabiedrībai nav pieejama informācija par tā starptautiskā koncerna (grupas), kura radniecīgā sabiedrība tā ir, galvenās mātes sabiedrības ieņēmumiem, ienākuma nodokļiem un saimniecisko darbību rezidences valstī un sadalījumā pa nodokļu jurisdikcijām vai tās sagatavotais pārskats par ienākuma nodokļiem, tad šī meitas sabiedrība pieprasa minētajai galvenajai mātes sabiedrībai visu informāciju, kas nepieciešama pārskata par ienākuma nodokļiem sagatavošanai, lai būtu iespējams izpildīt tai šajā likumā noteiktos pienākumus.\n(2) Ja šā panta pirmajā daļā minētā galvenā mātes sabiedrība nesniedz meitas sabiedrībai visu pieprasīto informāciju, kas nepieciešama pārskata par ienākuma nodokļiem sagatavošanai, tad meitas sabiedrība sagatavo, iesniedz un publisko tādu pārskatu par ienākuma nodokļiem, kurā ietverta visa tās rīcībā esošā, iegūtā vai saņemtā informācija. Papildus tam meitas sabiedrība sagatavo, iesniedz un publisko paziņojumu, kurā norāda, ka minētā galvenā mātes sabiedrība nav darījusi pieejamu visu informāciju, kas nepieciešama pārskata par ienākuma nodokļiem sagatavošanai (turpmāk — meitas sabiedrības paziņojums)."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Meitas sabiedrības un filiāles pienākumi attiecībā uz pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi un atbrīvojumi",
+      "section": "11",
+      "title": "Atbrīvojums meitas sabiedrībai no pienākumiem attiecībā uz tā starptautiskā koncerna (grupas), kura radniecīgā sabiedrība tā ir, galvenās mātes sabiedrības pārskata par ienākuma nodokļiem iesniegšanu un publiskošanu",
+      "content": "Uz meitas sabiedrību vairs neattiecas šā likuma 9. un 10. pantā noteiktie pienākumi attiecībā uz tā starptautiskā koncerna (grupas), kura radniecīgā sabiedrība tā ir, galvenās mātes sabiedrības pārskata par ienākuma nodokļiem iesniegšanu un publiskošanu, ja saskaņā ar minētās galvenās mātes sabiedrības sagatavotā konsolidētā finanšu pārskata datiem šā starptautiskā koncerna (grupas) konsolidēto ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) minētās galvenās mātes sabiedrības bilances datumā vairs nepārsniedz 750 000 000 euro ."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Meitas sabiedrības un filiāles pienākumi attiecībā uz pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi un atbrīvojumi",
+      "section": "12",
+      "title": "Filiāles pienākums iesniegt un publiskot atsevišķas komercsabiedrības vai tā starptautiskā koncerna (grupas), kura radniecīgās sabiedrības filiāle tā ir, galvenās mātes sabiedrības pārskatu par ienākuma nodokļiem un atbrīvojumi no šā pienākuma",
+      "content": "(1) Filiālei, uz kuru attiecas šā panta ceturtā un sestā daļa, ir pienākums šajā likumā noteiktajā kārtībā iesniegt un publiskot tās ārvalstī reģistrētās komercsabiedrības, kuras vārdā filiāle darbojas un kura ir starptautiska koncerna (grupas) radniecīgā sabiedrība, galvenās mātes sabiedrības pārskatu par ienākuma nodokļiem, bet, ja filiāle darbojas ārvalstī reģistrētas atsevišķas komercsabiedrības vārdā, — šīs atsevišķās komercsabiedrības pārskatu par ienākuma nodokļiem attiecībā uz pēdējo no diviem pēdējiem pārskata gadiem (kārtējo pārskata gadu).\n(2) Ja filiālei, uz kuru attiecas šā panta ceturtā un sestā daļa, nav pieejama informācija par šā panta pirmajā daļā minētās galvenās mātes sabiedrības vai atsevišķas komercsabiedrības ieņēmumiem, ienākuma nodokļiem un saimniecisko darbību rezidences valstī un sadalījumā pa nodokļu jurisdikcijām vai tās sagatavotais pārskats par ienākuma nodokļiem, tad persona vai personas, kuras pilnvarotas pārstāvēt attiecīgo dalībvalsts vai trešās valsts komercsabiedrību darbībās, kas saistītas ar filiāli, pieprasa minētajai galvenajai mātes sabiedrībai vai atsevišķai komercsabiedrībai visu informāciju, kas nepieciešama pārskata par ienākuma nodokļiem sagatavošanai, lai šai personai vai personām būtu iespējams izpildīt tām šajā likumā noteiktos pienākumus.\n(3) Ja šajā pantā minētā galvenā mātes sabiedrība vai atsevišķa komercsabiedrība nesniedz filiālei visu pieprasīto informāciju, kas nepieciešama pārskata par ienākuma nodokļiem sagatavošanai, filiāle sagatavo, iesniedz un publisko tādu pārskatu par ienākuma nodokļiem, kurā ietverta visa tās rīcībā esošā, iegūtā vai saņemtā informācija. Papildus tam filiāle sagatavo, iesniedz un publisko paziņojumu, kurā norādīts, ka galvenā mātes sabiedrība vai atsevišķa komercsabiedrība filiālei nav darījusi pieejamu visu informāciju, kas nepieciešama pārskata par ienākuma nodokļiem sagatavošanai (turpmāk — filiāles paziņojums).\n(4) Šajā pantā noteiktie pienākumi attiecas tikai uz tādu filiāli, kuras neto apgrozījums divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) bilances datumā pārsniedz 8 000 000 euro .\n(5) Filiālei, uz kuru attiecas šajā pantā noteiktie pienākumi, tie vairs nav saistoši, ja šīs filiāles neto apgrozījums divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) bilances datumā vairs nepārsniedz 8 000 000 euro .\n(6) Šajā pantā noteiktie pienākumi attiecas uz filiāli tikai tad, ja pastāv šādi nosacījumi:\n1) komercsabiedrība, kura reģistrējusi filiāli Latvijas Republikā, ir viena no šādām sabiedrībām:\na) tāda starptautiska koncerna (grupas) radniecīgā sabiedrība, kuras galvenā mātes sabiedrība nav Latvijas Republikā reģistrēta komercsabiedrība, un saskaņā ar konsolidētā finanšu pārskata datiem šā koncerna (grupas) konsolidēto ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) galvenās mātes sabiedrības bilances datumā pārsniedz 750 000 000 euro ,\nb) atsevišķa komercsabiedrība, kura nav Latvijas Republikā reģistrēta komercsabiedrība un kurai saskaņā ar finanšu pārskata datiem ieņēmumu kopsumma divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā) bilances datumā pārsniedz 750 000 000 euro ;\n2) šīs daļas 1. punkta \"a\" apakšpunktā minētajai galvenajai mātes sabiedrībai nav tādas meitas sabiedrības, kura ir Latvijas Republikā reģistrēta komercsabiedrība un saskaņā ar Gada pārskatu un konsolidēto gada pārskatu likuma 5. panta ceturto un piekto daļu ir vidēja vai liela sabiedrība.\n(7) Uz filiāli vairs neattiecas šajā likumā noteiktie pienākumi, ja šā panta sestās daļas 1. punktā minētais kritērijs — 750 000 000 euro — vairs netiek izpildīts bilances datumā divus pārskata gadus pēc kārtas (gan kārtējā, gan iepriekšējā pārskata gadā)."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Meitas sabiedrības un filiāles pienākumi attiecībā uz pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi un atbrīvojumi",
+      "section": "13",
+      "title": "Atbrīvojums meitas sabiedrībai un filiālei no pienākumiem attiecībā uz pārskata par ienākuma nodokļiem iesniegšanu un publiskošanu",
+      "content": "Šā likuma 9. un 10. panta noteikumus attiecībā uz meitas sabiedrību un 12. panta noteikumus attiecībā uz filiāli par pārskata par ienākuma nodokļiem iesniegšanu un publiskošanu nepiemēro, ja attiecīgā starptautiska koncerna (grupas) galvenā mātes sabiedrība, kas nav Latvijas Republikā reģistrēta komercsabiedrība, vai attiecīgā atsevišķa komercsabiedrība, kas nav Latvijas Republikā reģistrēta komercsabiedrība, pati ir sagatavojusi tādu pārskatu par ienākuma nodokļiem, kurš atbilst šā likuma 15. panta noteikumiem attiecībā uz šajā pārskatā sniedzamo informāciju, un ir ievēroti visi šādi nosacījumi:\n1) pārskats par ienākuma nodokļiem bez maksas ir publiski pieejams cilvēklasāmā formātā:\na) attiecīgās starptautiska koncerna (grupas) galvenās mātes sabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, tīmekļvietnē vai attiecīgās atsevišķas komercsabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, tīmekļvietnē,\nb) vismaz vienā no Eiropas Savienības oficiālajām valodām,\nc) ne vēlāk kā 12 mēnešus pēc tā pārskata gada bilances datuma, par kuru sagatavots šis pārskats par ienākuma nodokļiem;\n2) pārskatā par ienākuma nodokļiem ir norādīts tās meitas sabiedrības vai filiāles nosaukums un juridiskā adrese, kura pārskatu par ienākuma nodokļiem ir iesniegusi publiskošanai saskaņā ar šā likuma 23. pantā noteikto kārtību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Meitas sabiedrības un filiāles pienākumi attiecībā uz pārskatu par ienākuma nodokļiem, uz tām attiecināmie kritēriji, nosacījumi un atbrīvojumi",
+      "section": "14",
+      "title": "Aizliegums izvairīties no pienākuma sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem",
+      "content": "Meitas sabiedrībai, kura neatbilst šā likuma 9. pantā noteiktajiem kritērijiem un nosacījumiem, un filiālei, kura neatbilst šā likuma 12. panta ceturtajā un sestajā daļā noteiktajiem kritērijiem un nosacījumiem, ir pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, ja attiecīgā meitas sabiedrība vai filiāle ir izveidota ar vienīgo mērķi — izvairīties no pārskata par ienākuma nodokļiem publiskošanas."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "15",
+      "title": "Pārskata par ienākuma nodokļiem saturs",
+      "content": "(1) Pārskatā par ienākuma nodokļiem sniedz informāciju, kas attiecas uz šajā likumā minētās Latvijas Republikā vai ārvalstī reģistrētās atsevišķas komercsabiedrības vai starptautiska koncerna (grupas) galvenās mātes sabiedrības un visu tās radniecīgo sabiedrību, kuras ietvertas konsolidētajos finanšu pārskatos par attiecīgo pārskata gadu, visām saimnieciskajām darbībām.\n(2) Šā panta pirmajā daļā minētajā pārskatā par ienākuma nodokļiem tiek iekļauta šāda informācija:\n1) vispārīgā informācija:\na) attiecīgās atsevišķas komercsabiedrības vai starptautiska koncerna (grupas) galvenās mātes sabiedrības nosaukums,\nb) pārskata gads,\nc) šā pārskata sagatavošanai izmantotā valūta,\nd) ziņas par starptautiska koncerna (grupas) galvenās mātes sabiedrības visām tām meitas sabiedrībām, kuras ietvertas konsolidētajos finanšu pārskatos par attiecīgo pārskata gadu un ir izveidotas vai reģistrētas Eiropas Savienībā vai nodokļu jurisdikcijās, kas pārskata gadā nodokļu nolūkos nesadarbojas, vai tādās nodokļu jurisdikcijās, kuras pārskata gadā sadarbojas nolūkā īstenot labas nodokļu pārvaldības principus;\n2) detalizēta informācija par visiem šīs daļas 1. punkta \"a\" un \"d\" apakšpunktā minētajiem subjektiem:\na) īss galvenā saimnieciskās darbības veida vai vairāku galveno saimnieciskās darbības veidu apraksts,\nb) darbinieku skaits, kas izteikts pilnslodzes ekvivalentos,\nc) ieņēmumu kopsumma,\nd) peļņa vai zaudējumi pirms ienākuma nodokļiem,\ne) attiecīgajā pārskata gadā uzkrātie ienākuma nodokļi,\nf) attiecīgajā pārskata gadā samaksātie ienākuma nodokļi,\ng) uzkrātie ienākumi attiecīgā pārskata gada beigās.\n(3) Ieņēmumu kopsummu aprēķina, izmantojot vienu no šādiem paņēmieniem:\n1) saskaitot šādus Gada pārskatu un konsolidēto gada pārskatu likuma 2. un 3. pielikumā minētos ieņēmumu veidus:\na) neto apgrozījumu,\nb) pārējos saimnieciskās darbības ieņēmumus,\nc) ieņēmumus no līdzdalības (dividendes), izņemot ieņēmumus no līdzdalības radniecīgo sabiedrību kapitālā,\nd) ieņēmumus no pārējiem vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa finanšu ieguldījumus,\ne) pārējos procentu ieņēmumus un tamlīdzīgus ieņēmumus;\n2) saskaitot tādus ieņēmumu veidus, kādi paredzēti atbilstoši attiecīgajai finanšu pārskatu sagatavošanas sistēmai, uz kuru pamatojoties tiek sagatavoti attiecīgās komercsabiedrības finanšu pārskati (izņemot ieņēmumus no aktīvu un saistību vērtības korekcijām un ieņēmumus no līdzdalības radniecīgo sabiedrību kapitālā (no radniecīgajām sabiedrībām saņemtās dividendes)).\n(4) Šā panta izpratnē:\n1) uzkrātie ienākuma nodokļi ir pārskata gadā aprēķinātā ienākuma nodokļu summa par komercsabiedrības un filiāles peļņu vai zaudējumiem, kas apliekami ar nodokļiem attiecīgajā nodokļu jurisdikcijā;\n2) samaksātie ienākuma nodokļi ir ienākuma nodokļu summa, kuru attiecīgajā pārskata gadā samaksājušas komercsabiedrības un filiāles attiecīgajā nodokļu jurisdikcijā pēc naudas plūsmas (kases) principa."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "16",
+      "title": "Pārskata par ienākuma nodokļiem sagatavošanas speciālie noteikumi",
+      "content": "(1) Sagatavojot pārskatu par ienākuma nodokļiem, ievēro šādus speciālos noteikumus:\n1) aprēķinot šā likuma 15. panta otrās daļas 2. punkta \"c\" apakšpunktā minēto ieņēmumu kopsummu, tajā ietver ieņēmumus, kas radušies darījumos ar saistītajām pusēm;\n2) šā likuma 15. panta ceturtās daļas 1. punktā minētā pārskata gadā aprēķinātā ienākuma nodokļu summa ietver tikai ar komercsabiedrības vai filiāles saimniecisko darbību attiecīgajā pārskata gadā saistīto un izdevumos iekļauto ienākuma nodokļu summu. Tā neietver izdevumus, kas saistīti ar atliktā nodokļa aktīvu vai saistību, vai uzkrājumu paredzamām vai neskaidrām nodokļu saistībām veidošanu;\n3) šā likuma 15. panta ceturtās daļas 2. punktā minētie attiecīgajā pārskata gadā samaksātie ienākuma nodokļi ietver arī tās ienākuma nodokļu summas, kuras pie koncerna (grupas) piederošu komercsabiedrību vai to filiāļu vietā samaksājušas citas šā koncerna (grupas) radniecīgās sabiedrības;\n4) par šā likuma 15. panta otrās daļas 2. punkta \"g\" apakšpunktā minētajiem uzkrātajiem ienākumiem uzskatāma iepriekšējo pārskata gadu un attiecīgā pārskata gada peļņas kopsumma, kuras sadale vēl nav izlemta. Par filiāles uzkrātajiem ienākumiem uzskatāmi tās komercsabiedrības uzkrātie ienākumi, kuras vārdā darbojas konkrētā filiāle.\n(2) Atkāpjoties no šā likuma 15. panta otrajā daļā minētajām prasībām, pārskatu par ienākuma nodokļiem var sagatavot saskaņā ar normatīvajā regulējumā par starptautiskas uzņēmumu grupas pārskatu par katru valsti noteikto aizpildīšanas vispārīgo un speciālo kārtību.\n(3) Pārskatu par ienākuma nodokļiem sagatavo elektroniski mašīnlasāmā formātā, izmantojot ar Eiropas Savienības tieši piemērojamiem normatīvajiem aktiem apstiprināto kopējo veidni un noteikto elektronisko pārskata sniegšanas formātu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "17",
+      "title": "Informācijas sniegšana sadalījumā pa Eiropas Savienības dalībvalstīm un nodokļu jurisdikcijām",
+      "content": "(1) Pārskatā par ienākuma nodokļiem šā likuma 15. pantā vai 16. panta otrajā daļā minēto informāciju norāda sadalījumā pa Eiropas Savienības dalībvalstīm (par katru dalībvalsti atsevišķi). Ja attiecīgajā dalībvalstī ietilpst vairākas nodokļu jurisdikcijas, informāciju apvieno šīs dalībvalsts līmenī.\n(2) Papildus šā panta pirmajā daļā noteiktajam pārskatā par ienākuma nodokļiem šā likuma 15. pantā vai 16. panta otrajā daļā minēto informāciju norāda arī:\n1) atsevišķi par katru nodokļu jurisdikciju, kas:\na) tā gada 1. martā, par kuru sagatavots pārskats, uzskatāma par tādu nodokļu jurisdikciju, kas nodokļu nolūkos nesadarbojas,\nb) tā gada 1. martā, par kuru sagatavots pārskats, kā arī iepriekšējā gada 1. martā uzskatāma par tādu nodokļu jurisdikciju, kas sadarbojas nolūkā īstenot labas nodokļu pārvaldības principus;\n2) apkopotā veidā par citām nodokļu jurisdikcijām, kas nav šā panta pirmajā daļā vai šīs daļas 1. punktā minētās nodokļu jurisdikcijas.\n(3) Šajā pantā minēto nodokļu jurisdikciju nosaka, pamatojoties uz radniecīgās sabiedrības, atsevišķas komercsabiedrības vai filiāles izveidošanas vai reģistrācijas vietu vai konkrētās saimnieciskās darbības vai pastāvīgās saimnieciskās darbības vietu, kurā, ņemot vērā attiecīgās radniecīgās sabiedrības, atsevišķas komercsabiedrības vai filiāles veikto saimniecisko darbību, to var aplikt ar ienākuma nodokļiem attiecīgajā nodokļu jurisdikcijā.\n(4) Ja vairāku radniecīgo sabiedrību saimniecisko darbību var aplikt ar ienākuma nodokļiem vienā nodokļu jurisdikcijā, informāciju, kuru pārskatā par ienākuma nodokļiem attiecina uz šo vienu nodokļu jurisdikciju, aprēķina, summējot informāciju par katras šādas radniecīgās sabiedrības un tās filiāļu (ja tādas ir) saimniecisko darbību minētajā nodokļu jurisdikcijā.\n(5) Sagatavojot pārskatu par ienākuma nodokļiem, informāciju par konkrētu saimniecisko darbību attiecina tikai uz vienu nodokļu jurisdikciju.\n(6) Šā panta otrajā daļā minētās nodokļu jurisdikcijas ir Eiropas Savienības Padomes 2017. gada 5. decembra secinājumu par Eiropas Savienības sarakstu ar jurisdikcijām, kas nodokļu nolūkos nesadarbojas, I un II pielikumā minētās jurisdikcijas, kas nodokļu nolūkos nesadarbojas.\n(7) Finanšu ministrija nekavējoties paziņo šā panta sestajā daļā minēto aktualizēto jurisdikciju sarakstu pēc Eiropas Savienības Padomes secinājumu par pārskatīto Eiropas Savienības sarakstu ar jurisdikcijām, kas nodokļu nolūkos nesadarbojas, un to I un II pielikuma publicēšanas Eiropas Savienības Oficiālajā Vēstnesī, nosūtot aktualizēto jurisdikciju sarakstu publicēšanai oficiālajā izdevumā \"Latvijas Vēstnesis\" un publicējot ministrijas tīmekļvietnē."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "18",
+      "title": "Iespēja uz laiku atkāpties no konkrētām informācijas sniegšanas prasībām",
+      "content": "(1) Pārskatā par ienākuma nodokļiem atļauts uz laiku neiekļaut vienu vai vairākus konkrētus informācijas elementus no šā likuma 15. panta otrās daļas 2. punktā vai 16. panta otrajā daļā noteiktā informācijas kopuma (turpmāk — iespēja uz laiku atkāpties no konkrētām informācijas sniegšanas prasībām), ja konkrētas informācijas atklāšana varētu nopietni kaitēt to komercsabiedrību komerciālajām interesēm, uz kurām šis pārskats attiecas. Šādā gadījumā pārskatā par ienākuma nodokļiem skaidri norāda, kurš informācijas elements nav iekļauts, un, pienācīgi pamatojot, paskaidro tā neiekļaušanas iemeslu.\n(2) Ja komercsabiedrība izmantojusi šā panta pirmajā daļā minēto iespēju uz laiku atkāpties no konkrētām informācijas sniegšanas prasībām, visu saskaņā ar šā panta pirmo daļu neiekļauto informāciju iekļauj vēlākā pārskatā par ienākuma nodokļiem, bet ne vēlāk kā piecus gadus no šīs informācijas sākotnējās neiekļaušanas dienas.\n(3) Šā panta pirmajā daļā minētā iespēja uz laiku atkāpties no konkrētām informācijas sniegšanas prasībām nav attiecināma uz informāciju, kas saskaņā ar šā likuma 17. panta otrās daļas 1. punktu sniedzama atsevišķi par katru nodokļu jurisdikciju, kas:\n1) tā gada 1. martā, par kuru sagatavots pārskats, uzskatāma par tādu nodokļu jurisdikciju, kas nodokļu nolūkos nesadarbojas;\n2) tā gada 1. martā, par kuru sagatavots pārskats, kā arī iepriekšējā gada 1. martā uzskatāma par tādu nodokļu jurisdikciju, kas sadarbojas nolūkā īstenot labas nodokļu pārvaldības principus."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "19",
+      "title": "Papildu informācijas sniegšana pārskatā par ienākuma nodokļiem",
+      "content": "Šajā likumā minētās personas, kurām ir pienākums sagatavot, iesniegt un publiskot pārskatu par ienākuma nodokļiem, šajā pārskatā (attiecīgā gadījumā — koncerna (grupas) līmenī) var sniegt papildu informāciju, lai paskaidrotu jebkādas būtiskas atšķirības starp attiecīgajā pārskata gadā uzkrāto ienākuma nodokļu summu un samaksāto ienākuma nodokļu summu, un, ja nepieciešams, skaidrojumus pamatot ar attiecīgajiem iepriekšējo pārskata gadu datiem."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "20",
+      "title": "Vērtības mērs pārskatā par ienākuma nodokļiem",
+      "content": "(1) Pārskatā par ienākuma nodokļiem vērtības mērs ir tā pati valūta, kas lietota par vērtības mēru galvenās mātes sabiedrības sagatavotajos konsolidētajos finanšu pārskatos vai atsevišķas komercsabiedrības gada finanšu pārskatos. Galvenās mātes sabiedrības vai atsevišķas komercsabiedrības sagatavotā pārskata par ienākuma nodokļiem pārrēķināšana no valūtas, kas lietota par vērtības mēru, uz euro publiskošanas vajadzībām nav nepieciešama.\n(2) Šā likuma 10. pantā minētajā gadījumā meitas sabiedrība, sagatavojot pārskatu par ienākuma nodokļiem, par vērtības mēru lieto euro — to pašu valūtu, kuru meitas sabiedrība lieto par vērtības mēru, sagatavojot savus publiskošanai paredzētos gada pārskatus.\n(3) Ja pārskata par ienākuma nodokļiem sagatavošanas vajadzībām nepieciešams šā likuma 4. , 5. , 9. un 12. pantā minēto kritēriju robežvērtības pārrēķināt no euro uz ārvalstu valūtu, tad, pārrēķinot tās\n1) tādas Eiropas Savienības dalībvalsts valūtā, kura nav ieviesusi euro , izmanto valūtas kursu, kas 2021. gada 21. decembrī publicēts Eiropas Savienības Oficiālajā Vēstnesī. Pārrēķināšanā uz attiecīgās dalībvalsts valūtu iegūtās kritēriju robežvērtības summu var noapaļot līdz tuvākajam tūkstotim, samazinot vai palielinot, bet ne vairāk kā par pieciem procentiem, ja to paredz attiecīgās dalībvalsts normatīvais regulējums;\n2) trešās valsts valūtā, izmanto 2021. gada 21. decembrī Eiropas Centrālās bankas publicēto euro atsauces kursu, bet, ja konkrētai ārvalstu valūtai nav Eiropas Centrālās bankas publicētā euro atsauces kursa, izmanto cita pasaules finanšu tirgus atzīta finanšu informācijas sniedzēja periodiskajā izdevumā vai tīmekļvietnē 2021. gada 21. decembrī publicēto valūtas tirgus kursu. Pārrēķināšanā uz attiecīgo trešās valsts valūtu iegūtās kritēriju robežvērtības noapaļo līdz tuvākajam tūkstotim."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Pārskata par ienākuma nodokļiem saturs un sagatavošanas kārtība",
+      "section": "21",
+      "title": "Obligātā informācija par pārskata par ienākuma nodokļiem sagatavošanas pamatu",
+      "content": "Pārskatā par ienākuma nodokļiem norāda, vai šis pārskats sagatavots saskaņā ar šā likuma 15. pantā un 16. panta pirmajā daļā ietvertajiem noteikumiem vai tas sagatavots saskaņā ar šā likuma 16. panta otro daļu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Pārskata par ienākuma nodokļiem parakstīšana, iesniegšana, publiskošana un pārbaude",
+      "section": "22",
+      "title": "Pārskata par ienākuma nodokļiem parakstīšana",
+      "content": "(1) Pārskatu par ienākuma nodokļiem elektroniski paraksta tās komercsabiedrības vadība, kura sagatavojusi attiecīgo pārskatu:\n1) personālsabiedrībā — visi šīs sabiedrības biedri vai tie biedri, kuri ir īpaši pilnvaroti pārstāvēt šo sabiedrību;\n2) kapitālsabiedrībā — valde.\n(2) Ja pārskatu par ienākuma nodokļiem sagatavojusi filiāle, šo pārskatu elektroniski paraksta persona vai personas, kuras pilnvarotas pārstāvēt attiecīgo Eiropas Savienības dalībvalsts vai trešās valsts komercsabiedrību darbībās, kas saistītas ar filiāli.\n(3) Ja meitas sabiedrība vai filiāle saņēmusi iesniegšanai un publiskošanai vai nu attiecīgās starptautiska koncerna (grupas) galvenās mātes sabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, vai attiecīgās atsevišķas komercsabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, sagatavoto pārskatu par ienākuma nodokļiem, tad attiecīgās šā panta pirmajā vai otrajā daļā minētās personas pārliecinās par iesniedzamā un publiskojamā pārskata datu autentiskumu un to elektroniski apliecina."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Pārskata par ienākuma nodokļiem parakstīšana, iesniegšana, publiskošana un pārbaude",
+      "section": "23",
+      "title": "Pārskata par ienākuma nodokļiem iesniegšana un publiskošana",
+      "content": "(1) Pārskatu par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojumu vai filiāles paziņojumu ne vēlāk kā 12 mēnešus pēc pārskata gada bilances datuma elektroniski iesniedz Valsts ieņēmumu dienesta Elektroniskās deklarēšanas sistēmā.\n(2) Valsts ieņēmumu dienests ne vēlāk kā piecu darbdienu laikā pēc šā panta pirmajā daļā minēto dokumentu saņemšanas elektroniski nodod tos Latvijas Republikas Uzņēmumu reģistram (turpmāk — Uzņēmumu reģistrs). Dokumentus Uzņēmumu reģistram nodod tiešsaistes datu pārraides režīmā.\n(3) Uzņēmumu reģistrs pēc šā panta pirmajā daļā minēto dokumentu saņemšanas publisko tos savā tīmekļvietnē.\n(4) Pārskatu par ienākuma nodokļiem, ko iesniedz šā panta pirmajā daļā noteiktajā kārtībā, ir pienākums sagatavot latviešu valodā vai tulkot latviešu valodā, ja meitas sabiedrība vai filiāle saņēmusi iesniegšanai un publiskošanai vai nu attiecīgās starptautiska koncerna (grupas) galvenās mātes sabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, vai attiecīgās atsevišķas komercsabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, sagatavoto pārskatu par ienākuma nodokļiem un tas nav sagatavots latviešu valodā.\n(5) Pārskatā par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojumā vai filiāles paziņojumā norāda ziņas par šā likuma 24. pantā noteikto attiecīgā pārskata vai paziņojuma publiskošanas tīmekļvietni."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Pārskata par ienākuma nodokļiem parakstīšana, iesniegšana, publiskošana un pārbaude",
+      "section": "24",
+      "title": "Pārskata par ienākuma nodokļiem publiskošana tīmekļvietnē un tās pārbaude",
+      "content": "(1) Papildus šā likuma 23. pantā noteiktajam attiecīgie šā likuma subjekti pārskatu par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojumu vai filiāles paziņojumu ne vēlāk kā 12 mēnešus pēc pārskata gada bilances datuma bez maksas publisko arī vienā no šādām tīmekļvietnēm:\n1) ja piemēro šā likuma 4. un 5. pantu , — galvenās mātes sabiedrības vai atsevišķas komercsabiedrības tīmekļvietnē;\n2) ja piemēro šā likuma 9. un 10. pantu , — meitas sabiedrības vai tai radniecīgās sabiedrības tīmekļvietnē;\n3) ja piemēro šā likuma 12. pantu , — filiāles tīmekļvietnē vai komercsabiedrības, kas atvērusi šo filiāli, vai tai radniecīgās sabiedrības tīmekļvietnē.\n(2) Atkāpjoties no šā panta pirmajā daļā minētajām prasībām, ja pārskats par ienākuma nodokļiem šā likuma 23. pantā noteiktajā kārtībā ir iesniegts un publiskots Uzņēmumu reģistra tīmekļvietnē mašīnlasāmā elektroniskā ziņošanas formātā un ir bez maksas pieejams cilvēklasāmā formātā jebkurai personai, kas atrodas Eiropas Savienībā, tad attiecīgais šā panta pirmās daļas 1., 2. vai 3. punktā minētais subjekts ir atbrīvots no pārskata par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojuma vai filiāles paziņojuma publiskošanas savā tīmekļvietnē. Šādā gadījumā attiecīgajā tīmekļvietnē ietver informāciju par minēto atbrīvojumu un atsauci uz Uzņēmumu reģistra tīmekļvietni.\n(3) Pārskats par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojums vai filiāles paziņojums šā panta pirmajā daļā minētajā tīmekļvietnē ir bez maksas publiski pieejams vismaz piecus gadus no dienas, kad tas tur ievietots.\n(4) Valsts ieņēmumu dienests pārbauda, vai pārskats par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojums vai filiāles paziņojums vai arī informācija par publiskošanas atbrīvojumu ir publiskota tīmekļvietnē šajā pantā noteiktajā kārtībā.\n(5) Valsts ieņēmumu dienests, konstatējot šajā pantā noteikto prasību pārkāpumu, var noteikt pienākumu noteiktā termiņā publiskot pārskatu par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojumu vai filiāles paziņojumu vai arī informāciju par publiskošanas atbrīvojumu."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Pārskata par ienākuma nodokļiem parakstīšana, iesniegšana, publiskošana un pārbaude",
+      "section": "25",
+      "title": "Par pārskata par ienākuma nodokļiem sagatavošanu, iesniegšanu un publiskošanu tīmekļvietnē atbildīgās personas",
+      "content": "(1) Par pārskata par ienākuma nodokļiem sagatavošanu, iesniegšanu šā likuma 23. pantā noteiktajā kārtībā un publiskošanu tīmekļvietnē šā likuma 24. pantā noteiktajā kārtībā ir atbildīgi galvenās mātes sabiedrības un atsevišķas komercsabiedrības (akciju sabiedrības, sabiedrības ar ierobežotu atbildību) valdes un padomes (ja ir izveidota padome) locekļi.\n(2) Ja galvenā mātes sabiedrība vai atsevišķa komercsabiedrība ir personālsabiedrība (pilnsabiedrība, komandītsabiedrība), par pārskata par ienākuma nodokļiem sagatavošanu, iesniegšanu šā likuma 23. pantā noteiktajā kārtībā un publiskošanu tīmekļvietnē šā likuma 24. pantā noteiktajā kārtībā ir atbildīgi visi šīs personālsabiedrības biedri vai tie biedri, kuri ir īpaši pilnvaroti pārstāvēt šo sabiedrību.\n(3) Par starptautiska koncerna (grupas) galvenās mātes sabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, pārskata par ienākuma nodokļiem un — attiecīgā gadījumā — meitas sabiedrības paziņojuma sagatavošanu, iesniegšanu šā likuma 23. pantā noteiktajā kārtībā un publiskošanu tīmekļvietnē šā likuma 24. pantā noteiktajā kārtībā ir atbildīgi meitas sabiedrības (akciju sabiedrības, sabiedrības ar ierobežotu atbildību) valdes un padomes (ja ir izveidota padome) locekļi atbilstoši viņu zināšanām un spējām.\n(4) Par atsevišķas komercsabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, vai starptautiska koncerna (grupas) galvenās mātes sabiedrības, kas nav Latvijas Republikā reģistrēta komercsabiedrība, pārskata par ienākuma nodokļiem un — attiecīgā gadījumā — filiāles paziņojuma sagatavošanu, iesniegšanu šā likuma 23. pantā noteiktajā kārtībā un publiskošanu tīmekļvietnē šā likuma 24. pantā noteiktajā kārtībā ir atbildīga persona vai personas, kuras pilnvarotas pārstāvēt Eiropas Savienības dalībvalsts vai citu valstu komersantu darbībās, kas saistītas ar filiāli, atbilstoši minēto personu zināšanām un spējām."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Pārskata par ienākuma nodokļiem parakstīšana, iesniegšana, publiskošana un pārbaude",
+      "section": "26",
+      "title": "Zvērināta revidenta vai zvērinātu revidentu komercsabiedrības veikta pārbaude un paziņojums par tās rezultātiem",
+      "content": "(1) Zvērināts revidents vai zvērinātu revidentu komercsabiedrības atbildīgais zvērināts revidents (turpmāk — zvērināts revidents) pārbauda, vai par pārskata gadu, kas bija pirms attiecīgā pārskata gada, par kuru sagatavots revidējamais gada pārskats vai revidējamais konsolidētais gada pārskats (ja ir pienākums tādu sagatavot), šajā likumā minētajai komercsabiedrībai bija pienākums iesniegt Valsts ieņēmumu dienestam pārskatu par ienākuma nodokļiem un, ja bija, vai šis pārskats tika iesniegts Valsts ieņēmumu dienestam atbilstoši šā likuma 23. panta prasībām un publiskots komercsabiedrības tīmekļvietnē atbilstoši šā likuma 24. panta prasībām.\n(2) Ja attiecīgajai komercsabiedrībai bija pienākums iesniegt Valsts ieņēmumu dienestam pārskatu par ienākuma nodokļiem atbilstoši šā likuma 23. panta prasībām, atbildīgā persona nodrošina zvērinātam revidentam iespēju pārliecināties par to, vai šis pārskats tika atbilstoši iesniegts.\n(3) Komercsabiedrības atbildīgā persona sniedz zvērinātam revidentam visu nepieciešamo informāciju, lai zvērināts revidents varētu izpildīt viņam šajā pantā uzlikto pārbaudes pienākumu. Atbildīgā persona sniedz zvērinātam revidentam vismaz šādu informāciju:\n1) ziņas par šīs komercsabiedrības radniecīgajām sabiedrībām un filiālēm, kas reģistrētas ārvalstīs (nosaukums, adrese un reģistrācijas numurs);\n2) informāciju par koncerna (grupas) konsolidēto neto apgrozījumu par iepriekšējiem diviem pārskata gadiem, ja šā panta pirmajā daļā minētajai zvērināta revidenta pārbaudei pakļautā komercsabiedrība ir galvenā mātes sabiedrība;\n3) informāciju par starptautiska koncerna (grupas), kura radniecīgā sabiedrība ir meitas sabiedrība, galvenās mātes sabiedrības sagatavotā konsolidētā finanšu pārskata datiem (pārskata par ienākuma nodokļiem saturs) par diviem pēdējiem pārskata gadiem, ja minētā meitas sabiedrība ir pakļauta šā panta pirmajā daļā noteiktajai zvērināta revidenta pārbaudei."
+    },
+    {
+      "provision_ref": "PN 2024",
+      "chapter": "V nodaļa Pārskata par ienākuma nodokļiem parakstīšana, iesniegšana, publiskošana un pārbaude",
+      "section": "pn2024",
+      "title": "Šā likuma noteikumus piemēro, sākot ar pārskata gadu, kurš sākas 2024. gada 22. jūnijā vai vēlāk.",
+      "content": "Šā likuma noteikumus piemēro, sākot ar pārskata gadu, kurš sākas 2024. gada 22. jūnijā vai vēlāk.\nLikumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes 2021. gada 24. novembra direktīvas (ES) 2021/2101 , ar ko direktīvu 2013/34/ES groza attiecībā uz ienākuma nodokļa informācijas atklāšanu, ko veic konkrēti uzņēmumi un filiāles."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "atsevišķa komercsabiedrība",
+      "definition": "komercsabiedrība, kas nav iekļauta nevienā koncernā (grupā)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "koncerna (grupas) galvenā mātes sabiedrība",
+      "definition": "komercsabiedrība, kas sagatavo koncerna (grupas) lielākā komercsabiedrību kopuma konsolidētos finanšu pārskatus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "koncerns (grupa)",
+      "definition": "komercsabiedrību kopums, kuru veido koncerna (grupas) mātes sabiedrība un visas tās meitas sabiedrības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "konsolidētais finanšu pārskats",
+      "definition": "finanšu pārskats, kuru sagatavo koncerna (grupas) galvenā mātes sabiedrība un kurā koncerna (grupas) sastāvā iekļauto komercsabiedrību līdzekļi (aktīvi) un to avoti — pašu kapitāls, uzkrājumi un saistības, kā arī ieņēmumi un izmaksas — ir apvienoti un norādīti kā vienas komercsabiedrības līdzekļi (aktīvi), to avoti, ieņēmumi un izmaksas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodokļu jurisdikcija",
+      "definition": "jurisdikcija, kurai ir fiskāla autonomija attiecībā uz uzņēmumu ienākuma nodokli un tam pielīdzināmu ienākuma nodokli (turpmāk — ienākuma nodokļi)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "radniecīgās sabiedrības",
+      "definition": "jebkuras divas vai vairākas komercsabiedrības, kuras pieder pie viena un tā paša koncerna (grupas), piemēram, koncerna (grupas) galvenā mātes sabiedrība un tās meitas sabiedrība, divas vai vairākas meitas sabiedrības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "starptautisks koncerns (grupa)",
+      "definition": "tāds koncerns (grupa), kura mātes sabiedrības, visu tās meitas sabiedrību, kā arī visu minēto radniecīgo sabiedrību filiāļu saimnieciskās darbības vieta nav tikai vienas valsts teritorija vai viena nodokļu jurisdikcija",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "trešā valsts",
+      "definition": "jebkura valsts, izņemot Eiropas Savienības dalībvalsti, Eiropas Ekonomikas zonas valsti un Šveices Konfederāciju.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

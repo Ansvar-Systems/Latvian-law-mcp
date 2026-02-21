@@ -1,0 +1,451 @@
+{
+  "id": "lv-law-324249",
+  "type": "statute",
+  "title": "Grāmatvedības likums",
+  "title_en": "Accounting Law",
+  "short_name": "TA-324249",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/324249-gramatvedibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) elektronisks apliecinājums — elektroniskā formā sagatavotajā attaisnojuma dokumentā minētā saimnieciskā darījuma esības un sniegtās informācijas pareizības apstiprinājums grāmatvedības informācijas datorsistēmā vai citā informācijas sistēmā, kas veikts uzņēmuma vadītāja noteiktajā veidā un saskaņā ar normatīvajiem aktiem fizisko personu elektroniskās identifikācijas jomā ļauj identificēt konkrētu personu — apliecinājuma devēju. Elektronisks apliecinājums var būt, piemēram:\na) datorsistēmā izveidoti piekļuves kontroles noteikumi, saskaņā ar kuriem piekļuve dokumentam iespējama tikai pēc reģistrēšanās ar konkrētu lietotājvārdu vai paroli,\nb) dokumentam pievienotas datnes — pielikumi ar noteikta satura informāciju,\nc) secīgu darbību kopuma veikšana lietvedības sistēmā;\n2) grāmatvedības dokumenti — attaisnojuma dokumenti, grāmatvedības reģistri, inventarizācijas saraksti, gada pārskati un grāmatvedības organizācijas dokumenti elektroniskā vai papīra formā;\n3) grāmatvedības kontu plāns — uzņēmuma vadītāja izdots ilglaicīgai lietošanai paredzēts sistematizēts grāmatvedības kontu saraksts, kuru izmanto, kārtojot grāmatvedību divkāršā ieraksta sistēmā, un kurā saskaņā ar uzņēmumā pieņemto detalizācijas pakāpi norādīti grāmatvedības kontu nosaukumi un tiem piešķirtie kodi (ja uzņēmumā tādi piešķirti). Grāmatvedības konti paredzēti pēc saimnieciskās būtības līdzīgu uzņēmuma mantas (aktīvu) un to avotu (pasīvu) posteņu sastāvdaļu vērtības un tās izmaiņu uzskaitei grāmatvedības reģistros (bilances konti), kā arī ieņēmumu vai izdevumu posteņu un to sastāvdaļu vērtības un tās izmaiņu uzskaitei grāmatvedības reģistros (operāciju konti);\n4) grāmatvedības reģistri — dokumentu kopums (hronoloģiskie un sistemātiskie reģistri, tai skaitā galvenā grāmata vai žurnāls-virsgrāmata un analītiskās uzskaites reģistri), kur tiek uzkrāta un pēc konkrētām pazīmēm grupēta (sistematizēta) attaisnojuma dokumentos ietvertā informācija par saimnieciskajiem darījumiem. Grāmatvedības reģistri var tikt sagatavoti elektroniskā vai papīra formā;\n5) grāmatvedības organizācijas dokumenti — tādu uzņēmuma vadītāja izdotu dokumentu kopums, kuros noteikta kārtība, kādā, ievērojot normatīvo aktu prasības, uzņēmumā kārto grāmatvedības reģistrus, sagatavo attaisnojuma dokumentus un organizē to apriti, veic inventarizāciju, sagatavo gada pārskatu un citus grāmatvedības pārskatus un glabā grāmatvedības dokumentus. Šajā dokumentu kopumā iekļaujams arī grāmatvedības kontu plāns, grāmatvedības politika (attiecas uz finanšu pārskatu sagatavošanu uzņēmumā, kas nav budžeta iestāde) vai grāmatvedības uzskaites kārtība (attiecas uz finanšu pārskatu sagatavošanu budžeta iestādē) un citi uzņēmuma vadītāja izdotie dokumenti, kas nepieciešami uzņēmuma grāmatvedības kārtošanai;\n6) manta — uzņēmuma saimnieciskajai darbībai vai mērķu īstenošanai izmantotie līdzekļi, tai skaitā nauda un naudas izteiksmē novērtējamas lietas — kustamas vai nekustamas ķermeniskas lietas (piemēram, zemes gabali, ēkas, transportlīdzekļi, preces) un bezķermeniskas lietas (piemēram, koncesijas, licences, finanšu instrumenti, aizdevumi un citi prasījumi), ko uzņēmums norāda finanšu pārskata sastāvdaļas — bilances (ja tādu sagatavo) — aktīvā;\n7) saimnieciskais darījums — jebkurš tiesisks darījums ( Civillikuma izpratnē), kā arī katrs fakts vai notikums, kas rada pārmaiņas uzņēmuma saistībās vai mantas stāvoklī. Pārmaiņas mantas stāvoklī ir mantas sastāva vai vērtības izmaiņas;\n8) saimnieciskā darījuma diena — jebkura diena, kurā faktiski notikušas pārmaiņas uzņēmuma saistībās vai mantas stāvoklī;\n9) strukturēts elektroniskais rēķins — rēķins, kurš sagatavots, nosūtīts un saņemts strukturētā elektroniskā formātā, kas ļauj to automātiski un elektroniski apstrādāt, un kurš atbilst Eiropas Savienības standartam LVS EN 16931-1:2017 \"Elektroniskie rēķini. 1. daļa. Elektronisko rēķinu pamatelementu semantisko datu modelis\", un kuru uzņēmums izraksta atbilstoši tehniskajai specifikācijai LVS CEN/TS 16931-2:2017 \"Elektroniskie rēķini. 2. daļa: Standartam EN 16931-1 atbilstošo sintakšu saraksts\";\n10) uzņēmuma vadītājs :\na) personālsabiedrībā un Eiropas ekonomisko interešu grupā — visi šīs sabiedrības vai grupas biedri vai tie sabiedrības vai grupas biedri, kuri ir pilnvaroti pārstāvēt sabiedrību vai grupu,\nb) kapitālsabiedrībā, Eiropas komercsabiedrībā, kooperatīvajā sabiedrībā un Eiropas kooperatīvajā sabiedrībā — valde,\nc) individuālajā uzņēmumā, zemnieka vai zvejnieka saimniecībā — attiecīgi uzņēmuma vai saimniecības īpašnieks,\nd) ārvalsts komersanta filiālē un nerezidenta (ārvalsts komersanta) pastāvīgajā pārstāvniecībā — persona, kura pilnvarota pārstāvēt ārvalsts komersantu (nerezidentu) darbībās, kas saistītas ar filiāli vai pastāvīgo pārstāvniecību,\ne) budžeta iestādē, no valsts budžeta daļēji finansētā atvasinātā publiskā personā un budžeta nefinansētā iestādē Likuma par budžetu un finanšu vadību izpratnē (turpmāk — budžeta iestādes) — amatpersona, kas īsteno attiecīgās iestādes vispārējo administratīvo vadību,\nf) biedrībā, nodibinājumā, politiskajā organizācijā (partijā), politisko organizāciju (partiju) apvienībā, arodbiedrībā un arodbiedrību apvienībā, kā arī Eiropas politiskajā partijā un Eiropas politiskajā fondā — izpildinstitūcija vai pārvaldes institūcija (valde),\ng) reliģiskajā organizācijā un tās iestādē — vadība (vadības institūcija),\nh) individuālais komersants un cita fiziskā persona, kas veic saimniecisko darbību,\ni) fizisko personu, kuras veic saimniecisko darbību, apvienībā — visi šīs apvienības biedri vai tie biedri, kuri ir pilnvaroti pārstāvēt šo apvienību,\nj) uzņēmumā, kuram pasludināts maksātnespējas process, — maksātnespējas procesa administrators (turpmāk — administrators).\n(2) (Izslēgta ar 31.10.2024 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un darbības joma",
+      "content": "(1) Likuma mērķis ir veicināt patiesa un skaidra priekšstata nodrošināšanu par uzņēmumu finansiālo stāvokli.\n(2) Likums nosaka grāmatvedības jomas vispārīgos un tiesiskos pamatus, likuma subjektu tiesības, pienākumus un atbildību, grāmatvedības uzdevumus, grāmatvedības kārtošanu reglamentējošās prasības, administratīvos pārkāpumus grāmatvedības jomā un kompetenci administratīvo pārkāpumu procesā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma subjekti",
+      "content": "(1) Likums attiecas uz:\n1) Latvijas Republikā reģistrētajām komercsabiedrībām, kooperatīvajām sabiedrībām, ārvalstu komersantu filiālēm un nerezidentu (ārvalstu komersantu) pastāvīgajām pārstāvniecībām, biedrībām, nodibinājumiem, arodbiedrībām un to apvienībām, politiskajām organizācijām (partijām) un to apvienībām, reliģiskajām organizācijām un to iestādēm;\n2) Latvijas Republikā reģistrētajām Eiropas ekonomisko interešu grupām, Eiropas kooperatīvajām sabiedrībām, Eiropas komercsabiedrībām, Eiropas politiskajām partijām un Eiropas politiskajiem fondiem;\n3) budžeta iestādēm;\n4) individuālajiem komersantiem, individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, citām fiziskajām personām, kas veic saimniecisko darbību, un to apvienībām.\n(2) Ar šajā likumā lietoto terminu \"uzņēmums\" saprot visus šā panta pirmajā daļā minētos likuma subjektus."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Grāmatvedības uzdevumi",
+      "content": "Grāmatvedības uzdevumi ir šādi:\n1) nodrošināt uzņēmuma vadību ar grāmatvedības informāciju, kas nepieciešama saimnieciska rakstura lēmumu pieņemšanai;\n2) nodrošināt finanšu pārskatu lietotājus ar patiesu un pilnīgu informāciju par uzņēmuma mantu, saistībām, finansiālo stāvokli, saimnieciskās darbības rezultātiem un naudas plūsmu;\n3) veikt nodokļu aprēķināšanu;\n4) nodrošināt ieņēmumu un izdevumu norobežošanu pa pārskata periodiem."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Grāmatvedības kontrole",
+      "content": "(1) Grāmatvedības kontrole ir pasākumi, kurus veic, lai kontrolētu uzņēmuma finanšu uzskaites precizitāti un ticamību, uzņēmuma mantas saglabāšanu un nodokļu aprēķināšanas pareizību, kā arī lai pārliecinātos, vai grāmatvedības sniegtā informācija ir patiesa, salīdzināma, savlaicīga, nozīmīga, saprotama un pilnīga.\n(2) Uzņēmuma grāmatvedības kontroles sistēma ir uzņēmuma vadītāja noteikto kontroles pasākumu kopums, kuru īstenojot tiek nodrošināta grāmatvedības uzdevumu izpilde.\n(3) Grāmatvedības kontroles pasākumu veidus nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Vispārīgās grāmatvedības kārtošanas prasības",
+      "content": "(1) Grāmatvedības kārtošana ir ciklisks process, kas ietver vairākus secīgus grāmatvedības darba posmus, kurus veicot iegūst finanšu pārskatus vai informāciju nodokļu aprēķināšanai par attiecīgo pārskata periodu (mēnesi, ceturksni vai gadu). Pilns grāmatvedības cikls attiecas uz pārskata gadu, un tajā ir šādi galvenie posmi:\n1) grāmatvedības kontu atvēršana;\n2) uzņēmuma saimniecisko darījumu analīze un reģistrēšana grāmatvedības reģistros (turpmāk arī — iegrāmatošana);\n3) grāmatvedības kontu atlikumu aprēķināšana;\n4) grāmatvedības kontu apgrozījumu un atlikumu pārskata sagatavošana;\n5) koriģējošo un slēguma ierakstu iegrāmatošana;\n6) finanšu pārskatu sagatavošana un nodokļu aprēķināšana.\n(2) Grāmatvedību kārto tā, lai grāmatvedības jautājumos kompetenta trešā persona varētu gūt patiesu un skaidru priekšstatu par uzņēmuma saistībām, mantu un finansiālo stāvokli noteiktā datumā, saimnieciskās darbības rezultātiem un naudas plūsmu noteiktā laikposmā, kā arī konstatēt katra saimnieciskā darījuma sākumu un izsekot tā norisei.\n(3) Grāmatvedībā reģistrējami visi uzņēmuma saimnieciskie darījumi.\n(4) Grāmatvedības sniegtajai informācijai jābūt patiesai, salīdzināmai, savlaicīgai, nozīmīgai, saprotamai un pilnīgai.\n(5) Ja grāmatvedību kārto elektroniski, izmantojot grāmatvedības datorprogrammu vai grāmatvedības informācijas datorsistēmu programmatūru, tad grāmatvedības dokumentus datora vai citas elektroniskas ierīces ekrānā attēlo cilvēklasāmā formātā un nodrošina iespēju veidot šo dokumentu atvasinājumus papīra formā (izdrukas).\n(6) Cilvēklasāms formāts ir elektronisks datu attēlošanas veids, ko fiziskā persona var izmantot kā informāciju bez jebkādas papildu apstrādes.\n(7) Ministru kabinets nosaka:\n1) grāmatvedības organizācijas dokumentu izstrādāšanas noteikumus;\n2) grāmatvedības datorprogrammu un grāmatvedības informācijas datorsistēmu programmatūras lietošanas prasības."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Vērtības mērs grāmatvedībā",
+      "content": "(1) Grāmatvedībā par vērtības mēru lieto euro .\n(2) Grāmatvedībā izmantojamais ārvalstu valūtas kurss ir Eiropas Centrālās bankas publicētais euro atsauces kurss, bet, ja konkrētai ārvalstu valūtai nav Eiropas Centrālās bankas publicētā euro atsauces kursa, izmanto pasaules finanšu tirgus atzīta finanšu informācijas sniedzēja periodiskajā izdevumā vai tā tīmekļvietnē publicēto valūtas tirgus kursu attiecībā pret euro .\n(3) Ja attaisnojuma dokumentā izmantotais vērtības mērs ir ārvalstu valūta, tad tajā norādītās summas naudas izteiksmē ierakstiem grāmatvedības reģistros pārrēķina euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu, kas ir spēkā saimnieciskā darījuma dienas sākumā.\n(4) Katra pārskata gada beigās ārvalstu valūtas naudas atlikumus (piemēram, skaidru naudu uzņēmuma kasē, bezskaidru naudu maksājumu kontos vai pieprasījuma noguldījuma kontos), ārvalstu valūtas termiņnoguldījumu atlikumus un ārvalstu valūtā izteikto avansu, aizdevumu vai aizņēmumu atlikumus, kā arī citus debitoru vai kreditoru parādu atlikumus (prasījumus un saistības), kas saņemami vai maksājami ārvalstu valūtā, pārrēķina euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu, kas ir spēkā pārskata gada pēdējās dienas beigās.\n(5) Uzņēmums, kurš gada pārskatu sagatavo saskaņā ar finanšu tirgus dalībnieku darbību reglamentējošajiem likumiem un uz to pamata izdotiem normatīvajiem aktiem, ja tam ir pietiekams pamats, var atkāpties no šā panta otrās daļas noteikumiem un šā panta trešajā un ceturtajā daļā minētajos gadījumos ārvalstu valūtā izteikto summu pārrēķināšanai euro izmantot citu valūtas tirgus kursu avotu, kas noteikts šā uzņēmuma grāmatvedības organizācijas dokumentos."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "8",
+      "title": "Grāmatvedības reģistru kārtošanas vispārīgie noteikumi",
+      "content": "(1) Grāmatvedības reģistros izdara ierakstus, kas pamatoti ar attaisnojuma dokumentiem.\n(2) Ierakstus grāmatvedības reģistros izdara savlaicīgi, nodrošinot, ka tie ir pilnīgi, precīzi un sistemātiski sakārtoti. Nav pieļaujami ieraksti, kuru saturs atšķiras no attaisnojuma dokumenta.\n(3) Izdarot ierakstus grāmatvedības reģistros, atļauts lietot kodus, saīsinājumus, atsevišķus burtus vai simbolus (turpmāk — kodi). Uzņēmuma vadītāja noteiktos kodus (piemēram, grāmatvedības kontu plānā noteiktos kodus, krājumu uzskaitei lietotos kodus) skaidro uzņēmuma grāmatvedības organizācijas dokumentos.\n(4) Ministru kabinets nosaka:\n1) grāmatvedības reģistru kārtošanas prasības;\n2) kārtību, kādā labo vai papildina ierakstus grāmatvedības reģistros un attaisnojuma dokumentos."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "9",
+      "title": "Grāmatvedības reģistros lietojamā valoda",
+      "content": "(1) Grāmatvedības reģistros ierakstus izdara latviešu valodā.\n(2) Grāmatvedības reģistros, izdarot ierakstus, papildus latviešu valodai var lietot arī otru valodu."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "10",
+      "title": "Grāmatvedības reģistru kārtošana divkāršā un vienkāršā ieraksta sistēmā",
+      "content": "(1) Grāmatvedības reģistri kārtojami divkāršā ieraksta sistēmā, ciktāl šajā likumā nav noteikts citādi.\n(2) Divkāršā ieraksta sistēma ir grāmatvedības metode, saskaņā ar kuru katru saimniecisko darījumu reģistrē, vienu un to pašu summu ierakstot grāmatvedības kontu debetā un kredītā saskaņā ar uzņēmumā lietoto grāmatvedības kontu plānu un saimnieciskā darījuma būtībai atbilstošu grāmatvedības kontu savstarpējo saistību (kontu korespondenci).\n(3) Atkāpjoties no šā panta pirmajā daļā noteiktās prasības par divkāršā ieraksta sistēmu, grāmatvedības reģistrus vienkāršā ieraksta sistēmā atļauts kārtot:\n1) individuālajiem komersantiem un citām fiziskajām personām, kas veic saimniecisko darbību, individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, ja šajā punktā minēto personu apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem iepriekšējā pārskata gadā nepārsniedz 300 000 euro . Kārtību, kādā šīs personas kārto grāmatvedību vienkāršā ieraksta sistēmā, nosaka Ministru kabinets;\n2) biedrībām, nodibinājumiem, arodbiedrībām un to apvienībām, kuru apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem divus iepriekšējos pārskata gadus pēc kārtas nepārsniedz 100 000 euro pārskata gadā. Kārtību, kādā šīs personas kārto grāmatvedību vienkāršā ieraksta sistēmā, nosaka Ministru kabinets;\n3) reliģiskajām organizācijām un to iestādēm, kuru apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem divus iepriekšējos pārskata gadus pēc kārtas nepārsniedz 100 000 euro pārskata gadā. Kārtību, kādā šīs personas kārto grāmatvedību vienkāršā ieraksta sistēmā, nosaka Ministru kabinets.\n(4) Vienkāršā ieraksta sistēma ir grāmatvedības metode, saskaņā ar kuru, neizmantojot grāmatvedības kontus, reģistrē skaidrās un bezskaidrās naudas ieņēmumus, izdevumus un atlikumus, kā arī mantas stāvokļa izmaiņas, ciktāl tas nepieciešams nodokļu aprēķināšanai vai mantas un norēķinu kontrolei."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "11",
+      "title": "Attaisnojuma dokumenti, to iedalījums un attaisnojuma dokumentā ietveramie rekvizīti un informācija",
+      "content": "(1) Attaisnojuma dokuments ir dokuments, kurš apliecina uzņēmuma saimnieciskā darījuma esību un kurā ietverti vismaz šā panta piektajā daļā minētie rekvizīti un informācija par saimniecisko darījumu. Attaisnojuma dokumentu var sagatavot elektroniskā vai papīra formā. Attaisnojuma dokumentu sagatavo tā, lai visā tā glabāšanas laikā nezustu tajā ietvertā informācija, kā arī būtu iespējams radīt šā dokumenta atvasinājumu.\n(2) Attaisnojuma dokumentus iedala ārējos attaisnojuma dokumentos un iekšējos attaisnojuma dokumentos.\n(3) Par ārēju attaisnojuma dokumentu uzskatāms uzņēmumā saņemtais attaisnojuma dokuments, kura autors ir cits saimnieciskā darījuma dalībnieks, kā arī tāds dokuments, kura autors ir pašu uzņēmums, ja attaisnojuma dokuments paredzēts izsniegšanai (nosūtīšanai) citam saimnieciskā darījuma dalībniekam. Visi pārējie attaisnojuma dokumenti uzskatāmi par uzņēmuma iekšējiem attaisnojuma dokumentiem.\n(4) Ja kādam saimnieciskajam darījumam ir ārējs attaisnojuma dokuments, tam dodama priekšroka salīdzinājumā ar jebkuru iekšēju attaisnojuma dokumentu.\n(5) Attaisnojuma dokumentā ietverami vismaz šādi rekvizīti un informācija par saimniecisko darījumu:\n1) dokumenta veida nosaukums;\n2) dokumenta datums;\n3) dokumenta numurs;\n4) ziņas par uzņēmumu, kas ir saimnieciskā darījuma dalībnieks, kurš savā vārdā izdod dokumentu (turpmāk — dokumenta autors):\na) dokumenta autora nosaukums (komercsabiedrībai, individuālajam komersantam — firma), reģistrācijas numurs vai nodokļu maksātāja reģistrācijas kods,\nb) ja dokumenta autors ir tāda fiziskā persona, kas veic saimniecisko darbību, bet nav individuālais komersants, — vārds un uzvārds, nodokļu maksātāja reģistrācijas kods;\n5) ziņas, kas ļauj nepārprotami identificēt citus saimnieciskā darījuma dalībniekus, ja tādi ir (norāda tādas pašas ziņas, kādas šīs daļas 4. punktā noteiktas attiecībā uz dokumenta autoru);\n6) ja cits saimnieciskā darījuma dalībnieks ir fiziskā persona, kas neveic saimniecisko darbību, — vārds un uzvārds. Personas kodu (ja personai tāds piešķirts) norāda pēc šīs personas pieprasījuma vai ja tas izriet no citiem normatīvajiem aktiem;\n7) saimnieciskā darījuma apraksts un vērtība naudas izteiksmē, bet normatīvajos aktos noteiktajos gadījumos — arī cita informācija par saimniecisko darījumu (piemēram, daudzums, mērvienība);\n8) atsevišķiem attaisnojuma dokumentu veidiem — arī citi normatīvajos aktos noteiktie obligātie rekvizīti;\n9) par attaisnojuma dokumentā sniegtās informācijas pareizību atbildīgās personas paraksts (izņemot šā panta sestajā, septītajā un astotajā daļā minētos gadījumus).\n(6) Uzņēmums ir tiesīgs iekšējā attaisnojuma dokumentā, ja tas sagatavots elektroniskā formā, rekvizītu \"paraksts\" aizstāt ar elektronisku apliecinājumu.\n(7) Par ārēju attaisnojuma dokumentu var uzskatīt arī tādu dokumentu, kas nesatur rekvizītu \"paraksts\", bet satur citus šā panta piektajā daļā attaisnojuma dokumentam noteiktos rekvizītus un informāciju par saimniecisko darījumu, ja:\n1) dokumentu uzņēmums izsniedz citam saimnieciskā darījuma dalībniekam (citam uzņēmumam vai fiziskajai personai, kas neveic saimniecisko darbību) — preces vai pakalpojuma saņēmējam — samaksāšanai (rēķinu) un šajā dokumentā minētā saimnieciskā darījuma esību pamato cits ārējs dokuments, kam ir juridisks spēks Dokumentu juridiskā spēka likuma izpratnē;\n2) dokumentu uzņēmums izsniedz fiziskajai personai, kas neveic saimniecisko darbību, — preces vai pakalpojuma saņēmējam — samaksāšanai (rēķinu) un šajā dokumentā minētā saimnieciskā darījuma esību pamato uzņēmuma vienošanās ar minēto fizisko personu.\n(8) Par ārēju attaisnojuma dokumentu var uzskatīt arī tādu šajā daļā minētu dokumentu, kas nesatur rekvizītu \"paraksts\", bet satur citus šā panta piektajā daļā attaisnojuma dokumentam noteiktos rekvizītus un informāciju par saimniecisko darījumu, ja attiecīgajā dokumentā minētā saimnieciskā darījuma esību uzņēmuma vadītāja noteiktajā kārtībā apliecina dokumenta saņēmēja (uzņēmuma) par saimnieciskā darījuma veikšanu un attaisnojuma dokumentā sniegtās informācijas pareizību atbildīgā persona:\n1) dokumentu, kuru cits uzņēmums izsniedz uzņēmumam — preces vai pakalpojuma saņēmējam — samaksāšanai (rēķinu);\n2) dokumentu, kuru cits uzņēmums izsniedz uzņēmumam — preces vai pakalpojuma saņēmējam — preces vai pakalpojuma pieņemšanai;\n3) dokumentu, kuru pēc uzņēmuma — maksājuma pakalpojuma izmantotāja — pieprasījuma izsniedz maksājumu pakalpojumu sniedzējs ( Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē) par to, ka uzņēmuma — maksājuma pakalpojuma izmantotāja — maksājuma rīkojums ir izpildīts;\n4) neapliecinātu uzņēmuma — maksājuma pakalpojuma izmantotāja — konta izrakstu, kuru pēc maksājuma pakalpojuma izmantotāja pieprasījuma izsniedz maksājumu pakalpojumu sniedzējs ( Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē);\n5) kases čeku, ja tas sagatavots saskaņā ar normatīvajiem aktiem, kas reglamentē nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu lietošanas kārtību.\n(9) Šā panta astotās daļas 1., 3. un 4. punktā minētos ārējos attaisnojuma dokumentus, ja tos nepieciešams apliecināt, uzņēmums — dokumenta sagatavotājs — ir tiesīgs apliecināt ar uzņēmumam izsniegtu kvalificētu elektronisko zīmogu (Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK 3. panta 27. punkta izpratnē).\n(10) Par ārēju attaisnojuma dokumentu var uzskatīt arī ar elektronisko datu pārraides kanālu starpniecību saņemto papīra formā sagatavota attaisnojuma dokumenta atvasinājumu elektroniskā formā un šā atvasinājuma vai elektroniskā formā sagatavotā attaisnojuma dokumenta atvasinājumu papīra formā (izdruku), ja attiecīgajā attaisnojuma dokumenta atvasinājumā minētā saimnieciskā darījuma esību uzņēmuma vadītāja noteiktajā kārtībā apliecina dokumenta saņēmēja (uzņēmuma) par saimnieciskā darījuma veikšanu un attaisnojuma dokumentā sniegtās informācijas pareizību atbildīgā persona. Dokumenta atvasinājuma saņēmēja (uzņēmuma) atbildīgā persona ir tiesīga uzņēmuma vadītāja noteiktajā kārtībā pieprasīt, lai attaisnojuma dokumenta atvasinājuma izsniedzējs uzrāda dokumenta oriģinālu, ja ir nepieciešams pārliecināties par dokumenta atvasinājuma pareizību vai par dokumenta oriģināla juridisko spēku.\n(11) Šā panta piektajā daļā noteiktās prasības attiecībā uz attaisnojuma dokumenta rekvizītiem un informāciju par saimnieciskajiem darījumiem piemēro tiktāl, ciktāl citos normatīvajos aktos nav noteiktas īpašas prasības atsevišķu attaisnojuma dokumentu veidu (piemēram, pievienotās vērtības nodokļa rēķina, strukturēta elektroniskā rēķina) izstrādāšanai un noformēšanai.\n(12) Par ārēju attaisnojuma dokumentu, lai iegrāmatotu aprēķināto nodokli, var tikt uzskatītas arī normatīvajos aktos noteiktās nodokļu deklarācijas. Lai uzskaitītu nodokļu administrācijas un valsts nodevas administrācijas (likuma \" Par nodokļiem un nodevām \" izpratnē) administrētos nodokļus, nodevas un citus tās administrētos uz valsts budžetu attiecināmos maksājumus, par ārēju attaisnojuma dokumentu var tikt uzskatīti minētās administrācijas izdotie dokumenti (piemēram, administratīvajā procesā pieņemtie lēmumi) arī tad, ja šajos dokumentos nav ietverts kāds no šā panta piektajā daļā noteiktajiem rekvizītiem vai norādāmā informācija par saimniecisko darījumu. Nodokļu administrācija un valsts nodevas administrācija, uzskaitot tās administrētos nodokļus, nodevas un citus maksājumus, grāmatvedības reģistros var izdarīt ierakstus, pamatojoties arī uz valsts informācijas sistēmas aprēķiniem konkrētā datumā, kas veikti atbilstoši normatīvajiem aktiem.\n(13) Attaisnojuma dokumentu noformēšanas kārtību un prasības attaisnojuma dokumentiem, kurus sagatavo attiecībā uz precēm, citām materiālajām vērtībām un pakalpojumiem, kā arī saistībā ar skaidras vai bezskaidras naudas avansa izlietojumu vai darbinieku izdevumu atlīdzināšanu, nosaka Ministru kabinets.\n(14) Attaisnojuma dokumentu, kuru uzņēmums izsniedz citam Latvijas Republikā reģistrētam uzņēmumam — preces vai pakalpojuma saņēmējam — samaksāšanai (rēķinu), noformē kā strukturētu elektronisko rēķinu.\n(15) Ministru kabinets nosaka kārtību, kādā organizē un īsteno strukturētu elektronisko rēķinu apriti un kādā strukturētu elektronisko rēķinu datus iesniedz Valsts ieņēmumu dienestam.\n(16) Atkāpties no šā panta četrpadsmitajā daļā noteiktās prasības par strukturētu elektronisko rēķinu noformēšanu var:\n1) uzņēmumi — attiecībā uz darījumiem, kuros samaksu apliecina ar tāda veida darījumu apliecinošu dokumentu, kas sagatavojams saskaņā ar normatīvajiem aktiem, kuri reglamentē nodokļu un citu maksājumu reģistrēšanas elektronisko ierīču un iekārtu lietošanas kārtību;\n2) uzņēmumi — attiecībā uz darījumiem, kuros samaksu apliecina ar attaisnojuma dokumentu (rēķinu), kas sagatavots un ģenerēts Nacionālā veselības dienesta Vadības informācijas sistēmā vai Nodarbinātības valsts aģentūras Bezdarbnieku uzskaites un reģistrēto vakanču informācijas sistēmā;\n3) valsts drošības iestādes, Valsts policijas finansiāli patstāvīgā struktūrvienība Valsts policijas Galvenās kriminālpolicijas pārvaldes Izmeklēšanas atbalsta pārvalde, Nodokļu un muitas policija un Korupcijas novēršanas un apkarošanas birojs — attiecībā uz iestādes elektroniskajā apritē sagatavoto attaisnojuma dokumentu."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "12",
+      "title": "Preču piegādes dokumenti",
+      "content": "(1) Preču piegādes dokuments ir dokuments, kas apliecina preču piegādes un saņemšanas faktu un var tikt izmantots, lai noteiktu preču izcelsmi un piederību preču saņemšanas un izsniegšanas vietās.\n(2) Preču piegādes dokumentā nav obligāti ietverama informācija par preču vienības cenu un saimnieciskā darījuma vērtību naudas izteiksmē. Ja preču piegādes dokumentā nav ietverta minētā informācija, lai saimniecisko darījumu varētu ierakstīt (iegrāmatot) grāmatvedības reģistros, papildus nepieciešams preču nosūtītāja (izsniedzēja) sagatavots attaisnojuma dokuments, kurā ietverta informācija par preču vienības cenu un saimnieciskā darījuma vērtību naudas izteiksmē.\n(3) Šā panta otrajā daļā minētajā attaisnojuma dokumentā papildus norāda arī attiecīgā preču piegādes dokumenta numuru un datumu vai, ja preču piegāde veikta starp uzņēmuma struktūrvienībām vai personām, kas atbild par konkrētu preču saglabāšanu, — citas ziņas, kas nepārprotami ļauj identificēt konkrēto preču piegādi.\n(4) Ministru kabinets nosaka preču piegādes dokumentos ietveramos rekvizītus un informāciju, šo dokumentu noformēšanas, parakstīšanas un reģistrēšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "13",
+      "title": "Attaisnojuma dokumentu iegrāmatošanas termiņš",
+      "content": "(1) Ārējie un iekšējie attaisnojuma dokumenti par uzņēmuma saimnieciskajiem darījumiem iegrāmatojami pēc iespējas drīzāk, bet ne vēlāk kā 20 dienu laikā pēc tā mēneša beigām, kurā attaisnojuma dokuments ir saņemts vai izsniegts (nosūtīts), un ne vēlāk kā līdz tā finanšu pārskata parakstīšanas datumam, kuru sagatavo par šo pārskata periodu.\n(2) Šā panta pirmajā daļā noteiktais ārējo un iekšējo attaisnojuma dokumentu iegrāmatošanas termiņš neattiecas uz uzņēmumiem, kuri saskaņā ar Mikrouzņēmumu nodokļa likumu ir ieguvuši mikrouzņēmumu nodokļa maksātāja statusu, individuālajiem komersantiem un citām fiziskajām personām, kas veic saimniecisko darbību, individuālajiem uzņēmumiem un zemnieku un zvejnieku saimniecībām, ja šajā daļā minēto personu apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem iepriekšējā pārskata gadā nepārsniedz 300 000 euro . Šie uzņēmumi, ciktāl tas nav pretrunā ar tiem saistošām nodokļus reglamentējošu normatīvo aktu prasībām, var ārējos un iekšējos attaisnojuma dokumentus par uzņēmuma saimnieciskajiem darījumiem iegrāmatot ne vēlāk kā 15 dienu laikā pēc tā ceturkšņa beigām, kurā attiecīgais attaisnojuma dokuments ir saņemts vai izsniegts (nosūtīts), un ne vēlāk kā līdz tā finanšu pārskata parakstīšanas datumam, kuru sagatavo par šo pārskata periodu, bet, ja finanšu pārskats netiek sagatavots, — attiecīgi līdz datumam, kad iesniedzama mikrouzņēmumu nodokļa vai iedzīvotāju ienākuma nodokļa deklarācija, kuru sagatavo par šo pārskata periodu.\n(3) Šā panta pirmajā daļā noteiktais ārējo un iekšējo attaisnojuma dokumentu iegrāmatošanas termiņš neattiecas arī uz šā likuma 10. panta trešās daļas 2. punktā minētajām biedrībām, nodibinājumiem, arodbiedrībām un to apvienībām, kā arī šā likuma 10. panta trešās daļas 3. punktā minētajām reliģiskajām organizācijām un to iestādēm. Minētās personas, ciktāl tas nav pretrunā ar tām saistošām nodokļus reglamentējošu normatīvo aktu prasībām, var ārējos un iekšējos attaisnojuma dokumentus iegrāmatot ne vēlāk kā 15 dienu laikā pēc tā ceturkšņa beigām, kurā attiecīgais attaisnojuma dokuments ir saņemts vai izsniegts (nosūtīts), un ne vēlāk kā līdz tās gada pārskata vai finanšu pārskata sastāvdaļas, kuru sagatavo par attiecīgo pārskata periodu, parakstīšanas datumam."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa Grāmatvedības reģistri un attaisnojuma dokumenti",
+      "section": "14",
+      "title": "Īpaši noteikumi par skaidras naudas uzskaiti",
+      "content": "(1) Uzņēmuma kasē saņemtās skaidras naudas iemaksas (turpmāk — kases ieņēmumi) un skaidras naudas izmaksas no uzņēmuma kases (turpmāk — kases izdevumi) reģistrē kases grāmatā. Kases grāmatu kārto katru dienu, kurā ir bijuši kases ieņēmumi vai izdevumi, norādot skaidras naudas atlikumu dienas sākumā, kases ieņēmumu un kases izdevumu kopsummas un skaidras naudas atlikumu dienas beigās.\n(2) Ja uzņēmuma iepriekšējā kalendāra mēneša darbdienas vidējie kases ieņēmumi nav lielāki par 500 euro , uzņēmums kases grāmatu var kārtot reizi nedēļā — nedēļas pēdējā darbdienā. Darbdienas vidējos kases ieņēmumus aprēķina, saskaitot kases ieņēmumus, kas saņemti iepriekšējā kalendāra mēneša darbdienās, kurās ir bijuši kases ieņēmumi, un iegūto kopsummu dalot ar minētā kalendāra mēneša darbdienu skaitu. Par darbdienu uzskata jebkuru kalendāra dienu, kurā uzņēmums veic savu darbību.\n(3) Kases grāmatu var nekārtot:\n1) individuālie uzņēmumi, zemnieku un zvejnieku saimniecības, individuālie komersanti un citas fiziskās personas, kas veic saimniecisko darbību un kārto grāmatvedību vienkāršā ieraksta sistēmā, ja minētās personas kases ieņēmumus un kases izdevumus reģistrē saimnieciskās darbības ieņēmumu un izdevumu uzskaites žurnālā vai ieņēmumu uzskaites reģistrā;\n2) uzņēmumi, kuri skaidras naudas ieņēmumus reģistrē, izmantojot nodokļu un citu maksājumu reģistrēšanas elektroniskās ierīces un iekārtas, un saskaņā ar uzņēmuma vadītāja noteikto kārtību darbdienas laikā saņemto skaidro naudu iemaksā maksājumu pakalpojumu sniedzēja ( Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē) atvērtā uzņēmuma kontā;\n3) biedrības, nodibinājumi, arodbiedrības un to apvienības, kā arī reliģiskās organizācijas un to iestādes, ja minētās personas kārto grāmatvedību vienkāršā ieraksta sistēmā un kases ieņēmumus un kases izdevumus reģistrē naudas plūsmas uzskaites žurnālā.\n(4) Prasības kases ieņēmumu un kases izdevumu attaisnojuma dokumentiem un kases grāmatas kārtošanai nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Inventarizācija",
+      "section": "15",
+      "title": "Inventarizācijas mērķis",
+      "content": "(1) Inventarizācijas mērķis ir uzņēmuma mantas faktiskā stāvokļa un uzņēmuma saistību pārbaude konkrētā datumā un grāmatvedības datu saskaņošana ar inventarizācijas rezultātiem.\n(2) Inventarizāciju veic, piemērojot normatīvajos aktos un grāmatvedības organizācijas dokumentos noteikto kārtību.\n(3) Inventarizācijas metodes, inventarizācijas veikšanas kārtību, rezultātu dokumentēšanas un inventarizācijā atklāto starpību iegrāmatošanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Inventarizācija",
+      "section": "16",
+      "title": "Inventarizācijas noteikumi",
+      "content": "(1) Inventarizācija veicama šādos gadījumos:\n1) uzsākot uzņēmuma darbību;\n2) noslēdzot katru pārskata gadu (turpmāk — pārskata gada slēguma inventarizācija);\n3) izbeidzot uzņēmuma darbību;\n4) reorganizējot uzņēmumu, ciktāl likumos nav noteikts citādi;\n5) pasludinot maksātnespējas procesu;\n6) ja, pamatojoties uz komersanta lēmumu, ir apturēta vai atjaunota uzņēmuma darbība;\n7) citos gadījumos, ja tas izriet no citiem normatīvajiem aktiem vai attiecīgā uzņēmuma grāmatvedības organizācijas dokumentiem.\n(2) Inventarizācijas rezultātus norāda inventarizācijas sarakstos.\n(3) Individuālais uzņēmums, zemnieka un zvejnieka saimniecība, kā arī individuālais komersants un cita fiziskā persona, kas veic saimniecisko darbību, šīs nodaļas noteikumus piemēro attiecībā uz mantu, kas paredzēta vai ko izmanto saimnieciskās darbības veikšanai."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Inventarizācija",
+      "section": "17",
+      "title": "Papildu noteikums par pārskata gada slēguma inventarizāciju",
+      "content": "(1) Pārskata gada slēguma inventarizāciju drīkst veikt triju mēnešu laikā pirms pārskata gada beigu dienas vai mēneša laikā pēc tās, pārrēķinot inventarizācijas dienā konstatētos atlikumus atbilstoši grāmatvedības datiem pārskata gada pēdējā dienā. Inventarizācijas rezultātus ieraksta grāmatvedības reģistros līdz gada pārskata parakstīšanas datumam.\n(2) Uz valsts budžeta iestādi un no budžeta nefinansētu iestādi šā panta pirmās daļas prasības attiecas tiktāl, ciktāl Likumā par budžetu un finanšu vadību un uz tā pamata izdotajos normatīvajos aktos par grāmatvedības uzskaites kārtošanu valsts pārvaldes vienotā pakalpojumu centra ietvaros nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "18",
+      "title": "Gada pārskats",
+      "content": "(1) Par katru pārskata gadu sagatavo gada pārskatu, kura struktūra, apjoms un saturs, kā arī sagatavošanas, pārbaudīšanas un iesniegšanas kārtība noteikta Gada pārskatu un konsolidēto gada pārskatu likumā , finanšu tirgus dalībnieku darbību reglamentējošajos likumos un uz to pamata izdotos normatīvajos aktos, neatkarīgās vai autonomās valsts iestādes darbību reglamentējošajos likumos vai saskaņā ar Likumu par budžetu un finanšu vadību pieņemtajos normatīvajos aktos. Komercsabiedrības darbības apturēšana, pamatojoties uz komersanta lēmumu, neatbrīvo komercsabiedrību no gada pārskata sagatavošanas.\n(2) Šā panta pirmās daļas noteikumi neattiecas uz:\n1) biedrībām, nodibinājumiem, arodbiedrībām un to apvienībām, politiskajām organizācijām (partijām) un to apvienībām, kā arī reliģiskajām organizācijām un to iestādēm. Šo personu gada pārskata struktūru, apjomu, saturu, sagatavošanas, pārbaudīšanas un iesniegšanas kārtību nosaka Ministru kabinets;\n2) uzņēmumiem, kuriem saskaņā ar Maksātnespējas likumu pasludināts maksātnespējas process, bet attiecībā uz kuriem administrators nav pieņēmis lēmumu par parādnieka saimnieciskās darbības turpināšanu pilnā vai ierobežotā apjomā. Šie uzņēmumi, kamēr turpinās uzņēmuma maksātnespējas process, par katru pārskata gadu sagatavo šā likuma 22. panta trešajā daļā minēto finanšu pārskatu.\n(3) Šā panta pirmās daļas noteikumi attiecībā uz ārvalstu komersantu filiālēm un nerezidentu (ārvalstu komersantu) pastāvīgajām pārstāvniecībām piemērojami tiktāl, ciktāl tas izriet no attiecīgo saimnieciskās darbības veidu un nodokļus reglamentējošajos likumos noteiktajām finanšu pārskatu sagatavošanas prasībām. Ārvalstu komersantu filiāles, uz kurām attiecas Ilgtspējas informācijas atklāšanas likumā noteiktie pienākumi, sagatavo ilgtspējas ziņojumu, kā arī iesniedz un publisko to kopā ar apliecinājuma ziņojumu un attiecīgā gadījumā — ar Ilgtspējas informācijas atklāšanas likuma 14. panta sestajā daļā minēto paziņojumu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "19",
+      "title": "Saimnieciskās darbības pārskats",
+      "content": "(1) Saimnieciskās darbības pārskats ir pārskats par laikposmu, kas ir īsāks nekā gads, un to komercsabiedrība vai kooperatīvā sabiedrība sagatavo lēmuma pieņemšanas nolūkā attiecīgi Komerclikumā vai Kooperatīvo sabiedrību likumā paredzētajos gadījumos. Saimnieciskās darbības pārskatu sagatavo saskaņā ar normatīvajos aktos attiecīgajam uzņēmumam paredzētajiem gada pārskata sagatavošanas noteikumiem un piemērojot kārtību, kādā sagatavo starpperiodu pārskatu.\n(2) Pirms lēmuma pieņemšanas par komercsabiedrības darbības apturēšanu, pamatojoties uz komersanta lēmumu, Komerclikumā noteiktajos gadījumos sagatavo saimnieciskās darbības pārskatu. Šajā daļā minēto saimnieciskās darbības pārskatu sagatavo, pārbauda un iesniedz saskaņā ar normatīvajos aktos attiecīgajam uzņēmumam paredzētajiem gada pārskata sagatavošanas, pārbaudes un iesniegšanas noteikumiem. Papildus tam šajā daļā minētajā saimnieciskās darbības pārskatā sniedz detalizētu informāciju par zaudējumiem, kurus radījusi mantas vērtības samazināšanās komercsabiedrības darbības apturēšanas rezultātā, norādot zaudējumu summu aprēķināšanas pamatojumu un šo zaudējumu ietekmi uz finanšu pārskata sastāvdaļu posteņu novērtējumu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "20",
+      "title": "Slēguma finanšu pārskats uzņēmuma reorganizācijas gadījumā",
+      "content": "(1) Ja normatīvajos aktos nav noteikts citādi, tad, lai izslēgtu no attiecīgā reģistra apvienošanas vai sašķelšanas ceļā reorganizēto (pievienoto vai sadalīto) uzņēmumu, sagatavo attiecīgi pievienojamā vai sašķelšanas ceļā sadalāmā uzņēmuma slēguma finanšu pārskatu. To sagatavo, pārbauda un iesniedz saskaņā ar normatīvajos aktos attiecīgajam uzņēmumam paredzētajiem gada pārskata sagatavošanas, pārbaudes un iesniegšanas noteikumiem.\n(2) Šā panta pirmajā daļā minētajā slēguma finanšu pārskatā papildus sniedz detalizētu informāciju par zaudējumiem, kurus radījusi mantas vērtības samazināšanās uzņēmuma reorganizācijas rezultātā, norādot zaudējumu summu aprēķināšanas pamatojumu un šo zaudējumu ietekmi uz finanšu pārskata sastāvdaļu posteņu novērtējumu.\n(3) Šā panta otrās daļas prasība par detalizētas informācijas sniegšanu par zaudējumiem neattiecas uz slēguma finanšu pārskatu, kuru sagatavo budžeta iestādes un valsts vai pašvaldību aģentūras reorganizācijas gadījumā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "21",
+      "title": "Slēguma finanšu pārskats uzņēmuma darbības izbeigšanas gadījumā",
+      "content": "(1) Izbeidzot uzņēmuma darbību (arī maksātnespējas procesa gadījumā, kad uzņēmuma darbība tiek izbeigta), sagatavo tādu uzņēmuma darbības slēguma finanšu pārskatu, kas sastāv tikai no bilances un peļņas vai zaudējumu aprēķina vai cita pārskata par saimnieciskās darbības rezultātiem (piemēram, ieņēmumu un izdevumu pārskata), kāds paredzēts attiecīgā uzņēmuma gada pārskata sagatavošanu reglamentējošos normatīvajos aktos vai finanšu tirgus dalībnieku darbību reglamentējošajos likumos un uz to pamata izdotos normatīvajos aktos.\n(2) Ja normatīvajos aktos nav noteikts citādi, šā panta pirmajā daļā minēto uzņēmuma darbības slēguma finanšu pārskatu sagatavo, piemērojot kārtību, kādā finanšu pārskatu sagatavo uzņēmums, kurš neatbilst darbības turpināšanas principam.\n(3) Kārtību, kādā grāmatvedībā novērtē un finanšu pārskatos norāda uzņēmuma mantu un saistības, ja uzņēmuma vai tā struktūrvienības darbība tiek izbeigta, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "22",
+      "title": "Parādnieka bilance un finanšu pārskats juridiskās personas maksātnespējas procesā",
+      "content": "(1) Parādnieka bilanci sagatavo uzņēmumam, kuram saskaņā ar Maksātnespējas likumu ir uzsākts juridiskās personas maksātnespējas process. Sagatavojot parādnieka bilanci kredītiestādes maksātnespējas procesa uzsākšanas gadījumā, piemēro Kredītiestāžu likuma normas.\n(2) Parādnieka bilanci, kuru saskaņā ar Maksātnespējas likumu ir pienākums sagatavot nekavējoties pēc juridiskās personas maksātnespējas procesa pasludināšanas, administrators sagatavo, piemērojot visas tās pašas prasības, kuras attiecas uz šā uzņēmuma gada pārskata bilanci.\n(3) Šā panta pirmajā daļā minētais uzņēmums, attiecībā uz kuru administrators nav pieņēmis lēmumu par parādnieka saimnieciskās darbības turpināšanu pilnā vai ierobežotā apjomā, par to pārskata gadu, kurā pasludināts juridiskās personas maksātnespējas process, kā arī par katru nākamo pārskata gadu, kurā šis maksātnespējas process turpinās, sagatavo finanšu pārskatu, kas sastāv tikai no bilances un peļņas vai zaudējumu aprēķina vai cita pārskata par saimnieciskās darbības rezultātiem (piemēram, ieņēmumu un izdevumu pārskata). Šo finanšu pārskatu iesniedz Valsts ieņēmumu dienestam.\n(4) Šā panta trešajā daļā minēto finanšu pārskatu sagatavo, piemērojot kārtību, kādā finanšu pārskatu sagatavo uzņēmums, kurš neatbilst darbības turpināšanas principam, un ievērojot uz šā likuma 21. panta trešās daļas pamata izdotos normatīvos aktus par uzņēmuma mantas un saistību novērtēšanu grāmatvedībā un norādīšanu finanšu pārskatos, ja uzņēmuma vai tā struktūrvienības darbība tiek izbeigta."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "23",
+      "title": "Īpaši noteikumi saimnieciskās darbības veicējiem, kuri ir iedzīvotāju ienākuma nodokļa maksātāji par ienākumiem no saimnieciskās darbības vai kuri ir izvēlējušies maksāt mikrouzņēmumu nodokli",
+      "content": "(1) Šā likuma 18. , 19. , 20. , 21. un 22. panta noteikumi neattiecas uz individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, individuālajiem komersantiem un citām fiziskajām personām, kas veic saimniecisko darbību un ir iedzīvotāju ienākuma nodokļa maksātāji par ienākumiem no saimnieciskās darbības vai ir izvēlējušies maksāt mikrouzņēmumu nodokli. Šie uzņēmumi reģistrē ieņēmumus, izdevumus un saimnieciskos darījumus vienkāršā vai divkāršā ieraksta sistēmā, ciktāl tas nepieciešams nodokļu aprēķināšanai, lai varētu sagatavot nodokļu deklarācijas, informatīvās deklarācijas vai citus nepieciešamos dokumentus atbilstoši konkrētajā nodokļu likumā vai saskaņā ar to pieņemtos normatīvajos aktos noteiktajām prasībām.\n(2) Šā panta pirmajā daļā minētie uzņēmumi, kuri kārto grāmatvedību vienkāršā ieraksta sistēmā, piemēro šā likuma 10. panta trešās daļas 1. punktā minētajos Ministru kabineta noteikumos paredzēto kārtību.\n(3) Šā panta pirmajā daļā minētie uzņēmumi, kuri kārto grāmatvedību divkāršā ieraksta sistēmā un ir iedzīvotāju ienākuma nodokļa maksātāji par ienākumiem no saimnieciskās darbības, sagatavo arī bilanci un ieņēmumu un izdevumu pārskatu, kuru saturu, sagatavošanas un iesniegšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "24",
+      "title": "Pārskata gada sākums, beigas un ilgums",
+      "content": "(1) Pārskata gads aptver 12 mēnešus un parasti sakrīt ar kalendāra gadu. Citāds pārskata gada sākums un beigas var būt tikai tad, ja to nosaka attiecīgā uzņēmuma statūti, nolikums vai satversme vai personālsabiedrības līgums.\n(2) Pārskata gadu var mainīt. Pārskata gada maiņu pamato un attiecīgus paskaidrojumus par to sniedz gada pārskata pielikumā .\n(3) Jaunizveidota uzņēmuma pirmais pārskata gads var aptvert īsāku vai garāku laikposmu, bet ne vairāk par 18 mēnešiem.\n(4) Ja tiek mainīts jau esoša uzņēmuma pārskata gada sākums, pārskata gads nedrīkst būt garāks par 12 mēnešiem.\n(5) Pārskata gads, kurā uzņēmumu reorganizē vai tas izbeidz savu darbību, kā arī pārskata gads, kurā tiek mainīts tā sākums, var būt īsāks par 12 mēnešiem."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "25",
+      "title": "Īpaši noteikumi par pārskata gadu vai saimniecisko gadu atsevišķiem uzņēmumu veidiem",
+      "content": "Šā likuma 24. panta noteikumi neattiecas uz uzņēmumu, kura pārskata gada vai saimnieciskā gada ilgumu, sākumu un beigas nosaka attiecīgi likumi."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "IV nodaļa Gada pārskats un citi pārskati",
+      "section": "26",
+      "title": "Īpaši noteikumi par biedrības, nodibinājuma, arodbiedrības un arodbiedrību apvienības, reliģiskās organizācijas un tās iestādes, kā arī politiskās organizācijas (partijas) un politisko organizāciju (partiju) apvienības pārskata gadu",
+      "content": "Šā likuma 24. panta noteikumi neattiecas arī uz biedrību, nodibinājumu, arodbiedrību un arodbiedrību apvienību, reliģisko organizāciju un tās iestādi, kā arī politisko organizāciju (partiju) un politisko organizāciju apvienību. Katras šādas personas pārskata gads aptver 12 mēnešus un sakrīt ar kalendāra gadu. Pārskata gads, kurā šāda persona uzsāk darbību, izbeidz darbību vai tiek reorganizēta, var būt īsāks par 12 mēnešiem, bet beidzas ne vēlāk kā kalendāra gada 31. decembrī."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Grāmatvedības dokumentu glabāšana",
+      "section": "27",
+      "title": "Grāmatvedības dokumentu glabāšanas vispārīgie noteikumi",
+      "content": "(1) Grāmatvedības dokumenti papīra formā glabājami Latvijas Republikas teritorijā. Grāmatvedības dokumenti elektroniskā formā glabājami Latvijas Republikas vai citas Eiropas Savienības dalībvalsts teritorijā atbilstoši Eiropas Parlamenta un Padomes 2018. gada 14. novembra regulā (ES) Nr. 2018/1807 par satvaru nepersondatu brīvai apritei Eiropas Savienībā noteiktajām prasībām.\n(2) Uzņēmums grāmatvedības dokumentus sistemātiski sakārto un glabā uzņēmuma arhīvā uzņēmuma vadītāja noteiktajā kārtībā.\n(3) Grāmatvedības dokumentus līdz to nodošanai glabāšanai uzņēmuma arhīvā sistematizē (grupē, komplektē) un glabā uzņēmuma vadītāja noteiktajā kārtībā vienā vai vairākās glabāšanas vietās.\n(4) Uzņēmuma grāmatvedības dokumentus fiziskās un juridiskās personas drīkst izmantot tikai ar uzņēmuma vadītāja atļauju. Šos dokumentus drīkst izņemt no uzņēmuma tikai likumā noteiktajos gadījumos un kārtībā.\n(5) Ja uzņēmums tiek reorganizēts vai tā darbība tiek izbeigta, turpmāko uzņēmuma grāmatvedības dokumentu glabāšanas kārtību nosaka likvidācijas komisija (likvidators) vai uzņēmuma vadītājs pēc saskaņošanas ar Latvijas Nacionālo arhīvu."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "V nodaļa Grāmatvedības dokumentu glabāšana",
+      "section": "28",
+      "title": "Grāmatvedības dokumentu glabāšanas laiks",
+      "content": "Grāmatvedības dokumentu minimālais glabāšanas laiks ir:\n1) gada pārskatiem — līdz uzņēmuma reorganizācijai vai darbības izbeigšanai, ciktāl citos normatīvajos aktos nav noteikts citādi;\n2) inventarizācijas sarakstiem, grāmatvedības reģistriem un grāmatvedības organizācijas dokumentiem — 10 gadi;\n3) attaisnojuma dokumentiem par darbiniekiem aprēķināto darba samaksu, samaksu par piešķirtā atvaļinājuma laiku un neizmantotā ikgadējā apmaksātā atvaļinājuma atlīdzināšanu, atlīdzību par darba piespiedu kavējuma laiku u. tml. ar sadalījumu pa gadiem un mēnešiem, kuru datums ir agrāks par 1999. gada 1. janvāri, — 75 gadi;\n4) šā panta 3. punktā minētajiem attaisnojuma dokumentiem, kuru datums ir 1999. gada 1. janvāris vai vēlāks, ja tie ietver informāciju par darbiniekiem aprēķināto:\na) darba samaksu, atlīdzību par darba piespiedu kavējuma laiku u. tml. ar sadalījumu pa gadiem un mēnešiem, — 10 gadi,\nb) samaksu par piešķirtā atvaļinājuma laiku un neizmantotā ikgadējā apmaksātā atvaļinājuma atlīdzināšanu ar sadalījumu pa gadiem un mēnešiem, — 10 gadi no dienas, kad izbeigtas darba tiesiskās attiecības ar konkrēto uzņēmumu kā darba devēju;\n5) pārējiem attaisnojuma dokumentiem — līdz dienai, kad tie nepieciešami, lai izpildītu šā likuma 6. panta otrās daļas prasības par saimnieciskā darījuma norises izsekojamību, bet ne īsāks par pieciem gadiem."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "V nodaļa Grāmatvedības dokumentu glabāšana",
+      "section": "29",
+      "title": "Papīra formas grāmatvedības dokumentu pārvēršana elektroniskā formā glabāšanai elektroniskā vidē",
+      "content": "(1) Uzņēmumam ir tiesības papīra formas grāmatvedības dokumentu (turpmāk — oriģinālais dokuments) pārvērst elektroniskā formā glabāšanai elektroniskā vidē.\n(2) Elektroniskā formā glabāšanai elektroniskā vidē pārvērstajam dokumentam ir tāds pats juridiskais spēks kā oriģinālajam dokumentam, un uzņēmumam ir tiesības iznīcināt oriģinālo dokumentu tikai tad, ja uzņēmums attiecībā uz elektroniskā formā glabāšanai elektroniskā vidē pārvērsto dokumentu ievēro šādus noteikumus:\n1) ir nodrošināts oriģinālā dokumenta satura attēlojums un atbilstība šā likuma 28. pantā noteiktajā dokumentu glabāšanas laikā;\n2) ir nodrošināta satura lasīšana datora vai citas elektroniskas ierīces ekrānā cilvēklasāmā formātā un, ja nepieciešams, atvasinājuma veidošana papīra formā;\n3) pārvērstais dokuments tiek aizsargāts pret izmaiņām vai iznīcināšanu;\n4) pārvēršanas process, kā arī oriģinālā dokumenta iznīcināšanas process tiek dokumentēts uzņēmuma vadītāja noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa Kompetences sadalījums grāmatvedības jomā",
+      "section": "30",
+      "title": "Finanšu ministrijas kompetence grāmatvedības jomā",
+      "content": "(1) Valsts politiku grāmatvedības jomā izstrādā un tās īstenošanu koordinē Finanšu ministrija.\n(2) Finanšu ministrija:\n1) izstrādā normatīvo aktu projektus grāmatvedības jomā;\n2) īsteno starptautisko sadarbību grāmatvedības jomā un nodrošina Latvijas pārstāvību Eiropas Savienības institūciju un citu starptautisko organizāciju organizētajās sanāksmēs grāmatvedības jautājumos, arī lai piedalītos Eiropas Savienības institūciju izstrādāto grāmatvedības jomu reglamentējošu normatīvo aktu projektu izvērtēšanā;\n3) izvērtē citu ministriju sagatavotos normatīvo aktu projektus attiecībā uz grāmatvedības jautājumiem un, ja nepieciešams, sniedz ieteikumus to pilnveidošanai."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa Kompetences sadalījums grāmatvedības jomā",
+      "section": "31",
+      "title": "Uzņēmuma vadītāja pienākumi grāmatvedības jomā",
+      "content": "(1) Uzņēmuma vadītājam ir pienākums organizēt grāmatvedības kārtošanu, inventarizācijas veikšanu, grāmatvedības dokumentu saglabāšanu un attiecīgo pārskatu sagatavošanu uzņēmumā atbilstoši šā likuma un saskaņā ar to izdotu normatīvo aktu prasībām.\n(2) Uzņēmuma vadītājam ir pienākums nodrošināt:\n1) grāmatvedības organizācijas dokumentu izstrādāšanu, izdošanu un tajos noteiktās kārtības ievērošanu uzņēmumā;\n2) grāmatvedības kontroles sistēmas izstrādāšanu, ieviešanu, uzturēšanu un uzlabošanu uzņēmumā;\n3) vispārīgo grāmatvedības informācijas datorsistēmu drošības noteikumu un grāmatvedības datu aizsardzības obligāto tehnisko un organizatorisko prasību noteikšanu uzņēmumā, ja grāmatvedību kārto, izmantojot grāmatvedības datorprogrammu vai grāmatvedības informācijas datorsistēmu programmatūru, ciktāl citos normatīvajos aktos nav noteikts citādi, kā arī nodrošināt minēto noteikumu un prasību ievērošanas kontroli uzņēmumā;\n4) visu grāmatvedības dokumentu oriģinālu vai elektroniskā formā glabāšanai elektroniskā vidē pārvērsto dokumentu saglabāšanu uzņēmuma arhīvā un to pieejamību revīziju veicējiem, nodokļu administrācijai, tiesībaizsardzības iestādēm, tiesām, kā arī citām institūcijām normatīvajos aktos paredzētajos gadījumos atbilstoši Komercnoslēpuma aizsardzības likumā minētajam attiecībā uz komercnoslēpumu grāmatvedībā.\n(3) Šā panta otrās daļas 1. punktā noteiktā prasība neattiecas uz šā likuma 10. panta trešajā daļā minētā uzņēmuma vadītāju, ja attiecīgais uzņēmums grāmatvedību kārto vienkāršā ieraksta sistēmā. Minētie uzņēmumi ir atbrīvoti no grāmatvedības organizācijas dokumentu izstrādāšanas un izdošanas.\n(4) Šā panta otrās daļas 2. un 3. punktā noteiktās prasības neattiecas uz šā likuma 35. pantā minētā uzņēmuma vadītāju, kurš ir tiesīgs grāmatvedību kārtot pats. Minētie uzņēmumi ir atbrīvoti no grāmatvedības kontroles sistēmas izstrādāšanas, ieviešanas un uzturēšanas, kā arī no vispārīgo grāmatvedības informācijas datorsistēmu drošības noteikumu un grāmatvedības datu aizsardzības obligāto tehnisko un organizatorisko prasību noteikšanas.\n(5) Uz valsts budžeta iestādi un no budžeta nefinansētu iestādi šā panta prasības attiecas tiktāl, ciktāl Likumā par budžetu un finanšu vadību un uz tā pamata izdotajos normatīvajos aktos par grāmatvedības uzskaites kārtošanu valsts pārvaldes vienotā pakalpojumu centra ietvaros nav noteikts citādi."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa Kompetences sadalījums grāmatvedības jomā",
+      "section": "32",
+      "title": "Uzņēmuma vadītāja tiesības grāmatvedības jomā",
+      "content": "Uzņēmuma vadītājs ir tiesīgs:\n1) ievērojot šā likuma 11. panta noteikumus par attaisnojuma dokumentā ietveramiem dokumenta rekvizītiem un informāciju par saimniecisko darījumu, izvēlēties attaisnojuma dokumenta formu (elektroniskā vai papīra forma), saturu un noformēšanas vai sagatavošanas kārtību, izņemot gadījumu, kad attiecīgā attaisnojuma dokumenta formu, saturu un noformēšanas vai sagatavošanas kārtību reglamentē konkrēts normatīvais akts;\n2) izvēlēties grāmatvedības reģistru veidu, saturu, skaitu un sagatavošanas kārtību (elektroniskā vai papīra forma), ņemot vērā konkrētā uzņēmuma struktūru, saimnieciskās darbības raksturu un apstrādājamās informācijas apjomu, izņemot gadījumu, kad attiecīgā grāmatvedības reģistra veidu, saturu un sagatavošanas kārtību reglamentē konkrēts normatīvais akts;\n3) izvēlēties grāmatvedības datorprogrammu vai grāmatvedības informācijas datorsistēmu programmatūru, ņemot vērā konkrētā uzņēmuma darbībai vēlamās vai nepieciešamās funkcionālās, tehniskās un datu drošības prasības, izņemot gadījumu, kad konkrētās datorprogrammas lietošanu vai tai izvirzāmās prasības reglamentē konkrēts normatīvais akts."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa Kompetences sadalījums grāmatvedības jomā",
+      "section": "33",
+      "title": "Uzņēmuma vadītāja atbildība un pienākums atlīdzināt zaudējumus",
+      "content": "(1) Uzņēmuma vadītājs ir atbildīgs par:\n1) grāmatvedības kārtošanu atbilstoši šā likuma prasībām;\n2) grāmatvedības dokumentu oriģinālu, kopiju vai datu attēlu saglabāšanu un aizsargāšanu pret iznīcināšanu vai nozaudēšanu līdz to nodošanai uzņēmuma arhīvā, kā arī par grāmatvedības dokumentu saglabāšanu uzņēmuma arhīvā un to pieejamību revīziju veicējiem, nodokļu administrācijai, tiesībaizsardzības iestādēm, tiesām, kā arī citām institūcijām normatīvajos aktos paredzētajos gadījumos atbilstoši Komercnoslēpuma aizsardzības likumā minētajam attiecībā uz komercnoslēpumu grāmatvedībā.\n(2) Uzņēmuma vadītājs ir atbildīgs par zaudējumiem, kas, pārkāpjot šā likuma noteikumus viņa vainas dēļ, nodarīti uzņēmumam, valstij (pašvaldībai) vai trešai personai. Fiziskās un juridiskās personas, kurām šāds zaudējums nodarīts, ir tiesīgas prasīt tā atlīdzināšanu normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "34",
+      "title": "Grāmatvedis un ārpakalpojuma grāmatvedis",
+      "content": "(1) Uzņēmumā grāmatvedības kārtošanu veic grāmatvedis vai ārpakalpojuma grāmatvedis, ar ko uzņēmuma vadītājs noslēdzis attiecīgu rakstveida vienošanos, kurā noteikti šīs personas pienākumi, tiesības un atbildība.\n(2) Šā likuma izpratnē:\n1) grāmatvedis ir fiziskā persona, kura, pamatojoties uz rakstveida vienošanos ar uzņēmumu (izņemot uzņēmuma līgumu), uzņēmumā sagatavo gada pārskatus, konsolidētos gada pārskatus un citus normatīvajos aktos noteiktos finanšu pārskatus saskaņā ar attiecīgo normatīvo aktu prasībām, kā arī ir kompetenta veikt citus ar šo likumu noteiktos grāmatvedības kārtošanas pienākumus un kuras kompetenci minētajos grāmatvedības jautājumos apliecina attiecīgs izglītības dokuments (diploms vai apliecība), kā arī tāda fiziskā persona, kuras kompetenci šajā punktā minētajos grāmatvedības jautājumos apliecina pieredze vai atbilstošs zināšanas grāmatvedības jomā apliecinošs sertifikāts;\n2) ārpakalpojuma grāmatvedis ir persona, kura ir Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma subjekts un kura, pamatojoties uz rakstveida līgumu ar uzņēmumu (izņemot darba līgumu), apņemas sniegt vai sniedz klientam grāmatvedības pakalpojumus un atbilst šādiem nosacījumiem:\na) ja ārpakalpojuma grāmatvedis ir fiziskā persona, tā ir ieguvusi vismaz pirmā līmeņa profesionālo augstāko izglītību (koledžas izglītību) Profesionālās izglītības likuma izpratnē vai akadēmisko augstāko izglītību (vismaz bakalaura grādu) grāmatvedības, ekonomikas, vadības vai finanšu jomā un tai ir vismaz triju gadu pieredze grāmatvedības jomā,\nb) ja ārpakalpojuma grāmatvedis ir komersants, šā punkta \"a\" apakšpunktā minētās izglītības un pieredzes prasības attiecas uz komercsabiedrības valdes locekli vai individuālo komersantu, vai komersanta darbinieku, kurš atbild par grāmatvedības ārpakalpojuma sniegšanu (turpmāk — atbildīgais ārpakalpojuma grāmatvedis);\n3) par grāmatvedi nav uzskatāma tāda fiziskā persona, kas grāmatveža vadībā vai patstāvīgi veic tikai uzskaites un grāmatvedības darbinieka pienākumus saskaņā ar normatīvajos aktos par profesiju klasifikatoru noteiktajiem profesijai atbilstošiem pamatuzdevumiem un kvalifikācijas pamatprasībām (piemēram, algu vai pašizmaksas aprēķināšana, materiālo vērtību uzskaite, rēķinu sagatavošana, inventarizācijas sarakstu sagatavošana, attaisnojuma dokumentu datu ievadīšana, arhīva sakārtošana, vienkāršā ieraksta grāmatvedības kārtošana) vai citus ar grāmatvedības kārtošanu saistītus pienākumus (piemēram, rēķinu ieskenēšana, pārvēršana elektroniskā cilvēklasāmā un mašīnlasāmā formātā (XML formātā) vai nosūtīšana, dokumentu sakārtošana glabāšanai);\n4) par ārpakalpojuma grāmatvedi nav uzskatāma tāda fiziskā vai juridiskā persona, kas veic tikai šīs daļas 3. punktā minētos pienākumus.\n(3) Ārpakalpojuma grāmatvedis nodrošina Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma prasību ievērošanu.\n(4) Arodbiedrību un to apvienību, biedrību un nodibinājumu grāmatvedības kārtošanu var veikt brīvprātīgā darba veicējs, ar ko vadības institūcija ir noslēgusi rakstveida vienošanos, kurā noteikti šīs personas pienākumi, tiesības un atbildība."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "35",
+      "title": "Uzņēmuma vadītājs, kurš ir tiesīgs grāmatvedību kārtot pats",
+      "content": "Atkāpjoties no šā likuma 34. panta prasībām, uzņēmuma vadītājs ir tiesīgs grāmatvedību kārtot pats, ja viņš ir:\n1) individuālā uzņēmuma, zemnieka vai zvejnieka saimniecības īpašnieks;\n2) fiziskā persona, kura veic saimniecisko darbību;\n3) individuālais komersants;\n4) kapitālsabiedrības vienīgais valdes loceklis, kurš ir kapitālsabiedrības vienīgais dalībnieks;\n5) reliģiskās organizācijas vai tās iestādes vadītājs, ja reliģiskajā organizācijā vai tās iestādē grāmatvedība tiek kārtota vienkāršā ieraksta sistēmā;\n6) biedrības, nodibinājuma izpildinstitūcijas vai pārvaldes institūcijas (valdes) loceklis;\n7) administrators, kurš, pildot Maksātnespējas likuma prasības, juridiskās personas maksātnespējas procesa laikā organizē parādnieka grāmatvedības uzskaiti."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "36",
+      "title": "Persona, kura nav uzskatāma par ārpakalpojuma grāmatvedi",
+      "content": "(1) Ja iestāde, kura tiek finansēta no valsts budžeta vai pašvaldību budžetiem, un valsts vai pašvaldību aģentūra sniedz grāmatvedības pakalpojumus citai iestādei, kura tiek finansēta no valsts budžeta vai pašvaldību budžetiem, un valsts vai pašvaldību aģentūrai, tā nav uzskatāma par ārpakalpojuma grāmatvedi.\n(2) Valsts kase valsts pārvaldes vienotā pakalpojumu centra ietvaros, kārtojot grāmatvedības uzskaiti saskaņā ar Likumu par budžetu un finanšu vadību un uz tā pamata izdotajiem normatīvajiem aktiem, nav uzskatāma par ārpakalpojuma grāmatvedi."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "37",
+      "title": "Persona, kurai aizliegts būt par ārpakalpojuma grāmatvedi",
+      "content": "Par ārpakalpojuma grāmatvedi aizliegts būt tādai fiziskajai personai, kura ir sodīta par tīša noziedzīga nodarījuma izdarīšanu tautsaimniecībā vai valsts institūciju dienestā vai par tāda nozieguma izdarīšanu, kas saistīts ar terorismu, un kura nav reabilitēta vai kurai nav noņemta vai dzēsta sodāmība, vai tādai fiziskajai personai, kurai pēdējā gada laikā ir anulēta ārpakalpojuma grāmatveža licence par Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma vai Starptautisko un Latvijas Republikas nacionālo sankciju likuma pārkāpumiem. Šāda fiziskā persona nedrīkst ieņemt vadošus amatus vai būt par patiesā labuma guvēju ( Noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas likuma izpratnē) ārpakalpojuma grāmatvedim."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "38",
+      "title": "Ārpakalpojuma grāmatvežu licencēšana",
+      "content": "(1) Ārpakalpojuma grāmatveža darbība ir atļauta, ja tam ir spēkā esoša ārpakalpojuma grāmatveža licence.\n(2) Ārpakalpojuma grāmatveža licences izsniegšanu, termiņa pagarināšanu (turpmāk — pārreģistrācija), apturēšanu, anulēšanu un ārpakalpojuma grāmatvežu uzraudzību veic Valsts ieņēmumu dienests. Ārpakalpojuma grāmatveža licenci izsniedz uz pieciem gadiem.\n(3) Par ārpakalpojuma grāmatveža licences izsniegšanu vai pārreģistrāciju maksājama valsts nodeva 100 euro apmērā. Valsts nodevu maksā pirms attiecīgo dokumentu iesniegšanas, ieskaitot to valsts budžetā. Ja pēc visu nepieciešamo dokumentu saņemšanas Valsts ieņēmumu dienests konstatē neatbilstību licencēšanas prasībām un tā netiek novērsta, valsts nodevu neatmaksā. Maksājumus valsts budžetā veic, izmantojot tāda maksājumu pakalpojumu sniedzēja starpniecību, kuram ir tiesības sniegt maksājumu pakalpojumus Maksājumu pakalpojumu un elektroniskās naudas likuma izpratnē.\n(4) Persona, kas vēlas uzsākt grāmatvedības ārpakalpojumu sniegšanu vai pārreģistrēt licenci, iesniedz Valsts ieņēmumu dienestam attiecīgu iesniegumu, norādot vai pievienojot šādu informāciju un dokumentus:\n1) iesniegumu, kurā norāda šādu informāciju:\na) komersants — atbildīgā ārpakalpojuma grāmatveža vārdu, uzvārdu, personas kodu, komersanta nosaukumu (firmu) un reģistrācijas numuru vai nodokļu maksātāja reģistrācijas kodu,\nb) fiziskā persona, kas veic saimniecisko darbību, — vārdu, uzvārdu, nodokļu maksātāja reģistrācijas kodu;\n2) iesniegumam pievieno šādus dokumentus:\na) civiltiesiskās atbildības apdrošināšanas polises kopiju,\nb) atbilstoši normatīvajiem aktiem noziedzīgi iegūtu līdzekļu legalizācijas un terorisma un proliferācijas finansēšanas novēršanas jomā izveidotas iekšējās kontroles sistēmas politiku un procedūru dokumentāciju,\nc) profesionālo kvalifikāciju apliecinošo dokumentu kopijas,\nd) apliecinājumu par profesionālo pieredzi.\n(5) Valsts ieņēmumu dienests aptur licenci un izdara par to atzīmi reģistrā šādos gadījumos:\n1) uz atbildīgā ārpakalpojuma grāmatveža iesnieguma pamata;\n2) nav spēkā civiltiesiskās atbildības apdrošināšanas polise;\n3) saimnieciskā darbība ir apturēta;\n4) komersanta vienīgais atbildīgais ārpakalpojuma grāmatvedis ir miris;\n5) grāmatvedības kārtošanai tiek izmantota grāmatvedības programma bez licences;\n6) nav iesniegtas šā likuma 39. panta trešajā daļā minētās ziņas;\n7) atbildīgais ārpakalpojuma grāmatvedis ir izbeidzis darba tiesiskās attiecības ar grāmatvedības ārpakalpojumu sniedzēju un grāmatvedības ārpakalpojumu sniedzējam nav Valsts ieņēmumu dienestā reģistrēts cits atbildīgais ārpakalpojuma grāmatvedis.\n(6) Valsts ieņēmumu dienests anulē licenci un izslēdz ārpakalpojuma grāmatvedi no reģistra šādos gadījumos:\n1) ārpakalpojuma grāmatvedis neatbilst šā likuma 34. panta trešajā daļā, 37. pantā un 38. panta ceturtajā daļā noteiktajām prasībām vai arī apzināti sniedz nepatiesas ziņas par atbilstību ārpakalpojuma grāmatvedim noteiktajām prasībām;\n2) ārpakalpojuma grāmatvedis sistemātiski nesadarbojas ar Valsts ieņēmumu dienestu un nesniedz pieprasīto informāciju;\n3) atbildīgais ārpakalpojuma grāmatvedis ir iekļauts riska personu likuma \" Par nodokļiem un nodevām \" 1. panta 31. punkta izpratnē sarakstā;\n4) ārpakalpojuma grāmatveža komersanta juridiskā vai struktūrvienības adrese vai fiziskās personas, kas veic saimniecisko darbību, deklarētās dzīvesvietas adrese atbilst riska adresei likuma \" Par nodokļiem un nodevām \" 1. panta 30. punkta izpratnē;\n5) gada laikā atkārtoti konstatēts, ka Valsts ieņēmumu dienestam nav ziņots par aizdomīgiem darījumiem, kuri atbilst likuma \" Par nodokļiem un nodevām \" 22. 2 panta trešajā daļā norādītajām pazīmēm;\n6) grāmatvedības ārpakalpojumu sniedzējs, veicot saimniecisko darbību, nepilda likuma \" Par nodokļiem un nodevām \" 15. panta pirmajā daļā noteiktos pienākumus, izvairās no nodokļu samaksas, vai ir konstatēti apstākļi, kas liecina, ka attiecīgais grāmatvedības ārpakalpojumu sniedzējs ir iesaistīts tādu darbību veikšanā, kas vērstas uz izvairīšanos no nodokļu maksāšanas;\n7) ārpakalpojuma grāmatvedis ir izslēgts no komercreģistra vai nodokļu maksātāju reģistra;\n8) ārpakalpojuma grāmatvedis — fiziskā persona — ir miris (ja ārpakalpojuma grāmatvedis ir fiziskā persona, kas veica saimniecisko darbību);\n9) uz ārpakalpojuma grāmatveža iesnieguma pamata;\n10) gada laikā kopš licences apturēšanas tās darbība nav atjaunota."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "39",
+      "title": "Ārpakalpojuma grāmatvežu reģistrs",
+      "content": "(1) Ārpakalpojuma grāmatveži tiek ierakstīti publiski pieejamā Ārpakalpojuma grāmatvežu reģistrā (turpmāk — reģistrs), ko savā tīmekļvietnē uztur Valsts ieņēmumu dienests.\n(2) Reģistrā norāda šā panta trešajā daļā noteikto informāciju. Informāciju aktualizē ne retāk kā reizi piecās darbdienās. Fizisko personu personas kods netiek publiskots reģistra publiskajā daļā.\n(3) Reģistrā par ārpakalpojuma grāmatvedi ierakstāmas šādas ziņas:\n1) komersanta nosaukums (firma), reģistrācijas numurs vai nodokļu maksātāja reģistrācijas kods un atbildīgā ārpakalpojuma grāmatveža vārds un uzvārds, bet fiziskajai personai, kas veic saimniecisko darbību, — vārds un uzvārds, nodokļu maksātāja reģistrācijas kods;\n2) licences numurs;\n3) licences izsniegšanas, darbības apturēšanas vai licences anulēšanas datums un pamats;\n4) ziņas par grāmatveža profesionālās darbības civiltiesiskās atbildības apdrošināšanu.\n(4) Ja mainās kāda no šā panta trešās daļas 1. un 4. punktā minētajām ziņām, ārpakalpojuma grāmatvedis divu nedēļu laikā iesniedz Valsts ieņēmumu dienestam attiecīgu paziņojumu."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VII nodaļa Persona, kura ir tiesīga kārtot grāmatvedību",
+      "section": "40",
+      "title": "Ārpakalpojuma grāmatveža civiltiesiskās atbildības apdrošināšana",
+      "content": "(1) Ārpakalpojuma grāmatvedim ir pienākums apdrošināt savu civiltiesisko atbildību par profesionālās darbības vai bezdarbības rezultātā nodarītajiem zaudējumiem.\n(2) Ārpakalpojuma grāmatveža profesionālās civiltiesiskās atbildības apdrošināšanas minimālais atbildības limits nedrīkst būt mazāks par:\n1) 3000 euro, ja vismaz viena klienta neto apgrozījums (ieņēmumi) no saimnieciskās darbības iepriekšējā pārskata gadā nepārsniedz vai ir vienāds ar 300 000 euro ;\n2) 5000 euro , ja vismaz viena klienta neto apgrozījums (ieņēmumi) no saimnieciskās darbības iepriekšējā pārskata gadā pārsniedz 300 000 euro ."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "41",
+      "title": "Skaidras naudas uzskaites kārtības neievērošana",
+      "content": "Par skaidras naudas uzskaites kārtības neievērošanu piemēro brīdinājumu vai naudas sodu līdz septiņdesmit naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "42",
+      "title": "Grāmatvedības kārtošanas noteikumu neievērošana, gada pārskata un konsolidētā gada pārskata neiesniegšana",
+      "content": "Par grāmatvedības kārtošanas noteikumu neievērošanu, gada pārskata un konsolidētā gada pārskata neiesniegšanu Valsts ieņēmumu dienestam vai Korupcijas novēršanas un apkarošanas birojam noteiktajos termiņos vai normatīvajiem aktiem neatbilstoša gada pārskata un konsolidētā gada pārskata iesniegšanu piemēro brīdinājumu vai naudas sodu līdz četrsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "43",
+      "title": "Attaisnojuma dokumentu reģistrēšanas un lietošanas kārtības neievērošana",
+      "content": "(1) Par attaisnojuma dokumentu noformēšanas, reģistrēšanas un lietošanas kārtības neievērošanu piemēro brīdinājumu vai naudas sodu līdz astoņdesmit sešām naudas soda vienībām.\n(2) Par attaisnojuma dokumentu par darījumiem vai darbībām ar akcīzes precēm noformēšanas, reģistrēšanas un lietošanas kārtības neievērošanu piemēro brīdinājumu vai naudas sodu līdz četrsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "44",
+      "title": "Preču piegādes dokumentu lietošanas un reģistrēšanas kārtības neievērošana",
+      "content": "(1) Par preču piegādes dokumentu noformēšanas, reģistrēšanas un lietošanas kārtības neievērošanu piemēro brīdinājumu vai naudas sodu līdz astoņdesmit sešām naudas soda vienībām.\n(2) Par tādu preču piegādes dokumentu noformēšanas, reģistrēšanas un lietošanas kārtības neievērošanu, kuri attiecas uz darījumiem vai darbībām ar akcīzes precēm, piemēro brīdinājumu vai naudas sodu līdz četrsimt naudas soda vienībām."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "45",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "(1) Administratīvā pārkāpuma procesu par šā likuma 41. , 42. , 43. un 44. pantā minētajiem pārkāpumiem veic Valsts ieņēmumu dienests.\n(2) Administratīvā pārkāpuma procesu par šā likuma 42. pantā minētajiem pārkāpumiem, ja tos izdarījusi politiskā organizācija (partija) vai politisko organizāciju (partiju) apvienība, veic Korupcijas novēršanas un apkarošanas birojs."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par grāmatvedību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 44./45. nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3., 23. nr.; 1996, 24. nr.; 1999, 15. nr.; 2000, 10. nr.; 2003, 12. nr.; 2004, 6. nr.; 2006, 10. nr.; 2009, 9. nr.; Latvijas Vēstnesis, 2010, 102., 166. nr.; 2011, 65., 184. nr.; 2013, 87., 194., 250. nr.; 2016, 197., 241. nr.; 2017, 231., 236. nr.; 2019, 224. nr.; 2021, 37. nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par grāmatvedību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1992, 44./45. nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1995, 3., 23. nr.; 1996, 24. nr.; 1999, 15. nr.; 2000, 10. nr.; 2003, 12. nr.; 2004, 6. nr.; 2006, 10. nr.; 2009, 9. nr.; Latvijas Vēstnesis, 2010, 102., 166. nr.; 2011, 65., 184. nr.; 2013, 87., 194., 250. nr.; 2016, 197., 241. nr.; 2017, 231., 236. nr.; 2019, 224. nr.; 2021, 37. nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2022. gada 1. jūlijam izdod šā likuma 5. panta trešajā daļā, 6. panta septītajā daļā, 8. panta ceturtajā daļā, 10. panta trešajā daļā, 11. panta trīspadsmitajā daļā, 12. panta ceturtajā daļā, 14. panta ceturtajā daļā, 15. panta trešajā daļā, 18. panta otrās daļas 1. punktā, 21. panta trešajā daļā un 23. panta trešajā daļā minētos noteikumus. Līdz minēto noteikumu spēkā stāšanas dienai, bet ne ilgāk kā līdz 2022. gada 1. jūlijam ir piemērojami šādi Ministru kabineta noteikumi, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2003. gada 21. oktobra noteikumi Nr. 583 \" Uzņēmuma mantas, arī prasījumu un saistību novērtēšana grāmatvedībā un atspoguļošana finanšu pārskatos, ja uzņēmuma vai tā struktūrvienības darbība tiek izbeigta \";\n2) Ministru kabineta 2003. gada 21. oktobra noteikumi Nr. 584 \" Kases operāciju uzskaites noteikumi \";\n3) Ministru kabineta 2003. gada 21. oktobra noteikumi Nr. 585 \" Noteikumi par grāmatvedības kārtošanu un organizāciju \";\n4) Ministru kabineta 2004. gada 13. jūlija noteikumi Nr. 591 \" Noteikumi par politisko organizāciju (partiju) un to apvienību gada pārskatiem \";\n5) Ministru kabineta 2006. gada 3. oktobra noteikumi Nr. 808 \" Noteikumi par biedrību, nodibinājumu un arodbiedrību gada pārskatiem \";\n6) Ministru kabineta 2006. gada 14. novembra noteikumi Nr. 928 \" Noteikumi par reliģisko organizāciju gada pārskatiem \";\n7) Ministru kabineta 2007. gada 20. marta noteikumi Nr. 188 \" Kārtība, kādā individuālie komersanti, individuālie uzņēmumi, zemnieku un zvejnieku saimniecības, citas fiziskās personas, kas veic saimniecisko darbību, kārto grāmatvedību vienkāršā ieraksta sistēmā \";\n8) Ministru kabineta 2007. gada 8. maija noteikumi Nr. 301 \" Noteikumi par individuālo komersantu finanšu pārskatiem \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn3",
+      "title": "3. Ārpakalpojuma grāmatveži ir tiesīgi turpināt grāmatvedības pakalpojumu sniegšanu bez licences ne ilgāk kā līdz 2023. gada 1. jūlijam. Ja ārpakalpojuma grāmatvedim (fiziskajai personai) vai atbildīgajam ārpakalpojuma grāmatvedim nav šā likuma 34. panta otrās daļas 2. punkta \"a\" apakšpunktā noteiktajām prasībām atbilstošas izglītības, bet ir atbilstoša pieredze grāmatvedības jomā, līdz 2025. gada 1. jūlijam viņa faktiskā izglītība var tikt atzīta par atbildīgajam ārpakalpojuma grāmatvedim atbilstošu izglītību, ja viņš ir uzsācis vai turpina minētajām izglītības prasībām atbilstošas studijas un katru gadu līdz 15. oktobrim iesniedz Valsts ieņēmumu dienestam augstākās izglītības iestādes izsniegtu izziņu par studiju sekmīgu turpināšanu. Ja ārpakalpojuma grāmatvedim (fiziskajai personai) vai atbildīgajam ārpakalpojuma grāmatvedim ir piešķirta valsts vecuma pensija (arī priekšlaicīgi) vai viņš ir sasniedzis vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai līdz šā vecuma sasniegšanai atlikuši seši gadi vai mazāk un viņam ir atbilstoša pieredze grāmatvedības jomā, tad, nepiemērojot likumā noteiktās izglītības prasības, viņš var saņemt ārpakalpojuma grāmatveža licenci, kuras derīguma termiņš ir pieci gadi, bet ne ilgāks par 2027. gada 1. jūliju.",
+      "content": "3. Ārpakalpojuma grāmatveži ir tiesīgi turpināt grāmatvedības pakalpojumu sniegšanu bez licences ne ilgāk kā līdz 2023. gada 1. jūlijam. Ja ārpakalpojuma grāmatvedim (fiziskajai personai) vai atbildīgajam ārpakalpojuma grāmatvedim nav šā likuma 34. panta otrās daļas 2. punkta \"a\" apakšpunktā noteiktajām prasībām atbilstošas izglītības, bet ir atbilstoša pieredze grāmatvedības jomā, līdz 2025. gada 1. jūlijam viņa faktiskā izglītība var tikt atzīta par atbildīgajam ārpakalpojuma grāmatvedim atbilstošu izglītību, ja viņš ir uzsācis vai turpina minētajām izglītības prasībām atbilstošas studijas un katru gadu līdz 15. oktobrim iesniedz Valsts ieņēmumu dienestam augstākās izglītības iestādes izsniegtu izziņu par studiju sekmīgu turpināšanu. Ja ārpakalpojuma grāmatvedim (fiziskajai personai) vai atbildīgajam ārpakalpojuma grāmatvedim ir piešķirta valsts vecuma pensija (arī priekšlaicīgi) vai viņš ir sasniedzis vecumu, kas dod tiesības saņemt valsts vecuma pensiju, vai līdz šā vecuma sasniegšanai atlikuši seši gadi vai mazāk un viņam ir atbilstoša pieredze grāmatvedības jomā, tad, nepiemērojot likumā noteiktās izglītības prasības, viņš var saņemt ārpakalpojuma grāmatveža licenci, kuras derīguma termiņš ir pieci gadi, bet ne ilgāks par 2027. gada 1. jūliju."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn4",
+      "title": "4. Šā likuma 40. panta otrā daļa stājas spēkā 2023. gada 1. janvārī.",
+      "content": "4. Šā likuma 40. panta otrā daļa stājas spēkā 2023. gada 1. janvārī."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn5",
+      "title": "5. Līdz dienai, kad stājas spēkā šā likuma 40. panta otrā daļa, ārpakalpojuma grāmatveža profesionālās civiltiesiskās atbildības apdrošināšanas minimālais atbildības limits nedrīkst būt mazāks par 3000 euro .",
+      "content": "5. Līdz dienai, kad stājas spēkā šā likuma 40. panta otrā daļa, ārpakalpojuma grāmatveža profesionālās civiltiesiskās atbildības apdrošināšanas minimālais atbildības limits nedrīkst būt mazāks par 3000 euro ."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn6",
+      "title": "6. Šā likuma 17. panta otrā daļa, 31. panta piektā daļa un 36. panta otrā daļa stājas spēkā 2025. gada 1. janvārī.",
+      "content": "( 26.09.2024 . likuma redakcijā, kas stājas spēkā 17.10.2024. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn7",
+      "title": "7. Šā likuma 18. panta trešās daļas otrais teikums piemērojams, ievērojot Ilgtspējas informācijas atklāšanas likuma pārejas noteikumu 15. punktā paredzēto kārtību.",
+      "content": "( 26.09.2024 . likuma redakcijā, kas stājas spēkā 17.10.2024. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn8",
+      "title": "8. Šā likuma 11. panta četrpadsmitajā daļā uzņēmumam noteiktais pienākums attaisnojuma dokumentu, kuru izsniedz samaksāšanai citam Latvijas Republikā reģistrētam uzņēmumam, kas nav budžeta iestāde, noformēt kā strukturētu elektronisko rēķinu piemērojams, sākot no 2028. gada 1. janvāra.",
+      "content": "( 31.10.2024 . likuma redakcijā ar grozījumiem, kas izdarīti ar 05.06.2025 . likumu, kas stājas spēkā 12.06.2025. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn9",
+      "title": "9. Attiecībā uz darījumiem, kuri noslēgti līdz 2024. gada 31. decembrim un kuros uzņēmums izsniedz attaisnojuma dokumentu citam uzņēmumam — budžeta iestādei, šā likuma 11. panta četrpadsmito daļu sāk piemērot ne vēlāk kā no 2026. gada 1. janvāra.",
+      "content": "( 31.10.2024 . likuma redakcijā, kas stājas spēkā 01.01.2025. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn10",
+      "title": "10. Ministru kabinets līdz 2025. gada 1. maijam izdod šā likuma 11. panta piecpadsmitajā daļā minētos noteikumus. Uzņēmumiem, kuri izsniedz apmaksai attaisnojuma dokumentu citam uzņēmumam — budžeta iestādei, kas ir preces vai pakalpojuma saņēmējs —, attiecībā uz šiem dokumentiem ir pienākums nodot Valsts ieņēmumu dienestam strukturēto elektronisko rēķinu datus, sākot no 2026. gada 1. janvāra, bet šo pārejas noteikumu 8. punktā minētajiem uzņēmumiem ir pienākums nodot Valsts ieņēmumu dienestam strukturēto elektronisko rēķinu datus, sākot no 2028. gada 1. janvāra.",
+      "content": "( 31.10.2024 . likuma redakcijā ar grozījumiem, kas izdarīti ar 05.06.2025 . likumu, kas stājas spēkā 12.06.2025. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VIII nodaļa Administratīvie pārkāpumi grāmatvedības jomā un kompetence administratīvo pārkāpumu procesā",
+      "section": "pn11",
+      "title": "11. Līdz dienai, kad stājas spēkā Nodokļu un muitas policijas likums, šā likuma 11. panta sešpadsmitās daļas 3. punktā Nodokļu un muitas policijai paredzētās tiesības attiecināmas uz Valsts ieņēmumu dienesta Nodokļu un muitas policijas pārvaldi.",
+      "content": "1) Eiropas Parlamenta un Padomes 2017. gada 14. jūnija direktīvas (ES) 2017/1132 attiecībā uz sabiedrību tiesību dažiem aspektiem;\n2) Eiropas Parlamenta un Padomes 2015. gada 20. maija direktīvas (ES) 2015/849 par to, lai nepieļautu finanšu sistēmas izmantošanu nelikumīgi iegūtu līdzekļu legalizēšanai vai teroristu finansēšanai, un ar ko groza Eiropas Parlamenta un Padomes regulu (ES) Nr. 684/2012 un atceļ Eiropas Parlamenta un Padomes direktīvu 2005/60/EK un Komisijas direktīvu 2006/70/EK ;\n3) Eiropas Parlamenta un Padomes 2022. gada 14. decembra direktīvas (ES) 2022/2464, ar ko attiecībā uz korporatīvo ilgtspējas ziņu sniegšanu groza regulu (ES) Nr. 537/2014, direktīvu 2004/109/EK , direktīvu 2006/43/EK un direktīvu 2013/34/ES ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "elektronisks apliecinājums",
+      "definition": "elektroniskā formā sagatavotajā attaisnojuma dokumentā minētā saimnieciskā darījuma esības un sniegtās informācijas pareizības apstiprinājums grāmatvedības informācijas datorsistēmā vai citā informācijas sistēmā, kas veikts uzņēmuma vadītāja noteiktajā veidā un saskaņā ar normatīvajiem aktiem fizisko personu elektroniskās identifikācijas jomā ļauj identificēt konkrētu personu — apliecinājuma devēju. Elektronisks apliecinājums var būt, piemēram:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "grāmatvedības dokumenti",
+      "definition": "attaisnojuma dokumenti, grāmatvedības reģistri, inventarizācijas saraksti, gada pārskati un grāmatvedības organizācijas dokumenti elektroniskā vai papīra formā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "grāmatvedības kontu plāns",
+      "definition": "uzņēmuma vadītāja izdots ilglaicīgai lietošanai paredzēts sistematizēts grāmatvedības kontu saraksts, kuru izmanto, kārtojot grāmatvedību divkāršā ieraksta sistēmā, un kurā saskaņā ar uzņēmumā pieņemto detalizācijas pakāpi norādīti grāmatvedības kontu nosaukumi un tiem piešķirtie kodi (ja uzņēmumā tādi piešķirti). Grāmatvedības konti paredzēti pēc saimnieciskās būtības līdzīgu uzņēmuma mantas (aktīvu) un to avotu (pasīvu) posteņu sastāvdaļu vērtības un tās izmaiņu uzskaitei grāmatvedības reģistros (bilances konti), kā arī ieņēmumu vai izdevumu posteņu un to sastāvdaļu vērtības un tās izmaiņu uzskaitei grāmatvedības reģistros (operāciju konti)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "grāmatvedības reģistri",
+      "definition": "dokumentu kopums (hronoloģiskie un sistemātiskie reģistri, tai skaitā galvenā grāmata vai žurnāls-virsgrāmata un analītiskās uzskaites reģistri), kur tiek uzkrāta un pēc konkrētām pazīmēm grupēta (sistematizēta) attaisnojuma dokumentos ietvertā informācija par saimnieciskajiem darījumiem. Grāmatvedības reģistri var tikt sagatavoti elektroniskā vai papīra formā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "grāmatvedības organizācijas dokumenti",
+      "definition": "tādu uzņēmuma vadītāja izdotu dokumentu kopums, kuros noteikta kārtība, kādā, ievērojot normatīvo aktu prasības, uzņēmumā kārto grāmatvedības reģistrus, sagatavo attaisnojuma dokumentus un organizē to apriti, veic inventarizāciju, sagatavo gada pārskatu un citus grāmatvedības pārskatus un glabā grāmatvedības dokumentus. Šajā dokumentu kopumā iekļaujams arī grāmatvedības kontu plāns, grāmatvedības politika (attiecas uz finanšu pārskatu sagatavošanu uzņēmumā, kas nav budžeta iestāde) vai grāmatvedības uzskaites kārtība (attiecas uz finanšu pārskatu sagatavošanu budžeta iestādē) un citi uzņēmuma vadītāja izdotie dokumenti, kas nepieciešami uzņēmuma grāmatvedības kārtošanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "manta",
+      "definition": "uzņēmuma saimnieciskajai darbībai vai mērķu īstenošanai izmantotie līdzekļi, tai skaitā nauda un naudas izteiksmē novērtējamas lietas — kustamas vai nekustamas ķermeniskas lietas (piemēram, zemes gabali, ēkas, transportlīdzekļi, preces) un bezķermeniskas lietas (piemēram, koncesijas, licences, finanšu instrumenti, aizdevumi un citi prasījumi), ko uzņēmums norāda finanšu pārskata sastāvdaļas — bilances (ja tādu sagatavo) — aktīvā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "saimnieciskais darījums",
+      "definition": "jebkurš tiesisks darījums ( Civillikuma izpratnē), kā arī katrs fakts vai notikums, kas rada pārmaiņas uzņēmuma saistībās vai mantas stāvoklī. Pārmaiņas mantas stāvoklī ir mantas sastāva vai vērtības izmaiņas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "saimnieciskā darījuma diena",
+      "definition": "jebkura diena, kurā faktiski notikušas pārmaiņas uzņēmuma saistībās vai mantas stāvoklī",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "strukturēts elektroniskais rēķins",
+      "definition": "rēķins, kurš sagatavots, nosūtīts un saņemts strukturētā elektroniskā formātā, kas ļauj to automātiski un elektroniski apstrādāt, un kurš atbilst Eiropas Savienības standartam LVS EN 16931-1:2017 \"Elektroniskie rēķini. 1. daļa. Elektronisko rēķinu pamatelementu semantisko datu modelis\", un kuru uzņēmums izraksta atbilstoši tehniskajai specifikācijai LVS CEN/TS 16931-2:2017 \"Elektroniskie rēķini. 2. daļa: Standartam EN 16931-1 atbilstošo sintakšu saraksts\"",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

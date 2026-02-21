@@ -1,0 +1,237 @@
+{
+  "id": "lv-law-50687",
+  "type": "statute",
+  "title": "Apsardzes darbības likums",
+  "short_name": "TA-50687",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/50687-apsardzes-darbibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) apsardzes darbība — apsardzes pakalpojumu sniegšana;\n2) apsardzes darbinieks — fiziskā persona, kas šajā likumā un citos normatīvajos aktos noteiktajā kārtībā saņēmusi apsardzes sertifikātu un sniedz apsardzes pakalpojumus;\n3) apsardzes objekts — fiziskā persona, kustama manta vai nekustams īpašums, krava, telpas, ēkas, būves, teritorija vai cits objekts, kā arī objektos notiekoši pastāvīgi vai atsevišķi pasākumi;\n4) apsardzes pakalpojumi — pasākums vai pasākumu kopums, kas tiek veikts, lai nodrošinātu apsardzes objektu no prettiesiska vai cita veida apdraudējuma;\n5) apsardzes sertifikāts — dokuments, kas apliecina fiziskās personas profesionālo kompetenci;\n6) apsardzes tehniskā sistēma — mehānisko vai elektronisko iekārtu kopums, kas funkcionē vienotā sistēmā ar mērķi nodrošināt apsardzes objektu no prettiesiska vai cita veida apdraudējuma;\n7) apsardzes uzņēmums — komersants, kas saņēmis speciālo atļauju (licenci) apsardzes darbības veikšanai un sniedz apsardzes pakalpojumus fiziskajām vai juridiskajām personām."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Apsardzes darbības subjekti",
+      "content": "(1) Apsardzes darbības subjekti ir apsardzes uzņēmumi, apsardzes darbinieki, kā arī iestāžu, komersantu un organizāciju struktūrvienības, kas nodrošina to apsardzi un iekšējo drošību (turpmāk — iekšējās drošības dienests).\n(2) Šis likums nereglamentē Nacionālo bruņoto spēku un policijas iestāžu apsardzes darbību, kas tiek veikta saskaņā ar speciālajiem likumiem."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Apsardzes pakalpojumu veidi",
+      "content": "Apsardzes uzņēmums vai iekšējās drošības dienests var sniegt šādus apsardzes pakalpojumus:\n1) nodrošināt kustamas mantas un nekustama īpašuma apsardzi;\n2) nodrošināt fiziskās personas apsardzi;\n3) gādāt par iekšējo drošību pasūtītāja vai darba devēja objektos un tajos notiekošajos pasākumos;\n4) projektēt, uzstādīt un remontēt apsardzes tehnisko sistēmu."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "4",
+      "title": "Speciālās atļaujas (licences) izsniegšana apsardzes darbības veikšanai",
+      "content": "(1) Apsardzes uzņēmumi apsardzes darbību var uzsākt pēc speciālās atļaujas (licences) saņemšanas.\n(2) Apsardzes uzņēmumam atļauts sniegt apsardzes pakalpojumus, kas norādīti speciālajā atļaujā (licencē).\n(3) Ir divu kategoriju speciālās atļaujas (licences):\n1) saskaņā ar pirmās kategorijas speciālo atļauju (licenci) apsardzes uzņēmumam ir tiesības nodarboties ar apsardzes tehnisko sistēmu projektēšanu, uzstādīšanu, apkopi un remontu;\n2) saskaņā ar otrās kategorijas speciālo atļauju (licenci) apsardzes uzņēmumam ir tiesības sniegt visus šajā likumā minētos apsardzes pakalpojumus un apsardzes darbībā izmantot apsardzes tehniskās sistēmas."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "5",
+      "title": "Speciālās atļaujas (licences) izsniegšanas kārtība",
+      "content": "(1) Kārtību, kādā izsniedzama speciālā atļauja (licence) apsardzes darbības veikšanai, kā arī īpašās prasības speciālās atļaujas (licences) saņemšanai reglamentē Ministru kabineta noteikumi. Speciālā atļauja (licence) ir derīga apsardzes darbības veikšanai visā valsts teritorijā.\n(2) Speciālo atļauju (licenci) izsniedz uz pieciem gadiem.\n(3) Par speciālās atļaujas (licences) izsniegšanu apsardzes darbības veikšanai iekasējama valsts nodeva Ministru kabineta noteiktajā kārtībā un apmērā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "6",
+      "title": "Speciālās atļaujas (licences) izsniegšanas ierobežojumi",
+      "content": "(1) Speciālo atļauju (licenci) apsardzes darbības veikšanai ir tiesīgi saņemt individuālie komersanti un komercsabiedrības, kurās ārvalstu ieguldītāji, izņemot Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu ieguldītājus, nav ieguvuši (tiešā vai netiešā veidā) kontrolpaketi. Par apsardzes uzņēmumu vadītājiem var būt Eiropas Savienības dalībvalstu un Eiropas Ekonomikas zonas valstu pilsoņi, kuri nav sodīti par noziedzīgu nodarījumu izdarīšanu un kuriem nav konstatētas psihiskas slimības, alkohola, narkotisko, psihotropo vai toksisko vielu atkarība.\n(2) Speciālo atļauju (licenci) apsardzes darbības veikšanai aizliegts izsniegt komercsabiedrībām, kuru pārvaldes institūcijās amatus ieņem personas, par kurām valsts policijas vai valsts drošības iestāžu rīcībā ir ziņas, kas liecina par šo personu piederību pie aizliegtiem militarizētiem vai bruņotiem formējumiem, likumā noteiktajā kārtībā nereģistrētām politiskajām partijām vai sabiedriski politiskajām organizācijām, apvienībām vai kustībām, kā arī organizētās noziedzības grupām. Šī prasība attiecināma arī uz individuālo komersantu.\n(3) Atkārtoti izsniegt speciālo atļauju (licenci) apsardzes darbības veikšanai aizliegts, ja apsardzes uzņēmumam tā anulēta par pārkāpumiem, kas norādīti šā likuma 7.panta pirmās daļas 1.punktā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "7",
+      "title": "Speciālās atļaujas (licences) anulēšana",
+      "content": "(1) Speciālo atļauju (licenci) anulē, ja:\n1) apsardzes uzņēmuma darbība ir vērsta pret valsti, sabiedrības vai personas likumīgajām interesēm;\n2) apsardzes uzņēmums pārkāpj vai nepilda šā likuma vai citu normatīvo aktu prasības;\n3) konstatēts, ka iesniegtas nepatiesas ziņas, lai saņemtu speciālo atļauju (licenci);\n4) sistemātiski netiek pildītas nodokļu saistības;\n5) sešu mēnešu laikā no speciālās atļaujas (licences) saņemšanas dienas nav uzsākta apsardzes darbība;\n6) to nosaka citi likumi vai tiesas nolēmumi.\n(2) Lēmumu par speciālās atļaujas (licences) anulēšanu var apstrīdēt un pārsūdzēt kārtībā, kāda noteikta normatīvajos aktos, kuri regulē administratīvo aktu apstrīdēšanu un pārsūdzēšanu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "8",
+      "title": "Apsardzes pakalpojumu līgums",
+      "content": "Apsardzes pakalpojumus apsardzes uzņēmums veic uz rakstveidā noslēgta līguma pamata."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "9",
+      "title": "Apsardzes uzņēmuma atbildība",
+      "content": "Zaudējumi, kas radušies apsardzes uzņēmuma vainas dēļ, atlīdzināmi Civillikumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "10",
+      "title": "Apsardzes uzņēmuma tiesības",
+      "content": "(1) Apsardzes uzņēmumam, kas saņēmis otrās kategorijas speciālo atļauju (licenci), ir tiesības:\n1) apsardzes darbības nodrošināšanai iegādāties, glabāt un izmantot šaujamieročus un speciālos līdzekļus likumā noteiktajā kārtībā;\n2) radiosakaru nodrošināšanai noteiktā kārtībā izmantot radiofrekvences;\n3) apsardzes darbībā izmantot dienesta suņus;\n4) apsardzes darbībā izmantot tehniskos apsardzes līdzekļus.\n(2) (Izslēgta ar 21.12.2000 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa Apsardzes uzņēmuma darbība",
+      "section": "11",
+      "title": "Apsardzes darbības ierobežojumi",
+      "content": "Apsardzes uzņēmumam aizliegts:\n1) apsardzes darbībā izmantot tehnisko aprīkojumu un ķīmiskas vielas, kas ir bīstamas cilvēka dzīvībai vai veselībai;\n2) veikt apsardzi ar šaujamieročiem un speciālajiem līdzekļiem, ja apsardzes darbinieks nav formas tērpā, izņemot gadījumus, kad tiek veikta personas apsardze (miesassardze);\n3) nepaziņot tiesībaizsardzības iestādēm tā rīcībā esošos faktus par gatavošanos noziegumiem vai par izdarītajiem noziedzīgajiem nodarījumiem;\n4) apzināti apsargāt personu, kas veic prettiesisku darbību."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Iekšējās drošības dienests un tā darbība",
+      "section": "12",
+      "title": "Iekšējās drošības dienesta reģistrēšana",
+      "content": "Iestādes, komersanti un organizācijas, kuru apsardzi veic algoti štata darbinieki, reģistrē savu iekšējās drošības dienestu Iekšlietu ministrijā Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Iekšējās drošības dienests un tā darbība",
+      "section": "13",
+      "title": "Iekšējās drošības dienesta darbinieki",
+      "content": "Par iekšējās drošības dienesta darbinieku, kas veic apsardzes darbību, var būt tikai tāda persona, kura ir saņēmusi apsardzes sertifikātu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Iekšējās drošības dienests un tā darbība",
+      "section": "14",
+      "title": "Iekšējās drošības dienesta darbības nosacījumi",
+      "content": "Veicot apsardzes darbību un aizsardzības pasākumus, iekšējās drošības dienestam un tā darbiniekiem ir obligāti visi šajā likumā paredzētie noteikumi, tiesības, pienākumi un ierobežojumi, izņemot licencēšanas noteikumus."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Apsardzes darbinieks, viņa tiesības un atbildība",
+      "section": "15",
+      "title": "Apsardzes sertifikāts",
+      "content": "(1) Apsardzes sertifikāts fiziskajām personām tiek izsniegts Ministru kabineta noteiktajā kārtībā pēc attiecīgas apmācības un kvalifikācijas pārbaudījuma nokārtošanas.\n(2) Apsardzes sertifikāta derīguma termiņš ir pieci gadi.\n(3) Par apsardzes darbības kvalifikācijas pārbaudījuma kārtošanu un apsardzes sertifikāta izsniegšanu iekasējama valsts nodeva Ministru kabineta noteiktajā kārtībā un apmērā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Apsardzes darbinieks, viņa tiesības un atbildība",
+      "section": "16",
+      "title": "Apsardzes darbinieka tiesības",
+      "content": "Apsardzes darbiniekam, sniedzot apsardzes pakalpojumus, ir tiesības:\n1) prasīt, lai persona izbeidz prettiesisko darbību un ievēro apsargājamā objektā noteikto kārtību;\n2) aizturēt likumpārkāpēju vai personu, kas nelikumīgi iekļuvusi apsargājamā objektā vai mēģina to izdarīt, un nekavējoties nodot policijai aizturēto personu vai arī atkarībā no tās veiktajām darbībām izraidīt šo personu no apsargājamā objekta, ja šādu izraidīšanu paredz apsargājamā objekta vadītāja apstiprinātie apsardzes noteikumi;\n3) pārbaudīt caurlaides vai citus personu apliecinošus dokumentus, kas nepieciešami to apsardzes noteikumu ievērošanai, kuru izpildes kontrole ir uzdota apsardzes darbiniekam;\n4) pārbaudīt apsargājamā objekta caurlaides punktos transportu, kravu, kā arī personu personīgās mantas, ja šādas darbības ir paredzētas apsargājamā objekta vadītāja apstiprinātajos apsardzes noteikumos."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Apsardzes darbinieks, viņa tiesības un atbildība",
+      "section": "17",
+      "title": "Apsardzes darbinieki, kas veic bruņotu apsardzi",
+      "content": "(1) Veicot apsardzes darbību, šaujamieročus un gāzes pistoles (revolverus) drīkst izmantot tikai tie apsardzes darbinieki, kuri likumā noteiktajā kārtībā ir saņēmuši to nēsāšanas atļaujas.\n(2) Šā panta pirmajā daļā minēto atļauju saņemšanas nosacījumi ir tādi paši, kādi tiek izvirzīti, lai saņemtu atļauju šaujamieroča vai gāzes pistoles (revolvera) nēsāšanai pašaizsardzības nolūkā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Apsardzes darbinieks, viņa tiesības un atbildība",
+      "section": "18",
+      "title": "Apsardzes darbinieka atbildība",
+      "content": "Apsardzes darbinieks ir atbildīgs par savām darbībām saskaņā ar spēkā esošajiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "19",
+      "title": "Fiziska spēka un speciālo līdzekļu pielietošanas nosacījumi",
+      "content": "(1) Ja likumpārkāpējs ar savu prettiesisko darbību rada reālus draudus apsardzes veikšanai norīkotā apsardzes darbinieka vai citu personu dzīvībai vai veselībai, vai apsargājamai mantai, apsardzes darbinieks pēc mutvārdos izteikta brīdinājuma par fiziska spēka vai speciālo līdzekļu pielietošanu drīkst pielietot speciālos cīņas paņēmienus vai speciālos līdzekļus, lai izbeigtu prettiesisko darbību un aizturētu likumpārkāpēju.\n(2) Bez mutvārdos izteikta brīdinājuma fizisku spēku un speciālos līdzekļus drīkst pielietot, ja likumpārkāpums ir saistīts ar ielaušanos apsargājamā objektā vai ar pēkšņu uzbrukumu apsardzes darbiniekam, citai personai vai apsargājamam objektam.\n(3) Persona, pret kuru pielietots fizisks spēks vai speciālie līdzekļi, ir aizturama. Ja nepieciešams, tai sniedz pirmo palīdzību. Aizturētā persona nekavējoties nododama policijai."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "20",
+      "title": "Dienesta suņu izmantošana",
+      "content": "(1) Dienesta suņus apsardzes darbībā izmantot aizliegts, ja nav klāt suņa pavadoņa. Suņi, kuri tiek izmantoti apsardzes darbībā publiskās vai visiem pieejamās vietās, ir turami saitē, un attiecībā uz tiem ir ievērojamas veterināro noteikumu prasības.\n(2) Slēgtās teritorijās, kurās neatrodas cilvēki, var turēt nepiesietus suņus, ja redzamās vietās izvietoti skaidri salasāmi brīdinājuma uzraksti."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "21",
+      "title": "Apsardzes darbībā izmantojamie šaujamieroči",
+      "content": "(1) Apsardzes darbībā apsardzes darbinieks drīkst izmantot personīgo šaujamieroci vai arī dienesta šaujamieroci, kas izsniegts tikai uz apsardzes pienākumu pildīšanas laiku.\n(2) Dienesta šaujamieroču iegādāšanās, glabāšanas un izsniegšanas kārtību apsardzes darbības subjektiem reglamentē Ministru kabineta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "22",
+      "title": "Šaujamieroča pielietošanas un izmantošanas nosacījumi",
+      "content": "(1) Apsardzes darbībā apsardzes darbinieks drīkst pielietot šaujamieroci, lai:\n1) aizsargātu sevi vai citu personu no uzbrukuma, kas apdraud cilvēka dzīvību, veselību vai mantu;\n2) novērstu nelikumīgu mēģinājumu vardarbīgi atņemt ieroci;\n3) aizturētu likumpārkāpēju, kurš pārsteigts, ielaužoties vai citādi vardarbīgi iekļūstot apsargājamā objektā vai izdarot citu noziedzīgu nodarījumu, ja likumpārkāpējs izrāda pretošanos;\n4) padarītu nekaitīgu vai aizbaidītu dzīvnieku, kas apdraud cilvēka dzīvību, veselību vai mantu.\n(2) Šaujamieroci drīkst izmantot arī, lai izsauktu palīdzību, signalizētu vai brīdinātu."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "23",
+      "title": "Šaujamieroča pielietošanas kārtība",
+      "content": "(1) Par nodomu pielietot šaujamieroci brīdina, raidot brīdinājuma šāvienu. Bez brīdinājuma šaujamieroci drīkst pielietot, ja:\n1) uzbrukums ir pēkšņs;\n2) uzbrukumā tiek pielietoti ieroči vai priekšmeti, kas apdraud cilvēka dzīvību vai veselību, vai tiek izmantoti mehāniskie transportlīdzekļi;\n3) aizturamā persona pretojas, pielietojot ieroci.\n(2) Šaujamieroča pielietošanas gadījumā apsardzes darbinieks dara visu iespējamo, lai mazinātu kaitējumu.\n(3) Par katru šaujamieroča pielietošanas gadījumu apsardzes darbinieks nekavējoties ziņo valsts policijas iestādei un savam tiešajam priekšniekam. Ja nodarīts kaitējums cilvēka dzīvībai, veselībai vai mantai, saglabājami notikuma vietas apstākļi, bet, ja ir cietušie, tiem nekavējoties sniedzama pirmā palīdzība un nodrošināma medicīniskās palīdzības sniegšana."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "pn1",
+      "title": "1. Iekšlietu ministrija gada laikā pēc šā likuma spēkā stāšanās no jauna licencē esošos apsardzes uzņēmumus, ievērojot šā likuma prasības.",
+      "content": "1. Iekšlietu ministrija gada laikā pēc šā likuma spēkā stāšanās no jauna licencē esošos apsardzes uzņēmumus, ievērojot šā likuma prasības."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "pn2",
+      "title": "2. Ministru kabinets triju mēnešu laikā pēc šā likuma spēkā stāšanās nosaka valsts nodevas apmēru par pirmās, otrās kategorijas speciālās atļaujas (licences) izsniegšanu apsardzes darbības veikšanai.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 21.12.2000 . likumu, kas stājas spēkā 19.01.2001. )"
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "pn3",
+      "title": "3. Ministru kabinets triju mēnešu laikā pēc šā likuma spēkā stāšanās apstiprina noteikumus par speciālo atļauju (licenču) izsniegšanu apsardzes darbības veikšanai, iekšējo drošības dienestu reģistrācijas noteikumus un apsardzes darbībā izmantojamo dienesta šaujamieroču iegādāšanās, glabāšanas un izsniegšanas noteikumus.",
+      "content": "3. Ministru kabinets triju mēnešu laikā pēc šā likuma spēkā stāšanās apstiprina noteikumus par speciālo atļauju (licenču) izsniegšanu apsardzes darbības veikšanai, iekšējo drošības dienestu reģistrācijas noteikumus un apsardzes darbībā izmantojamo dienesta šaujamieroču iegādāšanās, glabāšanas un izsniegšanas noteikumus."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "V nodaļa Šaujamieroču un speciālo līdzekļu izmantošana apsardzes darbībā",
+      "section": "pn4",
+      "title": "4. Grozījumi likuma 6.panta pirmajā daļā stājas spēkā 2001.gada 1.jūlijā.",
+      "content": "( 21.12.2000 . likuma redakcijā, kas stājas spēkā 19.01.2001. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "apsardzes darbība",
+      "definition": "apsardzes pakalpojumu sniegšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apsardzes darbinieks",
+      "definition": "fiziskā persona, kas šajā likumā un citos normatīvajos aktos noteiktajā kārtībā saņēmusi apsardzes sertifikātu un sniedz apsardzes pakalpojumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apsardzes objekts",
+      "definition": "fiziskā persona, kustama manta vai nekustams īpašums, krava, telpas, ēkas, būves, teritorija vai cits objekts, kā arī objektos notiekoši pastāvīgi vai atsevišķi pasākumi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apsardzes pakalpojumi",
+      "definition": "pasākums vai pasākumu kopums, kas tiek veikts, lai nodrošinātu apsardzes objektu no prettiesiska vai cita veida apdraudējuma",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apsardzes sertifikāts",
+      "definition": "dokuments, kas apliecina fiziskās personas profesionālo kompetenci",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apsardzes tehniskā sistēma",
+      "definition": "mehānisko vai elektronisko iekārtu kopums, kas funkcionē vienotā sistēmā ar mērķi nodrošināt apsardzes objektu no prettiesiska vai cita veida apdraudējuma",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "apsardzes uzņēmums",
+      "definition": "komersants, kas saņēmis speciālo atļauju (licenci) apsardzes darbības veikšanai un sniedz apsardzes pakalpojumus fiziskajām vai juridiskajām personām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

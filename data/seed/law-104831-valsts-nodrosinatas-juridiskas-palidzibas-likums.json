@@ -1,0 +1,545 @@
+{
+  "id": "lv-law-104831",
+  "type": "statute",
+  "title": "Valsts nodrošinātās juridiskās palīdzības likums",
+  "title_en": "State Ensured Legal Aid Law",
+  "short_name": "TA-104831",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/104831-valsts-nodrosinatas-juridiskas-palidzibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir veicināt fiziskās personas tiesības uz taisnīgu tiesas aizsardzību, nodrošinot valsts garantētu finansiālu atbalstu juridiskās palīdzības saņemšanai."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma darbība",
+      "content": "Likums reglamentē valsts nodrošinātās juridiskās palīdzības (turpmāk — juridiskā palīdzība) sniegšanas vispārīgos noteikumus."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Tiesības uz juridisko palīdzību",
+      "content": "(1) Tiesības uz juridisko palīdzību ir:\n1) Latvijas pilsonim;\n2) Latvijas nepilsonim;\n3) bezvalstniekam;\n4) Eiropas Savienības pilsonim, kas nav Latvijas pilsonis, bet tiesiski uzturas Latvijas Republikā;\n5) ārzemniekam (tai skaitā bēglim un personai, kurai ir piešķirts alternatīvais statuss Latvijas Republikā), kas nav Eiropas Savienības dalībvalsts pilsonis, ja viņš tiesiski uzturas Latvijas Republikā un ir saņēmis pastāvīgās uzturēšanās atļauju;\n6) personai, kurai atbilstoši Latvijas Republikas starptautiskajām saistībām ir tiesības uz Latvijas Republikas nodrošināto juridisko palīdzību;\n7) patvēruma meklētājam;\n8) personai, kuras pastāvīgā dzīvesvieta vai domicils ir kāda no Eiropas Savienības dalībvalstīm, pārrobežu strīdos;\n9) ārzemniekam, kas Imigrācijas likumā noteiktajos gadījumos un kārtībā ir pakļauts izraidīšanas procedūrai (turpmāk — izraidāmais ārzemnieks).\n(2) Šā panta pirmās daļas 1., 2., 3., 4. un 5.punktā minētajām fiziskajām personām ir tiesības pieprasīt juridisko palīdzību, ja:\n1) tās ir ieguvušas maznodrošinātas vai trūcīgas personas statusu atbilstoši normatīvajos aktos noteiktajai kārtībai, kādā fiziskā persona atzīstama par maznodrošinātu vai trūcīgu;\n2) tās pēkšņi nonākušas tādā situācijā un materiālajā stāvoklī, kas tām liedz nodrošināt savu tiesību aizsardzību (stihisku nelaimju, nepārvaramas varas vai citu no personas neatkarīgu apstākļu dēļ), vai atrodas pilnā valsts vai pašvaldības apgādībā (turpmāk — īpašā situācija).\n(2 1 ) Šā panta pirmās daļas 1., 2., 3., 4., 5., 6. un 8. punktā minētajām fiziskajām personām ir tiesības pieprasīt juridisko palīdzību lietu kategorijās atbilstoši Civilprocesa likuma 82. 1 pantā paredzētajiem tiesību uz pārstāvību izņēmumiem, ja šo personu ienākumi nepārsniedz valstī noteikto minimālās mēnešalgas apmēru, īpašuma stāvoklis ir atbilstošs juridiskās palīdzības piešķiršanai un tās ir samaksājušas iemaksu par juridiskās palīdzības saņemšanu. Ministru kabinets nosaka, kādos gadījumos šā panta pirmās daļas 1., 2., 3., 4., 5., 6. un 8. punktā minēto personu īpašuma stāvoklis un ienākumu līmenis uzskatāms par atbilstošu juridiskās palīdzības piešķiršanai minētajās lietu kategorijās un šo personu izvērtēšanas kārtību.\n(3) Šā panta pirmās daļas 6., 8. un 9.punktā minētajām fiziskajām personām ir tiesības pieprasīt juridisko palīdzību, ja šīs personas, ievērojot to īpašo situāciju vai īpašuma stāvokli un ienākumu līmeni, nav spējīgas nodrošināt savu tiesību aizsardzību. Ministru kabinets nosaka, kādos gadījumos šā panta pirmās daļas 6., 8. un 9.punktā minēto personu īpašuma stāvoklis un ienākumu līmenis uzskatāms par atbilstošu juridiskās palīdzības piešķiršanai, un to izvērtēšanas kārtību.\n(4) Tiesības saņemt finansiālo atbalstu aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu (turpmāk — finansiālais atbalsts) Eiropas Savienības dalībvalstī vai trešajā valstī (turpmāk kopā — ārvalsts), ir bērna likumiskajam pārstāvim, kas ir Latvijas pilsonis vai nepilsonis (turpmāk kopā — Latvijas valstspiederīgais), atbilstoši šā likuma IV 2 nodaļā paredzētajiem nosacījumiem un kārtībai."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Juridiskās palīdzības pieprasītāja pienākumi un atbildība",
+      "content": "(1) Personai nav tiesību ļaunprātīgi izmantot maznodrošinātas vai trūcīgas personas statusu, savu īpašo situāciju, īpašuma stāvokli un ienākumu līmeni juridiskās palīdzības saņemšanai.\n(2) Personai ir pienākums laikus pieprasīt juridisko palīdzību, izņemot gadījumus, kad tas nav bijis iespējams objektīvu apstākļu dēļ.\n(3) Personai ir pienākums līdzdarboties juridiskās palīdzības saņemšanas procesā, laikus un prasītajā apjomā iesniedzot Tiesu administrācijai vai juridiskās palīdzības sniedzējam nepieciešamo informāciju un dokumentus.\n(4) Personai ir pienākums laikus, bet ne vēlāk kā vienu darbdienu iepriekš, izņemot gadījumus, kad tas nav bijis iespējams objektīvu apstākļu dēļ, informēt Tiesu administrāciju vai juridiskās palīdzības sniedzēju par to, ka tā nevar ierasties uz tikšanos ar juridiskās palīdzības sniedzēju vai uz tiesas sēdi.\n(5) Juridiskās palīdzības saņemšanas laikā personai ir pienākums iesniegt Tiesu administrācijai dokumentus, kas apliecina tās atbilstību šā likuma 3.pantā noteiktajām prasībām jebkurā no šādiem gadījumiem:\n1) beidzies iepriekš iesniegto dokumentu derīguma termiņš;\n2) šā likuma 24.pantā minētajā gadījumā;\n3) pēc Tiesu administrācijas pieprasījuma.\n(6) Latvijas valstspiederīgajam, kuram piešķirts finansiālais atbalsts, ir pienākums:\n1) iesniegt Tiesu administrācijai šā likuma 14. 10 panta otrās daļas 2. punktā minētos dokumentus;\n2) savlaicīgi informēt Tiesu administrāciju par to, ka process par bērna aizgādības tiesību pārtraukšanu vai atņemšanu ir izbeigts, kā arī par izmaiņām iepriekš sniegtajās ziņās."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Juridiskās palīdzības vispārīgie noteikumi",
+      "content": "(1) Valsts nodrošina juridisko palīdzību juridiska rakstura jautājuma risināšanai ārpus tiesas un tiesā aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai šajā likumā paredzētajos gadījumos, veidos un apjomā.\n(2) Patvēruma meklētājam valsts nodrošina juridisko palīdzību pārsūdzības procedūrās patvēruma piešķiršanas procesa ietvaros. Institūcija, kas ir atbildīga par patvēruma iesniegumu izskatīšanu, nodrošina juridiskās palīdzības nepieciešamības izvērtēšanu un juridiskās palīdzības pieprasītāja saziņu ar juridiskās palīdzības sniedzēju.\n(2 1 ) Izraidāmajam ārzemniekam, kas uzturas Latvijas Republikā, Imigrācijas likumā noteiktajos gadījumos valsts nodrošina juridisko palīdzību lēmuma par apstrīdēto izbraukšanas rīkojumu vai lēmuma par apstrīdēto lēmumu par piespiedu izraidīšanu pārsūdzēšanas ietvaros. Iestāde, kas Imigrācijas likumā noteiktajos gadījumos un kārtībā aiztur izraidāmo ārzemnieku, nodrošina juridiskās palīdzības pieprasītāja saziņu ar juridiskās palīdzības sniedzēju, kuru juridiskās palīdzības sniegšanai uzaicina atbilstoši šā likuma 33. 1 pantā minētajam juridiskās palīdzības sniedzēju sarakstam. Ja juridiskās palīdzības sniedzējs juridisko palīdzību sniedz savā prakses vietā, juridiskās palīdzības pieprasītāja saziņu ar juridiskās palīdzības sniedzēju nodrošina Tiesu administrācija.\n(3) Valsts nodrošina juridisko palīdzību personai, izvērtējot tās atbilstību juridiskās palīdzības piešķiršanai, kā arī personas iesniegumā par juridisko palīdzību un tam pievienotajos dokumentos norādīto informāciju, izņemot likumā noteiktos gadījumus.\n(3 1 ) Šā likuma 3. panta 2. 1 daļā noteiktajā gadījumā persona veic iemaksu Tiesu administrācijas pamatbudžeta kontā par juridiskās palīdzības saņemšanu. Iemaksas par juridiskās palīdzības saņemšanu apmēru un tās samaksas un atmaksas kārtību nosaka Ministru kabinets.\n(4) Izdevumi, kas saistīti ar šajā likumā noteiktajā kārtībā sniegtās juridiskās palīdzības nodrošināšanu, tiek segti no valsts budžetā šim mērķim paredzētajiem līdzekļiem.\n(5) Juridiskās palīdzības apjomu nosaka stundās un noteiktu darbību veidā. Ministru kabinets nosaka juridiskās palīdzības veidus, apjomu, samaksas apmēru un ar juridiskās palīdzības sniegšanu saistītos atlīdzināmos izdevumus, to apmēru un izmaksas kārtību.\n(6) Šajā likumā noteiktajos gadījumos persona pilnībā atmaksā ar juridisko palīdzību saistītos izdevumus. Izdevumi par juridisko palīdzību no personas tiek piedzīti šajā likumā, Kriminālprocesa likumā un Civilprocesa likumā noteiktajos gadījumos un kārtībā.\n(7) Valsts nesedz ar lietas vešanu saistītos izdevumus, izņemot izdevumus par juridisko palīdzību un ar to saistītos izdevumus.\n(8) Izņēmuma gadījumos juridisko palīdzību sniedz papildus piešķirtajam šajā likumā noteiktajam juridiskās palīdzības veidam un apjomam, neņemot vērā šā likuma 6.panta 5. un 6.punktā minētos nosacījumus, ja juridiskās palīdzības nesniegšana būtiski ierobežotu Latvijas Republikas Satversmē garantētās personas pamattiesības."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "Juridiskās palīdzības atteikuma pamats",
+      "content": "Juridisko palīdzību atsaka, ja:\n1) persona neatbilst šā likuma 3.pantā minētajiem kritērijiem;\n2) šis likums neparedz attiecīgu juridiskās palīdzības nodrošināšanas gadījumu;\n3) personas pieprasītā juridiskā palīdzība ir nepamatota;\n4) persona nav savlaicīgi pieprasījusi juridisko palīdzību;\n5) kompetentā iestāde ir palīdzējusi personai, norādot uz situācijas risināšanas tiesiskajām iespējām, sagatavojot personas tiesību aizsardzībai vai īstenošanai nepieciešamos dokumentus vai sniedzot cita veida palīdzību, un tāpēc juridiskā palīdzība vairs nav nepieciešama;\n6) divu pēdējo gadu laikā kopš iepriekšējās juridiskās palīdzības pieprasīšanas personai tās sniegšana bijusi pārtraukta tādēļ, ka šī persona, pieprasot juridisko palīdzību, sniegusi īstenībai neatbilstošas ziņas;\n7) persona, kurai bijis uzlikts par pienākumu atmaksāt ar juridisko palīdzību saistītos izdevumus, nav to izdarījusi noteiktajā laikā un apmērā;\n8) tā attiecas uz prasījumu, kas ir tieši saistīts ar personas saimniecisko darbību vai komercdarbību, vai neatkarīgu profesionālo darbību, izņemot gadījumu, kad juridiskās palīdzības sniegšana ir nepieciešama Satversmes tiesas procesā;\n9) tā ir saistīta ar muitas vai nodokļu jautājumiem, izņemot gadījumu, kad juridiskās palīdzības sniegšana ir nepieciešama Satversmes tiesas procesā;\n10) tā attiecas uz prasījumu par goda un cieņas aizskaršanu;\n11) tā ir saistīta ar morālā kaitējuma atlīdzināšanu, izņemot gadījumu, kad juridiskās palīdzības sniegšana ir saistīta ar noziedzīga nodarījuma rezultātā cietušajam nodarītā morālā kaitējuma atlīdzināšanu;\n12) strīdu izšķir šķīrējtiesā vai izmantojot citus alternatīvus strīdu risināšanas mehānismus;\n13) (izslēgts ar 10.12.2015 . likumu);\n14) tā attiecas uz prasījumu, kas saistīts ar greznumlietām vai greznuma pakalpojumiem;\n15) ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu;\n16) attiecībā uz personu ir pieņemts lēmums par juridiskās palīdzības sniegšanas pārtraukšanu, pamatojoties uz šā likuma 33.panta septītās daļas 4.punktu, un kopš šā lēmuma pieņemšanas nav pagājis gads;\n17) saņemts juridiskās palīdzības sniedzēja atzinums par turpmākās juridiskās palīdzības nelietderību;\n18) personai nav iestājušies šā likuma 9. 1 panta pirmajā daļā noteiktie juridiskās palīdzības saņemšanas nosacījumi."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Juridiskās palīdzības nodrošināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 26.10.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "7",
+      "title": "Juridiskās palīdzības nodrošināšana",
+      "content": "Par juridiskās palīdzības nodrošināšanu šajā likumā noteiktajos gadījumos un kārtībā atbildīgā iestāde ir Tiesu administrācija."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Juridiskās palīdzības nodrošināšana (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 26.10.2023 . likumu, kas stājas spēkā 01.01.2024. )",
+      "section": "8",
+      "title": "Tiesu administrācijas uzdevumi juridiskās palīdzības nodrošināšanā",
+      "content": "Tiesu administrācijas uzdevumi juridiskās palīdzības nodrošināšanā ir šādi:\n1) normatīvajos aktos noteiktajā kārtībā izmaksāt juridiskajai palīdzībai paredzētos līdzekļus un administrēt personu iemaksas juridiskās palīdzības saņemšanai;\n2) nodrošināt mērķtiecīgu un efektīvu valsts budžeta līdzekļu izlietojumu;\n3) likumā noteiktajos gadījumos piedzīt valsts budžeta līdzekļus, kas piešķirti juridiskās palīdzības nodrošināšanai."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "III nodaļa Ārpustiesas juridiskā palīdzība",
+      "section": "9",
+      "title": "Ārpustiesas juridiskā palīdzība",
+      "content": "Valsts nodrošina juridiskās konsultācijas un procesuālo dokumentu sastādīšanu:\n1) civiltiesiska rakstura strīdā aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai;\n2) (izslēgts ar 21.10.2010 . likumu) ;\n3) ja persona ir iesaistīta juridiska rakstura strīdā, kurā iespējama tiesvedība, lai sagatavotu pieteikumu vai prasības pieteikumu tiesai vai izlīguma dokumentu."
+    },
+    {
+      "provision_ref": "Art. 9.1",
+      "chapter": "III 1 nodaļa Juridiskā palīdzība Satversmes tiesas procesā (Nodaļa 06.09.2018 . likuma redakcijā, kas stājas spēkā 01.01.2019. )",
+      "section": "9.1",
+      "title": "9. 1 pants. Juridiskās palīdzības sniegšana Satversmes tiesas procesā",
+      "content": "(1) Valsts nodrošina juridisko palīdzību Satversmes tiesas procesā personai, pēc kuras konstitucionālās sūdzības Satversmes tiesa ir pieņēmusi lēmumu par atteikšanos ierosināt lietu, kā šā lēmuma vienīgo pamatu norādot juridiskā pamatojuma neesību vai tā acīmredzamu nepietiekamību prasījuma apmierināšanai.\n(2) Iesniegumu par juridisko palīdzību Satversmes tiesas procesā persona var iesniegt ne vēlāk kā divus mēnešus pirms konstitucionālās sūdzības iesniegšanai noteiktā termiņa beigām."
+    },
+    {
+      "provision_ref": "Art. 9.2",
+      "chapter": "III 1 nodaļa Juridiskā palīdzība Satversmes tiesas procesā (Nodaļa 06.09.2018 . likuma redakcijā, kas stājas spēkā 01.01.2019. )",
+      "section": "9.2",
+      "title": "9. 2 pants. Juridiskās palīdzības veidi Satversmes tiesas procesā",
+      "content": "Satversmes tiesas procesā valsts nodrošina:\n1) juridiskās konsultācijas;\n2) procesuālo dokumentu sagatavošanu;\n3) juridiskās palīdzības sniegšanu tiesas sēdē."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "IV nodaļa Juridiskā palīdzība civillietās",
+      "section": "10",
+      "title": "Juridiskās palīdzības sniegšana civillietās",
+      "content": "Juridisko palīdzību civillietā persona var pieprasīt līdz galīgā tiesas nolēmuma spēkā stāšanās brīdim."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "IV nodaļa Juridiskā palīdzība civillietās",
+      "section": "11",
+      "title": "Juridiskās palīdzības veidi civillietās",
+      "content": "Valsts nodrošina civillietās tiesvedības laikā šādu juridisko palīdzību:\n1) juridiskās konsultācijas;\n2) procesuālo dokumentu sastādīšanu;\n3) pārstāvību tiesā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "IV nodaļa Juridiskā palīdzība civillietās",
+      "section": "12",
+      "title": "Pārrobežu strīda jēdziens",
+      "content": "(Izslēgts ar 12.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Juridiskā palīdzība civillietās",
+      "section": "13",
+      "title": "Iesnieguma pārsūtīšana pārrobežu strīdā",
+      "content": "(Izslēgts ar 12.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Juridiskā palīdzība civillietās",
+      "section": "14",
+      "title": "Pārrobežu strīdā saņemto iesniegumu izskatīšana",
+      "content": "(Izslēgts ar 12.06.2009 . likumu, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "Art. 14.1",
+      "chapter": "IV 1 nodaļa Juridiskā palīdzība pārrobežu strīdos (Nodaļa 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )",
+      "section": "14.1",
+      "title": "14. 1 pants. Pārrobežu strīda jēdziens",
+      "content": "Pārrobežu strīds ir strīds, kurā šā likuma 3.panta pirmās daļas 8.apakšpunktā minētās personas pastāvīgā dzīvesvieta vai domicils, kura pieprasa juridisko palīdzību, laikā, kad saņemts attiecīgs iesniegums par juridiskās palīdzības pieprasīšanu, nav tiesas sēdes norises vai tiesas nolēmuma vai publiska akta izpildīšanas valstī."
+    },
+    {
+      "provision_ref": "Art. 14.2",
+      "chapter": "IV 1 nodaļa Juridiskā palīdzība pārrobežu strīdos (Nodaļa 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )",
+      "section": "14.2",
+      "title": "14. 2 pants. Juridiskās palīdzības sniegšana pārrobežu strīdos",
+      "content": "(1) Valsts nodrošina juridisko palīdzību pārrobežu strīdos ārpus tiesas un tiesā.\n(1 1 ) Tiesu administrācija nenodrošina juridisko palīdzību ārvalstu prasītājiem un pieteikumu iesniedzējiem Padomes 2008.gada 18.decembra regulā (EK) Nr. 4/2009 par jurisdikciju, piemērojamiem tiesību aktiem, nolēmumu atzīšanu un izpildi un sadarbību uzturēšanas saistību lietās un Hāgas 2007.gada 23.novembra Konvencijā par uzturlīdzekļu bērniem un cita veida ģimenes uzturēšanas līdzekļu pārrobežu piedziņu noteiktajos gadījumos. Šajos gadījumos juridisko palīdzību nodrošina Uzturlīdzekļu garantiju fonda administrācija Uzturlīdzekļu garantiju fonda likumā noteiktajā kārtībā un apjomā.\n(2) Uz juridiskās palīdzības pārrobežu strīdos saņemšanu nav attiecināmi šā likuma 6.panta 5., 10., 11., 12., 13., 14. un 15.punktā noteiktie juridiskās palīdzības atteikuma pamati.\n(3) Juridisko palīdzību pārrobežu strīda civillietā persona var pieprasīt tikmēr, kamēr tiesas nolēmums vai publiskais akts nav izpildīts."
+    },
+    {
+      "provision_ref": "Art. 14.3",
+      "chapter": "IV 1 nodaļa Juridiskā palīdzība pārrobežu strīdos (Nodaļa 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )",
+      "section": "14.3",
+      "title": "14. 3 pants. Juridiskās palīdzības veidi pārrobežu strīdu lietās",
+      "content": "(1) Pārrobežu strīdu lietās valsts nodrošina:\n1) juridiskās konsultācijas;\n2) procesuālo dokumentu sastādīšanu;\n3) pārstāvību tiesā.\n(2) Personai papildus šā panta pirmajā daļā minētajam ir tiesības saņemt:\n1) tulka pakalpojumus;\n2) tādu tiesas vai kompetentās iestādes pieprasītu un juridiskās palīdzības saņēmēja iesniegtu dokumentu tulkojumu, kuri ir nepieciešami lietas izšķiršanai;\n3) to izdevumu samaksu, kas saistīti ar ierašanos uz tiesas sēdēm, ja personas klātbūtne tiesā ir paredzēta likumā vai to pieprasa tiesa, nolemjot, ka attiecīgo personu nevar uzklausīt citādā veidā."
+    },
+    {
+      "provision_ref": "Art. 14.4",
+      "chapter": "IV 1 nodaļa Juridiskā palīdzība pārrobežu strīdos (Nodaļa 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )",
+      "section": "14.4",
+      "title": "14. 4 pants. Iesnieguma iesniegšana un pārsūtīšana pārrobežu strīdā",
+      "content": "(1) Ja persona, kuras pastāvīgā dzīvesvieta vai domicils ir Latvijas Republikā, vēlas saņemt juridisko palīdzību pārrobežu strīdā, tā Tiesu administrācijai iesniedz attiecīgu iesniegumu.\n(2) Tiesu administrācija šā panta pirmajā daļā minēto iesniegumu septiņu dienu laikā no tā tulkojuma saņemšanas dienas pārsūta citas valsts kompetentajai iestādei.\n(3) Tiesu administrācija atsakās pārsūtīt iesniegumu, ja tas nav saistīts ar pārrobežu strīdu. Šo lēmumu persona var apstrīdēt šā likuma 26.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 14.5",
+      "chapter": "IV 1 nodaļa Juridiskā palīdzība pārrobežu strīdos (Nodaļa 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )",
+      "section": "14.5",
+      "title": "14. 5 pants. Pārrobežu strīdā saņemto iesniegumu izskatīšana",
+      "content": "(1) Ja Tiesu administrācija saņem citas valsts kompetentās iestādes pārsūtītu attiecīgu iesniegumu pārrobežu strīdā, to izskata vispārīgā kārtībā.\n(2) Personas īpašo situāciju izvērtē pēc tiem pašiem kritērijiem, kurus izmanto, izskatot ar pārrobežu strīdiem nesaistītus juridiskās palīdzības pieprasījumus.\n(3) Personas īpašuma stāvokļa un ienākumu līmeņa atbilstību juridiskās palīdzības piešķiršanai izvērtē saskaņā ar šā likuma 3.panta trešajā daļā paredzētajiem Ministru kabineta noteikumiem.\n(4) Persona, kas vēlas saņemt juridisko palīdzību pārrobežu strīdā, var lūgt juridisko palīdzību arī tādā gadījumā, ja pierāda, ka nespēj samaksāt ar juridisko palīdzību saistītos izdevumus, jo labklājības līmenis pastāvīgās dzīvesvietas vai domicila valstī un valstī, kurā notiek tiesas sēde, ir atšķirīgs."
+    },
+    {
+      "provision_ref": "Art. 14.6",
+      "chapter": "IV 2 nodaļa Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs (Nodaļa 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. Nodaļa stājas spēkā 01.04.2017. Sk. pārejas noteikumu 20. punktu)",
+      "section": "14.6",
+      "title": "14. 6 pants. Finansiālā atbalsta nodrošināšana",
+      "content": "(1) Valsts nodrošina finansiālo atbalstu Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērnu aizgādības tiesību pārtraukšanu vai atņemšanu, apmaksājot juridiskās palīdzības sniedzēja ārvalstīs:\n1) juridisko konsultāciju;\n2) pārstāvību tiesvedībā vai iestādē tās pieņemtā lēmuma pārskatīšanai, ja ārvalsts normatīvie akti neparedz tiesvedību šajos procesos. Pārstāvību apmaksā, ja pēc tam, kad juridiskās palīdzības sniedzējs ārvalstīs sniedzis juridisko konsultāciju, ir saņemts viņa atzinums par pārstāvības lietderību un nepieciešamību.\n(2) Latvijas valstspiederīgajam šā panta pirmajā daļā norādītajā gadījumā ir tiesības saņemt finansiālo atbalstu, ja:\n1) viņš neatbilst to subjektu lokam, kuriem attiecīgajā ārvalstī ir tiesības saņemt juridisko palīdzību, izņemot neatbilstību mantiskā stāvokļa kritērijam;\n2) ārvalstī nav juridiskās palīdzības sistēmas vai attiecīgajā lietu kategorijā nav paredzēta juridiskā palīdzība;\n3) viņš atbilst to subjektu lokam, kuriem attiecīgajā ārvalstī ir tiesības saņemt juridisko palīdzību, ir vērsies attiecīgās valsts kompetentajā iestādē šīs palīdzības saņemšanai, taču norīkotais ārvalsts juridiskās palīdzības sniedzējs ir atzinis, ka juridiskā palīdzība lietā nav lietderīga vai juridiskās palīdzības sniegšanu nav iespējams uzsākt vai turpināt no Latvijas valstspiederīgā neatkarīgu apstākļu dēļ;\n4) pastāvot šā panta otrās daļas 1., 2. vai 3. punktā minētajiem apstākļiem, Latvijas valstspiederīgais ir vienojies par lietas vešanu ar juridiskās palīdzības sniedzēju ārvalstīs.\n(3) Finansiālā atbalsta apmēru, izmaksāšanas nosacījumus un kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 14.7",
+      "chapter": "IV 2 nodaļa Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs (Nodaļa 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. Nodaļa stājas spēkā 01.04.2017. Sk. pārejas noteikumu 20. punktu)",
+      "section": "14.7",
+      "title": "14. 7 pants. Iesnieguma iesniegšana",
+      "content": "(1) Ja Latvijas valstspiederīgais vēlas saņemt finansiālo atbalstu, viņš iesniedz Tiesu administrācijai attiecīgu iesniegumu.\n(2) Iesnieguma veidlapu paraugus finansiālā atbalsta saņemšanai un veidlapu iesniegšanas kārtību apstiprina Ministru kabinets.\n(3) Iesniegumam pievieno:\n1) dokumentus, kas apliecina, ka ārvalsts kompetentā iestāde ir personu brīdinājusi vai uzsākusi procesu par bērna aizgādības tiesību pārtraukšanu vai atņemšanu;\n2) ārvalsts atteikumu nodrošināt juridisko palīdzību vai apliecinājumu, ka ārvalstī nav juridiskās palīdzības sistēmas vai juridiskā palīdzība attiecīgajā lietu kategorijā nav paredzēta;\n3) informāciju par juridiskās palīdzības sniedzēju saskaņā ar šā likuma 14. 6 panta otrās daļas 4. punktu, norādot juridiskās palīdzības sniedzēja vārdu, uzvārdu vai nosaukumu, prakses vietas adresi un kontaktinformāciju, vienošanās par juridiskās palīdzības sniegšanu, kurā norādīts juridiskās palīdzības veids, un dokumenta, kas apliecina juridiskās palīdzības sniedzēja tiesības sniegt juridisko palīdzību ārvalstī, apliecinātas kopijas.\n(4) Latvijas valstspiederīgais iesniegumu iesniedz latviešu valodā, pievienojot šā panta trešajā daļā minētos dokumentus. Tiesu administrācija nodrošina tādu tiesas, kompetentās iestādes vai ārvalsts juridiskās palīdzības sniedzēja izsniegtu dokumentu tulkojumu, kuri nepieciešami, lai Tiesu administrācija varētu pieņemt lēmumu par finansiālā atbalsta nodrošināšanu, kā arī šā likuma 14. 10 pantā minētās garantijas vēstules tulkojumu."
+    },
+    {
+      "provision_ref": "Art. 14.8",
+      "chapter": "IV 2 nodaļa Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs (Nodaļa 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. Nodaļa stājas spēkā 01.04.2017. Sk. pārejas noteikumu 20. punktu)",
+      "section": "14.8",
+      "title": "14. 8 pants. Iesnieguma izskatīšana un lēmuma pieņemšana",
+      "content": "(1) Tiesu administrācija iesniegumu izskata 14 dienu laikā no iesnieguma saņemšanas dienas vai — gadījumā, kad nepieciešams iesniegumam pievienoto dokumentu tulkojums, — no šo dokumentu tulkojuma saņemšanas dienas un lemj par finansiālā atbalsta piešķiršanu.\n(2) Ja iesniegums neatbilst šā likuma 14. 7 panta prasībām, Tiesu administrācija lūdz novērst konstatētos trūkumus, nosakot termiņu, kas nedrīkst būt īsāks par 14 dienām. Šādā gadījumā lēmumu par finansiālā atbalsta piešķiršanu vai atteikumu to piešķirt administrācija pieņem 14 dienu laikā no dienas, kad iesniegta visa nepieciešamā informācija un dokumenti vai beidzies to iesniegšanai noteiktais termiņš.\n(3) Tiesu administrācija pieņem lēmumu par finansiālā atbalsta piešķiršanas atteikumu, ja persona:\n1) neatbilst šā likuma 14. 6 panta pirmajā un otrajā daļā minētajiem kritērijiem;\n2) nav sākotnēji vērsusies ārvalsts kompetentajā iestādē ar lūgumu nodrošināt juridisko palīdzību, izņemot gadījumu, kad ārvalstī nav juridiskās palīdzības sistēmas vai nav paredzēts nodrošināt juridisko palīdzību attiecīgajā lietu kategorijā;\n3) lūdz finansiālo atbalstu lietā, kas nav saistīta ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstī;\n4) lūdz finansiālo atbalstu lietā, kurā ārvalsts kompetentā iestāde nav izteikusi brīdinājumu un nav uzsākusi procesu par bērna aizgādības tiesību pārtraukšanu vai atņemšanu;\n5) Tiesu administrācijas noteiktajā termiņā nav iesniegusi norādīto informāciju vai dokumentus."
+    },
+    {
+      "provision_ref": "Art. 14.9",
+      "chapter": "IV 2 nodaļa Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs (Nodaļa 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. Nodaļa stājas spēkā 01.04.2017. Sk. pārejas noteikumu 20. punktu)",
+      "section": "14.9",
+      "title": "14. 9 pants. Lēmuma apstrīdēšanas un pārsūdzēšanas kārtība",
+      "content": "Tiesu administrācijas lēmumu par atteikumu piešķirt finansiālo atbalstu Latvijas valstspiederīgais var apstrīdēt un pārsūdzēt šā likuma 26. pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 14.10",
+      "chapter": "IV 2 nodaļa Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs (Nodaļa 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. Nodaļa stājas spēkā 01.04.2017. Sk. pārejas noteikumu 20. punktu)",
+      "section": "14.10",
+      "title": "14. 10 pants. Tiesu administrācijas garantijas vēstule",
+      "content": "(1) Tiesu administrācija 14 dienu laikā pēc tam, kad tā pieņēmusi lēmumu par finansiālā atbalsta piešķiršanu, sagatavo garantijas vēstuli par finansiālā atbalsta piešķiršanu juridiskās palīdzības sniedzēja ārvalstīs sniegtās juridiskās palīdzības apmaksai.\n(2) Garantijas vēstulē Tiesu administrācija:\n1) norāda personu, kurai piešķirts finansiālais atbalsts, un lietas kategoriju, kurā finansiālais atbalsts piešķirts;\n2) informē par piešķirtā finansiālā atbalsta apmēru, izmaksāšanas nosacījumiem un kārtību, kā arī par nepieciešamību iesniegt Tiesu administrācijai dokumentus, kas apliecina, ka juridiskās palīdzības sniedzējs ārvalstīs Latvijas valstspiederīgajam sniedzis juridisko konsultāciju vai nodrošinājis pārstāvību."
+    },
+    {
+      "provision_ref": "Art. 14.11",
+      "chapter": "IV 2 nodaļa Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs (Nodaļa 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. Nodaļa stājas spēkā 01.04.2017. Sk. pārejas noteikumu 20. punktu)",
+      "section": "14.11",
+      "title": "14. 11 pants. Finansiālā atbalsta pārtraukšana",
+      "content": "Tiesu administrācija pārtrauc finansiālā atbalsta sniegšanu un informē par to Latvijas valstspiederīgo, ja viņš nav iesniedzis Tiesu administrācijai šā likuma 14. 10 panta otrās daļas 2. punktā minēto dokumentu, kas apliecina juridiskās palīdzības sniegšanu."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Juridiskā palīdzība administratīvajās lietās",
+      "section": "15",
+      "title": "Juridiskās palīdzības sniegšana administratīvajās lietās",
+      "content": "Valsts nodrošina juridisko palīdzību administratīvajās lietās, un persona to var pieprasīt līdz galīgā tiesas nolēmuma spēkā stāšanās brīdim:\n1) pārsūdzības procedūrās patvēruma piešķiršanas procesa ietvaros;\n2) lēmuma par apstrīdēto izbraukšanas rīkojumu vai lēmuma par apstrīdēto lēmumu par piespiedu izraidīšanu pārsūdzēšanas ietvaros;\n3) bāriņtiesas lēmuma par bērna tiesību un tiesisko interešu aizsardzību pārsūdzēšanas ietvaros;\n4) Administratīvā procesa likumā noteiktajā gadījumā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Juridiskā palīdzība administratīvajās lietās",
+      "section": "16",
+      "title": "Juridiskās palīdzības veidi administratīvajās lietās",
+      "content": "Administratīvajās lietās valsts nodrošina:\n1) juridiskās konsultācijas;\n2) procesuālo dokumentu sastādīšanu;\n3) pārstāvību tiesā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "VI nodaļa Juridiskā palīdzība krimināllietās",
+      "section": "17",
+      "title": "Juridiskās palīdzības sniegšana krimināllietās",
+      "content": "Persona, kurai saskaņā ar likumu ir tiesības uz aizstāvību vai pārstāvību krimināllietā, var pieprasīt juridisko palīdzību līdz galīgā tiesas nolēmuma spēkā stāšanās brīdim."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "VI nodaļa Juridiskā palīdzība krimināllietās",
+      "section": "18",
+      "title": "Juridiskās palīdzības veidi krimināllietās",
+      "content": "Krimināllietās valsts nodrošina:\n1) (izslēgts ar 21.10.2010 . likumu) ;\n2) procesuālo dokumentu sastādīšanu kriminālprocesā;\n3) aizstāvību vai pārstāvību kriminālprocesā."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "VI nodaļa Juridiskā palīdzība krimināllietās",
+      "section": "19",
+      "title": "Aizstāvības nodrošinājums",
+      "content": "(1) Valsts nodrošinātu advokātu par personas aizstāvi kriminālprocesā uzaicina Kriminālprocesa likumā noteiktajos gadījumos un kārtībā.\n(2) Kārtība, kādā tiek iesniegts un izskatīts šajā likumā noteiktais iesniegums par juridisko palīdzību un pieņemts lēmums par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt, neattiecas uz aizstāvības nodrošināšanu kriminālprocesā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VI nodaļa Juridiskā palīdzība krimināllietās",
+      "section": "20",
+      "title": "Pārstāvības nodrošinājums",
+      "content": "(1) Valsts nodrošinātu advokātu par personas pārstāvi kriminālprocesā uzaicina Kriminālprocesa likumā noteiktajos gadījumos un noteiktajā kārtībā.\n(2) Kārtība, kādā tiek iesniegts un izskatīts šajā likumā noteiktais iesniegums par juridisko palīdzību un pieņemts lēmums par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt, neattiecas uz pārstāvības nodrošināšanu kriminālprocesā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "21",
+      "title": "Atbildīgā iestāde",
+      "content": "Tiesu administrācija izskata iesniegumus par juridisko palīdzību, pieņem lēmumus par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt un paziņo lēmumu iesniedzējam, kā arī šajā likumā noteiktajos gadījumos norīko juridiskās palīdzības sniedzēju."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "22",
+      "title": "Iesniegums par juridisko palīdzību un informācija par juridisko palīdzību",
+      "content": "(1) Persona, kas vēlas saņemt juridisko palīdzību, iesniedz:\n1) iesniegumu par juridisko palīdzību — aizpildītu juridiskās palīdzības pieprasījuma veidlapu;\n2) ja nepieciešams, dokumentu kopijas, kas apliecina veidlapā minētās ziņas;\n3) dokumentus, kas apliecina personas atbilstību juridiskās palīdzības saņemšanai.\n(2) Juridiskās palīdzības pieprasījuma veidlapas paraugu apstiprina Ministru kabinets.\n(3) Persona var saņemt juridiskās palīdzības pieprasījuma veidlapu, kā arī informāciju par veidlapas aizpildīšanu un tai pievienojamiem dokumentiem Tiesu administrācijā vai pašvaldībā, kuras administratīvajā teritorijā ir šīs personas deklarētā dzīvesvieta vai kur tā tiesiski uzturas.\n(4) Juridiskās palīdzības pieprasījuma veidlapu un informāciju par tās aizpildīšanu izsniedz bez maksas.\n(5) Persona iesniegumu par juridisko palīdzību (aizpildītu juridiskās palīdzības pieprasījuma veidlapu) iesniedz Tiesu administrācijai.\n(5 1 ) Izraidāmais ārzemnieks iesniegumu par juridiskās palīdzības pieprasījumu un ienākumiem (šā likuma izpratnē — iesniegums par juridisko palīdzību) iesniedz Imigrācijas likumā noteiktajos gadījumos un kārtībā.\n(6) Persona var saņemt informāciju par juridisko palīdzību pārsūdzības procedūrās patvēruma piešķiršanas procesa ietvaros institūcijā, kas ir atbildīga par patvēruma iesniegumu izskatīšanu.\n(6 1 ) Persona var saņemt informāciju attiecībā uz juridisko palīdzību lēmuma par apstrīdēto izbraukšanas rīkojumu vai lēmuma par apstrīdēto lēmumu par piespiedu izraidīšanu pārsūdzēšanai Imigrācijas likumā noteiktajos gadījumos un kārtībā.\n(7) Ja pieņemts lēmums par juridiskās palīdzības piešķiršanu, persona ir saņēmusi juridisko palīdzību, bet nav izmantots šā likuma 5.panta piektajā daļā paredzētajos Ministru kabineta noteikumos noteiktais juridiskās palīdzības apjoms un persona vēlas saņemt turpmāko juridisko palīdzību, tā iesniedz Tiesu administrācijai iesniegumu par turpmāko juridisko palīdzību un, ja nepieciešams, dokumentu kopijas, kas apliecina iesniegumā minētās ziņas.\n(7 1 ) Ja izraidāmais ārzemnieks nav lūdzis juridisko palīdzību Imigrācijas likumā noteiktajā kārtībā un vēlas saņemt juridisko palīdzību administratīvās lietas tiesvedības laikā, viņš Imigrācijas likumā noteikto iesniegumu par juridisko palīdzību iesniedz šajā likumā noteiktajā kārtībā. Tiesu administrācija minēto iesniegumu izskata šā likuma 23.panta pirmajā daļā noteiktajā termiņā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "23",
+      "title": "Kārtība, kādā izskata iesniegumu par juridisko palīdzību un iesniegumu par turpmāko juridisko palīdzību",
+      "content": "(1) Tiesu administrācija 21 dienas laikā, bet lietās, kas skar bērnu tiesības, 14 dienu laikā no dienas, kad saņemts iesniegums par juridisko palīdzību vai iesniegums par turpmāko juridisko palīdzību, izvērtē juridiskās palīdzības sniegšanas nepieciešamību un apjomu un pieņem lēmumu par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt.\n(1 1 ) Tiesu administrācija 10 dienu laikā pēc tam, kad no iestādes, kas pieņēmusi lēmumu par apstrīdēto izbraukšanas rīkojumu vai lēmumu par apstrīdēto lēmumu par piespiedu izraidīšanu, Imigrācijas likumā noteiktajā kārtībā saņemts iesniegums par juridisko palīdzību, izvērtē attiecīgo iesniegumu un pieņem lēmumu par juridiskās palīdzības piešķiršanu vai par atteikumu to piešķirt atbilstoši šajā likumā minētajiem nosacījumiem un kārtībai. Pieņemto lēmumu paziņo arī attiecīgajai iestādei.\n(2) Ja Tiesu administrācija konstatē, ka lēmuma pieņemšanai ir nepieciešama papildu informācija, tā septiņu dienu laikā no iesnieguma saņemšanas dienas pieprasa papildu informāciju juridiskās palīdzības pieprasītājam un, ja nepieciešams, juridiskās palīdzības sniedzējam, valsts un pašvaldību iestādēm, informējot par to juridiskās palīdzības pieprasītāju.\n(3) Papildu informācijas pieprasīšana aptur šā panta pirmajā un 1. 1 daļā noteikto lēmuma pieņemšanas termiņu.\n(4) Ja Tiesu administrācija 15 dienu laikā nesaņem no juridiskās palīdzības pieprasītāja pieprasīto informāciju, tā lemj par atteikumu piešķirt juridisko palīdzību.\n(5) Lēmums par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt ir administratīvs akts.\n(6) Tiesu administrācija lēmumā par juridiskās palīdzības piešķiršanu norāda piešķirtās juridiskās palīdzības apjomu, norīkoto juridiskās palīdzības sniedzēju, juridiskās palīdzības pieprasītāja un sniedzēja pirmās tikšanās laiku un vietu, izņemot šā likuma 33.panta trešajā daļā minēto gadījumu.\n(7) Lēmums par juridiskās palīdzības piešķiršanu daļā par juridiskās palīdzības sniedzēja norīkošanu nav administratīvs akts.\n(8) Tiesu administrācija iesniegumu par juridisko palīdzību vai iesniegumu par turpmāko juridisko palīdzību atstāj bez izskatīšanas, ja:\n1) persona rakstveidā atsauc iesniegumu par juridisko palīdzību vai iesniegumu par turpmāko juridisko palīdzību;\n2) persona, kas iesniegusi iesniegumu par juridisko palīdzību vai iesniegumu par turpmāko juridisko palīdzību, ir mirusi.\n(9) Šajā likumā noteiktā iesnieguma iesniegšanas un izskatīšanas kārtība neattiecas uz juridiskās palīdzības nodrošināšanu pārsūdzības procedūrās patvēruma piešķiršanas procesa ietvaros un uz administratīvajām lietām, kurās juridiskā palīdzība piešķirama Administratīvā procesa likumā noteiktajā gadījumā un kārtībā."
+    },
+    {
+      "provision_ref": "Art. 23.1",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "23.1",
+      "title": "23. 1 pants. Kārtība, kādā izskata iesniegumu par juridisko palīdzību lietās, kurās pārstāvis, skatot lietu pēc būtības, var būt tikai advokāts",
+      "content": "(1) Tiesu administrācija mēneša laikā no dienas, kad saņemts iesniegums par juridisko palīdzību vai iesniegums par turpmāko juridisko palīdzību, ja persona to pieprasa šā likuma 3. panta 2. 1 daļā minētajā gadījumā, izvērtē juridiskās palīdzības sniegšanas nepieciešamību un apjomu un pieņem lēmumu par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt.\n(2) Ja Tiesu administrācija konstatē, ka lēmuma pieņemšanai ir nepieciešama papildu informācija, tā 14 dienu laikā no iesnieguma saņemšanas dienas pieprasa papildu informāciju juridiskās palīdzības pieprasītājam un, ja nepieciešams, juridiskās palīdzības sniedzējam, valsts un pašvaldību iestādēm un informē par to juridiskās palīdzības pieprasītāju.\n(3) Tiesu administrācija lēmumā par juridiskās palīdzības piešķiršanu norāda piešķirtās juridiskās palīdzības apjomu un laiku, līdz kuram jāveic iemaksa par juridiskās palīdzības saņemšanu.\n(4) Ja iemaksa par juridiskās palīdzības saņemšanu ir saņemta, Tiesu administrācija septiņu dienu laikā sagatavo norīkojumu juridiskās palīdzības sniedzējam. Ja iemaksa par juridiskās palīdzības saņemšanu netiek saņemta, Tiesu administrācija pieņem lēmumu par piešķirtās juridiskās palīdzības pārtraukšanu atbilstoši šā likuma 33. panta septītajā daļā noteiktajam.\n(5) Iesnieguma izskatīšanā piemēro šā likuma 23. panta trešās, ceturtās, piektās, septītās un astotās daļas nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "24",
+      "title": "Ziņu izmaiņas",
+      "content": "Juridiskās palīdzības pieprasītājam ir pienākums nekavējoties, bet ne vēlāk kā septiņu dienu laikā pēc tam, kad viņš uzzinājis par izmaiņām iesniegumā minētajās ziņās, paziņot par tām Tiesu administrācijai."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "25",
+      "title": "Lēmuma paziņošana",
+      "content": "Lēmumu par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt paziņo rakstveidā, nosūtot to uz juridiskās palīdzības pieprasītāja norādīto adresi vai nododot personiski. Lēmumu par juridiskās palīdzības piešķiršanu paziņo arī juridiskās palīdzības sniedzējam, izņemot šā likuma 33.panta trešajā daļā minēto gadījumu."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "26",
+      "title": "Lēmumu apstrīdēšanas un pārsūdzības kārtība",
+      "content": "(1) Tiesu administrācijas lēmumu par juridiskās palīdzības piešķiršanu vai atteikumu to piešķirt persona var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā.\n(2) Administratīvās rajona tiesas nolēmumu var pārsūdzēt, iesniedzot kasācijas sūdzību Augstākās tiesas Administratīvo lietu departamentam. Kasācijas sūdzību izskata rakstveida procesā, un tam nav nepieciešama administratīvā procesa dalībnieku piekrišana."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "27",
+      "title": "Atkārtota iesnieguma izskatīšana",
+      "content": "(1) Persona nevar atkārtoti iesniegt iesniegumu par juridisko palīdzību lietā par to pašu priekšmetu un uz tā paša pamata, izņemot šā panta otrajā daļā minētos gadījumus.\n(2) Atkārtots iesniegums par juridisko palīdzību lietā par to pašu priekšmetu un uz tā paša pamata pieļaujams tikai tādā gadījumā, ja persona ir izpildījusi Tiesu administrācijas lēmumu par to izdevumu samaksu, kuri saistīti ar iepriekšējo juridiskās palīdzības sniegšanu, ja šāds lēmums tika pieņemts, un pastāv vismaz viens no šādiem gadījumiem:\n1) ir notikušas būtiskas izmaiņas personas īpašajā situācijā, īpašuma stāvoklī vai ienākumu līmenī;\n2) persona ir ieguvusi maznodrošinātas vai trūcīgas personas statusu.\n(3) Konstatējot, ka iesniegums par juridisko palīdzību lietā ir par to pašu priekšmetu un uz tā paša pamata, Tiesu administrācija to neizskata, bet atdod atpakaļ personai."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VII nodaļa Juridiskās palīdzības sniegšanas kārtība",
+      "section": "28",
+      "title": "Juridiskās palīdzības reģistrs",
+      "content": "(1) Juridiskās palīdzības reģistru izveido un uztur Tiesu administrācija.\n(2) Ministru kabinets nosaka juridiskās palīdzības reģistra izveides kārtību, tajā iekļaujamās informācijas apjomu un piekļuvi informācijai."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "29",
+      "title": "Juridiskās palīdzības līgums un tā noslēgšana",
+      "content": "(1) Juridiskās palīdzības līgums ir publisko tiesību līgums, kuru slēdz Tiesu administrācija ar juridiskās palīdzības sniedzēju.\n(2) Juridiskās palīdzības līgumā norāda:\n1) līdzējus;\n2) juridiskās palīdzības sniedzēja kompetenci;\n3) kāda veida juridisko palīdzību apņemas sniegt juridiskās palīdzības sniedzējs;\n4) līdzēju atbildību;\n5) norēķinu kārtību, finanšu un citu resursu piešķiršanas noteikumus;\n6) sniegtās juridiskās palīdzības kvalitātes kontroles kārtību;\n7) līguma darbības termiņu;\n8) sadarbības nosacījumus;\n9) citus būtiskus līguma nosacījumus.\n(3) Juridiskās palīdzības līgumu noslēdz uz laiku, kas nav ilgāks par trim gadiem.\n(4) Juridiskās palīdzības līgumu ar personu, kura vēlas sniegt juridisko palīdzību, neslēdz, ja Tiesu administrācija iepriekš ir uzteikusi juridiskās palīdzības līgumu, izņemot gadījumu, kad juridiskās palīdzības līgums ir uzteikts, pamatojoties uz šā likuma 29. 1 panta otrās daļas 1.punktu un persona ir attaisnota vai kriminālprocess izbeigts personu reabilitējošu apstākļu dēļ.\n(5) Juridiskās palīdzības līgumu ar šā likuma 30.panta pirmās daļas 5.punkta ievaddaļā minēto personu nevar slēgt, ja šī persona neatbilst kādai no 30.panta pirmās daļas 5.punkta “a”, “b”, “c” vai “d” apakšpunktā minētajām prasībām vai tiek konstatēts kāds no šā likuma 29. 1 panta otrās daļas 1., 2., 3., 4. vai 5.punktā minētajiem apstākļiem."
+    },
+    {
+      "provision_ref": "Art. 29.1",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "29.1",
+      "title": "29. 1 pants. Juridiskās palīdzības līguma izbeigšanās",
+      "content": "(1) Juridiskās palīdzības līgums izbeidzas:\n1) beidzoties līguma termiņam;\n2) ar vienas puses uzteikumu;\n3) pēc abu pušu savstarpējas vienošanās;\n4) ar juridiskās palīdzības sniedzēja nāvi.\n(2) Tiesu administrācija uzsaka juridiskās palīdzības līgumu ar šā likuma 30.panta pirmajā daļā minētajiem juridiskās palīdzības sniedzējiem jebkurā no šādiem gadījumiem:\n1) juridiskās palīdzības sniedzējs ir tiesājamais, apsūdzētais vai aizdomās turētais kriminālprocesā par tīša noziedzīga nodarījuma izdarīšanu;\n2) juridiskās palīdzības sniedzējs ir sodīts par tīša noziedzīga nodarījuma izdarīšanu neatkarīgi no sodāmības dzēšanas vai noņemšanas;\n3) juridiskās palīdzības sniedzējs ir notiesāts par tīša noziedzīga nodarījuma izdarīšanu, bet no soda izciešanas atbrīvots sakarā ar noilgumu, amnestiju vai apžēlošanu;\n4) pret juridiskās palīdzības sniedzēju sakarā ar noilgumu, amnestiju vai apžēlošanu ir izbeigts kriminālprocess par tīša noziedzīga nodarījuma izdarīšanu;\n5) juridiskās palīdzības sniedzējs ir izslēgts no zvērinātu advokātu vai viņu palīgu skaita, atlaists no prokurora amata vai atcelts no zvērināta tiesu izpildītāja, viņa palīga amata, zvērināta notāra, viņa palīga amata vai tiesneša amata;\n6) juridiskās palīdzības sniedzējs bez pamatojuma atteicies sniegt vai atbilstoši norīkojumam nesniedz juridisko palīdzību vai neatbild uz Tiesu administrācijas aicinājumiem sniegt juridisko palīdzību;\n7) juridiskās palīdzības sniedzējs norīkojumā norādītajā laikā bez attaisnojoša iemesla vairākkārt nav sasniedzams juridiskās palīdzības sniegšanas adresē un nav informējis Tiesu administrāciju par adreses maiņu;\n8) juridiskās palīdzības sniedzēja rīcībā konstatēti citi šā likuma un juridiskās palīdzības līguma nosacījumu pārkāpumi (piemēram, juridiskās palīdzības sniedzējs rūpīgi un laikus nepilda juridiskās palīdzības līguma nosacījumus vai laikus nav iesniedzis Tiesu administrācijai paziņojumu par tās norīkojuma izpildi), kas var būt par pamatu juridiskās palīdzības līguma uzteikšanai.\n(3) Tiesu administrācija ne vēlāk kā mēnesi pirms līguma darbības beigām izvērtē sadarbību ar juridiskās palīdzības sniedzēju un pieņem lēmumu par atkārtota juridiskās palīdzības līguma slēgšanu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "30",
+      "title": "Juridiskās palīdzības sniedzēji",
+      "content": "(1) Līgumu par juridiskās palīdzības sniegšanu var slēgt ar:\n1) personu, kura saskaņā ar Advokatūras likuma 4.pantu var būt par advokātu Latvijas Republikā;\n2) zvērinātu notāru;\n3) zvērinātu tiesu izpildītāju;\n4) valsts atzītu augstskolu, kas ne mazāk kā piecus gadus nepārtraukti īsteno akreditētu studiju programmu, kuras apguves rezultātā tiek piešķirta jurista kvalifikācija un kurā juridiskās palīdzības sniegšanai izveidoto kursu vai vienību vada tiesību zinātņu doktors;\n5) rīcībspējīgu fizisko personu, kura atbilst visām šādām prasībām:\na) apguvusi akreditētu tiesību zinātņu studiju programmu augstskolā (akadēmiskā studiju programma tiesību zinātnēs vai otrā līmeņa augstākā profesionālā studiju programma tiesību zinātnēs un jurista kvalifikācija),\nb) prot valsts valodu,\nc) ir ar nevainojamu reputāciju,\nd) ir darbojusies juridiskajā specialitātē vismaz piecus gadus pēc šā punkta “a” apakšpunktā minētās kvalifikācijas iegūšanas;\n6) biedrību un nodibinājumu reģistrā reģistrētu biedrību vai nodibinājumu, kas atbilst šādām prasībām:\na) ne mazāk kā piecus gadus nepārtraukti ir nodrošinājis juridiskās palīdzības sniegšanu,\nb) nodrošina, ka juridisko palīdzību sniedz persona, kas atbilst šā panta pirmās daļas 1., 2., 3. vai 5.punktā minētajām prasībām,\nc) tam nav pasludināts vai uzsākts maksātnespējas vai likvidācijas process,\nd) tam nav nodokļu un valsts sociālās apdrošināšanas obligāto iemaksu parādu,\ne) tā profesionālajā darbībā nav konstatētas pretlikumīgas darbības.\n(2) Šā panta pirmajā daļā minētās personas var sniegt juridisko palīdzību pēc juridiskās palīdzības līguma noslēgšanas ar Tiesu administrāciju.\n(3) (Izslēgta ar 03.05.2012 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "31",
+      "title": "Kārtība, kādā izskata iesniegumus par juridiskās palīdzības līguma slēgšanu",
+      "content": "(1) Šā likuma 30.panta pirmajā daļā minētās personas, kuras vēlas sniegt juridisko palīdzību, iesniedz Tiesu administrācijai iesniegumu par juridiskās palīdzības līguma slēgšanu, pievienojot tajā norādītās ziņas apliecinošus dokumentus. Iesnieguma veidlapas paraugu apstiprina Ministru kabinets.\n(2) Tiesu administrācija izvērtē ziņu atbilstību iesniegumā norādītajam un pārbauda ziņas par personas reputāciju un kvalifikāciju.\n(3) Pārbaudot šā likuma 30.panta pirmās daļas 5.punktā minētās personas reputāciju, Tiesu administrācijai ir tiesības pieprasīt informāciju par šā likuma 29. 1 panta otrās daļas 1., 2., 3., 4. un 5.punkta nosacījumiem, kā arī par personas izdarītajiem administratīvajiem pārkāpumiem.\n(4) Ja Tiesu administrācijai nepieciešama papildu informācija, lai pieņemtu lēmumu par juridiskās palīdzības līguma slēgšanu, šā panta piektajā daļā minēto termiņu aptur līdz Tiesu administrācijas pieprasītās informācijas saņemšanai.\n(5) Ja Tiesu administrācija konstatē, ka personai ir attiecīga kvalifikācija, laba reputācija un tā atbilst šā likuma 30.panta pirmajā daļā minēto personu kategorijai, Tiesu administrācija mēneša laikā pēc iesnieguma saņemšanas pieņem lēmumu par juridiskās palīdzības līguma slēgšanu ar konkrēto personu. Par pieņemto lēmumu Tiesu administrācija informē attiecīgo personu.\n(6) Tiesu administrācijas lēmumu par juridiskās palīdzības līguma slēgšanu, atteikumu slēgt juridiskās palīdzības līgumu vai juridiskās palīdzības līguma uzteikumu persona var apstrīdēt un pārsūdzēt šā likuma 26.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 31.1",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "31.1",
+      "title": "31. 1 pants. Juridiskās palīdzības sniedzēja novērtējums",
+      "content": "(1) Pieņemot lēmumu par juridiskās palīdzības līguma slēgšanu, Tiesu administrācija vērtē personas atbilstību šā likuma 30.pantā noteiktajām prasībām, kā arī šīs personas prasmes un reputāciju. Pieņemot lēmumu par juridiskās palīdzības līguma slēgšanu ar šā likuma 30.panta pirmās daļas 5.punktā minēto personu, Tiesu administrācija papildus vērtē šā likuma 29.panta piektajā daļā minētos apstākļus.\n(2) Pieņemot lēmumu par atkārtota juridiskās palīdzības līguma slēgšanu vai vērtējot juridiskās palīdzības līguma uzteikšanu, Tiesu administrācija papildus šā panta pirmajā daļā noteiktajam vērtē sadarbību ar juridiskās palīdzības sniedzēju juridiskās palīdzības līguma darbības laikā, juridiskās palīdzības pieprasītāju saņemtās sūdzības par juridiskās palīdzības sniedzēja darbības kvalitāti un komunikāciju, juridiskās palīdzības līgumā noteikto pienākumu izpildes savlaicīgumu un kvalitāti, kā arī šā likuma 29. 1 panta otrajā daļā minētos apstākļus."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "32",
+      "title": "Juridiskās palīdzības sniedzēja pienākumi un atbildība",
+      "content": "(1) Juridiskās palīdzības sniedzējs sniedz juridisko palīdzību atbilstoši šā likuma un juridiskās palīdzības līguma nosacījumiem.\n(2) Juridiskās palīdzības sniedzējs ir atbildīgs par sniegtās juridiskās palīdzības kvalitāti saskaņā ar šā likuma, citu normatīvo aktu un juridiskās palīdzības līguma nosacījumiem.\n(3) Juridiskās palīdzības sniedzējs ir atbildīgs par zaudējumiem, kas radušies viņa profesionālās darbības dēļ.\n(4) Tiesu administrācijai ir tiesības no juridiskās palīdzības sniedzēja šā likuma 35.pantā noteiktajā kārtībā piedzīt zaudējumus, kas Tiesu administrācijai radušies juridiskās palīdzības sniedzēja profesionālās darbības dēļ.\n(5) Juridiskās palīdzības sniedzējs nedrīkst atteikties sniegt juridisko palīdzību, izņemot gadījumu, kad pieprasītā juridiskā palīdzība neatbilst juridiskās palīdzības līguma nosacījumiem vai šādu palīdzību nepieļauj ētiski apsvērumi vai normatīvajos aktos paredzētie ierobežojumi. Juridiskās palīdzības sniedzējs nekavējoties par to informē Tiesu administrāciju.\n(6) Juridiskās palīdzības sniedzējam ir pienākums informēt Tiesu administrāciju, ja konstatēta juridiskās palīdzības saņēmēja neatbilstība šā likuma 3.pantā minētajiem nosacījumiem.\n(7) Juridiskās palīdzības sniedzējs ievēro konfidencialitāti un, ievērojot šajā likumā un juridiskās palīdzības līgumā noteiktos nosacījumus, neizpauž trešajām personām informāciju, kas viņam kļuvusi zināma.\n(8) Juridiskās palīdzības sniedzējam ir pienākums savlaicīgi informēt tiesu par juridiskās palīdzības sniegšanu lietā, kā arī par juridiskās palīdzības sniegšanas pārtraukšanu."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "33",
+      "title": "Juridiskās palīdzības sniedzēja norīkošana",
+      "content": "(1) Pieņemot lēmumu par juridiskās palīdzības piešķiršanu, Tiesu administrācija norīko juridiskās palīdzības sniedzēju konkrētajā lietā.\n(2) Tiesu administrācija izvēlas juridiskās palīdzības sniedzēju, ņemot vērā tā:\n1) kompetenci;\n2) specializāciju;\n3) noslogojumu;\n4) spēju konkrētajā lietā sniegt juridisko palīdzību (piemēram, izvērtē interešu konflikta iespējamību u.c.);\n5) atrašanās vietu, lai izvērtētu, kāds attālums jāveic personai, lai saņemtu juridisko palīdzību.\n(3) Izņēmuma gadījumos, kad, pieņemot lēmumu par juridiskās palīdzības piešķiršanu, nav iespējams norīkot juridiskās palīdzības sniedzēju un noteikt juridiskās palīdzības pieprasītāja un sniedzēja pirmās tikšanās laiku un vietu, Tiesu administrācija norīko juridiskās palīdzības sniedzēju pēc tam, kad pieņemts lēmums par juridiskās palīdzības piešķiršanu, un informē juridiskās palīdzības pieprasītāju par juridiskās palīdzības apjomu un pirmās tikšanās ar juridiskās palīdzības sniedzēju laiku un vietu.\n(4) Norīkojumā Tiesu administrācija norāda:\n1) juridiskās palīdzības pieprasītāja vārdu, uzvārdu, personas kodu, dzīvesvietu un kontaktinformāciju;\n2) juridiskās palīdzības sniedzēja vārdu, uzvārdu vai nosaukumu, prakses vietu un kontaktinformāciju;\n3) lietu kategoriju, kurā piešķirta juridiskā palīdzība;\n4) juridiskās palīdzības veidu un apjomu;\n5) juridiskās palīdzības sniegšanas laiku;\n6) juridiskās palīdzības pieprasītāja un sniedzēja pirmās tikšanās laiku un vietu vai kārtību, kādā juridiskās palīdzības pieprasītājs var sazināties ar juridiskās palīdzības sniedzēju.\n(5) Norīkojums nav administratīvs akts.\n(6) Tiesu administrācija norīko juridiskās palīdzības sniedzēju patvēruma meklētājam, ja no institūcijas, kas ir atbildīga par patvēruma iesniegumu izskatīšanu un juridiskās palīdzības nepieciešamības izvērtēšanu, saņemts attiecīgs pieprasījums.\n(6 1 ) Tiesu administrācija norīko personai juridiskās palīdzības sniedzēju, ja no tiesneša vai tiesas Administratīvā procesa likumā noteiktajā gadījumā un kārtībā saņemts attiecīgs lēmums. Par juridiskās palīdzības sniedzēja norīkošanu Tiesu administrācija paziņo tiesnesim vai tiesai.\n(7) Tiesu administrācija nenodrošina pieņemtā lēmuma par juridiskās palīdzības piešķiršanu izpildi un pārtrauc juridiskās palīdzības sniegšanas nodrošināšanu, ja:\n1) persona rakstveidā iesniedz attiecīgu lūgumu;\n2) persona, kurai piešķirta juridiskā palīdzība, ir mirusi;\n3) saņemts juridiskās palīdzības sniedzēja atzinums par turpmākās juridiskās palīdzības nelietderību;\n4) persona atkārtoti bez attaisnojoša iemesla nav ieradusies pie juridiskās palīdzības sniedzēja norādītajā laikā un vietā un nav paziņojusi par neierašanos Tiesu administrācijai vai juridiskās palīdzības sniedzējam vai atsakās līdzdarboties juridiskās palīdzības saņemšanai vai lēmuma par juridiskās palīdzības piešķiršanu izpildes nodrošināšanai;\n5) pēc lēmuma par juridiskās palīdzības piešķiršanu pieņemšanas tiek konstatēts, ka persona neatbilst šā likuma 3.panta prasībām;\n6) konstatē, ka ar juridiskās palīdzības nodrošināšanu saistītie izdevumi ir nesamērīgi lieli salīdzinājumā ar prasījuma summu;\n7) persona, pieprasot juridisko palīdzību, sniegusi nepatiesas ziņas;\n8) persona nav samaksājusi iemaksu par juridiskās palīdzības saņemšanu šajā likumā noteiktajā gadījumā un kārtībā.\n(8) Tiesu administrācijai ir tiesības apturēt lēmuma par juridiskās palīdzības piešķiršanu izpildi, ja nepieciešams pieprasīt papildu informāciju juridiskās palīdzības nodrošināšanai. Pēc papildu informācijas saņemšanas Tiesu administrācija atjauno lēmuma par juridiskās palīdzības piešķiršanu izpildi."
+    },
+    {
+      "provision_ref": "Art. 33.1",
+      "chapter": "VIII nodaļa Juridiskās palīdzības sniedzēji",
+      "section": "33.1",
+      "title": "33. 1 pants. To juridiskās palīdzības sniedzēju saraksts, kuri sniedz juridisko palīdzību patvēruma meklētājam un izraidāmajam ārzemniekam",
+      "content": "(1) Tiesu administrācija sastāda to juridiskās palīdzības sniedzēju sarakstu, kuri Patvēruma likumā un Imigrācijas likumā noteiktajos gadījumos un kārtībā sniedz juridisko palīdzību patvēruma meklētājam vai izraidāmajam ārzemniekam. Minētajā sarakstā iekļauj juridiskās palīdzības sniedzējus, kuriem ar Tiesu administrāciju noslēgts juridiskās palīdzības līgums, ņemot vērā juridiskās palīdzības sniedzēju kompetenci, specializāciju, juridiskās palīdzības sniedzēja atrašanās vietu un citus apstākļus, kā arī apņemšanos attiecīgajā lietu kategorijā sniegt juridisko palīdzību.\n(2) Šā panta pirmajā daļā minēto sarakstu Tiesu administrācija sastāda reizi kalendāra gada ceturksnī līdz katra ceturkšņa trešā mēneša piecpadsmitajam datumam un piecu dienu laikā nosūta Valsts robežsardzei."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "34",
+      "title": "Ar juridisko palīdzību saistīto izdevumu samaksas pienākums",
+      "content": "(1) Persona, kas saņēmusi juridisko palīdzību, atmaksā ar juridisko palīdzību saistītos izdevumus pilnā apmērā, ja Tiesu administrācija konstatē, ka:\n1) persona ir norādījusi īstenībai neatbilstošas ziņas, kas bijušas par pamatu juridiskās palīdzības saņemšanai;\n2) persona ļaunprātīgi izmanto tiesības uz juridisko palīdzību, tajā skaitā neievēro šā likuma 4.pantā noteiktos pienākumus;\n3) persona ir nepamatoti saņēmusi juridisko palīdzību;\n4) (izslēgts ar 19.06.2008 . likumu) ;\n5) (izslēgts ar 12.06.2009 . likumu) .\n(2) (Izslēgta ar 12.06.2009 . likumu)\n(3) (Izslēgta ar 12.06.2009 . likumu)\n(4) Persona, kas pieprasa juridisko palīdzību pārrobežu strīdā, samaksā tulkošanas izdevumus, kas segti no valsts budžeta, ja citas valsts kompetentā iestāde atsaka juridiskās palīdzības sniegšanu."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "35",
+      "title": "Ar juridisko palīdzību saistīto izdevumu samaksas kārtība",
+      "content": "(1) Tiesu administrācija, konstatējusi kādu no šā likuma 34. pantā minētajiem gadījumiem, var pieņemt lēmumu par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu. Minēto lēmumu var pieņemt ne vēlāk kā trīs gadus no attiecīgās juridiskās palīdzības sniegšanas pēdējās dienas.\n(2) Tiesu administrācija šā likuma 25.pantā paredzētajā kārtībā paziņo personai par pieņemto lēmumu. Šo lēmumu persona var apstrīdēt un pārsūdzēt šā likuma 26.pantā noteiktajā kārtībā.\n(3) Lēmumā par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu, Tiesu administrācija norāda atmaksājamo izdevumu summu un valsts budžeta kontu, kurā tā ieskaitāma, kā arī brīdinājumu par lēmuma piespiedu izpildi.\n(4) Persona samaksā ar juridiskās palīdzības sniegšanu saistītos izdevumus 30 dienu laikā pēc šā panta pirmajā daļā noteiktā lēmuma spēkā stāšanās dienas un iesniedz Tiesu administrācijai maksājumu apliecinošus dokumentus.\n(5) Ja ir pamatoti iemesli, persona, iesniedzot motivētu rakstveida iesniegumu, var lūgt Tiesu administrāciju šā panta pirmajā daļā noteiktajā lēmumā norādītās summas samaksu sadalīt termiņos.\n(6) Ja atmaksājamo izdevumu summas samaksa tiek sadalīta termiņos, visa summa atmaksājama ne vēlāk kā gada laikā no dienas, kad stājies spēkā Tiesu administrācijas lēmums par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu.\n(6 1 ) (Izslēgta ar 10.12.2015 . likumu)\n(7) Ja persona šā panta pirmajā daļā noteikto lēmumu neizpilda un labprātīgi nesamaksā ar juridisko palīdzību saistītos izdevumus, Tiesu administrācija lēmumu par to izdevumu samaksu, kuri saistīti ar juridiskās palīdzības sniegšanu, nodod piespiedu izpildei zvērinātam tiesu izpildītājam Administratīvā procesa likumā noteiktajā kārtībā. Ja atmaksājamo izdevumu summas samaksa tiek sadalīta termiņos, par labprātīgas izpildes termiņu uzskatāms atmaksas beigu datums vai kārtējā maksājuma neizpildes datums atbilstoši atmaksas grafikam.\n(8) Ar juridisko palīdzību saistītie atmaksātie izdevumi ieskaitāmi valsts budžetā.\n(9) Tiesu administrācijai, nodrošinot to izdevumu piedziņu, kuri saistīti ar juridiskās palīdzības sniegšanu, ir tiesības no personas, citām valsts un pašvaldību iestādēm pieprasīt nepieciešamo informāciju, kā arī tiesības pieprasīt informāciju no zvērināta tiesu izpildītāja par to izdevumu piedziņas procesu, kuri saistīti ar juridiskās palīdzības sniegšanu."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn1",
+      "title": "1. Līdz šā likuma 3.panta otrajā daļā minēto noteikumu pieņemšanai, bet ne ilgāk kā līdz 2005.gada 1.augustam personas īpašās situācijas, īpašuma stāvokļa un ienākumu līmeņa noteikšanā piemēro Ministru kabineta 2003.gada 25.februāra noteikumus Nr.97 \"Kārtība, kādā ģimene vai atsevišķi dzīvojoša persona atzīstama par trūcīgu\" un Ministru kabineta 2002.gada 4.novembra noteikumus Nr.502 \"Kārtība, kādā novērtējami maznodrošinātas personas ienākumi un materiālais stāvoklis\".",
+      "content": "1. Līdz šā likuma 3.panta otrajā daļā minēto noteikumu pieņemšanai, bet ne ilgāk kā līdz 2005.gada 1.augustam personas īpašās situācijas, īpašuma stāvokļa un ienākumu līmeņa noteikšanā piemēro Ministru kabineta 2003.gada 25.februāra noteikumus Nr.97 \"Kārtība, kādā ģimene vai atsevišķi dzīvojoša persona atzīstama par trūcīgu\" un Ministru kabineta 2002.gada 4.novembra noteikumus Nr.502 \"Kārtība, kādā novērtējami maznodrošinātas personas ienākumi un materiālais stāvoklis\"."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn2",
+      "title": "2. Juridiskās palīdzības administrāciju izveido līdz 2005.gada 30.decembrim. Līdz Juridiskās palīdzības administrācijas izveidošanai tās funkcijas veic Tieslietu ministrijas atbildīgā struktūrvienība.",
+      "content": "2. Juridiskās palīdzības administrāciju izveido līdz 2005.gada 30.decembrim. Līdz Juridiskās palīdzības administrācijas izveidošanai tās funkcijas veic Tieslietu ministrijas atbildīgā struktūrvienība."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn3",
+      "title": "3. Šā likuma 3.panta pirmās daļas 7.punkts attiecībā uz patvēruma meklētājiem stājas spēkā 2007.gada 1.janvārī.",
+      "content": "3. Šā likuma 3.panta pirmās daļas 7.punkts attiecībā uz patvēruma meklētājiem stājas spēkā 2007.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn4",
+      "title": "4. Šā likuma V nodaļa stājas spēkā 2006.gada 1.janvārī.",
+      "content": "4. Šā likuma V nodaļa stājas spēkā 2006.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn5",
+      "title": "5. Šā likuma VI nodaļa stājas spēkā vienlaikus ar Kriminālprocesa likumu .",
+      "content": "5. Šā likuma VI nodaļa stājas spēkā vienlaikus ar Kriminālprocesa likumu ."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn6",
+      "title": "6. Līdz dienai, kad stājas spēkā šā likuma 5.panta trešajā daļā minētie Ministru kabineta noteikumi, kas reglamentē valsts nodrošinātās juridiskās palīdzības veidus, apjomu, samaksas apmēru un ar valsts nodrošinātās juridiskās palīdzības sniegšanu saistītos atlīdzināmos izdevumus, to apmēru un izmaksas kārtību, bet ne ilgāk kā līdz 2009.gada 1.janvārim ir piemērojami Ministru kabineta 2006.gada 6.novembra noteikumi Nr.920 “ Noteikumi par valsts nodrošinātās juridiskās palīdzības veidiem, maksimālo stundu skaitu, samaksas apmēru un kārtību ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 19.06.2008 . likuma redakcijā, kas stājas spēkā 16.07.2008. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn7",
+      "title": "7. Šā likuma grozījumi par 9.panta 2.punkta, 18.panta 1.punkta, 19. un 20.panta , kā arī 33.panta pirmās un trešās daļas izteikšanu jaunā redakcijā stājas spēkā 2009.gada 1.janvārī.",
+      "content": "( 19.06.2008 . likuma redakcijā, kas stājas spēkā 16.07.2008. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn8",
+      "title": "8. Iesniegumus par juridisko palīdzību, kuri Juridiskās palīdzības administrācijā saņemti līdz 2009.gada 30.jūnijam, Juridiskās palīdzības administrācija izskata, juridisko palīdzību piešķir un nodrošina tādā kārtībā un tādos gadījumos un apjomā, kādu nosaka tiesiskais regulējums, kas bija spēkā līdz 2009.gada 30.jūnijam.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn9",
+      "title": "9. Lietās, kurās juridiskā palīdzība piešķirta līdz 2009.gada 30.jūnijam, iesniegumus par turpmāko juridisko palīdzību Juridiskās palīdzības administrācija izskata un juridisko palīdzību piešķir tādos gadījumos un apjomā, kādu nosaka tiesiskais regulējums, kas bija spēkā līdz 2009.gada 30.jūnijam.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn10",
+      "title": "10. Līdz dienai, kad stājas spēkā šā likuma 3.panta trešajā daļā minētie Ministru kabineta noteikumi, kas reglamentē gadījumus, kādos šā likuma 3.panta pirmās daļas 6. un 8.punktā minēto personu īpašuma stāvoklis un ienākumu līmenis uzskatāms par atbilstošu juridiskās palīdzības piešķiršanai, un to izvērtēšanas kārtību, bet ne ilgāk kā līdz 2009.gada 31.decembrim ir piemērojami Ministru kabineta 2006.gada 4.jūlija noteikumi Nr.558 “ Noteikumi par personas īpašās situācijas, īpašuma stāvokļa un ienākumu līmeņa atbilstību valsts nodrošinātās juridiskās palīdzības piešķiršanai ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn11",
+      "title": "11. Līdz dienai, kad stājas spēkā šā likuma 5.panta piektajā daļā minētie Ministru kabineta noteikumi, kas reglamentē valsts nodrošinātās juridiskās palīdzības veidus, apjomu, samaksas apmēru un ar valsts nodrošinātās juridiskās palīdzības sniegšanu saistītos atlīdzināmos izdevumus, to apmēru un izmaksas kārtību, bet ne ilgāk kā līdz 2009.gada 31.decembrim ir piemērojami Ministru kabineta 2008.gada 22.decembra noteikumi Nr.1068 “ Noteikumi par valsts nodrošinātās juridiskās palīdzības apjomu, samaksas apmēru, atlīdzināmajiem izdevumiem un to izmaksas kārtību ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn12",
+      "title": "12. Līdz dienai, kad stājas spēkā šā likuma 22.panta otrajā daļā minētie Ministru kabineta noteikumi, kas reglamentē juridiskās palīdzības pieprasījuma veidlapas paraugu, bet ne ilgāk kā līdz 2009.gada 31.decembrim ir piemērojami Ministru kabineta 2007.gada 11.decembra noteikumi Nr.850 “ Noteikumi par juridiskās palīdzības pieprasījuma veidlapas paraugu ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn13",
+      "title": "13. Tiesvedībā esošajās privātās apsūdzības lietās par noziedzīgiem nodarījumiem, kas kvalificēti pēc Krimināllikuma 130.panta otrās daļas, 157. un 158.panta saistībā ar neslavas celšanu masu saziņas līdzeklī, cietušajam valsts nodrošinātu advokātu par pārstāvi Juridiskās palīdzības administrācija piešķir un nodrošina tādā kārtībā un apjomā, kādu noteica tiesiskais regulējums, kas bija spēkā līdz 2010.gada 31.decembrim. Tiesvedībā esošajās privātās apsūdzības lietās par noziedzīgiem nodarījumiem, kas kvalificēti pēc Krimināllikuma 130.panta pirmās daļas, kurās tiesvedība pēc 2010.gada 31.decembra Krimināllikumā noteiktajā kārtībā ir izbeidzama, Juridiskās palīdzības administrācija juridisko palīdzību nepiešķir, pieņemtā lēmuma par juridisko palīdzību izpildi nenodrošina un pārtrauc juridiskās palīdzības sniegšanas nodrošināšanu, paziņojot par to personai.",
+      "content": "( 21.10.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn14",
+      "title": "14. Ja iesniegums par juridiskās palīdzības pieprasīšanu privātās apsūdzības kriminālprocesa uzsākšanai saņemts vai lēmums par juridiskās palīdzības piešķiršanu privātās apsūdzības kriminālprocesa uzsākšanai pieņemts līdz 2010.gada 31.decembrim un privātās apsūdzības kriminālprocess līdz 2010.gada 31.decembrim nav uzsākts, Juridiskās palīdzības administrācija juridisko palīdzību nepiešķir, pieņemtā lēmuma par juridisko palīdzību izpildi nenodrošina un pārtrauc juridiskās palīdzības sniegšanas nodrošināšanu, paziņojot par to personai, kā arī informējot to par tiesībām uz valsts nodrošināto juridisko palīdzību, ja turpmāk juridiskā palīdzība nodrošināma Kriminālprocesa likumā noteiktajā kārtībā.",
+      "content": "( 21.10.2010 . likuma redakcijā, kas stājas spēkā 01.01.2011. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn15",
+      "title": "15. Juridiskās palīdzības administrācija līdz 2011.gada 1.decembrim sastāda pirmo šā likuma 33. 1 pantā minēto juridiskās palīdzības sniedzēju sarakstu un nosūta to iestādei, kas Imigrācijas likumā noteiktajos gadījumos un kārtībā aiztur izraidāmo ārzemnieku.",
+      "content": "( 04.08.2011 . likuma redakcijā, kas stājas spēkā 07.09.2011. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn16",
+      "title": "16. Šā likuma grozījumi par 3.panta pirmās daļas papildināšanu ar 9.punktu, 5.panta papildināšanu ar 2. 1 daļu, 15.panta papildināšanu pēc vārda “ietvaros” ar vārdiem “un lēmuma par apstrīdēto izbraukšanas rīkojumu vai lēmuma par apstrīdēto lēmumu par piespiedu izraidīšanu pārsūdzēšanas ietvaros”, 22.panta papildināšanu ar 5. 1 , 6. 1 un 7. 1 daļu, 23.panta papildināšanu ar 1. 1 daļu, kā arī grozījumi šā likuma 3.panta trešajā daļā par skaitļu un vārdu “6. un 8.punktā” aizstāšanu ar skaitļiem un vārdiem “6., 8. un 9.punktā” un grozījumi šā likuma 23.panta trešajā daļā par vārdu “pirmajā daļā” aizstāšanu ar vārdiem un skaitli “pirmajā un 1. 1 daļā” stājas spēkā 2011.gada 23.decembrī.",
+      "content": "( 04.08.2011 . likuma redakcijā, kas stājas spēkā 07.09.2011. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn17",
+      "title": "17. Līdz dienai, kad stājas spēkā jauni šā likuma 31.panta pirmajā daļā minētie Ministru kabineta noteikumi, kas paredz, ka Ministru kabinets apstiprina iesnieguma par juridiskās palīdzības līguma slēgšanu veidlapas paraugu, bet ne ilgāk kā līdz 2012.gada 30.septembrim ir piemērojami Ministru kabineta 2005.gada 31.maija noteikumi Nr.361 “ Noteikumi par iesnieguma veidlapu paraugiem valsts nodrošinātās juridiskās palīdzības sniedzēja statusa iegūšanai ”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 03.05.2012 . likuma redakcijā, kas stājas spēkā 30.05.2012. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn18",
+      "title": "18. Grozījumi šā likuma 14. 2 panta 1. 1 daļas pirmajā teikumā par tā izteikšanu jaunā redakcijā stājas spēkā vienlaikus ar Hāgas 2007.gada 23.novembra Konvencijas par uzturlīdzekļu bērniem un cita veida ģimenes uzturēšanas līdzekļu pārrobežu piedziņu spēkā stāšanos Eiropas Savienībā.",
+      "content": "( 03.05.2012 . likuma redakcijā, kas stājas spēkā 30.05.2012. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn19",
+      "title": "19. Grozījumi šā likuma 5.panta sestās daļas otrajā teikumā un septītajā daļā stājas spēkā 2016.gada 1.martā.",
+      "content": "( 10.12.2015 . likuma redakcijā, kas stājas spēkā 06.01.2016. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn20",
+      "title": "20. Grozījumi šā likuma 3. pantā par tā papildināšanu ar ceturto daļu un 4. pantā par tā papildināšanu ar sesto daļu un šā likuma IV 2 nodaļa \"Finansiālā atbalsta piešķiršana un nodrošināšana Latvijas valstspiederīgajiem aizskarto vai apstrīdēto personas tiesību vai ar likumu aizsargāto interešu aizsardzībai, kas saistītas ar bērna aizgādības tiesību pārtraukšanu vai atņemšanu ārvalstīs\" stājas spēkā 2017. gada 1. aprīlī.",
+      "content": "( 02.02.2017 . likuma redakcijā, kas stājas spēkā 01.03.2017. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn21",
+      "title": "21. Juridiskās palīdzības administrācijā līdz 2023. gada 31. decembrim iesniegto un neizskatīto iesniegumu izskatīšanu nodrošina Tiesu administrācija kā Juridiskās palīdzības administrācijas saistību pārņēmēja.",
+      "content": "( 26.10.2023 . likuma redakcijā, kas stājas spēkā 01.01.2024. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn22",
+      "title": "22. Juridiskās palīdzības administrācijas izdotu un spēkā esošu administratīvo aktu izpildi, nodrošinot pakalpojumu saņemšanu, kā arī to izdevumu piedziņu, kuri saistīti ar juridiskās palīdzības sniegšanu, ar 2024. gada 1. janvāri nodrošina Tiesu administrācija kā Juridiskās palīdzības administrācijas saistību pārņēmēja.",
+      "content": "( 26.10.2023 . likuma redakcijā, kas stājas spēkā 01.01.2024. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn23",
+      "title": "23. Tiesu administrācija kā Juridiskās palīdzības administrācijas saistību pārņēmēja iestājas kā līgumslēdzēja puse līdz 2023. gada 31. decembrim noslēgtajos juridiskās palīdzības līgumos ar juridiskās palīdzības sniedzējiem.",
+      "content": "( 26.10.2023 . likuma redakcijā, kas stājas spēkā 01.01.2024. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "IX nodaļa Ar juridisko palīdzību saistīto izdevumu samaksa",
+      "section": "pn24",
+      "title": "24. Līdz attiecīgu grozījumu izdarīšanai citos normatīvajos aktos lietotais termins \"Juridiskās palīdzības administrācija\" (attiecīgā locījumā) atbilst šajā likumā lietotajam terminam \"Tiesu administrācija\" (attiecīgā locījumā).",
+      "content": "( 26.10.2023 . likuma redakcijā, kas stājas spēkā 01.01.2024. )\n( 03.05.2012 . likuma redakcijā, kas stājas spēkā 30.05.2012. )"
+    }
+  ],
+  "definitions": []
+}

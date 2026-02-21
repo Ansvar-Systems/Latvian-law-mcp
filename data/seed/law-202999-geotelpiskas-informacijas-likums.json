@@ -1,0 +1,543 @@
+{
+  "id": "lv-law-202999",
+  "type": "statute",
+  "title": "Ģeotelpiskās informācijas likums",
+  "title_en": "Geospatial Information Law",
+  "short_name": "TA-202999",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/202999-geotelpiskas-informacijas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) ģeodēzija — zinātnes un ražošanas nozare, kas pēta Zemes formu un lielumu, kā arī nosaka dabas elementu un cilvēku radītu objektu savstarpējo stāvokli uz Zemes virsmas kādā ar Zemi saistītā koordinātu sistēmā. Ģeodēzijā izmanto Zemes gravitācijas lauka, magnētiskā lauka un citus ģeofizikālos mērījumus;\n2) ģeodēziskais punkts — apvidū nostiprināta ģeodēziskā zīme, kurai ir pastāvīgs centrs un ir noteikts vismaz viens no šādiem raksturlielumiem: koordinātas, augstums, Zemes gravimetriskā lauka vērtība vai Zemes ģeomagnētiskā lauka vērtība. Punktiem, kas nostiprināti ar grunts zīmēm, var būt virszemes konstrukcija — kupica, norādītājstabs, ģeodēziskais signāls, nožogojums;\n3) ģeodēziskais tīkls — ģeodēzisko punktu kopums ar viena veida raksturlielumiem;\n4) ģeodēziskā atskaites sistēma — teorētisks pamatojums koordinātu, augstumu, magnetometriskai un gravimetriskai atskaitei, ko izmanto ģeodēziskajā un kartogrāfiskajā darbībā;\n5) ģeotelpiskā informācija — jebkura informācija, kas tieši vai netieši norāda uz konkrētu atrašanās vietu vai ģeogrāfisko apgabalu, kurā atrodas ģeotelpiskais objekts;\n6) ģeotelpiskās informācijas aprite — ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde, uzturēšana, piegāde lietotājiem un izmantošana;\n7) ģeotelpiskās informācijas atkalizmantošana — iestādes rīcībā esošās ģeotelpiskās informācijas izmantošana, ko veic fiziskās vai juridiskās personas komerciāliem vai nekomerciāliem mērķiem, kas nav izmantošanas sākotnējs mērķis, kuram ģeotelpiskā informācija tika iegūta un sagatavota, pildot iestādes uzdevumus. Ģeotelpiskās informācijas apmaiņa starp iestādēm, īstenojot to pārvaldes funkcijas un uzdevumus, nav ģeotelpiskās informācijas atkalizmantošana;\n8) ģeotelpiskās informācijas infrastruktūra — normatīvajos aktos noteiktas ģeotelpisko datu kopas, to metadati, ģeotelpiskās informācijas kopīgas izmantošanas un atkalizmantošanas nosacījumi, ģeotelpiskās informācijas pakalpojumi, informācijas un telekomunikācijas tehnoloģijas, ar kurām nodrošina ģeotelpiskās informācijas apriti un ģeotelpiskās informācijas pakalpojumu sniegšanu, un kārtība, kādā tiek koordinēta un uzraudzīta iesaistīto institūciju darbība;\n9) ģeotelpiskās informācijas kopīga izmantošana — ģeotelpiskās informācijas aprite starp iestādēm, īstenojot to pārvaldes funkcijas un uzdevumus;\n10) ģeotelpiskās informācijas pakalpojumi — ģeotelpiskās informācijas tehniska apstrāde un citas darbības šīs informācijas aprites nodrošināšanai;\n11) ģeotelpiskās informācijas portāls (turpmāk — ģeoportāls) —tīmekļa vietne vai tai pielīdzināms līdzeklis, kas nodrošina pieeju ģeotelpisko datu kopām, pakalpojumiem un metadatiem;\n12) ģeotelpiskās informācijas turētājs — fiziskā vai juridiskā persona, kura ir attiecīgās ģeotelpiskās informācijas veidotājs, pasūtītājs vai kuras rīcībā ir iestādei noteikto funkciju nodrošinājumam nepieciešamā ģeotelpiskā informācija, kas var būt sakārtota datubāzē, tai skaitā ģeotelpisko datu kopas turētājs;\n13) ģeotelpisko datu kopa — ar noteiktu izmantošanas mērķi izveidota identificējama ģeotelpiskās informācijas datubāze, kurai ir noteikts turētājs un kura ietver atsevišķas nozares ģeotelpiskās informācijas pamatdatus;\n14) ģeotelpisko datu kopas turētājs — normatīvajos aktos noteikta atbildīgā institūcija ģeotelpisko datu kopas izveidošanai un uzturēšanai;\n15) ģeotelpisko datu kopu un pakalpojumu sadarbspēja — spēja apvienot ģeotelpisko datu kopas un, nelietojot atkārtotu manuālu iejaukšanos, nodrošināt ģeotelpiskās informācijas pakalpojumu mijiedarbību tādā veidā, ka tiek panākts saskanīgs rezultāts un paaugstināta ģeotelpisko datu kopu un pakalpojumu pievienotā vērtība;\n16) ģeotelpisks objekts — abstrakts reālās pasaules atspoguļojums, kas saistīts ar konkrētu atrašanās vietu vai ģeogrāfisko apgabalu;\n17) kartogrāfija — zinātnes un ražošanas nozare par ģeotelpiskās informācijas iegūšanu un apstrādi ar kartēšanas metodēm, kā arī par karšu un plānu sastādīšanu, izdošanu un lietošanu;\n18) metadati — strukturēta informācija, kas raksturo ģeotelpisko datu kopas un ģeotelpiskās informācijas pakalpojumus;\n19) nozare — tautsaimniecības nozare, kuras praktiskās darbības nodrošināšanai nepieciešama ģeotelpiskās informācijas iegūšana, sagatavošana, atjaunināšana un izmantošana;\n20) ortofoto — Zemes virsmas fotogrāfisks attēls, kas pēc apstrādes ar fotogrammetrijas metodēm ieguvis atbilstību kartes vai plāna projekcijas ģeometriskajām īpašībām;\n21) pamatdati — tāds ģeotelpiskās informācijas kopums, kurš sagatavots pēc vienotas specifikācijas un kura sagatavošana un pastāvīga atjaunināšana dod valsts tautsaimniecībai ekonomisku efektu un funkcionāli nodrošina:\na) citu ģeotelpisko objektu nepārprotamu atrašanās vietas piesaistīšanu,\nb) konteksta veidošanu citu ģeotelpisko datu vizualizēšanai un analīzei,\nc) topogrāfisko un tematisko karšu izgatavošanu;\n22) pastāvīgo globālās pozicionēšanas bāzes staciju sistēma \"Latvijas Pozicionēšanas sistēma\" — valsts ģeodēziskā tīkla sastāvdaļa, kura nodrošina augstas precizitātes koordinātu noteikšanu apvidus objektiem, izmantojot Zemes mākslīgos pavadoņus;\n23) tematiskā karte — karte, kuras saturs, mērogs, projekcija un noformējums veidots atbilstoši tikai noteiktas nozares (piemēram, ģeoloģijas, tūrisma, nekustamo īpašumu kadastra, transporta) vai konkrēta mērķa (piemēram, aeronavigācijas, jūras navigācijas, teritorijas plānošanas) attēlošanas prasībām;\n24) topogrāfiskā karte — ģeotelpiskās informācijas attēlojums plaknē ar noteikta veida apzīmējumiem vizuāli uztveramā formā, kurā atbilstoši attēlojuma mērogam ņemta vērā Zemes virsmas liekuma ietekme;\n25) topogrāfiskais plāns — lokāla ģeogrāfiskā apgabala ģeotelpiskās informācijas attēlojums plaknē ar noteikta veida apzīmējumiem vizuāli uztveramā formā;\n26) vietvārdu (toponīmu) informācija — šā likuma izpratnē: vietvārdi jeb ģeogrāfiskie nosaukumi kopā ar informāciju, kas raksturo vai paskaidro tos, kā arī norāda uz attiecīgo vietvārdu ģeogrāfisko piesaisti konkrētiem objektiem."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Likuma mērķis ir noteikt institucionālo sistēmu ģeotelpiskās informācijas jomā, ietverot ģeotelpiskās informācijas (tai skaitā ģeodēzisko un kartogrāfisko pamatdatu) sagatavošanas, izmantošanas, apmaiņas un uzturēšanas nosacījumus, lai izveidotu ģeotelpiskās informācijas infrastruktūru Latvijas Republikā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likumu piemēro visām fiziskajām un juridiskajām personām, kuru funkcijas, uzdevumi un darbība ir saistīta ar ģeotelpiskās informācijas apriti un šīs informācijas kopīgu izmantošanu un atkalizmantošanu.\n(2) Likums attiecas uz ģeotelpiskās informācijas apriti tiktāl, ciktāl tas nav pretrunā ar speciālajos normatīvajos aktos un starpvalstu līgumos noteiktajiem vai starptautiskās sadarbības ietvaros realizējamiem ģeotelpiskās informācijas aprites noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "4",
+      "title": "Ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas pārvaldes institūcijas un to darbības koordinācija",
+      "content": "(1) Aizsardzības ministrija organizē un koordinē valsts politikas īstenošanu ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas jomā:\n1) izstrādā valsts politiku un attīstības stratēģiju, koordinē ģeotelpiskās informācijas apriti valstī ģeodēzijas un kartogrāfijas jomā, izņemot jūras navigācijas karšu sastādīšanu un publicēšanu, ko nosaka Jūrlietu pārvaldes un jūras drošības likums;\n2) nodrošina reglamentējošu normatīvo aktu projektu izstrādi atbilstoši Eiropas Savienības, Ziemeļatlantijas līguma organizācijas un citu starptautisko organizāciju tiesību aktiem;\n3) plāno un uzrauga Latvijas Ģeotelpiskās informācijas aģentūras ģeodēzisko un kartogrāfisko pamatdatu iegūšanas, sagatavošanas un atjaunināšanas, kā arī ģeotelpiskās informācijas pakalpojumu sniegšanas izpildi ikgadējā valsts budžeta finansējuma ietvaros;\n4) nodrošina Ģeotelpiskās informācijas koordinācijas padomes darbību;\n5) nosaka kārtību, kādā nodrošināms ģeotelpiskās informācijas atbalsts Nacionālo bruņoto spēku uzdevumu izpildei un dalībai Ziemeļatlantijas līguma organizācijā;\n6) sadarbībā ar nozaru ministrijām nodrošina standartu izstrādi un/vai starptautisko standartu adaptēšanu ģeotelpiskās informācijas jomā;\n7) koordinē starptautisko līgumu slēgšanu par ģeotelpiskās informācijas, kas iegūta ar tālizpētes metodi, izmantošanu visu ieinteresēto ministriju funkciju un uzdevumu izpildei.\n(2) Latvijas Ģeotelpiskās informācijas aģentūra ir Aizsardzības ministrijas pārraudzībā esoša tiešās pārvaldes iestāde, kura ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas jomā īsteno valsts politiku un piedalās šīs politikas izstrādē.\n(3) Šā likuma 12.panta piektajā daļā, 17.panta trešajā daļā, 18.panta otrajā daļā un 31.panta otrajā daļā noteikto uzdevumu izpildei Latvijas Ģeotelpiskās informācijas aģentūra var slēgt līgumus par attiecīgu pakalpojumu veikšanu.\n(4) Atsevišķas funkcijas ģeodēzijas, kartogrāfijas un ģeotelpiskās informācijas politikas īstenošanā atbilstoši savai kompetencei pilda Viedās administrācijas un reģionālās attīstības ministrija, Zemkopības ministrija, Tieslietu ministrija, Satiksmes ministrija, Ekonomikas ministrija, Iekšlietu ministrija, Veselības ministrija, Izglītības un zinātnes ministrija, Klimata un enerģētikas ministrija, Kultūras ministrija un vietējās pašvaldības, kā arī biedrības un nodibinājumi, kuru darbība attiecīgajā jomā ir reģistrēta.\n(5) Šā panta ceturtajā daļā minētās ministrijas atbilstoši savām valsts pārvaldes funkcijām, uzdevumiem un kompetencei, to aptvertajām nozarēm vai nozaru grupām un Latvijas Republikai saistošām starptautiskajām tiesību normām:\n1) iekļauj nozares politikas plānošanas dokumentos pasākumus, lai nodrošinātu attiecīgās nozares politikas izstrādāšanai un īstenošanai nepieciešamās ģeotelpiskās informācijas iegūšanu, sagatavošanu, atjaunināšanu un attiecīgu ģeotelpiskās informācijas pakalpojumu sniegšanu;\n2) nozares politikas plānošanas dokumentos par šīs daļas 1.punktā minētajiem pasākumiem sniedz šādu informāciju:\na) konkrētas ģeotelpisko datu kopas un pakalpojumi, ko plānots nodrošināt ar attiecīgajiem pasākumiem,\nb) termiņi pasākumu īstenošanai,\nc) pasākumu izpildei piešķirtais un papildus nepieciešamais finansējums,\nd) par pasākumu īstenošanu atbildīgās institūcijas,\ne) kārtība, kādā sniedzams pārskats par pasākumu izpildi;\n3) nodrošina attiecīgās nozares ģeotelpisko datu kopu un to metadatu iegūšanu, sagatavošanu, atjaunināšanu un pieejamību valsts vienotajā ģeoportālā, ievērojot šīs daļas 1.punktā minētos pasākumus un šajā likumā noteiktās prasības ģeotelpiskās informācijas apritei.\n(6) Šā panta ceturtajā daļā minētās ministrijas sagatavo un sniedz Aizsardzības ministrijai ziņas par attiecīgās nozares ģeotelpisko informāciju, pakalpojumiem un pasākumiem, lai nodrošinātu efektīvu ģeotelpiskās informācijas iegūšanu, sagatavošanu, atjaunināšanu un attiecīgu ģeotelpiskās informācijas pakalpojumu sniegšanu valstī.\n(7) Par atbilstošās nozares ģeotelpiskās informācijas sagatavošanu, pakalpojumu sniegšanu un pasākumu izpildi, kā arī informācijas sniegšanu Viedās administrācijas un reģionālās attīstības ministrijai, lai nodrošinātu šā likuma 8. panta otrajā un trešajā daļā noteikto uzdevumu izpildi, atbild Aizsardzības ministrija, Zemkopības ministrija, Tieslietu ministrija, Satiksmes ministrija, Ekonomikas ministrija, Iekšlietu ministrija, Veselības ministrija, Izglītības un zinātnes ministrija, Klimata un enerģētikas ministrija, Kultūras ministrija un vietējās pašvaldības, kā arī biedrības un nodibinājumi, kuru darbība attiecīgajā jomā ir reģistrēta."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "5",
+      "title": "Viedās administrācijas un reģionālās attīstības ministrijas kompetence ģeotelpiskās informācijas jomā",
+      "content": "Viedās administrācijas un reģionālās attīstības ministrija atbilstoši savām valsts pārvaldes funkcijām, uzdevumiem un kompetencei, kā arī Latvijas Republikai saistošām starptautiskajām tiesību normām:\n1) organizē un koordinē valsts politikas izstrādi un īstenošanu valsts pārvaldes digitālo tehnoloģiju, informācijas sabiedrības un datu pārvaldības jomās valsts vienotā ģeoportāla izveidei un tā darbības nodrošināšanai ikgadējā valsts budžeta finansējuma ietvaros;\n2) izstrādā normatīvo aktu projektus un politikas plānošanas dokumentus valsts vienotā ģeoportāla izveidei un ieviešanai;\n3) koordinē nozaru ministriju, to padotības valsts pārvaldes institūciju un pašvaldību institūciju sadarbību valsts vienotajā ģeoportālā pieejamo ģeotelpisko pakalpojumu izveidē un ieviešanā;\n4) nodrošina valsts vienotā ģeoportāla izveides un uzturēšanas pārvaldību;\n5) nodrošina valsts vienotā ģeoportāla sadarbspēju ar Eiropas Kopienas ģeoportālu."
+    },
+    {
+      "provision_ref": "Art. 5.1",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "5.1",
+      "title": "5. 1 pants. Ģeotelpiskās informācijas koordinācijas padome",
+      "content": "Ģeotelpiskās informācijas koordinācijas padome ir Ministru kabineta izveidota koleģiāla un koordinējoša institūcija, kuras mērķis ir nodrošināt starpinstitūciju sadarbību ģeotelpiskās informācijas jomas plānošanā un politikas īstenošanā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "6",
+      "title": "Vietējo pašvaldību kompetence ģeotelpiskās informācijas jomā",
+      "content": "Vietējās pašvaldības atbilstoši savām funkcijām, uzdevumiem un kompetencei, kā arī Latvijas Republikai saistošām starptautiskajām tiesību normām ikgadējā budžeta ietvaros:\n1) organizē savu funkciju izpildei nepieciešamās ģeotelpiskās informācijas iegūšanu un uzturēšanu, nosaka šo funkciju finansēšanas un izmantošanas kārtību un nodrošina sadarbību ar citām iestādēm ģeotelpiskās informācijas aprites jomā, piemēram, ar Latvijas Ģeotelpiskās informācijas aģentūru un Valsts zemes dienestu;\n2) nodrošina savai darbībai nepieciešamās ģeotelpiskās informācijas un pakalpojumu savlaicīgu atjaunināšanu un uzturēšanu;\n3) nodrošina padotajās institūcijās un iestādēs šā likuma prasību ievērošanu ģeotelpiskās informācijas aprites jomā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "7",
+      "title": "Biedrību un nodibinājumu kompetence ģeotelpiskās informācijas jomā",
+      "content": "Biedrības un nodibinājumi vai to apvienības, kas apvieno ģeotelpiskās informācijas jomā strādājošās fiziskās un juridiskās personas, var piedalīties valsts politikas īstenošanā ģeotelpiskās informācijas jomā, veicot normatīvo dokumentu un standartu apspriešanu un sniedzot atzinumus, veicinot sabiedrības iesaistīšanu ģeotelpiskās informācijas apritē, paaugstinot profesionālo kvalifikāciju un pildot citus biedrībām un nodibinājumiem vai to apvienībām deleģētos valsts pārvaldes uzdevumus."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "8",
+      "title": "Latvijas Republikas pārstāvēšana Eiropas Savienības institūcijās un informācijas sniegšana Eiropas Komisijai",
+      "content": "(1) Viedās administrācijas un reģionālās attīstības ministrija un Aizsardzības ministrija atbilstoši kompetencei nodrošina Latvijas Republikas pārstāvēšanu Eiropas Savienības institūcijās Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras darbības jautājumos.\n(2) Viedās administrācijas un reģionālās attīstības ministrija saskaņā ar Eiropas Komisijas noteikto kārtību sagatavo ziņojumu Eiropas Komisijai par ģeotelpiskās informācijas infrastruktūras darbību Latvijas Republikā.\n(3) Viedās administrācijas un reģionālās attīstības ministrija pēc Eiropas Komisijas pieprasījuma sniedz tai ziņas par Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras turpmāko attīstību."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Kompetence valsts pārvaldē ģeotelpiskās informācijas jomā",
+      "section": "9",
+      "title": "Nekustamo īpašumu īpašnieku, tiesisko valdītāju un lietotāju pienākumi un atbildība",
+      "content": "(1) Nekustamā īpašuma īpašnieks, tiesiskais valdītājs vai lietotājs netraucē piekļuvi ģeodēziskajiem punktiem, lai veiktu ģeodēzisko vai kartogrāfisko darbību, un neierobežo ģeodēzisko un kartogrāfisko darbu veikšanu savā īpašumā esošajā vai pārvaldāmajā teritorijā.\n(2) Nekustamā īpašuma īpašnieks, tiesiskais valdītājs vai lietotājs neveic darbības, kas vērstas pret ģeodēzisko zīmju ilgstošu saglabāšanu, stabilitāti vai to konstrukcijas nemainību, un ievēro Aizsargjoslu likumā noteiktos aprobežojumus ap ģeodēziskajiem punktiem.\n(3) Nekustamā īpašuma īpašnieks, tiesiskais valdītājs vai lietotājs par šā panta otrajā daļā noteikto pienākumu pārkāpšanu saucams pie likumā noteiktās atbildības."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "10",
+      "title": "Ģeodēziskās un kartogrāfiskās darbības veikšana",
+      "content": "(1) Ģeodēziskā un kartogrāfiskā darbība ir pamats ģeotelpiskās informācijas iegūšanai, sagatavošanai, apstrādei un uzturēšanai.\n(2) Ģeodēziskā darbība ietver:\n1) ģeodēziskās atskaites sistēmas izveidošanu, uzturēšanu un pārraudzību;\n2) globālās pozicionēšanas pastāvīgo bāzes staciju izveidi un ekspluatāciju;\n3) ģeodēzisko darbu veikšanu nozaru vajadzībām.\n(3) Ģeodēzisko darbību veic attiecīgi sertificētas personas, kā arī normatīvajos aktos noteiktajos gadījumos valsts un pašvaldību institūciju darbinieki, kuri ir ieguvuši akadēmisko vai otrā līmeņa profesionālo augstāko izglītību un ģeodēzijas inženiera vai zemes ierīcības inženiera, vai kartogrāfijas inženiera profesionālo kvalifikāciju vai arī ieguvuši inženierzinātņu maģistra grādu ģeomātikā, ģeodēzijā, zemes ierīcībā vai kartogrāfijā.\n(4) Ģeodēzisko darbību, kas saistīta ar ģeomagnētisko, gravimetrisko mērījumu veikšanu un citiem ģeodēzijas jomā sniegtajiem pakalpojumiem, kuriem jābūt pieejamiem sabiedrībai, atbilstoši saviem resursiem nodrošina Latvijas Ģeotelpiskās informācijas aģentūra. Minēto ģeodēzisko darbību veic par maksu saskaņā ar Latvijas Ģeotelpiskās informācijas aģentūras publisko maksas pakalpojumu cenrādi. Ministru kabinets izdod noteikumus, kuros nosaka Latvijas Ģeotelpiskās informācijas aģentūras ar ģeomagnētisko, gravimetrisko mērījumu veikšanu un citiem pakalpojumiem saistītās ģeodēziskās darbības cenrādi un tā piemērošanas kārtību.\n(5) Šā likuma 16. panta 1. punktā minētās kartogrāfiskās darbības veic personas, kuras ieguvušas akadēmisko vai otrā līmeņa profesionālo augstāko izglītību ģeogrāfijā, ģeomātikā, ģeodēzijā, zemes ierīcībā, kartogrāfijā, vides zinātnē un kuru profesionālā kompetence atbilst attiecīgo darbību veikšanai.\n(6) Ģeodēzisko un kartogrāfisko darbību, kuras rezultātā iegūst pamatdatus vai datus, kas šā likuma izpratnē atbilst informācijas kopīgas izmantošanas un atkalizmantošanas mērķiem, veic saskaņā ar šā likuma un citu normatīvo aktu prasībām.\n(7) Ģeodēzisko un kartogrāfisko darbību veic, neradot kaitējumu nekustamajam īpašumam, kurā tā tiek veikta."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "11",
+      "title": "Ģeodēziskās atskaites sistēmas piemērošana",
+      "content": "(1) (Izslēgta ar 25.09.2014 . likumu)\n(2) (Izslēgta ar 25.09.2014 . likumu)\n(3) Ģeotelpiskās informācijas pamatdatu iegūšanā, sagatavošanā un uzturēšanā izmanto Eiropas Zemes atskaites sistēmas, Eiropas Vertikālās atskaites sistēmas, Starptautiskās Zemes gravimetriskās sistēmas realizāciju Latvijas teritorijā un Latvijas topogrāfisko karšu sistēmu. Minēto sistēmu parametrus un to piemērošanas kārtību nosaka Ministru kabinets.\n(4) Starptautiskos projektos, kā arī sadarbībā ar Ziemeļatlantijas līguma organizāciju un tās dalībvalstīm, citām starptautiskajām organizācijām un to dalībniekiem ir tiesības izmantot citas ģeodēziskās atskaites sistēmas un kartogrāfiskās koordinātu sistēmas."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "12",
+      "title": "Ģeodēziskā atskaites sistēma",
+      "content": "(1) (Izslēgta ar 25.09.2014 . likumu)\n(2) Ģeodēziskās atskaites sistēmas realizācija ir valsts ģeodēziskais tīkls. Ģeotelpiskās informācijas iegūšanai var izmantot vietējo ģeodēzisko tīklu.\n(3) Ģeodēziskās atskaites sistēmas izveidi un uzturēšanu koordinē un uzrauga Latvijas Ģeotelpiskās informācijas aģentūra.\n(4) Ministru kabinets nosaka ģeodēziskās atskaites sistēmas izveides, izmantošanas un uzturēšanas kārtību.\n(5) Latvijas Ģeotelpiskās informācijas aģentūra izveido un uztur valsts ģeodēzisko tīklu, kā arī uztur Valsts ģeodēziskā tīkla datubāzē informāciju par valsts ģeodēziskā tīkla punktiem. Valsts ģeodēziskā tīkla datubāze ir Ģeodēziskā tīkla informācijas sistēmas sastāvdaļa. Latvijas Ģeotelpiskās informācijas aģentūra ir Ģeodēziskā tīkla informācijas sistēmas pārzinis.\n(6) Latvijas Ģeotelpiskās informācijas aģentūra izveido un uztur pastāvīgo globālās pozicionēšanas bāzes staciju sistēmu \"Latvijas Pozicionēšanas sistēma\", nodrošinot tās bezmaksas izmantošanu. Latvijas Ģeotelpiskās informācijas aģentūra ir pastāvīgās globālās pozicionēšanas bāzes staciju sistēmas \"Latvijas Pozicionēšanas sistēma\" pārzinis.\n(7) Vietējā ģeodēziskā tīkla punktu ierīkošanu, uzturēšanu un aizsardzību savā administratīvajā teritorijā nodrošina vietējā pašvaldība, kas aktuālo informāciju par tās administratīvajā teritorijā esošā vietējā ģeodēziskā tīkla punktiem uzkrāj Vietējā ģeodēziskā tīkla datubāzē.\n(8) Ministru kabinets nosaka vietējā ģeodēziskā tīkla punktu ierīkošanas, uzturēšanas, kā arī informācijas sniegšanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "13",
+      "title": "Augstas detalizācijas topogrāfiskā informācija",
+      "content": "(1) Augstas detalizācijas topogrāfiskā informācija ir tāda ģeotelpiska informācija, kuras mēroga noteiktība ir 1:500 un lielāka.\n(2) Augstas detalizācijas topogrāfiskā informācija tiek uzkrāta datubāzē.\n(3) Ministru kabinets nosaka augstas detalizācijas topogrāfiskās informācijas specifikāciju, informācijas iegūšanas, sagatavošanas un apstrādes metodiku, topogrāfiskā plāna sagatavošanas vispārīgās prasības, tā saskaņošanas vispārīgās prasības, tajā attēlojamos elementus, kā arī ģeodēzisko darbu veicēja atbildību augstas detalizācijas topogrāfiskās informācijas iegūšanas un sagatavošanas procesā.\n(4) Valsts zemes dienests uzkrāj augstas detalizācijas topogrāfisko informāciju par visu valsts teritoriju augstas detalizācijas topogrāfiskās informācijas centrālajā datubāzē un ir augstas detalizācijas topogrāfiskās informācijas valsts informācijas sistēmas pārzinis.\n(5) Ministru kabinets nosaka augstas detalizācijas topogrāfiskās informācijas centrālās datubāzes izveidošanas un uzturēšanas kārtību, ietverot tajā prasības par:\n1) augstas detalizācijas topogrāfiskās informācijas centrālajā datubāzē uzkrājamās informācijas saturu;\n2) informācijas apmaiņu starp vietējās pašvaldības datubāzi un augstas detalizācijas topogrāfiskās informācijas centrālo datubāzi;\n3) augstas detalizācijas topogrāfiskās informācijas iesniegšanas un pieņemšanas, aktualizācijas un izplatīšanas kārtību.\n(6) Vietējā pašvaldība, lai nodrošinātu savu funkciju un uzdevumu izpildi, par savu administratīvo teritoriju izveido un uztur augstas detalizācijas topogrāfiskās informācijas datubāzi atbilstoši Ministru kabineta noteiktajai augstas detalizācijas topogrāfiskās informācijas specifikācijai, veic iesniegtās informācijas pārbaudi un nodrošina datubāzes sadarbspēju ar centrālo datubāzi Ministru kabineta noteiktajā kārtībā. Pašvaldības dome nosaka augstas detalizācijas topogrāfiskās informācijas iesniegšanas un pieņemšanas kārtību.\n(7) Vietējai pašvaldībai ir tiesības deleģēt šā panta sestajā daļā minēto uzdevumu, slēdzot deleģējuma līgumu Valsts pārvaldes iekārtas likumā noteiktajā kārtībā. Ja minēto pārvaldes uzdevumu deleģē Valsts zemes dienestam, augstas detalizācijas topogrāfisko informāciju par vietējās pašvaldības administratīvo teritoriju Valsts zemes dienests uztur centrālajā datubāzē saskaņā ar šā panta piektajā daļā noteikto kārtību.\n(8) Datubāzē uzkrāto informāciju izplata vietējā pašvaldība un Valsts zemes dienests atbilstoši savā datubāzē uzkrātajam datu apjomam."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "14",
+      "title": "Ģeodēziskā tīkla punktu aizsardzība",
+      "content": "(1) Apvidū nostiprināti valsts ģeodēziskā tīkla punkti ir valsts īpašums un atrodas valsts aizsardzībā.\n(2) Apvidū nostiprināti vietējā ģeodēziskā tīkla punkti ir pašvaldības īpašums un atrodas pašvaldības aizsardzībā.\n(3) Apvidū nostiprinātiem valsts un vietējā ģeodēziskā tīkla punktiem ir noteiktas aizsargjoslas atbilstoši Aizsargjoslu likumam."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "15",
+      "title": "Ģeodēzisko darbu rezultātu ekspertīze",
+      "content": "(1) Ģeodēzisko darbu rezultātu ekspertīzi pēc pieprasījuma nodrošina Latvijas Ģeotelpiskās informācijas aģentūra. Ģeodēzisko darbu rezultātu ekspertīzi veic Ministru kabineta noteiktajā kārtībā.\n(2) Ministru kabinets izdod noteikumus, kuros nosaka Latvijas Ģeotelpiskās informācijas aģentūras sniegto ģeodēzisko darbu rezultātu ekspertīzes cenrādi un tā piemērošanas kārtību."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "16",
+      "title": "Kartogrāfiskā darbība",
+      "content": "Kartogrāfiskā darbība ietver:\n1) šā likuma 17.pantā noteikto ģeotelpiskās informācijas pamatdatu ieguvi, sagatavošanu, apstrādi un uzturēšanu;\n2) Zemes virsmas aerofotogrāfiju, kosmisko attēlu un lāzerskenēšanas datu iegūšanu un apstrādi ortofoto un reljefa datu sagatavošanai;\n3) digitālo apvidus un virsmas modeļu veidošanu, uzturēšanu un atjaunināšanu;\n4) topogrāfisko karšu sastādīšanu un izdošanu;\n5) aeronavigācijas un jūras navigācijas karšu sastādīšanu un izdošanu;\n6) nozaru tematisko karšu, piemēram, kadastra, adrešu, mežu nogabalu, lauksaimniecības zemju, meliorācijas, teritorijas plānošanas, augšņu, ģeoloģisko, hidroloģisko un citu attiecīgās nozares informācijas vizualizēšanai nepieciešamo karšu sastādīšanu un izdošanu vai — gadījumos, kad attiecīgās nozaru tematiskās kartes netiek poligrāfiski izdotas, — šo nozaru tematisko karšu datu sagatavošanu, publicēšanu un aktualizēšanu;\n7) administratīvo robežu karšu sastādīšanu un izdošanu vai administratīvo robežu datu sagatavošanu, publicēšanu un aktualizēšanu;\n8) pārskata un informatīvo karšu sastādīšanu un izdošanu;\n9) mācību karšu sastādīšanu un izdošanu;\n10) nacionālo atlantu sagatavošanu un izdošanu;\n11) vietvārdu informācijas, ģeogrāfisko nosaukumu katalogu un vārdnīcu sagatavošanu, publicēšanu un aktualizēšanu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "17",
+      "title": "Ģeotelpiskās informācijas pamatdati",
+      "content": "(1) Ģeotelpiskās informācijas pamatdati ir:\n1) Zemes virsmas attēli, tālizpētes dati un ortofoto mērogu rindas 1:50 000 — 1:2000 un lielāka mēroga ietvaros;\n2) digitālie apvidus un virsmas modeļi, kas izmantoti, lai sastādītu topogrāfiskos plānus un topogrāfiskās kartes mērogu rindas 1:250 000 — 1:500 un lielāka mēroga ietvaros;\n3) ģeotelpiskā informācija, kas ietverta topogrāfiskajos plānos un topogrāfiskajās kartēs mērogu rindas 1:250 000 — 1:500 un lielāka mēroga ietvaros;\n4) nekustamā īpašuma valsts kadastra informācijas sistēmas ģeotelpiskā informācija;\n5) administratīvo teritoriju robežas, to apraksti un Valsts adrešu reģistra ģeotelpiskā informācija;\n6) apgrūtināto teritoriju robežu un aizsargjoslas izraisošo objektu ģeotelpiskā informācija;\n7) ģeotelpiskā informācija par Zemes dzīlēm;\n8) ģeotelpiskā informācija par augsnes kvalitāti, auglību un degradāciju;\n9) lauksaimniecībā izmantojamo zemju un mežu inventarizācijas un meliorācijas ģeotelpiskā informācija;\n10) ģeotelpiskā informācija par gaisa trasēm, gaisakuģu lidojumu zonām, gaisakuģu lidojumu drošībai bīstamiem objektiem un šķēršļiem;\n11) ģeotelpiskā informācija par hidrogrāfiskajiem mērījumiem, ģeotelpiskā informācija, kas ietverta Latvijas Republikas teritoriālo ūdeņu un ekonomiskās zonas jūras navigācijas kartēs, ģeotelpiskā informācija par ūdensceļiem un navigācijas līdzekļiem, lai nodrošinātu drošu kuģošanu;\n12) ģeotelpiskā informācija par valsts robežas līniju, robežas joslu un robežpunktiem;\n13) ģeotelpiskā informācija par īpaši aizsargājamām dabas teritorijām;\n14) ģeotelpiskā informācija par teritorijas faktisko un plānoto (atļauto) izmantošanu;\n15) ģeotelpiskā informācija par sauszemes, jūras, gaisa un cauruļvadu transporta infrastruktūru un satiksmes mezgliem;\n16) inženierkomunikāciju ģeotelpiskā informācija.\n(2) Ģeotelpiskās informācijas pamatdatu turētājus nosaka šajā likumā vai attiecīgās nozares speciālajos normatīvajos aktos.\n(3) Latvijas Ģeotelpiskās informācijas aģentūra iegūst, sagatavo un atjaunina šādus pamatdatus un ir šo pamatdatu turētājs:\n1) Zemes virsmas attēlus, tālizpētes datus un ortofoto mērogu rindas 1:50 000 — 1:2000 ietvaros;\n2) digitālos apvidus un virsmas modeļus, kas izmantoti topogrāfisko plānu un topogrāfisko karšu sastādīšanai mērogu rindas 1:250 000 — 1:10 000 ietvaros;\n3) ģeotelpisko informāciju, kas ietverta topogrāfiskajos plānos un topogrāfiskajās kartēs mērogu rindas 1:250 000 — 1:2000 ietvaros;\n4) ģeotelpiskās informācijas pamatdatus, lai nodrošinātu atbalstu Nacionālo bruņoto spēku uzdevumu izpildei un to dalībai Ziemeļatlantijas līguma organizācijā Aizsardzības ministrijas noteiktajā kārtībā.\n(4) Šā panta trešajā daļā noteiktos ģeotelpiskās informācijas pamatdatus uzkrāj ģeotelpisko pamatdatu informācijas sistēmā. Ģeotelpisko pamatdatu informācijas sistēmas pārzinis ir Latvijas Ģeotelpiskās informācijas aģentūra. Ģeotelpisko pamatdatu informācijas sistēmas uzturēšanas un izmantošanas noteikumus nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "18",
+      "title": "Vietvārdu informācija",
+      "content": "(1) Vietvārdu veidošanas, piešķiršanas, apstiprināšanas, uzkrāšanas, publiskošanas, izmantošanas, saglabāšanas un aizsardzības kārtību nosaka Ministru kabinets.\n(2) Vietvārdu informāciju, kas nepieciešama ģeodēziskās un kartogrāfiskās darbības veikšanai, apkopo Vietvārdu datubāzē. Vietvārdu datubāzes turētājs un vietvārdu valsts informācijas sistēmas pārzinis ir Latvijas Ģeotelpiskās informācijas aģentūra."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "19",
+      "title": "Ģeotelpisko datu kopās iekļauto ģeotelpisko objektu klasifikācija",
+      "content": "(1) Ģeotelpiskās informācijas pamatdatu sagatavošanai, uzturēšanai un izmantošanai lieto vienoto nacionālo ģeotelpisko objektu klasifikācijas sistēmu.\n(2) Vienotajā nacionālajā ģeotelpisko objektu klasifikācijas sistēmā ietver attiecīgo ģeotelpisko objektu kodu, nosaukumu un aprakstu.\n(3) Vienoto nacionālo ģeotelpisko objektu klasifikācijas sistēmu izstrādā, apstiprina un ievieš atbilstoši kārtībai, kādā ievieš un lieto vienotās ekonomiskās informācijas klasifikācijas sistēmu.\n(4) Aizsardzības ministrija izstrādā un uztur vienoto nacionālo ģeotelpisko objektu klasifikācijas sistēmu, kā arī koordinē tās ieviešanu un lietošanu.\n(5) Vienotā ģeotelpisko objektu klasifikācijas sistēma nodrošina sadarbspēju ar Eiropas Kopienas ģeotelpiskās informācijas infrastruktūras vienoto ģeotelpisko objektu identifikācijas sistēmu."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "20",
+      "title": "Ģeotelpiskās informācijas iegūšana, sagatavošana un atjaunināšana",
+      "content": "(1) Ģeotelpiskās informācijas pamatdatus iegūst, sagatavo un atjaunina atbilstoši šajā likumā un citos normatīvajos aktos noteiktajām aktualizācijas prasībām.\n(2) Šajā likumā noteiktajā kārtībā sagatavotos ģeotelpiskās informācijas pamatdatus izmanto nozaru ģeotelpisko datu kopu sagatavošanai un atjaunināšanai.\n(3) Ģeotelpiskās datu kopas turētājs ir atbildīgs par ģeotelpiskās informācijas atjaunināšanu atbilstoši pieejamiem visaktuālākajiem ģeotelpiskās informācijas pamatdatiem.\n(4) Nozares vajadzībām nepieciešamo tematisko karšu un datu kopu iegūšanu, sagatavošanu un atjaunināšanu veic, ņemot vērā attiecīgās nozares speciālajos normatīvajos aktos noteiktās prasības.\n(5) Ģeotelpiskajai informācijai, ko sagatavo pēc iestādes pieprasījuma, lai nodrošinātu attiecīgās iestādes funkciju un uzdevumu izpildi, jāatbilst šajā likumā un citos normatīvajos aktos noteiktajām ģeotelpiskās informācijas aprites prasībām."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "III nodaļa Ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde un uzturēšana",
+      "section": "21",
+      "title": "Metadati",
+      "content": "(1) Ģeotelpiskās datu kopas turētājs nodrošina attiecīgās ģeotelpiskās informācijas metadatu veidošanu un to pastāvīgu atjaunināšanu.\n(2) Ministru kabinets nosaka ģeotelpisko datu kopu metadatu obligāto saturu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Ģeodēzisko darbu veicēju sertificēšana",
+      "section": "22",
+      "title": "Ģeodēzisko darbu veicēju sertificēšanas vispārīgie noteikumi",
+      "content": "(1) Ģeodēziskos darbus veic sertificētas personas, kuru civiltiesiskā atbildība par profesionālo darbību ir apdrošināta.\n(2) Sertifikātu ģeodēzisko darbu veicējam izsniedz vai atsaka izsniegt, sertifikāta darbību aptur vai atjauno, sertifikāta darbības termiņu pagarina vai atsaka pagarināt un sertifikātu anulē, sertificēto personu darbības uzraudzību veic, kā arī sertificēto personu kvalifikācijas celšanu nodrošina Ministru kabineta pilnvarota sertificēšanas institūcija.\n(3) (Izslēgta ar 23.11.2016 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Ģeodēzisko darbu veicēju sertificēšana",
+      "section": "23",
+      "title": "Ģeodēzisko darbu veikšanai nepieciešamā sertifikāta izsniegšana, reģistrēšana un sertificēto personu darbības uzraudzība",
+      "content": "(1) Informāciju par sertificētajiem ģeodēzisko darbu veicējiem iekļauj Ģeodēzisko darbu, zemes ierīcības un zemes kadastrālās uzmērīšanas sertificēto personu reģistrā. Ģeodēzisko darbu, zemes ierīcības un zemes kadastrālās uzmērīšanas sertificēto personu reģistru uztur Ministru kabineta pilnvarota sertificēšanas institūcija.\n(2) Sertifikāta izsniegšanas un reģistrēšanas, sertifikāta darbības apturēšanas vai atjaunošanas, sertifikāta darbības termiņa pagarināšanas vai sertifikāta anulēšanas kārtību, sertificēto personu darbības uzraudzības kārtību, civiltiesiskās atbildības apdrošināšanas kārtību, kā arī apdrošināšanas līguma minimālo atbildības limitu nosaka Ministru kabinets.\n(3) Ģeodēzisko darbu veicēju sertifikācijas, sertifikāta darbības termiņa pagarināšanas un sertificēto personu darbības uzraudzības maksas pakalpojumu cenrādi apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanas vispārīgie noteikumi",
+      "section": "24",
+      "title": "Ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšana",
+      "content": "(1) Ģeotelpiskās datu kopas turētājs nodrošina informācijas sniegšanu ar ģeotelpiskās informācijas infrastruktūras starpniecību atbilstoši šajā likumā noteiktajai kārtībai.\n(2) Ģeotelpiskās informācijas turētājs ģeotelpisko informāciju, kā arī ģeotelpiskās informācijas pakalpojumus sniedz, pamatojoties uz iestādes, fiziskās vai juridiskās personas pieprasījumu atbilstoši Iesniegumu likumā un Informācijas atklātības likumā noteiktajai kārtībai, kādā pieprasāma iestādes rīcībā esošā informācija.\n(3) Ģeotelpiskās informācijas turētājs ar ģeotelpiskās informācijas vai ģeotelpiskās informācijas pakalpojuma pieprasītāju var vienoties par pastāvīgu sadarbību tā rīcībā esošās ģeotelpiskās informācijas sniegšanā."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanas vispārīgie noteikumi",
+      "section": "25",
+      "title": "Ģeotelpiskās informācijas turētāju un ģeotelpisko datu kopu turētāju autortiesību aizsardzība",
+      "content": "(1) Autortiesības uz ģeotelpiskās informācijas datubāzi vai tajā ietvertajiem aizsargātajiem darbiem un datubāzes veidotāja tiesību piederību nosaka atbilstoši Autortiesību likumam.\n(2) Ja vien citā normatīvajā aktā nav noteikts citādi, ģeotelpiskās datu kopas izmantotāji ģeotelpiskās datu kopas atkalizmantošanai saņem licenci vai noslēdz licences līgumu ar attiecīgās ģeotelpiskās datu kopas turētāju. Licences vai licences līguma noteikumi var būt iekļauti citos līgumos, kurus noslēdzis ģeotelpiskās datu kopas turētājs un izmantotājs. Šajā licencē vai licences līgumā nedrīkst:\n1) diskriminēt ģeotelpiskās datu kopas izmantotājus;\n2) ietvert tādus ierobežojumus, kas ir pretrunā ar šā likuma 27.panta trešo un ceturto daļu;\n3) ierobežot konkurenci.\n(3) Ja vien citā normatīvajā aktā nav noteikts citādi, ģeotelpiskās datu kopas izmantotāji šīs datu kopas kopīgai izmantošanai noslēdz sadarbības līgumu ar attiecīgās ģeotelpiskās datu kopas turētāju vai starpresoru vienošanos. Sadarbības līgumā vai starpresoru vienošanās tekstā ietver noteikumus par to, kā izmantojamas ģeotelpiskās datu kopas. Šajos noteikumos nedrīkst:\n1) diskriminēt ģeotelpiskās datu kopas izmantotājus;\n2) ietvert tādus ierobežojumus, kas ir pretrunā ar šā likuma 27.panta trešo un ceturto daļu.\n(4) Ja, pildot valsts pārvaldes funkcijas, izmanto ģeotelpiskās informācijas datubāzi un autortiesības uz šo datubāzi vai uz tajā ietvertajiem aizsargātajiem darbiem vai datubāzes veidotāja tiesības ir trešajai personai, citām personām pieeju šādai ģeotelpiskās informācijas datubāzei sniedz, ievērojot šīs datubāzes izmantošanas noteikumus.\n(5) Šā panta ceturtajā daļā minētie datubāzes izmantošanas noteikumi nedrīkst ierobežot ģeotelpiskās informācijas datubāzes izmantotājus tiem noteikto valsts pārvaldes funkciju un uzdevumu izpildē pilnā apmērā.\n(6) Ja vien citā normatīvajā aktā nav noteikts citādi, ģeotelpisko datu kopu izmantotāji, kas ir iesaistīti katastrofu pārvaldīšanā, glābšanas darbos vai ārkārtēju situāciju izraisīto seku likvidēšanā, savlaicīgi nodrošina sev ģeotelpiskās datu kopas turētāja rakstveida atļauju datubāzes izmantošanai kādā no šā panta otrajā un trešajā daļā minētajiem veidiem par attiecīgās ģeotelpiskās datu kopas izmantošanu pēc pieprasījuma katastrofu gadījumos, pastāvot katastrofas draudiem un ārkārtējas situācijas izsludināšanas gadījumā.\n(7) Ģeotelpiskās datu kopas turētājs nodrošina brīvi pieejamu informāciju par attiecīgās ģeotelpiskās datu kopas kopīgas izmantošanas un atkalizmantošanas noteikumiem. Ģeotelpiskās datu kopas izmantošanas noteikumu obligāto saturu un atļaujas saņemšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanas vispārīgie noteikumi",
+      "section": "26",
+      "title": "Maksa par ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanu",
+      "content": "(1) Metadati pieejami bez maksas.\n(2) Ģeotelpiskās informācijas pamatdatu iegūšanu, sagatavošanu un uzturēšanu valsts pārvaldes funkciju un uzdevumu veikšanai nodrošina no valsts vai pašvaldības budžeta līdzekļiem, ja normatīvajos aktos nav noteikts citādi.\n(3) Maksa par augstas detalizācijas topogrāfiskās informācijas pārbaudi, reģistrāciju datubāzē, sagatavošanu un izsniegšanu no šā likuma 13.panta ceturtajā daļā minētās centrālās datubāzes veicama Ministru kabineta noteiktajā kārtībā, bet no vietējās pašvaldības datubāzes — vietējās pašvaldības saistošajos noteikumos paredzētajā kārtībā.\n(4) Augstas detalizācijas topogrāfiskās informācijas apmaiņa starp vietējās pašvaldības datubāzi un centrālo datubāzi notiek bez maksas.\n(5) Ģeotelpiskās datu kopas turētājs nodrošina ģeotelpiskās informācijas sniegšanu atbilstoši piešķirtā valsts vai pašvaldības budžeta finansējuma apmēram.\n(6) Maksu par ģeotelpiskās informācijas atkalizmantošanu un ģeotelpiskās informācijas pakalpojumu nosaka saskaņā ar attiecīgās ģeotelpiskās informācijas turētāja vai ģeotelpiskās informācijas pakalpojuma sniedzēja publisko maksas pakalpojumu cenrādi. Ministru kabinets izdod noteikumus, kuros nosaka ģeotelpiskās informācijas atkalizmantošanas un ģeotelpiskās informācijas pakalpojumu cenrādi un tā piemērošanas kārtību.\n(7) Maksu par ģeotelpiskās informācijas, tai skaitā ģeotelpiskās informācijas pamatdatu, kopīgu izmantošanu vai ģeotelpiskās informācijas pakalpojuma saņemšanu valsts pārvaldes funkciju un uzdevumu izpildei, ja attiecīgās ģeotelpiskās informācijas iegūšanai, sagatavošanai un uzturēšanai vai attiecīgā ģeotelpiskās informācijas pakalpojuma sniegšanai finansējums nav nodrošināts no iestādei šim mērķim piešķirtajiem valsts budžeta līdzekļiem, nosaka saskaņā ar attiecīgās informācijas turētāja vai ģeotelpiskās informācijas pakalpojuma sniedzēja publisko maksas pakalpojumu cenrādi. Ministru kabinets izdod noteikumus, kuros nosaka ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojuma saņemšanas cenrādi un tā piemērošanas kārtību.\n(7 1 ) Vietējā pašvaldība savos saistošajos noteikumos nosaka maksu par tās turējumā esošās ģeotelpiskās informācijas izmantošanu, ģeotelpiskās informācijas pakalpojumiem un maksas piemērošanas kārtību.\n(8) Sniedzot ziņojumu vides jomā Eiropas Kopienas iestādēm un struktūrām normatīvajos aktos noteiktajā kārtībā, ģeotelpisko informāciju nodod bez maksas.\n(9) Kā izņēmums Informācijas atklātības likumā paredzētajiem informācijas atkalizmantošanas nosacījumiem maksa par ģeotelpiskās informācijas atkalizmantošanu nepārsniedz šīs informācijas savākšanas, izgatavošanas, reproducēšanas un izplatīšanas izmaksas.\n(10) Ministru kabinets izdod noteikumus, kuros reglamentē kārtību, kādā veicama samaksa par augstas detalizācijas topogrāfiskās informācijas pārbaudi, reģistrāciju datubāzē, sagatavošanu un izsniegšanu."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "V nodaļa Ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanas vispārīgie noteikumi",
+      "section": "27",
+      "title": "Ģeotelpiskās informācijas sniegšanai noteiktie ierobežojumi",
+      "content": "(1) Ģeotelpiskās informācijas turētājam nav pienākuma radīt jaunu ģeotelpisko informāciju vai pielāgot jau esošo informāciju, lai izpildītu atkalizmantošanas pieprasījumu.\n(2) Ģeotelpiskās informācijas turētājs var neizpildīt atkalizmantošanas pieprasījumu, ja tas saistīts ar resursu nesamērīgu patēriņu, kas pārsniedz vienkāršu informācijas apstrādi.\n(3) Ģeotelpisko datu kopu turētāji var ierobežot sabiedrības piekļuvi ģeotelpisko datu kopām, izmantojot šā likuma 28.panta otrajā daļā minētos pakalpojumus, ja šāda piekļuve negatīvi ietekmē starptautiskās attiecības, sabiedrības drošību vai valsts aizsardzību.\n(4) Ģeotelpisko datu kopu turētāji var ierobežot sabiedrības piekļuvi ģeotelpisko datu kopām, izmantojot šā likuma 28.panta otrās daļas 2., 3., 4. vai 5.punktā minētos pakalpojumus, ja šāda piekļuve negatīvi ietekmē:\n1) valsts vai pašvaldību iestāžu darbības konfidencialitāti, ko paredz normatīvie akti;\n2) tiesas darbību, ikvienas personas tiesības uz taisnīgu tiesu vai arī iespēju valsts iestādei veikt krimināltiesisku vai disciplināru izmeklēšanu;\n3) normatīvajos aktos vai Eiropas Savienības tiesību aktos paredzēto konfidencialitāti attiecībā uz komercinformāciju vai informāciju rūpniecības jomā, lai aizsargātu likumīgas ekonomiskās intereses, tostarp sabiedrības intereses par statistiskās konfidencialitātes un nodokļu slepenības saglabāšanu;\n4) intelektuālā īpašuma tiesības;\n5) ar fizisko personu saistītu datu konfidencialitāti, ja attiecīgā fiziskā persona nav piekritusi izpaust informāciju sabiedrībai;\n6) tādas personas intereses vai aizsardzību, kura brīvprātīgi piegādājusi prasīto ģeotelpisko informāciju bez obligāta pienākuma to darīt vai nepastāvot iespējai, ka tiks uzlikts obligāts pienākums to darīt, ja šī persona nav piekritusi šādas ģeotelpiskās informācijas nodošanai atklātībā;\n7) vides aizsardzību, uz ko attiecas tāda ģeotelpiskā informācija, piemēram, retu sugu atrašanās vietas.\n(5) Ģeotelpisko datu kopu turētāji nedrīkst, pamatojoties uz šā panta ceturtās daļas 1., 3., 5., 6. un 7.punktu, ierobežot piekļuvi informācijai par emisiju vidē.\n(6) Ģeotelpisko informāciju, kas ietver fizisko personu datus, apstrādā, ievērojot fizisko personu datu aizsardzību regulējošos normatīvos aktus.\n(7) Ģeotelpisko datu kopu turētāji, ierobežojot sabiedrības piekļuvi datiem, sniedz motivētu atbildi, norādot konkrētus apstākļus un apsvērumus, kas liedz izsniegt informāciju."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa Ģeotelpiskās informācijas infrastruktūras izveidošana un darbība",
+      "section": "28",
+      "title": "Ģeotelpiskās informācijas infrastruktūra un valsts vienotais ģeoportāls",
+      "content": "(1) Ģeotelpiskās informācijas kopīgai izmantošanai starp iestādēm un ģeotelpiskās informācijas atkalizmantošanai elektroniskā formā izveido ģeotelpiskās informācijas infrastruktūru.\n(2) Lai nodrošinātu ģeotelpiskās informācijas infrastruktūrā ietverto ģeotelpisko datu kopu un to metadatu pieejamību lietotājiem, izveido valsts vienoto ģeoportālu. Ģeoportālā nodrošina vismaz šādus ģeotelpiskās informācijas pakalpojumus:\n1) meklēšanas pakalpojumi, kas, par pamatu ņemot attiecīgo metadatu saturu, nodrošina pieejamo ģeotelpisko datu kopu meklēšanu un metadatu satura parādīšanu;\n2) skatīšanās pakalpojumi, kas ļauj vismaz attēlot, pārvietot, pietuvināt un attālināt skatu, panoramēt vai pārklāt skatāmās ģeotelpiskās datu kopas, kā arī attēlot pieņemtos ģeotelpisko datu kopu apzīmējumus un jebkuru ar tiem saistīto metadatu saturu;\n3) lejupielādes pakalpojumi, kas ļauj lejupielādēt pilnu ģeotelpisko datu kopu vai to daļu kopijas un, ja iespējams, piekļūt tām nepastarpināti;\n4) transformēšanas pakalpojumi, kas ļauj transformēt ģeotelpiskās datu kopas, lai panāktu to nepieciešamo sadarbspēju;\n5) pakalpojumi, kas ļauj nepastarpināti izmantot ģeotelpiskās informācijas pakalpojumus informācijas sistēmās.\n(3) Ģeoportāla pārzinis ir Valsts digitālās attīstības aģentūra. Tās funkcijas un uzdevumus, ģeoportālā ietveramās ģeotelpisko datu kopas, metadatus, kā arī ģeotelpisko datu kopu turētājiem izvirzāmās prasības un viņu pienākumus, lai nodrošinātu ģeotelpisko datu kopu un to metadatu pieejamību ģeoportālā un izmantošanu, kā arī ģeoportālā ietvertās ģeotelpiskās informācijas izmantošanas noteikumus reglamentē Ministru kabinets.\n(4) Ģeotelpiskās informācijas infrastruktūrā iekļautās informācijas kopīgai izmantošanai un atkalizmantošanai, ievērojot šā likuma V nodaļā ietvertos ģeotelpiskās informācijas un ģeotelpiskās informācijas pakalpojumu sniegšanas vispārīgos noteikumus un piemērojot izņēmumus Informācijas atklātības likumā paredzētajiem informācijas atkalizmantošanas nosacījumiem, nosaka šādus noteikumus:\n1) ģeotelpisko datu kopu meklēšana un skatīšanās ģeoportālā, neveicot to lejupielādi, ir bez maksas;\n2) maksu par ģeotelpisko datu kopu skatīšanos ģeoportālā, neveicot to lejupielādi, var pieprasīt par tām ģeotelpiskās informācijas kopām, kuru uzturēšana nav pilnībā nodrošināta no valsts budžeta līdzekļiem un kuru informācijas turētājam nepieciešams nodrošināt liela apjoma un biežu ģeotelpiskās informācijas atjaunināšanu;\n3) ģeotelpisko datu kopu skatīšanās ģeoportālā, neveicot to lejupielādi, var būt ierobežota atkalizmantošanai komerciālos nolūkos."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Ģeotelpiskās informācijas infrastruktūras izveidošana un darbība",
+      "section": "29",
+      "title": "Ģeotelpiskās informācijas sniegšana Eiropas Kopienas ģeoportālam",
+      "content": "(1) Ģeoportāla pārzinis nodrošina ģeoportālā ietverto ģeotelpisko datu kopu un to metadatu pieejamību Eiropas Kopienas ģeoportālam.\n(2) Ģeoportāla pārzinis ievēro Eiropas Kopienas ģeoportālam noteiktās ģeotelpisko datu kopu un metadatu tehniskās specifikācijas un sadarbspējas prasības."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "30",
+      "title": "Ģeotelpiskās informācijas aprite ārkārtējas situācijas, izņēmuma stāvokļa vai mobilizācijas izsludināšanas gadījumā",
+      "content": "(1) Gadījumos, kad izsludināts izņēmuma stāvoklis vai mobilizācija, ģeotelpisko informāciju pēc pieprasījuma bez maksas nodod Nacionālajiem bruņotajiem spēkiem un institūcijām, kas veic civilās aizsardzības plānos noteiktos uzdevumus.\n(2) Katastrofas gadījumā vai ārkārtējas situācijas izsludināšanas gadījumā valsts vai pašvaldību institūcijas ģeotelpisko informāciju par teritoriju, kurā notikusi katastrofa vai izsludināta ārkārtēja situācija, saņem vai lejupielādē no vienotā ģeotelpiskās informācijas portāla bez maksas."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "31",
+      "title": "Latvijas Republikas valsts robežas demarkācijas ģeotelpiskās informācijas aprite",
+      "content": "(1) Ārlietu ministrija atbilstoši savām valsts pārvaldes funkcijām, uzdevumiem un kompetencei un Latvijas Republikai saistošām starptautisko tiesību normām:\n1) plāno un nodrošina pasākumus valsts robežas demarkācijai atbilstoši starpvalstu līgumos noteiktajam;\n2) nodrošina parakstīto valsts robežas demarkācijas dokumentu oriģinālu glabāšanu un kopiju nosūtīšanu kompetentajām institūcijām.\n(2) Latvijas Republikas valsts robežas demarkācijas darbu ietvaros Latvijas Ģeotelpiskās informācijas aģentūra nodrošina starpvalstu līgumos noteikto Latvijas Republikas valsts robežas robežzīmju ģeodēzisko koordinātu noteikšanu un to attēlošanu kartēs."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn1",
+      "title": "1. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 11.panta trešajā daļā, 12.panta ceturtajā daļā, 12.panta astotajā daļā, 15.panta pirmajā daļā, 18.panta pirmajā daļā, 21.panta otrajā daļā, 23.panta otrajā daļā un 26.panta desmitajā daļā minētos noteikumus.",
+      "content": "1. Ministru kabinets līdz 2010.gada 31.decembrim izdod šā likuma 11.panta trešajā daļā, 12.panta ceturtajā daļā, 12.panta astotajā daļā, 15.panta pirmajā daļā, 18.panta pirmajā daļā, 21.panta otrajā daļā, 23.panta otrajā daļā un 26.panta desmitajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn2",
+      "title": "2. Ministru kabinets līdz 2011.gada 30.jūnijam izdod šā likuma 13.panta trešajā daļā un 13.panta piektajā daļā minētos noteikumus.",
+      "content": "2. Ministru kabinets līdz 2011.gada 30.jūnijam izdod šā likuma 13.panta trešajā daļā un 13.panta piektajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn3",
+      "title": "3. Ministru kabinets līdz 2010.gada 15.maijam izdod šā likuma 25.panta septītajā daļā un 28.panta trešajā daļā minētos noteikumus.",
+      "content": "3. Ministru kabinets līdz 2010.gada 15.maijam izdod šā likuma 25.panta septītajā daļā un 28.panta trešajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn4",
+      "title": "4. Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2010.gada 31.decembrim ir piemērojami šādi normatīvie akti:",
+      "content": "1) Latvijas Republikas Ministru padomes lēmums Nr.172 “ Par kartogrāfisko materiālu izdošanas kārtību ”;\n2) Latvijas Republikas Ministru padomes lēmums Nr.213 “ Par pāreju uz Latvijas ģeodēzisko koordinātu sistēmu ”;\n3) Latvijas Republikas Ministru padomes lēmums Nr.484 “Par Nolikumu par valsts ģeodēzisko atbalsta punktu ierīkošanas, uzraudzības un aizsardzības kārtību”;\n4) Latvijas Republikas Ministru padomes 1992.gada 2.jūlija lēmums Nr.254 “ Par dzelzceļa staciju, ostu, lidostu un fiziskās ģeogrāfijas objektu nosaukumu piešķiršanu un pārdēvēšanu ”;\n5) Latvijas Republikas Augstākās padomes 1991.gada 6.jūnija lēmums Nr.257 “ Par fiziskās ģeogrāfijas un citu objektu nosaukumu piešķiršanas un pārdēvēšanas kārtību ”."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn5",
+      "title": "5. Līdz 2007.gada 31.decembrim izsniegtās licences kartogrāfisko darbu veikšanai zaudē spēku šā likuma spēkā stāšanās dienā. Līdz 2007.gada 31.decembrim izsniegtās licences ģeodēzisko darbu veikšanai ir spēkā līdz licencē norādītajam termiņam, bet ne ilgāk kā līdz 2010.gada 31.decembrim.",
+      "content": "5. Līdz 2007.gada 31.decembrim izsniegtās licences kartogrāfisko darbu veikšanai zaudē spēku šā likuma spēkā stāšanās dienā. Līdz 2007.gada 31.decembrim izsniegtās licences ģeodēzisko darbu veikšanai ir spēkā līdz licencē norādītajam termiņam, bet ne ilgāk kā līdz 2010.gada 31.decembrim."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn6",
+      "title": "6. Šā likuma 13.panta sestajā daļā minēto augstas detalizācijas topogrāfiskās informācijas datubāzi izveido vai šā likuma 13.panta septītajā daļā minēto deleģējuma līgumu noslēdz sešu mēnešu laikā no šā likuma spēkā stāšanās dienas.",
+      "content": "6. Šā likuma 13.panta sestajā daļā minēto augstas detalizācijas topogrāfiskās informācijas datubāzi izveido vai šā likuma 13.panta septītajā daļā minēto deleģējuma līgumu noslēdz sešu mēnešu laikā no šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn7",
+      "title": "7. Līdz šā likuma 13.panta trešajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai:",
+      "content": "1) augstas detalizācijas topogrāfisko uzmērīšanu veic saskaņā ar Ministru kabineta 2000.gada 2.maija noteikumiem Nr.168 “Noteikumi par Latvijas būvnormatīvu LBN 005-99 “Inženierizpētes noteikumi būvniecībā”” un uz to pamata izdotajām Valsts zemes dienesta metodikām un atbilstoši vietējo pašvaldību saistošajiem noteikumiem, kuri saskaņoti ar Valsts zemes dienestu;\n2) šā likuma 13.panta sestajā daļā minēto datubāzi vietējā pašvaldība izveido un uztur atbilstoši Ministru kabineta 2000.gada 2.maija noteikumiem Nr.168 “Noteikumi par Latvijas būvnormatīvu LBN 005-99 “Inženierizpētes noteikumi būvniecībā”” un uz to pamata izdotajām Valsts zemes dienesta metodikām. Līdz šā likuma spēkā stāšanās dienai izveidoto augstas detalizācijas topogrāfiskās informācijas datubāzi vietējā pašvaldība uztur atbilstoši tās saistošajiem noteikumiem."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn8",
+      "title": "8. Līdz šā likuma 13.panta piektajā daļā minēto Ministru kabineta noteikumu spēkā stāšanas dienai šā likuma 13.panta ceturtajā daļā minēto centrālo informācijas sistēmu Valsts zemes dienests uztur atbilstoši Ministru kabineta 2000.gada 2.maija noteikumiem Nr.168 “Noteikumi par Latvijas būvnormatīvu LBN 005-99 “Inženierizpētes noteikumi būvniecībā”” un uz to pamata izdotajām Valsts zemes dienesta metodikām, informāciju sakārtojot atsevišķās datnēs atbilstoši 1993.gada topogrāfisko karšu sistēmas mēroga 1 : 1000 karšu lapu nomenklatūrai.",
+      "content": "8. Līdz šā likuma 13.panta piektajā daļā minēto Ministru kabineta noteikumu spēkā stāšanas dienai šā likuma 13.panta ceturtajā daļā minēto centrālo informācijas sistēmu Valsts zemes dienests uztur atbilstoši Ministru kabineta 2000.gada 2.maija noteikumiem Nr.168 “Noteikumi par Latvijas būvnormatīvu LBN 005-99 “Inženierizpētes noteikumi būvniecībā”” un uz to pamata izdotajām Valsts zemes dienesta metodikām, informāciju sakārtojot atsevišķās datnēs atbilstoši 1993.gada topogrāfisko karšu sistēmas mēroga 1 : 1000 karšu lapu nomenklatūrai."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn9",
+      "title": "9. Līdz šā likuma 13.panta piektajā daļā minēto Ministru kabineta noteikumu spēkā stāšanas dienai Valsts zemes dienests par savā rīcībā esošas augstas detalizācijas topogrāfiskās informācijas sākotnēju nodošanu vietējai pašvaldībai par tās teritoriju un vietējā pašvaldība — par augstas detalizācijas topogrāfiskās informācijas regulāru nodošanu Valsts zemes dienestam centrālās datubāzes uzturēšanai noslēdz sadarbības līgumu:",
+      "content": "1) triju mēnešu laikā no šā likuma spēkā stāšanās dienas — ar vietējām pašvaldībām, kuras augstas detalizācijas topogrāfiskās informācijas datubāzi izveidojušas pirms šā likuma spēkā stāšanās dienas;\n2) viena mēneša laikā no augstas detalizācijas topogrāfiskās informācijas datubāzes izveidošanas — ar vietējām pašvaldībām, kuras augstas detalizācijas topogrāfiskās informācijas datubāzi izveido pēc šā likuma spēkā stāšanās dienas."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn10",
+      "title": "10. Šā likuma 9.panta trešā daļa stājas spēkā pēc attiecīgo grozījumu izdarīšanas Latvijas Administratīvo pārkāpumu kodeksā.",
+      "content": "10. Šā likuma 9.panta trešā daļa stājas spēkā pēc attiecīgo grozījumu izdarīšanas Latvijas Administratīvo pārkāpumu kodeksā."
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn11",
+      "title": "11. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas vietējā pašvaldība izdod šā likuma 13.panta sestajā daļā minētos saistošos noteikumus, bet iepriekš izdotie pašvaldības saistošie noteikumi par augstas detalizācijas topogrāfiskās informācijas apriti zaudē spēku.",
+      "content": "11. Sešu mēnešu laikā no šā likuma spēkā stāšanās dienas vietējā pašvaldība izdod šā likuma 13.panta sestajā daļā minētos saistošos noteikumus, bet iepriekš izdotie pašvaldības saistošie noteikumi par augstas detalizācijas topogrāfiskās informācijas apriti zaudē spēku."
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn12",
+      "title": "12. Līdz šā likuma 13.panta sestajā daļā minētās augstas detalizācijas topogrāfiskās informācijas datubāzes izveidošanai vai šā likuma 13.panta septītajā daļā minētā deleģējuma līguma noslēgšanai augstas detalizācijas topogrāfiskās uzmērīšanas informāciju par vietējās pašvaldības administratīvo teritoriju reģistrē, uzkrāj un uzmērīšanas veikšanai nepieciešamos datus izsniedz Valsts zemes dienests, izņemot gadījumu, kad minēto informāciju uztur vietējā pašvaldība atbilstoši tās saistošajiem noteikumiem.",
+      "content": "12. Līdz šā likuma 13.panta sestajā daļā minētās augstas detalizācijas topogrāfiskās informācijas datubāzes izveidošanai vai šā likuma 13.panta septītajā daļā minētā deleģējuma līguma noslēgšanai augstas detalizācijas topogrāfiskās uzmērīšanas informāciju par vietējās pašvaldības administratīvo teritoriju reģistrē, uzkrāj un uzmērīšanas veikšanai nepieciešamos datus izsniedz Valsts zemes dienests, izņemot gadījumu, kad minēto informāciju uztur vietējā pašvaldība atbilstoši tās saistošajiem noteikumiem."
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn13",
+      "title": "13. Ministru kabinets sešu mēnešu laikā no šā likuma spēkā stāšanās dienas izdod šā likuma 10.panta ceturtajā daļā, 12.panta sestajā daļā un 15.panta otrajā daļā minētos noteikumus.",
+      "content": "13. Ministru kabinets sešu mēnešu laikā no šā likuma spēkā stāšanās dienas izdod šā likuma 10.panta ceturtajā daļā, 12.panta sestajā daļā un 15.panta otrajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn14",
+      "title": "14. Šā likuma 25.panta otrā, trešā, ceturtā, piektā, sestā un septītā daļa stājas spēkā 2010.gada 15.maijā. Šā likuma 25.panta normas attiecībā uz teritorijas plānojumu izstrādes procesu tiek piemērotas no 2014.gada 1.janvāra. Līdz 2010.gada 15.maijam noslēgtie līgumi par datubāzes izmantošanu, ja tie nav pretrunā ar šā likuma 25.panta prasībām, ir spēkā attiecīgajā līgumā norādītajā termiņā.",
+      "content": "14. Šā likuma 25.panta otrā, trešā, ceturtā, piektā, sestā un septītā daļa stājas spēkā 2010.gada 15.maijā. Šā likuma 25.panta normas attiecībā uz teritorijas plānojumu izstrādes procesu tiek piemērotas no 2014.gada 1.janvāra. Līdz 2010.gada 15.maijam noslēgtie līgumi par datubāzes izmantošanu, ja tie nav pretrunā ar šā likuma 25.panta prasībām, ir spēkā attiecīgajā līgumā norādītajā termiņā."
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn15",
+      "title": "15. Šā likuma 28.panta pirmā un otrā daļa stājas spēkā 2010.gada 15.maijā.",
+      "content": "15. Šā likuma 28.panta pirmā un otrā daļa stājas spēkā 2010.gada 15.maijā."
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn16",
+      "title": "16. Ministru kabinets līdz 2013.gada 1.augustam izdod šā likuma 17.panta ceturtajā daļā minētos noteikumus.",
+      "content": "( 23.05.2013 . likuma redakcijā, kas stājas spēkā 18.06.2013. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn17",
+      "title": "17. Ģeotelpiskās informācijas pamatdatu iegūšanā, sagatavošanā un uzturēšanā ar 2014.gada 1.decembri izmanto Eiropas Vertikālās atskaites sistēmas realizāciju Latvijas teritorijā.",
+      "content": "( 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn18",
+      "title": "18. Mērniecības darbus, kas uzsākti līdz 2014.gada 1.decembrim, līdz 2015.gada 1.janvārim var pabeigt Baltijas 1977.gada normālo augstumu sistēmā.",
+      "content": "( 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn19",
+      "title": "19. Ja būvniecības dokumentācija izstrādāta Baltijas 1977.gada normālo augstumu sistēmā, tad ar 2014.gada 1.decembri izpildmērījuma plāna piezīmēs jānorāda augstumu sistēma, kurā izstrādāta būvniecības dokumentācija, un augstumu pārrēķinos uz Eiropas Vertikālo atskaites sistēmu izmantotā vērtība.",
+      "content": "( 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn20",
+      "title": "20. Ģeotelpiskās informācijas pamatdatu iegūšanai, sagatavošanai un uzturēšanai izmantotajās informācijas sistēmās un datubāzēs esošo informāciju, kas izteikta Baltijas 1977.gada normālo augstumu sistēmā, līdz 2014.gada 1.decembrim izsaka Eiropas Vertikālajā atskaites sistēmā.",
+      "content": "( 25.09.2014 . likuma redakcijā, kas stājas spēkā 22.10.2014. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn21",
+      "title": "21. Personas, kuras līdz 2018. gada 30. jūnijam kā valsts vai pašvaldību institūciju darbinieki veic ģeodēzisko darbību, bet nav ieguvušas šā likuma 10. panta trešajā daļā noteikto izglītību (redakcijā, kas spēkā no 2018. gada 1. jūlija), ir tiesīgas turpināt ģeodēzisko darbību ne ilgāk kā līdz 2024. gada 30. jūnijam.",
+      "content": "( 17.05.2018 . likuma redakcijā, kas stājas spēkā 01.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn22",
+      "title": "22. Personas, kuras līdz 2018. gada 30. jūnijam veic kartogrāfisko darbību, bet nav ieguvušas šā likuma 10. panta piektajā daļā noteikto izglītību (redakcijā, kas spēkā no 2018. gada 1. jūlija), ir tiesīgas turpināt kartogrāfisko darbību ne ilgāk kā līdz 2024. gada 30. jūnijam.",
+      "content": "( 17.05.2018 . likuma redakcijā, kas stājas spēkā 01.07.2018. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn23",
+      "title": "23. Ģeotelpiskās informācijas pamatdatu iegūšanai, sagatavošanai un uzturēšanai līdz 2026. gada 1. oktobrim var izmantot Latvijas ģeodēzisko koordinātu sistēmu.",
+      "content": "( 20.02.2025 . likuma redakcijā ar grozījumiem, kas izdarīti ar 18.09.2025 . likumu, kas stājas spēkā 01.10.2025. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn24",
+      "title": "24. Ģeotelpiskās informācijas pamatdatu iegūšanai, sagatavošanai un uzturēšanai izmantotajās informācijas sistēmās un datubāzēs esošo informāciju, kas izteikta Latvijas ģeodēzisko koordinātu sistēmā, līdz 2026. gada 1. oktobrim izsaka Eiropas Zemes atskaites sistēmā.",
+      "content": "( 20.02.2025 . likuma redakcijā ar grozījumiem, kas izdarīti ar 18.09.2025 . likumu, kas stājas spēkā 01.10.2025. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "VII nodaļa Ģeotelpiskās informācijas aprites sevišķie noteikumi",
+      "section": "pn25",
+      "title": "25. Līdz 2026. gada 30. septembrim uzsāktos mērniecības darbus var pabeigt Latvijas ģeodēzisko koordinātu sistēmā līdz 2026. gada 31. oktobrim.",
+      "content": "1) Eiropas Parlamenta un Padomes 2007.gada 14.marta direktīvas 2007/2/EK , ar ko izveido Telpiskās informācijas infrastruktūru Eiropas Kopienā (INSPIRE);\n2) Eiropas Parlamenta un Padomes 2003.gada 17.novembra direktīvas 2003/98/EK par valsts sektora informācijas atkalizmantošanu;\n3) Eiropas Parlamenta un Padomes 2003.gada 28.janvāra direktīvas 2003/4/EK par vides informācijas pieejamību sabiedrībai un par Padomes direktīvas 90/313/EEK atcelšanu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ģeodēzija",
+      "definition": "zinātnes un ražošanas nozare, kas pēta Zemes formu un lielumu, kā arī nosaka dabas elementu un cilvēku radītu objektu savstarpējo stāvokli uz Zemes virsmas kādā ar Zemi saistītā koordinātu sistēmā. Ģeodēzijā izmanto Zemes gravitācijas lauka, magnētiskā lauka un citus ģeofizikālos mērījumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeodēziskais punkts",
+      "definition": "apvidū nostiprināta ģeodēziskā zīme, kurai ir pastāvīgs centrs un ir noteikts vismaz viens no šādiem raksturlielumiem: koordinātas, augstums, Zemes gravimetriskā lauka vērtība vai Zemes ģeomagnētiskā lauka vērtība. Punktiem, kas nostiprināti ar grunts zīmēm, var būt virszemes konstrukcija — kupica, norādītājstabs, ģeodēziskais signāls, nožogojums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeodēziskais tīkls",
+      "definition": "ģeodēzisko punktu kopums ar viena veida raksturlielumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeodēziskā atskaites sistēma",
+      "definition": "teorētisks pamatojums koordinātu, augstumu, magnetometriskai un gravimetriskai atskaitei, ko izmanto ģeodēziskajā un kartogrāfiskajā darbībā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskā informācija",
+      "definition": "jebkura informācija, kas tieši vai netieši norāda uz konkrētu atrašanās vietu vai ģeogrāfisko apgabalu, kurā atrodas ģeotelpiskais objekts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas aprite",
+      "definition": "ģeotelpiskās informācijas iegūšana, sagatavošana, apstrāde, uzturēšana, piegāde lietotājiem un izmantošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas atkalizmantošana",
+      "definition": "iestādes rīcībā esošās ģeotelpiskās informācijas izmantošana, ko veic fiziskās vai juridiskās personas komerciāliem vai nekomerciāliem mērķiem, kas nav izmantošanas sākotnējs mērķis, kuram ģeotelpiskā informācija tika iegūta un sagatavota, pildot iestādes uzdevumus. Ģeotelpiskās informācijas apmaiņa starp iestādēm, īstenojot to pārvaldes funkcijas un uzdevumus, nav ģeotelpiskās informācijas atkalizmantošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas infrastruktūra",
+      "definition": "normatīvajos aktos noteiktas ģeotelpisko datu kopas, to metadati, ģeotelpiskās informācijas kopīgas izmantošanas un atkalizmantošanas nosacījumi, ģeotelpiskās informācijas pakalpojumi, informācijas un telekomunikācijas tehnoloģijas, ar kurām nodrošina ģeotelpiskās informācijas apriti un ģeotelpiskās informācijas pakalpojumu sniegšanu, un kārtība, kādā tiek koordinēta un uzraudzīta iesaistīto institūciju darbība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas kopīga izmantošana",
+      "definition": "ģeotelpiskās informācijas aprite starp iestādēm, īstenojot to pārvaldes funkcijas un uzdevumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas pakalpojumi",
+      "definition": "ģeotelpiskās informācijas tehniska apstrāde un citas darbības šīs informācijas aprites nodrošināšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas portāls (turpmāk",
+      "definition": "ģeoportāls) —tīmekļa vietne vai tai pielīdzināms līdzeklis, kas nodrošina pieeju ģeotelpisko datu kopām, pakalpojumiem un metadatiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpiskās informācijas turētājs",
+      "definition": "fiziskā vai juridiskā persona, kura ir attiecīgās ģeotelpiskās informācijas veidotājs, pasūtītājs vai kuras rīcībā ir iestādei noteikto funkciju nodrošinājumam nepieciešamā ģeotelpiskā informācija, kas var būt sakārtota datubāzē, tai skaitā ģeotelpisko datu kopas turētājs",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpisko datu kopa",
+      "definition": "ar noteiktu izmantošanas mērķi izveidota identificējama ģeotelpiskās informācijas datubāze, kurai ir noteikts turētājs un kura ietver atsevišķas nozares ģeotelpiskās informācijas pamatdatus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpisko datu kopas turētājs",
+      "definition": "normatīvajos aktos noteikta atbildīgā institūcija ģeotelpisko datu kopas izveidošanai un uzturēšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpisko datu kopu un pakalpojumu sadarbspēja",
+      "definition": "spēja apvienot ģeotelpisko datu kopas un, nelietojot atkārtotu manuālu iejaukšanos, nodrošināt ģeotelpiskās informācijas pakalpojumu mijiedarbību tādā veidā, ka tiek panākts saskanīgs rezultāts un paaugstināta ģeotelpisko datu kopu un pakalpojumu pievienotā vērtība",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ģeotelpisks objekts",
+      "definition": "abstrakts reālās pasaules atspoguļojums, kas saistīts ar konkrētu atrašanās vietu vai ģeogrāfisko apgabalu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kartogrāfija",
+      "definition": "zinātnes un ražošanas nozare par ģeotelpiskās informācijas iegūšanu un apstrādi ar kartēšanas metodēm, kā arī par karšu un plānu sastādīšanu, izdošanu un lietošanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "metadati",
+      "definition": "strukturēta informācija, kas raksturo ģeotelpisko datu kopas un ģeotelpiskās informācijas pakalpojumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nozare",
+      "definition": "tautsaimniecības nozare, kuras praktiskās darbības nodrošināšanai nepieciešama ģeotelpiskās informācijas iegūšana, sagatavošana, atjaunināšana un izmantošana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ortofoto",
+      "definition": "Zemes virsmas fotogrāfisks attēls, kas pēc apstrādes ar fotogrammetrijas metodēm ieguvis atbilstību kartes vai plāna projekcijas ģeometriskajām īpašībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pamatdati",
+      "definition": "tāds ģeotelpiskās informācijas kopums, kurš sagatavots pēc vienotas specifikācijas un kura sagatavošana un pastāvīga atjaunināšana dod valsts tautsaimniecībai ekonomisku efektu un funkcionāli nodrošina:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pastāvīgo globālās pozicionēšanas bāzes staciju sistēma \"Latvijas Pozicionēšanas sistēma\"",
+      "definition": "valsts ģeodēziskā tīkla sastāvdaļa, kura nodrošina augstas precizitātes koordinātu noteikšanu apvidus objektiem, izmantojot Zemes mākslīgos pavadoņus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tematiskā karte",
+      "definition": "karte, kuras saturs, mērogs, projekcija un noformējums veidots atbilstoši tikai noteiktas nozares (piemēram, ģeoloģijas, tūrisma, nekustamo īpašumu kadastra, transporta) vai konkrēta mērķa (piemēram, aeronavigācijas, jūras navigācijas, teritorijas plānošanas) attēlošanas prasībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "topogrāfiskā karte",
+      "definition": "ģeotelpiskās informācijas attēlojums plaknē ar noteikta veida apzīmējumiem vizuāli uztveramā formā, kurā atbilstoši attēlojuma mērogam ņemta vērā Zemes virsmas liekuma ietekme",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "topogrāfiskais plāns",
+      "definition": "lokāla ģeogrāfiskā apgabala ģeotelpiskās informācijas attēlojums plaknē ar noteikta veida apzīmējumiem vizuāli uztveramā formā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vietvārdu (toponīmu) informācija",
+      "definition": "šā likuma izpratnē: vietvārdi jeb ģeogrāfiskie nosaukumi kopā ar informāciju, kas raksturo vai paskaidro tos, kā arī norāda uz attiecīgo vietvārdu ģeogrāfisko piesaisti konkrētiem objektiem.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

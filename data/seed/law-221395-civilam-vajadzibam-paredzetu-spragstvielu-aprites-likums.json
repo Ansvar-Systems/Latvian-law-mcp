@@ -1,0 +1,319 @@
+{
+  "id": "lv-law-221395",
+  "type": "statute",
+  "title": "Civilām vajadzībām paredzētu sprāgstvielu aprites likums",
+  "title_en": "Law On The Handling Of Explosives For Civil Uses",
+  "short_name": "TA-221395",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/221395-civilam-vajadzibam-paredzetu-spragstvielu-aprites-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) sprāgstvielu un spridzināšanas ietaišu aprite — sprāgstvielu un spridzināšanas ietaišu izgatavošana, marķēšana, realizēšana, iegādāšanās, glabāšana, izmantošana, eksportēšana, importēšana, tranzīts, pārvietošana, pārvadāšana, uzskaitīšana, izņemšana un iznīcināšana;\n2) sprāgstvielu un spridzināšanas ietaišu glabāšana — sprāgstvielu un spridzināšanas ietaišu turēšana atļautā vietā, ievērojot noteiktās prasības;\n3) sprāgstvielu un spridzināšanas ietaišu pārvietošana — sprāgstvielu un spridzināšanas ietaišu pārsūtīšana vai pārvadāšana no vienas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts uz citu Eiropas Savienības dalībvalsti vai Eiropas Ekonomikas zonas valsti;\n4) sprāgstvielu un spridzināšanas ietaišu laišana tirgū — sprāgstvielu un spridzināšanas ietaišu piedāvāšana Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts tirgū pirmo reizi;\n5) sprāgstvielu un spridzināšanas ietaišu piedāvāšana tirgū — komercdarbības ietvaros veikta sprāgstvielu un spridzināšanas ietaišu piegādāšana izplatīšanai vai izmantošanai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts tirgū par atlīdzību vai bez tās;\n6) sprāgstviela — ķīmisks savienojums, ķīmisko savienojumu mehāniski maisījumi vai to šķīdumi, kas ārēju faktoru iedarbībā ātri reaģē, izdalot lielu daudzumu gāzes vai siltumenerģijas;\n7) spridzināšanas ietaise — līdzeklis, kas nodrošina sprādzienu noteiktā vietā un laikā vai konkrētas iedarbības rezultātā (uzspridzināšanas līdzekļi un palaišanas ierīces — detonatori);\n8) ražotājs — fiziskā vai juridiskā persona, kura izstrādā un izgatavo sprāgstvielas un spridzināšanas ietaises vai kuras uzdevumā sprāgstvielas un spridzināšanas ietaises tiek izstrādātas vai izgatavotas un kura laiž šīs sprāgstvielas un spridzināšanas ietaises tirgū ar savu nosaukumu vai preču zīmi vai izmanto savām vajadzībām;\n9) pilnvarotais pārstāvis — fiziskā vai juridiskā persona, kas reģistrēta Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī un ir saņēmusi ražotāja rakstveida pilnvarojumu rīkoties tā vārdā attiecībā uz konkrētiem uzdevumiem šā likuma prasību izpildei;\n10) importētājs — fiziskā vai juridiskā persona, kas ir reģistrēta Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī un laiž Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts tirgū kādas trešās valsts sprāgstvielas un spridzināšanas ietaises;\n11) izplatītājs — piegādes ķēdē iesaistīta fiziskā vai juridiskā persona, kas nav ražotājs vai importētājs un kas piedāvā sprāgstvielas un spridzināšanas ietaises tirgū;\n12) paziņotā institūcija — Latvijas nacionālās akreditācijas institūcijas akreditēta sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcija, kurai ir juridiskās personas statuss un par kuru normatīvajos aktos noteiktajā kārtībā ir paziņots Eiropas Komisijai, vai citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu paziņota sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcija."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis",
+      "content": "Šā likuma mērķis ir noteikt fizisko un juridisko personu tiesības un pienākumus attiecībā uz sprāgstvielu un spridzināšanas ietaišu apriti civilām vajadzībām Latvijā, kā arī sprāgstvielām un spridzināšanas ietaisēm izvirzāmās prasības, lai garantētu sabiedrības drošību, cilvēku veselības, īpašuma un vides aizsardzību, kā arī profesionālo lietotāju drošību."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Likuma darbības joma",
+      "content": "(1) Likums attiecas uz sprāgstvielām un spridzināšanas ietaisēm, kuras par tādām uzskata saskaņā ar Eiropas valstu nolīgumu par bīstamo kravu starptautiskajiem pārvadājumiem ar autotransportu (ADR), Starptautisko jūras bīstamo kravu kodeksu (IMDG kodekss), 1999.gada 3.jūnija Protokola par grozījumiem 1980.gada 9.maija Konvencijā par starptautiskajiem dzelzceļa pārvadājumiem (COTIF) “C” papildinājuma “Noteikumi par bīstamo kravu starptautiskajiem dzelzceļa pārvadājumiem (RID)” pielikumu, Starptautiskās dzelzceļu sadarbības organizācijas 1951.gada 1.novembra Nolīguma par starptautisko dzelzceļa kravu satiksmi (SMGS) 2.pielikumu “Bīstamo kravu pārvadājumu noteikumi”, Konvencijas par starptautisko civilo aviāciju (Čikāgas konvencija) 18.pielikumu “Bīstamu kravu pārvadāšana ar gaisa transportu”, Starptautiskās civilās aviācijas organizācijas (ICAO) Tehnisko instrukciju bīstamo kravu drošai pārvadāšanai ar gaisa transportu (ICAO TI Doc.9284) un kuras ietilpst šajos dokumentos norādītajā bīstamo kravu 1.klasē (izņemot pirotehniskos izstrādājumus un šaujamieroču munīciju).\n(2) Militāro sprāgstvielu un spridzināšanas ietaišu komerciālo apriti nosaka stratēģiskas nozīmes preču apriti reglamentējoši normatīvie akti.\n(3) Uz šaujampulveri likums attiecas tikai daļā par sprāgstvielu izgatavošanu.\n(4) Likums neattiecas uz:\n1) degļiem, kas ir auklveida nedetonējošas aizdedzināšanas ietaises;\n2) Bikforda auklām, kas sastāv no smalkgraudaina melna pulvera serdeņa, ko ietver elastīgs austs materiāls ar vienu vai vairākiem ārējiem aizsargapvalkiem, un kas, tās aizdedzinot, ar iepriekš noteiktu ātrumu pakāpeniski deg bez ārējas uzliesmošanas;\n3) aizdedzes kapselēm, kas sastāv no metāla vai plastmasas uzmavas, kura satur nelielu daudzumu ar uzsitienu viegli aizdedzināma sprādzienbīstama maisījuma un kuru izmanto kājnieku ieroču patronās vai detonatorkapselēs lādiņa izsišanai."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Aizliegumi",
+      "content": "(1) Latvijā ir aizliegta:\n1) Latvijai saistošos starptautiskajos līgumos aizliegto sprāgstvielu un spridzināšanas ietaišu aprite, izņemot to izņemšanu un iznīcināšanu;\n2) tādu sprāgstvielu un spridzināšanas ietaišu realizēšana tirgū, kurām nav veikta atbilstības novērtēšana saskaņā ar šo likumu;\n3) drošības pamatprasībām neatbilstošu sprāgstvielu un spridzināšanas ietaišu aprite;\n4) nemarķētu sprāgstvielu un spridzināšanas ietaišu aprite.\n(2) Fiziskajām personām ir aizliegts izgatavot, iegādāties, glabāt, nēsāt, realizēt, pārsūtīt, pārvadāt un izmantot sprāgstvielas, spridzināšanas ietaises un to sastāvdaļas.\n(3) Juridiskajām personām ir aizliegts izgatavot, iegādāties, glabāt, realizēt, pārsūtīt, pārvadāt un izmantot sprāgstvielas un spridzināšanas ietaises.\n(4) Šā panta otrajā un trešajā daļā noteiktie aizliegumi neattiecas uz komersantiem, kuriem izsniegta speciālā atļauja (licence) komercdarbībai ar sprāgstvielām un spridzināšanas ietaisēm, un valsts institūcijām, kurām tiesības iegādāties un savā darbībā izmantot sprāgstvielas un spridzināšanas ietaises piešķirtas saskaņā ar likumu, kā arī uz minēto komersantu un valsts institūciju darbiniekiem, kuri veic attiecīgās darbības ar sprāgstvielām un spridzināšanas ietaisēm, pildot darba pienākumus."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "II nodaļa Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana, marķēšana un drošības pamatprasības",
+      "section": "5",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana",
+      "content": "(1) Pirms sprāgstvielas un spridzināšanas ietaises laišanas tirgū ražotājs nodrošina, ka tiek veikta sprāgstvielas un spridzināšanas ietaises atbilstības novērtēšana.\n(2) Sprāgstvielu un spridzināšanas ietaišu atbilstību novērtē paziņotā institūcija atbilstoši normatīvajiem aktiem, kas nosaka sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas prasības."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana, marķēšana un drošības pamatprasības",
+      "section": "6",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcijas un tām izvirzāmās prasības",
+      "content": "(1) Ekonomikas ministrija atbilstības novērtēšanu reglamentējošos normatīvajos aktos noteiktajā kārtībā paziņo Eiropas Komisijai, Eiropas Savienības dalībvalstīm un Eiropas Ekonomikas zonas valstīm par sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcijām.\n(2) Ja atbilstības novērtēšanas institūciju paziņošanas komisijas rīcībā ir informācija, ka paziņotā institūcija vairs neatbilst tai noteiktajām prasībām vai nepilda savus pienākumus, šī komisija ir tiesīga pieņemt lēmumu par paziņotās institūcijas statusa ierobežošanu, apturēšanu vai atsaukšanu, un Ekonomikas ministrija par to informē Eiropas Komisiju, Eiropas Savienības dalībvalstis un Eiropas Ekonomikas zonas valstis.\n(3) Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcijai izvirzāmās prasības nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana, marķēšana un drošības pamatprasības",
+      "section": "7",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu marķēšana",
+      "content": "(Izslēgts ar 10.03.2016 . likumu, kas stājas spēkā 20.04.2016. )"
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "II nodaļa Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana, marķēšana un drošības pamatprasības",
+      "section": "7.1",
+      "title": "7. 1 pants. Ražotāja, tā pilnvarotā pārstāvja, importētāja un izplatītāja pienākumi",
+      "content": "Ražotāja, tā pilnvarotā pārstāvja, importētāja un izplatītāja pienākumus nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana, marķēšana un drošības pamatprasības",
+      "section": "8",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas un marķēšanas kārtība",
+      "content": "Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas un marķēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšana, marķēšana un drošības pamatprasības",
+      "section": "9",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu drošības pamatprasības",
+      "content": "Sprāgstvielām un spridzināšanas ietaisēm izvirzāmās drošības pamatprasības nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa Komercdarbības licencēšana",
+      "section": "10",
+      "title": "Speciālās atļaujas (licences)",
+      "content": "(1) Lai nodarbotos ar spridzināšanas darbu veikšanu, sprāgstvielu un spridzināšanas ietaišu izgatavošanu, realizēšanu, eksportu, importu, tranzītu vai pārvietošanu, ir nepieciešama speciālā atļauja (licence).\n(2) Šā panta pirmajā daļā minētās speciālās atļaujas (licences) izsniedz Valsts policija, kas šim nolūkam izveido licencēšanas komisiju ne mazāk kā piecu cilvēku sastāvā.\n(3) Valsts policijas licencēšanas komisija izsniedz šādas speciālās atļaujas (licences):\n1) speciālo atļauju (licenci) spridzināšanas darbu veikšanai, kura dod tiesības veikt spridzināšanas darbus, kā arī iegādāties un glabāt spridzināšanas darbu veikšanai nepieciešamās sprāgstvielas un spridzināšanas ietaises;\n2) speciālo atļauju (licenci) sprāgstvielu un spridzināšanas ietaišu realizēšanai, kura dod tiesības realizēt sprāgstvielas un spridzināšanas ietaises, kā arī nodarboties ar sprāgstvielu un spridzināšanas ietaišu pārvietošanu, eksportu, importu un tranzītu;\n3) speciālo atļauju (licenci) sprāgstvielu un spridzināšanas ietaišu izgatavošanai, kura dod tiesības nodarboties ar sprāgstvielu un spridzināšanas ietaišu izgatavošanu, realizēšanu, pārvietošanu, eksportu, importu un tranzītu.\n(4) Komersants saņem speciālās atļaujas (licences) dublikātu, ja speciālā atļauja (licence) ir bojāta, nozaudēta vai nozagta, un atkārtotu speciālo atļauju (licenci), ja mainījušies speciālajā atļaujā (licencē) norādītie dati par komersantu vai ierīkota cita sprāgstvielu un spridzināšanas ietaišu izgatavošanas, glabāšanas vai realizācijas vieta.\n(5) Par speciālās atļaujas (licences), tās dublikāta un atkārtotas speciālās atļaujas (licences) izsniegšanu maksājama valsts nodeva.\n(6) Ziņas par speciālajām atļaujām (licencēm), licencēto komersantu vadītājiem un personām, kuras ieņem amatus komersantu pārvaldes institūcijās, kā arī par darbiniekiem, uz kuriem attiecas šajā likumā paredzētie ierobežojumi, reģistrē Valsts policija Iekšlietu ministrijas Informācijas centra licenču un sertifikātu reģistrā. Reģistrējamo ziņu apjomu, iekļaušanas, izmantošanas un dzēšanas kārtību, kā arī institūcijas, kurām piešķirama piekļuve šajā reģistrā iekļautajām ziņām, nosaka Ministru kabinets.\n(7) Prasības speciālās atļaujas (licences) saņemšanai un speciālās atļaujas (licences) darbības laikā pildāmās prasības, kārtību, kādā komersantam izsniedz speciālo atļauju (licenci), tās dublikātu vai atkārtotu speciālo atļauju (licenci), anulē speciālo atļauju (licenci), aptur speciālās atļaujas (licences) darbību, kā arī par speciālās atļaujas (licences), tās dublikāta un atkārtotas speciālās atļaujas (licences) izsniegšanu maksājamās valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Komercdarbības licencēšana",
+      "section": "11",
+      "title": "Speciālās atļaujas (licences) izsniegšanas ierobežojumi",
+      "content": "(1) Speciālās atļaujas (licences) izsniedz individuālajiem komersantiem un komercsabiedrībām, ja uz attiecīgo individuālo komersantu vai personām, kuras ieņem amatus komersanta pārvaldes institūcijās, un komersanta darbiniekiem, kas tieši saistīti ar sprāgstvielu un spridzināšanas ietaišu izgatavošanu, glabāšanu, uzskaiti, realizēšanu vai spridzināšanas darbu veikšanu, neattiecas šā panta otrajā daļā noteiktie ierobežojumi.\n(2) Speciālo atļauju (licenci) aizliegts izsniegt komersantam:\n1) ja individuālais komersants vai persona, kura ieņem amatu komersanta pārvaldes institūcijā, vai komersanta darbinieks, kas tieši saistīts ar sprāgstvielu un spridzināšanas ietaišu izgatavošanu, glabāšanu, realizēšanu vai spridzināšanas darbu veikšanu:\na) ir sodīts par noziedzīga nodarījuma izdarīšanu, — pirms sodāmības dzēšanas vai noņemšanas,\nb) ir notiesāts par noziedzīga nodarījuma izdarīšanu, atbrīvojot no soda, — kamēr nav pagājis gads pēc nolēmuma par atbrīvošanu no soda stāšanās spēkā,\nc) ir atbrīvots no kriminālatbildības, — kamēr nav pagājis gads pēc attiecīgā lēmuma stāšanās spēkā,\nd) ir nosacīti atbrīvots no kriminālatbildības, — kamēr nav pagājis pārbaudes laiks,\ne) tiek turēts aizdomās vai apsūdzēts par noziedzīga nodarījuma izdarīšanu,\nf) ir administratīvi sodīts par sprāgstvielu un spridzināšanas ietaišu aprites noteikumu pārkāpumu, alkoholisko dzērienu, narkotisko vai citu apreibinošo vielu iespaidā izdarītiem pārkāpumiem, par atteikšanos no medicīniskās pārbaudes alkohola koncentrācijas noteikšanai, no narkotisko vai citu apreibinošo vielu ietekmes pārbaudes, par sīko huligānismu vai par ļaunprātīgu nepakļaušanos policijas iestādes darbinieka, robežsarga vai zemessarga likumīgam rīkojumam vai prasībai, — kamēr nav pagājis gads pēc administratīvā soda izpildes,\ng) ir persona, kurai diagnosticēti psihiski traucējumi,\nh) ir persona, kurai diagnosticēta alkohola, narkotisko, psihotropo vai toksisko vielu atkarība,\ni) ir persona, par kuru Valsts policijas vai valsts drošības iestāžu rīcībā ir likumā noteiktajā kārtībā iegūtas un pārbaudītas ziņas, kas liecina par šīs personas piederību pie aizliegtiem militarizētiem vai bruņotiem formējumiem, politiskajām partijām vai sabiedriskajām organizācijām (biedrībām), to apvienībām vai kustībām, kuras uzsākušas publisko darbību pirms to reģistrācijas vai turpina darbību pēc tam, kad tā ir apturēta vai izbeigta ar tiesas nolēmumu, kā arī par piederību pie organizētās noziedzības grupām;\n2) kuram anulēta speciālā atļauja (licence) komercdarbībai ar sprāgstvielām un spridzināšanas ietaisēm vai komercdarbībai ar ieročiem, munīciju, speciālajiem līdzekļiem vai pirotehniskiem izstrādājumiem, — kamēr nav pagājis gads pēc tās anulēšanas;\n3) kura dalībnieks ir juridiskā persona, kam pēdējā gada laikā anulēta speciālā atļauja (licence) komercdarbībai ar sprāgstvielām un spridzināšanas ietaisēm vai komercdarbībai ar ieročiem, munīciju, speciālajiem līdzekļiem vai pirotehniskiem izstrādājumiem;\n4) kura dalībnieks vai kura pārvaldes institūcijas amatpersona ir fiziskā persona, kura bijusi tāds individuālais komersants vai komersanta dalībnieks, kam pēdējā gada laikā anulēta speciālā atļauja (licence) komercdarbībai ar sprāgstvielām un spridzināšanas ietaisēm vai komercdarbībai ar ieročiem, munīciju, speciālajiem līdzekļiem vai pirotehniskiem izstrādājumiem, vai kura ieņēma amatu šāda komersanta pārvaldes institūcijā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Komercdarbības licencēšana",
+      "section": "12",
+      "title": "Speciālās atļaujas (licences) darbības apturēšana un anulēšana",
+      "content": "(1) Speciālās atļaujas (licences) darbību var apturēt Valsts policija uz laiku līdz 60 dienām, ja:\n1) ir pamats uzskatīt, ka komersanta darbība apdraud valsts drošību, stabilitāti, starptautisko saistību izpildi, sabiedrisko drošību vai kārtību, vidi, cilvēku dzīvību, veselību vai mantu, — lai veiktu pārbaudi un saņemtu kompetentu institūciju atzinumus;\n2) komersants ir pārkāpis sprāgstvielu un spridzināšanas ietaišu izgatavošanas, realizēšanas, glabāšanas, uzskaites, izmantošanas vai pārvietošanas noteikumus, — lai pārtrauktu un novērstu pārkāpumu.\n(2) Valsts policijas licencēšanas komisija ir tiesīga anulēt speciālo atļauju (licenci), ja:\n1) konstatēti šā likuma 11.pantā noteiktie speciālās atļaujas (licences) izsniegšanas ierobežojumi;\n2) ir atklājušies fakti, ka komersanta darbība apdraud valsts drošību, stabilitāti, starptautisko saistību izpildi, sabiedrisko drošību vai kārtību, vidi, cilvēku dzīvību, veselību vai mantu;\n3) komersants noteiktajā termiņā nav novērsis šā panta pirmās daļas 2.punktā minēto pārkāpumu;\n4) komersants speciālās atļaujas (licences) saņemšanai apzināti sniedzis nepatiesas ziņas;\n5) komersantu likvidē vai tā darbību aptur uz laiku, ilgāku par 60 dienām."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa Komercdarbības licencēšana",
+      "section": "13",
+      "title": "Lēmuma pārsūdzēšana",
+      "content": "Lēmumu par atteikumu izsniegt speciālo atļauju (licenci), par speciālās atļaujas (licences) darbības apturēšanu vai speciālās atļaujas (licences) anulēšanu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma par speciālās atļaujas (licences) darbības apturēšanu vai anulēšanu apstrīdēšana un pārsūdzēšana neaptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "14",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu izgatavošana",
+      "content": "(1) Komersants, kas saņēmis speciālo atļauju (licenci) sprāgstvielu un spridzināšanas ietaišu izgatavošanai, var izgatavot sprāgstvielas un spridzināšanas ietaises, ievērojot šādus nosacījumus:\n1) sprāgstvielas un spridzināšanas ietaises izgatavo īpaši ierīkotā vietā, kuras adrese norādīta speciālajā atļaujā (licencē);\n2) sprāgstvielu un spridzināšanas ietaišu izejvielas glabā tādos apstākļos, kuros tās nav pieejamas citām personām;\n3) sprāgstvielu un spridzināšanas ietaišu izgatavošanas vietā nodrošina tādus apstākļus, kas nepieļauj vides, cilvēku dzīvības, veselības vai mantas apdraudējumu.\n(2) Sprāgstvielas izgatavo tā, lai, izmantojot atbilstošas metodes, tās var izlietot tādā veidā, kas samazina ietekmi uz vidi."
+    },
+    {
+      "provision_ref": "Art. 14.1",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "14.1",
+      "title": "14. 1 pants. Sprāgstvielu un spridzināšanas ietaišu piedāvāšana tirgū",
+      "content": "(1) Sprāgstvielas un spridzināšanas ietaises laiž tirgū tikai tad, ja tās atbilst drošuma pamatprasībām, ir glabātas un marķētas atbilstoši sprāgstvielām un spridzināšanas ietaisēm normatīvajos aktos noteiktajām prasībām, tām ir pievienotas lietošanas instrukcijas un drošuma informācija valsts valodā, ir pieejama atbilstoša tehniskā dokumentācija un sagatavota Eiropas Savienības atbilstības deklarācija, kā arī veikta atbilstības novērtēšana un tas ir apliecināts ar Eiropas atbilstības zīmes CE marķējumu un ja, izmantojot paredzētajam mērķim, tās neapdraud cilvēku veselību un drošību.\n(2) Sprāgstvielas un spridzināšanas ietaises piedāvā tirgū tikai tad, ja tiek ievērotas šā likuma prasības."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "15",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu realizēšana",
+      "content": "Komersants, kas saņēmis speciālo atļauju (licenci) sprāgstvielu un spridzināšanas ietaišu realizēšanai, sprāgstvielas un spridzināšanas ietaises realizē, ievērojot šādus nosacījumus:\n1) sprāgstvielas un spridzināšanas ietaises realizē tikai īpaši ierīkotās telpās, kuru adrese norādīta speciālajā atļaujā (licencē);\n2) sprāgstvielas un spridzināšanas ietaises realizē juridiskajām personām, kuras saņēmušas šā likuma 10.pantā minēto speciālo atļauju (licenci), vai valsts institūcijām, kurām ar likumu piešķirtas tiesības iegādāties, glabāt un savā darbībā izmantot sprāgstvielas vai spridzināšanas ietaises."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "16",
+      "title": "Spridzināšanas darbu veikšana",
+      "content": "(1) Komersants, kas saņēmis speciālo atļauju (licenci) spridzināšanas darbu veikšanai, spridzināšanas darbus veic, ievērojot šādus nosacījumus:\n1) spridzināšanas darbus veikt uzdod darbiniekam, kurš saņēmis spridzinātāja sertifikātu šajā likumā noteiktajā kārtībā;\n2) spridzināšanas darbus vadīt uzdod darbiniekam, kurš saņēmis spridzināšanas darbu vadītāja sertifikātu šajā likumā noteiktajā kārtībā;\n3) veicot spridzināšanas darbus, nodrošina tādus apstākļus, kas nepieļauj vides, cilvēku dzīvības, veselības vai mantas apdraudējumu.\n(2) Spridzināšanas darbu saskaņošanas un veikšanas kārtību, kā arī šo darbu veikšanas ierobežojumus nosaka Ministru kabinets.\n(3) Ja spridzināšanas darbi veicami derīgo izrakteņu ieguves vietās, par spridzināšanas darbu projekta saskaņošanu maksājama valsts nodeva. Valsts nodevas apmēru un maksāšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "17",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu iegādāšanās",
+      "content": "Komersantam ir tiesības iegādāties sprāgstvielas un spridzināšanas ietaises un rīkoties ar tām atbilstoši speciālajā atļaujā (licencē) norādītajam darbības veidam."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "18",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu glabāšana",
+      "content": "(1) Komersants glabā sprāgstvielas un spridzināšanas ietaises īpaši ierīkotā noliktavā, kuras adrese norādīta speciālajā atļaujā (licencē).\n(2) Komersants sprāgstvielas un spridzināšanas ietaises glabā, ievērojot šādus nosacījumus:\n1) sprāgstvielas un spridzināšanas ietaises glabā atļautajā glabāšanas vietā un tādā daudzumā, kas nepārsniedz speciālajā atļaujā (licencē) norādīto daudzumu;\n2) sprāgstvielas un spridzināšanas ietaises glabā tādos apstākļos, kuros tās nav pieejamas citām personām;\n3) sprāgstvielu un spridzināšanas ietaišu glabāšanas vietā nodrošina tādus apstākļus, kas nepieļauj vides, cilvēku dzīvības, veselības vai mantas apdraudējumu.\n(3) Komersantam aizliegts glabāt sprāgstvielas un spridzināšanas ietaises, kurām nav atbilstības novērtējuma apliecinājuma, kuras nav marķētas un neatbilst drošības pamatprasībām. Šis aizliegums neattiecas uz sprāgstvielu un spridzināšanas ietaišu izgatavotāju, kas tās izmanto izpētei, attīstīšanai un pārbaudei, ja uz izstrādājuma vai tā iesaiņojuma ir skaidra norāde par šādu neatbilstību un izgatavošanas nolūku.\n(4) Komersantam aizliegts uzdot veikt sprāgstvielu un spridzināšanas ietaišu saņemšanu, izsniegšanu, glabāšanu un uzskaiti darbiniekam, kurš nav saņēmis spridzinātāja sertifikātu šajā likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "19",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu izgatavošanas, iegādāšanās, glabāšanas un realizēšanas kārtība",
+      "content": "Sprāgstvielu un spridzināšanas ietaišu izgatavošanas, iegādāšanās, glabāšanas un realizēšanas kārtību un ierobežojumus nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "20",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu pārvadāšana, pārvietošana, eksports, imports un tranzīts",
+      "content": "(1) Sprāgstvielu un spridzināšanas ietaišu pārvietošanas, eksporta, importa un tranzīta darījumam saskaņā ar Stratēģiskas nozīmes preču aprites likumu ir nepieciešama stratēģiskas nozīmes preču eksporta, importa un tranzīta licence un iepriekšējās piekrišanas dokuments sprāgstvielu pārvietošanai starp Eiropas Savienības dalībvalstīm un Eiropas Ekonomikas zonas valstīm.\n(2) Prasības, kas komersantam pildāmas sprāgstvielu un spridzināšanas ietaišu pārvadāšanā, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "21",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu uzskaite",
+      "content": "(1) Komersantam ir pienākums nodrošināt sprāgstvielu un spridzināšanas ietaišu uzskaiti.\n(2) Ministru kabinets nosaka sprāgstvielu un spridzināšanas ietaišu uzskaites kārtību.\n(3) Komersants atbild par sprāgstvielu un spridzināšanas ietaišu uzskaites kārtības ievērošanu un nodrošina sprāgstvielu un spridzināšanas ietaišu legālu apriti."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "22",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu izņemšana un iznīcināšana",
+      "content": "(1) Sprāgstvielas un spridzināšanas ietaises izņem Valsts policija:\n1) ja sprāgstvielām un spridzināšanas ietaisēm nav veikta atbilstības novērtēšana, tās nav marķētas vai neatbilst drošības pamatprasībām;\n2) ja beidzies speciālās atļaujas (licences) derīguma termiņš, tās darbība apturēta vai speciālā atļauja (licence) ir anulēta;\n3) saskaņā ar tiesas nolēmumu.\n(2) Sprāgstvielas un spridzināšanas ietaises iznīcina Nacionālie bruņotie spēki:\n1) pēc valsts iestāžu pieprasījuma;\n2) pēc sprāgstvielu un spridzināšanas ietaišu īpašnieka lūguma, ja sprāgstvielas un spridzināšanas ietaises kļuvušas nedrošas vai nederīgas lietošanai;\n3) saskaņā ar tiesas nolēmumu.\n(3) Sprāgstvielu un spridzināšanas ietaišu izņemšanas un iznīcināšanas kārtību nosaka Ministru kabinets.\n(4) Kārtību, kādā maksājama valsts nodeva par sprāgstvielu un spridzināšanas ietaišu iznīcināšanu pēc īpašnieka lūguma, un šīs nodevas apmēru nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "IV nodaļa Sprāgstvielu un spridzināšanas ietaišu aprites noteikumi",
+      "section": "23",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu paraugu iesniegšana",
+      "content": "(1) Komersantam ir pienākums iesniegt Valsts policijai Latvijā ievesto sprāgstvielu un spridzināšanas ietaišu, kā arī spridzināšanas darbos izmantojamo maisījumu paraugus. Tos iekļauj Valsts policijas salīdzinošo paraugu kolekcijā.\n(2) Kārtību, kādā komersants iesniedz Valsts policijai Latvijā ievesto sprāgstvielu un spridzināšanas ietaišu, kā arī spridzināšanas darbos izmantojamo maisījumu paraugus, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "V nodaļa Spridzinātāja un spridzināšanas darbu vadītāja sertificēšana",
+      "section": "24",
+      "title": "Spridzinātāja sertifikāts un spridzināšanas darbu vadītāja sertifikāts",
+      "content": "(1) Lai fiziskā persona būtu pilnvarota rīkoties ar sprāgstvielām un spridzināšanas ietaisēm šajā likumā noteiktajā kārtībā, tā saņem spridzinātāja sertifikātu, kas apliecina personas profesionālo kompetenci spridzināšanas darbu veikšanā.\n(2) Lai fiziskā persona būtu pilnvarota vadīt spridzināšanas darbus, tā saņem spridzināšanas darbu vadītāja sertifikātu, kas apliecina personas profesionālo kompetenci spridzināšanas darbu vadīšanā.\n(3) Ja persona spridzinātāja sertifikātu vai spridzināšanas darbu vadītāja sertifikātu vai tiem pielīdzināmu personas profesionālo kompetenci apliecinošu dokumentu saņēmusi ārvalstī un tas ir atzīts likumā “Par reglamentētajām profesijām un profesionālās kvalifikācijas atzīšanu” noteiktajā kārtībā, tai ir tādas pašas tiesības kā šā panta pirmajā vai otrajā daļā minētajām personām.\n(4) Spridzinātāja sertifikātu ir tiesīgas saņemt vismaz 18 gadu vecumu sasniegušas personas, kuras apguvušas atbilstošu profesionālās pilnveides programmu un nokārtojušas kvalifikācijas pārbaudījumu, ja uz tām neattiecas šā likuma 11.panta otrās daļas 1.punktā noteiktie ierobežojumi.\n(5) Spridzināšanas darbu vadītāja sertifikātu ir tiesīgas saņemt vismaz 21 gada vecumu sasniegušas personas, kuras izglītības iestādē ieguvušas kalnu inženiera kvalifikāciju vai kuras apguvušas atbilstošu profesionālās pilnveides programmu un nokārtojušas kvalifikācijas pārbaudījumu, ja uz tām neattiecas šā likuma 11.panta otrās daļas 1.punktā noteiktie ierobežojumi.\n(6) Spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta derīguma termiņš ir pieci gadi.\n(7) Par spridzinātāja sertifikāta vai spridzināšanas darbu vadītāja sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu maksājama valsts nodeva.\n(8) Spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta izsniegšanas kārtību, par spridzinātāja sertifikāta vai spridzināšanas darbu vadītāja sertifikāta, tā dublikāta un atkārtota sertifikāta izsniegšanu maksājamās valsts nodevas apmēru un maksāšanas kārtību, kā arī institūciju, kas pieņem spridzinātāja un spridzināšanas darbu vadītāja kvalifikācijas pārbaudījumu, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "V nodaļa Spridzinātāja un spridzināšanas darbu vadītāja sertificēšana",
+      "section": "25",
+      "title": "Spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta anulēšana",
+      "content": "(1) Valsts policija anulē spridzinātāja sertifikātu un spridzināšanas darbu vadītāja sertifikātu personai, uz kuru attiecas šā likuma 11.panta otrās daļas 1.punktā noteiktie ierobežojumi.\n(2) Spridzinātāja sertifikāta un spridzināšanas darbu vadītāja sertifikāta anulēšanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "V nodaļa Spridzinātāja un spridzināšanas darbu vadītāja sertificēšana",
+      "section": "26",
+      "title": "Spridzinātāju sertifikātu un spridzināšanas darbu vadītāju sertifikātu uzskaite",
+      "content": "(1) Ziņas par spridzinātāju sertifikātiem un spridzināšanas darbu vadītāju sertifikātiem reģistrē Valsts policija Iekšlietu ministrijas Informācijas centra licenču un sertifikātu reģistrā.\n(2) Iekšlietu ministrijas Informācijas centra licenču un sertifikātu reģistrā reģistrējamo ziņu apjomu, iekļaušanas, izmantošanas un dzēšanas kārtību, kā arī institūcijas, kurām piešķirama piekļuve šajā reģistrā iekļautajām ziņām, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "27",
+      "title": "Zaudējumu atlīdzināšanas pienākums",
+      "content": "Komersantam, kas saņēmis šā likuma 10.pantā minēto speciālo atļauju (licenci), ir pienākums atlīdzināt trešajām personām zaudējumus, ko tas nodarījis ar savu darbību vai bezdarbību."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "28",
+      "title": "Civiltiesiskās atbildības apdrošināšana",
+      "content": "(1) Komersantam, kas saņēmis šā likuma 10.pantā minēto speciālo atļauju (licenci), ir pienākums apdrošināt civiltiesisko atbildību par savas darbības vai bezdarbības dēļ nodarīto kaitējumu trešo personu dzīvībai un veselībai un nodarītajiem zaudējumiem trešo personu mantai, kā arī par obligātās civiltiesiskās apdrošināšanas esamību informēt speciālās atļaujas (licences) izsniedzēju.\n(2) Trešās personas mantai nodarītie zaudējumi tiek novērtēti, ievērojot kompensācijas principu atbilstoši likumam “Par apdrošināšanas līgumu”. Apdrošināšanas atlīdzības apmērs tiek noteikts, pusēm vienojoties.\n(3) Ja, iestājoties apdrošināšanas gadījumam, zaudējumi ir nodarīti vairākām personām un to apmērs pārsniedz apdrošināšanas līgumā (polisē) noteikto atbildības limitu, apdrošināšanas atlīdzība tiek aprēķināta katram prasītājam proporcionāli viņam nodarītajiem zaudējumiem tādā apmērā, lai kopējā izmaksājamā atlīdzība nepārsniegtu apdrošināšanas līgumā (polisē) vienam apdrošināšanas gadījumam norādīto atbildības limitu.\n(4) Civiltiesiskās atbildības apdrošināšanas kārtību un limitu nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "29",
+      "title": "Sprāgstvielu un spridzināšanas ietaišu aprites kontrole",
+      "content": "(1) Valsts policija un Valsts ieņēmumu dienesta muitas iestādes kontrolē, lai tirgū tiktu realizētas tikai tādas sprāgstvielas un spridzināšanas ietaises, kurām ir atbilstības novērtējuma apliecinājums, Eiropas atbilstības zīmes CE marķējums un īpašais marķējums.\n(2) Valsts policija, Drošības policija, Valsts ugunsdzēsības un glābšanas dienests un Valsts vides dienests atbilstoši savai kompetencei kontrolē sprāgstvielu un spridzināšanas ietaišu izgatavošanas, realizēšanas, glabāšanas un pārvadāšanas noteikumu ievērošanu."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "pn1",
+      "title": "1. (Izslēgts ar 31.01.2013 . likumu, kas stājas spēkā 21.02.2013. )",
+      "content": "1. (Izslēgts ar 31.01.2013 . likumu, kas stājas spēkā 21.02.2013. )"
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "pn2",
+      "title": "2. Speciālās atļaujas (licences) un reģistrācijas apliecības komercdarbībai ar sprāgstvielām, kas izsniegtas līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz to derīguma termiņa beigām. Speciālo atļauju (licenci) komersanti pieprasa 30 dienas pirms speciālajā atļaujā (licencē) norādītā derīguma termiņa beigām. Šādā gadījumā speciālās atļaujas (licences) izsniegšanai valsts nodeva tiek piemērota tādā apmērā, kāds paredzēts par atkārtotas atļaujas (licences) izsniegšanu.",
+      "content": "2. Speciālās atļaujas (licences) un reģistrācijas apliecības komercdarbībai ar sprāgstvielām, kas izsniegtas līdz šā likuma spēkā stāšanās dienai, ir spēkā līdz to derīguma termiņa beigām. Speciālo atļauju (licenci) komersanti pieprasa 30 dienas pirms speciālajā atļaujā (licencē) norādītā derīguma termiņa beigām. Šādā gadījumā speciālās atļaujas (licences) izsniegšanai valsts nodeva tiek piemērota tādā apmērā, kāds paredzēts par atkārtotas atļaujas (licences) izsniegšanu."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "pn3",
+      "title": "3. Šā likuma 7.pantā noteikto prasību par sprāgstvielu un spridzināšanas ietaišu īpašo marķējumu piemēro ar 2013.gada 5.aprīli. Izplatītāji, kas pārsaiņo sprāgstvielas, šā likuma 7.pantā noteikto prasību par sprāgstvielu un spridzināšanas ietaišu īpašo marķējumu piemēro ar 2015.gada 5.aprīli.",
+      "content": "( 31.01.2013 . likuma redakcijā, kas stājas spēkā 21.02.2013. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VI nodaļa Civiltiesiskās atbildības apdrošināšana un sprāgstvielu un spridzināšanas ietaišu aprites uzraudzība",
+      "section": "pn4",
+      "title": "4. Sprāgstvielas un spridzināšanas ietaises, kuras laistas tirgū līdz 2016.gada 19.aprīlim, drīkst piedāvāt tirgū, ja tās atbilst sprāgstvielas un spridzināšanas ietaises tirgū laišanas brīdī spēkā esošo normatīvo aktu prasībām, kas regulē sprāgstvielu un spridzināšanas ietaišu apriti.",
+      "content": "( 10.03.2016 . likuma redakcijā, kas stājas spēkā 20.04.2016. )\n( 10.03.2016 . likuma redakcijā, kas stājas spēkā 20.04.2016. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "sprāgstvielu un spridzināšanas ietaišu aprite",
+      "definition": "sprāgstvielu un spridzināšanas ietaišu izgatavošana, marķēšana, realizēšana, iegādāšanās, glabāšana, izmantošana, eksportēšana, importēšana, tranzīts, pārvietošana, pārvadāšana, uzskaitīšana, izņemšana un iznīcināšana",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sprāgstvielu un spridzināšanas ietaišu glabāšana",
+      "definition": "sprāgstvielu un spridzināšanas ietaišu turēšana atļautā vietā, ievērojot noteiktās prasības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sprāgstvielu un spridzināšanas ietaišu pārvietošana",
+      "definition": "sprāgstvielu un spridzināšanas ietaišu pārsūtīšana vai pārvadāšana no vienas Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts uz citu Eiropas Savienības dalībvalsti vai Eiropas Ekonomikas zonas valsti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sprāgstvielu un spridzināšanas ietaišu laišana tirgū",
+      "definition": "sprāgstvielu un spridzināšanas ietaišu piedāvāšana Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts tirgū pirmo reizi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sprāgstvielu un spridzināšanas ietaišu piedāvāšana tirgū",
+      "definition": "komercdarbības ietvaros veikta sprāgstvielu un spridzināšanas ietaišu piegādāšana izplatīšanai vai izmantošanai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts tirgū par atlīdzību vai bez tās",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sprāgstviela",
+      "definition": "ķīmisks savienojums, ķīmisko savienojumu mehāniski maisījumi vai to šķīdumi, kas ārēju faktoru iedarbībā ātri reaģē, izdalot lielu daudzumu gāzes vai siltumenerģijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "spridzināšanas ietaise",
+      "definition": "līdzeklis, kas nodrošina sprādzienu noteiktā vietā un laikā vai konkrētas iedarbības rezultātā (uzspridzināšanas līdzekļi un palaišanas ierīces — detonatori)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ražotājs",
+      "definition": "fiziskā vai juridiskā persona, kura izstrādā un izgatavo sprāgstvielas un spridzināšanas ietaises vai kuras uzdevumā sprāgstvielas un spridzināšanas ietaises tiek izstrādātas vai izgatavotas un kura laiž šīs sprāgstvielas un spridzināšanas ietaises tirgū ar savu nosaukumu vai preču zīmi vai izmanto savām vajadzībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pilnvarotais pārstāvis",
+      "definition": "fiziskā vai juridiskā persona, kas reģistrēta Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī un ir saņēmusi ražotāja rakstveida pilnvarojumu rīkoties tā vārdā attiecībā uz konkrētiem uzdevumiem šā likuma prasību izpildei",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "importētājs",
+      "definition": "fiziskā vai juridiskā persona, kas ir reģistrēta Eiropas Savienības dalībvalstī vai Eiropas Ekonomikas zonas valstī un laiž Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts tirgū kādas trešās valsts sprāgstvielas un spridzināšanas ietaises",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izplatītājs",
+      "definition": "piegādes ķēdē iesaistīta fiziskā vai juridiskā persona, kas nav ražotājs vai importētājs un kas piedāvā sprāgstvielas un spridzināšanas ietaises tirgū",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "paziņotā institūcija",
+      "definition": "Latvijas nacionālās akreditācijas institūcijas akreditēta sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcija, kurai ir juridiskās personas statuss un par kuru normatīvajos aktos noteiktajā kārtībā ir paziņots Eiropas Komisijai, vai citu Eiropas Savienības dalībvalstu vai Eiropas Ekonomikas zonas valstu paziņota sprāgstvielu un spridzināšanas ietaišu atbilstības novērtēšanas institūcija.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

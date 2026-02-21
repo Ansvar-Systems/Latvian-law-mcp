@@ -1,0 +1,1357 @@
+{
+  "id": "lv-law-60460",
+  "type": "statute",
+  "title": "Zemesgrāmatu likums",
+  "title_en": "Land Register Law",
+  "short_name": "TA-60460",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/60460-zemesgramatu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "1",
+      "title": "1. Zemesgrāmatās ieraksta nekustamus īpašumus un nostiprina ar tiem saistītās tiesības. Zemesgrāmatas ir visiem pieejamas, un to ierakstiem ir publiska ticamība. Nekustamo īpašumu ierakstīšana un lietu tiesību nostiprināšana ir obligāta.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.10.2014 . likumu, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "2",
+      "title": "2. Zemesgrāmatu lietu izskatīšana piekrīt rajona (pilsētas) tiesām.",
+      "content": "( 01.11.2018 . likuma redakcijā, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "3",
+      "title": "3. Katrs nekustams īpašums ierakstāms zemesgrāmatā tajā rajona (pilsētas) tiesā, kuras darbības teritorijā tas atrodas.",
+      "content": "Rīgas pilsētas administratīvajā teritorijā esošs nekustams īpašums ierakstāms Rīgas pilsētas Vidzemes priekšpilsētas tiesas zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "4",
+      "title": "4. Zemesgrāmatās nostiprina (koroborē) tiesības uz nekustamiem īpašumiem, saprotot ar tiesībām arī tiesību nodrošinājumus un aprobežojumus, ja no likuma satura un tiešā jēguma neizriet pretējais.",
+      "content": "4. Zemesgrāmatās nostiprina (koroborē) tiesības uz nekustamiem īpašumiem, saprotot ar tiesībām arī tiesību nodrošinājumus un aprobežojumus, ja no likuma satura un tiešā jēguma neizriet pretējais."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "5",
+      "title": "5. Lietu tiesības, kas pastāv uz likuma pamata (Civillik. 1477. p.), var arī nostiprināt zemesgrāmatās pēc to personu vēlēšanās, kam šīs tiesības pieder.",
+      "content": "5. Lietu tiesības, kas pastāv uz likuma pamata (Civillik. 1477. p.), var arī nostiprināt zemesgrāmatās pēc to personu vēlēšanās, kam šīs tiesības pieder."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "6",
+      "title": "6. Nostiprināšana piekrīt tai rajona (pilsētas) tiesai, kuras zemesgrāmatās ierakstīts nekustams īpašums, uz ko attiecas nostiprinājums, ja šajā likumā nav noteikts citādi.",
+      "content": "( 01.11.2018 . likuma redakcijā ar grozījumiem, kas izdarīti ar 13.06.2019 . likumu, kas stājas spēkā 12.07.2019. Grozījums par panta papildināšanu ar vārdiem \"ja šajā likumā nav noteikts citādi\" stājas spēkā 01.12.2019. Sk. pārejas noteikumu 21. punktu)"
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "7",
+      "title": "7. Tiesības nostiprina uz tiesneša lēmumu pamata, ierakstot nostiprināmās tiesības zemesgrāmatā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "PIRMĀ NODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "8",
+      "title": "8. Nostiprinot tiesības, jāievēro šā likuma noteikumi, ciktāl sevišķos likumos nav paredzēti izņēmumi no vispārējās kārtības.",
+      "content": "8. Nostiprinot tiesības, jāievēro šā likuma noteikumi, ciktāl sevišķos likumos nav paredzēti izņēmumi no vispārējās kārtības."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "OTRĀ NODAĻA GRĀMATAS UN LIETAS",
+      "section": "9",
+      "title": "9. Rajona (pilsētas) tiesas darbībai zemesgrāmatu lietu izskatīšanā ir nepieciešamas:",
+      "content": "1) zemesgrāmatas,\n2) nostiprinājumu žurnāli un\n3) nekustamu īpašumu lietas."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "10",
+      "title": "10. Zemesgrāmatas iekārto atsevišķi katrai rajona (pilsētas) tiesas darbības teritorijā esošai administratīvajai teritorijai, bet, ja administratīvajā teritorijā ir novada teritoriālā iedalījuma vienības, zemesgrāmatas iekārto katrai teritoriālajai iedalījuma vienībai.",
+      "content": "( 26.03.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 30.10.2014. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "11",
+      "title": "11. Zemesgrāmatas sastāv no nodalījumiem (folijām).",
+      "content": "Zemesgrāmatu nodalījumi ir sastiprināti sējumā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "12",
+      "title": "12. Katram zemesgrāmatas nodalījumam dod īpašu numuru, kuru sauc par zemesgrāmatas numuru un kuru nodalījums patur arī tad, ja slēdz kādu agrāk atklātu nodalījumu. No jauna atklātam nodalījumam nevar dot slēgta nodalījuma numuru.",
+      "content": "12. Katram zemesgrāmatas nodalījumam dod īpašu numuru, kuru sauc par zemesgrāmatas numuru un kuru nodalījums patur arī tad, ja slēdz kādu agrāk atklātu nodalījumu. No jauna atklātam nodalījumam nevar dot slēgta nodalījuma numuru."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "13",
+      "title": "13. Nodalījuma sākumā aiz zemesgrāmatas numura atzīmē nekustama īpašuma nosaukumu un atrašanās vietu.",
+      "content": "Nodalījumā norāda arī nekustamā īpašuma kadastra numuru un nekustamā īpašuma objekta kadastra apzīmējumu, kuru piešķīris Valsts zemes dienests."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "14",
+      "title": "14. Nodalījumam ir četras daļas, kurās ieraksta ziņas par:",
+      "content": "1) nekustamu īpašumu,\n2) nekustama īpašuma īpašnieku,\n3) nekustama īpašuma apgrūtinājumiem un\n4) nekustama īpašuma parādiem.\nKatra daļa tiek rakstīta uz atsevišķas lapas."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "15",
+      "title": "15. Nodalījuma pirmā daļa sadalās divās iedaļās, kurās norāda:",
+      "content": "1) pirmā iedaļā:\na) nekustamu īpašumu,\nb) nekustamam īpašumam par labu nodibinātos servitūtus un reālnastas,\nc) nekustamam īpašumam pievienotos zemes gabalus,\nd) nekustama īpašuma un tam pievienoto zemes gabalu platību;\n2) otrā iedaļā:\na) no nekustama īpašuma atdalītos zemes gabalus un to platību,\nb) pirmā iedaļā ierakstīto servitūtu un reālnastu pārgrozījumus un dzēsumu."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "16",
+      "title": "16. Nodalījuma otrā daļa sadalās divās iedaļās, kurās norāda:",
+      "content": "1) pirmā iedaļā:\na) nekustamā īpašuma īpašnieku, norādot fiziskajai personai vārdu, uzvārdu, personas kodu, bet, ja tā ir laulībā, tad, ievērojot laulāto mantiskās attiecības, piemetina, ka nekustamais īpašums ir laulātā atsevišķa manta vai ka tas ietilpst laulāto mantas kopībā, vai arī ka laulātajiem ir visas mantas šķirtība (Civillikuma 91., 111., 117., 125. un 127.p.), bet juridiskajai personai — pilnu nosaukumu un nodokļu maksātāja kodu, kā arī skaitliski norādot īpašnieka daļas apmēru,\nb) īpašuma tiesības pamatu un\nc) summu, par kādu iegūts nekustams īpašums, ja tā norādīta dokumentā par īpašuma tiesības pāreju;\n2) otrā iedaļā:\na) 45. panta 1., 2. un 3. punktā minētās atzīmes un arī tā paša panta 4. punktā minētās atzīmes, ja ar tām nodrošinātas prasības par īpašuma tiesību vai šīs tiesības nostiprinājumu,\nb) tiesiskā darījumā noteiktos aizliegumus atsavināt īpašumu un apgrūtināt to ar lietu tiesībām,\nc) pēcmantinieku iecelšanu (Civillik. 488. p.),\nd) mantojuma līgumus (Civillik. 643. p.) un\ne) pārgrozījumus a—d burtos minētos ierakstos, tāpat arī šo ierakstu un to pārgrozījumu dzēsumu."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "17",
+      "title": "17. Nodalījuma trešā daļa sadalās divās iedaļās, kurās norāda:",
+      "content": "1) pirmā iedaļā:\na) lietu tiesības, kas apgrūtina nekustamu īpašumu, izņemot tās, kuras jānorāda otrā un ceturtā daļā,\nb) 45. panta 4. punktā minētās atzīmes, ja tās nodrošina a burtā paredzēto lietu tiesību nodibināšanu, kā arī atzīmes par nekustamā īpašuma apgrūtinājumiem — ēku, ūdens lietošanas un ceļa servitūtu;\n2) otrā iedaļā:\npārgrozījumus pirmās iedaļas ierakstos, tāpat arī šo ierakstu un to pārgrozījumu dzēsumu."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "18",
+      "title": "18. Nodalījuma ceturtā daļa sadalās piecās iedaļās, kurās norāda:",
+      "content": "1) pirmā iedaļā:\na) ķīlas tiesības, kas nodibinātas uz nekustamu īpašumu,\nb) 45. panta 5.punktā minētās atzīmes,\nc) tā paša panta 4. punktā minētās atzīmes, ja tās nodrošina a burtā minēto ķīlas tiesību nodibināšanu;\n2) otrā iedaļā — summu, līdz kādai sniedzas pirmā iedaļā nostiprinātās tiesības;\n3) trešā iedaļā — visādus (izņemot 4. punktā paredzētos) pārgrozījumus pirmās iedaļas ierakstos un arī šo pārgrozījumu dzēsumu;\n4) ceturtā iedaļā — pirmās iedaļas ierakstu dzēsumu visumā vai pa daļai, un\n5) piektā iedaļā — summu, kādā dzēsti pirmās iedaļas ieraksti."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "19",
+      "title": "19. Katrai lauku nekustamu īpašumu zemesgrāmatai ir divi alfabētiski rādītāji: viens — pēc īpašnieku uzvārdiem, bet otrs — pēc īpašumu nosaukumiem. Pilsētu nekustamu īpašumu zemesgrāmatām ir viens alfabētisks rādītājs pēc īpašnieku uzvārdiem.",
+      "content": "19. Katrai lauku nekustamu īpašumu zemesgrāmatai ir divi alfabētiski rādītāji: viens — pēc īpašnieku uzvārdiem, bet otrs — pēc īpašumu nosaukumiem. Pilsētu nekustamu īpašumu zemesgrāmatām ir viens alfabētisks rādītājs pēc īpašnieku uzvārdiem."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "20",
+      "title": "20. Alfabētiskā rādītājā īpašnieku atzīmējot, jāievēro 52. panta noteikumi.",
+      "content": "20. Alfabētiskā rādītājā īpašnieku atzīmējot, jāievēro 52. panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "PIRMĀ APAKŠNODAĻA ZEMESGRĀMATAS",
+      "section": "21",
+      "title": "21. Alfabētiskie rādītāji ir kartotēkas veidā.",
+      "content": "( 30.01.1997 . likuma redakcijā, kas stājas spēkā 06.03.1997. )"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMU ŽURNĀLS",
+      "section": "22",
+      "title": "22. Nostiprinājuma lūgumus reģistrē nostiprinājumu žurnālā.",
+      "content": "( 30.01.1997 . likuma redakcijā, kas stājas spēkā 06.03.1997. )"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMU ŽURNĀLS",
+      "section": "23",
+      "title": "23. Nostiprinājumu žurnāla lapa sadalīta sešās ailēs, kurās ieraksta:",
+      "content": "1) kārtas numuru;\n2) nostiprinājuma lūguma saņemšanas laiku (69.p.);\n3) kas nostiprinājumu lūdz, lūguma īsu saturu, norādot, kādas tiesības lūdz nostiprināt vai kādu ierakstu dzēst vai grozīt un nekustamā īpašuma zemesgrāmatas numuru (12.p.);\n4) lūgumam pievienotos dokumentus un samaksāto nodevu apmēru;\n5) tiesneša lēmuma datumu un norādi, vai lūgums apmierināts pilnībā vai daļēji vai atstāts bez izskatīšanas vai ievērības (76. un 82.p.);\n6) atzīmes par pieņemto lēmumu un paziņojuma nosūtīšanu nostiprinājuma lūguma iesniedzējam (125.p)."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMU ŽURNĀLS",
+      "section": "24",
+      "title": "24.",
+      "content": "(Izslēgts ar 27.03.2003 . likumu, kas stājas spēkā 29.04.2003. )"
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMU ŽURNĀLS",
+      "section": "25",
+      "title": "25.",
+      "content": "(Izslēgts ar 27.03.2003 . likumu, kas stājas spēkā 29.04.2003. )"
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "TREŠĀ APAKŠNODAĻA NEKUSTAMU ĪPAŠUMU LIETAS",
+      "section": "26",
+      "title": "26. Katram zemesgrāmatas nodalījumā ierakstītam nekustamam īpašumam iekārto īpašu nekustamā īpašuma lietu.",
+      "content": "Nekustama īpašuma lietā sakopo visus dokumentus un rakstus, kas attiecas uz zemesgrāmatas nodalījumā ierakstīto nekustamo īpašumu."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "TREŠĀ APAKŠNODAĻA NEKUSTAMU ĪPAŠUMU LIETAS",
+      "section": "27",
+      "title": "27. Nekustama īpašuma lietai ir tas pats numurs, kāds ir atbilstošam zemesgrāmatas nodalījumam.",
+      "content": "27. Nekustama īpašuma lietai ir tas pats numurs, kāds ir atbilstošam zemesgrāmatas nodalījumam."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "TREŠĀ APAKŠNODAĻA NEKUSTAMU ĪPAŠUMU LIETAS",
+      "section": "28",
+      "title": "28. Katrai lietai sastāda sarakstu, kurā atzīmē visus lietai pievienotos dokumentus un rakstus.",
+      "content": "28. Katrai lietai sastāda sarakstu, kurā atzīmē visus lietai pievienotos dokumentus un rakstus."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "29",
+      "title": "29. Zemesgrāmatā katram patstāvīgam nekustamam īpašumam atklāj atsevišķu nodalījumu.",
+      "content": "29. Zemesgrāmatā katram patstāvīgam nekustamam īpašumam atklāj atsevišķu nodalījumu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "30",
+      "title": "30. Nekustamo īpašumu, kas atrodas vairākās administratīvajās teritorijās vai novada teritoriālā iedalījuma vienībās, ieraksta tās administratīvās teritorijas vai novada teritoriālā iedalījuma vienības zemesgrāmatā, kurā atrodas īpašuma pamatēkas, bet citos gadījumos — tās administratīvās teritorijas vai novada teritoriālā iedalījuma vienības zemesgrāmatā, kurā atrodas lielākā zemes gabala daļa, vienlaikus atzīmējot, kuru administratīvo teritoriju vai novada teritoriālā iedalījuma vienību robežās īpašums atrodas.",
+      "content": "( 26.03.2009 . likuma redakcijā, kas stājas spēkā 29.04.2009. Panta jaunā redakcija stājas spēkā 01.07.2009. Sk. pārejas noteikumus.)"
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "31",
+      "title": "31. Nodalījumā ieraksta visas uz nekustamu īpašumu nostiprināmās tiesības, tiesību nodrošinājumus un aprobežojumus, tāpat arī šo tiesību, nodrošinājumu un aprobežojumu pārgrozījumus un dzēsumu.",
+      "content": "31. Nodalījumā ieraksta visas uz nekustamu īpašumu nostiprināmās tiesības, tiesību nodrošinājumus un aprobežojumus, tāpat arī šo tiesību, nodrošinājumu un aprobežojumu pārgrozījumus un dzēsumu."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "32",
+      "title": "32. Ja kādā nodalījuma daļā nav vairs brīvas vietas jaunam ierakstam, šim nodalījumam pievieno jaunu zemesgrāmatas nodalījuma attiecīgās daļas lapu, par ko iepriekšējā lapā izdara atzīmi.",
+      "content": "( 30.03.1993 . likuma redakcijā, kas stājas spēkā 05.04.1993. )"
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "33",
+      "title": "33. Nekustams īpašums, tā kā tas ierakstīts zemesgrāmatas nodalījumā, atbild par visām šajā nodalījumā nostiprinātām tiesībām.",
+      "content": "33. Nekustams īpašums, tā kā tas ierakstīts zemesgrāmatas nodalījumā, atbild par visām šajā nodalījumā nostiprinātām tiesībām."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "34",
+      "title": "34. Iepriekšējā (33.) panta noteikumi neattiecas uz gadījumiem:",
+      "content": "1) kad nodalījumā nostiprinātās tiesības attiecas tikai uz kopīpašnieka domājamo daļu (Civillik. 1295. p.) vai\n2) kad šīs tiesības apgrūtina tikai noteiktu nekustama īpašuma reālu daļu.\nŠajos gadījumos dokumentos, kas ir par pamatu nostiprinājumam, jābūt norādītam, ka nostiprināmās tiesības neattiecas uz visu nekustamo īpašumu, bet tikai uz tā noteiktām domājamām vai reālām daļām."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "35",
+      "title": "35. Ja pašā ierakstā nav noteikts citādi (82. p. 3. pk.) vai ja vienam nostiprinājumam nav piešķirta pirmtiesība pret otru, tad nostiprinājumu pirmtiesību noteic pēc nostiprinājuma laika zemesgrāmatas nodalījumā (73.—75. p.).",
+      "content": "35. Ja pašā ierakstā nav noteikts citādi (82. p. 3. pk.) vai ja vienam nostiprinājumam nav piešķirta pirmtiesība pret otru, tad nostiprinājumu pirmtiesību noteic pēc nostiprinājuma laika zemesgrāmatas nodalījumā (73.—75. p.)."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "36",
+      "title": "36. Sadalot nekustamu īpašumu vairākos patstāvīgos īpašumos, tāpat arī atdalot no nekustama īpašuma reālu daļu ar nolūku pievienot to citam nekustamam īpašumam (37. p.), visas tiesības, kas apgrūtina sadalāmo nekustamo īpašumu, joprojām skaitās pilnā apmērā uz katru jaunradušos nekustamu īpašumu vai no nekustama īpašuma atdalīto reālo daļu, izņemot gadījumus:",
+      "content": "1) kad šo tiesību priekšmets nav no nekustama īpašuma atdalītā daļa vai tā reālā daļa, no kuras ir radīts jaunais nekustamais īpašums (34. p. 2. pk.), vai\n2) kad personas, kurām pieder minētās tiesības, ir atsvabinājušas no līdzatbildības nekustamā īpašuma reālo daļu vai\n3) kad atsevišķos likumos paredzēts, ka apgrūtinājumi nepāriet uz jaunradušos nekustamu īpašumu.\nSadalāmam nekustamam īpašumam par labu nostiprinātās tiesības paliek arī visām jaunradītām daļām, ja vien šīs tiesības jau pirms sadalījuma nav piederējušas vienai noteiktai daļai.\nTas, vai apgrūtinājumi attiecas uz kādu šāda īpašuma daļu vai visām daļām, norādāms nostiprinājuma lēmumā."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "37",
+      "title": "37. Vairākus viena un tā paša īpašnieka nekustamus īpašumus, kuriem zemesgrāmatā atklāti atsevišķi nodalījumi, var savienot vienā nodalījumā:",
+      "content": "1) kad savienojamie īpašumi sastāda vienu saimniecisku vienību un\n2) kad tikai viens no savienojamiem īpašumiem apgrūtināts kādām tiesībām, vai kad visi savienojamie īpašumi apgrūtināti vienām un tām pašām tiesībām, vai kad personas, kam tiesības pieder, vienojušās par pirmtiesībām vai\n3) kad tāda savienošana nerunā pretim likumam."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "38",
+      "title": "38. Pievienojot nekustamam īpašumam no cita īpašuma atdalītu reālu daļu, jāņem vērā iepriekšējā (37.) panta 2. un 3. punkta noteikumi.",
+      "content": "38. Pievienojot nekustamam īpašumam no cita īpašuma atdalītu reālu daļu, jāņem vērā iepriekšējā (37.) panta 2. un 3. punkta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "39",
+      "title": "39. Savienojot kopīpašniekiem piederošu nekustamu īpašumu ar citu tiem pašiem kopīpašniekiem piederošu nekustamu īpašumu, katra kopīpašnieka domājamām daļām savienojamos īpašumos jābūt vienādām.",
+      "content": "39. Savienojot kopīpašniekiem piederošu nekustamu īpašumu ar citu tiem pašiem kopīpašniekiem piederošu nekustamu īpašumu, katra kopīpašnieka domājamām daļām savienojamos īpašumos jābūt vienādām."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "40",
+      "title": "40. Iegūstot kopīpašniekiem piederošas nekustama īpašuma domājamās daļas, īpašuma tiesību var nostiprināt zemesgrāmatā tad, ja apgrūtināta tikai viena kopīpašnieka domājamā daļa vai ja visu kopīpašnieku daļas apgrūtinātas vienām un tām pašām tiesībām vai ja personas, kam šīs tiesības pieder, vienojušās par pirmtiesībām.",
+      "content": "40. Iegūstot kopīpašniekiem piederošas nekustama īpašuma domājamās daļas, īpašuma tiesību var nostiprināt zemesgrāmatā tad, ja apgrūtināta tikai viena kopīpašnieka domājamā daļa vai ja visu kopīpašnieku daļas apgrūtinātas vienām un tām pašām tiesībām vai ja personas, kam šīs tiesības pieder, vienojušās par pirmtiesībām."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "41",
+      "title": "41. Ja vienam un tam pašam nekustamam īpašumam zemesgrāmatā kļūdaini atklāti vairāki nodalījumi, tad tiesnesis arī bez ieinteresēto personu lūguma ar sevišķu lēmumu slēdz liekos nodalījumus. Pirms lēmuma nekustama īpašuma īpašnieks un personas, kuru labā nodalījumā ierakstītas kādas tiesības, jāuzaicina sniegt atsauksmes, noliekot viņām divu nedēļu termiņu. Ja šo personu dzīves vietas nav zināmas, tad uzaicinājums jāiespiež oficiālā laikrakstā un jāizkar nodaļas telpās. Atsauksmes neiesniegšana nav šķērslis nodalījuma slēgšanai. Sludinājuma izdevumus sedz no valsts līdzekļiem.",
+      "content": "Zemesgrāmatu nodalījumā, izmantojot citu valsts informācijas sistēmu tiešsaistē saņemtu paziņojumu, izdara šādus grozījumus:\n1) maina kadastra numuru vai kadastra apzīmējumu;\n2) nemainot zemes gabala robežas, precizē zemes gabala platību saskaņā ar kadastrālās uzmērīšanas datiem;\n3) precizē dzīvokļa īpašuma kā atsevišķa īpašuma kopējo platību, ja platības izmaiņas saskaņā ar Dzīvokļa īpašuma likumu neietekmē dzīvokļa īpašumā ietilpstošo kopīpašuma domājamo daļu un ja tas ir reģistrēts Nekustamā īpašuma valsts kadastra informācijas sistēmā (turpmāk — Kadastra informācijas sistēma);\n4) pamatojoties uz privatizāciju veicošās institūcijas iesniegtu dokumentu par konstatētām neprecizitātēm, kas radušās dzīvojamās mājas domājamo daļu noteikšanā privatizācijas procesā, precizē dzīvokļu īpašumu sastāvā esošo kopīpašuma domājamo daļu apmēru, ja tas ir reģistrēts Kadastra informācijas sistēmā;\n5) veic izmaiņas nekustamā īpašuma objekta adresē;\n6) veic izmaiņas to fizisko personu identifikācijas datos, kurām piešķirts personas kods;\n7) aktualizē pārrēķinātās dzīvokļa īpašuma sastāvā esošās kopīpašuma domājamās daļas atbilstoši Dzīvokļa īpašuma likumam, ja dzīvojamās mājas privatizācijas procesā kopīpašuma domājamās daļas aprēķinātas neatbilstoši;\n8) nemainot zemes gabala robežas, precizē normatīvajos aktos par valsts un pašvaldību zemes īpašuma tiesībām un to nostiprināšanu zemesgrāmatās noteiktajos gadījumos zemesgrāmatā ierakstīta kadastrāli neuzmērīta zemes gabala platību saskaņā ar informāciju par zemes gabala platību un izvietojumu apvidū;\n9) veic izmaiņas juridiskās personas nosaukumā atbilstoši izmaiņām, kuras reģistrētas Uzņēmumu reģistra vestajos reģistros;\n10) ieraksta zemesgrāmatā ēkas (būves) un jaunbūves, pamatojoties uz Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem. Šajos gadījumos pamatojošos dokumentus, kurus atbilstoši kompetencei ir izvērtējusi būvvalde un Valsts zemes dienests, pirms ēkas (būves) vai jaunbūves ierakstīšanas zemesgrāmatā tiesnesis atkārtoti nevērtē.\nTiesnesis pieņem lēmumu par personu vai nekustamo īpašumu identificējošo datu grozīšanu uz īpašnieka iesnieguma pamata, ja ar to netiek grozītas nostiprinātās tiesības. Tiesnesis pirms ierakstu grozīšanas pārbauda datus valsts informācijas sistēmā.\nGrozījumi, kas izdarīti šā panta otrajā un trešajā daļā noteiktajā kārtībā, nav pārsūdzami.\nRajona (pilsētas) tiesas priekšsēdētājs var pilnvarot tiesneša palīgu apstrādāt šā panta otrajā daļā minēto paziņojumu."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGI NOTEIKUMI",
+      "section": "42",
+      "title": "42. Ja nekustamam īpašumam, kuram zemesgrāmatā atklāts nodalījums, nav iespējams noteikt atrašanās vietu dabā, rajona (pilsētas) tiesa ar sludinājumu tīmekļvietnē www.vestnesis.lv uzaicina zemesgrāmatā ierakstīto īpašnieku un personas, kurām uz nekustamu īpašumu nostiprinātas kādas tiesības, vai to tiesību pēcniekus iesniegt divu mēnešu laikā pierādījumus par to, ka nekustams īpašums patiešām pastāv dabā. Ja minētajā termiņā šādus pierādījumus neiesniedz, tiesnesis ar sevišķu lēmumu slēdz nodalījumu.",
+      "content": "Šo noteikumu piemēro tikai tad, ja nodalījumā 50 gadu laikā nav ievesti nekādi jauni ieraksti.\nSludinājuma izdevumus sedz no valsts līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "1. Ierakstu veidi",
+      "section": "43",
+      "title": "43. Nostiprinājumus zemesgrāmatas nodalījumā izteic ierakstos (pantos) un atzīmēs.",
+      "content": "43. Nostiprinājumus zemesgrāmatas nodalījumā izteic ierakstos (pantos) un atzīmēs."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "1. Ierakstu veidi",
+      "section": "44",
+      "title": "44. Ierakstu veidā uz nekustamu īpašumu nostiprina tiesības, kam pamatā ir tiesisks darījums, tiesas spriedums vai lēmums vai administratīvu iestāžu akts vai kas pastāv uz paša likuma (5. p.) pamata; tāpat nostiprina minēto tiesību pārgrozījumus un dzēsumu.",
+      "content": "Atzīmju veidā nostiprina tiesību nodrošinājumus un aprobežojumus."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "1. Ierakstu veidi",
+      "section": "45",
+      "title": "45. Atzīmju veidā ieraksta:",
+      "content": "1) īpašnieka izsludināšanu par maksātnespējīgu parādnieku;\n2) piedziņas vēršanu uz nekustamu īpašumu;\n3) aizgādnības nodibināšanu par īpašnieku garīga rakstura vai cita veselības traucējuma un izlaidīgas vai izšķērdīgas dzīves dēļ;\n4) tiesas lēmumus par prasības nodrošināšanu;\n5) līdz atzīmju atvietošanai ar ierakstiem, administratīvo iestāžu un amatpersonu prasījumus, kuriem likums piešķīris neapstrīdamības raksturu;\n6) sūdzību iesniegšanu par tiesneša lēmumiem — līdz šo sūdzību izšķiršanai noteiktā kārtībā (98. p.);\n7) ar īpašnieka piekrišanu — visu, ko varētu nostiprināt ierakstu veidā, līdz to šķēršļu novēršanai, kuru dēļ šāds nostiprinājums nav iespējams; šīs atzīmes ieraksta tajā daļā un iedaļā, kurā nāktu nostiprinājums ieraksta veidā;\n8) tiesību aprobežojumus un tiesību nodrošinājumus, kuriem citos likumos noteikts atzīmju veids."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "1. Ierakstu veidi",
+      "section": "46",
+      "title": "46. Maksātnespējas atzīme (45.p. 1.pk.) ir šķērslis jebkuram labprātīgam vai piespiedu nostiprinājumam, izņemot šādus gadījumus:",
+      "content": "1) iesniegta sūdzība par tiesneša lēmumu (45.p. 6.pk.);\n2) nostiprinājumu pieļauj Maksātnespējas likums.\nPiedziņas atzīme (45. p. 2. pk.) un arī prasības nodrošināšanas atzīme (45. p. 4. pk.), ja tiesas lēmums taisīts prasības lietā par īpašuma tiesību vai šādas tiesības nostiprināšanu, kavē jebkuru īpašnieka izdarāmu labprātīgu nostiprināšanu, izņemot 45. panta 6. un 7. punktā paredzētās atzīmes.\nAizgādnības atzīme (45. p. 3. pk.) ir šķērslis jebkurai labprātīgai nostiprināšanai, ja nav ievēroti Civillikuma noteikumi par aizgādnībā esošas personas mantas pārvaldību.\nPārējos gadījumos atzīme nav šķērslis tālākai nostiprināšanai, bet piešķir ar atzīmi nodrošinātai tiesībai priekšrocību, sākot no atzīmes ierakstīšanas dienas zemesgrāmatā, un saistošu spēku pret tiem nekustama īpašuma ieguvējiem un citām personām, kuru tiesības nostiprinātas pēc atzīmes ierakstīšanas.\nIepriekšējā (45.) panta 8. punktā minēto atzīmju sekas apspriež pēc tiem likumiem, kuros šīs atzīmes paredzētas."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "2. Ierakstu saturs",
+      "section": "47",
+      "title": "47. Nodalījuma ierakstā norāda:",
+      "content": "1) dokumentu, kas bijis par pamatu nostiprinājumam;\n2) nostiprināto tiesību, tās saturu un būtiskos piederumus;\n3) nostiprinājuma žurnāla numuru, ar kādu nostiprinājuma lūgums ierakstīts žurnālā;\n4) tiesneša lēmuma datumu.\nZemesgrāmatas nodalījuma ceturtās daļas pirmajā iedaļā (18.p.) papildus norāda:\n1) kreditoru vai personu, kurai par labu ir nostiprinājums;\n2) kapitāla summu Latvijas valūtā, līdz kurai sniedzas nostiprinātās tiesības;\n3) parādnieku, ja nostiprinājums neattiecas uz visu īpašumu, bet tikai uz kopīpašnieka domājamo daļu.\nGrozot ierakstu un izsakot to jaunā redakcijā, norāda visus ar konkrēto tiesību saistītos žurnālu numurus."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "2. Ierakstu saturs",
+      "section": "48",
+      "title": "48. Ja vienas un tās pašas tiesības nostiprina uz vairākiem patstāvīgiem nekustamiem īpašumiem (29. p.), tad šīs tiesības ieraksta pilnā apjomā katram nekustamam īpašumam ierādītā zemesgrāmatas nodalījumā, aizrādot uz citiem nodalījumiem, kuros šīs tiesības arī ierakstītas.",
+      "content": "48. Ja vienas un tās pašas tiesības nostiprina uz vairākiem patstāvīgiem nekustamiem īpašumiem (29. p.), tad šīs tiesības ieraksta pilnā apjomā katram nekustamam īpašumam ierādītā zemesgrāmatas nodalījumā, aizrādot uz citiem nodalījumiem, kuros šīs tiesības arī ierakstītas."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "2. Ierakstu saturs",
+      "section": "49",
+      "title": "49. Nostiprinot zemesgrāmatā vairākām personām nedalīti piederošās tiesības, katrai no viņām piederošā domājamā daļa jānoteic skaitliski, izņemot Civillikuma 124. pantā paredzētos gadījumus.",
+      "content": "Ja no dokumentiem, kas ir par pamatu nostiprinājumam, nav redzams, kādās daļās tiesība pieder katram līdzdalībniekam, tad jānorāda, ka tiesība pieder viņiem līdzīgās daļās."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "2. Ierakstu saturs",
+      "section": "50",
+      "title": "50. Visus ierakstus apzīmē ar kārtēju numuru ierakstījuma kārtībā. Katrai iedaļai ir sava numerācija.",
+      "content": "Kad ieraksts pēc satura attiecas uz citu tā paša nodalījuma ierakstu, tad zem abiem ierakstiem atzīmē atbilstošā ieraksta kārtējo numuru un arī daļu un iedaļu, kur šis ieraksts atrodas, pie kam iekavās īsi norāda uz abu ierakstu savstarpējo attiecību.\nGrozītais un jaunā redakcijā izteiktais ieraksts atvieto agrāko ierakstu. Nostiprinājumu pirmtiesību nosaka saskaņā ar šā likuma 35.panta noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "2. Ierakstu saturs",
+      "section": "51",
+      "title": "51. Ierakstiem zemesgrāmatā jābūt īsiem, un tajos nevar būt nekā tāda, kam nav sakara ar nekustamu īpašumu un uz to nostiprinātām tiesībām.",
+      "content": "51. Ierakstiem zemesgrāmatā jābūt īsiem, un tajos nevar būt nekā tāda, kam nav sakara ar nekustamu īpašumu un uz to nostiprinātām tiesībām."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "2. Ierakstu saturs",
+      "section": "52",
+      "title": "52. Apzīmējot ierakstos personu, jānorāda viņas vārds, uzvārds, dzimšanas vieta un laiks, bet apzīmējot juridisku personu — viņas nosaukums vai firma.",
+      "content": "Dzimšanas vietu un laiku var nenorādīt tajos gadījumos, kad iestāde vai amatpersona, kas taisījusi aktu vai apliecinājumu, ir atzīmējusi, ka šīs ziņas nav bijis iespējams noskaidrot."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "2. Ierakstu saturs",
+      "section": "53",
+      "title": "53. Ja ierakstā ir norādījums uz nekustamu īpašumu, kuram ir savs nodalījums tajā pašā zemesgrāmatā vai citā tās pašas vai arī citas rajona (pilsētas) tiesas zemesgrāmatā, tad jāatzīmē tā rajona (pilsētas) tiesa, kuras zemesgrāmatā īpašums ir ierakstīts, pati zemesgrāmata un īpašuma zemesgrāmatas numurs.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "2. Ierakstu saturs",
+      "section": "54",
+      "title": "54. Izdzēsumi ierakstos nav pielaižami. Par izlabojumiem, ko taisa ierakstā, lai to saskaņotu ar tiesneša lēmumu (78. p.), norāda pirms tiesneša paraksta, vai, ja kļūdu izlabo pēc tam, kad ieraksts ir parakstīts — sevišķā ierakstā. Pēdējo ieraksta, netaisot jaunu lēmumu, un izteic 47. pantā paredzētā formā, norādot, ka tas atvieto agrāko ierakstu. Izlabojumus taisa arī izsniegtā zemesgrāmatu aktā, kuru šim nolūkam pieprasa no personas, kam tas izsniegts.",
+      "content": "Ierakstu izlabojumi, kas nesaskan ar nostiprinājuma lēmumiem, pielaižami vienīgi 90. un 97. pantā paredzētā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "2. Ierakstu saturs",
+      "section": "55",
+      "title": "55. Iepriekšējo (47.—54.) pantu noteikumi jāpiemēro arī atzīmēm.",
+      "content": "55. Iepriekšējo (47.—54.) pantu noteikumi jāpiemēro arī atzīmēm."
+    },
+    {
+      "provision_ref": "Art. 55.1",
+      "chapter": "TREŠĀ APAKŠNODAĻA ATSEVIŠĶĀS PRASĪBAS APBŪVES TIESĪBAS IERAKSTĪŠANAI (Apakšnodaļa 10.11.2016 . likuma redakcijā, kas stājas spēkā 01.01.2017. )",
+      "section": "55.1",
+      "title": "55. 1 Zemes gabalu apgrūtinot ar apbūves tiesību, vienlaikus:",
+      "content": "1) izdara atzīmi nodalījuma trešās daļas pirmajā iedaļā par apbūves tiesības nodalījuma atvēršanu, norādot apbūves tiesības nodalījuma numuru;\n2) atklāj apbūves tiesības ierakstīšanai nodalījumu, tajā secīgi ietverot zemes gabala nodalījuma numuru, apbūves tiesības saīsināto apzīmējumu \"AT\" un kārtas numuru.\nMainoties apbūves tiesīgajam, apgrūtinātā zemes gabala nodalījumā izdara grozījumus par apbūves tiesīgo."
+    },
+    {
+      "provision_ref": "Art. 55.2",
+      "chapter": "TREŠĀ APAKŠNODAĻA ATSEVIŠĶĀS PRASĪBAS APBŪVES TIESĪBAS IERAKSTĪŠANAI (Apakšnodaļa 10.11.2016 . likuma redakcijā, kas stājas spēkā 01.01.2017. )",
+      "section": "55.2",
+      "title": "55. 2 Apbūves tiesības nodalījumu atklāj un ziņas tajā ieraksta saskaņā ar šā likuma prasībām par nodalījumiem un apbūves tiesības nodalījuma pirmās daļas pirmajā iedaļā norāda:",
+      "content": "1) vārdus \"apbūves tiesība\";\n2) apbūves tiesības termiņu;\n3) tā zemes gabala, uz kuru attiecas apbūves tiesība, kadastra apzīmējumu un platību;\n4) ēku (būvi), kas celta uz apbūves tiesības pamata, kā apbūves tiesības būtisku daļu un tās kadastra apzīmējumu;\n5) apgrūtinātā zemes gabala īpašnieku.\nMainoties apgrūtinātā zemes gabala īpašniekam, apbūves tiesības nodalījumā izdara grozījumus par zemes gabala īpašnieku."
+    },
+    {
+      "provision_ref": "Art. 55.3",
+      "chapter": "TREŠĀ APAKŠNODAĻA ATSEVIŠĶĀS PRASĪBAS APBŪVES TIESĪBAS IERAKSTĪŠANAI (Apakšnodaļa 10.11.2016 . likuma redakcijā, kas stājas spēkā 01.01.2017. )",
+      "section": "55.3",
+      "title": "55. 3 Izbeidzoties apbūves tiesībai (Civillikuma 1129. 9 panta pirmā daļa), uz tās pamata celto ēku (būvi) pievieno nodalījumam, kurā ierakstīts ar apbūves tiesību saistītais zemes gabals, un slēdz apbūves tiesības nodalījumu.",
+      "content": "Ja apbūves tiesība izbeidzas ar termiņa notecējumu (Civillikuma 1129. 7 panta pirmā daļa), tad tiesnesis lēmumu par apbūves tiesības izbeigšanu pieņem ne vēlāk kā vienas darba dienas laikā pēc apbūves tiesības termiņa notecējuma, pamatojoties uz ieinteresētās personas lūgumu, kas izteikts, ierakstot apbūves tiesību zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 56",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "56",
+      "title": "56. Nostiprinājuma lūgumiem jābūt rakstveidā.",
+      "content": "(Otrā daļa izslēgta ar 30.10.2014 . likumu)\n(Trešā daļa izslēgta ar 30.10.2014 . likumu)\nNostiprinājuma lūgums vienlaikus ir iesniegums attiecīgo datu reģistrācijai vai aktualizācijai Kadastra informācijas sistēmā, ja ar to lūgts:\n1) ierakstīt ēku (būvi) kā patstāvīgu būvju īpašumu;\n2) nostiprināt vai grozīt ēku, ūdens lietošanas vai ceļa servitūtu vai šīs tiesības nodrošinājumu, ja ir pievienots servitūta teritorijas grafiskais attēlojums;\n3) sadalīt nekustamo īpašumu vairākos patstāvīgos nekustamos īpašumos;\n4) izveidot jaunu nekustamo īpašumu no vairāku nekustamo īpašumu sastāvā esošiem nekustamā īpašuma objektiem.\nŠā panta ceturtajā daļā minētajam nostiprinājuma lūgumam pievienojamo dokumentu, tai skaitā informācijas par Valsts zemes dienesta maksas pakalpojuma samaksu, aprites kārtību nosaka tieslietu ministrs."
+    },
+    {
+      "provision_ref": "Art. 56.1",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "56.1",
+      "title": "56. 1 Nostiprinājuma lūgumu, kas parakstīts normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā, iesniedz:",
+      "content": "1) kredītiestāde (arī kapitālsabiedrība, kuras darbības tiesisko pamatu nosaka Attīstības finanšu institūcijas likums, attiecībā uz sevi vai pārvaldīto fondu — komandītsabiedrību, kurā tā ir komplementārs, kā arī attiecībā uz pārvaldīto Latvijas zemes fondu) un krājaizdevu sabiedrība, kura saņēmusi Latvijas Bankas izsniegtu speciālu atļauju (licenci) saskaņā ar Krājaizdevu sabiedrību likumu un kurai par labu nostiprināta ķīlas tiesība zemesgrāmatā, — par hipotēkas un ar to saistīto tiesību aprobežojumu dzēšanu;\n1 1 ) kredītiestāde, kurai par labu nostiprināma ķīlas tiesība zemesgrāmatā, — par hipotēkas un ar to saistīto tiesību aprobežojumu nostiprināšanu kredītiestādes darbību reglamentējošos normatīvajos aktos noteiktajos kredītiestādes uzņēmumu pārejas gadījumos;\n1 2 ) segto obligāciju sabiedrība vai persona, kura pārņem emitenta tiesības un saistības, kas izriet no segto obligāciju programmas, — par īpašuma tiesību vai hipotēkas un ar to saistīto tiesību aprobežojumu nostiprināšanu uz seguma aktīvu, kuru segto obligāciju emisijas gadījumā tai nodevis emitents saskaņā ar Segto obligāciju likumu (arī pārrobežu programmas gadījumā);\n2) zvērināts tiesu izpildītājs — par atzīmes ierakstīšanu, pārgrozīšanu vai dzēšanu;\n3) maksātnespējas procesa administrators — par atzīmes ierakstīšanu, pārgrozīšanu vai dzēšanu;\n4) valsts vai pašvaldības iestāde, tai skaitā arī institūcija, kuras kompetencē ir nekustamā īpašuma atsavināšana sabiedrības vajadzībām, vai tās pilnvarota persona, ja nostiprinājuma lūgumu iesniedz pilnvarotās personas likumiskais pārstāvis, izņemot nostiprinājuma lūgumu par valstij vai pašvaldībai piederošiem un piekrītošiem zemes gabaliem, uz kuriem atrodas publiskās lietošanas transporta infrastruktūras objekti, un zemes gabaliem, kuri atrodas ostas teritorijā;\n5) zvērināts notārs, ja nostiprinājuma pamatā ir šā zvērināta notāra taisīts notariāls akts.\nNostiprinājuma lūgumu normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā:\n1) var iesniegt šā likuma 60. panta otrajā daļā minētās personas, ja izpildīti šā likuma 60. panta otrās daļas nosacījumi, kā arī šā likuma 60. panta trešajā daļā minētās personas attiecībā uz nomas tiesību nostiprināšanu zemesgrāmatā;\n2) iesniedz zvērināts notārs, ja privātpersonas paraksts uz nostiprinājuma lūguma apliecināts Notariāta likuma E 1 sadaļā noteiktajā kārtībā.\nŠajā pantā noteiktajā kārtībā parakstītu nostiprinājuma lūgumu iesniedz, izmantojot valsts vienotās datorizētās zemesgrāmatas mājaslapā www.zemesgramata.lv pieejamo speciālo tiešsaistes formu vai datu apmaiņu starp informācijas sistēmām vai oficiālo elektronisko adresi."
+    },
+    {
+      "provision_ref": "Art. 56.2",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "56.2",
+      "title": "56. 2 Elektroniski iesniegtam nostiprinājuma lūgumam pievieno elektroniski parakstītu dokumentu, kas apliecina nostiprināmās tiesības:",
+      "content": "1) šā likuma 56. 1 panta pirmās daļas 2.punktā paredzētajā gadījumā — zvērināta tiesu izpildītāja apliecinātu likumīgā spēkā esošā nolēmuma vai cita izpildu dokumenta atvasinājumu;\n2) šā likuma 56. 1 panta pirmās daļas 3.punktā paredzētajā gadījumā — maksātnespējas procesa administratora apliecinātu likumīgā spēkā esošā nolēmuma atvasinājumu;\n3) šā likuma 56. 1 panta pirmās daļas 4.punktā paredzētajā gadījumā — valsts vai pašvaldības iestādes izsniegtā dokumenta oriģinālu vai atvasinājumu;\n4) šā likuma 56. 1 panta pirmās daļas 5.punktā paredzētajā gadījumā — zvērināta notāra apliecinātu notariālo aktu grāmatas izrakstu;\n5) šā likuma 56. 1 panta otrajā daļā paredzētajā gadījumā — publiskas personas izdota dokumenta oriģinālu vai atvasinājumu.\nPārējie nostiprinājuma lūgumam pievienojamie dokumenti, ja iesniedzēja rīcībā nav oriģināla elektroniskā dokumenta, iesniedzami elektroniskā atvasinājuma formā."
+    },
+    {
+      "provision_ref": "Art. 56.3",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "56.3",
+      "title": "56. 3 Laulāto mantisko attiecību reģistra paziņojumus par nekustamo īpašumu attiecīgajai rajona (pilsētas) tiesai nosūta elektroniski. Paziņojuma parakstīšanas, iesniegšanas un saņemšanas kārtību nosaka tieslietu ministrs.",
+      "content": "( 30.10.2014 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 56.4",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "56.4",
+      "title": "56. 4 Valsts zemes dienests attiecīgajai rajona (pilsētas) tiesai elektroniski nosūta īpašnieka iesniegumu par īpašniekam:",
+      "content": "1) piederoša viena nekustamā īpašuma sastāvā esoša zemes gabala sadalīšanu vairākos zemes gabalos;\n2) piederoša viena nekustamā īpašuma sastāvā esošu vairāku zemes gabalu apvienošanu vienā zemes gabalā;\n3) (izslēgts ar 10.06.2021 . likumu);\n4) piederošas ekspluatācijā nodotas inženierbūves ierakstīšanu, pamatojoties uz izpildmērījumu;\n5) atbilstoši būvniecības jomu regulējošos normatīvajos aktos noteiktajam iedalījumam piederošas pirmās grupas ēkas ierakstīšanu, pamatojoties uz ēkas datu deklarāciju.\nZemes īpašnieka iesnieguma, tam pievienojamo dokumentu un citas pieprasītās informācijas nosūtīšanas kārtību nosaka tieslietu ministrs."
+    },
+    {
+      "provision_ref": "Art. 56.5",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "56.5",
+      "title": "56. 5 Ēkas (būves) īpašnieks, izmantojot speciālu tiešsaistes formu Būvniecības informācijas sistēmas tīmekļvietnē, iesniedz atbilstoši normatīvajiem aktiem par elektroniskajiem dokumentiem parakstītu iesniegumu par:",
+      "content": "1) ēkas (būves) dzēšanu, pamatojoties uz dokumentu, kas apliecina ēkas (būves) neesību, ja ēka (būve) nav vienīgais nekustamā īpašuma objekts;\n2) ēkas ierakstīšanu zemesgrāmatā, pamatojoties uz ēkas (būves) pieņemšanu ekspluatācijā;\n3) jaunbūves ierakstīšanu zemesgrāmatā, pamatojoties uz būvvaldes izdotu izziņu, kurā norādīts būvniecības tiesiskais pamats un jaunbūves raksturojums.\nŠādam iesniegumam pievieno noteiktā kārtībā apliecinātu būvvaldes izdota dokumenta datni no Būvniecības informācijas sistēmas un citus dokumentus, ievērojot šā likuma 64. panta noteikumus."
+    },
+    {
+      "provision_ref": "Art. 57",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "57",
+      "title": "57. Nostiprinājumu var lūgt tikai nekustamu īpašumu īpašnieki un personas, kuru labā vai pret kurām taisāms nostiprinājums, tāpat arī likumā paredzētos gadījumos — tiesu un citas valsts iestādes vai amatpersonas.",
+      "content": "57. Nostiprinājumu var lūgt tikai nekustamu īpašumu īpašnieki un personas, kuru labā vai pret kurām taisāms nostiprinājums, tāpat arī likumā paredzētos gadījumos — tiesu un citas valsts iestādes vai amatpersonas."
+    },
+    {
+      "provision_ref": "Art. 58",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "58",
+      "title": "58. Pilnvarojums citai personai lūgt nostiprinājumu jāizteic pilnvarā, ko apliecinājis notārs vai bāriņtiesa.",
+      "content": "Sevišķa apliecināta pilnvara nav vajadzīga, ja pilnvarojums lūgt nostiprinājumu ir izteikts nostiprinājuma lūgumā vai pašā aktā, uz kuru pamatota nostiprināmā tiesība, vai ja pilnvarojums ir dots notāram, kas taisījis vai apliecinājis minēto aktu.\nSevišķi apliecināta pilnvara nav vajadzīga arī gadījumos, ja personai ir notariāli apliecināts pilnvarojums veikt darbības, kas saistītas ar īpašuma tiesību atjaunošanu.\nSevišķa apliecināta pilnvara nav vajadzīga, ja pilnvarojums ir reģistrēts vai noformēts Būvniecības informācijas sistēmā un paziņojums tiek izskatīts šā likuma 41. panta otrās daļas 10. punktā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 59",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "59",
+      "title": "59. Ja lūdzējs iesniedz vairākus nostiprinājuma lūgumus, tad viņš var prasīt, lai vienu nostiprinājumu neizdara bez otra.",
+      "content": "59. Ja lūdzējs iesniedz vairākus nostiprinājuma lūgumus, tad viņš var prasīt, lai vienu nostiprinājumu neizdara bez otra."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "60",
+      "title": "60. Privātpersonu parakstiem uz iesniedzamiem nostiprinājuma lūgumiem jābūt notāra vai bāriņtiesas apliecinātiem. Apliecinot parakstu, pārbauda šo personu rīcībspēju un pilnvarnieka vai pārstāvja pilnvaru apjomu.",
+      "content": "Nekustamā īpašuma īpašnieku un personu, kuru labā vai pret kurām taisāms nostiprinājums, tai skaitā Uzņēmumu reģistra vestajos reģistros reģistrēto personu pārstāvju parakstiem nav nepieciešams notāra vai bāriņtiesas apliecinājums, ja minētās personas nostiprinājuma lūgumu rajona (pilsētas) tiesai iesniedz personiski un lūgums pamatots:\n1) uz tiesas nolēmumu;\n2) uz notariālu aktu;\n3) uz administratīvo aktu;\n4) uz līgumu par īpašuma tiesību iegūšanu uz nekustamu īpašumu, privatizējot valsts vai pašvaldības īpašumu;\n5) uz būvvaldes izziņu par ēkas statusu un aktu par ēkas pieņemšanu ekspluatācijā.\nNekustamā īpašuma īpašniekiem un personām, kuru labā vai pret kurām taisāms nostiprinājums, nav nepieciešams notāra vai bāriņtiesas apliecinājums, ja minētās personas nostiprinājuma lūgumu rajona (pilsētas) tiesai paraksta ar drošu elektronisko parakstu atbilstoši normatīvajiem aktiem par elektroniskajiem dokumentiem un tas attiecas uz nomas tiesību nostiprināšanu zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 60.1",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "60.1",
+      "title": "60. 1 Ja fiziskā persona ir ārzemnieks, kurš nav reģistrēts Fizisko personu reģistrā, notāram, apliecinot tā parakstu uz nostiprinājuma lūguma, tajā jānorāda šā likuma 118. 2 pantā minētās ziņas iekļaušanai Zemesgrāmatu personu rādītājā.",
+      "content": "( 07.11.2024 . likuma redakcijā, kas stājas spēkā 01.01.2025. )"
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "61",
+      "title": "61. Nostiprinājuma lūgumam jāpievieno:",
+      "content": "1) dokumenti, kas apliecina nostiprināmās tiesības;\n2) apliecinājums par tās personas piekrišanu, pret kuru nostiprinājums vērsts, izņemot tos gadījumus, kad nostiprinājuma pamatā ir likums vai tiesas spriedums vai lēmums, vai arī kad nostiprinājumu izdara 45. panta 1.—6. un 8. punktā paredzēto atzīmju veidā;\n3) apliecinājums par trešās personas piekrišanu, kad pēc likuma šāda piekrišana ir nepieciešama nostiprinājumam;\n4) informācija par nodevu samaksu, ja nostiprinājuma lūgumā nav informācijas par veikto maksājumu un maksājuma mērķī nav norādīts nostiprinājuma lūdzēja personas kods vai reģistrācijas numurs un nekustama īpašuma kadastra numurs vai zemesgrāmatas nodalījuma numurs;\n5) dokumenti, kas apliecina pilnvarojumu vai pārstāvības tiesības, — oriģinālā vai notariāli apliecināta noraksta veidā. Nostiprinājuma lūgumam nepievieno dokumentu, kas apliecina to juridisko personu pārstāvības tiesības, kuras ir reģistrētas Uzņēmumu reģistra vestajos reģistros;\n6) juridiskajām personām — arī notariāli apliecināti to tiesībspēju un rīcībspēju apstiprinošu dokumentu noraksti (izraksti). Nostiprinājuma lūgumam nepievieno Uzņēmumu reģistra vestajos reģistros, izņemot Reliģisko organizāciju un to iestāžu reģistru, reģistrēto juridisko personu tiesībspēju un rīcībspēju apstiprinošu dokumentu norakstus (izrakstus);\n7) citās Eiropas Savienības dalībvalstīs reģistrētām juridiskajām personām un juridiskajiem veidojumiem — reģistrācijas vietas valsts kompetentās institūcijas informācija par juridiskās personas vai juridiskā veidojuma atklātajiem patiesajiem labuma guvējiem attiecīgās Eiropas Savienības dalībvalsts reģistrā atbilstoši Eiropas Savienības normatīvo aktu prasībām.\nPievienotos dokumentus norāda nostiprinājuma lūgumā.\nTiesnesim ir pienākums līdz lēmuma pieņemšanai ieskatīties Uzņēmumu reģistra vestajos reģistros, ja nostiprinājuma lūgumu iesniedz Uzņēmumu reģistra vestajos reģistros reģistrēta juridiskā persona."
+    },
+    {
+      "provision_ref": "Art. 61.1",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "61.1",
+      "title": "61. 1 Ja ķīlas tiesības nostiprinājumu lūdz nekustamā īpašuma īpašnieks, tad nostiprinājuma lūgumam nepievieno apliecinājumu par kreditora piekrišanu. Nostiprinājuma lūgumam nepievieno dokumentu, kas apliecina saistību, ja ķīlas līgums, kas pamato hipotēkas nostiprināšanu, satur būtiskus noteikumus par saistību, ko nodrošina hipotēka, un tās spēkā esību.",
+      "content": "( 02.02.2006 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 61.2",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "61.2",
+      "title": "61. 2 Ja tiesību nostiprinājumu lūdz Uzņēmumu reģistra vestajos reģistros vai citā Eiropas Savienības dalībvalsts reģistrā nereģistrēta juridiskā persona vai juridiskais veidojums, tad pirms nostiprinājuma lūguma iesniegšanas juridiskajai personai vai juridiskajam veidojumam ir pienākums iesniegt pieteikumu Uzņēmumu reģistrā par juridiskās personas vai juridiskā veidojuma patiesā labuma guvēja reģistrāciju.",
+      "content": "( 07.11.2024 . likuma redakcijā, kas stājas spēkā 01.01.2025. )"
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "62",
+      "title": "62. Nostiprinājuma lūgumam noteiktā kārtībā izgatavotus un Kadastra informācijas sistēmā reģistrētus zemes robežu plānus pievieno rajona (pilsētas) tiesa:",
+      "content": "1) atklājot zemesgrāmatā nodalījumu nekustamam īpašumam, kas agrāk nemaz nav bijis ierakstīts zemesgrāmatā vai kam nodalījumi iznīcināti vai gājuši zudumā;\n2) sadalot nekustamu īpašumu, kuram atklāts atsevišķs nodalījums, vairākos patstāvīgos nekustamos īpašumos (36. p.);\n3) atdalot no nekustama īpašuma daļu, lai pievienotu to citam īpašumam (36. p.);\n4) savienojot vairākus vienam īpašniekam piederošus nekustamus īpašumus (37. p.);\n5) nostiprinot lietu tiesības uz nekustama īpašuma neatdalītu reālu daļu (34.p. 2.pk.).\nŠā panta pirmās daļas noteikumi par zemes robežu plānu pievienošanu piemērojami attiecībā uz tiem zemes gabaliem, kuru robežas ir izmainītas:\n1) sadalot nekustamu īpašumu, kuram atklāts atsevišķs nodalījums, vairākos patstāvīgos nodalījumos (36. p.);\n2) atdalot no nekustama īpašuma daļu, lai pievienotu to citam nekustamam īpašumam (36. p.);\n3) savienojot vairākus vienam īpašniekam piederošus nekustamus īpašumus (37. p.);\n4) citos likumos paredzētajos gadījumos.\nApgrūtinot ar lietu tiesību ēkas (būves) neatdalītu reālu daļu, nostiprinājuma lūgumam pievieno:\n1) ēkas (būves) kadastrālās uzmērīšanas dokumentu kopijas vai izrakstus no tiem, ja ēka (būve) kadastra darbību reglamentējošos normatīvajos aktos noteiktajos gadījumos ir kadastrāli uzmērāma;\n2) inženierbūves izpildmērījuma plāna kopijas vai izrakstu no tā, ja kadastra darbību reglamentējošos normatīvajos aktos noteiktajos gadījumos inženierbūve nav kadastrāli uzmērāma;\n3) izpildmērījuma plāna kopiju par ēkas novietni, ja būvniecības jomu reglamentējošos normatīvajos aktos noteiktajos gadījumos ēka nav kadastrāli uzmērāma.\nApgrūtinot ar lietu tiesību zemes gabala reālu neatdalītu daļu, ja tās robežu plāns nav reģistrēts Kadastra informācijas sistēmā, informāciju par minētās zemes gabala daļas reģistrāciju Kadastra informācijas sistēmā rajona (pilsētas) tiesa iegūst no Kadastra informācijas sistēmas."
+    },
+    {
+      "provision_ref": "Art. 62.1",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "62.1",
+      "title": "62. 1 Nostiprinājuma lūgumam vai paziņojumam, kas saņemts no Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem, datni no informācijas sistēmām pievieno rajona (pilsētas) tiesa.",
+      "content": "( 13.11.2025 . likuma redakcijā, kas stājas spēkā 06.01.2026. )"
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "63",
+      "title": "63. Šā likuma 61.pantā minētie dokumenti nav jāiesniedz, ja tie:",
+      "content": "1) ir kāda cita nekustamā īpašuma lietā. Šādā gadījumā nostiprinājuma lūgumā norāda tās rajona (pilsētas) tiesas zemesgrāmatas nekustama īpašuma lietu, kurai dokuments pievienots;\n2) iesniegti attiecīgajā rajona (pilsētas) tiesā, tos pievienojot citam nostiprinājuma lūgumam. Šādā gadījumā nostiprinājuma lūgumā norāda tā nekustamā īpašuma kadastra numuru, par kuru iesniegts nostiprinājuma lūgums, vai zemesgrāmatu un zemesgrāmatas nodalījuma numuru."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "64",
+      "title": "64. 61.panta 1.punktā minētie dokumenti jāiesniedz oriģinālos, izņemot gadījumus, kad nostiprinājuma lūgums pamatots:",
+      "content": "1) uz notariālā akta kārtībā slēgtu darījumu;\n2) uz notariālo aktu par pēdējās gribas rīkojuma akta stāšanos likumīgā spēkā vai apstiprināšanu mantojuma tiesībās (mantojuma apliecību);\n3) uz notariālo aktu par pārdzīvojušā laulātā mantas daļu (apliecība par laulātā mantas daļu);\n4) uz dokumentu, kas atrodas citā rajona (pilsētas) tiesā;\n5) uz tiesas spriedumu vai lēmumu;\n6) uz administratīvu iestāžu lēmumu;\n7) uz ārvalsts tiesas vai kompetentās iestādes izsniegtu Eiropas izpildes rīkojumu saskaņā ar Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa regulu (EK) Nr. 805/2004 , ar ko izveido Eiropas izpildes rīkojumu neapstrīdētiem prasījumiem;\n8) uz tiesas, arī ārvalsts tiesas, izsniegtu apliecību saskaņā ar Eiropas Parlamenta un Padomes 2007.gada 11.jūlija regulas (EK) Nr. 861/2007 , ar ko izveido Eiropas procedūru maza apmēra prasībām, 20.panta 2.punktu;\n9) uz tiesas, arī ārvalsts tiesas, izsniegtu Eiropas maksājuma rīkojumu saskaņā ar Eiropas Parlamenta un Padomes 2006.gada 12.decembra regulas (EK) Nr. 1896/2006 , ar ko izveido Eiropas maksājuma rīkojuma procedūru, 18.pantu.\nŠā panta pirmās daļas 1., 2. un 3.punktā paredzētajā gadījumā iesniedz notariālo aktu grāmatas izrakstu, 5.punktā paredzētajā gadījumā — tiesas izdotu likumīgā spēkā nākuša sprieduma vai lēmuma norakstu vai to izpildīšanai izsniegto izpildu rakstu, vai zvērināta tiesu izpildītāja apliecinātu izpildu raksta kopiju, 6.punktā paredzētajā gadījumā — administratīvas iestādes izdotu lēmuma norakstu vai ar elektronisko zīmogu apliecinātu šā lēmuma (dokumenta) datni no Būvniecības informācijas sistēmas, 7.punktā paredzētajā gadījumā — zvērināta tiesu izpildītāja apliecinātu ārvalsts tiesas vai kompetentās iestādes izsniegtā izpildu dokumenta kopiju, bet 8. un 9.punktā paredzētajā gadījumā — zvērināta tiesu izpildītāja apliecinātu tiesas, arī ārvalsts tiesas, izsniegtā izpildu dokumenta kopiju."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "65",
+      "title": "65. Lūgumam nostiprināt uz tiesas sprieduma pamata hipotēku (Civillik. 1307.p.) jāpievieno:",
+      "content": "1) izpildu raksts un tiesas izdotais sprieduma noraksts vai\n2) piespiedu izpildīšanai pakļautais oriģinālakts un tiesas apliecināts šā akta noraksts, kā arī divi tiesneša lēmuma noraksti.\nLūdzot nostiprināt hipotēku, lai nodrošinātu spriedumā vai lēmumā noteikto nodevu samaksu, lūgumam jāpievieno tiesas izdotais sprieduma vai lēmuma noraksts."
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "66",
+      "title": "66. Ārvalstī taisīti formāli akti, izņemot šā likuma 64.panta pirmās daļas 7., 8. un 9.punktā minētos, var būt par pamatu nostiprinājumam tikai tajā gadījumā, ja uz tiem ir Latvijas sūtniecības vai konsulāta apliecinājums, ka ārzemes iestādei vai amatpersonai, kas aktu taisījusi, ir tiesība to darīt pēc attiecīgās ārvalsts likumiem.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 26.05.2011 . likumu, kas stājas spēkā 29.06.2011. )"
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "67",
+      "title": "67. Rajona (pilsētas) tiesai iesniedzamiem dokumentiem jābūt valsts valodā, izņemot šā likuma 66. pantā minētos dokumentus un mājas kārtībā taisītus testamentus, kā arī tad, ja nostiprinājumu pamato ar darījuma dokumentu, kuru puses noslēgušas tām saprotamā svešvalodā, bet tādā gadījumā tiem jāpievieno tulkojumi valsts valodā, kuru pareizību apliecinājis notārs vai viņa pieaicinātais tulks.",
+      "content": "( 13.11.2025 . likuma redakcijā, kas stājas spēkā 06.01.2026. )"
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "PIRMĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMI UN TO PIELIKUMI (Apakšnodaļas nosaukums 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )",
+      "section": "68",
+      "title": "68. Nostiprinājumam nepieciešamo piekrišanu (61.p. 2. un 3.pk.) var apliecināt:",
+      "content": "1) ja piekrišanu dod valsts vai pašvaldības iestāde - ar šās iestādes izdotu apliecību vai ar rajona (pilsētas) tiesai adresētu paziņojumu;\n2) ja piekrišanu dod privātpersona - ar notariāla akta kārtībā taisītu vai notāram apliecināšanai uzrādītu vai bāriņtiesas apliecinātu dokumentu, vai arī tādā veidā, ka šī persona paraksta līdz dokumentu, kas ir par pamatu nostiprinājumam, vai arī paraksta nostiprinājuma lūgumu, pie kam parakstītājas personas rīcības spēju pārbauda notārs vai bāriņtiesa."
+    },
+    {
+      "provision_ref": "Art. 69",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMU SAŅEMŠANA",
+      "section": "69",
+      "title": "69. Nostiprinājuma lūgumus saņem rajona (pilsētas) tiesas darbinieks un atzīmē uz tiem saņemšanas gadu, mēnesi un dienu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.03.2003. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 70",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMU SAŅEMŠANA",
+      "section": "70",
+      "title": "70. Rajona (pilsētas) tiesas darbinieks pārliecinās, vai:",
+      "content": "1) nostiprinājuma lūgumā ir noteiktā kārtībā apliecināts nostiprinājuma lūdzēja paraksts. Ja privātpersonas paraksts uz nostiprinājuma lūguma nav apliecināts 60.panta pirmajā daļā noteiktajā kārtībā, rajona (pilsētas) tiesas darbinieks pārbauda nostiprinājuma lūguma atbilstību 60.panta otrās daļas noteikumiem, kā arī nostiprinājuma lūdzēja identitāti un izdara atbilstošu apliecinājumu uz nostiprinājuma lūguma;\n2) nostiprinājuma lūgumā ir norādīti visi lūgumam pievienotie dokumenti.\nPar nostiprinājuma lūguma saņemšanu rajona (pilsētas) tiesas darbinieks pēc pieprasījuma uz nostiprinājuma lūguma noraksta norāda tā saņemšanas laiku (69.p.)."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMU SAŅEMŠANA",
+      "section": "71",
+      "title": "71. Saņemtos nostiprinājuma lūgumus rajona (pilsētas) tiesas darbinieks tajā pašā dienā saņemšanas kārtībā ieraksta nostiprinājuma žurnālā ar sevišķu numuru, to atzīmējot uz nostiprinājuma lūguma, un parakstās. Nostiprinājuma lūgumi, kas saņemti rajona (pilsētas) tiesā pa pastu pēc pieņemšanas laika beigām, atzīstami par saņemtiem nākamajā darba dienā.",
+      "content": "Pieteikumu par nekustamā īpašuma nostiprināšanu ieguvējam, nosolītājam, līdzīpašniekam vai kreditoram ieraksta nostiprinājuma žurnālā šā panta pirmajā daļā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 71.1",
+      "chapter": "OTRĀ APAKŠNODAĻA NOSTIPRINĀJUMA LŪGUMU SAŅEMŠANA",
+      "section": "71.1",
+      "title": "71. 1 Rajona (pilsētas) tiesa, saņēmusi nostiprinājuma lūgumu par īpašuma tiesību nostiprināšanu zemesgrāmatā no personas, par kuru šā likuma 118. 1 pantā noteiktajā kārtībā saņemts paziņojums, automatizēti nosūta informāciju par to paziņojuma iesniedzējam, izņemot Ārlietu ministriju.",
+      "content": "Paziņojuma iesniedzējs nostiprinājuma lūgumu par atzīmes ierakstīšanu zemesgrāmatā iesniedz tā, lai rajona (pilsētas) tiesa to saņemtu ne vēlāk kā piektajā dienā no automatizētās informācijas nosūtīšanas dienas. Ja nostiprinājuma lūgums par atzīmes ierakstīšanu zemesgrāmatā saņemts pēc minētā termiņa, to izskata vispārējā kārtībā.\nPaziņojuma iesniedzējs nostiprinājuma lūgumā norāda, vai ziņas par šā likuma 118. 1 pantā noteiktajā kārtībā saņemtu paziņojumu personu rādītājā dzēšamas."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "72",
+      "title": "72. Nostiprinājuma lūgumus tiesnesis skata cauri tādā secībā, kādā tie ierakstīti nostiprinājuma žurnālā, ievērojot iesniegumu pirmtiesības uz izpildījumu (73.-75.p.). Ar īpašuma tiesību iegūšanu saistītos nostiprinājuma lūgumus, kurus iesniegusi persona, attiecībā uz kuru šā likuma 118. 1 pantā noteiktajā kārtībā saņemts paziņojums, izskata pirms nostiprinājuma lūguma par atzīmes ierakstīšanu zemesgrāmatā.",
+      "content": "Nostiprinājuma lūgumi izskatāmi ne vēlāk kā 10 dienu laikā. Sarežģītās lietās tiesnesis šo termiņu var pagarināt līdz mēnesim. Nostiprinājuma lūgumi, kā arī iesniegumi, kuru izskatīšana ir saistīta ar datu reģistrāciju vai aktualizāciju Kadastra informācijas sistēmā, izskatāmi 10 dienu laikā. Šajā termiņā neieskaita laiku, kāds nepieciešams attiecīgu datu reģistrācijai vai aktualizācijai Kadastra informācijas sistēmā.\nŠā likuma 71.panta otrajā daļā minēto pieteikumu izskata, ievērojot normatīvajos aktos par piedziņas vēršanu uz nekustamo īpašumu noteikto kārtību un termiņus.\nJa šā likuma 56. 1 panta pirmās daļas 1. 1 punktā minētos nostiprinājuma lūgumus to apjoma vai citu objektīvu apstākļu dēļ nav iespējams izskatīt šā panta otrajā daļā noteiktajā termiņā, rajona (pilsētas) tiesas priekšsēdētājs šo termiņu var pagarināt līdz diviem mēnešiem."
+    },
+    {
+      "provision_ref": "Art. 73",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "73",
+      "title": "73. Pirmtiesība uz izpildījumu, ievērojot turpmākos (74. un 75.) pantos paredzētos izņēmumus, ir tam nostiprinājuma lūgumam, kas agrāk saņemts rajona (pilsētas) tiesā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 74",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "74",
+      "title": "74. Nostiprinājuma lūgumi, kas vienas un tās pašas dienas darba stundās iesniegti rajona (pilsētas) tiesai vai saņemti pa pastu līdz pieņemšanas laika beigām, atzīstami par vienā laikā ienākušiem.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.03.2003. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 75",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "75",
+      "title": "75. Pirmtiesība uz izpildījumu pret citiem tajā pašā dienā ienākušiem nostiprinājuma lūgumiem ir lūgumiem ierakstīt tādas atzīmes, kas minētas:",
+      "content": "1) 45. panta 1.—3. punktā;\n2) 45. panta 4. punktā, ja tiesas lēmums taisīts prasības lietā par īpašuma tiesību uz nekustamu īpašumu vai par šās tiesības nostiprināšanu;\n3) 45. panta 8. punktā, ja šīm atzīmēm ir aizlieguma raksturs."
+    },
+    {
+      "provision_ref": "Art. 76",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "76",
+      "title": "76. Skatot cauri nostiprinājuma lūgumu, tiesnesis pamatojas vienīgi uz tiem datiem, kas ir lūgumā un tam pievienotos dokumentos, nepieprasot nekādas ziņas no iestādēm vai privātpersonām. Tiesnesis lēmumu pieņem, pamatojoties uz iegūtu elektronisko dokumentu, ja dokumenta oriģināls atrodas citā nekustamā īpašuma lietā.",
+      "content": "Līdz lēmuma taisīšanai nostiprinājuma lūdzējs var papildināt savu lūgumu, iesniedzot iztrūkstošās ziņas, dokumentus un nodevas. Šie papildinājumi jāiesniedz ar rakstu un jāieraksta nostiprinājuma žurnālā.\nPapildu iesniegumi, kas paplašina pirmo lūgumu, nav pielaižami.\nLīdz lēmuma pieņemšanai nostiprinājuma lūdzējs var atsaukt savu nostiprinājuma lūgumu, iesniedzot rajona (pilsētas) tiesā iesniegumu par nostiprinājuma lūguma atsaukumu personiski vai elektroniski, parakstot to normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā. Iesniegumu par nostiprinājuma lūguma atsaukumu iesniedz visi nostiprinājuma lūdzēji kopā. Nostiprinājuma lūguma atsaukumu ieraksta nostiprinājuma žurnālā kā papildinājumu.\nPar nostiprinājuma lūguma atstāšanu bez izskatīšanas tiesnesis pieņem motivētu lēmumu, ko kopā ar nostiprinājuma lūgumam pievienotajiem dokumentiem nosūta nostiprinājuma lūguma iesniedzējam.\nPersona, attiecībā uz kuru šā likuma 118. 1 pantā noteiktajā kārtībā saņemts paziņojums, nostiprinājuma lūgumu par īpašuma tiesību nostiprināšanu zemesgrāmatā nevar atsaukt šā panta ceturtajā daļā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 76.1",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "76.1",
+      "title": "76. 1 Tiesnesis piecu dienu laikā izvērtē šā likuma 56. panta ceturtajā daļā minētā nostiprinājuma pieļaujamību un, ja tas ir pieļaujams, nosūta Valsts zemes dienestam nostiprinājuma lūgumu un tam pievienotos dokumentus pakalpojumu izpildei un datu reģistrācijai vai aktualizācijai Kadastra informācijas sistēmā. Tiesnesis nostiprinājuma lūgumu izskata pēc Valsts zemes dienesta paziņojuma par attiecīgo datu reģistrāciju vai aktualizāciju Kadastra informācijas sistēmā vai pēc lēmuma saņemšanas par atteikumu veikt datu reģistrāciju vai aktualizāciju. Valsts zemes dienesta paziņojums par atteikumu veikt datu reģistrāciju vai aktualizāciju ir pamats lēmuma pieņemšanai par nostiprinājuma lūguma atstāšanu bez izskatīšanas.",
+      "content": "( 11.10.2018 . likuma redakcijā, kas stājas spēkā 01.12.2019. Ar grozījumiem, kas izdarīti ar 01.11.2018. un 13.06.2019 . likumu. Grozījums par vārdu \"Zemesgrāmatu nodaļas tiesnesis\" aizstāšanu ar vārdu \"Tiesnesis\" stājas spēkā 01.12.2019. Sk. pārejas noteikumu 21. punktu)"
+    },
+    {
+      "provision_ref": "Art. 77",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "77",
+      "title": "77. Skatot cauri nostiprinājuma lūgumu, tiesnesis pārliecinās vienīgi par to:",
+      "content": "1) vai lūgums atbilst 57., 58. un 60.— 68. panta noteikumiem;\n2) vai nostiprinājumam nav par šķērsli citas jau nostiprinātas tiesības vai cits tajā pašā dienā ienācis nostiprinājuma lūgums (75. p.);\n3) vai tiesības, kuras lūdz nostiprināt, pieder pie 31. un 44. pantā minētām tiesībām, kurām ir sakars ar nekustamu īpašumu;\n4) vai dokumentos, uz kuriem pamatots nostiprinājuma lūgums, nav nekā acīmredzami pretlikumīga;\n5) vai līdz lēmuma taisīšanai nav saņemta kriminālprocesa virzītāja apstiprināta lēmuma kopija par aresta uzlikšanu mantai;\n6) vai Uzņēmumu reģistra vestajos reģistros reģistrēta juridiskā persona, personālsabiedrība vai ārvalsts juridiskā persona vai juridiskais veidojums, kas Latvijas Republikā reģistrē filiāli vai pārstāvniecību, ir reģistrējis patieso labuma guvēju;\n7) vai Uzņēmumu reģistra vestajos reģistros vai citā Eiropas Savienības dalībvalsts reģistrā nereģistrēta juridiskā persona vai juridiskais veidojums ir reģistrējis Uzņēmumu reģistra vestajā reģistrā patieso labuma guvēju."
+    },
+    {
+      "provision_ref": "Art. 78",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "78",
+      "title": "78. Par katru nostiprinājuma žurnālā reģistrēto lūgumu (71.p.) tiesnesis pieņem atsevišķu lēmumu, kuru viņš paraksta, atzīmējot lēmuma datumu un uzspiežot rajona (pilsētas) tiesas zīmogu.",
+      "content": "Tiesneša lēmumu oriģinālus sastiprina sējumā hronoloģiskā secībā."
+    },
+    {
+      "provision_ref": "Art. 79",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "79",
+      "title": "79. Tiesnesis ar savu lēmumu apmierina nostiprinājuma lūgumu vai atstāj to bez ievērības.",
+      "content": "Ja lūgumu var ievērot tikai pa daļai, tad tiesnesis nolemj apmierināt lūgumu pielaižamā apjomā, atstājot to pārējā daļā bez ievērības, izņemot 81. pantā paredzēto gadījumu, kad lūgums atstājams bez ievērības visumā.\nLēmumi par nostiprinājuma apturēšanu līdz šķēršļu novēršanai nav pielaižami."
+    },
+    {
+      "provision_ref": "Art. 80",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "80",
+      "title": "80. Ja ar tiesas spriedumu vai lēmumu noteiktas vairāku līdzdalībnieku tiesības, tad tās nostiprināmas visumā, ja vien samaksātas visas pienākošās nodevas, kaut arī nostiprinājuma lūgumu būtu parakstījis tikai viens no līdzdalībniekiem.",
+      "content": "80. Ja ar tiesas spriedumu vai lēmumu noteiktas vairāku līdzdalībnieku tiesības, tad tās nostiprināmas visumā, ja vien samaksātas visas pienākošās nodevas, kaut arī nostiprinājuma lūgumu būtu parakstījis tikai viens no līdzdalībniekiem."
+    },
+    {
+      "provision_ref": "Art. 81",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "81",
+      "title": "81. Nostiprinot uz testamenta pamata īpašuma tiesību, ja pašā testamentā nav noteikts pretējais, reizē ar īpašuma tiesību jānostiprina arī testamentā paredzētie atsavinājuma vai apgrūtinājuma aizliegumi un lietojuma vai uztura tiesības.",
+      "content": "16. panta 2. punktā b burtā minētie aizliegumi nekavē testamentā paredzēto lietojuma vai uztura tiesību nostiprināšanu.\nJa ir kādi šķēršļi testamentā noteiktās lietojuma vai uztura tiesības nostiprināšanai, tad nostiprinājuma lūgums atstājams bez ievērības visumā.\nTestamentā paredzētās pēcmantinieku tiesības (16. p. 2. pk. c burts) jānostiprina reizē ar pirmmantinieku tiesībām."
+    },
+    {
+      "provision_ref": "Art. 82",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "82",
+      "title": "82. Lēmumā, atstāt bez ievērības nostiprinājuma lūgumu visumā vai pa daļai (79. p.), jānorāda, kādu iemeslu dēļ nostiprinājumu nevar pielaist.",
+      "content": "Lēmumā, ar kuru nostiprinājuma lūgums apmierināts, jānorāda:\n1) zemesgrāmata (10. p.), nodalījums (12. p.), daļa un iedaļa (15.—18. p.), kurās jāieved ieraksts vai atzīme;\n2) ieraksta vai atzīmes saturs (47. p.);\n3) pirmtiesība — ja no vairākām vienā laikā nostiprinājumam pieteiktām tiesībām, kas attiecas uz vienu un to pašu nekustamu īpašumu, dažām jābauda pirmtiesība pret pārējām vai ja lūdz nostiprināt ieraksta veidā tiesību, kas līdz tam bijusi nostiprināta atzīmes veidā (45. p.)."
+    },
+    {
+      "provision_ref": "Art. 83",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "83",
+      "title": "83. Lēmuma norakstu, kuru apliecina ar parakstiem tiesnesis un sekretārs, pievieno dokumentam, uz kura pamatots lēmums par jaunas tiesības nostiprināšanu. Dokumentus kopā ar nostiprinājuma lūgumu pievieno nekustamā īpašuma lietai.",
+      "content": "Ja ar lēmumu ir pārgrozīta vai dzēsta agrāk nostiprināta tiesība, tad lēmumu saīsinātā veidā atzīmē uz tā dokumenta, kas bijis par pamatu tiesības pirmējam nostiprinājumam, norādot nostiprinājumu žurnāla numuru."
+    },
+    {
+      "provision_ref": "Art. 84",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "84",
+      "title": "84. Ierakstus ieved zemesgrāmatā ne vēlāk par nākošo darba dienu pēc lēmuma taisīšanas, un tajā pašā dienā tos paraksta tiesnesis un sekretārs.",
+      "content": "Ierakstus un atzīmes zemesgrāmatā atzīmē ar nostiprinājuma lēmuma datumu."
+    },
+    {
+      "provision_ref": "Art. 85",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "85",
+      "title": "85.",
+      "content": "(Izslēgts ar 27.03.2003 . likumu, kas stājas spēkā 29.04.2004. )"
+    },
+    {
+      "provision_ref": "Art. 86",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "86",
+      "title": "86.",
+      "content": "(Izslēgts ar 27.03.2003 . likumu, kas stājas spēkā 29.04.2004. )"
+    },
+    {
+      "provision_ref": "Art. 87",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "87",
+      "title": "87. Rajona (pilsētas) tiesa par katru nekustama īpašuma pārejas gadījumu piesūta Valsts zemes dienestam nostiprinājuma lūdzēja izpildītu ziņu lapu pēc noteikta parauga, un arī paziņo tai pašvaldībai, kuras robežās atrodas īpašums, norādot tā agrākā un tagadējā īpašnieka vārdu un uzvārdu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.03.1993. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 88",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "88",
+      "title": "88. Par nostiprinājumiem, kas attiecas uz lauku nekustamiem īpašumiem, rajona (pilsētas) tiesa 62. pantā paredzētos gadījumos paziņo Valsts zemes dienestam, apzīmējot nekustamu īpašumu un norādot tā platību.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.03.1993. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 89",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "89",
+      "title": "89. Atstājot nostiprinājuma lūgumu bez ievērības, tam pievienotos dokumentus un nodevas izsniedz lūdzējam vai nosūta viņam atpakaļ kopā ar pavēsti (85. p.), kuru ar saņēmēja parakstu pievieno nekustamā īpašuma lietai.",
+      "content": "89. Atstājot nostiprinājuma lūgumu bez ievērības, tam pievienotos dokumentus un nodevas izsniedz lūdzējam vai nosūta viņam atpakaļ kopā ar pavēsti (85. p.), kuru ar saņēmēja parakstu pievieno nekustamā īpašuma lietai."
+    },
+    {
+      "provision_ref": "Art. 90",
+      "chapter": "TREŠĀ APAKŠNODAĻA TIESNEŠA LĒMUMI UN TO PILDĪŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "90",
+      "title": "90. Ja tiesnesis atrod kļūdu nostiprinājuma lēmumā (78. un 82. p.), tad viņš to izlabo ar jaunu lēmumu arī bez ieinteresēto personu lūguma vai sūdzības; izlabojums taisāms pēc tam, kad pieprasīta atsauksme no personām, kuru labā vai pret kurām bija taisīts nepareizs lēmums.",
+      "content": "Atsauksmes neiesniegšana vai noraidoša atsauksme nav šķērslis kļūdas labošanai. Acīmredzamas kļūdas var izlabot nepieprasot atsauksmi.\nJaunam lēmumam, ar ko labo kļūdu, nav nekādu seku attiecībā uz personām, kuru tiesības nostiprinātas līdz šā lēmuma taisīšanai, izņemot gadījumu, kad tiesas ceļā ir pierādīts, ka, iesniedzot nostiprinājuma lūgumu, šīs personas bijušas ļaunticīgas."
+    },
+    {
+      "provision_ref": "Art. 91",
+      "chapter": "CETURTĀ APAKŠNODAĻA NOSTIPRINĀJUMA PIERĀDĪJUMI",
+      "section": "91",
+      "title": "91. Nostiprinot jaunu, zemesgrāmatā vēl nenostiprinātu tiesību, katrs lūdzējs var saņemt zemesgrāmatu aktu, kuru izgatavo, taisot nostiprinājuma uzrakstu un pievienojot to dokumentiem (vai to norakstiem), kas bija par pamatu nostiprinājumam (44.p. 1.d.).",
+      "content": "Nostiprinājuma uzrakstā vārdu pa vārdam atkārto tiesneša lēmumu (82. p.).\nJa zemesgrāmatu aktu izdod vairākām personām, tad katrā eksemplārā norāda, kādā skaitā, kam un kādu tiesību apliecināšanai izdoti pārējie zemesgrāmatu akta eksemplāri."
+    },
+    {
+      "provision_ref": "Art. 92",
+      "chapter": "CETURTĀ APAKŠNODAĻA NOSTIPRINĀJUMA PIERĀDĪJUMI",
+      "section": "92",
+      "title": "92. Nostiprinot hipotēku uz tiesas sprieduma pamata, tiesas izdoto sprieduma norakstu (65.p. 1.pkt.) vai tiesas lēmuma norakstu par bezstrīdus piespiedu izpildi kopā ar tiesas apliecināto akta norakstu (65.p. 2.pkt.) pievieno nekustamā īpašuma lietai, bet izpildu rakstu vai piespiedu izpildīšanai pakļauto oriģinālaktu ar tiesneša lēmumu piestiprina izsniedzamam zemesgrāmatu aktam.",
+      "content": "( 30.01.1997 . likuma redakcijā, kas stājas spēkā 06.03.1997. )"
+    },
+    {
+      "provision_ref": "Art. 93",
+      "chapter": "CETURTĀ APAKŠNODAĻA NOSTIPRINĀJUMA PIERĀDĪJUMI",
+      "section": "93",
+      "title": "93. Personas, kas vēlas saņemt zemesgrāmatu aktu, reizē ar nostiprinājuma lūgumu iesniedz 91. pantā minētos dokumentu norakstus, ko apliecinājis notārs vai bāriņtiesa.",
+      "content": "Ja šos norakstus neiesniedz līdz tiesneša lēmuma taisīšanai, tad tos, uz ieinteresēto personu lūgumu un rēķinu, izgatavo un apliecina rajona (pilsētas) tiesa."
+    },
+    {
+      "provision_ref": "Art. 94",
+      "chapter": "CETURTĀ APAKŠNODAĻA NOSTIPRINĀJUMA PIERĀDĪJUMI",
+      "section": "94",
+      "title": "94. Ja ar nostiprinājumu tikai pārgroza vai pa daļai dzēš agrāk nostiprināto tiesību, tad zemesgrāmatu aktam, ja tāds izdots pie pirmā nostiprinājuma, taisa jaunu nostiprinājumu uzrakstu (91. p.).",
+      "content": "Ja nostiprinājums attiecas uz tāda prasījuma daļas cesiju, par kuru izdots zemesgrāmatu akts, tad nostiprinājuma uzrakstu taisa uz šā akta, bet personai, kas iegūst prasījuma daļu, izdod vai izsūta zemesgrāmatu akta norakstu ar tādu pašu uzrakstu.\nJa kreditors visu prasījumu atsevišķās daļās cedē vairākām personām, tad katrai no tām izdod zemesgrāmatu akta norakstu ar uzrakstu par prasījuma cesiju, norādot arī, kam noraksti izdoti, bet zemesgrāmatu akta oriģinālu atstāj nekustama īpašuma lietā. Izgatavojot zemesgrāmatu akta norakstus, jāievēro iepriekšējā (93.) panta noteikumi."
+    },
+    {
+      "provision_ref": "Art. 95",
+      "chapter": "CETURTĀ APAKŠNODAĻA NOSTIPRINĀJUMA PIERĀDĪJUMI",
+      "section": "95",
+      "title": "95. Nostiprinājumu, kuru nevar pierādīt ar zemesgrāmatu aktu (91. un 94. p.), var pierādīt ar tiesneša lēmuma norakstu. Tāpat var pierādīt nostiprinājumu, ar kuru galīgi dzēsta kāda agrāk nostiprināta tiesība. Zemesgrāmatu akts, kas bija izdots pirmējā nostiprinājuma pierādīšanai, jāpievieno nekustamā īpašuma lietai.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 96",
+      "chapter": "CETURTĀ APAKŠNODAĻA NOSTIPRINĀJUMA PIERĀDĪJUMI",
+      "section": "96",
+      "title": "96. Šajā (IV) apakšnodaļā minētos zemesgrāmatu aktus un to norakstus ar nostiprinājuma uzrakstiem, tāpat arī tiesneša lēmuma norakstus izgatavo un izsniedz vai nosūta tikai pēc pienācīgo nodevu samaksas (106. p.).",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 97",
+      "chapter": "PIEKTĀ NODAĻA TIESNEŠA LĒMUMU PĀRSŪDZĒŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "97",
+      "title": "97. Persona, kas lūgusi nostiprinājumu, var pārsūdzēt tiesneša lēmumu (82. p.), ja ar to nostiprinājuma lūgums visumā vai pa daļai atstāts bez ievērības vai nav izpildīts tā, kā bija lūgts. Pārējās personas nostiprinājumu var apstrīdēt vienīgi prasības kārtībā.",
+      "content": "Piezīme. Līdz ar pilnvarojumu iesniegt nostiprinājuma lūgumu to pašu notāru var pilnvarot vajadzības gadījumā pārsūdzēt tiesneša lēmumu."
+    },
+    {
+      "provision_ref": "Art. 98",
+      "chapter": "PIEKTĀ NODAĻA TIESNEŠA LĒMUMU PĀRSŪDZĒŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "98",
+      "title": "98. Sūdzības par tiesneša lēmumiem (97. p.) un viņa rīcību jāiesniedz apgabaltiesai, kuras darbības teritorijā atrodas rajona (pilsētas) tiesa, divu nedēļu laikā no dienas, kad ieinteresētā persona saņēmusi lēmumu vai no tās dienas, kad notikusi pārsūdzamā rīcība, ievērojot Civilprocesa likumā noteikto blakus sūdzību iesniegšanas kārtību, ciktāl šajā likumā nav noteikts citādi.",
+      "content": "Apgabaltiesai adresētā sūdzība iesniedzama rajona (pilsētas) tiesai, kura pieņēmusi lēmumu vai kurā notikusi pārsūdzamā rīcība. Pēc sūdzības saņemšanas tiesnesis sūdzību un tai pievienotos dokumentus nosūta apgabaltiesai.\n(Piezīme atzīta par spēkā neesošu ar Satversmes tiesas 14.03.2006. spriedumu no 01.07.2006. )"
+    },
+    {
+      "provision_ref": "Art. 98.1",
+      "chapter": "PIEKTĀ NODAĻA TIESNEŠA LĒMUMU PĀRSŪDZĒŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "98.1",
+      "title": "98. 1 Tiesnesis atsakās pieņemt sūdzību, ja to iesniegusi persona, kura nav lūgusi nostiprinājumu, vai sūdzība iesniegta pēc tās iesniegšanai noteiktā termiņa.",
+      "content": "Ja nav samaksāta Civilprocesa likumā noteiktā valsts nodeva vai nav pievienoti nepieciešamie dokumenti, tiesnesis pieņem lēmumu atstāt sūdzību bez virzības, nosakot termiņu trūkumu novēršanai, kas nedrīkst būt īsāks par 20 dienām.\nJa sūdzības iesniedzējs noteiktajā termiņā novērš lēmumā norādītos trūkumus, sūdzība uzskatāma par iesniegtu dienā, kad tā pirmo reizi iesniegta rajona (pilsētas) tiesai. Pretējā gadījumā sūdzība uzskatāma par neiesniegtu un atdodama iesniedzējam.\nTiesneša lēmums par atteikumu pieņemt sūdzību un lēmums par sūdzības atstāšanu bez virzības pārsūdzams šā likuma 98.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 98.2",
+      "chapter": "PIEKTĀ NODAĻA TIESNEŠA LĒMUMU PĀRSŪDZĒŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "98.2",
+      "title": "98. 2 Pieteikumu par nokavēta sūdzības iesniegšanas termiņa atjaunošanu iesniedz rajona (pilsētas) tiesai, kurai nokavēto darbību vajadzēja izpildīt. Pieteikumā par nokavētā sūdzības iesniegšanas termiņa atjaunošanu norāda termiņa atjaunošanas pamatojumu, un pieteikumam pievieno dokumentus, kas nepieciešami procesuālās darbības izpildīšanai.",
+      "content": "Nokavēto sūdzības iesniegšanas termiņu atjauno tiesnesis, ja viņš nokavēšanas iemeslus atzīst par attaisnojošiem. Atjaunojot nokavēto sūdzības iesniegšanas termiņu, tiesnesis vienlaikus atļauj izpildīt nokavēto procesuālo darbību.\nTiesneša atteikums atjaunot sūdzības iesniegšanas termiņu pārsūdzams šā likuma 98.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 99",
+      "chapter": "PIEKTĀ NODAĻA TIESNEŠA LĒMUMU PĀRSŪDZĒŠANA (Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "99",
+      "title": "99. Sūdzības iesniegšanu par tiesneša lēmumu pēc sūdzētāja lūguma atzīmes veidā ieraksta (45. p. 6. pk.) zemesgrāmatas nodalījumā tajā iedaļā, kurā būtu ierakstāms nostiprinājums.",
+      "content": "Ja sakarā ar sūdzību tiesneša lēmums ir atcelts un nostiprinājuma lūgums nodots jaunai izskatīšanai, tas atkārtoti reģistrējams nostiprinājuma žurnālā un izskatāms vispārējā kārtībā. Ja nostiprinājuma lūguma iesniedzējs līdz ar blakus sūdzību iesniedzis tikai Civilprocesa likumā noteiktajā kārtībā izgatavotās dokumentu kopijas, pēc nostiprinājuma lūguma atkārtotas reģistrācijas viņš uzaicināms iesniegt dokumentu oriģinālus.\nJa tiesneša lēmums atstāts negrozīts, to pievieno nekustamā īpašuma lietai."
+    },
+    {
+      "provision_ref": "Art. 100",
+      "chapter": "SESTĀ NODAĻA RAJONA (PILSĒTAS) TIESAS IZSNIEDZAMĀS ZIŅAS (Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "100",
+      "title": "100. Zemesgrāmatas, nostiprinājumu žurnālus, nekustamu īpašumu lietas, dokumentu grāmatas un atsevišķus dokumentus nevar izsniegt ārpus nodaļas telpām pat uz tiesu vai citu iestāžu pieprasījumu.",
+      "content": "Ja ir ierosināta krimināllieta par viltojumu, uz izmeklēšanas iestāžu lēmumu pamata var tikt izņemti attiecīgi zemesgrāmatu nodalījumi, atsevišķi dokumenti no nekustamo īpašumu lietām vai nostiprinājumu žurnāli, to vietā atstājot tiesneša apliecinātus dublikātus. Pēc ekspertīzes izdarīšanas vai lietas izskatīšanas tiesā izņemtie dokumenti atdodami atpakaļ rajona (pilsētas) tiesai."
+    },
+    {
+      "provision_ref": "Art. 101",
+      "chapter": "SESTĀ NODAĻA RAJONA (PILSĒTAS) TIESAS IZSNIEDZAMĀS ZIŅAS (Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "101",
+      "title": "101. Katrs var ieskatīties zemesgrāmatās un pieprasīt no tām uzziņas, izrakstus, norakstus un apliecības.",
+      "content": "101. Katrs var ieskatīties zemesgrāmatās un pieprasīt no tām uzziņas, izrakstus, norakstus un apliecības."
+    },
+    {
+      "provision_ref": "Art. 102",
+      "chapter": "SESTĀ NODAĻA RAJONA (PILSĒTAS) TIESAS IZSNIEDZAMĀS ZIŅAS (Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "102",
+      "title": "102. Ieskatīties nostiprinājumu žurnālos, nekustamu īpašumu lietās un dokumentu grāmatās, tāpat arī saņemt no tām uzziņas, izrakstus, norakstus un apliecības, privātas personas, izņemot nekustama īpašuma īpašnieku un personas, kurām ir kādas tiesības uz nekustamu īpašumu, var vienīgi ar tiesneša atļauju.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.01.1997. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 103",
+      "chapter": "SESTĀ NODAĻA RAJONA (PILSĒTAS) TIESAS IZSNIEDZAMĀS ZIŅAS (Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "103",
+      "title": "103. Valsts un pašvaldību iestāžu amatpersonas, kurām tas vajadzīgs dienesta lietās, var bez maksas ieskatīties zemesgrāmatās, nostiprinājumu žurnālos, nekustamu īpašumu lietās un dokumentu grāmatās.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.03.1940 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 104",
+      "chapter": "SESTĀ NODAĻA RAJONA (PILSĒTAS) TIESAS IZSNIEDZAMĀS ZIŅAS (Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "104",
+      "title": "104. Ieskatīties zemesgrāmatās, nostiprinājumu žurnālos, nekustamu īpašumu lietās un dokumentu grāmatās atļauts tikai rajona (pilsētas) tiesas sekretāra vai viņa palīga vai arī sekretāra šim nolūkam pilnvarota kancelejas ierēdņa uzraudzībā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 105",
+      "chapter": "SESTĀ NODAĻA RAJONA (PILSĒTAS) TIESAS IZSNIEDZAMĀS ZIŅAS (Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )",
+      "section": "105",
+      "title": "105. Uz valsts iestāžu un amatpersonu (108. p.) pieprasījumu rajona (pilsētas) tiesas piesūta bez maksas visāda veida ziņas no zemesgrāmatām, nostiprinājumu žurnāliem, nekustamu īpašumu lietām un dokumentu grāmatām.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 13.03.1940. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 106",
+      "chapter": "NODEVAS ZEMESGRĀMATU LIETĀS",
+      "section": "106",
+      "title": "106. Zemesgrāmatu lietās par rajona (pilsētas) tiesu veiktajām darbībām ņem kancelejas un valsts nodevu.",
+      "content": "Par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā maksājamās valsts nodevas apmēru un samaksas kārtību, kā arī atbrīvojumus no valsts nodevas samaksas nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 106.1",
+      "chapter": "NODEVAS ZEMESGRĀMATU LIETĀS",
+      "section": "106.1",
+      "title": "106. 1 Neapliecināts maksājumu apstiprinošs dokuments pierāda kancelejas un valsts nodevas samaksu, ja attiecīgais maksājums atzīts par saņemtu valsts budžetā atbilstoši normatīvajiem aktiem par kārtību, kādā maksājumi atzīstami par saņemtiem valsts budžetā.",
+      "content": "Maksājuma uzdevumā par kancelejas nodevu, izņemot šā likuma 41. panta otrās daļas 10. punktā noteikto gadījumu, persona norāda:\n1) nostiprinājuma lūdzēja personas kodu vai reģistrācijas numuru;\n2) nekustamā īpašuma kadastra numuru vai zemesgrāmatas nodalījuma numuru.\nRajona (pilsētas) tiesas darbinieks valsts budžetā saņemto maksājumu atzīst saskaņā ar normatīvajiem aktiem par kārtību, kādā maksājumi atzīstami par saņemtiem valsts budžetā. Šis nosacījums neattiecas uz šā likuma 41. panta otrās daļas 10. punktā noteikto gadījumu.\nJa valsts budžetā iemaksāta lielāka kancelejas vai valsts nodevas summa, nekā to nosaka normatīvie akti, vai nostiprinājuma lūgums atstāts bez ievērības vai bez izskatīšanas, nostiprinājuma lūdzējam ir tiesības triju gadu laikā no dienas, kad kancelejas vai valsts nodeva saņemta valsts budžetā, iesniegt attiecīgajai rajona (pilsētas) tiesai iesniegumu par kancelejas vai valsts nodevas atmaksu. Kancelejas vai valsts nodevu atmaksā no valsts budžeta līdzekļiem, pamatojoties uz tiesneša lēmumu."
+    },
+    {
+      "provision_ref": "Art. 107",
+      "chapter": "NODEVAS ZEMESGRĀMATU LIETĀS",
+      "section": "107",
+      "title": "107. Kancelejas nodevu iekasē šādos apmēros:",
+      "content": "1) par jauna nodalījuma atklāšanu — 30 euro ;\n2) par dzīvokļa īpašuma nodalījuma atklāšanu — 15 euro ;\n3) par jaunas tiesības nostiprinājumu katrai personai — 15 euro ;\n4) par nostiprinājuma pārgrozījumu un atzīmes ierakstīšanu — 8 euro ;\n5) par zemesgrāmatu apliecības izsniegšanu — 8 euro ;\n6) par tiesneša lēmuma apliecinātas datorizdrukas izsniegšanu — 5 euro ;\n7) (izslēgts no 11.08.2017. ar 30.10.2014 . likumu. Sk. Pārejas noteikumu 13. punktu) ;\n8) (izslēgts no 11.08.2017. ar 30.10.2014 . likumu. Sk. Pārejas noteikumu 13. punktu) ;\n9) (izslēgts no 11.08.2017. ar 30.10.2014 . likumu. Sk. Pārejas noteikumu 13. punktu) ;\n10) (izslēgts no 11.08.2017. ar 30.10.2014 . likumu. Sk. Pārejas noteikumu 13. punktu) .\nJa pēc viena dokumenta izdarāmi vairāki nostiprinājumi, no kuriem daži pēc sava rakstura būtu apmaksājami saskaņā ar šā panta pirmās daļas 3.punktu, bet citi — saskaņā ar 4.punktu, tad par visiem pēc šāda dokumenta izdarāmajiem nostiprinājumiem iekasējama kancelejas nodeva par jaunas tiesības nostiprinājumu.\nKancelejas nodeva ieskaitāma valsts pamatbudžetā.\nNo kancelejas nodevas samaksas atbrīvojamas valsts drošības iestādes, Valsts kontrole, prokuratūra, Valsts ieņēmumu dienests, Noziedzīgi iegūtu līdzekļu legalizācijas novēršanas dienests, Korupcijas novēršanas un apkarošanas birojs, Valsts policija un Ārlietu ministrija atbilstoši normatīvajiem aktiem, kas reglamentē starptautisko sankciju ieviešanu un nacionālo sankciju noteikšanu, par šā likuma 45.pantā minēto atzīmju nostiprināšanu, pārgrozīšanu vai dzēšanu, kā arī par informācijas saņemšanu no valsts vienotās datorizētās zemesgrāmatas.\nSegto obligāciju emisijas gadījumā visiem nostiprinājumiem, kas pamatoti ar seguma aktīvu atsavināšanu saskaņā ar Segto obligāciju likumu (arī pārrobežu programmas gadījumā), piemēro šā panta pirmajā daļā noteiktās kancelejas nodevas, nepārsniedzot kancelejas nodevu kopsummu 10 000 euro .\nJa nostiprinājuma lūgums un visi nostiprināšanai nepieciešamie dokumenti tiek iesniegti elektroniski, izmantojot valsts vienotās datorizētās zemesgrāmatas mājaslapā pieejamo speciālo tiešsaistes formu vai datu apmaiņu starp informācijas sistēmām, vai oficiālo elektronisko adresi, kancelejas nodevu maksā 90 procentu apmērā no šā panta pirmās daļas 1., 2., 3. vai 4. punktā noteiktās kancelejas nodevas likmes."
+    },
+    {
+      "provision_ref": "Art. 108",
+      "chapter": "NODEVAS ZEMESGRĀMATU LIETĀS",
+      "section": "108",
+      "title": "108.",
+      "content": "(Izslēgts ar 22.10.1998 . likumu, kas stājas spēkā 18.11.1998. )"
+    },
+    {
+      "provision_ref": "Art. 109",
+      "chapter": "NODEVAS ZEMESGRĀMATU LIETĀS",
+      "section": "109",
+      "title": "109.",
+      "content": "(Izslēgts ar 22.10.1998 . likumu, kas stājas spēkā 18.11.1998. )"
+    },
+    {
+      "provision_ref": "Art. 110",
+      "chapter": "NODEVAS ZEMESGRĀMATU LIETĀS",
+      "section": "110",
+      "title": "110. Šā likuma 107.panta noteikumi piemērojami arī attiecībā uz rajona (pilsētas) tiesas arhīvā glabājamām grāmatām un lietām, kā arī valsts vienoto datorizēto zemesgrāmatu.",
+      "content": "( 27.03.2003 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 111",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "111",
+      "title": "111. Šī nodaļa nosaka kārtību, kādā nekustamie īpašumi un ar tiem saistītās tiesības ierakstāmas un nostiprināmas zemesgrāmatās datorizētā veidā. Uz datorizēto zemesgrāmatu attiecas visas šā likuma iepriekšējo nodaļu normas, izņemot 11.panta otro daļu, 14.panta otro daļu, 19., 20., 21., 32.pantu, 49.panta otro daļu, 52.pantu, 54.panta pirmo daļu, 65., 78., 83.pantu, 84.panta pirmo daļu, 87., 88., 91.- 96. un 101.-105.pantu.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.03.2003 . likumu, kas stājas spēkā 29.04.2003. )"
+    },
+    {
+      "provision_ref": "Art. 112",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "112",
+      "title": "112. Datorizētā zemesgrāmata ir elektroniska datu bāze, kurā ilgstoši bez satura grozīšanas tiek glabātas zemesgrāmatas, nostiprinājumu žurnāli un alfabētiskie rādītāji, nodrošinot šo datu attēlošanu datora ekrānā un datorizdrukā. Datorizētajā zemesgrāmatā tiek glabāti dokumenti, kas saņemti šā likuma 56. 1 , 56. 2 , 56. 3 un 56. 4 pantā paredzētajā kārtībā (elektroniskie dokumenti), un dokumenti, kas elektroniski iegūti no nekustamā īpašuma lietā iekļautajiem papīra formā esošajiem dokumentiem (iegūti elektroniskie dokumenti).",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.03.2003. un 30.10.2014 . likumu, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "Art. 112.1",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "112.1",
+      "title": "112. 1 Elektroniskos dokumentus kārto tikai elektroniski.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "Art. 112.2",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "112.2",
+      "title": "112. 2 Iegūtam elektroniskajam dokumentam ir tāds pats juridiskais spēks kā papīra formā esošajam dokumentam, no kura tas iegūts.",
+      "content": "Iegūtu elektronisko dokumentu veido, ievērojot Arhīvu likuma prasības, pēc tam, kad saņemts nostiprinājuma lūgums papīra formā vai pieprasījums."
+    },
+    {
+      "provision_ref": "Art. 113",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "113",
+      "title": "113. Rajona (pilsētas) tiesu datorizēto zemesgrāmatu datus apvieno valsts vienotajā datorizētajā zemesgrāmatā.",
+      "content": "Visas rajona (pilsētas) tiesas ved kopīgu nostiprinājuma žurnālu, kurā nostiprinājuma lūgumi un pieteikumi tiek ierakstīti to saņemšanas dienā (71.p.).\nVisās rajona (pilsētas) tiesās tiek uzturēta vienota zemesgrāmatu nodalījumu uzskaite. Jauni nodalījumu numuri tiek piešķirti hronoloģiskā secībā, vadoties no laika, kad pieņemts attiecīgs tiesneša lēmums."
+    },
+    {
+      "provision_ref": "Art. 114",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "114",
+      "title": "114. Valsts vienotā datorizētā zemesgrāmata ir vienīgā datorizētā zemesgrāmata, kura satur juridiski atzītu informāciju.",
+      "content": "Valsts vienotajai datorizētajai zemesgrāmatai ir jānodrošina:\n1) datu saglabāšana;\n2) datu drošība;\n3) datu nezūdamība;\n4) datu nemainība;\n5) datu bāzes ikdienas kopiju izgatavošana un saglabāšana;\n6) datu bāzes ikdienas grozījumu kopiju izgatavošana un saglabāšana."
+    },
+    {
+      "provision_ref": "Art. 115",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "115",
+      "title": "115. Valsts vienotās datorizētās zemesgrāmatas un tās programmnodrošinājuma vienīgā īpašniece ir Latvijas valsts.",
+      "content": "Valsts vienotās datorizētās zemesgrāmatas turētāja ir Tiesu administrācija.\nValsts vienotās datorizētās zemesgrāmatas organizatorisko un tehnisko uzturēšanu nodrošina Tiesu administrācija.\nValsts vienotās datorizētās zemesgrāmatas darbību finansē no valsts pamatbudžeta."
+    },
+    {
+      "provision_ref": "Art. 116",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "116",
+      "title": "116. Valsts vienotās datorizētās zemesgrāmatas turētāja uzdevums ir tehniski nodrošināt datorizētās zemesgrāmatas funkcionēšanu valstī, sniegt šajā likumā noteikto informāciju, veikt datu tehniskās kvalitātes pārbaudi un nodrošināt sadarbību ar citām valsts informācijas sistēmām.",
+      "content": "116. Valsts vienotās datorizētās zemesgrāmatas turētāja uzdevums ir tehniski nodrošināt datorizētās zemesgrāmatas funkcionēšanu valstī, sniegt šajā likumā noteikto informāciju, veikt datu tehniskās kvalitātes pārbaudi un nodrošināt sadarbību ar citām valsts informācijas sistēmām."
+    },
+    {
+      "provision_ref": "Art. 117",
+      "chapter": "PIRMĀ APAKŠNODAĻA VISPĀRĪGIE NOTEIKUMI",
+      "section": "117",
+      "title": "117. Rajona (pilsētas) tiesas izmanto savai darbībai nepieciešamos citu valsts informācijas sistēmu elektroniskos datus, lai pārliecinātos par tām iesniegto datu pareizību. Ja nostiprinājuma lūgumā vai pievienotajos dokumentos norādītie dati ir pretrunā ar elektroniski iegūtajiem datiem, tiesnesis tos vērtē atbilstoši 77.panta 4.punktam.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.03.2003. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 118",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "118",
+      "title": "118. Rajona (pilsētas) tiesa elektroniskā veidā uztur zemesgrāmatu nodalījumus, nostiprinājumu žurnālu, alfabētiskos rādītājus pēc īpašuma atrašanās vietas un īpašnieka, kā arī citu likumā paredzēto informāciju.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 27.03.2003. un 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 118.1",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "118.1",
+      "title": "118. 1 Zemesgrāmata personu rādītājā uztur ziņas par personām, attiecībā uz kurām valsts vienotās datorizētās zemesgrāmatas turētājs saņēmis zvērināta tiesu izpildītāja, maksātnespējas procesa administratora, procesa virzītāja vai nodokļu administrācijas paziņojumu par piedziņas atzīmi, ķīlas tiesības atzīmi, maksātnespējas atzīmi vai atzīmi, ko ieraksta saskaņā ar Kriminālprocesa likuma 361.pantu, kā arī Ārlietu ministrijas informāciju par starptautisko sankciju ieviešanu vai nacionālo sankciju noteikšanu sankciju subjektam vai prasītāja paziņojumu par aizlieguma atzīmes vai prasības nodrošināšanas atzīmes ierakstīšanu zemesgrāmatā (paziņojuma iesniedzējs). Minētās ziņas uztur arī gadījumos, kad personai nav nostiprinātas īpašuma tiesības uz nekustamo īpašumu.",
+      "content": "Paziņojumā norāda:\n1) fiziskajai personai — vārdu, uzvārdu, personas kodu, bet juridiskajai personai — nosaukumu un reģistrācijas numuru;\n2) tā dokumenta izdevējiestādi, datumu un numuru, uz kuru paziņojums pamatots;\n3) paziņojuma iesniedzēju un viņa oficiālo elektronisko adresi, bet, ja paziņojuma iesniedzējs neizmanto oficiālo elektronisko adresi, — viņa elektroniskā pasta adresi.\nZiņas par šā panta pirmajā daļā minēto paziņojumu no personu rādītāja dzēš:\n1) valsts vienotās datorizētās zemesgrāmatas turētājs uz paziņojuma pamata;\n2) rajona (pilsētas) tiesa, ja tas norādīts nostiprinājuma lūgumā par atzīmes ierakstīšanu zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 118.2",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "118.2",
+      "title": "118. 2 Zemesgrāmatu personu rādītājā par fizisko personu uztur vismaz šādas ziņas — vārdu, uzvārdu, dzimšanas datumu, mēnesi un gadu, valstspiederību, pastāvīgās dzīvesvietas valsts un ārvalsts piešķirtu personas identifikatoru vai Latvijā piešķirtu personas kodu, ja tāds ir.",
+      "content": "( 07.11.2024 . likuma redakcijā, kas stājas spēkā 01.01.2025. )"
+    },
+    {
+      "provision_ref": "Art. 119",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "119",
+      "title": "119. Ierakstos jānorāda: fiziskajām personām — vārds, uzvārds, personas kods; juridiskajām personām — nosaukums un identifikācijas kods.",
+      "content": "119. Ierakstos jānorāda: fiziskajām personām — vārds, uzvārds, personas kods; juridiskajām personām — nosaukums un identifikācijas kods."
+    },
+    {
+      "provision_ref": "Art. 120",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "120",
+      "title": "120.",
+      "content": "(Izslēgts ar 27.03.2003 . likumu, kas stājas spēkā 29.04.2004. )"
+    },
+    {
+      "provision_ref": "Art. 121",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "121",
+      "title": "121. Nostiprinājuma lūgumu formas apstiprina Ministru kabinets.",
+      "content": "121. Nostiprinājuma lūgumu formas apstiprina Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 122",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "122",
+      "title": "122. Ja no dokumentiem, kas ir par pamatu nostiprinājumam, nav redzams, kādās domājamās daļās tiesība pieder katram līdzīpašniekam, nostiprinājuma lūgumā jānorāda, ka tiesība līdzīpašniekiem pieder līdzīgās domājamās daļās, kā arī domājamā daļa jānorāda skaitliski.",
+      "content": "122. Ja no dokumentiem, kas ir par pamatu nostiprinājumam, nav redzams, kādās domājamās daļās tiesība pieder katram līdzīpašniekam, nostiprinājuma lūgumā jānorāda, ka tiesība līdzīpašniekiem pieder līdzīgās domājamās daļās, kā arī domājamā daļa jānorāda skaitliski."
+    },
+    {
+      "provision_ref": "Art. 123",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "123",
+      "title": "123. Pēc nostiprinājuma lūguma caurskatīšanas tiesneša lēmums nekavējoties ievadāms datorizētajā zemesgrāmatā. Lēmums stājas spēkā ar ierakstu pilnīguma un pareizības elektronisku apliecināšanu (autorizāciju) datorizētajā zemesgrāmatā.",
+      "content": "Tiesnesis lēmumu, ar kuru izskatīts šā likuma 71. panta otrajā daļā minētais pieteikums, ievada nostiprinājuma žurnālā. Lēmumu daļā par tiesību nostiprināšanu ievada datorizētajā zemesgrāmatā (82. p.) pēc tam, kad tas stājies spēkā."
+    },
+    {
+      "provision_ref": "Art. 124",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "124",
+      "title": "124. Nostiprinājumu labojumi pēc to autorizācijas nav pieļaujami, izņemot gadījumus, kad kļūdas labošana nerada nekādas sekas attiecībā uz personām, kuru tiesības ir nostiprinātas, par ko šai personai tiek paziņots. Ierakstu labo, nepieņemot jaunu lēmumu, un labotais ieraksts atvieto agrāko ierakstu, saglabājot to datorizētajā zemesgrāmatā.",
+      "content": "124. Nostiprinājumu labojumi pēc to autorizācijas nav pieļaujami, izņemot gadījumus, kad kļūdas labošana nerada nekādas sekas attiecībā uz personām, kuru tiesības ir nostiprinātas, par ko šai personai tiek paziņots. Ierakstu labo, nepieņemot jaunu lēmumu, un labotais ieraksts atvieto agrāko ierakstu, saglabājot to datorizētajā zemesgrāmatā."
+    },
+    {
+      "provision_ref": "Art. 125",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "125",
+      "title": "125. Ja nostiprinājuma lūgums vai tā daļa atstāti bez ievērības, rajona (pilsētas) tiesa triju dienu laikā par to paziņo lūguma iesniedzējam.",
+      "content": "Paziņojumu nostiprinājuma lūguma iesniedzējam nosūta pēc viņa norādītās adreses. Persona, kas nepareizi norādījusi savu adresi vai nav paziņojusi par tās maiņu, nevar aizbildināties ar to, ka nav saņēmusi paziņojumu, kas tai nosūtīts uz norādīto adresi. Par paziņojuma nosūtīšanu izdarāma atzīme nostiprinājuma žurnālā."
+    },
+    {
+      "provision_ref": "Art. 126",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "126",
+      "title": "126. Dzīvokļa īpašumus reģistrē tāpat kā patstāvīgu nekustamo īpašumu šajā likumā noteiktajā kārtībā.",
+      "content": "126. Dzīvokļa īpašumus reģistrē tāpat kā patstāvīgu nekustamo īpašumu šajā likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 126.1",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "126.1",
+      "title": "126. 1 Zemesgrāmatas nodalījuma aktualizācija ir nodalījuma ierakstu pārbaude un precizēšana, lai, nemainot nostiprināto tiesību saturu, iegūtu aktuālos ierakstus.",
+      "content": "Aktuālie ieraksti ir ieraksti par nekustamā īpašuma pašreizējo sastāvu, īpašnieku, nostiprinātajām tiesībām, kā arī šo tiesību nodrošinājumiem un aprobežojumiem."
+    },
+    {
+      "provision_ref": "Art. 126.2",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "126.2",
+      "title": "126. 2 Zemesgrāmatas nodalījumu aktualizē, izskatot nostiprinājuma lūgumu.",
+      "content": "Nodalījumus, par kuriem nav iesniegts nostiprinājuma lūgums (plānveida aktualizācija), aktualizē pēc rajona (pilsētas) tiesas priekšsēdētāja apstiprināta plāna, kas saskaņots ar tieslietu ministru. Sākotnējai nodalījuma aktualizācijai piešķir īpašu žurnāla numuru.\nRajona (pilsētas) tiesas priekšsēdētājs var pilnvarot tiesneša palīgu veikt to zemesgrāmatas nodalījumu plānveida aktualizāciju, kuru ieraksti nav precizējami, kā arī gadījumos, kad ieraksti precizējami, ievērojot šā likuma 126. 3 panta pirmās daļas 1. un 5.punkta nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 126.3",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "126.3",
+      "title": "126. 3 Zemesgrāmatas nodalījumu aktualizē, ievērojot šādus nosacījumus:",
+      "content": "1) nekustamā īpašuma objektiem norāda kadastra apzīmējumu, ja tie identificējami no Kadastra informācijas sistēmas un to platība atbilst zemesgrāmatas ierakstiem;\n2) nodalījuma otrajā daļā norāda īpašnieku un tam piederošo aktuālo domājamo daļu;\n3) precizē ierakstus atbilstoši šā likuma 34.panta otrās daļas un 47.panta otrās daļas prasībām;\n4) atbilstoši veiktajiem grozījumiem izsaka ierakstu jaunā redakcijā;\n5) nodala aktuālos ierakstus.\nPēc aktualizētā zemesgrāmatas nodalījumā esošo ierakstu pilnīguma un pareizības pārbaudes veic ierakstu elektronisku apliecināšanu (autorizāciju). Rīcība, aktualizējot zemesgrāmatas nodalījumu, nav pārsūdzama.\nNostiprināto tiesību secību, apjomu un prioritāti nosaka pēc tiem ierakstiem, ar kuriem tiesība nostiprināta un pārgrozīta."
+    },
+    {
+      "provision_ref": "Art. 126.4",
+      "chapter": "OTRĀ APAKŠNODAĻA DATORIZĒTAIS TIESĪBAS NOSTIPRINĀJUMS",
+      "section": "126.4",
+      "title": "126. 4 Pēc visu zemesgrāmatas nodalījuma daļu aktualizācijas izveido nekustamā īpašuma nodalījuma izrakstu, kurā iekļauj spēkā esošos aktuālos ierakstus par:",
+      "content": "1) nekustamā īpašuma sastāvu (nodalījuma 1.daļas 1.iedaļa);\n2) nekustamā īpašuma īpašnieku un tiesību nodrošinājumiem un aprobežojumiem (nodalījuma 2.daļas 1. un 2.iedaļa);\n3) nekustamā īpašuma apgrūtinājumiem (nodalījuma 3.daļas 1.iedaļa);\n4) nekustamā īpašuma parādiem (nodalījuma 4.daļas 1. un 2.iedaļa)."
+    },
+    {
+      "provision_ref": "Art. 127",
+      "chapter": "TREŠĀ APAKŠNODAĻA DATORIZĒTO NOSTIPRINĀJUMU PIERĀDĪJUMI",
+      "section": "127",
+      "title": "127. Datorizētais zemesgrāmatu akts ir zemesgrāmatas apliecība, kurā vārdu pa vārdam atkārtots tiesneša lēmums un citi nekustamā īpašuma nodalījumā norādītie spēkā esošie ieraksti un atzīmes. Pēc nostiprinājuma lūguma iesniedzēja ieskata viņam var izsniegt zemesgrāmatas apliecību, kurā norāda tikai ziņas par nekustamo īpašumu, tā sastāvu un attiecīgo tiesneša lēmumu.",
+      "content": "Tiesneša lēmuma apliecinātā datorizdrukā vārds pa vārdam ir atkārtots tiesneša lēmums.\nTiesnesis zemesgrāmatas apliecību un tiesneša lēmuma apliecinātu datorizdruku paraksta un apzīmogo."
+    },
+    {
+      "provision_ref": "Art. 128",
+      "chapter": "TREŠĀ APAKŠNODAĻA DATORIZĒTO NOSTIPRINĀJUMU PIERĀDĪJUMI",
+      "section": "128",
+      "title": "128. Katrs lūdzējs, nostiprinot zemesgrāmatā jaunu, vēl nenostiprinātu tiesību, kā arī pārgrozot vai daļēji dzēšot agrāk nostiprinātu tiesību, var saņemt tiesneša lēmuma apliecinātu datorizdruku, ja to norāda lūgumā. Pēc lūdzēja ieskata, nostiprinot zemesgrāmatā jaunu, vēl nenostiprinātu īpašuma tiesību, viņam var izsniegt zemesgrāmatas apliecību, ja to norāda lūgumā.",
+      "content": "( 30.10.2014 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 129",
+      "chapter": "TREŠĀ APAKŠNODAĻA DATORIZĒTO NOSTIPRINĀJUMU PIERĀDĪJUMI",
+      "section": "129",
+      "title": "129. Nostiprinot hipotēku uz tiesas sprieduma pamata (Civillikuma 1307.p.), nostiprinājuma lūgumam jāpievieno:",
+      "content": "1) izpildu raksts vai zvērināta tiesu izpildītāja apliecināta izpildu raksta kopija un tiesas izdotais sprieduma noraksts vai\n2 ) piespiedu izpildīšanai pakļautais oriģinālakts un tiesneša lēmuma noraksts.\nPēc minēto dokumentu elektroniskās kopijas izgatavošanas tos ar attiecīgu atzīmi par kopijas izgatavošanu un tiesneša lēmuma apliecinātu datorizdruku izsniedz nostiprinājuma lūdzējam."
+    },
+    {
+      "provision_ref": "Art. 130",
+      "chapter": "TREŠĀ APAKŠNODAĻA DATORIZĒTO NOSTIPRINĀJUMU PIERĀDĪJUMI",
+      "section": "130",
+      "title": "130. Nostiprinājumu apliecina tiesneša lēmums (123.p.), kā arī tiesneša lēmuma apliecināta datorizdruka vai zemesgrāmatas apliecība.",
+      "content": "( 30.10.2014 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 131",
+      "chapter": "TREŠĀ APAKŠNODAĻA DATORIZĒTO NOSTIPRINĀJUMU PIERĀDĪJUMI",
+      "section": "131",
+      "title": "131. Zemesgrāmatu apliecību un tiesneša lēmuma apliecināto datorizdruku izgatavo un nosūta vai izsniedz tikai pēc pienācīgo nodevu samaksāšanas.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 132",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "132",
+      "title": "132. Katrs var ieskatīties datorizētās zemesgrāmatas nodalījumos un pieprasīt no tās izrakstu (126. 4 p.) vai norakstu, izmantojot tiešo pieslēgumu. Informāciju var pieprasīt, konkrēti norādot nodalījuma numuru vai īpašuma kadastra numuru, vai īpašuma nosaukumu, vai īpašuma sastāvā esoša objekta adresi. Nodalījuma izraksts ir pieejams pēc visu zemesgrāmatas nodalījuma daļu aktualizācijas.",
+      "content": "Šo informāciju var saņemt rajona (pilsētas) tiesās, vai arī to sniedz valsts vienotās datorizētās zemesgrāmatas turētājs. Abos gadījumos ir jānodrošina informācijas izmantotāju uzskaite.\nPirms tādu darījumu apliecināšanas, kuru priekšmets ir zemesgrāmatā ierakstītas vai ierakstāmas tiesības, kā arī pirms nostiprinājuma lūguma apliecināšanas notāram ir pienākums ieskatīties valsts vienotās datorizētās zemesgrāmatas attiecīgajā nodalījumā."
+    },
+    {
+      "provision_ref": "Art. 133",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "133",
+      "title": "133. No datorizētās zemesgrāmatas nodalījumiem informāciju var saņemt:",
+      "content": "1) elektroniskā veidā;\n2) neapliecinātas datorizdrukas veidā;\n3) apliecinātas datorizdrukas veidā."
+    },
+    {
+      "provision_ref": "Art. 134",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "134",
+      "title": "134. Ieskatīties datorizēti uzturētajā nostiprinājuma žurnālā, nekustamo īpašumu lietās un personu rādītājā, kā arī saņemt informāciju no tiem var tikai nekustamā īpašuma īpašnieks un personas, kurām ir kādas tiesības uz nekustamo īpašumu (Civillikuma 1477.p.).",
+      "content": "To valsts iestāžu un amatpersonu sarakstu, kurām valsts vienotās datorizētās zemesgrāmatas turētājs dienesta vajadzībām sniedz šā panta pirmajā daļā minēto informāciju, sniedzamās informācijas apjomu, kā arī informācijas sniegšanas kārtību nosaka Ministru kabinets.\nCitām personām šā panta pirmajā daļā minēto informāciju sniedz ar rajona (pilsētas) tiesas priekšsēdētāja vai viņa pilnvarotas personas atļauju, ja minētā informācija nepieciešama šo personu aizskarto vai apstrīdēto tiesību vai ar likumu aizsargāto interešu aizsardzībai."
+    },
+    {
+      "provision_ref": "Art. 134.1",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "134.1",
+      "title": "134. 1 Rajona (pilsētas) tiesa var pārsūtīt valsts vienotās datorizētās zemesgrāmatas turētājam pieprasījumu par tādas informācijas izsniegšanu, kuru šajā likumā noteiktajā kārtībā var sniegt valsts vienotās datorizētās zemesgrāmatas turētājs, ja pieprasījuma izpilde nav samērojama ar rajona (pilsētas) tiesas rīcībā esošajiem resursiem, it īpaši ņemot vērā pieprasījuma apjomīguma pakāpi.",
+      "content": "( 04.02.2016 . likuma redakcijā ar grozījumiem, kas izdarīti ar 01.11.2018 . likumu, kas stājas spēkā 01.06.2019. )"
+    },
+    {
+      "provision_ref": "Art. 135",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "135",
+      "title": "135. Tieslietu ministra noteiktajā kārtībā valsts vienotās datorizētās zemesgrāmatas turētājs regulāri elektroniski paziņo:",
+      "content": "1) Valsts zemes dienestam un pašvaldībām — par katru nekustamā īpašuma ierakstīšanas un pārejas gadījumu un par katru šā likuma 62.pantā paredzēto gadījumu;\n2) Valsts zemes dienestam, ja tiesneša lēmums par zemes īpašnieka iesnieguma atstāšanu bez ievērības nav pārsūdzēts likumā noteiktajā kārtībā, — par katru šā likuma 56. 4 panta pirmās daļas 1. un 2.punktā paredzēto gadījumu;\n3) pašvaldībām — par katru īres un nomas tiesību nostiprinājuma, pārgrozījuma un dzēšanas gadījumu;\n4) Valsts zemes dienestam un pašvaldībām — par katru apbūves tiesības ierakstīšanas, pārejas un dzēšanas gadījumu;\n5) Valsts zemes dienestam — par katru ēku, ūdens lietošanas vai ceļa servitūta tiesības vai šādas tiesības nodrošinājuma dzēšanas gadījumu."
+    },
+    {
+      "provision_ref": "Art. 136",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "136",
+      "title": "136. Pēc valsts iestāžu vai amatpersonu motivēta pieprasījuma valsts vienotās datorizētās zemesgrāmatas turētājs veic datorizētajā zemesgrāmatā ietverto datu apstrādi, lai tos izsniegtu šīm iestādēm un amatpersonām izmantošanai dienesta vajadzībām.",
+      "content": "( 22.10.1998 . likuma redakcijā, kas stājas spēkā 18.11.1998. )"
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn1",
+      "title": "1. Datorizētā zemesgrāmata aizstāj līdzšinējo zemesgrāmatu, nostiprinājumu žurnālus, nekustamo īpašumu lietas un alfabētiskos rādītājus, saglabājot likumā noteiktos datus.",
+      "content": "1. Datorizētā zemesgrāmata aizstāj līdzšinējo zemesgrāmatu, nostiprinājumu žurnālus, nekustamo īpašumu lietas un alfabētiskos rādītājus, saglabājot likumā noteiktos datus."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn2",
+      "title": "2. Līdzšinējos zemesgrāmatu ierakstus pārraksta datorizētajā zemesgrāmatā un pēc to pilnīguma un pareizības pārbaudīšanas veic ierakstu elektronisku apliecināšanu (autorizāciju).",
+      "content": "2. Līdzšinējos zemesgrāmatu ierakstus pārraksta datorizētajā zemesgrāmatā un pēc to pilnīguma un pareizības pārbaudīšanas veic ierakstu elektronisku apliecināšanu (autorizāciju)."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn3",
+      "title": "3. Pēc tam, kad pārejas noteikumu 2.punktā minētie nosacījumi izpildīti attiecībā uz visām zemesgrāmatu nodaļas pārziņā esošajām zemesgrāmatām, nodaļas priekšnieks pieņem lēmumu pārtraukt zemesgrāmatu vešanu līdzšinējā formā un pāriet uz to kārtošanu datorizētā veidā.",
+      "content": "Līdzšinējās zemesgrāmatas, nostiprinājumu žurnālus, zemesgrāmatu nodaļu tiesnešu lēmumu oriģinālus, nekustamo īpašumu lietas un alfabētiskos rādītājus saglabā arhīvā."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn4",
+      "title": "4. Līdz šā likuma 112.pantā norādītās datorizētās zemesgrāmatas izveidošanai un ieviešanai atbilstoši pārejas noteikumu 1.-3.punktam:",
+      "content": "1) nekustamā īpašuma lietas netiek vestas elektroniskā veidā, bet kārtojamas atbilstoši šā likuma 26.-28.panta noteikumiem;\n2) nostiprinot tiesības zemesgrāmatā, nostiprinājuma lūdzējam izsniedzama zemesgrāmatu apliecība atbilstoši šā likuma 128.panta noteikumiem un to dokumentu noraksti vai apliecinātas gaismas kopijas, kas bija par pamatu nostiprinājumam, ar atzīmi par zemesgrāmatu apliecības izsniegšanu;\n3) tā dokumenta oriģinālu, uz kura pamatots lēmums par tiesības nostiprināšanu, atbilstoši šā likuma 83.pantam pievieno nekustamā īpašuma lietai kopā ar nostiprinājuma lūgumu un tiesneša lēmuma neapliecinātu datorizdruku."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn5",
+      "title": "5. Tieslietu ministrs ar savu instrukciju nosaka:",
+      "content": "1) datorizētās zemesgrāmatas izveides noteikumus;\n2) zemesgrāmatu ierakstu autorizācijas kārtību."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn6",
+      "title": "6. Līdz valsts vienotās datorizētās zemesgrāmatas izveidošanai juridiski atzītu informāciju satur zemesgrāmatu nodaļās uzturētās datorizētās zemesgrāmatas.",
+      "content": "6. Līdz valsts vienotās datorizētās zemesgrāmatas izveidošanai juridiski atzītu informāciju satur zemesgrāmatu nodaļās uzturētās datorizētās zemesgrāmatas."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn7",
+      "title": "7. Līdz attiecīgu grozījumu izdarīšanai likumos par kriminālprocesuālajā kārtībā izdarītu nekustamā īpašuma arestu zemesgrāmatā, pamatojoties uz procesa virzītāja lēmumu par aresta uzlikšanu mantai, ierakstāma ķīlas atzīme, ja ar mantas arestu tiek nodrošināta iespējamā mantiskā prasība, un aizlieguma atzīme, ja ar mantas arestu tiek nodrošināta iespējamā īpašuma tiesību pāreja vai mantas konfiskācija.",
+      "content": "( 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn8",
+      "title": "8. Šā likuma 61.panta pirmās daļas 5.punkta otrais teikums un trešā daļa stājas spēkā 2003.gada 1.septembrī.",
+      "content": "( 27.03.2003 . likuma redakcijā, kas stājas spēkā 29.04.2003. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn9",
+      "title": "9. Šā likuma 3.panta otrā daļa un 77.panta 5.punkts, kā arī 10. un 30.panta jaunā redakcija, kas terminoloģiski precizē administratīvās teritorijas sakarā ar administratīvi teritoriālo reformu, stājas spēkā 2009.gada 1.jūlijā.",
+      "content": "( 26.03.2009 . likuma redakcijā, kas stājas spēkā 29.04.2009. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn10",
+      "title": "10. Līdz šā likuma 106.panta otrajā daļā minēto noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 1.decembrim piemērojami Ministru kabineta 2001.gada 23.janvāra noteikumi Nr.28 “Noteikumi par valsts nodevu par notariālo darbību izpildi un īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatās”, ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 26.03.2009 . likuma redakcijā, kas stājas spēkā 29.04.2009. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn11",
+      "title": "11. Šā likuma 71. 1 pants, 72.panta pirmās daļas otrais teikums, 76.panta sestā daļa un 118. 1 pants stājas spēkā 2011.gada 1.jūlijā.",
+      "content": "( 26.05.2011 . likuma redakcijā, kas stājas spēkā 29.06.2011. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn12",
+      "title": "12. Nostiprinājuma lūgumu, kas pamatots ar notariālo aktu, kurš sastādīts līdz 2015.gada 30.aprīlim, var iesniegt šā likuma 60.panta otrajā daļā noteiktajā kārtībā.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn13",
+      "title": "13. Grozījumi šā likuma 107.panta pirmajā daļā par 7., 8., 9. un 10.punkta izslēgšanu stājas spēkā pēc attiecīgu grozījumu izdarīšanas normatīvajā aktā par tiesu sniegtajiem maksas pakalpojumiem.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn14",
+      "title": "14. Šā likuma 41.panta otrās daļas jaunā redakcija, ceturtā un piektā daļa, 56.4 pants, 135.panta pirmās daļas 2.punkts, kā arī grozījumi 62.pantā stājas spēkā 2015.gada 1.janvārī.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn15",
+      "title": "15. Šā likuma 56.panta pirmajā daļā minētie subjekti nostiprinājuma lūgumu, kas parakstīts normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā, iesniedz, sākot ar 2015.gada 1.maiju. Līdz 2015.gada 30.aprīlim šie subjekti nostiprinājuma lūgumu, kas parakstīts normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā, var iesniegt gadījumos, kad spēj šo kārtību nodrošināt.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn16",
+      "title": "16. Līdz šā likuma 134.panta otrajā daļā minēto Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2014.gada 31.decembrim ir piemērojami Ministru kabineta 2001.gada 20.marta noteikumi Nr.139 \"Kārtība, kādā valsts iestādes un amatpersonas iegūst informāciju no valsts vienotās datorizētās zemesgrāmatas\".",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "PN 17",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn17",
+      "title": "17. Ministru kabinets izvērtē normatīvajos aktos noteiktās valsts nodevas par īpašuma tiesību nostiprināšanu zemesgrāmatā diferenciācijas ietekmi uz savlaicīgu īpašuma tiesību nostiprināšanu zemesgrāmatā un līdz 2016.gada 1.martam iesniedz Saeimai ziņojumu par to.",
+      "content": "( 30.10.2014 . likuma redakcijā, kas stājas spēkā 29.11.2014. )"
+    },
+    {
+      "provision_ref": "PN 18",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn18",
+      "title": "18. Grozījumi šā likuma 71. 1 panta pirmajā daļā, 107.panta ceturtajā daļā un 118. 1 panta pirmās daļas pirmajā teikumā attiecībā uz informāciju, kas saņemta no Ārlietu ministrijas, stājas spēkā vienlaikus ar Starptautisko un Latvijas Republikas nacionālo sankciju likumu.",
+      "content": "( 04.02.2016 . likuma redakcijā, kas stājas spēkā 29.02.2016. )"
+    },
+    {
+      "provision_ref": "PN 19",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn19",
+      "title": "19. Izskatot nostiprinājuma lūgumu, kas saņemts pēc tam, kad stājušies spēkā grozījumi šā likuma 17. panta 1. punkta \"b\" apakšpunktā, rajona (pilsētas) tiesa dzēš apgrūtinājumus, kuri neatbilst šā likuma 17. panta 1. punkta prasībām, tai skaitā tos dzīvokļa īpašuma nodalījumā ierakstītos lietošanas aprobežojumus, kuri ierakstīti saskaņā ar pirkuma līgumiem, kas noslēgti atbilstoši likumam \"Par valsts un pašvaldību dzīvojamo māju privatizāciju\" un ir saistīti ar kopīpašumā esošās daļas lietošanu. Rajona (pilsētas) tiesa atzīmi par tiesību aprobežojumu, kas saistīts ar nekustamā īpašuma atzīšanu par kultūras pieminekli, dzēš pēc tam, kad ir izstrādāta programmatūra, kura nodrošina šā apgrūtinājuma reģistrāciju Kadastra informācijas sistēmā.",
+      "content": "( 11.10.2018 . likuma redakcijā, kas stājas spēkā 01.12.2019. Ar grozījumiem, kas izdarīti ar 13.06.2019 . likumu, kas stājas spēkā 12.07.2019. Sk. pārejas noteikumu 21. punktu)"
+    },
+    {
+      "provision_ref": "PN 20",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn20",
+      "title": "20. Grozījums šā likuma 56. 1 panta trešajā daļā par nostiprinājuma lūguma iesniegšanu, izmantojot oficiālo elektronisko adresi, stājas spēkā 2020. gada 1. janvārī.",
+      "content": "( 13.06.2019 . likuma redakcijā, kas stājas spēkā 12.07.2019. )"
+    },
+    {
+      "provision_ref": "PN 21",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn21",
+      "title": "21. Grozījumi šā likuma 6. pantā, 56. 4 panta pirmās daļas ievaddaļā, 76. 1 pantā, 123. panta otrajā daļā, kā arī pārejas noteikumu 19. punktā stājas spēkā 2019. gada 1. decembrī.",
+      "content": "( 13.06.2019 . likuma redakcijā, kas stājas spēkā 12.07.2019. )"
+    },
+    {
+      "provision_ref": "PN 22",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn22",
+      "title": "22. Īpašnieks iesniegumu par tam piederošas ēkas (būves) dzēšanu, pamatojoties uz dokumentu, kas apliecina ēkas (būves) neesību, ja ēka (būve) nav vienīgais nekustamā īpašuma objekts un minētais dokuments izdots līdz 2020. gada 31. martam, iesniedz Valsts zemes dienestam. Valsts zemes dienests iesniegumu elektroniski nosūta attiecīgajai rajona (pilsētas) tiesai.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 01.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 23",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn23",
+      "title": "23. Šā likuma 62. 1 pantā minētā kārtība, kādā pievienojama dokumenta datne no Būvniecības informācijas sistēmas, attiecas uz dokumentu, ko būvvalde izdevusi, sākot ar 2020. gada 1. janvāri.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 01.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 24",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn24",
+      "title": "24. Šā likuma 64. panta otrajā daļā minētā kārtība, kādā iesniedzama ar elektronisko zīmogu apliecināta lēmuma (dokumenta) datne no Būvniecības informācijas sistēmas, attiecas uz lēmumu (dokumentu), ko būvvalde izdevusi, sākot ar 2020. gada 1. janvāri.",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 01.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 25",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn25",
+      "title": "25. Līdz dienai, kad stājas spēkā grozījumi Elektronisko dokumentu likumā, kas nosaka, ka elektroniskais zīmogs izmantojams arī kā elektroniskā dokumenta juridiskā spēka rekvizīts, elektroniskais dokuments, kura autors ir būvvalde, ir derīgs bez būvvaldes pārstāvja paraksta, ja dokuments ir apliecināts ar Būvniecības informācijas sistēmas kvalificētu elektronisko zīmogu (Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK 3. panta 27. punkta izpratnē).",
+      "content": "( 10.06.2021 . likuma redakcijā, kas stājas spēkā 01.07.2021. )"
+    },
+    {
+      "provision_ref": "PN 26",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn26",
+      "title": "26. Ministru kabinets līdz 2021. gada 1. jūlijam izdara grozījumus 2009. gada 27. oktobra noteikumos Nr. 1250 \"Noteikumi par valsts nodevu par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā\" un valsts nodevu par īpašuma tiesību nostiprināšanu zemesgrāmatā par katru nekustamo īpašumu nosaka šādā apmērā:",
+      "content": "1) zemes īpašuma vai zemes un būvju īpašuma, vai būvju īpašuma, kura sastāvā ietilpst dzīvojamā māja (tai skaitā ar to funkcionāli saistītās ēkas un būves), atsavināšana fiziskajai personai, pamatojoties uz līgumu vai uz tiesas lēmumu par izsoles akta apstiprināšanu vai tiesas lēmumu par nekustamā īpašuma nostiprināšanu nosolītājam, līdzīpašniekam vai kreditoram, — 1,5 procenti no nekustamā īpašuma vērtības ( euro );\n2) zemes un būvju īpašuma vai būvju īpašuma, kura sastāvā ietilpst tikai nedzīvojamā ēka vai nedzīvojamās ēkas un ar tām saistītās inženierbūves, atsavināšana fiziskajai personai, pamatojoties uz līgumu vai uz tiesas lēmumu par izsoles akta apstiprināšanu vai tiesas lēmumu par nekustamā īpašuma nostiprināšanu nosolītājam, līdzīpašniekam vai kreditoram, — 1,5 procenti no nekustamā īpašuma vērtības ( euro );\n3) dzīvokļa īpašuma atsavināšana juridiskajai personai, kas veic komercdarbību, pamatojoties uz līgumu vai uz tiesas lēmumu par izsoles akta apstiprināšanu vai tiesas lēmumu par nekustamā īpašuma nostiprināšanu nosolītājam, līdzīpašniekam vai kreditoram, — divi procenti no dzīvokļa īpašuma vērtības ( euro )."
+    },
+    {
+      "provision_ref": "PN 27",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn27",
+      "title": "27. No kancelejas nodevas par īpašuma tiesību nostiprināšanu zemesgrāmatā ir atbrīvota pašvaldība, ja tiesības uz nekustamo īpašumu tā iegūst reorganizācijas rezultātā.",
+      "content": "( 16.11.2021 . likuma redakcijā, kas stājas spēkā 01.01.2022. )"
+    },
+    {
+      "provision_ref": "PN 28",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn28",
+      "title": "28. Ministru kabinets līdz 2022. gada 1. janvārim izdara grozījumus 2009. gada 27. oktobra noteikumos Nr. 1250 \"Noteikumi par valsts nodevu par īpašuma tiesību un ķīlas tiesību nostiprināšanu zemesgrāmatā\" un valsts nodevu par īpašuma tiesību nostiprināšanu zemesgrāmatā par katru nekustamo īpašumu nosaka ne vairāk kā 50 000 euro apmērā.",
+      "content": "( 16.11.2021 . likuma redakcijā, kas stājas spēkā 01.01.2022. )"
+    },
+    {
+      "provision_ref": "PN 29",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn29",
+      "title": "29. Ja ir ierosināta būvniecība un būvvalde to ir akceptējusi, izdarot atbilstošas atzīmes Būvniecības informācijas sistēmā, bet ēka (būve) nav pieņemta ekspluatācijā līdz 2026. gada 5. janvārim, ir piemērojami šā likuma 41. panta otrās daļas 10. punkta noteikumi gadījumā, kad būvniecības ierosinātājs ir izvēlējies piemērot vienoto būves reģistrācijas procesu Būvniecības likumā noteiktajā kārtībā.",
+      "content": "( 13.11.2025 . likuma redakcijā, kas stājas spēkā 06.01.2026. )"
+    },
+    {
+      "provision_ref": "PN 30",
+      "chapter": "CETURTĀ APAKŠNODAĻA NO DATORIZĒTĀS ZEMESGRĀMATAS IZSNIEDZAMĀS ZIŅAS",
+      "section": "pn30",
+      "title": "30. Šā likuma 41. panta otrās daļas 10. punkts par ierakstīšanu zemesgrāmatā, pamatojoties uz Būvniecības informācijas sistēmas un Kadastra informācijas sistēmas strukturētajiem datiem, attiecībā uz jaunbūvēm tiek piemērots ar 2026. gada 1. aprīli.",
+      "content": "( 13.11.2025 . likuma redakcijā, kas stājas spēkā 06.01.2026. )"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,182 @@
+{
+  "id": "lv-law-90819",
+  "type": "statute",
+  "title": "DNS nacionālās datu bāzes izveidošanas un izmantošanas likums",
+  "title_en": "Law On The Development And Use Of The National Dna Database",
+  "short_name": "TA-90819",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/90819-dns-nacionalas-datu-bazes-izveidosanas-un-izmantosanas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) bioloģiskais materiāls — cilvēka audu vai orgānu daļas un organisma šķidrumi, kas satur šūnas, kuru kodolos ir dezoksiribonukleīnskābes [asinis, siekalas, sperma, sviedri, urīns, mīkstie audi (piemēram, muskuļi), kauli, mati ar to sīpoliņu maksts ārējiem apvalkiem];\n2) bioloģiskas izcelsmes pēdas — bioloģiskais materiāls, kas izņemts notikuma vietā, pazudušas personas dzīvesvietā, no cietušās, aizturētās, aizdomās turētās vai apsūdzētās personas vai tās apģērba, no līķa, kā arī no cita veida lietiskajiem pierādījumiem;\n3) DNS — dezoksiribonukleīnskābes molekulas daļa, kas norāda uz cilvēku atšķirīgo pazīmju ģenētisko informāciju;\n4) DNS profils — datorlasāms DNS ģenētiskās izpētes rezultāts;\n5) DNS ģenētiskā izpēte — bioloģiskā materiāla zinātniska izpēte, lai noteiktu izmeklējamo paraugu DNS profilu;\n6) salīdzināmie paraugi — bioloģiskais materiāls, kas ņemts no cietušām, aizturētām, aizdomās turētām, apsūdzētām vai notiesātām personām, no neatpazītiem līķiem, no pazudušu personu bioloģiski tuviem radiniekiem (bērniem, vecākiem), lai noskaidrotu bioloģiskas izcelsmes pēdu avotu, identificētu pazudušu personu vai neatpazītu līķi;\n7) ziņas — personas vārds (vārdi), uzvārds, personas kods, notikumu uzskaites reģistrācijas numurs, operatīvās uzskaites lietas vai krimināllietas numurs, tās iestādes nosaukums, kurā reģistrēts notikums vai lieta, un bioloģiskā materiāla daudzums un veids."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis ir izveidot DNS nacionālo datu bāzi, kas izmantojama noziedzīgu nodarījumu atklāšanā, pazudušu personu meklēšanā un neatpazītu līķu (līķa materiālu) identificēšanā, kā arī noteikt un regulēt DNS ģenētiskās izpētes rezultātu apmaiņu ar ārvalstīm un starptautiskajām organizācijām.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 16.06.2010 . likumu, kas stājas spēkā 20.07.2010. )"
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "(1) Aizliegta jebkāda personas diskriminācija saistībā ar tās DNS izcelšanos un jebkuriem citiem DNS izpētes rezultātā iegūtiem datiem.",
+      "content": "(2) Salīdzināmo paraugu un bioloģiskas izcelsmes pēdu izpēti veic valsts ekspertīžu iestāžu sertificēti eksperti, kuriem ir atbilstošas zināšanas un vismaz gadu ilga pieredze attiecīgajā jomā.\n(3) Salīdzināmo paraugu un bioloģiskas izcelsmes pēdu izpēte ir atļauta tikai zinātniski pamatotas informācijas iegūšanai."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "DNS nacionālajā datu bāzē apkopo un glabā informāciju par DNS profiliem un ziņas par personām, kuras turētas aizdomās, apsūdzētas vai notiesātas, par neatpazītiem līķiem, par Latvijas Republikā pazudušām personām un par bioloģiskas izcelsmes pēdām.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 09.03.2006 . likumu, kas stājas spēkā 06.04.2006. )"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "DNS nacionālās datu bāzes tehnisko resursu turētājs ir Iekšlietu ministrijas Informācijas centrs.",
+      "content": "5.pants. DNS nacionālās datu bāzes tehnisko resursu turētājs ir Iekšlietu ministrijas Informācijas centrs."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "DNS nacionālās datu bāzes sistēmas pārzinis un informācijas resursu turētājs ir Valsts policijas Kriminālistikas pārvalde (turpmāk — Kriminālistikas pārvalde).",
+      "content": "6.pants. DNS nacionālās datu bāzes sistēmas pārzinis un informācijas resursu turētājs ir Valsts policijas Kriminālistikas pārvalde (turpmāk — Kriminālistikas pārvalde)."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "DNS nacionālās datu bāzes uzturēšanu, izmantošanu un pilnveidošanu finansē no valsts budžetā šiem mērķiem paredzētajiem līdzekļiem.",
+      "content": "7.pants. DNS nacionālās datu bāzes uzturēšanu, izmantošanu un pilnveidošanu finansē no valsts budžetā šiem mērķiem paredzētajiem līdzekļiem."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "8",
+      "title": "Ziņas par ārvalstīs notiesātajiem Latvijas pilsoņiem, nepilsoņiem, Latvijā pastāvīgās uzturēšanās atļauju saņēmušajiem ārvalstniekiem, bezvalstniekiem un bēgļiem un informāciju par viņu DNS profiliem DNS nacionālajā datu bāzē iekļauj saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem.",
+      "content": "8.pants. Ziņas par ārvalstīs notiesātajiem Latvijas pilsoņiem, nepilsoņiem, Latvijā pastāvīgās uzturēšanās atļauju saņēmušajiem ārvalstniekiem, bezvalstniekiem un bēgļiem un informāciju par viņu DNS profiliem DNS nacionālajā datu bāzē iekļauj saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa DNS nacionālajā datu bāzē iekļaujamie DNS profili un informācija",
+      "section": "9",
+      "title": "Ja notikuma vietā izņemtas bioloģiskas izcelsmes pēdas un noteikta DNS ekspertīze, DNS nacionālajā datu bāzē iekļaujama šāda informācija:",
+      "content": "1) notikumu uzskaites reģistrācijas numurs vai krimināllietas numurs;\n2) datums, kad izdarīts noziedzīgs nodarījums;\n3) tās iestādes nosaukums, kura reģistrējusi notikumu, krimināllietu un kuras lietvedībā krimināllieta atrodas;\n4) bioloģiskas izcelsmes pēdu skaits un veids;\n5) DNS profils."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa DNS nacionālajā datu bāzē iekļaujamie DNS profili un informācija",
+      "section": "10",
+      "title": "Par noziedzīga nodarījuma izdarīšanā aizdomās turēto, apsūdzēto vai notiesāto personu DNS nacionālajā datu bāzē iekļaujama šāda informācija:",
+      "content": "1) personas vārds (vārdi) un uzvārds;\n2) personas kods (ārvalstniekiem un bezvalstniekiem — dzimšanas datums);\n3) valstiskā piederība un tās veids;\n4) krimināllietas numurs (numuri);\n5) tās iestādes nosaukums, kurā izņemts salīdzināmais paraugs, un parauga veids;\n6) tās personas vārds (vārdi) un uzvārds, kura izņēmusi salīdzināmo paraugu;\n7) DNS profils."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "II nodaļa DNS nacionālajā datu bāzē iekļaujamie DNS profili un informācija",
+      "section": "11",
+      "title": "Par neatpazītu līķi (līķa materiālu) DNS nacionālajā datu bāzē iekļaujama šāda informācija:",
+      "content": "1) notikumu uzskaites reģistrācijas numurs vai operatīvās uzskaites lietas vai krimināllietas numurs;\n2) datums, kad atrasts neatpazīts līķis;\n3) tās iestādes nosaukums, kuras lietvedībā atrodas operatīvās uzskaites lieta vai krimināllieta;\n4) bioloģiskā materiāla veids;\n5) DNS profils."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "II nodaļa DNS nacionālajā datu bāzē iekļaujamie DNS profili un informācija",
+      "section": "12",
+      "title": "(1) Par pazudušu personu DNS nacionālajā datu bāzē iekļaujama šāda informācija:",
+      "content": "1) pazudušās personas vārds (vārdi), uzvārds un personas kods;\n2) pazudušās personas bioloģiski tuvu radinieku vārds (vārdi), uzvārds un personas kods;\n3) operatīvās uzskaites lietas vai krimināllietas numurs;\n4) tās iestādes nosaukums, kuras lietvedībā atrodas operatīvās uzskaites lieta vai krimināllieta;\n5) pazudušās personas bioloģiski tuvu radinieku DNS profili.\n(2) Ja nav iespējams noskaidrot pazudušas personas bioloģiski tuvus radiniekus vai viņi atsakās sniegt salīdzināmos paraugus, DNS nacionālajā datu bāzē iekļaujama šāda informācija:\n1) pazudušās personas vārds (vārdi), uzvārds un personas kods;\n2) operatīvās uzskaites lietas vai krimināllietas numurs;\n3) tās iestādes nosaukums, kuras lietvedībā atrodas operatīvās uzskaites lieta vai krimināllieta;\n4) to pazudušas personas personisko mantu uzskaitījums, no kurām iegūts bioloģiskais materiāls;\n5) bioloģiskā materiāla veids;\n6) DNS profils.\n(3) Pazudušu personu tuvi radinieki salīdzināmos paraugus un ziņas iekļaušanai DNS nacionālajā datu bāzē sniedz labprātīgi, dodot rakstveida piekrišanu datu apstrādei Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "II nodaļa DNS nacionālajā datu bāzē iekļaujamie DNS profili un informācija",
+      "section": "13",
+      "title": "(1) Bioloģiskā materiāla un bioloģiskas izcelsmes pēdu izņemšanu, kā arī ziņu savlaicīgu sniegšanu Kriminālistikas pārvaldei to iekļaušanai DNS nacionālajā datu bāzē Ministru kabineta noteiktajā kārtībā nodrošina:",
+      "content": "1) izmeklēšanas iestādes;\n2) Ieslodzījuma vietu pārvalde;\n3) prokuratūras iestādes;\n4) tiesas;\n5) ārstniecības iestādes vai ārstniecības personas.\n(2) Šā panta pirmajā daļā minētās iestādes un personas ir atbildīgas par bioloģiskā materiāla un bioloģiskas izcelsmes pēdu izņemšanu, kā arī par ziņu savlaicīgu sniegšanu un šo ziņu atbilstību tās apliecinošiem dokumentiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "II nodaļa DNS nacionālajā datu bāzē iekļaujamie DNS profili un informācija",
+      "section": "14",
+      "title": "Kriminālistikas pārvalde ir tiesīga pieprasīt un bez maksas saņemt bioloģisko materiālu, bioloģiskas izcelsmes pēdas, DNS profilus un ziņas no valsts un pašvaldību iestādēm.",
+      "content": "14.pants. Kriminālistikas pārvalde ir tiesīga pieprasīt un bez maksas saņemt bioloģisko materiālu, bioloģiskas izcelsmes pēdas, DNS profilus un ziņas no valsts un pašvaldību iestādēm."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "III nodaļa DNS nacionālajā datu bāzē iekļautās informācijas sniegšana",
+      "section": "15",
+      "title": "DNS nacionālajā datu bāzē iekļaujamie DNS profili un ziņas ir ierobežotas pieejamības informācija.",
+      "content": "15.pants. DNS nacionālajā datu bāzē iekļaujamie DNS profili un ziņas ir ierobežotas pieejamības informācija."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "III nodaļa DNS nacionālajā datu bāzē iekļautās informācijas sniegšana",
+      "section": "16",
+      "title": "(1) Tiesības saņemt informāciju no DNS nacionālās datu bāzes ir izmeklēšanas iestādēm (ar prokurora piekrišanu), prokuratūras iestādēm un tiesām pirmstiesas kriminālprocesa veikšanai, lietu izskatīšanai un iztiesāšanai.",
+      "content": "(2) Lai saņemtu informāciju no DNS nacionālās datu bāzes, pieprasījumā norādāms informācijas nepieciešamības pamatojums.\n(3) Pieprasījumā un tā pamatojumā iekļaujamo informāciju, tās apjomu, kā arī pieprasījuma izskatīšanas un informācijas sniegšanas kārtību nosaka Ministru kabinets.\n(4) Kriminālistikas pārvalde rakstveidā informē ekspertīzes noteicēju par DNS nacionālajā datu bāzē konstatētajām sakritībām, kuras noteiktas bioloģiskā materiāla un bioloģiskas izcelsmes pēdu DNS ģenētiskajā izpētes procesā ekspertīžu gaitā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa DNS nacionālajā datu bāzē iekļautās informācijas sniegšana",
+      "section": "17",
+      "title": "(1) DNS nacionālajā datu bāzē iekļautās informācijas sniegšana ārvalstu tiesībaizsardzības iestādēm pieļaujama gadījumos un kārtībā, ko paredz Latvijas Republikai saistoši starptautiskie līgumi vai Eiropas Savienības tiesību akti.",
+      "content": "(2) DNS profiliem un ziņām, kuras saņemtas no ārvalstu tiesībaizsardzības iestādēm, nodrošināms tulkojums valsts valodā."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "IV nodaļa DNS nacionālajā datu bāzē iekļauto DNS profilu un ziņu glabāšanas termiņi",
+      "section": "18",
+      "title": "(1) DNS profilus un ziņas par aizdomās turētajām vai apsūdzētajām personām, ja kriminālprocess tiek izbeigts kopumā vai pret konkrēto personu uz reabilitējošu apstākļu pamata vai tiek atcelts lēmums, ar kuru attiecīgā persona atzīta par aizdomās turēto vai apsūdzēto uz tāda paša pamata, kā arī tad, ja stājies spēkā personu attaisnojošs spriedums, no DNS nacionālās datu bāzes dzēš nekavējoties pēc attiecīgā nolēmuma spēkā stāšanās.",
+      "content": "(2) DNS profilus un ziņas par notiesātajiem, kā arī personām, pret kurām kriminālprocess izbeigts uz nereabilitējošu apstākļu pamata, DNS nacionālajā datu bāzē glabā 75 gadus.\n(3) DNS profilus un ziņas par neatpazītiem līķiem un pazudušām personām DNS nacionālajā datu bāzē glabā 75 gadus vai līdz brīdim, kad līķi vai personas tiek identificētas.\n(4) DNS profilus un ziņas par bioloģiskas izcelsmes pēdām DNS nacionālajā datu bāzē glabā 75 gadus vai līdz brīdim, kad bioloģiskas izcelsmes pēdas tiek identificētas.\n(5) Pēc glabāšanas termiņa beigām DNS profilus un ziņas iznīcina un par to sastāda aktu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "IV nodaļa DNS nacionālajā datu bāzē iekļauto DNS profilu un ziņu glabāšanas termiņi",
+      "section": "19",
+      "title": "Tiklīdz saskaņā ar šā likuma 18. panta nosacījumiem no DNS nacionālās datu bāzes dzēš personas DNS profilu un ziņas, Kriminālistikas pārvalde iznīcina arī tās rīcībā nodoto attiecīgās personas bioloģiskā materiāla paraugu.",
+      "content": "( 02.03.2017 . likuma redakcijā, kas stājas spēkā 28.03.2017. )"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "bioloģiskais materiāls",
+      "definition": "cilvēka audu vai orgānu daļas un organisma šķidrumi, kas satur šūnas, kuru kodolos ir dezoksiribonukleīnskābes [asinis, siekalas, sperma, sviedri, urīns, mīkstie audi (piemēram, muskuļi), kauli, mati ar to sīpoliņu maksts ārējiem apvalkiem]",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "bioloģiskas izcelsmes pēdas",
+      "definition": "bioloģiskais materiāls, kas izņemts notikuma vietā, pazudušas personas dzīvesvietā, no cietušās, aizturētās, aizdomās turētās vai apsūdzētās personas vai tās apģērba, no līķa, kā arī no cita veida lietiskajiem pierādījumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "DNS",
+      "definition": "dezoksiribonukleīnskābes molekulas daļa, kas norāda uz cilvēku atšķirīgo pazīmju ģenētisko informāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "DNS profils",
+      "definition": "datorlasāms DNS ģenētiskās izpētes rezultāts",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "DNS ģenētiskā izpēte",
+      "definition": "bioloģiskā materiāla zinātniska izpēte, lai noteiktu izmeklējamo paraugu DNS profilu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "salīdzināmie paraugi",
+      "definition": "bioloģiskais materiāls, kas ņemts no cietušām, aizturētām, aizdomās turētām, apsūdzētām vai notiesātām personām, no neatpazītiem līķiem, no pazudušu personu bioloģiski tuviem radiniekiem (bērniem, vecākiem), lai noskaidrotu bioloģiskas izcelsmes pēdu avotu, identificētu pazudušu personu vai neatpazītu līķi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ziņas",
+      "definition": "personas vārds (vārdi), uzvārds, personas kods, notikumu uzskaites reģistrācijas numurs, operatīvās uzskaites lietas vai krimināllietas numurs, tās iestādes nosaukums, kurā reģistrēts notikums vai lieta, un bioloģiskā materiāla daudzums un veids.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

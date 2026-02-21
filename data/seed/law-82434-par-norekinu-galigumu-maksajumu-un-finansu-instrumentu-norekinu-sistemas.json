@@ -1,0 +1,289 @@
+{
+  "id": "lv-law-82434",
+  "type": "statute",
+  "title": "Par norēķinu galīgumu maksājumu un finanšu instrumentu norēķinu sistēmās",
+  "title_en": "On Settlement Finality In Payment And Financial Instrument Settlement Systems",
+  "short_name": "TA-82434",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/82434-par-norekinu-galigumu-maksajumu-un-finansu-instrumentu-norekinu-sistemas",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "1",
+      "title": "(1) Likumā ir lietoti šādi termini:",
+      "content": "1) maksājumu un finanšu instrumentu norēķinu sistēma (turpmāk — sistēma) — maksājumu un finanšu instrumentu pārvedumu rīkojumu izpildes mehānisms, kas darbojas saskaņā ar vienošanos un atbilst visiem šādiem nosacījumiem:\na) tā ir vienošanās starp vismaz trim dalībniekiem, neskaitot sistēmas uzturētāju, norēķinu aģentu, centrālo darījumu partneri , tīrvērtes centru vai netiešo dalībnieku, par pārveduma rīkojumu izpildi starp dalībniekiem vai ieskaitu ar centrālā darījumu partnera starpniecību vai bez tās saskaņā ar vienotiem noteikumiem un standartizētām procedūrām,\nb) to regulē dalībnieku izraudzītais Latvijas Republikas vai Eiropas Savienības dalībvalsts vai Eiropas Ekonomikas zonas valsts (turpmāk — dalībvalsts) likums,\nc) Latvija vai cita dalībvalsts, saskaņā ar kuras likumiem sistēma darbojas, to noteikusi par sistēmu un par šo lēmumu ir informējusi Eiropas Vērtspapīru un tirgu iestādi;\n2) iestāde — institūcija, kas piedalās sistēmā un atbild par to finanšu saistību izpildi, kuras radušās saskaņā ar pārveduma rīkojumiem šajā sistēmā, un atbilst vienam no šādiem nosacījumiem:\na) tā ir dalībvalstī reģistrēta kredītiestāde, filiāle, ārvalsts kredītiestādes filiāle, centrālā banka, krājaizdevu sabiedrība vai pasta komersants, kuram atbilstoši normatīvajiem aktiem ir tiesības sniegt maksājumu pakalpojumus,\nb) tā ir dalībvalstī reģistrēta ieguldījumu brokeru sabiedrība, filiāle vai ārvalsts ieguldījumu brokeru sabiedrības filiāle,\nc) tā ir valsts pārvaldes institūcija vai valsts vai pašvaldības kapitālsabiedrība,\nd) (izslēgts ar 03.03.2011 . likumu) ,\ne) tā ir dalībvalstī licencēta maksājumu iestāde, ja tā piedalās sistēmā, kurā tiek apstrādāti tikai šā panta pirmās daļas 10. punkta \"a\" apakšpunktā minētie pārveduma rīkojumi,\nf) tā ir dalībvalstī licencēta elektroniskās naudas iestāde, ja tā piedalās sistēmā, kurā tiek apstrādāti tikai šā panta pirmās daļas 10. punkta \"a\" apakšpunktā minētie pārveduma rīkojumi;\n3) (izslēgts ar 30.09.2021 . likumu) ;\n4) norēķinu aģents — institūcija, kas iestādēm vai centrālajam darījumu partnerim atver norēķinu kontus norēķiniem par sistēmā apstrādātajiem pārveduma rīkojumiem un, ja nepieciešams, minētajām iestādēm vai centrālajam darījumu partnerim var izsniegt kredītu norēķiniem;\n5) tīrvērtes centrs — institūcija, kas atbild par iestāžu neto pozīciju aprēķinu un centrālā darījumu partnera vai norēķinu aģenta neto pozīciju aprēķinu, ja minētās iestādes arī ir vienošanās dalībnieki un attiecīgā vienošanās paredz neto pozīciju aprēķinu;\n6) dalībnieks — iestāde, centrālais darījumu partneris, norēķinu aģents, tīrvērtes centrs, sistēmas uzturētājs (operators) vai centrālā darījumu partnera, kas saņēmis atļauju centrālā darījumu partnera darbībai Eiropas Parlamenta un Padomes 2012. gada 4. jūlija regulas (ES) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk — regula Nr. 648/2012) 17. pantā noteiktajā kārtībā, tīrvērtes dalībnieks;\n7) netiešais dalībnieks — iestāde, centrālais darījumu partneris , norēķinu aģents, tīrvērtes centrs vai sistēmas uzturētājs, kuru sistēma var identificēt un kuram ir vienošanās ar dalībnieku par pārvedumu rīkojumu izpildi attiecīgās sistēmas ietvaros;\n8) sistēmas uzturētājs (operators) — institūcija, kas ir atbildīga par sistēmas darbības nodrošināšanu;\n9) sistēmiskais risks — risks, ka viena sistēmas dalībnieka nespēja izpildīt savas saistības izraisīs citu dalībnieku vai finanšu iestāžu nespēju noteiktajā laikā izpildīt savas saistības. Šāda situācija var radīt ievērojamas likviditātes vai kredīta problēmas, bet tas savukārt var apdraudēt finanšu tirgus stabilitāti;\n10) pārveduma rīkojums — norādījums, kas atbilst vienam no šādiem nosacījumiem:\na) dalībnieka norādījums par naudas summas nodošanu saņēmēja rīcībā ar grāmatvedības ierakstu kredītiestādes, centrālās bankas, centrālā darījumu partnera vai norēķinu aģenta kontā vai norādījums pieņemt maksājumu vai izpildīt maksājuma saistības saskaņā ar sistēmas noteikumiem,\nb) dalībnieka norādījums nodot īpašumtiesības uz finanšu instrumentiem vai tiesības uz finanšu instrumentiem ar ierakstu reģistrā vai citādi;\n11) maksātnespējas procedūra — jebkurš pasākums, tai skaitā maksātnespējas process, ko paredz dalībvalsts vai kādas ārvalsts likumi attiecīgā dalībnieka likvidēšanai, kā arī darbības ierobežošanai vai sanācijai, ja tas ietver finanšu instrumentu vai naudas pārvedumu apturēšanu vai ierobežošanu;\n12) maksātnespējas procedūras sākšana — brīdis, kad dalībvalsts vai kādas ārvalsts attiecīgā tiesu vai administratīvā iestāde pieņēmusi lēmumu vai spriedumu sākt maksātnespējas procedūru;\n13) ieskaits — prasību un saistību pārvēršana vienā neto prasībā vai vienās neto saistībās tā, ka var izvirzīt tikai neto prasību un jāizpilda tikai neto saistības, ja prasības un saistības izriet no pārveduma rīkojumiem, ko izpilda viens vai vairāki dalībnieki par labu vienam vai vairākiem citiem sistēmas dalībniekiem vai ko dalībnieki saņem no citiem sistēmas dalībniekiem;\n14) norēķinu konts — tāds konts centrālajā bankā, pie norēķinu aģenta vai centrālā darījumu partnera , kuru sistēmas dalībnieki izmanto naudas līdzekļu vai finanšu instrumentu glabāšanai vai norēķiniem par sistēmas dalībnieku savstarpējiem darījumiem;\n15) nodrošinājums — realizējamie aktīvi, tai skaitā finanšu līdzekļi, finanšu instrumenti un kredītprasības, ko sniedz tādu tiesību izlietošanai un saistību izpildei, kuras var rasties sakarā ar dalību sistēmā, vai nodrošinājums, ko sniedz centrālajai bankai;\n16) centrālā banka — Latvijas Banka, citas dalībvalsts centrālā banka vai Eiropas Centrālā banka;\n17) tīrvērte — pārveduma rīkojumu pārraide, salīdzināšana un, ja nepieciešams, apstiprināšana pirms norēķinu veikšanas, kā arī pārveduma rīkojuma ieskaits un tādu neto pozīciju noteikšana, saskaņā ar kurām tiks veikti norēķini;\n18) tīrvērtes sistēma — procedūru kopums, ar kura palīdzību dalībnieki tīrvērtes centrā vai citā noteiktā vietā veic ar naudas vai finanšu instrumentu pārvedumiem saistītas informācijas vai dokumentu apmaiņu. Lai nodrošinātu dalībnieku saistību norēķinus, izmantojot ieskaitu, procedūru kopums var ietvert arī kārtību, kādā tiek aprēķinātas dalībnieku neto pozīcijas;\n19) neto pozīcija — starpība starp tīrvērtes sistēmas dalībnieka noteiktā laikposmā saņemto un veikto pārvedumu kopapjomu. Ja šī starpība ir pozitīva, veidojas neto kredīta pozīcija jeb neto prasības, bet, ja šī starpība ir negatīva, veidojas neto debeta pozīcija jeb neto saistības;\n20) (izslēgts ar 03.03.2011 . likumu) ;\n21) darbdiena — sistēmas noteikumos paredzētais laiks, kad attiecīgās sistēmas ietvaros ir iespējama pārveduma rīkojumu izpilde;\n22) sadarbībspējīgas sistēmas — divas vai vairākas sistēmas, kuru sistēmu uzturētāji ir savstarpēji vienojušies par kārtību, kas ietver pārveduma rīkojumu izpildi starp sistēmām.\n(2) Likumā lietotais termins “kredītprasības” atbilst Finanšu nodrošinājuma likumā skaidrotajam terminam “kredītprasības”.\n(3) Termins \"centrālais darījumu partneris\" un termins \"tīrvērtes dalībnieks\" atbilst regulā Nr. 648/2012 lietotajiem terminiem."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Šā likuma mērķis ir nodrošināt:",
+      "content": "1) finanšu tirgus stabilitāti, veicinot Latvijas Republikas un pārrobežu maksājumu un finanšu instrumentu norēķinu sistēmu drošu un efektīvu darbību, ierobežojot sistēmisko risku un pēc iespējas mazinot sistēmas traucējumus, ko varētu radīt maksātnespējas procedūras sākšana pret kādu dalībnieku;\n2) ieskaita un norēķinu galīgumu, to tiesisku spēku sistēmā un tiesības brīvi realizēt nodrošinājumu, kas sniegts par dalību sistēmā vai darījumos ar centrālo banku, arī dalībnieka maksātnespējas procedūras gadījumā."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Šis likums attiecas uz:",
+      "content": "1) sistēmām, par kuru darbību Latvijas Banka informējusi Eiropas Vērtspapīru un tirgu iestādi;\n2) visiem šā panta 1.punktā minēto sistēmu dalībniekiem;\n3) nodrošinājumu, kas sniegts par dalību šā panta 1.punktā minētajās sistēmās vai ko centrālā banka izmanto darījumos, pildot centrālās bankas funkcijas."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "4",
+      "title": "(1) Latvijas Banka par sistēmu šā likuma 1.panta 1.punkta izpratnē var noteikt arī vienošanos:",
+      "content": "1) kuras uzdevums ir šā likuma 1.panta 10.punkta \"b\" apakšpunktā minēto pārveduma rīkojumu izpilde un kura ierobežotā apjomā izpilda rīkojumus attiecībā uz cita veida finanšu instrumentiem, ja šādu lēmumu pamato sistēmiskais risks;\n2) starp diviem dalībniekiem, neskaitot norēķinu aģentu, centrālo darījumu partneri , tīrvērtes centru vai netiešo dalībnieku, ja šādas institūcijas arī ir vienošanās dalībnieki, par pārveduma rīkojumu izpildi, ja šādu lēmumu pamato sistēmiskais risks.\n(2) Vienošanās starp sadarbībspējīgām sistēmām neveido atsevišķu sistēmu."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "5",
+      "title": "(1) Latvijas Banka par iestādi šā likuma 1.panta 2.punkta izpratnē var noteikt arī komercsabiedrību, kas piedalās attiecīgajā sistēmā, kurā tiek izpildīti tikai šā likuma 1.panta 10.punkta \"b\" apakšpunktā minētie pārveduma rīkojumi, kā arī maksājumi, kas izriet no šādiem rīkojumiem, ja šī komercsabiedrība atbild par finanšu saistībām, kuras izriet no pārveduma rīkojumiem šajā sistēmā, ja vien vismaz trīs šādas sistēmas dalībnieki ir šā likuma 1.panta 2.punktā minētās iestādes un šādu lēmumu pamato sistēmiskais risks.",
+      "content": "(2) (Izslēgta ar 03.03.2011 . likumu) ."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "6",
+      "title": "(Izslēgts ar 30.09.2021 . likumu, kas stājas spēkā 29.10.2021. )",
+      "content": "6.pants. (Izslēgts ar 30.09.2021 . likumu, kas stājas spēkā 29.10.2021. )"
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7",
+      "title": "Viens un tas pats dalībnieks var darboties kā centrālais darījumu partneris, norēķinu aģents vai tīrvērtes centrs vai veikt daļu no šo dalībnieku uzdevumiem vai visus šo dalībnieku uzdevumus, ja tāda iespēja paredzēta sistēmas noteikumos.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 30.09.2021. likumu, kas stājas spēkā 29.10.2021.)"
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
+      "section": "7.1",
+      "title": "7. 1 pants. (1) Latvijas Banka veic sistēmu pārraudzību.",
+      "content": "(2) Sistēmas uzturētājam (operatoram) ir pienākums sniegt Latvijas Bankai sistēmas pārraudzības vajadzībām nepieciešamo informāciju."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa Ieskaits un pārveduma rīkojumi",
+      "section": "8",
+      "title": "(1) Ieskaits un pārveduma rīkojumi ir spēkā esoši un saistoši trešajām personām arī tad, ja attiecībā uz sistēmas vai sadarbībspējīgas sistēmas dalībnieku vai sadarbībspējīgas sistēmas uzturētāju, kas nav dalībnieks, sākta maksātnespējas procedūra, ja vien pārveduma rīkojumi ievadīti sistēmā pirms maksātnespējas procedūras sākšanas.",
+      "content": "(2) Ja pārveduma rīkojumi ir ievadīti sistēmā pēc dalībnieka maksātnespējas procedūras sākšanas un tos izpilda tajā sistēmas noteikumos noteiktajā darbdienā, kad sākta maksātnespējas procedūra, tie ir spēkā esoši un saistoši trešajām personām tikai tad, ja sistēmas uzturētājs var pierādīt, ka laikā, kad šādi pārveduma rīkojumi saskaņā ar sistēmas noteikumiem kļuva neatsaucami, tas nezināja un tam nebija pienākuma zināt par šādas procedūras sākšanu.\n(3) Normatīvie akti, kas paredz tiesisku darījumu anulēšanu, nav piemērojami attiecībā uz to prasību un saistību ieskaitu, kuras izriet no dalības sistēmā un kuras radušās pirms dalībnieka maksātnespējas procedūras sākšanas.\n(4) Brīdi, kad sistēmā ievadīts pārveduma rīkojums, nosaka katras sistēmas noteikumi.\n(5) Sadarbībspējīgās sistēmās katras sistēmas noteikumos nosaka brīdi, kad sistēmā ievadīts pārveduma rīkojums. Vienas sistēmas noteikumus attiecībā uz pārveduma rīkojuma ievadīšanas brīdi neietekmē citas sistēmas noteikumi, ja vien tas nav paredzēts visu iesaistīto sistēmu noteikumos."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa Ieskaits un pārveduma rīkojumi",
+      "section": "9",
+      "title": "Dalībnieka vai sadarbībspējīgas sistēmas uzturētāja maksātnespējas procedūras sākšana neliedz:",
+      "content": "1) izmantot dalībnieka norēķinu kontā pieejamos naudas līdzekļus vai finanšu instrumentus, lai ļautu dalībniekam izpildīt no tā dalības sistēmā vai sadarbībspējīgā sistēmā izrietošās saistības, kas tam ir maksātnespējas procedūras sākšanas darbdienā;\n2) samazināt dalībniekam ar sistēmu saistītu kredītu pret sistēmā vai sadarbībspējīgā sistēmā pieejamu nodrošinājumu, lai izpildītu dalībnieka saistības attiecīgajā sistēmā."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "II nodaļa Ieskaits un pārveduma rīkojumi",
+      "section": "10",
+      "title": "(1) Sistēmas noteikumos nosaka brīdi, kad pārveduma rīkojumu nevar vienpusēji atsaukt.",
+      "content": "(2) Sadarbībspējīgās sistēmās katras sistēmas noteikumos nosaka brīdi, kad pārveduma rīkojumu nevar vienpusēji atsaukt. Vienas sistēmas noteikumus attiecībā uz neatsaucamības brīdi neietekmē citas sistēmas noteikumi, ja vien tas nav paredzēts visu iesaistīto sistēmu noteikumos.\n(3) Pārveduma rīkojums ir neatsaucams un norēķins ir galīgs pēc brīža, kas noteikts attiecīgās sistēmas noteikumos."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa Noteikumi par dalībnieku maksātnespējas procedūrām",
+      "section": "11",
+      "title": "(1) Latvijas Republikas tiesa Civilprocesa likuma noteiktajā kārtībā informē Latvijas Banku par dalībnieka maksātnespējas procesa sākšanu.",
+      "content": "(2) Kad administratīvā iestāde, kurai likumā ir noteiktas šādas tiesības, pieņem lēmumu par dalībnieka maksātnespējas procedūras sākšanu, tā nekavējoties — tajā pašā dienā — par to informē Latvijas Banku .\n(3) Latvijas Banka nekavējoties — tajā pašā dienā, kad saņēmusi Latvijas Republikas tiesas vai administratīvās iestādes lēmumu vai spriedumu par dalībnieka maksātnespējas procedūras sākšanu, — par to informē:\n1) sistēmu uzturētājus, kuru sistēmās dalībnieks piedalās;\n2) attiecīgās institūcijas, kuras dalībvalstis noteikušas par šādas informācijas saņēmējām un par kurām informējušas Eiropas Vērtspapīru un tirgu iestādi;\n3) Eiropas Sistēmisko risku kolēģiju un Eiropas Vērtspapīru un tirgu iestādi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa Noteikumi par dalībnieku maksātnespējas procedūrām",
+      "section": "12",
+      "title": "Maksātnespējas procedūra neietekmē dalībnieka, tai skaitā sadarbībspējīgas sistēmas dalībnieka vai sadarbībspējīgas sistēmas uzturētāja, kurš nav dalībnieks, tiesības un saistības, kuras izriet no dalības sistēmā vai ir saistītas ar to un ir radušās pirms maksātnespējas procedūras sākšanas. Šādas dalībnieka tiesības un saistības nevar atzīt par spēkā neesošām.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 03.03.2011 . likumu, kas stājas spēkā 30.06.2011. )"
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "IV nodaļa Nodrošinājuma ņēmēja tiesību aizsardzība nodrošinājuma devēja maksātnespējas procedūras gadījumā",
+      "section": "13",
+      "title": "(1) Sistēmas uzturētāja vai dalībnieka tiesības uz nodrošinājumu, kas tam sniegts saistībā ar sistēmu vai sadarbībspējīgu sistēmu, vai centrālās bankas tiesības uz nodrošinājumu neietekmē maksātnespējas procedūra, kas sākta pret dalībnieku, sadarbībspējīgas sistēmas uzturētāju, kurš nav dalībnieks, centrālās bankas darījuma partneri vai jebkuru trešo personu, kas sniegusi nodrošinājumu. Šādu nodrošinājumu minēto tiesību izlietošanai var realizēt nekavējoties, un uz šo nodrošinājumu nav attiecināmi normatīvajos aktos noteiktie nodrošinājuma realizācijas tiesību ierobežojumi.",
+      "content": "(2) Ja sistēmas uzturētājs ir sniedzis nodrošinājumu citam sistēmas uzturētājam saistībā ar sadarbībspējīgu sistēmu, sistēmas uzturētāja, kurš sniedzis nodrošinājumu, tiesības uz šo nodrošinājumu neietekmē maksātnespējas procedūra, kas sākta pret sistēmas uzturētāju, kurš saņēmis nodrošinājumu."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "V nodaļa Likuma izvēle",
+      "section": "14",
+      "title": "Nosakot valsti, saskaņā ar kuras likumiem sistēma darbosies, dalībnieki var izvēlēties tikai tādu dalībvalsti, kurā reģistrēts vismaz viens dalībnieks.",
+      "content": "( 03.03.2011 . likuma redakcijā, kas stājas spēkā 30.06.2011. )"
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "V nodaļa Likuma izvēle",
+      "section": "15",
+      "title": "Pēc maksātnespējas procedūras sākšanas pret dalībnieku tā tiesības un saistības, kas radušās, piedaloties sistēmā, tiek noteiktas atbilstoši tās valsts likumiem, saskaņā ar kuriem darbojas attiecīgā sistēma.",
+      "content": "15.pants. Pēc maksātnespējas procedūras sākšanas pret dalībnieku tā tiesības un saistības, kas radušās, piedaloties sistēmā, tiek noteiktas atbilstoši tās valsts likumiem, saskaņā ar kuriem darbojas attiecīgā sistēma."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "V nodaļa Likuma izvēle",
+      "section": "16",
+      "title": "Ja finanšu instrumentus (arī tiesības, kas izriet no finanšu instrumentiem) sniedz kā nodrošinājumu par labu dalībniekiem, sistēmas uzturētājam vai centrālajai bankai un šo dalībnieku (vai to pārstāvju, aģentu vai trešo personu, kas darbojas viņu labā) tiesības uz finanšu instrumentiem ir ierakstītas reģistrā, kontā vai centralizētā depozitārija sistēmā, kas atrodas attiecīgajā valstī, šādu subjektu — nodrošinājuma ņēmēju — tiesības uz minētajiem finanšu instrumentiem regulē attiecīgās valsts likumi.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 03.03.2011 . likumu, kas stājas spēkā 30.06.2011. )"
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "17",
+      "title": "(Izslēgts ar 23.09.2021 . likumu, kas stājas spēkā 01.01.2023. )",
+      "content": "17.pants. (Izslēgts ar 23.09.2021 . likumu, kas stājas spēkā 01.01.2023. )"
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "18",
+      "title": "(Izslēgts ar 23.09.2021 . likumu, kas stājas spēkā 01.01.2023. )",
+      "content": "18.pants. (Izslēgts ar 23.09.2021 . likumu, kas stājas spēkā 01.01.2023. )"
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "19",
+      "title": "Latvijas Banka nosaka, vai sistēma, kura, ievērojot dalībnieku vienošanos, darbojas saskaņā ar Latvijas Republikas likumiem, atbilst sistēmai, kurai piemērojams šis likums.",
+      "content": "( 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )"
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "20",
+      "title": "Latvijas Banka paziņo Eiropas Vērtspapīru un tirgu iestādei par sistēmu, kuru tā noteikusi par sistēmu, kurai piemērojams šis likums, kā arī informē par šīs sistēmas uzturētāju.",
+      "content": "( 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )"
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "21",
+      "title": "Sistēmas uzturētājs informē Latvijas Banku par sistēmas dalībniekiem, netiešajiem dalībniekiem un visām pārmaiņām dalībnieku sastāvā.",
+      "content": "(Ar grozījumiem, kas izdarīti ar 23.09.2021 . likumu, kas stājas spēkā 01.01.2023. )"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "22",
+      "title": "Pēc personas pieprasījuma iestāde informē par sistēmām, kurās šī iestāde piedalās, un sniedz ziņas par galvenajiem sistēmu noteikumiem.",
+      "content": "22.pants. Pēc personas pieprasījuma iestāde informē par sistēmām, kurās šī iestāde piedalās, un sniedz ziņas par galvenajiem sistēmu noteikumiem."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "pn1",
+      "title": "1. Šā likuma prasības neattiecas uz maksātnespējas procedūrām, kas sāktas pirms šā likuma spēkā stāšanās.",
+      "content": "1. Šā likuma prasības neattiecas uz maksātnespējas procedūrām, kas sāktas pirms šā likuma spēkā stāšanās."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VI nodaļa Sistēmas noteikšana un paziņošana (Nodaļas nosaukums 23.09.2021 . likuma redakcijā, kas stājas spēkā 01.01.2023. )",
+      "section": "pn2",
+      "title": "2. Sistēmu uzturētāji, kuru sistēmas darbojas saskaņā ar Latvijas Republikas likumiem, triju mēnešu laikā pēc šā likuma spēkā stāšanās sniedz Komisijai šā likuma 18. un 21.pantā minēto informāciju.",
+      "content": "1) Eiropas Parlamenta un Padomes 1998.gada 19.maija direktīvas 98/26/EK par norēķinu galīgumu maksājumu un vērtspapīru norēķinu sistēmās;\n2) Eiropas Parlamenta un Padomes 2009.gada 6.maija direktīvas 2009/44/EK , ar ko direktīvu 98/26/EK par norēķinu galīgumu maksājumu un vērtspapīru norēķinu sistēmās un direktīvu 2002/47/EK par finanšu nodrošinājuma līgumiem groza attiecībā uz saistītām sistēmām un kredītprasībām;\n3) Eiropas Parlamenta un Padomes 2010.gada 24.novembra direktīvas 2010/78/ES , ar ko groza direktīvas 98/26/EK , 2002/87/EK, 2003/6/EK, 2003/41/EK, 2003/71/EK, 2004/39/EK, 2004/109/EK, 2005/60/EK, 2006/48/EK, 2006/49/EK un 2009/65/EK attiecībā uz Eiropas Uzraudzības iestādes (Eiropas Banku iestādes), Eiropas Uzraudzības iestādes (Eiropas Apdrošināšanas un aroda pensiju iestādes) un Eiropas Uzraudzības iestādes (Eiropas Vērtspapīru un tirgu iestādes) pilnvarām;\n4) Eiropas Parlamenta un Padomes 2019. gada 20. maija direktīvas (ES) 2019/879 , ar ko groza direktīvu 2014/59/ES attiecībā uz zaudējumu absorbcijas un rekapitalizācijas spēju kredītiestādēm un ieguldījumu brokeru sabiedrībām un direktīvu 98/26/EK ;\n5) Eiropas Parlamenta un Padomes 2024. gada 13. marta regulas (ES) Nr. 2024/886, ar ko groza regulas (ES) Nr. 260/2012 un (ES) Nr. 2021/1230 un direktīvas 98/26/EK un (ES) 2015/2366 attiecībā uz tūlītējiem kredīta pārvedumiem euro ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "maksājumu un finanšu instrumentu norēķinu sistēma (turpmāk",
+      "definition": "sistēma) — maksājumu un finanšu instrumentu pārvedumu rīkojumu izpildes mehānisms, kas darbojas saskaņā ar vienošanos un atbilst visiem šādiem nosacījumiem:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "iestāde",
+      "definition": "institūcija, kas piedalās sistēmā un atbild par to finanšu saistību izpildi, kuras radušās saskaņā ar pārveduma rīkojumiem šajā sistēmā, un atbilst vienam no šādiem nosacījumiem:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "norēķinu aģents",
+      "definition": "institūcija, kas iestādēm vai centrālajam darījumu partnerim atver norēķinu kontus norēķiniem par sistēmā apstrādātajiem pārveduma rīkojumiem un, ja nepieciešams, minētajām iestādēm vai centrālajam darījumu partnerim var izsniegt kredītu norēķiniem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tīrvērtes centrs",
+      "definition": "institūcija, kas atbild par iestāžu neto pozīciju aprēķinu un centrālā darījumu partnera vai norēķinu aģenta neto pozīciju aprēķinu, ja minētās iestādes arī ir vienošanās dalībnieki un attiecīgā vienošanās paredz neto pozīciju aprēķinu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dalībnieks",
+      "definition": "iestāde, centrālais darījumu partneris, norēķinu aģents, tīrvērtes centrs, sistēmas uzturētājs (operators) vai centrālā darījumu partnera, kas saņēmis atļauju centrālā darījumu partnera darbībai Eiropas Parlamenta un Padomes 2012. gada 4. jūlija regulas (ES) Nr. 648/2012 par ārpusbiržas atvasinātajiem instrumentiem, centrālajiem darījumu partneriem un darījumu reģistriem (turpmāk — regula Nr. 648/2012) 17. pantā noteiktajā kārtībā, tīrvērtes dalībnieks",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "netiešais dalībnieks",
+      "definition": "iestāde, centrālais darījumu partneris , norēķinu aģents, tīrvērtes centrs vai sistēmas uzturētājs, kuru sistēma var identificēt un kuram ir vienošanās ar dalībnieku par pārvedumu rīkojumu izpildi attiecīgās sistēmas ietvaros",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sistēmas uzturētājs (operators)",
+      "definition": "institūcija, kas ir atbildīga par sistēmas darbības nodrošināšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sistēmiskais risks",
+      "definition": "risks, ka viena sistēmas dalībnieka nespēja izpildīt savas saistības izraisīs citu dalībnieku vai finanšu iestāžu nespēju noteiktajā laikā izpildīt savas saistības. Šāda situācija var radīt ievērojamas likviditātes vai kredīta problēmas, bet tas savukārt var apdraudēt finanšu tirgus stabilitāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pārveduma rīkojums",
+      "definition": "norādījums, kas atbilst vienam no šādiem nosacījumiem:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksātnespējas procedūra",
+      "definition": "jebkurš pasākums, tai skaitā maksātnespējas process, ko paredz dalībvalsts vai kādas ārvalsts likumi attiecīgā dalībnieka likvidēšanai, kā arī darbības ierobežošanai vai sanācijai, ja tas ietver finanšu instrumentu vai naudas pārvedumu apturēšanu vai ierobežošanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "maksātnespējas procedūras sākšana",
+      "definition": "brīdis, kad dalībvalsts vai kādas ārvalsts attiecīgā tiesu vai administratīvā iestāde pieņēmusi lēmumu vai spriedumu sākt maksātnespējas procedūru",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ieskaits",
+      "definition": "prasību un saistību pārvēršana vienā neto prasībā vai vienās neto saistībās tā, ka var izvirzīt tikai neto prasību un jāizpilda tikai neto saistības, ja prasības un saistības izriet no pārveduma rīkojumiem, ko izpilda viens vai vairāki dalībnieki par labu vienam vai vairākiem citiem sistēmas dalībniekiem vai ko dalībnieki saņem no citiem sistēmas dalībniekiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "norēķinu konts",
+      "definition": "tāds konts centrālajā bankā, pie norēķinu aģenta vai centrālā darījumu partnera , kuru sistēmas dalībnieki izmanto naudas līdzekļu vai finanšu instrumentu glabāšanai vai norēķiniem par sistēmas dalībnieku savstarpējiem darījumiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nodrošinājums",
+      "definition": "realizējamie aktīvi, tai skaitā finanšu līdzekļi, finanšu instrumenti un kredītprasības, ko sniedz tādu tiesību izlietošanai un saistību izpildei, kuras var rasties sakarā ar dalību sistēmā, vai nodrošinājums, ko sniedz centrālajai bankai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "centrālā banka",
+      "definition": "Latvijas Banka, citas dalībvalsts centrālā banka vai Eiropas Centrālā banka",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tīrvērte",
+      "definition": "pārveduma rīkojumu pārraide, salīdzināšana un, ja nepieciešams, apstiprināšana pirms norēķinu veikšanas, kā arī pārveduma rīkojuma ieskaits un tādu neto pozīciju noteikšana, saskaņā ar kurām tiks veikti norēķini",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tīrvērtes sistēma",
+      "definition": "procedūru kopums, ar kura palīdzību dalībnieki tīrvērtes centrā vai citā noteiktā vietā veic ar naudas vai finanšu instrumentu pārvedumiem saistītas informācijas vai dokumentu apmaiņu. Lai nodrošinātu dalībnieku saistību norēķinus, izmantojot ieskaitu, procedūru kopums var ietvert arī kārtību, kādā tiek aprēķinātas dalībnieku neto pozīcijas",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "neto pozīcija",
+      "definition": "starpība starp tīrvērtes sistēmas dalībnieka noteiktā laikposmā saņemto un veikto pārvedumu kopapjomu. Ja šī starpība ir pozitīva, veidojas neto kredīta pozīcija jeb neto prasības, bet, ja šī starpība ir negatīva, veidojas neto debeta pozīcija jeb neto saistības",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "darbdiena",
+      "definition": "sistēmas noteikumos paredzētais laiks, kad attiecīgās sistēmas ietvaros ir iespējama pārveduma rīkojumu izpilde",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sadarbībspējīgas sistēmas",
+      "definition": "divas vai vairākas sistēmas, kuru sistēmu uzturētāji ir savstarpēji vienojušies par kārtību, kas ietver pārveduma rīkojumu izpildi starp sistēmām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

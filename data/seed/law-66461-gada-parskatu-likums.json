@@ -1,0 +1,677 @@
+{
+  "id": "lv-law-66461",
+  "type": "statute",
+  "title": "Gada pārskatu likums (Likuma nosaukums 19.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )",
+  "short_name": "TA-66461",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/66461-gada-parskatu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "1",
+      "title": "1. pants",
+      "content": "(1) Šis likums attiecas uz Latvijā reģistrētām komercsabiedrībām, kooperatīvajām sabiedrībām, Latvijā reģistrētām Eiropas ekonomisko interešu grupām, Eiropas kooperatīvajām sabiedrībām un Eiropas komercsabiedrībām, kā arī uz individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, kuru apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem iepriekšējā pārskata gadā pārsniedz 300 000 euro (turpmāk arī — sabiedrība).\n(2) Individuālie uzņēmumi, zemnieku un zvejnieku saimniecības var sagatavot gada pārskatu, ievērojot šā likuma noteikumus, arī tad, ja to apgrozījums (ieņēmumi) no saimnieciskajiem darījumiem iepriekšējā pārskata gadā nepārsniedz 300 000 euro .\n(3) Šis likums neattiecas uz bankām, krājaizdevu sabiedrībām, apdrošināšanas komercsabiedrībām akciju sabiedrību formā, savstarpējās apdrošināšanas kooperatīvajām biedrībām, privātajiem pensiju fondiem, ieguldījumu brokeru sabiedrībām, ieguldījumu pārvaldes sabiedrībām, kā arī alternatīvo ieguldījumu fondiem, kuri dibināti kā komercsabiedrības.\n(4) Komercsabiedrība, kura veic pārapdrošināšanu, sagatavo gada pārskatu, ievērojot Finanšu un kapitāla tirgus komisijas noteikumus, kas ir saistoši apdrošināšanas komercsabiedrībām akciju sabiedrības formā.\n(5) Komercsabiedrība, kura saskaņā ar Finanšu instrumentu tirgus likumu sagatavo gada pārskatu atbilstoši starptautiskajiem grāmatvedības standartiem, kas pieņemti saskaņā ar Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu (turpmāk šajā pantā - starp­tautiskie grāmatvedības standarti):\n1) atkāpjoties no šā likuma 5.panta prasībām bilances sastādīšanas, peļņas vai zaudējuma aprēķina shēmai, naudas plūsmas pārskatam un pašu kapitāla izmaiņu pārskatam, var neuzrādīt atsevišķus finanšu pārskatu posteņus, ja tie ir nebūtiski vai to neuzrādīšana padara finanšu pārskatu pārredzamāku, kā arī izveidot minēto pārskatu posteņu citādu izkārtojumu vai iekļaut papildu posteņus, taču jebkurā gadījumā posteņos atspoguļotajai informācijai jāatbilst starptautiskajiem grāmatvedības standartiem;\n2) atkāpjoties no šā likuma 5. un 7. 1 nodaļas prasībām, gada pārskata posteņus novērtē saskaņā ar starptautiskajiem grāmatvedības standartiem;\n3) papildus šā likuma 6.nodaļas prasībām gada pārskata paskaidrojošo informāciju sniedz saskaņā ar starptautiskajiem grāmatvedības standartiem.\n(6) Sabiedrība, kuras pārvedami vērts­papīri ir iekļauti dalībvalstu regulētajā tirgū, nepiemēro šā likuma 24.panta pirmajā daļā, 53. 1 panta trešajā daļā, 54.panta pirmajā daļā, 55.panta pirmās daļas 3.punktā, 66.panta otrajā daļā un 6. 1 nodaļā minētos atvieglojumus un atbrīvojumus."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "2",
+      "title": "2. pants",
+      "content": "Gada pārskatu sagatavo latviešu valodā.\nGada pārskatā par vērtības mēru lieto euro un skaitļus noapaļo līdz veseliem skaitļiem ( euro ).\nĀrvalstu valūtas naudas atlikumus un ārvalstu valūtās izteikto avansu, aizdevumu vai aizņēmumu atlikumus, kā arī citus debitoru vai kreditoru parādu atlikumus, kas maksājami ārvalstu valūtās, gada pārskatā norāda, tos pārrēķinot euro saskaņā ar grāmatvedībā izmantojamo ārvalstu valūtas kursu, kas ir spēkā pārskata gada pēdējās dienas beigās."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "3",
+      "title": "3. pants",
+      "content": "(1) Pārskata gadam jāaptver 12 mēneši, un parasti tas sakrīt ar kalendāra gadu. Citāds pārskata gada sākums un beigas var būt tikai Latvijā reģistrētai komercsabiedrībai, kooperatīvajai sabiedrībai, Latvijā reģistrētai Eiropas ekonomisko interešu grupai, Eiropas kooperatīvajai sabiedrībai un Eiropas komercsabiedrībai, individuālajam uzņēmumam, zemnieku un zvejnieku saimniecībai, ja to nosaka attiecīgi minētās sabiedrības statūti, nolikums vai sabiedrības līgums. Individuālajam uzņēmumam, zemnieku un zvejnieku saimniecībai, kurai nav pieņemti statūti vai izstrādāts nolikums, citādu pārskata gada sākumu un beigas nosaka attiecīgs sabiedrības lēmums.\n(2) Pārskata gadu var mainīt. Pārskata gada maiņa ir jāpamato un jāsniedz attiecīgi paskaidrojumi par to gada pārskata pielikumā.\n(3) Jaunizveidotas sabiedrības pirmais pārskata gads var aptvert īsāku vai garāku laika posmu, bet ne vairāk par 18 mēnešiem.\n(4) Ja tiek mainīts jau esošas sabiedrības pārskata gada sākums, pārskata gads nedrīkst būt garāks par 12 mēnešiem.\n(5) Pārskata gads, kurā sabiedrību reorganizē vai tā izbeidz savu darbību, kā arī pārskata gads, kurā tiek mainīts tā sākums, var būt īsāks par 12 mēnešiem."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "4",
+      "title": "4. pants",
+      "content": "(1) Gada pārskats kā vienots kopums sastāv no finanšu pārskata un vadības ziņojuma par sabiedrības attīstību pārskata gadā.\n(2) Gada pārskatu sastāda atbilstoši likumam \" Par grāmatvedību \", šim likumam un citiem normatīvajiem aktiem. Ministru kabinets izdod noteikumus par saņemtā valsts, pašvaldību, ārvalstu, Eiropas Kopienas, citu starptautisko organizāciju un institūciju finansiālā atbalsta (finanšu palīdzības), ziedojumu un dāvinājumu naudā vai natūrā atspoguļošanu finanšu pārskatos.\n(2 1 ) Ministru kabinets šā likuma piemērošanai nosaka:\n1) kārtību, kādā finanšu pārskatos atspoguļo notikumus pēc bilances datuma, grāmatvedības politikas maiņu, grāmatvedības aplēšu izmaiņas un kļūdu labojumus;\n2) kārtību, kādā uzskaita un novērtē ieņēmumus no preču pārdošanas un pakalpojumu sniegšanas, sabiedrības aktīvu nodošanas lietošanā citām personām, gūstot procentu, autoratlīdzību un dividenžu ieņēmumus;\n3) pamatlīdzekļu un ieguldījuma īpašumu grāmatvedības uzskaites un novērtēšanas metodes un ar tiem saistīto izmaksu atspoguļošanas kārtību;\n4) uzkrājumu, uzkrāto ieņēmumu, uzkrāto saistību, iespējamo saistību un iespējamo aktīvu novērtēšanas kritērijus un metodes;\n5) kārtību, kādā sabiedrība, kura ir būvlīguma darbuzņēmējs vai cita ilgtermiņa līguma darbu izpildītājs, uzskaita un novērtē ar būvlīgumu vai citu ilgtermiņa līgumu saistītos ieņēmumus un izdevumus;\n6) kārtību, kādā uzskaita un finanšu pārskatā atspoguļo ārkārtas dividendes.\n(3) Gada pārskatam ir jāsniedz patiess un skaidrs priekšstats par sabiedrības līdzekļiem, saistībām, finansiālo stāvokli, peļņu vai zaudējumiem un naudas plūsmu.\n(4) Ja atbilstoši šim likumam sastādītā gada pārskatā ietvertā informācija nedod pietiekami patiesu un skaidru priekšstatu par sabiedrību, ir jāsniedz papildu informācija gada pārskata pielikumā .\n(5) Izņēmuma gadījumos, ja kāda šā likuma 3. , 4. un 5.nodaļā iekļautā noteikuma piemērošana nonāk pretrunā ar šā panta trešajā daļā noteikto prasību par patiesa un skaidra priekšstata sniegšanu, sabiedrība no attiecīgā noteikuma atkāpjas. Katra šāda atkāpšanās jāpaskaidro gada pārskata pielikumā , norādot tās būtību, iemeslu un ietekmi uz sabiedrības līdzekļiem, saistībām, finansiālo stāvokli, peļņu vai zaudējumiem, kā arī jāizskaidro izraudzītā metode.\n(6) Šā panta ceturtā un piektā daļa neattiecas uz sabiedrību, kura atbilst šā likuma 54. 1 panta otrajā daļā norādītajiem kritērijiem un gada pārskata sagatavošanā izvēlējusies izmantot šā likuma 6. 1 nodaļā noteiktos atvieglojumus un atbrīvojumus."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "5",
+      "title": "5. pants",
+      "content": "(1) Bilance ir jāsastāda, peļņa vai zaudējumi jāaprēķina atbilstoši šā likuma 10. — 14.pantā dotajām shēmām. Peļņas vai zaudējumu aprēķina sastādīšanai sabiedrība var izvēlēties vienu no šīm shēmām.\n(2) Peļņas vai zaudējumu aprēķina shēmu nedrīkst mainīt, ja pēc vienas un tās pašas shēmas aprēķins nav sastādīts vismaz divus gadus pēc kārtas.\n(3) (Izslēgta ar 06.11.1996 . likumu.)\n(4) Izņēmuma gadījumos var nepiemērot šā panta otrās daļas prasības, ja peļņas vai zaudējumu aprēķina shēmas maiņas pamatojums ir koncerna meitas sabiedrības iegāde un koncerna mātes sabiedrības prasība radniecīgajās sabiedrībās izmantot vienu un to pašu shēmu.\n(5) Uz peļņas vai zaudējumu aprēķina shēmas maiņu norāda pielikumā un paskaidro šīs maiņas iemeslu.\n(6) Naudas plūsmas pārskata un pašu kapitāla izmaiņu pārskata saturu un sagatavošanas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "6",
+      "title": "6. pants",
+      "content": "(1) Šā likuma 10. — 14.pantā noteiktie posteņi jāatspoguļo katrs atsevišķi norādītajā secībā. Ar arābu cipariem apzīmētos posteņus ir atļauts sadalīt sīkāk, ja to prasa sabiedrības īpatnības. Turklāt ar šiem cipariem apzīmētus jaunus posteņus var pievienot, ja to saturs nav ietverts kādā jau esošajā postenī.\n(2) Ar arābu cipariem apzīmētos posteņus var apvienot, ja to summas ir nenozīmīgas vai šāds apvienojums rada lielāku skaidrību. Apvienotie posteņi ir jādetalizē pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "7",
+      "title": "7. pants",
+      "content": "(1) Gada pārskatā katram bilances, peļņas vai zaudējumu aprēķina, naudas plūsmas pārskata un pašu kapitāla izmaiņu pārskata postenim parāda attiecīgos iepriekšējā pārskata gada skaitļus. Ja pārskata gadā atklātas iepriekšējo gadu kļūdas vai mainīta grāmatvedības politika, attiecīgo iepriekšējā pārskata gada posteņa rādītāju koriģē. Par katru gadījumu, kad dati nav bijuši savstarpēji salīdzināmi vai veiktas iepriekšējo pārskata gadu datu korekcijas, sniedz skaidrojumu gada pārskata pielikumā.\n(2) Bilances, peļņas vai zaudējuma aprēķina, naudas plūsmas pārskata un pašu kapitāla izmaiņu pārskata posteņi, kuros nav skaitļu (summas), jāuzrāda tikai tad, ja iepriekšējā gada pārskatā ir bijis attiecīgs postenis ar summu."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "8",
+      "title": "8. pants",
+      "content": "Nav pieļaujama nekāda savstarpēja aktīva un pasīva posteņu vai ieņēmumu un izdevumu posteņu pārrēķināšana."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "1.nodaļa VISPĀRĪGIE NOTEIKUMI",
+      "section": "9",
+      "title": "9. pants",
+      "content": "(1) Ja kāds līdzekļu objekts vai kāda saistība attiecas uz vairākiem shēmas posteņiem, tā piederība pie citiem posteņiem ir jāatspoguļo vai nu zem posteņa, kurā tas ietverts, vai pārskata pielikumā, ja šāds atspoguļojums ir nepieciešams gada pārskata izprašanai.\n(2) Sabiedrība iegūtās savas akcijas vai daļas norāda bilances postenī \"Pašu akcijas vai daļas\", bet līdzdalību koncerna meitas sabiedrības vai koncerna mātes sabiedrības, vai citas šā koncerna meitas sabiedrības, vai šā koncerna meitas sabiedrības meitas sabiedrības kapitālā norāda bilances postenī \"Līdzda­lība radniecīgo sabiedrību kapitālā\". Sabiedrība līdzdalību citas, tās būtiskā ietekmē esošas sabiedrības kapitālā, kura tiek nodrošināta ar ne mazāk kā 20, bet ne vairāk kā 50 procentiem no akcionāru vai dalībnieku balsstiesībām šajā sabiedrībā, norāda bilances postenī \"Līdzdalība asociēto sabiedrību kapitālā\"."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "2.nodaļa BILANCES SASTĀDĪŠANAS, KĀ ARĪ PEĻŅAS VAI ZAUDĒJUMU APRĒĶINA SHĒMA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "10",
+      "title": "10. pants",
+      "content": "Bilances shēma\nAktīvs\nIlgtermiņa ieguldījumi\nI. Nemateriālie ieguldījumi:\n1. Attīstības izmaksas.\n2. Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības.\n3. Citi nemateriālie ieguldījumi.\n4. Nemateriālā vērtība.\n5. Avansa maksājumi par nemateriālajiem ieguldījumiem.\nII. Pamatlīdzekļi:\n1. Zemes gabali, ēkas un būves un ilggadīgie stādījumi.\n2. Ilgtermiņa ieguldījumi nomātajos pamatlīdzekļos.\n3. Iekārtas un mašīnas.\n4. Pārējie pamatlīdzekļi un inventārs.\n5. Pamatlīdzekļu izveidošana un nepabeigto celtniecības objektu izmaksas.\n6. Avansa maksājumi par pamatlīdzekļiem.\nIII. Ieguldījuma īpašumi.\nIV. Bioloģiskie aktīvi.\nV. Ilgtermiņa finanšu ieguldījumi:\n1. Līdzdalība radniecīgo sabiedrību kapitālā.\n2. Aizdevumi radniecīgajām sabiedrībām.\n3. Līdzdalība asociēto sabiedrību kapitālā.\n4. Aizdevumi asociētajām sabiedrībām.\n5. Pārējie vērtspapīri un ieguldījumi.\n6. Pārējie aizdevumi un citi ilgtermiņa debitori.\n7. Pašu akcijas un daļas.\n8. Aizdevumi akcionāriem vai dalībniekiem un vadībai.\nApgrozāmie līdzekļi\nI. Krājumi:\n1. Izejvielas, pamatmateriāli un palīgmateriāli.\n2. Nepabeigtie ražojumi.\n3. Gatavie ražojumi un preces pārdošanai.\n4. Nepabeigtie pasūtījumi.\n5. Avansa maksājumi par precēm.\n6. Darba dzīvnieki un produktīvie dzīvnieki.\nII. Pārdošanai turēti ilgtermiņa ieguldījumi.\nIII. Debitori:\n1. Pircēju un pasūtītāju parādi.\n2. Radniecīgo sabiedrību parādi.\n3. Asociēto sabiedrību parādi.\n4. Citi debitori.\n5. Neiemaksātās daļas sabiedrības kapitālā.\n6. Īstermiņa aizdevumi akcionāriem vai dalībniekiem un vadībai.\n7. Nākamo periodu izmaksas.\n8. Uzkrātie ieņēmumi.\nIV. Īstermiņa finanšu ieguldījumi:\n1. Līdzdalība radniecīgo sabiedrību kapitālā.\n2. Pašu akcijas un daļas.\n3. Pārējie vērtspapīri un līdzdalība kapitālos.\n4. Atvasinātie finanšu instrumenti.\nV. Nauda.\nPasīvs\nPašu kapitāls:\n1. Akciju vai daļu kapitāls (pamatkapitāls).\n2. Akciju (daļu) emisijas uzcenojums.\n3. Ilgtermiņa ieguldījumu pārvērtēšanas rezerve.\n4. Finanšu instrumentu pārvērtēšanas rezerve.\n5. Rezerves:\na) likumā noteiktās rezerves;\nb) rezerves pašu akcijām vai daļām;\nc) sabiedrības statūtos noteiktās rezerves;\nd) pārējās rezerves.\n6. Nesadalītā peļņa:\na) iepriekšējo gadu nesadalītā peļņa;\nb) pārskata gada nesadalītā peļņa.\nUzkrājumi:\n1. Uzkrājumi pensijām un tamlīdzīgām saistībām.\n2. Uzkrājumi paredzamajiem nodokļiem.\n3. Citi uzkrājumi.\nIlgtermiņa kreditori:\n1. Aizņēmumi pret obligācijām.\n2. Akcijās pārvēršamie aizņēmumi.\n3. Aizņēmumi no kredītiestādēm.\n4. Citi aizņēmumi.\n5. No pircējiem saņemtie avansi.\n6. Parādi piegādātājiem un darbuzņēmējiem.\n7. Maksājamie vekseļi.\n8. Parādi radniecīgajām sabiedrībām.\n9. Parādi asociētajām sabiedrībām.\n10. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas.\n11. Pārējie kreditori.\n12. Nākamo periodu ieņēmumi.\n13. (Izslēgts ar 19.10.2006 . likumu.)\n14. Neizmaksātās dividendes.\nĪstermiņa kreditori:\n1. Aizņēmumi pret obligācijām.\n2. Akcijās pārvēršamie aizņēmumi.\n3. Aizņēmumi no kredītiestādēm.\n4. Citi aizņēmumi.\n5. No pircējiem saņemtie avansi.\n6. Parādi piegādātājiem un darbuzņēmējiem.\n7. Maksājamie vekseļi.\n8. Parādi radniecīgajām sabiedrībām.\n9. Parādi asociētajām sabiedrībām.\n10. Nodokļi un valsts sociālās apdrošināšanas obligātās iemaksas.\n11. Pārējie kreditori.\n12. Nākamo periodu ieņēmumi.\n13. (Izslēgts ar 19.10.2006 . likumu.)\n14. Neizmaksātās dividendes.\n15. Uzkrātās saistības.\n16. Atvasinātie finanšu instrumenti."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "2.nodaļa BILANCES SASTĀDĪŠANAS, KĀ ARĪ PEĻŅAS VAI ZAUDĒJUMU APRĒĶINA SHĒMA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "11",
+      "title": "11. pants",
+      "content": "Peļņas un zaudējumu aprēķina shēma vertikālā formā (klasificēta pēc perioda izmaksu metodes)\n1. Neto apgrozījums.\n2. Gatavās produkcijas un nepabeigto ražojumu krājumu izmaiņas.\n3. Uz pašu ilgtermiņa ieguldījumiem attiecinātās (kapitalizētās) izmaksas.\n4. Pārējie saimnieciskās darbības ieņēmumi.\n5. Materiālu izmaksas:\na) izejvielu un palīgmateriālu izmaksas;\nb) pārējās ārējās izmaksas.\n6. Personāla izmaksas:\na) atlīdzība par darbu;\nb) pensijas no sabiedrības līdzekļiem;\nc) valsts sociālās apdrošināšanas obligātās iemaksas;\nd) pārējās sociālās nodrošināšanas izmaksas.\n7. Līdzekļu un vērtību norakstīšana:\na) pamatlīdzekļu un nemateriālo ieguldījumu nolietojums un norakstīšana;\nb) apgrozāmo līdzekļu vērtības norakstīšana virs normālajiem norakstījumiem.\n8. Pārējās saimnieciskās darbības izmaksas.\n9. Ieņēmumi no līdzdalības koncerna meitas un asociēto sabiedrību kapitālos.\n10. Ieņēmumi no vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa ieguldījumus.\n11. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi.\n12. Ilgtermiņa finanšu ieguldījumu un īstermiņa vērtspapīru vērtības norakstīšana.\n13. Procentu maksājumi un tamlīdzīgas izmaksas.\n14. Peļņa vai zaudējumi pirms ārkārtas posteņiem un nodokļiem.\n15. Ārkārtas ieņēmumi.\n16. Ārkārtas izmaksas.\n17. Peļņa vai zaudējumi pirms nodokļiem.\n18. Uzņēmumu ienākuma nodoklis par pārskata gadu.\n19. Pārējie nodokļi.\n20. Pārskata gada peļņa vai zaudējumi."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "2.nodaļa BILANCES SASTĀDĪŠANAS, KĀ ARĪ PEĻŅAS VAI ZAUDĒJUMU APRĒĶINA SHĒMA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "12",
+      "title": "12. pants",
+      "content": "Peļņas vai zaudējumu aprēķina shēma vertikālā formā (klasificēta pēc apgrozījuma izmaksu metodes)\n1. Neto apgrozījums.\n2. Pārdotās produkcijas ražošanas izmaksas.\n3. Bruto peļņa vai zaudējumi.\n4. Pārdošanas izmaksas.\n5. Administrācijas izmaksas.\n6. Pārējie saimnieciskās darbības ieņēmumi.\n7. Pārējās saimnieciskās darbības izmaksas.\n8. Ieņēmumi no līdzdalības koncerna meitas un asociēto sabiedrību kapitālos.\n9. Ieņēmumi no vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa ieguldījumus.\n10. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi.\n11. Ilgtermiņa finanšu ieguldījumu un īstermiņa vērtspapīru vērtības norakstīšana.\n12. Procentu maksājumi un tamlīdzīgas izmaksas.\n13. Peļņa vai zaudējumi pirms ārkārtas posteņiem un nodokļiem.\n14. Ārkārtas ieņēmumi.\n15. Ārkārtas izmaksas.\n16. Peļņa vai zaudējumi pirms nodokļiem.\n17. Uzņēmumu ienākuma nodoklis par pārskata gadu.\n18. Pārējie nodokļi.\n19. Pārskata gada peļņa vai zaudējumi."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "2.nodaļa BILANCES SASTĀDĪŠANAS, KĀ ARĪ PEĻŅAS VAI ZAUDĒJUMU APRĒĶINA SHĒMA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "13",
+      "title": "13. pants",
+      "content": "Peļņas vai zaudējumu aprēķina shēma kontu formā (klasificēta pēc perioda izmaksu metodes)\nIzmaksas:\n1. Gatavās produkcijas izstrādājumu un nepabeigto ražojumu krājumu samazināšanās.\n2. Materiālu izmaksas:\na) izejvielu un palīgmateriālu izmaksas;\nb) pārējās ārējās izmaksas.\n3. Personāla izmaksas:\na) atlīdzība par darbu;\nb) pensijas no sabiedrības līdzekļiem;\nc) valsts sociālās apdrošināšanas obligātās iemaksas;\nd) pārējās sociālās nodrošināšanas izmaksas.\n4. Līdzekļu vērtību norakstīšana:\na) pamatlīdzekļu un nemateriālo ieguldījumu nolietojums un norakstīšana;\nb) apgrozāmo līdzekļu vērtības norakstīšana virs normālajiem norakstījumiem.\n5. Pārējās saimnieciskās darbības izmaksas.\n6. Ilgtermiņa finanšu ieguldījumu un īstermiņa vērtspapīru vērtības norakstīšana.\n7. Procentu maksājumi un tamlīdzīgas izmaksas.\n8. Peļņa pirms ārkārtas posteņiem un nodokļiem.\n9. Ārkārtas izmaksas.\n10. Uzņēmumu ienākuma nodoklis par pārskata gadu.\n11. Pārējie nodokļi.\n12. Pārskata gada peļņa.\nIeņēmumi:\n1. Neto apgrozījums.\n2. Gatavās produkcijas izstrādājumu un nepabeigto ražojumu krājumu palielinājums.\n3. Uz pašu ilgtermiņa ieguldījumiem attiecinātās (kapitalizētās) izmaksas.\n4. Pārējie saimnieciskās darbības ieņēmumi.\n5. Ieņēmumi no līdzdalības koncerna meitas un asociēto sabiedrību kapitālos.\n6. Ieņēmumi no vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa ieguldījumus.\n7. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi.\n8. Zaudējumi pirms ārkārtas posteņiem un nodokļiem.\n9. Ārkārtas ieņēmumi.\n10. Pārskata gada zaudējumi."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "2.nodaļa BILANCES SASTĀDĪŠANAS, KĀ ARĪ PEĻŅAS VAI ZAUDĒJUMU APRĒĶINA SHĒMA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "14",
+      "title": "14. pants",
+      "content": "Peļņas vai zaudējumu aprēķina shēma kontu formā (klasificēta pēc apgrozījuma izmaksu metodes)\nIzmaksas:\n1. Pārdotās produkcijas ražošanas izmaksas.\n2. Pārdošanas izmaksas.\n3. Administrācijas izmaksas.\n4. Pārējās saimnieciskās darbības izmaksas.\n5. Ilgtermiņa finanšu ieguldījumu un īstermiņa vērtspapīru vērtības norakstīšana.\n6. Procentu maksājumi un tamlīdzīgas izmaksas.\n7. Peļņa pirms ārkārtas posteņiem un nodokļiem.\n8. Ārkārtas izmaksas.\n9. Uzņēmumu ienākuma nodoklis par pārskata gadu.\n10. Pārējie nodokļi.\n11. Pārskata gada peļņa.\nIeņēmumi:\n1. Neto apgrozījums.\n2. Pārējie saimnieciskās darbības ieņēmumi.\n3. Ieņēmumi no līdzdalības koncerna meitas un asociēto sabiedrību kapitālos.\n4. Ieņēmumi no vērtspapīriem un aizdevumiem, kas veidojuši ilgtermiņa ieguldījumus.\n5. Pārējie procentu ieņēmumi un tamlīdzīgi ieņēmumi.\n6. Zaudējumi pirms ārkārtas posteņiem un nodokļiem.\n7. Ārkārtas ieņēmumi.\n8. Pārskata gada zaudējumi."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "15",
+      "title": "15. pants",
+      "content": "Līdzekļi, kas paredzēti ilgai lietošanai vai ieguldīti ilglietojamā īpašumā, ir ilgtermiņa ieguldījumi. Citi līdzekļi ir apgrozāmie līdzekļi."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "16",
+      "title": "16. pants",
+      "content": "Katram ilgtermiņa ieguldījumu postenim bilancē vai pielikumā jāietver šāda informācija:\n1) iegādes cena vai ražošanas izmaksas atbilstoši iepriekšējā gada bilancei;\n2) palielinājumi, ieskaitot uzlabojumus pārskata gadā;\n3) likvidācija pārskata gadā sākotnējā vērtībā;\n4) jebkura pārvietošana no posteņa uz posteni pārskata gadā;\n5) pārvērtēšana pārskata gadā;\n6) kopējā pārvērtēšanas summa līdz bilances datumam, ieskaitot 5.punktā norādīto;\n7) nolietojums un vērtības norakstīšana pārskata gadā;\n8) iepriekšējo gadu nolietojuma un vērtības norakstīšanas korektūras, ieskaitot likvidēto un no darbības izņemto līdzekļu nolietojuma un vērtības norakstīšanas korektūras;\n9) kopējais nolietojums un vērtības norakstīšana līdz bilances datumam, ieskaitot 7. un 8.punktā norādīto."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "17",
+      "title": "17. pants",
+      "content": "(1) Izmaksas, kas izdarītas pirms bilances datuma, bet attiecas uz nākamajiem gadiem, jāparāda kā nākamo periodu izmaksas aktīvā. Ieņēmumi, kas saņemti pirms bilances datuma, bet attiecas uz nākamo gadu vai tālākiem gadiem, jāparāda kā nākamo periodu ieņēmumi pasīvā.\n(2) Katram debitoru parādu postenim bilancē atsevišķi norāda summas, kas saņemamas gada laikā un kas saņemamas vēlāk nekā gada laikā pēc bilances datuma.\n(3) Katram kreditoru parādu postenim bilancē atsevišķi norāda summas, kas maksājamas gada laikā un kas maksājamas vēlāk nekā gada laikā pēc bilances datuma.\n(4) Parādi, kas maksājami gada laikā pēc bilances datuma, uzskatāmi par īstermiņa kreditoru parādiem. Parādi, kas maksājami vēlāk nekā gada laikā pēc bilances datuma, uzskatāmi par ilgtermiņa kreditoru parādiem. Atsevišķi norāda arī īstermiņa un ilgtermiņa kreditoru parādu kopsummas.\n(5) Šā panta pirmajā daļā norādīto izmaksu un ieņēmumu saturu paskaidro pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "18",
+      "title": "18. pants",
+      "content": "(1) Tikai par atlīdzību iegūtas tiesības drīkst parādīt nemateriālo ieguldījumu postenī \"Koncesijas, patenti, licences, preču zīmes un tamlīdzīgas tiesības\".\n(2) Pētniecības izmaksas un dibināšanas izdevumus nedrīkst kapitalizēt. Attīstības izmaksas var ietvert bilancē nemateriālo ieguldījumu postenī \"Attīstības izmaksas\" tikai tad, ja ir spēkā visi šie nosacījumi:\n1) sabiedrība ir paredzējusi pabeigt aktīvu objektu, lai to izmantotu sabiedrības pašas vajadzībām vai pārdotu;\n2) sabiedrībai ir iespējams pabeigt šo aktīvu objektu, un tai ir pieejami atbilstoši tehniskie, finanšu un citi resursi, lai šo aktīvu objektu pabeigtu un izmantotu sabiedrības pašas vajadzībām vai pārdotu;\n3) sabiedrība spēj uzskatāmi parādīt, kādi saimnieciskie labumi no šā aktīvu objekta izmantošanas vai pārdošanas tiks saņemti nākotnē;\n4) sabiedrība spēj ticami novērtēt šā aktīvu objekta izmaksu apmēru."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "19",
+      "title": "19. pants",
+      "content": "(1) Uzkrājumi ir paredzēti, lai segtu noteikta veida saistības, kuras attiecas uz pārskata gadu vai iepriekšējiem gadiem un gada pārskata sastādīšanas laikā ir paredzamas vai zināmas, bet kuru apjoms vai konkrētu saistību rašanās vai segšanas datums nav skaidri zināms.\n(2) Uzkrājumi nedrīkst pārsniegt nepieciešamās summas, un tos nedrīkst izmantot aktīvu vērtības koriģēšanai. Pielikumā sniedz detalizētu informāciju par izveidoto uzkrājumu posteņiem, norādot ikviena uzkrājuma veidošanas pamatojumu, apjomu pārskata gada sākumā un beigās, uzkrājumu summas palielinājumu vai samazinājumu, paskaidrojot iemeslu un izmantotās vērtēšanas metodes.\n(3) Postenī \"Citi uzkrājumi\" ietvertās summas pielikumā parāda sadalījumā pa uzkrājumu veidiem un sniedz šā panta otrajā daļā norādīto informāciju.\n(4) Neatkarīgi no rēķina saņemšanas vai izrakstīšanas datuma uz uzkrājumiem nav attiecināmas izmaksas, kas radušās pārskata gadā, ja šo izmaksu apjoms vai maksājuma datums gada pārskata sastādīšanas laikā ir precīzi zināms."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "20",
+      "title": "20. pants",
+      "content": "Postenī \"Pārskata gada nesadalītā peļņa\" parāda summu, kas atbilst peļņas vai zaudējumu aprēķina postenī \"Pārskata gada peļņa vai zaudējumi\" norādītajai summai. Sabiedrības peļņas sadali vai zaudējumu segšanu parāda nākamā gada pārskatā, attiecīgi samazinot postenī \"Iepriekšējo gadu nesadalītā peļņa\" pārskata gada sākumā norādīto summu."
+    },
+    {
+      "provision_ref": "Art. 20.1",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "20.1",
+      "title": "20. 1 pants",
+      "content": "(1) Atliktā nodokļa saistību summas (ja tādas ir) norāda bilancē ilgtermiņa kreditoru sastāvā, pievienojot jaunu posteni \"Atliktā nodokļa saistības\", bet atliktā nodokļa aktīvu summas (ja tādas ir) — ilgtermiņa finanšu ieguldījumu sastāvā, pievienojot jaunu posteni \"Atliktā nodokļa aktīvi\".\n(2) Ar atliktā nodokļa saistībām un atliktā nodokļa aktīviem saistītos ieņēmumus un izmaksas (ja tādas ir) norāda peļņas vai zaudējumu aprēķinā, pievienojot jaunu attiecīgi nosauktu posteni kārtas numuru secībā pēc posteņa \"Uzņēmumu ienākuma nodoklis par pārskata gadu\"."
+    },
+    {
+      "provision_ref": "Art. 20.2",
+      "chapter": "3.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM BILANCES POSTEŅIEM",
+      "section": "20.2",
+      "title": "20. 2 pants",
+      "content": "Ieguldījuma īpašumus, bioloģiskos aktīvus un pārdošanai turētus ilgtermiņa ieguldījumus sabiedrības uzrāda atsevišķi no citiem aktīvu posteņiem, bilances aktīvā iekļaujot jaunus attiecīgi nosauktus posteņus."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "4.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM POSTEŅIEM PEĻŅAS VAI ZAUDĒJUMU APRĒĶINĀ (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "21",
+      "title": "21. pants",
+      "content": "Neto apgrozījums ir ieņēmumi no sabiedrības pamatdarbības, produkcijas pārdošanas un pakalpojumu sniegšanas, no kuriem atskaitīta tirdzniecības atlaide un citas piešķirtās atlaides, kā arī pievienotās vērtības nodoklis un citi nodokļi, kas tieši saistīti ar pārdošanu."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "4.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM POSTEŅIEM PEĻŅAS VAI ZAUDĒJUMU APRĒĶINĀ (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "22",
+      "title": "22. pants",
+      "content": "(1) Šā likuma 12. un 14.panta postenī \"Pārdotās produkcijas ražošanas izmaksas\" parāda neto apgrozījuma gūšanai izlietotās produkcijas, preču vai pakalpojumu izmaksas ražošanas vai iegādes pašizmaksā.\n(2) Šā likuma 12. un 14.panta posteņos \"Pārdošanas izmaksas\" un \"Administrācijas izmaksas\" iekļauj ar tām saistītās personāla izmaksas, materiālu izmaksas, pamatlīdzekļu nolietojuma un nemateriālo ieguldījumu vērtības norakstījumu summas un citas ar tām saistītās izmaksas.\n(3) Posteņos \"Pārējie saimnieciskās darbības ieņēmumi\" un \"Pārējās saimnieciskās darbības izmaksas\" iekļauj attiecīgi sabiedrības saimnieciskās darbības ieņēmumus vai izmaksas, kas nav parādītas citos peļņas vai zaudējumu aprēķina posteņos un kas ir radušās saimnieciskās darbības rezultātā vai ir ar to saistītas, vai izriet tieši no tās."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "4.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM POSTEŅIEM PEĻŅAS VAI ZAUDĒJUMU APRĒĶINĀ (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "23",
+      "title": "23. pants",
+      "content": "(1) Ieņēmumi un izdevumi, kas rodas tādu notikumu vai darījumu rezultātā, kuri nepārprotami atšķiras no sabiedrībai parastajām darbībām un kuru bieža vai periodiska atkārtošana nav gaidāma, ir jāparāda posteņos \"Ārkārtas ieņēmumi\" un \"Ārkārtas izmaksas\".\n(2) Parastās darbības ir jebkuras darbības, ko sabiedrība veic savas saimnieciskās darbības ietvaros, kā arī tādas darbības, kas sekmē sabiedrības saimniecisko darbību vai ir radušās saistībā ar šādām darbībām, vai tieši izriet no tām.\n(3) Ārkārtas ieņēmumu un izmaksu apjoms un veidi ir jāpaskaidro pielikumā, izņemot gadījumus, kad to apjomam nav būtiskas nozīmes."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "4.nodaļa ĪPAŠI NOTEIKUMI ATSEVIŠĶIEM POSTEŅIEM PEĻŅAS VAI ZAUDĒJUMU APRĒĶINĀ (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "24",
+      "title": "24. pants",
+      "content": "(1) Sabiedrības, kuras bilances datumā nepārsniedz divu šā panta otrajā daļā minēto kritēriju ietvarus, drīkst izveidot peļņas vai zaudējumu aprēķina shēmas noteiktajā formā posteni \"Bruto peļņa\" vai \"Bruto zaudējumi\", tajā apvienojot:\n11.pantā — 1.—5.posteni;\n12.pantā — 1.—3. un 6.posteni;\n13.pantā — 1. un 2. izmaksu posteni un 1.—4.ieņēmumu posteni;\n14.pantā — 1. izmaksu posteni un 1.—2.ieņēmumu posteni.\n(2) Šā panta pirmajā daļā minētie kritēriji ir:\n1) bilances kopsumma — 1 400 000 euro ;\n2) neto apgrozījums — 3 400 000 euro ;\n3) pārskata gada vidējais darbinieku skaits — 250.\n(3) Šā panta otrajā daļā minētā bilances kopsumma ir šā likuma 10.pantā norādītā aktīva posteņu kopsumma. Vidējais darbinieku skaits aprēķināms, saskaitot sabiedrībā strādājošos darbiniekus pārskata gada katra mēneša pēdējā datumā un summu dalot ar mēnešu skaitu pārskata gadā.\n(4) Iespēja piemērot šā panta pirmajā daļā minētos atvieglojumus zūd, ja sabiedrība bilances datumā ir pārsniegusi divus šā panta otrās daļas 1.—3.punktā minētos ierobežojumus, taču tikai tad, ja tas atkārtojies divus gadus pēc kārtas."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "25",
+      "title": "25. pants",
+      "content": "(1) Gada pārskata posteņi jānovērtē atbilstoši šādiem grāmatvedības principiem:\n1) jāpieņem, ka sabiedrība darbosies arī turpmāk;\n2) jāizmanto tās pašas novērtēšanas metodes, kas izmantotas iepriekšējā pārskata gadā;\n3) novērtēšana jāveic ar pienācīgu piesardzību, ievērojot šādus nosacījumus:\na) pārskatā jāiekļauj tikai līdz bilances datumam iegūtā peļņa;\nb) jāņem vērā visas paredzamās riska summas un zaudējumi, kas radušies pārskata gadā vai iepriekšējos gados, arī tad, ja tie kļuvuši zināmi laika posmā starp bilances datumu un dienu, kad gada pārskatu paraksta šā likuma 61.panta otrajā daļā minētā persona vai pārvaldes institūcija;\nc) jāaprēķina un jāņem vērā visas vērtības samazināšanās un nolietojuma summas neatkarīgi no tā, vai pārskata gads tiek noslēgts ar peļņu vai zaudējumiem;\n4) peļņas vai zaudējumu aprēķinā jāietver ar pārskata gadu saistītie ieņēmumi un izmaksas neatkarīgi no maksājuma datuma un rēķina saņemšanas vai izrakstīšanas datuma. Izmaksas jāsaskaņo ar ieņēmumiem attiecīgajos pārskata periodos;\n5) aktīva un pasīva posteņu sastāvdaļas jānovērtē atsevišķi;\n6) katra pārskata gada sākuma bilancei jāsaskan ar iepriekšējā gada slēguma bilanci;\n7) jānorāda visi posteņi, kuri būtiski ietekmē gada pārskata lietotāju novērtējumu vai lēmumu pieņemšanu. Var nenorādīt maznozīmīgus posteņus, kuri būtiski nemaina gada pārskatu, bet padara to pārāk detalizētu. Šajā gadījumā bilancē, peļņas vai zaudējumu aprēķinā naudas plūsmas pārskatā un pašu kapitāla izmaiņu pārskatā norādāmi apvienoti posteņi, bet to detalizējums sniedzams pielikumā ;\n8) sabiedrības saimnieciskie darījumi jāiegrāmato un jāatspoguļo gada pārskatā, ņemot vērā to ekonomisko saturu un būtību, nevis tikai juridisko formu.\n(2) Izņēmuma gadījumos var atkāpties no šā panta pirmajā daļā minētajiem grāmatvedības principiem. Jebkura šāda atkāpšanās jāpaskaidro pielikumā , norādot, kā tā ietekmēs sabiedrības līdzekļus un saistības, finansiālo stāvokli un peļņu vai zaudējumus."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "26",
+      "title": "26. pants",
+      "content": "(1) Ilgtermiņa ieguldījumi jānovērtē atbilstoši to sākotnējai vērtībai, tas ir iegādes izmaksām vai ražošanas pašizmaksai.\n(2) Iegādes izmaksas aprēķina, pirkšanas cenai pieskaitot izdevumus, kas saistīti ar iegādāto objektu līdz brīdim, kad to nodod ekspluatācijā. Pirkšanas cena ir naudā vai tās ekvivalentos samaksātā summa vai aktīva iegādei nodotās atlīdzības patiesā vērtība laikā, kad aktīvs tika iegādāts vai radīts.\n(3) Ražošanas pašizmaksu aprēķina, saskaitot izejvielu un materiālu izmaksas un citus izdevumus, kas tieši saistīti ar attiecīgā objekta izgatavošanu. Ražošanas pašizmaksā drīkst iekļaut arī tādu izmaksu daļas, kas netieši saistītas ar objekta izgatavošanu, ja vien šīs izmaksas ir attiecināmas uz to pašu laika posmu.\n(4) Pamatlīdzekļu izveidošanai saņemto aizņēmumu procentus par periodu līdz objekta pieņemšanai ekspluatācijā var iekļaut jaunizveidotā objekta pašizmaksā. Šādā gadījumā pielikumā sniedz ziņas par pamatlīdzekļu sastāvā iekļauto procentu apmēru."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "27",
+      "title": "27. pants",
+      "content": "Tādu ilgtermiņa ieguldījumu objektu sākotnējā vērtība, kuru lietderīgās lietošanas laiks ir ierobežots, pakāpeniski jānoraksta (jāamortizē) paredzētajā lietderīgās lietošanas laikā. Zemes gabala sākotnējo vērtību nedrīkst pakļaut norakstīšanai (amortizācijai)."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "28",
+      "title": "28. pants",
+      "content": "(1) Ja ilgtermiņa ieguldījumu objekta vērtība bilances datumā ir zemāka par to vērtību, kāda aprēķināta saskaņā ar šā likuma 26. un 27.panta nosacījumiem, un sagaidāms, ka vērtības samazinājums būs ilgstošs, attiecīgais objekts vērtējams atbilstoši zemākajai vērtībai.\n(2) Ilgtermiņa finanšu ieguldījumiem arī var piemērot vērtības samazināšanu, tos novērtējot atbilstoši zemākajai vērtībai bilances datumā.\n(3) Objekta novērtēšanu atbilstoši šā panta pirmās un otrās daļas nosacījumiem var pārtraukt, ja vērtības samazināšanai vairs nav pamata.\n(4) Vērtības samazināšana atbilstoši šā panta pirmās un otrās daļas nosacījumiem un grozījumi atbilstoši šā panta trešās daļas nosacījumiem pietiekami pamatoti un detalizēti jāparāda gada pārskata pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "29",
+      "title": "29. pants",
+      "content": "(1) Ilgtermiņa ieguldījumu objektu, kura vērtība ir būtiski lielāka par tā iegādes izmaksām vai ražošanas pašizmaksu, vai novērtējumu iepriekšējā gada bilancē, var pārvērtēt atbilstoši augstākai vērtībai, ja var pieņemt, ka vērtības paaugstinājums būs ilgstošs. Pamatlīdzekļu nolietojums un ieguldījumu vērtības samazināšanās katru gadu jāaprēķina atbilstoši iegrāmatotajai attiecīgā gada vērtībai un tādās pašās summās jāiegrāmato peļņas vai zaudējumu aprēķinā.\n(2) Šādas pārvērtēšanas rezultātā radies vērtības pieaugums ir jāiegrāmato postenī \"Ilgtermiņa ieguldījumu pārvērtēšanas rezerve\" iedaļā \"Pašu kapitāls\". Ja pārvērtēšanas rezultātā radies vērtības pieaugums pilnībā vai daļēji kompensē tā paša ilgtermiņa ieguldījumu objekta vērtības samazinājumu, kas iepriekšējos pārskata gados bija ietverts peļņas vai zaudējumu aprēķinā kā izmaksas, šādu vērtības pieaugumu summā, kas nepārsniedz minētās izmaksas, ietver peļņas vai zaudējumu aprēķinā kā ieņēmumus tajā pārskata gadā, kad tas konstatēts.\n(3) Ilgtermiņa ieguldījumu pārvērtēšanas rezervi samazina, ja pārvērtētais objekts ir likvidēts vai to vairs neizmanto, vai vērtības palielināšanai vairs nav pamata.\n(4) Ilgtermiņa ieguldījumu pārvērtēšanas rezervi samazina tikai šā panta trešajā daļā noteiktajos gadījumos. Ilgtermiņa ieguldījumu pārvērtēšanas rezervi nedrīkst sadalīt dividendēs, izlietot zaudējumu segšanai, ieskaitīt kapitālos vai citās rezervēs, izlietot sociālajai sfērai, labdarībai, ne arī citiem mērķiem.\n(5) (Izslēgta ar 16.12.1999 . likumu.)\n(6) Piemērojot šā panta pirmo daļu, pielikumā par katru pārvērtēto bilances aktīva posteni norāda pārvērtēšanas pamatojumu, kā arī novērtējuma starpību, salīdzinot šā panta pirmajā daļā paredzētajā kārtībā noteikto vērtību un atbilstoši šā likuma 26. , 27. un 28.pantam noteikto vērtību."
+    },
+    {
+      "provision_ref": "Art. 29.1",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "29.1",
+      "title": "29. 1 pants",
+      "content": "(1) Ja sabiedrība publiskās un privātās partnerības līguma darbības laikā veic ilgtermiņa ieguldījumus publiskā partnera pamatlīdzekļos, kuri tai nodoti ar minēto līgumu, tad šo izmaksu summu norāda posteņu grupā “II. Pamatlīdzekļi” izveidotā papildu postenī “Ilgtermiņa ieguldījumi publiskā partnera pamatlīdzekļos”.\n(2) Papildu postenī “Ilgtermiņa ieguldījumi publiskā partnera pamatlīdzekļos” iekļautos ilgtermiņa ieguldījumus novērtē saskaņā ar šā likuma 26. , 27. un 28.panta un 29.panta pirmās daļas noteikumiem."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "30",
+      "title": "30. pants",
+      "content": "(1) Apgrozāmo līdzekļu novērtēšana jāpamato ar iegādes vai ražošanas pašizmaksu.\n(2) Iegādes pašizmaksu aprēķina, pirkšanas cenai pieskaitot izdevumus, kas saistīti ar pirkumu.\n(3) Ražošanas pašizmaksu aprēķina, saskaitot izejvielu, pamatmateriālu un palīgmateriālu izlietojumu atbilstoši iegādes izmaksām un blakusizmaksām, kas tieši saistītas ar novērtējamā ražojuma izgatavošanu. Pie ražošanas izmaksām var pieskaitīt arī attiecīgu daļu izmaksu, kas nav tieši saistītas ar ražojuma izgatavošanu, ja vien šīs izmaksas ir attiecināmas uz to pašu laika posmu. Pārdošanas izmaksas nedrīkst iekļaut ražošanas pašizmaksā."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "31",
+      "title": "31. pants",
+      "content": "(1) Krājumu iegādes vai ražošanas pašizmaksu var noteikt kā vidējo svērto cenu vai pēc metodes \"Pirmais iekšā — pirmais ārā\" (FIFO).\n(2) Ja, lietojot šā panta pirmajā daļā norādītās metodes, izveidojas vērtība, kas būtiski atšķiras no tirgus cenas bilances datumā, starpība par katru attiecīgo krājuma posteni jāpaskaidro pielikumā ."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "32",
+      "title": "32. pants",
+      "content": "(1) Apgrozāmajiem līdzekļiem jāpiemēro tāds novērtējums, lai tie bilances datumā tiktu novērtēti atbilstoši zemākajai tirgus cenai vai pašizmaksai.\n(2) Krājumu atlikumus novērtē atbilstoši iegādes vai ražošanas pašizmaksai vai zemākajām tirgus cenām bilances datumā atkarībā no tā, kurš no šiem rādītājiem ir zemāks. Īpašos gadījumos — ja krājumu vienības ir bojātas, daļēji vai pilnīgi novecojušas vai nozīmīgi palielinās to ražošanas pabeigšanas vai pārdošanas izmaksas — attiecīgās krājumu vienības novērtē atbilstoši neto pārdošanas vērtībai."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "33",
+      "title": "33. pants",
+      "content": "(Izslēgts ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )"
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "34",
+      "title": "34. pants",
+      "content": "(Izslēgts ar 20.11.2003 . likumu, kas stājas spēkā 25.12.2003. )"
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "35",
+      "title": "35. pants",
+      "content": "(1) Izmaksas, kas saistītas ar šā likuma 10.panta iedaļas \"I. Nemateriālie ieguldījumi\" 1.—4.postenī minēto nemateriālo ieguldījumu izveidošanu, ir sistemātiski jānoraksta lietderīgās lietošanas laikā.\n(2) Ja postenī \"Nemateriālā vērtība\" norādīto iegādes izmaksu lietderīgās lietošanas laiku nav iespējams noteikt, šo posteni novērtē iegādes izmaksās, no kurām atskaitīti uzkrātie zaudējumi no vērtības samazināšanās."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "36",
+      "title": "36. pants",
+      "content": "(1) Ja atmaksājamā aizņēmuma summa ir lielāka par saņemto summu, starpība jāuzrāda atsevišķi bilances aktīvā vai pielikumā.\n(2) Šī starpības summa pakāpeniski, to saprātīgi sadalot pa gadiem, jānoraksta izmaksās. Tai jābūt pilnīgi norakstītai ne vēlāk kā līdz parāda atmaksāšanas termiņam."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "37",
+      "title": "37. pants",
+      "content": "(1) Debitoru un kreditoru parādu atlikumi bilancē jāparāda atbilstoši attaisnojuma dokumentiem un ierakstiem grāmatvedības reģistros, un tiem jābūt saskaņotiem ar pašu debitoru un kreditoru uzskaites datiem bilances datumā. Strīda gadījumos atlikumi bilancē jāuzrāda atbilstoši grāmatvedības datiem. Debitoru parādiem, kuru saņemšana tiek apšaubīta, apšaubāmās summas apmērā veido uzkrājumus nedrošiem parādiem. Debitoru parādu atlikumi bilancē jāparāda neto vērtībā, kas aprēķināta, no šo parādu uzskaites vērtības atbilstoši grāmatvedības datiem atskaitot nedrošiem parādiem izveidoto uzkrājumu atlikumus. Gada pārskata pielikumā ir jādod nedrošiem parādiem izveidoto uzkrājumu apjoma pamatojums. Ja parāds uzskatāms par bezcerīgu (zaudētu bez cerībām to kādreiz atgūt), tas attiecīgi jānoraksta no nedrošiem parādiem izveidotajiem uzkrājumiem vai jāiekļauj zaudējumos.\n(2) (Izslēgta ar 16.12.1999 . likumu.)\n(3) Pašu kapitāls bilancē jāparāda pa sastāvdaļām.\n(4) Ilgtermiņa kreditoru parādu posteņos ietver tās saistību summas, kuru maksāšanas termiņš iestājas vēlāk par 12 mēnešiem pēc attiecīgā pārskata gada beigām un kuras radušās, lai finansētu ilgtermiņa ieguldījumus un apgrozāmos līdzekļus vai lai segtu saistības, un kuras nav ietveramas īstermiņa kreditoru posteņos.\n(5) Īstermiņa kreditoru posteņos ietver summas, kuras nomaksājamas tuvāko 12 mēnešu laikā pēc pārskata gada beigām, un citas saistības, kas rodas uzņēmuma parastajā darbības ciklā."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "38",
+      "title": "38. pants",
+      "content": "Ja jaunās emisijas akcijas vai daļas pārdotas par summu, kas ir lielāka par to nominālvērtību, starpība jāparāda bilances pasīva iedaļās \"Pašu kapitāls\" īpašā postenī \"Akciju (daļu) emisijas uzcenojums\". Ja jaunās emisijas akcijas vai daļas pārdotas par summu, kas ir mazāka par to nominālvērtību, starpība jāparāda šajā pašā postenī kā negatīvs skaitlis."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "5.nodaļa NOVĒRTĒŠANAS NOTEIKUMI",
+      "section": "39",
+      "title": "39. pants",
+      "content": "(Izslēgts ar 26.05.2005 . likumu, kas stājas spēkā 24.06.2005. )"
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "40",
+      "title": "40. pants",
+      "content": "Gada pārskata pielikumā ar skaitļiem, tekstā un tabulās sniedz šā likuma 5. , 6. , 7. , 9. , 16. , 17. , 19. , 23. , 25. , 26. , 28. , 29. , 31. , 36. un 37.pantā pieprasītos skaidrojumus, salīdzinājumus, detalizācijas un pamatojumus, kā arī šā likuma 41. , 42. , 43. , 44. , 45. , 46. , 47. , 48. , 49. , 50. , 51. , 52. , 54. , 55. 4 un 55. 7 pantā noteikto informāciju."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "41",
+      "title": "41. pants",
+      "content": "Pielikumā jāsniedz informācija par metodēm, kuras lietotas dažādu posteņu novērtēšanai gada pārskatā, kā arī par ilgtermiņa ieguldījumu nolietojuma, vērtības samazināšanas un vērtību norakstīšanas aprēķina metodēm. Ja kāda summa gada pārskatā no ārvalstu valūtas ir pārrēķināta Latvijas Republikas naudas vienībās, šāds pārrēķins ir jāpamato."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "42",
+      "title": "42. pants",
+      "content": "(1) Pielikumā norāda koncerna meitas sabiedrību un asociēto sabiedrību nosaukumu un juridisko adresi un koncerna sastāvā esošas sabiedrības (par kuru sastādīts gada pārskats) līdzdalības daļu procentos šo sabiedrību pamatkapitālā. Norāda arī koncerna meitas sabiedrību un asociēto sabiedrību pašu kapitāla un peļņas vai zaudējumu apmēru atbilstoši katras šīs sabiedrības pēdējam apstipri­nātajam gada pārskatam. Šo informāciju var nesniegt, ja tā ir nenozīmīga šā likuma 4.panta trešās daļas prasību īstenošanai.\n(2) Šā panta pirmajā daļā noteikto informāciju var nesniegt, ja tā varētu nopietni kaitēt attiecīgās sabiedrības interesēm, pielikumā norādot, ka šī informācija netiek sniegta minētā iemesla dēļ.\n(3) Šā panta pirmajā daļā minēto sabiedrību pašu kapitāla un peļņas vai zaudējumu apmēru var neparādīt, ja attiecīgā sabiedrība nepublicē savu gada pārskatu un ja līdzdalības daļa tajā ir mazāka par 50 procentiem."
+    },
+    {
+      "provision_ref": "Art. 43",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "43",
+      "title": "43. pants",
+      "content": "Ja pamatkapitāls sastāv no vairāku veidu akcijām vai daļām, pārskatā jānorāda katra veida akciju un daļu skaits un to nominālvērtība. Akciju sabiedrībām akciju skaits un to nominālvērtība jānorāda vienmēr."
+    },
+    {
+      "provision_ref": "Art. 44",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "44",
+      "title": "44. pants",
+      "content": "Ja sabiedrība ir izdarījusi aizņēmumu, kuru var pārvērst akcijās, jāuzrāda katra šāda aizņēmuma nomaksājamā summa, apmaiņas kurss un termiņi, kādos tas konvertējams sabiedrības kapitālā. Ja aizņēmums saņemts pret obligācijām vai citiem parāda dokumentiem ar procentu saņemšanas tiesībām, jāuzrāda katra šāda aizņēmuma nomaksājamā summa un noteiktā procentu likme."
+    },
+    {
+      "provision_ref": "Art. 45",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "45",
+      "title": "45. pants",
+      "content": "(1) Katrā bilances parādu postenī jāsniedz informācija par to daļu, kas jāmaksā ilgāk nekā piecus gadus pēc bilances datuma.\n(2) Ja sabiedrības aktīvi ir ieķīlāti vai apgrūtināti ar kādu citu aizņēmuma atmaksāšanas drošību, to norāda kopā ar informāciju par ķīlas vai cita garantijas aizņēmuma atmaksāšanas drošības nosacījumiem un ieķīlātā objekta bilances vērtību. Atsevišķi norāda tās kreditoru parādu kopsummas, kuras segtas ar nodro­šinājumu, ko sniegušas radniecīgās sabiedrības, minot nodrošinājuma veidu un formu.\n(3) Ir jānorāda vecuma pensiju, galvojumu un garantiju saistību, diskontēto vekseļu un pārējo bilancē neatspoguļoto finansiālo saistību kopējais apjoms. Ja sabiedrība ir noslēgusi nomas vai īres līgumus, kuriem ir svarīga nozīme tās darbībā, šajos līgumos paredzētās saistības ir jānorāda īpaši. Saistības pret esošajiem un bijušajiem darbiniekiem attiecībā uz pensijām un saistības pret radniecīgajām sabiedrībām norāda atsevišķi.\n(4) Vadībai izsniegto avansu, aizdevumu vai galvojumu saistību summas norāda sadalījumā pa atsevišķām amatu grupām (padomes un valdes locekļi), minot procentu likmes, svarīgākos nosacījumus un atmaksājamās summas.\n(5) (Izslēgta ar 19.10.2006 . likumu.)\n(6) Atsevišķi norāda atlīdzības kopsummu pārskata gadā sabiedrības zvērinātam revidentam vai zvērinātu revidentu komercsabiedrībai (turpmāk - zvērināts revidents) par:\n1) gada pārskata pārbaudi;\n2) citu revīzijas uzdevumu veikšanu;\n3) konsultācijām nodokļu jautājumos;\n4) citu lietpratēja uzdevumu veikšanu."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "46",
+      "title": "46. pants",
+      "content": "(1) Ja sabiedrības nekustamajam īpašumam ir noteikta kadastrālā vērtība, tā jānorāda pielikumā.\n(2) Ja nav izmantota šā likuma 55. 1 pantā paredzētā izvēles iespēja finanšu instrumentiem piemērot novērtēšanu patiesajā vērtībā, pielikumā sniedz skaidrojumu par atvasināto finanšu instrumentu apmēru un būtību sadalījumā pa šo instrumentu grupām, norādot bilances vērtību un patieso vērtību, ja to var noteikt ar kādu no šā likuma 55. 2 panta pirmajā daļā minētajām metodēm.\n(3) Ja nav izmantota šā likuma 28.panta otrajā daļā paredzētā izvēles iespēja piemērot vērtības samazināšanu šā likuma 55. 1 panta ceturtajā daļā minētajiem ilgtermiņa finanšu ieguldījumiem, kuru patiesā vērtība ir mazāka par bilances vērtību, pielikumā sniedz informāciju par atsevišķu aktīvu vai aktīvu grupu bilances vērtību un patieso vērtību, paskaidrojot, kādēļ netiek piemērota vērtības samazināšana, un norādot faktus, kas liecina, ka vērtības pazemināšanās ir īslaicīga un radusies pārejošu apstākļu dēļ."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "47",
+      "title": "47. pants",
+      "content": "Ja postenis \"Nepabeigtie pasūtījumi\" ietver daļu no sagaidāmās peļņas par darbiem, kas nav pabeigti līdz pārskata gada beigām, tā jāuzrāda kopā ar izmantotajām novērtēšanas metodēm."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "48",
+      "title": "48. pants",
+      "content": "(1) Peļņas vai zaudējumu aprēķinā norādīto neto apgrozījumu pielikumā parāda sadalījumā pa pamatdarbības veidiem un ģeogrāfiskajiem tirgiem, ja sabiedrības pamatdarbības (produkcijas pārdošanas un pakalpojumu sniegšanas) veidi un ģeogrāfiskie tirgi būtiski atšķiras.\n(2) Šā panta pirmās daļas noteikumi neattiecas uz sabiedrībām, kuras var izmantot peļņas vai zaudējumu aprēķina shēmu saskaņā ar šā likuma 24.panta pirmās daļas nosacījumiem. Citas sabiedrības var šā panta pirmajā daļā pieprasīto informāciju nesniegt, ja tā varētu nopietni kaitēt attiecīgās sabiedrības interesēm, pielikumā norādot, ka šī informācija netiek sniegta minētā iemesla dēļ.\n(3) Zemnieku un zvejnieku saimniecība, komercsabiedrība, kooperatīvā sabiedrība, individuālais uzņēmums, kas nodarbojas ar lauksaimniecisko ražošanu un saņem valsts atbalstu lauksaimniecībai vai Eiropas Savienības atbalstu lauksaimniecībai un lauku attīstībai vai piemēro uzņēmumu ienākuma nodokļa atlaidi nodokļa maksātājiem, kas veic lauksaimniecisko darbību, gada pārskata pielikumā atsevišķi norāda ieņēmumus no lauksaimnieciskās darbības, kuri iekļauti peļņas vai zaudējumu aprēķina neto apgrozījumā."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "49",
+      "title": "49. pants",
+      "content": "(1) Pielikumā sniedz informāciju par pārskata gadā samaksātām nodokļu un nodevu summām sadalījumā pa nodokļu un nodevu veidiem un saņemtajiem nodokļu atvieglojumiem un piešķirtajām atlaidēm — par katru nodokli atsevišķi, norādot dokumentus, kas apstiprina tiesības uz šādiem atvieglojumiem un atlaidēm.\n(2) Detalizēti pa nodokļu un nodevu veidiem parāda debitoru vai kreditoru sastāvā ietvertās nodokļu un nodevu saistību summas, aprēķinātās nokavējuma naudas, soda naudas un citas valsts budžetam vai pašvaldību budžetiem maksājamās vai pārmaksātās summas, tās attiecīgi saskaņojot ar nodokļu administrāciju.\n(3) (Izslēgta ar 19.10.2006 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "50",
+      "title": "50. pants",
+      "content": "(1) Jāsniedz informācija par nodarbināto personu vidējo skaitu pārskata gadā. Personāla izmaksas jādetalizē tā, kā tas prasīts šā likuma 11.panta 6. postenī un 13.panta izmaksu 3.postenī.\n(2) Vadībai par funkciju pildīšanu piešķirtās atlīdzības kopsummu norāda sadalījumā pa atsevišķām amatu grupām (padomes un valdes locekļi). Tas pats attiecas uz pensijām un līdzīgām saistībām pret bijušajiem pārvaldes institūciju locekļiem."
+    },
+    {
+      "provision_ref": "Art. 51",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "51",
+      "title": "51. pants",
+      "content": "(1) Par sabiedrības savu akciju vai daļu kopumu ir jāsniedz šādas ziņas:\n1) akciju vai daļu skaits un to nominālvērtības kopsumma, kā arī šīs kopsummas īpatsvars pamatkapitālā;\n2) pārskata gadā atpirkto vai pārdoto akciju vai daļu skaits, to nominālvērtība un īpatsvars procentos pamatkapitālā, atpirkšanas vai pārdošanas kopsumma;\n3) iemesls sabiedrības savu akciju un daļu iegādei pārskata gadā.\n(2) Informācija, kas minēta šā panta 1.punktā, jāuzrāda atsevišķi tām akcijām un daļām, kas iegūtas īpašumā, un tām, kas iegūtas kā ķīla."
+    },
+    {
+      "provision_ref": "Art. 52",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "52",
+      "title": "52. pants",
+      "content": "(1) Ja pārskata gadā meitas sabiedrība ir iegādājusies vai pārdevusi mātes sabiedrības akcijas vai daļas, mātes sabiedrība sniedz informāciju par šo akciju vai daļu nominālvērtību un tās īpatsvaru mātes sabiedrības kapitālā, kā arī norāda pirkšanas un pārdošanas summas.\n(2) Informācija, kas minēta šā panta pirmajā daļā, jāuzrāda atsevišķi tām akcijām un daļām, kas iegūtas īpašumā, un tām, kas iegūtas kā ķīla."
+    },
+    {
+      "provision_ref": "Art. 53",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "53",
+      "title": "53. pants",
+      "content": "(Izslēgts ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )"
+    },
+    {
+      "provision_ref": "Art. 53.1",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "53.1",
+      "title": "53. 1 pants",
+      "content": "(1) Sabiedrība sniedz informāciju par katru bilancē neiekļautu vienošanos, norādot tās veidu, mērķi un finansiālo ietekmi, ja ar šo vienošanos saistītie riski vai ieguvumi ir būtiski un ja informācija par šiem riskiem un ieguvumiem ir nepieciešama, lai novērtētu sabiedrības finansiālo stāvokli.\n(2) Sabiedrība sniedz informāciju par tās darījumiem ar saistītajām pusēm, ja šie darījumi ir būtiski un neatbilst parastajiem tirgus nosacījumiem, norādot šo darījumu summas, saistīto pušu attiecību veidu un citu informāciju par šiem darījumiem, kura nepieciešama, lai izprastu sabiedrības finansiālo stāvokli. Informāciju par atsevišķiem darījumiem ar saistītajām pusēm var apvienot grupās pēc šo darījumu veida, izņemot gadījumus, kad nepieciešama atsevišķi sniegta informācija, lai novērtētu saistīto pušu darījumu ietekmi uz sabiedrības finansiālo stāvokli.\n(3) Sabiedrībām, kuras nepārsniedz divus no šā likuma 24.panta otrajā daļā minētajiem kritērijiem, atļauts sniegt informāciju tikai par šā panta pirmajā daļā minētās vienošanās veidu un mērķi. Sabiedrībām, kuras nepārsniedz divus no šā likuma 24.panta otrajā daļā minētajiem kritērijiem, ja tās nav akciju sabiedrības, atļauts nesniegt šā panta otrajā daļā minēto informāciju. Akciju sabiedrība sniedz informāciju par darījumiem, kas tieši vai netieši veikti ar lielākajiem šīs sabiedrības akcionāriem un ar šīs sabiedrības vadību (padomes un valdes locekļiem).\n(4) Sabiedrība, kuras pārvedami vērtspapīri ir iekļauti dalībvalstu regulētajā tirgū, sniedz informāciju, ja par darījumiem starp sabiedrību un tās valdes vai padomes locekli vai starp sabiedrību un ar valdes un padomes locekli saistīto personu ( Komerclikuma izpratnē) ir saņemts iekšējās revīzijas revidenta atzinums."
+    },
+    {
+      "provision_ref": "Art. 54",
+      "chapter": "6.nodaļa NOTEIKUMI PAR PIELIKUMA SATURU",
+      "section": "54",
+      "title": "54. pants",
+      "content": "(1) Sabiedrībām, kuras bilances datumā nepārsniedz divus no šā panta otrajā daļā minētajiem kritērijiem, atļauts nesagatavot vadības ziņojumu, naudas plūsmas pārskatu un pašu kapitāla izmaiņu pārskatu, neaprēķināt un nenorādīt finanšu pārskatā atliktā nodokļa aktīvu un saistību summas un sastādīt saīsinātu pielikumu . Saīsinātajā pielikumā atļauts nesniegt informāciju, kas minēta šā likuma 44.pantā , 52.pantā un 55. 4 panta 3.punktā.\n(2) Šā panta pirmajā daļā minētie kritēriji ir:\n1) bilances kopsumma — 400 000 euro ;\n2) neto apgrozījums — 800 000 euro ;\n3) vidējais darbinieku skaits pārskata gadā — 25.\n(3) (Izslēgta ar 16.12.1999 . likumu.)\n(4) Bilances kopsumma atbilstoši šā panta otrās daļas prasībām veidojas no šā likuma 10.pantā norādītās visu aktīva posteņu kopsummas. Vidējais darbinieku skaits aprēķināms, saskaitot sabiedrībā strādājošos darbiniekus pārskata gada katra mēneša pēdējā datumā un summu dalot ar mēnešu skaitu pārskata gadā.\n(5) Ja sabiedrība bilances datumā pārsniedz vai beidz pārsniegt divus no šā panta otrajā daļā minētajiem kritērijiem, tā attiecīgi zaudē vai iegūst iespēju piemērot šā panta pirmajā daļā minētos atvieglojumus, taču tikai tad, ja tas atkārtojas divus pārskata gadus pēc kārtas. Jaunizveidota sabiedrība var piemērot šā panta pirmajā daļā minētos atvieglojumus pirmajā pārskata gadā, ja bilances datumā nepārsniedz divus no šā panta otrajā daļā minētajiem kritērijiem.\n(6) (Izslēgta ar 20.11.2003 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 54.1",
+      "chapter": "6. 1 nodaļa Papildu atvieglojumi un atbrīvojumi sabiedrībām (Nodaļa 29.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. Sk. pārejas noteikumu 15.punktu)",
+      "section": "54.1",
+      "title": "54. 1 pants",
+      "content": "(1) Sabiedrībām, kuras bilances datumā nepārsniedz divus no šā panta otrajā daļā norādītajiem kritērijiem, papildus šā likuma 54.panta pirmajā daļā minētajiem atvieglojumiem ir atļauts:\n1) sagatavot saīsināto bilanci šā likuma 54. 2 pantā norādītajā kārtībā;\n2) nesastādīt pielikumu . Šādā gadījumā bilances vai saīsinātās bilances beigās piezīmju veidā ar skaitļiem, tekstā vai tabulās (turpmāk — bilances piezīmes) sniedz šā likuma 54. 3 pantā minēto informāciju.\n(2) Šā panta pirmajā daļā minētie kritēriji ir:\n1) bilances kopsumma — 50 000 euro ;\n2) neto apgrozījums — 100 000 euro ;\n3) vidējais darbinieku skaits pārskata gadā — 5.\n(3) Bilances kopsumma atbilstoši šā panta otrās daļas prasībām ir attiecīgi šā likuma 10.pantā norādītās bilances shēmas vai saīsinātās bilances ( 54. 2 pants ) visu aktīva posteņu kopsumma.\n(4) Vidējo darbinieku skaitu aprēķina, saskaitot sabiedrībā strādājošos darbiniekus pārskata gada katra mēneša pēdējā datumā un summu dalot ar mēnešu skaitu pārskata gadā.\n(5) Ja sabiedrība bilances datumā pārsniedz vai beidz pārsniegt divus no šā panta otrajā daļā norādītajiem kritērijiem, tā attiecīgi zaudē vai iegūst iespēju piemērot šā panta pirmajā daļā minētos atvieglojumus, taču tikai tādā gadījumā, ja tas notiek gan kārtējā, gan iepriekšējā pārskata gadā. Jaunizveidota sabiedrība var piemērot šā panta pirmajā daļā minētos atvieglojumus pirmajā pārskata gadā, ja bilances datumā tā nepārsniedz divus no šā panta otrajā daļā norādītajiem kritērijiem."
+    },
+    {
+      "provision_ref": "Art. 54.2",
+      "chapter": "6. 1 nodaļa Papildu atvieglojumi un atbrīvojumi sabiedrībām (Nodaļa 29.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. Sk. pārejas noteikumu 15.punktu)",
+      "section": "54.2",
+      "title": "54. 2 pants",
+      "content": "(1) Saīsinātajā bilancē neietver šādas šā likuma 10.pantā dotās bilances shēmas posteņu grupas un posteņus:\n1) daļas \"Aktīvs\" nodaļā \"Ilgtermiņa ieguldījumi\":\na) III posteņu grupu \"III. Ieguldījuma īpašumi\",\nb) IV posteņu grupu \"IV. Bioloģiskie aktīvi\";\n2) daļas \"Aktīvs\" nodaļā \"Apgrozāmie līdzekļi\":\na) II posteņu grupu \"Pārdošanai turēti ilgtermiņa ieguldījumi\",\nb) IV posteņu grupas \"Īstermiņa finanšu ieguldījumi\" 4.posteni \"4. Atvasinātie finanšu instrumenti\";\n3) daļas \"Pasīvs\" nodaļā \"Pašu kapitāls\" 4.posteni \"4. Finanšu instrumentu pārvērtēšanas rezerve\".\n(2) Sabiedrība, kura izvēlējusies sagatavot saīsināto bilanci:\n1) zemes gabalus, ēkas vai būves vai to daļas, kas saskaņā ar šā likuma 10.pantā dotās bilances shēmu norādītas ieguldījuma īpašumu sastāvā, un ilggadīgos stādījumus, kas norādīti bioloģisko aktīvu sastāvā, pārklasificē par pamatlīdzekļiem un atspoguļo šā likuma 10.pantā dotās bilances shēmas daļas \"Aktīvs\" nodaļas \"Ilgtermiņa ieguldījumi\" II posteņu grupas \"II. Pamatlīdzekļi\" 1.postenī \"1. Zemes gabali, ēkas un būves un ilggadīgie stādījumi\" tajā pašā bilances vērtībā;\n2) darba un produktīvos dzīvniekus, kuri saskaņā ar šā likuma 10.pantā doto bilances shēmu norādīti bioloģisko aktīvu sastāvā, pārklasificē par krājumiem un atspoguļo šā likuma 10.pantā dotās bilances shēmas daļas \"Aktīvs\" nodaļas \"Apgrozāmie līdzekļi\" I posteņu grupas \"I. Krājumi\" 6.postenī \"6. Darba dzīvnieki un produktīvie dzīvnieki\" tajā pašā bilances vērtībā;\n3) viengadīgos stādījumus un sējumus, kā arī dzīvniekus, kuri nav darba un produktīvie dzīvnieki un kuri saskaņā ar šā likuma 10.pantā doto bilances shēmu norādīti bioloģisko aktīvu sastāvā, pārklasificē par krājumiem un atspoguļo attiecīgi šā likuma 10.pantā dotās bilances shēmas daļas \"Aktīvs\" nodaļas \"Apgrozāmie līdzekļi\" I posteņu grupas \"I. Krājumi\" 2.postenī \"2. Nepabeigtie ražojumi\" vai 3.postenī \"3. Gatavie ražojumi un preces pārdošanai\", vai citā attiecīgā krājumu postenī tajā pašā bilances vērtībā;\n4) ilgtermiņa ieguldījumu objektus, kas saskaņā ar šā likuma 10.pantā doto bilances shēmu norādīti pārdošanai turētu ilgtermiņa ieguldījumu sastāvā, pārklasificē atpakaļ uz atbilstošajiem ilgtermiņa ieguldījumu posteņiem tajā pašā bilances vērtībā;\n5) pārdošanai turētu ilgtermiņa ieguldījumu sastāvā norādītos zemes gabalus, ēkas, būves vai citus pamatlīdzekļu objektus, kurus paredzēts pārdot parastā saimnieciskās darbības gaitā, var pārklasificēt par krājumiem un atspoguļot šā likuma 10.pantā dotās bilances shēmas daļas \"Aktīvs\" nodaļas \"Apgrozāmie līdzekļi\" I posteņu grupas \"I. Krājumi\" 3.postenī \"3. Gatavie ražojumi un preces pārdošanai\" tajā pašā bilances vērtībā."
+    },
+    {
+      "provision_ref": "Art. 54.3",
+      "chapter": "6. 1 nodaļa Papildu atvieglojumi un atbrīvojumi sabiedrībām (Nodaļa 29.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. Sk. pārejas noteikumu 15.punktu)",
+      "section": "54.3",
+      "title": "54. 3 pants",
+      "content": "(1) Bilances piezīmēs sniedz šā likuma 45.panta otrajā un ceturtajā daļā un 49.pantā minēto informāciju, kā arī ziņas par pārskata gada vidējo darbinieku skaitu.\n(2) Sabiedrība, kura izmanto šajā nodaļā minētos atvieglojumus un atbrīvojumus un pārskata gadā ir:\n1) mainījusi pārskata gadu, papildus sniedz pārskata gada maiņas pamatojumu ( 3.panta otrā daļa);\n2) mainījusi peļņas vai zaudējumu aprēķina shēmu, papildus paskaidro šīs maiņas iemeslu ( 5.panta piektā daļa);\n3) apvienojusi vienā bilances postenī maznozīmīgas summas, kuras attiecas uz vairākiem bilances posteņiem, papildus sniedz šīs kopsummas detalizāciju ( 6.panta otrā daļa);\n4) konstatējusi iepriekšējo periodu kļūdas vai mainījusi grāmatvedības politiku un attiecīgi koriģējusi iepriekšējo pārskata gadu datus, par katru gadījumu papildus sniedz skaidrojumu ( 7.panta pirmā daļa);\n5) atkāpusies no šā likuma 25.panta pirmajā daļā minētajiem grāmatvedības principiem, papildus sniedz skaidrojumu par jebkuru šādu atkāpšanos, norādot, kā tā ietekmēs sabiedrības līdzekļus un saistības, finansiālo stāvokli un peļņu vai zaudējumus ( 25.panta otrā daļa);\n6) iekļāvusi jaunizveidota pamatlīdzekļa pašizmaksā saņemto aizņēmumu procentus par periodu līdz tā nodošanai ekspluatācijā, papildus sniedz ziņas par šo procentu apmēru ( 26.panta ceturtā daļa);\n7) pārvērtējusi ilgtermiņa ieguldījumu objektu atbilstoši augstākai vai zemākai vērtībai, papildus sniedz pārvērtēšanas pamatojumu par katru pārvērtēto bilances aktīva posteni, kā arī novērtējuma starpību ( 28.panta ceturtā daļa un 29.panta sestā daļa);\n8) izveidojusi uzkrājumus nedrošiem parādiem, papildus sniedz šo uzkrājumu apjoma pamatojumu ( 37.panta pirmā daļa).\n(3) Sabiedrība, kurai ir savas akcijas vai daļas (ir summa bilances postenī \"Pašu akcijas un daļas\"), bilances piezīmēs papildus sniedz šā likuma 51.pantā noteiktās ziņas.\n(4) Zemnieku un zvejnieku saimniecība, komercsabiedrība, kooperatīvā sabiedrība, individuālais uzņēmums, kas nodarbojas ar lauksaimniecisko ražošanu un saņem valsts atbalstu lauksaimniecībai vai Eiropas Savienības atbalstu lauksaimniecībai un lauku attīstībai vai piemēro uzņēmumu ienākuma nodokļa atlaidi nodokļa maksātājiem, kas veic lauksaimniecisko darbību, bilances piezīmēs papildus norāda ieņēmumus no lauksaimnieciskās darbības, kuri iekļauti peļņas vai zaudējumu aprēķina neto apgrozījumā ( 48.panta trešā daļa)."
+    },
+    {
+      "provision_ref": "Art. 54.4",
+      "chapter": "6. 1 nodaļa Papildu atvieglojumi un atbrīvojumi sabiedrībām (Nodaļa 29.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. Sk. pārejas noteikumu 15.punktu)",
+      "section": "54.4",
+      "title": "54. 4 pants",
+      "content": "Sabiedrība, kura izmanto vismaz vienu no šā likuma 54. 1 panta pirmās daļas 1. un 2.punktā minētajiem atvieglojumiem un atbrīvojumiem, nedrīkst izmantot šā likuma 55. 1 un 55. 5 pantā minēto izvēles iespēju novērtēt finanšu instrumentus (arī atvasinātus finanšu instrumentus), ieguldījuma īpašumus, bioloģiskos aktīvus un pārdošanai turētus ilgtermiņa ieguldījumus to patiesajā vērtībā."
+    },
+    {
+      "provision_ref": "Art. 55",
+      "chapter": "7.nodaļa VADĪBAS ZIŅOJUMS (Nodaļas nosaukums 16.12.1999 . likuma redakcijā, kas stājas spēkā 19.01.2000. )",
+      "section": "55",
+      "title": "55. pants",
+      "content": "(1) Vadības ziņojumā sniedz skaidru informāciju par sabiedrības attīstību, darbības finansiālajiem rezultātiem un finansiālo stāvokli, kā arī informāciju par būtiskiem riskiem un neskaidriem apstākļiem, ar kuriem sabiedrība saskaras. Šo informāciju pamato ar vispusīgu un visaptverošu sabiedrības attīstības, darbības finansiālo rezultātu un finansiālā stāvokļa analīzi atbilstoši attiecīgās sabiedrības darbības apjomam un sarežģītībai. Lai izprastu sabiedrības attīstību, darbības finansiālos rezultātus un finansiālo stāvokli, šajā analīzē iekļauj:\n1) finansiālo rezultātu rādītājus;\n2) tiktāl, ciktāl tie ir būtiski, arī galvenos sabiedrību un attiecīgo nozari raksturojošos nefinanšu rādītājus - informāciju par vides aizsardzības prasību ietekmi un informāciju par darbiniekiem (piemēram, piemērotā nodarbinātības politika, garantijas un atbalsts darbiniekiem) vai citu informāciju;\n3) ja iespējams, atsauces uz finanšu pārskatā norādītajām summām un papildu skaidrojumus par tām. Šīs daļas 2.punktā minētos nefinanšu rādītājus atļauts nesniegt sabiedrībām, kuras nepārsniedz divus no šā likuma 24.panta otrajā daļā minētajiem kritērijiem.\n(2) Vadības ziņojumā jāsniedz arī norādījumi par:\n1) jebkādiem svarīgiem notikumiem kopš pārskata gada beigām;\n2) turpmāko sabiedrības attīstību;\n3) pētniecības darbiem un attīstības pasākumiem, ja tādi ir;\n4) sabiedrības filiālēm un pārstāvniecībām ārvalstīs;\n5) finanšu instrumentu izmantošanu un, ja tas ir būtiski sabiedrības aktīvu, saistību, finansiālā stāvokļa un peļņas vai zaudējumu novērtēšanai, arī par finanšu riska vadības mērķiem un politiku, par pieņemto riska vadības politiku attiecībā uz katru nozīmīgu prognozēto nākotnes darījumu veidu, kuram tiek piemērota riska ierobežošanas uzskaite, un par sabiedrības pakļautību tirgus riskam, kredītriskam, likviditātes riskam un naudas plūsmas riskam.\n(3) Vadības ziņojumā sniedzami priekšlikumi par sabiedrības peļņas izlietošanu (ņemot vērā arī aprēķinātās ārkārtas dividendes, ja tādas ir bijušas) vai zaudējumu segšanu.\n(4) (Izslēgta ar 12.03.2009 . likumu.)\n(5) Ja sabiedrības vadība uzskata, ka bez tādiem īpašiem priekšnosacījumiem kā parādu norakstīšana vai papildu kapitāla ieguldījumi nav iespējams turpināt sabiedrības darbību, par to sīks paskaidrojums ir jāsniedz vadības ziņojumā.\n(6) (Izslēgta ar 20.11.2003 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 55.1",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.1",
+      "title": "55. 1 pants",
+      "content": "(1) Atkāpjoties no šā likuma 26. , 28. , 29. , 30. , 32. un 36.pantā paredzētajiem novērtēšanas noteikumiem, finanšu instrumentus (arī atvasinātus finanšu instrumentus) drīkst novērtēt patiesajā vērtībā, ja tiek ievēroti šā panta otrajā, trešajā un ceturtajā daļā ietvertie nosacījumi.\n(2) Līgumi, kuru bāzes aktīvs ir prece un saskaņā ar kuriem abām pusēm ir tiesības norēķināties naudā vai ar kādu citu finanšu instrumentu, šā likuma izpratnē ir atvasināti finanšu instrumenti, izņemot gadījumu, kad ir spēkā visi šie nosacījumi:\n1) līgums ir noslēgts saskaņā ar sabiedrības plānotajām preču, izejvielu, pamatmateriālu un palīgmateriālu iepirkuma, pārdošanas vai izlietojuma vajadzībām un joprojām tām atbilst;\n2) līgums jau sākotnēji bijis paredzēts šīs daļas 1.punktā minētajām vajadzībām;\n3) līgumsaistības ir paredzēts nokārtot ar preču piegādi.\n(3) Novērtēšanu patiesajā vērtībā piemēro tikai tām finanšu saistībām, kuras ir tirdzniecības portfeļa sastāvdaļa vai kuras ir radušās no atvasinātiem finanšu instrumentiem.\n(4) Novērtēšanai patiesajā vērtībā nepakļauj šādus finanšu aktīvus:\n1) līdz termiņa beigām turētus ieguldījumus, kas nav atvasināti finanšu instrumenti;\n2) aizdevumus un debitoru parādus, kas netiek turēti tirdzniecībai;\n3) līdzdalību koncerna meitas sabiedrību, asociēto sabiedrību un kopīgi pārvaldītu sabiedrību kapitālā, sabiedrības emitētos kapitāla vērtspapīrus, kā arī citus finanšu instrumentus, kurus, ievērojot starptautiskos grāmatvedības standartus, kas pieņemti saskaņā ar Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu, nepakļauj novērtēšanai patiesajā vērtībā.\n(5) Papildus šā panta pirmajā daļā noteiktajam patiesajā vērtībā drīkst novērtēt ikvienu finanšu aktīvu vai finanšu saistību posteni, kas kvalificēts kā pret risku nodrošināts postenis, vai arī noteiktu šāda posteņa daļu, ja tas nepieciešams saskaņā ar sabiedrībā pieņemto riska ierobežošanas uzskaites sistēmu.\n(6) Atkāpjoties no šā panta trešajā un ceturtajā daļā paredzētajiem novērtēšanas noteikumiem, finanšu instrumentus drīkst novērtēt saskaņā ar starptautiskajiem grāmatvedības standartiem, kas pieņemti ar Komisijas 2003.gada 29.septembra regulu (EK) Nr. 1725/2003 , ar ko pieņem noteiktus starptautiskos grāmatvedības standartus saskaņā ar Eiropas Parlamenta un Padomes regulu (EK) Nr. 1606/2002 (turpmāk - regula Nr. 1725/2003 ), ievērojot līdz 2006.gada 5.septembrim izdarītos regulas Nr. 1725/2003 grozījumus un pielikumā sniedzot attiecīgo informāciju atbilstoši prasībām, kādas noteiktas starptautiskajos grāmatvedības standartos, kas pieņemti saskaņā ar Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 55.2",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.2",
+      "title": "55. 2 pants",
+      "content": "(1) Finanšu instrumentu novērtējumam patiesajā vērtībā šā likuma 55. 1 pantā minētajos gadījumos jābūt ticamam. Novērtējums ir ticams, ja finanšu instrumenta patiesā vērtība noteikta, izmantojot vienu no šādām metodēm:\n1) finanšu instrumentiem, kuriem ir publicēti cenas kotējumi aktīvā publiskā vērtspapīru tirgū, — pamatojoties uz tirgus cenu. Ja finanšu instrumentam nav minētās tirgus cenas, bet šāda cena ir atsevišķām tā komponentēm vai līdzīgiem finanšu instrumentiem, šā instrumenta tirgus cenu var veidot, ņemot vērā tā komponenšu vai līdzīgo finanšu instrumentu tirgus cenu;\n2) finanšu instrumentiem, kuriem nav iespējams noteikt tirgus cenu, — pamatojoties uz vērtību, kas aprēķināta, izmantojot vispāratzītus un piemērotus novērtēšanas modeļus un metodes, ja aprēķinātā vērtība pieņemami atspoguļo šo instrumentu iespējamo tirgus cenu.\n(2) Finanšu instrumentus, kuru patieso vērtību nevar ticami noteikt ar šā panta pirmajā daļā minētajām metodēm, novērtē šā likuma 26. , 28. , 30. , 32. un 36.pantā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 55.3",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.3",
+      "title": "55. 3 pants",
+      "content": "(1) Finanšu instrumenta patiesās vērtības izmaiņas, kas radušās, veicot novērtēšanu saskaņā ar šā likuma 55. 2 panta pirmajā daļā noteiktajām metodēm, iekļauj peļņas vai zaudējumu aprēķinā, izņemot šādus gadījumus:\n1) finanšu instruments ir kvalificēts kā riska ierobežošanas instruments, un saskaņā ar sabiedrībā pieņemto riska ierobežošanas uzskaites sistēmu ir paredzēts dažas (vai visas) šā instrumenta vērtības izmaiņas neatspoguļot peļņas vai zaudējumu aprēķinā;\n2) finanšu instrumenta vērtības izmaiņas ir atkarīgas no valūtas kursa maiņas saistībā ar sabiedrības naudas ilgtermiņa ieguldījumu ārvalsts jurisdikcijā esošas sabiedrības pamatkapitālā. Abos minētajos gadījumos finanšu instrumenta patiesās vērtības izmaiņas parāda bilances postenī \"Finanšu instrumentu pārvērtēšanas rezerve\".\n(2) Pārdošanai pieejamu finanšu aktīvu patiesās vērtības izmaiņas, ja šie aktīvi nav atvasināti finanšu instrumenti, sabiedrība parāda bilances postenī \"Finanšu instrumentu pārvērtēšanas rezerve\".\n(3) Finanšu instrumentu pārvērtēšanas rezervi, kas parādīta bilances postenī \"Finanšu instrumentu pārvērtēšanas rezerve\", iekļauj peļņas vai zaudējumu aprēķinā tajā pašā periodā, kurā attiecīgais finanšu instruments tiek pārdots, dzēsts vai citā veidā atsavināts vai arī kurā samazinājusies finanšu aktīva vērtība."
+    },
+    {
+      "provision_ref": "Art. 55.4",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.4",
+      "title": "55. 4 pants",
+      "content": "Ja finanšu instrumenti ir novērtēti patiesajā vērtībā, pielikumā iekļauj šādu informāciju:\n1) nozīmīgākie pieņēmumi, uz kuriem pamatojas izmantoto novērtēšanas modeļu un metožu izvēle, ja šo instrumentu patiesā vērtība noteikta saskaņā ar šā likuma 55. 2 panta pirmās daļas 2.punktu;\n2) finanšu instrumentu patiesā vērtība un šīs vērtības izmaiņas, kas iekļautas peļņas vai zaudējumu aprēķinā vai bilances postenī \"Finanšu instrumentu pārvērtēšanas rezerve\", sadalījumā pa finanšu instrumentu kategorijām atbilstoši sadalījumam, kāds noteikts starptautiskajos grāmatvedības standartos, kas pieņemti saskaņā ar Eiropas Parlamenta un Padomes 2002.gada 19.jūlija regulu (EK) Nr. 1606/2002 par starptautisko grāmatvedības standartu piemērošanu;\n3) sadalījumā pa atvasināto finanšu instrumentu grupām — skaidrojums par šiem instrumentiem, norādot kopsummu, kā arī informāciju par būtiskiem noteikumiem un nosacījumiem, kas varētu ietekmēt nākotnē gaidāmo naudas plūsmas apjomu, rašanās laiku un noteiktību;\n4) tabula, kas parāda bilances posteņa \"Finanšu instrumentu pārvērtēšanas rezerve\" izmaiņas pārskata gadā."
+    },
+    {
+      "provision_ref": "Art. 55.5",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.5",
+      "title": "55. 5 pants",
+      "content": "(1) Atkāpjoties no šā likuma 27. , 28. un 29.pantā paredzētajiem novērtēšanas noteikumiem, ieguldījuma īpašumus pēc to sākotnējās uzskaites izmaksās atļauts novērtēt patiesajā vērtībā, ja tiek ievērots viens no šādiem nosacījumiem:\n1) visiem ieguldījuma īpašumu objektiem ir pastāvīgi pieejamas cenas aktīvajā tirgū par līdzīgiem ieguldījuma īpašuma objektiem tajā pašā atrašanās vietā vai stāvoklī vai saskaņā ar līdzīgiem nomas vai citiem līgumiem (ja tādi noslēgti);\n2) visiem ieguldījuma īpašumu objektiem patieso vērtību nosaka, atsevišķi novērtējot katru zemes gabalu, ēku, būvi vai attiecīgo šo objektu daļu. Vērtību nosaka sertificēts nekustamā īpašuma vērtētājs.\n(2) Atkāpjoties no šā likuma 26. , 27. , 28. , 29. , 30. un 32.pantā paredzētajiem novērtēšanas noteikumiem, bioloģiskos aktīvus sākotnējā uzskaitē un turpmāk atļauts novērtēt patiesajā vērtībā, no kuras atskaitītas pārdošanas izmaksas (piemēram, komisijas maksas, maksājumi preču biržām, ar norēķiniem saistītie nodokļi un nodevas), ja tiek ievērots viens no šādiem nosacījumiem:\n1) bioloģisko aktīvu objektam ir aktīvs tirgus un pastāvīgi pieejamas tirgus cenas;\n2) bioloģisko aktīvu objektam iespējams ar citām atzītām metodēm noteikt ticamu patieso vērtību tā pašreizējā atrašanās vietā un stāvoklī.\n(3) Atkāpjoties no šā likuma 27. , 28. un 29.pantā paredzētajiem novērtēšanas noteikumiem, pārdošanai turētus ilgtermiņa ieguldījumus, kamēr tie atbilst to klasifikācijas kritērijiem, atļauts novērtēt zemākajā no vērtībām, salīdzinot šo aktīvu uzskaites vērtību un patieso vērtību, no kuras atskaitītas pārdošanas izmaksas. Ja fakti vai notikumi norāda uz pārdošanai turētu ilgtermiņa ieguldījumu vērtības samazināšanos, veic vērtības samazināšanās pārbaudi un nosaka zaudējumus, kurus radījusi šo ieguldījumu vērtības samazināšanās."
+    },
+    {
+      "provision_ref": "Art. 55.6",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.6",
+      "title": "55. 6 pants",
+      "content": "Amortizācijai nepakļauj ieguldījuma īpašumus, bioloģiskos aktīvus vai pārdošanai turētus ilgtermiņa ieguldījumus, kurus sabiedrība novērtē, pamatojoties uz patieso vērtību. Šo aktīvu vērtības izmaiņas, kas radušās, veicot novērtēšanu attiecīgi patiesajā vērtībā vai patiesajā vērtībā, no kuras atskaitītas pārdošanas izmaksas, vai veicot vērtības samazināšanās pārbaudi, iekļauj peļņas vai zaudējumu aprēķinā."
+    },
+    {
+      "provision_ref": "Art. 55.7",
+      "chapter": "7. 1 nodaļa NOVĒRTĒŠANA PATIESAJĀ VĒRTĪBĀ (Nodaļa 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )",
+      "section": "55.7",
+      "title": "55. 7 pants",
+      "content": "(1) Ja ieguldījuma īpašumi, bioloģiskie aktīvi vai pārdošanai turēti ilgtermiņa ieguldījumi ir novērtēti attiecīgi patiesajā vērtībā vai patiesajā vērtībā, no kuras atskaitītas pārdošanas izmaksas, pielikumā atsevišķi par katru minēto posteņu grupu iekļauj vismaz šādu informāciju:\n1) posteņu grupā iekļauto aktīvu apraksts;\n2) metodes, kuras piemēro, un nozīmīgākie pieņēmumi, uz kuriem pamatojas, lai noteiktu šo aktīvu patieso vērtību;\n3) bilances vērtība atbilstoši iepriekšējā gada bilancei;\n4) palielinājumi (ja tādi ir) pārskata gadā, atsevišķi norādot tos palielinājumus, kuri radušies no iegādēm;\n5) atsavināšanas (ja tādas ir) pārskata gadā;\n6) peļņa vai zaudējumi no vērtības korekcijām pārskata gadā;\n7) jebkura pārvietošana (ja tāda ir) uz citām posteņu grupām pārskata gadā.\n(2) Par pārdošanai turētiem ilgtermiņa ieguldījumiem, kas novērtēti patiesajā vērtībā, no kuras atskaitītas pārdošanas izmaksas, papildus sniedz šādas ziņas:\n1) paredzētais šo ieguldījumu atsavināšanas laiks un atsavināšanas noteikumi;\n2) ja ir iedalījums struktūrvienībās (pamatdarbības veids, filiāle vai cita skaidri atšķirama uzņēmuma sastāvdaļa), — struktūrvienība, uz kuru šī informācija attiecas."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "9.nodaļa GADA PĀRSKATA NOFORMĒŠANA UN PARAKSTĪŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 19.10.2006 . likumu, kas stājas spēkā 22.11.2006. )",
+      "section": "61",
+      "title": "61. pants",
+      "content": "(1) Gada pārskatā norāda šādas ziņas:\n1) uzņēmuma nosaukums (komersanta firma) un juridiskā adrese, kā arī reģistrācijas numurs komercreģistrā vai uzņēmumu reģistrā un pamatdarbības veidi (galvenie saimnieciskās darbības veidi), norādot nosaukumu un kodu atbilstoši Eiropas Parlamenta un Padomes 2006.gada 20.decembra regulā (EK) Nr. 1893/2006 , ar ko izveido NACE 2.red. saimniecisko darbību statistisko klasifikāciju, kā arī groza Padomes regulu (EEK) Nr. 3037/90 un dažas EK regulas par īpašām statistikas jomām (Dokuments attiecas uz EEZ), noteiktajai saimnieciskās darbības statistiskajai klasifikācijai;\n2) individuālajam uzņēmumam, zemnieka un zvejnieka saimniecībai — arī īpašnieka vārds, uzvārds, personas kods un dzīvesvieta;\n3) (izslēgts ar 19.10.2006 . likumu) ;\n4) personālsabiedrībai — arī tās veids, personiski atbildīgo biedru un komandītu vārds, uzvārds, personas kods un dzīvesvieta, bet juridiskajai personai — nosaukums, reģistrācijas numurs un juridiskā adrese;\n5) kapitālsabiedrībai — arī tās veids, izpildinstitūcijas locekļu, padomes locekļu (ja ir izveidota padome) un revidenta vārds, uzvārds un amats. Šīs ziņas sniedz arī par tām personām, kuras pārskata gadā no šiem amatiem atbrīvotas;\n6) kooperatīvajai sabiedrībai — arī tās veids, valdes locekļu un padomes locekļu (ja ir izveidota padome) vārds, uzvārds un amats. Šīs ziņas sniedz arī par tām personām, kuras pārskata gadā no šiem amatiem atbrīvotas.\n(2) Gada pārskatu paraksta:\n1) individuālā uzņēmuma, zemnieka un zvejnieka saimniecības gada pārskatu — īpašnieks vai cita amatpersona, kurai uzņēmumu reģistrā reģistrētas tiesības pārstāvēt attiecīgo individuālo uzņēmumu, zemnieka un zvejnieka saimniecību;\n2) (izslēgts ar 19.10.2006 . likumu) ;\n3) personālsabiedrības gada pārskatu — visi šīs sabiedrības biedri vai tie sabiedrības biedri, kuri ir īpaši pilnvaroti pārstāvēt šo sabiedrību;\n4) kapitālsabiedrības gada pārskatu — valde;\n5) kooperatīvās sabiedrības gada pārskatu — valde.\n(3) Ja personālsabiedrības biedrs, kapitālsabiedrības vai kooperatīvās sabiedrības valdes loceklis uzskata, ka gada pārskats nav apstiprināms, vai izvirza iebildumus, viņš savu atšķirīgo viedokli norāda īpašā piezīmē."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "62",
+      "title": "62. pants",
+      "content": "(1) Ja kapitālsabiedrības, kooperatīvās sabiedrības, Latvijā reģistrētas Eiropas kooperatīvās sabiedrības un Eiropas komercsabiedrības rādītāji pārsniedz divus no šā likuma 54.panta otrajā daļā minētajiem kritērijiem, kā arī ja sabiedrības pārvedami vērtspapīri ir iekļauti dalībvalstu regulētajā tirgū, tās sagatavoto gada pārskatu pārbauda zvērināts revidents atbilstoši likumam \" Par zvērinātiem revidentiem \".\n(2) (Izslēgta ar 16.12.1999 . likumu.)\n(3) Ja kapitālsabiedrības, kooperatīvās sabiedrības, Latvijā reģistrētas Eiropas kooperatīvās sabiedrības un Eiropas komercsabiedrības gada pārskatā pēc tam, kad zvērināts revidents to ir pārbaudījis, izdarīti kādi grozījumi, zvērinātam revidentam pārskats no jauna jāpārbauda tieši attiecībā uz izdarītajiem grozījumiem. Šāda atkārtota pārbaude jāpiemin zvērināta revidenta atzinumā par gada pārskata pārbaudīšanu."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "63",
+      "title": "63. pants",
+      "content": "(1) Gada pārskata pārbaude ietver arī grāmatvedības pārbaudi, lai noskaidrotu, vai uzskaite atbilst grāmatvedības pamatnoteikumiem. Pārbaudē arī noskaidro, vai ir ievērotas gada pārskata sagatavošanu reglamentējošo normatīvo aktu prasības un sabiedrības statūtu noteikumi.\n(2) Kapitālsabiedrības, kooperatīvās sabiedrības, Latvijā reģistrētas Eiropas kooperatīvās sabiedrības un Eiropas komercsabiedrības likumīgie pārstāvji iesniedz zvērinātam revidentam gada pārskatu tūlīt pēc tā sastādīšanas.\n(3) Zvērināts revidents drīkst pieprasīt no kapitālsabiedrības, kooperatīvās sabiedrības, Latvijā reģistrētas Eiropas kooperatīvās sabiedrības un Eiropas komercsabiedrības likumīgajiem pārstāvjiem visas ziņas un paskaidrojumus, kas vajadzīgi rūpīgai pārbaudei. Ja tas nepieciešams, šādu informāciju viņš var pieprasīt arī pirms gada pārskata saņemšanas.\n(4) Ne zvērināts revidents, ne viņa palīgi nedrīkst izpaust pārbaudes gaitā uzzinātos komercnoslēpumus."
+    },
+    {
+      "provision_ref": "Art. 64",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "64",
+      "title": "64. pants",
+      "content": "Par veiktās pārbaudes rezultātiem zvērināts revidents sagatavo revidenta ziņojumu atbilstoši likuma \" Par zvērinātiem revidentiem \" prasībām."
+    },
+    {
+      "provision_ref": "Art. 65",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "65",
+      "title": "65. pants",
+      "content": "(Izslēgts ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )"
+    },
+    {
+      "provision_ref": "Art. 66",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "66",
+      "title": "66. pants",
+      "content": "(1) Sabiedrība ne vēlāk kā mēnesi pēc gada pārskata apstiprināšanas un ne vēlāk kā četrus mēnešus pēc pārskata gada beigām, bet sabiedrība, kuras darbības apjoms pārsniedz divus no šā likuma 24.panta otrajā daļā minētajiem kritērijiem, un sabiedrība, kas ir koncerna mātes sabiedrība, kura sagatavo konsolidēto gada pārskatu, ne vēlāk kā septiņus mēnešus pēc pārskata gada beigām iesniedz Valsts ieņēmumu dienestam gada pārskata un zvērināta revidenta ziņojuma (ja tāds ir) norakstu kopā ar paskaidrojumu par to, kad gada pārskats apstiprināts. Kapitālsabiedrības paskaidrojumu par to, kad gada pārskats apstiprināts, aizstāj ar akcionāru vai dalībnieku sapulces protokola izrakstu ar lēmumu par gada pārskata apstiprināšanu. Šajā daļā minētos dokumentus sabiedrība iesniedz papīra formā vai elektroniski.\n(2) Sabiedrības, uz kurām attiecas šā likuma 54.panta noteikumi, var vadības ziņojumu neiesniegt. Šādā gadījumā iesniedzams attiecīgi apliecināts sabiedrības akcionāru vai dalībnieku sapulces protokola izraksts ar lēmumu par peļņas sadali (ņemot vērā arī aprēķinātās ārkārtas dividendes, ja tādas ir bijušas) vai zaudējumu segšanu.\n(3) Sabiedrība, kura ievēro šā panta otrās daļas vai šā likuma 54.panta noteikumus, iesniegtajam gada pārskatam pievieno valdes parakstītu paskaidrojumu, ka šā likuma 54.panta otrās, ceturtās un piektās daļas noteikumi ir izpildīti.\n(4) Šā panta pirmajā, otrajā un trešajā daļā minētos dokumentus, ja tie iesniegti elektroniski, vai šo dokumentu elektroniskās kopijas, ja tie iesniegti papīra formā, Valsts ieņēmumu dienests ne vēlāk kā piecu darbdienu laikā elektroniski nodod Uzņēmumu reģistram. Uzņēmumu reģistrs nodrošina saņemto dokumentu publisku pieejamību. Kārtību, kādā apliecina dokumentu elektroniskās kopijas un elektroniski nodod dokumentus, nosaka starpresoru vienošanās.\n(5) Uzņēmumu reģistrs pēc šā panta ceturtajā daļā minēto dokumentu saņemšanas ne vēlāk kā piecu darbdienu laikā publicē oficiālajā izdevumā “Latvijas Vēstnesis” paziņojumu, ka šā panta pirmajā, otrajā un trešajā daļā minētā informācija pieejama Uzņēmumu reģistrā.\n(6) (Izslēgta ar 06.11.1996 . likumu.)"
+    },
+    {
+      "provision_ref": "Art. 67",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "67",
+      "title": "67. pants",
+      "content": "(Izslēgts ar 22.05.2008 . likumu, kas stājas spēkā 25.06.2008. )"
+    },
+    {
+      "provision_ref": "Art. 68",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "68",
+      "title": "68. pants",
+      "content": "Ja sabiedrības vadība nav iesniegusi dokumentus saskaņā ar šā likuma 66.panta pirmās, otrās un trešās daļas prasībām, Valsts ieņēmumu dienesta amatpersona uzliek naudas sodu likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn1",
+      "title": "1. Ar šo likumu izdarītie grozījumi piemērojami gada pārskatiem, sākot ar 1999. pārskata gadu, izņemot grozījumus likuma 10.pantā attiecībā uz īstermiņa kreditoriem un ilgtermiņa kreditoriem un grozījumus likuma 17.panta trešajā daļā, kas piemērojami, sākot ar 2000.pārskata gadu.",
+      "content": "1. Ar šo likumu izdarītie grozījumi piemērojami gada pārskatiem, sākot ar 1999. pārskata gadu, izņemot grozījumus likuma 10.pantā attiecībā uz īstermiņa kreditoriem un ilgtermiņa kreditoriem un grozījumus likuma 17.panta trešajā daļā, kas piemērojami, sākot ar 2000.pārskata gadu."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn2",
+      "title": "2. Konsolidētie gada pārskati, sākot ar 1999.pārskata gadu, sagatavojami atbilstoši likumam \" Par konsolidētajiem gada pārskatiem \".",
+      "content": "2. Konsolidētie gada pārskati, sākot ar 1999.pārskata gadu, sagatavojami atbilstoši likumam \" Par konsolidētajiem gada pārskatiem \"."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn3",
+      "title": "3. Likuma 1.panta trešā daļa attiecībā uz ieguldījumu brokeru sabiedrībām un ieguldījumu pārvaldes sabiedrībām piemērojama, sākot ar 2005.pārskata gadu.",
+      "content": "( 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )"
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn4",
+      "title": "4. Līdz dienai, kad spēkā stāsies attiecīgi grozījumi likumā \"Par ieguldījumu sabiedrībām\", ar terminu \"ieguldījumu pārvaldes sabiedrība\" saprot terminu \"ieguldījumu sabiedrība\".",
+      "content": "( 20.11.2003 . likuma redakcijā, kas stājas spēkā 25.12.2003. )"
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn5",
+      "title": "5. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2006.gada 1.janvārim ir piemērojami Ministru kabineta 2004.gada 24.augusta noteikumi Nr.728 \" Noteikumi par obligāti piemērojamiem Latvijas grāmatvedības standartiem un kārtību, kādā sagatavojami naudas plūsmas pārskati un pašu kapitāla izmaiņu pārskati \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "( 26.05.2005 . likuma redakcijā, kas stājas spēkā 24.06.2005. )"
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn6",
+      "title": "6. Grozījumi šā likuma 1.panta otrajā daļā un 54.panta otrajā daļā stājas spēkā 2007.gada 1.janvārī un ir attiecināmi uz pārskata periodiem, kuri sākas šajā datumā vai vēlāk.",
+      "content": "( 19.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn7",
+      "title": "7. (Izslēgts ar 10.06.2010 . likumu, kas stājas spēkā 14.07.2010. )",
+      "content": "7. (Izslēgts ar 10.06.2010 . likumu, kas stājas spēkā 14.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn8",
+      "title": "8. Šā likuma 45.panta sestā daļa un 53. 1 pants stājas spēkā 2008.gada 1.janvārī.",
+      "content": "( 19.10.2006 . likuma redakcijā, kas stājas spēkā 22.11.2006. )"
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn9",
+      "title": "9. Grozījumi šā likuma 66.panta pirmajā, otrajā, ceturtajā un piektajā daļā, 67.panta izslēgums un grozījums šā likuma 68.pantā stājas spēkā 2008.gada 1.jūlijā un ir attiecināmi uz gada pārskatiem, kas iesniegti šajā datumā vai vēlāk.",
+      "content": "( 22.05.2008 . likuma redakcijā, kas stājas spēkā 25.06.2008. )"
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn10",
+      "title": "10. Grozījumi šā likuma daļā “Likumā lietotie termini” par otrā teikuma izslēgšanu termina “Vadība” un “Koncerns” skaidrojumā, grozījumi 1.pantā par vārdu “individuālajiem uzņēmumiem, zemnieku un zvejnieku saimniecībām, kā arī uz” un otrās daļas izslēgšanu, grozījumi 61.pantā par pirmās daļas 2.punkta un otrās daļas 1.punkta izslēgšanu stājas spēkā 2013.gada 1.jūlijā.",
+      "content": "( 12.03.2009 . likuma redakcijā ar grozījumiem, kas izdarīti ar 10.06.2010 . likumu, kas stājas spēkā 14.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 10.1",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn10.1",
+      "title": "10. 1 Šā likuma pārejas noteikumu 10.punktā paredzēto grozījumu spēkā stāšanās tiek atcelta.",
+      "content": "( 14.06.2012 . likuma redakcijā, kas stājas spēkā 10.07.2012. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn11",
+      "title": "11. Grozījums šā likuma 54.panta pirmās daļas pirmajā teikumā par atļauju nesagatavot naudas plūsmas pārskatu un pašu kapitāla izmaiņu pārskatu, neaprēķināt un nenorādīt finanšu pārskatā atliktā nodokļa aktīvu un saistību summas piemērojams gada pārskatiem, sākot ar 2009. pārskata gadu.",
+      "content": "( 01.12.2009 . likuma redakcijā, kas stājas spēkā 01.01.2010. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn12",
+      "title": "12. Šā likuma 29. 1 pants gada pārskatiem piemērojams, sākot ar 2010. pārskata gadu.",
+      "content": "( 25.02.2010 . likuma redakcijā, kas stājas spēkā 25.03.2010. )"
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn13",
+      "title": "13. Individuālie uzņēmumi, zemnieku un zvejnieku saimniecības, kuras kļūst par šā likuma subjektiem, sākuma bilancē starpību starp aktīvu kopsummu un ilgtermiņa un īstermiņa kreditoru parādu summām norāda bilances posteņu grupā “Pašu kapitāls” izveidotā papildu postenī “Saimnieciskās darbības kapitāls”.",
+      "content": "( 10.06.2010 . likuma redakcijā, kas stājas spēkā 14.07.2010. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn14",
+      "title": "14. Šā likuma 4.panta 2. 1 daļa un grozījums šā likuma 5.panta sestajā daļā stājas spēkā 2011.gada 1.jūlijā un piemērojams gada pārskatiem, sākot ar 2011. pārskata gadu.",
+      "content": "( 30.09.2010 . likuma redakcijā, kas stājas spēkā 03.11.2010. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn15",
+      "title": "15. Grozījums šā likuma 1.panta sestajā daļā, kā arī šā likuma 4.panta sestā daļa un 6. 1 nodaļa piemērojama gada pārskatiem, sākot ar 2013. pārskata gadu.",
+      "content": "( 29.11.2012 . likuma redakcijā, kas stājas spēkā 01.01.2013. )"
+    },
+    {
+      "provision_ref": "PN 16",
+      "chapter": "10.nodaļa PĀRSKATU UN VADĪBAS ZIŅOJUMU PĀRBAUDE UN PUBLICĒŠANA (Nodaļas nosaukums ar grozījumiem, kas izdarīti ar 16.12.1999 . likumu, kas stājas spēkā 19.01.2000. )",
+      "section": "pn16",
+      "title": "16. Grozījumi šā likuma 1.panta pirmajā un otrajā daļā, 2.pantā , 24.panta otrās daļas 1. un 2.punktā, 54.panta otrās daļas 1. un 2.punktā un 54. 1 panta otrās daļas 1. un 2.punktā, kas izdarīti saistībā ar pāreju uz euro , ir piemērojami gada pārskatiem, sākot ar 2014.pārskata gadu.",
+      "content": "1) Padomes 1978.gada 25.jūlija Ceturtās direktīvas 78/660/EEK , kas pamatojas uz Līguma 54.panta 3.punkta \"g\" apakšpunktu un attiecas uz noteiktu veidu sabiedrību gada pārskatiem;\n2) Padomes 1983.gada 13.jūnija Septītās direktīvas 83/349/EEK , kas pamatojas uz Līguma 54.panta 3.punkta \"g\" apakšpunktu un attiecas uz konsolidētajiem pārskatiem;\n3) Padomes 1984.gada 27.novembra direktīvas 84/569/EEK par direktīvā 78/660/EEK ECU izteikto summu pārskatīšanu;\n4) Padomes 1989.gada 21.decembra Vienpadsmitās direktīvas 89/666/EEK par informācijas sniegšanas prasībām attiecībā uz filiālēm, ko kādā dalībvalstī atvērušas noteiktu veidu sabiedrības, uz kurām attiecas citas valsts tiesību akti;\n5) Padomes 1990.gada 8.novembra direktīvas 90/604/EEK , ar ko direktīvu 78/660/EEK par gada pārskatiem un direktīvu 83/349/EEK par konsolidētajiem pārskatiem groza saistībā ar atbrīvojumiem, kuri attiecas uz mazajiem un vidējiem uzņēmumiem, un saistībā ar pārskatu publicēšanu ECU;\n6) Padomes 1990.gada 8.novembra direktīvas 90/605/EEK , ar ko attiecībā uz darbības jomu groza direktīvu 78/660/EEK par gada pārskatiem un direktīvu 83/349/EEK par konsolidētajiem pārskatiem;\n7) Padomes 1994.gada 21.marta direktīvas 94/8/EK , ar ko direktīvu 78/660/EEK groza attiecībā uz ECU izteikto summu pārskatīšanu;\n8) Padomes 1999.gada 17.jūnija direktīvas 1999/60/EK , ar ko direktīvu 78/660/EEK groza attiecībā uz ECU izteiktajām summām;\n9) Eiropas Parlamenta un Padomes 2001.gada 27.septembra direktīvas 2001/65/EK , ar ko direktīvas 78/660/EEK , 83/349/EEK un 86/635/EEK groza attiecībā uz novērtēšanas noteikumiem, ko piemēro noteiktu veidu sabiedrību, kā arī banku un citu finanšu iestāžu gada pārskatiem un konsolidētajiem pārskatiem;\n10) Padomes 2003.gada 13.maija direktīvas 2003/38/EK , ar kuru attiecībā uz eiro izteiktajām summām groza direktīvu 78/660/EEK , kas attiecas uz noteiktu veidu sabiedrību gada pārskatiem;\n11) Eiropas Parlamenta un Padomes 2003.gada 18.jūnija direktīvas 2003/51/EK , ar ko attiecībā uz noteikta veida sabiedrību, banku un citu finanšu iestāžu un apdrošināšanas uzņēmumu gada un konsolidētajiem pārskatiem groza direktīvas 78/660/EEK , 83/349/EEK , 86/635/EEK un 91/674/EEK.\n12) Eiropas Parlamenta un Padomes 2006.gada 17.maija direktīvas 2006/43/EK , ar ko paredz gada pārskatu un konsolidēto pārskatu obligātās revīzijas, groza Padomes direktīvu 78/660/EEK un Padomes direktīvu 83/349/EEK un atceļ Padomes direktīvu 84/253/EEK ;\n13) Eiropas Parlamenta un Padomes 2006.gada 14.jūnija direktīvas 2006/46/EK , ar ko groza Padomes direktīvas 78/660/EEK attiecībā uz noteiktu veidu sabiedrību gada pārskatiem, 83/349/EEK attiecībā uz konsolidētajiem pārskatiem, 86/635/EEK par banku un citu finanšu iestāžu gada pārskatiem un konsolidētajiem pārskatiem un 91/674/EEK par apdrošināšanas uzņēmumu gada pārskatiem un konsolidētajiem pārskatiem;\n14) Eiropas Parlamenta un Padomes 2012.gada 14.marta direktīvas 2012/6/ES , ar ko attiecībā uz saimnieciskām mikrovienībām groza Padomes direktīvu 78/660/EEK par noteiktu veidu sabiedrību gada pārskatiem (Dokuments attiecas uz EEZ)."
+    }
+  ],
+  "definitions": []
+}

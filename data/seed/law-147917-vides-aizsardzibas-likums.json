@@ -1,0 +1,552 @@
+{
+  "id": "lv-law-147917",
+  "type": "statute",
+  "title": "Vides aizsardzības likums",
+  "title_en": "Environmental Protection Law",
+  "short_name": "TA-147917",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/147917-vides-aizsardzibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "1",
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) dabas resursi — dabas sastāvdaļas, to skaitā gaiss, ūdeņi, flora, fauna, augsne, zemes dzīles;\n2) ekoinovācija — jaunu zinātnisko, tehnisko, sociālo vai citu ideju ieviešana vides tehnoloģiju jomā, kā arī izstrādņu un tehnoloģiju īstenošana tirgū pieprasītā un konkurētspējīgā produktā vai pakalpojumā, kas uzlabo vides kvalitāti;\n3) emisija — cilvēku darbības izraisīta tieša vai netieša ķīmisko vielu, maisījumu, smaku, organismu vai mikroorganismu, vibrācijas, siltuma, nejonizējošā starojuma, trokšņa vai cita veida piesārņojuma izplūde vidē;\n4) ilgtspējīga attīstība — sabiedrības labklājības, vides un ekonomikas integrēta un līdzsvarota attīstība, kas apmierina iedzīvotāju pašreizējās sociālās un ekonomiskās vajadzības un nodrošina vides aizsardzības prasību ievērošanu, neapdraudot nākamo paaudžu vajadzību apmierināšanas iespējas, kā arī nodrošina bioloģiskās daudzveidības saglabāšanu;\n5) izglītība ilgtspējīgai attīstībai — izglītība, kura sekmē katra indivīda iespējas apgūt zināšanas, vērtības un prasmes, kas nepieciešamas līdzdalībai lēmumu pieņemšanā par individuālām vai kolektīvām darbībām vietējā un pasaules līmenī, lai uzlabotu dzīves kvalitāti patlaban, neradot draudus nākamo paaudžu vajadzībām;\n6) kaitējums augsnei vai zemes dzīlēm — jebkāda pārveidošana vai piesārņojums, ko izraisa ķīmisko vielu, maisījumu, organismu vai mikroorganismu tieša vai netieša ievadīšana augsnē vai zemes dzīlēs un kas rada risku cilvēku veselībai vai būtiski nelabvēlīgi ietekmē cilvēku veselību vai vidi;\n7) kaitējums īpaši aizsargājamām sugām vai biotopiem — jebkādi postījumi, kuriem ir būtiska nelabvēlīga ietekme uz īpaši aizsargājamām dabas teritorijām vai mikroliegumiem, īpaši aizsargājamo sugu vai biotopu labvēlīga aizsardzības statusa sasniegšanu vai uzturēšanu. Kaitējums īpaši aizsargājamām sugām un biotopiem neietver iepriekš identificētu nelabvēlīgu ietekmi, kas radusies operatora profesionālās darbības dēļ, ja šo darbību nepārprotami atļāvusi attiecīgā iestāde saskaņā ar Sugu un biotopu aizsardzības likuma 14.pantu un likuma \"Par īpaši aizsargājamām dabas teritorijām\" 43.pantu vai saskaņā ar citiem vides aizsardzības jomu reglamentējošiem normatīvajiem aktiem, ja nav konstatēta būtiska negatīva ietekme uz īpaši aizsargājamām sugām un biotopiem;\n8) kaitējums ūdeņiem — kvantitatīvi vai kvalitatīvi nosakāmas būtiskas nelabvēlīgas izmaiņas iekšzemes ūdeņos, kad tiek izmainīts ūdens ekoloģiskais, ķīmiskais, kvantitatīvais stāvoklis vai ekoloģiskais potenciāls, izņemot gadījumus, uz kuriem attiecas Ūdens apsaimniekošanas likuma 14. pants, kā arī jūras ūdeņos, kad tiek pasliktināts jūras vides stāvoklis, ciktāl jūras ūdeņus neaptver iekšzemes ūdeņu regulējums;\n9) kaitējums videi — kvantitatīvi vai kvalitatīvi nosakāmas būtiskas nelabvēlīgas dabas resursu izmaiņas vai ar dabas resursu saistīto funkciju pasliktināšanās, kas var notikt tieši vai netieši. Ar dabas resursu saistītā funkcija ir labums, ko sabiedrība vai vide gūst no attiecīgā dabas resursa;\n9 1 ) kaitīgas vielas — vielas, kuras minētas 1973.gada 2.novembra Starptautiskās konvencijas par piesārņojuma novēršanu no kuģiem un tās 1978.gada Protokola to jaunākajā redakcijā (turpmāk — MARPOL konvencija) I pielikumā (nafta) un II pielikumā (neiepakotas bīstamas šķidras vielas);\n9 2 ) kuģis — jebkura veida jūras kuģis, kas kuģo jūras vidē (neatkarīgi no tā karoga), kā arī kuģis ar zemūdens spārniem, kuģis uz gaisa spilvena, zemūdens kuģis atbilstoši MARPOL konvencijā sniegtajai definīcijai;\n10) neatliekami pasākumi — visi nepieciešamie un praktiski iespējamie pasākumi situācijas pārvaldīšanai, vidē nonākušo piesārņojošo vielu norobežošanai un savākšanai un citu kaitējumu izraisošu faktoru novēršanai, lai ierobežotu vai nepieļautu turpmāku kaitējumu videi un nelabvēlīgu ietekmi uz cilvēku veselību vai ar dabas resursu saistīto funkciju pasliktināšanos;\n10 1 ) noplūde no kuģa — jebkādā veidā izdarīta izvadīšana no kuģa ūdeņos atbilstoši MARPOL konvencijā sniegtajai definīcijai;\n11) operators — privātpersona, atvasināta publiska persona, tiešās vai pastarpinātās pārvaldes iestāde, kura veic profesionālu darbību vai ir atbildīga par šādas darbības veikšanu vai kurai ir noteicošā ekonomiskā ietekme uz profesionālās darbības tehnisko izpildījumu, vai kura ir saņēmusi atļauju attiecīgās profesionālās darbības veikšanai vai pieteikusi attiecīgās darbības veikšanu;\n12) pamatstāvoklis — tāds stāvoklis sabiedrības vai cita resursa labā dabas resursam vai ar dabas resursu saistītajai funkcijai nodarītā kaitējuma laikā, kāds šis stāvoklis būtu bijis, ja kaitējums videi nebūtu nodarīts. Pamatstāvokli nosaka, pamatojoties uz pieejamo informāciju;\n13) preventīvi pasākumi — pasākumi, kas veicami, lai novērstu tiešus kaitējuma draudus videi un nepieļautu vai samazinātu iespējamo kaitējumu tai;\n14) profesionāla darbība — saimnieciska darbība, arī komercdarbība, neatkarīgi no tā, vai darbība dod vai nedod peļņu;\n15) sanācijas pasākumi — pasākumi, kas veicami, lai novērstu kaitējumu, atjaunotu vai attīrītu, atveseļotu vai aizstātu dabas resursus, kuriem nodarīts kaitējums, un ar dabas resursiem saistītās funkcijas, kuras pasliktinājušās, arī pasākumi kaitējuma samazināšanai, novēršanai un pagaidu pasākumi, vai līdzvērtīgu alternatīvu nodrošināšana dabas resursiem vai ar šiem resursiem saistītajām funkcijām;\n16) tieši kaitējuma draudi — pietiekama varbūtība, ka kaitējums videi radīsies tuvākajā laikā;\n17) vide — dabas, antropogēno un sociālo faktoru kopums;\n18) vides aizsardzība — pasākumu kopums vides kvalitātes saglabāšanai un dabas resursu ilgtspējīgas izmantošanas nodrošināšanai;\n19) vides informācija — informācija par:\na) vides, tai skaitā gaisa un atmosfēras, ūdeņu, augsnes, zemes dzīļu, ainavas, dabas, arī mitrāju, piekrastes un jūras teritoriju, bioloģiskās daudzvei­dības un tās komponentu, arī ģenētiski modificētu organismu, stāvokli un šo vides sastāvdaļu savstarpējo mijiedarbību,\nb) vidi ietekmējošiem faktoriem (piemēram, par ķīmisko vielu, enerģijas, smaku, trokšņa, starojuma vai atkritumu emisiju un cita veida piesārņojuma novadīšanu vidē),\nc) pasākumiem, arī politikas plānošanas dokumentiem un citiem plāniem, programmām, nolīgumiem vides jomā, normatīvajiem aktiem un darbībām, kuras ietekmē vai var ietekmēt vides sastāvdaļas un vidi ietekmējošos faktorus vai kuru mērķis ir aizsargāt vidi, kā arī par izmaksu un ieguvumu analīzi un citām ekonomiskajām analīzēm un pieņēmumiem, ko izmanto saistībā ar minētajiem pasākumiem un darbībām,\nd) pārskatiem un ziņojumiem par vides aizsardzību , arī par vides normatīvo aktu ieviešanu,\ne) cilvēku veselības un drošības stāvokli, dzīves apstākļiem un kultūras objektiem un būvēm tādā mērā, kādā tos ietekmē vai var ietekmēt vides stāvoklis, vidi ietekmējošie faktori vai minētie pasākumi;\n20) vides informācijas sistēma — integrēta starpnozaru valsts informācijas sistēma, kurā tiek apkopoti, uzkrāti un apstrādāti vides dati un informācija, nodrošināta vides datu pieejamība un aprite vides stāvokļa un tendenču novēr­tēšanai, perspektīvas analīzei, vides un ilgtspējīgas attīstības politikas izstrādei un līdzšinējo politisko, ekonomisko, administratīvo pasākumu lietderības un efektivitātes novērtēšanai;\n21) vides izglītība — izglītība, kuras ietvaros tiek iegūtas zināšanas un izpratne par vidi un vides aizsardzības problēmām, izkoptas vides aizsardzības problēmu risināšanai nepieciešamās prasmes un iemaņas, kā arī attīstīta atbildīga attieksme un motivācija pamatotu lēmumu pieņemšanai;\n22) vides monitorings — sistemātiski, regulāri un mērķtiecīgi vides stāvokļa, sugu un biotopu, kā arī piesārņojuma emisiju novērojumi, mērījumi un analīze;\n23) vides normatīvie akti — normatīvie akti, kas attiecas uz vidi vai palīdz sasniegt valsts vides politikas mērķus — saglabāt, aizsargāt un uzlabot vides kvalitāti, ilgtspējīgi izmantot dabas resursus un nodrošināt kvalitatīvu dzīves vidi;\n24) vides tehnoloģijas — visās tautsaimniecības jomās lietojamo iekārtu un veicamo pasākumu kopums, kas nodrošina dabas resursu efektīvu un lietderīgu izmantošanu tīrāka ražošanas procesa ieviešanā, samazinot izejvielu un enerģijas patēriņu, emisiju un atkritumu apjomu;\n25) vides zinātne — zinātnes nozare, kas pēta vides sastāvdaļu savstarpējo mijiedarbību un to mijiedarbību ar cilvēka veidoto vidi, kā arī cilvēka saimnieciskās darbības ietekmi uz vidi un tās sastāvdaļām."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "2",
+      "title": "Likuma mērķis un piemērojamība",
+      "content": "(1) Likuma mērķis ir nodrošināt vides kvalitātes saglabāšanu un atjaunošanu, kā arī dabas resursu ilgtspējīgu izmantošanu.\n(2) Šā likuma nosacījumi piemērojami arī attiecībā uz Latvijas kontinentālo šelfu un ekskluzīvo ekonomisko zonu.\n(3) Šā likuma VI 1 nodaļas nosacījumus saskaņā ar starptautiskajām tiesībām piemēro attiecībā uz bīstamu un citu kaitīgu vielu noplūdi:\n1) Latvijas iekšējos ūdeņos;\n2) Latvijas teritoriālajos ūdeņos;\n3) Latvijas ekskluzīvajā ekonomiskajā zonā vai līdzvērtīgā zonā, kas izveidota saskaņā ar starptautiskajām tiesībām;\n4) starptautiskajā kuģošanā izmantojamos jūras šaurumos, ievērojot tranzīta režīmu, atbilstoši Apvienoto Nāciju Organizācijas 1982.gada 10.decembra Jūras tiesību konvencijas III daļas 2.nodaļai tiktāl, ciktāl attiecīgais jūras šaurums ir kādas Eiropas Savienības dalībvalsts jurisdikcijā;\n5) atklātā jūrā;\n6) no kuģiem, kas kuģo ar Latvijas Republikas karogu, — jebkurā vietā, kur atrodas kuģis, izņemot šā likuma 35. 1 panta otrajā un trešajā daļā minētos izņēmumus."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "3",
+      "title": "Vides aizsardzības principi",
+      "content": "(1) Vides politiku valstī veido un lēmumus, kas var ietekmēt vidi vai cilvēku veselību, pieņem, ievērojot šādus vides aizsardzības principus:\n1) princips \"piesārņotājs maksā\" — persona sedz izdevumus, kas saistīti ar tās darbības dēļ radīta piesārņojuma novērtēšanu, novēršanu, ierobežošanu un seku likvidēšanu;\n2) piesardzības princips — ir pieļaujams ierobežot vai aizliegt darbību vai pasākumu, kurš var ietekmēt vidi vai cilvēku veselību, bet kura ietekme nav pietiekami izvērtēta vai zinātniski pierādīta, ja aizliegums ir samērīgs līdzeklis, lai nodrošinātu vides vai cilvēku veselības aizsardzību. Principu neattiecina uz neatliekamiem pasākumiem, ko veic, lai novērstu kaitējuma draudus vai neatgriezenisku kaitējumu;\n3) novēršanas princips — persona, cik iespējams, novērš piesārņojuma un citu videi vai cilvēku veselībai kaitīgu ietekmju rašanos, bet, ja tas nav iespējams, novērš to izplatīšanos un negatīvās sekas;\n4) izvērtēšanas princips — jebkuras tādas darbības vai pasākuma sekas, kas var būtiski ietekmēt vidi vai cilvēku veselību, jāizvērtē pirms attiecīgās darbības vai pasākuma atļaušanas vai uzsākšanas. Darbība vai pasākums, kas var negatīvi ietekmēt vidi vai cilvēku veselību arī tad, ja ievērotas visas vides aizsardzības prasības, ir pieļaujams tikai tad, ja paredzamais pozitīvais rezultāts sabiedrībai kopumā pārsniedz attiecīgās darbības vai pasākuma nodarīto kaitējumu videi un sabiedrībai.\n(2) Veidojot vides politiku un pieņemot lēmumus, ievēro arī Reģionālās attīstības likumā noteiktos reģionālās attīstības pamatprincipus."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "4",
+      "title": "Vides politikas plānošana",
+      "content": "(1) Izstrādājot politikas plānošanas dokumentu un normatīvo aktu projektus, izstrādātājs plānošanas dokumenta vai normatīvā akta projekta anotācijā izvērtē tā ietekmi uz ilgtspējīgu attīstību un vidi. Politikas plānošanas dokumentu projektiem veic stratēģisko ietekmes uz vidi novērtējumu, ja tas noteikts ietekmes uz vidi novērtējumu reglamentējošos normatīvajos aktos.\n(2) Ministru kabinets apstiprina Vides politikas pamatnostādnes, ņemot vērā nacionālās prioritātes un Eiropas Savienības un starptautiskos nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
+      "section": "5",
+      "title": "Ekoinovācija un vides tehnoloģijas",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar citām institūcijām veicina vides tehnoloģiju attīstību, izstrādi un izmantošanu, lai uzlabotu vides kvalitāti, dabas resursu efektīvu un lietderīgu izmantošanu un dzīves kvalitāti.\n(2) Vides politikas pamatnostādnēs nosaka starpnozaru rīcībpolitiku dabas resursu izmantošanā, vides tehnoloģiju attīstīšanā un ekoinovācijas veicināšanā."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "II nodaļa. Sabiedrības tiesības vides jomā",
+      "section": "6",
+      "title": "Sabiedrības vispārējās tiesības vides jomā",
+      "content": "Ikvienai privātpersonai, kā arī personu apvienībām, organizācijām un grupām (turpmāk — sabiedrība) ir tiesības:\n1) prasīt, lai valsts iestādes un pašvaldības, amatpersonas vai privātpersonas izbeidz tādu darbību vai bezdarbību, kas pasliktina vides kvalitāti, kaitē cilvēku veselībai vai apdraud viņu dzīvību, likumiskās intereses vai īpašumu;\n2) atbalstīt vides aizsardzības pasākumus un sadarboties ar valsts iestādēm un pašvaldībām, lai nepieļautu tādu darbību veikšanu, arī tādu lēmumu pieņemšanu, kas var pasliktināt vides kvalitāti vai ir pretrunā ar vides normatīvo aktu prasībām;\n3) sniegt informāciju valsts iestādēm un pašvaldībām par darbībām un pasākumiem, kas ietekmē vai var ietekmēt vides kvalitāti, kā arī ziņas par vidē novērotajām negatīvajām pārmaiņām, kas radušās šādu darbību vai pasākumu dēļ;\n4) iesniegt valsts iestādēm un pašvaldībām priekšlikumus par tiesisko regulējumu un izstrādātajiem dokumentu projektiem vides jomā."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "II nodaļa. Sabiedrības tiesības vides jomā",
+      "section": "7",
+      "title": "Sabiedrības tiesības uz vides informāciju",
+      "content": "(1) Sabiedrībai ir tiesības saņemt no šā likuma 10.pantā minētajām iestādēm vides informāciju rakstveidā, audioierakstā, vizuālā, elektroniskā vai citā veidā.\n(2) Sabiedrībai ir tiesības saņemt informāciju, ja tā ir pieejama, par mērījumu procedūrām, arī analīzes metodēm, paraugu ņemšanas un iepriekšējas apstrādes metodēm, vai par citu standartizēto procedūru, kas izmantota, apkopojot informāciju par vidi ietekmējošiem faktoriem.\n(3) Vides informācijas pieprasītājam nav jāpamato, kādam nolūkam šī informācija nepieciešama."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "II nodaļa. Sabiedrības tiesības vides jomā",
+      "section": "8",
+      "title": "Sabiedrības līdzdalība ar vidi saistītu lēmumu pieņemšanā",
+      "content": "(1) Sabiedrībai ir tiesības piedalīties tādu lēmumu pieņemšanā un plānošanas dokumentu sagatavošanā, arī grozījumu sagatavošanā tajos (turpmāk šajā pantā — dokumenta sagatavošana), kuri var ietekmēt vidi. Sabiedrība šīs tiesības var īstenot, pirms ir pieņemts attiecīgais lēmums vai dokuments, tai skaitā attiecībā uz:\n1) plānošanas dokumentiem — saskaņā ar normatīvajiem aktiem, kas reglamentē teritorijas plānošanu, stratēģisko ietekmes uz vidi novērtējumu vai konkrētu vides jomu, uz ko attiecas dokuments, arī tādiem plānošanas dokumentiem, kuri izstrādāti saskaņā ar normatīvajiem aktiem, kas reglamentē:\na) atkritumu apsaimniekošanu, arī bīstamo atkritumu apsaimniekošanu,\nb) bateriju un akumulatoru apsaimniekošanu,\nc) iepakojuma apsaimniekošanu,\nd) gaisa kvalitāti,\ne) ūdens resursu aizsardzību, arī pret lauksaimniecībā lietoto nitrātu piesārņojumu;\n2) paredzētu darbību — saskaņā ar normatīvajiem aktiem, kas reglamentē ietekmes uz vidi novērtēšanu un būvniecību;\n3) iecerētu būvniecību — saskaņā ar būvniecību reglamentējošiem normatī­vajiem aktiem;\n4) piesārņojošu darbību — saskaņā ar normatīvajiem aktiem, kas reglamentē piesārņojošu darbību veikšanu un attiecīgu atļauju izsniegšanu;\n5) ģenētiski modificētu organismu izplatīšanu vidē — saskaņā ar normatīvajiem aktiem, kas reglamentē darbības ar ģenētiski modificētiem organismiem.\n(2) Sabiedrībai ir tiesības sniegt priekšlikumus vai izteikt viedokli pirms attiecīgā lēmuma pieņemšanas vai dokumenta galīgās redakcijas sagatavošanas."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "II nodaļa. Sabiedrības tiesības vides jomā",
+      "section": "9",
+      "title": "Sabiedrības tiesību aizsardzība",
+      "content": "(1) Ikviena persona, kas pieprasījusi informāciju atbilstoši šā likuma 7.pantam un uzskata, ka informācijas pieprasījums ir ignorēts vai nepamatoti noraidīts (pilnībā vai daļēji), nav saņemta atbilstoša atbilde vai citādi pārkāptas tiesības uz vides informāciju, ir tiesīga apstrīdēt un pārsūdzēt attiecīgo darbību vai bezdarbību Administratīvā procesa likumā noteiktajā kārtībā.\n(2) Ja ir aizskartas personas tiesības, kas paredzētas šā likuma 8.pantā , vai nav ievērotas šajā likumā noteiktās sabiedrības līdzdalības tiesības, persona ir tiesīga apstrīdēt un pārsūdzēt attiecīgo darbību vai bezdarbību Administratīvā procesa likumā noteiktajā kārtībā.\n(3) Sabiedrība ir tiesīga apstrīdēt un pārsūdzēt valsts iestādes vai pašvaldības administratīvo aktu vai faktisko rīcību, kas neatbilst vides normatīvo aktu prasībām, rada kaitējuma draudus vai kaitējumu videi.\n(4) Ja kāda privātpersona pārkāpj vides normatīvo aktu prasības, ikviena cita persona var, sniedzot pamatotu informāciju par iespējamo pārkāpumu, vērsties iestādē, kuras kompetencē ir attiecīgā normatīvā akta ievērošanas kontrole, un prasīt, lai iestāde rīkotos atbilstoši kompetencei.\n(5) Šajā pantā privātpersonai noteikto tiesību izmantošana pati par sevi nevar radīt šai personai nelabvēlīgas, tai skaitā privāttiesiskas, sekas."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "III nodaļa. Valsts un pašvaldību iestāžu pienākumi attiecībā uz vides informācijas sniegšanu un izplatīšanu un sabiedrības iesaistīšanu lēmumu pieņemšanā",
+      "section": "10",
+      "title": "Valsts un pašvaldību iestāžu uzdevumi attiecībā uz vides informācijas sniegšanu un izplatīšanu",
+      "content": "(1) Valsts un pašvaldību iestāžu (turpmāk arī — iestādes) rīcībā esošās (to sagatavotās vai saņemtās) vides informācijas sniegšanu nodrošina:\n1) jebkura valsts pārvaldes iestāde vai pašvaldība;\n2) personas, kas veic valsts pārvaldes funkcijas, to skaitā pilda pienākumus, veic darbības vai sniedz pakalpojumus vides jomā;\n3) personas, kurām deleģēti valsts uzdevumi vai publisko pakalpojumu sniegšana šīs daļas 1. vai 2.punktā minēto personu pārraudzībā.\n(2) Papildus šā panta pirmajā daļā minētajai informācijai iestāde nodrošina arī tādas vides informācijas pieejamību, kuru tās uzdevumā glabā privātpersona.\n(3) Iestāde atbilstoši kompetencei:\n1) apkopo un atjauno tās rīcībā esošo vides informāciju;\n2) pastāvīgi sniedz sabiedrībai vides informāciju, kas ir tās rīcībā;\n3) norīko atbildīgo koordinatoru vai amatpersonu, kas nodrošina vides informācijas pieejamību sabiedrībai un sniedz informācijas pieprasītājam nepieciešamo palīdzību, formulējot vai precizējot iesniegumu;\n4) informē sabiedrību par tās tiesībām un iespējām saņemt vides informāciju;\n5) izveido un aktualizē publiski pieejamas bezmaksas datubāzes, kurās iekļauj šā likuma 16.pantā minēto vides informāciju, vai arī sniedz minēto informāciju citai iestādei, kura šādu datubāzi uztur;\n6) izveido tās rīcībā esošās vides informācijas uzskaites sistēmu, kā arī norāda, kur attiecīgā informācija ir pieejama, arī veidojot norādes uz citu iestāžu rīcībā esošo informāciju.\n(4) Iestāde pastāvīgi izplata vides informāciju, kuru tā apkopojusi atbilstoši kompetencei un kura ir tās rīcībā.\n(5) Publiski pieejamo informāciju noformē tā, lai šī informācija būtu iespējami viegli uztverama un saprotama.\n(6) Valsts sabiedrība ar ierobežotu atbildību “Latvijas Vides, ģeoloģijas un meteoroloģijas centrs” (turpmāk — centrs) ne retāk kā reizi četros gados sagatavo un publicē nacionālo ziņojumu par vides stāvokli, ietverot tajā informāciju par vides kvalitāti un slodzi uz vidi. Ziņojumu publicēšanas starplaikos informāciju regulāri papildina. Ziņojumu, kā arī ziņojumu publicēšanas starplaikos apkopoto informāciju ievieto Vides aizsardzības un reģionālās attīstības ministrijas mājaslapā internetā.\n(7) Ja cilvēka darbības vai bezdarbības dēļ vai dabas parādību dēļ radies apdraudējums videi vai cilvēku veselībai, attiecīgā iestāde, kuras rīcībā ir informācija, kas varētu palīdzēt veikt nepieciešamos pasākumus, lai kaitējumu novērstu vai mazinātu, nekavējoties izplata šādu informāciju sabiedrībai, kuru tas var ietekmēt."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "III nodaļa. Valsts un pašvaldību iestāžu pienākumi attiecībā uz vides informācijas sniegšanu un izplatīšanu un sabiedrības iesaistīšanu lēmumu pieņemšanā",
+      "section": "11",
+      "title": "Vides informācijas sniegšanas kārtība, termiņi un maksa par tās sniegšanu",
+      "content": "(1) Vides informācija sniedzama iespējami drīzāk, ņemot vērā informācijas pieprasītāja norādīto termiņu vai informācijas sniegšanu reglamentējošos normatīvajos aktos noteiktos informācijas pieprasījuma izskatīšanas termiņus, bet ne vēlāk kā mēnesi no pieprasījuma saņemšanas dienas. Ja informācijas apjoma vai sarežģītības dēļ attiecīgajā termiņā šo informāciju sagatavot nav iespējams, tās sniegšanas termiņu var pagarināt līdz diviem mēnešiem. Pieprasītāju informē par termiņa pagarinājumu un tā iemesliem.\n(2) Vides informācija, kas vākta un apkopota par valsts vai pašvaldību līdzekļiem, un publiskajās datubāzēs ietvertā vides informācija ir pieejama bez maksas. Ja pieprasītās informācijas sniegšanai ir nepieciešama papildu apstrāde vai sagatavošana, par to var noteikt maksu saskaņā ar informācijas sniegšanu reglamentējošiem normatīvajiem aktiem. Ja ir noteikta maksa, pieprasītāju informē par tās apmēru, kā arī norāda, kādos gadījumos pieprasītāju no maksas var atbrīvot.\n(3) Vides informāciju sniedz, ņemot vērā šā panta ceturtās un piektās daļas nosacījumus, kā arī saskaņā ar informācijas sniegšanu reglamentējošiem normatīvajiem aktiem, Fizisko personu datu aizsardzības likuma un citu normatīvo aktu prasībām attiecībā uz ierobežotas pieejamības informāciju un tās sniegšanas kārtību.\n(4) Ierobežot vides informācijas saņemšanu var tikai likumā paredzētajos gadījumos Informācijas atklātības likumā noteiktajā kārtībā. Iestāde var ierobežot vides informācijas saņemšanu attiecībā uz tādu informāciju par vides sastāvdaļām, arī par sugām un biotopiem, kuras atklāšana var kaitēt vides aizsardzībai, un attiecībā uz informāciju, kuras atklāšana var apdraudēt sabiedrības drošību.\n(5) Vides informācijas saņemšanas ierobežojumus katrā atsevišķā gadījumā samēro ar sabiedrības interesēm informācijas atklāšanā. Informācija par emisiju vidē nav ierobežotas pieejamības informācija.\n(6) Vides informāciju sniedz informācijas pieprasījumā norādītajā veidā vai formātā, izņemot gadījumu, kad:\n1) pieprasītā informācija jau ir pieprasītājam pieejama citādā veidā vai formātā;\n2) ir pamatots iemesls sniegt informāciju citādā veidā vai formātā. Šajā gadījumā pieprasītāju informē par minēto iemeslu šā panta pirmajā daļā minētajā termiņā."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "III nodaļa. Valsts un pašvaldību iestāžu pienākumi attiecībā uz vides informācijas sniegšanu un izplatīšanu un sabiedrības iesaistīšanu lēmumu pieņemšanā",
+      "section": "12",
+      "title": "Sabiedrības iesaistīšana ar vidi saistītu lēmumu pieņemšanā",
+      "content": "(1) Iestāde nodrošina savlaicīgu un efektīvu sabiedrības informēšanu un līdzdalību šā likuma 8.panta pirmajā daļā minēto lēmumu vai dokumentu sagatavošanā. Sabiedrības līdzdalību nodrošina, ievērojot šā likuma, starptautisko līgumu un attiecīgo jomu reglamentējošo normatīvo aktu prasības.\n(2) Iestāde sabiedrībai bez maksas nodrošina piekļuvi informācijai, kas attiecas uz lēmuma pieņemšanu vai dokumenta sagatavošanu un ir pieejama sabiedrības līdzdalības procesā.\n(3) Lēmuma pieņemšana un dokumenta sagatavošana iestādē notiek atklāti, ievērojot šādus pamatnosacījumus:\n1) laikus un pienācīgā veidā, arī ar elektronisko saziņas līdzekļu starpniecību, informējot sabiedrību par attiecīgā lēmuma vai dokumenta sagatavošanu;\n2) sniedzot sabiedrībai informāciju par līdzdalības iespējām, tai skaitā norādot:\na) iestādi, kurā pieejama informācija, attiecīgā lēmuma vai dokumenta projekts, ja tāds ir, un ar to saistītie dokumenti,\nb) iestādi, kurai iesniedzami priekšlikumi vai viedokļi,\nc) atbildīgo par lēmuma pieņemšanu vai dokumenta sagatavošanu un par sabiedrības līdzdalības nodrošināšanu,\nd) termiņu, kādā iesniedzami priekšlikumi vai viedokļi,\ne) sabiedriskās apspriešanas sanāksmes norises vietu un laiku, ja šāda sanāksme tiek organizēta.\n(4) Termiņš sabiedrības priekšlikumu iesniegšanai nosakāms ne īsāks par 30 dienām, ja citos normatīvajos aktos, kuros noteikta sabiedrības līdzdalība, nav paredzēts cits termiņš. Minēto termiņu var saīsināt, ja sabiedrībai jau ir bijusi iespēja izteikt viedokli par attiecīgo dokumentu. Ja tiek rīkota sabiedriskās apspriešanas sanāksme, tās organizētājs pienācīgi un laikus paziņo par to.\n(5) Šā panta nosacījumi neattiecas uz dokumentiem, kuri izstrādāti valsts vai civilajai aizsardzībai, kā arī uz plānošanas dokumentiem, kurus izstrādājot sabiedrības līdzdalība notikusi:\n1) stratēģiskā ietekmes uz vidi novērtējuma procesa ietvaros;\n2) saskaņā ar Ūdens apsaimniekošanas likumu .\n(6) Iestāde, pieņemot šā likuma 8.panta pirmajā daļā minētos lēmumus vai dokumentus:\n1) izvērtē sabiedrības līdzdalības procesā izteiktos viedokļus un priekšlikumus;\n2) samēro indivīda tiesības un intereses ar sabiedrības ieguvumiem un zaudējumiem, ņemot vērā lēmuma vai dokumenta ietekmi uz ilgtspējīgu attīstību, kā arī ievērojot izvērtēšanas principu.\n(7) Iestāde pienācīgi informē sabiedrību par pieņemto lēmumu vai dokumentu, norādot izraudzītā risinājuma pamatojumu, kā arī vietu, kur var iepazīties ar pieņemto dokumentu un citiem dokumentiem, kas ar to saistīti, arī ar informāciju par sabiedrības līdzdalības procesu."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "III nodaļa. Valsts un pašvaldību iestāžu pienākumi attiecībā uz vides informācijas sniegšanu un izplatīšanu un sabiedrības iesaistīšanu lēmumu pieņemšanā",
+      "section": "13",
+      "title": "Sabiedrības iesaistīšana vides normatīvo aktu sagatavošanā",
+      "content": "(1) Iestāde iesaista sabiedrību vai tās pārstāvjus vides normatīvo aktu, arī to grozījumu, sagatavošanā un apspriešanā iespējami agrākā stadijā.\n(2) Iestāde, kura izstrādā vides normatīvā akta projektu, nodrošina tā pieejamību saskaņā ar tiesību aktu projektu apriti reglamentējošiem normatīvajiem aktiem."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "III nodaļa. Valsts un pašvaldību iestāžu pienākumi attiecībā uz vides informācijas sniegšanu un izplatīšanu un sabiedrības iesaistīšanu lēmumu pieņemšanā",
+      "section": "14",
+      "title": "Vides konsultatīvā padome",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar ieinteresētajām biedrībām un nodibinājumiem, kuru mērķis saskaņā ar statūtiem ir vides aizsardzība, izveido vides konsultatīvo padomi. Padomes lēmumiem vides jomā ir ieteikuma raksturs. Ministru kabinets apstiprina padomes nolikumu. Nolikumā nosaka vides konsultatīvās padomes tiesības, funkcijas un darbības kārtību, kā arī kārtību, kādā šajā pantā minētās biedrības un nodibinājumi deleģē pārstāvjus darbam vides konsultatīvajā padomē.\n(2) Vides konsultatīvā padome veicina iespējami plašāku sabiedrības iesaistīšanu ar vidi saistītu lēmumu pieņemšanā, sadarbību un informācijas apmaiņu vides jomā starp ikvienu personu un sabiedrību kopumā, valsts iestā­dēm un pašvaldībām, kā arī sekmē priekšlikumu sniegšanu jautājumos, kas saistīti ar vides politikas izstrādi un īstenošanu un attiecīgu normatīvo aktu vai plānošanas dokumentu sagatavošanu.\n(3) Vides aizsardzības un reģionālās attīstības ministrija finansiāli nodrošina vides konsultatīvās padomes darbību, kā arī sadarbojas ar vides konsultatīvo padomi, iesniedzot tai apspriešanai un priekšlikumu sniegšanai vides normatīvo aktu projektus un iesaistot to uz vidi attiecināmo dokumentu sagatavošanā."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "IV nodaļa. Vides informācijas sistēma",
+      "section": "15",
+      "title": "Vides informācijas sistēmas pamatprincipi",
+      "content": "(1) Vides informācijas sistēmu veido atbilstoši vides un ilgtspējīgas attīstības politikas mērķiem, prioritātēm, vides kvalitātes un resursu stāvokļa izmaiņām. Vides un ilgtspējīgas attīstības politikas ieviešanas efektivitāti un vides stāvokļa atbilstību politikas mērķiem novērtē, izmantojot vides informācijas sistēmu un nacionālos vides un ilgtspējīgas attīstības indikatorus. Nacionālos vides indikatorus nosaka Ministru kabinets.\n(2) Vides informācijas sistēmu veido savstarpēji savietojami atsevišķi reģistri un datubāzes, kuras atrodas dažādu valsts iestāžu pārziņā un kuru izveidi un darbību nosaka vides normatīvie akti.\n(3) Vides informācijas sistēma ir savietojama ar tautsaimniecības nozaru valsts informācijas sistēmām. Vispārīgās prasības vides informācijas sistēmas izveidošanai un attīstībai nosaka Valsts informācijas sistēmu likums.\n(4) Katra vides informācijas sistēmas reģistra vai datubāzes turētājs nodrošina savlaicīgu, precīzu, atbilstošu, ticamu datu un informācijas uzkrāšanu un aktualizēšanu, arī informācijas sistēmas kvalitātes vadību un kvalitātes kontroli. Vides informācijas sistēmā ietverto informāciju un datus telpiski piesaista un apstrādā ģeogrāfiskajās informācijas sistēmās.\n(5) Vides informācijas sistēmas uzturēšanu un attīstību koordinē Vides aizsardzības un reģionālās attīstības ministrija vides normatīvajos aktos, kā arī valsts informācijas sistēmas un elektronisko dokumentu apriti reglamentējošos normatīvajos aktos noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "IV nodaļa. Vides informācijas sistēma",
+      "section": "16",
+      "title": "Vides informācijas sistēmā ietveramā informācija",
+      "content": "(1) Vides informācijas sistēmā ietverama vismaz šāda informācija:\n1) vides normatīvie akti, starptautiskie nolīgumi, konvencijas un Eiropas Savienības normatīvie akti vides jomā;\n2) vides politikas plāni, programmas, stratēģijas un citi plāni attiecībā uz vidi;\n3) ziņojumi (ja tādi ir sagatavoti) par šīs daļas 1. un 2.punktā minēto dokumentu ieviešanu;\n4) ziņojumi un pārskati par vides stāvokli, piesārņojumu un tā avotiem, vides un ilgtspējīgas attīstības indikatoru pārskati;\n5) dati un informācija par to darbību uzraudzību, kuras ietekmē vai var ietekmēt vidi;\n6) atļaujas, kuras izsniegtas saskaņā ar likumu \"Par piesārņojumu\" un citiem vides normatīvajiem aktiem, un šo atļauju nosacījumi vai norāde, kur šo informāciju var pieprasīt vai atrast;\n7) vides monitoringa programmas, plāni un rezultāti;\n8) pētījumi par ietekmi uz vidi un riska novērtējumi attiecībā uz vides sastāvdaļām vai norāde, kur šo informāciju var pieprasīt vai atrast;\n9) informācija par ziņojumu sniegšanu Eiropas Komisijai un citām starptautiskajām institūcijām.\n(2) Centrs izveido un uztur aizsargājamo teritoriju reģistru, kurā informāciju grupē atbilstoši katram upju baseinu apgabalam. Aizsargājamās teritorijas šā panta izpratnē ir Ūdens apsaimniekošanas likuma 1.panta 1.punktā minētās teritorijas."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "IV nodaļa. Vides informācijas sistēma",
+      "section": "17",
+      "title": "Vides monitorings",
+      "content": "(1) Vides monitoringa mērķis ir noteikt vides stāvokli, izvērtēt tendences un perspektīvu, izstrādāt vides politikas pasākumus un novērtēt līdzšinējo pasākumu lietderību un efektivitāti.\n(2) Vides monitoringu organizē un veic valsts un pašvaldību iestādes un komersanti saskaņā ar vides normatīvo aktu prasībām. Ministru kabinets nosaka prasības attiecībā uz vides monitoringu un tā veikšanas kārtību.\n(3) Ministru kabinets reizi sešos gados apstiprina Vides monitoringa programmas pamatnostādnes, kurās nosaka monitoringa struktūru, prioritātes un finansējumu, kas nepieciešams normatīvo aktu, Eiropas Savienības tiesību aktu un starptautisko konvenciju prasību izpildei.\n(4) Pamatojoties uz šā panta trešajā daļā minētajām pamatnostādnēm, vides aizsardzības un reģionālās attīstības ministrs apstiprina Vides monitoringa programmu sešiem gadiem. Programmā nosaka valsts vides aizsardzības iestāžu veiktā un organizētā vides monitoringa tīklu, parametrus, regularitāti un izmantojamās metodes.\n(5) Personām, kuras vides normatīvajos aktos noteiktajā kārtībā veic vides monitoringu un kurām ir Valsts vides dienesta vai citas vides normatīvajos aktos noteiktās valsts iestādes izdota dienesta apliecība vai pilnvarojums, ir tiesības, informējot īpašnieku vai atbildīgo personu, iekļūt valsts, pašvaldību un privātā īpašuma teritorijās, ciktāl tas nepieciešams, lai veiktu vides monitoringam nepieciešamos novērojumus un mērījumus. Valsts drošībai un aizsardzībai paredzētajos objektos un teritorijās, arī ieslodzījuma vietās, drīkst iekļūt attiecīgajos normatīvajos aktos noteiktajā kārtībā.\n(6) Vides monitoringa datus un informāciju uzkrāj un apstrādā vides informācijas sistēmas datubāzēs un reģistros."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa. Kontrole vides jomā",
+      "section": "18",
+      "title": "Valsts kontrole vides jomā",
+      "content": "Valsts kontrole vides jomā (turpmāk — vides valsts kontrole) ir vides normatīvo aktu prasību ievērošanas kontrole, tai skaitā šādās jomās:\n1) dabas resursu izpēte, ieguve, lietošana un uzskaite;\n2) piesārņojošo darbību veikšana;\n3) piesārņoto un potenciāli piesārņoto vietu izpēte un sanācija;\n4) darbības ar ķīmiskajām vielām un maisījumiem;\n5) darbības ar jonizējošā starojuma avotiem;\n6) rūpniecisko avāriju riska novērtēšana un samazināšana;\n7) atkritumu apsaimniekošana;\n8) valsts nozīmes īpaši aizsargājamo dabas teritoriju, īpaši aizsargājamo sugu un biotopu, mikroliegumu apsaimniekošana un aizsardzība;\n9) paredzēto darbību veikšanas nosacījumu vai tehnisko noteikumu ievērošana atbilstoši normatīvajiem aktiem, kas reglamentē ietekmes uz vidi novērtējumu."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "V nodaļa. Kontrole vides jomā",
+      "section": "19",
+      "title": "Vides valsts kontroles iestādes",
+      "content": "(1) Vides valsts kontroli īsteno Valsts vides dienests, Dabas aizsardzības pārvalde un citas vides normatīvajos aktos noteiktās tiešās pārvaldes iestādes.\n(2) Valsts vides dienests kontrolē to vides normatīvo aktu ievērošanu, kuru kontrole ar normatīvajiem aktiem nav nodota citu tiešās pārvaldes iestāžu vai pašvaldības kompetencē."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "V nodaļa. Kontrole vides jomā",
+      "section": "20",
+      "title": "Valsts vides inspektori",
+      "content": "(1) Vides valsts kontroli veic Valsts vides dienesta un Dabas aizsardzības pārvaldes valsts vides inspektori.\n(2) Valsts vides inspektoram ir dienesta apliecība. Dienesta apliecības aprakstu un paraugu nosaka iestādes ģenerāldirektors.\n(3) Valsts vides dienesta un Dabas aizsardzības pārvaldes valsts vides inspektoru lēmumus, kas saistīti ar vides valsts kontroli, var apstrīdēt attiecīgi Valsts vides dienesta ģenerāldirektoram un Dabas aizsardzības pārvaldes ģenerāldirektoram. Valsts vides dienesta ģenerāldirektora un Dabas aizsardzības pārvaldes ģenerāldirektora lēmumus var pārsūdzēt tiesā.\nValsts vides inspektoru lēmumus, kas saistīti ar vides valsts kontroli, var apstrīdēt, iesniedzot attiecīgu iesniegumu Valsts vides dienesta ģenerāldirektoram. Valsts vides dienesta ģenerāldirektora lēmumu var pārsūdzēt tiesā.\n(4) Valsts vides dienesta inspektoram ir tiesības noteikt, ka lēmums, kas saistīts ar vides valsts kontroli, stājas spēkā un izpildāms nekavējoties, ja kavēšanās var radīt būtiskas negatīvas izmaiņas vidē."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "V nodaļa. Kontrole vides jomā",
+      "section": "21",
+      "title": "Valsts vides inspektoru tiesības",
+      "content": "(1) Veicot vides valsts kontroli, valsts vides inspektoram ir tiesības:\n1) iebraukt vai ieiet un netraucēti pārbaudīt jebkuru teritoriju, iekārtu vai citu objektu neatkarīgi no īpašuma piederības, ja tas nepieciešams vides aizsardzības prasību ievērošanas kontrolei, veicot plānotas pārbaudes, vai ja ir pamatotas aizdomas par vides normatīvo aktu pārkāpumiem. Valsts drošībai un aizsardzībai paredzētajos objektos un teritorijās, arī ieslodzījuma vietās, valsts vides inspektoram ir tiesības iekļūt attiecīgajos normatīvajos aktos noteiktajā kārtībā;\n2) ņemt paraugus un veikt kontrolmērījumus;\n3) apturēt kuģus un citus peldošus līdzekļus un likt tiem iebraukt ostā vai piestāt krastā;\n4) apturēt mehāniskos transportlīdzekļus ārpus autoceļiem Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā un pludmalē, virszemes ūdensobjektu aizsargjoslā vai īpaši aizsargājamā dabas teritorijā, kā arī likt transportlīdzekļa vadītājam novērst vai izbeigt pārkāpumu;\n5) pieprasīt un bez maksas saņemt no privātpersonām, valsts un pašvaldību iestādēm vides valsts kontroles veikšanai nepieciešamo informāciju, kas ir privātpersonas vai iestādes rīcībā, dabas resursu uzskaites dokumentus un citus dokumentus, lai kontrolētu dabas resursu ieguves, lietošanas, vides piesārņošanas apjomus, iepakojuma plūsmu, atkritumu apsaimniekošanu, būvniecību un citas vidi ietekmējošas darbības;\n6) uz laiku apturēt vai aizliegt veikt darbību, ar kuru tiek pārkāpti vides normatīvie akti, kura rada negatīvas izmaiņas vidē vai kura apdraud cilvēku veselību vai dzīvību;\n7) savas kompetences ietvaros izdot administratīvos aktus, kas nepieciešami vides normatīvo aktu prasību izpildei, likumā \"Par piesārņojumu\" noteikto vides kvalitātes normatīvu sasniegšanai un racionālai dabas resursu izmantošanai;\n8) veikt administratīvā pārkāpuma procesu;\n9) citas normatīvajos aktos noteiktās tiesības.\n(2) (Izslēgta no 01.07.2020. ar 11.06.2020 . likumu, kas stājas spēkā 23.06.2020. Sk. Pārejas noteikumu 15. punktu)\n(3) (Izslēgta ar 01.12.2009 . likumu)"
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "V nodaļa. Kontrole vides jomā",
+      "section": "22",
+      "title": "Vietējās pašvaldības kontrole vides jomā",
+      "content": "(1) Vietējā pašvaldība atbilstoši likumā \"Par pašvaldībām\" vai vides normatīvajos aktos noteiktajai pašvaldības atbildībai veic kontroli vides jomā.\n(2) Pašvaldības vides kontroles amatpersonām ir šā likuma 21.panta pirmās daļas 1., 2., 5. un 9.punktā minētās tiesības.\n(3) (Izslēgta no 01.07.2020. ar 11.06.2020 . likumu, kas stājas spēkā 23.06.2020. Sk. Pārejas noteikumu 15. punktu)"
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "V nodaļa. Kontrole vides jomā",
+      "section": "23",
+      "title": "Sabiedriskā kontrole vides jomā",
+      "content": "(Izslēgts no 01.07.2020. ar 11.06.2020 . likumu, kas stājas spēkā 23.06.2020. Sk. pārejas noteikumu 15. punktu)"
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "24",
+      "title": "Kaitējums videi",
+      "content": "(1) Šīs nodaļas nosacījumi par atbildību par videi nodarīto kaitējumu attiecas uz kaitējumu, kas nodarīts īpaši aizsargājamām dabas teritorijām, mikroliegumiem, kā arī īpaši aizsargājamām sugām un biotopiem, ūdeņiem, augsnei un zemes dzīlēm.\n(2) Īpaši aizsargājamām sugām vai biotopiem nodarītā kaitējuma ietekmes būtiskumu novērtē salīdzinājumā ar pamatstāvokli, ņemot vērā Ministru kabineta noteiktos kritērijus.\n(3) Kaitējums videi ietver arī kaitējumu, ko izraisījušas gaisu piesārņojošas vielas, ja tās rada kaitējumu īpaši aizsargājamām dabas teritorijām, mikroliegumiem vai īpaši aizsargājamām sugām un biotopiem, ūdeņiem, augsnei un zemes dzīlēm."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "25",
+      "title": "Atbildības pamatnosacījumi",
+      "content": "(1) Operators ir atbildīgs par savas profesionālās darbības ietvaros nodarīto kaitējumu videi vai tiešiem kaitējuma draudiem, ko izraisījusi viņa tīša vai aiz neuzmanības veikta darbība vai bezdarbība, ar kuru ir pārkāptas vides normatīvo aktu prasības.\n(2) Operatora, kā arī šā panta trešajā daļā minētās personas saukšana pie administratīvās atbildības vai kriminālatbildības par vides normatīvo aktu pārkāpumu neatbrīvo to no pienākuma segt izmaksas, ko radījis tā nodarītais kaitējums videi vai tieši kaitējuma draudi.\n(3) Persona, kas nav uzskatāma par operatoru, ir atbildīga par kaitējumu videi vai tiešiem kaitējuma draudiem, ko izraisījusi tās tīša vai aiz neuzmanības veikta darbība vai bezdarbība, ar kuru ir pārkāptas vides normatīvo aktu prasības, un šai personai ir pienākums novērst kaitējumu vai tiešus kaitējuma draudus un segt izmaksas, ko radījis tās nodarītais kaitējums videi vai tieši kaitējuma draudi, to skaitā preventīvo, neatliekamo un sanācijas pasākumu izmaksas.\n(4) Operators ir atbildīgs par kaitējumu videi vai tiešiem kaitējuma draudiem neatkarīgi no vainas, ja kaitējums videi vai tieši kaitējuma draudi radušies, veicot šādas profesionālās darbības:\n1) likumā \"Par piesārņojumu\" noteiktās A vai B kategorijas piesārņojošās darbības;\n2) darbības, kuru veikšanai nepieciešama atkritumu apsaimniekošanas atļauja;\n3) ūdens ieguvi un uzkrāšanu, kuras veikšanai nepieciešama ūdens resursu lietošanas atļauja;\n4) degvielas uzpildes stacijas vai naftas bāzes ekspluatāciju;\n5) ķīmisko vielu un maisījumu apriti reglamentējošos normatīvajos aktos noteikto bīstamo ķīmisko vielu vai maisījumu, augu aizsardzības līdzekļu vai biocīdu ražošanu, izmantošanu, pārstrādi, iepakošanu, izplatīšanu vidē vai pārvadāšanu ražotnes teritorijā;\n6) ķīmisko vielu vai maisījumu transportēšanu pa cauruļvadiem;\n7) bīstamo vai piesārņojošo kravu pārvadāšanu pa sauszemes, iekšzemes ūdeņu, jūras vai gaisa ceļiem;\n8) ģenētiski modificētu organismu, arī ģenētiski modificētu mikroorganismu, ierobežotu izmantošanu, apzinātu izplatīšanu vidē, izplatīšanu tirgū, arī pārvadāšanu;\n9) Eiropas Savienības regulās noteiktos atkritumu pārrobežu pārvadājumus, kuru veikšanai nepieciešama atļauja;\n10) ieguves rūpniecības atkritumu apsaimniekošanu.\n(5) Uz kaitējumu videi vai tiešiem kaitējuma draudiem, ko radījis difūzais piesārņojums (piesārņojums gaisā, ūdeņos vai augsnē, kas netiek organizēti uztverts un izvadīts no stacionāriem piesārņojuma avotiem), šīs nodaļas nosacījumi attiecas tikai tad, ja var konstatēt cēloņsakarību starp kaitējumu vai tiešiem kaitējuma draudiem un operatora darbību."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "26",
+      "title": "Starptautiskajos normatīvajos aktos noteiktā atbildība par kaitējumu videi",
+      "content": "(1) Operators nav atbildīgs par kaitējumu videi vai tiešiem kaitējuma draudiem saskaņā ar šīs nodaļas nosacījumiem, ja viņa atbildība vai radīto zaudējumu kompensācija ir noteikta šādās Latvijai saistošās starptautiskajās konvencijās un to grozījumos:\n1) 1992.gada 27.novembra Protokols par grozījumiem 1969.gada Starptautiskajā konvencijā par civilo atbildību par naftas piesārņojuma radītajiem zaudējumiem;\n2) 1992.gada Protokols par grozījumiem 1971.gada Starptautiskajā konvencijā par starptautiskā fonda nodibināšanu naftas piesārņojuma radīto zaudējumu kompensācijai;\n3) 2001.gada 23.marta Starptautiskā konvencija par civilo atbildību par bunkera degvielas piesārņojuma radīto kaitējumu;\n4) 1996.gada 3.maija Starptautiskā konvencija par atbildību un kaitējuma kompensēšanu saistībā ar bīstamu un kaitīgu vielu pārvadāšanu pa jūru;\n5) 1963.gada 21.maija Vīnes konvencija par civilo atbildību par kodolkaitējumiem un 1997.gada 12.septembra Protokols par grozījumiem 1963.gada 21.maija Vīnes konvencijā par civilo atbildību par kodolkaitējumiem;\n6) 1988.gada 21.septembra Kopīgais protokols par Vīnes konvencijas un Parīzes konvencijas pielietojumu;\n7) 1971.gada Konvencija par civiltiesisko atbildību kodolmateriālu jūras pārvadājumu jomā.\n(2) Šīs nodaļas nosacījumi neattiecas uz kaitējumu videi vai tiešiem kaitējuma draudiem, ko izraisījusi darbība, uz kuru attiecas Eiropas Atomenerģijas kopienas dibināšanas līgums.\n(3) Operators ir tiesīgs ierobežot savu atbildību saskaņā ar 1976.gada 19.novembra Konvenciju par atbildības ierobežošanu attiecībā uz jūras prasībām un tās grozījumiem."
+    },
+    {
+      "provision_ref": "Art. 27",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "27",
+      "title": "Rīcība tiešu kaitējuma draudu gadījumā",
+      "content": "(1) Ja kaitējums videi nav nodarīts, bet pastāv tieši kaitējuma draudi, operators nekavējoties veic visus nepieciešamos preventīvos pasākumus.\n(2) Ja pastāv tieši kaitējuma draudi, kā arī tad, ja, veicot preventīvos pasākumus, nav izdevies likvidēt tiešos kaitējuma draudus, operators nekavējoties rakstveidā informē Valsts vides dienestu par šiem draudiem, veiktajiem preventīvajiem pasākumiem un citiem būtiskiem situāciju raksturojošiem aspektiem.\n(3) Valsts vides dienests:\n1) konstatē operatoru, kura profesionālā darbība ir izraisījusi tiešus kaitējuma draudus;\n2) ir tiesīgs prasīt, lai operators sniedz informāciju par tiešiem kaitējuma draudiem, arī tad, ja ir aizdomas par šādu draudu pastāvēšanu;\n3) pieprasa, lai operators veic nepieciešamos preventīvos pasākumus;\n4) ir tiesīgs dot operatoram saistošus norādījumus par veicamajiem preventīvajiem pasākumiem;\n5) ja nepieciešams, Ministru kabineta noteiktajos gadījumos un kārtībā organizē preventīvo pasākumu veikšanu.\n(4) Šā panta trešās daļas 1., 3. un 4.punktā minētajos gadījumos Valsts vides dienests pieņem lēmumu par tā operatora konstatēšanu, kura profesionālā darbība ir izraisījusi tiešus kaitējuma draudus, un preventīvo pasākumu veikšanu. Šo lēmumu nekavējoties paziņo operatoram. Valsts vides dienesta lēmumu 15 dienu laikā var apstrīdēt Vides pārraudzības valsts birojā. Lēmuma apstrīdēšana un pieteikuma iesniegšana tiesā par lēmuma atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu neaptur lēmuma darbību."
+    },
+    {
+      "provision_ref": "Art. 28",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "28",
+      "title": "Rīcība gadījumā, kad ir nodarīts kaitējums videi",
+      "content": "(1) Ja ir nodarīts kaitējums videi, operators, kura profesionālā darbība to izraisījusi vai varētu būt izraisījusi:\n1) nekavējoties rakstveidā informē Valsts vides dienestu par kaitējumu videi un sniedz pilnīgu situācijas raksturojumu;\n2) nekavējoties veic neatliekamos pasākumus;\n3) veic sanācijas pasākumus.\n(2) Valsts vides dienests ir tiesīgs pieprasīt, lai operators, kura profesionālā darbība izraisījusi vai varētu būt izraisījusi kaitējumu videi, sniedz visu nepieciešamo informāciju, kas saistīta ar šo kaitējumu.\n(3) Valsts vides dienests informē vietējo pašvaldību par kaitējumu videi.\n(4) Valsts vides dienests:\n1) konstatē operatoru, kura profesionālā darbība izraisījusi kaitējumu videi;\n2) pieprasa, lai operators veic neatliekamos pasākumus kaitējuma novēršanai, un ir tiesīgs dot operatoram saistošus norādījumus par šiem pasākumiem;\n3) pieprasa, lai operators veic nepieciešamos sanācijas pasākumus, un ir tiesīgs dot operatoram saistošus norādījumus par šiem pasākumiem;\n4) organizē neatliekamo pasākumu veikšanu, ja nav konstatēts operators, kura profesionālā darbība izraisījusi kaitējumu videi, vai ja operators neveic šos pasākumus, vai ja operators neievēro šīs daļas 2.punktā minētos saistošos norādījumus;\n5) noskaidro, izvērtē un pēc iespējas ņem vērā tās privātpersonas apsvērumus, kura iesniegusi iesniegumu atbilstoši šā likuma 30.pantam , kā arī tā nekustamā īpašuma īpašnieka apsvērumus, kurā paredzēts veikt sanācijas pasākumus.\n(5) Šā panta ceturtās daļas 1., 2. un 3.punktā minētajos gadījumos Valsts vides dienests pieņem lēmumu par tā operatora konstatēšanu, kura profesionālā darbība izraisījusi kaitējumu videi, un neatliekamo un sanācijas pasākumu veikšanu. Šo lēmumu nekavējoties paziņo operatoram. Valsts vides dienesta lēmumu par operatora konstatēšanu un neatliekamo pasākumu veikšanu var apstrīdēt 15 dienu laikā, bet lēmumu par sanācijas pasākumu veikšanu — Administratīvā procesa likumā noteiktajā termiņā un kārtībā Vides pārraudzības valsts birojā. Lēmuma par neatliekamo pasākumu veikšanu apstrīdēšana un pieteikuma iesniegšana tiesā par lēmuma atcelšanu, atzīšanu par spēku zaudējušu vai spēkā neesošu neaptur lēmuma darbību.\n(6) Ministru kabinets nosaka sanācijas mērķus un metodes, kā arī kārtību, kādā nosakāmi un veicami sanācijas pasākumi.\n(7) Ja kaitējums videi radies tādā veidā, ka nav iespējams nodrošināt sanācijas pasākumu vienlaicīgu veikšanu, Valsts vides dienests ir tiesīgs izlemt sanācijas pasākumu veikšanas secību, ievērojot videi nodarītā kaitējuma raksturu, apmēru un bīstamību, draudus cilvēku veselībai, kā arī dabiskās atjaunošanās iespējamību."
+    },
+    {
+      "provision_ref": "Art. 29",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "29",
+      "title": "Rīcība gadījumā, kad kaitējumam videi ir pārrobežu ietekme",
+      "content": "(1) Ja kaitējums videi ietekmē vai var ietekmēt citas valsts teritoriju, Valsts vides dienests, informējot Ārlietu ministriju un Valsts ugunsdzēsības un glābšanas dienestu, sadarbojas ar citas valsts kompetento iestādi, arī sniedzot tai attiecīgo informāciju par šā kaitējuma raksturu, apjomu, izplatību, veiktajiem un nepieciešamajiem preventīvajiem, neatliekamajiem vai sanācijas pasākumiem, lai nodrošinātu, ka preventīvie, neatliekamie un, ja nepieciešams, sanācijas pasākumi tiktu veikti.\n(2) Ja citā valstī izraisītais kaitējums videi ietekmē vai var ietekmēt Latvijas teritoriju, Valsts vides dienests sadarbībā ar šīs valsts kompetento iestādi nosaka nepieciešamos neatliekamos vai sanācijas pasākumus un paziņo par tiem attiecīgajām Latvijas vietējām pašvaldībām.\n(3) Ja operators, kurš veic profesionālo darbību citas valsts teritorijā, labprātīgi neveic nepieciešamos neatliekamos vai sanācijas pasākumus, Valsts vides dienests ir tiesīgs — vienojoties ar operatoru vai tiesvedības ceļā — prasīt šo pasākumu izmaksu atlīdzināšanu."
+    },
+    {
+      "provision_ref": "Art. 30",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "30",
+      "title": "Sabiedrības tiesības gadījumā, kad ir radies kaitējums videi vai tieši kaitējuma draudi",
+      "content": "(1) Ja sabiedrībai kļūst zināms par kaitējumu videi vai tiešiem kaitējuma draudiem, tai ir tiesības iesniegt Valsts vides dienestam vai citai kompetentai iestādei iesniegumu ar lūgumu veikt nepieciešamās darbības saskaņā ar šo nodaļu.\n(2) Iesniegumā norāda pēc iespējas precīzāku informāciju par attiecīgo kaitējumu videi vai tiešiem kaitējuma draudiem.\n(3) Valsts vides dienests vai cita kompetenta iestāde Administratīvā procesa likumā noteiktajā kārtībā iespējami īsā laikā izvērtē iesniegumu, noskaidro operatora viedokli par iesniegumā minētajiem faktiem un apsvērumiem un, ja nepieciešams, veic attiecīgas darbības saskaņā ar šo nodaļu."
+    },
+    {
+      "provision_ref": "Art. 31",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "31",
+      "title": "Kaitējuma videi atlīdzināšana",
+      "content": "(1) Operators, kura profesionālā darbība izraisījusi kaitējumu videi vai tiešus kaitējuma draudus, sedz preventīvo, neatliekamo un sanācijas pasākumu izmaksas.\n(2) (Izslēgta ar 21.06.2007 . likumu.)\n(3) Ja operatoru, kura profesionālā darbība izraisījusi kaitējumu videi vai tiešus kaitējuma draudus, Valsts vides dienests konstatē pirms preventīvo, neatliekamo un sanācijas pasākumu veikšanas un Valsts vides dienests ir nodrošinājis šo pasākumu veikšanu saskaņā ar šā likuma 27.panta trešās daļas 5.punktu vai 28.panta ceturtās daļas 4.punktu, minēto pasākumu izmaksas sedz operators (privātpersona, atvasināta publiska persona vai pastarpinātās pārvaldes iestāde). Lēmums izpildāms Administratīvā procesa likumā noteiktajā kārtībā.\n(4) Ja operatoru, kura profesionālā darbība izraisījusi kaitējumu videi vai tiešus kaitējuma draudus, Valsts vides dienests konstatē pēc preventīvo, neatliekamo un sanācijas pasākumu veikšanas, Valsts vides dienests Civilprocesa likumā noteiktajā kārtībā piedzen no operatora naudas summu šā panta pirmajā daļā minēto izmaksu segšanai. Valsts vides dienests ir atbrīvots no valsts nodevas samaksas prasībās par līdzekļu piedziņu šā panta pirmajā daļā minēto izmaksu segšanai.\n(5) Šā panta pirmajā daļā minētās izmaksas ietver izmaksas, ko pamato nepieciešamība nodrošināt pareizu un efektīvu šīs nodaļas nosacījumu īstenošanu, to skaitā izmaksas par kaitējuma videi, tiešu kaitējuma draudu un rīcības alternatīvu novērtēšanu, administratīvās izmaksas, tiesu izdevumus un izpildes izmaksas, datu vākšanas un monitoringa izmaksas, kā arī citas izmaksas, kas saistītas ar kaitējumu videi vai tiešiem kaitējuma draudiem.\n(6) Ja operators pierāda, ka kaitējumu videi vai tiešus kaitējuma draudus izraisījusi trešā persona, lai gan tika veikti pienācīgi drošības pasākumi, kurus operatoram bija pienākums nodrošināt, vai kaitējumu videi vai tiešus kaitējuma draudus radījusi tāda publisko tiesību subjekta saistoša lēmuma ievērošana, kurš neattiecas uz paša operatora izraisītu emisiju vai negadījumu, operators:\n1) ir tiesīgs atgūt viņa segtās preventīvo un neatliekamo pasākumu izmaksas;\n2) nesedz sanācijas pasākumu izmaksas un ir tiesīgs atgūt viņa segtās izmaksas.\n(7) Ja operators pierāda, ka kaitējumu videi vai tiešus kaitējuma draudus izraisījusi trešā persona, lai gan tika veikti pienācīgi drošības pasākumi, kurus operatoram bija pienākums nodrošināt, operators ir tiesīgs Civilprocesa likumā noteiktajā kārtībā prasīt, lai trešā persona, kas izraisījusi kaitējumu videi vai tiešus kaitējuma draudus, atlīdzina veikto preventīvo, neatliekamo un sanācijas pasākumu izmaksas.\n(8) Ja operators pierāda, ka kaitējumu videi vai tiešus kaitējuma draudus radījusi tāda publisko tiesību subjekta saistoša lēmuma ievērošana, kurš neattiecas uz paša operatora izraisītu emisiju vai negadījumu, viņš ir tiesīgs prasīt veikto preventīvo, neatliekamo un sanācijas pasākumu izmaksu atlīdzināšanu saskaņā ar Valsts pārvaldes iestāžu nodarīto zaudējumu atlīdzināšanas likumu.\n(9) Operators nesedz sanācijas pasākumu izmaksas, ja pierāda, ka kaitējums videi nav radies viņa tīšas vai aiz neuzmanības veiktas darbības vai bezdarbības dēļ un kaitējumu videi izraisījusi:\n1) emisija vai darbība, kas ir tieši atļauta un pilnībā atbilst šā likuma 25.panta ceturtajā daļā minēto darbību veikšanai izsniegtās atļaujas nosacījumiem;\n2) emisija, darbība vai kāda produkta lietošana darbībai, ja to ietekme uz vidi saskaņā ar zinātnes un tehnikas atziņām netika uzskatīta par kaitīgu laikā, kad notika emisija vai konkrētā darbība.\n(10) Šā panta devītā daļa neattiecas uz ģenētiski modificētu organismu, arī ģenētiski modificētu mikroorganismu, ierobežotu izmantošanu, apzinātu izplatī­šanu vidē, izplatīšanu tirgū, arī pārvadāšanu.\n(11) Lēmumu par tāda operatora konstatēšanu, kura profesionālā darbība izraisījusi kaitē­jumu videi vai tiešus kaitējuma draudus, vai par trešās personas konstatēšanu un preventīvo pasākumu vai neatliekamo un sanācijas pasākumu veikšanu Valsts vides dienests var pieņemt vai prasības pieteikumu tiesā var iesniegt piecu gadu laikā no dienas, kad šie pasākumi pabeigti, vai no dienas, kad operators vai trešā persona ir konstatēta, atkarībā no tā, kurš no šiem notikumiem ir vēlāks.\n(12) Ieņēmumus no maksājumiem par videi nodarītā kaitējuma novērtēšanu, preventīvo, neatliekamo vai sanācijas pasākumu veikšanu, arī šā panta pirmajā daļā minētās izmaksas ieskaita valsts pamatbudžetā, bet izmaksas, kas radušās pašvaldībai, ieskaita šīs pašvaldības budžetā.\n(13) Kārtību, kādā novērtējams kaitējums videi un aprēķināmas šā panta pirmajā daļā minētās izmaksas, nosaka Ministru kabinets.\n(14) Īpaši aizsargājamām dabas teritorijām — dabas pieminekļiem, kurus par tādiem noteicis Ministru kabinets vai pašvaldība, kaitējumu novērtē, ņemot vērā dabas pieminekļa bojājuma vai iznīcināšanas pakāpi. Kārtību, kādā novērtējams dabas pieminekļiem nodarītais kaitējums, nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 32",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "32",
+      "title": "Solidārā atbildība par tiešiem kaitējuma draudiem vai kaitējumu videi",
+      "content": "(1) Par tiešiem kaitējuma draudiem vai kaitējumu videi, ko izraisījušas vairāku operatoru darbības, operatori ir solidāri atbildīgi.\n(2) Ja operators pierāda, ka viņa veiktā darbība ir izraisījusi tikai daļu no tiešiem kaitējuma draudiem vai kaitējuma videi, operators sedz preventīvo, neatliekamo un sanācijas pasākumu izmaksas par to tiešo kaitējuma draudu vai videi nodarītā kaitējuma daļu, kuru izraisījusi viņa rīcība."
+    },
+    {
+      "provision_ref": "Art. 33",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "33",
+      "title": "Finansiālo garantiju nodrošināšana noteiktām darbībām",
+      "content": "Lai nodrošinātu šajā likumā noteikto preventīvo, neatliekamo un sanācijas pasākumu veikšanu, operatori var izmantot finansējuma nodrošinājuma veidus, arī apdrošināšanu, fondus un banku garantijas."
+    },
+    {
+      "provision_ref": "Art. 34",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "34",
+      "title": "Informācijas apkopošana par kaitējumu videi",
+      "content": "(1) Centrs izveido un uztur datubāzi, kurā apkopo informāciju par gadījumiem, kad radies kaitējums videi vai tieši kaitējuma draudi, lai uzskaitītu gadījumus, kuros saskaņā ar šo nodaļu veicami preventīvie, neatliekamie un sanācijas pasākumi.\n(2) Šā panta pirmajā daļā minēto informāciju Centram sniedz Valsts vides dienests un operatori Ministru kabineta noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "Art. 35",
+      "chapter": "VI nodaļa. Atbildība par videi nodarīto kaitējumu",
+      "section": "35",
+      "title": "Nepārvarama vara un citi izņēmumi",
+      "content": "(1) Šīs nodaļas nosacījumi neattiecas uz gadījumiem, kad kaitējums videi vai tieši kaitējuma draudi radušies ārkārtējas, neizbēgamas, laikus neparedzamas un nenovēršamas dabas parādības dēļ vai bruņota konflikta, karadarbības, pilsoņu kara vai sacelšanās dēļ (turpmāk — nepārvarama vara).\n(2) Šīs nodaļas nosacījumi neattiecas uz darbībām, kuru galvenais mērķis ir valsts aizsardzība vai starptautiskā drošība, kā arī uz darbībām, kuru vienīgais mērķis ir aizsardzība pret dabas katastrofu.\n(3) Nepārvaramas varas gadījumā operators nekavējoties rakstveidā informē Valsts vides dienestu par kaitējumu videi vai tiešiem kaitējuma draudiem, ja iespējams, norādot veiktos un plānotos pasākumus, lai novērstu, ierobežotu vai samazinātu kaitējumu videi vai tiešus kaitējuma draudus, kā arī nekavējoties veic visus neatliekamos pasākumus.\n(4) Pēc nepārvaramas varas seku likvidēšanas operators sniedz Valsts vides dienestam informāciju par kaitējumu videi, tā apjomu un veiktajiem pasākumiem tā ierobežošanai vai novēršanai, kā arī pašreizējās situācijas novērtējumu.\n(5) Šīs nodaļas nosacījumi neattiecas uz emisiju, avāriju vai kādu citu gadījumu, kas izraisījis kaitējumu videi, ja kopš šā kaitējuma izraisīšanas ir pagājuši vairāk nekā 30 gadi."
+    },
+    {
+      "provision_ref": "Art. 35.1",
+      "chapter": "VI 1 nodaļa. Atbildība par ūdeņu piesārņošanu (Nodaļa 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )",
+      "section": "35.1",
+      "title": "35. 1 pants. Atbildības piemērošana par ūdeņu piesārņošanu",
+      "content": "(1) Atbildību par šā likuma 2.panta trešās daļas 1., 2., 3., 4. un 5.punktā minēto ūdeņu piesārņošanu piemēro, ja notikusi bīstamu vai citu kaitīgu vielu noplūde no kuģiem (neatkarīgi no kuģu karoga), izņemot karakuģus, jūras kara palīgkuģus vai citus kuģus, kas pieder kādai valstij vai ko kāda valsts noplūdes brīdī ekspluatē un izmanto tikai nekomerciāliem mērķiem.\n(2) Bīstamu vai citu kaitīgu vielu noplūdi neuzskata par pārkāpumu, ja tā atbilst MARPOL konvencijas I pielikuma 15. , 34. , 4.1 . vai 4.3 .noteikuma vai II pielikuma 1.3., 3.1.1. vai 3.1.3.noteikuma nosacījumiem.\n(3) Bīstamu vai citu kaitīgu vielu noplūdi šā likuma 2.panta trešās daļas 3., 4. un 5.punktā minētajās teritorijās neuzskata par pārkāpumu, par kuru ir atbildīgs kuģa īpašnieks, kapteinis vai apkalpe, kas rīkojas pēc kapteiņa pavēles, ja noplūde atbilst MARPOL konvencijas I pielikuma 4.2 .noteikuma un II pielikuma 3.1.2.noteikuma nosacījumiem."
+    },
+    {
+      "provision_ref": "Art. 35.2",
+      "chapter": "VI 1 nodaļa. Atbildība par ūdeņu piesārņošanu (Nodaļa 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )",
+      "section": "35.2",
+      "title": "35. 2 pants. Pārkāpumi un sankcijas",
+      "content": "(1) Par bīstamu vai citu kaitīgu vielu noplūdi vai citāda veida ūdeņu piesārņošanu no kuģiem personas sauc pie atbildības normatīvajos aktos noteiktajā kārtībā.\n(2) Uz kuģa apkalpes locekļiem neattiecas šā panta pirmās daļas nosacījumi par pārkāpumiem, kas izdarīti starptautiskajā kuģošanā izmantojamos jūras šaurumos, ekskluzīvajās ekonomiskajās zonās un atklātā jūrā, ja tiek izpildīti MARPOL konvencijas I pielikuma 4.2 .noteikuma vai II pielikuma 3.1.2.noteikuma nosacījumi.\n(3) Personas saukšana pie atbildības par bīstamu vai kaitīgu vielu noplūdi no kuģiem neatbrīvo šo personu no civiltiesiskās atbildības un neierobežo tās civiltiesisko atbildību par citām personām un videi nodarīto zaudējumu un kaitējuma atlīdzināšanu."
+    },
+    {
+      "provision_ref": "Art. 36",
+      "chapter": "VII nodaļa. Brīvprātīgi vides pārvaldības pasākumi",
+      "section": "36",
+      "title": "Vienošanās ar komersantu par vides mērķu sasniegšanu",
+      "content": "(1) Valsts iestāde var noslēgt vienošanos ar komersantu vai komersantus pārstāvošu organizāciju par tādu vides aizsardzības prasību ievērošanu, kuras pārsniedz vides normatīvo aktu prasības, vai par noteiktu vides mērķu sasniegšanu.\n(2) Šā panta pirmajā daļā minētās ar komersantu noslēgtās vienošanās sastāvdaļa var būt pilnīgs vai daļējs atbrīvojums no dabas resursu nodokļa maksāšanas Dabas resursu nodokļa likumā noteiktajos gadījumos."
+    },
+    {
+      "provision_ref": "Art. 37",
+      "chapter": "VII nodaļa. Brīvprātīgi vides pārvaldības pasākumi",
+      "section": "37",
+      "title": "Brīvprātīgi piemērojami vides pārvaldības līdzekļi",
+      "content": "Lai veicinātu dabas resursu ekonomiski efektīvu izmantošanu, ierobežotu vides piesārņošanu un samazinātu vidi piesārņojošas produkcijas ražošanu un realizāciju, valsts iestādes un pašvaldības:\n1) veicot publisko iepirkumu, tehniskajās specifikācijās iekļauj pamatotas vides aizsardzības prasības;\n2) var ieviest brīvprātīgus vides pārvaldības līdzekļus, to skaitā vides sertifikātus, vai veicināt to piemērošanu."
+    },
+    {
+      "provision_ref": "Art. 38",
+      "chapter": "VII nodaļa. Brīvprātīgi vides pārvaldības pasākumi",
+      "section": "38",
+      "title": "Ekomarķējums un tā piešķiršana",
+      "content": "(1) Vides pārraudzības valsts birojs ir kompetentā iestāde attiecībā uz Eiropas Parlamenta un Padomes 2009.gada 25.novembra regulā (EK) Nr. 66/2010 par ES ekomarķējumu (Dokuments attiecas uz EEZ) paredzēto uzdevumu izpildi. Vides pārraudzības valsts birojs saskaņā ar minēto regulu piešķir Eiropas Savienības ekomarķējumu (turpmāk — arī ekomarķējums) produktiem, lai veicinātu videi draudzīgu produktu ražošanu un izplatīšanu.\n(1 1 ) Persona, kura iesniedz Vides pārraudzības valsts birojam iesniegumu par ekomarķējuma piešķiršanu produktam, sedz iesnieguma izskatīšanas un produkta reģistrācijas izmaksas, kā arī izmaksas, kas saistītas ar testēšanu un atbilstības novērtēšanu attiecībā uz ekomarķējuma kritērijiem, saskaņā ar Ministru kabineta apstiprinātu Vides pārraudzības valsts biroja sniegto maksas pakalpojumu cenrādi. Ministru kabinets nosaka:\n1) maksu par iesnieguma izskatīšanu par ekomarķējuma piešķiršanu un produkta reģistrāciju;\n2) gada maksu par ekomarķējuma izmantošanu un maksāšanas kārtību.\n(2) Vides pārraudzības valsts birojs koordinē Eiropas Savienības ekomarķējuma piešķiršanas programmu Latvijā, informē ražotājus par attiecīgajām prasībām, popularizē Eiropas Savienības ekomarķējumu, kā arī sniedz nepieciešamo informāciju Eiropas Komisijai.\n(3) Ja Vides pārraudzības valsts birojs konstatē Eiropas Savienības ekomarķējuma izmantošanas prasību pārkāpumu saistībā ar produktu, kuram šāds marķējums piešķirts, tas pieņem lēmumu, ar kuru nosaka tiesisko pienākumu novērst konstatēto pārkāpumu."
+    },
+    {
+      "provision_ref": "Art. 39",
+      "chapter": "VII nodaļa. Brīvprātīgi vides pārvaldības pasākumi",
+      "section": "39",
+      "title": "Vides vadības un audita sistēma",
+      "content": "(1) Lai novērtētu un uzlabotu publisko un privāto tiesību subjektu (iestāžu, komersantu, biedrību, saimniecisko darbību veicēju u.tml.) veikumu vides jomā, kā arī sniegtu sabiedrībai un citām ieinteresētajām personām attiecīgu informāciju, publisko un privāto tiesību subjekti drīkst piedalīties Eiropas Kopienas vides vadības un audita sistēmā atbilstoši Eiropas Parlamenta un Padomes 2009.gada 25.novembra regulai (EK) Nr. 1221/2009 , ar ko organizācijām atļauj brīvprātīgi piedalīties Kopienas vides vadības un audita sistēmā.\n(2) Vides pārraudzības valsts birojs veic pasākumus, kas nepieciešami šā panta pirmajā daļā minētās regulas 11., 12., 13., 14. un 15.panta prasību izpildei.\n(3) Vides pārraudzības valsts birojs izveido un uztur vides vadības un audita sistēmas reģistru un reģistrē publisko un privāto tiesību subjektus, izņemot fiziskās personas, minētajā reģistrā vai lemj par reģistrācijas atteikumu.\n(4) Reģistrācijai vides vadības un audita sistēmā nepieciešamos elementus pārbauda un apstiprina akreditēts vides verificētājs."
+    },
+    {
+      "provision_ref": "Art. 40",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "40",
+      "title": "Vides zinātnes attīstība",
+      "content": "Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar Izglītības un zinātnes ministriju veic nepieciešamos pasākumus vides zinātnes attīstībai, lai sekmētu zinātnisko darbību ilgtspējīgas attīstības, vides aizsardzības un vides izglītības jomā, nodrošinot vides kvalitātes pētījumu veikšanu, ekoinovācijas un vides tehnoloģiju attīstību, kā arī vides aizsardzības problēmu apzināšanu un risināšanu."
+    },
+    {
+      "provision_ref": "Art. 41",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "41",
+      "title": "Vides zinātnes un izglītības padome",
+      "content": "(1) Vides aizsardzības un reģionālās attīstības ministrija sadarbībā ar citām vides zinātnē un vides izglītībā iesaistītajām ministrijām, augstskolām un koledžām izveido Vides zinātnes un izglītības padomi. Padomes lēmumiem ir ieteikuma raksturs. Padomes nolikumu apstiprina Ministru kabinets. Vides aizsardzības un reģionālās attīstības ministrija finansiāli nodrošina Vides zinātnes un izglītības padomes darbību.\n(2) Vides zinātnes un izglītības padome veicina ar vides zinātnes un vides izglītības attīstību saistītu institūciju sadarbību, apzina un risina problēmas, kas attiecas uz vides zinātni un izglītību ilgtspējīgai attīstībai, kā arī sekmē iesaistīto institūciju sadarbību ilgtspējīgas vides politikas ieviešanā un tās instrumentu pilnveidošanā."
+    },
+    {
+      "provision_ref": "Art. 42",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "42",
+      "title": "Vides izglītība",
+      "content": "(1) Mācību priekšmeta vai kursa standarta obligātajā mācību saturā atbilstoši katra mācību priekšmeta specifikai, saskaņojot un nodrošinot pēctecību dažādās izglītības pakāpēs, iekļauj jautājumus, kas attiecas uz vides izglītību un izglītību ilgtspējīgai attīstībai.\n(2) Augstskolu un koledžu visu studiju programmu obligātajā daļā iekļauj vides aizsardzības kursu.\n(3) Visu augstskolu un koledžu pedagogu studiju programmās iekļauj kursu par ilgtspējīgu attīstību."
+    },
+    {
+      "provision_ref": "PN 1",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn1",
+      "title": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par vides aizsardzību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 33./34.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 13.nr.; 2000, 15.nr.; 2002, 3., 22.nr.; 2003, 12.nr.; 2004, 9.nr.; 2005, 6.nr.; 2006, 15.nr.).",
+      "content": "1. Ar šā likuma spēkā stāšanos spēku zaudē likums \" Par vides aizsardzību \" (Latvijas Republikas Augstākās Padomes un Valdības Ziņotājs, 1991, 33./34.nr.; Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 13.nr.; 2000, 15.nr.; 2002, 3., 22.nr.; 2003, 12.nr.; 2004, 9.nr.; 2005, 6.nr.; 2006, 15.nr.)."
+    },
+    {
+      "provision_ref": "PN 2",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn2",
+      "title": "2. Šā likuma 25. , 26. , 27. , 28. , 29. , 30. , 31. , 32. , 34. un 35.pants stājas spēkā 2007.gada 30.aprīlī.",
+      "content": "2. Šā likuma 25. , 26. , 27. , 28. , 29. , 30. , 31. , 32. , 34. un 35.pants stājas spēkā 2007.gada 30.aprīlī."
+    },
+    {
+      "provision_ref": "PN 3",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn3",
+      "title": "3. Ja piesārņojums radies pirms 2007.gada 30.aprīļa, piesārņoto un potenciāli piesārņoto vietu izpēti un sanāciju veic saskaņā ar likumu \"Par piesārņojumu\".",
+      "content": "3. Ja piesārņojums radies pirms 2007.gada 30.aprīļa, piesārņoto un potenciāli piesārņoto vietu izpēti un sanāciju veic saskaņā ar likumu \"Par piesārņojumu\"."
+    },
+    {
+      "provision_ref": "PN 4",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn4",
+      "title": "4. Kaitējumu videi, kas radies pirms 2007.gada 30.aprīļa, nosaka un kompensē šādā kārtībā:",
+      "content": "1) privātpersonām, kas nodarījušas kaitējumu videi, ir pienākums:\na) pēc iespējas likvidēt vai samazināt videi nodarītā kaitējuma sekas, lai novērstu negatīvo ietekmi uz vidi un vides ilgtspējīgas attīstības apdraudējumu,\nb) kompensēt izdevumus, kas nepieciešami, lai atjaunotu ietekmētās vides vērtības vai radītu līdzvērtīgas vides vērtības, ja videi nodarīto kaitējumu nav iespējams novērst;\n2) Valsts vides dienesta reģionālās vides pārvaldes vai Jūras un iekšējo ūdeņu pārvaldes direktors vai īpaši aizsargājamās dabas teritorijas administrācijas direktors ar rīkojumu izveido komisiju, lai noteiktu zaudējumus, ko radījis kaitējums videi (turpmāk — komisija). Zaudējumus, ko radījis kaitējums videi, saskaņā ar vides normatīvajiem aktiem nosaka komisija, pamatojoties uz pārbaudes aktu;\n3) Valsts vides dienesta reģionālās vides pārvaldes vai Jūras un iekšējo ūdeņu pārvaldes direktors vai īpaši aizsargājamās dabas teritorijas administrācijas direktors divu mēnešu laikā pēc veiktās pārbaudes, pamatojoties uz komisijas izdarītajiem aprēķiniem, izdod administratīvo aktu par videi nodarītā kaitējuma novēršanu un zaudējumu kompensēšanu (turpmāk — akts). Aktu dara zināmu personai, kas nodarījusi kaitējumu videi. Aktā uzrāda kopējos zaudējumus un nosaka atjaunošanas darbu uzsākšanas termiņu, šo darbu veikšanas kārtību un termiņu, līdz kuram veicami minētie darbi. Ja videi nodarīto kaitējumu nav iespējams novērst, komisija nosaka termiņu, līdz kuram aprēķinātā zaudējumu summa jāiemaksā valsts pamatbudžetā;\n4) kopējos zaudējumus, ko radījis kaitējums videi, nosaka, pamatojoties uz darbu apjomu un izmaksām, kas nepieciešamas, lai atjaunotu ietekmētās vides vērtības vai radītu līdzvērtīgas vides vērtības, ja videi nodarīto kaitējumu nav iespējams novērst, kā arī pamatojoties uz zaudējumu summām, kas saskaņā ar vides normatīvajiem aktiem aprēķinātas par vidē palikušo un sekundāro piesārņojumu;\n5) ja videi nodarītā kaitējuma sekas iespējams novērst tikai daļēji, personai, kura nodarījusi kaitējumu videi, ir pienākums atlikušo zaudējumu summu aktā noteiktajā termiņā iemaksāt valsts pamatbudžetā;\n6) Valsts vides dienesta reģionālās vides pārvaldes vai Jūras un iekšējo ūdeņu pārvaldes direktora vai īpaši aizsargājamās dabas teritorijas administrācijas direktora izdoto aktu mēneša laikā no tā spēkā stāšanās dienas var apstrīdēt Vides pārraudzības valsts birojā. Vides pārraudzības valsts biroja lēmumu var pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā."
+    },
+    {
+      "provision_ref": "PN 5",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn5",
+      "title": "5. Ministru kabinets:",
+      "content": "1) līdz 2008.gada 1.decembrim apstiprina Vides politikas pamatnostādnes;\n2) līdz 2008.gada 1.decembrim apstiprina Vides monitoringa programmas pamatnostādnes;\n3) līdz 2007.gada 1.martam izdod šā likuma 14.panta pirmajā daļā, 24.panta otrajā daļā un 41.panta pirmajā daļā minētos noteikumus;\n4) līdz 2007.gada 1.decembrim izdod šā likuma 20.panta otrajā daļā, 21.panta otrajā daļā, 23.panta otrajā daļā, 39.panta trešajā un ceturtajā daļā minētos noteikumus;\n5) līdz 2008.gada 1.decembrim izdod šā likuma 15.panta pirmajā daļā, 17.panta otrajā daļā un 31.panta četrpadsmitajā daļā minētos noteikumus."
+    },
+    {
+      "provision_ref": "PN 6",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn6",
+      "title": "6. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.martam piemēro šādus Ministru kabineta noteikumus, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) (izslēgts ar 14.02.2008 . likumu) ;\n2) (izslēgts ar 14.02.2008 . likumu) ;\n3) Ministru kabineta 2004.gada 20.aprīļa noteikumi Nr.320 \" Kārtība, kādā izveido un uztur vides pārvaldības un audita sistēmas reģistru un reģistrē tajā organizācijas \";\n4) Ministru kabineta 2004.gada 3.augusta noteikumi Nr.689 \" Noteikumi par testēšanas un kalibrēšanas laboratoriju, sertificēšanas un inspicēšanas institūciju un vides verificētāju akreditāciju un uzraudzību \";\n5) Ministru kabineta 2006.gada 7.marta noteikumi Nr.187 \"Kārtība, kādā noformējams administratīvā pārkāpuma protokols-paziņojums par transportlīdzekļu pārvietošanās noteikumu pārkāpšanu ārpus autoceļiem Baltijas jūras un Rīgas jūras līča piekrastes krasta kāpu aizsargjoslā, pludmalē vai īpaši aizsargājamā dabas teritorijā\"."
+    },
+    {
+      "provision_ref": "PN 7",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn7",
+      "title": "7. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.decembrim piemēro Ministru kabineta 2004.gada 20.aprīļa noteikumus Nr.333 \" Noteikumi par ģenētiski modificēto organismu ierobežotu izmantošanu un apzinātu izplatīšanu vidē un tirgū, kā arī par monitoringa kārtību \", ciktāl tie nav pretrunā ar šo likumu.",
+      "content": "7. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.decembrim piemēro Ministru kabineta 2004.gada 20.aprīļa noteikumus Nr.333 \" Noteikumi par ģenētiski modificēto organismu ierobežotu izmantošanu un apzinātu izplatīšanu vidē un tirgū, kā arī par monitoringa kārtību \", ciktāl tie nav pretrunā ar šo likumu."
+    },
+    {
+      "provision_ref": "PN 8",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn8",
+      "title": "8. Šā likuma 26.panta pirmās daļas 4.punkts stājas spēkā vienlaikus ar 1996.gada 3.maija Starptautiskās konvencijas par atbildību un kaitējuma kompensēšanu saistībā ar bīstamu un kaitīgu vielu pārvadāšanu pa jūru spēkā stāšanos.",
+      "content": "8. Šā likuma 26.panta pirmās daļas 4.punkts stājas spēkā vienlaikus ar 1996.gada 3.maija Starptautiskās konvencijas par atbildību un kaitējuma kompensēšanu saistībā ar bīstamu un kaitīgu vielu pārvadāšanu pa jūru spēkā stāšanos."
+    },
+    {
+      "provision_ref": "PN 9",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn9",
+      "title": "9. Šā likuma 21.panta trešā daļa stājas spēkā 2007.gada 1.janvārī.",
+      "content": "9. Šā likuma 21.panta trešā daļa stājas spēkā 2007.gada 1.janvārī."
+    },
+    {
+      "provision_ref": "PN 10",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn10",
+      "title": "10. Grozījumi šā likuma 21.panta trešajā daļā par apdrošināšanas summas lieluma izslēgšanu un 38.panta otrajā daļā par Vides pārraudzības valsts biroja kompetenci stājas spēkā 2008.gada 1.janvārī.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 11",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn11",
+      "title": "11. Šā likuma 25.panta ceturtās daļas 10.punkts stājas spēkā 2008.gada 1.maijā.",
+      "content": "( 21.06.2007 . likuma redakcijā, kas stājas spēkā 19.07.2007. )"
+    },
+    {
+      "provision_ref": "PN 12",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn12",
+      "title": "12. Līdz jaunu Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2008.gada 1.decembrim piemēro šādus Ministru kabineta noteikumus, ciktāl tie nav pretrunā ar šo likumu:",
+      "content": "1) Ministru kabineta 2003.gada 8.aprīļa noteikumi Nr.162 \" Noteikumi par vides monitoringu un piesārņojošo vielu reģistru \";\n2) Ministru kabineta 2005.gada 24.maija noteikumi Nr.357 \" Dabas pieminekļiem nodarītā kaitējuma dēļ radīto zaudējumu aprēķināšanas kārtība \"."
+    },
+    {
+      "provision_ref": "PN 13",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn13",
+      "title": "13. Grozījumi šā likuma 10.panta sestajā daļā, 16.panta otrajā daļā, 17.panta piektajā daļā un 34.pantā par kompetentās institūcijas maiņu stājas spēkā 2009.gada 1.augustā",
+      "content": "( 12.06.2009 . likuma redakcijā, kas stājas spēkā 01.07.2009. )"
+    },
+    {
+      "provision_ref": "PN 14",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn14",
+      "title": "14. Ministru kabinets līdz 2012.gada 1.jūlijam izdod šā likuma 38.panta 1. 1 daļā minētos noteikumus.",
+      "content": "( 07.06.2012 . likuma redakcijā, kas stājas spēkā 21.06.2012. )"
+    },
+    {
+      "provision_ref": "PN 15",
+      "chapter": "VIII nodaļa. Vides zinātne, vides izglītība un izglītība ilgtspējīgai attīstībai",
+      "section": "pn15",
+      "title": "15. Grozījumi šā likuma 21. pantā par pirmās daļas 8. punkta izteikšanu jaunā redakcijā un otrās daļas izslēgšanu, grozījums 22. pantā par trešās daļas izslēgšanu, grozījums par 23. panta izslēgšanu un grozījums par 38. panta papildināšanu ar trešo daļu stājas spēkā vienlaikus ar Administratīvās atbildības likumu.",
+      "content": "1) Eiropas Parlamenta un Padomes 2004.gada 21.aprīļa direktīvas 2004/35/EK par atbildību vides jomā attiecībā uz videi nodarītā kaitējuma novēršanu un atlīdzināšanu;\n2) Eiropas Parlamenta un Padomes 2003.gada 26.maija direktīvas 2003/35/EK , ar ko paredz sabiedrības līdzdalību dažu ar vidi saistītu plānu un programmu izstrādē un ar ko attiecībā uz sabiedrības līdzdalību un iespēju griezties tiesās groza Padomes direktīvas 85/337/EEK un 96/61/EK ;\n3) Eiropas Parlamenta un Padomes 2003.gada 28.janvāra direktīvas 2003/4/EK par vides informācijas pieejamību sabiedrībai un par Padomes direktīvas 90/313/EEK atcelšanu;\n4) Eiropas Parlamenta un Padomes 2000.gada 23.oktobra direktīvas 2000/60/EK , ar ko izveido sistēmu Kopienas rīcībai ūdens resursu politikas jomā;\n5) Eiropas Parlamenta un Padomes 2005.gada 7.septembra direktīvas 2005/35/EK par kuģu radīto piesārņojumu un par sankciju ieviešanu par pārkāpumiem;\n6) Eiropas Parlamenta un Padomes 2006.gada 15.marta direktīvas 2006/21/EK par ieguves rūpniecības atkritumu apsaim­niekošanu un par grozījumiem direktīvā 2004/35/EK ;\n7) Eiropas Parlamenta un Padomes 2013. gada 12. jūnija direktīvas 2013/30/ES par to darbību drošumu, kas saistītas ar naftas un gāzes nozares darbībām jūrā, un ar kuru groza direktīvu 2004/35/EK (Dokuments attiecas uz EEZ)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "dabas resursi",
+      "definition": "dabas sastāvdaļas, to skaitā gaiss, ūdeņi, flora, fauna, augsne, zemes dzīles",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ekoinovācija",
+      "definition": "jaunu zinātnisko, tehnisko, sociālo vai citu ideju ieviešana vides tehnoloģiju jomā, kā arī izstrādņu un tehnoloģiju īstenošana tirgū pieprasītā un konkurētspējīgā produktā vai pakalpojumā, kas uzlabo vides kvalitāti",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "emisija",
+      "definition": "cilvēku darbības izraisīta tieša vai netieša ķīmisko vielu, maisījumu, smaku, organismu vai mikroorganismu, vibrācijas, siltuma, nejonizējošā starojuma, trokšņa vai cita veida piesārņojuma izplūde vidē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "ilgtspējīga attīstība",
+      "definition": "sabiedrības labklājības, vides un ekonomikas integrēta un līdzsvarota attīstība, kas apmierina iedzīvotāju pašreizējās sociālās un ekonomiskās vajadzības un nodrošina vides aizsardzības prasību ievērošanu, neapdraudot nākamo paaudžu vajadzību apmierināšanas iespējas, kā arī nodrošina bioloģiskās daudzveidības saglabāšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "izglītība ilgtspējīgai attīstībai",
+      "definition": "izglītība, kura sekmē katra indivīda iespējas apgūt zināšanas, vērtības un prasmes, kas nepieciešamas līdzdalībai lēmumu pieņemšanā par individuālām vai kolektīvām darbībām vietējā un pasaules līmenī, lai uzlabotu dzīves kvalitāti patlaban, neradot draudus nākamo paaudžu vajadzībām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kaitējums augsnei vai zemes dzīlēm",
+      "definition": "jebkāda pārveidošana vai piesārņojums, ko izraisa ķīmisko vielu, maisījumu, organismu vai mikroorganismu tieša vai netieša ievadīšana augsnē vai zemes dzīlēs un kas rada risku cilvēku veselībai vai būtiski nelabvēlīgi ietekmē cilvēku veselību vai vidi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kaitējums īpaši aizsargājamām sugām vai biotopiem",
+      "definition": "jebkādi postījumi, kuriem ir būtiska nelabvēlīga ietekme uz īpaši aizsargājamām dabas teritorijām vai mikroliegumiem, īpaši aizsargājamo sugu vai biotopu labvēlīga aizsardzības statusa sasniegšanu vai uzturēšanu. Kaitējums īpaši aizsargājamām sugām un biotopiem neietver iepriekš identificētu nelabvēlīgu ietekmi, kas radusies operatora profesionālās darbības dēļ, ja šo darbību nepārprotami atļāvusi attiecīgā iestāde saskaņā ar Sugu un biotopu aizsardzības likuma 14.pantu un likuma \"Par īpaši aizsargājamām dabas teritorijām\" 43.pantu vai saskaņā ar citiem vides aizsardzības jomu reglamentējošiem normatīvajiem aktiem, ja nav konstatēta būtiska negatīva ietekme uz īpaši aizsargājamām sugām un biotopiem",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kaitējums ūdeņiem",
+      "definition": "kvantitatīvi vai kvalitatīvi nosakāmas būtiskas nelabvēlīgas izmaiņas iekšzemes ūdeņos, kad tiek izmainīts ūdens ekoloģiskais, ķīmiskais, kvantitatīvais stāvoklis vai ekoloģiskais potenciāls, izņemot gadījumus, uz kuriem attiecas Ūdens apsaimniekošanas likuma 14. pants, kā arī jūras ūdeņos, kad tiek pasliktināts jūras vides stāvoklis, ciktāl jūras ūdeņus neaptver iekšzemes ūdeņu regulējums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kaitējums videi",
+      "definition": "kvantitatīvi vai kvalitatīvi nosakāmas būtiskas nelabvēlīgas dabas resursu izmaiņas vai ar dabas resursu saistīto funkciju pasliktināšanās, kas var notikt tieši vai netieši. Ar dabas resursu saistītā funkcija ir labums, ko sabiedrība vai vide gūst no attiecīgā dabas resursa",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "neatliekami pasākumi",
+      "definition": "visi nepieciešamie un praktiski iespējamie pasākumi situācijas pārvaldīšanai, vidē nonākušo piesārņojošo vielu norobežošanai un savākšanai un citu kaitējumu izraisošu faktoru novēršanai, lai ierobežotu vai nepieļautu turpmāku kaitējumu videi un nelabvēlīgu ietekmi uz cilvēku veselību vai ar dabas resursu saistīto funkciju pasliktināšanos",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "operators",
+      "definition": "privātpersona, atvasināta publiska persona, tiešās vai pastarpinātās pārvaldes iestāde, kura veic profesionālu darbību vai ir atbildīga par šādas darbības veikšanu vai kurai ir noteicošā ekonomiskā ietekme uz profesionālās darbības tehnisko izpildījumu, vai kura ir saņēmusi atļauju attiecīgās profesionālās darbības veikšanai vai pieteikusi attiecīgās darbības veikšanu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "pamatstāvoklis",
+      "definition": "tāds stāvoklis sabiedrības vai cita resursa labā dabas resursam vai ar dabas resursu saistītajai funkcijai nodarītā kaitējuma laikā, kāds šis stāvoklis būtu bijis, ja kaitējums videi nebūtu nodarīts. Pamatstāvokli nosaka, pamatojoties uz pieejamo informāciju",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "preventīvi pasākumi",
+      "definition": "pasākumi, kas veicami, lai novērstu tiešus kaitējuma draudus videi un nepieļautu vai samazinātu iespējamo kaitējumu tai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "profesionāla darbība",
+      "definition": "saimnieciska darbība, arī komercdarbība, neatkarīgi no tā, vai darbība dod vai nedod peļņu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sanācijas pasākumi",
+      "definition": "pasākumi, kas veicami, lai novērstu kaitējumu, atjaunotu vai attīrītu, atveseļotu vai aizstātu dabas resursus, kuriem nodarīts kaitējums, un ar dabas resursiem saistītās funkcijas, kuras pasliktinājušās, arī pasākumi kaitējuma samazināšanai, novēršanai un pagaidu pasākumi, vai līdzvērtīgu alternatīvu nodrošināšana dabas resursiem vai ar šiem resursiem saistītajām funkcijām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "tieši kaitējuma draudi",
+      "definition": "pietiekama varbūtība, ka kaitējums videi radīsies tuvākajā laikā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vide",
+      "definition": "dabas, antropogēno un sociālo faktoru kopums",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides aizsardzība",
+      "definition": "pasākumu kopums vides kvalitātes saglabāšanai un dabas resursu ilgtspējīgas izmantošanas nodrošināšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides informācija",
+      "definition": "informācija par:",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides informācijas sistēma",
+      "definition": "integrēta starpnozaru valsts informācijas sistēma, kurā tiek apkopoti, uzkrāti un apstrādāti vides dati un informācija, nodrošināta vides datu pieejamība un aprite vides stāvokļa un tendenču novēr­tēšanai, perspektīvas analīzei, vides un ilgtspējīgas attīstības politikas izstrādei un līdzšinējo politisko, ekonomisko, administratīvo pasākumu lietderības un efektivitātes novērtēšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides izglītība",
+      "definition": "izglītība, kuras ietvaros tiek iegūtas zināšanas un izpratne par vidi un vides aizsardzības problēmām, izkoptas vides aizsardzības problēmu risināšanai nepieciešamās prasmes un iemaņas, kā arī attīstīta atbildīga attieksme un motivācija pamatotu lēmumu pieņemšanai",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides monitorings",
+      "definition": "sistemātiski, regulāri un mērķtiecīgi vides stāvokļa, sugu un biotopu, kā arī piesārņojuma emisiju novērojumi, mērījumi un analīze",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides normatīvie akti",
+      "definition": "normatīvie akti, kas attiecas uz vidi vai palīdz sasniegt valsts vides politikas mērķus — saglabāt, aizsargāt un uzlabot vides kvalitāti, ilgtspējīgi izmantot dabas resursus un nodrošināt kvalitatīvu dzīves vidi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides tehnoloģijas",
+      "definition": "visās tautsaimniecības jomās lietojamo iekārtu un veicamo pasākumu kopums, kas nodrošina dabas resursu efektīvu un lietderīgu izmantošanu tīrāka ražošanas procesa ieviešanā, samazinot izejvielu un enerģijas patēriņu, emisiju un atkritumu apjomu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "vides zinātne",
+      "definition": "zinātnes nozare, kas pēta vides sastāvdaļu savstarpējo mijiedarbību un to mijiedarbību ar cilvēka veidoto vidi, kā arī cilvēka saimnieciskās darbības ietekmi uz vidi un tās sastāvdaļām.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "lv-law-37862",
+  "type": "statute",
+  "title": "Par norēķiniem ar nepārstrādātās lauksaimniecības produkcijas ražotājiem",
+  "title_en": "On The Settlement Of Accounts With The Producers Of Unprocessed Agricultural Produce",
+  "short_name": "TA-37862",
+  "status": "in_force",
+  "url": "https://likumi.lv/ta/id/37862-par-norekiniem-ar-neparstradatas-lauksaimniecibas-produkcijas-razotajiem",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "section": "1",
+      "title": "Likumā ir lietoti šādi termini:",
+      "content": "1) nepārstrādātā lauksaimniecības produkcija — augu vai dzīvnieku valsts sākotnējā produkcija, ko patērē tiešā veidā vai izmanto kā izejvielu pārtikas produktu un citu izstrādājumu ražošanā;\n2) nepārstrādātās lauksaimniecības produkcijas ražotāji (piegādātāji) — fiziskās vai juridiskās personas, kas nodarbojas ar lauksaimniecību un realizē pašu izaudzēto augu vai dzīvnieku valsts sākotnējo produkciju nepārstrādātā veidā, kā arī atbilstošas lauksaimniecības pakalpojumu kooperatīvās sabiedrības."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "section": "2",
+      "title": "(1) Likums nosaka kārtību, kādā tiek veikti norēķini starp nepārstrādātās lauksaimniecības produkcijas (turpmāk — produkcija) ražotājiem (piegādātājiem) un komersantiem, kas nodarbojas ar produkcijas pārstrādi, tirdzniecību vai izmanto produkciju savas saimnieciskās darbības veikšanai (turpmāk — komersants).",
+      "content": "(2) Noslēgtajos līgumos paredzamais samaksas termiņš nedrīkst pārsniegt 30 dienas no produkcijas piegādes dienas. Šis samaksas termiņš neattiecas uz graudu piegādes līgumiem."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "section": "3",
+      "title": "Norēķini starp produkcijas ražotājiem (piegādātājiem) un komersantiem tiek veikti 10 dienu laikā no produkcijas piegādes dienas. Šajā pantā minētais norēķinu termiņš neattiecas uz līgumiem, kuros samaksas termiņš noteikts saskaņā ar šā likuma 2.panta otro daļu.",
+      "content": "( 20.01.2011 . likuma redakcijā, kas stājas spēkā 22.02.2011. )"
+    },
+    {
+      "provision_ref": "Art. 4",
+      "section": "4",
+      "title": "Ja norēķini par produkcijas piegādi nav veikti 10 dienu laikā no produkcijas piegādes dienas vai noslēgtajā līgumā paredzētajā termiņā, komersants par nokavējumu maksā likumiskos procentus saskaņā ar Civillikumu .",
+      "content": "( 20.01.2011 . likuma redakcijā, kas stājas spēkā 22.02.2011. )"
+    },
+    {
+      "provision_ref": "Art. 5",
+      "section": "5",
+      "title": "Zemkopības ministrijas Lauku atbalsta dienests ir tiesīgs saņemt no komersantiem informāciju par piegādāto un termiņā nesamaksāto produkciju un iesniegt tiesā prasību produkcijas ražotāju (piegādātāju) interešu aizstāvībai.",
+      "content": "( 15.01.1998 . likuma redakcijā ar grozījumiem, kas izdarīti ar 10.02.2000. un 20.01.2011 . likumu, kas stājas spēkā 22.02.2011. )"
+    },
+    {
+      "provision_ref": "Art. 6",
+      "section": "6",
+      "title": "Ja no komersanta piedzītās summas nepietiek, lai apmierinātu visus prasījumus pēc izpildu dokumentiem, produkcijas ražotāju (piegādātāju) prasījumi par nesamaksāto produkciju apmierināmi pēc tam, kad ir apmierināti darbinieku prasījumi par:",
+      "content": "1) darba samaksu par pirmajiem trim mēnešiem no algu izmaksu pārtraukšanas dienas;\n2) atvaļinājuma naudu un sociālajiem pabalstiem par vienu gadu pirms parāda piedziņas lietas ierosināšanas;\n3) sakarā ar sakropļojumu darbā vai arodslimību nodarīto kaitējumu izmaksājamo atlīdzību par visu nesamaksāto periodu;\n4) sociālā nodokļa un iedzīvotāju ienākuma nodokļa maksājumiem, kas nodrošina bezdarbnieka pabalsta saņemšanu."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "nepārstrādātā lauksaimniecības produkcija",
+      "definition": "augu vai dzīvnieku valsts sākotnējā produkcija, ko patērē tiešā veidā vai izmanto kā izejvielu pārtikas produktu un citu izstrādājumu ražošanā",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "nepārstrādātās lauksaimniecības produkcijas ražotāji (piegādātāji)",
+      "definition": "fiziskās vai juridiskās personas, kas nodarbojas ar lauksaimniecību un realizē pašu izaudzēto augu vai dzīvnieku valsts sākotnējo produkciju nepārstrādātā veidā, kā arī atbilstošas lauksaimniecības pakalpojumu kooperatīvās sabiedrības.",
+      "source_provision": "Art. 1"
+    }
+  ]
+}
