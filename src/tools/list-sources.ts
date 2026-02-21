@@ -45,7 +45,7 @@ export async function listSources(
       sources: [
         {
           name: 'Likumi.lv',
-          authority: 'Latvian Government, Office of Parliamentary Counsel',
+          authority: 'Latvijas Vēstnesis (Official Gazette of Latvia)',
           url: 'https://www.likumi.lv',
           license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
           coverage:

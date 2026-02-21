@@ -39,7 +39,7 @@ const LIST_SOURCES_TOOL: Tool = {
   name: 'list_sources',
   description:
     'Returns detailed provenance metadata for all data sources used by this server, ' +
-    'including the Likumi.lv (Latvian Government, Office of Parliamentary Counsel). ' +
+    'including the Likumi.lv (Latvijas Vēstnesis (Official Gazette of Latvia)). ' +
     'Use this to understand what data is available, its authority, coverage scope, and known limitations. ' +
     'Also returns dataset statistics (document counts, provision counts) and database build timestamp. ' +
     'Call this FIRST when you need to understand what Latvian legal data this server covers.',

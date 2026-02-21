@@ -33,8 +33,8 @@ export function generateResponseMetadata(
     data_source: 'Likumi.lv (likumi.lv) — Latvijas Vēstnesis (Official Gazette of Latvia)',
     jurisdiction: 'LV',
     disclaimer:
-      'This data is sourced from the Likumi.lv under CC BY 4.0 licence. ' +
-      'The authoritative versions are maintained by the Australian Government. ' +
+      'This data is sourced from the Likumi.lv under public domain. ' +
+      'The authoritative versions are maintained by Latvijas Vēstnesis (Official Gazette of Latvia). ' +
       'Always verify with the official Likumi.lv portal (likumi.lv).',
     freshness,
   };
