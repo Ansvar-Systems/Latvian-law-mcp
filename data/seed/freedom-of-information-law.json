@@ -1,0 +1,148 @@
+{
+  "id": "lv-freedom-of-information-law",
+  "type": "statute",
+  "title": "Informācijas atklātības likums",
+  "title_en": "Freedom of Information Law",
+  "short_name": "IAL",
+  "status": "in_force",
+  "issued_date": "1998-10-29",
+  "in_force_date": "1998-11-06",
+  "url": "https://likumi.lv/ta/id/50601",
+  "description": "Latvian law on freedom of information, establishing the right of access to information held by public authorities, proactive publication obligations, and restrictions on access to classified or restricted information.",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "The purpose of this Law is to ensure that the public has access to information held by state and local government institutions and to promote the transparency and accountability of public administration. This Law establishes the procedure for the request and receipt of information, the obligations of institutions to proactively publish information, and the restrictions on access to certain categories of information."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Scope of Application",
+      "content": "This Law applies to all state and local government institutions, derived public legal entities, and private entities performing delegated public administration functions. The Law also applies to state and local government capital companies to the extent that they exercise public administration functions."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "3",
+      "title": "Right of Access",
+      "content": "Every person has the right to request and receive information from institutions. The right of access to information may be restricted only by law and only to the extent necessary in a democratic society to protect national security, territorial integrity, public safety, the rights and freedoms of others, the confidentiality of personal data, and commercial secrets."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Chapter II - Proactive Publication",
+      "section": "4",
+      "title": "Information to be Published Proactively",
+      "content": "Institutions shall proactively publish on their websites: regulatory enactments, institutional structure and contact information, descriptions of public services, public procurement information, reports on activities, information on budget and financial management, public policy documents, and minutes of public meetings. Information shall be published in a format that is accessible and machine-readable where technically feasible."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Chapter II - Proactive Publication",
+      "section": "5",
+      "title": "Open Data",
+      "content": "Institutions shall make publicly available datasets available as open data in machine-readable formats, free of charge and without restrictions on re-use, unless restrictions are established by law. The open data shall be published in the national open data portal. The Cabinet of Ministers shall determine the procedures for the publication and re-use of open data."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Chapter III - Information Requests",
+      "section": "6",
+      "title": "Form of Information Requests",
+      "content": "An information request may be submitted orally, in writing, or by electronic means. The institution may not require the person to justify the purpose for requesting the information, except where the information requested is restricted. An information request shall be registered by the institution on the day of receipt."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Chapter III - Information Requests",
+      "section": "7",
+      "title": "Time Limits for Response",
+      "content": "An institution shall respond to an information request as soon as possible but not later than 15 working days from the day of receipt of the request. Where the request requires the collection of a large amount of information, the institution may extend the time limit to 30 working days, notifying the requester of the extension and the reasons therefor."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter III - Information Requests",
+      "section": "8",
+      "title": "Refusal to Provide Information",
+      "content": "An institution may refuse to provide information only if the information falls within the categories of restricted-access information specified in this Law or other laws. The refusal shall be in writing and shall state the legal basis for the refusal, the category of restricted information, and the procedure for appealing the refusal."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Chapter IV - Restricted-Access Information",
+      "section": "9",
+      "title": "Categories of Restricted Information",
+      "content": "Information shall be classified as restricted-access information if its disclosure could harm: 1) national security or defence; 2) the prevention, detection, or investigation of criminal offences; 3) the privacy and personal data of natural persons; 4) commercial secrets or intellectual property rights; 5) diplomatic or international relations of Latvia; 6) the internal deliberations of an institution. Personal data may be disclosed only in accordance with Regulation (EU) 2016/679 and the Personal Data Processing Law."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Chapter IV - Restricted-Access Information",
+      "section": "10",
+      "title": "Duration of Restrictions",
+      "content": "Restrictions on access to information shall be applied for the shortest period necessary. Where the legal basis for the restriction no longer exists, the institution shall make the information accessible. For commercial secrets and personal data, the restriction shall apply for as long as the information retains its confidential character or the processing is lawful under Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Chapter IV - Restricted-Access Information",
+      "section": "11",
+      "title": "Partial Disclosure",
+      "content": "Where an information request relates to a document that contains both publicly accessible and restricted-access information, the institution shall separate the restricted information and provide the requester with the remaining publicly accessible part of the document."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Chapter V - Information Systems",
+      "section": "12",
+      "title": "State Information Systems",
+      "content": "State information systems shall be maintained and managed in accordance with the law. Information stored in state information systems that is publicly accessible shall be made available through the official websites of institutions and through the state information systems portal. The administrator of a state information system shall ensure the accuracy, timeliness, and integrity of the information stored therein."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Chapter V - Information Systems",
+      "section": "13",
+      "title": "Protection of Information in Information Systems",
+      "content": "The administrator of a state information system shall implement appropriate technical and organisational security measures to protect information against unauthorised access, alteration, disclosure, or destruction. The security measures shall be proportionate to the sensitivity of the information and the risks to the rights and freedoms of individuals whose data is processed."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Chapter VI - Supervision and Remedies",
+      "section": "14",
+      "title": "Appeal of Refusals",
+      "content": "A person whose information request has been refused may appeal the decision to the superior institution within one month of the date of notification of the refusal. The decision of the superior institution may be appealed to an administrative court. The court shall assess whether the restriction on access to the information was lawful and proportionate."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Chapter VI - Supervision and Remedies",
+      "section": "15",
+      "title": "Ombudsman's Role",
+      "content": "The Ombudsman of the Republic of Latvia shall supervise compliance with this Law and examine complaints regarding refusals to provide information or violations of proactive publication obligations. The Ombudsman may issue recommendations to institutions and report to the Saeima on the state of freedom of information."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Chapter VI - Supervision and Remedies",
+      "section": "16",
+      "title": "Liability for Violations",
+      "content": "Officials who unlawfully refuse to provide information, provide inaccurate information, or fail to comply with proactive publication obligations may be subject to disciplinary, administrative, or criminal liability, depending on the nature and severity of the violation. The intentional destruction or concealment of publicly accessible information constitutes an aggravating circumstance."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Institution",
+      "definition": "A state or local government institution, derived public legal entity, or private entity performing delegated public administration functions.",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "Information request",
+      "definition": "A request submitted by a person to an institution for the provision of information held by that institution.",
+      "source_provision": "Art. 6"
+    },
+    {
+      "term": "Restricted-access information",
+      "definition": "Information whose disclosure is restricted by law to protect national security, personal data, commercial secrets, or other specified interests.",
+      "source_provision": "Art. 9"
+    },
+    {
+      "term": "Open data",
+      "definition": "Publicly available datasets published in machine-readable formats, free of charge and without restrictions on re-use.",
+      "source_provision": "Art. 5"
+    }
+  ]
+}

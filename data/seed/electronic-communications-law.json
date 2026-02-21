@@ -1,0 +1,141 @@
+{
+  "id": "lv-electronic-communications-law",
+  "type": "statute",
+  "title": "Elektronisko sakaru likums",
+  "title_en": "Electronic Communications Law",
+  "short_name": "ESL",
+  "status": "in_force",
+  "issued_date": "2004-11-01",
+  "in_force_date": "2004-12-01",
+  "url": "https://likumi.lv/ta/id/96611",
+  "description": "Latvian law governing electronic communications, including telecommunications, network security, data retention, interception, and privacy of electronic communications. Implements relevant EU directives including the e-Privacy framework.",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "The purpose of this Law is to regulate the provision of electronic communications, to promote competition in electronic communications, to ensure the availability of electronic communications services, to protect the rights and interests of users, and to implement Directive 2002/21/EC (Framework Directive) and Directive 2002/58/EC (e-Privacy Directive) as amended by Directive 2009/136/EC."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Scope",
+      "content": "This Law applies to the provision of electronic communications networks and services in the territory of Latvia. It regulates the rights and obligations of electronic communications merchants, the competence of regulatory authorities, frequency management, numbering, network security, and the protection of personal data in the electronic communications sector."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter II - Regulatory Authority",
+      "section": "8",
+      "title": "Public Utilities Commission",
+      "content": "The Public Utilities Commission (Sabiedrisko pakalpojumu regulēšanas komisija, SPRK) is the national regulatory authority for electronic communications in Latvia. The Commission shall perform its functions independently, transparently, and impartially. The Commission shall cooperate with the Body of European Regulators for Electronic Communications (BEREC)."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Chapter III - Electronic Communications Networks and Services",
+      "section": "19",
+      "title": "General Authorisation",
+      "content": "The provision of electronic communications networks or services may be commenced after the electronic communications merchant has registered with the Public Utilities Commission. The general authorisation regime shall not impose conditions that are not objectively justified, disproportionate, or discriminatory."
+    },
+    {
+      "provision_ref": "Art. 46",
+      "chapter": "Chapter VI - Privacy in Electronic Communications",
+      "section": "46",
+      "title": "Confidentiality of Communications",
+      "content": "Electronic communications merchants shall ensure the confidentiality of communications and the related traffic data transmitted by means of a public communications network or publicly available electronic communications service, in accordance with Article 5 of Directive 2002/58/EC. Listening, tapping, storage, or other kinds of interception or surveillance of communications and traffic data by persons other than users shall be prohibited without the consent of the users concerned, except when legally authorised."
+    },
+    {
+      "provision_ref": "Art. 47",
+      "chapter": "Chapter VI - Privacy in Electronic Communications",
+      "section": "47",
+      "title": "Traffic Data",
+      "content": "Traffic data relating to subscribers and users processed and stored by the electronic communications merchant shall be erased or made anonymous when it is no longer needed for the purpose of the transmission of a communication, except for the purposes of subscriber billing and interconnection payments. Traffic data necessary for subscriber billing may be processed until the end of the period during which the bill may be lawfully challenged."
+    },
+    {
+      "provision_ref": "Art. 48",
+      "chapter": "Chapter VI - Privacy in Electronic Communications",
+      "section": "48",
+      "title": "Location Data",
+      "content": "Where location data other than traffic data can be processed, such data may only be processed when they are made anonymous, or with the consent of the subscriber or user, to the extent and for the duration necessary for the provision of a value-added service. The electronic communications merchant shall inform the user of the type of location data which will be processed, the purposes and duration of the processing, and whether the data will be transmitted to a third party."
+    },
+    {
+      "provision_ref": "Art. 49",
+      "chapter": "Chapter VI - Privacy in Electronic Communications",
+      "section": "49",
+      "title": "Cookies and Similar Technologies",
+      "content": "The storage of information or the gaining of access to information already stored in the terminal equipment of a subscriber or user is only allowed on condition that the subscriber or user has given his or her consent after being provided with clear and comprehensive information about the purposes of the processing, in accordance with Article 5(3) of Directive 2002/58/EC as amended by Directive 2009/136/EC."
+    },
+    {
+      "provision_ref": "Art. 50",
+      "chapter": "Chapter VI - Privacy in Electronic Communications",
+      "section": "50",
+      "title": "Unsolicited Communications (Spam)",
+      "content": "The use of electronic communications for the purposes of direct marketing may only be allowed in respect of subscribers or users who have given their prior consent. A natural or legal person who has obtained the electronic contact details of a customer in the context of the sale of a product or service may use those details for direct marketing of its own similar products or services, provided that customers are given a clear and distinct opportunity to object."
+    },
+    {
+      "provision_ref": "Art. 60",
+      "chapter": "Chapter VII - Network Security",
+      "section": "60",
+      "title": "Security Obligations for Network Operators",
+      "content": "Electronic communications merchants shall take appropriate technical and organisational measures to manage the risks posed to the security of networks and services. Having regard to the state of the art, such measures shall ensure a level of security appropriate to the risk presented. Measures shall include policies for the security of network and information systems, incident handling, business continuity management, and supply chain security."
+    },
+    {
+      "provision_ref": "Art. 61",
+      "chapter": "Chapter VII - Network Security",
+      "section": "61",
+      "title": "Security Breach Notification",
+      "content": "Electronic communications merchants shall notify the competent authority of any security breach that has had a significant impact on the operation of networks or services. Where appropriate, the competent authority shall inform the public or require the electronic communications merchant to do so, where it considers that disclosure of the breach is in the public interest. The notification shall include the nature of the breach, the measures taken, and the recommended measures for mitigation."
+    },
+    {
+      "provision_ref": "Art. 62",
+      "chapter": "Chapter VII - Network Security",
+      "section": "62",
+      "title": "Data Breach Notification to Subscribers",
+      "content": "In the case of a personal data breach, the electronic communications merchant shall, without undue delay, notify the personal data breach to the Data State Inspectorate. Where the personal data breach is likely to adversely affect the personal data or privacy of a subscriber or individual, the merchant shall also notify the subscriber or individual without undue delay, in accordance with Article 4 of Directive 2002/58/EC."
+    },
+    {
+      "provision_ref": "Art. 63",
+      "chapter": "Chapter VII - Network Security",
+      "section": "63",
+      "title": "Lawful Interception",
+      "content": "Electronic communications merchants shall, at their own expense, ensure the technical capability for the lawful interception of electronic communications in accordance with the procedures established by law. Interception may be carried out only on the basis of a decision by an investigating judge or a court, in accordance with the Criminal Procedure Law. The interception shall be proportionate and necessary for the purposes of national security, prevention of crime, or public safety."
+    },
+    {
+      "provision_ref": "Art. 71",
+      "chapter": "Chapter VIII - Dispute Resolution and Enforcement",
+      "section": "71",
+      "title": "Administrative Sanctions",
+      "content": "The Public Utilities Commission may impose administrative sanctions on electronic communications merchants for violations of this Law or regulations issued thereunder. Sanctions may include warnings, fines up to EUR 100,000, or revocation of rights of use for radio frequencies or numbering resources. Repeated or severe violations may result in higher penalties."
+    },
+    {
+      "provision_ref": "Art. 72",
+      "chapter": "Chapter VIII - Dispute Resolution and Enforcement",
+      "section": "72",
+      "title": "User Complaint Procedure",
+      "content": "Users have the right to submit complaints to the Public Utilities Commission regarding violations of their rights under this Law. The Commission shall examine the complaint and take a decision within 30 days of receipt. The decision of the Commission may be appealed to an administrative court."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electronic communications",
+      "definition": "The conveyance of signals over electronic communications networks, including telecommunications and data transmission services.",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Electronic communications merchant",
+      "definition": "A natural or legal person providing electronic communications networks or services registered with the Public Utilities Commission.",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "Traffic data",
+      "definition": "Any data processed for the purpose of the conveyance of a communication on an electronic communications network or for the billing thereof.",
+      "source_provision": "Art. 47"
+    },
+    {
+      "term": "Location data",
+      "definition": "Any data processed in an electronic communications network indicating the geographic position of the terminal equipment of a user.",
+      "source_provision": "Art. 48"
+    }
+  ]
+}

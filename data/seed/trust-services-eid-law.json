@@ -1,0 +1,190 @@
+{
+  "id": "lv-trust-services-eid-law",
+  "type": "statute",
+  "title": "Uzticamības pakalpojumu un elektroniskās identifikācijas likums",
+  "title_en": "Trust Services and Electronic Identification Law",
+  "short_name": "UPEIL",
+  "status": "in_force",
+  "issued_date": "2016-06-09",
+  "in_force_date": "2016-07-01",
+  "url": "https://likumi.lv/ta/id/283026",
+  "description": "Latvian law implementing Regulation (EU) 910/2014 (eIDAS) on electronic identification and trust services for electronic transactions. Establishes the supervisory framework, national eID scheme, and requirements for qualified trust service providers.",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "The purpose of this Law is to establish the legal framework necessary for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation), including the designation of supervisory bodies, the notification of electronic identification schemes, and the regulation of trust services in Latvia."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Scope of Application",
+      "content": "This Law applies to electronic identification schemes notified by Latvia or another EU Member State and to trust services provided in Latvia or from another Member State. This Law supplements the directly applicable provisions of Regulation (EU) 910/2014 and does not regulate matters fully harmonised by the Regulation."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "3",
+      "title": "Definitions",
+      "content": "Terms used in this Law shall be understood in accordance with the definitions set out in Article 3 of Regulation (EU) 910/2014. In addition: 1) National electronic identification scheme means the Latvian electronic identification scheme based on the national identity card (eID karte) and the eParaksts system; 2) Supervisory body means the body designated to supervise qualified trust service providers in accordance with Article 17 of Regulation (EU) 910/2014."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Chapter II - Electronic Identification",
+      "section": "4",
+      "title": "National Electronic Identification Scheme",
+      "content": "Latvia maintains a national electronic identification scheme based on the electronic identity card (eID karte) and the eParaksts mobile electronic identification system. The scheme is notified under Article 9 of Regulation (EU) 910/2014 with assurance levels of substantial and high. The Office of Citizenship and Migration Affairs (PMLP) is responsible for the issuance and management of electronic identity cards."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Chapter II - Electronic Identification",
+      "section": "5",
+      "title": "Assurance Levels",
+      "content": "The national electronic identification scheme shall provide assurance levels of substantial and high as defined in Commission Implementing Regulation (EU) 2015/1502. The high assurance level requires face-to-face identification, multi-factor authentication, and cryptographic protection of identity data. The substantial assurance level requires reliable identity verification and secure authentication mechanisms."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Chapter II - Electronic Identification",
+      "section": "6",
+      "title": "Mutual Recognition of eID",
+      "content": "Electronic identification means issued under notified electronic identification schemes of other EU Member States shall be recognised for the purpose of cross-border authentication to access online services provided by public sector bodies, in accordance with Article 6 of Regulation (EU) 910/2014. The level of assurance of the electronic identification means shall be equal to or higher than the level required for the relevant online service."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Chapter II - Electronic Identification",
+      "section": "7",
+      "title": "Security Requirements for eID Infrastructure",
+      "content": "The electronic identification infrastructure shall implement security measures to ensure the reliability, availability, confidentiality, and integrity of the electronic identification process. These measures shall include cryptographic protection of identity data, secure communication channels, tamper-resistant hardware, logging and monitoring of authentication events, and regular security assessments. The Cabinet of Ministers shall specify detailed security requirements."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter II - Electronic Identification",
+      "section": "8",
+      "title": "Breach Notification for eID",
+      "content": "The entity responsible for the national electronic identification scheme shall, without undue delay, notify the supervisory body of any breach of security or loss of integrity that has a significant impact on the electronic identification scheme or the trust of the relying parties. The notification shall include a description of the breach, its impact, and the corrective measures taken or proposed."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Chapter III - Trust Services",
+      "section": "9",
+      "title": "Qualified Trust Service Providers",
+      "content": "Qualified trust service providers established in Latvia shall be granted qualified status by the supervisory body after successfully completing a conformity assessment in accordance with Article 21 of Regulation (EU) 910/2014. The supervisory body shall maintain and publish a national trusted list of qualified trust service providers and the qualified trust services they provide."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Chapter III - Trust Services",
+      "section": "10",
+      "title": "Supervisory Body",
+      "content": "The National Radio and Television Centre of Latvia (Latvijas Valsts radio un televīzijas centrs, LVRTC) is designated as the supervisory body for qualified trust service providers in accordance with Article 17 of Regulation (EU) 910/2014. The supervisory body shall supervise qualified trust service providers, carry out audits, and take enforcement action where necessary."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Chapter III - Trust Services",
+      "section": "11",
+      "title": "Supervision Activities",
+      "content": "The supervisory body shall carry out supervisory activities in accordance with Article 17(3) of Regulation (EU) 910/2014, including: reviewing audit reports, requesting information from trust service providers, conducting on-site inspections, issuing binding instructions, and withdrawing qualified status. The supervisory body shall also monitor compliance with security and data protection requirements."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Chapter III - Trust Services",
+      "section": "12",
+      "title": "Security Requirements for Trust Service Providers",
+      "content": "Qualified trust service providers shall implement appropriate technical and organisational measures to manage the risks posed to the security of the trust services they provide, in accordance with Article 19 of Regulation (EU) 910/2014. Measures shall include risk assessment, incident handling, business continuity, secure key management, access control, and regular security audits."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Chapter III - Trust Services",
+      "section": "13",
+      "title": "Incident Notification for Trust Services",
+      "content": "Qualified trust service providers shall notify the supervisory body without undue delay, and in any event within 24 hours, of any breach of security or loss of integrity that has a significant impact on the trust service provided or on the personal data maintained therein, in accordance with Article 19(2) of Regulation (EU) 910/2014."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Chapter III - Trust Services",
+      "section": "14",
+      "title": "Qualified Electronic Signatures",
+      "content": "A qualified electronic signature based on a qualified certificate issued by a qualified trust service provider shall have the equivalent legal effect of a handwritten signature, in accordance with Article 25(2) of Regulation (EU) 910/2014. The eParaksts system shall provide qualified electronic signature services to natural and legal persons in Latvia."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Chapter III - Trust Services",
+      "section": "15",
+      "title": "Qualified Electronic Seals",
+      "content": "A qualified electronic seal based on a qualified certificate shall enjoy the presumption of integrity of the data and of correctness of the origin of the data to which the seal is linked, in accordance with Article 35(2) of Regulation (EU) 910/2014. Legal persons may use qualified electronic seals to ensure the origin and integrity of electronic documents."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Chapter III - Trust Services",
+      "section": "16",
+      "title": "Qualified Electronic Time Stamps",
+      "content": "A qualified electronic time stamp shall enjoy the presumption of the accuracy of the date and time it indicates and the integrity of the data to which the date and time are bound, in accordance with Article 41(2) of Regulation (EU) 910/2014. Qualified time stamps may be used to establish the existence of electronic data at a particular point in time."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Chapter III - Trust Services",
+      "section": "17",
+      "title": "Qualified Electronic Delivery Services",
+      "content": "A qualified electronic registered delivery service shall enjoy the presumption of the integrity of the data, the sending of that data by the identified sender, its receipt by the identified addressee, and the accuracy of the date and time of sending and receipt, in accordance with Article 44(2) of Regulation (EU) 910/2014."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Chapter III - Trust Services",
+      "section": "18",
+      "title": "Website Authentication",
+      "content": "Qualified certificates for website authentication shall include the elements specified in Annex IV of Regulation (EU) 910/2014. Qualified trust service providers issuing qualified certificates for website authentication shall verify the identity of the applicant and the applicant's right to use the domain name associated with the certificate."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Chapter IV - Liability and Enforcement",
+      "section": "19",
+      "title": "Liability of Trust Service Providers",
+      "content": "A qualified trust service provider shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to meet the obligations under Regulation (EU) 910/2014, in accordance with Article 13 of the Regulation. The burden of proving that the qualified trust service provider did not act intentionally or negligently shall be borne by the provider."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Chapter IV - Liability and Enforcement",
+      "section": "20",
+      "title": "Administrative Sanctions",
+      "content": "The supervisory body may impose administrative sanctions on trust service providers that fail to comply with the requirements of Regulation (EU) 910/2014 or this Law. Sanctions may include warnings, fines up to EUR 50,000, suspension of qualified status, or withdrawal of qualified status. The supervisory body shall consider the nature, gravity, and duration of the infringement when determining the sanction."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "Chapter V - Final Provisions",
+      "section": "21",
+      "title": "Data Protection",
+      "content": "Trust service providers and the entity responsible for the national electronic identification scheme shall process personal data in accordance with Regulation (EU) 2016/679 (General Data Protection Regulation) and the Personal Data Processing Law. The collection, storage, and processing of identification data shall be limited to what is necessary for the provision of the trust service or the operation of the electronic identification scheme."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "Chapter V - Final Provisions",
+      "section": "22",
+      "title": "Transitional and Final Provisions",
+      "content": "Electronic signatures and electronic documents created under the previously applicable Electronic Documents Law shall retain their legal effect. Trust service providers that were operating at the time of entry into force of this Law shall bring their operations into compliance with the requirements of Regulation (EU) 910/2014 and this Law within the timeframe specified in the Regulation."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "National electronic identification scheme",
+      "definition": "The Latvian electronic identification scheme based on the national identity card (eID karte) and the eParaksts mobile electronic identification system.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "Supervisory body",
+      "definition": "The body designated to supervise qualified trust service providers — the National Radio and Television Centre of Latvia (LVRTC).",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "eParaksts",
+      "definition": "The Latvian qualified electronic signature service system providing electronic signature, seal, and time stamp services.",
+      "source_provision": "Art. 14"
+    },
+    {
+      "term": "Qualified trust service provider",
+      "definition": "A trust service provider that has been granted qualified status by the supervisory body after conformity assessment under Regulation (EU) 910/2014.",
+      "source_provision": "Art. 9"
+    }
+  ]
+}

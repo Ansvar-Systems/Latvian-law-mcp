@@ -1,0 +1,190 @@
+{
+  "id": "lv-personal-data-processing-law",
+  "type": "statute",
+  "title": "Fizisko personu datu apstrādes likums",
+  "title_en": "Personal Data Processing Law",
+  "short_name": "FPDAL",
+  "status": "in_force",
+  "issued_date": "2018-07-05",
+  "in_force_date": "2018-07-05",
+  "url": "https://likumi.lv/ta/id/300099",
+  "description": "Latvian implementation of the General Data Protection Regulation (EU) 2016/679 (GDPR). Establishes supplementary rules for personal data processing, the role and powers of the Data State Inspectorate, and administrative penalties.",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "This Law determines the procedure for the processing of personal data of natural persons, supplementing the requirements of Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation). This Law implements certain provisions of the GDPR that allow Member States to provide more specific rules."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Scope of Application",
+      "content": "This Law applies to the processing of personal data that falls within the scope of Regulation (EU) 2016/679, unless otherwise specified by this Law. The provisions of this Law also apply to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, insofar as a specific law does not provide otherwise."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "3",
+      "title": "Definitions",
+      "content": "Terms used in this Law shall be understood in accordance with the definitions set out in Article 4 of Regulation (EU) 2016/679. In addition, the following terms are used in this Law: 1) Supervisory Authority means the Data State Inspectorate (Datu valsts inspekcija); 2) Public body means state and local government authorities and institutions; 3) Unique identification number means the personal identity number assigned to natural persons in Latvia."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Chapter I - General Provisions",
+      "section": "4",
+      "title": "Lawful Basis for Processing by Public Bodies",
+      "content": "A public body may process personal data only if it has a lawful basis established by law or regulation. The processing must be necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller, in accordance with Article 6(1)(e) of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Chapter II - Processing of Special Categories of Personal Data",
+      "section": "5",
+      "title": "Processing of Personal Identity Number",
+      "content": "The personal identity number (personas kods) may be processed where a legal basis exists in law or regulation, where the data subject has given explicit consent, or where it is necessary for the legitimate interests pursued by the controller to unambiguously identify the data subject. Controllers shall implement appropriate safeguards when processing the personal identity number, including encryption or pseudonymisation."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Chapter II - Processing of Special Categories of Personal Data",
+      "section": "6",
+      "title": "Processing of Special Categories of Data",
+      "content": "Special categories of personal data as defined in Article 9 of Regulation (EU) 2016/679, including data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data, health data, and data concerning sex life or sexual orientation, may be processed only where one of the conditions in Article 9(2) of the Regulation applies and additional safeguards specified in this Law are in place."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Chapter II - Processing of Special Categories of Personal Data",
+      "section": "7",
+      "title": "Processing for Archiving, Research, and Statistics",
+      "content": "Personal data may be processed for archiving purposes in the public interest, scientific or historical research purposes, or statistical purposes in accordance with Article 89 of Regulation (EU) 2016/679. The controller shall implement appropriate technical and organisational measures to ensure compliance with the data minimisation principle, such as pseudonymisation."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter III - Data Subject Rights",
+      "section": "8",
+      "title": "Right to Information and Access",
+      "content": "The data subject has the right to receive information and access personal data concerning him or her in accordance with Articles 13, 14, and 15 of Regulation (EU) 2016/679. Where the processing is carried out by competent authorities for law enforcement purposes, the right of access may be restricted in accordance with the conditions specified in this Law."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Chapter III - Data Subject Rights",
+      "section": "9",
+      "title": "Restrictions on Data Subject Rights",
+      "content": "The rights of data subjects under Articles 12 to 22 and Article 34 of Regulation (EU) 2016/679 may be restricted by legislative measures that respect the essence of the fundamental rights and freedoms, where such restriction is necessary and proportionate to safeguard: national security, defence, public security, the prevention, investigation, detection, or prosecution of criminal offences, or other important objectives of general public interest of Latvia."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Chapter III - Data Subject Rights",
+      "section": "10",
+      "title": "Data Protection Impact Assessment",
+      "content": "Where a type of processing is likely to result in a high risk to the rights and freedoms of natural persons, the controller shall, prior to the processing, carry out an assessment of the impact of the envisaged processing operations in accordance with Article 35 of Regulation (EU) 2016/679. The supervisory authority shall publish and maintain a list of the types of processing operations subject to the requirement for a data protection impact assessment."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Chapter IV - Data State Inspectorate",
+      "section": "11",
+      "title": "Supervisory Authority",
+      "content": "The Data State Inspectorate (Datu valsts inspekcija, hereinafter the Inspectorate) is the independent supervisory authority responsible for monitoring the application of Regulation (EU) 2016/679 and this Law. The Inspectorate shall act with complete independence in performing its tasks and exercising its powers in accordance with Article 52 of Regulation (EU) 2016/679."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Chapter IV - Data State Inspectorate",
+      "section": "12",
+      "title": "Powers of the Inspectorate",
+      "content": "The Inspectorate shall have the investigative, corrective, and advisory powers specified in Article 58 of Regulation (EU) 2016/679. The Inspectorate may carry out audits, issue warnings and reprimands, order the controller or processor to comply with the data subject's requests, impose temporary or definitive limitations on processing, and impose administrative fines."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Chapter IV - Data State Inspectorate",
+      "section": "13",
+      "title": "Cooperation with Other Supervisory Authorities",
+      "content": "The Inspectorate shall cooperate with supervisory authorities of other EU Member States and with the European Data Protection Board in accordance with Chapter VII of Regulation (EU) 2016/679. The Inspectorate shall participate in the consistency mechanism and provide mutual assistance as required."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Chapter V - Administrative Penalties",
+      "section": "14",
+      "title": "Administrative Fines for Public Bodies",
+      "content": "Administrative fines imposed on public bodies for infringements of Regulation (EU) 2016/679 or this Law shall not exceed EUR 5,000 for a single infringement and EUR 50,000 in total during one calendar year. The Inspectorate shall take into account the nature, gravity, and duration of the infringement, the intentional or negligent character of the infringement, and any measures taken by the public body to mitigate the damage."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Chapter V - Administrative Penalties",
+      "section": "15",
+      "title": "Administrative Fines for Private Entities",
+      "content": "Administrative fines for private entities shall be imposed in accordance with Article 83 of Regulation (EU) 2016/679. Infringements of the basic principles for processing, including conditions for consent, data subjects' rights, and transfers shall be subject to administrative fines up to EUR 20,000,000 or up to 4% of the total worldwide annual turnover, whichever is higher."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Chapter V - Administrative Penalties",
+      "section": "16",
+      "title": "Criminal Liability",
+      "content": "Where the processing of personal data constitutes a criminal offence, criminal liability shall be imposed in accordance with the Criminal Law (Krimināllikums). Intentional unlawful processing of personal data that causes substantial harm to the rights and legitimate interests of a natural person is punishable by deprivation of liberty for a term up to two years or by temporary deprivation of liberty, community service, or a fine."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Chapter VI - Processing by Law Enforcement",
+      "section": "17",
+      "title": "Processing for Law Enforcement Purposes",
+      "content": "The processing of personal data by competent authorities for the purposes of the prevention, investigation, detection, or prosecution of criminal offences or the execution of criminal penalties shall be governed by Directive (EU) 2016/680 and the specific provisions of this Law. The controller shall ensure that the processing is lawful and proportionate to the law enforcement objective pursued."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Chapter VI - Processing by Law Enforcement",
+      "section": "18",
+      "title": "Logging and Data Security",
+      "content": "Competent authorities processing personal data for law enforcement purposes shall implement logging of certain processing operations in automated processing systems in accordance with Article 25 of Directive (EU) 2016/680. Logs shall include the date and time of the operation, the identity of the person who accessed the data, and the grounds for the query."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Chapter VII - Transitional and Final Provisions",
+      "section": "19",
+      "title": "Data Protection Officer",
+      "content": "Public bodies and private entities that are required to designate a Data Protection Officer under Article 37 of Regulation (EU) 2016/679 shall ensure that the officer has the professional qualities and, in particular, expert knowledge of data protection law and practices. The Data Protection Officer shall report directly to the highest management level of the controller or processor."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Chapter VII - Transitional and Final Provisions",
+      "section": "20",
+      "title": "International Data Transfers",
+      "content": "Transfers of personal data to third countries or international organisations shall be carried out in accordance with Chapter V of Regulation (EU) 2016/679. The Inspectorate may authorise specific transfers or sets of transfers on the basis of adequate safeguards as provided in Article 46 of the Regulation, including standard contractual clauses, binding corporate rules, or approved codes of conduct."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "Chapter VII - Transitional and Final Provisions",
+      "section": "21",
+      "title": "Processing of Deceased Persons' Data",
+      "content": "Personal data of deceased natural persons may be processed for historical, statistical, or scientific research purposes, or for the protection of the legitimate interests of heirs, family members, or other persons connected to the deceased. The controller shall ensure that the processing does not adversely affect the rights and freedoms of other data subjects."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "Chapter VII - Transitional and Final Provisions",
+      "section": "22",
+      "title": "Transitional Provisions",
+      "content": "Personal data processing operations initiated before the entry into force of this Law and Regulation (EU) 2016/679 shall be brought into compliance with the requirements of this Law and the Regulation within one year from the entry into force of this Law. The previously existing Personal Data Protection Law (2000) is repealed upon entry into force of this Law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Supervisory Authority (Datu valsts inspekcija)",
+      "definition": "The Data State Inspectorate — the independent supervisory authority responsible for monitoring the application of the GDPR and the Personal Data Processing Law in Latvia.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "Public body",
+      "definition": "State and local government authorities and institutions that process personal data in the exercise of their official functions.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "Personal identity number (personas kods)",
+      "definition": "The unique identification number assigned to natural persons in Latvia for unambiguous identification purposes.",
+      "source_provision": "Art. 5"
+    },
+    {
+      "term": "Data Protection Officer",
+      "definition": "A designated person with expert knowledge of data protection law and practices, required for public bodies and certain private entities under Article 37 of the GDPR.",
+      "source_provision": "Art. 19"
+    }
+  ]
+}

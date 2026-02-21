@@ -1,0 +1,209 @@
+{
+  "id": "lv-it-security-law",
+  "type": "statute",
+  "title": "Informācijas tehnoloģiju drošības likums",
+  "title_en": "Information Technology Security Law",
+  "short_name": "ITDL",
+  "status": "in_force",
+  "issued_date": "2010-10-28",
+  "in_force_date": "2011-01-01",
+  "url": "https://likumi.lv/ta/id/220962",
+  "description": "Latvian law on information technology security establishing the national cybersecurity framework, CERT.LV, incident reporting obligations, and critical infrastructure protection. Amended to implement Directive (EU) 2022/2555 (NIS2).",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "The purpose of this Law is to establish the legal framework for the security of information technologies, to promote the protection of information systems and electronic communications networks, and to implement Directive (EU) 2022/2555 of the European Parliament and of the Council concerning measures for a high common level of cybersecurity across the Union (NIS2 Directive)."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Scope of Application",
+      "content": "This Law applies to state and local government institutions, essential and important entities, providers of electronic communications networks and services, trust service providers, and other entities specified in annexes to this Law. The Law establishes obligations for operators of essential services and digital service providers as defined in Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "3",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) Information technology security means the state in which information systems, electronic communications networks, and the data processed therein are protected against threats; 2) Incident means an event that has an adverse effect on the security of network and information systems; 3) Essential entity means an entity identified as essential in accordance with Article 3 of Directive (EU) 2022/2555; 4) Important entity means an entity identified as important in accordance with Article 3 of Directive (EU) 2022/2555; 5) CERT.LV means the Information Technology Security Incident Response Institution of the Republic of Latvia."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Chapter II - National Cybersecurity Framework",
+      "section": "4",
+      "title": "National Cybersecurity Strategy",
+      "content": "The Cabinet of Ministers shall adopt a national cybersecurity strategy that defines strategic cybersecurity objectives, the resources required to achieve those objectives, appropriate policy and regulatory measures, and a governance framework. The strategy shall be reviewed and updated at least every five years, in accordance with Article 7 of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Chapter II - National Cybersecurity Framework",
+      "section": "5",
+      "title": "Competent Authority",
+      "content": "The Ministry of Defence shall be the competent authority for information technology security in Latvia. The competent authority shall supervise compliance with this Law and Directive (EU) 2022/2555, coordinate cybersecurity policy, and represent Latvia in the NIS Cooperation Group and in EU-level cybersecurity cooperation mechanisms."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Chapter II - National Cybersecurity Framework",
+      "section": "6",
+      "title": "CERT.LV — National CSIRT",
+      "content": "CERT.LV is the national Computer Security Incident Response Team (CSIRT) designated in accordance with Article 10 of Directive (EU) 2022/2555. CERT.LV shall monitor and analyse cyber threats and incidents at the national level, provide early warnings, alerts, announcements and dissemination of information, respond to incidents and provide assistance, collect and analyse forensic data, and provide active scanning of network and information systems."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Chapter II - National Cybersecurity Framework",
+      "section": "7",
+      "title": "Coordinated Vulnerability Disclosure",
+      "content": "CERT.LV shall serve as the coordinator for coordinated vulnerability disclosure in accordance with Article 12 of Directive (EU) 2022/2555. Any natural or legal person may report a vulnerability in an ICT product or service to CERT.LV. CERT.LV shall ensure that reporters can report vulnerabilities anonymously where requested."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter III - Security Obligations",
+      "section": "8",
+      "title": "Risk Management Measures",
+      "content": "Essential and important entities shall take appropriate and proportionate technical, operational, and organisational measures to manage the risks posed to the security of network and information systems, in accordance with Article 21 of Directive (EU) 2022/2555. Measures shall include: policies on risk analysis and information system security, incident handling, business continuity and crisis management, supply chain security, security in network and information systems acquisition, development and maintenance, vulnerability handling and disclosure, and cybersecurity training."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Chapter III - Security Obligations",
+      "section": "9",
+      "title": "Management Body Accountability",
+      "content": "The management bodies of essential and important entities shall approve the cybersecurity risk management measures adopted by the entity and oversee their implementation. Members of the management body shall be required to follow training to gain sufficient knowledge and skills to identify risks and assess cybersecurity risk management practices, in accordance with Article 20 of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Chapter III - Security Obligations",
+      "section": "10",
+      "title": "Incident Reporting Obligations",
+      "content": "Essential and important entities shall notify CERT.LV without undue delay of any significant incident. An early warning shall be submitted within 24 hours after becoming aware of the incident. An incident notification providing an initial assessment shall be submitted within 72 hours. A final report shall be submitted not later than one month after the incident notification, in accordance with Article 23 of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Chapter III - Security Obligations",
+      "section": "11",
+      "title": "Significant Incident Criteria",
+      "content": "An incident shall be considered significant if: a) it has caused or is capable of causing severe operational disruption of the services or financial loss for the entity concerned; b) it has affected or is capable of affecting other natural or legal persons by causing considerable material or non-material damage. CERT.LV shall establish guidelines for assessing the significance of incidents."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Chapter III - Security Obligations",
+      "section": "12",
+      "title": "Security Audits",
+      "content": "The competent authority may require essential and important entities to submit to regular security audits conducted by qualified and independent auditors. The results of security audits, including evidence of compliance, shall be made available to the competent authority. The costs of audits shall be borne by the entity being audited."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "13",
+      "title": "Identification of Essential Entities",
+      "content": "The Cabinet of Ministers shall establish the criteria and procedures for identifying essential and important entities within the sectors and subsectors specified in the annexes to Directive (EU) 2022/2555, including energy, transport, banking, financial market infrastructure, health, drinking water, waste water, digital infrastructure, ICT service management, public administration, and space."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "14",
+      "title": "Obligations of Critical Infrastructure Operators",
+      "content": "Operators of critical infrastructure shall ensure the continuous availability and integrity of their information systems. They shall perform regular risk assessments, implement security measures proportionate to the identified risks, maintain incident response plans, conduct regular exercises and tests, and report significant incidents to CERT.LV. Operators shall cooperate with CERT.LV during incident response."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "15",
+      "title": "Supply Chain Security",
+      "content": "Essential and important entities shall take into account the vulnerabilities specific to each direct supplier and service provider, the overall quality of products and cybersecurity practices of their suppliers, including their secure development procedures. The competent authority may require entities to use specific certified ICT products, services, or processes in accordance with Article 24 of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Chapter V - State Information System Security",
+      "section": "16",
+      "title": "State Information System Security Requirements",
+      "content": "State and local government information systems shall comply with the information system security requirements established by the Cabinet of Ministers. The administrator of a state information system shall ensure the confidentiality, integrity, and availability of the information stored, processed, and transmitted through the system. Mandatory security measures include access control, encryption, audit logging, and regular vulnerability assessments."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Chapter V - State Information System Security",
+      "section": "17",
+      "title": "Security Classification of Information Systems",
+      "content": "State information systems shall be classified into security levels based on the sensitivity of the data processed and the potential impact of a security breach. The classification shall determine the minimum security requirements applicable to the system, including requirements for physical security, personnel security, access control, and technical measures."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Chapter V - State Information System Security",
+      "section": "18",
+      "title": "Cloud Computing Requirements",
+      "content": "State and local government institutions using cloud computing services shall ensure that the cloud service provider meets the security requirements established by the Cabinet of Ministers. Data classified as restricted or higher shall be processed only in data centres located within the European Union unless adequate safeguards are in place."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Chapter VI - Supervision and Enforcement",
+      "section": "19",
+      "title": "Supervisory Powers",
+      "content": "The competent authority shall have the power to conduct on-site inspections and off-site supervision, including random checks. The competent authority may issue binding instructions, request information from entities subject to this Law, issue warnings, and take supervisory measures in accordance with Articles 32 and 33 of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Chapter VI - Supervision and Enforcement",
+      "section": "20",
+      "title": "Administrative Sanctions",
+      "content": "Essential entities that fail to comply with the requirements of this Law may be subject to administrative fines of up to EUR 10,000,000 or up to 2% of the total worldwide annual turnover, whichever is higher. Important entities may be subject to fines of up to EUR 7,000,000 or up to 1.4% of the total worldwide annual turnover. Natural persons in management positions may be held personally liable for breaches resulting from their failure to exercise adequate oversight."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "Chapter VI - Supervision and Enforcement",
+      "section": "21",
+      "title": "International Cooperation",
+      "content": "The competent authority and CERT.LV shall cooperate with the competent authorities and CSIRTs of other EU Member States, ENISA, and the NIS Cooperation Group. Information sharing with international partners shall be carried out through secure communication channels in accordance with Article 15 of Directive (EU) 2022/2555."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "22",
+      "title": "Delegation of Regulatory Powers",
+      "content": "The Cabinet of Ministers shall issue regulations specifying: the criteria for identifying essential and important entities, minimum security requirements for state information systems, incident reporting procedures and templates, the procedure for security audits, and the criteria for assessing the significance of incidents. These regulations shall be issued within one year from the entry into force of the relevant amendments to this Law."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "23",
+      "title": "Confidentiality of Information",
+      "content": "Information obtained during the supervision, including incident reports and vulnerability information, shall be treated as confidential. CERT.LV and the competent authority shall ensure that information shared by entities is protected against unauthorized access and disclosure. This obligation shall continue after the termination of employment or assignment."
+    },
+    {
+      "provision_ref": "Art. 24",
+      "chapter": "Chapter VII - Final Provisions",
+      "section": "24",
+      "title": "Transitional Provisions for NIS2 Implementation",
+      "content": "Entities that are classified as essential or important entities under Directive (EU) 2022/2555 but were not previously subject to the requirements of Directive (EU) 2016/1148 shall comply with the requirements of this Law within 18 months of the entry into force of the implementing amendments. Previously designated operators of essential services shall continue to comply without interruption."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information technology security",
+      "definition": "The state in which information systems, electronic communications networks, and the data processed therein are protected against threats to their confidentiality, integrity, and availability.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "Incident",
+      "definition": "An event that has an adverse effect on the security of network and information systems.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "Essential entity",
+      "definition": "An entity identified as essential in accordance with Article 3 of Directive (EU) 2022/2555, operating in sectors such as energy, transport, banking, health, and digital infrastructure.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "Important entity",
+      "definition": "An entity identified as important in accordance with Article 3 of Directive (EU) 2022/2555.",
+      "source_provision": "Art. 3"
+    },
+    {
+      "term": "CERT.LV",
+      "definition": "The Information Technology Security Incident Response Institution of the Republic of Latvia, serving as the national CSIRT.",
+      "source_provision": "Art. 3"
+    }
+  ]
+}

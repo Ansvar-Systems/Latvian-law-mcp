@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Latvian Law MCP",
+  "jurisdiction": "LV",
+  "provisions": [
+    {
+      "id": "lv-hash-001",
+      "description": "FPDAL Art. 1 -- purpose and scope of the Personal Data Processing Law (GDPR implementation)",
+      "upstream_url": "https://likumi.lv/ta/id/300099#p1",
+      "selector_hint": "Art. 1 - Purpose of the Law",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "processing of personal data"
+    },
+    {
+      "id": "lv-hash-002",
+      "description": "FPDAL Art. 11 -- Data State Inspectorate as independent supervisory authority",
+      "upstream_url": "https://likumi.lv/ta/id/300099#p11",
+      "selector_hint": "Art. 11 - Supervisory Authority",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "Datu valsts inspekcija"
+    },
+    {
+      "id": "lv-hash-003",
+      "description": "ITDL Art. 1 -- purpose of the Information Technology Security Law (NIS2 implementation)",
+      "upstream_url": "https://likumi.lv/ta/id/220962#p1",
+      "selector_hint": "Art. 1 - Purpose of the Law",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "information technology"
+    },
+    {
+      "id": "lv-hash-004",
+      "description": "ITDL Art. 10 -- incident reporting obligations (24h/72h/1month)",
+      "upstream_url": "https://likumi.lv/ta/id/220962#p10",
+      "selector_hint": "Art. 10 - Incident Reporting Obligations",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "CERT.LV"
+    },
+    {
+      "id": "lv-hash-005",
+      "description": "Criminal Law Art. 241 -- unauthorised access to information systems",
+      "upstream_url": "https://likumi.lv/ta/id/88966#p241",
+      "selector_hint": "Art. 241 - Unauthorised Access to Information Systems",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "unauthorised access"
+    },
+    {
+      "id": "lv-hash-006",
+      "description": "Electronic Communications Law Art. 46 -- confidentiality of communications",
+      "upstream_url": "https://likumi.lv/ta/id/96611#p46",
+      "selector_hint": "Art. 46 - Confidentiality of Communications",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "confidentiality"
+    }
+  ]
+}

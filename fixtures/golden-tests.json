@@ -1,0 +1,183 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "Latvian Law MCP",
+  "description": "Golden contract tests for the Latvian Law MCP -- 12 tests covering article retrieval, search, citation, cross-reference, and negative cases",
+  "tests": [
+    {
+      "id": "lv-001",
+      "category": "article_retrieval",
+      "description": "Retrieve FPDAL Art. 1 (Fizisko personu datu apstrādes likums) -- purpose and scope of Latvia's GDPR implementation",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Fizisko personu datu apstrādes likums",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["personal data", "Regulation (EU) 2016/679", "processing", "General Data Protection Regulation"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lv-002",
+      "category": "article_retrieval",
+      "description": "Retrieve ITDL Art. 1 (Informācijas tehnoloģiju drošības likums) -- purpose of the IT Security Law / NIS2 implementation",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Informācijas tehnoloģiju drošības likums",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["information technology", "security", "cybersecurity", "NIS2", "Directive (EU) 2022/2555"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lv-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Criminal Law Art. 241 -- unauthorised access to information systems",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Krimināllikums",
+        "article": "241"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["unauthorised access", "information system", "security measures", "Directive 2013/40/EU"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lv-004",
+      "category": "article_retrieval",
+      "description": "Retrieve Commercial Secret Protection Law Art. 2 -- definition of trade secrets",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Komercnoslēpuma aizsardzības likums",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["commercial secret", "trade secret", "secret", "commercial value"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lv-005",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns FPDAL and related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["personal data", "data protection", "GDPR", "processing"]
+      }
+    },
+    {
+      "id": "lv-006",
+      "category": "search",
+      "description": "Full-text search for 'cybersecurity' returns IT Security Law and related provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybersecurity"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["cybersecurity", "CERT.LV", "information technology", "incident"]
+      }
+    },
+    {
+      "id": "lv-007",
+      "category": "search",
+      "description": "Full-text search for 'electronic signature' returns Electronic Documents and Trust Services provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic signature"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["electronic signature", "qualified", "eIDAS", "Regulation (EU) 910/2014"]
+      }
+    },
+    {
+      "id": "lv-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for FPDAL Art. 11 includes likumi.lv URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Fizisko personu datu apstrādes likums",
+        "article": "11"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "likumi\\.lv",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lv-009",
+      "category": "citation_roundtrip",
+      "description": "Citation for IT Security Law Art. 10 includes likumi.lv URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Informācijas tehnoloģiju drošības likums",
+        "article": "10"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "likumi\\.lv",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "lv-010",
+      "category": "eu_cross_reference",
+      "description": "FPDAL cross-reference to EU GDPR -- Latvian FPDAL implements Regulation (EU) 2016/679",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Fizisko personu datu apstrādes likums"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679"]
+      }
+    },
+    {
+      "id": "lv-011",
+      "category": "negative_test",
+      "description": "Non-existent Latvian law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Likums par fiktīvajām lietām (2099. gada 31. decembris)",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "lv-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Fizisko personu datu apstrādes likums",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+schema_version: "1.0"
+mcp_name: "Latvian Law MCP"
+jurisdiction: "LV"
+
+sources:
+  - name: "Likumi.lv"
+    authority: "Latvijas Vēstnesis (Official Gazette of Latvia)"
+    official_portal: "https://likumi.lv"
+    retrieval_method: "HTML_SCRAPE"
+    update_frequency: "weekly"
+    last_ingested: "2026-02-21"
+    license_or_terms:
+      type: "Latvian Government Open Data (public domain under Latvian Copyright Law Art. 6)"
+      url: "https://likumi.lv"
+      summary: "Official legislative texts are public domain"
+    coverage:
+      scope: "Key Latvian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
+      limitations: "AI-generated seed data; full official ingestion pending"
+    languages:
+      - "lv"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "2026-02-21"

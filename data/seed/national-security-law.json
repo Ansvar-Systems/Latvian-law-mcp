@@ -1,0 +1,176 @@
+{
+  "id": "lv-national-security-law",
+  "type": "statute",
+  "title": "Nacionālās drošības likums",
+  "title_en": "National Security Law",
+  "short_name": "NDL",
+  "status": "in_force",
+  "issued_date": "2000-12-14",
+  "in_force_date": "2001-01-12",
+  "url": "https://likumi.lv/ta/id/14011",
+  "description": "Latvian National Security Law establishing the national security system, including cyber defence provisions, critical infrastructure protection, information security classifications, and the roles of national security institutions in cyberspace.",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "The purpose of this Law is to determine the national security system of Latvia, to define the basic principles of national security, the institutional framework, and the measures for the protection of national security, including security in cyberspace. National security encompasses the protection of the sovereignty, territorial integrity, constitutional order, and the fundamental rights and freedoms of the inhabitants of Latvia."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Threats to National Security",
+      "content": "Threats to national security include, among others: military threats, terrorism, foreign intelligence activities, cyber-attacks against state information systems and critical infrastructure, hybrid threats, disinformation campaigns, threats to the continuity of essential services, and organised crime that endangers the state or public safety. Cyber threats shall be assessed as part of the annual threat assessment prepared by the national security institutions."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "3",
+      "title": "National Security Council",
+      "content": "The National Security Council shall advise the President of Latvia, the Saeima, and the Cabinet of Ministers on national security matters. The Council shall be chaired by the President and shall include the Prime Minister, the Minister of Defence, the Minister of the Interior, the Minister of Foreign Affairs, and the heads of the security services. The Council shall consider cybersecurity strategy and significant cyber incidents."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Chapter II - National Security Institutions",
+      "section": "4",
+      "title": "Constitution Protection Bureau",
+      "content": "The Constitution Protection Bureau (Satversmes aizsardzības birojs, SAB) is the national security and counterintelligence service. The Bureau shall identify, prevent, and counter threats to national security, including cyber espionage, foreign intelligence operations in cyberspace, and attempts to undermine the constitutional order of Latvia through cyber means."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Chapter II - National Security Institutions",
+      "section": "5",
+      "title": "Military Intelligence and Security Service",
+      "content": "The Military Intelligence and Security Service (Militārās izlūkošanas un drošības dienests, MIDD) shall be responsible for military intelligence and counterintelligence, including the protection of military information systems and communications against cyber threats. The Service shall cooperate with NATO and EU cyber defence structures."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Chapter II - National Security Institutions",
+      "section": "6",
+      "title": "CERT.LV as National Cyber Defence Entity",
+      "content": "CERT.LV shall serve as the primary entity for cyber defence at the national level, responsible for monitoring, detecting, and responding to cyber threats targeting state information systems and critical infrastructure. CERT.LV shall cooperate with the Constitution Protection Bureau, the National Armed Forces, and international partners in cyber defence operations."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Chapter III - Information Security",
+      "section": "7",
+      "title": "Classification of Information",
+      "content": "Information related to national security shall be classified in accordance with the following categories: 1) SEVIŠĶI SLEPENI (Top Secret) — disclosure would cause exceptionally grave damage to national security; 2) SLEPENI (Secret) — disclosure would cause serious damage to national security; 3) KONFIDENCIĀLI (Confidential) — disclosure would cause damage to national security; 4) DIENESTA VAJADZĪBĀM (Restricted) — disclosure would be disadvantageous to the interests of state institutions."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter III - Information Security",
+      "section": "8",
+      "title": "Personnel Security Clearances",
+      "content": "Persons who have access to classified information shall hold appropriate security clearances issued by the Constitution Protection Bureau. Security clearances shall be granted after a thorough background check, including verification of loyalty, reliability, and vulnerability to foreign influence. Clearances shall be reviewed periodically and may be revoked at any time if circumstances warrant."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Chapter III - Information Security",
+      "section": "9",
+      "title": "Physical and Technical Security of Classified Information",
+      "content": "State institutions handling classified information shall implement physical and technical security measures to protect such information against unauthorised access, disclosure, alteration, or destruction. Information systems processing classified information shall be accredited by the competent authority and shall comply with NATO and EU security standards for information systems handling classified information."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Chapter III - Information Security",
+      "section": "10",
+      "title": "Cryptographic Protection",
+      "content": "Classified information transmitted electronically shall be protected by cryptographic means approved by the competent authority. The Constitution Protection Bureau shall establish requirements for cryptographic equipment and procedures for the protection of classified information. Cryptographic keys shall be managed in accordance with national and NATO cryptographic key management procedures."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "11",
+      "title": "Designation of Critical Infrastructure",
+      "content": "The Cabinet of Ministers shall designate critical infrastructure objects and systems whose destruction, damage, or disruption would significantly affect national security, public safety, public health, or the economy. Critical information infrastructure includes state information systems, electronic communications networks, and other information systems essential for the functioning of critical infrastructure sectors."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "12",
+      "title": "Obligations of Critical Infrastructure Operators",
+      "content": "Operators of critical infrastructure shall develop and implement security plans that include measures for physical security, personnel security, information security, and business continuity. Operators shall conduct regular risk assessments, implement cybersecurity measures, report security incidents to CERT.LV and the competent authority, and participate in national exercises."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "13",
+      "title": "Cyber Crisis Management",
+      "content": "In the event of a large-scale cyber incident or cyber crisis affecting national security, the National Security Council may convene an emergency session and activate the national crisis management plan. CERT.LV, the Constitution Protection Bureau, and the National Armed Forces shall coordinate the response. The Cabinet of Ministers may declare a state of emergency if a cyber incident causes or threatens to cause severe disruption to essential services."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Chapter IV - Critical Infrastructure Protection",
+      "section": "14",
+      "title": "Foreign Investment Screening",
+      "content": "Foreign investments in critical infrastructure, including critical information infrastructure, shall be subject to security screening by the competent authority. The Cabinet of Ministers may prohibit or impose conditions on foreign investments that pose a risk to national security, in accordance with Regulation (EU) 2019/452 establishing a framework for the screening of foreign direct investments into the Union."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Chapter V - Cyber Defence",
+      "section": "15",
+      "title": "National Cyber Defence Strategy",
+      "content": "The Cabinet of Ministers shall adopt and periodically update a national cyber defence strategy that defines the objectives, resources, and measures for the protection of Latvia's cyberspace. The strategy shall address threat assessment, capability development, international cooperation, cyber resilience, workforce development, and public-private partnerships in cybersecurity."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "Chapter V - Cyber Defence",
+      "section": "16",
+      "title": "Cyber Defence Capabilities",
+      "content": "The National Armed Forces shall develop and maintain cyber defence capabilities for the protection of military information systems and for supporting national cyber defence operations. Cyber defence capabilities shall include defensive cyber operations, cyber intelligence, digital forensics, and the ability to support allied cyber defence operations within the framework of NATO."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "Chapter V - Cyber Defence",
+      "section": "17",
+      "title": "International Cyber Cooperation",
+      "content": "Latvia shall participate in international cyber defence cooperation within NATO, the European Union, and other international organisations. Latvia shall contribute to NATO cooperative cyber defence and participate in the activities of the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE) located in Tallinn. Bilateral and multilateral cyber defence agreements may be concluded with allied and partner nations."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "Chapter V - Cyber Defence",
+      "section": "18",
+      "title": "Cyber Exercises",
+      "content": "National cyber defence exercises shall be conducted at least annually to test the readiness and resilience of state institutions, critical infrastructure operators, and the national cyber defence system. Latvia shall participate in NATO and EU cyber exercises, including Locked Shields, Cyber Coalition, and EU CyCLONe exercises."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "Chapter VI - Oversight and Accountability",
+      "section": "19",
+      "title": "Parliamentary Oversight",
+      "content": "The Saeima National Security Committee shall exercise parliamentary oversight over national security activities, including cybersecurity and cyber defence. The Committee shall receive regular briefings from the heads of security services and CERT.LV on the state of cybersecurity in Latvia. The Committee may request information and conduct hearings on matters relating to national security."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "Chapter VI - Oversight and Accountability",
+      "section": "20",
+      "title": "Accountability and Reporting",
+      "content": "The Minister of Defence shall submit an annual report to the Saeima on the state of national cybersecurity, including significant incidents, threat trends, and the effectiveness of cybersecurity measures. The report shall be made public to the extent that it does not contain classified information. The Ombudsman may investigate complaints related to the exercise of national security powers."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "National security",
+      "definition": "The protection of the sovereignty, territorial integrity, constitutional order, and fundamental rights and freedoms of the inhabitants of Latvia against external and internal threats.",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "Critical infrastructure",
+      "definition": "Objects and systems whose destruction, damage, or disruption would significantly affect national security, public safety, public health, or the economy of Latvia.",
+      "source_provision": "Art. 11"
+    },
+    {
+      "term": "Classified information",
+      "definition": "Information related to national security that has been assigned a classification level (Top Secret, Secret, Confidential, or Restricted) to protect it from unauthorised disclosure.",
+      "source_provision": "Art. 7"
+    },
+    {
+      "term": "Constitution Protection Bureau (SAB)",
+      "definition": "The national security and counterintelligence service of Latvia responsible for identifying, preventing, and countering threats to national security.",
+      "source_provision": "Art. 4"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "id": "lv-information-society-services-law",
+  "type": "statute",
+  "title": "Informācijas sabiedrības pakalpojumu likums",
+  "title_en": "Information Society Services Law",
+  "short_name": "ISPL",
+  "status": "in_force",
+  "issued_date": "2004-11-04",
+  "in_force_date": "2004-12-01",
+  "url": "https://likumi.lv/ta/id/96619",
+  "description": "Latvian law implementing Directive 2000/31/EC (e-Commerce Directive). Regulates information society services, electronic contracts, intermediary liability, and the country of origin principle.",
+  "provisions": [
+    {
+      "provision_ref": "Art. 1",
+      "chapter": "Chapter I - General Provisions",
+      "section": "1",
+      "title": "Purpose of the Law",
+      "content": "The purpose of this Law is to promote the free movement of information society services among European Union Member States and to establish the regulatory framework for information society services, implementing Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (e-Commerce Directive)."
+    },
+    {
+      "provision_ref": "Art. 2",
+      "chapter": "Chapter I - General Provisions",
+      "section": "2",
+      "title": "Definitions",
+      "content": "For the purposes of this Law: 1) Information society service means any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of services; 2) Service provider means any natural or legal person providing an information society service; 3) Recipient of the service means any natural or legal person who, for professional ends or otherwise, uses an information society service; 4) Commercial communication means any form of communication designed to promote the goods, services, or image of a natural or legal person."
+    },
+    {
+      "provision_ref": "Art. 3",
+      "chapter": "Chapter I - General Provisions",
+      "section": "3",
+      "title": "Country of Origin Principle",
+      "content": "An information society service provider established in Latvia shall comply with the requirements of Latvian law. An information society service provider established in another EU Member State shall comply with the requirements of the law of that Member State with regard to the coordinated field. Latvia shall not restrict the freedom to provide information society services from another Member State, except in the cases specified in this Law."
+    },
+    {
+      "provision_ref": "Art. 4",
+      "chapter": "Chapter II - Information Requirements",
+      "section": "4",
+      "title": "General Information Requirements",
+      "content": "A service provider shall ensure that the following information is easily, directly, and permanently accessible to recipients of the service and competent authorities: the name and legal form, registered office, contact details including electronic mail address, registration number, supervisory authority details where applicable, and VAT identification number where the service provider is registered for VAT."
+    },
+    {
+      "provision_ref": "Art. 5",
+      "chapter": "Chapter II - Information Requirements",
+      "section": "5",
+      "title": "Commercial Communications",
+      "content": "Commercial communications that form part of, or constitute, an information society service shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers and competitions shall be clearly identifiable, and the conditions for qualifying for them shall be easily accessible and clearly stated."
+    },
+    {
+      "provision_ref": "Art. 6",
+      "chapter": "Chapter III - Electronic Contracts",
+      "section": "6",
+      "title": "Validity of Electronic Contracts",
+      "content": "Contracts concluded by electronic means shall not be denied legal effectiveness and validity solely on the ground that they are concluded electronically. Member States may provide exceptions for certain contracts as specified in Directive 2000/31/EC, including contracts that create or transfer rights in real estate, contracts governed by family law, and contracts of suretyship."
+    },
+    {
+      "provision_ref": "Art. 7",
+      "chapter": "Chapter III - Electronic Contracts",
+      "section": "7",
+      "title": "Information Prior to Contract Conclusion",
+      "content": "Before the recipient of the service places an order, the service provider shall clearly, comprehensibly, and unambiguously provide information about: the technical steps to follow to conclude the contract, whether the contract will be filed and accessible, the technical means for identifying and correcting input errors, and the languages offered for the conclusion of the contract."
+    },
+    {
+      "provision_ref": "Art. 8",
+      "chapter": "Chapter III - Electronic Contracts",
+      "section": "8",
+      "title": "Order Placement and Acknowledgement",
+      "content": "The service provider shall acknowledge receipt of the recipient's order without undue delay and by electronic means. The order and the acknowledgement of receipt are deemed to be received when the parties to whom they are addressed are able to access them. The service provider shall make available to the recipient effective and accessible technical means allowing the identification and correction of input errors."
+    },
+    {
+      "provision_ref": "Art. 9",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "9",
+      "title": "Mere Conduit",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, the service provider shall not be liable for the information transmitted, provided that the provider does not initiate the transmission, does not select the receiver of the transmission, and does not select or modify the information contained in the transmission."
+    },
+    {
+      "provision_ref": "Art. 10",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "10",
+      "title": "Caching",
+      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate, and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission, provided that the provider complies with conditions on access and updating, does not interfere with lawful use of technology, and acts expeditiously to remove information upon obtaining knowledge of its removal at the initial source."
+    },
+    {
+      "provision_ref": "Art. 11",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "11",
+      "title": "Hosting",
+      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, provided that the provider does not have actual knowledge of illegal activity or information, and upon obtaining such knowledge, acts expeditiously to remove or disable access to the information."
+    },
+    {
+      "provision_ref": "Art. 12",
+      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "section": "12",
+      "title": "No General Obligation to Monitor",
+      "content": "Service providers are not subject to a general obligation to monitor the information which they transmit or store, nor to a general obligation actively to seek facts or circumstances indicating illegal activity. This does not affect any obligation to promptly inform the competent authorities of alleged illegal activities or information provided by recipients of their service, or obligations to provide information to competent authorities upon request."
+    },
+    {
+      "provision_ref": "Art. 13",
+      "chapter": "Chapter V - Supervision and Enforcement",
+      "section": "13",
+      "title": "Notice and Take-Down",
+      "content": "Where a person considers that information made available by an information society service provider infringes their rights, that person may submit a notice to the service provider requesting the removal of or the disabling of access to the information. The service provider shall examine the notice and take appropriate action. The procedure for notice and take-down shall be established by the Cabinet of Ministers."
+    },
+    {
+      "provision_ref": "Art. 14",
+      "chapter": "Chapter V - Supervision and Enforcement",
+      "section": "14",
+      "title": "Supervisory Authority",
+      "content": "The Consumer Rights Protection Centre shall supervise compliance with this Law in relation to consumer protection aspects of information society services. The Data State Inspectorate shall supervise compliance with personal data protection requirements applicable to information society services."
+    },
+    {
+      "provision_ref": "Art. 15",
+      "chapter": "Chapter V - Supervision and Enforcement",
+      "section": "15",
+      "title": "Administrative Liability",
+      "content": "Violations of the requirements of this Law may result in administrative sanctions, including warnings and fines. The maximum fine for a natural person is EUR 700, and for a legal person is EUR 14,000. Repeated violations may result in higher penalties as determined by the competent supervisory authority."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Information society service",
+      "definition": "Any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of services.",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "Service provider",
+      "definition": "Any natural or legal person providing an information society service.",
+      "source_provision": "Art. 2"
+    },
+    {
+      "term": "Commercial communication",
+      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services, or image of a natural or legal person carrying on a commercial, industrial, or craft activity or exercising a regulated profession.",
+      "source_provision": "Art. 2"
+    }
+  ]
+}
