@@ -15,7 +15,7 @@ sources:
       summary: "Official legislative texts are public domain"
     coverage:
       scope: "Key Latvian legislation covering data protection, cybersecurity, e-commerce, criminal law cyber provisions, and related statutes"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      limitations: "Coverage is limited to curated high-impact acts; does not include all Latvian legislation."
     languages:
       - "lv"
 

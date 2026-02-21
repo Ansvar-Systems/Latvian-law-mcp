@@ -1,164 +1,48 @@
 {
   "id": "lv-criminal-law-cybercrime",
   "type": "statute",
-  "title": "Krimināllikums, XVII nodaļa — Noziedzīgi nodarījumi pret informācijas sistēmu drošību",
-  "title_en": "Criminal Law, Chapter XVII — Criminal Offences against Information System Security",
+  "title": "Krimināllikums",
+  "title_en": "Criminal Law",
   "short_name": "KL-XVII",
   "status": "in_force",
-  "issued_date": "1998-06-17",
-  "in_force_date": "1999-04-01",
-  "url": "https://likumi.lv/ta/id/88966",
-  "description": "Chapter XVII of the Latvian Criminal Law covering offences against the security of information systems, including unauthorised access, data interference, system interference, illegal interception, and misuse of devices. Implements provisions of Directive 2013/40/EU on attacks against information systems.",
+  "url": "https://likumi.lv/ta/id/88966-kriminallikums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
   "provisions": [
     {
       "provision_ref": "Art. 241",
-      "chapter": "Chapter XVII - Offences against Information System Security",
+      "chapter": "XX nodaļa Noziedzīgi nodarījumi pret vispārējo drošību un sabiedrisko kārtību",
       "section": "241",
-      "title": "Unauthorised Access to Information Systems",
-      "content": "Intentionally gaining unauthorised access to an information system by breaching security measures shall be punishable by temporary deprivation of liberty or by community service, or by a fine. If the same act has been committed against a state information system, a critical infrastructure information system, or an information system of an institution of the European Union, the punishment shall be deprivation of liberty for a term not exceeding three years or temporary deprivation of liberty, or community service, or a fine. This provision implements Article 3 of Directive 2013/40/EU on attacks against information systems."
-    },
-    {
-      "provision_ref": "Art. 242",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "242",
-      "title": "Illegal System Interference",
-      "content": "Intentionally seriously hindering or interrupting the functioning of an information system by inputting, transmitting, damaging, deleting, deteriorating, altering, or suppressing computer data shall be punishable by deprivation of liberty for a term not exceeding three years or by temporary deprivation of liberty, or community service, or a fine. If substantial harm has been caused or if the offence was committed against a critical infrastructure system, the punishment shall be deprivation of liberty for a term not exceeding five years. This implements Article 4 of Directive 2013/40/EU."
+      "title": "Patvaļīga piekļūšana automatizētai datu apstrādes sistēmai",
+      "content": "(1) Par patvaļīgu piekļūšanu automatizētas datu apstrādes sistēmas resursiem, ja tas saistīts ar sistēmas aizsardzības līdzekļu pārvarēšanu vai ja tas izdarīts bez attiecīgas atļaujas vai izmantojot citai personai piešķirtas tiesības un ja ar to radīts būtisks kaitējums, —\nsoda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.\n(2) Par šā panta pirmajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts mantkārīgā nolūkā, —\nsoda ar brīvības atņemšanu uz laiku līdz četriem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.\n(3) Par šā panta pirmajā daļā paredzētajām darbībām, ja tās izdarījusi organizēta grupa vai ja tās izraisījušas smagas sekas, vai ja tās vērstas pret automatizētu datu apstrādes sistēmu, kas apstrādā informāciju, kura saistīta ar valsts politisko, ekonomisko, militāro, sociālo vai citu drošību, —\nsoda ar brīvības atņemšanu uz laiku līdz septiņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās."
     },
     {
       "provision_ref": "Art. 243",
-      "chapter": "Chapter XVII - Offences against Information System Security",
+      "chapter": "XX nodaļa Noziedzīgi nodarījumi pret vispārējo drošību un sabiedrisko kārtību",
       "section": "243",
-      "title": "Illegal Data Interference",
-      "content": "Intentionally deleting, damaging, deteriorating, altering, suppressing, or rendering inaccessible computer data in an information system without authorisation shall be punishable by temporary deprivation of liberty or by community service, or by a fine. If the act has caused substantial harm or if the data was of particular importance, the punishment shall be deprivation of liberty for a term not exceeding three years. This implements Article 5 of Directive 2013/40/EU."
+      "title": "Automatizētas datu apstrādes sistēmas darbības traucēšana un nelikumīga rīcība ar šajā sistēmā iekļauto informāciju",
+      "content": "(1) Par automatizētā datu apstrādes sistēmā esošās informācijas neatļautu grozīšanu, bojāšanu, iznīcināšanu, pasliktināšanu vai aizklāšanu vai apzināti nepatiesas informācijas ievadīšanu automatizētā datu apstrādes sistēmā, ja ar to radīts būtisks kaitējums, —\nsoda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.\n(2) Par automatizētas datu apstrādes sistēmas darbības apzinātu traucēšanu, ievadot, pārnesot, bojājot, izdzēšot, pasliktinot, izmainot vai aizklājot informāciju, ja ar to tiek bojāta vai iznīcināta aizsardzības sistēma un radīts būtisks kaitējums, —\nsoda ar brīvības atņemšanu uz laiku līdz trim gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.\n(3) Par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja tas izdarīts mantkārīgā nolūkā, —\nsoda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu, konfiscējot mantu vai bez mantas konfiskācijas.\n(4) (Izslēgta ar 13.12.2012 . likumu)\n(5) Par šā panta pirmajā vai otrajā daļā paredzētajām darbībām, ja tās izraisījušas smagas sekas vai ja tās vērstas pret automatizētu datu apstrādes sistēmu, kas apstrādā informāciju, kura saistīta ar valsts politisko, ekonomisko, militāro, sociālo vai citu drošību, vai par šā panta pirmajā vai otrajā daļā paredzēto noziedzīgo nodarījumu, ja to izdarījusi organizēta grupa, —\nsoda ar brīvības atņemšanu uz laiku līdz septiņiem gadiem, konfiscējot mantu vai bez mantas konfiskācijas, un ar probācijas uzraudzību uz laiku līdz trim gadiem vai bez tās."
     },
     {
       "provision_ref": "Art. 244",
-      "chapter": "Chapter XVII - Offences against Information System Security",
+      "chapter": "XX nodaļa Noziedzīgi nodarījumi pret vispārējo drošību un sabiedrisko kārtību",
       "section": "244",
-      "title": "Illegal Interception",
-      "content": "Intentionally intercepting, by technical means, non-public transmissions of computer data to, from, or within an information system, including electromagnetic emissions from an information system carrying such computer data, without authorisation shall be punishable by deprivation of liberty for a term not exceeding two years or by temporary deprivation of liberty, or community service, or a fine. This implements Article 6 of Directive 2013/40/EU."
+      "title": "Nelikumīgas darbības ar automatizētas datu apstrādes sistēmas resursu ietekmēšanas ierīcēm",
+      "content": "(1) Par tāda rīka (ierīces, datorprogrammas, datorparoles, pieejas koda vai līdzīgu datu) neatļautu izgatavošanu, pielāgošanu izmantošanai, realizēšanu, izplatīšanu, iegūšanu, pārvietošanu vai glabāšanu, kurš paredzēts automatizētas datu apstrādes sistēmas resursu ietekmēšanai vai ar kura palīdzību var piekļūt automatizētas datu apstrādes sistēmai vai tās daļai nolūkā izdarīt noziedzīgu nodarījumu, —\nsoda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu.\n(2) Par tādām pašām darbībām, ja tās izdarījusi organizēta grupa vai ja tās izraisījušas smagas sekas, —\nsoda ar brīvības atņemšanu uz laiku līdz pieciem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu."
     },
     {
       "provision_ref": "Art. 244.1",
-      "chapter": "Chapter XVII - Offences against Information System Security",
+      "chapter": "XX nodaļa Noziedzīgi nodarījumi pret vispārējo drošību un sabiedrisko kārtību",
       "section": "244.1",
-      "title": "Misuse of Devices",
-      "content": "The production, sale, procurement for use, import, distribution, or otherwise making available of: a) a device, including a computer program, designed or adapted primarily for the purpose of committing any of the offences referred to in Articles 241 to 244; b) a password, access code, or similar data by which the whole or any part of an information system is capable of being accessed, with the intent that it be used for the purpose of committing any of the offences referred to in Articles 241 to 244, shall be punishable by deprivation of liberty for a term not exceeding two years or by temporary deprivation of liberty, or community service, or a fine. This implements Article 7 of Directive 2013/40/EU."
+      "title": "244. 1 pants. Datu, programmatūras un iekārtu iegūšana, izgatavošana, izmainīšana, glabāšana un izplatīšana nelikumīgām darbībām ar elektronisko sakaru tīklu galiekārtām",
+      "content": "Par elektronisko sakaru tīklu galiekārtu identificēšanai elektronisko sakaru tīklā nepieciešamo datu izmainīšanu vai par šādam nolūkam paredzētu datu iegūšanu, glabāšanu vai izplatīšanu, kā arī par šādam nolūkam paredzētas programmatūras vai iekārtas iegūšanu, izgatavošanu, glabāšanu vai izplatīšanu bez ražotāja vai tā pilnvarotas personas piekrišanas, ja šādas darbības izdarītas mantkārīgā nolūkā vai ja tās izdarījusi personu grupa pēc iepriekšējas vienošanās, vai ja ar to radīts būtisks kaitējums, —\nsoda ar brīvības atņemšanu uz laiku līdz diviem gadiem vai ar īslaicīgu brīvības atņemšanu, vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu."
     },
     {
       "provision_ref": "Art. 245",
-      "chapter": "Chapter XVII - Offences against Information System Security",
+      "chapter": "XX nodaļa Noziedzīgi nodarījumi pret vispārējo drošību un sabiedrisko kārtību",
       "section": "245",
-      "title": "Computer-Related Fraud",
-      "content": "Causing a loss of property to another person by any input, alteration, deletion, or suppression of computer data, or by any interference with the functioning of an information system, with fraudulent or dishonest intent of procuring an economic benefit for oneself or for another person, shall be punishable by deprivation of liberty for a term not exceeding five years or by temporary deprivation of liberty, or community service, or a fine. If the offence has been committed on a large scale, the punishment shall be deprivation of liberty for a term not exceeding eight years."
-    },
-    {
-      "provision_ref": "Art. 246",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "246",
-      "title": "Computer-Related Forgery",
-      "content": "Intentionally producing or altering computer data in an information system so that it may be considered or acted upon as authentic data, or the use of such data as authentic, regardless of whether the data is directly readable and intelligible, shall be punishable by deprivation of liberty for a term not exceeding three years or by temporary deprivation of liberty, or community service, or a fine."
-    },
-    {
-      "provision_ref": "Art. 247",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "247",
-      "title": "Illegal Acquisition of Personal Data from Information Systems",
-      "content": "Intentionally and unlawfully acquiring personal data from an information system, where such data is not publicly available and the acquisition has been carried out without the consent of the data subject or without another lawful basis, shall be punishable by temporary deprivation of liberty or by community service, or by a fine. If the offence involves special categories of personal data or has been committed on a large scale, the punishment shall be deprivation of liberty for a term not exceeding three years."
-    },
-    {
-      "provision_ref": "Art. 248",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "248",
-      "title": "Distribution of Unlawfully Acquired Data",
-      "content": "Intentionally distributing, publishing, or otherwise making publicly available data obtained through the commission of the offences specified in Articles 241 to 247 of this Law shall be punishable by deprivation of liberty for a term not exceeding three years or by temporary deprivation of liberty, or community service, or a fine. If the distributed data includes personal data of a special category or state secrets, the punishment shall be deprivation of liberty for a term not exceeding five years."
-    },
-    {
-      "provision_ref": "Art. 249",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "249",
-      "title": "Aggravating Circumstances",
-      "content": "If the offences referred to in Articles 241 to 248 have been committed: 1) by a group of persons according to a prior agreement; 2) by an organised group; 3) using the position of a public official or employee with access to the information system; 4) causing significant damage to national security or public safety; the punishment shall be increased to deprivation of liberty for a term not exceeding ten years, with or without confiscation of property."
-    },
-    {
-      "provision_ref": "Art. 250",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "250",
-      "title": "Cyber-Attacks against Critical Infrastructure",
-      "content": "Carrying out a cyber-attack against critical infrastructure of national significance, including energy, transport, healthcare, financial, or telecommunications infrastructure, that causes or is likely to cause significant disruption to the provision of essential services or endangers public safety, shall be punishable by deprivation of liberty for a term of three to twelve years with confiscation of property."
-    },
-    {
-      "provision_ref": "Art. 251",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "251",
-      "title": "Failure to Report Security Incidents",
-      "content": "A responsible official of a critical infrastructure entity who intentionally fails to report a significant security incident to CERT.LV or the competent authority as required by law, where such failure has contributed to the escalation of the incident or has prevented its timely containment, shall be punishable by temporary deprivation of liberty or by community service, or by a fine."
-    },
-    {
-      "provision_ref": "Art. 252",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "252",
-      "title": "Illegal Possession of Child Sexual Abuse Material in Information Systems",
-      "content": "The production, distribution, or possession of child sexual abuse material in an information system shall be punishable by deprivation of liberty for a term of one to five years. If the offence was committed using information systems to distribute such material to an unidentified circle of persons, the punishment shall be deprivation of liberty for a term of three to ten years."
-    },
-    {
-      "provision_ref": "Art. 253",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "253",
-      "title": "Identity Theft Using Information Systems",
-      "content": "Unlawfully using the electronic identity or identification data of another person in an information system, with the intent to obtain an economic benefit, cause financial loss, or damage the reputation of the person whose identity has been used, shall be punishable by deprivation of liberty for a term not exceeding three years or by temporary deprivation of liberty, or community service, or a fine."
-    },
-    {
-      "provision_ref": "Art. 254",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "254",
-      "title": "Denial of Service Attacks",
-      "content": "Intentionally launching or directing a denial of service attack against an information system, causing the system to become unavailable to its intended users, shall be punishable by deprivation of liberty for a term not exceeding three years or by temporary deprivation of liberty, or community service, or a fine. If the attack is directed against a critical infrastructure system or state information system, the punishment shall be deprivation of liberty for a term not exceeding five years."
-    },
-    {
-      "provision_ref": "Art. 255",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "255",
-      "title": "Ransomware and Extortion",
-      "content": "Encrypting, locking, or otherwise rendering inaccessible the data or information system of another person and demanding a ransom or other benefit for restoring access shall be punishable by deprivation of liberty for a term of two to eight years with or without confiscation of property. If the offence has been committed against a critical infrastructure entity or has caused significant financial damage, the punishment shall be deprivation of liberty for a term of five to twelve years with confiscation of property."
-    },
-    {
-      "provision_ref": "Art. 256",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "256",
-      "title": "Attempt and Preparation",
-      "content": "An attempt to commit the criminal offences specified in this Chapter is punishable. Preparation for the commission of the criminal offences specified in Articles 241, 242, 250, and 255 is also punishable. The punishment for an attempt shall not exceed three quarters of the maximum punishment prescribed for the completed offence."
-    },
-    {
-      "provision_ref": "Art. 257",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "257",
-      "title": "Jurisdiction",
-      "content": "Latvia shall have jurisdiction over the criminal offences specified in this Chapter if the offence was committed: 1) in the territory of Latvia; 2) on a ship or aircraft registered in Latvia; 3) by a Latvian national or a person permanently residing in Latvia, regardless of where the offence was committed; 4) against an information system located in the territory of Latvia, regardless of the location of the offender. Jurisdiction shall be exercised in accordance with the Criminal Procedure Law."
-    },
-    {
-      "provision_ref": "Art. 258",
-      "chapter": "Chapter XVII - Offences against Information System Security",
-      "section": "258",
-      "title": "International Cooperation in Cybercrime Investigations",
-      "content": "Investigation of the criminal offences specified in this Chapter shall be conducted in cooperation with competent authorities of other states, Europol, Eurojust, and the 24/7 contact point established in accordance with the Budapest Convention on Cybercrime. Mutual legal assistance requests related to cybercrime shall be processed through expedited procedures."
+      "title": "Informācijas sistēmas drošības noteikumu pārkāpšana",
+      "content": "Par saskaņā ar informācijas režīmu vai tās aizsardzību izstrādātu informācijas glabāšanas un apstrādes noteikumu vai citu informācijas datorsistēmas drošības noteikumu pārkāpšanu, ko izdarījusi persona, kura ir atbildīga par šo noteikumu ievērošanu, ja tas bijis par iemeslu informācijas nolaupīšanai, iznīcināšanai vai bojāšanai vai ja ar to radīts cits būtisks kaitējums, —\nsoda ar īslaicīgu brīvības atņemšanu vai ar probācijas uzraudzību, vai ar sabiedrisko darbu, vai ar naudas sodu."
     }
   ],
-  "definitions": [
-    {
-      "term": "Information system",
-      "definition": "A device or group of interconnected or related devices, one or more of which, pursuant to a programme, automatically processes computer data, as well as computer data stored, processed, retrieved, or transmitted by the device or group of devices for the purposes of its or their operation, use, protection, or maintenance.",
-      "source_provision": "Art. 241"
-    },
-    {
-      "term": "Computer data",
-      "definition": "Any representation of facts, information, or concepts in a form suitable for processing in an information system, including a programme suitable to cause an information system to perform a function.",
-      "source_provision": "Art. 241"
-    },
-    {
-      "term": "Critical infrastructure",
-      "definition": "Infrastructure of national significance in sectors including energy, transport, healthcare, financial, telecommunications, and digital infrastructure whose disruption would have a significant impact on public safety or essential services.",
-      "source_provision": "Art. 250"
-    }
-  ]
+  "definitions": []
 }

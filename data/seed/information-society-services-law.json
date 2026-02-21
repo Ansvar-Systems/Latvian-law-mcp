@@ -2,135 +2,248 @@
   "id": "lv-information-society-services-law",
   "type": "statute",
   "title": "Informācijas sabiedrības pakalpojumu likums",
-  "title_en": "Information Society Services Law",
+  "title_en": "Law on Information Society Services",
   "short_name": "ISPL",
   "status": "in_force",
-  "issued_date": "2004-11-04",
-  "in_force_date": "2004-12-01",
-  "url": "https://likumi.lv/ta/id/96619",
-  "description": "Latvian law implementing Directive 2000/31/EC (e-Commerce Directive). Regulates information society services, electronic contracts, intermediary liability, and the country of origin principle.",
+  "url": "https://likumi.lv/ta/id/96619-informacijas-sabiedribas-pakalpojumu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
   "provisions": [
     {
       "provision_ref": "Art. 1",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
       "section": "1",
-      "title": "Purpose of the Law",
-      "content": "The purpose of this Law is to promote the free movement of information society services among European Union Member States and to establish the regulatory framework for information society services, implementing Directive 2000/31/EC of the European Parliament and of the Council on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (e-Commerce Directive)."
+      "title": "Likumā lietotie termini",
+      "content": "(1) Likumā ir lietoti šādi termini:\n1) elektroniskais pasts — pakalpojumu veids, kas elektronisko sakaru tīklam pievienoto datoru lietotājiem nodrošina iespēju nosūtīt un saņemt paziņojumu;\n2) informācijas sabiedrības pakalpojums — distances pakalpojums (puses vienlaicīgi nesatiekas), kuru parasti sniedz par maksu, izmantojot elektroniskus līdzekļus (elektroniskas datu apstrādes un uzglabāšanas, tajā skaitā ciparu saspiešanas, iekārtas), un pēc pakalpojuma saņēmēja individuāla pieprasījuma. Informācijas sabiedrības pakalpojumi ietver preču un pakalpojumu elektronisku tirdzniecību, komerciālo paziņojumu sūtīšanu, iespēju piedāvāšanu informācijas meklēšanai, piekļuvei pie tās un informācijas ieguvei, pakalpojumus, kas nodrošina informācijas pārraidi elektronisko sakaru tīklā vai piekļuvi elektronisko sakaru tīklam, informācijas glabāšanu, kā arī tiešsaistes starpniecības platformu pakalpojumus;\n3) komerciāls paziņojums — jebkāds paziņojums elektroniskā veidā, kas paredzēts tiešai vai netiešai preču vai pakalpojumu reklamēšanai vai arī tāda komersanta, organizācijas vai personas tēla reklamēšanai, kas veic komercdarbību, saimniecisku darbību vai reglamentēto profesionālo darbību. Par komerciālo paziņojumu neuzskata informāciju, kas dod iespēju tieši piekļūt vispārējai informācijai par pakalpojuma sniedzēju un tā darbību (domēna vārds vai elektroniskā pasta adrese);\n4) koordinētā sfēra — joma, kur ir spēkā normatīvajos aktos noteikta informācijas sabiedrības pakalpojumu sniegšanas kārtība (prasības attiecībā uz komercdarbības uzsākšanu un veikšanu), kā arī prasības attiecībā uz informācijas sabiedrības pakalpojumiem. Koordinētajā sfērā neietilpst prasības attiecībā uz precēm vai to piegādi;\n5) (izslēgts ar 23.05.2024 . likumu) ;\n6) mitināšanas pakalpojumu sniedzējs — informācijas sabiedrības pakalpojumu sniedzējs, kas nodrošina satura sniedzēja sniegtās informācijas glabāšanu pēc satura sniedzēja pieprasījuma.\n(2) Likumā lietotie termini:\n1) \"abonents\", \"lietotājs\" un \"galiekārta\" atbilst Elektronisko sakaru likumā lietotajiem terminiem;\n2) \"biedrība\" un \"nodibinājums\" atbilst Eiropas Parlamenta un Padomes 2019. gada 20. jūnija regulā (ES) 2019/1150 par taisnīguma un pārredzamības veicināšanu komerciālajiem lietotājiem paredzētos tiešsaistes starpniecības pakalpojumos (turpmāk — regula Nr. 2019/1150 ) lietotajiem terminiem \"organizācija\", \"apvienība\";\n3) \"komerciālais lietotājs\" atbilst regulā Nr. 2019/1150 lietotajam terminam;\n4) \"korporatīvo tīmekļvietņu lietotājs\" atbilst regulā Nr. 2019/1150 lietotajam terminam \"korporatīvo tīmekļa vietņu lietotājs\";\n5) \"tiešsaistes starpniecības platformu pakalpojumu sniedzējs\" atbilst regulā Nr. 2019/1150 lietotajam terminam \"tiešsaistes starpniecības pakalpojumu sniedzējs\";\n6) \"satura sniedzējs\" atbilst Eiropas Parlamenta un Padomes 2021. gada 29. aprīļa regulas (ES) 2021/784 par vēršanos pret teroristiska satura izplatīšanu tiešsaistē (turpmāk — regula Nr. 2021/784 ) 2. panta 2. punktā lietotajam terminam;\n7) \"starpniecības pakalpojums\" atbilst Eiropas Parlamenta un Padomes 2022. gada 19. oktobra regulas (ES) 2022/2065 par digitālo pakalpojumu vienoto tirgu un ar ko groza direktīvu 2000/31/EK (Digitālo pakalpojumu akts) (turpmāk — Digitālo pakalpojumu akts) 3. panta \"g\" apakšpunktā lietotajam terminam;\n8) \"tiešsaistes saskarne\" atbilst Digitālo pakalpojumu akta 3. panta \"m\" apakšpunktā lietotajam terminam."
     },
     {
       "provision_ref": "Art. 2",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
       "section": "2",
-      "title": "Definitions",
-      "content": "For the purposes of this Law: 1) Information society service means any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of services; 2) Service provider means any natural or legal person providing an information society service; 3) Recipient of the service means any natural or legal person who, for professional ends or otherwise, uses an information society service; 4) Commercial communication means any form of communication designed to promote the goods, services, or image of a natural or legal person."
+      "title": "Likuma mērķis un darbības joma",
+      "content": "(1) Šā likuma mērķis ir:\n1) nodrošināt brīvu informācijas sabiedrības pakalpojumu apriti Eiropas Ekonomikas zonas valstīs (turpmāk arī — valsts);\n2) nodrošināt tiešsaistes starpniecības platformu pakalpojumu sniedzēju piedāvāto līgumattiecību noteikumu pārredzamību;\n3) nodrošināt mitināšanas pakalpojumu sniedzēju aizsardzību pret ļaunprātīgu to izmantošanu tiešsaistes teroristiska satura izplatīšanai sabiedrībā;\n4) veicināt drošu, paredzamu un uzticamu tiešsaistes vidi.\n(2) Šis likums attiecas uz informācijas sabiedrības pakalpojumu sniegšanu, izņemot jomas, ko reglamentē normatīvie akti par:\n1) izlozēm un azartspēlēm, kurās paredzēts naudas laimests;\n2) personas datu aizsardzību."
     },
     {
       "provision_ref": "Art. 3",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa. Vispārīgie noteikumi",
       "section": "3",
-      "title": "Country of Origin Principle",
-      "content": "An information society service provider established in Latvia shall comply with the requirements of Latvian law. An information society service provider established in another EU Member State shall comply with the requirements of the law of that Member State with regard to the coordinated field. Latvia shall not restrict the freedom to provide information society services from another Member State, except in the cases specified in this Law."
+      "title": "Informācijas sabiedrības pakalpojumu sniegšanas brīvība",
+      "content": "Pakalpojuma sniedzējs, kas reģistrēts kādā no Eiropas Ekonomikas zonas valstīm un atbilst attiecīgās valsts koordinētās sfēras normatīvo aktu prasībām, ir tiesīgs brīvi sniegt informācijas sabiedrības pakalpojumus koordinētajā sfērā Latvijā."
     },
     {
       "provision_ref": "Art. 4",
-      "chapter": "Chapter II - Information Requirements",
+      "chapter": "II nodaļa. Informācijas sniegšana un uzglabāšana (Nodaļas nosaukums 19.05.2011 . likuma redakcijā, kas stājas spēkā 08.06.2011. )",
       "section": "4",
-      "title": "General Information Requirements",
-      "content": "A service provider shall ensure that the following information is easily, directly, and permanently accessible to recipients of the service and competent authorities: the name and legal form, registered office, contact details including electronic mail address, registration number, supervisory authority details where applicable, and VAT identification number where the service provider is registered for VAT."
+      "title": "Vispārēji sniedzamā informācija",
+      "content": "(1) Pakalpojuma sniedzējs uzskatāmi, tieši un pastāvīgi pieejamā veidā sniedz šādu informāciju:\n1) pakalpojuma sniedzēja firma (nosaukums) vai vārds un uzvārds, juridiskā adrese vai deklarētā dzīvesvieta un reģistrācijas numurs (ja tāds ir);\n2) pakalpojuma sniedzēja kontaktinformācija, kas nodrošina iespēju ātri sazināties tiešā veidā, ieskaitot elektroniskā pasta adresi;\n3) ja attiecīgās darbības veikšanai nepieciešama speciālā atļauja (licence), — informācija par iestādi, kas izsniegusi speciālo atļauju (licenci);\n4) attiecībā uz reglamentēto profesionālo darbību — informācija par profesionālo organizāciju, kas izsniegusi profesionālo kvalifikāciju apliecinošus dokumentus, profesijai vai kvalifikācijai atbilstošais nosaukums un valsts, kurā tas piešķirts, kā arī atsauce uz reģistrācijas valstī piemērojamiem profesionālajiem noteikumiem un veids, kādā tie pieejami;\n5) ja attiecīgā darbība apliekama ar pievienotās vērtības nodokli, — reģistrācijas numurs Valsts ieņēmumu dienesta ar pievienotās vērtības nodokli apliekamo personu reģistrā.\n(2) Ja tiek norādīta cena, tad pakalpojuma sniedzējs to norāda tā, lai cena būtu nepārprotama un skaidri salasāma, un sniedz informāciju par to, vai cenā ir ietverti maksājamie nodokļi un preces piegādes izmaksas."
     },
     {
       "provision_ref": "Art. 5",
-      "chapter": "Chapter II - Information Requirements",
+      "chapter": "II nodaļa. Informācijas sniegšana un uzglabāšana (Nodaļas nosaukums 19.05.2011 . likuma redakcijā, kas stājas spēkā 08.06.2011. )",
       "section": "5",
-      "title": "Commercial Communications",
-      "content": "Commercial communications that form part of, or constitute, an information society service shall be clearly identifiable as such. The natural or legal person on whose behalf the commercial communication is made shall be clearly identifiable. Promotional offers and competitions shall be clearly identifiable, and the conditions for qualifying for them shall be easily accessible and clearly stated."
+      "title": "Pirms pasūtījuma izdarīšanas sniedzamā informācija",
+      "content": "(1) Pakalpojuma sniedzēja pienākums ir nodrošināt, lai pakalpojuma saņēmējam pirms pasūtījuma izdarīšanas būtu pieejama vismaz šāda informācija:\n1) kārtība, kas jāievēro, lai izdarītu pasūtījumu;\n2) noslēgtā līguma glabāšanas nosacījumi (vai noslēgtais līgums tiek glabāts) un tā pieejamība pakalpojuma saņēmējam;\n3) tehniskie līdzekļi informācijas ievadkļūdu noteikšanai un labošanai pirms pasūtījuma izdarīšanas;\n4) līguma noslēgšanai piedāvātās valodas.\n(2) Ja pakalpojuma saņēmējs nav patērētājs, puses var vienoties par citādu informācijas sniegšanas un saņemšanas kārtību nekā tā, kas paredzēta šā panta pirmajā daļā.\n(3) Šā panta pirmās daļas noteikumi neattiecas uz pasūtījumiem, kurus izdara ar elektroniskā pasta vai citu elektronisko sakaru līdzekļu starpniecību."
     },
     {
       "provision_ref": "Art. 6",
-      "chapter": "Chapter III - Electronic Contracts",
+      "chapter": "II nodaļa. Informācijas sniegšana un uzglabāšana (Nodaļas nosaukums 19.05.2011 . likuma redakcijā, kas stājas spēkā 08.06.2011. )",
       "section": "6",
-      "title": "Validity of Electronic Contracts",
-      "content": "Contracts concluded by electronic means shall not be denied legal effectiveness and validity solely on the ground that they are concluded electronically. Member States may provide exceptions for certain contracts as specified in Directive 2000/31/EC, including contracts that create or transfer rights in real estate, contracts governed by family law, and contracts of suretyship."
+      "title": "Pasūtījuma izdarīšana",
+      "content": "(1) Ja pakalpojuma saņēmējs izdara pasūtījumu, pakalpojuma sniedzējs apliecina tā pieņemšanu ar elektroniskiem sakaru līdzekļiem.\n(1 1 ) Pasūtījuma un tā pieņemšanas apliecinājumu uzskata par saņemtiem, kad puses, kurām tie adresēti, var tiem piekļūt.\n(2) Pakalpojuma sniedzēja pienākums ir nodrošināt pakalpojuma saņēmējam iespēju noteikt un izlabot informācijas ievadkļūdas pirms pasūtījuma izdarīšanas.\n(3) Šā panta otrajā daļā noteikto var nepiemērot, ja pakalpojuma saņēmējs nav patērētājs.\n(4) Šā panta pirmās un otrās daļas noteikumi neattiecas uz pasūtījumiem, kas izdarīti tikai ar elektronisko pastu vai līdzvērtīgiem individuālajiem saziņas līdzekļiem."
     },
     {
       "provision_ref": "Art. 7",
-      "chapter": "Chapter III - Electronic Contracts",
+      "chapter": "II nodaļa. Informācijas sniegšana un uzglabāšana (Nodaļas nosaukums 19.05.2011 . likuma redakcijā, kas stājas spēkā 08.06.2011. )",
       "section": "7",
-      "title": "Information Prior to Contract Conclusion",
-      "content": "Before the recipient of the service places an order, the service provider shall clearly, comprehensibly, and unambiguously provide information about: the technical steps to follow to conclude the contract, whether the contract will be filed and accessible, the technical means for identifying and correcting input errors, and the languages offered for the conclusion of the contract."
+      "title": "Informācija par līguma noteikumiem un uzvedības kodeksiem",
+      "content": "(1) Pakalpojuma sniedzēja pienākums ir nodrošināt, lai pakalpojuma saņēmēji var iepazīties ar līguma noteikumiem, kā arī tos saglabāt.\n(2) Pakalpojuma sniedzēja pienākums ir sniegt informāciju par labas pakalpojumu sniegšanas prakses kodeksiem vai citiem brīvprātīgiem uzvedības vai ētikas kodeksiem, kurus tas ievēro, un informāciju par to, kā ar šiem kodeksiem var iepazīties elektroniskā veidā.\n(3) Šā panta otrajā daļā noteikto var nepiemērot, ja pakalpojuma saņēmējs nav patērētājs."
+    },
+    {
+      "provision_ref": "Art. 7.1",
+      "chapter": "II nodaļa. Informācijas sniegšana un uzglabāšana (Nodaļas nosaukums 19.05.2011 . likuma redakcijā, kas stājas spēkā 08.06.2011. )",
+      "section": "7.1",
+      "title": "7. 1 pants. Informācijas uzglabāšana galiekārtā",
+      "content": "(1) Informācijas uzglabāšana abonenta vai lietotāja galiekārtā vai piekļuves iegūšana galiekārtā uzglabātajai informācijai ir atļauta, ja attiecīgais abonents vai lietotājs ir devis savu piekrišanu pēc tam, kad saņēmis skaidru un visaptverošu informāciju par iepriekšminētās apstrādes mērķi saskaņā ar Fizisko personu datu aizsardzības likumu .\n(2) Šā panta pirmajā daļā minētā piekrišana nav nepieciešama, ja informācijas uzglabāšana galiekārtā vai piekļuves iegūšana galiekārtā uzglabātajai informācijai ir nepieciešama informācijas aprites nodrošināšanai elektronisko sakaru tīklā vai starpniecības pakalpojumu sniedzējam, lai sniegtu abonenta vai lietotāja pieprasīto pakalpojumu."
     },
     {
       "provision_ref": "Art. 8",
-      "chapter": "Chapter III - Electronic Contracts",
+      "chapter": "III nodaļa. Komerciāli paziņojumi",
       "section": "8",
-      "title": "Order Placement and Acknowledgement",
-      "content": "The service provider shall acknowledge receipt of the recipient's order without undue delay and by electronic means. The order and the acknowledgement of receipt are deemed to be received when the parties to whom they are addressed are able to access them. The service provider shall make available to the recipient effective and accessible technical means allowing the identification and correction of input errors."
+      "title": "Informācija par komerciāliem paziņojumiem",
+      "content": "(1) Komerciāls paziņojums atbilst vispārējām Reklāmas likuma prasībām, kā arī šādām prasībām:\n1) tas ir skaidri atpazīstams kā komerciāls paziņojums;\n2) ir skaidri nosakāma persona, kuras vārdā šis komerciālais paziņojums izplatīts;\n3) ir precīzi formulēts piedāvājuma saturs un pakalpojuma saņemšanas noteikumi;\n4) atlaides, prēmijas un balvas ir skaidri atpazīstamas, un to saņemšanas noteikumi ir skaidri izklāstīti;\n5) reklāmas sacensības, loterijas vai spēles ir skaidri atpazīstamas, un attiecīgie dalības noteikumi ir viegli pieejami, kā arī skaidri un nepārprotami izklāstīti;\n6) pakalpojuma saņēmējam ir dota iespēja atteikties no turpmāku komerciālu paziņojumu saņemšanas.\n(2) Ja komerciālu paziņojumu attiecībā uz informācijas sabiedrības pakalpojumu sniedz persona, kas veic reglamentēto profesionālo darbību, tās pienākums ir ievērot profesionālos noteikumus, īpaši attiecībā uz neatkarību, cieņu un profesijas godu, profesionālo noslēpumu un godīgumu pret klientiem un citiem profesijas pārstāvjiem."
     },
     {
       "provision_ref": "Art. 9",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "chapter": "III nodaļa. Komerciāli paziņojumi",
       "section": "9",
-      "title": "Mere Conduit",
-      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, or the provision of access to a communication network, the service provider shall not be liable for the information transmitted, provided that the provider does not initiate the transmission, does not select the receiver of the transmission, and does not select or modify the information contained in the transmission."
+      "title": "Komerciāla paziņojuma sūtīšanas aizliegums",
+      "content": "(1) Aizliegts izmantot komerciāla paziņojuma sūtīšanai automātiskās zvanīšanas (galiekārtu) sistēmas, kas darbojas bez cilvēka līdzdalības (automātiskās izsaukumierīces), elektronisko pastu vai faksa aparātus (faksimilus), kurus izmantojot iespējams individuāls kontakts ar pakalpojuma saņēmēju, ja pakalpojuma saņēmējs iepriekš nav devis brīvu un nepārprotamu piekrišanu.\n(2) Pakalpojuma sniedzējs, kas savu komercdarījumu ietvaros ieguvis no pakalpojuma saņēmējiem elektroniskā pasta adreses, drīkst tās izmantot citiem komerciāliem paziņojumiem, ja:\n1) komerciālie paziņojumi tiek sūtīti par līdzīgām pakalpojuma sniedzēja precēm vai pakalpojumiem;\n2) pakalpojuma saņēmējs jau sākotnēji nav iebildis par turpmāku elektroniskā pasta adreses izmantošanu;\n3) pakalpojuma saņēmējam katrā turpmākajā komerciālā paziņojuma saņemšanas brīdī tiek dota nepārprotama bezmaksas iespēja (iesniedzot iesniegumu vai nosūtot paziņojumu elektroniski) atteikties no turpmākas elektroniskā pasta adreses izmantošanas.\n(3) Cita veida komunikācija, izmantojot komerciāla paziņojuma sūtīšanai publiski pieejamus elektronisko sakaru pakalpojumus, var notikt, ja pakalpojuma saņēmējs iepriekš ir devis brīvu un nepārprotamu piekrišanu, izņemot šā panta pirmajā un otrajā daļā minētos gadījumus.\n(4) Elektronisko pastu vai cita veida komunikāciju, izmantojot publiski pieejamus elektronisko sakaru pakalpojumus, aizliegts izmantot komerciāla paziņojuma sūtīšanai, ja tiek lietota nederīga elektroniskā pasta adrese, nederīgs tālruņa vai faksa numurs, uz kuru pakalpojuma saņēmējs varētu sūtīt pieprasījumu pārtraukt komunikāciju, vai ja netiek ņemta vērā pakalpojuma saņēmēja atteikšanās no turpmāku komerciālu paziņojumu saņemšanas.\n(5) Katra aizliegta komerciāla paziņojuma sūtīšana ir atsevišķs pārkāpums.\n(6) Šā panta pirmajā, otrajā un trešajā daļā noteiktie aizliegumi un ierobežojumi attiecas uz komerciālu paziņojumu sūtīšanu fiziskajām personām."
     },
     {
-      "provision_ref": "Art. 10",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
-      "section": "10",
-      "title": "Caching",
-      "content": "Where an information society service is provided that consists of the transmission in a communication network of information provided by a recipient of the service, the service provider shall not be liable for the automatic, intermediate, and temporary storage of that information, performed for the sole purpose of making more efficient the information's onward transmission, provided that the provider complies with conditions on access and updating, does not interfere with lawful use of technology, and acts expeditiously to remove information upon obtaining knowledge of its removal at the initial source."
+      "provision_ref": "Art. 11.1",
+      "chapter": "IV 1 nodaļa. Komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju interešu pārstāvība (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "11.1",
+      "title": "11. 1 pants. Biedrību un nodibinājumu tiesības un pienākumi",
+      "content": "(1) Lai pārstāvētu komerciālos lietotājus vai korporatīvo tīmekļvietņu lietotājus tiesvedībā, biedrībai vai nodibinājumam, kurš atbilst regulas Nr. 2019/1150 14. panta 3. punkta prasībām, ir tiesības iesniegt Patērētāju tiesību aizsardzības centram iesniegumu ar lūgumu piešķirt biedrībai vai nodibinājumam tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā.\n(2) Ja biedrības vai nodibinājuma darbībā ir veiktas izmaiņas, kuru dēļ biedrība vai nodibinājums neatbilst vai var neatbilst regulas Nr. 2019/1150 14. panta 3. punkta prasībām, vai ja biedrība vai nodibinājums vēlas atsaukt savu iesniegumu pārstāvēt komerciālos lietotājus vai korporatīvo tīmekļvietņu lietotājus tiesvedībā, biedrībai vai nodibinājumam ir pienākums nekavējoties par to paziņot Patērētāju tiesību aizsardzības centram.\n(3) Šā panta pirmajā un otrajā daļā minētos dokumentus, kas parakstīti normatīvajos aktos par elektroniskajiem dokumentiem noteiktajā kārtībā, biedrība vai nodibinājums elektroniski iesniedz Patērētāju tiesību aizsardzības centram."
     },
     {
-      "provision_ref": "Art. 11",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
-      "section": "11",
-      "title": "Hosting",
-      "content": "Where an information society service is provided that consists of the storage of information provided by a recipient of the service, the service provider shall not be liable for the information stored at the request of a recipient of the service, provided that the provider does not have actual knowledge of illegal activity or information, and upon obtaining such knowledge, acts expeditiously to remove or disable access to the information."
+      "provision_ref": "Art. 11.2",
+      "chapter": "IV 1 nodaļa. Komerciālo lietotāju vai korporatīvo tīmekļvietņu lietotāju interešu pārstāvība (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "11.2",
+      "title": "11. 2 pants. Patērētāju tiesību aizsardzības centra pienākumi",
+      "content": "(1) Patērētāju tiesību aizsardzības centrs izskata šā likuma 11. 1 panta pirmajā un otrajā daļā minētos dokumentus un informē biedrību vai nodibinājumu par vienu no šādiem pieņemtajiem lēmumiem:\n1) piešķirt biedrībai vai nodibinājumam tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā;\n2) atteikties piešķirt biedrībai vai nodibinājumam tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā;\n3) izbeigt biedrības vai nodibinājuma tiesības pārstāvēt komerciālos lietotājus vai korporatīvo vietņu lietotājus tiesā.\n(2) Patērētāju tiesību aizsardzības centrs informē Eiropas Komisiju par šā panta pirmās daļas 1. un 3. punktā pieņemto lēmumu.\n(3) Šā panta pirmajā daļā minētos lēmumus var pārsūdzēt administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā."
     },
     {
       "provision_ref": "Art. 12",
-      "chapter": "Chapter IV - Liability of Intermediary Service Providers",
+      "chapter": "V nodaļa. Informācijas sabiedrības pakalpojumu aprites uzraudzība",
       "section": "12",
-      "title": "No General Obligation to Monitor",
-      "content": "Service providers are not subject to a general obligation to monitor the information which they transmit or store, nor to a general obligation actively to seek facts or circumstances indicating illegal activity. This does not affect any obligation to promptly inform the competent authorities of alleged illegal activities or information provided by recipients of their service, or obligations to provide information to competent authorities upon request."
+      "title": "Uzraudzības iestādes",
+      "content": "(1) Informācijas sabiedrības pakalpojumu apriti savas kompetences ietvaros uzrauga Patērētāju tiesību aizsardzības centrs, Datu valsts inspekcija, kā arī citas uzraudzības un kontroles iestādes.\n(2) Uzraudzības iestādes sniedz pakalpojuma sniedzējiem un pakalpojuma saņēmējiem informāciju par sūdzību izskatīšanas kārtību un citu informāciju."
     },
     {
       "provision_ref": "Art. 13",
-      "chapter": "Chapter V - Supervision and Enforcement",
+      "chapter": "V nodaļa. Informācijas sabiedrības pakalpojumu aprites uzraudzība",
       "section": "13",
-      "title": "Notice and Take-Down",
-      "content": "Where a person considers that information made available by an information society service provider infringes their rights, that person may submit a notice to the service provider requesting the removal of or the disabling of access to the information. The service provider shall examine the notice and take appropriate action. The procedure for notice and take-down shall be established by the Cabinet of Ministers."
+      "title": "Uzraudzības iestādes tiesības un pienākumi",
+      "content": "(1) Ja uzraudzības iestāde konstatē šā likuma pārkāpumus, tā ir tiesīga:\n1) pieprasīt visu lietas būtības noskaidrošanai nepieciešamo informāciju;\n2) likt pakalpojuma sniedzējam izbeigt likuma pārkāpumu vai veikt konkrētas darbības tā novēršanai, kā arī noteikt šo darbību izpildes termiņu.\n(2) Uzraudzības iestāde ir tiesīga veikt šā panta pirmajā daļā noteiktās darbības, kas ierobežo tāda informācijas sabiedrības pakalpojuma sniegšanu, kurš rada vai varētu radīt nopietnu risku, ja šīs darbības ir proporcionālas attiecīgo interešu aizsardzībai un nepieciešamas:\n1) sabiedrības interesēs, īpaši noziedzīgu nodarījumu profilaksei, izmeklēšanai un lietas ierosināšanai, tajā skaitā nepilngadīgo aizsardzībai, lai nepieļautu diskrimināciju pret cilvēku viņa rases, dzimuma, reliģiskās pārliecības vai etniskās izcelsmes dēļ, kā arī cilvēka cieņu un godu aizskarošus pārkāpumus;\n2) sabiedrības drošībai, tajā skaitā nacionālajai drošībai un aizsardzībai;\n3) sabiedrības veselības aizsardzībai;\n4) patērētāju aizsardzībai.\n(3) Pirms šā panta otrajā daļā minēto darbību veikšanas uzraudzības iestāde informē to valsts uzraudzības iestādi, kurā ir reģistrēts attiecīgā pakalpojuma sniedzējs, un lūdz to rīkoties, lai izbeigtu šā panta otrajā daļā minēto pārkāpumu. Latvijas uzraudzības iestādes informē Eiropas Komisiju un attiecīgo valsti par darbībām, ko tās plāno veikt, ja šī valsts neveic darbības pārkāpuma novēršanai vai arī tās veiktās darbības nav pietiekamas.\n(4) Steidzamos gadījumos, kad ir pamatots iemesls uzskatīt, ka sabiedrības drošība, veselība vai patērētāju intereses tiks apdraudētas, uzraudzības iestāde var veikt šā panta otrajā daļā minētās darbības pirms Eiropas Komisijas un attiecīgās valsts informēšanas. Šādā gadījumā uzraudzības iestāde nekavējoties paziņo Eiropas Komisijai un attiecīgajai valstij par veiktajām darbībām un pamato šo darbību steidzamību.\n(5) Ministru kabinets nosaka atbildīgo institūciju, kas koordinē šā panta trešajā un ceturtajā daļā minētās informācijas apriti starp Latvijas uzraudzības iestādēm, Eiropas Ekonomikas zonas valstu uzraudzības iestādēm un Eiropas Komisiju.\n(6) Uzraudzības iestādei ir pienākums veikt pārbaudi par šā likuma 9.panta ievērošanu, ja viena gada laikā viens pakalpojuma saņēmējs ir saņēmis vismaz 10 komerciālus paziņojumus no viena pakalpojuma sniedzēja un ja pakalpojuma saņēmējs ir iesniedzis uzraudzības iestādei par to sūdzību."
     },
     {
       "provision_ref": "Art. 14",
-      "chapter": "Chapter V - Supervision and Enforcement",
+      "chapter": "VI nodaļa. Tiešsaistes starpniecības platformu pakalpojumu sniedzēju uzraudzība (Nodaļa 23.11.2020 . likuma redakcijā, kas stājas spēkā 01.01.2021. )",
       "section": "14",
-      "title": "Supervisory Authority",
-      "content": "The Consumer Rights Protection Centre shall supervise compliance with this Law in relation to consumer protection aspects of information society services. The Data State Inspectorate shall supervise compliance with personal data protection requirements applicable to information society services."
+      "title": "Tiešsaistes starpniecības platformu pakalpojumu sniedzēju uzraudzības iestāde",
+      "content": "(1) Tiešsaistes starpniecības platformu pakalpojumu sniedzējus atbilstoši kompetencei uzrauga Patērētāju tiesību aizsardzības centrs.\n(2) Patērētāju tiesību aizsardzības centrs veic tiešsaistes starpniecības platformu pakalpojumu pārredzamības noteikumu izpildes uzraudzību, izvērtējot iespējamā pārkāpuma ietekmi uz komerciālajiem lietotājiem vai korporatīvo tīmekļvietņu lietotājiem, kā arī nodrošina, ka tiešsaistes starpniecības platformu pakalpojumu sniedzēji ievēro regulas Nr. 2019/1150 prasības. Patērētāju tiesību aizsardzības centrs uzraudzību veic:\n1) pēc savas iniciatīvas;\n2) pamatojoties uz komerciālā lietotāja vai korporatīvās tīmekļvietnes lietotāja iesniegumu vai minēto lietotāju kolektīvo iesniegumu;\n3) pamatojoties uz iesniegumu, kuru iesniegusi biedrība vai nodibinājums regulas Nr. 2019/1150 14. panta 6. punkta izpratnē."
     },
     {
       "provision_ref": "Art. 15",
-      "chapter": "Chapter V - Supervision and Enforcement",
+      "chapter": "VI nodaļa. Tiešsaistes starpniecības platformu pakalpojumu sniedzēju uzraudzība (Nodaļa 23.11.2020 . likuma redakcijā, kas stājas spēkā 01.01.2021. )",
       "section": "15",
-      "title": "Administrative Liability",
-      "content": "Violations of the requirements of this Law may result in administrative sanctions, including warnings and fines. The maximum fine for a natural person is EUR 700, and for a legal person is EUR 14,000. Repeated violations may result in higher penalties as determined by the competent supervisory authority."
+      "title": "Patērētāju tiesību aizsardzības centra tiesības un pienākumi",
+      "content": "(1) Patērētāju tiesību aizsardzības centram ir tiesības pieņemt vienu vai vairākus šajā daļā minētos lēmumus:\n1) pieprasīt un saņemt no tiešsaistes starpniecības platformu pakalpojumu sniedzējiem, komerciālajiem lietotājiem vai korporatīvo tīmekļvietņu lietotājiem visu uzraudzībai nepieciešamo informāciju un citus pierādījumus, kā arī mutvārdu paskaidrojumus par tiešsaistes starpniecības platformu pakalpojumu sniedzēju darbības atbilstību regulas Nr. 2019/1150 prasībām un noteikt minētās informācijas un pierādījumu sniegšanas termiņu un informācijas sniegšanas veidu;\n2) uzlikt tiešsaistes starpniecības platformu pakalpojumu sniedzējiem pienākumu novērst regulas Nr. 2019/1150 pārkāpumu, kā arī noteikt attiecīgo darbību izpildes termiņu;\n3) saskaņā ar šā likuma 16. pantu piemērot soda naudu, ja Patērētāju tiesību aizsardzības centrs ir atzinis tiešsaistes starpniecības platformu pakalpojumu sniedzēju darbības par neatbilstošām regulas Nr. 2019/1150 prasībām.\n(2) Patērētāju tiesību aizsardzības centrs lēmumu par regulas Nr. 2019/1150 pārkāpumu pieņem sešu mēnešu laikā no lietas ierosināšanas dienas. Ja objektīvu iemeslu dēļ šo termiņu nav iespējams ievērot, Patērētāju tiesību aizsardzības centrs to var pagarināt uz laiku, kas nav ilgāks par diviem gadiem, skaitot no lietas ierosināšanas dienas."
+    },
+    {
+      "provision_ref": "Art. 16",
+      "chapter": "VI nodaļa. Tiešsaistes starpniecības platformu pakalpojumu sniedzēju uzraudzība (Nodaļa 23.11.2020 . likuma redakcijā, kas stājas spēkā 01.01.2021. )",
+      "section": "16",
+      "title": "Soda naudas piemērošana un piespiedu izpildes noteikumi",
+      "content": "(1) Patērētāju tiesību aizsardzības centrs ir tiesīgs par regulas Nr. 2019/1150 pārkāpumu piemērot tiešsaistes starpniecības platformu pakalpojumu sniedzējam soda naudu līdz 14 000 euro .\n(2) Patērētāju tiesību aizsardzības centrs, pieņemot lēmumu par soda naudas piemērošanu un tās apmēru, izvērtē un ņem vērā šādus apstākļus:\n1) pieļautā pārkāpuma raksturu un ilgumu, pārkāpuma radīto ietekmi (zaudējumi komerciālajam lietotājam vai korporatīvo tīmekļvietņu lietotājam), pārkāpuma izdarīšanas apstākļus, pārkāpēja lomu pārkāpumā un pārkāpuma apjomu;\n2) vai tiešsaistes starpniecības platformu pakalpojumu sniedzējs līdz lēmuma pieņemšanas dienai ir atlīdzinājis vai sācis atlīdzināt komerciālajam lietotājam vai korporatīvo tīmekļvietņu lietotājam nodarītos zaudējumus;\n3) vai pārkāpums pārtraukts pēc tiešsaistes starpniecības platformu pakalpojumu sniedzēja iniciatīvas;\n4) vai tiešsaistes starpniecības platformu pakalpojumu sniedzējs izdarījis atkārtotu regulas Nr. 2019/1150 pārkāpumu pēdējo divu gadu laikā un vai tas konstatēts ar Patērētāju tiesību aizsardzības centra lēmumu;\n5) vai tiešsaistes starpniecības platformu pakalpojumu sniedzējs ir kavējis lietas izskatīšanu vai slēpis izdarīto pārkāpumu.\n(3) Patērētāju tiesību aizsardzības centra piemēroto soda naudu tiešsaistes starpniecības platformu pakalpojumu sniedzējs samaksā mēneša laikā no dienas, kad stājas spēkā lēmums par tās piemērošanu.\n(4) Ja lēmumi, kas pieņemti saskaņā ar šā likuma 15. panta pirmās daļas 2. punktu, nav izpildīti labprātīgi, Patērētāju tiesību aizsardzības centrs, veicot uz noteiktu darbību vērsta lēmuma piespiedu izpildi, var piemērot piespiedu naudu, bet ne vairāk kā 2800 euro vienā reizē.\n(5) Patērētāju tiesību aizsardzības centrs, nosakot šā panta ceturtajā daļā minētās piespiedu naudas apmēru, ņem vērā šā likuma 15. panta pirmās daļas 2. punktā minēto lēmumu nepildīšanas ietekmi (zaudējumi komerciālajam lietotājam vai korporatīvo tīmekļvietņu lietotājam) un ilgumu, kā arī citus apstākļus, kuriem ir nozīme lietā.\n(6) Samaksāto soda naudu vai piespiedu naudu ieskaita valsts pamatbudžetā."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "VI nodaļa. Tiešsaistes starpniecības platformu pakalpojumu sniedzēju uzraudzība (Nodaļa 23.11.2020 . likuma redakcijā, kas stājas spēkā 01.01.2021. )",
+      "section": "17",
+      "title": "Patērētāju tiesību aizsardzības centra lēmuma pārsūdzēšana",
+      "content": "Patērētāju tiesību aizsardzības centra lēmumu var pārsūdzēt tiesā Administratīvā procesa likumā noteiktajā kārtībā. Patērētāju tiesību aizsardzības centra lēmuma pārsūdzēšana neaptur tā darbību, izņemot šā likuma 15. panta pirmās daļas 3. punktā minētā lēmuma darbību."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "VII nodaļa. Teroristiskā satura izplatīšanas novēršanas uzraudzība (Nodaļa 27.04.2023 . likuma redakcijā, kas stājas spēkā 29.05.2023. )",
+      "section": "18",
+      "title": "Iestāžu kompetence",
+      "content": "(1) Kompetentā iestāde regulas Nr. 2021/784 6. panta 2. punktā, 11. panta 3. punktā, 12. panta 1. punkta \"a\", \"b\", \"c\" apakšpunktā un 14. panta 6. punktā ietverto pasākumu — izdot un pārbaudīt izņemšanas rīkojumus, uzraudzīt konkrētu pasākumu īstenošanu, sniegt norādes par izņemtās informācijas neizpaušanu un glabāšanas termiņiem, veikt saziņu ar Eiropolu, jo īpaši pirms izņemšanas rīkojumu izdošanas, lai izvairītos no attiecīgu darbību pārklāšanās ar citām dalībvalstīm, kam saistoša regula Nr. 2021/784 , — īstenošanā ir Valsts drošības dienests.\n(2) Informācija par kontaktpunktu, ievērojot regulas Nr. 2021/784 12. panta 2. punktu, ir pieejama Valsts drošības dienesta tīmekļvietnē.\n(3) Mitināšanas pakalpojumu sniedzējs par tā iecelto juridisko pārstāvi, ievērojot regulas Nr. 2021/784 17. panta 4. punktu, informē Valsts drošības dienesta kontaktpunktu.\n(4) Valsts drošības dienests sadarbībā ar Valsts policiju sagatavo un publicē regulas Nr. 2021/784 8. panta 1. punktā noteikto ziņojumu, kā arī apkopo un nosūta Eiropas Komisijai regulas Nr. 2021/784 21. panta 1. punktā, 22. un 23. pantā noteikto informāciju, ja nepieciešams, lūdzot mitināšanas pakalpojumu sniedzējus iesūtīt regulas Nr. 2021/784 7. pantā noteiktos pārredzamības ziņojumus.\n(5) Mitināšanas pakalpojumu sniedzējs, kuram, ievērojot regulas Nr. 2021/784 14. panta 5. punktu, nepieciešams informēt kontaktpunktu Latvijas Republikā, attiecīgo informāciju Eiropolam var nosūtīt ar Valsts drošības dienesta starpniecību. Valsts drošības dienesta kontaktinformācija ir pieejama tā tīmekļvietnē.\n(6) Valsts drošības dienestam pirms izņemšanas rīkojuma izdošanas ir tiesības nosūtīt mitināšanas pakalpojumu sniedzējam brīdinoša rakstura signālziņu par informāciju, kura varētu būt uzskatāma par teroristisku saturu, lai tas signālziņā noteiktajā termiņā izvērtētu attiecīgā satura atbilstību saviem komerciālajiem noteikumiem.\n(7) Valsts drošības dienestam ir tiesības pieprasīt un mitināšanas pakalpojumu sniedzējam ir pienākums sniegt nepieciešamo papildu informāciju regulas Nr. 2021/784 18. panta 1. punktā noteikto apstākļu pārbaudei saistībā ar konstatētā iespējamā pārkāpuma izdarīšanu.\n(8) Valsts drošības dienestam ir tiesības noteikt mitināšanas pakalpojumu sniedzējam pienākumu noteiktā termiņā novērst neatbilstību regulas Nr. 2021/784 prasībām."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "VII nodaļa. Teroristiskā satura izplatīšanas novēršanas uzraudzība (Nodaļa 27.04.2023 . likuma redakcijā, kas stājas spēkā 29.05.2023. )",
+      "section": "19",
+      "title": "Tiesiskās aizsardzības līdzekļi",
+      "content": "(1) Valsts drošības dienesta izdoto izņemšanas rīkojumu vai pieņemto lēmumu var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā. Izņemšanas rīkojuma vai lēmuma apstrīdēšana un pārsūdzēšana neaptur tā darbību, un tā darbība nav apturama arī pēc personas lūguma.\n(2) Izņemto informāciju vai saturu, kam atspējota piekļuve, glabā regulas Nr. 2021/784 6. panta 2. punktā noteikto termiņu, ja vien par apstrīdēšanas vai pārsūdzības izskatīšanu atbildīgā iestāde (institūcija) nenosaka citādi."
+    },
+    {
+      "provision_ref": "Art. 19.1",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.1",
+      "title": "19. 1 pants. Digitālo pakalpojumu akta kompetentā iestāde un digitālo pakalpojumu koordinators",
+      "content": "(1) Patērētāju tiesību aizsardzības centrs ir kompetentā iestāde Digitālo pakalpojumu akta 49. panta 1. punkta izpratnē un digitālo pakalpojumu koordinators Digitālo pakalpojumu akta 49. panta 2. punkta izpratnē.\n(2) Uz digitālo pakalpojumu koordinatoru attiecas Digitālo pakalpojumu akta 50. pantā noteiktās neatkarības prasības. Digitālo pakalpojumu koordinators patstāvīgi pieņem lēmumus un veic šajā likumā noteiktos uzdevumus, un savā darbībā ir neatkarīgs, ciktāl tas attiecas uz Digitālo pakalpojumu akta piemērošanu.\n(3) Digitālo pakalpojumu koordinatoru finansē tādā veidā, lai nodrošinātu tā funkcijas neatkarību un efektīvu Digitālo pakalpojumu akta piemērošanu atbilstoši šā akta 50. pantam ."
+    },
+    {
+      "provision_ref": "Art. 19.2",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.2",
+      "title": "19. 2 pants. Iestāžu pienākumi, uzdevumi un savstarpējā sadarbība",
+      "content": "(1) Patērētāju tiesību aizsardzības centrs veic visus Digitālo pakalpojumu aktā noteiktos digitālo pakalpojumu koordinatora uzdevumus, tostarp uzrauga starpniecības pakalpojumu sniedzēju darbības atbilstību Digitālo pakalpojumu akta III nodaļas 1., 2., 3. un 4. iedaļā noteiktajiem pienākumiem, ja Eiropas Komisija nav sākusi procedūru par to pašu pārkāpumu attiecībā uz ļoti lielas tiešsaistes platformas vai ļoti lielas tiešsaistes meklētājprogrammas nodrošinātāju Digitālo pakalpojumu akta 33. panta izpratnē.\n(2) Pēc digitālo pakalpojumu koordinatora pieprasījuma citas iestādes, kuru funkcijās ietilpst uzraudzība vai citas darbības jautājumos, kas skar Digitālo pakalpojumu aktu, sniedz digitālo pakalpojumu koordinatoram atzinumu viena mēneša laikā no pieprasījuma saņemšanas dienas. Iestādes var vienoties par ilgāku atzinuma sniegšanas termiņu.\n(3) Ministru kabinets nosaka:\n1) Digitālo pakalpojumu akta 9. pantā minētajā lēmumā norādāmo informāciju papildus šā akta 9. pantā un citos likumos noteiktajām prasībām;\n2) kārtību, kādā Digitālo pakalpojumu akta 9. pantā minētajam lēmumam pievieno pielikumu , ja lēmums attiecas uz vairāku tiešsaistes resursu ierobežošanu;\n3) Digitālo pakalpojumu akta 9. pantā minētā lēmuma izpildes un darbības termiņu;\n4) Digitālo pakalpojumu akta 9. pantā minētajā lēmumā vai tā pielikumā ietvertās informācijas ievietošanas nosacījumus un kārtību iestādes uzturētajā mašīnlasāmajā sarakstā;\n5) kārtību, kādā Digitālo pakalpojumu akta 9. pantā minēto lēmumu vai šā akta 10. pantā minēto informācijas pieprasījumu un informāciju par tā izpildi, kā arī citiem dokumentiem paziņo digitālo pakalpojumu koordinatoram."
+    },
+    {
+      "provision_ref": "Art. 19.3",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.3",
+      "title": "19. 3 pants. Digitālo pakalpojumu koordinatora tiesības",
+      "content": "(1) Digitālo pakalpojumu koordinatoram ir tiesības veikt pārbaudes saskaņā ar Digitālo pakalpojumu akta 51. panta 1. punkta \"b\" apakšpunktu bez tiesas atļaujas.\n(2) Digitālo pakalpojumu koordinatoram, izmeklējot starpniecības pakalpojumu sniedzēju darbības atbilstību Digitālo pakalpojumu akta prasībām, ir tiesības pieprasīt un saņemt no elektronisko sakaru komersanta Elektronisko sakaru likuma 105. pantā minētos datus."
+    },
+    {
+      "provision_ref": "Art. 19.4",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.4",
+      "title": "19. 4 pants. Digitālo pakalpojumu akta pārkāpumu novēršana un izbeigšana",
+      "content": "(1) Digitālo pakalpojumu koordinators, izvērtējot konstatēto Digitālo pakalpojumu akta pārkāpumu atbilstoši šā akta 51. panta 5. punktam, ir tiesīgs:\n1) ierosināt, lai starpniecības pakalpojumu sniedzējs digitālo pakalpojumu koordinatora noteiktajā termiņā nodrošina savas darbības atbilstību Digitālo pakalpojumu akta prasībām;\n2) ierosināt, lai starpniecības pakalpojumu sniedzējs digitālo pakalpojumu koordinatora noteiktajā termiņā rakstveidā apņemas novērst konstatēto pārkāpumu saskaņā ar šā likuma 19. 5 panta prasībām;\n3) pieņemt lēmumu par administratīvās lietas izbeigšanu, izsakot aicinājumu starpniecības pakalpojumu sniedzējam turpmāk savā darbībā nodrošināt atbilstību Digitālo pakalpojumu akta prasībām.\n(2) Starpniecības pakalpojumu sniedzējs nekavējoties, bet ne vēlāk kā triju darbdienu laikā pēc šā panta pirmās daļas 1. punktā minētajā ierosinājumā noteiktā termiņa beigām informē digitālo pakalpojumu koordinatoru par ierosinājuma izpildi, pievienojot pamatojošus pierādījumus. Ja noteiktajā termiņā starpniecības pakalpojumu sniedzēja darbības atbilstība normatīvo aktu prasībām nav nodrošināta, digitālo pakalpojumu koordinators ir tiesīgs pieņemt vienu vai vairākus šā panta trešajā daļā minētos lēmumus.\n(3) Ja konstatēts Digitālo pakalpojumu akta pārkāpums, digitālo pakalpojumu koordinators ir tiesīgs pieņemt vienu vai vairākus lēmumus, ar kuriem:\n1) nosaka starpniecības pakalpojumu sniedzējam pienākumu nekavējoties vai noteiktā termiņā izbeigt pārkāpumu;\n2) piemēro starpniecības pakalpojumu sniedzējam soda naudu un periodisko soda naudas maksājumu, kas noteikts šā likuma 19. 6 panta pirmajā daļā.\n(4) Par atļauju digitālo pakalpojumu koordinatoram veikt darbības, uz kurām pamatojoties starpniecības pakalpojumu sniedzējam uzdod veikt Digitālo pakalpojumu akta 51. panta 3. punkta pirmās daļas \"b\" apakšpunktā minētās darbības, ar kurām ierobežo cita starpniecības pakalpojumu sniedzēja pakalpojuma saņēmēju piekļuvi attiecīgajam starpniecības pakalpojumu sniedzēja pakalpojumam vai cita starpniecības pakalpojumu sniedzēja tiešsaistes saskarnei, lemj rajona (pilsētas) tiesas tiesnesis atbilstoši digitālo pakalpojumu koordinatora juridiskajai adresei.\n(5) Iesniegumā par atļauju veikt šā panta ceturtajā daļā minētās darbības digitālo pakalpojumu koordinators norāda:\n1) tā pakalpojuma aprakstu, pret ko vērsts ierobežojums;\n2) ierobežošanai piemērojamos līdzekļus;\n3) administratīvo lietu, kādā digitālo pakalpojumu koordinators veiks šīs darbības, kā arī laika periodu, kad tiks veiktas šīs darbības;\n4) šo darbību nepieciešamības pamatojumu;\n5) iemeslu, kas neļauj sasniegt šo darbību mērķi samērīgākiem līdzekļiem.\n(6) Tiesnesis 72 stundu laikā izskata digitālo pakalpojumu koordinatora iesniegumu un citus dokumentus, kuros pamatota nepieciešamība veikt šā panta ceturtajā daļā minētās darbības, un pieņem lēmumu par šo darbību atļaušanu vai par atteikumu veikt šīs darbības. Tiesneša lēmums nav pārsūdzams. Tiesneša lēmumu nosūta digitālo pakalpojumu koordinatoram 24 stundu laikā no lēmuma pieņemšanas brīža.\n(7) Lēmumā par atļauju veikt šā panta ceturtajā daļā minētās darbības tiesnesis norāda šā panta piektajā daļā minēto informāciju un šo darbību izpildes termiņu un ilgumu.\n(8) Starpniecības pakalpojumu sniedzējs, kam uzdots veikt Digitālo pakalpojumu akta 51. panta 3. punkta pirmās daļas \"b\" apakšpunktā minētās darbības, ar kurām ierobežo cita starpniecības pakalpojumu sniedzēja pakalpojuma saņēmēju piekļuvi attiecīgajam starpniecības pakalpojumu sniedzēja pakalpojumam vai cita starpniecības pakalpojumu sniedzēja tiešsaistes saskarnei, nav atbildīgs par zaudējumiem, kas trešām personām radīti šo darbību izpildes dēļ."
+    },
+    {
+      "provision_ref": "Art. 19.5",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.5",
+      "title": "19. 5 pants. Rakstveida apņemšanās",
+      "content": "(1) Rakstveida apņemšanās ir dokuments, kuru pēc digitālo pakalpojumu koordinatora ierosinājuma sastāda starpniecības pakalpojumu sniedzējs, apņemoties noteiktā termiņā novērst Digitālo pakalpojumu aktā minēto pārkāpumu. Rakstveida apņemšanās var ietvert starpniecības pakalpojumu sniedzēja apņemšanos:\n1) neveikt noteiktas darbības;\n2) veikt noteiktas darbības, tajā skaitā atlīdzināt starpniecības pakalpojumu sniedzēja pakalpojuma saņēmējiem nodarītos zaudējumus vai sniegt papildu informāciju, kas nepieciešama, lai nodrošinātu starpniecības pakalpojumu sniedzēja darbības atbilstību Digitālo pakalpojumu aktam.\n(2) Parakstot rakstveida apņemšanos, kurā norādīts pārkāpums, kā arī tā novēršanas veids un termiņš, starpniecības pakalpojumu sniedzējs atzīst, ka ir izdarījis konstatēto pārkāpumu. Rakstveida apņemšanās uzskatāma par saņemtu un stājas spēkā ar brīdi, kad digitālo pakalpojumu koordinators apstiprina tās pieņemšanu, starpniecības pakalpojumu sniedzējam rakstveidā apliecinot, ka attiecīgie pasākumi ir pietiekami pārkāpuma un tā ietekmes novēršanai. Digitālo pakalpojumu koordinatora apliecinājumu, ka rakstveida apņemšanās pieņemta, paziņo Paziņošanas likumā noteiktajā kārtībā. Pārkāpuma novēršanas termiņš nepārsniedz laiku, kas nepieciešams, lai starpniecības pakalpojumu sniedzējs varētu veikt paredzētos pasākumus un nodrošinātu atbilstību Digitālo pakalpojumu aktam, bet nav ilgāks par trim mēnešiem, izņemot gadījumus, kad ilgāku termiņu pamato paredzēto pasākumu raksturs.\n(3) Ja starpniecības pakalpojumu sniedzējs saskaņā ar šā likuma 19. 4 panta pirmās daļas 2. punktu rakstveidā apņemas novērst konstatēto pārkāpumu un rakstveida apņemšanās ir stājusies spēkā, digitālo pakalpojumu koordinators nepieņem šā likuma 19. 4 panta trešajā daļā minēto lēmumu un izbeidz administratīvo lietu daļā par pārkāpumu, kuru starpniecības sniedzējs apņemas novērst. Ja digitālo pakalpojumu koordinators konstatē, ka rakstveida apņemšanās netiek pildīta, tas ir tiesīgs pieņemt šā likuma 19. 4 panta trešajā daļā minēto lēmumu.\n(4) Starpniecības pakalpojumu sniedzējs nekavējoties, bet ne vēlāk kā triju darbdienu laikā pēc šā likuma 19. 4 panta pirmās daļas 2. punktā noteiktā termiņa beigām informē digitālo pakalpojumu koordinatoru par apņemšanās izpildi, pievienojot to pamatojošus pierādījumus."
+    },
+    {
+      "provision_ref": "Art. 19.6",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.6",
+      "title": "19. 6 pants. Soda naudas un periodisko soda naudas maksājumu piemērošana",
+      "content": "(1) Digitālo pakalpojumu koordinators ir tiesīgs par Digitālo pakalpojumu akta pārkāpšanu piemērot starpniecības pakalpojumu sniedzējam soda naudu līdz sešiem procentiem no starpniecības pakalpojumu sniedzēja gada apgrozījuma pasaulē iepriekšējā finanšu gadā un, lai nodrošinātu šā likuma 19. 4 panta trešās daļas 1. punktā minētā lēmuma izpildi, periodisko soda naudas maksājumu līdz pieciem procentiem par katru dienu no starpniecības pakalpojumu sniedzēja vidējā dienas apgrozījuma vai ienākuma pasaulē iepriekšējā finanšu gadā, ko aprēķina no attiecīgajā lēmumā norādītā datuma.\n(2) Digitālo pakalpojumu koordinators, kompetences ietvaros izmeklējot starpniecības pakalpojumu sniedzēja darbības atbilstību Digitālo pakalpojumu akta prasībām, ir tiesīgs par nepareizas, nepilnīgas vai maldinošas informācijas sniegšanu, par atbildes nesniegšanu vai nepareizas, nepilnīgas vai maldinošas informācijas nelabošanu un par nepakļaušanos pārbaudei piemērot starpniecības pakalpojumu sniedzējam vai citai personai soda naudu līdz vienam procentam no starpniecības pakalpojumu sniedzēja vai personas gada apgrozījuma pasaulē iepriekšējā finanšu gadā.\n(3) Digitālo pakalpojumu koordinators ir tiesīgs par Digitālo pakalpojumu akta 51. panta 1. punktā minēto digitālo pakalpojumu koordinatora likumīgo prasību nepildīšanu piemērot starpniecības pakalpojumu sniedzējam vai citai personai periodisko soda naudas maksājumu līdz pieciem procentiem par katru dienu no starpniecības pakalpojumu sniedzēja vai personas vidējā dienas apgrozījuma vai ienākuma pasaulē iepriekšējā finanšu gadā, ko aprēķina no attiecīgajā lēmumā norādītā datuma."
+    },
+    {
+      "provision_ref": "Art. 19.7",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.7",
+      "title": "19. 7 pants. Lēmums par pagaidu noregulējumu",
+      "content": "(1) Ja digitālo pakalpojumu koordinatoram ir pamats uzskatīt, ka starpniecības pakalpojumu sniedzēja pakalpojuma saņēmējiem var būt nodarīts būtisks kaitējums un nepieciešams steidzami rīkoties, digitālo pakalpojumu koordinators, pamatojoties uz pārkāpuma pirmšķietamu konstatējumu, ir tiesīgs pieņemt šā likuma 19. 4 panta trešās daļas 1. punktā minēto lēmumu kā pagaidu noregulējumu.\n(2) Lēmums par pagaidu noregulējumu ir spēkā no tā paziņošanas brīža līdz brīdim, kad šis lēmums ar digitālo pakalpojumu koordinatora lēmumu tiek atcelts vai grozīts vai kad stājas spēkā digitālo pakalpojumu koordinatora galīgais lēmums."
+    },
+    {
+      "provision_ref": "Art. 19.8",
+      "chapter": "VII 1 nodaļa. Digitālo pakalpojumu akta piemērošana (Nodaļa 23.05.2024 . likuma redakcijā, kas stājas spēkā 21.06.2024. )",
+      "section": "19.8",
+      "title": "19. 8 pants. Lēmuma pārsūdzēšana",
+      "content": "(1) Digitālo pakalpojumu koordinatora lēmumu var pārsūdzēt Administratīvajā rajona tiesā Administratīvā procesa likumā noteiktajā kārtībā. Lēmuma pārsūdzēšana neaptur tā darbību, izņemot daļā par 19. 6 pantā minētajām piemērotajām soda naudām vai periodiskajiem soda naudas maksājumiem.\n(2) Digitālo pakalpojumu koordinatora lēmumu par pagaidu noregulējumu var pārsūdzēt 10 dienu laikā no tā paziņošanas dienas. Lēmuma pārsūdzēšana neaptur tā darbību.\n(3) Pieteikumu par digitālo pakalpojumu koordinatora lēmumu par pagaidu noregulējumu tiesa izskata rakstveida procesā 14 dienu laikā. Tiesas lēmums nav pārsūdzams un stājas spēkā tā pieņemšanas dienā."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VIII nodaļa. Administratīvie pārkāpumi teroristiskā satura izplatīšanas novēršanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 27.04.2023 . likuma redakcijā, kas stājas spēkā 29.05.2023. )",
+      "section": "20",
+      "title": "Administratīvie pārkāpumi teroristiskā satura izplatīšanas novēršanas jomā",
+      "content": "(1) Par regulas Nr. 2021/784 4. panta 7. punktā noteiktā pienākuma nekavējoties atjaunot saturu vai piekļuvi tam neizpildi, ja satura vai piekļuves tam atjaunošana pēc tam vairs nav iespējama, piemēro brīdinājumu vai naudas sodu mitināšanas pakalpojumu sniedzējam fiziskajai personai līdz trīssimt naudas soda vienībām, bet juridiskajai personai — līdz trīstūkstoš naudas soda vienībām.\n(2) Par regulas Nr. 2021/784 6. pantā minētā izņemtā teroristiskā satura vai teroristiskā satura, kam ir atspējota piekļuve, vai ar to saistīto datu nesaglabāšanu noteiktajā termiņā piemēro brīdinājumu vai naudas sodu mitināšanas pakalpojumu sniedzējam fiziskajai personai līdz četrsimt naudas soda vienībām, bet juridiskajai personai — līdz četrtūkstoš naudas soda vienībām.\n(3) Par regulas Nr. 2021/784 6. pantā noteikto piemērotu tehnisko un organizatorisko aizsardzības pasākumu, kas vērsti uz izņemtā teroristiskā satura un ar to saistīto datu aizsardzību, nenodrošināšanu piemēro brīdinājumu vai naudas sodu mitināšanas pakalpojumu sniedzējam fiziskajai personai līdz četrsimt naudas soda vienībām, bet juridiskajai personai — līdz četrtūkstoš naudas soda vienībām.\n(4) Par regulas Nr. 2021/784 14. panta 5. punktā noteiktās informācijas par teroristisku saturu, kas saistīts ar tūlītējiem draudiem dzīvībai, nesniegšanu vai savlaicīgu nesniegšanu izmeklēšanas iestādei vai prokuratūrai, kontaktpunktam vai Eiropolam piemēro brīdinājumu vai naudas sodu mitināšanas pakalpojumu sniedzējam fiziskajai personai līdz četrsimt naudas soda vienībām, bet juridiskajai personai — līdz četrtūkstoš naudas soda vienībām.\n(5) Par sistemātisku vai pastāvīgu teroristiska satura neizņemšanu vai piekļuves tam neatspējošanu visās dalībvalstīs noteiktajā termiņā mitināšanas pakalpojumu sniedzējam piemēro naudas sodu apmērā līdz četriem procentiem no mitināšanas pakalpojumu sniedzēja kopējā apgrozījuma iepriekšējā saimnieciskajā gadā."
+    },
+    {
+      "provision_ref": "Art. 21",
+      "chapter": "VIII nodaļa. Administratīvie pārkāpumi teroristiskā satura izplatīšanas novēršanas jomā un kompetence administratīvo pārkāpumu procesā (Nodaļa 27.04.2023 . likuma redakcijā, kas stājas spēkā 29.05.2023. )",
+      "section": "21",
+      "title": "Kompetence administratīvo pārkāpumu procesā",
+      "content": "Administratīvā pārkāpuma procesu par šā likuma 20. pantā minētajiem pārkāpumiem veic Valsts policija."
     }
   ],
   "definitions": [
     {
-      "term": "Information society service",
-      "definition": "Any service normally provided for remuneration, at a distance, by electronic means, and at the individual request of a recipient of services.",
-      "source_provision": "Art. 2"
+      "term": "elektroniskais pasts",
+      "definition": "pakalpojumu veids, kas elektronisko sakaru tīklam pievienoto datoru lietotājiem nodrošina iespēju nosūtīt un saņemt paziņojumu",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Service provider",
-      "definition": "Any natural or legal person providing an information society service.",
-      "source_provision": "Art. 2"
+      "term": "informācijas sabiedrības pakalpojums",
+      "definition": "distances pakalpojums (puses vienlaicīgi nesatiekas), kuru parasti sniedz par maksu, izmantojot elektroniskus līdzekļus (elektroniskas datu apstrādes un uzglabāšanas, tajā skaitā ciparu saspiešanas, iekārtas), un pēc pakalpojuma saņēmēja individuāla pieprasījuma. Informācijas sabiedrības pakalpojumi ietver preču un pakalpojumu elektronisku tirdzniecību, komerciālo paziņojumu sūtīšanu, iespēju piedāvāšanu informācijas meklēšanai, piekļuvei pie tās un informācijas ieguvei, pakalpojumus, kas nodrošina informācijas pārraidi elektronisko sakaru tīklā vai piekļuvi elektronisko sakaru tīklam, informācijas glabāšanu, kā arī tiešsaistes starpniecības platformu pakalpojumus",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Commercial communication",
-      "definition": "Any form of communication designed to promote, directly or indirectly, the goods, services, or image of a natural or legal person carrying on a commercial, industrial, or craft activity or exercising a regulated profession.",
-      "source_provision": "Art. 2"
+      "term": "komerciāls paziņojums",
+      "definition": "jebkāds paziņojums elektroniskā veidā, kas paredzēts tiešai vai netiešai preču vai pakalpojumu reklamēšanai vai arī tāda komersanta, organizācijas vai personas tēla reklamēšanai, kas veic komercdarbību, saimniecisku darbību vai reglamentēto profesionālo darbību. Par komerciālo paziņojumu neuzskata informāciju, kas dod iespēju tieši piekļūt vispārējai informācijai par pakalpojuma sniedzēju un tā darbību (domēna vārds vai elektroniskā pasta adrese)",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "koordinētā sfēra",
+      "definition": "joma, kur ir spēkā normatīvajos aktos noteikta informācijas sabiedrības pakalpojumu sniegšanas kārtība (prasības attiecībā uz komercdarbības uzsākšanu un veikšanu), kā arī prasības attiecībā uz informācijas sabiedrības pakalpojumiem. Koordinētajā sfērā neietilpst prasības attiecībā uz precēm vai to piegādi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "mitināšanas pakalpojumu sniedzējs",
+      "definition": "informācijas sabiedrības pakalpojumu sniedzējs, kas nodrošina satura sniedzēja sniegtās informācijas glabāšanu pēc satura sniedzēja pieprasījuma.",
+      "source_provision": "Art. 1"
     }
   ]
 }

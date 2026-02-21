@@ -5,151 +5,210 @@
   "title_en": "Electronic Documents Law",
   "short_name": "EDL",
   "status": "in_force",
-  "issued_date": "2002-10-31",
-  "in_force_date": "2003-01-01",
-  "url": "https://likumi.lv/ta/id/68521",
-  "description": "Latvian law governing electronic documents, electronic signatures, and their legal equivalence with paper documents and handwritten signatures. Complements Regulation (EU) 910/2014 (eIDAS).",
+  "url": "https://likumi.lv/ta/id/68521-elektronisko-dokumentu-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
   "provisions": [
     {
       "provision_ref": "Art. 1",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
       "section": "1",
-      "title": "Purpose of the Law",
-      "content": "The purpose of this Law is to establish the legal framework for the creation, processing, storage, and transmission of electronic documents, and to define the legal effect of electronic documents and electronic signatures. This Law complements Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation)."
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) (izslēgts ar 11.05.2017 . likumu) ;\n2) drošs elektroniskais paraksts — kvalificēts elektroniskais paraksts Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK (turpmāk — Regula Nr. 910/2014 /ES) 3. panta 12. punkta izpratnē;\n3) elektroniskais dokuments — elektroniskais dokuments Regulas Nr. 910/2014 /ES 3. panta 35. punkta izpratnē;\n4) elektroniskais paraksts — elektroniskais paraksts Regulas Nr. 910/2014 /ES 3. panta 10. punkta izpratnē;\n5) elektroniskā paraksta pārbaudes dati — validācijas dati Regulas Nr. 910/2014 /ES 3. panta 40. punkta izpratnē;\n6) elektroniskā paraksta radīšanas dati — elektroniskā paraksta radīšanas dati Regulas Nr. 910/2014 /ES 3. panta 13. punkta izpratnē;\n7) kvalificēts sertifikāts — kvalificēts elektroniskā paraksta sertifikāts Regulas Nr. 910/2014 /ES 3. panta 15. punkta izpratnē;\n8) laika zīmogs — kvalificēts elektroniskais laika zīmogs Regulas Nr. 910/2014 /ES 3. panta 34. punkta izpratnē;\n9) parakstītājs — parakstītājs Regulas Nr. 910/2014 /ES 3. panta 9. punkta izpratnē;\n10) sertifikācijas pakalpojumi — uzticamības pakalpojumi Regulas Nr. 910/2014 /ES 3. panta 16. punkta izpratnē;\n11) sertifikāts — elektroniskā paraksta sertifikāts Regulas Nr. 910/2014 /ES 3. panta 14. punkta izpratnē;\n12) sertifikācijas pakalpojumu sniedzējs — uzticamības pakalpojumu sniedzējs Regulas Nr. 910/2014 /ES 3. panta 19. punkta izpratnē;\n13) uzticams sertifikācijas pakalpojumu sniedzējs — kvalificēts uzticamības pakalpojumu sniedzējs Regulas Nr. 910/2014 /ES 3. panta 20. punkta izpratnē."
     },
     {
       "provision_ref": "Art. 2",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa Vispārīgie noteikumi",
       "section": "2",
-      "title": "Scope",
-      "content": "This Law applies to the creation, processing, storage, and transmission of electronic documents in legal transactions between natural persons, legal persons, and state and local government institutions. This Law does not apply to transactions where specific laws require a document to be in paper form or to have a notarised signature."
+      "title": "Likuma darbība",
+      "content": "(1) Šis likums nosaka elektroniskā dokumenta un elektroniskā paraksta tiesisko statusu un attiecas uz sertifikācijas pakalpojumu sniegšanu atbilstoši Regulā Nr. 910/2014 /ES noteiktajām prasībām.\n(2) Šā likuma noteikumi par elektronisko dokumentu apriti starp valsts un pašvaldību iestādēm ir piemērojami arī citām publiskām personām un to iestādēm, tiesām, tiesu sistēmai piederīgajām personām un iestādēm, kā arī sabiedrisko pakalpojumu sniedzējiem likuma \" Par sabiedrisko pakalpojumu regulatoriem \" izpratnē."
     },
     {
       "provision_ref": "Art. 3",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "II nodaļa Elektroniskais dokuments un tā atvasinājumi",
       "section": "3",
-      "title": "Definitions",
-      "content": "For the purposes of this Law: 1) Electronic document means a document created, stored, and transmitted in electronic form, the content of which is fixed in digital data; 2) Electronic signature means data in electronic form which is attached to or logically associated with other electronic data and which is used by the signatory to sign; 3) Qualified electronic signature means an advanced electronic signature that is created by a qualified electronic signature creation device and is based on a qualified certificate, as defined in Regulation (EU) 910/2014."
+      "title": "Elektroniskais dokuments",
+      "content": "(1) Prasība pēc dokumenta rakstveida formas attiecībā uz elektronisko dokumentu ir izpildīta, ja elektroniskajam dokumentam ir elektroniskais paraksts un elektroniskais dokuments atbilst citām normatīvajos aktos noteiktajām prasībām.\n(2) Elektroniskais dokuments uzskatāms par pašrocīgi parakstītu, ja tam ir drošs elektroniskais paraksts. Elektronisko dokumentu uzskata par pašrocīgi parakstītu arī tajos gadījumos, kad tam ir elektroniskais paraksts un puses par elektroniskā dokumenta parakstīšanu ar elektronisko parakstu ir vienojušās rakstveidā. Šādā gadījumā rakstveida vienošanās noformējama un parakstāma uz papīra vai elektroniski ar drošu elektronisko parakstu.\n(3) Ja normatīvie akti paredz, ka dokumentam papildus citiem rekvizītiem nepieciešams arī zīmoga nospiedums, šī prasība attiecībā uz elektronisko dokumentu ir izpildīta, ja elektroniskajam dokumentam ir drošs elektroniskais paraksts un laika zīmogs vai elektroniskais paraksts, ja puses šā panta otrajā daļā noteiktajā kārtībā rakstveidā vienojušās par elektroniskā dokumenta parakstīšanu ar elektronisko parakstu.\n(4) (Izslēgta ar 11.05.2017 . likumu)\n(5) Elektronisko dokumentu apritē starp valsts un pašvaldību iestādēm vai starp šīm iestādēm un fiziskajām un juridiskajām personām elektroniskais dokuments uzskatāms par parakstītu, ja tam ir drošs elektroniskais paraksts un laika zīmogs vai elektroniskais paraksts, ja puses šā panta otrajā daļā noteiktajā kārtībā rakstveidā vienojušās par elektroniskā dokumenta parakstīšanu ar elektronisko parakstu.\n(6) Šis likums piemērojams tiktāl, ciktāl citos normatīvajos aktos nav noteikta cita dokumentu noformēšanas kārtība un nosacījumi."
     },
     {
       "provision_ref": "Art. 4",
-      "chapter": "Chapter II - Legal Effect",
+      "chapter": "II nodaļa Elektroniskais dokuments un tā atvasinājumi",
       "section": "4",
-      "title": "Legal Equivalence of Electronic Documents",
-      "content": "An electronic document shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in electronic form. An electronic document that complies with the requirements of this Law shall have the same legal effect as a paper document."
+      "title": "Elektroniskā dokumenta oriģināls",
+      "content": "(1) Ja normatīvie akti nosaka prasību glabāt vai uzrādīt dokumenta oriģinālu, šī prasība attiecībā uz elektronisko dokumentu ir izpildīta, ja elektroniskais dokuments atbilst šā likuma 3.panta otrās un trešās daļas prasībām.\n(2) Šā panta pirmā daļa attiecas uz pienākuma formā izteiktu prasību vai gadījumu, kad normatīvie akti paredz noteiktas juridiskas sekas par dokumenta neuzglabāšanu vai dokumenta oriģināla neuzrādīšanu."
     },
     {
       "provision_ref": "Art. 5",
-      "chapter": "Chapter II - Legal Effect",
+      "chapter": "II nodaļa Elektroniskais dokuments un tā atvasinājumi",
       "section": "5",
-      "title": "Legal Effect of Electronic Signatures",
-      "content": "A qualified electronic signature shall have the equivalent legal effect of a handwritten signature in accordance with Article 25(2) of Regulation (EU) 910/2014. An electronic signature that does not meet the requirements for a qualified electronic signature shall not be denied legal effect solely on the grounds that it is in electronic form or that it does not meet the requirements for a qualified electronic signature."
+      "title": "Elektroniskā dokumenta atvasinājumi",
+      "content": "(1) Elektroniskā dokumenta kopijai, norakstam vai izrakstam papīra formā ir tāds pats juridiskais spēks kā oriģinālam, ja kopijas, noraksta vai izraksta pareizība apliecināta saskaņā ar normatīvo aktu prasībām un ja papīra kopijas, noraksta vai izraksta izsniedzējs pēc pieprasījuma var uzrādīt dokumenta oriģinālu elektroniskā formā un tas atbilst šā likuma prasībām.\n(2) Papīra dokumenta elektroniskajai kopijai, norakstam vai izrakstam ir tāds pats juridiskais spēks kā oriģinālam, ja persona, kurai saskaņā ar normatīvo aktu prasībām ir tiesības apliecināt dokumentu oriģinālu kopijas, norakstus vai izrakstus, ir apliecinājusi tā pareizību ar drošu elektronisko parakstu un laika zīmogu vai elektronisko parakstu, ja puses šā likuma 3.panta otrajā daļā noteiktajā kārtībā rakstveidā vienojušās par elektroniskā dokumenta parakstīšanu ar elektronisko parakstu, un tas atbilst normatīvo aktu prasībām.\n(3) Papīra dokumenta dublikātam elektroniskā formā ir tāds pats juridiskais spēks kā oriģinālam, ja dublikāts izdots un noformēts atbilstoši šā likuma un citu normatīvo aktu prasībām.\n(4) Veidot elektroniskā dokumenta atvasinājumus papīra formā var tikai no tādiem elektroniskajiem dokumentiem, kurus ir iespējams uzrādīt lasāmā vai grafiskā veidā."
     },
     {
       "provision_ref": "Art. 6",
-      "chapter": "Chapter II - Legal Effect",
+      "chapter": "III nodaļa Elektronisko dokumentu aprites un glabāšanas noteikumi",
       "section": "6",
-      "title": "Electronic Seals",
-      "content": "An electronic seal shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in electronic form or that it does not meet the requirements for a qualified electronic seal. A qualified electronic seal shall enjoy the presumption of integrity of the data and of correctness of the origin of that data, in accordance with Article 35 of Regulation (EU) 910/2014."
+      "title": "Elektronisko dokumentu aprites un glabāšanas vispārīgie noteikumi",
+      "content": "(1) Ja normatīvie akti nosaka prasības atsevišķa veida papīra dokumenta izstrādāšanai, noformēšanai un glabāšanai, šie paši noteikumi attiecināmi arī uz elektroniskajiem dokumentiem.\n(2) Elektronisko dokumentu izstrādāšanas, noformēšanas, glabāšanas un aprites kārtību valsts un pašvaldību iestādēs un kārtību, kādā notiek elektronisko dokumentu aprite starp valsts un pašvaldību iestādēm vai starp šīm iestādēm un fiziskajām un juridiskajām personām, reglamentē Ministru kabineta noteikumi.\n(3) Latvijas Nacionālais arhīvs ir atbildīgs par elektronisko dokumentu izvērtēšanu un atlasi ilgstošai un pastāvīgai glabāšanai, tas arī uzrauga, lai valsts un pašvaldību iestāžu arhīvos tiktu nodrošināta elektronisko dokumentu saglabāšana un pieejamība.\n(4) Valsts un pašvaldību iestādes izstrādā elektronisko dokumentu iekšējās aprites instrukcijas, kuras atbilst šim likumam un šā panta otrajā daļā minētajiem Ministru kabineta noteikumiem, kā arī iestādes darba specifikai un nodrošina fiziskajām un juridiskajām personām iespēju iesniegt valsts un pašvaldību iestādēm un saņemt no tām dokumentus, to kopijas, norakstus, izrakstus un dublikātus elektroniskā vai citā formā pēc personas izvēles.\n(5) Elektronisko dokumentu izvērtēšanas veidu, saglabāšanas kārtību un termiņu, kādā tie nododami Latvijas Nacionālajam arhīvam glabāšanā, reglamentē Ministru kabineta noteikumi."
     },
     {
       "provision_ref": "Art. 7",
-      "chapter": "Chapter II - Legal Effect",
+      "chapter": "III nodaļa Elektronisko dokumentu aprites un glabāšanas noteikumi",
       "section": "7",
-      "title": "Electronic Time Stamps",
-      "content": "An electronic time stamp shall not be denied legal effect and admissibility as evidence in legal proceedings solely on the grounds that it is in electronic form or that it does not meet the requirements for a qualified electronic time stamp. A qualified electronic time stamp shall enjoy the presumption of the accuracy of the date and time it indicates and the integrity of the data to which the date and time are bound, in accordance with Article 41 of Regulation (EU) 910/2014."
+      "title": "Elektronisko dokumentu glabāšanas speciālie noteikumi",
+      "content": "(1) Ja normatīvie akti paredz, ka noteikti dokumenti, ieraksti vai dati ir jāglabā, šī prasība attiecībā uz elektronisko dokumentu ir izpildīta, ja:\n1) dati, ko tas ietver, ir pieejami izmantošanai;\n2) elektroniskais dokuments ir saglabāts tādā formā, kādā tas sākotnēji radīts, nosūtīts vai saņemts, vai tādā formā, kurā ir redzami sākotnēji radītie, nosūtītie vai saņemtie dati;\n3) saglabātie dati ļauj noteikt elektroniskā dokumenta izcelsmi vai galamērķi, nosūtīšanas vai saņemšanas laiku.\n(2) Šā panta pirmās daļas 3.punkta noteikumi neattiecas uz datiem, kas automātiski tiek radīti elektroniskā dokumenta saņemšanas vai nosūtīšanas procesā.\n(3) Persona var izpildīt šā panta pirmās daļas prasības, izmantojot citas personas pakalpojumus, ja tiek ievēroti šā likuma noteikumi."
     },
     {
       "provision_ref": "Art. 8",
-      "chapter": "Chapter III - Requirements for Electronic Documents",
+      "chapter": "IV nodaļa Sertifikācijas pakalpojumu sniedzējs un uzticams sertifikācijas pakalpojumu sniedzējs",
       "section": "8",
-      "title": "Requirements for Electronic Documents in Public Administration",
-      "content": "Electronic documents submitted to and issued by state and local government institutions shall be signed with a qualified electronic signature or sealed with a qualified electronic seal. The Cabinet of Ministers shall determine the format and technical requirements for electronic documents exchanged with public administration institutions."
-    },
-    {
-      "provision_ref": "Art. 9",
-      "chapter": "Chapter III - Requirements for Electronic Documents",
-      "section": "9",
-      "title": "Storage of Electronic Documents",
-      "content": "Electronic documents shall be stored in a manner that ensures their integrity, readability, and accessibility for the entire retention period required by law. The person responsible for the storage of electronic documents shall implement appropriate technical and organisational measures to prevent unauthorised alteration, deletion, or loss of the documents."
+      "title": "Sertifikācijas pakalpojumu sniedzējs",
+      "content": "(1) Sertifikācijas pakalpojumu sniedzējs ir fiziskā vai juridiskā persona, kas sniedz sertifikācijas pakalpojumus bez speciālas atļaujas saņemšanas.\n(2) Sertifikācijas pakalpojumu sniedzēja apstiprināšana ir brīvprātīga.\n(3) Attiecībā uz uzticamu sertifikācijas pakalpojumu sniedzēju papildus šā likuma prasībām, kas noteiktas sertificēta pakalpojuma sniedzējam, piemērojami Regulas Nr. 910/2014 /ES noteikumi."
     },
     {
       "provision_ref": "Art. 10",
-      "chapter": "Chapter III - Requirements for Electronic Documents",
+      "chapter": "IV nodaļa Sertifikācijas pakalpojumu sniedzējs un uzticams sertifikācijas pakalpojumu sniedzējs",
       "section": "10",
-      "title": "Transmission of Electronic Documents",
-      "content": "Electronic documents may be transmitted by electronic mail, through state information systems, or by other electronic means that ensure the identification of the sender and the integrity of the document. Where a law or regulation requires the delivery of a document, an electronic document shall be deemed delivered when the addressee has been able to access it."
-    },
-    {
-      "provision_ref": "Art. 11",
-      "chapter": "Chapter IV - Trust Services",
-      "section": "11",
-      "title": "Trust Service Providers",
-      "content": "Trust service providers operating in Latvia shall comply with the requirements of Regulation (EU) 910/2014 and this Law. Qualified trust service providers shall be subject to supervision by the designated supervisory body. The supervisory body shall maintain and publish a trusted list of qualified trust service providers and the qualified trust services provided by them."
-    },
-    {
-      "provision_ref": "Art. 12",
-      "chapter": "Chapter IV - Trust Services",
-      "section": "12",
-      "title": "Supervisory Body",
-      "content": "The National Agency for Information Technologies (LVRTC — Latvijas Valsts radio un televīzijas centrs) shall serve as the supervisory body for qualified trust service providers in accordance with Article 17 of Regulation (EU) 910/2014. The supervisory body shall carry out regular audits of qualified trust service providers and take enforcement action where necessary."
-    },
-    {
-      "provision_ref": "Art. 13",
-      "chapter": "Chapter IV - Trust Services",
-      "section": "13",
-      "title": "Liability of Trust Service Providers",
-      "content": "A qualified trust service provider shall be liable for damage caused intentionally or negligently to any natural or legal person due to a failure to comply with the obligations under Regulation (EU) 910/2014 and this Law. The burden of proving the absence of intentional or negligent conduct shall lie with the qualified trust service provider, in accordance with Article 13 of Regulation (EU) 910/2014."
+      "title": "Uzticama sertifikācijas pakalpojumu sniedzēja darbības apstiprināšana",
+      "content": "(1) (Izslēgta ar 05.12.2019 . likumu)\n(2) Par uzticama sertifikācijas pakalpojumu sniedzēja darbības apstiprināšanu maksājama valsts nodeva, kuras apmēru un samaksas kārtību nosaka Ministru kabinets."
     },
     {
       "provision_ref": "Art. 14",
-      "chapter": "Chapter V - Electronic Identification",
+      "chapter": "IV nodaļa Sertifikācijas pakalpojumu sniedzējs un uzticams sertifikācijas pakalpojumu sniedzējs",
       "section": "14",
-      "title": "National Electronic Identification Scheme",
-      "content": "Latvia shall maintain a national electronic identification scheme that meets the requirements for notification under Article 9 of Regulation (EU) 910/2014. The national identity card (eID) and the electronic identification system based on it shall serve as the primary means of electronic identification for access to public services."
+      "title": "Civiltiesiskās atbildības apdrošināšana",
+      "content": "(1) Ar uzticama sertifikācijas pakalpojumu sniedzēja darbību saistītais iespējamā zaudējuma risks ir obligāti apdrošināms.\n(2) Uzticama sertifikācijas pakalpojumu sniedzēja darbības riska apdrošināšana nodrošina prasījumus, kas var rasties sakarā ar viņa darbību.\n(3) Uzticamam sertifikācijas pakalpojumu sniedzējam apdrošināšanas līgums ir noslēdzams pirms darbības apstiprināšanas saņemšanas, un apdrošināšanas līgums uzturams spēkā visā sertifikācijas pakalpojumu sniegšanas laikā.\n(4) Ja uzticama sertifikācijas pakalpojumu sniedzēja darbības vai bezdarbības rezultātā ir nodarīts zaudējums, apdrošināšanas sabiedrība, pamatojoties uz apdrošināšanas līgumu, šo zaudējumu sedz no uzticama sertifikācijas pakalpojumu sniedzēja apdrošināšanas atlīdzības.\n(5) Minimālo apdrošināšanas summu nosaka Ministru kabinets."
     },
     {
       "provision_ref": "Art. 15",
-      "chapter": "Chapter V - Electronic Identification",
+      "chapter": "IV nodaļa Sertifikācijas pakalpojumu sniedzējs un uzticams sertifikācijas pakalpojumu sniedzējs",
       "section": "15",
-      "title": "Mutual Recognition",
-      "content": "Electronic identification means issued under notified electronic identification schemes of other EU Member States shall be recognised for the purpose of cross-border authentication in accessing public online services, in accordance with Article 6 of Regulation (EU) 910/2014. The level of assurance of the electronic identification means shall be equal to or higher than the level required by the national public online service."
+      "title": "Fizisko personu datu aizsardzība",
+      "content": "(1) Sertifikācijas pakalpojumu sniedzējs drīkst iegūt fiziskās personas datus tikai tieši no pašas fiziskās personas vai no trešās personas, ja fiziskā persona ir rakstveidā piekritusi, ka tās datus konkrēts sertifikācijas pakalpojumu sniedzējs iegūst no trešās personas.\n(2) Sertifikācijas pakalpojumu sniedzējs drīkst apstrādāt fiziskās personas datus tikai sertifikācijas pakalpojumu sniegšanai.\n(3) Sertifikācijas pakalpojumu sniedzējs nedrīkst citiem mērķiem apstrādāt fiziskās personas datus, kuri iegūti sertifikācijas pakalpojumu sniegšanai."
     },
     {
       "provision_ref": "Art. 16",
-      "chapter": "Chapter V - Electronic Identification",
+      "chapter": "V nodaļa Kvalificēts sertifikāts",
       "section": "16",
-      "title": "Security Requirements for eID",
-      "content": "The electronic identification scheme shall implement appropriate security measures to ensure the reliability, confidentiality, and integrity of the electronic identification process. These measures shall include multi-factor authentication, secure issuance procedures, cryptographic protection of identity data, and regular security assessments. The Cabinet of Ministers shall determine specific security requirements."
+      "title": "Kvalificētā sertifikātā iekļaujamā informācija",
+      "content": "(1) Kvalificētā sertifikātā iekļauj informāciju saskaņā ar Regulas Nr. 910/2014 /ES I pielikumu.\n(2) Papildus šā panta pirmajā daļā minētajai informācijai kvalificētā sertifikātā pēc parakstītāja rakstveida pieprasījuma var iekļaut arī šādu informāciju:\n1) kvalificēta sertifikāta darbības jomu vai citus sertifikāta darbības ierobežojumus;\n2) specifisku uz parakstītāju attiecināmu juridisku faktu (ja tāds vajadzīgs) atkarībā no mērķa, kādam kvalificēts sertifikāts paredzēts;\n3) (izslēgts ar 24.05.2007 . likumu) ;\n4) (izslēgts ar 05.03.2015 . likumu);\n5) summas ierobežojumus darījumiem, kuru veikšanai var izmantot kvalificētu sertifikātu.\n(3) (Izslēgta ar 11.05.2017 . likumu)\n(4) (Izslēgta ar 11.05.2017 . likumu)"
     },
     {
       "provision_ref": "Art. 17",
-      "chapter": "Chapter VI - Final Provisions",
+      "chapter": "V nodaļa Kvalificēts sertifikāts",
       "section": "17",
-      "title": "Transitional Provisions",
-      "content": "Electronic documents and electronic signatures created before the entry into force of this Law shall retain their legal effect if they comply with the legal requirements that were in force at the time of their creation. Trust service providers operating at the time of entry into force of Regulation (EU) 910/2014 shall bring their operations into compliance with the requirements of the Regulation within the timeframe specified therein."
+      "title": "Kvalificēta sertifikāta izsniegšana",
+      "content": "(1) Lai saņemtu kvalificētu sertifikātu, parakstītājs iesniedz pašrocīgi parakstītu rakstveida pieteikumu.\n(2) Pirms kvalificēta elektroniskā paraksta sertifikāta izsniegšanas uzticams sertifikācijas pakalpojumu sniedzējs klātienē pārliecinās par parakstītāja identitāti, pamatojoties uz parakstītāja uzrādītu personu apliecinošu dokumentu, vai elektroniski, pamatojoties uz parakstītāja pieteikumu, kas parakstīts ar parakstītāja kvalificētu elektronisko parakstu vai saskaņā ar Fizisko personu elektroniskās identifikācijas likumu .\n(3) Uzticams sertifikācijas pakalpojumu sniedzējs pēc parakstītāja rakstveida pieprasījuma kvalificētā sertifikātā iekļauj informāciju par parakstītāja pilnvarām vai citu nozīmīgu informāciju, kas minēta šā likuma 16.panta otrajā daļā.\n(4) Uzticams sertifikācijas pakalpojumu sniedzējs pēc parakstītāja rakstveida pieprasījuma kvalificētā sertifikātā parakstītāja vārda un uzvārda vietā var ierakstīt pseidonīmu, par to attiecīgi norādot sertifikātā.\n(5) Kvalificētu sertifikātu parakstītājam izsniedz uzticams sertifikācijas pakalpojumu sniedzējs.\n(6) Parakstītājam var izsniegt vairākus kvalificētus sertifikātus.\n(7) Uzticams sertifikācijas pakalpojumu sniedzējs, saglabājot šajā likumā noteikto atbildību, uz līguma pamata var uzticēt citai personai veikt šā panta otrajā, trešajā, ceturtajā un piektajā daļā noteiktās darbības, ja tam rakstveida piekrišanu devusi uzraudzības iestāde."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "V nodaļa Kvalificēts sertifikāts",
+      "section": "18",
+      "title": "Kvalificēta sertifikāta atsaukšana, tā darbības apturēšana un atjaunošana",
+      "content": "(1) (Izslēgta ar 11.05.2017 . likumu)\n(2) Uzticams sertifikācijas pakalpojumu sniedzējs kvalificētu sertifikātu nekavējoties atsauc šādos gadījumos:\n1) parakstītājs pieprasa atsaukt sertifikātu;\n2) uzticams sertifikācijas pakalpojumu sniedzējs saņem oficiālu informāciju par parakstītāja nāvi vai mainās cita sertifikātā iekļautā informācija;\n3) parakstītājs ir sniedzis uzticamam sertifikācijas pakalpojumu sniedzējam nepatiesas vai maldinošas ziņas, lai saņemtu kvalificētu sertifikātu;\n4) izpildot tiesas nolēmumu par kvalificēta sertifikāta atsaukšanu;\n5) līgumā par sertifikācijas pakalpojumu sniegšanu noteiktajos gadījumos.\n(3) Kvalificēta sertifikāta darbības apturēšana ir šā sertifikāta atzīšana par nederīgu uz laiku. Apturēta kvalificēta sertifikāta darbību var atjaunot.\n(4) Kvalificēta sertifikāta darbības atjaunošana ir tāda kvalificēta sertifikāta atzīšana par derīgu, kura darbība bijusi apturēta.\n(5) Kvalificēta sertifikāta darbību aptur un atjauno uzticams sertifikācijas pakalpojumu sniedzējs šādos gadījumos:\n1) izpildot tiesas nolēmumu;\n2) pamatojoties uz parakstītāja rakstveida pieprasījumu;\n3) līgumā par sertifikācijas pakalpojumu sniegšanu noteiktajos gadījumos.\n(6) Kvalificētu sertifikātu nevar atsaukt un tā darbību nevar apturēt vai atjaunot ar atpakaļejošu datumu.\n(7) Drošs elektroniskais paraksts, kas radīts pēc kvalificēta sertifikāta atsaukšanas vai laikā, kad sertifikāta darbība ir bijusi apturēta, nav derīgs.\n(8) Drošs elektroniskais paraksts, kas radīts pēc parakstītāja nāves, nav derīgs.\n(9) Ja uzticams sertifikācijas pakalpojumu sniedzējs bez tiesiska pamata, ar ļaunu nolūku vai aiz neuzmanības atsauc kvalificētu sertifikātu, aptur vai atjauno tā darbību, uzticams sertifikācijas pakalpojumu sniedzējs atlīdzina personām nodarītos zaudējumus, kas radušies, nepamatoti atsaucot kvalificētu sertifikātu, apturot vai atjaunojot tā darbību."
+    },
+    {
+      "provision_ref": "Art. 19",
+      "chapter": "VI nodaļa Uzticamu sertifikācijas pakalpojumu sniedzēju uzraudzība",
+      "section": "19",
+      "title": "Uzticamu sertifikācijas pakalpojumu sniedzēju uzraudzības iestāde",
+      "content": "(1) Uzraudzības iestāde veic uzticamu sertifikācijas pakalpojumu sniedzēju un to sniegto pakalpojumu uzraudzību, darbības apstiprināšanu un darbības apstiprinājuma atsaukšanu atbilstoši Regulas Nr. 910/2014 /ES, šā likuma un citu normatīvo aktu prasībām.\n(2) Uzraudzības iestāde regulāri uzrauga uzticamu sertifikācijas pakalpojumu sniedzēju darbības atbilstību Regulas Nr. 910/2014 /ES, šā likuma un citu normatīvo aktu prasībām.\n(3) Uzraudzības iestādi un tās darba organizācijas kārtību nosaka Ministru kabinets."
+    },
+    {
+      "provision_ref": "Art. 20",
+      "chapter": "VI nodaļa Uzticamu sertifikācijas pakalpojumu sniedzēju uzraudzība",
+      "section": "20",
+      "title": "Uzraudzības iestādes pienākumi",
+      "content": "(1) (Izslēgta ar 05.12.2019 . likumu)\n(2) Uzraudzības iestāde izveido, uztur un publicē savā tīmekļvietnē uzticamības sarakstus, tai skaitā informāciju par uzticamajiem sertifikācijas pakalpojumu sniedzējiem, par kuriem tā ir atbildīga, kā arī informāciju par šo pakalpojumu sniedzēju sniegtajiem uzticamajiem sertifikācijas pakalpojumiem un atbilstoši Regulai Nr. 910/2014 /ES sniedz informāciju Eiropas Komisijai.\n(3) Uzraudzības iestāde atbilstoši Regulai Nr. 910/2014 /ES publicē savā tīmekļvietnē minētajā regulā noteiktos un ieviestos standartu numurus, kā arī tajā noteiktās un ieviestās tehniskās specifikācijas, formātus un procedūras.\n(4) Uzraudzības iestāde publicē un aktualizē savā tīmekļvietnē informāciju par Eiropas Komisijas trešo valstu uzticamības sarakstā iekļautajiem sertifikācijas pakalpojumu sniedzējiem."
+    },
+    {
+      "provision_ref": "Art. 22",
+      "chapter": "VI nodaļa Uzticamu sertifikācijas pakalpojumu sniedzēju uzraudzība",
+      "section": "22",
+      "title": "Uzticama sertifikācijas pakalpojumu sniedzēja un tā sniegto pakalpojumu darbības izbeigšana, tā pasludināšana par maksātnespējīgu un darbības apstiprinājuma atsaukšana",
+      "content": "(1) Uzticams sertifikācijas pakalpojumu sniedzējs nekavējoties rakstveidā informē uzraudzības iestādi un savā tīmekļvietnē nodrošina parakstītājiem, ar kuriem tam noslēgts sertifikācijas pakalpojumu sniegšanas līgums vai kuriem ir izsniegta personas apliecība ar informāciju, kas nepieciešama droša elektroniskā paraksta radīšanai, publiski pieejamu informāciju par to, ka tā darbība ir izbeigta, tas ir pasludināts par maksātnespējīgu vai tam ir atsaukts sertifikācijas pakalpojumu sniedzēja vai tā sniegto pakalpojumu darbības apstiprinājums.\n(1 1 ) Ja uzticama sertifikācijas pakalpojumu sniedzēja vai tā sniegto pakalpojumu darbības apstiprinājums ir atsaukts, bet tā darbība netiek izbeigta vai tas nav pasludināts par maksātnespējīgu, tas saglabā visu informāciju par tā izsniegtajiem un saņemtajiem datiem un nodrošina šīs informācijas pieejamību.\n(1 2 ) Ja uzticama sertifikācijas pakalpojumu sniedzēja darbība ir izbeigta vai tas ir pasludināts par maksātnespējīgu, Ministru kabinets nekavējoties lemj par visas tās informācijas nodošanu trešai personai, kura satur uzticama sertifikācijas pakalpojumu sniedzēja izsniegtos un saņemtos datus.\n(2) (Izslēgta ar 05.12.2019 . likumu)\n(3) (Izslēgta ar 05.12.2019 . likumu)\n(4) (Izslēgta ar 05.12.2019 . likumu)\n(5) (Izslēgta ar 05.12.2019 . likumu)\n(6) Uzraudzības iestāde nekavējoties atsauc darbību izbeigušā vai par maksātnespējīgu pasludinātā uzticama sertifikācijas pakalpojumu sniedzēja darbības apstiprinājumu, informāciju par to iekļaujot uzticamu sertifikācijas pakalpojumu sniedzēju reģistrā."
+    },
+    {
+      "provision_ref": "Art. 23",
+      "chapter": "VII nodaļa Uzticama sertifikācijas pakalpojumu sniedzēja un parakstītāja pienākumi un atbildība",
+      "section": "23",
+      "title": "Uzticama sertifikācijas pakalpojumu sniedzēja pienākumi",
+      "content": "(1) Uzticamam sertifikācijas pakalpojumu sniedzējam ir šādi pienākumi:\n1) lietot drošas sertifikācijas pakalpojumu sniegšanas informācijas sistēmas, iekārtas un procedūras, kas garantē pienācīgu sertifikācijas pakalpojumu drošību;\n2) veikt nepieciešamos pasākumus, lai garantētu droša elektroniskā paraksta radīšanas datu slepenību un aizsardzību pret nelikumīgu elektroniskā paraksta radīšanas datu apstrādi un izmantošanu, kvalificētu sertifikātu aizsardzību pret viltošanu un šo sertifikātu pieejamību vienīgi ar parakstītāja piekrišanu;\n3) nodrošināt sertifikācijas pakalpojumu sniegšanas informācijas sistēmu, iekārtu un procedūru atbilstību šim likumam un citiem normatīvajiem aktiem;\n4) nodrošināt, lai parakstītāja personu identificējošo informāciju kvalificētā sertifikātā iekļauj, pamatojoties uz parakstītāja klātbūtnē uzrādītu personu apliecinošu dokumentu vai — atbilstoši šā likuma 17.panta otrajai daļai — uz parakstītāja pieteikumu, kas parakstīts ar parakstītāja drošu elektronisko parakstu;\n5) nodrošināt, lai kvalificētu sertifikātu izsniedz, noslēdzot ar parakstītāju līgumu par sertifikācijas pakalpojumu sniegšanu vai izsniedzot personas apliecību ar informāciju, kas nepieciešama droša elektroniskā paraksta radīšanai;\n6) pirms līguma noslēgšanas vai pirms tam, kad tiek izsniegta personas apliecība ar informāciju, kas nepieciešama droša elektroniskā paraksta radīšanai, nodrošināt savā tīmekļvietnē publiski pieejamu informāciju par noteikumiem un nosacījumiem, kas attiecas uz kvalificēta sertifikāta lietošanu, to skaitā par jebkādiem sertifikāta lietošanas ierobežojumiem, par sūdzību un strīdu izskatīšanas procedūrām, par uzticama sertifikācijas pakalpojumu sniedzēja civiltiesisko atbildību, kā arī par līgumā vai normatīvajos aktos, kas attiecas uz personu apliecinošiem dokumentiem, paredzētajiem kvalificēta sertifikāta darbības apturēšanas, atsaukšanas un atjaunošanas gadījumiem;\n7) pirms līguma noslēgšanas vai pirms tam, kad tiek izsniegta personas apliecība ar informāciju, kas nepieciešama droša elektroniskā paraksta radīšanai, nodrošināt savā tīmekļvietnē publiski pieejamu informāciju par sertifikācijas pakalpojumu sniegšanas noteikumiem un drošības pasākumiem, kurus veic uzticams sertifikācijas pakalpojumu sniedzējs, lai novērstu izsniegto kvalificēto sertifikātu nelikumīgu lietošanu;\n8) izsniedzot kvalificētu sertifikātu, nodrošināt savā tīmekļvietnē publiski pieejamu informāciju vai rakstveidā informēt parakstītāju par sertifikātā iekļautajiem nosacījumiem un sertifikāta lietošanas ierobežojumiem;\n9) (izslēgts ar 11.05.2017 . likumu) ;\n10) (izslēgts ar 11.05.2017 . likumu) ;\n11) nekavējoties nodrošināt kvalificēta sertifikāta atsaukšanu, tā darbības apturēšanu vai atjaunošanu šajā likumā noteiktajos gadījumos;\n12) (izslēgts ar 24.05.2007 . likumu) ;\n13) nekavējoties informēt parakstītāju, tā pilnvarotas personas vai mantiniekus par kvalificēta sertifikāta atsaukšanu vai tā darbības apturēšanu;\n14) pastāvīgi uzturēt bez maksas un brīvi pieejamus pilnas elektroniskā paraksta pārbaudes datu, izsniegto, atsaukto, apturēto un atjaunoto kvalificēto sertifikātu reģistrus tiešsaistes režīmā;\n15) (izslēgts ar 11.05.2017 . likumu) ;\n16) uzglabāt ar kvalificētu sertifikātu un laika zīmogu saistīto informāciju noteiktu laiku šajā likumā un citos normatīvajos aktos paredzētajā kārtībā;\n17) regulāri veikt ar sertifikācijas pakalpojumu sniegšanu saistīto informācijas sistēmu, iekārtu un procedūru drošības pārbaudi un glabāt pārbaudes pierakstus. Pārbaudes pierakstos fiksējami visi pasākumi, kas saistīti ar kvalificēta sertifikāta izsniegšanu, atsaukšanu, tā darbības apturēšanu un atjaunošanu, pasākumi, kas saistīti ar elektroniskā dokumenta iezīmēšanu ar laika zīmogu, kā arī jebkuras citas datu izmaiņas. Pārbaudes pieraksti glabājami pastāvīgi. Pārbaudes pierakstiem nodrošināma normatīvajos aktos noteiktā fiziskā un loģiskā aizsardzība;\n18) veikt aizsardzības pasākumus pret iespējamu kvalificētu sertifikātu un laika zīmogu viltošanu, garantēt elektroniskā paraksta radīšanas datu konfidencialitāti to radīšanas laikā;\n19) neglabāt un nekopēt droša elektroniskā paraksta radīšanas datus;\n20) nodrošināt, lai laika zīmogs norādītu starptautiski koordinēto precīzo laiku;\n21) normatīvajos aktos noteiktajā kārtībā sniegt informāciju tiesas, prokuratūras un izziņas iestādēm par izsniegtajiem, atsauktajiem, apturētajiem un atjaunotajiem sertifikātiem un laika zīmogiem;\n22) ievērot Fizisko personu datu aizsardzības likumu un normatīvos aktus, kas regulē informācijas sistēmu drošību;\n23) nodot atsaukto un darbību izbeigušo kvalificētu sertifikātu reģistru Latvijas Nacionālajam arhīvam atbilstoši Ministru kabineta noteikumiem, kas reglamentē kārtību un termiņus, kādos elektroniskie dokumenti izvērtējami, uzkrājami un nododami Latvijas Nacionālajam arhīvam;\n24) apdrošināt savu civiltiesisko atbildību.\n(2) Ja kvalificēts sertifikāts tiek iekļauts personas apliecībā, uzticams sertifikācijas pakalpojumu sniedzējs neslēdz līgumu ar parakstītāju par sertifikācijas pakalpojumu sniegšanu.\n(3) Kvalificētu sertifikātu personas apliecībā iekļauj saskaņā ar normatīvajiem aktiem, kas attiecas uz personu apliecinošiem dokumentiem."
+    },
+    {
+      "provision_ref": "Art. 25",
+      "chapter": "VII nodaļa Uzticama sertifikācijas pakalpojumu sniedzēja un parakstītāja pienākumi un atbildība",
+      "section": "25",
+      "title": "Parakstītāja pienākumi un atbildība",
+      "content": "(1) Parakstītājam ir šādi pienākumi:\n1) sniegt uzticamam sertifikācijas pakalpojumu sniedzējam patiesu informāciju;\n2) pirms noslēgts līgums par sertifikācijas pakalpojumu sniegšanu vai pirms tam, kad tiek izsniegta personas apliecība ar informāciju, kas nepieciešama droša elektroniskā paraksta radīšanai, rakstveidā apliecināt, ka ir iepazinies ar sertifikācijas pakalpojumu sniegšanas informācijas sistēmu, iekārtu un procedūru drošības aprakstu ar uzticamu sertifikācijas pakalpojumu sniedzēju reģistrā iekļautajiem sertifikācijas pakalpojumu sniegšanas noteikumiem un citiem drošības pasākumiem, kurus uzticams sertifikācijas pakalpojumu sniedzējs veic, lai novērstu kvalificēta sertifikāta nelikumīgu lietošanu;\n3) pēc kvalificēta sertifikāta saņemšanas rakstveidā apliecināt, ka ir iepazinies ar kvalificētā sertifikātā iekļautajiem nosacījumiem un ierobežojumiem;\n4) nodrošināt, lai elektroniskā paraksta radīšanas dati netiktu izmantoti bez parakstītāja ziņas;\n5) nekavējoties pieprasīt, lai uzticams sertifikācijas pakalpojumu sniedzējs atsauc kvalificētu sertifikātu vai aptur tā darbību, ja ir pamats uzskatīt, ka elektroniskā paraksta radīšanas dati izmantoti bez parakstītāja ziņas;\n6) nekavējoties pieprasīt, lai uzticams sertifikācijas pakalpojumu sniedzējs atsauc kvalificētu sertifikātu, ja mainās tajā iekļautā informācija.\n(2) Parakstītājs ir atbildīgs par zaudējumiem, kas nodarīti personai, kura saprātīgi paļāvusies uz kvalificētu sertifikātu, ja:\n1) parakstītājs sniedz uzticamam sertifikācijas pakalpojumu sniedzējam nepatiesu informāciju;\n2) parakstītājs pienācīgi nerūpējas par elektroniskā paraksta radīšanas datu aizsardzību pret neatļautu izmantošanu;\n3) ir bijis pamats uzskatīt, ka elektroniskā paraksta radīšanas dati izmantoti bez parakstītāja ziņas, bet parakstītājs nav pieprasījis, lai uzticams sertifikācijas pakalpojumu sniedzējs atsauc kvalificētu sertifikātu vai aptur tā darbību."
+    },
+    {
+      "provision_ref": "Art. 26",
+      "chapter": "VIII nodaļa Ārvalstī izsniegta kvalificēta sertifikāta atzīšana",
+      "section": "26",
+      "title": "Ārvalstī izsniegta kvalificēta sertifikāta atzīšana",
+      "content": "Ārvalstī izsniegtam sertifikātam ir šajā likumā noteiktais kvalificēta sertifikāta juridiskais statuss un tiesiskās sekas, ja tas atbilst vismaz vienam no šādiem nosacījumiem:\n1) to izsniedzis Eiropas Savienības dalībvalsts uzraudzības iestādē reģistrēts uzticams sertifikācijas pakalpojumu sniedzējs;\n2) to saskaņā ar Regulas Nr. 910/2014 /ES 14. pantu izsniedzis uzticams sertifikācijas pakalpojumu sniedzējs, kas veic uzņēmējdarbību trešā valstī."
     }
   ],
   "definitions": [
     {
-      "term": "Electronic document",
-      "definition": "A document created, stored, and transmitted in electronic form, the content of which is fixed in digital data.",
-      "source_provision": "Art. 3"
+      "term": "drošs elektroniskais paraksts",
+      "definition": "kvalificēts elektroniskais paraksts Eiropas Parlamenta un Padomes 2014. gada 23. jūlija regulas (ES) Nr. 910/2014 par elektronisko identifikāciju un uzticamības pakalpojumiem elektronisko darījumu veikšanai iekšējā tirgū un ar ko atceļ direktīvu 1999/93/EK (turpmāk — Regula Nr. 910/2014 /ES) 3. panta 12. punkta izpratnē",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Electronic signature",
-      "definition": "Data in electronic form which is attached to or logically associated with other electronic data and which is used by the signatory to sign.",
-      "source_provision": "Art. 3"
+      "term": "elektroniskais dokuments",
+      "definition": "elektroniskais dokuments Regulas Nr. 910/2014 /ES 3. panta 35. punkta izpratnē",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Qualified electronic signature",
-      "definition": "An advanced electronic signature created by a qualified electronic signature creation device and based on a qualified certificate, as defined in Regulation (EU) 910/2014.",
-      "source_provision": "Art. 3"
+      "term": "elektroniskais paraksts",
+      "definition": "elektroniskais paraksts Regulas Nr. 910/2014 /ES 3. panta 10. punkta izpratnē",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Trust service provider",
-      "definition": "A natural or legal person providing one or more trust services as defined in Regulation (EU) 910/2014.",
-      "source_provision": "Art. 11"
+      "term": "elektroniskā paraksta pārbaudes dati",
+      "definition": "validācijas dati Regulas Nr. 910/2014 /ES 3. panta 40. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "elektroniskā paraksta radīšanas dati",
+      "definition": "elektroniskā paraksta radīšanas dati Regulas Nr. 910/2014 /ES 3. panta 13. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "kvalificēts sertifikāts",
+      "definition": "kvalificēts elektroniskā paraksta sertifikāts Regulas Nr. 910/2014 /ES 3. panta 15. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "laika zīmogs",
+      "definition": "kvalificēts elektroniskais laika zīmogs Regulas Nr. 910/2014 /ES 3. panta 34. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "parakstītājs",
+      "definition": "parakstītājs Regulas Nr. 910/2014 /ES 3. panta 9. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sertifikācijas pakalpojumi",
+      "definition": "uzticamības pakalpojumi Regulas Nr. 910/2014 /ES 3. panta 16. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sertifikāts",
+      "definition": "elektroniskā paraksta sertifikāts Regulas Nr. 910/2014 /ES 3. panta 14. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "sertifikācijas pakalpojumu sniedzējs",
+      "definition": "uzticamības pakalpojumu sniedzējs Regulas Nr. 910/2014 /ES 3. panta 19. punkta izpratnē",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "uzticams sertifikācijas pakalpojumu sniedzējs",
+      "definition": "kvalificēts uzticamības pakalpojumu sniedzējs Regulas Nr. 910/2014 /ES 3. panta 20. punkta izpratnē.",
+      "source_provision": "Art. 1"
     }
   ]
 }

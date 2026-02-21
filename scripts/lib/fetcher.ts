@@ -1,21 +1,13 @@
 /**
- * Rate-limited HTTP client for Latvian legislation from the Sejm ELI API.
+ * Rate-limited HTTP client for Latvian legislation from likumi.lv.
  *
- * Data source: api.sejm.gov.pl — the official ELI (European Legislation Identifier)
- * API provided by the Chancellery of the Sejm of the Republic of Poland.
- *
- * URL patterns:
- *   Metadata: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}
- *   HTML text: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- *
- * - 500ms minimum delay between requests (respectful to government servers)
- * - User-Agent header identifying the MCP
+ * - 1200ms minimum delay between requests (respectful to government servers)
+ * - User-Agent header identifying this MCP
  * - Retry on 429/5xx with exponential backoff
- * - No auth needed (public government data)
  */
 
-const USER_AGENT = 'Latvian-Law-MCP/1.0 (https://github.com/Ansvar-Systems/latvian-law-mcp; hello@ansvar.ai)';
-const MIN_DELAY_MS = 500;
+const USER_AGENT = 'Latvian-Law-MCP/1.0 (+https://github.com/Ansvar-Systems/Latvian-law-mcp)';
+const MIN_DELAY_MS = 1200;
 
 let lastRequestTime = 0;
 
@@ -36,8 +28,7 @@ export interface FetchResult {
 }
 
 /**
- * Fetch a URL with rate limiting and proper headers.
- * Retries up to 3 times on 429/5xx errors with exponential backoff.
+ * Fetch a URL with rate limiting and retries.
  */
 export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<FetchResult> {
   await rateLimit();
@@ -46,7 +37,7 @@ export async function fetchWithRateLimit(url: string, maxRetries = 3): Promise<F
     const response = await fetch(url, {
       headers: {
         'User-Agent': USER_AGENT,
-        'Accept': 'text/html, application/json, */*',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
       },
       redirect: 'follow',
     });

@@ -67,12 +67,12 @@ describe('Personal Data Processing Law', () => {
     expect(row).toBeDefined();
   });
 
-  it('should have Art. 2 referencing Regulation (EU) 2016/679', () => {
+  it('should have Art. 1 referencing Regula (ES) 2016/679', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'lv-personal-data-processing-law' AND provision_ref = 'Art. 2'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'lv-personal-data-processing-law' AND provision_ref = 'Art. 1'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
-    expect(row!.content).toContain('Regulation (EU) 2016/679');
+    expect(row!.content).toContain('regulas (ES) 2016/679');
   });
 
   it('should have GDPR EU reference', () => {
@@ -91,26 +91,27 @@ describe('IT Security Law', () => {
     expect(row).toBeDefined();
   });
 
-  it('should have Art. 3 with definitions', () => {
+  it('should have Art. 1 with kiberdrošības termini', () => {
     const row = db.prepare(
-      "SELECT content FROM legal_provisions WHERE document_id = 'lv-it-security-law' AND provision_ref = 'Art. 3'"
+      "SELECT content FROM legal_provisions WHERE document_id = 'lv-it-security-law' AND provision_ref = 'Art. 1'"
     ).get() as { content: string } | undefined;
     expect(row).toBeDefined();
-    expect(row!.content).toContain('Information technology security');
+    expect(row!.content).toContain('kiberdrošība');
+    expect(row!.content).toContain('kiberincidents');
   });
 });
 
 describe('FTS5 search', () => {
-  it('should find provisions matching "personal data"', () => {
+  it('should find provisions matching "personas datu"', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH '\"personal data\"'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH '\"personas datu\"'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });
 
-  it('should find provisions matching "cybersecurity" or "information technology security"', () => {
+  it('should find provisions matching "kiberdrošība" or "informācijas sistēma"', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'cybersecurity OR \"information technology security\"'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'kiberdrošība OR \"informācijas sistēma\"'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });

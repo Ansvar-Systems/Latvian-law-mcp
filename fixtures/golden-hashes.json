@@ -1,56 +1,32 @@
 {
   "$schema": "./golden-hashes.schema.json",
-  "version": "1.0",
+  "version": "2.0",
   "mcp_name": "Latvian Law MCP",
   "jurisdiction": "LV",
   "provisions": [
     {
       "id": "lv-hash-001",
-      "description": "FPDAL Art. 1 -- purpose and scope of the Personal Data Processing Law (GDPR implementation)",
-      "upstream_url": "https://likumi.lv/ta/id/300099#p1",
-      "selector_hint": "Art. 1 - Purpose of the Law",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
-      "expected_snippet": "processing of personal data"
+      "description": "Fizisko personu datu apstrādes likums, 1. pants",
+      "upstream_url": "https://likumi.lv/ta/id/300099-fizisko-personu-datu-apstrades-likums#p1",
+      "selector_hint": "1. pants. Likumā lietotie termini",
+      "expected_sha256": "a8ddf5199dd3976f0df92584214f43608c0c1dee99ed6faf94c2f4130c0daa05",
+      "expected_snippet": "datu regula) 4. pantā noteiktie termini"
     },
     {
       "id": "lv-hash-002",
-      "description": "FPDAL Art. 11 -- Data State Inspectorate as independent supervisory authority",
-      "upstream_url": "https://likumi.lv/ta/id/300099#p11",
-      "selector_hint": "Art. 11 - Supervisory Authority",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
-      "expected_snippet": "Datu valsts inspekcija"
+      "description": "Nacionālās kiberdrošības likums, 1. pants",
+      "upstream_url": "https://likumi.lv/ta/id/353390-nacionalas-kiberdrosibas-likums#p1",
+      "selector_hint": "1. pants. Likumā lietotie termini",
+      "expected_sha256": "ee375908d7d28bacb127d8fb5ff0b991006648c8d70077a4ba70a9e289ba4bac",
+      "expected_snippet": "Likumā ir lietoti šādi termini"
     },
     {
       "id": "lv-hash-003",
-      "description": "ITDL Art. 1 -- purpose of the Information Technology Security Law (NIS2 implementation)",
-      "upstream_url": "https://likumi.lv/ta/id/220962#p1",
-      "selector_hint": "Art. 1 - Purpose of the Law",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
-      "expected_snippet": "information technology"
-    },
-    {
-      "id": "lv-hash-004",
-      "description": "ITDL Art. 10 -- incident reporting obligations (24h/72h/1month)",
-      "upstream_url": "https://likumi.lv/ta/id/220962#p10",
-      "selector_hint": "Art. 10 - Incident Reporting Obligations",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
-      "expected_snippet": "CERT.LV"
-    },
-    {
-      "id": "lv-hash-005",
-      "description": "Criminal Law Art. 241 -- unauthorised access to information systems",
-      "upstream_url": "https://likumi.lv/ta/id/88966#p241",
-      "selector_hint": "Art. 241 - Unauthorised Access to Information Systems",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
-      "expected_snippet": "unauthorised access"
-    },
-    {
-      "id": "lv-hash-006",
-      "description": "Electronic Communications Law Art. 46 -- confidentiality of communications",
-      "upstream_url": "https://likumi.lv/ta/id/96611#p46",
-      "selector_hint": "Art. 46 - Confidentiality of Communications",
-      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
-      "expected_snippet": "confidentiality"
+      "description": "Krimināllikums, 241. pants",
+      "upstream_url": "https://likumi.lv/ta/id/88966-kriminallikums#p241",
+      "selector_hint": "241. pants. Patvaļīga piekļūšana automatizētai datu apstrādes sistēmai",
+      "expected_sha256": "54a554900b751d309967ee536624833ec09709bc61b481b649ae7511686c427f",
+      "expected_snippet": "Par patvaļīgu piekļūšanu automatizētas datu apstrādes sistēmas resursiem"
     }
   ]
 }

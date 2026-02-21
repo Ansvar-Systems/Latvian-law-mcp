@@ -5,144 +5,195 @@
   "title_en": "Freedom of Information Law",
   "short_name": "IAL",
   "status": "in_force",
-  "issued_date": "1998-10-29",
-  "in_force_date": "1998-11-06",
-  "url": "https://likumi.lv/ta/id/50601",
-  "description": "Latvian law on freedom of information, establishing the right of access to information held by public authorities, proactive publication obligations, and restrictions on access to classified or restricted information.",
+  "url": "https://likumi.lv/ta/id/50601-informacijas-atklatibas-likums",
+  "description": "Official consolidated text from Likumi.lv (Latvijas Vēstnesis).",
   "provisions": [
     {
       "provision_ref": "Art. 1",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa Vispārīgie jautājumi",
       "section": "1",
-      "title": "Purpose of the Law",
-      "content": "The purpose of this Law is to ensure that the public has access to information held by state and local government institutions and to promote the transparency and accountability of public administration. This Law establishes the procedure for the request and receipt of information, the obligations of institutions to proactively publish information, and the restrictions on access to certain categories of information."
+      "title": "Likumā lietotie termini",
+      "content": "Likumā ir lietoti šādi termini:\n1) informācija — ziņa vai ziņu kopums jebkurā tehniski iespējamā fiksēšanas, uzglabāšanas vai nodošanas veidā;\n2) informācijas aprite — informācijas ierosināšana, radīšana, apkopošana, uzkrāšana, apstrādāšana, lietošana un iznīcināšana;\n3) dokumentēta informācija — informācija, kuras iekļūšanu informācijas apritē var identificēt;\n4) iestāde — publiska persona, tās institūcija vai amatpersona, kā arī persona, kas īsteno tai deleģētos valsts pārvaldes uzdevumus, ja šī persona informācijas apritē ir saistīta ar attiecīgo uzdevumu izpildi;\n5) atkalizmantošana — iestādes rīcībā esošas un iestādes radītas vispārpieejamas informācijas izmantošana komerciālam vai nekomerciālam mērķim, kas nav šīs informācijas radīšanas sākotnējais mērķis, ja to dara privātpersona, kura iestādes rīcībā esošo informāciju izmanto, neveicot valsts pārvaldes uzdevumus;\n6) atvērtie dati — brīvi pieejama bezmaksas informācija bez atkalizmantošanas ierobežojumiem, kuru var rediģēt un automatizēti apstrādāt ar brīvi pieejamām lietojumprogrammām;\n7) metadati — strukturēta informācija, kas raksturo konkrētu informācijas kopumu;\n8) augstvērtīgas datu kopas — dokumenti, kuru atkalizmantošana potenciālo lietotāju skaita dēļ ir saistīta ar svarīgiem ieguvumiem sabiedrībai, videi un ekonomikai, jo īpaši gadījumos, kad tie ir piemēroti, lai radītu pakalpojumus ar pievienoto vērtību, lietojumus un jaunas un pienācīgas augstas kvalitātes darbavietas, un pakalpojumus ar pievienoto vērtību un lietojumus, kas balstās uz minētajām datu kopām;\n9) dinamiskie dati — digitāli dokumenti, kurus bieži vai reāllaikā atjaunina to nepastāvīguma vai straujas novecošanas dēļ (sensoru ģenerētus datus parasti uzskata par dinamiskajiem datiem)."
     },
     {
       "provision_ref": "Art. 2",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "I nodaļa Vispārīgie jautājumi",
       "section": "2",
-      "title": "Scope of Application",
-      "content": "This Law applies to all state and local government institutions, derived public legal entities, and private entities performing delegated public administration functions. The Law also applies to state and local government capital companies to the extent that they exercise public administration functions."
+      "title": "Likuma mērķis un darbības joma",
+      "content": "(1) Šā likuma mērķis ir nodrošināt, lai sabiedrībai būtu pieejama informācija, kura ir iestādes rīcībā vai kuru iestādei atbilstoši tās kompetencei ir pienākums radīt. Šis likums nosaka vienotu kārtību, kādā privātpersonas ir tiesīgas iegūt informāciju iestādē un to izmantot.\n(2) Likums attiecas uz dokumentētu informāciju, kura ir iestāžu informācijas apritē.\n(3) Informācija ir pieejama sabiedrībai visos gadījumos, kad likumā nav noteikts citādi.\n(3 1 ) Likuma prasības iestādēm saistībā ar piekļuves nodrošināšanu internetā vispārpieejamai informācijai, kas satur augstvērtīgas datu kopas vai attiecas uz dinamiskajiem datiem, attiecināmas arī uz publiskas personas kontrolētām kapitālsabiedrībām, kuras darbojas kā:\n1) sabiedrisko pakalpojumu sniedzēji ūdensapgādes, enerģētikas, transporta un pasta pakalpojumu jomās;\n2) sabiedrisko pakalpojumu sniedzēji, ievērojot Eiropas Parlamenta un Padomes 2007. gada 23. oktobra regulas (EK) Nr. 1370/2007 par sabiedriskā pasažieru transporta pakalpojumiem, izmantojot dzelzceļu un autoceļus, un ar ko atceļ Padomes regulu (EEK) Nr. 1191/69 un Padomes regulu (EEK) Nr. 1107/70 2. pantā noteikto;\n3) gaisa pārvadātāji, kas īsteno sabiedrisko pakalpojumu sniegšanas saistības, ievērojot Eiropas Parlamenta un Padomes 2008. gada 24. septembra regulas (EK) Nr. 1008/2008 par kopīgiem noteikumiem gaisa pārvadājumu pakalpojumu sniegšanai Kopienā 16. pantā noteikto;\n4) Kopienas kuģu īpašnieki, kas veic publiskā pasūtījuma nodrošināšanas pienākumus, ievērojot Eiropas Parlamenta un Padomes 2007. gada 23. oktobra regulas (EEK) Nr. 1370/2007 par sabiedriskā pasažieru transporta pakalpojumiem, izmantojot dzelzceļu un autoceļus, un ar ko atceļ Padomes regulu (EEK) Nr. 1191/69 un Padomes regulu (EEK) Nr. 1107/70 4. pantā noteikto.\n(4) Likums neattiecas uz informācijas apmaiņu starp iestādēm.\n(5) Likums neattiecas uz informāciju, kas ir publiskas personas kontrolētas kapitālsabiedrības rīcībā un ir iekļauta augstvērtīgu datu kopu sarakstā saskaņā ar šā likuma 10. panta 2. 2 daļā noteikto, ja šī informācija saistīta ar brīvas konkurences apstākļos veiktām darbībām sabiedrisko pakalpojumu sniegšanas jomā un uz to neattiecas publiskā iepirkuma noteikumi vai informācija sagatavota ārpus sabiedrisko pakalpojumu sniegšanas jomas."
     },
     {
       "provision_ref": "Art. 3",
-      "chapter": "Chapter I - General Provisions",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "3",
-      "title": "Right of Access",
-      "content": "Every person has the right to request and receive information from institutions. The right of access to information may be restricted only by law and only to the extent necessary in a democratic society to protect national security, territorial integrity, public safety, the rights and freedoms of others, the confidentiality of personal data, and commercial secrets."
+      "title": "Informācijas grupas",
+      "content": "Informāciju, uz kuru attiecas šis likums, iedala:\n1) vispārpieejamā informācija;\n2) ierobežotas pieejamības informācija."
     },
     {
       "provision_ref": "Art. 4",
-      "chapter": "Chapter II - Proactive Publication",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "4",
-      "title": "Information to be Published Proactively",
-      "content": "Institutions shall proactively publish on their websites: regulatory enactments, institutional structure and contact information, descriptions of public services, public procurement information, reports on activities, information on budget and financial management, public policy documents, and minutes of public meetings. Information shall be published in a format that is accessible and machine-readable where technically feasible."
+      "title": "Vispārpieejamā informācija",
+      "content": "Vispārpieejamā informācija ir tāda informācija, kas nav klasificēta kā ierobežotas pieejamības informācija."
     },
     {
       "provision_ref": "Art. 5",
-      "chapter": "Chapter II - Proactive Publication",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "5",
-      "title": "Open Data",
-      "content": "Institutions shall make publicly available datasets available as open data in machine-readable formats, free of charge and without restrictions on re-use, unless restrictions are established by law. The open data shall be published in the national open data portal. The Cabinet of Ministers shall determine the procedures for the publication and re-use of open data."
+      "title": "Ierobežotas pieejamības informācija",
+      "content": "(1) Ierobežotas pieejamības informācija ir tāda informācija, kura ir paredzēta ierobežotam personu lokam sakarā ar darba vai dienesta pienākumu veikšanu un kuras izpaušana vai nozaudēšana šīs informācijas rakstura un satura dēļ apgrūtina vai var apgrūtināt iestādes darbību, nodara vai var nodarīt kaitējumu personu likumiskajām interesēm.\n(2) Par ierobežotas pieejamības informāciju uzskatāma informācija:\n1) kurai šāds statuss noteikts ar likumu;\n2) kas paredzēta un noteikta iestādes iekšējai lietošanai;\n3) kas ir komercnoslēpums, izņemot gadījumus, kad ir noslēgts iepirkuma līgums saskaņā ar Publisko iepirkumu likumu vai cita veida līgums par rīcību ar valsts vai pašvaldības finanšu līdzekļiem un mantu;\n4) par fiziskās personas privāto dzīvi;\n5) kas attiecas uz atestācijas, eksāmenu, iesniegto projektu (izņemot projektus, kuru finansēšana paredzēta ar valsts sniegtu galvojumu), konkursu (izņemot konkursus, kas saistīti ar iepirkumiem valsts vai pašvaldību vajadzībām vai citādi saistīti ar rīcību ar valsts vai pašvaldību finanšu līdzekļiem un mantu) un citu līdzīga rakstura novērtējumu procesu;\n6) (izslēgts ar 20.04.2023 . likumu) ;\n7) kas ir Ziemeļatlantijas līguma organizācijas vai Eiropas Savienības informācija, kura apzīmēta attiecīgi kā \"NATO UNCLASSIFIED\" vai \"LIMITE\".\n(3) Informācijas autors vai iestādes vadītājs, norādot šajā likumā vai citos likumos paredzēto pamatojumu, nosaka informācijai ierobežotas pieejamības statusu.\n(4) Informācijas autors vai iestādes vadītājs ierobežotas pieejamības statusu informācijai nosaka uz laiku, kas nav ilgāks par vienu gadu, izņemot šā likuma 7.pantā minēto gadījumu. Informācijas autors vai iestādes vadītājs var lemt par jauna termiņa noteikšanu, kā arī par šā statusa atcelšanu pirms noteiktā termiņa izbeigšanās. Ja beidzies termiņš, uz kādu informācijai noteikts ierobežotas pieejamības statuss, vai ja ierobežotas pieejamības statuss ir atcelts pirms likumā noteiktā termiņa, šāda informācija kļūst par vispārpieejamu informāciju.\n(5) Šā panta trešā un ceturtā daļa neattiecas uz gadījumiem, kad informācijai ierobežotas pieejamības statuss noteikts ar likumu.\n(6) Par ierobežotas pieejamības informāciju nav uzskatāmas ziņas, kas ir pieejamas sabiedrībai bez likumā paredzētajiem ierobežojumiem vai kas ir jau publicētas."
     },
     {
       "provision_ref": "Art. 6",
-      "chapter": "Chapter III - Information Requests",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "6",
-      "title": "Form of Information Requests",
-      "content": "An information request may be submitted orally, in writing, or by electronic means. The institution may not require the person to justify the purpose for requesting the information, except where the information requested is restricted. An information request shall be registered by the institution on the day of receipt."
+      "title": "Informācija iestādes iekšējai lietošanai",
+      "content": "(1) Par iestādes iekšējās lietošanas informāciju uzskatāma informācija, kas iestādei nepieciešama, sagatavojoties lietu kārtošanai.\n(2) Ierobežota pieejamība attiecas arī uz dokumentiem, kuri izstrādāti sakarā ar iestādes sagatavošanos lietu kārtošanai un kurus izstrādājuši:\n1) attiecīgajai lietai īpaši pieaicināti padomdevēji vai lietpratēji;\n2) viena iestāde citas iestādes lietošanai.\n(3) Ierobežotas pieejamības statusu iestādes iekšējās lietošanas informācijai lietu sagatavošanas procesā var piemērot tikai līdz brīdim, kad iestādes lēmums par attiecīgo lietu pieņemts vai dokuments, kas netiek klasificēts kā ierobežotas pieejamības dokuments, nosūtīts adresātam.\n(4) Iekšējās lietošanas informāciju, kas klasificēta kā ierobežotas pieejamības informācija, attiecīgā iestāde reģistrē normatīvajos aktos noteiktajā kārtībā."
     },
     {
       "provision_ref": "Art. 7",
-      "chapter": "Chapter III - Information Requests",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "7",
-      "title": "Time Limits for Response",
-      "content": "An institution shall respond to an information request as soon as possible but not later than 15 working days from the day of receipt of the request. Where the request requires the collection of a large amount of information, the institution may extend the time limit to 30 working days, notifying the requester of the extension and the reasons therefor."
+      "title": "Informācija par komercnoslēpumu",
+      "content": "(1) Par komercnoslēpumu uzskatāma komersanta radīta vai komersantam piederoša informācija, kuras atklāšana varētu būtiski negatīvi ietekmēt komersanta konkurētspēju.\n(2) Par komercnoslēpumu nevar uzskatīt informāciju, kas ir saistīta ar valsts pārvaldes funkciju vai uzdevumu izpildi.\n(3) Komersants, nododot informāciju iestādei, norāda, vai informācija ir komercnoslēpums un kāds ir šāda statusa tiesiskais pamats.\n(4) Ja iestāde ir saņēmusi pieprasījumu par tādas informācijas sniegšanu, kura ir komercnoslēpums, tā pirms šādas informācijas izsniegšanas vai atteikuma to sniegt noskaidro komersanta viedokli par šā panta pirmās daļas noteikumu ievērošanu.\n(5) Informācija par komercnoslēpumu ir ierobežotas pieejamības informācija līdz brīdim, kad komersants paziņo iestādei par komercnoslēpuma statusa izbeigšanu vai kad attiecīgā informācija kļuvusi vispārpieejama trešajām personām."
     },
     {
       "provision_ref": "Art. 8",
-      "chapter": "Chapter III - Information Requests",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "8",
-      "title": "Refusal to Provide Information",
-      "content": "An institution may refuse to provide information only if the information falls within the categories of restricted-access information specified in this Law or other laws. The refusal shall be in writing and shall state the legal basis for the refusal, the category of restricted information, and the procedure for appealing the refusal."
+      "title": "Informācija par fiziskās personas privāto dzīvi",
+      "content": "Informācija par fiziskās personas privāto dzīvi tiek aizsargāta ar likumu."
     },
     {
       "provision_ref": "Art. 9",
-      "chapter": "Chapter IV - Restricted-Access Information",
+      "chapter": "II nodaļa Informācijas iedalījums",
       "section": "9",
-      "title": "Categories of Restricted Information",
-      "content": "Information shall be classified as restricted-access information if its disclosure could harm: 1) national security or defence; 2) the prevention, detection, or investigation of criminal offences; 3) the privacy and personal data of natural persons; 4) commercial secrets or intellectual property rights; 5) diplomatic or international relations of Latvia; 6) the internal deliberations of an institution. Personal data may be disclosed only in accordance with Regulation (EU) 2016/679 and the Personal Data Processing Law."
+      "title": "Informācijas uzskaite",
+      "content": "(1) Katra iestāde veic informācijas uzskaiti.\n(2) Informācijas pieprasītājam ir tiesības iepazīties ar vispārpieejamās informācijas uzskaiti.\n(3) Personai ir tiesības iepazīties ar iestādes ierobežotas pieejamības informācijas sarakstu, kurā iekļauj informācijas veidus, tēmas, atsevišķus dokumentus un to veidus.\n(4) (Izslēgta ar 05.10.2006 . likumu)."
     },
     {
       "provision_ref": "Art. 10",
-      "chapter": "Chapter IV - Restricted-Access Information",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "10",
-      "title": "Duration of Restrictions",
-      "content": "Restrictions on access to information shall be applied for the shortest period necessary. Where the legal basis for the restriction no longer exists, the institution shall make the information accessible. For commercial secrets and personal data, the restriction shall apply for as long as the information retains its confidential character or the processing is lawful under Regulation (EU) 2016/679."
+      "title": "Pienākums sniegt informāciju",
+      "content": "(1) Iestāde informāciju sniedz pēc savas iniciatīvas vai pēc privātpersonas pieprasījuma, vai kā augstvērtīgu datu kopu atbilstoši šā panta 2. 2 daļā noteiktajam.\n(2) Ievērojot labas pārvaldības principu, iestāde pēc savas iniciatīvas nodrošina piekļuvi noteikta veida vispārpieejamai informācijai.\n(2 1 ) Vispārpieejamai informācijai, ko ievieto internetā, iestāde pēc savas iniciatīvas, ja tas ir lietderīgi, nodrošina piekļuvi atvērto datu veidā kopā ar informācijas metadatiem.\n(2 2 ) Vispārpieejamai informācijai, kas satur augstvērtīgas datu kopas un metadatus, iestāde nodrošina piekļuvi internetā. Augstvērtīgu datu kopu sarakstu, to datu un metadatu formātus un izplatīšanas kārtību, kā arī dinamisko datu izplatīšanas kārtību nosaka Ministru kabinets.\n(3) Vispārpieejamo informāciju sniedz arī pēc privātpersonas pieprasījuma. Šādu informāciju sniedz jebkuram, kas to vēlas saņemt, ievērojot personu vienlīdzību informācijas iegūšanā. Pieprasītājam nav īpaši jāpamato sava interese par vispārpieejamu informāciju, un to viņam nevar liegt tāpēc, ka šī informācija neattiecas uz pieprasītāju.\n(4) Ja pieprasītās informācijas kopums ietver arī ierobežotas pieejamības informāciju, iestāde izsniedz tikai to informācijas daļu, kas ir vispārpieejama. To informācijas daļu, kas ietver ierobežotas pieejamības informāciju, izsniedz, ievērojot šajā likumā noteikto īpašo kārtību.\n(5) Iestāde var vienoties ar informācijas pieprasītāju par pastāvīgu sadarbību tās rīcībā esošās informācijas nodošanā atkalizmantošanai.\n(6) Kārtību, kādā iestādes ievieto informāciju internetā, nosaka Ministru kabinets."
     },
     {
       "provision_ref": "Art. 11",
-      "chapter": "Chapter IV - Restricted-Access Information",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "11",
-      "title": "Partial Disclosure",
-      "content": "Where an information request relates to a document that contains both publicly accessible and restricted-access information, the institution shall separate the restricted information and provide the requester with the remaining publicly accessible part of the document."
+      "title": "Informācijas pieprasījuma forma un reģistrēšanas kārtība",
+      "content": "(1) Informāciju var pieprasīt rakstveidā, mutvārdos vai elektroniskā veidā.\n(2) Visi informācijas rakstveida pieprasījumi ir reģistrējami. Iestāde var noteikt kārtību, kādā reģistrējami informācijas pieprasījumi, kas izteikti mutvārdos, un tādi pieprasījumi, kas iesniegti elektroniskā veidā un normatīvajos aktos noteiktajā kārtībā nav parakstīti ar elektronisko parakstu.\n(3) Informācijas pieprasījumā, kas izteikts rakstveidā vai elektroniskā veidā, norāda pieprasītāja vārdu, uzvārdu vai nosaukumu (firmu), adresi, kur nosūtāma informācija, un to paraksta informācijas pieprasītājs. Informācijas pieprasījums formulējams iespējami precīzi.\n(4) Ierobežotas pieejamības informāciju pieprasa rakstveidā. Pieprasot ierobežotas pieejamības informāciju, persona pamato savu pieprasījumu un norāda mērķi, kādam tā tiks izmantota. Ja ierobežotas pieejamības informācija tiek izsniegta, tās saņēmējs uzņemas saistības šo informāciju izmantot tikai tiem mērķiem, kuriem tā pieprasīta.\n(5) Iestāde var atteikties izpildīt pieprasījumu, ja tas nav noformēts atbilstoši šā panta trešās un ceturtās daļas noteikumiem vai nav sniegts apraksts, pēc kura šīs ziņas iespējams identificēt.\n(6) Iestādes sarakste ar informācijas pieprasītāju un ziņas par šo personu uzskatāmas par ierobežotas pieejamības informāciju."
+    },
+    {
+      "provision_ref": "Art. 11.1",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
+      "section": "11.1",
+      "title": "11. 1 pants. Pieprasījums informācijas atkalizmantošanai",
+      "content": "(1) Pieprasījumu iestādes rīcībā esošās informācijas atkalizmantošanai noformē rakstveidā saskaņā ar attiecīgajai informācijas grupai noteiktajām pieprasījuma noformēšanas prasībām.\n(2) Pieprasījumā papildus norāda, ka informācija tiek pieprasīta atkalizmantošanas nolūkā, un preci vai pakalpojumu, kā izveidei nepieciešama pieprasītā informācija."
+    },
+    {
+      "provision_ref": "Art. 11.2",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
+      "section": "11.2",
+      "title": "11. 2 pants. Pieprasītās informācijas izsniegšanas veids",
+      "content": "(1) Pieprasīto informāciju izsniedz mutvārdos, rakstveidā vai, ja tas iespējams, izmantojot elektroniskos saziņas līdzekļus. Ierobežotas pieejamības informāciju izsniedz rakstveidā.\n(2) Izsniedzot pieprasīto informāciju, iestāde pēc iespējas ievēro pieprasītāja norādīto informācijas saņemšanas veidu, it īpaši rūpējoties par personām ar redzes vai dzirdes traucējumiem.\n(3) Iestāde var atteikties izpildīt informācijas pieprasījumu vai tā izpildes nosacījumus, ja informācijas pieprasījums vai tā izpildes nosacījumi nav samērojami ar iestādes rīcībā esošajiem resursiem, proti, informācijas pieprasījuma vai tā izpildes nosacījumu izpildes rezultātā ir apdraudēts iestādes darbs vai citu personu tiesības.\n(4) Iestāde var uzaicināt privātpersonu iestādei un privātpersonai abpusēji pieņemamā laikā iepazīties ar pieprasīto informāciju iestādē, ja informācijas pieprasījums ir nesamērīgi apjomīgs vai informācijas izsniegšana ārpus iestādes nav iespējama informācijas uzglabāšanas nosacījumu dēļ.\n(5) Iestādei nav pienākuma savākt, radīt, glabāt vai pārveidot informāciju tikai atkalizmantošanas pieprasījumu izpildīšanai."
     },
     {
       "provision_ref": "Art. 12",
-      "chapter": "Chapter V - Information Systems",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "12",
-      "title": "State Information Systems",
-      "content": "State information systems shall be maintained and managed in accordance with the law. Information stored in state information systems that is publicly accessible shall be made available through the official websites of institutions and through the state information systems portal. The administrator of a state information system shall ensure the accuracy, timeliness, and integrity of the information stored therein."
+      "title": "Pieprasītās informācijas atteikšana un kārtība, kādā sniedzama izziņa par pieprasīto informāciju",
+      "content": "(1) Ja iestāde atsaka sniegt rakstveidā pieprasīto informāciju, tā savā rakstveida atteikumā norāda, uz kāda pamata pieprasījums pilnīgi vai daļēji atteikts, kur un kādā termiņā šo atteikumu var apstrīdēt vai pārsūdzēt.\n(2) Ja pieprasītās informācijas nav iestādes rīcībā, iestāde sniedz izziņu par informācijas atrašanās vietu un, ja tas iestādei ir zināms, norāda, kādā kārtībā informācija ir pieejama.\n(3) Ja informācija, kas pieprasīta iestādei, ir pieejama internetā bez maksas, iestāde var atteikties izsniegt pieprasīto informāciju, norādot tās mājaslapas adresi, kur attiecīgā informācija ir pieejama, izņemot gadījumu, kad pieprasītājs ir norādījis, ka viņa tiesiskā statusa, veselības stāvokļa vai citu pamatotu apstākļu dēļ nav iespējas iegūt informāciju internetā. Ja iestādei pieprasīts likuma vai Ministru kabineta noteikumu teksts, iestāde var atteikties to izsniegt, norādot, kad un kurā oficiālā izdevuma “Latvijas Vēstnesis” numurā informācija publicēta, kā arī mājaslapu internetā, kur attiecīgais normatīvais akts ir pieejams.\n(4) Šā likuma 11. 2 panta ceturtajā daļā minētajā gadījumā iestāde noformē atteikumu izpildīt informācijas pieprasījumu vai atsevišķu tā nosacījumu, ja pēc tās paziņojuma par iespējamo informācijas izsniegšanas veidu saņemšanas informācijas pieprasītājs rakstveidā informē iestādi, ka nepiekrīt tās piedāvātajam informācijas izsniegšanas veidam.\n(5) Ja iestāde atsaka sniegt pieprasīto informāciju atkalizmantošanai, to pamatojot ar trešās personas intelektuālā īpašuma tiesību aizsardzību, vai ja iestādei nav tiesību izsniegt pieprasīto informāciju trešās personas (licenciāra) noteikto nosacījumu dēļ, tā rakstveida atteikumā norāda trešo personu, kuras intelektuālā īpašuma tiesības tiek aizsargātas, ja iestādei tāda ir zināma, vai licenciāru, kas iestādei piešķīris attiecīgā intelektuālā īpašuma tiesību objekta izmantošanas tiesības. Šāda norāde atteikumā nav jāsniedz bibliotēkām, muzejiem un arhīviem."
     },
     {
       "provision_ref": "Art. 13",
-      "chapter": "Chapter V - Information Systems",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "13",
-      "title": "Protection of Information in Information Systems",
-      "content": "The administrator of a state information system shall implement appropriate technical and organisational security measures to protect information against unauthorised access, alteration, disclosure, or destruction. The security measures shall be proportionate to the sensitivity of the information and the risks to the rights and freedoms of individuals whose data is processed."
+      "title": "Maksa par informācijas izsniegšanu",
+      "content": "(1) Vispārpieejamo informāciju, kas nav papildus jāapstrādā, izsniedz bez maksas.\n(2) Maksa par informācijas sniegšanu nedrīkst pārsniegt informācijas radīšanas un apstrādes (piemēram, savākšanas, izgatavošanas, reproducēšanas, izplatīšanas) izdevumus. Izdodot normatīvos aktus par maksas pakalpojumiem par informācijas izsniegšanu, ņem vērā, ka maksā nedrīkst iekļaut izdevumus, kas radušies, risinot juridiskos vai politiskos jautājumus, kuri saistīti ar atbildes sniegšanu uz informācijas pieprasījumu, kā arī informācijas meklēšanas izdevumus. Ja informāciju atkalizmantošanai izsniedz no bibliotēkas, Latvijas Nacionālā arhīva vai muzeja krājuma, maksā par informācijas sniegšanu var iekļaut arī saglabāšanas un tiesību iegūšanas izmaksas.\n(3) Ikviens informācijas pieprasītājs var lūgt atbrīvojumu no maksas par pakalpojumu. Ministru kabinets nosaka gadījumus, kad privātpersonai samazina maksu par informācijas sniegšanu vai atbrīvo no tās.\n(4) Kārtību, kādā veic samaksu par informācijas sniegšanu, kā arī maksas pakalpojumus un to apmēru nosaka Ministru kabinets.\n(5) Publiskas personas dibinātai komercsabiedrībai par informācijas atkalizmantošanu savā komercdarbībā piemēro tādu pašu maksu un sniegšanas kārtību kā citiem informācijas pieprasītājiem."
     },
     {
       "provision_ref": "Art. 14",
-      "chapter": "Chapter VI - Supervision and Remedies",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "14",
-      "title": "Appeal of Refusals",
-      "content": "A person whose information request has been refused may appeal the decision to the superior institution within one month of the date of notification of the refusal. The decision of the superior institution may be appealed to an administrative court. The court shall assess whether the restriction on access to the information was lawful and proportionate."
+      "title": "Informācijas sniegšanas termiņi",
+      "content": "(1) Iestāde, kas saņēmusi informācijas pieprasījumu, veic vienu no šādām darbībām:\n1) septiņu dienu laikā sniedz šā likuma 11. 2 panta ceturtajā daļā, 12.panta otrajā, trešajā vai ceturtajā daļā minēto atbildi;\n1 1 ) 10 dienu laikā atbild iesniedzējam, ja informāciju pieprasīts sniegt tikai elektroniskā veidā un tai nav nepieciešama papildu apstrāde;\n2) 15 dienu laikā atbild iesniedzējam, ja informācijai nav nepieciešama papildu apstrāde;\n3) 30 dienu laikā atbild iesniedzējam, ja informācijai nepieciešama papildu apstrāde, un ne vēlāk kā 15 dienu laikā paziņo par to iesniedzējam.\n(2) Informācijas sniegšanai pēc vairāku personu informācijas pieprasījumiem piemēro šajā likumā noteiktos termiņus un Iesniegumu likuma 6.panta noteikumus."
     },
     {
       "provision_ref": "Art. 15",
-      "chapter": "Chapter VI - Supervision and Remedies",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "15",
-      "title": "Ombudsman's Role",
-      "content": "The Ombudsman of the Republic of Latvia shall supervise compliance with this Law and examine complaints regarding refusals to provide information or violations of proactive publication obligations. The Ombudsman may issue recommendations to institutions and report to the Saeima on the state of freedom of information."
+      "title": "Iestādes lēmuma un rīcības kontrole",
+      "content": "(1) Iestādes izdoto administratīvo aktu par atteikumu sniegt informāciju vai izpildīt informācijas pieprasījumu, kā arī faktisko rīcību, kas izpaudusies kā informācijas nesniegšana vai nepienācīga sniegšana, var apstrīdēt un pārsūdzēt Administratīvā procesa likumā noteiktajā kārtībā.\n(2) Administratīvās rajona tiesas spriedumu var pārsūdzēt kasācijas kārtībā Augstākās tiesas Senāta Administratīvo lietu departamentā.\n(3) Ja informācijas pieprasījums saņemts elektroniskā veidā un normatīvajos aktos noteiktajā kārtībā nav parakstīts ar elektronisko parakstu, tā iesniedzējs nav tiesīgs prasīt informācijas sniegšanu tiesas ceļā."
     },
     {
       "provision_ref": "Art. 16",
-      "chapter": "Chapter VI - Supervision and Remedies",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
       "section": "16",
-      "title": "Liability for Violations",
-      "content": "Officials who unlawfully refuse to provide information, provide inaccurate information, or fail to comply with proactive publication obligations may be subject to disciplinary, administrative, or criminal liability, depending on the nature and severity of the violation. The intentional destruction or concealment of publicly accessible information constitutes an aggravating circumstance."
+      "title": "Ierobežotas pieejamības informācijas aizsardzība",
+      "content": "(1) Iestāde nodrošina, lai pienākumu saglabāt ierobežotas pieejamības informāciju zina visas personas, uz kurām šis pienākums attiecas, ja likumā nav noteikts citādi. No personām, kuras apstrādā ierobežotas pieejamības informāciju, pieprasa rakstveida apliecinājumu, ka tās noteikumus zina un apņemas tos ievērot.\n(2) Ja sakarā ar ierobežotas pieejamības informācijas nelikumīgu izpaušanu tās īpašniekam vai citai personai radīts kaitējums vai būtiski aizskartas to likumiskās intereses, šīs personas ir tiesīgas prasīt kaitējuma atlīdzināšanu vai aizskarto tiesību atjaunošanu.\n(3) Ja persona neatļauti izpaudusi informāciju, kas atzīta par ierobežotas pieejamības informāciju, tā saucama pie disciplināratbildības vai kriminālatbildības."
+    },
+    {
+      "provision_ref": "Art. 17",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
+      "section": "17",
+      "title": "Informācijas atkalizmantošanas nosacījumi",
+      "content": "Iestāde, neierobežojot konkurenci, var paredzēt atkalizmantošanas nosacījumus."
+    },
+    {
+      "provision_ref": "Art. 18",
+      "chapter": "III nodaļa Informācijas sniegšana, atkalizmantošana un informācijas pieprasītāja tiesību aizsardzība (Nodaļas nosaukums 22.12.2005 . likuma redakcijā, kas stājas spēkā 01.02.2006. )",
+      "section": "18",
+      "title": "Ekskluzīva vienošanās",
+      "content": "(1) Ir aizliegts piešķirt ekskluzīvas tiesības informācijas atkalizmantošanai, izņemot gadījumu, kad ekskluzīvas tiesības nepieciešamas, lai sniegtu informācijas sabiedrības pakalpojumus sabiedrības interesēs. Šādas vienošanās ir atklātas, un tās tiek publicētas. Vienošanās pamatotību pārskata ne retāk kā reizi trijos gados.\n(2) Kārtību, kādā tiek piešķirtas ekskluzīvas tiesības un publiskota informācija par šādu tiesību piešķiršanu, nosaka Ministru kabinets.\n(3) Iestādei bez maksas nodrošina uz ekskluzīvas vienošanās pamata digitalizēto kultūras resursu kopiju, kas pieejama atkalizmantošanai pēc noteiktā ekskluzivitātes laika beigām.\n(4) Ja uz kultūras resursu digitalizāciju attiecas ekskluzīvas tiesības informācijas atkalizmantošanai, šādas ekskluzivitātes laiks nepārsniedz 10 gadus."
     }
   ],
   "definitions": [
     {
-      "term": "Institution",
-      "definition": "A state or local government institution, derived public legal entity, or private entity performing delegated public administration functions.",
-      "source_provision": "Art. 2"
+      "term": "informācija",
+      "definition": "ziņa vai ziņu kopums jebkurā tehniski iespējamā fiksēšanas, uzglabāšanas vai nodošanas veidā",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Information request",
-      "definition": "A request submitted by a person to an institution for the provision of information held by that institution.",
-      "source_provision": "Art. 6"
+      "term": "informācijas aprite",
+      "definition": "informācijas ierosināšana, radīšana, apkopošana, uzkrāšana, apstrādāšana, lietošana un iznīcināšana",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Restricted-access information",
-      "definition": "Information whose disclosure is restricted by law to protect national security, personal data, commercial secrets, or other specified interests.",
-      "source_provision": "Art. 9"
+      "term": "dokumentēta informācija",
+      "definition": "informācija, kuras iekļūšanu informācijas apritē var identificēt",
+      "source_provision": "Art. 1"
     },
     {
-      "term": "Open data",
-      "definition": "Publicly available datasets published in machine-readable formats, free of charge and without restrictions on re-use.",
-      "source_provision": "Art. 5"
+      "term": "iestāde",
+      "definition": "publiska persona, tās institūcija vai amatpersona, kā arī persona, kas īsteno tai deleģētos valsts pārvaldes uzdevumus, ja šī persona informācijas apritē ir saistīta ar attiecīgo uzdevumu izpildi",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atkalizmantošana",
+      "definition": "iestādes rīcībā esošas un iestādes radītas vispārpieejamas informācijas izmantošana komerciālam vai nekomerciālam mērķim, kas nav šīs informācijas radīšanas sākotnējais mērķis, ja to dara privātpersona, kura iestādes rīcībā esošo informāciju izmanto, neveicot valsts pārvaldes uzdevumus",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "atvērtie dati",
+      "definition": "brīvi pieejama bezmaksas informācija bez atkalizmantošanas ierobežojumiem, kuru var rediģēt un automatizēti apstrādāt ar brīvi pieejamām lietojumprogrammām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "metadati",
+      "definition": "strukturēta informācija, kas raksturo konkrētu informācijas kopumu",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "augstvērtīgas datu kopas",
+      "definition": "dokumenti, kuru atkalizmantošana potenciālo lietotāju skaita dēļ ir saistīta ar svarīgiem ieguvumiem sabiedrībai, videi un ekonomikai, jo īpaši gadījumos, kad tie ir piemēroti, lai radītu pakalpojumus ar pievienoto vērtību, lietojumus un jaunas un pienācīgas augstas kvalitātes darbavietas, un pakalpojumus ar pievienoto vērtību un lietojumus, kas balstās uz minētajām datu kopām",
+      "source_provision": "Art. 1"
+    },
+    {
+      "term": "dinamiskie dati",
+      "definition": "digitāli dokumenti, kurus bieži vai reāllaikā atjaunina to nepastāvīguma vai straujas novecošanas dēļ (sensoru ģenerētus datus parasti uzskata par dinamiskajiem datiem).",
+      "source_provision": "Art. 1"
     }
   ]
 }
