@@ -32,17 +32,27 @@ function normalizeSection(sectionRaw: string): string {
 function extractRawArticleSections(html: string): string[] {
   const sections: string[] = [];
   const seen = new Set<string>();
-  const startTagRegex = /<div[^>]*class=['"][^'"]*TV213[^'"]*['"][^>]*data-pfx=['"]p['"][^>]*>/gi;
+  const startTagRegex = /<div[^>]*class=['"][^'"]*TV213[^'"]*['"][^>]*data-pfx=['"](?:p|pn)['"][^>]*>/gi;
 
   let match: RegExpExecArray | null;
   while ((match = startTagRegex.exec(html)) !== null) {
+    const tag = match[0];
+    const prefix = tag.match(/data-pfx=['"]([^'"]+)['"]/i)?.[1] ?? 'p';
     const window = html.slice(match.index, Math.min(html.length, match.index + 600));
-    const sectionRaw = window.match(/<a\s+name=['"]p([^'"]+)['"]/i)?.[1]
+    const sectionRaw = prefix === 'pn'
+      ? (
+        window.match(/<a\s+name=['"]pn([^'"]+)['"]/i)?.[1]
+        ?? window.match(/data-num=['"]([^'"]+)['"]/i)?.[1]
+      )
+      : (
+        window.match(/<a\s+name=['"]p([^'"]+)['"]/i)?.[1]
       ?? window.match(/data-num=['"]([^'"]+)['"]/i)?.[1]
-      ?? null;
+      );
     if (!sectionRaw) continue;
 
-    const section = normalizeSection(sectionRaw);
+    const section = prefix === 'pn'
+      ? `pn${normalizeSection(sectionRaw)}`
+      : normalizeSection(sectionRaw);
     if (!section || seen.has(section)) continue;
     seen.add(section);
     sections.push(section);

@@ -237,6 +237,7 @@ function findCurrentChapter(chapters: ChapterMarker[], pos: number): string | un
 interface ArticleStart {
   pos: number;
   tag: string;
+  prefix: string;
 }
 
 interface ExtractedArticle {
@@ -260,10 +261,11 @@ function extractArticleBlocks(html: string): ExtractedArticle[] {
     }
 
     if (/TV213/i.test(tag)) {
-      if (/data-pfx=['"]p['"]/i.test(tag)) {
-        starts.push({ pos, tag });
+      const prefix = tag.match(/data-pfx=['"]([^'"]+)['"]/i)?.[1] ?? '';
+      if (prefix === 'p' || prefix === 'pn') {
+        starts.push({ pos, tag, prefix });
         boundaries.add(pos);
-      } else if (/data-pfx=['"]pn['"]/i.test(tag)) {
+      } else if (prefix) {
         boundaries.add(pos);
       }
     }
@@ -283,6 +285,18 @@ function extractArticleBlocks(html: string): ExtractedArticle[] {
 }
 
 function deriveSection(startTag: string, articleHtml: string): string | undefined {
+  const prefix = startTag.match(/data-pfx=['"]([^'"]+)['"]/i)?.[1] ?? 'p';
+
+  if (prefix === 'pn') {
+    const fromAnchor = articleHtml.match(/<a\s+name=['"]pn([^'"]+)['"]/i)?.[1];
+    if (fromAnchor) return `pn${normalizeSection(fromAnchor)}`;
+
+    const fromDataNum = startTag.match(/data-num=['"]([^'"]+)['"]/i)?.[1];
+    if (fromDataNum) return `pn${normalizeSection(fromDataNum)}`;
+
+    return undefined;
+  }
+
   const fromAnchor = articleHtml.match(/<a\s+name=['"]p([^'"]+)['"]/i)?.[1];
   if (fromAnchor) return normalizeSection(fromAnchor);
 
@@ -309,18 +323,20 @@ function deriveTitle(articleHtml: string, section: string): string {
 function deriveContent(articleHtml: string): string {
   const paragraphs: string[] = [];
   const fallbackNotes: string[] = [];
+  const headingTexts: string[] = [];
   const pRe = /<p([^>]*)>([\s\S]*?)<\/p>/gi;
   let match: RegExpExecArray | null;
 
   while ((match = pRe.exec(articleHtml)) !== null) {
     const attrs = match[1];
     const className = (attrs.match(/class=['"]([^'"]*)['"]/i)?.[1] ?? '').toLowerCase();
-    if (className.includes('tvp')) {
-      continue;
-    }
-
     const text = htmlToText(match[2]);
     if (!text) continue;
+
+    if (className.includes('tvp')) {
+      headingTexts.push(text);
+      continue;
+    }
 
     if (className.includes('labojumu_pamats')) {
       // Keep amendment-note text as a fallback for sections that were repealed.
@@ -336,6 +352,9 @@ function deriveContent(articleHtml: string): string {
   }
   if (fallbackNotes.length > 0) {
     return fallbackNotes.join('\n').trim();
+  }
+  if (headingTexts.length > 0) {
+    return headingTexts.join('\n').trim();
   }
   return '';
 }
@@ -419,9 +438,12 @@ export function parseLatvianHtml(html: string, act: ActIndexEntry, enHtml?: stri
 
     const chapter = findCurrentChapter(chapters, block.start.pos);
     const title = deriveTitle(block.html, section);
+    const provisionRef = section.startsWith('pn')
+      ? `PN ${section.slice(2)}`
+      : `Art. ${section}`;
 
     provisions.push({
-      provision_ref: `Art. ${section}`,
+      provision_ref: provisionRef,
       chapter,
       section,
       title,
