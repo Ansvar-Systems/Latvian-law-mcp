@@ -308,21 +308,36 @@ function deriveTitle(articleHtml: string, section: string): string {
 
 function deriveContent(articleHtml: string): string {
   const paragraphs: string[] = [];
-  const pRe = /<p[^>]*class=['"]([^'"]*TV213[^'"]*)['"][^>]*>([\s\S]*?)<\/p>/gi;
+  const fallbackNotes: string[] = [];
+  const pRe = /<p([^>]*)>([\s\S]*?)<\/p>/gi;
   let match: RegExpExecArray | null;
 
   while ((match = pRe.exec(articleHtml)) !== null) {
-    const className = match[1].toLowerCase();
-    if (className.includes('tvp') || className.includes('labojumu_pamats')) {
+    const attrs = match[1];
+    const className = (attrs.match(/class=['"]([^'"]*)['"]/i)?.[1] ?? '').toLowerCase();
+    if (className.includes('tvp')) {
       continue;
     }
 
     const text = htmlToText(match[2]);
     if (!text) continue;
+
+    if (className.includes('labojumu_pamats')) {
+      // Keep amendment-note text as a fallback for sections that were repealed.
+      fallbackNotes.push(text);
+      continue;
+    }
+
     paragraphs.push(text);
   }
 
-  return paragraphs.join('\n').trim();
+  if (paragraphs.length > 0) {
+    return paragraphs.join('\n').trim();
+  }
+  if (fallbackNotes.length > 0) {
+    return fallbackNotes.join('\n').trim();
+  }
+  return '';
 }
 
 function extractDefinitions(provisions: ParsedProvision[]): ParsedDefinition[] {
@@ -503,6 +518,5 @@ export const KEY_LATVIAN_ACTS: ActIndexEntry[] = [
     likumiId: 88966,
     slug: 'kriminallikums',
     shortName: 'KL-XVII',
-    allowedSections: ['241', '242', '243', '244', '244.1', '245'],
   },
 ];
