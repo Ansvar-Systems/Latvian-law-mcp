@@ -25,39 +25,41 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
   const caps = detectCapabilities(db);
   const meta = readDbMetadata(db);
 
+  const euRefs = safeCount(db, 'SELECT COUNT(*) as count FROM eu_references');
+
+  const stats: Record<string, number> = {
+    documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
+    provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
+    definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
+  };
+
+  if (euRefs > 0) {
+    stats.eu_documents = safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents');
+    stats.eu_references = euRefs;
+  }
+
   return {
-    server: SERVER_NAME,
+    name: 'Latvian Law MCP',
     version: context.version,
-    repository: REPOSITORY_URL,
-    database: {
-      fingerprint: context.fingerprint,
-      built_at: context.dbBuilt,
-      tier: meta.tier,
-      schema_version: meta.schema_version,
-      capabilities: [...caps],
+    jurisdiction: 'LV',
+    description: 'Latvian Law MCP — legislation via Model Context Protocol',
+    stats,
+    data_sources: [
+      {
+        name: 'Likumi.lv',
+        url: 'https://likumi.lv',
+        authority: 'Official Gazette of Latvia (Latvijas Vestnesis)',
+      },
+    ],
+    freshness: {
+      database_built: context.dbBuilt,
     },
-    statistics: {
-      documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
-      provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
-      definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
-      eu_documents: safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents'),
-      eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
-    },
-    disclaimer: 'This is a research tool, not legal advice. Verify critical citations against official sources.',
+    disclaimer:
+      'This is a research tool, not legal advice. Verify critical citations against official sources.',
     network: {
       name: 'Ansvar MCP Network',
       open_law: 'https://ansvar.eu/open-law',
       directory: 'https://ansvar.ai/mcp',
-      total_servers: 83,
-      law_jurisdictions: 70,
-    },
-    data_source: {
-      name: 'Likumi.lv',
-      authority: 'Latvijas Vēstnesis (Official Gazette of Latvia)',
-      url: 'https://www.likumi.lv',
-      license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-      jurisdiction: 'LV',
-      languages: ['en'],
     },
   };
 }

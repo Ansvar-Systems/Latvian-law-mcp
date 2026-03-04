@@ -1,19 +1,25 @@
 /**
  * Tests for Latvian Law MCP tools.
  * Runs against the built database to verify seed data and tool functions.
+ *
+ * Skipped automatically when data/database.db is absent (e.g. CI without build step).
  */
 
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import Database from 'better-sqlite3';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { existsSync } from 'fs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const DB_PATH = join(__dirname, '..', '..', 'data', 'database.db');
 
+const DB_EXISTS = existsSync(DB_PATH);
+
 let db: InstanceType<typeof Database>;
 
 beforeAll(() => {
+  if (!DB_EXISTS) return;
   db = new Database(DB_PATH, { readonly: true });
   db.pragma('foreign_keys = ON');
 });
@@ -22,7 +28,7 @@ afterAll(() => {
   if (db) db.close();
 });
 
-describe('database integrity', () => {
+describe.skipIf(!DB_EXISTS)('database integrity', () => {
   it('should have at least the core 10 legal documents', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_documents').get() as { cnt: number };
     expect(row.cnt).toBeGreaterThanOrEqual(10);
@@ -59,7 +65,7 @@ describe('database integrity', () => {
   });
 });
 
-describe('Personal Data Processing Law', () => {
+describe.skipIf(!DB_EXISTS)('Personal Data Processing Law', () => {
   it('should find Personal Data Processing Law', () => {
     const row = db.prepare(
       "SELECT id FROM legal_documents WHERE id = 'lv-personal-data-processing-law'"
@@ -83,7 +89,7 @@ describe('Personal Data Processing Law', () => {
   });
 });
 
-describe('IT Security Law', () => {
+describe.skipIf(!DB_EXISTS)('IT Security Law', () => {
   it('should find IT Security Law', () => {
     const row = db.prepare(
       "SELECT id FROM legal_documents WHERE id = 'lv-it-security-law'"
@@ -101,7 +107,7 @@ describe('IT Security Law', () => {
   });
 });
 
-describe('FTS5 search', () => {
+describe.skipIf(!DB_EXISTS)('FTS5 search', () => {
   it('should find provisions matching "personas datu"', () => {
     const rows = db.prepare(
       "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH '\"personas datu\"'"
@@ -117,7 +123,7 @@ describe('FTS5 search', () => {
   });
 });
 
-describe('negative cases', () => {
+describe.skipIf(!DB_EXISTS)('negative cases', () => {
   it('should return no results for non-existent document', () => {
     const row = db.prepare(
       "SELECT id FROM legal_documents WHERE id = 'nonexistent-law-2099'"
