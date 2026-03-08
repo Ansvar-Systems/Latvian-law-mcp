@@ -12,7 +12,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DB_PATH = path.resolve(__dirname, '../../data/database.db');
-const dbAvailable = fs.existsSync(DB_PATH) && (() => {
+const dbAvailable = existsSync(DB_PATH) && (() => {
   try {
     const _db = new Database(DB_PATH, { readonly: true });
     const _row = _db.prepare("SELECT COUNT(*) as cnt FROM sqlite_master WHERE type='table' AND name='legal_documents'").get() as { cnt: number } | undefined;
