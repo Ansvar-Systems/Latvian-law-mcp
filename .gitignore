@@ -11,3 +11,6 @@ data/source/
 .serena/
 data/database.db-shm
 data/database.db-wal
+data/*.db
+data/*.db-shm
+data/*.db-wal
