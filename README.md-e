@@ -40,12 +40,12 @@ This MCP server makes Latvian law **searchable, cross-referenceable, and AI-read
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-lv/mcp`
+**Endpoint:** `https://latvian-law-mcp.vercel.app/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add latvian-law --transport http https://mcp.ansvar.eu/law-lv/mcp` |
+| **Claude Code** | `claude mcp add latvian-law --transport http https://latvian-law-mcp.vercel.app/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -56,7 +56,7 @@ This MCP server makes Latvian law **searchable, cross-referenceable, and AI-read
   "mcpServers": {
     "latvian-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-lv/mcp"
+      "url": "https://latvian-law-mcp.vercel.app/mcp"
     }
   }
 }
@@ -69,7 +69,7 @@ This MCP server makes Latvian law **searchable, cross-referenceable, and AI-read
   "github.copilot.chat.mcp.servers": {
     "latvian-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-lv/mcp"
+      "url": "https://latvian-law-mcp.vercel.app/mcp"
     }
   }
 }

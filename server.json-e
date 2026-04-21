@@ -24,7 +24,7 @@
       "version": "1.0.2",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-latvian-law-mcp/mcp"
+        "url": "https://latvian-law-mcp.vercel.app/mcp"
       }
     }
   ]
