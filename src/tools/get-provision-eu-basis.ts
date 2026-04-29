@@ -4,7 +4,7 @@
 
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 
 export interface GetProvisionEUBasisInput {
   document_id: string;
@@ -27,7 +27,7 @@ export async function getProvisionEUBasis(
 ): Promise<ToolResponse<ProvisionEUBasisResult[]>> {
   const resolvedId = resolveDocumentId(db, input.document_id);
   if (!resolvedId) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], ...generateResponseEnvelope(db) };
   }
 
   try {
@@ -35,10 +35,7 @@ export async function getProvisionEUBasis(
   } catch {
     return {
       results: [],
-      _metadata: {
-        ...generateResponseMetadata(db),
-        ...{ note: 'EU references not available in this database tier' },
-      },
+      ...generateResponseEnvelope(db, { note: 'EU references not available in this database tier' }),
     };
   }
 
@@ -49,7 +46,7 @@ export async function getProvisionEUBasis(
   ).get(resolvedId, ref, `s${ref}`, ref) as { id: number } | undefined;
 
   if (!provision) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], ...generateResponseEnvelope(db) };
   }
 
   const rows = db.prepare(`
@@ -67,5 +64,5 @@ export async function getProvisionEUBasis(
     ORDER BY er.reference_type, er.eu_document_id
   `).all(provision.id) as ProvisionEUBasisResult[];
 
-  return { results: rows, _metadata: generateResponseMetadata(db) };
+  return { results: rows, ...generateResponseEnvelope(db) };
 }
