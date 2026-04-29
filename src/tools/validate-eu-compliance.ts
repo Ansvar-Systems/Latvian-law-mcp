@@ -4,7 +4,7 @@
 
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 
 export interface ValidateEUComplianceInput {
   document_id: string;
@@ -36,7 +36,7 @@ export async function validateEUCompliance(
         warnings: [`Document not found: "${input.document_id}"`],
         recommendations: [],
       },
-      _metadata: generateResponseMetadata(db),
+      ...generateResponseEnvelope(db),
     };
   }
 
@@ -70,7 +70,7 @@ export async function validateEUCompliance(
         warnings: ['EU references not available in this database tier'],
         recommendations: [],
       },
-      _metadata: generateResponseMetadata(db),
+      ...generateResponseEnvelope(db),
     };
   }
 
@@ -84,7 +84,7 @@ export async function validateEUCompliance(
         warnings: [],
         recommendations: ['No EU cross-references found for this Latvian statute. Latvia is an EU Member State; EU references indicate transposition obligations.'],
       },
-      _metadata: generateResponseMetadata(db),
+      ...generateResponseEnvelope(db),
     };
   }
 
@@ -125,6 +125,6 @@ export async function validateEUCompliance(
       warnings,
       recommendations,
     },
-    _metadata: generateResponseMetadata(db),
+    ...generateResponseEnvelope(db),
   };
 }
