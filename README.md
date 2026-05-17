@@ -362,7 +362,7 @@ Apache License 2.0. See [LICENSE](./LICENSE) for details.
 
 ### Data Licenses
 
-- **Statutes & Legislation:** Republic of Latvia (public domain government works, via likumi.lv)
+- **Statutes & Legislation:** `LV-Statutory-PD` — Latvian statutory public domain under Autortiesību likums §6, which excludes normative and administrative acts, other documents issued by State and local-government authorities, court rulings, official translations, official consolidations, and statutorily-mandated maps from copyright protection. Verbatim basis: [likumi.lv consolidated text](https://likumi.lv/ta/id/5138-autortiesibu-likums) (in force from 05.04.2023). Commercial reuse permitted, no attribution required, no share-alike. See the Ansvar license catalog and the 2026-05-17 EU statutory-works verbatim audit for the full reading.
 - **EU Metadata:** EUR-Lex (EU public domain)
 
 ---
