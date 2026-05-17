@@ -10,9 +10,9 @@ sources:
     update_frequency: "weekly"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Latvian Government Open Data (public domain under Latvian Copyright Law Art. 6)"
-      url: "https://likumi.lv"
-      summary: "Official legislative texts are public domain"
+      type: "LV-Statutory-PD"
+      url: "https://likumi.lv/ta/id/5138-autortiesibu-likums"
+      summary: "Autortiesību likums §6 places statutes, administrative acts, other documents issued by State and local-government authorities, court rulings, official translations, official consolidations, and statutorily-mandated maps outside copyright protection. Verified verbatim 2026-05-17 against likumi.lv consolidated text (in force from 05.04.2023)."
     coverage:
       scope: "Corpus-scale Latvian statute coverage (Likumi.lv acts with statute naming patterns, including core digital/compliance laws and constitutional baseline)"
       limitations: "Non-statutory act classes (orders, regulations, notices) are excluded from corpus mode; a small subset of acts may remain empty where no parseable provision structure exists on source pages."
