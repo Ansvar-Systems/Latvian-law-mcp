@@ -4,7 +4,7 @@
 
 import type Database from '@ansvar/mcp-sqlite';
 import { readDbMetadata } from '../capabilities.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 
 export interface SourceInfo {
   name: string;
@@ -63,6 +63,6 @@ export async function listSources(
         provision_count: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
       },
     },
-    _metadata: generateResponseMetadata(db),
+    ...generateResponseEnvelope(db),
   };
 }

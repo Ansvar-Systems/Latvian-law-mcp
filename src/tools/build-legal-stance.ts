@@ -5,7 +5,7 @@
 import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, buildLikePattern, sanitizeFtsInput } from '../utils/fts-query.js';
 import { resolveDocumentId } from '../utils/statute-id.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 
 export interface BuildLegalStanceInput {
   query: string;
@@ -28,7 +28,7 @@ export async function buildLegalStance(
   input: BuildLegalStanceInput,
 ): Promise<ToolResponse<LegalStanceResult[]>> {
   if (!input.query || input.query.trim().length === 0) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], ...generateResponseEnvelope(db) };
   }
 
   const limit = Math.min(Math.max(input.limit ?? 5, 1), 20);
@@ -43,10 +43,9 @@ export async function buildLegalStance(
     if (!resolved) {
       return {
         results: [],
-        _metadata: {
-          ...generateResponseMetadata(db),
-          note: `No document found matching "${input.document_id}"`,
-        },
+        isError: true,
+        _error_type: 'NO_MATCH',
+        ...generateResponseEnvelope(db, { note: `No document found matching "${input.document_id}".` }),
       };
     }
   }
@@ -84,10 +83,7 @@ export async function buildLegalStance(
         const deduped = deduplicateResults(rows, limit);
         return {
           results: deduped,
-          _metadata: {
-            ...generateResponseMetadata(db),
-            ...(queryStrategy === 'fallback' ? { query_strategy: 'broadened' } : {}),
-          },
+          ...generateResponseEnvelope(db, queryStrategy === 'fallback' ? { query_strategy: 'broadened' } : {}),
         };
       }
     } catch {
@@ -126,10 +122,7 @@ export async function buildLegalStance(
       if (rows.length > 0) {
         return {
           results: deduplicateResults(rows, limit),
-          _metadata: {
-            ...generateResponseMetadata(db),
-            query_strategy: 'like_fallback',
-          },
+          ...generateResponseEnvelope(db, { query_strategy: 'like_fallback' }),
         };
       }
     } catch {
@@ -137,7 +130,7 @@ export async function buildLegalStance(
     }
   }
 
-  return { results: [], _metadata: generateResponseMetadata(db) };
+  return { results: [], ...generateResponseEnvelope(db) };
 }
 
 /**

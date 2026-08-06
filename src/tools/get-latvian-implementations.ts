@@ -3,7 +3,7 @@
  */
 
 import type Database from '@ansvar/mcp-sqlite';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 
 export interface GetLatvianImplementationsInput {
   eu_document_id: string;
@@ -30,10 +30,7 @@ export async function getLatvianImplementations(
   } catch {
     return {
       results: [],
-      _metadata: {
-        ...generateResponseMetadata(db),
-        ...{ note: 'EU references not available in this database tier' },
-      },
+      ...generateResponseEnvelope(db, { note: 'EU references not available in this database tier' }),
     };
   }
 
@@ -63,5 +60,5 @@ export async function getLatvianImplementations(
   sql += ' GROUP BY ld.id, er.reference_type ORDER BY is_primary DESC, reference_count DESC';
 
   const rows = db.prepare(sql).all(...params) as LatvianImplementationResult[];
-  return { results: rows, _metadata: generateResponseMetadata(db) };
+  return { results: rows, ...generateResponseEnvelope(db) };
 }

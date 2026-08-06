@@ -4,7 +4,7 @@
 
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 import { buildProvisionCitation } from '../utils/citation.js';
 
 export interface GetProvisionInput {
@@ -34,10 +34,9 @@ export async function getProvision(
   if (!resolvedId) {
     return {
       results: [],
-      _metadata: {
-        ...generateResponseMetadata(db),
-        ...{ note: `No document found matching "${input.document_id}"` },
-      },
+      isError: true,
+      _error_type: 'NO_MATCH',
+      ...generateResponseEnvelope(db, { note: `No document found matching "${input.document_id}". Try search_legislation to discover available laws.` }),
     };
   }
 
@@ -45,7 +44,7 @@ export async function getProvision(
     'SELECT id, title, url FROM legal_documents WHERE id = ?'
   ).get(resolvedId) as { id: string; title: string; url: string | null } | undefined;
   if (!docRow) {
-    return { results: [], _metadata: generateResponseMetadata(db) };
+    return { results: [], ...generateResponseEnvelope(db) };
   }
 
   // Specific provision lookup
@@ -102,16 +101,15 @@ export async function getProvision(
           docRow.url || null,
           null,
         ),
-        _metadata: generateResponseMetadata(db),
+        ...generateResponseEnvelope(db),
       };
     }
 
     return {
       results: [],
-      _metadata: {
-        ...generateResponseMetadata(db),
-        ...{ note: `Provision "${ref}" not found in document "${resolvedId}"` },
-      },
+      isError: true,
+      _error_type: 'NO_MATCH',
+      ...generateResponseEnvelope(db, { note: `Provision "${ref}" not found in document "${resolvedId}".` }),
     };
   }
 
@@ -132,6 +130,6 @@ export async function getProvision(
       section_number: String(p.provision_ref).replace(/^s/, ''),
       url: docRow.url ?? undefined,
     })),
-    _metadata: generateResponseMetadata(db),
+    ...generateResponseEnvelope(db),
   };
 }

@@ -4,7 +4,7 @@
 
 import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
-import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
+import { generateResponseEnvelope, type ToolResponse } from '../utils/metadata.js';
 
 export interface ValidateCitationInput {
   citation: string;
@@ -75,7 +75,7 @@ export async function validateCitationTool(
         citation: input.citation,
         warnings: ['Could not parse citation format'],
       },
-      _metadata: generateResponseMetadata(db),
+      ...generateResponseEnvelope(db),
     };
   }
 
@@ -87,7 +87,7 @@ export async function validateCitationTool(
         citation: input.citation,
         warnings: [`Document not found: "${parsed.documentRef}"`],
       },
-      _metadata: generateResponseMetadata(db),
+      ...generateResponseEnvelope(db),
     };
   }
 
@@ -117,7 +117,7 @@ export async function validateCitationTool(
           document_title: doc.title,
           warnings: [...warnings, `Provision "Section ${parsed.sectionRef}" not found in ${doc.title}`],
         },
-        _metadata: generateResponseMetadata(db),
+        ...generateResponseEnvelope(db),
       };
     }
 
@@ -132,7 +132,7 @@ export async function validateCitationTool(
         status: doc.status,
         warnings,
       },
-      _metadata: generateResponseMetadata(db),
+      ...generateResponseEnvelope(db),
     };
   }
 
@@ -146,6 +146,6 @@ export async function validateCitationTool(
       status: doc.status,
       warnings,
     },
-    _metadata: generateResponseMetadata(db),
+    ...generateResponseEnvelope(db),
   };
 }
