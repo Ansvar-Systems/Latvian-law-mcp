@@ -1,6 +1,6 @@
 /**
  * Tool registry for Latvian Law MCP Server.
- * Shared between stdio (index.ts) and HTTP (api/mcp.ts) entry points.
+ * Shared between stdio (index.ts) and HTTP (http-server.ts) entry points.
  */
 
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
